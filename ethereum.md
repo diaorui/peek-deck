@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T15:37:34.881924+00:00'
+updated: '2026-07-31T17:37:36.692796+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 15:37 UTC  
+**Last Updated:** July 31, 2026 at 17:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,872.24
+### $1,864.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -0.6%  
-**30d:** +9.6%  
-**90d:** -19.8%  
-**1y:** -46.6%  
+**24h:** -2.1%  
+**7d:** +0.0%  
+**30d:** +10.3%  
+**90d:** -19.3%  
+**1y:** -46.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.90B
+**Market Cap:** $225.82B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.5%
+-62.2%
 
 **All-Time Low:** $0.43
-+428465.8%
++432073.4%
 
 ---
 
@@ -164,13 +164,7 @@ ethereum.org • 2d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
-
-MarketWatch • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -179,6 +173,12 @@ MarketWatch • 1h ago
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
 CoinDesk • 1d ago
+
+---
+
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 3h ago
 
 ---
 
@@ -194,15 +194,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 11h ago
-
----
-
-**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+FXStreet • 13h ago
 
 ---
 
@@ -218,7 +210,15 @@ CoinMarketCap • 2d ago
 
 After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
 
-Pensions & Investments • 19h ago
+pionline.com • 21h ago
+
+---
+
+**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 340 • 💬 14 • ⏱️ 34:32 • 5h ago
+👁️ 4K • 👍 340 • 💬 14 • ⏱️ 34:32 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 936 • 👍 413 • 32m ago
+👁️ 936 • 👍 413 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 524 • 👍 21 • 💬 6 • ⏱️ 2:58 • 17h ago
+👁️ 524 • 👍 21 • 💬 6 • ⏱️ 2:58 • 19h ago
 
 ---
 
@@ -300,7 +300,7 @@ Ethereum hits a 3-month high against Bitcoin. Is this a true reversal or just a 
 
 📺 MONEY GAME
 
-👁️ 52 • 👍 2 • 💬 15 • ⏱️ 1:01 • 3h ago
+👁️ 52 • 👍 2 • 💬 15 • ⏱️ 1:01 • 5h ago
 
 ---
 
@@ -320,7 +320,7 @@ ASSINE GEMAS Altcoins - (R$100/mês): https://pay.hotmart.com/Y93614691E https:/
 
 📺 Trade with Renato Ulianov
 
-👁️ 182 • 👍 36 • 💬 1 • ⏱️ 3:09 • 1h ago
+👁️ 182 • 👍 36 • 💬 1 • ⏱️ 3:09 • 3h ago
 
 ---
 

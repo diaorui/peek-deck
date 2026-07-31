@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T15:37:34.875801+00:00'
+updated: '2026-07-31T17:37:36.687387+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 15:37 UTC  
+**Last Updated:** July 31, 2026 at 17:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,442.91
+### $63,067.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.4%  
-**7d:** -2.6%  
-**30d:** +1.8%  
-**90d:** -20.2%  
-**1y:** -44.7%  
+**24h:** -2.5%  
+**7d:** -2.0%  
+**30d:** +2.5%  
+**90d:** -19.7%  
+**1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1254.25B
+**Market Cap:** $1263.76B
 Rank #1
 
-**Circulating Supply:** 20,063,759 BTC
+**Circulating Supply:** 20,063,796 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.4%
+-50.0%
 
 **All-Time Low:** $67.81
-+92100.3%
++92787.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Today's episode literally killed the faith of several hardcore old time bitcoiners and I'm shaken too, not going to lie. Even more than the FTX collapse. Why? The mantra "not your keys, not your coins" was already widely spread out due to the MTX episode, so most bitcoiners were prepared and learned the lesson the first time. What happened today is way deeper, because the mantra "don't trust, verify" is more complex. Everyone can simply not trust, that part is fine, but what about the "verify" part? Not everyone can to a deep dive analysis on the RNG of a software wallet. More than that, most people have no clue what these things are. And then they say open source code compensates for that. "Well, if I can't verify by myself, at least I'm using open source SW, there are THOUSANDS of well-trained eyes and programmers watching this code, surely nothing bad could happen, right?". And even so, half a decade later, we get this. That's horrible to the community and I'm really sad with all the horror stories emerging. Is the future mantra going to be "not your 128+bit-true-entrophy-multisig+passphrase-setup-keys, not your coins"?
 
-9h ago
+11h ago
 
 ---
 
 **[User lost 3 btc due to Coldcard hack. Check your btc and move it to be safe](https://www.reddit.com/r/Bitcoin/comments/1vbgwu9/user_lost_3_btc_due_to_coldcard_hack_check_your/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Today's episode literally killed the faith of several hardcore old time bitcoine
 
 This is me… https://www.reddit.com/r/Bitcoin/s/UeSfLoeyS4 I’m in a better state now. It’s not the end of the world, but it’s a lot of fucking money… Little background: The setup was IRA custodian is Solera National Bank, exchange at Swan Bitcoin was used as an Investment Trust, purchase a dedicated hardware wallets: coldcard mk3 from https://store.coinkite.com May 2021 for this ROTH IRA. Got the wallets, followed all the setup/checks/balances from https://youtu.be/FAYmE5-40PQ?is=wiYMHaS_YGKHjNOY for both wallets, sent a test transaction IRA dedicated hardware wallet (2021). I never setup a 25th Passphrase… REST of the BTC stayed in Swan Exchange. Speaking only on this IRA Wallet: SD card stored with wallet details (paper phrase) in a baggie. Dormant until January 2025. I couldn’t deposit more because of Roth IRA threshold. Come January 2025, been learning more about retirement, BTC, multi-Sig, and heard about a Megaback Door to get more money into a Roth IRA. Was able to get money into Solera, transfer to Swan, and purchase more BTC and withdraw to the same wallet address. No new hardware involved at this point. With newer wallets now, I thought newer tech means more security. Let’s test by buying (3 mk4 - same site. There was still record of my 2021 purchase) new wallets and setup a multi-Sig. (still January 2025) For some reason, when I got the new coldcards, I never did anything with them for all of 2025, I guess I was too lazy/daunting to use the hardware and relearn. Coming to January 2026 now, I decided to use these new cards. I dug out the wallet seed (from 2021) phrase paper. Dusted off one of the mk4, walked into the corner of a room in my house (only myself and partner live in the house), plugged in the cold card into an outlet and typed in the seed written down from 2021 (stored in my dresser). Restored my 2021 onto one of the new wallet 2025. Watched updated BTCSession videos on my phone to set everything up again. I never plugged into a computer, since airgapped was the reason I got the coldcards. I used the same SD Card from 2021 though to export the wallet file from the newly restored coldcard. Import that file into Sparrow (needed to update Sparrow at this point), generated a watch-only wallet QR (to scan for my phone) for Blue Wallet to check frequently. This is where the screenshot is from. Honestly, I haven’t touched the wallet with any transactions/seeds since January 2026. This is definitely the point of failure when I restored the 2021 wallet (now on 2 devices). This was the transaction. https://mempool.space/tx/2fe075cf0ec799f3529ed6a28e0a08b45fe1fc9bd93c3f33bdbc42d5bff4f736 My wallet address is (with all transactions, since it’s gone now…): bc1qldkfrrlylk4s9sdyns9jkaajuzugl0dv5m8fxj My key takeaway now never enter the seed phrase into anything. EVER. Even to restore. Always will generate new and use a 25th passphrase.
 
-18h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ This is me… https://www.reddit.com/r/Bitcoin/s/UeSfLoeyS4 I’m in a better st
 
 I want to help identify the cause of the recent wallet drain report by u/s1ammage, which also revealed many other addresses being drained to the same address. Check your wallet balances. If there are unfamiliar transactions since July 29, 2026, after about 9 PM (US Eastern Time), you may have been affected. Did you use a hardware wallet, if so, what model? Did you use a software wallet (hot or watch-only), if so, which? How exactly did you generate your seed? How exactly did you back up your seed? DO NOT post your seed, DO NOT respond to anyone saying they can recover your funds. Sorry for your loss. There may still be people affected by the same vulnerability who haven't been attacked, so the sooner the vulnerability is identified, and people are alerted to migrate funds, the better. Check in with less techy friends and family that have bitcoin and report incidents. Edit with current conclusions: Coldcard mk3 confirmed vulnerable, press release here: https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ My own analysis: proceed with caution on Mk4/Mk5/Q. These use the same codebase as Mk3 but with slight, insufficient imo, improvements to the RNG system. If you're migrating from Mk3, consider other vendors.
 
-16h ago
+18h ago
 
 ---
 
@@ -111,13 +111,13 @@ I want to help identify the cause of the recent wallet drain report by u/s1ammag
 
 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-4h ago
+6h ago
 
 ---
 
 **[Coldcard CEO Denies Wallet-Wide Vulnerability After 594 BTC Transfer From 500 Addresses](https://www.reddit.com/r/Bitcoin/comments/1vb6nqg/coldcard_ceo_denies_walletwide_vulnerability/)**
 
-🔗 [binance.com](https://www.binance.com/en/square/post/07-30-2026-coldcard-ceo-denies-wallet-wide-vulnerability-after-594-btc-transfer-from-500-addresses-350415380442897) • 18h ago
+🔗 [binance.com](https://www.binance.com/en/square/post/07-30-2026-coldcard-ceo-denies-wallet-wide-vulnerability-after-594-btc-transfer-from-500-addresses-350415380442897) • 20h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31,
 
 Do this if you want to sleep like a baby when the next RNG vulnerability comes out
 
-🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 7h ago
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Do this if you want to sleep like a baby when the next RNG vulnerability comes o
 
 The coming “Bitcoin Hacked” “Is your Bitcoin Safe” “AI Cracks Bitcoin” are going to be obnoxious. This is one company, with an over confident leader whose marketing positioned the ColdCard aura as invincible with the messaging pushed down through the Podcast channels. Going so far as to not allow projects like SeedSigner from even seeing the light of day for discussion. This ColdCard vulnerability and the method used to extract it will reverberate through all software from all industries. Nothing is safe.
 
-8h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ I haven’t done anything since creation except sending into the wallet.
 
 coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
-6h ago
+8h ago
 
 ---
 
@@ -157,19 +157,19 @@ coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
 ## Google News: "bitcoin"
 
+**[Coldcard Hardware Bitcoin Wallet Bug Puts Years of BTC Seeds at Risk](https://bitcoinfoundation.org/news/crimes-and-fraud-news/coldcard-hardware-bitcoin-wallet-bug/)**
+
+Coldcard users are being urged to move their Bitcoin to newly generated wallets over a security flaw linked to the theft of $38 million.
+
+Bitcoin Foundation • 8h ago
+
+---
+
 **[Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep](https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep)**
 
 A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
 
-CoinDesk • 10h ago
-
----
-
-**[Coldcard Security Notice Puts Bitcoin Wallet Entropy Risk Back In Focus](https://www.tradingview.com/news/newsbtc:105b214f2094b:0-coldcard-security-notice-puts-bitcoin-wallet-entropy-risk-back-in-focus/)**
-
-A Coldcard security issue has put Bitcoin hardware-wallet safety back under the microscope after reports that a firmware flaw affected seed generation on some older device versions.According to the validated incident notes, the issue relates to Coldcard Mk3 firmware versions 4.0.1 through 5.0.3, al…
-
-TradingView • 1h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -177,35 +177,39 @@ TradingView • 1h ago
 
 Fears are swirling that news of the attack could drive the bitcoin price lower...
 
-forbes.com • 6h ago
+Forbes • 8h ago
 
 ---
 
 **[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-Business Wire • 19h ago
+Business Wire • 21h ago
+
+---
+
+**[The bitcoin-per-share dilution trap explained](https://finance.yahoo.com/video/bitcoin-per-share-dilution-trap-162000879.html)**
+
+Scott Melker breaks down why some companies are running into trouble with their bitcoin (BTC-USD) per-share strategies as Satsuma begins liquidating its bitcoin holdings and prepares to delist from the London Stock Exchange. Melker also examines why other companies are selling their bitcoin and what it could mean for investors in the growing crypto treasury market. 
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+**[Zhibao Technology Inc. Announces Signing of Definitive Securities Purchase Agreement for PIPE Financing Payable in Bitcoin](https://www.newsfilecorp.com/release/307433/Zhibao-Technology-Inc.-Announces-Signing-of-Definitive-Securities-Purchase-Agreement-for-PIPE-Financing-Payable-in-Bitcoin)**
 
-Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Investors Would Contribute 2,380 Bitcoin for Zhibao Shares](https://www.stocktitan.net/news/ZBAO/zhibao-technology-inc-announces-signing-of-definitive-securities-hgawof1fur3f.html)**
-
-The 442M units each include a Class A share and a two-year warrant exercisable at $0.35; closing is scheduled within 12 business days, subject to conditions.
-
-Stock Titan • 3h ago
+TMX Newsfile • 5h ago
 
 ---
 
@@ -221,15 +225,15 @@ bitcoinmagazine.com • 1d ago
 
 Bitcoin is showing its most encouraging signs yet of establishing a long-term bottom after months of weakness, according to chart analysts.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
-**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
+**[Bitcoin Could Climb 10% Or More if This 1 Thing Happens (Hint: It Involves Quantum Computing)](https://www.fool.com/investing/2026/07/31/bitcoin-could-climb-10-if-this-1-thing-happens/)**
 
-As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
+Mitigating a major risk could have positive consequences.
 
-CFO.com • 1d ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -305,7 +309,7 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 The open standard for proving any file is real, unaltered and sealed - letsseal/letsseal
 
-⬆️ 94 • 💬 31 • 3d ago • [GitHub](https://github.com/letsseal/letsseal)
+⬆️ 94 • 💬 31 • 4d ago • [GitHub](https://github.com/letsseal/letsseal)
 
 ---
 
@@ -325,7 +329,7 @@ No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analys
 
 📺 Gareth Soloway
 
-👁️ 15K • 👍 2K • 💬 148 • ⏱️ 14:35 • 3h ago
+👁️ 15K • 👍 2K • 💬 148 • ⏱️ 14:35 • 5h ago
 
 ---
 
@@ -335,7 +339,7 @@ Bitcoin #Crypto #finance Has Bitcoin already found its bottom? In this episode, 
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 307 • 💬 189 • ⏱️ 17:04 • 2h ago
+👁️ 3K • 👍 307 • 💬 189 • ⏱️ 17:04 • 4h ago
 
 ---
 
@@ -345,7 +349,7 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 113 • ⏱️ 7:41 • 19h ago
+👁️ 59K • 👍 4K • 💬 113 • ⏱️ 7:41 • 21h ago
 
 ---
 
@@ -353,7 +357,7 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Khuncoin
 
-👁️ 12K • 👍 333 • 💬 32 • ⏱️ 0:20 • 21h ago
+👁️ 12K • 👍 333 • 💬 32 • ⏱️ 0:20 • 23h ago
 
 ---
 
@@ -363,7 +367,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 145 • 💬 30 • ⏱️ 15:53 • 21h ago
+👁️ 5K • 👍 145 • 💬 30 • ⏱️ 15:53 • 23h ago
 
 ---
 
@@ -391,7 +395,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Blizzrd
 
-👁️ 726 • 👍 23 • 💬 1 • ⏱️ 0:42 • 2h ago
+👁️ 726 • 👍 23 • 💬 1 • ⏱️ 0:42 • 4h ago
 
 ---
 

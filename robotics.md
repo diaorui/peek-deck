@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-07-31T15:37:34.885205+00:00'
+updated: '2026-07-31T17:37:36.695584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** July 31, 2026 at 15:37 UTC  
+**Last Updated:** July 31, 2026 at 17:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-18h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about 
 
 Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation models, in early access. The release adds full-body control for humanoid robots, multi-step task execution with the ability to recover from mistakes, natural language communication, multi-robot coordination, on-device deployment, and new safety features that can reject unsafe commands or request human assistance when needed. Google demonstrated the models on Apptronik’s Apollo 2 humanoid, along with dexterous robotic hands and dual-arm systems. The update moves beyond robots performing isolated tasks and toward systems that can complete longer sequences of work while interacting more naturally with people and other robots.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 23h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation 
 
 Damage can fragment a modular robotic structure into disconnected pieces. We developed decentralized strategies that allow the surviving modules to consolidate, reorganize, and autonomously restore connectivity without a central controller. Across 1,000 simulated damage scenarios, the system retained at least 80% of surviving modules in its largest connected component even after 30% random failures, with near-perfect reconnection in fully connected cases. The broader goal is to develop machine analogues of homeostasis and morphogenesis: systems that can detect damage, adapt their physical organization, and preserve function. Technical article: https://www.manifoldrg.com/can-a-spacecraft-heal-itself/ Preprint: https://arxiv.org/abs/2607.13444 I’m one of the authors and would welcome feedback, particularly on the decentralized coordination strategy and the path toward hardware experiments.
 
-23h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-18h ago
+20h ago
 
 ---
 
@@ -82,19 +82,19 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-19h ago
+21h ago
 
 ---
 
 **[That’s how we train the robot to follow you by reinforcement learning.](https://www.reddit.com/r/robotics/comments/1vb03v3/thats_how_we_train_the_robot_to_follow_you_by/)**
 
-22h ago
+1d ago
 
 ---
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -114,15 +114,7 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-deepmind.google • 1d ago
-
----
-
-**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
-
-A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
-
-abcnews.com • 1h ago
+Google DeepMind • 1d ago
 
 ---
 
@@ -132,9 +124,27 @@ Reuters • 2d ago
 
 ---
 
-**[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
-Tech Xplore • 22h ago
+A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
+
+ABC News - Breaking News, Latest News and Videos • 3h ago
+
+---
+
+**[Wetour Robotics Announces Share Consolidation](https://finance.yahoo.com/markets/stocks/articles/wetour-robotics-announces-share-consolidation-221800169.html)**
+
+AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Robot waiters and drone deliveries: Inside China’s futuristic hardware capital](https://www.nbcnews.com/tech/tech-news/shenzhen-drones-robots-chinas-hardware-ai-capital-rcna589413)**
+
+Long a symbol of China’s economic surge, Shenzhen is embracing a high-tech, low-altitude future.
+
+NBC News • 1d ago
 
 ---
 
@@ -146,43 +156,33 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Qualcomm-powered robot collapses spectacularly on stage during company's keynote — prepared stagehands rush to cloak and then carry off stricken humanoid (updated)](https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid)**
+
+Crashing mechanical shambles makes the presentation ring hollow.
+
+Tom's Hardware • 2h ago
+
+---
+
+**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
+
+A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
+
+Newsweek • 7h ago
+
+---
+
 **[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 6h ago
-
----
-
-**[Qualcomm-powered robot collapses spectacularly on stage during company's keynote — prepared stagehands rush to cloak and then carry off stricken humanoid](https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid)**
-
-Crashing mechanical shambles makes the presentation ring hollow.
-
-Tom's Hardware • 4h ago
-
----
-
-**[Meet Dosunmu-Ogunbi, first black woman to earn PhD in Robotics Engineering at Michigan](https://www.vanguardngr.com/2026/07/meet-dosunmu-ogunbi-first-black-woman-to-earn-phd-in-robotics-engineering-at-michigan/)**
-
-A Nigerian woman, Oluwami Dosunmu-Ogunbi, has made history after becoming the first Black woman to earn a PhD in Robotics
-
-Vanguard News • 1d ago
-
----
-
-**[Experts react to FCC limits on U.S. imports of new humanoid and mobile robots](https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots/)**
-
-The FCC has banned some foreign humanoids, which industry experts say could help U.S. industry but hinder innovation.
-
-The Robot Report • 2d ago
-
----
-
-**[Robots need their Starlink moment](https://www.fastcompany.com/91581927/robots-need-their-starlink-moment)**
-
-Physical AI's next evolution.
-
-Fast Company • 3h ago
+The Globe and Mail • 8h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 Omar Agamy
 
-👁️ 281K • 👍 15K • 💬 1K • ⏱️ 0:40 • 12h ago
+👁️ 281K • 👍 15K • 💬 1K • ⏱️ 0:40 • 14h ago
 
 ---
 
@@ -224,7 +224,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 8K • 👍 615 • 💬 234 • ⏱️ 17:44 • 15h ago
+👁️ 8K • 👍 615 • 💬 234 • ⏱️ 17:44 • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Tau Robotics has unveiled a humanoid robot for vacuuming and cleaning in San Fra
 
 📺 ABC News
 
-👁️ 837 • 👍 26 • 💬 4 • ⏱️ 2:14 • 1h ago
+👁️ 837 • 👍 26 • 💬 4 • ⏱️ 2:14 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ The FDA just changed the future of surgical robotics and almost everyone is watc
 
 📺 Ross Givens
 
-👁️ 13K • 👍 697 • 💬 193 • ⏱️ 11:31 • 1d ago
+👁️ 13K • 👍 697 • 💬 193 • ⏱️ 11:31 • 2d ago
 
 ---
 

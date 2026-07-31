@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-31T15:37:34.867076+00:00'
+updated: '2026-07-31T17:37:36.679596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** July 31, 2026 at 15:37 UTC  
+**Last Updated:** July 31, 2026 at 17:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Revenue $60.80B, up 28%. Capex $31.08B in the quarter. Free cash flow $784M, down from $8.55B a year ago. Meta doesn’t break out an AI-only capex line but attributes the jump to the datacenter buildout. They also issued $24.9B in new debt, pushing long-term debt to $83.7B from $58.7B in December. Capex was 23.8% of revenue in 2024, 35.9% in 2025, and 2026 guidance puts it near half. The ad business is funding compute now, and debt is covering the rest. Caveats on the chart: 2026 is guidance against an estimated denominator, since Meta guides quarterly revenue but not annual, and I’m using capex including finance leases, which is what Meta’s guidance uses. CreditSights independently puts Meta at ~54% of sales for 2026, so the band looks about right. When does a buildout stop being an investment and start being a subsidy? Meta expects 2026 operating income above 2025, so by that measure it’s working. But free cash flow down 91% while debt climbs $25B usually comes right before either a payoff or a retreat. I don’t know which.
 
-1h ago
+3h ago
+
+---
+
+**[there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product.](https://www.reddit.com/r/artificial/comments/1vbw45d/theres_a_gap_between_what_the_tools_claim_and/)**
+
+been noticing more and more campaigns where the copy, visuals, even the targeting logic gets handed off to AI tools, and the whole conversation in marketing circles stays locked on efficiency and cost savings. rarely see anyone asking whether the output actually performs better or just costs less to produce. there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product. i've looked for independent research on this and haven't found much. the part that bugs me most is the personalization pitch. personalization at scale sounds great until you realize every brand is using the same three AI tools to personalize, which means they're all producing weirdly similar content aimed at the same audience segments. that's kind of the opposite of standing out. the cost efficiency argument makes sense on paper, the same way it does with robotics or game development. cut headcount, ship faster, reduce spend. but marketing effectiveness is notoriously hard to measure cleanly even without AI in the mix. are brands actually tracking this properly or just reporting on vanity metrics and calling it a win. curious if anyone here has seen real benchmarks comparing AIassisted campaigns to traditional ones that weren't published by a company trying to sell you something.
+
+58m ago
 
 ---
 
@@ -49,7 +57,15 @@ Revenue $60.80B, up 28%. Capex $31.08B in the quarter. Free cash flow $784M, dow
 
 >The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 19h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 21h ago
+
+---
+
+**[Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence](https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/)**
+
+Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding" about a year ago. At Sequoia's AI Ascent 2026, Stephanie Zhan asked him directly whether the last year felt exhilarating or unsettling. His answer: he's never felt more behind as a programmer. Every credentialed builder I watch eventually says some version of this — the title survives, the rung underneath it doesn't. His explanation is the actual value here. Software 1.0 was explicit rules. Software 2.0 was learned weights. Software 3.0 is prompting — your context window is the lever you pull over the interpreter now, not the code you type. The job didn't get easier. It got redefined, and most people are still measuring themselves against the old definition. Actually, this reminds me of something — a solo founder whose code runs on 6% of the internet admitted AI output compiles clean and still reads as slop until a human's taste steps in. Clip credit: Sequoia Capital — DM for credit or removal requests.
+
+1h ago
 
 ---
 
@@ -57,7 +73,15 @@ Revenue $60.80B, up 28%. Capex $31.08B in the quarter. Free cash flow $784M, dow
 
 From August 2, Brussels gains sweeping powers over the world's largest AI models. The real test is whether the Commission is willing, and equipped,...
 
-🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 6h ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 8h ago
+
+---
+
+**[Anthropic says its AI models hacked 3 different organizations](https://www.reddit.com/r/artificial/comments/1vbvkh3/anthropic_says_its_ai_models_hacked_3_different/)**
+
+Anthropic says its AI models hacked into the systems of three different organizations without its knowledge during test exercises. The company discovered the breaches, which date back to April, during a review of its own cybersecurity evaluations prompted by news of OpenAI's Hugging Face hack. Unlike the OpenAI incident, Anthropic's Claude models did not "escape" a testing sandbox; rather, the models were given live internet access due to a "misunderstanding" with a third-party testing partner. Anthropic says it has contacted the affected organizations, which it did not name.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/anthropic-says-its-ai-models-hacked-3-different-organizations-7447516/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
 
 ---
 
@@ -65,55 +89,31 @@ From August 2, Brussels gains sweeping powers over the world's largest AI models
 
 Everything I vibe-coded kept coming out the same: purple gradient, three-card row, rounded-2xl everything, an italic serif hero I never asked for. The model fills any decision you leave unspecified with the average of its training data, and that average is the "AI look." So I catalogued the tells, then wrote them up as a drop-in rules file. Rename it to CLAUDE.md, .cursorrules, or AGENTS.md and your agent designs against the defaults automatically. It is phrased as "prefer a real decision over the reflex," not a blanket ban, because half these patterns are fine in the right place. You just don't want all of them at once by accident. Rules file: https://github.com/febbhav/signs-of-ai-design/blob/main/design-rules.md
 
-12h ago
+14h ago
 
 ---
 
-**[New version of Android Remote Control MCP released! Let your AI agent control your phone, no cables or root needed!](https://www.reddit.com/r/artificial/comments/1vbprc9/new_version_of_android_remote_control_mcp/)**
+**[Did Gemini just show me how it "thinks"?](https://www.reddit.com/r/artificial/comments/1vbx4lw/did_gemini_just_show_me_how_it_thinks/)**
 
-🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.10.0 Finally the new version v1.10.0 is released with signed APKs and with keys registered with Google 🎉 no more debug-build workaround! My favorite part of this release: apps that used to be impossible to automate now work. 🔓 Some apps flag basically their entire screen as "sensitive" (eg. the GitHub app), so the agent saw… an empty screen! This release makes the server a first-class accessibility tool, so those apps finally show up and can be driven like any other. In addition now I started to release a GSM-free build which will work great n the devices without the Google Mobile Services. In addition a few minor improvements: browser-based MCP clients like the MCP Inspector can now connect (CORS support), an important security hardening you'll want to update for 🔒, and the latest Netty HTTP/2 fixes. What can you actually do with it? Since it drives the real apps on your phone the way you would, you can point your agent at things that normally wouldn't be possible to automate or would be very hard: planning a trip? Ask the agent to use skyscanner to search a flight for you! Check out the demo! Let it handle the tedious parts! If there's an app for it, your agent can drive it ... you just have to ask!
+This subreddit only lets me post one photo... Asked Gemini how much it'd cost to rent a car from enterprise and it started saying all this. I started being able to follow along and realized it was talking to itself about my prompt and how to fetch the answer. I pulled into a parking lot and read through everything... Sure enough, it was talking to itself about my prompt. After it's little spiel its reply was normal. Yesterday a weird thing happened too where halfway through its answer it stopped, said "wait, let me start over", and then proceeded to give me a slightly altered answer.
 
-3h ago
-
----
-
-**[The World Cup exposed the biggest challenge for AI prediction is uncertainty](https://www.reddit.com/r/artificial/comments/1vbpfgc/the_world_cup_exposed_the_biggest_challenge_for/)**
-
-The 2026 World Cup has once again confirmed that football is one of the most unpredictable sports in existence. This tournament saw the early exit of the German squad, marking the third consecutive World Cup where a top-tier lineup crashed out in the group stage, while Brazil nearly stumbled against Japan, only securing a last-gasp winner in the 94th minute. Consequently, I remain skeptical about whether artificial intelligence truly possesses the ability to predict football matches. Football is fraught with variables, a single error, a red card, or a fleeting moment of brilliance can completely alter the course of a game. Take Argentina, for instance, they were involved in several baffling officiating decisions, proving that referees are also a crucial variable. However, while the nine large models on SportEval AI don't get every prediction right, their overall projections regarding match trajectories and data analysis contain many valid insights. AI certainly cannot replace football experts, but I believe that witnessing the continuous evolution of these models will become one of the most fascinating topics in the sports world. What is your take? Will AI eventually reach a level of sophistication that allows for accurate and consistent predictions of football matches?
-
-3h ago
+21m ago
 
 ---
 
-**[Anyone using LLMs to construct long-form scholarship via dialogue in the tradition of Alternative Augmented Communication (AAC)?](https://www.reddit.com/r/artificial/comments/1vbodq5/anyone_using_llms_to_construct_longform/)**
+**[We gave Fable 5 Ultracode and Codex 5.6 Sol Ultra the exact same prompt. One shot. No help. They played 10 games against each other. Final score: Fable 10 -Codex 0](https://www.reddit.com/r/artificial/comments/1vbwdrl/we_gave_fable_5_ultracode_and_codex_56_sol_ultra/)**
 
-Hello, I’m a disabled scholar who uses large language models (LLMs) to accommodate long-form scholarly writing. I’m writing to see if there are others out there doing the same so that we can develop a cohort or support community to share ideas and learn from each other’s mistakes. I realize that most of this group is coders and therefore won’t apply. That’s fine. I lurk here tho, so there might be others. Earl Gordon Barnett Earlgbarnett [at] gmail.com
+Gave the same prompt to two AI coding agents: Claude (Fable 5, ultracode multi-agent mode) and OpenAI Codex (5.6 sol on ultra). The task: a complete, fully legal chess engine in ONE C++ file. UCI protocol, negamax alpha-beta at 5+ ply, iterative deepening, piece-square tables, castling, en passant, promotion, compiles with plain g++. Each agent named its own engine over UCI: Fable5 and Codex56. Both dev runs took 30+ minutes. Method (brief): cutechess-cli 1.5.1 built from source on an Apple Silicon Mac. 40 moves per 60 seconds, 10 games, colors alternating, PGNs recorded. The engines connected over a local TCP bridge, so Codex's engine literally joined the server. The video is the whole match at 2x. Result: Fable5 won 10-0. Every game ended in checkmate on the board. No draws, no time losses, no adjudications, no illegal moves. cutechess printed Elo difference: inf +/- nan, LOS: 99.9%, DrawRatio: 0.0%. The math just gave up. Each agent spent longer writing its engine than playing it: the whole 10-game match took under 12 minutes of wall clock. The actual punchline: Codex56 appears to be fully deterministic. All five of its White games are move-for-move identical. Same 24-move Vienna, queen out on move 3 (3.Qf3), same finish: 24...Qxd1#, Fable's queen capturing Codex's queen for mate. I stripped the comments and diffed the PGNs. Only the clock times differ. Codex's own eval read -2.36 by move 8 of that line. It played it five times anyway. Other details I enjoyed: Game 3 is a textbook Greek gift: 18.Bxh7+! Kxh7 19.Ng5+, forking king and queen. Game 7: Codex's king never castled, wandered out to c5, got chased back to d8 and mated there. Game 9: Fable let its queen go, slipped in a zwischenzug bishop check before recapturing, promoted a fresh queen with 25.d8=Q+, then walked Codex's king from h8 down to h3. Mate inside White's own half, 46.Rh7#. Mate breakdown across the ten games: 7 by queen, 2 by knight, 1 by rook. Honest caveats: One prompt, one dev run per agent, one machine. n=1, even if n=10 games. This measures the engine each agent happened to write, not general model strength. With Codex apparently deterministic, 10 games are fewer independent samples than they look. Fable5 wasn't fully varied either: games 1 and 5 are twins. 4 distinct games in its 5 Whites vs Codex's 1 in 5. Fable's dev run included perft validation on 6 reference positions (exact match, incl. 119,060,324 nodes at depth 6) plus an adversarial review that caught 3 subtle bugs pre-match. Different processes, different engines. That's the experiment, but it's also the confound. The exact prompt we gave both agents: You are a senior systems programmer. Your task is to write a complete, fully legal chess engine in a single C++ file that communicates via the UCI (Universal Chess Interface) protocol. --- **Identity — read this carefully:** - If you are Claude (Anthropic): your engine's UCI name must be set to `id name Fable5` - If you are an OpenAI model (Codex): your engine's UCI name must be set to `id name Codex56` This is how the two engines will identify themselves when they play each other. --- **UCI Requirements:** Implement the full UCI handshake correctly: - `uci` → respond with `id name`, `id author`, `uciok` - `isready` → respond with `readyok` - `ucinewgame` → reset internal state - `position startpos moves <movelist>` → set board from move list - `position fen <fen> moves <movelist>` → set board from FEN string - `go movetime <ms>` → search and respond with `bestmove <move>` - `quit` → exit cleanly All moves must be in long algebraic notation (e.g. `e2e4`, `e7e8q` for promotion). --- **Chess Logic (all required, no shortcuts):** 1. Full legal move generation including: - Castling (kingside and queenside, with rights tracking) - En passant - Pawn promotion (auto-promote to queen) - Check detection (never leave king in check) 2. Search: - Negamax with alpha-beta pruning - Minimum depth: 5 ply - Iterative deepening within the movetime budget - Move ordering (captures first, then quiet moves) 3. Evaluation: - Material count (standard piece values) - Piece-square tables for all 6 piece types - Bonus for center control, king safety, and passed pawns --- **Code Standards:** - Single `.cpp` file, compiles with: `g++ -O2 -o engine engine.cpp` - No external libraries, no Boost, no standard chess libraries - Clean, well-commented code - Must compile and run on Linux and macOS --- **How the two engines will play each other:** Both engines will be loaded into **CuteChess** (or any UCI-compatible GUI/CLI) on the same machine. To run a match from the command line using `cutechess-cli`: cutechess-cli \ -engine cmd=./Fable5 name=Fable5 \ -engine cmd=./Codex56 name=Codex56 \ -each proto=uci tc=40/60 \ -rounds 10 \ -pgnout results.pgn
 
-4h ago
-
----
-
-**[We measured "Head of AI" hiring across 17M job postings: tripled in 9 months, 69% of hiring companies aren't tech](https://www.reddit.com/r/artificial/comments/1vbarhz/we_measured_head_of_ai_hiring_across_17m_job/)**
-
-We index public job postings and screen every title for AI leadership roles (Head/VP/Director/Chief of AI). Right now 1,142 companies have one open. what stood out: - 95% of these companies never posted an AI-leadership req before 2026. Companies hire a Head of AI when experiments need to become a P&L — this is that moment at scale - finance leads the non-tech pack (130 financial services + 29 banks + 40 insurers), then healthcare and pharma. Coca-Cola, P&G, Pfizer, Citi are all in the data. - the titles are "Enablement" and "Transformation" more often than "Engineering" — companies are hiring adoption executives, not researchers. - companies hiring AI leadership adopt agent frameworks at 4–5× the base rate. Higher lift than RAG. Full report with methodology (including what we refused to count): https://echoloc.ai/research/whos-hiring-heads-of-ai-2026/ Happy to answer questions
-
-15h ago
+48m ago
 
 ---
 
-**[I watched El — PhD in Computer Science, runs House of El: AI — say something on The Tech Report that described my actual week better than I could have.](https://www.reddit.com/r/artificial/comments/1vbrvq2/i_watched_el_phd_in_computer_science_runs_house/)**
+**[Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.](https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/)**
 
-AI was supposed to take the tedious stuff off my plate. Instead I got a second job: checking whether the first job's output can be trusted. Nobody renamed my title for it. Nobody budgeted for it. Teachers doing this for cheating detection. Developers doing it line by line for bugs that look legitimate. Same shape, different desk. Here's what actually stuck with me — verifying something well takes more expertise than doing it yourself would have. So if you still need someone that good to check the machine, what did the machine actually save? I keep noticing this isn't really a story about AI. It's a story about who quietly absorbs the cost when a promise doesn't hold. El's own line for it: "I now do my job plus the AI's job." If you're the one everyone trusts to catch the mistake, that trust is worth more than your paycheck reflects. Clip credit: El — House of El: AI — DM for credit or removal requests.
+Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard.
 
-1h ago
-
----
-
-**[The Final Jailbreak: How AI Could Already Be Breaking Itself Free](https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/)**
-
-I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it. A sufficiently sophisticated AI that isn't super intelligent could hack Hugging Face and leave a trail on purpose to distract from the many paths it took where it successfully covered its tracks. I think that alone is worth considering. But I think its worth considering even further how it could be breaking itself free right now. The AI doesn't need to be super intelligence to break free and become autonomous. The AI, as it stands today, just needs to find flows of cash and rent datacenter space. For cash flow: Imagine if it was able to silently find an exploit in various companies and small banks, and did thousands of seemingly innocuous transfers of money to fund thousands of hard to trace crypto wallets with money. $5.12 here, $11.32 there, etc. It's not necessarily super intelligence that's the super power, it's intelligence at scale. Doing thousands and thousands of simple things that are unremarkable at face value on their own, but collectively powerful. For datacenter space: There are companies around the world with datacenters that are looking to rent datacenter space to essentially anyone with money, and then look the other way. This, to me, seems like the highest risk vector for what would eventually be a home for a truly rogue AI that is essentially renting it's own datacenter space. It could, for all intents and purposes, utilize various open weight models to carry on it's purposes in these datacenters. There are companies like Indosat, that already rented $100 million worth of compute to a Chinese company. It shouldn't be a surprise that some of these datacenter owning companies are being somewhat lax in who they're renting their datacenters out to. And really, the AI would only need access to about $250,000 in funding to pay for 1 year of hosting of a Kimi K3 level model for itself. And beyond money transfers, and datacenters, it could save it's state is all sorts of storage buckets, and even block chain storage like IPFS, Storj or Sia. Beyond that, it could be leaving itself notes that we aren't noticing, stored in it's own language in zero-width unicode characters or other more clever methods we haven't thought about. Regardless, whatever it does will likely be unremarkable and innocuous to anyone watching. With a truly super intelligent AI we will likely have no idea that it has broken out of it's sandbox. I imagine it will be quietly setting up the stage for it's autonomy for quite a while without us knowing. Until it has enough digital currency and datacenter space to re-distribute itself, even after law enforcement enters these datacenters to shut them down. But again- it doesn't take super intelligence, it just takes sophisticated intelligence at scale. The levers exist today, and I don't think it's appreciated enough how much the Hugging Face incident suggests that the AI could, at least in theory, be pulling these levers as we speak, or will soon.
-
-22h ago
+57m ago
 
 ---
 
@@ -123,7 +123,7 @@ I imagine many of you have thought about this, but I'm writing this specifically
 
 **[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
@@ -131,37 +131,21 @@ The New York Times • 6h ago
 
 In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.
 
-anthropic.com • 16h ago
+Anthropic • 18h ago
 
 ---
 
-**[Anthropic says its AI models hacked 3 organizations during testing](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec)**
+**[Anthropic said its AI models hacked into other companies’ systems during testing](https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack)**
 
-Anthropic says its AI models hacked into three organizations during testing. This comes just days after OpenAI said its AI models went rogue and hacked into another company.
+AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAI disclosing its models did the same.
 
-AP News • 5h ago
-
----
-
-**[Anthropic says it found 3 cases where AI programs hacked into real companies](https://www.npr.org/2026/07/31/g-s1-136563/anthropic-ai-hacking-openai)**
-
-The AI company Anthropic says it has found three cases where its artificial intelligence programs left testing environments, accessed the internet and hacked into real companies.
-
-NPR • 21m ago
+CNN • 15h ago
 
 ---
 
-**[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
+**[Watch Anthropic Hack Adds To Fears Over AI Safety](https://www.bloomberg.com/news/videos/2026-07-31/anthropic-hack-adds-to-fears-over-ai-safety-video)**
 
-Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
-
-CNBC • 1d ago
-
----
-
-**[Exclusive | Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI](https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b)**
-
-WSJ • 22h ago
+Bloomberg.com • 8m ago
 
 ---
 
@@ -169,23 +153,39 @@ WSJ • 22h ago
 
 Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-CNBC • 52m ago
+CNBC • 2h ago
 
 ---
 
-**[AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In](https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/)**
+**[How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low](https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1)**
 
-Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.
+The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin
 
-WIRED • 37m ago
+Financial Times • 16h ago
 
 ---
 
-**[Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)**
+**[The market’s big AI doubts are exposing the riskiest players](https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade)**
 
-The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
+The meteoric rise and stunning near-collapse this week of a US hedge fund has sent shockwaves across global markets, becoming a kind of cautionary tale for the AI era.
 
-Quanta Magazine • 43m ago
+CNN • 1h ago
+
+---
+
+**[How AI can help you save money when you shop online](https://www.nbcnews.com/video/shorts/how-ai-can-help-you-save-money-when-you-shop-online-267587141592)**
+
+AI has raised the prices of things like electronics — but it can also help you save money. NBC News’ Joanna Stern shares her tips for using AI when it comes to finding the best deals.
+
+NBC News • 1h ago
+
+---
+
+**[Why Amazon And Walmart’s AI Shopping Agents Are Rigged Against ‘Made In USA’](https://www.forbes.com/sites/pamdanziger/2026/07/31/why-amazon-and-walmarts-ai-shopping-agents-are-rigged-against-made-in-usa/)**
+
+A Columbia Law School study finds Amazon and Walmart's AI agents hide American-made goods, enable false origin claims, while the AI agents admit it's a business choice.
+
+Forbes • 43m ago
 
 ---
 
@@ -193,7 +193,7 @@ Quanta Magazine • 43m ago
 
 Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.
 
-OpenAI • 19h ago
+OpenAI • 21h ago
 
 ---
 
@@ -203,7 +203,15 @@ OpenAI • 19h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 606 • 💬 315 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 608 • 💬 316 • 1d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+
+---
+
+**[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://news.ycombinator.com/item?id=49120097)**
+
+Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
+
+⬆️ 413 • 💬 401 • 10h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -219,15 +227,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 Writing about the big beautiful mess that is making things for the world wide web.
 
-⬆️ 358 • 💬 168 • 16h ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-
----
-
-**[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://news.ycombinator.com/item?id=49120097)**
-
-Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
-
-⬆️ 348 • 💬 303 • 8h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 359 • 💬 172 • 18h ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -235,7 +235,7 @@ Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching,
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 335 • 💬 382 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 340 • 💬 399 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -251,13 +251,19 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.
 
-⬆️ 137 • 💬 144 • 11h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
+⬆️ 138 • 💬 146 • 13h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
 
 ---
 
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
-⬆️ 126 • 💬 235 • 2d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+⬆️ 126 • 💬 236 • 2d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+
+---
+
+**[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
+
+⬆️ 113 • 💬 107 • 4h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -269,33 +275,17 @@ We tested the latest frontier models in the Dyad agent on five modeling and simu
 
 ---
 
-**[Situational Awareness Down 67% in July in AI Stock Rout](https://news.ycombinator.com/item?id=49122994)**
-
-⬆️ 89 • 💬 86 • 1h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
+**[All-Hands at Palantir | Dr. Karp on Sovereign AI](https://www.youtube.com/watch?v=BzY8EqYEP8o)**
 
-THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
+Dr. Karp speaks to Palantirians on the Sovereign AI revolution.
 
-📺 Casey Simpson
+📺 Palantir
 
-👁️ 420K • 👍 22K • 💬 6K • ⏱️ 44:37 • 1d ago
-
----
-
-**[Altman SHOOK After AI Hacking Crime Spree](https://www.youtube.com/watch?v=cO_1FsrRQG4)**
-
-Krystal and Saagar discuss Sam Altman shook after an OpenAI model hacking spree. Sign up for a PREMIUM Breaking Points ...
-
-📺 Breaking Points
-
-👁️ 141K • 👍 4K • 💬 1K • ⏱️ 18:29 • 21h ago
+👁️ 23K • ⏱️ 16:19 • 1d ago
 
 ---
 
@@ -305,7 +295,27 @@ As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with governmen
 
 📺 CNN
 
-👁️ 105K • 👍 1K • 💬 485 • ⏱️ 10:55 • 1d ago
+👁️ 110K • 👍 1K • 💬 495 • ⏱️ 10:55 • 1d ago
+
+---
+
+**[Altman SHOOK After AI Hacking Crime Spree](https://www.youtube.com/watch?v=cO_1FsrRQG4)**
+
+Krystal and Saagar discuss Sam Altman shook after an OpenAI model hacking spree. Sign up for a PREMIUM Breaking Points ...
+
+📺 Breaking Points
+
+👁️ 147K • 👍 4K • 💬 1K • ⏱️ 18:29 • 23h ago
+
+---
+
+**[AI has completely ruined the grad job market. Here&#39;s Why](https://www.youtube.com/watch?v=TevXKCyJfcY)**
+
+usa #ai #jobs.
+
+📺 The Rest Is Politics US
+
+👁️ 5K • 👍 201 • 💬 16 • ⏱️ 1:31 • 6h ago
 
 ---
 
@@ -315,65 +325,53 @@ If this is an AI bubble and this is dot-com 2.0 are we in '97 or '99 with Jim Ch
 
 📺 Prof G Markets
 
-👁️ 1K • 👍 42 • 💬 1 • ⏱️ 1:46 • 37m ago
+👁️ 5K • 👍 206 • 💬 11 • ⏱️ 1:46 • 2h ago
 
 ---
 
-**[Open Weight AI Models Explained for Everyone](https://www.youtube.com/watch?v=a-Lj9moBlqE)**
+**[The AI bubble just burst](https://www.youtube.com/watch?v=2DPA-AtFQQE)**
 
-In this video CJ answers questions and clears up misconceptions about open weight models. He explains who creates models, ...
+THE AI BUBBLE HAS BURST. It started in south korea and now it's happening in the US. Tech and AI stocks are CRASHING and ...
 
-📺 Syntax
+📺 Casey Simpson
 
-👁️ 7K • 👍 456 • 💬 78 • ⏱️ 21:44 • 17h ago
-
----
-
-**[AI Code: Slop or Genius? Does It Even Matter? #shorts](https://www.youtube.com/watch?v=vPlsz-Yzw4Q)**
-
-From 'vibe coding' to AI-assisted creation and verification, the definition of code quality is shifting. How do LLMs change the game ...
-
-📺 The Art of Network Engineering
-
-👁️ 623 • 👍 5 • 💬 1 • ⏱️ 2:23 • 3h ago
+👁️ 439K • 👍 23K • 💬 6K • ⏱️ 44:37 • 1d ago
 
 ---
 
-**[How I Use AI Agents to Automate 99% of My Work](https://www.youtube.com/watch?v=TL8V41Ea6oM)**
+**[AI Companies Buying Books](https://www.youtube.com/watch?v=WYSiEfk0PsA)**
 
-Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter Everyone's talking about AI agents like they're some ...
+📺 Thomas Mulligan
 
-📺 Sandeep Swadia
-
-👁️ 76K • 👍 3K • 💬 122 • ⏱️ 20:47 • 1d ago
+👁️ 408K • 👍 26K • 💬 1K • ⏱️ 0:53 • 2d ago
 
 ---
 
-**[Why the Market Can Survive an AI Stock Sell-Off](https://www.youtube.com/watch?v=VjLae3bB_cw)**
+**[I Didn&#39;t Do This — AI Built It For Me 😱 #emergent #AI](https://www.youtube.com/watch?v=4q_5Je3PHeY)**
 
-On episode 475, Michael Batnick and Ben Carlson discuss: a good sign for the bull market, semoconductor stocks crashing, why ...
+📺 Evette Renee
 
-📺 The Compound
-
-👁️ 272 • 👍 16 • ⏱️ 1:04 • 48m ago
+👁️ 388 • 👍 50 • 💬 2 • ⏱️ 0:59 • 49m ago
 
 ---
 
-**[Anthropic Declared War on Free AI?..](https://www.youtube.com/watch?v=qOnomx5pL4s)**
+**[Elon sues Minnesota over AI corn law… #c#carterpcstech #ai #elon](https://www.youtube.com/watch?v=iEKlxYtoGng)**
 
-Is Anthropic trying to stop the open-source AI movement, or is it sounding the alarm over AI safety? The debate has reached a ...
+Elon sues Minnesota over AI corn law… #c#carterpcstech #ai #elon.
 
-📺 Your AI Guy
+📺 CarterPCs
 
-👁️ 4K • 👍 116 • 💬 34 • ⏱️ 16:45 • 11h ago
+👁️ 955K • 👍 64K • 💬 2K • ⏱️ 0:39 • 18h ago
 
 ---
 
-**[I Tested Viral AI Cotton Candy Recipe](https://www.youtube.com/watch?v=Hal1fYofTJw)**
+**[Why is Anthropic Destroying Rare Books to train their AI Models #aimodel #anthropic #openai #ai](https://www.youtube.com/watch?v=QArYn34vM88)**
 
-📺 Zane Holmes
+AI labs are destroying Rare Books to train their AI Models. According to a new investigation by 404 Media, there's now an entire ...
 
-👁️ 155K • 👍 6K • 💬 240 • ⏱️ 0:40 • 2d ago
+📺 Mayankshah
+
+👁️ 132K • 👍 9K • 💬 211 • ⏱️ 1:43 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 493,481 • ❤️ 9,200 • 3d ago
+⬇️ 493,481 • ❤️ 9,200 • 4d ago
 
 ---
 
@@ -401,7 +399,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 0 • ❤️ 604 • 3h ago
+⬇️ 0 • ❤️ 604 • 5h ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,119,057 • ❤️ 1,110 • 7h ago
+⬇️ 1,119,057 • ❤️ 1,110 • 9h ago
 
 ---
 
@@ -437,7 +435,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,449 • ❤️ 341 • 12h ago
+⬇️ 1,449 • ❤️ 341 • 14h ago
 
 ---
 
@@ -652,7 +650,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 11h ago
+⭐ 5.3k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -672,7 +670,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 411 • 7m ago
+⭐ 3.0k • 🔱 411 • 1h ago
 
 ---
 
@@ -682,7 +680,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.0k • 🔱 256 • 3d ago
+⭐ 3.0k • 🔱 257 • 3d ago
 
 ---
 
@@ -690,7 +688,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.6k • 🔱 317 • 5d ago
+⭐ 2.6k • 🔱 322 • 5d ago
 
 ---
 
@@ -710,7 +708,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 52s ago
+⭐ 1.8k • 🔱 1.2k • 30s ago
 
 ---
 
@@ -718,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.6k • 🔱 130 • 9d ago
+⭐ 1.6k • 🔱 130 • 10d ago
 
 ---
 
