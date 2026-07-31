@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T08:04:32.630513+00:00'
+updated: '2026-07-31T11:06:08.657660+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 08:04 UTC  
+**Last Updated:** July 31, 2026 at 11:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
+**24h:** -1.4%  
 **7d:** -0.6%  
-**30d:** +3.9%  
-**90d:** -18.6%  
-**1y:** -43.6%  
+**30d:** +4.0%  
+**90d:** -18.5%  
+**1y:** -43.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1281.44B
+**Market Cap:** $1281.95B
 Rank #1
 
-**Circulating Supply:** 20,063,615 BTC
+**Circulating Supply:** 20,063,671 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -49.3%
 
 **All-Time Low:** $67.81
-+94092.6%
++94125.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Been looking at wallet-tier data recently and wanted to see what this community makes of it. According to Santiment's on-chain tracking, wallets holding 10–10K BTC added roughly 19,700 BTC over an 8-day period this month, while wallets holding under 0.01 BTC pulled back on buying. Separately, CoinDesk reported that whale addresses accumulated over 270,000 BTC in a two-week window earlier this year — described as the largest on-chain accumulation spike on record. No price predictions here, just trying to understand the pattern: does this kind of wallet-tier divergence actually tell us anything reliable, or is on-chain data overrated as a signal? Genuinely curious how people who've been holding through multiple cycles think about this.
 
-1d ago
+2d ago
 
 ---
 
@@ -165,7 +165,7 @@ I've noticed that most people spend a lot of time learning when to buy Bitcoin, 
 
 A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
 
-CoinDesk • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,35 +177,37 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy (MSTR) news: Bitcoin's (BTC) second-quarter decline leads to $8.2 billion loss](https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline)**
+**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.
-
-CoinDesk • 11h ago
+Business Wire • 15h ago
 
 ---
 
-**[Strategy Announces Second Quarter 2026 Financial Results](https://www.strategy.com/press/strategy-announces-second-quarter-2026-financial-results_07-30-2026)**
+**[Strategy Shores Up Liquidity as Bitcoin Faithful Wait on Rebound](https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound)**
 
-July 30, 2026
-
-Strategy • 11h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years](https://finance.yahoo.com/markets/crypto/articles/prediction-bitcoin-worth-2-5-223300991.html)**
+**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
 
-Bitcoin may no longer be able to deliver the stratospheric returns that it did during its early years.
+IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin has closed below its 200-day MA for 270 days now; here is when to buy again](https://seekingalpha.com/news/4621875-bitcoin-has-closed-below-its-200-day-ma-for-270-days-now-here-is-when-to-buy-again)**
+**[Bitcoin News: Bitcoin Sits Out the Kospi's Record 17% Rebound — Crypto's Decoupling From the Chip Trade Runs in Both Directions](https://www.binance.com/en/square/post/350633175445010)**
 
-Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
+Binance • 16m ago
 
-Seeking Alpha • 16h ago
+---
+
+**[Bitcoin Capitulation Has Barely Started, Analyst Says](https://bitcoinfoundation.org/news/bitcoin/bitcoin-capitulation-has-barely-started-analyst-says/)**
+
+Bitcoin investors are finally selling at an annual net loss, but the pain remains below the levels seen during previous capitulation events.
+
+Bitcoin Foundation • 1h ago
 
 ---
 
@@ -213,7 +215,7 @@ Seeking Alpha • 16h ago
 
 As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-CFO.com • 18h ago
+CFO.com • 21h ago
 
 ---
 
@@ -223,17 +225,11 @@ Investing.com • 1d ago
 
 ---
 
-**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+**[Bitcoin has closed below its 200-day MA for 270 days now; here is when to buy again](https://seekingalpha.com/news/4621875-bitcoin-has-closed-below-its-200-day-ma-for-270-days-now-here-is-when-to-buy-again)**
 
-WSJ • 11h ago
+Bitcoin dips below its 200-day moving average for 270 days—historic streaks often preceded big gains.
 
----
-
-**[Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain](https://www.tradingview.com/news/cointelegraph:43ee49822094b:0-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain/)**
-
-Canadian Bitcoin hardware maker Coinkite has warned users of its Coldcard Mk3 signing device to move funds from wallets whose seed phrases were generated on affected firmware.On Thursday, Coinkite said seeds created on an Mk3 running firmware version 4.0.1, released in March 2021, or any later Mk3…
-
-TradingView • 5h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -253,7 +249,7 @@ The alleged thieves infected 8,000 devices.
 
 A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
 
-⬆️ 5 • 💬 0 • 5d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
+⬆️ 5 • 💬 0 • 6d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
 
 ---
 
@@ -285,7 +281,7 @@ An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to th
 
 A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
 
-⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
+⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
 
 ---
 
@@ -329,7 +325,17 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 3K • 💬 99 • ⏱️ 7:41 • 11h ago
+👁️ 50K • 👍 3K • 💬 101 • ⏱️ 7:41 • 14h ago
+
+---
+
+**[Bitcoin Could Be Near a Major Turning Point](https://www.youtube.com/watch?v=mvYX7NzeB7M)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 8K • 👍 490 • 💬 69 • ⏱️ 11:30 • 11h ago
 
 ---
 
@@ -339,7 +345,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 120 • 💬 8 • ⏱️ 15:53 • 14h ago
+👁️ 4K • 👍 124 • 💬 6 • ⏱️ 15:53 • 17h ago
 
 ---
 
@@ -349,27 +355,7 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
-
----
-
-**[NO CLARITY FOR BITCOIN, JUST JAIL TIME!](https://www.youtube.com/watch?v=Mbznm4kLqPY)**
-
-The government promised you clarity on Bitcoin. What you actually got: developers in handcuffs, a "strategic reserve" built on an ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 458 • ⏱️ 22:39 • 1d ago
-
----
-
-**[The Biggest Crypto Opportunity Is NOT Bitcoin | Matt Hougan](https://www.youtube.com/watch?v=cKsSiWZRl5A)**
-
-What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains why the convergence of blockchain and traditional ...
-
-📺 Cointelegraph
-
-👁️ 3K • 👍 49 • 💬 63 • ⏱️ 1:03 • 16h ago
+👁️ 41K • 👍 2K • 💬 116 • ⏱️ 10:40 • 1d ago
 
 ---
 
@@ -379,7 +365,7 @@ Inflation numbers are out and all I can say is WOW. Bitcoin responds as it usual
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 334 • 💬 19 • ⏱️ 31:34 • 18h ago
+👁️ 5K • 👍 340 • 💬 19 • ⏱️ 31:34 • 21h ago
 
 ---
 
@@ -393,13 +379,13 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 ---
 
-**[What Cryptos Could 10X in the Next Bitcoin Bull Market?](https://www.youtube.com/watch?v=Lu-sOTkVWDM)**
+**[The Biggest Crypto Opportunity Is NOT Bitcoin | Matt Hougan](https://www.youtube.com/watch?v=cKsSiWZRl5A)**
 
-In this interview, Bitwise CIO Matt Hougan explains why he believes the next crypto bull market will be driven by the convergence ...
+What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains why the convergence of blockchain and traditional ...
 
 📺 Cointelegraph
 
-👁️ 7K • 👍 220 • 💬 177 • ⏱️ 23:18 • 17h ago
+👁️ 3K • 👍 56 • 💬 63 • ⏱️ 1:03 • 19h ago
 
 ---
 
@@ -409,17 +395,27 @@ He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds li
 
 📺 Roshni Chellani
 
-👁️ 22K • 👍 576 • 💬 12 • ⏱️ 1:39 • 1d ago
+👁️ 22K • 👍 583 • 💬 12 • ⏱️ 1:39 • 1d ago
 
 ---
 
-**[BITCOIN AND SPACEX — MY EXACT PLAN](https://www.youtube.com/watch?v=JGGYVM8vhBE)**
+**[PAY ATTENTION: If BTC Holds This Exact Level, It’s An All In Signal!](https://www.youtube.com/watch?v=CP-W1Hha8xo)**
 
-TRADE CRYPTO SMARTER WITH BOTS ON PIONEX — SIGN UP AND CLAIM UP TO $1 ...
+Bitcoin is showing serious relative strength against the stock market right now, and that divergence matters. In this urgent crypto ...
 
-📺 100XClub
+📺 Crypto Banter
 
-👁️ 6K • 👍 650 • 💬 239 • ⏱️ 7:46 • 23h ago
+👁️ 5K • 👍 678 • 💬 7 • ⏱️ 31:40 • 3h ago
+
+---
+
+**[EMERGENCY BROADCAST: BIGGEST BITCOIN WALLET HACKED -  ACT NOW](https://www.youtube.com/watch?v=P1EjB__p4r4)**
+
+Earn yield or borrow against your Bitcoin with Ledn   https://learn.ledn.io/luke Get 10% OFF your BITKEY Hardware Wallet with ...
+
+📺 Luke Mikic
+
+👁️ 5K • 👍 269 • 💬 58 • ⏱️ 56:22 • 8h ago
 
 ---
 

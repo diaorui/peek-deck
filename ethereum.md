@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T08:04:32.636072+00:00'
+updated: '2026-07-31T11:06:08.663040+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 08:04 UTC  
+**Last Updated:** July 31, 2026 at 11:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +0.9%  
-**30d:** +11.2%  
-**90d:** -18.6%  
-**1y:** -45.8%  
+**24h:** -1.7%  
+**7d:** +0.8%  
+**30d:** +11.1%  
+**90d:** -18.7%  
+**1y:** -45.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.90B
+**Market Cap:** $227.69B
 Rank #2
 
 **Circulating Supply:** 120,682,334 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.9%
 
 **All-Time Low:** $0.43
-+436082.8%
++435646.3%
 
 ---
 
@@ -152,35 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
-
-Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
-
-CoinDesk • 1d ago
-
----
-
 **[Ethereum Foundation Board Update](https://blog.ethereum.org/2026/07/29/ef-board-update)**
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
 ethereum.org • 1d ago
-
----
-
-**[ETH/BTC Ratio Hits 3-Month High: But Don’t Count on Altcoin Season Yet](https://finance.yahoo.com/markets/crypto/articles/eth-btc-ratio-hits-3-050104438.html)**
-
-The ETH/BTC ratio topped 0.030 alongside rising Bitcoin dominance, pointing to capital concentrating in majors, not a broad altcoin rally.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
-
-Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
-
-TradingView • 20h ago
 
 ---
 
@@ -192,19 +168,51 @@ CoinMarketCap • 1d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html)**
+
+Bitcoin opened at $63,902.90 on Thursday, July 30, 2026, flat compared to Wednesday's opening price. As of 9:00 a.m. ET, bitcoin moved up to $64,838.92. Ethereum opened at $1,908.34 on Thursday, July 30, 2026, down 0.6% from Wednesday's opening price. Ethereum moved higher to $1,923.23 as of 9:00 a.m. ET.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Ethereum enters its second decade after a year of upheaval at the foundation](https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation)**
+
+Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
+
+CoinDesk • 21h ago
+
+---
+
+**[Cathie Wood's Ark Trims BMNR Stock Exposure Despite Calling Its Ethereum Strategy ‘Exponential’ – Sells BLSH, HOOD, XYZ Shares Too](https://www.tradingview.com/news/stocktwits:8c0d86896094b:0-cathie-wood-s-ark-trims-bmnr-stock-exposure-despite-calling-its-ethereum-strategy-exponential-sells-blsh-hood-xyz-shares-too/)**
+
+Cathie Wood's Ark Invest trimmed several of its crypto holdings on Wednesday, including Tom Lee-backed Bitmine Immersion Technologies (BMNR), despite calling the firm's Ethereum (ETH) accumulation strategy an "exponential opportunity” in the outlook for 2026.According to the firm's daily trade disc…
+
+TradingView • 23h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes 50-day EMA breakout, ETH consolidates, XRP steadies](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-50-day-ema-breakout-eth-consolidates-xrp-steadies-202607310406)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 3h ago
+FXStreet • 6h ago
 
 ---
 
-**[Current price of Ethereum for July 30, 2026](https://fortune.com/article/price-of-ethereum-07-30-2026/)**
+**[Morgan Stanley deepens push into crypto with ethereum, Solana ETFs despite ongoing volatility](https://www.pionline.com/asset-management/exchange-traded-funds/pi-morgan-stanley-deepens-crypto-push-ethereum-solana-etfs/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+After entering the spot bitcoin ETF market this year, Morgan Stanley is already planning broader crypto offerings, including multi-currency strategies.
 
-Fortune • 21h ago
+Pensions & Investments • 15h ago
+
+---
+
+**[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady](https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady)**
+
+Fed Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.
+
+Decrypt • 1d ago
 
 ---
 
@@ -224,17 +232,19 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
-
-Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
-
-CryptoSlate • 12h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
+
+Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
+
+📺 Crypto Banter
+
+👁️ 1K • 👍 146 • 💬 4 • ⏱️ 34:32 • 57m ago
+
+---
 
 **[BlackRock is Betting BIG on Ethereum](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
 
@@ -242,7 +252,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 17K • 👍 761 • 💬 54 • ⏱️ 19:50 • 18h ago
+👁️ 18K • 👍 824 • 💬 59 • ⏱️ 19:50 • 21h ago
 
 ---
 
@@ -252,7 +262,7 @@ ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the fi
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 547 • 💬 545 • ⏱️ 13:14 • 1d ago
+👁️ 11K • 👍 549 • 💬 534 • ⏱️ 13:14 • 1d ago
 
 ---
 
@@ -262,7 +272,27 @@ BITCOIN JUST FLIPPED: Next Price Target Revealed!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 220 • 💬 41 • ⏱️ 25:14 • 9h ago
+👁️ 5K • 👍 233 • 💬 35 • ⏱️ 25:14 • 12h ago
+
+---
+
+**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
+
+Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
+
+📺 YaBoySkey
+
+👁️ 447 • 👍 18 • 💬 6 • ⏱️ 2:58 • 13h ago
+
+---
+
+**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+
+Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+
+📺 The Rollup
+
+👁️ 3K • 👍 38 • 💬 5 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -276,23 +306,23 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 ---
 
-**[Joseph Chalom: Ethereum&#39;s New Leadership Era Is Here (What Comes Next)](https://www.youtube.com/watch?v=3b8IdkdxV44)**
+**[OTO DLACZEGO TO DOBRY MOMENT na START AKUMULACJI ETHEREUM](https://www.youtube.com/watch?v=fo6ey86hEBA)**
 
-Joseph Chalom breaks down the new leadership structure forming around Ethereum and explains why funding these groups ...
+OSTATNIE GODZINY NA ODBIÓR BONUSÓW na OKX: https://rebrand.ly/okx1840 Tutaj zagrania od traderów i śledzimy ...
 
-📺 The Rollup
+📺 Kryptowaluty dla Początkujących 
 
-👁️ 3K • 👍 37 • 💬 5 • ⏱️ 6:40 • 2d ago
+👁️ 3K • 👍 186 • 💬 36 • ⏱️ 22:50 • 6h ago
 
 ---
 
-**[ETH IS ABOUT TO BREAKOUT! (Bullish or Bearish?)](https://www.youtube.com/watch?v=KQ9tEbWgZ7A)**
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
 
-📺 Cilinix Crypto
+📺 Thinking Crypto
 
-👁️ 242 • 👍 20 • 💬 10 • ⏱️ 5:55 • 23h ago
+👁️ 18K • 👍 1K • 💬 176 • ⏱️ 20:27 • 2d ago
 
 ---
 
@@ -302,37 +332,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 36K • 👍 104 • ⏱️ 0:06 • 2d ago
-
----
-
-**[Ethereum Outpaces Bitcoin In Relative ETF Interest; US CLARITY Act Shelved For Now | Crypto Corner](https://www.youtube.com/watch?v=yGwI0HDLA70)**
-
-Crypto Corner Season 2 | Major Coins Battle Key Support Levels - Ethereum outpaces Bitcoin in relative ETF interest - Morgan ...
-
-📺 CNBC-TV18
-
-👁️ 437 • ⏱️ 2:50 • 1d ago
-
----
-
-**[Bitcoin, Ethereum, CRYPTO WARNING! Fed Rate Hike &amp; Clarity Act &quot;DELAYED&quot; | Brace For Volatility](https://www.youtube.com/watch?v=R6S1zNnWCA4)**
-
-Are these fear headlines driving Bitcoin price analysis or just market manipulation? Learn why recent news may trigger volatility.
-
-📺 Crypto Capital Venture
-
-👁️ 14K • 👍 676 • 💬 511 • ⏱️ 12:59 • 2d ago
-
----
-
-**[#ETH outperforming #BTC](https://www.youtube.com/watch?v=em__gv-XaDo)**
-
-This video is provided for general information and educational purposes only. It does not constitute financial advice, investment ...
-
-📺 BlackBull Markets
-
-👁️ 32 • ⏱️ 0:54 • 1d ago
+👁️ 37K • 👍 105 • ⏱️ 0:06 • 2d ago
 
 ---
 
