@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T12:32:48.475381+00:00'
+updated: '2026-08-01T14:26:21.470043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 12:32 UTC  
+**Last Updated:** August 01, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -102,29 +102,13 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.
 
-🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 1d ago
+🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 2d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
-
-Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
-
-Business Insider • 3h ago
-
----
-
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 1d ago
-
----
 
 **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
 
@@ -134,11 +118,11 @@ Google DeepMind • 1d ago
 
 ---
 
-**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
 
-Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-CNET • 1d ago
+businessinsider.com • 5h ago
 
 ---
 
@@ -154,7 +138,7 @@ BBC • 2d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 22h ago
+ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
@@ -166,17 +150,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[SF Robotics Startup Run By Ex-Cruise CEO Faces Class-Action Lawsuit Alleging Unpaid Wages](https://sfist.com/2026/07/30/contract-workers-sue-sf-robotics-startup-run-by-ex-cruise-ceo-alleging-unpaid-wages/)**
+
+Following an earlier lawsuit over a damaged Airbnb rental, former Cruise CEO Kyle Vogt's startup Botco is now facing a class-action lawsuit from former contract workers who allege unpaid overtime and termination pay.
+
+SFist • 1d ago
+
+---
+
 **[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
 
 Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
 
-freightwaves.com • 18h ago
-
----
-
-**[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
-
-Tech Xplore • 1d ago
+FreightWaves • 19h ago
 
 ---
 
@@ -185,6 +171,20 @@ Tech Xplore • 1d ago
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
 The Globe and Mail • 1d ago
+
+---
+
+**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Here's why a robotics firm founder hired Brockton students on the spot](https://www.enterprisenews.com/story/news/education/2026/07/30/brockton-high-school-drone-team-boston-robotics-company/91036144007/)**
+
+Here's how a group of kids from Brockton ended up interning at a Boston robotics firm and what BHS's talented drone pilot plans to do next.
+
+Enterprise News • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 9K • 👍 261 • 💬 28 • ⏱️ 9:54 • 15h ago
+👁️ 9K • 👍 261 • 💬 28 • ⏱️ 9:54 • 17h ago
 
 ---
 
@@ -228,7 +228,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 100K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 2d ago
+👁️ 100K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T12:32:48.471928+00:00'
+updated: '2026-08-01T14:26:21.466464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 12:32 UTC  
+**Last Updated:** August 01, 2026 at 14:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,864.56
+### $1,870.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -4.5%  
-**30d:** +6.2%  
-**90d:** -20.4%  
-**1y:** -45.0%  
+**24h:** +0.5%  
+**7d:** -4.2%  
+**30d:** +6.5%  
+**90d:** -20.2%  
+**1y:** -44.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 20h ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 22h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 23h ago
 
 ---
 
 **[Happy Birthday, Ethereum!](https://www.reddit.com/r/ethereum/comments/1vau0oj/happy_birthday_ethereum/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ ethereum.org • 3d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 23h ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 15h ago
+TradingView • 17h ago
 
 ---
 
@@ -178,13 +178,13 @@ TradingView • 15h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 21h ago
+The Block • 23h ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 21h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -192,13 +192,21 @@ thestreet.com • 21h ago
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 22h ago
+MarketWatch • 1d ago
+
+---
+
+**[Bitcoin Stuck at $63,000, Ethereum, XRP, Dogecoin Down up to 2% on Weak Friday](https://www.benzinga.com/crypto/cryptocurrency/26/07/60851941/bitcoin-stuck-at-63000-ethereum-xrp-dogecoin-down-up-to-2-on-weak-friday)**
+
+Cryptocurrencies struggle despite strong ETF inflows and hawkish Fed tone on interest rates. Analysts expect possible pullback to $60,000-$61,000 range and a fall below could trigger prolonged weakness.
+
+Benzinga • 20h ago
 
 ---
 
@@ -218,14 +226,6 @@ FXStreet • 1d ago
 
 ---
 
-**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 1K • 💬 83 • ⏱️ 19:50 • 1d ago
+👁️ 26K • 👍 1K • 💬 83 • ⏱️ 19:50 • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 499 • 💬 301 • ⏱️ 11:29 • 20h ago
+👁️ 9K • 👍 499 • 💬 301 • ⏱️ 11:29 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 256 • 💬 25 • ⏱️ 10:08 • 10h ago
+👁️ 3K • 👍 256 • 💬 25 • ⏱️ 10:08 • 12h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 117 • 👍 13 • ⏱️ 5:11 • 2h ago
+👁️ 117 • 👍 13 • ⏱️ 5:11 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 60 • 💬 48 • ⏱️ 32:57 • 17h ago
+👁️ 1K • 👍 60 • 💬 48 • ⏱️ 32:57 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 423 • 👍 70 • 💬 7 • ⏱️ 12:19 • 3h ago
+👁️ 423 • 👍 70 • 💬 7 • ⏱️ 12:19 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ GRUPO DE SINAIS LOBO CRIPTO OFICIAL https://t.me/TocaSinais_bot PLATAFORMA DE IA
 
 📺 Lobo Cripto Oficial
 
-👁️ 76 • 👍 19 • 💬 3 • ⏱️ 9:48 • 1h ago
+👁️ 76 • 👍 19 • 💬 3 • ⏱️ 9:48 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscriptio
 
 📺 Journal du Coin
 
-👁️ 4K • 👍 251 • ⏱️ 11:18 • 23h ago
+👁️ 4K • 👍 251 • ⏱️ 11:18 • 1d ago
 
 ---
 
