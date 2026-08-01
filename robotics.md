@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T17:00:02.366309+00:00'
+updated: '2026-08-01T18:06:16.077100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 17:00 UTC  
+**Last Updated:** August 01, 2026 at 18:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[That’s how we train the robot to follow you by reinforcement learning.](https://www.reddit.com/r/robotics/comments/1vb03v3/thats_how_we_train_the_robot_to_follow_you_by/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,23 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-Google DeepMind • 2d ago
+deepmind.google • 2d ago
+
+---
+
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+WIRED • 2d ago
+
+---
+
+**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+
+Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+
+CNET • 1d ago
 
 ---
 
@@ -122,7 +138,15 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
+
+---
+
+**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
+
+The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
+
+DW.com • 19h ago
 
 ---
 
@@ -146,7 +170,15 @@ BBC • 2d ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 8h ago
+PYMNTS.com • 10h ago
+
+---
+
+**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
+
+This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -155,34 +187,6 @@ PYMNTS.com • 8h ago
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
 Yahoo Finance • 2d ago
-
----
-
-**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
-
-Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
-
-FreightWaves • 22h ago
-
----
-
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
-
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
-
-The Globe and Mail • 1d ago
-
----
-
-**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
-
-Tech Xplore • 2d ago
-
----
-
-**[Students compete in international robotics competition at Fairmont State](https://www.wboy.com/news/marion/students-compete-in-international-robotics-competition-at-fairmont-state/)**
-
-WBOY.com • 18h ago
 
 ---
 
@@ -196,7 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 170K • 👍 5K • 💬 435 • ⏱️ 3:00 • 2d ago
+👁️ 176K • 👍 5K • 💬 451 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -206,7 +210,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 69K • 👍 346 • 💬 507 • ⏱️ 6:04 • 2d ago
+👁️ 69K • 👍 350 • 💬 509 • ⏱️ 6:04 • 2d ago
 
 ---
 
@@ -216,7 +220,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 101K • 👍 2K • 💬 313 • ⏱️ 1:08:35 • 3d ago
+👁️ 101K • 👍 2K • 💬 314 • ⏱️ 1:08:35 • 3d ago
 
 ---
 
@@ -226,17 +230,15 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 10K • 👍 271 • 💬 30 • ⏱️ 9:54 • 20h ago
+👁️ 11K • 👍 286 • 💬 31 • ⏱️ 9:54 • 21h ago
 
 ---
 
-**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
 
-A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+📺 Omar Agamy
 
-📺 ABC7 News Bay Area
-
-👁️ 6K • 👍 64 • 💬 42 • ⏱️ 2:01 • 1d ago
+👁️ 515K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
 
 ---
 
@@ -246,45 +248,47 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 7K • 👍 112 • 💬 11 • ⏱️ 1:00 • 23h ago
+👁️ 8K • 👍 120 • 💬 12 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+**[Framework Laptops and a Robot Cleaner?](https://www.youtube.com/watch?v=PtCMsXYAPyc)**
 
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+This week, Marques, Andrew, and David kick things off by talking about the new Apple leasing program. After that, they get into ...
 
-📺 NBC News
+📺 WVFRM Podcast
 
-👁️ 997K • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 508K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
+👁️ 95K • 👍 3K • 💬 469 • ⏱️ 1:35:30 • 1d ago
 
 ---
 
-**[China&#39;s New Bionic Humanoid Hand Just Made Boston Dynamics &amp; Tesla&#39;s Humanoids Look Like a JOKE!](https://www.youtube.com/watch?v=W18kCaVBqzc)**
+**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
 
-Everyone is obsessed with humanoid robots, but almost nobody is talking about the one technology that could decide who wins ...
-
-📺 Evolving AI
-
-👁️ 3K • 👍 80 • 💬 5 • ⏱️ 8:43 • 6d ago
-
----
-
-**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
-
-Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
 
 📺 Google DeepMind
 
-👁️ 15K • 👍 501 • 💬 33 • ⏱️ 2:32 • 2d ago
+👁️ 75K • 👍 2K • 💬 158 • ⏱️ 2:48 • 2d ago
+
+---
+
+**[AI&#39;s Control Problem: Agents, Costs And Robots](https://www.youtube.com/watch?v=tvZimMnCwyE)**
+
+AI is moving from answering questions to taking action, and the bills are arriving faster than anyone budgeted for. An agent that ...
+
+📺 CNBC
+
+👁️ 19K • 👍 434 • 💬 80 • ⏱️ 47:00 • 1d ago
+
+---
+
+**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
+
+To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
+
+📺 Google DeepMind
+
+👁️ 20K • 👍 701 • 💬 82 • ⏱️ 2:17 • 2d ago
 
 ---
 
