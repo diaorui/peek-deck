@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T18:06:16.060869+00:00'
+updated: '2026-08-01T19:43:28.874892+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 18:06 UTC  
+**Last Updated:** August 01, 2026 at 19:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 10h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 12h ago
 
 ---
 
@@ -57,15 +57,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 10h ago
-
----
-
-**[The trojan horse of Lazy AI hate takes & the road to totalitarianism built on good intentions.](https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/)**
-
-Everyone’s hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
-
-1m ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 11h ago
 
 ---
 
@@ -73,7 +65,23 @@ Everyone’s hates AI & that hate will likely lead to regulatory capture censors
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
-36m ago
+2h ago
+
+---
+
+**[The trojan horse of Lazy AI hate takes & the road to totalitarianism built on good intentions.](https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/)**
+
+Everyone hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
+
+1h ago
+
+---
+
+**[Digital AI Agent of Mine](https://www.reddit.com/r/artificial/comments/1vcvysj/digital_ai_agent_of_mine/)**
+
+Hi guys, Recently made a AI digital twin of mine which also kind of works as my assistant too, for example when you chat with it and ask something which it does not have answer for it will instantly notify me that someone is asking me this question and i do not have answer for that. and if i reply it will be instantly uploaded to the database so next time it can answer. and also if a user is have some conversation with my agent and it feels something important is going on here and it will notify me and i can jump in the chat as well. We can have a three way conversation like Me, User, AI twin. here is the link if you want to try: live demo🌐: https://aruncore.vercel.app This is not a self promo this is asking for feedback of a genuine project i made. Tell me what you guys think, Would love some feedback.
+
+29m ago
 
 ---
 
@@ -81,15 +89,7 @@ Been a PT by day, tinkering with code and AI tools by night for a while now. Wri
 
 Google DeepMind’s “Cognitive Taxonomy”¹ splits general intelligence into ten faculties: perception, attention, memory, reasoning…
 
-🔗 [Medium](https://medium.com/@albersj66/measuring-progress-toward-mumbo-jumbo-872b4cc086c5) • 6h ago
-
----
-
-**[Opus 5 dropped last week. We had it running in the business 10 minutes later, already pulling value, yes, as simple as that.](https://www.reddit.com/r/artificial/comments/1vctrbm/opus_5_dropped_last_week_we_had_it_running_in_the/)**
-
-Half my feed was either panicking or acting like they'd built a new company overnight. Big tech CEOs make it like this, but a new model release doesn't fix a business that has nothing underneath it. If your AI advantage evaporates every time a new model ships, you will have a hard time having a stable business. We run an internal research tool (we call it Scout) trained on a full year of our own company data like sales calls, delivery notes, and how we actually make decisions. It beats a plain AI deep-research run almost every time (we didn’t test Fable 5 tho ), It’s because it already knows how we sell and how we operate. It's not pulling generic facts off the internet. Some of what it actually does day to day: Pulls a full guide together on any tool, competitor, or market question in minutes Goes through every sales call transcript and surfaces the exact language, questions, and objections prospects use Grounds every answer in our own data so it sounds like us, not a generic chatbot So when the new model landed, our migration was swapping one model for another. That's it. Plug in the new one and keep working. With how fast AI is moving, what do you think is the actual moat for a business to survive the next 3-5 years? Genuinely curious what people here think.
-
-19m ago
+🔗 [Medium](https://medium.com/@albersj66/measuring-progress-toward-mumbo-jumbo-872b4cc086c5) • 8h ago
 
 ---
 
@@ -105,15 +105,15 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 Any apps or websites that allow for turn based voice chat? I really missed the old standard voice mode on ChatGPT. It basically just read aloud the text models response. So it could allow for long responses unlike these new gen voice models that can only speak 1 paragraph max. I was wondering if there are any apps or websites that use turn based voice chat like the old standard voice mode on ChatGPT. So I would say my thing, then it would be the ai turn to speak and i couldn’t interrupt it till its finished. My current problem is that the new standard voice mode on ChatGPT can be interrupted. So it’s hears its own voice and keeps stopping. So I’m looking for alternative apps or websites that have this old functionality
 
-13h ago
+14h ago
 
 ---
 
-**[I wanted to know how agentic systems worked, so I made one based on Mesopotamian divination](https://www.reddit.com/r/artificial/comments/1vbzljh/i_wanted_to_know_how_agentic_systems_worked_so_i/)**
+**[Opus 5 dropped last week. We had it running in the business 10 minutes later, already pulling value, yes, as simple as that.](https://www.reddit.com/r/artificial/comments/1vctrbm/opus_5_dropped_last_week_we_had_it_running_in_the/)**
 
-I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
+Half my feed was either panicking or acting like they'd built a new company overnight. Big tech CEOs make it like this, but a new model release doesn't fix a business that has nothing underneath it. If your AI advantage evaporates every time a new model ships, you will have a hard time having a stable business. We run an internal research tool (we call it Scout) trained on a full year of our own company data like sales calls, delivery notes, and how we actually make decisions. It beats a plain AI deep-research run almost every time (we didn’t test Fable 5 tho ), It’s because it already knows how we sell and how we operate. It's not pulling generic facts off the internet. Some of what it actually does day to day: Pulls a full guide together on any tool, competitor, or market question in minutes Goes through every sales call transcript and surfaces the exact language, questions, and objections prospects use Grounds every answer in our own data so it sounds like us, not a generic chatbot So when the new model landed, our migration was swapping one model for another. That's it. Plug in the new one and keep working. With how fast AI is moving, what do you think is the actual moat for a business to survive the next 3-5 years? Genuinely curious what people here think. P.S. If you're the founder still in the middle of every decision, still the person the whole company waits on, still telling yourself you'll fix the structure "once things calm down." I write about building the operational backbone that lets a founder actually step back every Thursday. Was a COO for 20+ years, so this is genuinely my bread and butter. Free to join here
 
-23h ago
+1h ago
 
 ---
 
@@ -121,69 +121,45 @@ I'm currently studying the social implications of AI. Lately agentic systems are
 
 ## Google News: "ai"
 
+**[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
+
+Reuters • 23h ago
+
+---
+
 **[OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html)**
 
 The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
+**[The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
 
-Reuters • 21h ago
-
----
-
-**[AI agents spark concerns over ‘going rogue,’ hacking companies](https://www.foxnews.com/video/6402592353112)**
-
-AI Policy Network’s Mark Beall joins ‘Saturday in America' to discuss the threat of AI agents to companies’ software security and whether the technology can reach ‘singularity.’
-
-Fox News • 1h ago
+WSJ • 18h ago
 
 ---
 
-**[Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)**
+**[DSA candidate pushes federal AI datacenter moratorium with Michigan early voting underway](https://www.foxnews.com/politics/dsa-candidate-pushes-federal-ai-datacenter-moratorium-michigan-early-voting-underway)**
 
-In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.
+DSA member Will Lawrence calls for a federal moratorium on new AI data centers, saying billionaires are abandoning democratic principles in small towns.
 
-Anthropic • 1d ago
-
----
-
-**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
-
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
-
-NPR • 9h ago
+Fox News • 47m ago
 
 ---
 
-**[Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations](https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html)**
+**[On Tim Cook’s Final Earnings Call, He Said Apple May Charge for Siri](https://gizmodo.com/on-tim-cooks-final-earnings-call-he-said-apple-may-charge-for-siri-2000793670)**
 
-The New York Times • 1d ago
-
----
-
-**[The Pros and Cons of Using AI to Diagnose Your Car Problems](https://www.wsj.com/tech/personal-tech/ai-tools-car-maintenance-pros-cons-7e9c73d5)**
-
-WSJ • 1h ago
+Gizmodo • 1h ago
 
 ---
 
-**[Opinion: How a $100K campaign donation complicated the future of AI and Alaska](https://www.adn.com/opinions/2026/08/01/opinion-how-a-100k-campaign-donation-complicated-the-future-of-ai-and-alaska/)**
+**['Enhance the lives of every Utahn': Cox launches $5M AI research funding program](https://www.ksl.com/article/51604099/enhance-the-lives-of-every-utahn-cox-launches-5m-ai-research-funding-program)**
 
-As the state begins considering rules for artificial intelligence, major campaign contributions raise questions about access and influence.
+Gov. Spencer Cox on Thursday launched a $5 million competitive grant program to fund artificial intelligence research that improves the lives of Utahns.
 
-Anchorage Daily News • 1h ago
-
----
-
-**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
-
-OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
-
-OpenAI • 1h ago
+ksl.com • 1h ago
 
 ---
 
@@ -191,7 +167,31 @@ OpenAI • 1h ago
 
 AI is threatening white-collar, entry-level jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians, plumbers, and construction workers.
 
-Fortune • 4h ago
+Fortune • 6h ago
+
+---
+
+**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
+
+OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
+
+OpenAI • 3h ago
+
+---
+
+**[Google Just Ruined One of Its Most Important Tools](https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/)**
+
+Google Earth was a boon for researchers—and then came the deepfakes.
+
+The Atlantic • 22h ago
+
+---
+
+**[Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky)**
+
+Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
+
+NPR • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ Fortune • 4h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 548 • 💬 581 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 551 • 💬 584 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -233,13 +233,13 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 236 • 💬 242 • 10h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 241 • 💬 254 • 11h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 227 • 💬 65 • 15h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 230 • 💬 65 • 16h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -247,13 +247,13 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 189 • 💬 217 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 193 • 💬 221 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
 **[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
 
-⬆️ 153 • 💬 164 • 1d ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 155 • 💬 166 • 1d ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -269,7 +269,7 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 127 • 💬 75 • 1d ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 129 • 💬 75 • 1d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
@@ -283,7 +283,7 @@ I agree with MOST of what he's saying but… Support my independent journalism: 
 
 📺 Taylor Lorenz Livestreams
 
-👁️ 2K • 👍 225 • 💬 120 • ⏱️ 14:57 • 5h ago
+👁️ 2K • 👍 225 • 💬 120 • ⏱️ 14:57 • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 11K • 👍 286 • 💬 31 • ⏱️ 9:54 • 21h ago
+👁️ 11K • 👍 286 • 💬 31 • ⏱️ 9:54 • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Podcasts
 
-👁️ 287K • 👍 5K • 💬 1K • ⏱️ 8:48 • 20h ago
+👁️ 287K • 👍 5K • 💬 1K • ⏱️ 8:48 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ This month in AI got wild fast. China had another DeepSeek-style breakout, Kimi 
 
 📺 AI Revolution
 
-👁️ 21K • 👍 545 • 💬 70 • ⏱️ 1:50:36 • 17h ago
+👁️ 21K • 👍 545 • 💬 70 • ⏱️ 1:50:36 • 19h ago
 
 ---
 
@@ -363,7 +363,7 @@ Support our work: http://novara.media/support Buy Novara Media merch: https://sh
 
 📺 Filmy Itihas
 
-👁️ 7K • 👍 188 • 💬 6 • ⏱️ 0:20 • 3h ago
+👁️ 7K • 👍 188 • 💬 6 • ⏱️ 0:20 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,351 • 14h ago
+⬇️ 15,366 • ❤️ 1,351 • 16h ago
 
 ---
 
@@ -449,7 +449,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 260 • 12h ago
+⬇️ 4,048 • ❤️ 260 • 13h ago
 
 ---
 
@@ -649,7 +649,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 290 • 1h ago
+⭐ 3.7k • 🔱 290 • 3h ago
 
 ---
 
@@ -669,7 +669,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 414 • 4h ago
+⭐ 3.0k • 🔱 414 • 5h ago
 
 ---
 
@@ -687,7 +687,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 212 • 8h ago
+⭐ 1.8k • 🔱 212 • 10h ago
 
 ---
 
@@ -697,7 +697,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1m ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -715,7 +715,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 172 • 1m ago
+⭐ 1.4k • 🔱 172 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ Open Science is an open-source, local-first, model-agnostic AI research workbenc
 
 `TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
 
-⭐ 1.4k • 🔱 87 • 9m ago
+⭐ 1.4k • 🔱 87 • 1h ago
 
 ---
 

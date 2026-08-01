@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T18:06:16.074209+00:00'
+updated: '2026-08-01T19:43:28.889862+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 18:06 UTC  
+**Last Updated:** August 01, 2026 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,870.00
+### $1,855.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -4.8%  
-**30d:** +5.9%  
-**90d:** -20.7%  
-**1y:** -45.2%  
+**24h:** -1.4%  
+**7d:** -6.1%  
+**30d:** +4.4%  
+**90d:** -21.8%  
+**1y:** -45.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-6h ago
+8h ago
 
 ---
 
@@ -154,7 +154,7 @@ in april 2026, the head of product at X posted a screenshot: the number one most
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 3d ago
+blog.ethereum.org • 3d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 20h ago
+TradingView • 22h ago
 
 ---
 
@@ -198,15 +198,7 @@ MarketWatch • 1d ago
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
-coindesk.com • 2d ago
-
----
-
-**[Bitcoin Stuck at $63,000, Ethereum, XRP, Dogecoin Down up to 2% on Weak Friday](https://www.benzinga.com/crypto/cryptocurrency/26/07/60851941/bitcoin-stuck-at-63000-ethereum-xrp-dogecoin-down-up-to-2-on-weak-friday)**
-
-Cryptocurrencies struggle despite strong ETF inflows and hawkish Fed tone on interest rates. Analysts expect possible pullback to $60,000-$61,000 range and a fall below could trigger prolonged weakness.
-
-Benzinga • 23h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -226,6 +218,14 @@ FXStreet • 1d ago
 
 ---
 
+**[Happy Birthday, Ethereum! 'ETH's New Leadership Era Is Here,' Expert Says](https://www.benzinga.com/crypto/cryptocurrency/26/07/60794668/happy-birthday-ethereum-eths-new-leadership-era-is-here-expert-says)**
+
+ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
+
+Benzinga • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 384 • 👍 31 • 💬 83 • ⏱️ 13:19 • 3h ago
+👁️ 384 • 👍 31 • 💬 83 • ⏱️ 13:19 • 4h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 301 • 💬 26 • ⏱️ 10:08 • 15h ago
+👁️ 5K • 👍 301 • 💬 26 • ⏱️ 10:08 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 311 • 👍 15 • 💬 44 • ⏱️ 5:11 • 8h ago
+👁️ 311 • 👍 15 • 💬 44 • ⏱️ 5:11 • 10h ago
 
 ---
 
@@ -286,7 +286,7 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 362 • 👍 21 • 💬 1 • ⏱️ 0:56 • 2h ago
+👁️ 362 • 👍 21 • 💬 1 • ⏱️ 0:56 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 65 • 💬 70 • ⏱️ 32:57 • 23h ago
+👁️ 2K • 👍 65 • 💬 70 • ⏱️ 32:57 • 1d ago
 
 ---
 
@@ -316,7 +316,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in In
 
 📺 Ashutosh Kumar
 
-👁️ 6K • 👍 588 • 2h ago
+👁️ 6K • 👍 588 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 874 • 👍 116 • 💬 9 • ⏱️ 12:19 • 9h ago
+👁️ 874 • 👍 116 • 💬 9 • ⏱️ 12:19 • 10h ago
 
 ---
 
