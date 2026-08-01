@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T09:32:19.276556+00:00'
+updated: '2026-08-01T11:16:45.340267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 09:32 UTC  
+**Last Updated:** August 01, 2026 at 11:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,7 +130,7 @@ WIRED • 1d ago
 
 Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
 
-CNET • 21h ago
+CNET • 23h ago
 
 ---
 
@@ -138,23 +138,21 @@ CNET • 21h ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 20m ago
+Business Insider • 2h ago
 
 ---
 
-**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
-
-BBC • 2d ago
+Reuters • 3d ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-abcnews.com • 19h ago
+ABC News - Breaking News, Latest News and Videos • 21h ago
 
 ---
 
@@ -162,7 +160,7 @@ abcnews.com • 19h ago
 
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -170,7 +168,7 @@ finance.yahoo.com • 2d ago
 
 Crashing mechanical shambles makes the presentation ring hollow.
 
-Tom's Hardware • 18h ago
+Tom's Hardware • 19h ago
 
 ---
 
@@ -184,7 +182,7 @@ Tech Xplore • 1d ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 1d ago
+theglobeandmail.com • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 12h ago
+👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 14h ago
 
 ---
 
@@ -276,7 +274,7 @@ AI is moving from answering questions to taking action, and the bills are arrivi
 
 📺 CNBC
 
-👁️ 16K • 👍 350 • 💬 63 • ⏱️ 47:00 • 16h ago
+👁️ 16K • 👍 350 • 💬 63 • ⏱️ 47:00 • 18h ago
 
 ---
 

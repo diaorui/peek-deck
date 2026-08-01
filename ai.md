@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T09:32:19.258735+00:00'
+updated: '2026-08-01T11:16:45.327840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 09:32 UTC  
+**Last Updated:** August 01, 2026 at 11:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 5h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 2h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 1h ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard.
 
-16h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 Marketing teams sit on more data than ever, yet many still spend a large part of the week just assembling reports. By the time the numbers are clean and explained, the window to act has already narrowed. A more practical use of AI in this space focuses on detection and explanation rather than another dashboard. The system watches for unusual movements, surfaces the likely drivers, and presents them in plain language. Analysts spend less time pulling the same weekly views and more time deciding what to do next. The useful part is speed. When something shifts in performance, the team hears about it earlier instead of discovering it during a scheduled review. Of course this only works if the underlying data is reliable, otherwise the explanations become noise. Is anyone here already using AI this way for marketing performance, or are most teams still in the experimental stage?
 
-1h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Marketing teams sit on more data than ever, yet many still spend a large part of
 
 Any apps or websites that allow for turn based voice chat? I really missed the old standard voice mode on ChatGPT. It basically just read aloud the text models response. So it could allow for long responses unlike these new gen voice models that can only speak 1 paragraph max. I was wondering if there are any apps or websites that use turn based voice chat like the old standard voice mode on ChatGPT. So I would say my thing, then it would be the ai turn to speak and i couldn’t interrupt it till its finished. My current problem is that the new standard voice mode on ChatGPT can be interrupted. So it’s hears its own voice and keeps stopping. So I’m looking for alternative apps or websites that have this old functionality
 
-4h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Any apps or websites that allow for turn based voice chat? I really missed the o
 
 I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
 
-14h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm currently studying the social implications of AI. Lately agentic systems are
 
 ¿y la conciencia?
 
-7h ago
+9h ago
 
 ---
 
@@ -105,15 +105,15 @@ I'm currently studying the social implications of AI. Lately agentic systems are
 
 The biggest mistake people make about AI is thinking it’s coming for artists, writers, musicians, or programmers. They’re just first. AI is coming for almost every profession that depends more on a brain than a body. Accountants. Lawyers. Teachers. Consultants. Analysts. Customer service. Marketing. Management. Software engineering. Research. Finance. Medicine. Eventually almost every job where the primary product is human thought. Manual labor only looks safe because robotics hasn’t caught up yet. AI doesn’t have to replace an entire profession to destroy it. It only has to let one person do the work of ten. Companies don’t need AI to be perfect. They need it to be cheaper than you. Once that happens, replacing people stops being a technological question and becomes an accounting decision. For most workers, there is no safe career waiting on the other side. People tell themselves we’ll adapt like we always have. We won’t. The Industrial Revolution replaced muscle while making human intelligence more valuable. AI replaces the intelligence behind the work itself. Every previous technological revolution created new industries that still needed millions of people. AI is being built for the opposite purpose: producing more with fewer humans. The next comforting myth is that people will simply buy human-made products instead. No, they won’t. There will always be a luxury market for handmade art, music, books, furniture, and clothing. There are still people who buy mechanical watches and vinyl records. That’s a niche—not an economy. Most people buy whatever is cheaper, faster, easier, and good enough. Businesses care even less. They exist to reduce costs, increase output, and beat competitors. Sentiment doesn’t survive quarterly earnings. There is no hidden human economy large enough to rescue everyone AI makes unnecessary. The consequences don’t stop with unemployment. Workers are also consumers and taxpayers. If hundreds of millions of people lose well-paid jobs, they stop buying homes, cars, vacations, entertainment, and everything else that keeps economies alive. Businesses lose customers, lay off more workers, governments collect less tax revenue, public services deteriorate, debt grows, pensions become harder to fund, and political instability follows. Countries built around exporting knowledge work lose entire sectors of their economies. Migration accelerates. Extremism grows. Governments respond with more surveillance, more control, and fewer freedoms because instability always creates demand for stronger authority. That is the point where this stops being a labor-market problem and becomes a global breakdown. Meanwhile, the wealth doesn’t disappear. It concentrates. The companies that own the models, data centers, chips, energy, and infrastructure become the gatekeepers of the global economy. AI doesn’t just replace workers. It transfers bargaining power from billions of people to a handful of institutions. Most of humanity will have less income, less leverage, and less freedom while a tiny ownership class gains more power than any ruling class in history. The people building AI are warning about this. Anthropic CEO Dario Amodei has warned that AI could eliminate half of entry-level white-collar jobs within one to five years. Geoffrey Hinton, one of the pioneers of modern AI and a Nobel laureate, has warned that AI will replace jobs, increase inequality, strengthen authoritarian surveillance, enable more powerful cyberattacks, and create systems that may become more intelligent than humans without any proven way to keep them under control. Yoshua Bengio has repeatedly warned that AI can strengthen authoritarian governments, manipulate populations, and accelerate a global arms race in increasingly autonomous systems. A *Science* paper co-authored by Hinton, Bengio, Stuart Russell, Andrew Yao, Dawn Song, and many other leading researchers warns of the possibility of an “irreversible loss of human control” if AI capabilities keep advancing without comparable progress in safety. What makes this different from every previous technology isn’t just its capability. It’s the incentives. No government will voluntarily give up a military or intelligence advantage. No corporation will preserve expensive human jobs while competitors replace theirs. Every major player has a reason to move faster, and almost none have a reason to slow down. The race continues because everyone believes stopping first means losing. There is no responsible adult coming to end this race. The institutions with the power to stop it are the same institutions that gain the most from continuing. We’re not building another tool. We’re building a replacement for the thing that made humans economically indispensable, then connecting it to finance, medicine, education, infrastructure, government, warfare, and eventually robotics. Once those systems become essential to running civilization, there may be no practical way back—and no meaningful human authority left capable of taking control. This won’t be remembered as another technological revolution. It will be remembered as the moment humanity automated its own economic value and handed the resulting power to institutions it could no longer restrain. **Further reading** Geoffrey Hinton — Nobel Prize interview: https://www.nobelprize.org/prizes/physics/2024/hinton/1925103-interview-transcript/ Geoffrey Hinton — Nobel Prize lecture: https://www.nobelprize.org/prizes/physics/2024/hinton/speech/ Dario Amodei — Essays: https://darioamodei.com/ Anthropic — Labor-market research: https://www.anthropic.com/research/labor-market-impacts Yoshua Bengio — AI-safety essays: https://yoshuabengio.org/ *Science* — “Managing Extreme AI Risks Amid Rapid Progress”: https://www.science.org/doi/10.1126/science.adn0117 **TL;DR:** AI isn’t coming for one industry. It’s coming for human cognition itself. When the world’s most valuable economic resource becomes abundant and nearly free, jobs disappear, economies fracture, governments become more authoritarian, and wealth and control concentrate among the institutions that own the technology. There is no safe place for most of humanity in that system.
 
-51m ago
+2h ago
 
 ---
 
-**[Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://www.reddit.com/r/artificial/comments/1vb40gz/google_says_it_fixed_more_chrome_bugs_in_june/)**
+**[Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence](https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/)**
 
->The tech giant announced that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. That is more than the number of bugs patched in the previous 23 versions released over the last two years, which totalled 1,036 fixes.
+Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding" about a year ago. At Sequoia's AI Ascent 2026, Stephanie Zhan asked him directly whether the last year felt exhilarating or unsettling. His answer: he's never felt more behind as a programmer. Every credentialed builder I watch eventually says some version of this — the title survives, the rung underneath it doesn't. His explanation is the actual value here. Software 1.0 was explicit rules. Software 2.0 was learned weights. Software 3.0 is prompting — your context window is the lever you pull over the interpreter now, not the code you type. The job didn't get easier. It got redefined, and most people are still measuring themselves against the old definition. Actually, this reminds me of something — a solo founder whose code runs on 6% of the internet admitted AI output compiles clean and still reads as slop until a human's taste steps in. Clip credit: Sequoia Capital — DM for credit or removal requests.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/) • 1d ago
+18h ago
 
 ---
 
@@ -121,55 +121,23 @@ The biggest mistake people make about AI is thinking it’s coming for artists, 
 
 ## Google News: "ai"
 
-**[Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)**
+**[The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
 
-In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we’re changing. We encourage other AI labs to perform similar reviews.
-
-Anthropic • 1d ago
-
----
-
-**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
-
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
-
-NPR • 32m ago
+WSJ • 10h ago
 
 ---
 
 **[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
 
-Reuters • 13h ago
+Reuters • 15h ago
 
 ---
 
-**[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
+**[An OpenAI product manager's advice for AI prompts: 'I ramble'](https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8)**
 
-The New York Times • 7h ago
+OpenAI product manager Ty Geri told Business Insider that he sends long rambles to ChatGPT Work to figure out what's "sticking."
 
----
-
-**[The biggest gamble in the U.S. economy is starting to look riskier](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/)**
-
-The fates of the economy and millions of retirement accounts are entangled with a giant bet on artificial intelligence by leading tech firms.
-
-The Washington Post • 5h ago
-
----
-
-**[How Mexico became a surprise cornerstone of America’s AI boom](https://www.ft.com/content/ac3274ac-86ca-46ac-bc7b-029fb9dcd173?syn-25a6b1a6=1)**
-
-Factories churning out servers for data centres are pushing exports to record levels
-
-Financial Times • 5h ago
-
----
-
-**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
-
-OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
-
-OpenAI • 1h ago
+Business Insider • 46m ago
 
 ---
 
@@ -177,15 +145,39 @@ OpenAI • 1h ago
 
 Taiwan suppliers to U.S. leaders such as Nvidia, Amazon and Google remain poised to benefit from the AI boom, says TriOrient Vice President Dan Nystedt
 
-Forbes • 7m ago
+Forbes • 1h ago
 
 ---
 
-**[AI can find top C-suite candidates. The harder part is persuading them to take the job.](https://www.businessinsider.com/ai-speeding-up-some-parts-executive-hiring-2026-8)**
+**[Anthropic said its AI models hacked into other companies’ systems during testing](https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack)**
 
-C-suite recruiters say AI is accelerating research and widening talent pools. Judgment, consensus-building, and courtship remain distinctly human.
+AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAI disclosing its models did the same.
 
-Business Insider • 36m ago
+CNN • 1d ago
+
+---
+
+**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
+
+OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
+
+npr.org • 2h ago
+
+---
+
+**[Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/)**
+
+Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?
+
+WIRED • 1h ago
+
+---
+
+**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
+
+OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
+
+OpenAI • 3h ago
 
 ---
 
@@ -193,7 +185,13 @@ Business Insider • 36m ago
 
 Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-CNBC • 18h ago
+CNBC • 20h ago
+
+---
+
+**[Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
+
+The New York Times • 12h ago
 
 ---
 
@@ -203,7 +201,7 @@ CNBC • 18h ago
 
 **[AI's top startups are barely publishing their research](https://news.ycombinator.com/item?id=49103285)**
 
-⬆️ 612 • 💬 318 • 2d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+⬆️ 612 • 💬 319 • 2d ago • [science.org](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 
 ---
 
@@ -211,7 +209,7 @@ CNBC • 18h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 514 • 💬 531 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 529 • 💬 544 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -235,7 +233,7 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 347 • 💬 420 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 348 • 💬 420 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -243,13 +241,13 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 162 • 💬 190 • 18h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 167 • 💬 197 • 19h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
 **[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
 
-⬆️ 147 • 💬 157 • 19h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 148 • 💬 158 • 21h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -257,21 +255,19 @@ The idea that artificial intelligence can “reason” is more intuitive than ev
 
 Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.
 
-⬆️ 141 • 💬 159 • 1d ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
+⬆️ 141 • 💬 160 • 1d ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
+
+---
+
+**[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
+
+⬆️ 132 • 💬 46 • 8h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
 **[After the AI Crash](https://news.ycombinator.com/item?id=49096953)**
 
 ⬆️ 127 • 💬 236 • 2d ago • [potsandpansbyccg.com](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
-
----
-
-**[Show HN: What should the GUI for AI agents look like?](https://news.ycombinator.com/item?id=49119274)**
-
-A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
-
-⬆️ 116 • 💬 66 • 1d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
@@ -285,7 +281,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Podcasts
 
-👁️ 186K • 👍 4K • 💬 1K • ⏱️ 8:48 • 11h ago
+👁️ 186K • 👍 4K • 💬 1K • ⏱️ 8:48 • 13h ago
 
 ---
 
@@ -295,7 +291,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 12h ago
+👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 14h ago
 
 ---
 
@@ -305,7 +301,7 @@ Bloomberg's Hema Parmar details the massive selloff of AI assets from Situationa
 
 📺 Bloomberg Podcasts
 
-👁️ 31K • 👍 375 • 💬 76 • ⏱️ 6:13 • 13h ago
+👁️ 31K • 👍 375 • 💬 76 • ⏱️ 6:13 • 15h ago
 
 ---
 
@@ -315,7 +311,7 @@ This month in AI got wild fast. China had another DeepSeek-style breakout, Kimi 
 
 📺 AI Revolution
 
-👁️ 12K • 👍 402 • 💬 54 • ⏱️ 1:50:36 • 8h ago
+👁️ 12K • 👍 402 • 💬 54 • ⏱️ 1:50:36 • 10h ago
 
 ---
 
@@ -325,7 +321,7 @@ Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/
 
 📺 Matt Wolfe
 
-👁️ 37K • 👍 2K • 💬 130 • ⏱️ 27:49 • 19h ago
+👁️ 37K • 👍 2K • 💬 130 • ⏱️ 27:49 • 20h ago
 
 ---
 
@@ -335,7 +331,7 @@ The AI giant says one of its models broke into the computer systems of three oth
 
 📺 ABC News
 
-👁️ 44K • 👍 581 • 💬 300 • ⏱️ 1:33 • 19h ago
+👁️ 44K • 👍 581 • 💬 300 • ⏱️ 1:33 • 21h ago
 
 ---
 
@@ -365,7 +361,7 @@ It's never been about what LLMs can actually do. It's about the perception of AI
 
 📺 The Tech Report
 
-👁️ 202K • 👍 7K • 💬 1K • ⏱️ 38:43 • 15h ago
+👁️ 202K • 👍 7K • 💬 1K • ⏱️ 38:43 • 17h ago
 
 ---
 
@@ -375,7 +371,7 @@ A US-registered drone factory in Kyiv has been destroyed by a Russian ballistic 
 
 📺 Times Now World
 
-👁️ 14K • 👍 395 • 💬 72 • ⏱️ 3:38 • 18h ago
+👁️ 14K • 👍 395 • 💬 72 • ⏱️ 3:38 • 19h ago
 
 ---
 
@@ -403,7 +399,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,196 • 6h ago
+⬇️ 15,366 • ❤️ 1,196 • 8h ago
 
 ---
 
@@ -487,7 +483,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 223 • 3h ago
+⬇️ 4,048 • ❤️ 223 • 5h ago
 
 ---
 
@@ -654,7 +650,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 287 • 15h ago
+⭐ 3.7k • 🔱 287 • 16h ago
 
 ---
 
@@ -674,7 +670,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 412 • 14h ago
+⭐ 3.0k • 🔱 412 • 16h ago
 
 ---
 
@@ -692,7 +688,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 211 • 18m ago
+⭐ 1.8k • 🔱 211 • 2h ago
 
 ---
 
@@ -702,7 +698,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 59s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -720,7 +716,7 @@ Open Science is an open-source, local-first, model-agnostic AI research workbenc
 
 `TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
 
-⭐ 1.4k • 🔱 87 • 3m ago
+⭐ 1.4k • 🔱 87 • 1h ago
 
 ---
 
@@ -730,7 +726,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.3k • 🔱 166 • 36m ago
+⭐ 1.3k • 🔱 166 • 2h ago
 
 ---
 

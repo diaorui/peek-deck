@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T09:32:19.273309+00:00'
+updated: '2026-08-01T11:16:45.338065+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 09:32 UTC  
+**Last Updated:** August 01, 2026 at 11:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,869.08
+### $1,864.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -4.3%  
-**30d:** +6.3%  
-**90d:** -20.3%  
-**1y:** -44.9%  
+**24h:** -0.9%  
+**7d:** -4.5%  
+**30d:** +6.1%  
+**90d:** -20.5%  
+**1y:** -45.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 17h ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ ethereum.org • 2d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-finance.yahoo.com • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ finance.yahoo.com • 20h ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 12h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-theblock.co • 18h ago
+The Block • 20h ago
 
 ---
 
@@ -192,13 +192,13 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 19h ago
+MarketWatch • 21h ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ thestreet.com • 18h ago
 
 Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
 
-fool.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ FXStreet • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 198 • 💬 19 • ⏱️ 10:08 • 7h ago
+👁️ 2K • 👍 198 • 💬 19 • ⏱️ 10:08 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 486 • 💬 325 • ⏱️ 11:29 • 17h ago
+👁️ 9K • 👍 486 • 💬 325 • ⏱️ 11:29 • 19h ago
 
 ---
 
@@ -266,7 +266,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 86 • 👍 16 • 💬 1 • ⏱️ 12:19 • 32m ago
+👁️ 86 • 👍 16 • 💬 1 • ⏱️ 12:19 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 55 • 💬 49 • ⏱️ 32:57 • 14h ago
+👁️ 1K • 👍 55 • 💬 49 • ⏱️ 32:57 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 422 • 💬 20 • ⏱️ 34:32 • 23h ago
+👁️ 6K • 👍 422 • 💬 20 • ⏱️ 34:32 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ Upcoming inflation figures may signal positive market shifts. Discover the stron
 
 📺 MONEY GAME
 
-👁️ 813 • 👍 8 • 💬 63 • ⏱️ 0:18 • 15h ago
+👁️ 813 • 👍 8 • 💬 63 • ⏱️ 0:18 • 16h ago
 
 ---
 
@@ -316,7 +316,7 @@ CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc BUY EVERYTHING! 
 
 📺 Cryptoteacher
 
-👁️ 951 • 👍 90 • 💬 4 • ⏱️ 28:49 • 15h ago
+👁️ 951 • 👍 90 • 💬 4 • ⏱️ 28:49 • 17h ago
 
 ---
 
