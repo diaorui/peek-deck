@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-07-31T23:30:45.727162+00:00'
+updated: '2026-08-01T01:07:44.316333+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 23:30 UTC  
+**Last Updated:** August 01, 2026 at 01:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** -0.6%  
-**30d:** +9.6%  
-**90d:** -19.8%  
-**1y:** -46.6%  
+**24h:** -2.0%  
+**7d:** -4.5%  
+**30d:** +6.2%  
+**90d:** -20.5%  
+**1y:** -45.0%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-blog.ethereum.org • 2d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ blog.ethereum.org • 2d ago
 
 Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -172,7 +172,15 @@ Yahoo Finance • 21h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 8h ago
+The Block • 10h ago
+
+---
+
+**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
+
+Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
+
+tradingview.com • 3h ago
 
 ---
 
@@ -188,19 +196,19 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
-
----
-
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
-
-marketwatch.com • 9h ago
+Fortune • 14h ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
+
+---
+
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 11h ago
 
 ---
 
@@ -216,15 +224,7 @@ The Motley Fool • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) trade near key technical levels on Friday as the broader cryptocurrency market pauses following last week's recovery. BTC is approaching the 50-day Exponential Moving Average (EMA) while ETH continues to consolidate between two major EMAs.
 
-FXStreet • 19h ago
-
----
-
-**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
-
-Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
-
-CryptoSlate • 1d ago
+FXStreet • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 7h ago
+👁️ 7K • 👍 422 • 💬 274 • ⏱️ 11:29 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 959 • 💬 74 • ⏱️ 19:50 • 1d ago
+👁️ 24K • 👍 977 • 💬 76 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 398 • 💬 20 • ⏱️ 34:32 • 13h ago
+👁️ 6K • 👍 408 • 💬 20 • ⏱️ 34:32 • 14h ago
 
 ---
 
@@ -268,37 +268,17 @@ BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 933 • 👍 91 • 💬 70 • ⏱️ 25:14 • 2h ago
+👁️ 2K • 👍 181 • 💬 118 • ⏱️ 25:14 • 4h ago
 
 ---
 
-**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
+**[BMNR&#39;s HUGE Opportunity: ETH Strength &amp; Shrinking Shares! #shorts](https://www.youtube.com/watch?v=eN6RpYmvC6o)**
 
-ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
+Upcoming inflation figures may signal positive market shifts. Discover the strong link between Bitmine (BMNR) and Ethereum ...
 
-📺 Crypto Capital Venture
+📺 MONEY GAME
 
-👁️ 11K • 👍 553 • 💬 570 • ⏱️ 13:14 • 1d ago
-
----
-
-**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
-
-Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
-
-📺 YaBoySkey
-
-👁️ 554 • 👍 23 • 💬 7 • ⏱️ 2:58 • 1d ago
-
----
-
-**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
-
-Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
-
-📺 Thinking Crypto
-
-👁️ 18K • 👍 1K • 💬 176 • ⏱️ 20:27 • 2d ago
+👁️ 598 • 👍 7 • 💬 65 • ⏱️ 0:18 • 6h ago
 
 ---
 
@@ -308,7 +288,37 @@ Tom Lee at WebX 2026 compared current Ethereum to the market structure after the
 
 📺 Lark Davis
 
-👁️ 5K • 👍 144 • 💬 7 • ⏱️ 0:57 • 2d ago
+👁️ 5K • 👍 146 • 💬 7 • ⏱️ 0:57 • 2d ago
+
+---
+
+**[BIG CLARITY ACT NEWS! DEMOCRATS ETHICS COUNTEROFFER &amp; MORGAN STANLEY ETHEREUM &amp; SOLANA ETFS!](https://www.youtube.com/watch?v=g8VfljRvcHo)**
+
+Crypto News: Sen. Gallego and Sen. Tillis are "finalizing language" for a CLARITY ACT counteroffer from the Democrats and plan ...
+
+📺 Thinking Crypto
+
+👁️ 18K • 👍 1K • 💬 175 • ⏱️ 20:27 • 2d ago
+
+---
+
+**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
+
+Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
+
+📺 YaBoySkey
+
+👁️ 572 • 👍 23 • 💬 7 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
+
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 553 • 💬 570 • ⏱️ 13:14 • 2d ago
 
 ---
 
@@ -318,17 +328,7 @@ A college vending machine was secretly mining Ethereum for three years, earning 
 
 📺 Giving Hearts
 
-👁️ 38K • 👍 109 • ⏱️ 0:06 • 2d ago
-
----
-
-**[Le NOUVEAU plan de Vitalik Buterin pour imposer Ethereum !](https://www.youtube.com/watch?v=ysPlQSNS9S8)**
-
-Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscription via notre lien !
-
-📺 Journal du Coin
-
-👁️ 2K • 👍 193 • ⏱️ 11:18 • 10h ago
+👁️ 39K • 👍 110 • ⏱️ 0:06 • 2d ago
 
 ---
 

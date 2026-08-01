@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-07-31T23:30:45.718157+00:00'
+updated: '2026-08-01T01:07:44.301617+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** July 31, 2026 at 23:30 UTC  
+**Last Updated:** August 01, 2026 at 01:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard.
 
-6h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding" about a year ago. At Sequoia's AI Ascent 2026, Stephanie Zhan asked him directly whether the last year felt exhilarating or unsettling. His answer: he's never felt more behind as a programmer. Every credentialed builder I watch eventually says some version of this — the title survives, the rung underneath it doesn't. His explanation is the actual value here. Software 1.0 was explicit rules. Software 2.0 was learned weights. Software 3.0 is prompting — your context window is the lever you pull over the interpreter now, not the code you type. The job didn't get easier. It got redefined, and most people are still measuring themselves against the old definition. Actually, this reminds me of something — a solo founder whose code runs on 6% of the internet admitted AI output compiles clean and still reads as slop until a human's taste steps in. Clip credit: Sequoia Capital — DM for credit or removal requests.
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding"
 
 I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
 
-4h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ I'm currently studying the social implications of AI. Lately agentic systems are
 
 been noticing more and more campaigns where the copy, visuals, even the targeting logic gets handed off to AI tools, and the whole conversation in marketing circles stays locked on efficiency and cost savings. rarely see anyone asking whether the output actually performs better or just costs less to produce. there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product. i've looked for independent research on this and haven't found much. the part that bugs me most is the personalization pitch. personalization at scale sounds great until you realize every brand is using the same three AI tools to personalize, which means they're all producing weirdly similar content aimed at the same audience segments. that's kind of the opposite of standing out. the cost efficiency argument makes sense on paper, the same way it does with robotics or game development. cut headcount, ship faster, reduce spend. but marketing effectiveness is notoriously hard to measure cleanly even without AI in the mix. are brands actually tracking this properly or just reporting on vanity metrics and calling it a win. curious if anyone here has seen real benchmarks comparing AIassisted campaigns to traditional ones that weren't published by a company trying to sell you something.
 
-6h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ been noticing more and more campaigns where the copy, visuals, even the targetin
 
 My school just sent out a newsletter for like a welcome back thing and the entire email was ai, it was a brief little blurb and then an ai image, sorry I cant link it.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ My school just sent out a newsletter for like a welcome back thing and the entir
 
 From August 2, Brussels gains sweeping powers over the world's largest AI models. The real test is whether the Commission is willing, and equipped,...
 
-🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 14h ago
+🔗 [The Parliament Magazine](https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai) • 15h ago
 
 ---
 
@@ -97,7 +97,7 @@ From August 2, Brussels gains sweeping powers over the world's largest AI models
 
 I had been throwing around an idea for a useful tool for a few years now. I bounced ideas off of ChatGPT maybe a year or two ago, and it didn't really go anywhere. AI couldn't do what I was looking for at the time. But time passes, and suddenly my brothers are sharing video games they had used Claude Code and Godot to fabricate. I find this fascinating, and intend to jump in myself, only some point in the future. It sounds like a bit of fun, but nothing I really have time to invest in learning it. And so time continues to pass, when I decide to bounce those old ideas off of ChatGPT again. This was a couple of months ago now, but I am still rather pleased with what GPT shot back. It recommended I think about my intentions backwards and provided the general shape of how a different application that accomplishes the same task could work. This general shape were project design documents. Well, I was still a novice (still am) in the AI field, so when I thought of coding my mind went to my brothers and Claude Code. So I get a 20 dollar subscription to Claude Code, and ask GPT to provide a prompt to Claude, a prompt that would be the first step of the project, the rough shape put together by GPT. And so it went. GPT would make a prompt, I would submit it to Claude, Claude would create a summary, GPT would review and provide the next prompt. And so it continued, for a time. At first, Claude was the only agent with access to the project folder on my computer. I would manually upload edited files to GPT, along with the summary. As time went on I discussed the project with one of my brothers, who recommended keeping a back-up. So I had GPT walk me through the process of creating a Github account, getting Claude permissions for it, and adjusting the process. I granted GPT access to Github as well, and it could finally see the files for itself. I kept Claude as my active agent, and GPT maintained the role of reviewer and gained the responsibility of being the merger. There was an addition of a minor step to have Claude update the local files to match the current branch of the Github as well, since GPT still could not access the files on my PC. It was a decent chunk of time into this 'era' of my project that I recalled GPT *also* had Codex. So I base Codex in the same project folder as Claude, and now it can see the project as a whole. It was also at this point that Fable comes out, and I have it do a few audits of the project thus far. The process grows slightly more streamlined as well, as Claude will do the coding, and now GPT reviews, merges, updates the local files, and generates the next prompt. It's quite the interesting endeavor, and I have a basic working version of the product to prove the process. There is still a great deal to go, especially in the area of polish. It has declared the project complete three times, and I've had to tend to correction. There often isn't too much to correct, but there is still a need. I tend to tread them as folks who might work for me. How accurate their product is depends upon how precise I am with what I want. I had some terrible organization early on because I hadn't told it how to organize, it just made a massive list. One final note, I had to mess around with Powershell at some point as well, to update ghcli or something or other. That was around the Github creation and connection. I should also mention that the project is still kept private as it is not complete, nor will I share what the project is because I both do not wish to self-promote nor is it really relevant to the usage of AI. Well, it could be, but this project is not gardening. I suppose I will also note that it's been around 70 million tokens for this project so far. I have no context for this usage. This has been my experience thus far, do you have any thoughts or recommendations?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ I had been throwing around an idea for a useful tool for a few years now. I boun
 
 I compared the standard API list prices of 18 models from OpenAI, Anthropic, Google, xAI, DeepSeek, and Mistral. To make the numbers easier to understand, I calculated the cost of the same sample workload across different models: 100,000 input tokens 20,000 output tokens Standard short-context pricing No batch, caching, tool-use, or priority-processing discounts Approximate cost for this workload: Gemini 2.5 Flash-Lite: $0.018 DeepSeek V4 Flash: $0.0196 Mistral Small 4: $0.027 GPT-5.6 Luna: $0.044 DeepSeek V4 Pro: $0.0609 Mistral Large 3: $0.080 Grok 4.3: $0.175 Claude Haiku 4.5: $0.20 Grok 4.5: $0.32 Claude Sonnet 5: $0.40 GPT-5.6 Terra: $0.44 Gemini 3.1 Pro Preview: $0.44 Claude Opus 5: $1.00 GPT-5.6 Sol: $1.10 Claude Fable 5: $2.00 The basic calculation is: Total cost = [(input tokens ÷ 1,000,000) × input price] + [(output tokens ÷ 1,000,000) × output price] The difference between the cheapest and most expensive option in this example is more than 100x. That does not mean the cheapest model is automatically the best choice. These models differ significantly in reasoning quality, coding performance, context handling, speed, reliability, and tool-use capabilities. The most cost-efficient setup may be model routing rather than relying on a single provider: Cheap models for classification, extraction, translation, and short summaries Mid-range models for everyday agents and structured generation Premium models for complex reasoning, coding, and high-stakes tasks Output-heavy applications should pay particular attention to output pricing. A model with inexpensive input tokens can still become costly if it generates long responses. I run Karekod Blog and published the complete comparison, including all 18 models, input/output prices, TRY conversions, and the calculation formula here: https://www.karekod.org/blog/yapay-zeka-token-fiyati/ The data was checked against the official pricing pages of the six providers. Which model currently offers the best quality-to-price ratio in your real-world projects? Disclosure: I manage the website linked above. AI assistance was used to organize this post, while the prices were checked against official provider documentation.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ I compared the standard API list prices of 18 models from OpenAI, Anthropic, Goo
 
 Everything I vibe-coded kept coming out the same: purple gradient, three-card row, rounded-2xl everything, an italic serif hero I never asked for. The model fills any decision you leave unspecified with the average of its training data, and that average is the "AI look." So I catalogued the tells, then wrote them up as a drop-in rules file. Rename it to CLAUDE.md, .cursorrules, or AGENTS.md and your agent designs against the defaults automatically. It is phrased as "prefer a real decision over the reflex," not a blanket ban, because half these patterns are fine in the right place. You just don't want all of them at once by accident. Rules file: https://github.com/febbhav/signs-of-ai-design/blob/main/design-rules.md
 
-20h ago
+22h ago
 
 ---
 
@@ -123,7 +123,51 @@ Everything I vibe-coded kept coming out the same: purple gradient, three-card ro
 
 **[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
 
-The New York Times • 14h ago
+The New York Times • 9h ago
+
+---
+
+**[Google pauses AI satellite images, after fears of deepfakes in the sky](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky)**
+
+Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.
+
+NPR • 7h ago
+
+---
+
+**[Google Just Ruined One of Its Most Important Tools](https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/)**
+
+Google Earth was a boon for researchers—and then came the deepfakes.
+
+theatlantic.com • 3h ago
+
+---
+
+**[Alphabet rolls back AI image generation in Google Earth over policy violations](https://www.reuters.com/business/media-telecom/alphabet-rolls-back-ai-image-generation-google-earth-over-policy-violations-2026-07-31/)**
+
+reuters.com • 1h ago
+
+---
+
+**[What Middle Managers Need Most In The AI Era](https://www.forbes.com/sites/cindyrodriguezconstable/2026/07/31/what-middle-managers-need-most-in-the-ai-era/)**
+
+AI is absorbing management's transactional work. The gap it's exposing—strategy, coaching, identity—is where most organizations have stopped investing.
+
+Forbes • 23m ago
+
+---
+
+**[How OpenAI Lost its AI Crown—and the Fight to Win It Back](https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695)**
+
+WSJ • 7m ago
+
+---
+
+**[Trump administration announces $100 billion AI data center project in western Kentucky](https://komonews.com/news/nation-world/trump-administration-announces-100-billion-ai-data-center-project-in-western-kentucky)**
+
+The Trump administration has announced plans to transform part of a former uranium enrichment facility in western Kentucky into a massive AI data center.
+
+KOMO • 1h ago
 
 ---
 
@@ -131,65 +175,21 @@ The New York Times • 14h ago
 
 Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[Inside the Meltdown of a Wunderkind’s A.I. Hedge Fund](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
+**[Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
 
 The New York Times • 2h ago
 
 ---
 
-**[Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout](https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1)**
+**[The market’s big AI doubts are exposing the riskiest players](https://www.cnn.com/2026/07/31/business/situational-awareness-citadel-ai-trade)**
 
-Investors say the hedge fund deal reassured jittery traders in tech stocks
+The meteoric rise and stunning near-collapse this week of a US hedge fund has sent shockwaves across global markets, becoming a kind of cautionary tale for the AI era.
 
-ft.com • 1h ago
-
----
-
-**[$2m crime novel deal collapses amid questions over AI use](https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body)**
-
-Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’
-
-The Guardian • 6h ago
-
----
-
-**[The Red-Hot Book at the Center of an AI Mystery](https://www.wsj.com/business/media/the-red-hot-book-at-the-center-of-an-ai-mystery-201c4665)**
-
-WSJ • 42m ago
-
----
-
-**[This bookseller thought a large request was 'spam.' It's AI companies scanning and destroying them](https://fortune.com/2026/07/31/dutch-bookseller-ai-spam-phishing-3000-book-copies-scan-destroy/)**
-
-"I was shocked!" Pieter de Vries of Haarlem told Fortune. He said several other Dutch antiquarian booksellers received the same request.
-
-Fortune • 16h ago
-
----
-
-**[LinkedIn adds a 'seems like AI slop’ button after blocking billions of automated comment attempts in the last few months](https://fortune.com/2026/07/31/linkedin-seems-like-ai-slop-button-billions-automated-comments-attempts/)**
-
-“AI slop is a top priority for all of us,” said LinkedIn chief product officer Hari Srinivasan in a post.
-
-Fortune • 58m ago
-
----
-
-**[US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model](https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model)**
-
-South China Morning Post • 37m ago
-
----
-
-**[The biggest gamble in the U.S. economy is starting to look riskier](https://www.washingtonpost.com/technology/2026/07/31/tech-giants-burning-cash-ai-create-risks-whole-economy/)**
-
-The fates of the economy and millions of retirement accounts are entangled with a giant bet on artificial intelligence by leading tech firms.
-
-The Washington Post • 58m ago
+CNN • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Washington Post • 58m ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 475 • 💬 484 • 16h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 480 • 💬 488 • 17h ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -223,7 +223,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 Writing about the big beautiful mess that is making things for the world wide web.
 
-⬆️ 361 • 💬 175 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+⬆️ 362 • 💬 175 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -231,7 +231,7 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 345 • 💬 413 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 346 • 💬 415 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -247,13 +247,13 @@ A new AI company from Andrew Ng, with a $100M investment from Coursera — build
 
 Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.
 
-⬆️ 140 • 💬 152 • 19h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
+⬆️ 140 • 💬 156 • 20h ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
 
 ---
 
 **[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
 
-⬆️ 139 • 💬 138 • 9h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 140 • 💬 142 • 11h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -267,7 +267,7 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 102 • 💬 137 • 8h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 116 • 💬 146 • 9h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -291,7 +291,7 @@ If this is an AI bubble and this is dot-com 2.0 are we in '97 or '99 with Jim Ch
 
 📺 Prof G Markets
 
-👁️ 23K • 👍 656 • 💬 27 • ⏱️ 1:46 • 8h ago
+👁️ 23K • 👍 656 • 💬 27 • ⏱️ 1:46 • 10h ago
 
 ---
 
@@ -301,7 +301,7 @@ ai #books #news Each weekday morning, "CBS Mornings" co-hosts Gayle King, Tony D
 
 📺 CBS Mornings
 
-👁️ 2K • 👍 89 • 💬 8 • ⏱️ 1:10 • 4h ago
+👁️ 2K • 👍 89 • 💬 8 • ⏱️ 1:10 • 6h ago
 
 ---
 
@@ -331,7 +331,7 @@ usa #ai #jobs.
 
 📺 The Rest Is Politics US
 
-👁️ 8K • 👍 291 • 💬 23 • ⏱️ 1:31 • 11h ago
+👁️ 8K • 👍 291 • 💬 23 • ⏱️ 1:31 • 13h ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 493,481 • ❤️ 9,263 • 4d ago
+⬇️ 493,481 • ❤️ 9,278 • 4d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 0 • ❤️ 921 • 11h ago
+⬇️ 0 • ❤️ 991 • 13h ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,119,057 • ❤️ 1,136 • 15h ago
+⬇️ 1,119,057 • ❤️ 1,144 • 17h ago
 
 ---
 
@@ -421,7 +421,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,513,603 • ❤️ 3,657 • 2d ago
+⬇️ 2,513,603 • ❤️ 3,660 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,449 • ❤️ 347 • 20h ago
+⬇️ 1,449 • ❤️ 348 • 22h ago
 
 ---
 
@@ -445,19 +445,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 10,241 • ❤️ 367 • 3d ago
-
----
-
-**[Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)**
-
-*Poolside*
-
-Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support for tool use.
-
-`text-generation` `117.6B`
-
-⬇️ 76,212 • ❤️ 862 • 4d ago
+⬇️ 10,241 • ❤️ 370 • 3d ago
 
 ---
 
@@ -469,7 +457,31 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,651,533 • ❤️ 4,705 • 29d ago
+⬇️ 1,651,533 • ❤️ 4,707 • 29d ago
+
+---
+
+**[Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)**
+
+*Poolside*
+
+Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support for tool use.
+
+`text-generation` `117.6B`
+
+⬇️ 76,212 • ❤️ 863 • 4d ago
+
+---
+
+**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
+
+*Unsloth AI*
+
+Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
+
+`image-text-to-text` `2779.5B`
+
+⬇️ 36,180 • ❤️ 228 • 2d ago
 
 ---
 
@@ -485,18 +497,6 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 ---
 
-**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
-
-*Unsloth AI*
-
-Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
-
-`image-text-to-text` `2779.5B`
-
-⬇️ 36,180 • ❤️ 224 • 2d ago
-
----
-
 ---
 
 ## HuggingFace Papers: 🔥 Trending
@@ -509,7 +509,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 411 • 💬 8 • ⭐ 7,659 • 5d ago
+▲ 414 • 💬 8 • ⭐ 7,659 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -577,7 +577,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 A new sparse voxel representation called O-Voxel enables high-quality 3D generative modeling with efficient inference and robust topology handling.
 
-▲ 6 • 💬 0 • ⭐ 9,680 • 7mo ago
+▲ 6 • 💬 0 • ⭐ 9,737 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14692) • [💻 code](https://github.com/microsoft/TRELLIS.2) • [🔗 project](https://microsoft.github.io/TRELLIS.2/)
 
@@ -591,7 +591,7 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.
 
-▲ 27 • 💬 2 • ⭐ 1,087 • 5d ago
+▲ 27 • 💬 2 • ⭐ 1,109 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24904) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage)
 
@@ -605,23 +605,9 @@ Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel
 
 Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We introduce OpenMLE, an open full-stack system for RSI research in MLE, spanning verifiable task environments with execution feedback (OpenMLE-Gym), operator learning (OpenMLE-RL), and long-horizon search (OpenMLE-Evo). On this stack we post-train Frontis-MA1 (35B) as a meta-evolution agent for MLE, aligning post-training and inference around four atomic program-evolution operators (Draft, Improve, Debug, Crossover): the same operators are trained via execution-grounded SFT and RL on data deduplicated against all evaluation benchmarks, then composed into long-horizon search, coupling learning and evolution in a single loop. On MLE-Bench Lite under a 12-hour per-task budget on one RTX 4090 capped at 12 GB VRAM, Frontis-MA1 (35B) improves Medal Average from 39.39% to 60.61% over its base model with OpenMLE-Evo, and reaches 71.21% with OpenMLE-Evo-Max (benchmark-independent experience priors and asynchronous search), exceeding GPT-5.5 + Codex and approaching GPT-5.6 Sol and the 2.8T Kimi K3. On held-out NatureBench Lite, both components transfer: with the framework fixed, swapping in the trained model raises Match-SOTA from 50% to 70%; with the model fixed, swapping in OpenMLE-Evo raises it from 20% to 50%. We release the model weights and the full OpenMLE stack to enable reproducible research on executable AI4AI toward RSI. Code: https://github.com/FrontisAI/OpenRSI
 
-▲ 123 • 💬 1 • ⭐ 56 • 2d ago
+▲ 144 • 💬 1 • ⭐ 56 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.28568) • [💻 code](https://github.com/FrontisAI/OpenRSI) • [🔗 project](https://frontisai.github.io/OpenRSI/)
-
----
-
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 37 • 💬 3 • ⭐ 15,982 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -632,9 +618,21 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 76,357 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 76,380 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 117 • 💬 4 • ⭐ 95,152 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -648,7 +646,7 @@ autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 `TypeScript` `agents` `ai` `multi-agent` `offensive-security` `redteam`
 
-⭐ 5.3k • 🔱 1.1k • 19h ago
+⭐ 5.3k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -658,7 +656,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 287 • 5h ago
+⭐ 3.7k • 🔱 287 • 6h ago
 
 ---
 
@@ -678,7 +676,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 411 • 4h ago
+⭐ 3.0k • 🔱 411 • 6h ago
 
 ---
 
@@ -706,7 +704,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 53s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 

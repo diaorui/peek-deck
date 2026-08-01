@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-07-31T23:30:45.723459+00:00'
+updated: '2026-08-01T01:07:44.310167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** July 31, 2026 at 23:30 UTC  
+**Last Updated:** August 01, 2026 at 01:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -2.2%  
-**30d:** +2.3%  
-**90d:** -19.8%  
-**1y:** -44.4%  
+**24h:** -2.1%  
+**7d:** -3.7%  
+**30d:** +0.6%  
+**90d:** -21.2%  
+**1y:** -44.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Today's episode literally killed the faith of several hardcore old time bitcoiners and I'm shaken too, not going to lie. Even more than the FTX collapse. Why? The mantra "not your keys, not your coins" was already widely spread out due to the MTX episode, so most bitcoiners were prepared and learned the lesson the first time. What happened today is way deeper, because the mantra "don't trust, verify" is more complex. Everyone can simply not trust, that part is fine, but what about the "verify" part? Not everyone can to a deep dive analysis on the RNG of a software wallet. More than that, most people have no clue what these things are. And then they say open source code compensates for that. "Well, if I can't verify by myself, at least I'm using open source SW, there are THOUSANDS of well-trained eyes and programmers watching this code, surely nothing bad could happen, right?". And even so, half a decade later, we get this. That's horrible to the community and I'm really sad with all the horror stories emerging. Is the future mantra going to be "not your 128+bit-true-entrophy-multisig+passphrase-setup-keys, not your coins"?
 
-17h ago
+18h ago
 
 ---
 
 **[User lost 3 btc due to Coldcard hack. Check your btc and move it to be safe](https://www.reddit.com/r/Bitcoin/comments/1vbgwu9/user_lost_3_btc_due_to_coldcard_hack_check_your/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ I want to help identify the cause of the recent wallet drain report by u/s1ammag
 
 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-11h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31,
 
 Do this if you want to sleep like a baby when the next RNG vulnerability comes out
 
-🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 15h ago
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Do this if you want to sleep like a baby when the next RNG vulnerability comes o
 
 The coming “Bitcoin Hacked” “Is your Bitcoin Safe” “AI Cracks Bitcoin” are going to be obnoxious. This is one company, with an over confident leader whose marketing positioned the ColdCard aura as invincible with the messaging pushed down through the Podcast channels. Going so far as to not allow projects like SeedSigner from even seeing the light of day for discussion. This ColdCard vulnerability and the method used to extract it will reverberate through all software from all industries. Nothing is safe.
 
-16h ago
+17h ago
 
 ---
 
@@ -149,7 +149,7 @@ I haven’t done anything since creation except sending into the wallet.
 
 coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
-14h ago
+16h ago
 
 ---
 
@@ -161,7 +161,23 @@ coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
 The largest institutional holder of bitcoin has shifted to selling its position in recent months.
 
-Forbes • 7h ago
+Forbes • 8h ago
+
+---
+
+**[U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)**
+
+The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.
+
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
+
+IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -169,7 +185,7 @@ Forbes • 7h ago
 
 A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -177,55 +193,15 @@ CoinDesk • 6h ago
 
 Coldcard users are being urged to move their Bitcoin to newly generated wallets over a security flaw linked to the theft of $38 million.
 
-Bitcoin Foundation • 14h ago
+Bitcoin Foundation • 16h ago
 
 ---
 
-**[Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report](https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service)**
+**[Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says](https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research)**
 
-Experts have since said that those holding Bitcoin on a Coldcard device should move funds now.
+Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html)**
-
-Bitcoin opened at $63,902.90 on Thursday, July 30, 2026, flat compared to Wednesday's opening price. As of 9:00 a.m. ET, bitcoin moved up to $64,838.92. Ethereum opened at $1,908.34 on Thursday, July 30, 2026, down 0.6% from Wednesday's opening price. Ethereum moved higher to $1,923.23 as of 9:00 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[BTC, ETH price news: Bitcoin at $64,000 as Kospi's record 17% surge leaves crypto untouched](https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched)**
-
-Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.
-
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin Price to Sink? Fed Holds Rates at 3.50%-3.75%, Revives 'Higher for Longer' Warning](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-sink-fed-holds-214451929.html)**
-
-Schiff says Strategy's latest share sale diluted Bitcoin exposure, with BTC yield per share falling to 4.5%. Supporters argue MSTR still beats Bitcoin over the ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%](https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-july-31-213847653.html)**
-
-Coinbase’s earnings miss further fueled risk-off sentiment in crypto markets as traders reassessed the likelihood of crypto legislation progression today, July 31, 2026.
-
-Yahoo Finance • 1h ago
-
----
-
-**[US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies](https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin)**
-
-The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
-
-Bitcoin Magazine • 7h ago
+The Block • 4h ago
 
 ---
 
@@ -233,7 +209,27 @@ Bitcoin Magazine • 7h ago
 
 Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
-TMX Newsfile • 11h ago
+TMX Newsfile • 12h ago
+
+---
+
+**[Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio](https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin)**
+
+Ray Dalio still prefers the precious metal over "digital gold."
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+
+WSJ • 1d ago
 
 ---
 
@@ -267,7 +263,7 @@ The novel-idea brain is free. Plug in. Public client kit for a live AI research 
 
 **[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
 
-⬆️ 2 • 💬 0 • 2h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
+⬆️ 2 • 💬 0 • 4h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
 
 ---
 
@@ -299,7 +295,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
-⬆️ 1 • 💬 0 • 1h ago • [Radar](https://radar.chat/)
+⬆️ 1 • 💬 0 • 3h ago • [Radar](https://radar.chat/)
 
 ---
 
@@ -323,13 +319,13 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
+**[DARKEST Moment in Bitcoin HAPPENING NOW!! (ACT QUICKLY)](https://www.youtube.com/watch?v=NX1q7Xj4eAE)**
 
-No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
+Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first $100 ...
 
-📺 Gareth Soloway
+📺 Altcoin Daily
 
-👁️ 34K • 👍 3K • 💬 218 • ⏱️ 14:35 • 11h ago
+👁️ 5K • 👍 544 • 💬 55 • ⏱️ 14:52 • 2h ago
 
 ---
 
@@ -339,37 +335,77 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 896 • 👍 94 • 💬 27 • ⏱️ 15:37 • 5h ago
+👁️ 2K • 👍 138 • 💬 12 • ⏱️ 15:37 • 7h ago
 
 ---
 
-**[Bitcoin Trends, Crypto Flows &amp; the Latest on the Clarity Act](https://www.youtube.com/watch?v=5lEHkrIs8Hw)**
+**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
 
-CharlesSchwab's Jim Ferraioli breaks down the latest crypto trends, key market flows to watch, and what recent Bitcoin price ...
+ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
 
-📺 Schwab Network
+📺 Digital Asset News
 
-👁️ 2K • 👍 26 • 💬 2 • ⏱️ 7:14 • 8h ago
-
----
-
-**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
-
-Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 69K • 👍 4K • 💬 127 • ⏱️ 7:41 • 1d ago
+👁️ 10K • 👍 540 • 💬 86 • ⏱️ 22:31 • 7h ago
 
 ---
 
-**[&quot;20X Is COMING! The Fed&#39;s About to SHOCK the ENTIRE Bitcoin &amp; Crypto Market&quot; | Tom Lee](https://www.youtube.com/watch?v=jv_GB4f-g7M)**
+**[Massive Bitcoin Hack! Your Bitcoin Could Be Stolen (What You Need to Know)](https://www.youtube.com/watch?v=AM_XRhMkCUc)**
 
-Real-world asset tokenization is one of the most underexplored narratives in crypto right now. Blockmaze is a regulated RWA ...
+A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin holders at risk, but this isn't a failure of Bitcoin or self ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 158 • 💬 47 • ⏱️ 15:53 • 1d ago
+👁️ 3K • 👍 443 • 💬 137 • ⏱️ 16:44 • 2h ago
+
+---
+
+**[The Latest On The Coldcard Disaster (Steps You Can Take Now)](https://www.youtube.com/watch?v=eGkMQWExPL0)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the Coldcard disaster in more detail, ...
+
+📺 Bitcoin University
+
+👁️ 8K • 👍 1K • 💬 514 • ⏱️ 15:46 • 5h ago
+
+---
+
+**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
+
+No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
+
+📺 Gareth Soloway
+
+👁️ 38K • 👍 3K • 💬 240 • ⏱️ 14:35 • 13h ago
+
+---
+
+**[🚨 DID YOUR BITCOIN GET STOLEN FROM COLDCARD?!?!?!?!?!](https://www.youtube.com/watch?v=a4qCeNeE1uQ)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 3K • 👍 366 • 💬 331 • ⏱️ 12:12 • 5h ago
+
+---
+
+**[BREAKING: YOUR BITCOIN WALLET COULD BE COMPROMISED! (MOVE YOUR BITCOIN NOW) | EP 1560](https://www.youtube.com/watch?v=592Y1vUu_HE)**
+
+million dollars stolen from self custody bitcoin wallets (COLDCARD USERS EFFECTED) - MUST WATCH AND SHARE!
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 263 • 💬 240 • ⏱️ 1:52:15 • 6h ago
+
+---
+
+**[MOVE YOUR BITCOIN ASAP](https://www.youtube.com/watch?v=Y1_UzCWVWL8)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 5K • 👍 223 • 💬 66 • ⏱️ 11:22 • 10h ago
 
 ---
 
@@ -379,47 +415,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 380 • 💬 181 • ⏱️ 11:29 • 7h ago
-
----
-
-**[OMG... The Fed is about to BLOW UP Crypto!?](https://www.youtube.com/watch?v=JDxrD5OMVnU)**
-
-The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 42K • 👍 2K • 💬 117 • ⏱️ 10:40 • 2d ago
-
----
-
-**[Bitcoin Hits 3-Week Low As Strategy Plans $5 Billion Sale](https://www.youtube.com/watch?v=sJYLu1Bd0dM)**
-
-Bitcoin on Friday fell to its lowest level in weeks after Strategy, the world's largest institutional backer of the leading cryptocurrency, ...
-
-📺 Forbes Breaking News
-
-👁️ 479 • 👍 1 • 💬 11 • ⏱️ 2:22 • 4h ago
-
----
-
-**[The Biggest Crypto Opportunity Is NOT Bitcoin | Matt Hougan](https://www.youtube.com/watch?v=cKsSiWZRl5A)**
-
-What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains why the convergence of blockchain and traditional ...
-
-📺 Cointelegraph
-
-👁️ 6K • 👍 97 • 💬 121 • ⏱️ 1:03 • 1d ago
-
----
-
-**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
-
-He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
-
-📺 Roshni Chellani
-
-👁️ 22K • 👍 594 • 💬 12 • ⏱️ 1:39 • 2d ago
+👁️ 7K • 👍 422 • 💬 274 • ⏱️ 11:29 • 9h ago
 
 ---
 
