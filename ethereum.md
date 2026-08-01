@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T11:16:45.338065+00:00'
+updated: '2026-08-01T12:32:48.471928+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 11:16 UTC  
+**Last Updated:** August 01, 2026 at 12:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
+**24h:** +0.1%  
 **7d:** -4.5%  
-**30d:** +6.1%  
-**90d:** -20.5%  
+**30d:** +6.2%  
+**90d:** -20.4%  
 **1y:** -45.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.44B
+**Market Cap:** $225.22B
 Rank #2
 
 **Circulating Supply:** 120,682,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.3%
 
 **All-Time Low:** $0.43
-+431336.6%
++430914.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 18h ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
 
-ethereum.org • 2d ago
+ethereum.org • 3d ago
 
 ---
 
@@ -162,7 +162,7 @@ ethereum.org • 2d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 22h ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -178,7 +178,13 @@ TradingView • 14h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 20h ago
+The Block • 21h ago
+
+---
+
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
+
+thestreet.com • 21h ago
 
 ---
 
@@ -192,13 +198,7 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 21h ago
-
----
-
-**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
-
-thestreet.com • 19h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -230,13 +230,13 @@ Fortune • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+**[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
 
-In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 More Crypto Online
+📺 Coin Bureau
 
-👁️ 2K • 👍 198 • 💬 19 • ⏱️ 10:08 • 8h ago
+👁️ 26K • 👍 1K • 💬 83 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -246,27 +246,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 486 • 💬 325 • ⏱️ 11:29 • 19h ago
+👁️ 9K • 👍 499 • 💬 301 • ⏱️ 11:29 • 20h ago
 
 ---
 
-**[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
+**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
 
-📺 Coin Bureau
+📺 More Crypto Online
 
-👁️ 25K • 👍 1K • 💬 82 • ⏱️ 19:50 • 1d ago
+👁️ 3K • 👍 256 • 💬 25 • ⏱️ 10:08 • 10h ago
 
 ---
 
-**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
+**[MY ETHEREUM PREDICTION FOR NEXT MONTH! (ETH Update)](https://www.youtube.com/watch?v=rOkSIfR5Z9o)**
 
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 🌟yourfriendsommi
+📺 Cilinix Crypto
 
-👁️ 86 • 👍 16 • 💬 1 • ⏱️ 12:19 • 2h ago
+👁️ 117 • 👍 13 • ⏱️ 5:11 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 55 • 💬 49 • ⏱️ 32:57 • 16h ago
+👁️ 1K • 👍 60 • 💬 48 • ⏱️ 32:57 • 17h ago
 
 ---
 
@@ -286,17 +286,37 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 422 • 💬 20 • ⏱️ 34:32 • 1d ago
+👁️ 7K • 👍 420 • 💬 20 • ⏱️ 34:32 • 1d ago
 
 ---
 
-**[BMNR&#39;s HUGE Opportunity: ETH Strength &amp; Shrinking Shares! #shorts](https://www.youtube.com/watch?v=eN6RpYmvC6o)**
+**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
 
-Upcoming inflation figures may signal positive market shifts. Discover the strong link between Bitmine (BMNR) and Ethereum ...
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 MONEY GAME
+📺 🌟yourfriendsommi
 
-👁️ 813 • 👍 8 • 💬 63 • ⏱️ 0:18 • 16h ago
+👁️ 423 • 👍 70 • 💬 7 • ⏱️ 12:19 • 3h ago
+
+---
+
+**[🚀 ETHEREUM HOJE 01/08 - ETH DEMONSTRA FORÇA E AINDA MANTÉM ESTRUTURA DE ALTA NO DIÁRIO! #eth #btc](https://www.youtube.com/watch?v=EFoLxKqSwK0)**
+
+GRUPO DE SINAIS LOBO CRIPTO OFICIAL https://t.me/TocaSinais_bot PLATAFORMA DE IA COM DADOS EM TEMPO REAL ...
+
+📺 Lobo Cripto Oficial
+
+👁️ 76 • 👍 19 • 💬 3 • ⏱️ 9:48 • 1h ago
+
+---
+
+**[Le NOUVEAU plan de Vitalik Buterin pour imposer Ethereum !](https://www.youtube.com/watch?v=ysPlQSNS9S8)**
+
+Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscription via notre lien !
+
+📺 Journal du Coin
+
+👁️ 4K • 👍 251 • ⏱️ 11:18 • 23h ago
 
 ---
 
@@ -306,27 +326,7 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 595 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
-
----
-
-**[BUY EVERYTHING! Jim Cramer Selling All His Bitcoin Ethereum XRP &amp; Crypto!](https://www.youtube.com/watch?v=rhqsixaGLpU)**
-
-CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc BUY EVERYTHING! Jim Cramer Selling All His ...
-
-📺 Cryptoteacher
-
-👁️ 951 • 👍 90 • 💬 4 • ⏱️ 28:49 • 17h ago
-
----
-
-**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
-
-ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 554 • 💬 561 • ⏱️ 13:14 • 2d ago
+👁️ 597 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
 
 ---
 

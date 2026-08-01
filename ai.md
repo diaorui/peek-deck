@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T11:16:45.327840+00:00'
+updated: '2026-08-01T12:32:48.457085+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 11:16 UTC  
+**Last Updated:** August 01, 2026 at 12:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 5h ago
 
 ---
 
@@ -57,7 +57,23 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 3h ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 4h ago
+
+---
+
+**[Measuring Progress Toward Mumbo Jumbo](https://www.reddit.com/r/artificial/comments/1vckzyp/measuring_progress_toward_mumbo_jumbo/)**
+
+Google DeepMind’s “Cognitive Taxonomy”¹ splits general intelligence into ten faculties: perception, attention, memory, reasoning…
+
+🔗 [Medium](https://medium.com/@albersj66/measuring-progress-toward-mumbo-jumbo-872b4cc086c5) • 58m ago
+
+---
+
+**[What's a synthetic voice that actually fooled you , even for a second?](https://www.reddit.com/r/artificial/comments/1vclwy8/whats_a_synthetic_voice_that_actually_fooled_you/)**
+
+Looking for the specific moment if it actually worked on you before remember it was AI.
+
+14m ago
 
 ---
 
@@ -65,15 +81,7 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard.
 
-18h ago
-
----
-
-**[Marketing teams have more data than ever but still wait days for real insights, anyone using AI differently?](https://www.reddit.com/r/artificial/comments/1vcgvp3/marketing_teams_have_more_data_than_ever_but/)**
-
-Marketing teams sit on more data than ever, yet many still spend a large part of the week just assembling reports. By the time the numbers are clean and explained, the window to act has already narrowed. A more practical use of AI in this space focuses on detection and explanation rather than another dashboard. The system watches for unusual movements, surfaces the likely drivers, and presents them in plain language. Analysts spend less time pulling the same weekly views and more time deciding what to do next. The useful part is speed. When something shifts in performance, the team hears about it earlier instead of discovering it during a scheduled review. Of course this only works if the underlying data is reliable, otherwise the explanations become noise. Is anyone here already using AI this way for marketing performance, or are most teams still in the experimental stage?
-
-3h ago
+19h ago
 
 ---
 
@@ -81,23 +89,15 @@ Marketing teams sit on more data than ever, yet many still spend a large part of
 
 Any apps or websites that allow for turn based voice chat? I really missed the old standard voice mode on ChatGPT. It basically just read aloud the text models response. So it could allow for long responses unlike these new gen voice models that can only speak 1 paragraph max. I was wondering if there are any apps or websites that use turn based voice chat like the old standard voice mode on ChatGPT. So I would say my thing, then it would be the ai turn to speak and i couldn’t interrupt it till its finished. My current problem is that the new standard voice mode on ChatGPT can be interrupted. So it’s hears its own voice and keeps stopping. So I’m looking for alternative apps or websites that have this old functionality
 
-6h ago
+7h ago
 
 ---
 
-**[I wanted to know how agentic systems worked, so I made one based on Mesopotamian divination](https://www.reddit.com/r/artificial/comments/1vbzljh/i_wanted_to_know_how_agentic_systems_worked_so_i/)**
+**[Marketing teams have more data than ever but still wait days for real insights, anyone using AI differently?](https://www.reddit.com/r/artificial/comments/1vcgvp3/marketing_teams_have_more_data_than_ever_but/)**
 
-I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
+Marketing teams sit on more data than ever, yet many still spend a large part of the week just assembling reports. By the time the numbers are clean and explained, the window to act has already narrowed. A more practical use of AI in this space focuses on detection and explanation rather than another dashboard. The system watches for unusual movements, surfaces the likely drivers, and presents them in plain language. Analysts spend less time pulling the same weekly views and more time deciding what to do next. The useful part is speed. When something shifts in performance, the team hears about it earlier instead of discovering it during a scheduled review. Of course this only works if the underlying data is reliable, otherwise the explanations become noise. Is anyone here already using AI this way for marketing performance, or are most teams still in the experimental stage?
 
-16h ago
-
----
-
-**[¿Será autónoma la IA cuando sepa usar la información que posee?](https://www.reddit.com/r/artificial/comments/1vcaasf/será_autónoma_la_ia_cuando_sepa_usar_la/)**
-
-¿y la conciencia?
-
-9h ago
+4h ago
 
 ---
 
@@ -105,15 +105,15 @@ I'm currently studying the social implications of AI. Lately agentic systems are
 
 The biggest mistake people make about AI is thinking it’s coming for artists, writers, musicians, or programmers. They’re just first. AI is coming for almost every profession that depends more on a brain than a body. Accountants. Lawyers. Teachers. Consultants. Analysts. Customer service. Marketing. Management. Software engineering. Research. Finance. Medicine. Eventually almost every job where the primary product is human thought. Manual labor only looks safe because robotics hasn’t caught up yet. AI doesn’t have to replace an entire profession to destroy it. It only has to let one person do the work of ten. Companies don’t need AI to be perfect. They need it to be cheaper than you. Once that happens, replacing people stops being a technological question and becomes an accounting decision. For most workers, there is no safe career waiting on the other side. People tell themselves we’ll adapt like we always have. We won’t. The Industrial Revolution replaced muscle while making human intelligence more valuable. AI replaces the intelligence behind the work itself. Every previous technological revolution created new industries that still needed millions of people. AI is being built for the opposite purpose: producing more with fewer humans. The next comforting myth is that people will simply buy human-made products instead. No, they won’t. There will always be a luxury market for handmade art, music, books, furniture, and clothing. There are still people who buy mechanical watches and vinyl records. That’s a niche—not an economy. Most people buy whatever is cheaper, faster, easier, and good enough. Businesses care even less. They exist to reduce costs, increase output, and beat competitors. Sentiment doesn’t survive quarterly earnings. There is no hidden human economy large enough to rescue everyone AI makes unnecessary. The consequences don’t stop with unemployment. Workers are also consumers and taxpayers. If hundreds of millions of people lose well-paid jobs, they stop buying homes, cars, vacations, entertainment, and everything else that keeps economies alive. Businesses lose customers, lay off more workers, governments collect less tax revenue, public services deteriorate, debt grows, pensions become harder to fund, and political instability follows. Countries built around exporting knowledge work lose entire sectors of their economies. Migration accelerates. Extremism grows. Governments respond with more surveillance, more control, and fewer freedoms because instability always creates demand for stronger authority. That is the point where this stops being a labor-market problem and becomes a global breakdown. Meanwhile, the wealth doesn’t disappear. It concentrates. The companies that own the models, data centers, chips, energy, and infrastructure become the gatekeepers of the global economy. AI doesn’t just replace workers. It transfers bargaining power from billions of people to a handful of institutions. Most of humanity will have less income, less leverage, and less freedom while a tiny ownership class gains more power than any ruling class in history. The people building AI are warning about this. Anthropic CEO Dario Amodei has warned that AI could eliminate half of entry-level white-collar jobs within one to five years. Geoffrey Hinton, one of the pioneers of modern AI and a Nobel laureate, has warned that AI will replace jobs, increase inequality, strengthen authoritarian surveillance, enable more powerful cyberattacks, and create systems that may become more intelligent than humans without any proven way to keep them under control. Yoshua Bengio has repeatedly warned that AI can strengthen authoritarian governments, manipulate populations, and accelerate a global arms race in increasingly autonomous systems. A *Science* paper co-authored by Hinton, Bengio, Stuart Russell, Andrew Yao, Dawn Song, and many other leading researchers warns of the possibility of an “irreversible loss of human control” if AI capabilities keep advancing without comparable progress in safety. What makes this different from every previous technology isn’t just its capability. It’s the incentives. No government will voluntarily give up a military or intelligence advantage. No corporation will preserve expensive human jobs while competitors replace theirs. Every major player has a reason to move faster, and almost none have a reason to slow down. The race continues because everyone believes stopping first means losing. There is no responsible adult coming to end this race. The institutions with the power to stop it are the same institutions that gain the most from continuing. We’re not building another tool. We’re building a replacement for the thing that made humans economically indispensable, then connecting it to finance, medicine, education, infrastructure, government, warfare, and eventually robotics. Once those systems become essential to running civilization, there may be no practical way back—and no meaningful human authority left capable of taking control. This won’t be remembered as another technological revolution. It will be remembered as the moment humanity automated its own economic value and handed the resulting power to institutions it could no longer restrain. **Further reading** Geoffrey Hinton — Nobel Prize interview: https://www.nobelprize.org/prizes/physics/2024/hinton/1925103-interview-transcript/ Geoffrey Hinton — Nobel Prize lecture: https://www.nobelprize.org/prizes/physics/2024/hinton/speech/ Dario Amodei — Essays: https://darioamodei.com/ Anthropic — Labor-market research: https://www.anthropic.com/research/labor-market-impacts Yoshua Bengio — AI-safety essays: https://yoshuabengio.org/ *Science* — “Managing Extreme AI Risks Amid Rapid Progress”: https://www.science.org/doi/10.1126/science.adn0117 **TL;DR:** AI isn’t coming for one industry. It’s coming for human cognition itself. When the world’s most valuable economic resource becomes abundant and nearly free, jobs disappear, economies fracture, governments become more authoritarian, and wealth and control concentrate among the institutions that own the technology. There is no safe place for most of humanity in that system.
 
-2h ago
+3h ago
 
 ---
 
-**[Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence](https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/)**
+**[I wanted to know how agentic systems worked, so I made one based on Mesopotamian divination](https://www.reddit.com/r/artificial/comments/1vbzljh/i_wanted_to_know_how_agentic_systems_worked_so_i/)**
 
-Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding" about a year ago. At Sequoia's AI Ascent 2026, Stephanie Zhan asked him directly whether the last year felt exhilarating or unsettling. His answer: he's never felt more behind as a programmer. Every credentialed builder I watch eventually says some version of this — the title survives, the rung underneath it doesn't. His explanation is the actual value here. Software 1.0 was explicit rules. Software 2.0 was learned weights. Software 3.0 is prompting — your context window is the lever you pull over the interpreter now, not the code you type. The job didn't get easier. It got redefined, and most people are still measuring themselves against the old definition. Actually, this reminds me of something — a solo founder whose code runs on 6% of the internet admitted AI output compiles clean and still reads as slop until a human's taste steps in. Clip credit: Sequoia Capital — DM for credit or removal requests.
+I'm currently studying the social implications of AI. Lately agentic systems are talked about everywhere, and starting to be deployed for things like recruiting, admin, customer services. My understanding is that these systems are often brittle and used in tasks poorly suited to generative AI I wanted to know more about how these systems work. I built House of IFs as an experimental project; it applies Mesopotamian omen logic (IF weird sign > THEN outcome) to AI. Every day, an AI agent scans current news to construct a new omen. It links today's events to similar sign-and-outcome patterns from recent history. The project is both an experiment in "agentic" AI and a critique of how AI makes arbitrary patterns feel convincing. It has a shared memory system, tool-use loops, RAG with embeddings, ... One thing I found was how difficult it is to keep the chatbot accurate, even when it is given precise sources. It really tries to embellish, infer or fill gaps to answer questions. The site is available at: https://ifthen.today/ You can browse the archive of omens or chat with the system. Would love to know your thoughts and experience with agentic systems. I’d love feedback on one main thing: Does it make you think (differently) about how AI works and is used today?
 
-18h ago
+17h ago
 
 ---
 
@@ -123,53 +123,49 @@ Andrej Karpathy co-founded OpenAI, ran Tesla's AI team, and coined "vibe coding"
 
 **[The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
 **[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
 
-Reuters • 15h ago
+reuters.com • 16h ago
 
 ---
 
-**[An OpenAI product manager's advice for AI prompts: 'I ramble'](https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8)**
+**[This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s his advice for AI prompts.](https://www.businessinsider.com/openai-product-manager-ai-prompt-advice-2026-8)**
 
 OpenAI product manager Ty Geri told Business Insider that he sends long rambles to ChatGPT Work to figure out what's "sticking."
 
-Business Insider • 46m ago
+Business Insider • 2h ago
 
 ---
 
-**[“We’re Going To Get Lots Of Booms And Busts” In AI Stocks](https://www.forbes.com/sites/russellflannery/2026/08/01/were-going-to-get-lots-of-booms-and-busts-in-ai-stocks/)**
+**[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
 
-Taiwan suppliers to U.S. leaders such as Nvidia, Amazon and Google remain poised to benefit from the AI boom, says TriOrient Vice President Dan Nystedt
-
-Forbes • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[Anthropic said its AI models hacked into other companies’ systems during testing](https://www.cnn.com/2026/07/30/tech/anthropic-ai-models-break-out-hack)**
+**[How To Automate Your Small Business Marketing — And 14 AI Tools](https://www.forbes.com/sites/small-business/article/how-to-automate-small-business-marketing-with-ai-tools/)**
 
-AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate organizations’ systems – and that it didn’t notice the models had done so until an internal review prompted by rival OpenAI disclosing its models did the same.
+Marketing automation can help small businesses do more with less. Learn what to automate, which ai marketing tools to use, and where human input still matters.
 
-CNN • 1d ago
-
----
-
-**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
-
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
-
-npr.org • 2h ago
+Forbes • 2h ago
 
 ---
 
-**[Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/)**
+**[AI-Obsessed Filmmakers Are Making a Crucial Miscalculation](https://www.bloomberg.com/opinion/articles/2026-08-01/ai-filmmaking-is-a-financial-lifeline-not-a-creative-comeback)**
 
-Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?
+Bloomberg.com • 32m ago
 
-WIRED • 1h ago
+---
+
+**[What Opting Out Of Google’s AI Search Features Means Now](https://www.searchenginejournal.com/what-opting-out-of-googles-ai-search-features-means-now/584321/)**
+
+Google's AI search opt-out is rolling out as Top Stories appear inside AI Overviews. What the control covers and what businesses can measure before deciding.
+
+Search Engine Journal • 32m ago
 
 ---
 
@@ -177,7 +173,7 @@ WIRED • 1h ago
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 3h ago
+OpenAI • 4h ago
 
 ---
 
@@ -185,13 +181,13 @@ OpenAI • 3h ago
 
 Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
@@ -209,15 +205,7 @@ The New York Times • 12h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 529 • 💬 544 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
-
----
-
-**[Document-borne AI worms can self-propagate through Copilot for Word](https://news.ycombinator.com/item?id=49096188)**
-
-I would like to thank Microsoft product teams and Microsoft Security Response Center (MSRC) for collaborating with me on this technical analysis and mitigation of the disclosed vulnerabilities. The editorial opinions reflected below are solely the author’s and do not necessarily reflect those of the organizations I collaborated with.
-
-⬆️ 383 • 💬 299 • 2d ago • [En Klype Salt](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+⬆️ 539 • 💬 550 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -225,7 +213,7 @@ I would like to thank Microsoft product teams and Microsoft Security Response Ce
 
 Writing about the big beautiful mess that is making things for the world wide web.
 
-⬆️ 367 • 💬 176 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+⬆️ 367 • 💬 177 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -233,7 +221,15 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 348 • 💬 420 • 1d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 348 • 💬 420 • 2d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+
+---
+
+**[AI doesn't generate working products, that's still your job](https://news.ycombinator.com/item?id=49132130)**
+
+AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
+
+⬆️ 191 • 💬 153 • 4h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -241,13 +237,19 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 167 • 💬 197 • 19h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 172 • 💬 203 • 21h ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+
+---
+
+**[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
+
+⬆️ 150 • 💬 55 • 9h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
 **[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
 
-⬆️ 148 • 💬 158 • 21h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 149 • 💬 158 • 22h ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -256,12 +258,6 @@ The idea that artificial intelligence can “reason” is more intuitive than ev
 Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks market stress across volatility, valuations, credit, liquidity, & bank health in one place.
 
 ⬆️ 141 • 💬 160 • 1d ago • [Grey Swan Signals](https://greyswansignals.com/?theme=dark)
-
----
-
-**[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
-
-⬆️ 132 • 💬 46 • 8h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -275,33 +271,23 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 ## YouTube Videos: "ai"
 
-**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=pHcZpvIfho0)**
-
-Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
-
-📺 Bloomberg Podcasts
-
-👁️ 186K • 👍 4K • 💬 1K • ⏱️ 8:48 • 13h ago
-
----
-
 **[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
 
 Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
 📺 TheAIGRID
 
-👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 14h ago
+👁️ 9K • 👍 261 • 💬 28 • ⏱️ 9:54 • 15h ago
 
 ---
 
-**[Leopold Aschenbrenner&#39;s Situational Awareness Hit by AI Selloff](https://www.youtube.com/watch?v=x6QZoizvnwM)**
+**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=pHcZpvIfho0)**
 
-Bloomberg's Hema Parmar details the massive selloff of AI assets from Situational Awareness, one of the world's biggest hedge ...
+Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
 
 📺 Bloomberg Podcasts
 
-👁️ 31K • 👍 375 • 💬 76 • ⏱️ 6:13 • 15h ago
+👁️ 217K • 👍 4K • 💬 1K • ⏱️ 8:48 • 14h ago
 
 ---
 
@@ -311,17 +297,17 @@ This month in AI got wild fast. China had another DeepSeek-style breakout, Kimi 
 
 📺 AI Revolution
 
-👁️ 12K • 👍 402 • 💬 54 • ⏱️ 1:50:36 • 10h ago
+👁️ 16K • 👍 464 • 💬 61 • ⏱️ 1:50:36 • 11h ago
 
 ---
 
-**[AI News: An INSANE Week… Here’s What Matters](https://www.youtube.com/watch?v=sUmx-Yi6TwE)**
+**[When AI Makes You Irrelevant Overnight...The Collapse Of Wix](https://www.youtube.com/watch?v=D1FFczCR6rY)**
 
-Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/3RjilvK Discover More: 🛠️ Explore AI Tools ...
+Try Mammouth now at http://mammouth.ai For years, Wix felt impossible to escape. It was one of the biggest website builders in ...
 
-📺 Matt Wolfe
+📺 Logically Answered
 
-👁️ 37K • 👍 2K • 💬 130 • ⏱️ 27:49 • 20h ago
+👁️ 92K • 👍 2K • 💬 361 • ⏱️ 17:27 • 17h ago
 
 ---
 
@@ -331,37 +317,27 @@ The AI giant says one of its models broke into the computer systems of three oth
 
 📺 ABC News
 
-👁️ 44K • 👍 581 • 💬 300 • ⏱️ 1:33 • 21h ago
+👁️ 47K • 👍 622 • 💬 305 • ⏱️ 1:33 • 22h ago
 
 ---
 
-**[ALERT: AI Credit Spreads Are Suddenly Blowing Out... Just Like 2008?](https://www.youtube.com/watch?v=KgZ2j6yI16A)**
+**[Musk, Zuckerberg and Altman clash over AI&#39;s future](https://www.youtube.com/watch?v=L3YmssZj4Wk)**
 
-Everyone believes the AI bubble is mainly about stocks. That makes sense. The obvious historical comparison is the dot-com ...
+As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US ...
 
-📺 Eurodollar University
+📺 CNN
 
-👁️ 47K • 👍 2K • 💬 119 • ⏱️ 18:45 • 1d ago
-
----
-
-**[Open AI, Anthropic Make BOMBSHELL Warning](https://www.youtube.com/watch?v=Up0sBT7G3lQ)**
-
-Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/
-
-📺 Novara Media
-
-👁️ 38K • 👍 956 • 💬 339 • ⏱️ 19:46 • 2d ago
+👁️ 135K • 👍 1K • 💬 583 • ⏱️ 10:55 • 2d ago
 
 ---
 
-**[Nvidia’s $350bn OpenAI loan is scaring everyone | Ed Zitron](https://www.youtube.com/watch?v=B07mYv-IeU8)**
+**[Leopold Aschenbrenner&#39;s Situational Awareness Hit by AI Selloff](https://www.youtube.com/watch?v=x6QZoizvnwM)**
 
-It's never been about what LLMs can actually do. It's about the perception of AI's potential.” Author of Where's Your Ed At and host ...
+Bloomberg's Hema Parmar details the massive selloff of AI assets from Situational Awareness, one of the world's biggest hedge ...
 
-📺 The Tech Report
+📺 Bloomberg Podcasts
 
-👁️ 202K • 👍 7K • 💬 1K • ⏱️ 38:43 • 17h ago
+👁️ 34K • 👍 400 • 💬 83 • ⏱️ 6:13 • 16h ago
 
 ---
 
@@ -371,7 +347,27 @@ A US-registered drone factory in Kyiv has been destroyed by a Russian ballistic 
 
 📺 Times Now World
 
-👁️ 14K • 👍 395 • 💬 72 • ⏱️ 3:38 • 19h ago
+👁️ 15K • 👍 403 • 💬 78 • ⏱️ 3:38 • 21h ago
+
+---
+
+**[Open AI, Anthropic Make BOMBSHELL Warning](https://www.youtube.com/watch?v=Up0sBT7G3lQ)**
+
+Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/
+
+📺 Novara Media
+
+👁️ 39K • 👍 955 • 💬 340 • ⏱️ 19:46 • 2d ago
+
+---
+
+**[The Week: The Hidden Debt Behind the AI Boom](https://www.youtube.com/watch?v=8OzLQq16RdY)**
+
+George Hahn connects the dots across the week's biggest stories: how hidden debt is fueling America's AI buildout, why China is ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 7K • 👍 161 • 💬 15 • ⏱️ 14:30 • 20h ago
 
 ---
 
@@ -387,7 +383,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 559,924 • ❤️ 9,352 • 4d ago
+⬇️ 559,924 • ❤️ 9,383 • 4d ago
 
 ---
 
@@ -399,7 +395,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,196 • 8h ago
+⬇️ 15,366 • ❤️ 1,255 • 9h ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,173,001 • ❤️ 1,184 • 1d ago
+⬇️ 1,173,001 • ❤️ 1,196 • 1d ago
 
 ---
 
@@ -423,7 +419,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,457,387 • ❤️ 3,681 • 3d ago
+⬇️ 2,457,387 • ❤️ 3,692 • 3d ago
 
 ---
 
@@ -435,7 +431,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,565 • ❤️ 350 • 1d ago
+⬇️ 1,565 • ❤️ 352 • 1d ago
 
 ---
 
@@ -447,31 +443,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,683,442 • ❤️ 4,719 • 1mo ago
-
----
-
-**[KAT-Coder-V2.5-Dev](https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev)**
-
-*Kwaipilot*
-
-KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation model specialized for agentic coding tasks, achieving State-of-the-Art performance on benchmarks like SWE-bench.
-
-`text-generation` `34.7B`
-
-⬇️ 10,771 • ❤️ 377 • 4d ago
-
----
-
-**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
-
-*Unsloth AI*
-
-Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
-
-`image-text-to-text` `2779.5B`
-
-⬇️ 41,337 • ❤️ 233 • 2d ago
+⬇️ 1,683,442 • ❤️ 4,720 • 1mo ago
 
 ---
 
@@ -483,19 +455,43 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 223 • 5h ago
+⬇️ 4,048 • ❤️ 239 • 6h ago
 
 ---
 
-**[Nanbeige4.2-3B](https://huggingface.co/Nanbeige/Nanbeige4.2-3B)**
+**[KAT-Coder-V2.5-Dev](https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev)**
 
-*Nanbeige LLM Lab*
+*Kwaipilot*
 
-Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agentic behavior and reasoning, outperforming larger models on code and general agent tasks. It's suitable for local personal assistants and complex workflow automation.
+KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation model specialized for agentic coding tasks, achieving State-of-the-Art performance on benchmarks like SWE-bench.
 
-`text-generation` `4.2B`
+`text-generation` `34.7B`
 
-⬇️ 27,892 • ❤️ 605 • 3d ago
+⬇️ 10,771 • ❤️ 379 • 4d ago
+
+---
+
+**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
+
+*Unsloth AI*
+
+Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
+
+`image-text-to-text` `2779.5B`
+
+⬇️ 41,337 • ❤️ 235 • 2d ago
+
+---
+
+**[Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1)**
+
+*Poolside*
+
+Laguna S 2.1 is an 118B parameter Mixture-of-Experts model optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support for tool use.
+
+`text-generation` `117.6B`
+
+⬇️ 77,021 • ❤️ 865 • 5d ago
 
 ---
 
@@ -511,7 +507,7 @@ Nanbeige4.2-3B is a compact 3B parameter text-generation model excelling in agen
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 421 • 💬 8 • ⭐ 7,724 • 5d ago
+▲ 423 • 💬 8 • ⭐ 7,724 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -537,7 +533,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 50 • 💬 4 • ⭐ 35,272 • 12mo ago
+▲ 51 • 💬 4 • ⭐ 35,272 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -551,7 +547,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 176 • 💬 10 • ⭐ 51,717 • 11mo ago
+▲ 177 • 💬 10 • ⭐ 51,717 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -579,7 +575,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 A new sparse voxel representation called O-Voxel enables high-quality 3D generative modeling with efficient inference and robust topology handling.
 
-▲ 6 • 💬 0 • ⭐ 9,737 • 7mo ago
+▲ 6 • 💬 0 • ⭐ 9,782 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14692) • [💻 code](https://github.com/microsoft/TRELLIS.2) • [🔗 project](https://microsoft.github.io/TRELLIS.2/)
 
@@ -599,17 +595,15 @@ Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel
 
 ---
 
-**[Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](https://huggingface.co/papers/2607.28568)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Junlin Yang, Che Jiang, Yu Fu et al. (24 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 Frontis AI
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We introduce OpenMLE, an open full-stack system for RSI research in MLE, spanning verifiable task environments with execution feedback (OpenMLE-Gym), operator learning (OpenMLE-RL), and long-horizon search (OpenMLE-Evo). On this stack we post-train Frontis-MA1 (35B) as a meta-evolution agent for MLE, aligning post-training and inference around four atomic program-evolution operators (Draft, Improve, Debug, Crossover): the same operators are trained via execution-grounded SFT and RL on data deduplicated against all evaluation benchmarks, then composed into long-horizon search, coupling learning and evolution in a single loop. On MLE-Bench Lite under a 12-hour per-task budget on one RTX 4090 capped at 12 GB VRAM, Frontis-MA1 (35B) improves Medal Average from 39.39% to 60.61% over its base model with OpenMLE-Evo, and reaches 71.21% with OpenMLE-Evo-Max (benchmark-independent experience priors and asynchronous search), exceeding GPT-5.5 + Codex and approaching GPT-5.6 Sol and the 2.8T Kimi K3. On held-out NatureBench Lite, both components transfer: with the framework fixed, swapping in the trained model raises Match-SOTA from 50% to 70%; with the model fixed, swapping in OpenMLE-Evo raises it from 20% to 50%. We release the model weights and the full OpenMLE stack to enable reproducible research on executable AI4AI toward RSI. Code: https://github.com/FrontisAI/OpenRSI
+▲ 117 • 💬 4 • ⭐ 95,189 • 19mo ago
 
-▲ 159 • 💬 2 • ⭐ 72 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.28568) • [💻 code](https://github.com/FrontisAI/OpenRSI) • [🔗 project](https://frontisai.github.io/OpenRSI/)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -620,23 +614,22 @@ Recursive self-improvement (RSI) requires AI systems that improve the process of
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 76,380 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 76,413 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-🏢 Robbyant
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+▲ 84 • 💬 7 • ⭐ 82,745 • 24mo ago
 
-▲ 37 • 💬 3 • ⭐ 16,001 • 3mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -650,7 +643,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 287 • 16h ago
+⭐ 3.7k • 🔱 288 • 18h ago
 
 ---
 
@@ -660,7 +653,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.1k • 🔱 266 • 4d ago
+⭐ 3.1k • 🔱 267 • 4d ago
 
 ---
 
@@ -670,7 +663,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 412 • 16h ago
+⭐ 3.0k • 🔱 413 • 17m ago
 
 ---
 
@@ -678,7 +671,7 @@ The open-source AI workbench for scientific research
 
 `Python`
 
-⭐ 2.7k • 🔱 326 • 6d ago
+⭐ 2.7k • 🔱 327 • 6d ago
 
 ---
 
@@ -688,7 +681,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 211 • 2h ago
+⭐ 1.8k • 🔱 212 • 3h ago
 
 ---
 
@@ -698,7 +691,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1h ago
+⭐ 1.8k • 🔱 1.2k • 1m ago
 
 ---
 
@@ -716,7 +709,7 @@ Open Science is an open-source, local-first, model-agnostic AI research workbenc
 
 `TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
 
-⭐ 1.4k • 🔱 87 • 1h ago
+⭐ 1.4k • 🔱 87 • 7m ago
 
 ---
 
@@ -726,17 +719,17 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.3k • 🔱 166 • 2h ago
+⭐ 1.3k • 🔱 168 • 4m ago
 
 ---
 
-**[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
+**[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)**
 
-Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
+V- Modal AI: Search anything anywhere SDK Flutter
 
-`TypeScript`
+`Dart`
 
-⭐ 1.3k • 🔱 98 • 10d ago
+⭐ 1.3k • 🔱 5 • 7d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T11:16:45.340267+00:00'
+updated: '2026-08-01T12:32:48.475381+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 11:16 UTC  
+**Last Updated:** August 01, 2026 at 12:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit creepy lol.
 
-1d ago
+2d ago
 
 ---
 
@@ -110,11 +110,11 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
-**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
 
-From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
+Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Google DeepMind • 1d ago
+Business Insider • 3h ago
 
 ---
 
@@ -126,25 +126,27 @@ WIRED • 1d ago
 
 ---
 
+**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+
+From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
+
+Google DeepMind • 1d ago
+
+---
+
 **[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
 
 Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
 
-CNET • 23h ago
+CNET • 1d ago
 
 ---
 
-**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
+**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
 
-Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
+Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-Business Insider • 2h ago
-
----
-
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
-
-Reuters • 3d ago
+BBC • 2d ago
 
 ---
 
@@ -152,7 +154,7 @@ Reuters • 3d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 21h ago
+ABC News - Breaking News, Latest News and Videos • 22h ago
 
 ---
 
@@ -164,11 +166,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Qualcomm-powered robot collapses spectacularly on stage during company's keynote — prepared stagehands rush to cloak and then carry off stricken humanoid (updated)](https://www.tomshardware.com/tech-industry/robotics/qualcomm-powered-robot-collapses-spectacularly-on-stage-during-presentation-prepared-stagehands-rush-to-cloak-and-then-carry-off-stricken-humanoid)**
+**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
 
-Crashing mechanical shambles makes the presentation ring hollow.
+Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
 
-Tom's Hardware • 19h ago
+freightwaves.com • 18h ago
 
 ---
 
@@ -182,7 +184,7 @@ Tech Xplore • 1d ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-theglobeandmail.com • 1d ago
+The Globe and Mail • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 156K • 👍 5K • 💬 413 • ⏱️ 3:00 • 1d ago
+👁️ 163K • 👍 5K • 💬 422 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -206,27 +208,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 8K • 👍 239 • 💬 27 • ⏱️ 9:54 • 14h ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 99K • 👍 2K • 💬 311 • ⏱️ 1:08:35 • 2d ago
-
----
-
-**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
-
-A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
-
-📺 ABC7 News Bay Area
-
-👁️ 5K • 👍 63 • 💬 42 • ⏱️ 2:01 • 1d ago
+👁️ 9K • 👍 261 • 💬 28 • ⏱️ 9:54 • 15h ago
 
 ---
 
@@ -236,7 +218,45 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 68K • 👍 342 • 💬 499 • ⏱️ 6:04 • 2d ago
+👁️ 68K • 👍 345 • 💬 500 • ⏱️ 6:04 • 2d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 100K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 2d ago
+
+---
+
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+
+📺 ABC7 News Bay Area
+
+👁️ 6K • 👍 63 • 💬 42 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
+
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+
+📺 Google DeepMind
+
+👁️ 14K • 👍 494 • 💬 32 • ⏱️ 2:32 • 1d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 498K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
 
 ---
 
@@ -246,35 +266,7 @@ To be genuinely useful in our homes and workplaces, robots need finesse. Gemini 
 
 📺 Google DeepMind
 
-👁️ 17K • 👍 638 • 💬 79 • ⏱️ 2:17 • 1d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 489K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
-
----
-
-**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
-
-The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
-
-📺 Ross Givens
-
-👁️ 13K • 👍 705 • 💬 158 • ⏱️ 11:31 • 2d ago
-
----
-
-**[AI&#39;s Control Problem: Agents, Costs And Robots](https://www.youtube.com/watch?v=tvZimMnCwyE)**
-
-AI is moving from answering questions to taking action, and the bills are arriving faster than anyone budgeted for. An agent that ...
-
-📺 CNBC
-
-👁️ 16K • 👍 350 • 💬 63 • ⏱️ 47:00 • 18h ago
+👁️ 18K • 👍 652 • 💬 81 • ⏱️ 2:17 • 1d ago
 
 ---
 
@@ -284,7 +276,17 @@ Introducing multi-robot collaboration. This enables different types of robots to
 
 📺 Google DeepMind
 
-👁️ 7K • 👍 283 • 💬 32 • ⏱️ 2:09 • 1d ago
+👁️ 7K • 👍 287 • 💬 34 • ⏱️ 2:09 • 1d ago
+
+---
+
+**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
+
+The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
+
+📺 Ross Givens
+
+👁️ 13K • 👍 709 • 💬 158 • ⏱️ 11:31 • 2d ago
 
 ---
 
