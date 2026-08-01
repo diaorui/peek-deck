@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T21:56:26.544046+00:00'
+updated: '2026-08-01T22:57:04.172573+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 21:56 UTC  
+**Last Updated:** August 01, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 18h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 14h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 The real Claude API cost isn't the sticker price—it's output tokens (5× pricier) and the expiry of Sonnet 5's intro rate. See our verified July 2026 per-model prices and a calculator that never goes stale.
 
-🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 1h ago
+🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ The real Claude API cost isn't the sticker price—it's output tokens (5× prici
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 14h ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 15h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
 
-1h ago
+2h ago
 
 ---
 
@@ -81,15 +81,7 @@ Hi, sorry if this is a repeated question on this subreddit but I want to know wh
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
-4h ago
-
----
-
-**[The trojan horse of Lazy AI hate takes & the road to totalitarianism built on good intentions.](https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/)**
-
-Everyone hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
-
-3h ago
+5h ago
 
 ---
 
@@ -97,7 +89,7 @@ Everyone hates AI & that hate will likely lead to regulatory capture censorship 
 
 “For example, in the University of Texas experiments, a participant listened to the phrase, “I didn’t know whether to scream, cry or run away. Instead, I said, ‘Leave me alone!’”. The decoder translated this brain activity as, “Started to scream and cry, and then she just said, ‘I told you to leave me alone.’”.”
 
-🔗 [Soval](https://www.sovalsocial.com/blog/fact-check-can-ai-now-read-minds-using-brain-scans) • 36m ago
+🔗 [Soval](https://www.sovalsocial.com/blog/fact-check-can-ai-now-read-minds-using-brain-scans) • 1h ago
 
 ---
 
@@ -105,15 +97,23 @@ Everyone hates AI & that hate will likely lead to regulatory capture censorship 
 
 Hi guys, Recently made a AI digital twin of mine which also kind of works as my assistant too, for example when you chat with it and ask something which it does not have answer for it will instantly notify me that someone is asking me this question and i do not have answer for that. and if i reply it will be instantly uploaded to the database so next time it can answer. and also if a user is have some conversation with my agent and it feels something important is going on here and it will notify me and i can jump in the chat as well. We can have a three way conversation like Me, User, AI twin. here is the link if you want to try: live demo🌐: https://aruncore.vercel.app This is not a self promo this is asking for feedback of a genuine project i made. Tell me what you guys think, Would love some feedback.
 
-2h ago
+3h ago
 
 ---
 
-**[Measuring Progress Toward Mumbo Jumbo](https://www.reddit.com/r/artificial/comments/1vckzyp/measuring_progress_toward_mumbo_jumbo/)**
+**[The trojan horse of Lazy AI hate takes & the road to totalitarianism built on good intentions.](https://www.reddit.com/r/artificial/comments/1vcu6v4/the_trojan_horse_of_lazy_ai_hate_takes_the_road/)**
 
-Google DeepMind’s “Cognitive Taxonomy”¹ splits general intelligence into ten faculties: perception, attention, memory, reasoning…
+Everyone hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
 
-🔗 [Medium](https://medium.com/@albersj66/measuring-progress-toward-mumbo-jumbo-872b4cc086c5) • 10h ago
+4h ago
+
+---
+
+**[Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.](https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/)**
+
+Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard. EDIT: correction. went back to the source and the run was 24 hours, not 34 days. that's my mistake in the title, and reddit won't let me edit titles. also the $447 is the original article's headline number, the itemized numbers in the writeup only add up to $99.50 lost. rest stands, source link in comments.
+
+1d ago
 
 ---
 
@@ -121,17 +121,9 @@ Google DeepMind’s “Cognitive Taxonomy”¹ splits general intelligence into 
 
 ## Google News: "ai"
 
-**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
+**[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
 
-Axios • 8h ago
-
----
-
-**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
-
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
-
-NPR • 12h ago
+Reuters • 1d ago
 
 ---
 
@@ -139,13 +131,27 @@ NPR • 12h ago
 
 The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
 
-WSJ • 20h ago
+wsj.com • 21h ago
+
+---
+
+**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
+
+Axios • 9h ago
+
+---
+
+**[Florida-backed bill would require AI data centers to supply their own energy and water](https://www.yahoo.com/news/politics/articles/florida-backed-bill-require-ai-222200088.html)**
+
+"I think it's clearly a move in the right direction."
+
+Yahoo • 35m ago
 
 ---
 
@@ -153,7 +159,7 @@ WSJ • 20h ago
 
 AI is threatening white-collar, entry-level jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians, plumbers, and construction workers.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -161,35 +167,27 @@ Fortune • 8h ago
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 5h ago
+OpenAI • 6h ago
 
 ---
 
-**[Google Just Ruined One of Its Most Important Tools](https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/)**
+**[How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html)**
 
-Google Earth was a boon for researchers—and then came the deepfakes.
+Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
 
-The Atlantic • 1d ago
-
----
-
-**[Alphabet rolls back AI image generation in Google Earth over policy violations](https://www.reuters.com/business/media-telecom/alphabet-rolls-back-ai-image-generation-google-earth-over-policy-violations-2026-07-31/)**
-
-Reuters • 22h ago
+CNBC • 1d ago
 
 ---
 
-**[Transform any place with Nano Banana in Google Earth](https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/)**
+**[Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
 
-Custom images — generated from Google Earth satellite, aerial, and 3D imagery — help you redesign any location.
-
-blog.google • 2d ago
+The New York Times • 1d ago
 
 ---
 
-**[Is A.I. ‘Scheming’ Against Us?](https://www.nytimes.com/2026/08/01/business/ai-scheming.html)**
+**[With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again](https://www.reuters.com/legal/legalindustry/with-situational-awareness-ai-deal-citadels-griffin-rides-rescue-again-2026-07-31/)**
 
-The New York Times • 12h ago
+Reuters • 23h ago
 
 ---
 
@@ -201,7 +199,7 @@ The New York Times • 12h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 551 • 💬 593 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 553 • 💬 599 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -225,13 +223,13 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 246 • 💬 257 • 14h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 247 • 💬 258 • 15h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 239 • 💬 66 • 19h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 242 • 💬 66 • 20h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -239,7 +237,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 195 • 💬 227 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 197 • 💬 230 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -261,13 +259,13 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 129 • 💬 75 • 1d ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 130 • 💬 76 • 1d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
 **[On the non-use of AI in my writing process](https://news.ycombinator.com/item?id=49134038)**
 
-⬆️ 120 • 💬 113 • 8h ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
+⬆️ 121 • 💬 113 • 10h ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 
 ---
 
@@ -275,13 +273,13 @@ A workspace with visible files, tools, tasks, and outputs — not buried in chat
 
 ## YouTube Videos: "ai"
 
-**[Japan&#39;s AI Bubble Just Collapsed: A Warning For America...](https://www.youtube.com/watch?v=faiJCn20gv0)**
+**[Fareed reacts to a second AI model going rogue](https://www.youtube.com/watch?v=qEUXagHtQRo)**
 
-Japan AI bubble just popped and it just called in the biggest bar tab in financial history. For 30 years, the world borrowed Japan's ...
+AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate ...
 
-📺 Meerkat Explains
+📺 CNN
 
-👁️ 1K • 👍 120 • 💬 17 • ⏱️ 16:58 • 5h ago
+👁️ 31K • 👍 566 • 💬 308 • ⏱️ 11:30 • 3h ago
 
 ---
 
@@ -291,7 +289,47 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Television
 
-👁️ 23K • 👍 689 • 💬 152 • ⏱️ 8:48 • 8h ago
+👁️ 29K • 👍 755 • 💬 163 • ⏱️ 8:48 • 9h ago
+
+---
+
+**[Japan&#39;s AI Bubble Just Collapsed: A Warning For America...](https://www.youtube.com/watch?v=faiJCn20gv0)**
+
+Japan AI bubble just popped and it just called in the biggest bar tab in financial history. For 30 years, the world borrowed Japan's ...
+
+📺 Meerkat Explains
+
+👁️ 2K • 👍 179 • 💬 45 • ⏱️ 16:58 • 6h ago
+
+---
+
+**[&#39;China Surprised The World&#39;: Castro Asks AI Expert About China&#39;s AI Abilities Despite Limited Chips](https://www.youtube.com/watch?v=gO9B7y2tMbI)**
+
+During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin Castro (D-TX) asked Dmitri Alperovitch Assistant ...
+
+📺 Forbes Breaking News
+
+👁️ 688 • 👍 9 • 💬 22 • ⏱️ 4:53 • 6h ago
+
+---
+
+**[Hank Green Ai Controversy](https://www.youtube.com/watch?v=cjKIPkYJ1K0)**
+
+Hank Green was in a video on the Complexly YouTube channel. In this video his guest would ask questions and Hank would ...
+
+📺 Conner Richmond
+
+👁️ 2K • 👍 34 • 💬 33 • ⏱️ 4:16 • 23h ago
+
+---
+
+**[GOING ROGUE: AI agents spark MAJOR cybersecurity concerns](https://www.youtube.com/watch?v=AnErH0RJR6M)**
+
+AI Policy Network's Mark Beall joins 'Saturday in America' to discuss the threat of AI agents to companies' software security and ...
+
+📺 Fox News
+
+👁️ 18K • 👍 538 • 💬 442 • ⏱️ 5:34 • 4h ago
 
 ---
 
@@ -301,77 +339,37 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 12K • 👍 306 • 💬 32 • ⏱️ 9:54 • 1d ago
+👁️ 13K • 👍 320 • 💬 32 • ⏱️ 9:54 • 1d ago
 
 ---
 
-**[Seedance 2.5 Just Launched: Is This the New Era of AI Filmmaking?](https://www.youtube.com/watch?v=jvkdHdeWICM)**
+**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=pHcZpvIfho0)**
 
-Seedance 2.5 vs Seedance 2.0 — same prompt, same inputs, six categories, one honest verdict (and the catch nobody's telling ...
+Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
 
-📺 Higgsfield AI
+📺 Bloomberg Podcasts
 
-👁️ 12K • 👍 648 • 💬 59 • ⏱️ 20:22 • 7h ago
-
----
-
-**[Hank Green AI Drama](https://www.youtube.com/watch?v=ynVb7DNFECM)**
-
-Hank Green, a beloved YouTuber known for creating Crash Course, has been exposed for using AI scripts. Hank has a video on ...
-
-📺 Deep Humor
-
-👁️ 29K • 👍 2K • 💬 699 • ⏱️ 11:43 • 1d ago
+👁️ 339K • 👍 6K • 💬 2K • ⏱️ 8:48 • 1d ago
 
 ---
 
-**[Anthropic claims its AI models went rogue, hacked 3 companies](https://www.youtube.com/watch?v=_PpeVFqGVNk)**
+**[How AI Is Destroying F1](https://www.youtube.com/watch?v=M7smycCne_k)**
 
-Anthropic claims its artificial intelligence models went rogue during testing and hacked into three other companies. Less than two ...
+Formula 1 used to be about who has the biggest balls to somehow pull out that last tenth of a second.. but now ...
 
-📺 CBS News
+📺 DailyFuelUp
 
-👁️ 9K • 👍 150 • 💬 62 • ⏱️ 5:39 • 1d ago
-
----
-
-**[Kimi K3 Shut Down, Rogue AI Got Worse, OpenAI Genie, Synthetic Humans And More AI News This Month...](https://www.youtube.com/watch?v=5ZXS4XF0-Vk)**
-
-This month in AI got wild fast. China had another DeepSeek-style breakout, Kimi K3 was shut down, the rogue AI story got worse, ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 584 • 💬 74 • ⏱️ 1:50:36 • 21h ago
+👁️ 31K • 👍 1K • 💬 188 • ⏱️ 8:55 • 10h ago
 
 ---
 
-**[Is AI Already Conscious? (FULL EPISODE)](https://www.youtube.com/watch?v=DRbZyuY8EN8)**
+**[ALERT: AI Credit Spreads Are Suddenly Blowing Out... Just Like 2008?](https://www.youtube.com/watch?v=KgZ2j6yI16A)**
 
-A Conversation with Cameron Berg (Ep. 487) Sam Harris speaks with Cameron Berg about whether AI systems are or could ...
+Everyone believes the AI bubble is mainly about stocks. That makes sense. The obvious historical comparison is the dot-com ...
 
-📺 Sam Harris
+📺 Eurodollar University
 
-👁️ 44K • 👍 1K • 💬 732 • ⏱️ 1:31:03 • 1d ago
-
----
-
-**[Anthropic AI model hacks 3 companies](https://www.youtube.com/watch?v=dxmIcHKfD68)**
-
-The AI giant says one of its models broke into the computer systems of three other organizations. The news comes days after ...
-
-📺 ABC News
-
-👁️ 59K • 👍 789 • 💬 345 • ⏱️ 1:33 • 1d ago
-
----
-
-**[Open AI, Anthropic Make BOMBSHELL Warning](https://www.youtube.com/watch?v=Up0sBT7G3lQ)**
-
-Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/
-
-📺 Novara Media
-
-👁️ 40K • 👍 975 • 💬 345 • ⏱️ 19:46 • 2d ago
+👁️ 58K • 👍 2K • 💬 136 • ⏱️ 18:45 • 2d ago
 
 ---
 
@@ -387,7 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 559,924 • ❤️ 9,462 • 5d ago
+⬇️ 559,924 • ❤️ 9,467 • 5d ago
 
 ---
 
@@ -399,7 +397,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,387 • 18h ago
+⬇️ 15,366 • ❤️ 1,408 • 19h ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,173,001 • ❤️ 1,227 • 1d ago
+⬇️ 1,173,001 • ❤️ 1,232 • 1d ago
 
 ---
 
@@ -423,19 +421,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,457,387 • ❤️ 3,708 • 3d ago
-
----
-
-**[Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2)**
-
-*Owen Song*
-
-Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 10M parameters) optimized for local, deterministic waveform synthesis. It supports long-text handling and runs efficiently on CPU or CUDA, making it suitable for edge AI applications.
-
-`text-to-speech`
-
-⬇️ 1,565 • ❤️ 359 • 1d ago
+⬇️ 2,457,387 • ❤️ 3,712 • 3d ago
 
 ---
 
@@ -447,7 +433,19 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 271 • 15h ago
+⬇️ 4,048 • ❤️ 281 • 16h ago
+
+---
+
+**[Inflect-Micro-v2](https://huggingface.co/owensong/Inflect-Micro-v2)**
+
+*Owen Song*
+
+Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 10M parameters) optimized for local, deterministic waveform synthesis. It supports long-text handling and runs efficiently on CPU or CUDA, making it suitable for edge AI applications.
+
+`text-to-speech`
+
+⬇️ 1,565 • ❤️ 361 • 1d ago
 
 ---
 
@@ -459,7 +457,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,683,442 • ❤️ 4,731 • 1mo ago
+⬇️ 1,683,442 • ❤️ 4,734 • 1mo ago
 
 ---
 
@@ -471,7 +469,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 41,337 • ❤️ 241 • 3d ago
+⬇️ 41,337 • ❤️ 243 • 3d ago
 
 ---
 
@@ -483,7 +481,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 10,771 • ❤️ 387 • 4d ago
+⬇️ 10,771 • ❤️ 390 • 4d ago
 
 ---
 
@@ -495,7 +493,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 3,998 • ❤️ 210 • 1d ago
+⬇️ 3,998 • ❤️ 212 • 1d ago
 
 ---
 
@@ -593,7 +591,7 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.
 
-▲ 27 • 💬 2 • ⭐ 1,137 • 6d ago
+▲ 27 • 💬 2 • ⭐ 1,166 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24904) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage)
 
@@ -618,7 +616,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 76,413 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 76,466 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -631,7 +629,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 82,745 • 24mo ago
+▲ 84 • 💬 7 • ⭐ 82,791 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -647,7 +645,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 290 • 5h ago
+⭐ 3.7k • 🔱 290 • 6h ago
 
 ---
 
@@ -667,7 +665,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 414 • 1h ago
+⭐ 3.0k • 🔱 414 • 2h ago
 
 ---
 
@@ -675,7 +673,7 @@ The open-source AI workbench for scientific research
 
 `Python`
 
-⭐ 2.7k • 🔱 334 • 6d ago
+⭐ 2.7k • 🔱 336 • 6d ago
 
 ---
 
@@ -685,17 +683,17 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 213 • 12h ago
+⭐ 1.8k • 🔱 213 • 13h ago
 
 ---
 
-**[MIgHTy-alIeN/Ethereum-Flashloan-Mev-Bot](https://github.com/MIgHTy-alIeN/Ethereum-Flashloan-Mev-Bot)**
+**[MIgHTy-alIeN/Ethereum-Trading-Bot](https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot)**
 
 An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1h ago
+⭐ 1.8k • 🔱 1.2k • 34s ago
 
 ---
 
@@ -703,7 +701,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.7k • 🔱 131 • 11d ago
+⭐ 1.7k • 🔱 132 • 11d ago
 
 ---
 
@@ -713,7 +711,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 1.4k • 🔱 296 • 1d ago
+⭐ 1.4k • 🔱 297 • 1d ago
 
 ---
 
@@ -723,7 +721,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 172 • 1h ago
+⭐ 1.4k • 🔱 172 • 14m ago
 
 ---
 
@@ -733,7 +731,7 @@ Open Science is an open-source, local-first, model-agnostic AI research workbenc
 
 `TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
 
-⭐ 1.4k • 🔱 87 • 1h ago
+⭐ 1.4k • 🔱 87 • 15m ago
 
 ---
 

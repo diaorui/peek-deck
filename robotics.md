@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T21:56:26.562522+00:00'
+updated: '2026-08-01T22:57:04.190445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 21:56 UTC  
+**Last Updated:** August 01, 2026 at 22:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,7 +122,7 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -138,7 +138,7 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
 
-dw.com • 23h ago
+dw.com • 1d ago
 
 ---
 
@@ -146,7 +146,15 @@ dw.com • 23h ago
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
 
-BBC • 2d ago
+BBC • 3d ago
+
+---
+
+**[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
+
+A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
+
+Interesting Engineering • 7h ago
 
 ---
 
@@ -158,11 +166,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
-A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-interestingengineering.com • 6h ago
+morningbrew.com • 16h ago
 
 ---
 
@@ -170,15 +178,7 @@ interestingengineering.com • 6h ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 13h ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-Morning Brew • 15h ago
+PYMNTS.com • 14h ago
 
 ---
 
@@ -186,7 +186,7 @@ Morning Brew • 15h ago
 
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -200,17 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 184K • 👍 5K • 💬 457 • ⏱️ 3:00 • 2d ago
-
----
-
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
-
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
-
-📺 NBC News
-
-👁️ 70K • 👍 352 • 💬 514 • ⏱️ 6:04 • 2d ago
+👁️ 189K • 👍 5K • 💬 459 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -220,7 +210,27 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 102K • 👍 2K • 💬 316 • ⏱️ 1:08:35 • 3d ago
+👁️ 103K • 👍 2K • 💬 316 • ⏱️ 1:08:35 • 3d ago
+
+---
+
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
+
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
+
+📺 NBC News
+
+👁️ 70K • 👍 354 • 💬 513 • ⏱️ 6:04 • 2d ago
+
+---
+
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+
+📺 ABC7 News Bay Area
+
+👁️ 7K • 👍 70 • 💬 46 • ⏱️ 2:01 • 2d ago
 
 ---
 
@@ -230,17 +240,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 12K • 👍 306 • 💬 32 • ⏱️ 9:54 • 1d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 8K • 👍 127 • 💬 12 • ⏱️ 1:00 • 1d ago
+👁️ 13K • 👍 320 • 💬 32 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -250,25 +250,7 @@ The FDA just changed the future of surgical robotics and almost everyone is watc
 
 📺 Ross Givens
 
-👁️ 13K • 👍 717 • 💬 158 • ⏱️ 11:31 • 3d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 523K • 👍 23K • 💬 2K • ⏱️ 0:40 • 1d ago
-
----
-
-**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
-
-The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
-
-📺 Google DeepMind
-
-👁️ 77K • 👍 2K • 💬 159 • ⏱️ 2:48 • 2d ago
+👁️ 13K • 👍 719 • 💬 158 • ⏱️ 11:31 • 3d ago
 
 ---
 
@@ -278,17 +260,35 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 1.0M • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
+👁️ 1.1M • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
 
 ---
 
-**[Ultimate Bumblebee Transformers Toy Collection: Camaro, Robot, Beetle &amp; Rare Action Figures 4K HD](https://www.youtube.com/watch?v=z6WPmqSAr_A)**
+**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
 
-Discover the ultimate Bumblebee Transformers toy collection featuring classic Camaro models, Volkswagen Beetle, robot figures, ...
+The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
 
-📺 Bob ToysReview
+📺 Google DeepMind
 
-👁️ 51K • 👍 101 • 💬 2 • ⏱️ 9:29 • 5d ago
+👁️ 78K • 👍 2K • 💬 159 • ⏱️ 2:48 • 2d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 527K • 👍 23K • 💬 2K • ⏱️ 0:40 • 1d ago
+
+---
+
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
+
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+
+📺 Google DeepMind
+
+👁️ 16K • 👍 527 • 💬 33 • ⏱️ 2:32 • 2d ago
 
 ---
 
