@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T19:43:28.893203+00:00'
+updated: '2026-08-01T20:54:52.934365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 19:43 UTC  
+**Last Updated:** August 01, 2026 at 20:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -138,7 +138,7 @@ CNET • 1d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -154,7 +154,7 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
 
-DW.com • 20h ago
+DW.com • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ IEEE Spectrum • 1d ago
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 4h ago
+Interesting Engineering • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ Interesting Engineering • 4h ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 11h ago
+PYMNTS.com • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 176K • 👍 5K • 💬 451 • ⏱️ 3:00 • 2d ago
+👁️ 184K • 👍 5K • 💬 457 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 69K • 👍 350 • 💬 509 • ⏱️ 6:04 • 2d ago
+👁️ 70K • 👍 352 • 💬 514 • ⏱️ 6:04 • 2d ago
 
 ---
 
@@ -220,7 +220,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 101K • 👍 2K • 💬 314 • ⏱️ 1:08:35 • 3d ago
+👁️ 102K • 👍 2K • 💬 316 • ⏱️ 1:08:35 • 3d ago
 
 ---
 
@@ -230,15 +230,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 11K • 👍 286 • 💬 31 • ⏱️ 9:54 • 23h ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 515K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
+👁️ 12K • 👍 306 • 💬 32 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -248,17 +240,25 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 8K • 👍 120 • 💬 12 • ⏱️ 1:00 • 1d ago
+👁️ 8K • 👍 127 • 💬 12 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Framework Laptops and a Robot Cleaner?](https://www.youtube.com/watch?v=PtCMsXYAPyc)**
+**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
 
-This week, Marques, Andrew, and David kick things off by talking about the new Apple leasing program. After that, they get into ...
+The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
 
-📺 WVFRM Podcast
+📺 Ross Givens
 
-👁️ 95K • 👍 3K • 💬 469 • ⏱️ 1:35:30 • 1d ago
+👁️ 13K • 👍 717 • 💬 158 • ⏱️ 11:31 • 3d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 523K • 👍 23K • 💬 2K • ⏱️ 0:40 • 1d ago
 
 ---
 
@@ -268,27 +268,27 @@ The world is built for human movements; it requires us to reach, bend, and balan
 
 📺 Google DeepMind
 
-👁️ 75K • 👍 2K • 💬 158 • ⏱️ 2:48 • 2d ago
+👁️ 77K • 👍 2K • 💬 159 • ⏱️ 2:48 • 2d ago
 
 ---
 
-**[AI&#39;s Control Problem: Agents, Costs And Robots](https://www.youtube.com/watch?v=tvZimMnCwyE)**
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
-AI is moving from answering questions to taking action, and the bills are arriving faster than anyone budgeted for. An agent that ...
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
 
-📺 CNBC
+📺 NBC News
 
-👁️ 19K • 👍 434 • 💬 80 • ⏱️ 47:00 • 1d ago
+👁️ 1.0M • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
 
 ---
 
-**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
+**[Ultimate Bumblebee Transformers Toy Collection: Camaro, Robot, Beetle &amp; Rare Action Figures 4K HD](https://www.youtube.com/watch?v=z6WPmqSAr_A)**
 
-To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
+Discover the ultimate Bumblebee Transformers toy collection featuring classic Camaro models, Volkswagen Beetle, robot figures, ...
 
-📺 Google DeepMind
+📺 Bob ToysReview
 
-👁️ 20K • 👍 701 • 💬 82 • ⏱️ 2:17 • 2d ago
+👁️ 51K • 👍 101 • 💬 2 • ⏱️ 9:29 • 5d ago
 
 ---
 

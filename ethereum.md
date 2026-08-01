@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T19:43:28.889862+00:00'
+updated: '2026-08-01T20:54:52.931036+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 19:43 UTC  
+**Last Updated:** August 01, 2026 at 20:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** -1.4%  
 **7d:** -6.1%  
 **30d:** +4.4%  
-**90d:** -21.8%  
+**90d:** -21.7%  
 **1y:** -45.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.30B
+**Market Cap:** $221.38B
 Rank #2
 
 **Circulating Supply:** 120,682,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.9%
 
 **All-Time Low:** $0.43
-+429188.7%
++423668.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-8h ago
+9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 384 • 👍 31 • 💬 83 • ⏱️ 13:19 • 4h ago
+👁️ 723 • 👍 35 • 💬 105 • ⏱️ 13:19 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 1K • 💬 86 • ⏱️ 19:50 • 2d ago
+👁️ 29K • 👍 1K • 💬 89 • ⏱️ 19:50 • 2d ago
 
 ---
 
@@ -256,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 517 • 💬 354 • ⏱️ 11:29 • 1d ago
+👁️ 10K • 👍 521 • 💬 353 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -266,17 +266,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 301 • 💬 26 • ⏱️ 10:08 • 17h ago
-
----
-
-**[MY ETHEREUM PREDICTION FOR NEXT MONTH! (ETH Update)](https://www.youtube.com/watch?v=rOkSIfR5Z9o)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 311 • 👍 15 • 💬 44 • ⏱️ 5:11 • 10h ago
+👁️ 5K • 👍 316 • 💬 27 • ⏱️ 10:08 • 18h ago
 
 ---
 
@@ -286,17 +276,17 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 362 • 👍 21 • 💬 1 • ⏱️ 0:56 • 3h ago
+👁️ 775 • 👍 36 • 💬 2 • ⏱️ 0:56 • 4h ago
 
 ---
 
-**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
+**[MY ETHEREUM PREDICTION FOR NEXT MONTH! (ETH Update)](https://www.youtube.com/watch?v=rOkSIfR5Z9o)**
 
-Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto Banter
+📺 Cilinix Crypto
 
-👁️ 7K • 👍 425 • 💬 20 • ⏱️ 34:32 • 1d ago
+👁️ 385 • 👍 17 • 💬 43 • ⏱️ 5:11 • 11h ago
 
 ---
 
@@ -310,23 +300,33 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=pZSB_nh1Md4)**
+**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in India just levelled up eXchange1 is ...
+Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
 
-📺 Ashutosh Kumar
+📺 YaBoySkey
 
-👁️ 6K • 👍 588 • 3h ago
+👁️ 611 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
 
 ---
 
-**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
 
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Capital Venture
 
-👁️ 874 • 👍 116 • 💬 9 • ⏱️ 12:19 • 10h ago
+👁️ 11K • 👍 555 • 💬 558 • ⏱️ 13:14 • 2d ago
+
+---
+
+**[🚨Ethereum confirma ESTA SEÑAL después de 5 años](https://www.youtube.com/watch?v=Vm7yURufuxQ)**
+
+Si quieres empezar a tradear, abrete cuenta en BItget donde podrás disfrutar de un 15% de descuento en comisiones, y tambien ...
+
+📺 Alex Augusto Trading
+
+👁️ 2K • 👍 204 • 💬 81 • ⏱️ 11:21 • 12h ago
 
 ---
 
