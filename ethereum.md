@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T15:37:24.427751+00:00'
+updated: '2026-08-01T17:00:02.363321+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 15:37 UTC  
+**Last Updated:** August 01, 2026 at 17:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -4.3%  
-**30d:** +6.4%  
-**90d:** -20.3%  
-**1y:** -44.9%  
+**24h:** -0.5%  
+**7d:** -4.4%  
+**30d:** +6.2%  
+**90d:** -20.4%  
+**1y:** -45.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 23h ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Season 4 bounty challenge: build a confidential PoolTogether. 5,000 cUSDT in rewards.
 
-🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 1d ago
+🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -188,17 +188,17 @@ thestreet.com • 1d ago
 
 ---
 
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Ethereum enters its second decade after a year of upheaval at the foundation](https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation)**
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
 CoinDesk • 2d ago
-
----
-
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
-
-MarketWatch • 1d ago
 
 ---
 
@@ -218,11 +218,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
+**[QUICK SPARK: Cathie Wood's Birthday Present to Ethereum? A Bitmine Trim](https://www.benzinga.com/etfs/specialty-etfs/26/07/60825254/quick-spark-cathie-woods-birthday-present-to-ethereum-a-bitmine-trim)**
 
-BlackRock clients bought over $20 million in ETH; staking beats records.
+Cathie Wood's Ark Invest trimmed its largest corporate Ethereum treasury holding, Bitmine, along with Bullish, Robinhood and Block.
 
-AMBCrypto • 2d ago
+Benzinga • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 108 • 👍 12 • ⏱️ 13:19 • 40m ago
+👁️ 108 • 👍 12 • ⏱️ 13:19 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 511 • 💬 352 • ⏱️ 11:29 • 23h ago
+👁️ 10K • 👍 511 • 💬 352 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 290 • 💬 26 • ⏱️ 10:08 • 13h ago
+👁️ 4K • 👍 290 • 💬 26 • ⏱️ 10:08 • 14h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 222 • 👍 14 • 💬 46 • ⏱️ 5:11 • 6h ago
+👁️ 222 • 👍 14 • 💬 46 • ⏱️ 5:11 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 64 • 💬 70 • ⏱️ 32:57 • 20h ago
+👁️ 2K • 👍 64 • 💬 70 • ⏱️ 32:57 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 704 • 👍 103 • 💬 8 • ⏱️ 12:19 • 6h ago
+👁️ 704 • 👍 103 • 💬 8 • ⏱️ 12:19 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ Upcoming inflation figures may signal positive market shifts. Discover the stron
 
 📺 MONEY GAME
 
-👁️ 854 • 👍 10 • 💬 62 • ⏱️ 0:18 • 21h ago
+👁️ 854 • 👍 10 • 💬 62 • ⏱️ 0:18 • 22h ago
 
 ---
 
