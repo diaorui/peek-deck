@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T01:07:44.319539+00:00'
+updated: '2026-08-01T04:51:49.772659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 01:07 UTC  
+**Last Updated:** August 01, 2026 at 04:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,11 +110,11 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
-**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
-From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
 
-Google DeepMind • 1d ago
+WIRED • 1d ago
 
 ---
 
@@ -122,13 +122,13 @@ Google DeepMind • 1d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 11h ago
+ABC News - Breaking News, Latest News and Videos • 15h ago
 
 ---
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-reuters.com • 3d ago
+Reuters • 3d ago
 
 ---
 
@@ -136,7 +136,7 @@ reuters.com • 3d ago
 
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Yahoo Finance • 2d ago
 
 Crashing mechanical shambles makes the presentation ring hollow.
 
-Tom's Hardware • 9h ago
+Tom's Hardware • 13h ago
 
 ---
 
@@ -158,7 +158,7 @@ NVIDIA Developer • 3d ago
 
 **[Legged robots raise surveillance, job and battlefield accountability concerns](https://techxplore.com/news/2026-07-legged-robots-surveillance-job-battlefield.html)**
 
-techxplore.com • 1d ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -166,21 +166,21 @@ techxplore.com • 1d ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 16h ago
+The Globe and Mail • 20h ago
 
 ---
 
-**[Terrifying Rescue Robot Comes With Instructions To ‘Kill It’](https://www.newsweek.com/terrifying-rescue-robot-comes-with-instructions-to-kill-it-12268714)**
+**[China’s Unitree Robotics flags risks to future US sales under FCC restrictions; barriers can’t erase firm’s competitiveness: expert](https://www.globaltimes.cn/page/202607/1367261.shtml)**
 
-A horned, chainsaw-wielding rescue robot is going viral after its creator revealed built-in "kill switch" features and detailed how it can be stopped.
+Chinese robotics company Unitree Technology on Friday warned that its future robot models could be unable to enter the US market under new restrictions imposed by the US Federal Communications Commission (FCC), while stressing that its existing major products remain authorized for sale.
 
-Newsweek • 14h ago
+Global Times • 20h ago
 
 ---
 
-**[Watch The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir](https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video)**
+**[Students compete in international robotics competition at Fairmont State](https://www.wboy.com/news/marion/students-compete-in-international-robotics-competition-at-fairmont-state/)**
 
-Bloomberg.com • 1d ago
+WBOY.com • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 136K • 👍 4K • 💬 392 • ⏱️ 3:00 • 1d ago
+👁️ 145K • 👍 4K • 💬 397 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -204,17 +204,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 3K • 👍 163 • 💬 17 • ⏱️ 9:54 • 4h ago
-
----
-
-**[Introducing Gemini Robotics 2](https://www.youtube.com/watch?v=-rYFDefcq3k)**
-
-Carolina Parada, Stuart Bowers, Kanishka Rao, and Jie Tan from Google DeepMind join host Logan Kilpatrick inside the Gemini ...
-
-📺 Google for Developers
-
-👁️ 2K • 👍 114 • 💬 16 • ⏱️ 39:14 • 6h ago
+👁️ 6K • 👍 220 • 💬 21 • ⏱️ 9:54 • 8h ago
 
 ---
 
@@ -224,17 +214,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 63K • 👍 324 • 💬 489 • ⏱️ 6:04 • 2d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 4K • 👍 80 • 💬 3 • ⏱️ 1:00 • 7h ago
+👁️ 66K • 👍 333 • 💬 497 • ⏱️ 6:04 • 2d ago
 
 ---
 
@@ -244,25 +224,7 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 ABC7 News Bay Area
 
-👁️ 4K • 👍 53 • 💬 36 • ⏱️ 2:01 • 1d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 442K • 👍 20K • 💬 2K • ⏱️ 0:40 • 21h ago
-
----
-
-**[Framework Laptops and a Robot Cleaner?](https://www.youtube.com/watch?v=PtCMsXYAPyc)**
-
-This week, Marques, Andrew, and David kick things off by talking about the new Apple leasing program. After that, they get into ...
-
-📺 WVFRM Podcast
-
-👁️ 59K • 👍 2K • 💬 379 • ⏱️ 1:35:30 • 10h ago
+👁️ 5K • 👍 58 • 💬 38 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -272,7 +234,17 @@ This week, Marques, Andrew, and David kick things off by talking about the new A
 
 📺 All-In Podcast
 
-👁️ 97K • 👍 2K • 💬 313 • ⏱️ 1:08:35 • 2d ago
+👁️ 98K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 2d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 5K • 👍 88 • 💬 3 • ⏱️ 1:00 • 11h ago
 
 ---
 
@@ -282,7 +254,37 @@ To be genuinely useful in our homes and workplaces, robots need finesse. Gemini 
 
 📺 Google DeepMind
 
-👁️ 16K • 👍 588 • 💬 74 • ⏱️ 2:17 • 1d ago
+👁️ 16K • 👍 606 • 💬 77 • ⏱️ 2:17 • 1d ago
+
+---
+
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
+
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+
+📺 Google DeepMind
+
+👁️ 13K • 👍 475 • 💬 30 • ⏱️ 2:32 • 1d ago
+
+---
+
+**[Robots working together with Gemini Robotics 2](https://www.youtube.com/watch?v=fo9WirRIaVs)**
+
+Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex ...
+
+📺 Google DeepMind
+
+👁️ 7K • 👍 276 • 💬 32 • ⏱️ 2:09 • 1d ago
+
+---
+
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+
+📺 NBC News
+
+👁️ 907K • 👍 8K • 💬 3K • ⏱️ 2:15 • 4d ago
 
 ---
 

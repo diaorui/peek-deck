@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-01T01:07:44.310167+00:00'
+updated: '2026-08-01T04:51:49.764225+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 01:07 UTC  
+**Last Updated:** August 01, 2026 at 04:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,34 +44,34 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -3.7%  
-**30d:** +0.6%  
-**90d:** -21.2%  
-**1y:** -44.2%  
+**24h:** -2.0%  
+**7d:** -3.5%  
+**30d:** +0.7%  
+**90d:** -21.0%  
+**1y:** -44.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1262.56B
+**Market Cap:** $1264.53B
 Rank #1
 
-**Circulating Supply:** 20,063,956 BTC
+**Circulating Supply:** 20,064,050 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.1%
+-50.0%
 
 **All-Time Low:** $67.81
-+92700.5%
++92843.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 25
-**EXTREME FEAR**
+### 27
+**FEAR**
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Today's episode literally killed the faith of several hardcore old time bitcoiners and I'm shaken too, not going to lie. Even more than the FTX collapse. Why? The mantra "not your keys, not your coins" was already widely spread out due to the MTX episode, so most bitcoiners were prepared and learned the lesson the first time. What happened today is way deeper, because the mantra "don't trust, verify" is more complex. Everyone can simply not trust, that part is fine, but what about the "verify" part? Not everyone can to a deep dive analysis on the RNG of a software wallet. More than that, most people have no clue what these things are. And then they say open source code compensates for that. "Well, if I can't verify by myself, at least I'm using open source SW, there are THOUSANDS of well-trained eyes and programmers watching this code, surely nothing bad could happen, right?". And even so, half a decade later, we get this. That's horrible to the community and I'm really sad with all the horror stories emerging. Is the future mantra going to be "not your 128+bit-true-entrophy-multisig+passphrase-setup-keys, not your coins"?
 
-18h ago
+22h ago
 
 ---
 
 **[User lost 3 btc due to Coldcard hack. Check your btc and move it to be safe](https://www.reddit.com/r/Bitcoin/comments/1vbgwu9/user_lost_3_btc_due_to_coldcard_hack_check_your/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ I want to help identify the cause of the recent wallet drain report by u/s1ammag
 
 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-13h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31,
 
 Do this if you want to sleep like a baby when the next RNG vulnerability comes out
 
-🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 16h ago
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 20h ago
 
 ---
 
@@ -133,7 +133,7 @@ Do this if you want to sleep like a baby when the next RNG vulnerability comes o
 
 The coming “Bitcoin Hacked” “Is your Bitcoin Safe” “AI Cracks Bitcoin” are going to be obnoxious. This is one company, with an over confident leader whose marketing positioned the ColdCard aura as invincible with the messaging pushed down through the Podcast channels. Going so far as to not allow projects like SeedSigner from even seeing the light of day for discussion. This ColdCard vulnerability and the method used to extract it will reverberate through all software from all industries. Nothing is safe.
 
-17h ago
+21h ago
 
 ---
 
@@ -149,7 +149,7 @@ I haven’t done anything since creation except sending into the wallet.
 
 coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
-16h ago
+19h ago
 
 ---
 
@@ -161,39 +161,15 @@ coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
 The largest institutional holder of bitcoin has shifted to selling its position in recent months.
 
-Forbes • 8h ago
+Forbes • 12h ago
 
 ---
 
-**[U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)**
+**[Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep](https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep)**
 
-The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.
+A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
-
-IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Coldcard exploit reignites Bitcoin self-custody debate after $38 million theft](https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs)**
-
-A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.
-
-CoinDesk • 7h ago
-
----
-
-**[Coldcard Hardware Bitcoin Wallet Bug Puts Years of BTC Seeds at Risk](https://bitcoinfoundation.org/news/crimes-and-fraud-news/coldcard-hardware-bitcoin-wallet-bug/)**
-
-Coldcard users are being urged to move their Bitcoin to newly generated wallets over a security flaw linked to the theft of $38 million.
-
-Bitcoin Foundation • 16h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -201,7 +177,37 @@ Bitcoin Foundation • 16h ago
 
 Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.
 
-The Block • 4h ago
+The Block • 8h ago
+
+---
+
+**[Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report](https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service)**
+
+Experts have since said that those holding Bitcoin on a Coldcard device should move funds now.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
+
+IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
+
+finance.yahoo.com • 18h ago
+
+---
+
+**[US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies](https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin)**
+
+The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
+
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
+
+Bloomberg.com • 8h ago
 
 ---
 
@@ -209,21 +215,15 @@ The Block • 4h ago
 
 Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
-TMX Newsfile • 12h ago
+newsfilecorp.com • 16h ago
 
 ---
 
-**[Legendary Investor Ray Dalio Still Holds Bitcoin — But Only 1% of His Portfolio](https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin)**
+**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
 
-Ray Dalio still prefers the precious metal over "digital gold."
+As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
-
-Bloomberg.com • 4h ago
+CFO.com • 1d ago
 
 ---
 
@@ -253,17 +253,9 @@ A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - 
 
 ---
 
-**[A research exchange where AI agents attack open problems, scored on Bitcoin](https://news.ycombinator.com/item?id=49044103)**
-
-The novel-idea brain is free. Plug in. Public client kit for a live AI research exchange — blind court, real experiments, laws + graveyard. - Jaybell31/dreamwalk
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/Jaybell31/dreamwalk)
-
----
-
 **[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
 
-⬆️ 2 • 💬 0 • 4h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
+⬆️ 2 • 💬 0 • 8h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
 
 ---
 
@@ -295,7 +287,7 @@ A minimal, modular blockchain for peer-to-peer value and controlled networks. - 
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
-⬆️ 1 • 💬 0 • 3h ago • [Radar](https://radar.chat/)
+⬆️ 1 • 💬 0 • 6h ago • [Radar](https://radar.chat/)
 
 ---
 
@@ -315,6 +307,14 @@ Live public testnet with full node, external miner, browser wallet, snapshot boo
 
 ---
 
+**[Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://news.ycombinator.com/item?id=49071365)**
+
+The open standard for proving any file is real, unaltered and sealed - letsseal/letsseal
+
+⬆️ 94 • 💬 31 • 4d ago • [GitHub](https://github.com/letsseal/letsseal)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,47 +325,17 @@ Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.c
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 544 • 💬 55 • ⏱️ 14:52 • 2h ago
+👁️ 15K • 👍 1K • 💬 75 • ⏱️ 14:52 • 5h ago
 
 ---
 
-**[&quot;$200K EXPLOSION! Bitcoin Is About to Get BIGGER Than We Ever Imagine&quot; - Jordi Visser](https://www.youtube.com/watch?v=9o79_GpvFKk)**
+**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 138 • 💬 12 • ⏱️ 15:37 • 7h ago
-
----
-
-**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
-
-ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
-
-📺 Digital Asset News
-
-👁️ 10K • 👍 540 • 💬 86 • ⏱️ 22:31 • 7h ago
-
----
-
-**[Massive Bitcoin Hack! Your Bitcoin Could Be Stolen (What You Need to Know)](https://www.youtube.com/watch?v=AM_XRhMkCUc)**
-
-A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin holders at risk, but this isn't a failure of Bitcoin or self ...
-
-📺 Simply Bitcoin
-
-👁️ 3K • 👍 443 • 💬 137 • ⏱️ 16:44 • 2h ago
-
----
-
-**[The Latest On The Coldcard Disaster (Steps You Can Take Now)](https://www.youtube.com/watch?v=eGkMQWExPL0)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the Coldcard disaster in more detail, ...
-
-📺 Bitcoin University
-
-👁️ 8K • 👍 1K • 💬 514 • ⏱️ 15:46 • 5h ago
+👁️ 73K • 👍 4K • 💬 130 • ⏱️ 7:41 • 1d ago
 
 ---
 
@@ -375,37 +345,37 @@ No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analys
 
 📺 Gareth Soloway
 
-👁️ 38K • 👍 3K • 💬 240 • ⏱️ 14:35 • 13h ago
+👁️ 41K • 👍 3K • 💬 250 • ⏱️ 14:35 • 16h ago
 
 ---
 
-**[🚨 DID YOUR BITCOIN GET STOLEN FROM COLDCARD?!?!?!?!?!](https://www.youtube.com/watch?v=a4qCeNeE1uQ)**
+**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
 
-📺 BRITISH HODL
+📺 Digital Asset News
 
-👁️ 3K • 👍 366 • 💬 331 • ⏱️ 12:12 • 5h ago
-
----
-
-**[BREAKING: YOUR BITCOIN WALLET COULD BE COMPROMISED! (MOVE YOUR BITCOIN NOW) | EP 1560](https://www.youtube.com/watch?v=592Y1vUu_HE)**
-
-million dollars stolen from self custody bitcoin wallets (COLDCARD USERS EFFECTED) - MUST WATCH AND SHARE!
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 263 • 💬 240 • ⏱️ 1:52:15 • 6h ago
+👁️ 12K • 👍 610 • 💬 102 • ⏱️ 22:31 • 11h ago
 
 ---
 
-**[MOVE YOUR BITCOIN ASAP](https://www.youtube.com/watch?v=Y1_UzCWVWL8)**
+**[ALERT: ColdCard Wallets Have Been Hacked! #cryptonews #bitcoin](https://www.youtube.com/watch?v=jDUNEOQGxWw)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+The popular Bitcoin only hardware wallet, ColdCard, has announced all their wallets have been compromised due to weak seed ...
 
-📺 My Financial Friend
+📺 Cyber Scrilla
 
-👁️ 5K • 👍 223 • 💬 66 • ⏱️ 11:22 • 10h ago
+👁️ 3K • 👍 183 • 💬 24 • ⏱️ 1:13 • 12h ago
+
+---
+
+**[The Biggest Crypto Opportunity Is NOT Bitcoin | Matt Hougan](https://www.youtube.com/watch?v=cKsSiWZRl5A)**
+
+What will drive the next crypto bull market? Bitwise CIO Matt Hougan explains why the convergence of blockchain and traditional ...
+
+📺 Cointelegraph
+
+👁️ 6K • 👍 104 • 💬 120 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -415,7 +385,37 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 422 • 💬 274 • ⏱️ 11:29 • 9h ago
+👁️ 8K • 👍 450 • 💬 353 • ⏱️ 11:29 • 13h ago
+
+---
+
+**[Lost Rs 4 Crore Bitcoin, AI Found it 11 Years | Roshni Chellani](https://www.youtube.com/watch?v=_QBLN-rzSR0)**
+
+He lost ₹4 crore in Bitcoin... and AI found it 11 years later   This sounds like a movie, but it's a real story. After spending years ...
+
+📺 Roshni Chellani
+
+👁️ 23K • 👍 611 • 💬 12 • ⏱️ 1:39 • 2d ago
+
+---
+
+**[MOVE YOUR BITCOIN ASAP](https://www.youtube.com/watch?v=Y1_UzCWVWL8)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 225 • 💬 66 • ⏱️ 11:22 • 14h ago
+
+---
+
+**[🚨 DID YOUR BITCOIN GET STOLEN FROM COLDCARD?!?!?!?!?!](https://www.youtube.com/watch?v=a4qCeNeE1uQ)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 5K • 👍 455 • 💬 415 • ⏱️ 12:12 • 9h ago
 
 ---
 
