@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T07:28:03.517467+00:00'
+updated: '2026-08-01T09:32:19.273309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 07:28 UTC  
+**Last Updated:** August 01, 2026 at 09:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** -4.4%  
+**24h:** -1.0%  
+**7d:** -4.3%  
 **30d:** +6.3%  
 **90d:** -20.3%  
 **1y:** -44.9%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.46B
+**Market Cap:** $225.44B
 Rank #2
 
 **Circulating Supply:** 120,682,265 ETH
@@ -62,89 +62,87 @@ No max supply
 -62.2%
 
 **All-Time Low:** $0.43
-+431362.0%
++431336.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion July 28, 2026](https://www.reddit.com/r/ethereum/comments/1v8ocyq/daily_general_discussion_july_28_2026/)**
+**[Daily General Discussion August 01, 2026](https://www.reddit.com/r/ethereum/comments/1vcdyei/daily_general_discussion_august_01_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+4h ago
 
 ---
 
-**[Daily General Discussion July 27, 2026](https://www.reddit.com/r/ethereum/comments/1v7qq89/daily_general_discussion_july_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Lido Core 2026 Upgrade](https://www.reddit.com/r/ethereum/comments/1v83edt/lido_core_2026_upgrade/)**
-
-The 2026 Lido Core upgrade introduces major improvements on the operator and validator layers, strengthening protocol security for stakers while keeping aligned with the Ethereum roadmap. Curated Module v2 (CMv2) introduces native support for 0x02 validators, bond and penalty mechanisms, and operator classification. It will gradually replace the legacy Curated Module as ETH stake is migrated to the new module through validator consolidation. CSM expands permissionless participation through the new Identified DVT Cluster operator type, alongside technical improvements that make the module more reliable and operator-friendly. Contributors are now working with operators on validator consolidation over the next few months. The migration could increase the share of ETH secured by 0x02 validators from around 32% to 52%, while reducing the total number of validators across the Ethereum network by around 30%. Further upgrades to both CMv2 and CSM in the near future: CMv2 will introduce a dynamic stake allocation mechanism through which stake can be distributed among Node Operators based on transparent parameters such as fees, performance, and other relevant factors. CSM will introduce a dedicated module for 0x02 validators, designed specifically to enable permissionless operators to run 0x02 validators with a bond. This new module will operate alongside the existing CSM instance for 0x01 validators, giving operators the flexibility to choose. https://x.com/LidoFinance/status/2081757295310983272
-
-4d ago
-
----
-
-**[How Modern EIPs (EIP-1153) Allow Us to Build Oracle-Less, Highly Otimized L2 Liquidity Infrastructure](https://www.reddit.com/r/ethereum/comments/1v7xd8k/how_modern_eips_eip1153_allow_us_to_build/)**
-
-Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the way we design BlazePhoenix smart contracts needs to evolve. Patterns that were standard on L1 Ethereum (heavy storage usage, external oracle reliance, off-chain quoter infrastructure) often create unnecessary bottlenecks and security risks on L2. We designed an aggregator architecture built specifically around recent EVM upgrades to prove that on-chain liquidity routing can be both cheap and hyper-secure: EIP-1153 Native: Using transient storage for reentrancy and route state tracking instead of legacy storage variables. Oracle-Free Design: Eliminating third-party oracle vectors entirely by deriving real-time liquidity depth directly on-chain. Deterministic Execution: Eliminating "failed swap gas fees" by enforcing precise execution previews that mirror live EVM state. The goal is to build self-sustaining, immutable infrastructure that operates seamlessly for both human users and autonomous AI agents. Looking forward to hearing thoughts from the community on how L2-native EVM patterns are reshaping protocol design!
-
-4d ago
-
----
-
-**[Daily General Discussion July 26, 2026](https://www.reddit.com/r/ethereum/comments/1v6u79l/daily_general_discussion_july_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[I built an open-source monitor for Uniswap's CCA auction mechanism](https://www.reddit.com/r/ethereum/comments/1v6vnnx/i_built_an_opensource_monitor_for_uniswaps_cca/)**
-
-No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
-
-6d ago
-
----
-
-**[The Uber Eats card saved dinner night.](https://www.reddit.com/r/ethereum/comments/1v759fq/the_uber_eats_card_saved_dinner_night/)**
-
-There were problems with my regular payment, but I was craving takeout. In just a few minutes, I placed my order using USDC and found the Uber Eats option. Everything went well after the food arrived. When cryptocurrency actually fulfills such basic requirements, it's wonderful. Does anyone use it for food delivery or transportation?
-
-5d ago
-
----
-
-**[Daily General Discussion July 25, 2026](https://www.reddit.com/r/ethereum/comments/1v5yr3q/daily_general_discussion_july_25_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[154 - Will It Clarity? - EVMavericks Weekly Doots Podcast](https://www.reddit.com/r/ethereum/comments/1v5j8c9/154_will_it_clarity_evmavericks_weekly_doots/)**
+**[Episode 154 of the Weekly Doots: Party like it's 1878](https://www.reddit.com/r/ethereum/comments/1vbvnvd/episode_154_of_the_weekly_doots_party_like_its/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/70574beKPfg) • 7d ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 17h ago
 
 ---
 
-**[Daily General Discussion July 24, 2026](https://www.reddit.com/r/ethereum/comments/1v51kxd/daily_general_discussion_july_24_2026/)**
+**[Daily General Discussion July 31, 2026](https://www.reddit.com/r/ethereum/comments/1vbh4m3/daily_general_discussion_july_31_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8d ago
+1d ago
+
+---
+
+**[Ethereal news weekly #33 | Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot](https://www.reddit.com/r/ethereum/comments/1vbtfy9/ethereal_news_weekly_33_ethereum_11_years_since/)**
+
+Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 18h ago
+
+---
+
+**[Happy Birthday, Ethereum!](https://www.reddit.com/r/ethereum/comments/1vau0oj/happy_birthday_ethereum/)**
+
+1d ago
+
+---
+
+**[Daily General Discussion July 30, 2026](https://www.reddit.com/r/ethereum/comments/1vajxpb/daily_general_discussion_july_30_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
+**[Zama Developer Program for Solidity Developer](https://www.reddit.com/r/ethereum/comments/1vaxn0u/zama_developer_program_for_solidity_developer/)**
+
+Season 4 bounty challenge: build a confidential PoolTogether. 5,000 cUSDT in rewards.
+
+🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 1d ago
+
+---
+
+**[the most muted word on the internet is crypto](https://www.reddit.com/r/ethereum/comments/1vafpyt/the_most_muted_word_on_the_internet_is_crypto/)**
+
+in april 2026, the head of product at X posted a screenshot: the number one most muted topic on the platform was crypto. crypto. the thing ive spent all my effort on over the better part of the last decade. the thing a lot of you spend your careers and attention on as well. with this as the backdrop, i created my newest piece. it all started out with another question: “are the OGs jaded?”, which was itself admittedly ripped from one of ETHPrague 2026’s tracks. that thought gave me the opportunity to draw a map around a much broader topic that I think could resonate out in youtube land: is there anyone left in crypto, or did the thing we were building eat itself? for this piece, I wanted to take a more “journalistic” approach at this topic, and chatted with five people who’d been here since before the big money wave started showing up. builders, contributors, dreamers… some more than a decade deep. eternal gratitudes to the cast (Griff, Justice, Amer, Naomi, and Colin) for exploring with me this topic. I hope this piece can give the public a different perspective — that of the original mission and ethos steeped in reverence for permissionless tech and what it can do for humans. i think it’s worth a watch. particularly because every single person I interviewed still talks about the technology in the present tense, yet every one of them carries the same contradiction. you can watch the full video here: https://youtu.be/0D4fAkvwd3o ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
+
+🔗 [youtu.be](https://youtu.be/0D4fAkvwd3o) • 2d ago
+
+---
+
+**[pcaversaccio (pc) has joined the Ethereum Foundation Board](https://www.reddit.com/r/ethereum/comments/1va3pwz/pcaversaccio_pc_has_joined_the_ethereum/)**
+
+We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder...
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/07/29/ef-board-update) • 2d ago
+
+---
+
+**[Daily General Discussion July 29, 2026](https://www.reddit.com/r/ethereum/comments/1v9m9u9/daily_general_discussion_july_29_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
 
 ---
 
@@ -164,7 +162,7 @@ ethereum.org • 2d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 18h ago
+finance.yahoo.com • 20h ago
 
 ---
 
@@ -172,7 +170,7 @@ Yahoo Finance • 18h ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
@@ -180,7 +178,7 @@ TradingView • 10h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 16h ago
+theblock.co • 18h ago
 
 ---
 
@@ -194,13 +192,13 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 17h ago
+MarketWatch • 19h ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 16h ago
+thestreet.com • 18h ago
 
 ---
 
@@ -208,7 +206,7 @@ thestreet.com • 16h ago
 
 Investors in crypto are increasingly prioritizing projects that generate revenue instead of only vapor.
 
-The Motley Fool • 1d ago
+fool.com • 1d ago
 
 ---
 
@@ -224,7 +222,7 @@ FXStreet • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -238,7 +236,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 142 • 💬 17 • ⏱️ 10:08 • 5h ago
+👁️ 2K • 👍 198 • 💬 19 • ⏱️ 10:08 • 7h ago
 
 ---
 
@@ -248,7 +246,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 474 • 💬 343 • ⏱️ 11:29 • 15h ago
+👁️ 9K • 👍 486 • 💬 325 • ⏱️ 11:29 • 17h ago
 
 ---
 
@@ -258,7 +256,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 1K • 💬 79 • ⏱️ 19:50 • 1d ago
+👁️ 25K • 👍 1K • 💬 82 • ⏱️ 19:50 • 1d ago
+
+---
+
+**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 86 • 👍 16 • 💬 1 • ⏱️ 12:19 • 32m ago
 
 ---
 
@@ -268,7 +276,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 50 • 💬 48 • ⏱️ 32:57 • 12h ago
+👁️ 1K • 👍 55 • 💬 49 • ⏱️ 32:57 • 14h ago
 
 ---
 
@@ -278,7 +286,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 416 • 💬 20 • ⏱️ 34:32 • 21h ago
+👁️ 6K • 👍 422 • 💬 20 • ⏱️ 34:32 • 23h ago
 
 ---
 
@@ -288,17 +296,7 @@ Upcoming inflation figures may signal positive market shifts. Discover the stron
 
 📺 MONEY GAME
 
-👁️ 770 • 👍 8 • 💬 65 • ⏱️ 0:18 • 13h ago
-
----
-
-**[BUY EVERYTHING! Jim Cramer Selling All His Bitcoin Ethereum XRP &amp; Crypto!](https://www.youtube.com/watch?v=rhqsixaGLpU)**
-
-CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc BUY EVERYTHING! Jim Cramer Selling All His ...
-
-📺 Cryptoteacher
-
-👁️ 922 • 👍 87 • 💬 4 • ⏱️ 28:49 • 13h ago
+👁️ 813 • 👍 8 • 💬 63 • ⏱️ 0:18 • 15h ago
 
 ---
 
@@ -312,23 +310,23 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 ---
 
+**[BUY EVERYTHING! Jim Cramer Selling All His Bitcoin Ethereum XRP &amp; Crypto!](https://www.youtube.com/watch?v=rhqsixaGLpU)**
+
+CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc BUY EVERYTHING! Jim Cramer Selling All His ...
+
+📺 Cryptoteacher
+
+👁️ 951 • 👍 90 • 💬 4 • ⏱️ 28:49 • 15h ago
+
+---
+
 **[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
 
 ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 554 • 💬 566 • ⏱️ 13:14 • 2d ago
-
----
-
-**[These 5 Altcoins Are Becoming VERY Popular Buying A Lot More Bitcoin &amp; Ethereum 5.0 Is On The Way](https://www.youtube.com/watch?v=ZKTxvLOCj4g)**
-
-People and companies the last few week have started dropping names... and not just any old names... they're beginning to ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 752 • 💬 385 • ⏱️ 31:20 • 1d ago
+👁️ 11K • 👍 554 • 💬 561 • ⏱️ 13:14 • 2d ago
 
 ---
 

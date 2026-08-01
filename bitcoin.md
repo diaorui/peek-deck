@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-01T07:28:03.511185+00:00'
+updated: '2026-08-01T09:32:19.267251+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 07:28 UTC  
+**Last Updated:** August 01, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -3.5%  
-**30d:** +0.7%  
+**24h:** -1.3%  
+**7d:** -3.4%  
+**30d:** +0.8%  
 **90d:** -21.0%  
-**1y:** -44.1%  
+**1y:** -44.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.43B
+**Market Cap:** $1265.06B
 Rank #1
 
-**Circulating Supply:** 20,064,106 BTC
+**Circulating Supply:** 20,064,150 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92834.7%
++92883.3%
 
 ---
 
@@ -111,7 +111,7 @@ I want to help identify the cause of the recent wallet drain report by u/s1ammag
 
 https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31, 2026: Fixed firmware is now available. Mk4 and Mk5 users must update to version 5.6.0 or later. Q users must update to version 1.5.0Q or later. Do not generate a new seed on one of these models until the update is installed. Seeds generated on Mk4, Q and Mk5 before the fixed firmware releases are also affected, with about 72 bits of entropy rather than the expected 128 bits. Updating the firmware does not change or repair an existing seed. If your seed was generated before the fixed firmware version for your model, follow the migration guidance below unless the independent dice-entropy exception applies to you. The issue is present on every Mk3 firmware version since 4.0.1. It also affects seeds generated on Mk4 and Mk5 before version 5.6.0, and on Q before version 1.5.0Q. The impact on Mk4, Mk5 and Q is not as severe but is still serious.
 
-19h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/ Updated July 31,
 
 Do this if you want to sleep like a baby when the next RNG vulnerability comes out
 
-🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 23h ago
+🔗 [bitbox.swiss](https://bitbox.swiss/bitbox02/BitBox_Diceware_HowTo.pdf) • 1d ago
 
 ---
 
@@ -149,7 +149,7 @@ I haven’t done anything since creation except sending into the wallet.
 
 coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
-22h ago
+1d ago
 
 ---
 
@@ -157,11 +157,11 @@ coinkite said mk4 not affected in early analysis, but i'd not take this risk.
 
 ## Google News: "bitcoin"
 
-**[Strategy reports wider-than-expected Q2 loss amid Bitcoin volatility](https://ca.finance.yahoo.com/news/strategy-reports-wider-expected-q2-152700303.html)**
+**[Analysts back Strategy's cash buildup as Saylor shifts from '100% bitcoin' approach](https://www.theblock.co/post/410297/strategy-cash-buildup-saylor-shifts-from-100-bitcoin-approach)**
 
-Strategy (NASDAQ:MSTR) shares fell 7% in pre-market trading after the company reported a wider-than-expected second quarter loss, largely driven by unrealized losses on its Bitcoin holdings. The company reported a net loss of $8.22 billion, or $24.45 per diluted share, for the three months...
+TD Cowen and Benchmark reiterated buy on Strategy after an $8.2 billion Q2 loss and a corporate STRC-to-par push.
 
-Yahoo! Finance Canada • 16h ago
+theblock.co • 15h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1d ago
 
 Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.
 
-The Block • 11h ago
+theblock.co • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Block • 11h ago
 
 Experts have since said that those holding Bitcoin on a Coldcard device should move funds now.
 
-Bitcoin Magazine • 1d ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin and XRP handed early investors a massive lead over the S&P 500, then gave it all back in seven months. Whether that gap opens up again by 2030 depends on a single question neither camp can answer with certainty.
 
-Yahoo Finance • 15h ago
+finance.yahoo.com • 17h ago
 
 ---
 
@@ -201,13 +201,21 @@ Yahoo Finance • 15h ago
 
 The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
 **[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
 
-bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
+
+---
+
+**[Bitcoin vs. XRP: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/08/01/bitcoin-vs-xrp-which-is-the-better-long-term-buy/?source=iedfolrf0000001)**
+
+Both cryptocurrencies have been around for a long time, but they can still fall out of favor.
+
+fool.com • 6m ago
 
 ---
 
@@ -215,21 +223,13 @@ bloomberg.com • 11h ago
 
 Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
-newsfilecorp.com • 18h ago
+TMX Newsfile • 21h ago
 
 ---
 
 **[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
 
 WSJ • 1d ago
-
----
-
-**[CleanSpark CFO on shifting from bitcoin mining to AI data centers](https://www.cfo.com/news/cleanspark-president-cfo-gary-vecchiarelli-on-shifting-from-bitcoin-mining-to-ai-data-centers/826482/)**
-
-As CleanSpark enters the AI infrastructure race, President and CFO Gary Vecchiarelli explains why the company believes its biggest strategic bet is also its most logical one.
-
-cfo.com • 1d ago
 
 ---
 
@@ -245,17 +245,9 @@ The alleged thieves infected 8,000 devices.
 
 ---
 
-**[Sharecoin – GPU fork of Bitcoin with a randomness beacon](https://news.ycombinator.com/item?id=49045694)**
-
-A real fork of Bitcoin Core swapping SHA-256d for GPU-mineable ProgPoW/KawPow - TVHeroes/Sharecoin
-
-⬆️ 5 • 💬 0 • 6d ago • [GitHub](https://github.com/TVHeroes/Sharecoin)
-
----
-
 **[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
 
-⬆️ 2 • 💬 0 • 10h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
+⬆️ 2 • 💬 0 • 12h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
 
 ---
 
@@ -275,19 +267,11 @@ An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to th
 
 ---
 
-**[Hardest engineering challenge in post-quantum Bitcoin?](https://news.ycombinator.com/item?id=49045898)**
-
-A minimal, modular blockchain for peer-to-peer value and controlled networks. - chipcoin-protocol/chipcoin
-
-⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/chipcoin-protocol/chipcoin)
-
----
-
 **[Radar – Your Messages. Your Bitcoin. Together, at Last](https://news.ycombinator.com/item?id=49129036)**
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
-⬆️ 1 • 💬 0 • 9h ago • [Radar](https://radar.chat/)
+⬆️ 1 • 💬 0 • 11h ago • [Radar](https://radar.chat/)
 
 ---
 
@@ -315,6 +299,18 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 ---
 
+**[Programmer Government](https://news.ycombinator.com/item?id=49052385)**
+
+⬆️ 2 • 💬 3 • 6d ago
+
+---
+
+**[Low Entropy Vuln on Coldcard Mk3 Hardware Wallets, 1082.58 BTC Drained](https://news.ycombinator.com/item?id=49121846)**
+
+⬆️ 11 • 💬 1 • 21h ago • [reddit.com](https://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -325,17 +321,7 @@ Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.c
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 135 • ⏱️ 14:52 • 8h ago
-
----
-
-**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
-
-No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
-
-📺 Gareth Soloway
-
-👁️ 43K • 👍 3K • 💬 253 • ⏱️ 14:35 • 19h ago
+👁️ 24K • 👍 1K • 💬 140 • ⏱️ 14:52 • 10h ago
 
 ---
 
@@ -345,7 +331,7 @@ ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW 
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 641 • 💬 106 • ⏱️ 22:31 • 13h ago
+👁️ 13K • 👍 654 • 💬 110 • ⏱️ 22:31 • 15h ago
 
 ---
 
@@ -355,27 +341,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 163 • 💬 12 • ⏱️ 15:37 • 13h ago
-
----
-
-**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
-
-Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 75K • 👍 4K • 💬 130 • ⏱️ 7:41 • 1d ago
-
----
-
-**[BREAKING: YOUR BITCOIN WALLET COULD BE COMPROMISED! (MOVE YOUR BITCOIN NOW) | EP 1560](https://www.youtube.com/watch?v=592Y1vUu_HE)**
-
-million dollars stolen from self custody bitcoin wallets (COLDCARD USERS EFFECTED) - MUST WATCH AND SHARE!
-
-📺 Simply Bitcoin
-
-👁️ 6K • 👍 282 • 💬 293 • ⏱️ 1:52:15 • 12h ago
+👁️ 3K • 👍 167 • 💬 12 • ⏱️ 15:37 • 15h ago
 
 ---
 
@@ -385,7 +351,27 @@ A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin h
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 813 • 💬 208 • ⏱️ 16:44 • 8h ago
+👁️ 12K • 👍 875 • 💬 200 • ⏱️ 16:44 • 11h ago
+
+---
+
+**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
+
+Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 76K • 👍 4K • 💬 130 • ⏱️ 7:41 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
+
+No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
+
+📺 Gareth Soloway
+
+👁️ 44K • 👍 3K • 💬 257 • ⏱️ 14:35 • 21h ago
 
 ---
 
@@ -395,17 +381,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 166 • 💬 20 • ⏱️ 15:53 • 1d ago
-
----
-
-**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 474 • 💬 343 • ⏱️ 11:29 • 15h ago
+👁️ 6K • 👍 167 • 💬 20 • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -416,6 +392,26 @@ The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Dail
 📺 Altcoin Daily
 
 👁️ 43K • 👍 2K • 💬 117 • ⏱️ 10:40 • 2d ago
+
+---
+
+**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 486 • 💬 325 • ⏱️ 11:29 • 17h ago
+
+---
+
+**[The market dynamics behind Bitcoin&#39;s resilience](https://www.youtube.com/watch?v=28U4h6A_Bb4)**
+
+21Shares Co-founder Ophelia Snyder on the market dynamics behind Bitcoin's resilience Ophelia reads the current price action ...
+
+📺 The Wolf Of All Streets
+
+👁️ 578 • 👍 1 • 💬 34 • ⏱️ 0:36 • 6h ago
 
 ---
 
