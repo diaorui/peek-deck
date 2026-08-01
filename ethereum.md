@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T04:51:49.769686+00:00'
+updated: '2026-08-01T07:28:03.517467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 04:51 UTC  
+**Last Updated:** August 01, 2026 at 07:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -4.3%  
+**24h:** -1.1%  
+**7d:** -4.4%  
 **30d:** +6.3%  
 **90d:** -20.3%  
 **1y:** -44.9%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.42B
+**Market Cap:** $225.46B
 Rank #2
 
 **Circulating Supply:** 120,682,265 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.2%
 
 **All-Time Low:** $0.43
-+431297.4%
++431362.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi r/ethereum, As Layer 2 networks like Base, Arbitrum, and Optimism mature, the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 No public tooling existed for tracking Continuous Clearing Auctions — the new launch mechanism used by AZTEC, STRATO, wOCT, and CAP. If you weren't watching the factory contract, you missed the launch entirely. This fills that gap. Tracks all 4 chains, indexes every bid, and sends Telegram alerts when new auctions deploy. Dashboard: monkrus.github.io/cca-monitor GitHub: github.com/monkrus/cca-monitor
 
-5d ago
+6d ago
 
 ---
 
@@ -128,7 +128,7 @@ There were problems with my regular payment, but I was craving takeout. In just 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -144,7 +144,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7d ago
+8d ago
 
 ---
 
@@ -164,7 +164,7 @@ ethereum.org • 2d ago
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-finance.yahoo.com • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ finance.yahoo.com • 15h ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 7h ago
+TradingView • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 7h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
@@ -194,13 +194,13 @@ CoinDesk • 1d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-MarketWatch • 14h ago
+MarketWatch • 17h ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 13h ago
+thestreet.com • 16h ago
 
 ---
 
@@ -220,11 +220,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Morgan Stanley Ethereum and Solana ETFs outperform rivals as second-day inflows reach $33 million](https://cryptoslate.com/morgan-stanley-ethereum-and-solana-etfs-outperform-rivals-as-second-day-inflows-reach-33-million/)**
+**[Current price of Ethereum for July 31, 2026](https://fortune.com/article/price-of-ethereum-07-31-2026/)**
 
-Morgan Stanley’s Ethereum and Solana ETFs drew $33 million on their second trading day, outperforming larger rivals.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CryptoSlate • 1d ago
+fortune.com • 20h ago
 
 ---
 
@@ -232,23 +232,23 @@ CryptoSlate • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 450 • 💬 353 • ⏱️ 11:29 • 13h ago
-
----
-
 **[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
 
 In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
 
 📺 More Crypto Online
 
-👁️ 640 • 👍 67 • 💬 8 • ⏱️ 10:08 • 2h ago
+👁️ 1K • 👍 142 • 💬 17 • ⏱️ 10:08 • 5h ago
+
+---
+
+**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 474 • 💬 343 • ⏱️ 11:29 • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 995 • 💬 77 • ⏱️ 19:50 • 1d ago
+👁️ 25K • 👍 1K • 💬 79 • ⏱️ 19:50 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 995 • 👍 49 • 💬 46 • ⏱️ 32:57 • 10h ago
+👁️ 1K • 👍 50 • 💬 48 • ⏱️ 32:57 • 12h ago
 
 ---
 
@@ -278,27 +278,7 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 412 • 💬 20 • ⏱️ 34:32 • 18h ago
-
----
-
-**[BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=EjRGJY0IZko)**
-
-BITCOIN HACK: $40 MILLION STOLEN (Emergency Update)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 240 • 💬 120 • ⏱️ 25:14 • 8h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=_9LXI_oEuaY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 140 • 👍 18 • ⏱️ 6:52 • 1h ago
+👁️ 6K • 👍 416 • 💬 20 • ⏱️ 34:32 • 21h ago
 
 ---
 
@@ -308,7 +288,17 @@ Upcoming inflation figures may signal positive market shifts. Discover the stron
 
 📺 MONEY GAME
 
-👁️ 739 • 👍 8 • 💬 67 • ⏱️ 0:18 • 10h ago
+👁️ 770 • 👍 8 • 💬 65 • ⏱️ 0:18 • 13h ago
+
+---
+
+**[BUY EVERYTHING! Jim Cramer Selling All His Bitcoin Ethereum XRP &amp; Crypto!](https://www.youtube.com/watch?v=rhqsixaGLpU)**
+
+CASH APP= $CRYPTOTEACHER https://www.patreon.com/deathofcashbtc BUY EVERYTHING! Jim Cramer Selling All His ...
+
+📺 Cryptoteacher
+
+👁️ 922 • 👍 87 • 💬 4 • ⏱️ 28:49 • 13h ago
 
 ---
 
@@ -318,15 +308,27 @@ Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorse
 
 📺 YaBoySkey
 
-👁️ 584 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
+👁️ 595 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
 
 ---
 
-**[+251964615165 #tigray #eritrian #amhara #wedding #ethiopia #ethereum #gonder @Reyot](https://www.youtube.com/watch?v=oj86uliVL-c)**
+**[The 5 Year CRYPTO BEAR MARKET Just Got Its First Real Crack (ETH/BTC Breakout)](https://www.youtube.com/watch?v=bTTQtWOzxCY)**
 
-📺 ማሜ የባህል ልብስ
+ETH/BTC just broke a trendline that hasn't happened in over 6 years. It's the first real crack we've seen in a 5 year long altcoin ...
 
-👁️ 15K • 👍 120 • 💬 3 • ⏱️ 0:22 • 2d ago
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 554 • 💬 566 • ⏱️ 13:14 • 2d ago
+
+---
+
+**[These 5 Altcoins Are Becoming VERY Popular Buying A Lot More Bitcoin &amp; Ethereum 5.0 Is On The Way](https://www.youtube.com/watch?v=ZKTxvLOCj4g)**
+
+People and companies the last few week have started dropping names... and not just any old names... they're beginning to ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 752 • 💬 385 • ⏱️ 31:20 • 1d ago
 
 ---
 

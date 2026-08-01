@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T04:51:49.772659+00:00'
+updated: '2026-08-01T07:28:03.520681+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 04:51 UTC  
+**Last Updated:** August 01, 2026 at 07:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ I'm exploring Bowden cables as a way to transmit motion when the motor can't be 
 
 The new US restriction on foreign-made humanoids and quadrupeds is framed around security, but price and availability matter to research velocity. AP reports that Chinese manufacturers ship far more humanoids than US rivals and often at much lower prices. Labs learn by breaking hardware, replacing parts, and running many imperfect prototypes. If the affordable platforms disappear, better-funded companies may adapt while universities, startups, and independent builders reduce experiments or move them abroad. Would a certified research-only pathway preserve security without concentrating access? Or are connected embodied systems too difficult to contain once they enter a lab network? Source: https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366
 
-1d ago
+2d ago
 
 ---
 
@@ -110,11 +110,27 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
+**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+
+From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
+
+Google DeepMind • 1d ago
+
+---
+
 **[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
 The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
 
-WIRED • 1d ago
+wired.com • 1d ago
+
+---
+
+**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+
+Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+
+CNET • 19h ago
 
 ---
 
@@ -122,7 +138,7 @@ WIRED • 1d ago
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 15h ago
+ABC News - Breaking News, Latest News and Videos • 17h ago
 
 ---
 
@@ -132,11 +148,11 @@ Reuters • 3d ago
 
 ---
 
-**[Wetour Robotics Announces Share Consolidation](https://finance.yahoo.com/markets/stocks/articles/wetour-robotics-announces-share-consolidation-221800169.html)**
+**[SF Robotics Startup Run By Ex-Cruise CEO Faces Class-Action Lawsuit Alleging Unpaid Wages](https://sfist.com/2026/07/30/contract-workers-sue-sf-robotics-startup-run-by-ex-cruise-ceo-alleging-unpaid-wages/)**
 
-AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
+Following an earlier lawsuit over a damaged Airbnb rental, former Cruise CEO Kyle Vogt's startup Botco is now facing a class-action lawsuit from former contract workers who allege unpaid overtime and termination pay.
 
-finance.yahoo.com • 2d ago
+SFist • 1d ago
 
 ---
 
@@ -144,15 +160,15 @@ finance.yahoo.com • 2d ago
 
 Crashing mechanical shambles makes the presentation ring hollow.
 
-Tom's Hardware • 13h ago
+Tom's Hardware • 16h ago
 
 ---
 
-**[Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/)**
+**[Wetour Robotics Announces Share Consolidation](https://finance.yahoo.com/markets/stocks/articles/wetour-robotics-announces-share-consolidation-221800169.html)**
 
-Unlike autonomous driving or industrial robotics, healthcare robotics can’t rely on internet-scale data collection or unlimited real-world experimentation. Every demonstration requires specialized…
+AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
-NVIDIA Developer • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -166,21 +182,7 @@ Tech Xplore • 1d ago
 
 Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
 
-The Globe and Mail • 20h ago
-
----
-
-**[China’s Unitree Robotics flags risks to future US sales under FCC restrictions; barriers can’t erase firm’s competitiveness: expert](https://www.globaltimes.cn/page/202607/1367261.shtml)**
-
-Chinese robotics company Unitree Technology on Friday warned that its future robot models could be unable to enter the US market under new restrictions imposed by the US Federal Communications Commission (FCC), while stressing that its existing major products remain authorized for sale.
-
-Global Times • 20h ago
-
----
-
-**[Students compete in international robotics competition at Fairmont State](https://www.wboy.com/news/marion/students-compete-in-international-robotics-competition-at-fairmont-state/)**
-
-WBOY.com • 6h ago
+The Globe and Mail • 22h ago
 
 ---
 
@@ -194,17 +196,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 145K • 👍 4K • 💬 397 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 6K • 👍 220 • 💬 21 • ⏱️ 9:54 • 8h ago
+👁️ 151K • 👍 5K • 💬 408 • ⏱️ 3:00 • 1d ago
 
 ---
 
@@ -214,17 +206,17 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 66K • 👍 333 • 💬 497 • ⏱️ 6:04 • 2d ago
+👁️ 68K • 👍 341 • 💬 499 • ⏱️ 6:04 • 2d ago
 
 ---
 
-**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
 
-A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
-📺 ABC7 News Bay Area
+📺 TheAIGRID
 
-👁️ 5K • 👍 58 • 💬 38 • ⏱️ 2:01 • 1d ago
+👁️ 8K • 👍 226 • 💬 23 • ⏱️ 9:54 • 10h ago
 
 ---
 
@@ -234,27 +226,17 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 All-In Podcast
 
-👁️ 98K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 2d ago
+👁️ 99K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 2d ago
 
 ---
 
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
 
-📺 ejunky66
+📺 ABC7 News Bay Area
 
-👁️ 5K • 👍 88 • 💬 3 • ⏱️ 1:00 • 11h ago
-
----
-
-**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
-
-To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
-
-📺 Google DeepMind
-
-👁️ 16K • 👍 606 • 💬 77 • ⏱️ 2:17 • 1d ago
+👁️ 5K • 👍 62 • 💬 41 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -264,7 +246,35 @@ Multi-robot collaboration enables different types of robots to communicate and w
 
 📺 Google DeepMind
 
-👁️ 13K • 👍 475 • 💬 30 • ⏱️ 2:32 • 1d ago
+👁️ 13K • 👍 481 • 💬 30 • ⏱️ 2:32 • 1d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 483K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
+
+---
+
+**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
+
+To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
+
+📺 Google DeepMind
+
+👁️ 17K • 👍 625 • 💬 77 • ⏱️ 2:17 • 1d ago
+
+---
+
+**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
+
+The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
+
+📺 Ross Givens
+
+👁️ 13K • 👍 704 • 💬 165 • ⏱️ 11:31 • 2d ago
 
 ---
 
@@ -274,17 +284,7 @@ Introducing multi-robot collaboration. This enables different types of robots to
 
 📺 Google DeepMind
 
-👁️ 7K • 👍 276 • 💬 32 • ⏱️ 2:09 • 1d ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 907K • 👍 8K • 💬 3K • ⏱️ 2:15 • 4d ago
+👁️ 7K • 👍 281 • 💬 32 • ⏱️ 2:09 • 1d ago
 
 ---
 
