@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-01T14:26:21.466464+00:00'
+updated: '2026-08-01T15:37:24.427751+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 14:26 UTC  
+**Last Updated:** August 01, 2026 at 15:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -4.2%  
-**30d:** +6.5%  
-**90d:** -20.2%  
-**1y:** -44.8%  
+**24h:** +0.4%  
+**7d:** -4.3%  
+**30d:** +6.4%  
+**90d:** -20.3%  
+**1y:** -44.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.22B
+**Market Cap:** $225.67B
 Rank #2
 
 **Circulating Supply:** 120,682,265 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.2%
 
 **All-Time Low:** $0.43
-+430914.0%
++431780.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 22h ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 23h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -178,13 +178,13 @@ TradingView • 17h ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -199,14 +199,6 @@ CoinDesk • 2d ago
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
 MarketWatch • 1d ago
-
----
-
-**[Bitcoin Stuck at $63,000, Ethereum, XRP, Dogecoin Down up to 2% on Weak Friday](https://www.benzinga.com/crypto/cryptocurrency/26/07/60851941/bitcoin-stuck-at-63000-ethereum-xrp-dogecoin-down-up-to-2-on-weak-friday)**
-
-Cryptocurrencies struggle despite strong ETF inflows and hawkish Fed tone on interest rates. Analysts expect possible pullback to $60,000-$61,000 range and a fall below could trigger prolonged weakness.
-
-Benzinga • 20h ago
 
 ---
 
@@ -226,9 +218,27 @@ FXStreet • 1d ago
 
 ---
 
+**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
+
+BlackRock clients bought over $20 million in ETH; staking beats records.
+
+AMBCrypto • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Before You Buy Ethereum, Look at This First](https://www.youtube.com/watch?v=fNlSyCH4ikM)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 108 • 👍 12 • ⏱️ 13:19 • 40m ago
+
+---
 
 **[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
 
@@ -236,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 1K • 💬 83 • ⏱️ 19:50 • 2d ago
+👁️ 28K • 👍 1K • 💬 84 • ⏱️ 19:50 • 2d ago
 
 ---
 
@@ -246,7 +256,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 499 • 💬 301 • ⏱️ 11:29 • 22h ago
+👁️ 10K • 👍 511 • 💬 352 • ⏱️ 11:29 • 23h ago
 
 ---
 
@@ -256,7 +266,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 256 • 💬 25 • ⏱️ 10:08 • 12h ago
+👁️ 4K • 👍 290 • 💬 26 • ⏱️ 10:08 • 13h ago
 
 ---
 
@@ -266,17 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 117 • 👍 13 • ⏱️ 5:11 • 4h ago
-
----
-
-**[The Future of Banking Is Being Built on Ethereum](https://www.youtube.com/watch?v=3F6xcR4PvCo)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 60 • 💬 48 • ⏱️ 32:57 • 19h ago
+👁️ 222 • 👍 14 • 💬 46 • ⏱️ 5:11 • 6h ago
 
 ---
 
@@ -286,7 +286,17 @@ Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led ra
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 420 • 💬 20 • ⏱️ 34:32 • 1d ago
+👁️ 7K • 👍 425 • 💬 20 • ⏱️ 34:32 • 1d ago
+
+---
+
+**[The Future of Banking Is Being Built on Ethereum](https://www.youtube.com/watch?v=3F6xcR4PvCo)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 64 • 💬 70 • ⏱️ 32:57 • 20h ago
 
 ---
 
@@ -296,37 +306,27 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 423 • 👍 70 • 💬 7 • ⏱️ 12:19 • 5h ago
+👁️ 704 • 👍 103 • 💬 8 • ⏱️ 12:19 • 6h ago
 
 ---
 
-**[🚀 ETHEREUM HOJE 01/08 - ETH DEMONSTRA FORÇA E AINDA MANTÉM ESTRUTURA DE ALTA NO DIÁRIO! #eth #btc](https://www.youtube.com/watch?v=EFoLxKqSwK0)**
+**[🔴 Live Bitcoin &amp; Ethereum Trading 24/7](https://www.youtube.com/watch?v=gmfFm9q9bHA)**
 
-GRUPO DE SINAIS LOBO CRIPTO OFICIAL https://t.me/TocaSinais_bot PLATAFORMA DE IA COM DADOS EM TEMPO REAL ...
+Telegram: https://t.me/legacyearn_official Join Our Private Trading Community Delta Exchange: ...
 
-📺 Lobo Cripto Oficial
+📺 Daily Crypto By Legacy Earn
 
-👁️ 76 • 👍 19 • 💬 3 • ⏱️ 9:48 • 3h ago
-
----
-
-**[Le NOUVEAU plan de Vitalik Buterin pour imposer Ethereum !](https://www.youtube.com/watch?v=ysPlQSNS9S8)**
-
-Profitez de l'offre de bienvenue de Finst : 50€ en BTC offerts à l'inscription via notre lien !
-
-📺 Journal du Coin
-
-👁️ 4K • 👍 251 • ⏱️ 11:18 • 1d ago
+👁️ 5K • 👍 86 • 1d ago
 
 ---
 
-**[Eth Will Go Parobolic This Tike Here’s Why #btc #bitcoin #eth #crypto #creatorsearchinsights](https://www.youtube.com/watch?v=FI8fabyPCiY)**
+**[BMNR&#39;s HUGE Opportunity: ETH Strength &amp; Shrinking Shares! #shorts](https://www.youtube.com/watch?v=eN6RpYmvC6o)**
 
-Eth Will Go Parobolic This Tike Here's Why #btc #bitcoin #eth #crypto #creatorsearchinsights.
+Upcoming inflation figures may signal positive market shifts. Discover the strong link between Bitmine (BMNR) and Ethereum ...
 
-📺 YaBoySkey
+📺 MONEY GAME
 
-👁️ 597 • 👍 24 • 💬 7 • ⏱️ 2:58 • 1d ago
+👁️ 854 • 👍 10 • 💬 62 • ⏱️ 0:18 • 21h ago
 
 ---
 

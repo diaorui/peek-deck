@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T14:26:21.470043+00:00'
+updated: '2026-08-01T15:37:24.430675+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 14:26 UTC  
+**Last Updated:** August 01, 2026 at 15:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,11 +110,11 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
-**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+**[Introducing Gemini Robotics ER 2](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/)**
 
-From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
+Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
 
-Google DeepMind • 1d ago
+blog.google • 2d ago
 
 ---
 
@@ -122,15 +122,7 @@ Google DeepMind • 1d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-businessinsider.com • 5h ago
-
----
-
-**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
-
-Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
-
-BBC • 2d ago
+Business Insider • 6h ago
 
 ---
 
@@ -142,6 +134,14 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
+**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
+
+Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
+
+BBC • 2d ago
+
+---
+
 **[Wetour Robotics Announces Share Consolidation](https://finance.yahoo.com/markets/stocks/articles/wetour-robotics-announces-share-consolidation-221800169.html)**
 
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
@@ -150,19 +150,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[SF Robotics Startup Run By Ex-Cruise CEO Faces Class-Action Lawsuit Alleging Unpaid Wages](https://sfist.com/2026/07/30/contract-workers-sue-sf-robotics-startup-run-by-ex-cruise-ceo-alleging-unpaid-wages/)**
-
-Following an earlier lawsuit over a damaged Airbnb rental, former Cruise CEO Kyle Vogt's startup Botco is now facing a class-action lawsuit from former contract workers who allege unpaid overtime and termination pay.
-
-SFist • 1d ago
-
----
-
 **[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
 
 Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
 
-FreightWaves • 19h ago
+FreightWaves • 21h ago
 
 ---
 
@@ -177,6 +169,12 @@ The Globe and Mail • 1d ago
 **[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Students compete in international robotics competition at Fairmont State](https://www.wboy.com/news/marion/students-compete-in-international-robotics-competition-at-fairmont-state/)**
+
+WBOY.com • 17h ago
 
 ---
 
@@ -198,17 +196,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 163K • 👍 5K • 💬 422 • ⏱️ 3:00 • 1d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 9K • 👍 261 • 💬 28 • ⏱️ 9:54 • 17h ago
+👁️ 170K • 👍 5K • 💬 435 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -218,7 +206,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 68K • 👍 345 • 💬 500 • ⏱️ 6:04 • 2d ago
+👁️ 69K • 👍 346 • 💬 507 • ⏱️ 6:04 • 2d ago
 
 ---
 
@@ -228,7 +216,17 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 100K • 👍 2K • 💬 312 • ⏱️ 1:08:35 • 3d ago
+👁️ 101K • 👍 2K • 💬 313 • ⏱️ 1:08:35 • 3d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 10K • 👍 271 • 💬 30 • ⏱️ 9:54 • 18h ago
 
 ---
 
@@ -238,7 +236,45 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 ABC7 News Bay Area
 
-👁️ 6K • 👍 63 • 💬 42 • ⏱️ 2:01 • 1d ago
+👁️ 6K • 👍 64 • 💬 42 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 7K • 👍 112 • 💬 11 • ⏱️ 1:00 • 22h ago
+
+---
+
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
+
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
+
+📺 NBC News
+
+👁️ 997K • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 508K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
+
+---
+
+**[China&#39;s New Bionic Humanoid Hand Just Made Boston Dynamics &amp; Tesla&#39;s Humanoids Look Like a JOKE!](https://www.youtube.com/watch?v=W18kCaVBqzc)**
+
+Everyone is obsessed with humanoid robots, but almost nobody is talking about the one technology that could decide who wins ...
+
+📺 Evolving AI
+
+👁️ 3K • 👍 80 • 💬 5 • ⏱️ 8:43 • 6d ago
 
 ---
 
@@ -248,45 +284,7 @@ Multi-robot collaboration enables different types of robots to communicate and w
 
 📺 Google DeepMind
 
-👁️ 14K • 👍 494 • 💬 32 • ⏱️ 2:32 • 1d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 498K • 👍 22K • 💬 2K • ⏱️ 0:40 • 1d ago
-
----
-
-**[Advanced dexterity with Gemini Robotics 2](https://www.youtube.com/watch?v=O9-650iHAls)**
-
-To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 unlocks a new level of physical ...
-
-📺 Google DeepMind
-
-👁️ 18K • 👍 652 • 💬 81 • ⏱️ 2:17 • 1d ago
-
----
-
-**[Robots working together with Gemini Robotics 2](https://www.youtube.com/watch?v=fo9WirRIaVs)**
-
-Introducing multi-robot collaboration. This enables different types of robots to communicate and work together to solve complex ...
-
-📺 Google DeepMind
-
-👁️ 7K • 👍 287 • 💬 34 • ⏱️ 2:09 • 1d ago
-
----
-
-**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
-
-The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
-
-📺 Ross Givens
-
-👁️ 13K • 👍 709 • 💬 158 • ⏱️ 11:31 • 2d ago
+👁️ 15K • 👍 501 • 💬 33 • ⏱️ 2:32 • 2d ago
 
 ---
 

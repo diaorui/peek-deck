@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-01T14:26:21.459672+00:00'
+updated: '2026-08-01T15:37:24.422334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 14:26 UTC  
+**Last Updated:** August 01, 2026 at 15:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -3.4%  
-**30d:** +0.8%  
+**24h:** +0.3%  
+**7d:** -3.5%  
+**30d:** +0.7%  
 **90d:** -21.0%  
-**1y:** -44.0%  
+**1y:** -44.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.00B
+**Market Cap:** $1264.10B
 Rank #1
 
-**Circulating Supply:** 20,064,203 BTC
+**Circulating Supply:** 20,064,259 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92877.4%
++92811.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I believed in Bitcoin. Holding it gave me peace of mind because my country has faced several FATF sanctions. I was glad to find a kind of money that cannot be censored or debased because I just want to protect myself from the money printing and my country's weak and inflated currency comapred to the dollar. I’m 39, and I was hoping to have a good financial cushion before 50. But today, my 2 BTC were drained. Losing my Bitcoin has changed my mindset. It’s no longer about finishing the race first. At this point, I just want to finish it. But losing my BTC feels like I’m back at the starting line. I lost years of hard work and time. I thought I was secure because Cold Card was always praised as one of the best and most secure wallets. It’s open source, so anyone can verify. I’m done with Bitcoin. I’m not even sure if I still believe in it. I don’t know what the future holds for it anymore. I could have stayed with traditional investments and lived a normal life. Maybe I should have just moved everything into a Bitcoin ETF when they launched. But I don't know. It's too late to do it. To everyone who has lost their BTC, I wish you the best and good health. I hope you find the strength to start again.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I believed in Bitcoin. Holding it gave me peace of mind because my country has f
 
 I live in a third world country and this is more money than I will ever make. I am not 38 and this has been my savings for last 10 years. I don’t know what to do, I went to police station yesterday and they told me to talk to cyber crime department. I know I should keep my cold card but I m loosing hope.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ I live in a third world country and this is more money than I will ever make. I 
 
 "More than 1,000 bitcoin, worth about $70 million, was drained from 1,196 wallets in a 41-minute window on July 30, nearly double the amount reported when the theft first surfaced."
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices) • 7h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ I live in a third world country and this is more money than I will ever make. I 
 
 When I bought a coldcard, I also bought these casino dices, and rolled my own entropy mostly for fun. This saved me from the yesterday hack, otherwise I would be in tears now, most of my net worth would be lost.. Asking myself if to switch device, but I think i should be safe. Thank you casino dices
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ When I bought a coldcard, I also bought these casino dices, and rolled my own en
 
 Can I report somewhere?
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ Can I report somewhere?
 
 Any idea if there’s an organized central place to upload documentation of wallet / transaction id’s in the off-chance that the stolen BTC surfaces on a regulated exchange? Had all my BTC on 3 devices. All MK3’s. All got drained over 8 minutes on July 29th. I’m aware chances of recouping anything are slim to none. I’ve already filed with the authorities.
 
-11h ago
+12h ago
 
 ---
 
@@ -129,13 +129,13 @@ Any idea if there’s an organized central place to upload documentation of wall
 
 Can we all finally come to a consensus that leaving your coin on an exchange or buying ETFs may not be a bad idea for like 90% of bitcoin holders? For years i was mocked for leaving my coins on an exchange, yet I haven't had issues with stolen or hacked coins one bit.
 
-1h ago
+3h ago
 
 ---
 
 **[These guys don’t know](https://www.reddit.com/r/Bitcoin/comments/1vcaocb/these_guys_dont_know/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Can we all finally come to a consensus that leaving your coin on an exchange or 
 
 I won't mention the amount but it's significant enough to a point where we will have to end our friendship, they understand i didnt do anything bad but I was very vocal about "I know what i am doing" My stack is safe because I use seed signer and generated by SP using coin flips. I dont know how to handle this
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ I won't mention the amount but it's significant enough to a point where we will 
 
 The victims could've followed all the general rules in self custody (generating a fresh address, keeping seed phrase secure, buying hardware wallets only from reputable sources), and yet they were still exploited. Not your keys, not your coins, unless your keys were never random. Even long time Bitcoiners have been expressing anxiety. I bet most of you checked your balance after hearing the news, even if you've done everything right. This type of paranoia is an issue and institutionalized bitcoin products are a seemingly good solution to that. Do you know how many people regularly visit a physical bank because they don't know how to use an app and refuse to learn? Now imagine telling them to self custody. I am hoping that this hack will make people look more closely at the wallet software code... especially if it's open source. I'm honestly confused as I thought open source software was supposed to be more resilient bc of its transparency. I don't own Coldcard so I'm not too worried about my stash, but I'd be lying if I said this situation hasn't affected my perspective on the current Bitcoin space.
 
-5h ago
+6h ago
 
 ---
 
@@ -163,7 +163,7 @@ The victims could've followed all the general rules in self custody (generating 
 
 The largest institutional holder of bitcoin has shifted to selling its position in recent months.
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 22h ago
 
 A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -179,15 +179,23 @@ CoinDesk • 21h ago
 
 Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report](https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service)**
+**[Coldcard Hacked for $70M: How Do You Keep Bitcoin Safe if Cold Wallets Can Be Hacked?](https://247wallst.com/investing/cryptocurrency/2026/08/01/coldcard-hacked-for-70m-how-do-you-keep-bitcoin-safe-if-cold-wallets-can-be-hacked/)**
 
-Experts have since said that those holding Bitcoin on a Coldcard device should move funds now.
+Hackers drained $70M from Coldcard wallets without touching a device. Here's how actually keep your Bitcoin safe when cold storage fails.
 
-Bitcoin Magazine • 17h ago
+24/7 Wall St. • 1h ago
+
+---
+
+**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
+
+IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -195,21 +203,7 @@ Bitcoin Magazine • 17h ago
 
 Several alleged ransom notes surfaced after Savannah Guthrie’s 84-year-old mom was reported missing from her Tucson-area home on Feb. 1.
 
-Page Six • 3h ago
-
----
-
-**[Crypto News: Bitcoin Drops to $63,000 at July's Close — Coldcard Exploit, Fed Hawkishness, and Bearish Derivatives Positioning End the Month on the Back Foot](https://www.binance.com/en/square/post/350999094399298)**
-
-Binance • 2h ago
-
----
-
-**[$10,000 Split Between Bitcoin and XRP vs $10,000 in the S&P 500: Which Is Worth More by 2030?](https://finance.yahoo.com/markets/crypto/articles/10-000-split-between-bitcoin-155755843.html)**
-
-Bitcoin and XRP handed early investors a massive lead over the S&P 500, then gave it all back in seven months. Whether that gap opens up again by 2030 depends on a single question neither camp can answer with certainty.
-
-Yahoo Finance • 22h ago
+Page Six • 4h ago
 
 ---
 
@@ -217,13 +211,13 @@ Yahoo Finance • 22h ago
 
 The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
 **[Bitcoin Slides Below $63,000 in Week of Volatile Risk Appetite](https://www.bloomberg.com/news/articles/2026-07-31/bitcoin-slides-below-63-000-in-week-of-volatile-risk-appetite)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -232,6 +226,12 @@ Bloomberg.com • 18h ago
 Shanghai, China--(Newsfile Corp. - July 31, 2026) - Zhibao Technology Inc. (NASDAQ: ZBAO) (&quot;Zhibao,&quot; &quot;we,&quot; or the &quot;Company&quot;), a leading...
 
 TMX Newsfile • 1d ago
+
+---
+
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+
+WSJ • 1d ago
 
 ---
 
@@ -249,7 +249,7 @@ The alleged thieves infected 8,000 devices.
 
 **[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
 
-⬆️ 2 • 💬 0 • 17h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
+⬆️ 2 • 💬 0 • 18h ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
 
 ---
 
@@ -273,7 +273,7 @@ An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to th
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
-⬆️ 1 • 💬 0 • 16h ago • [Radar](https://radar.chat/)
+⬆️ 1 • 💬 0 • 17h ago • [Radar](https://radar.chat/)
 
 ---
 
@@ -323,7 +323,17 @@ Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.c
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 144 • ⏱️ 14:52 • 15h ago
+👁️ 31K • 👍 2K • 💬 156 • ⏱️ 14:52 • 16h ago
+
+---
+
+**[Bitcoin Is The Best Hedge Fund That&#39;s Ever Existed](https://www.youtube.com/watch?v=03S1ECNLBnA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 6K • 👍 714 • 💬 10 • ⏱️ 59:51 • 2h ago
 
 ---
 
@@ -333,7 +343,7 @@ ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW 
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 684 • 💬 120 • ⏱️ 22:31 • 20h ago
+👁️ 15K • 👍 715 • 💬 126 • ⏱️ 22:31 • 21h ago
 
 ---
 
@@ -343,7 +353,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 171 • 💬 12 • ⏱️ 15:37 • 20h ago
+👁️ 4K • 👍 178 • 💬 12 • ⏱️ 15:37 • 21h ago
 
 ---
 
@@ -353,7 +363,7 @@ Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjaminco
 
 📺 Benjamin Cowen
 
-👁️ 77K • 👍 4K • 💬 130 • ⏱️ 7:41 • 1d ago
+👁️ 80K • 👍 4K • 💬 134 • ⏱️ 7:41 • 1d ago
 
 ---
 
@@ -363,7 +373,7 @@ No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analys
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 3K • 💬 265 • ⏱️ 14:35 • 1d ago
+👁️ 48K • 👍 4K • 💬 274 • ⏱️ 14:35 • 1d ago
 
 ---
 
@@ -373,7 +383,17 @@ A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin h
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 964 • 💬 217 • ⏱️ 16:44 • 15h ago
+👁️ 15K • 👍 1K • 💬 267 • ⏱️ 16:44 • 17h ago
+
+---
+
+**[Michael Saylor Sold $1.28 Billion of MSTR. He Bought Zero Bitcoin. Huh?! | Dana Love, PhD](https://www.youtube.com/watch?v=BM318AqxxcI)**
+
+The latest Strategy financial analysis looks at their Q2 results, Michael Saylor's plan to improve shareholder capital, and the sale ...
+
+📺 Dana Love, PhD
+
+👁️ 3K • 👍 303 • 💬 141 • ⏱️ 25:17 • 2h ago
 
 ---
 
@@ -383,7 +403,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 17K • 👍 1K • 💬 758 • ⏱️ 15:46 • 18h ago
+👁️ 18K • 👍 2K • 💬 788 • ⏱️ 15:46 • 19h ago
 
 ---
 
@@ -393,27 +413,7 @@ Real-world asset tokenization is one of the most underexplored narratives in cry
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 167 • 💬 21 • ⏱️ 15:53 • 1d ago
-
----
-
-**[OMG... The Fed is about to BLOW UP Crypto!?](https://www.youtube.com/watch?v=JDxrD5OMVnU)**
-
-The Fed is about to BLOW UP Crypto! (clarity act dying?) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 117 • ⏱️ 10:40 • 2d ago
-
----
-
-**[The AI Trade is About to Become the Bitcoin Trade](https://www.youtube.com/watch?v=mLATAGMfZB0)**
-
-AI may transform civilization and still vaporize mountains of investor capital along the way. In this video, I break down the historic ...
-
-📺 Swan Bitcoin
-
-👁️ 3K • 👍 226 • 💬 81 • ⏱️ 18:27 • 14h ago
+👁️ 6K • 👍 168 • 💬 21 • ⏱️ 15:53 • 1d ago
 
 ---
 
