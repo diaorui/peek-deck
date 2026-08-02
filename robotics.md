@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T06:33:31.011057+00:00'
+updated: '2026-08-02T09:09:06.808873+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 06:33 UTC  
+**Last Updated:** August 02, 2026 at 09:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,15 +122,7 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 21h ago
-
----
-
-**[Nvidia (NVDA) Teams Up With Kawasaki To Build AI Powered Shipyard Robots](https://uk.finance.yahoo.com/news/nvidia-nvda-teams-kawasaki-build-041403826.html)**
-
-Nvidia and Kawasaki Heavy Industries have agreed to co-develop AI-powered robotics for shipbuilding in Japan. The partners plan to build a next-generation digital shipyard that uses robotics, AI and simulation technologies. The collaboration extends Nvidia’s AI platform into industrial robotics and shipbuilding applications. Nvidia, traded as NasdaqGS:NVDA, is best known for its GPUs and broader AI computing stack that supports data centers and advanced computing workloads. This new...
-
-Yahoo Finance UK • 2h ago
+Business Insider • 23h ago
 
 ---
 
@@ -150,6 +142,14 @@ DW.com • 1d ago
 
 ---
 
+**[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
+
+At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
+
+PYMNTS.com • 1d ago
+
+---
+
 **[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
 
 Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
@@ -158,19 +158,11 @@ BBC • 3d ago
 
 ---
 
-**[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
-
-At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
-
-PYMNTS.com • 22h ago
-
----
-
 **[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -188,6 +180,14 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+
+Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+
+The Globe and Mail • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 196K • 👍 6K • 💬 465 • ⏱️ 3:00 • 2d ago
+👁️ 199K • 👍 6K • 💬 472 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 2K • 👍 48 • 💬 34 • ⏱️ 1:03 • 9h ago
+👁️ 2K • 👍 52 • 💬 35 • ⏱️ 1:03 • 12h ago
 
 ---
 
@@ -228,17 +228,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 All-In Podcast
 
-👁️ 104K • 👍 2K • 💬 318 • ⏱️ 1:08:35 • 3d ago
-
----
-
-**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
-
-A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
-
-📺 ABC7 News Bay Area
-
-👁️ 7K • 👍 82 • 💬 49 • ⏱️ 2:01 • 2d ago
+👁️ 104K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 3d ago
 
 ---
 
@@ -248,17 +238,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 353 • 💬 34 • ⏱️ 9:54 • 1d ago
-
----
-
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
-
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
-
-📺 KhanFlicks
-
-👁️ 2K • 💬 32 • ⏱️ 3:45 • 3d ago
+👁️ 16K • 👍 361 • 💬 34 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -272,23 +252,43 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
+**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+
+The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+
+📺 KhanFlicks
+
+👁️ 2K • 💬 32 • ⏱️ 3:45 • 3d ago
+
+---
+
 **[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
 
 The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
 
 📺 Google DeepMind
 
-👁️ 81K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
+👁️ 82K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
 
 ---
 
-**[This New American Military Robot Will Leave You Speechless](https://www.youtube.com/watch?v=vwrs_33Nj-o)**
+**[Touching the New Humanoid Robot With &#39;Smart Skin&#39;](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
-This New American Military Robot Will Leave You Speechless While the whole world argues about who has the biggest army, the ...
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
-📺 Future Core
+📺 CNET
 
-👁️ 7K • 👍 222 • 💬 11 • ⏱️ 9:36 • 4d ago
+👁️ 26K • 👍 687 • 💬 53 • ⏱️ 4:23 • 6d ago
+
+---
+
+**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+
+Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+
+📺 Foundation Robotics
+
+👁️ 7K • 👍 309 • 💬 14 • ⏱️ 5:33 • 19h ago
 
 ---
 

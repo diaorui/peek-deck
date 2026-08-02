@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T06:33:31.007617+00:00'
+updated: '2026-08-02T09:09:06.806616+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 06:33 UTC  
+**Last Updated:** August 02, 2026 at 09:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,874.82
+### $1,878.26
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.8%  
-**30d:** +5.4%  
-**90d:** -20.5%  
-**1y:** -46.3%  
+**24h:** -0.1%  
+**7d:** -1.4%  
+**30d:** +4.8%  
+**90d:** -21.0%  
+**1y:** -46.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.40B
+**Market Cap:** $224.86B
 Rank #2
 
 **Circulating Supply:** 120,682,254 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.3%
 
 **All-Time Low:** $0.43
-+433184.3%
++430223.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-17h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-19h ago
+22h ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinDesk • 2d ago
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 11h ago
+blockchain.news • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ blockchain.news • 11h ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 5h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ CryptoSlate • 5h ago
 
 ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
 
-benzinga.com • 2d ago
+Benzinga • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 146 • ⏱️ 26:54 • 9h ago
+👁️ 26K • 👍 1K • 💬 172 • ⏱️ 26:54 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 1K • 👍 49 • 💬 120 • ⏱️ 13:19 • 15h ago
+👁️ 2K • 👍 52 • 💬 120 • ⏱️ 13:19 • 18h ago
 
 ---
 
@@ -262,33 +262,23 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 ---
 
-**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 527 • 💬 352 • ⏱️ 11:29 • 1d ago
-
----
-
 **[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
 
 BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 3K • 👍 209 • 💬 280 • ⏱️ 21:52 • 6h ago
+👁️ 5K • 👍 235 • 💬 318 • ⏱️ 21:52 • 9h ago
 
 ---
 
-**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
 
-In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
 
-📺 More Crypto Online
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 331 • 💬 28 • ⏱️ 10:08 • 1d ago
+👁️ 11K • 👍 528 • 💬 352 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -298,7 +288,17 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 2K • 👍 56 • 💬 4 • ⏱️ 0:56 • 14h ago
+👁️ 2K • 👍 55 • 💬 4 • ⏱️ 0:56 • 17h ago
+
+---
+
+**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+
+In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 337 • 💬 28 • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -308,27 +308,27 @@ Is buying 555 ICP today like owning 123 Ethereum in 2016? I lay out the supply m
 
 📺 Jerry Banfield ICP
 
-👁️ 1K • 👍 133 • 💬 33 • ⏱️ 10:43 • 11h ago
+👁️ 2K • 👍 139 • 💬 34 • ⏱️ 10:43 • 14h ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=nsieCwFb2OY)**
+**[Ethereum price prediction: one trap move can ruin this setup](https://www.youtube.com/watch?v=LrSbJdEF5P8)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in India just levelled up eXchange1 is ...
+Ethereum price prediction: wait for a confirmed decision-level reaction. This ETH (Ethereum) chart update focuses on confirmation ...
 
-📺 Ashutosh Kumar
+📺 Dr Niki
 
-👁️ 7K • 👍 875 • 3h ago
+👁️ 12 • ⏱️ 8:28 • 13h ago
 
 ---
 
-**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
+**[🔴 Live Bitcoin &amp; Ethereum Trading 24/7](https://www.youtube.com/watch?v=gmfFm9q9bHA)**
 
-Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
+Telegram: https://t.me/legacyearn_official Join Our Private Trading Community Delta Exchange: ...
 
-📺 Crypto Banter
+📺 Daily Crypto By Legacy Earn
 
-👁️ 7K • 👍 436 • 💬 20 • ⏱️ 34:32 • 1d ago
+👁️ 7K • 👍 110 • 1d ago
 
 ---
 
