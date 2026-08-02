@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-01T22:57:04.181207+00:00'
+updated: '2026-08-01T23:59:57.985334+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 22:57 UTC  
+**Last Updated:** August 01, 2026 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,542.82
+### $62,830.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.2%  
 **7d:** -3.9%  
-**30d:** +0.4%  
+**30d:** +0.3%  
 **90d:** -21.3%  
 **1y:** -44.3%  
 
@@ -77,51 +77,45 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[8 years of stacking, gone. I think it's time to move on.](https://www.reddit.com/r/Bitcoin/comments/1vclm91/8_years_of_stacking_gone_i_think_its_time_to_move/)**
+**[A third ColdCard hack has been reported. Another 207 BTC stolen. 1,367 BTC total, and climbing.](https://www.reddit.com/r/Bitcoin/comments/1vcwov8/a_third_coldcard_hack_has_been_reported_another/)**
 
-I believed in Bitcoin. Holding it gave me peace of mind because my country has faced several FATF sanctions. I was glad to find a kind of money that cannot be censored or debased because I just want to protect myself from the money printing and my country's weak and inflated currency comapred to the dollar. I’m 39, and I was hoping to have a good financial cushion before 50. But today, my 2 BTC were drained. Losing my Bitcoin has changed my mindset. It’s no longer about finishing the race first. At this point, I just want to finish it. But losing my BTC feels like I’m back at the starting line. I lost years of hard work and time. I thought I was secure because Cold Card was always praised as one of the best and most secure wallets. It’s open source, so anyone can verify. I’m done with Bitcoin. I’m not even sure if I still believe in it. I don’t know what the future holds for it anymore. I could have stayed with traditional investments and lived a normal life. Maybe I should have just moved everything into a Bitcoin ETF when they launched. But I don't know. It's too late to do it. To everyone who has lost their BTC, I wish you the best and good health. I hope you find the strength to start again.
+JUST IN: A third Coldcard hack has been reported with another 207.7294 BTC stolen.
+
+A total of 1,367.05 BTC has been stolen from 4,585 addresses so far, according to Galaxy Research.
+
+Users are urged to review the company's official security guidance as soon as possible‼
+
+🔗 [X (formerly Twitter)](https://x.com/BitcoinMagazine/status/2083634238104940884) • 4h ago
+
+---
+
+**[Victim of the Coldcard. Years of DCA Bitcoin gone overnight](https://www.reddit.com/r/Bitcoin/comments/1vcz2ce/victim_of_the_coldcard_years_of_dca_bitcoin_gone/)**
+
+Hi, Yesterday was one of the worst days of my life. I found out that just over 3 BTC was stolen from me through the Coldcard vulnerability. I know some people think posts like this are fake. Mine isn’t. Real people are getting hurt by these thieves. I did what I thought was the responsible thing. Back in 2022 everyone said the same stuff, get it off exchanges, get it into cold storage, use the best hardware wallet you can. Coldcard had a reputation as one of the best. It wasn’t the easiest thing to use but honestly that kind of made me trust it more. So I moved everything onto it. For years I DCA’d $250 a week, plus bigger amounts when I could. Never touched it, never even checked on it. I thought I was doing the smart, boring, responsible thing. Now it’s just gone. All of it. Looking back I probably should’ve split it across wallets, or maybe just left it on Coinbase. I already know the multisig and don’t put it all in one place comments are coming and yeah, that’s probably good advice. But I did what I thought was right at the time based on what everyone in this space was telling me to do. That’s what makes this sting so bad. I’m angry and honestly feel sick about it. Not sure what to do next. Posting this so people know it’s actually happening to real people. Happy to answer questions if anyone has them, and if you own a Coldcard, go check on it right now.
+
+2h ago
+
+---
+
+**[Stop the FUD against Bitcoin, Self-Custody and all other hard wallets. This was ALL on Coldcard. It was mistake by them that should have never happened if they even trivially reviewed/tested ONCE their code before publishing! HW like Trezor and Ledger are perfectly safe with their ultra-tested TNRG](https://www.reddit.com/r/Bitcoin/comments/1vcti1d/stop_the_fud_against_bitcoin_selfcustody_and_all/)**
+
+I see a lot of people here wondering what to do at this point and whether trusting Coinkite moving forward is possible. Here is my take: Unforgivable sin #1 This bug was a integration mistake, not a complex crypto flaw. It should have been easily caught by basic build time assertions. It's a huge oversight and unforgivable for a company whose very existence is based on security. Unforgivable sin #2 The most damning issue here is that Coinkite, a company that primary and ONLY premise is the development of a secure HARDWARE device does not test the output of that hardware at runtime. The fact that they didn't check that the output produced by the seed generator passed through standard randomness battery tests is wild! They would have instantly noticed that the outputs were coming from a deterministic PRNG if they bothered to test. Unforgivable sin #3 At the end of the day, a hardware wallet only has one job. Generate true randomness. All coldcard wallets failed at this. Yes, you could say the bug is hard to spot, especially when doing static code analysis. The code is open source and has been subject to audits, but integration tests should have discovered this flaw before the affected firmware was ever published. The theory that this bug was discovered by AI is also a side track and completely irrelevant. This was not a complex vulnerability. https://np.reddit.com/r/coldcard/comments/1vcfugv/coinkite_is_done_for_here_is_why/ Edit (more details): ColdCard migrated to a different elliptic curve library in 2021. That library had a fallback to a software PRNG. The code checked if a specifc macro was defined (MICROPY_HW_ENABLE_RNG). If the macro was defined but set to a value of 1, the library would use it's generic STM32 driver for RNG. If the macro was not defined, the compiler would throw an error, forcing devs to fix it. In this case, the macro was defined but set to a value of 0. That bypassed the compiler error but resulted in the library using it's fallback software RNG instead. Coinkite erroneously assumed setting the value to 0 would tell the library to disable it's internal RNG driver and let the custom board-level RNG driver handle all entropy calls across the entire system. In the hot fix Coinkite has a script that checks the generated symbol table and asserts that whether the rng_get() symbol originates from the coldcard board directory and throws an error otherwise. There are several other ways they could accomplish the same thing. https://np.reddit.com/r/coldcard/comments/1vcfugv/coinkite_is_done_for_here_is_why/p11ge3v/
+
+6h ago
+
+---
+
+**[Lost it all](https://www.reddit.com/r/Bitcoin/comments/1vcwbsk/lost_it_all/)**
+
+I still cant belive what happend honestly. Im still in shock. I had 3.533382 BTC that i moved into my Coldcard because everyone always says hardware wallets are the safest. I thought i was doing everything right and taking security serious. 2 days ago, i checked my wallet and it was just gone. All 3.533382 BTC gone. I kept refreshing thinking maybe it was some bug or something but nope. The transaction was already confirmed and there was nothing i could do. I honestly dont even know what went wrong. Ive been replaying everything i did over and over in my head trying to figure it out. I barely slept since it happend. That wasnt just money to me, it was years of saving little by little. Im not posting this for pity, just because i honestly feel sick and i dont want anyone else going through this if they can avoid it. If anyone has any idea what could of happend im open to hearing it because right now im completely lost.
+
+4h ago
+
+---
+
+**[11 minute supercut of Bitcoin influencers big and small shilling Coldcard](https://www.reddit.com/r/Bitcoin/comments/1vco15y/11_minute_supercut_of_bitcoin_influencers_big_and/)**
 
 10h ago
-
----
-
-**[Lost 1.27928 Btc using cold card, have been stacking since 2017](https://www.reddit.com/r/Bitcoin/comments/1vcjnlf/lost_127928_btc_using_cold_card_have_been/)**
-
-I live in a third world country and this is more money than I will ever make. I am not 38 and this has been my savings for last 10 years. I don’t know what to do, I went to police station yesterday and they told me to talk to cyber crime department. I know I should keep my cold card but I m loosing hope.
-
-12h ago
-
----
-
-**[The Coldcard wallet exploit estimates have almost doubled to $70 million stolen of just over a thousand Bitcoins in 1,196 wallets drained in 41 minutes](https://www.reddit.com/r/Bitcoin/comments/1vcfl2a/the_coldcard_wallet_exploit_estimates_have_almost/)**
-
-"More than 1,000 bitcoin, worth about $70 million, was drained from 1,196 wallets in a 41-minute window on July 30, nearly double the amount reported when the theft first surfaced."
-
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices) • 16h ago
-
----
-
-**[My paranoia saved me!](https://www.reddit.com/r/Bitcoin/comments/1vcggdz/my_paranoia_saved_me/)**
-
-When I bought a coldcard, I also bought these casino dices, and rolled my own entropy mostly for fun. This saved me from the yesterday hack, otherwise I would be in tears now, most of my net worth would be lost.. Asking myself if to switch device, but I think i should be safe. Thank you casino dices
-
-15h ago
-
----
-
-**[All my bitcoin gone. Drained from coldacard mk3, SD-card only used.](https://www.reddit.com/r/Bitcoin/comments/1vcgehr/all_my_bitcoin_gone_drained_from_coldacard_mk3/)**
-
-Can I report somewhere?
-
-15h ago
-
----
-
-**[(Coldcard) Lost 18.25 BTC](https://www.reddit.com/r/Bitcoin/comments/1vcbi31/coldcard_lost_1825_btc/)**
-
-Any idea if there’s an organized central place to upload documentation of wallet / transaction id’s in the off-chance that the stolen BTC surfaces on a regulated exchange? Had all my BTC on 3 devices. All MK3’s. All got drained over 8 minutes on July 29th. I’m aware chances of recouping anything are slim to none. I’ve already filed with the authorities.
-
-19h ago
 
 ---
 
@@ -129,29 +123,39 @@ Any idea if there’s an organized central place to upload documentation of wall
 
 Can we all finally come to a consensus that leaving your coin on an exchange or buying ETFs may not be a bad idea for like 90% of bitcoin holders? For years i was mocked for leaving my coins on an exchange, yet I haven't had issues with stolen or hacked coins one bit.
 
-10h ago
+11h ago
 
 ---
 
-**[These guys don’t know](https://www.reddit.com/r/Bitcoin/comments/1vcaocb/these_guys_dont_know/)**
+**[The COLDCARD attacker isn’t bruteforcing your passphrase](https://www.reddit.com/r/Bitcoin/comments/1vcqncw/the_coldcard_attacker_isnt_bruteforcing_your/)**
 
-20h ago
+I think everyone is missing the economics of this attack. The attacker isn’t trying to brute-force your passphrase. They’re generating vulnerable seeds as fast as possible and checking whether those seeds control any bitcoin. The moment you add a BIP-39 passphrase, every candidate seed now requires deriving and checking an additional wallet. Even a passphrase that would only take an hour to brute-force in isolation completely destroys the attacker’s throughput when applied across millions or billions of candidate seeds. Realistically, they’ll check no passphrase, and maybe a tiny list of extremely common ones. Anything beyond that makes the attack economically unattractive. That’s why I suspect the overwhelming majority of victims will turn out to be users who didn’t use a BIP-39 passphrase at all.
 
----
-
-**[I helped a friend get into bitcoin and now they have lost all their bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vck1z7/i_helped_a_friend_get_into_bitcoin_and_now_they/)**
-
-I won't mention the amount but it's significant enough to a point where we will have to end our friendship, they understand i didnt do anything bad but I was very vocal about "I know what i am doing" My stack is safe because I use seed signer and generated by SP using coin flips. I dont know how to handle this
-
-12h ago
+8h ago
 
 ---
 
-**[The Coldcard fiasco will likely be cited in every BTC ETF pitch](https://www.reddit.com/r/Bitcoin/comments/1vci4i4/the_coldcard_fiasco_will_likely_be_cited_in_every/)**
+**[8 years of stacking, gone. I think it's time to move on.](https://www.reddit.com/r/Bitcoin/comments/1vclm91/8_years_of_stacking_gone_i_think_its_time_to_move/)**
 
-The victims could've followed all the general rules in self custody (generating a fresh address, keeping seed phrase secure, buying hardware wallets only from reputable sources), and yet they were still exploited. Not your keys, not your coins, unless your keys were never random. Even long time Bitcoiners have been expressing anxiety. I bet most of you checked your balance after hearing the news, even if you've done everything right. This type of paranoia is an issue and institutionalized bitcoin products are a seemingly good solution to that. Do you know how many people regularly visit a physical bank because they don't know how to use an app and refuse to learn? Now imagine telling them to self custody. I am hoping that this hack will make people look more closely at the wallet software code... especially if it's open source. I'm honestly confused as I thought open source software was supposed to be more resilient bc of its transparency. I don't own Coldcard so I'm not too worried about my stash, but I'd be lying if I said this situation hasn't affected my perspective on the current Bitcoin space.
+I believed in Bitcoin. Holding it gave me peace of mind because my country has faced several FATF sanctions. I was glad to find a kind of money that cannot be censored or debased because I just want to protect myself from the money printing and my country's weak and inflated currency comapred to the dollar. I’m 39, and I was hoping to have a good financial cushion before 50. But today, my 2 BTC were drained. Losing my Bitcoin has changed my mindset. It’s no longer about finishing the race first. At this point, I just want to finish it. But losing my BTC feels like I’m back at the starting line. I lost years of hard work and time. I thought I was secure because Cold Card was always praised as one of the best and most secure wallets. It’s open source, so anyone can verify. I’m done with Bitcoin. I’m not even sure if I still believe in it. I don’t know what the future holds for it anymore. I could have stayed with traditional investments and lived a normal life. Maybe I should have just moved everything into a Bitcoin ETF when they launched. But I don't know. It's too late to do it. To everyone who has lost their BTC, I wish you the best and good health. I hope you find the strength to start again.
 
-14h ago
+11h ago
+
+---
+
+**[People are horrible…(Coldcard disaster)](https://www.reddit.com/r/Bitcoin/comments/1vd0331/people_are_horriblecoldcard_disaster/)**
+
+I can’t believe how many people leave mean comments, gloating about how they always knew that Bitcoin is a scam, and so on. Seriously, how sad of a life one must live to be happy about the misfortunes of others? Some people have lost important amounts of BTC, including people from poor countries or poor backgrounds who will suffer for years as a result of this. If someone feels like gloating is the right thing to do here, why don’t you go to the ICU of the closest hospital and laugh about sick and dying patients? It wouldn’t be much different, think about that.
+
+1h ago
+
+---
+
+**[Sealed Coldcard MK3.](https://www.reddit.com/r/Bitcoin/comments/1vcw27u/sealed_coldcard_mk3/)**
+
+I was too lazy to set it up... My laziness prevented me from losing everything... My heart goes out to everyone that lost their coins.
+
+4h ago
 
 ---
 
@@ -163,7 +167,7 @@ The victims could've followed all the general rules in self custody (generating 
 
 A Coldcard firmware flaw weakens wallet seed generation across five models, while Galaxy links a 1,196-address, $70.2 million sweep to the bug.
 
-thehackernews.com • 5h ago
+The Hacker News • 6h ago
 
 ---
 
@@ -171,7 +175,7 @@ thehackernews.com • 5h ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -179,15 +183,7 @@ CoinDesk • 2h ago
 
 Hackers drained $70M from Coldcard wallets without touching a device. Here's how actually keep your Bitcoin safe when cold storage fails.
 
-24/7 Wall St. • 9h ago
-
----
-
-**[Scammers Posing as Sheriff's Deputies Drain Thousands From Montgomery County Residents via Bitcoin ATMs](https://southphillyreview.com/2026/08/01/scammers-posing-as-sheriff-s-deputies-drain-thousands/)**
-
-Scammers posing as Montgomery County sheriff's deputies are directing residents to Bitcoin ATMs to pay fake court fees. Officials urge vigilance.
-
-South Philly Review • 3h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -199,27 +195,27 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
 
-Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin slides on the final day of July while equities boom](https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year)**
+**[History Says That Bitcoin Is an Unbelievable Bargain Right Now](https://www.fool.com/investing/2026/08/01/history-says-that-bitcoin-is-a-bargain-now/)**
 
-The BTC price fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 (CD20) index is set to post its biggest gain since July 2025.
+Bitcoin could be nearing the end of its current cycle of boom and bust, making it an attractive buy.
 
-CoinDesk • 1d ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
+**[Bitcoin scam targets Montgomery County, Pennsylvania, residents](https://www.cbsnews.com/philadelphia/video/bitcoin-scam-targets-montgomery-county-pennsylvania-residents/)**
 
-Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
+Warning notices are being posted on Bitcoin ATMs around Montgomery County after scammers impersonating the local sheriff's office took thousands of dollars from residents under the ruse that the victims owed court fees.
 
-TradingView • 1d ago
+CBS News • 6h ago
 
 ---
 
@@ -227,7 +223,7 @@ TradingView • 1d ago
 
 Several alleged ransom notes surfaced after Savannah Guthrie’s 84-year-old mom was reported missing from her Tucson-area home on Feb. 1.
 
-Page Six • 11h ago
+Page Six • 12h ago
 
 ---
 
@@ -235,7 +231,15 @@ Page Six • 11h ago
 
 Bitcoin price fell by about 2% to $63,039, underperforming a slightly negative broader market, primarily driven by renewed institutional selling press
 
-MarketForces Africa • 8h ago
+MarketForces Africa • 9h ago
+
+---
+
+**[US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies](https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin)**
+
+The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
+
+bitcoinmagazine.com • 1d ago
 
 ---
 
@@ -313,7 +317,7 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 **[The case for a lunar biocontainment facility](https://news.ycombinator.com/item?id=49134411)**
 
-⬆️ 1 • 💬 0 • 9h ago • [link.springer.com](https://link.springer.com/article/10.1007/s13280-026-02428-5)
+⬆️ 1 • 💬 0 • 10h ago • [link.springer.com](https://link.springer.com/article/10.1007/s13280-026-02428-5)
 
 ---
 
@@ -337,7 +341,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 29K • 👍 1K • 💬 10 • ⏱️ 59:51 • 9h ago
+👁️ 29K • 👍 1K • 💬 10 • ⏱️ 59:51 • 10h ago
 
 ---
 
@@ -397,7 +401,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 292 • 💬 16 • ⏱️ 1:10:23 • 5h ago
+👁️ 2K • 👍 292 • 💬 16 • ⏱️ 1:10:23 • 6h ago
 
 ---
 
@@ -417,7 +421,7 @@ There are more than 3000 billionaires in the world and the list adds a new one a
 
 📺 Brandon Keys - Green Candle
 
-👁️ 541 • 👍 61 • 💬 28 • ⏱️ 13:38 • 6h ago
+👁️ 541 • 👍 61 • 💬 28 • ⏱️ 13:38 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T22:57:04.190445+00:00'
+updated: '2026-08-01T23:59:57.993670+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 22:57 UTC  
+**Last Updated:** August 01, 2026 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,23 +122,15 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 1d ago
-
----
-
-**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
-
-The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
-
-dw.com • 1d ago
+abcnews.com • 1d ago
 
 ---
 
@@ -150,35 +142,11 @@ BBC • 3d ago
 
 ---
 
-**[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
-
-A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
-
-Interesting Engineering • 7h ago
-
----
-
-**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
-
-This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
-
-IEEE Spectrum • 1d ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-morningbrew.com • 16h ago
-
----
-
 **[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 14h ago
+pymnts.com • 15h ago
 
 ---
 
@@ -187,6 +155,38 @@ PYMNTS.com • 14h ago
 AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
 
 Yahoo Finance • 3d ago
+
+---
+
+**[Robotics Startup Unitree Launches $620 Million STAR Market IPO](https://www.caixinglobal.com/2026-07-31/robotics-startup-unitree-launches-620-million-star-market-ipo-102469723.html)**
+
+The humanoid robot manufacturer cleared regulatory reviews in a record 104 days, targeting a valuation of 42 billion yuan amid intensifying industry competition
+
+caixinglobal.com • 2d ago
+
+---
+
+**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
+
+Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
+
+FreightWaves • 1d ago
+
+---
+
+**[This new robot centaur designed to save lives is pure nightmare fuel](https://www.fastcompany.com/91582982/satyress-threehalves-robot)**
+
+In a market drowning in humanoids, this goat-headed monstrosity might just be the most honest robot we've seen yet.
+
+Fast Company • 1d ago
+
+---
+
+**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+
+Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+
+The Globe and Mail • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 70K • 👍 354 • 💬 513 • ⏱️ 6:04 • 2d ago
+👁️ 70K • 👍 354 • 💬 513 • ⏱️ 6:04 • 3d ago
 
 ---
 

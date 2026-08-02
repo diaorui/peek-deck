@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T22:57:04.172573+00:00'
+updated: '2026-08-01T23:59:57.977449+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 22:57 UTC  
+**Last Updated:** August 01, 2026 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 19h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 15h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 The real Claude API cost isn't the sticker price—it's output tokens (5× pricier) and the expiry of Sonnet 5's intro rate. See our verified July 2026 per-model prices and a calculator that never goes stale.
 
-🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 2h ago
+🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The real Claude API cost isn't the sticker price—it's output tokens (5× prici
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 15h ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 16h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi, sorry if this is a repeated question on this subreddit but I want to know wh
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Been a PT by day, tinkering with code and AI tools by night for a while now. Wri
 
 “For example, in the University of Texas experiments, a participant listened to the phrase, “I didn’t know whether to scream, cry or run away. Instead, I said, ‘Leave me alone!’”. The decoder translated this brain activity as, “Started to scream and cry, and then she just said, ‘I told you to leave me alone.’”.”
 
-🔗 [Soval](https://www.sovalsocial.com/blog/fact-check-can-ai-now-read-minds-using-brain-scans) • 1h ago
+🔗 [Soval](https://www.sovalsocial.com/blog/fact-check-can-ai-now-read-minds-using-brain-scans) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Been a PT by day, tinkering with code and AI tools by night for a while now. Wri
 
 Hi guys, Recently made a AI digital twin of mine which also kind of works as my assistant too, for example when you chat with it and ask something which it does not have answer for it will instantly notify me that someone is asking me this question and i do not have answer for that. and if i reply it will be instantly uploaded to the database so next time it can answer. and also if a user is have some conversation with my agent and it feels something important is going on here and it will notify me and i can jump in the chat as well. We can have a three way conversation like Me, User, AI twin. here is the link if you want to try: live demo🌐: https://aruncore.vercel.app This is not a self promo this is asking for feedback of a genuine project i made. Tell me what you guys think, Would love some feedback.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi guys, Recently made a AI digital twin of mine which also kind of works as my 
 
 Everyone hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,6 +121,12 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 ## Google News: "ai"
 
+**[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
+
+The New York Times • 21h ago
+
+---
+
 **[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
 
 Reuters • 1d ago
@@ -131,27 +137,13 @@ Reuters • 1d ago
 
 The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[The Math Superstar Who’s Terrified of AI—and Just Took a Job at OpenAI](https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79)**
+**[Rogue AI Hacks Herald New Era of Cyber Chaos](https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c)**
 
-wsj.com • 21h ago
-
----
-
-**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
-
-Axios • 9h ago
-
----
-
-**[Florida-backed bill would require AI data centers to supply their own energy and water](https://www.yahoo.com/news/politics/articles/florida-backed-bill-require-ai-222200088.html)**
-
-"I think it's clearly a move in the right direction."
-
-Yahoo • 35m ago
+wsj.com • 59m ago
 
 ---
 
@@ -159,7 +151,7 @@ Yahoo • 35m ago
 
 AI is threatening white-collar, entry-level jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians, plumbers, and construction workers.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -167,7 +159,7 @@ Fortune • 9h ago
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 6h ago
+OpenAI • 7h ago
 
 ---
 
@@ -187,7 +179,13 @@ The New York Times • 1d ago
 
 **[With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again](https://www.reuters.com/legal/legalindustry/with-situational-awareness-ai-deal-citadels-griffin-rides-rescue-again-2026-07-31/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
+
+---
+
+**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
+
+Axios • 10h ago
 
 ---
 
@@ -199,7 +197,7 @@ Reuters • 23h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 553 • 💬 599 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 555 • 💬 601 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -207,7 +205,7 @@ Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching,
 
 Writing about the big beautiful mess that is making things for the world wide web.
 
-⬆️ 373 • 💬 176 • 1d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+⬆️ 374 • 💬 176 • 2d ago • [blog.jim-nielsen.com](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
@@ -215,7 +213,7 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 349 • 💬 425 • 2d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 350 • 💬 425 • 2d ago • [LWN.net](https://lwn.net/Articles/1086041/)
 
 ---
 
@@ -223,13 +221,13 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 247 • 💬 258 • 15h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 249 • 💬 261 • 16h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 242 • 💬 66 • 20h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 248 • 💬 66 • 21h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -237,7 +235,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 197 • 💬 230 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 199 • 💬 229 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -259,13 +257,13 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 130 • 💬 76 • 1d ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 131 • 💬 76 • 1d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
 **[On the non-use of AI in my writing process](https://news.ycombinator.com/item?id=49134038)**
 
-⬆️ 121 • 💬 113 • 10h ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
+⬆️ 124 • 💬 115 • 11h ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 
 ---
 
@@ -279,7 +277,7 @@ AI company Anthropic says that during routine testing some of its models accesse
 
 📺 CNN
 
-👁️ 31K • 👍 566 • 💬 308 • ⏱️ 11:30 • 3h ago
+👁️ 31K • 👍 566 • 💬 308 • ⏱️ 11:30 • 4h ago
 
 ---
 
@@ -289,7 +287,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Television
 
-👁️ 29K • 👍 755 • 💬 163 • ⏱️ 8:48 • 9h ago
+👁️ 29K • 👍 755 • 💬 163 • ⏱️ 8:48 • 10h ago
 
 ---
 
@@ -299,7 +297,7 @@ Japan AI bubble just popped and it just called in the biggest bar tab in financi
 
 📺 Meerkat Explains
 
-👁️ 2K • 👍 179 • 💬 45 • ⏱️ 16:58 • 6h ago
+👁️ 2K • 👍 179 • 💬 45 • ⏱️ 16:58 • 7h ago
 
 ---
 
@@ -309,7 +307,7 @@ During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin C
 
 📺 Forbes Breaking News
 
-👁️ 688 • 👍 9 • 💬 22 • ⏱️ 4:53 • 6h ago
+👁️ 688 • 👍 9 • 💬 22 • ⏱️ 4:53 • 7h ago
 
 ---
 
@@ -319,7 +317,7 @@ Hank Green was in a video on the Complexly YouTube channel. In this video his gu
 
 📺 Conner Richmond
 
-👁️ 2K • 👍 34 • 💬 33 • ⏱️ 4:16 • 23h ago
+👁️ 2K • 👍 34 • 💬 33 • ⏱️ 4:16 • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ AI Policy Network's Mark Beall joins 'Saturday in America' to discuss the threat
 
 📺 Fox News
 
-👁️ 18K • 👍 538 • 💬 442 • ⏱️ 5:34 • 4h ago
+👁️ 18K • 👍 538 • 💬 442 • ⏱️ 5:34 • 5h ago
 
 ---
 
@@ -359,7 +357,7 @@ Formula 1 used to be about who has the biggest balls to somehow pull out that la
 
 📺 DailyFuelUp
 
-👁️ 31K • 👍 1K • 💬 188 • ⏱️ 8:55 • 10h ago
+👁️ 31K • 👍 1K • 💬 188 • ⏱️ 8:55 • 11h ago
 
 ---
 
@@ -397,7 +395,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,408 • 19h ago
+⬇️ 15,366 • ❤️ 1,408 • 20h ago
 
 ---
 
@@ -433,7 +431,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 281 • 16h ago
+⬇️ 4,048 • ❤️ 281 • 17h ago
 
 ---
 
@@ -645,7 +643,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 290 • 6h ago
+⭐ 3.7k • 🔱 290 • 7h ago
 
 ---
 
@@ -665,7 +663,7 @@ The open-source AI workbench for scientific research
 
 `TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
 
-⭐ 3.0k • 🔱 414 • 2h ago
+⭐ 3.0k • 🔱 414 • 3h ago
 
 ---
 
@@ -683,7 +681,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 213 • 13h ago
+⭐ 1.8k • 🔱 213 • 14h ago
 
 ---
 
@@ -693,7 +691,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 34s ago
+⭐ 1.8k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -721,7 +719,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 172 • 14m ago
+⭐ 1.4k • 🔱 172 • 1h ago
 
 ---
 
@@ -731,7 +729,7 @@ Open Science is an open-source, local-first, model-agnostic AI research workbenc
 
 `TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
 
-⭐ 1.4k • 🔱 87 • 15m ago
+⭐ 1.4k • 🔱 87 • 1h ago
 
 ---
 
