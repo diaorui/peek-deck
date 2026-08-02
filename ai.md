@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-02T20:56:12.175796+00:00'
+updated: '2026-08-02T21:57:42.180963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 02, 2026 at 20:56 UTC  
+**Last Updated:** August 02, 2026 at 21:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part that’s applicable to those creating AI-generated content that’s read by anyone in the EU: “Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content. PwC and other big consulting firms are vulnerable to this provision because they've already been caught using hallucinated AI-generated text in reports. From GPTZero: "The most egregious example is Transforming Governance, an AI-generated 2025 report with multiple fake citations that promotes a PwC framework known as “Citizen Pulse”. Our team found little public evidence that the “Citizen Pulse” framework exists outside of this report, yet Transforming Governance claims that the governments of Denmark, Saudi Arabia, the United States, and Australia are using Citizen Pulse to improve key government services. None of the cited sources provide evidence for this claim, meaning PwC Middle East appears to have hallucinated both an entire product and business dealings with four separate nations." Firms have had to retract data in the reports, and in one instance Deloitte refunded a client. Now that Article 50 is in effect, they might be fined. Across many areas we're seeing a push for accountability when it comes to using AI to produce content. LinkedIn has a 'this looks like AI slop' button. Substack uses Pangram to detect AI-assisted writing (even though it's wildly inaccurate). The pushback is real. And now it has teeth.
 
-5h ago
+6h ago
+
+---
+
+**[It started with a test of a frontier model and ended up as a multiplayer game](https://www.reddit.com/r/artificial/comments/1vdu2g8/it_started_with_a_test_of_a_frontier_model_and/)**
+
+The last 1,5 week has been quite an eyeopener for me - I must say that Claude Code and the current frontier models are amazing. A test of Fable (and later Opus 5) turned into a larger game. It’s very much inspired by the tank element of Battlefield 1942 and the round-by-round build system from Overwatch 2’s Stadium mode. About the game: You join a game and enhance your tank, then you go out and destroy the enemy while hunting for salvage which is used to enhance your tank even further (balance patches pending). Some of the features: 6 different tanks (Tiger 1 is a beast) 3 maps (a desert, grass and snow map with destructible terrain) Round-by-round build system Customisation of tanks Matchmaking system Lag compensation system Ballistic shells system Hit multiplier regions (many tanks fall on a single rear hit) Bots who backfill if theres not enough real players ELO ladder system Replay/clip system In-game power ups Career profiles Group system Friends system 3 layered chat system (global, match and team) I would love to hear what you think.
+
+32m ago
 
 ---
 
@@ -49,7 +57,7 @@ Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part tha
 
 🔗 Repo: https://github.com/CodeGraphContext/grapharc Have you ever been frustrated because your AI agent: ❌ Takes actions you never intended? ❌ Creates, modifies, or even pushes changes you never asked for? ❌ Feels like a complete black box, making it impossible to understand what's happening until it's too late? What if, before execution, you could visualize the entire orchestration graph - every agent, every dependency, every decision, and inspect it from anywhere, even your phone, before granting approval? That's exactly what GraphArc is built for. Instead of treating agent execution as hidden traces buried in logs, GraphArc transforms workflows into interactive, real-time graphs that you can visualize, inspect, debug, and control. Because the future of AI isn't just autonomous. It's observable. Debuggable. Engineerable. This is our first real-world implementation of Graph Engineering, and we're excited to explore where this paradigm can go with the open-source community. 💡 We'd love your feedback, ideas, and contributions. ⭐ If this vision resonates with you, please consider starring the repository - it genuinely helps us grow and validates this direction. Let's make AI workflows understandable, not mysterious. #GraphEngineering #GraphArc #AIAgents #AgenticAI #LLM #OpenSource #DeveloperTools #AIEngineering #SoftwareEngineering
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +65,7 @@ Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part tha
 
 been using LLMs to help process customer feedback, dump a bunch of reddit comments or reviews in and ask it to find patterns, objections, common language. works well enough that i'm a little suspicious of it now. the thing that got me thinking about this: i fed it a batch of comments about a product category and asked for the top objections. it gave me a clean confident list. except when i went back and reread the raw comments myself, a couple of the "top objections" were actually pretty rare, like 2 out of 200 comments, but the model presented them with the same confidence as stuff that showed up constantly. it wasn't lying exactly, it was just... smoothing everything into a narrative that sounded right. which makes me wonder how much of what feels like "insight" from these tools is real pattern-finding versus the model doing what it's built to do, produce a coherent, satisfying answer whether or not the underlying signal actually supports it. like it's optimizing for "sounds like a good answer" not "is actually representative of the data." my current workaround is dumb but it works: i always spot check a sample of the raw source against whatever pattern the model claims to have found. slows things down, kind of defeats the point of using ai to save time in the first place, but at least i catch the stuff that sounds right but isn't backed by actual frequency. anyone else run into this? and if you have a better way to validate ai-generated patterns against real data without just re-reading everything yourself, genuinely want to know because right now i don't fully trust the output without checking it
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +73,7 @@ been using LLMs to help process customer feedback, dump a bunch of reddit commen
 
 Been watching a project that claims to have solved the problem of keeping the same character looking and sounding consistent across multiple scenes. Not just a single clip — across a full 22-minute episode. Genuinely curious whether people here think that's actually achievable yet or whether they've just hidden the inconsistencies well enough.
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +81,7 @@ Been watching a project that claims to have solved the problem of keeping the sa
 
 this account is linked to a small ai automation side project i run alongside the building firm. i run a small refurbishment outfit in scotland. mind you, we do have admin help, and it works when the task repeats and it's clear what they can decide. contract jobs don't stay like that. explain one odd item, then answer the questions that come back while the job is moving. miss the order today and it misses friday, so it turns up next week. doing it myself was usually quicker. the work sat in a stupid gap. it needed too much context from the job to hand over cleanly, but it was far too basic to be using my day for. mostly pushing buttons, checking numbers and chasing things. it kept landing back with me. you can carry that for a while. problems creep up as you grow and daily firefighting feels like you're doing well. then your head goes. mine dropped to maybe 20% of what it handled two months before, only the problems kept coming. i'd lose a weekend catching up and the thing i fixed would grow arms and legs in the business and be back three times bigger next saturday. by then i wasn't looking at the market, speaking to clients properly, thinking about growth or keeping the staff motivated. brain doing the shovelling. the business questions were harder. i had loads and nobody obvious to ask. finding the right person is hard enough. working out the right question is half the job. i couldn't tell which one mattered first, so i stayed with whatever we already did. what i do now is get ai to sort the middle bit. check this, compare those, show me the options and where they go wrong. then i make the call. some of the options were properly awful. i caught some early. others cost me time, money or both. my head is clearer now. the questions actually move. get an answer, check it, make a call, see what happened. even the wrong ones give me feedback. leaving the whole lot on a list for next weekend gave me none. there must be bits i'm getting worse at because i'm not doing them as often. i don't know yet if that's a bad trade. what has ai changed in your actual thinking, good or bad? and prove me wrong on the practical side, is there a better way to handle this in an outfit our size when the work keeps changing and the decisions can't wait? happy to get into the actual examples, including the ones that cost me. ps, ai helped polish this post as well, my own writing is rubbish. the arguments took the same effort they always did, but if i wrote it up myself it'd either take days or the argumentation would be in there but not clear enough for you to see what i'm actually saying. i've done a fair bit of academic writing and some blogging over the years, i'm no copywriter. so the choice was this stays in my head, or i stop running the business and start converting my experience into blog posts instead.
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +89,7 @@ this account is linked to a small ai automation side project i run alongside the
 
 I am building **Flows**, an execution and verification layer for software-building agents. The core rule: an agent should not convert “I think I finished” into “verified complete” without supporting proof. A Flows project can contain implementation steps, checks, repair instructions, review, and release conditions. https://flows.oortstack.com An independent agent used one plan to build a real multi-module application with 59/59 automated checks passing. The target metric is: **unsupported required claims shipped = 0 on real traffic.** Should evidence enforcement live in the agent harness, repository CI, app platform, or a cross-agent workspace?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +105,7 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 I started kind of tinkering with Ai and it all is super fascinating, particularly interesting to me is prompt structure. So I would like to ask is formatting your prompt (persona, few shot negative, whatever else) gives you much better results than without? I want to know it to determine for myself balance between effort dedicated to quality prompt vs quality of output given through that prompt
 
-15h ago
+16h ago
 
 ---
 
@@ -105,15 +113,7 @@ I started kind of tinkering with Ai and it all is super fascinating, particularl
 
 Been using a few AI tools to help with copy for a small side project and it's raised a question I can't quite shake. The output is genuinely decent now. Not great, but decent enough that clients who aren't paying close attention probably wouldn't notice the difference. The thing is, I've been spending real time learning copywriting. Reading books, studying good ads, practicing hooks. And part of me wonders if that investment still makes sense the way it did two or three years ago. The counterargument I keep coming back to is that you need good taste to prompt well and to edit what the model gives you. Someone who doesn't understand copy at all is still going to get mediocre output because they won't catch what's flat or offtone. That feels true, fwiw. But I'm less sure the gap between a trained human copywriter and a wellprompted model is going to stay wide enough to matter commercially, at least for the midtier work that fills most freelance pipelines. Curious if people here have actually noticed a shift in how clients value humanwritten copy versus AIassisted, or whether the skill floor is just moving rather than disappearing.
 
-10h ago
-
----
-
-**[Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban](https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/)**
-
-The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 1d ago
+11h ago
 
 ---
 
@@ -121,53 +121,11 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 ## Google News: "ai"
 
-**[YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)**
-
-Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
-
-TechCrunch • 1d ago
-
----
-
-**[YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans](https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8)**
-
-Hank Green, one of YouTube's most prolific stars, is facing backlash for relying on AI to create his content.
-
-Business Insider • 1d ago
-
----
-
-**[YouTuber Hank Green Is Facing a Fan Revolt Over His AI Use](https://gizmodo.com/youtuber-hank-green-is-facing-a-fan-revolt-over-his-ai-use-2000793672)**
-
-Gizmodo • 1d ago
-
----
-
 **[Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy](https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html)**
 
 AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.
 
-CNBC • 8h ago
-
----
-
-**[Free Cash is King As Companies Pour Billions into AI (META, GOOG, UPS)](https://www.bloomberg.com/news/newsletters/2026-08-02/free-cash-is-king-as-companies-pour-billions-into-ai-meta-goog-ups)**
-
-Bloomberg • 56m ago
-
----
-
-**[As AI creates a skills mismatch, Gen Z must choose: be a specialist or a 'general-purpose nerd'](https://fortune.com/2026/08/02/as-ai-creates-more-entrepreneurs-and-a-skills-mismatch-gen-z-faces-the-choice-of-being-a-specialist-or-a-general-purpose-nerd/)**
-
-"AI is creating a structural skills mismatch as companies aggressively replace generalists with specialized talent."
-
-Fortune • 29m ago
-
----
-
-**[Opinion | The Public Pension AI Boom](https://www.wsj.com/opinion/public-pensions-ai-equable-institute-report-16281797)**
-
-WSJ • 25m ago
+CNBC • 9h ago
 
 ---
 
@@ -175,19 +133,63 @@ WSJ • 25m ago
 
 An experiment with artificial intelligence at the annual Richard Wagner festival in the German town of Bayreuth has drawn boos from the audience after producing a staging that appeared to leave some spectators confused.
 
-AP News • 5h ago
+AP News • 6h ago
 
 ---
 
-**[Aw, It’s Baby’s First A.I. Surveillance System](https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html)**
+**[As AI creates a skills mismatch, Gen Z must choose: be a specialist or a 'general-purpose nerd'](https://fortune.com/2026/08/02/as-ai-creates-more-entrepreneurs-and-a-skills-mismatch-gen-z-faces-the-choice-of-being-a-specialist-or-a-general-purpose-nerd/)**
 
-The New York Times • 11h ago
+"AI is creating a structural skills mismatch as companies aggressively replace generalists with specialized talent."
+
+fortune.com • 1h ago
 
 ---
 
-**[Can America retrain workers before AI leaves them behind?](https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind)**
+**[Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)**
 
-The Economist • 3h ago
+On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
+
+TechCrunch • 1h ago
+
+---
+
+**[Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html)**
+
+Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
+
+CNBC • 2d ago
+
+---
+
+**[Watch AI Is Turning Retail Traders Into DIY Hedge Funds](https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds)**
+
+Bloomberg • 57m ago
+
+---
+
+**[The AI cheating scandal rocking Mexico’s most prestigious university](https://www.cnn.com/2026/08/02/americas/mexican-university-unam-ai-cheating-scandal-intl-latam)**
+
+Thousands of students have been left in limbo amid a cheating scandal that erupted after the prestigious institution offered its exam online for the first time ever.
+
+CNN • 5h ago
+
+---
+
+**[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[AI Images Are Everywhere. Here’s What They Do to Our Brains, and What We Can Do.](https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879)**
+
+WSJ • 8h ago
 
 ---
 
@@ -199,7 +201,7 @@ The Economist • 3h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 569 • 💬 597 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 570 • 💬 598 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -215,13 +217,13 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 328 • 💬 371 • 22h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 329 • 💬 374 • 23h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 267 • 💬 68 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 269 • 💬 68 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -237,7 +239,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 211 • 💬 238 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 211 • 💬 240 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -279,7 +281,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 AI News Today | Julian Goldie Podcast
 
-👁️ 2K • 👍 58 • 💬 26 • ⏱️ 15:50 • 10h ago
+👁️ 2K • 👍 58 • 💬 26 • ⏱️ 15:50 • 11h ago
 
 ---
 
@@ -289,7 +291,7 @@ Turn Any Video Into an AI Cartoon with OpenArt https://tolt.link/videotocartoon 
 
 📺 Roboverse
 
-👁️ 7K • 💬 1 • ⏱️ 9:01 • 5h ago
+👁️ 7K • 💬 1 • ⏱️ 9:01 • 6h ago
 
 ---
 
@@ -319,7 +321,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 2K • 👍 187 • 💬 17 • ⏱️ 9:14 • 8h ago
+👁️ 2K • 👍 187 • 💬 17 • ⏱️ 9:14 • 9h ago
 
 ---
 
@@ -339,7 +341,7 @@ GET $500 IN FREE CREDITS (first 500 people only): https://www.hyperagent.com/vai
 
 📺 Vaibhav Sisinty
 
-👁️ 29K • 👍 1K • 💬 57 • ⏱️ 13:31 • 14h ago
+👁️ 29K • 👍 1K • 💬 57 • ⏱️ 13:31 • 15h ago
 
 ---
 
@@ -349,7 +351,7 @@ Palantir CTO Shyam Sankar discusses the future of AI in defense, the U.S.-China 
 
 📺 Fox Business
 
-👁️ 8K • 👍 458 • 💬 61 • ⏱️ 11:14 • 2h ago
+👁️ 8K • 👍 458 • 💬 61 • ⏱️ 11:14 • 3h ago
 
 ---
 
@@ -359,7 +361,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Podcasts
 
-👁️ 503K • 👍 8K • 💬 2K • ⏱️ 8:48 • 1d ago
+👁️ 503K • 👍 8K • 💬 2K • ⏱️ 8:48 • 2d ago
 
 ---
 
@@ -369,7 +371,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 11K • 👍 926 • 💬 61 • ⏱️ 6:31 • 5h ago
+👁️ 11K • 👍 926 • 💬 61 • ⏱️ 6:31 • 6h ago
 
 ---
 
@@ -672,7 +674,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.9k • 🔱 1.4k • 1m ago
+⭐ 1.9k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -692,7 +694,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.7k • 🔱 108 • 6h ago
+⭐ 1.7k • 🔱 108 • 7h ago
 
 ---
 
@@ -720,7 +722,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.5k • 🔱 182 • 8m ago
+⭐ 1.5k • 🔱 182 • 1h ago
 
 ---
 
@@ -730,7 +732,7 @@ V- Modal AI: MultiModal Video Search - SDK Flutter
 
 `Dart` `android-app` `android-library` `android-package` `android-sdk` `android-ui`
 
-⭐ 1.4k • 🔱 5 • 4h ago
+⭐ 1.4k • 🔱 5 • 5h ago
 
 ---
 

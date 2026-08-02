@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T20:56:12.194458+00:00'
+updated: '2026-08-02T21:57:42.196918+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 20:56 UTC  
+**Last Updated:** August 02, 2026 at 21:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Damage can fragment a modular robotic structure into disconnected pieces. We dev
 
 I'm exploring Bowden cables as a way to transmit motion when the motor can't be placed near the moving part. This is just a quick setup to see how smoothly it works before designing a larger mechanism. Any suggestions or ideas are welcome.
 
-2d ago
+3d ago
 
 ---
 
@@ -112,15 +112,23 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 14h ago
+South China Morning Post • 15h ago
 
 ---
 
-**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+**[Top 10 robotics stories of July 2026](https://www.therobotreport.com/top-10-robotics-stories-july-2026/)**
 
-Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+In July 2026, large funding rounds, new approaches to robot training, and new robot models drew our readers attention.
 
-The Robot Report • 8h ago
+The Robot Report • 1d ago
+
+---
+
+**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
+
+The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
+
+dw.com • 2d ago
 
 ---
 
@@ -132,38 +140,6 @@ Google DeepMind • 3d ago
 
 ---
 
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 3d ago
-
----
-
-**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
-
-A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
-
-ABC News - Breaking News, Latest News and Videos • 2d ago
-
----
-
-**[Tau Robotics launches humanoid robot home cleaning service in San Francisco](https://www.yahoo.com/news/videos/tau-robotics-launches-humanoid-robot-010804608.html)**
-
-Tau Robotics is offering humanoid robot cleaning services to selected applicants, with robots that can vacuum, clean counters and take out the trash.
-
-Yahoo • 19h ago
-
----
-
-**[Lazy bones rejoice as SF robotics company introduces house-cleaning robot](https://nypost.com/2026/07/31/us-news/san-francisco-robotics-company-introduces-house-cleaning-robot/)**
-
-To start, the company is offering the robots to a selected group of applicants in San Francisco at a rate of $30 an hour.
-
-New York Post • 1d ago
-
----
-
 **[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
@@ -172,11 +148,35 @@ Business Insider • 1d ago
 
 ---
 
+**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+
+A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
+
+abcnews.com • 2d ago
+
+---
+
 **[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
 They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
 Morning Brew • 1d ago
+
+---
+
+**[Beyond defense: why India and Israel should build the factories of the future](https://www.ynetnews.com/opinions-analysis/article/s1iyuftsme)**
+
+Analysis: Manufacturing scale and AI-driven innovation could make industrial automation, robotics and heavy electrical equipment the next pillar of the strategic partnership
+
+Ynetnews • 1h ago
+
+---
+
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+WIRED • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 2K • 👍 187 • 💬 17 • ⏱️ 9:14 • 8h ago
+👁️ 2K • 👍 187 • 💬 17 • ⏱️ 9:14 • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 286 • 💬 70 • ⏱️ 16:58 • 8h ago
+👁️ 5K • 👍 286 • 💬 70 • ⏱️ 16:58 • 9h ago
 
 ---
 

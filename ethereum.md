@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T20:56:12.191166+00:00'
+updated: '2026-08-02T21:57:42.194076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 20:56 UTC  
+**Last Updated:** August 02, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** -0.5%  
-**30d:** +5.8%  
-**90d:** -20.2%  
-**1y:** -46.2%  
+**24h:** +2.3%  
+**7d:** -0.2%  
+**30d:** +6.1%  
+**90d:** -20.0%  
+**1y:** -46.0%  
 
 ---
 
@@ -162,15 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
-
-Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
-
-TradingView • 1d ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -182,6 +174,14 @@ The Block • 2d ago
 
 ---
 
+**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
+
+Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
+
+TradingView • 2d ago
+
+---
+
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
 thestreet.com • 2d ago
@@ -190,7 +190,7 @@ thestreet.com • 2d ago
 
 **[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
 
-marketwatch.com • 2d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 10K • 👍 524 • 💬 81 • ⏱️ 15:24 • 8h ago
+👁️ 10K • 👍 524 • 💬 81 • ⏱️ 15:24 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 5 • ⏱️ 4:53 • 6h ago
+👁️ 2K • 👍 162 • 💬 5 • ⏱️ 4:53 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 425 • 👍 18 • 💬 211 • ⏱️ 4:29 • 11h ago
+👁️ 425 • 👍 18 • 💬 211 • ⏱️ 4:29 • 12h ago
 
 ---
 
@@ -266,7 +266,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 342 • ⏱️ 26:54 • 23h ago
+👁️ 44K • 👍 2K • 💬 342 • ⏱️ 26:54 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 9K • 👍 447 • 💬 763 • ⏱️ 14:47 • 22h ago
+👁️ 9K • 👍 447 • 💬 763 • ⏱️ 14:47 • 23h ago
 
 ---
 
@@ -306,7 +306,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in In
 
 📺 Ashutosh Kumar
 
-👁️ 8K • 👍 985 • 3h ago
+👁️ 8K • 👍 985 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 281 • 💬 488 • ⏱️ 21:52 • 21h ago
+👁️ 7K • 👍 281 • 💬 488 • ⏱️ 21:52 • 22h ago
 
 ---
 
