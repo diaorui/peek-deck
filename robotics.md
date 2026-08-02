@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T09:09:06.808873+00:00'
+updated: '2026-08-02T10:59:04.034410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 09:09 UTC  
+**Last Updated:** August 02, 2026 at 10:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,7 +122,7 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -131,6 +131,22 @@ Business Insider • 23h ago
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
 ABC News - Breaking News, Latest News and Videos • 1d ago
+
+---
+
+**[This Humanoid Robot Will Clean Your House for $30 an Hour](https://interestingengineering.com/videos/this-humanoid-robot-will-clean-your-house-for-30-an-hour)**
+
+San Francisco startup Tau Robotics has launched an invite-only humanoid cleaning service at a flat $30 for a one-hour visit. CEO and co-founder Alexander Koch announced it on X, stating that all footage was shown at 1x speed and that "each humanoid is jointly controlled by a human operator and AI." The robots handle house cleaning, deep cleaning and office cleaning — wiping counters, vacuuming hardwood and rugs, taking out trash and clearing floor clutter.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Lazy bones rejoice as SF robotics company introduces house-cleaning robot](https://nypost.com/2026/07/31/us-news/san-francisco-robotics-company-introduces-house-cleaning-robot/)**
+
+To start, the company is offering the robots to a selected group of applicants in San Francisco at a rate of $30 an hour.
+
+nypost.com • 1d ago
 
 ---
 
@@ -150,19 +166,11 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[The Chinese robot army transforming the UK's retail industry](https://www.bbc.com/news/articles/c0jl8v23qwgo)**
-
-Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.
-
-BBC • 3d ago
-
----
-
 **[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -172,19 +180,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
-This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-IEEE Spectrum • 1d ago
-
----
-
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
-
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
-
-The Globe and Mail • 2d ago
+Morning Brew • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 2K • 👍 52 • 💬 35 • ⏱️ 1:03 • 12h ago
+👁️ 2K • 👍 52 • 💬 35 • ⏱️ 1:03 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 7K • 👍 309 • 💬 14 • ⏱️ 5:33 • 19h ago
+👁️ 7K • 👍 309 • 💬 14 • ⏱️ 5:33 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-02T09:09:06.796184+00:00'
+updated: '2026-08-02T10:59:04.016449+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- social
 - repositories
 - videos
-- social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 02, 2026 at 09:09 UTC  
+**Last Updated:** August 02, 2026 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,14 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 ---
 
+**[is learning copywriting still worth it when AI output is already client-passable?](https://www.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/)**
+
+Been using a few AI tools to help with copy for a small side project and it's raised a question I can't quite shake. The output is genuinely decent now. Not great, but decent enough that clients who aren't paying close attention probably wouldn't notice the difference. The thing is, I've been spending real time learning copywriting. Reading books, studying good ads, practicing hooks. And part of me wonders if that investment still makes sense the way it did two or three years ago. The counterargument I keep coming back to is that you need good taste to prompt well and to edit what the model gives you. Someone who doesn't understand copy at all is still going to get mediocre output because they won't catch what's flat or offtone. That feels true, fwiw. But I'm less sure the gap between a trained human copywriter and a wellprompted model is going to stay wide enough to matter commercially, at least for the midtier work that fills most freelance pipelines. Curious if people here have actually noticed a shift in how clients value humanwritten copy versus AIassisted, or whether the skill floor is just moving rather than disappearing.
+
+3m ago
+
+---
+
 **[Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban](https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/)**
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
@@ -57,7 +65,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 People in my org tell me using the org certified AI is more secure because we are on an enterprise plan where our data is not used for training. Sure, I will use the company AI. But... Apple is suing OpenAI for for allegedly stealing trade secrets, where it was said employees were instructued by OpenAI to bring parts from apple into "show and tell" interviews at OpenAI and even take the company laptop with them. Also, the models are literally based on strip mining copyrighted media and ignoring sites robots.txt. So if OpenAI is not afraid to (allegedly) steal Apples IP and strip mine everything that was ever written down for its models training... Why would it drink their enterprises customers data like the milkshake it is?
 
-2h ago
+4h ago
 
 ---
 
@@ -65,15 +73,7 @@ People in my org tell me using the org certified AI is more secure because we ar
 
 I started kind of tinkering with Ai and it all is super fascinating, particularly interesting to me is prompt structure. So I would like to ask is formatting your prompt (persona, few shot negative, whatever else) gives you much better results than without? I want to know it to determine for myself balance between effort dedicated to quality prompt vs quality of output given through that prompt
 
-4h ago
-
----
-
-**[Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.](https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/)**
-
-Noticed a pattern: people switch from GPT to Claude, upgrade to a newer version, try a bigger model and the output barely changes. If that's happened to you, the issue usually isn't the model. It's what you handed it before asking the question. Broke it down to three things context actually needs to supply, and most disappointing outputs are missing one of these, not all of them: Current facts the training data can't know: your pricing, this quarter's numbers, a customer's actual history. Leave this out and the model doesn't leave a blank, it quietly invents something plausible. A concrete example of what "good" looks like: not "professional tone," an actual paragraph to pattern-match against. Descriptions get interpreted, examples get copied. What already happened earlier in the task: a correction you made two messages ago. If you don't restate it, it's gone. The model isn't ignoring you, it just doesn't re-read messages you haven't pointed it back to. The counterintuitive part: the most common mistake isn't giving too little context, it's dumping in too much unfiltered. The model has to weigh every token, and irrelevant material competes for attention with what actually matters. Forty pages when the task needs three paragraphs makes the right answer harder to find, not easier. Wrote up a longer breakdown with a concrete before/after example (same task, same model, only the context changed): https://medium.com/@nagatomopedro05/good-ai-starts-with-good-context-design-77496f7b9eb6 Curious if others here have run into this, model-swapping as a first instinct instead of fixing the input.
-
-5h ago
+6h ago
 
 ---
 
@@ -85,11 +85,11 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 ---
 
-**[Don't ever use hackaigc.](https://www.reddit.com/r/artificial/comments/1vdabw4/dont_ever_use_hackaigc/)**
+**[Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.](https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/)**
 
-I don't know if anybody knows the site but don't ever use that shit, hackaigc is a scam, please if you see this crap website shit on it.
+Noticed a pattern: people switch from GPT to Claude, upgrade to a newer version, try a bigger model and the output barely changes. If that's happened to you, the issue usually isn't the model. It's what you handed it before asking the question. Broke it down to three things context actually needs to supply, and most disappointing outputs are missing one of these, not all of them: Current facts the training data can't know: your pricing, this quarter's numbers, a customer's actual history. Leave this out and the model doesn't leave a blank, it quietly invents something plausible. A concrete example of what "good" looks like: not "professional tone," an actual paragraph to pattern-match against. Descriptions get interpreted, examples get copied. What already happened earlier in the task: a correction you made two messages ago. If you don't restate it, it's gone. The model isn't ignoring you, it just doesn't re-read messages you haven't pointed it back to. The counterintuitive part: the most common mistake isn't giving too little context, it's dumping in too much unfiltered. The model has to weigh every token, and irrelevant material competes for attention with what actually matters. Forty pages when the task needs three paragraphs makes the right answer harder to find, not easier. Wrote up a longer breakdown with a concrete before/after example (same task, same model, only the context changed): https://medium.com/@nagatomopedro05/good-ai-starts-with-good-context-design-77496f7b9eb6 Curious if others here have run into this, model-swapping as a first instinct instead of fixing the input.
 
-2h ago
+7h ago
 
 ---
 
@@ -97,7 +97,15 @@ I don't know if anybody knows the site but don't ever use that shit, hackaigc is
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
-15h ago
+17h ago
+
+---
+
+**[Don't ever use hackaigc.](https://www.reddit.com/r/artificial/comments/1vdabw4/dont_ever_use_hackaigc/)**
+
+I don't know if anybody knows the site but don't ever use that shit, hackaigc is a scam, please if you see this crap website shit on it.
+
+4h ago
 
 ---
 
@@ -105,15 +113,7 @@ Been a PT by day, tinkering with code and AI tools by night for a while now. Wri
 
 I kept running into the same problem: ChatGPT would help me think through an architecture, Claude Code would help me implement it, Cursor or Windsurf would touch the repo later, and every handoff would lose context. Not just “what files exist,” but the stuff that actually matters: why we chose one approach, what we already rejected, what the project conventions are, what setup detail will bite later, and what the agent learned last time. So I built mem-port: a local MCP server that gives AI copilots shared long-term memory. The short version is: a pendrive for your AI context. It runs locally, uses embedded SurrealDB for graph + vector memory, and doesn’t require Postgres, Qdrant, Neo4j, or a hosted service. Tools can save and search the same memory instead of each one starting from zero. It’s free and open source. Curious if anyone else is dealing with this context drift between AI tools, and how you’re solving it. See more here: (Started getting github stars as well!) https://github.com/rsl-innovation/mem-port#mem-port
 
-3h ago
-
----
-
-**[Help choose a reasonably cheap AI environment for Coding](https://www.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/)**
-
-Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
-
-12h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi, sorry if this is a repeated question on this subreddit but I want to know wh
 
 **[The Race to Build an American Alternative to Cheap AI From China](https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a)**
 
-wsj.com • 8h ago
+WSJ • 9h ago
 
 ---
 
@@ -131,47 +131,29 @@ wsj.com • 8h ago
 
 Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed
 
-theguardian.com • 5h ago
+The Guardian • 7h ago
 
 ---
 
-**[Meta will train its AI on Newsmax, a far-right outlet with a history of conspiracy theories](https://www.yahoo.com/news/politics/articles/meta-train-ai-newsmax-far-081600901.html)**
+**[AI-powered Alpha Schools expands to 50 campuses as AI debate grows](https://www.axios.com/2026/08/02/alpha-schools-ai-expansion-50-campuses)**
 
-Among the outlet's most prominent falsehoods were its 2020 election claims about Dominion and Smartmatic.
-
-Yahoo • 53m ago
+Axios • 1h ago
 
 ---
 
-**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
+**[Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)**
 
-OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
+New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”
 
-NPR • 1d ago
-
----
-
-**[OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html)**
-
-The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
-
-CNBC • 21h ago
+WIRED • 59m ago
 
 ---
 
-**[Inside AI umpire METR, a tiny lab where $500,000 salaries aren't enough to fix a talent shortage](https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8)**
+**[Most Americans want AI regulation. Will Congress listen? | Opinion](https://www.usatoday.com/story/opinion/2026/08/02/voters-deepfake-government-testing-ai-regulation/91065789007/)**
 
-METR, a Berkeley lab started by an ex-OpenAI researcher, has become a prominent AI umpire. CEO Beth Barnes says AI safety research needs more people.
+Republicans and Democrats alike support the U.S. working with other nations to establish international rules governing the most powerful AI systems.
 
-Business Insider • 8m ago
-
----
-
-**[5 ways AI could save our democracy](https://www.fastcompany.com/91578212/ai-could-save-democracy)**
-
-What if we treat democratic dysfunction the way we treat cancer or carbon emissions?
-
-Fast Company • 1h ago
+USA Today • 1h ago
 
 ---
 
@@ -179,15 +161,7 @@ Fast Company • 1h ago
 
 AI is threatening white-collar, entry-level jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians, plumbers, and construction workers.
 
-Fortune • 19h ago
-
----
-
-**[Commonwealth Games 2026: England's Dimeji Shittu 'robbed' in final - is AI judging the answer?](https://www.bbc.com/sport/boxing/articles/c4g42xk1l7vo)**
-
-After commentators claim England's Dimeji Shittu was "robbed" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?
-
-BBC • 12h ago
+Fortune • 21h ago
 
 ---
 
@@ -195,7 +169,31 @@ BBC • 12h ago
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 16h ago
+OpenAI • 18h ago
+
+---
+
+**[How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html)**
+
+Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.
+
+CNBC • 1d ago
+
+---
+
+**[AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html)**
+
+Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.
+
+CNBC • 2d ago
+
+---
+
+**[‘Nostradamus of AI’ Leopold Aschenbrenner didn’t have the crystal ball seeing hedge fund portfolio dip 67%](https://nypost.com/2026/08/01/business/nostradamus-of-ai-leopold-aschenbrenner-didnt-have-the-crystal-ball-seeing-hedge-fund-portfolio-dip-67/)**
+
+The celebrated crystal ball of the “Nostradamus of AI” hasn’t merely gone cloudy — it has rolled off the table and shattered on the parlor floor.
+
+nypost.com • 9h ago
 
 ---
 
@@ -207,7 +205,7 @@ OpenAI • 16h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 562 • 💬 606 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 564 • 💬 606 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -231,13 +229,13 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 294 • 💬 267 • 10h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 308 • 💬 292 • 12h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 262 • 💬 67 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 262 • 💬 68 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -245,7 +243,7 @@ Large language models encourage smart financial behavior, but they fall short on
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 255 • 💬 270 • 1d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 255 • 💬 275 • 1d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -253,7 +251,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 206 • 💬 235 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 207 • 💬 235 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -275,7 +273,7 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 133 • 💬 77 • 2d ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 134 • 💬 77 • 2d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
@@ -289,7 +287,7 @@ AI company Anthropic says that during routine testing some of its models accesse
 
 📺 CNN
 
-👁️ 120K • 👍 1K • 💬 599 • ⏱️ 11:30 • 14h ago
+👁️ 120K • 👍 1K • 💬 599 • ⏱️ 11:30 • 15h ago
 
 ---
 
@@ -299,7 +297,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Television
 
-👁️ 40K • 👍 918 • 💬 198 • ⏱️ 8:48 • 19h ago
+👁️ 40K • 👍 918 • 💬 198 • ⏱️ 8:48 • 21h ago
 
 ---
 
@@ -309,7 +307,7 @@ Seedance 2.5 vs Seedance 2.0 — same prompt, same inputs, six categories, one h
 
 📺 Higgsfield AI
 
-👁️ 30K • 👍 1K • 💬 75 • ⏱️ 20:22 • 18h ago
+👁️ 30K • 👍 1K • 💬 75 • ⏱️ 20:22 • 20h ago
 
 ---
 
@@ -319,7 +317,7 @@ During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin C
 
 📺 Forbes Breaking News
 
-👁️ 2K • 👍 13 • 💬 26 • ⏱️ 4:53 • 16h ago
+👁️ 2K • 👍 13 • 💬 26 • ⏱️ 4:53 • 18h ago
 
 ---
 
@@ -339,7 +337,7 @@ HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #a
 
 📺 AI Search
 
-👁️ 30K • 👍 2K • 💬 216 • ⏱️ 28:10 • 5h ago
+👁️ 30K • 👍 2K • 💬 216 • ⏱️ 28:10 • 7h ago
 
 ---
 
@@ -654,7 +652,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.8k • 🔱 291 • 17h ago
+⭐ 3.8k • 🔱 291 • 18h ago
 
 ---
 
@@ -682,7 +680,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.3k • 55s ago
+⭐ 1.8k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -692,7 +690,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 213 • 23h ago
+⭐ 1.8k • 🔱 213 • 1d ago
 
 ---
 
@@ -710,7 +708,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.6k • 🔱 104 • 3h ago
+⭐ 1.6k • 🔱 104 • 5h ago
 
 ---
 
@@ -730,7 +728,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 175 • 3m ago
+⭐ 1.4k • 🔱 175 • 1h ago
 
 ---
 
