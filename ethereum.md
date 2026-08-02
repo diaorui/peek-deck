@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T12:10:29.233833+00:00'
+updated: '2026-08-02T14:08:18.120840+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 12:10 UTC  
+**Last Updated:** August 02, 2026 at 14:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.0%  
+**24h:** -0.9%  
+**7d:** -2.1%  
 **30d:** +4.1%  
 **90d:** -21.5%  
 **1y:** -47.0%  
@@ -72,7 +72,7 @@ No max supply
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-22h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 **[Happy Birthday, Ethereum!](https://www.reddit.com/r/ethereum/comments/1vau0oj/happy_birthday_ethereum/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ in april 2026, the head of product at X posted a screenshot: the number one most
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,11 +180,17 @@ thestreet.com • 1d ago
 
 ---
 
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 17h ago
+blockchain.news • 19h ago
 
 ---
 
@@ -192,7 +198,7 @@ blockchain.news • 17h ago
 
 Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -200,15 +206,7 @@ CoinDesk • 2d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 10h ago
-
----
-
-**[Happy Birthday, Ethereum! 'ETH's New Leadership Era Is Here,' Expert Says](https://www.benzinga.com/crypto/cryptocurrency/26/07/60794668/happy-birthday-ethereum-eths-new-leadership-era-is-here-expert-says)**
-
-ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
-
-Benzinga • 3d ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -220,11 +218,11 @@ AMBCrypto • 3d ago
 
 ---
 
-**[Total crypto market adds over $130B in 30 days, and nobody can pinpoint why](https://cryptobriefing.com/crypto-market-adds-130b-30-days/)**
+**[Happy Birthday, Ethereum! 'ETH's New Leadership Era Is Here,' Expert Says](https://www.benzinga.com/crypto/cryptocurrency/26/07/60794668/happy-birthday-ethereum-eths-new-leadership-era-is-here-expert-says)**
 
-The total crypto market cap surged over $130 billion in 30 days without a clear catalyst, as Bitcoin and Ethereum led a broad accumulation-driven
+ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
 
-Crypto Briefing • 1d ago
+Benzinga • 3d ago
 
 ---
 
@@ -238,7 +236,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 257 • ⏱️ 26:54 • 14h ago
+👁️ 31K • 👍 2K • 💬 257 • ⏱️ 26:54 • 16h ago
 
 ---
 
@@ -248,7 +246,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 53 • 💬 122 • ⏱️ 13:19 • 21h ago
+👁️ 2K • 👍 53 • 💬 122 • ⏱️ 13:19 • 23h ago
 
 ---
 
@@ -258,7 +256,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 32K • 👍 1K • 💬 91 • ⏱️ 19:50 • 2d ago
+👁️ 32K • 👍 1K • 💬 91 • ⏱️ 19:50 • 3d ago
 
 ---
 
@@ -268,7 +266,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 246 • 💬 494 • ⏱️ 21:52 • 12h ago
+👁️ 6K • 👍 246 • 💬 494 • ⏱️ 21:52 • 14h ago
 
 ---
 
@@ -298,7 +296,7 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 2K • 👍 60 • 💬 4 • ⏱️ 0:56 • 20h ago
+👁️ 2K • 👍 60 • 💬 4 • ⏱️ 0:56 • 22h ago
 
 ---
 
@@ -318,7 +316,7 @@ livetrading #livescalping #btclivetrading Crypto Live Trading | btc live trading
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 345 • 21h ago
+👁️ 2K • 👍 345 • 23h ago
 
 ---
 
@@ -328,7 +326,7 @@ Is buying 555 ICP today like owning 123 Ethereum in 2016? I lay out the supply m
 
 📺 Jerry Banfield ICP
 
-👁️ 2K • 👍 145 • 💬 35 • ⏱️ 10:43 • 17h ago
+👁️ 2K • 👍 145 • 💬 35 • ⏱️ 10:43 • 19h ago
 
 ---
 

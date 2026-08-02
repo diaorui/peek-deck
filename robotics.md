@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T12:10:29.236053+00:00'
+updated: '2026-08-02T14:08:18.123825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 12:10 UTC  
+**Last Updated:** August 02, 2026 at 14:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 California-based robotics startup Satyress is developing Threehalves, a 7-foot-tall teleoperated centaur robot designed for hazardous work.But if it’s designed for hazardous tasks, why does it look like something you could ride—something that seems more at home in an amusement park? Although its appearance is a bit creepy lol.
 
-2d ago
+3d ago
 
 ---
 
@@ -114,23 +114,7 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-Google DeepMind • 2d ago
-
----
-
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 2d ago
-
----
-
-**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
-
-Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
-
-CNET • 2d ago
+deepmind.google • 2d ago
 
 ---
 
@@ -142,11 +126,11 @@ Business Insider • 1d ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-abcnews.com • 1d ago
+ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
@@ -170,13 +154,31 @@ PYMNTS.com • 1d ago
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 23h ago
 
 ---
 
-**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
-Tech Xplore • 2d ago
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
+
+Morning Brew • 1d ago
+
+---
+
+**[Humanoid robots are 'next stage' in farming](https://www.bbc.com/news/articles/ce85zermdq6o)**
+
+The technology should co-exist alongside humans and complete the same tasks, a university says.
+
+BBC • 3d ago
+
+---
+
+**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+
+Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+
+The Globe and Mail • 2d ago
 
 ---
 
@@ -208,7 +210,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 3K • 👍 57 • 💬 39 • ⏱️ 1:03 • 15h ago
+👁️ 3K • 👍 57 • 💬 39 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -238,7 +240,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 All-In Podcast
 
-👁️ 105K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 3d ago
+👁️ 105K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 4d ago
 
 ---
 
@@ -278,7 +280,7 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 8K • 👍 324 • 💬 16 • ⏱️ 5:33 • 22h ago
+👁️ 8K • 👍 324 • 💬 16 • ⏱️ 5:33 • 1d ago
 
 ---
 
