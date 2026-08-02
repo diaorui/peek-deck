@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T16:59:37.510393+00:00'
+updated: '2026-08-02T18:06:21.305276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 16:59 UTC  
+**Last Updated:** August 02, 2026 at 18:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,855.40
+### $1,866.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.5%  
-**30d:** +4.7%  
-**90d:** -21.1%  
-**1y:** -46.7%  
+**24h:** +1.9%  
+**7d:** -1.1%  
+**30d:** +5.1%  
+**90d:** -20.8%  
+**1y:** -46.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.24B
+**Market Cap:** $225.43B
 Rank #2
 
 **Circulating Supply:** 120,682,254 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.2%
 
 **All-Time Low:** $0.43
-+429034.0%
++431329.7%
 
 ---
 
@@ -158,11 +158,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
+**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
 
-Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
+The investment bank has quickly ramped up its crypto ETF offerings.
 
-TradingView • 1d ago
+The Motley Fool • 39m ago
 
 ---
 
@@ -174,15 +174,17 @@ The Block • 2d ago
 
 ---
 
-**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
+**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
 
-thestreet.com • 2d ago
+Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
+
+TradingView • 1d ago
 
 ---
 
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-MarketWatch • 2d ago
+thestreet.com • 2d ago
 
 ---
 
@@ -190,7 +192,7 @@ MarketWatch • 2d ago
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 21h ago
+blockchain.news • 22h ago
 
 ---
 
@@ -206,7 +208,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-cryptoslate.com • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -236,7 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 270 • 💬 51 • ⏱️ 15:24 • 4h ago
+👁️ 6K • 👍 419 • 💬 66 • ⏱️ 15:24 • 5h ago
 
 ---
 
@@ -246,17 +248,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 706 • 👍 90 • 💬 57 • ⏱️ 4:53 • 2h ago
-
----
-
-**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
-
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 508 • ⏱️ 26:54 • 19h ago
+👁️ 1K • 👍 142 • 💬 60 • ⏱️ 4:53 • 3h ago
 
 ---
 
@@ -266,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 251 • 👍 14 • 💬 212 • ⏱️ 4:29 • 7h ago
+👁️ 342 • 👍 18 • 💬 211 • ⏱️ 4:29 • 9h ago
 
 ---
 
@@ -276,7 +268,17 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 9K • 👍 440 • 💬 619 • ⏱️ 14:47 • 18h ago
+👁️ 9K • 👍 448 • 💬 666 • ⏱️ 14:47 • 20h ago
+
+---
+
+**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
+
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 333 • ⏱️ 26:54 • 20h ago
 
 ---
 
@@ -286,7 +288,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 57 • 💬 122 • ⏱️ 13:19 • 1d ago
+👁️ 2K • 👍 57 • 💬 137 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -296,7 +298,17 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 261 • 💬 494 • ⏱️ 21:52 • 17h ago
+👁️ 7K • 👍 273 • 💬 492 • ⏱️ 21:52 • 18h ago
+
+---
+
+**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+
+In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 350 • 💬 29 • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -310,23 +322,13 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 ---
 
-**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
 
-In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 More Crypto Online
+📺 🌟yourfriendsommi
 
-👁️ 6K • 👍 342 • 💬 28 • ⏱️ 10:08 • 1d ago
-
----
-
-**[A Duke Professor Just Proved You Cannot Attack Ethereum Like Bitcoin](https://www.youtube.com/watch?v=WNABPlC7Oe0)**
-
-Duke Professor Campbell Harvey explained why a 51 percent style attack that works theoretically on Bitcoin is mathematically self ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 62 • 💬 14 • ⏱️ 0:56 • 1d ago
+👁️ 1K • 👍 146 • 💬 12 • ⏱️ 12:19 • 1d ago
 
 ---
 

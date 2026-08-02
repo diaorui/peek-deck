@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T16:59:37.513238+00:00'
+updated: '2026-08-02T18:06:21.308537+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 16:59 UTC  
+**Last Updated:** August 02, 2026 at 18:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[That’s how we train the robot to follow you by reinforcement learning.](https://www.reddit.com/r/robotics/comments/1vb03v3/thats_how_we_train_the_robot_to_follow_you_by/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -110,11 +110,27 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+WIRED • 3d ago
+
+---
+
 **[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
 Google DeepMind • 3d ago
+
+---
+
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+
+The Robot Report • 5h ago
 
 ---
 
@@ -128,7 +144,7 @@ Business Insider • 1d ago
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 10h ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -144,7 +160,7 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-Morning Brew • 1d ago
+morningbrew.com • 1d ago
 
 ---
 
@@ -156,22 +172,6 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
-
-A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
-
-Interesting Engineering • 1d ago
-
----
-
-**[Humanoid robots are 'next stage' in farming](https://www.bbc.com/news/articles/ce85zermdq6o)**
-
-The technology should co-exist alongside humans and complete the same tasks, a university says.
-
-BBC • 3d ago
-
----
-
 **[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
 
 This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
@@ -180,11 +180,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+**[Tau Robotics launches humanoid robot home cleaning service in San Francisco](https://www.yahoo.com/news/videos/tau-robotics-launches-humanoid-robot-010804608.html)**
 
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+Tau Robotics is offering humanoid robot cleaning services to selected applicants, with robots that can vacuum, clean counters and take out the trash.
 
-The Globe and Mail • 2d ago
+Yahoo • 16h ago
 
 ---
 
@@ -198,57 +198,33 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 204K • 👍 6K • 💬 483 • ⏱️ 3:00 • 3d ago
+👁️ 207K • 👍 6K • 💬 486 • ⏱️ 3:00 • 3d ago
 
 ---
 
-**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
 
-Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
+📺 Omar Agamy
 
-📺 KCRA 3
-
-👁️ 3K • 👍 68 • 💬 41 • ⏱️ 1:03 • 20h ago
+👁️ 560K • 👍 24K • 💬 2K • ⏱️ 0:40 • 2d ago
 
 ---
 
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
+**[Robot Window Cleaners Are Here But Do They Work?](https://www.youtube.com/watch?v=SPV-hstjRGM)**
 
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
+Robots are doing more and more for us these days but can they clean windows? Ecovacs Mini Window Cleaner: ...
 
-📺 NBC News
+📺 Proper DIY - Tools & Effect
 
-👁️ 71K • 👍 364 • 💬 517 • ⏱️ 6:04 • 3d ago
-
----
-
-**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
-
-Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
-
-📺 Creative Channel
-
-👁️ 906 • 👍 111 • 💬 9 • ⏱️ 9:14 • 4h ago
+👁️ 29K • 👍 2K • 💬 175 • ⏱️ 12:29 • 11h ago
 
 ---
 
-**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+**[😳WTF… Mark Zuckerberg Robot Asked For WHAT?!](https://www.youtube.com/watch?v=M6qdlOEyT-8)**
 
-Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+📺 David Nino Rodriguez
 
-📺 Foundation Robotics
-
-👁️ 9K • 👍 352 • 💬 17 • ⏱️ 5:33 • 1d ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 5d ago
+👁️ 2K • 👍 208 • 💬 12 • ⏱️ 0:32 • 54m ago
 
 ---
 
@@ -258,7 +234,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 10K • 👍 168 • 💬 16 • ⏱️ 1:00 • 1d ago
+👁️ 11K • 👍 177 • 💬 16 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -268,27 +244,47 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 18K • 👍 396 • 💬 36 • ⏱️ 9:54 • 1d ago
+👁️ 19K • 👍 412 • 💬 36 • ⏱️ 9:54 • 1d ago
 
 ---
 
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
 
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
 
-📺 All-In Podcast
+📺 Creative Channel
 
-👁️ 105K • 👍 2K • 💬 321 • ⏱️ 1:08:35 • 4d ago
+👁️ 2K • 👍 152 • 💬 9 • ⏱️ 9:14 • 5h ago
 
 ---
 
-**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
+**[&quot;TREACHEROUS Waters Ahead!&quot; Will Super Intelligent Robots End Humanity? + Science vs God Debate](https://www.youtube.com/watch?v=5ZruLGRmU9g)**
 
-The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
+Check out Freecash today using my link https://bit.ly/4vtcdz6 and get a $10 bonus after completing your first offer. Can science ...
 
-📺 Google DeepMind
+📺 Piers Morgan Uncensored
 
-👁️ 84K • 👍 2K • 💬 161 • ⏱️ 2:48 • 3d ago
+👁️ 131K • 👍 2K • 💬 1K • ⏱️ 1:04:34 • 2d ago
+
+---
+
+**[This Robot Goalkeeper Is Actually Insane! #shorts #soccer #football](https://www.youtube.com/watch?v=vmuL5K3lnas)**
+
+Can a $500 robot goalkeeper stop a real soccer shot? ⚽ This kid decided to find out by putting it to the ultimate test. The first ...
+
+📺 Shutter Hype
+
+👁️ 5K • 💬 14 • ⏱️ 0:34 • 5h ago
+
+---
+
+**[Framework Laptops and a Robot Cleaner?](https://www.youtube.com/watch?v=PtCMsXYAPyc)**
+
+This week, Marques, Andrew, and David kick things off by talking about the new Apple leasing program. After that, they get into ...
+
+📺 WVFRM Podcast
+
+👁️ 122K • 👍 3K • 💬 542 • ⏱️ 1:35:30 • 2d ago
 
 ---
 
