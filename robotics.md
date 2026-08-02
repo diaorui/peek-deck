@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-01T23:59:57.993670+00:00'
+updated: '2026-08-02T03:42:43.395137+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 01, 2026 at 23:59 UTC  
+**Last Updated:** August 02, 2026 at 03:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,15 +122,23 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 14h ago
+businessinsider.com • 18h ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-abcnews.com • 1d ago
+ABC News - Breaking News, Latest News and Videos • 1d ago
+
+---
+
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
+
+Morning Brew • 21h ago
 
 ---
 
@@ -146,47 +154,37 @@ BBC • 3d ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-pymnts.com • 15h ago
+PYMNTS.com • 19h ago
 
 ---
 
-**[Wetour Robotics Announces Share Consolidation](https://finance.yahoo.com/markets/stocks/articles/wetour-robotics-announces-share-consolidation-221800169.html)**
+**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
 
-AUSTIN, Texas, July 29, 2026 (GLOBE NEWSWIRE) -- Wetour Robotics Limited (Nasdaq: WETO) ("Wetour Robotics" or the "Company"), a Physical AI infrastructure and wearable robotics company, today announced that it will effect a share consolidation of its ordinary shares of par value US$0.0001 each at a ratio of 1-for-100, effective on August 3, 2026 (the “Share Consolidation”). The Company’s ordinary shares are expected to begin trading on a post-consolidation basis at the open of the market session
-
-Yahoo Finance • 3d ago
+techxplore.com • 2d ago
 
 ---
 
-**[Robotics Startup Unitree Launches $620 Million STAR Market IPO](https://www.caixinglobal.com/2026-07-31/robotics-startup-unitree-launches-620-million-star-market-ipo-102469723.html)**
+**[China grabs six of top 10 humanoid robot spots, but US quality is higher: Report](https://interestingengineering.com/ai-robotics/china-grabs-top-humanoid-robot-spots)**
 
-The humanoid robot manufacturer cleared regulatory reviews in a record 104 days, targeting a valuation of 42 billion yuan amid intensifying industry competition
+A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-caixinglobal.com • 2d ago
-
----
-
-**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
-
-Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
-
-FreightWaves • 1d ago
+Interesting Engineering • 12h ago
 
 ---
 
-**[This new robot centaur designed to save lives is pure nightmare fuel](https://www.fastcompany.com/91582982/satyress-threehalves-robot)**
+**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
 
-In a market drowning in humanoids, this goat-headed monstrosity might just be the most honest robot we've seen yet.
+This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
 
-Fast Company • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
 
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
 
-The Globe and Mail • 1d ago
+dw.com • 1d ago
 
 ---
 
@@ -200,17 +198,17 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 189K • 👍 5K • 💬 459 • ⏱️ 3:00 • 2d ago
+👁️ 194K • 👍 6K • 💬 465 • ⏱️ 3:00 • 2d ago
 
 ---
 
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
 
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
 
-📺 All-In Podcast
+📺 KCRA 3
 
-👁️ 103K • 👍 2K • 💬 316 • ⏱️ 1:08:35 • 3d ago
+👁️ 1K • 👍 38 • 💬 29 • ⏱️ 1:03 • 6h ago
 
 ---
 
@@ -220,7 +218,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 70K • 👍 354 • 💬 513 • ⏱️ 6:04 • 3d ago
+👁️ 70K • 👍 357 • 💬 515 • ⏱️ 6:04 • 3d ago
 
 ---
 
@@ -230,7 +228,17 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 ABC7 News Bay Area
 
-👁️ 7K • 👍 70 • 💬 46 • ⏱️ 2:01 • 2d ago
+👁️ 7K • 👍 77 • 💬 47 • ⏱️ 2:01 • 2d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 103K • 👍 2K • 💬 318 • ⏱️ 1:08:35 • 3d ago
 
 ---
 
@@ -240,17 +248,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 13K • 👍 320 • 💬 32 • ⏱️ 9:54 • 1d ago
-
----
-
-**[The FDA Just Changed Robotics Forever... Everyone Bought the Wrong Stock](https://www.youtube.com/watch?v=_6iqP7hdsk8)**
-
-The FDA just changed the future of surgical robotics and almost everyone is watching the WRONG stock. While headlines focused ...
-
-📺 Ross Givens
-
-👁️ 13K • 👍 719 • 💬 158 • ⏱️ 11:31 • 3d ago
+👁️ 15K • 👍 347 • 💬 33 • ⏱️ 9:54 • 1d ago
 
 ---
 
@@ -260,7 +258,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 1.1M • 👍 9K • 💬 4K • ⏱️ 2:15 • 4d ago
+👁️ 1.1M • 👍 9K • 💬 4K • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -270,25 +268,27 @@ The world is built for human movements; it requires us to reach, bend, and balan
 
 📺 Google DeepMind
 
-👁️ 78K • 👍 2K • 💬 159 • ⏱️ 2:48 • 2d ago
+👁️ 80K • 👍 2K • 💬 160 • ⏱️ 2:48 • 2d ago
 
 ---
 
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+**[Touching the New Humanoid Robot With &#39;Smart Skin&#39;](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
 
-📺 Omar Agamy
+Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
 
-👁️ 527K • 👍 23K • 💬 2K • ⏱️ 0:40 • 1d ago
+📺 CNET
+
+👁️ 26K • 👍 676 • 💬 53 • ⏱️ 4:23 • 6d ago
 
 ---
 
-**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
+**[This New American Military Robot Will Leave You Speechless](https://www.youtube.com/watch?v=vwrs_33Nj-o)**
 
-Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+This New American Military Robot Will Leave You Speechless While the whole world argues about who has the biggest army, the ...
 
-📺 Google DeepMind
+📺 Future Core
 
-👁️ 16K • 👍 527 • 💬 33 • ⏱️ 2:32 • 2d ago
+👁️ 7K • 👍 214 • 💬 10 • ⏱️ 9:36 • 4d ago
 
 ---
 

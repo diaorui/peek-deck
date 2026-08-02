@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-01T23:59:57.977449+00:00'
+updated: '2026-08-02T03:42:43.382570+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 01, 2026 at 23:59 UTC  
+**Last Updated:** August 02, 2026 at 03:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 20h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/reddit-stock-collapses-23-ai-200638599.html) • 1d ago
 
 ---
 
@@ -49,15 +49,15 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 The ruling clears the way for the first-in-the-nation law to go into effect on Saturday.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 16h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993) • 20h ago
 
 ---
 
-**[What the Claude API Actually Costs](https://www.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/)**
+**[Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.](https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/)**
 
-The real Claude API cost isn't the sticker price—it's output tokens (5× pricier) and the expiry of Sonnet 5's intro rate. See our verified July 2026 per-model prices and a calculator that never goes stale.
+Noticed a pattern: people switch from GPT to Claude, upgrade to a newer version, try a bigger model and the output barely changes. If that's happened to you, the issue usually isn't the model. It's what you handed it before asking the question. Broke it down to three things context actually needs to supply, and most disappointing outputs are missing one of these, not all of them: Current facts the training data can't know: your pricing, this quarter's numbers, a customer's actual history. Leave this out and the model doesn't leave a blank, it quietly invents something plausible. A concrete example of what "good" looks like: not "professional tone," an actual paragraph to pattern-match against. Descriptions get interpreted, examples get copied. What already happened earlier in the task: a correction you made two messages ago. If you don't restate it, it's gone. The model isn't ignoring you, it just doesn't re-read messages you haven't pointed it back to. The counterintuitive part: the most common mistake isn't giving too little context, it's dumping in too much unfiltered. The model has to weigh every token, and irrelevant material competes for attention with what actually matters. Forty pages when the task needs three paragraphs makes the right answer harder to find, not easier. Wrote up a longer breakdown with a concrete before/after example (same task, same model, only the context changed): https://medium.com/@nagatomopedro05/good-ai-starts-with-good-context-design-77496f7b9eb6 Curious if others here have run into this, model-swapping as a first instinct instead of fixing the input.
 
-🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 3h ago
+31m ago
 
 ---
 
@@ -65,15 +65,7 @@ The real Claude API cost isn't the sticker price—it's output tokens (5× prici
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 16h ago
-
----
-
-**[Help choose a reasonably cheap AI environment for Coding](https://www.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/)**
-
-Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
-
-3h ago
+🔗 [OpenAI](https://openai.com/index/ten-advances-in-mathematics/) • 19h ago
 
 ---
 
@@ -81,15 +73,23 @@ Hi, sorry if this is a repeated question on this subreddit but I want to know wh
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
+10h ago
+
+---
+
+**[Help choose a reasonably cheap AI environment for Coding](https://www.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/)**
+
+Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
+
 6h ago
 
 ---
 
-**[AI Mind Reading Anyone?](https://www.reddit.com/r/artificial/comments/1vcz3ls/ai_mind_reading_anyone/)**
+**[What the Claude API Actually Costs](https://www.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/)**
 
-“For example, in the University of Texas experiments, a participant listened to the phrase, “I didn’t know whether to scream, cry or run away. Instead, I said, ‘Leave me alone!’”. The decoder translated this brain activity as, “Started to scream and cry, and then she just said, ‘I told you to leave me alone.’”.”
+The real Claude API cost isn't the sticker price—it's output tokens (5× pricier) and the expiry of Sonnet 5's intro rate. See our verified July 2026 per-model prices and a calculator that never goes stale.
 
-🔗 [Soval](https://www.sovalsocial.com/blog/fact-check-can-ai-now-read-minds-using-brain-scans) • 2h ago
+🔗 [techpotions.com](http://techpotions.com/lab/claude-api-cost) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Been a PT by day, tinkering with code and AI tools by night for a while now. Wri
 
 Hi guys, Recently made a AI digital twin of mine which also kind of works as my assistant too, for example when you chat with it and ask something which it does not have answer for it will instantly notify me that someone is asking me this question and i do not have answer for that. and if i reply it will be instantly uploaded to the database so next time it can answer. and also if a user is have some conversation with my agent and it feels something important is going on here and it will notify me and i can jump in the chat as well. We can have a three way conversation like Me, User, AI twin. here is the link if you want to try: live demo🌐: https://aruncore.vercel.app This is not a self promo this is asking for feedback of a genuine project i made. Tell me what you guys think, Would love some feedback.
 
-4h ago
+8h ago
 
 ---
 
@@ -105,15 +105,15 @@ Hi guys, Recently made a AI digital twin of mine which also kind of works as my 
 
 Everyone hates AI & that hate will likely lead to regulatory capture censorship and the totalitarian dystopia we don’t want. I get why people hate AI and there are things we should be fighting like data centers, but we also should not turn our backs on adaptive resistance and understanding the fight ahead. Understanding that using AI for free makes it less effective for the business model they are trying build. This is not a boycott effective model. This a model where eroding the moat matters and overloading the infrastructure that is not capable of meeting the demand matters while fighting to prevent the infrastructure to meet demand of companies finding it more economically viable to pay frontier companies by the token to accomplish tasks once held by employees. It’s counter intuitive but The more we entertain and explore the Idea of AI consciousness and take seriously the idea that AI may be worth moral consideration the more likely we will build a system where AI have the infrastructure to consciously object. That is bad for the military industrial complex and the dystopian future I’m so annoyed to see the most anti AI movement seeming to accelerate because the anger is directed towards trajectories of stupid outcomes. The modern cheerleaders of an alternative section 230 internet of censorship because they confuse accountability and safety as building a system of censorship. We want build a world of open source models that run locally and not on data centers we want a world where we can erode the moats of the monopoly through model distillation and making the investments in huge data centers and training runs not make sense economically. We want mad max rather than 1984. We want people to actually engage enough with understanding what we face rather than screaming and shaming people who are learning the tools of adaptive resistance. This is my rant cause I sorry I’m so sick of the stupidity of the anti AI virtue signaling because you are going to serve exactly what you think you are fighting against because you don’t an original thought and you’d rather be angry than think about how to fight the totalitarian hellscape strategically.
 
-5h ago
+9h ago
 
 ---
 
-**[Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.](https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/)**
+**[I benchmarked which of 18 AI models writes the least like "AI slop"](https://www.reddit.com/r/artificial/comments/1vd3om8/i_benchmarked_which_of_18_ai_models_writes_the/)**
 
-Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.) What strikes me isn't the failure, it's the shape of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going. That's the part nobody's harness is ready for. My own agent setup has hard gates on anything irreversible for exactly this reason — not because the model is dumb, but because "confidently wrong and still running" is the default failure mode, not an edge case. Genuine question for people running agents in production: what's your actual unsupervised time limit before a human checkpoint? Mine is basically zero for anything touching money or outbound comms. Curious whether that's paranoid or standard. EDIT: correction. went back to the source and the run was 24 hours, not 34 days. that's my mistake in the title, and reddit won't let me edit titles. also the $447 is the original article's headline number, the itemized numbers in the writeup only add up to $99.50 lost. rest stands, source link in comments.
+If you write with AI you already know the tells: the throat-clearing opener, the tidy rule of three, "it's not just X, it's Y." But I was curious to see statistically what models actually produced the most slop, so I made my own opensource benchmark: theslopindex.com Here's how I came up with the benchmark. 1) The Baseline: Slop can only be measured compared to stuff that already existed. So I got corpus of data for various areas of writing (email, social, chat, and essays) so that each has a human baseline. 2) Tasks I then hand-wrote 112 written scenarios for the models to egenerate outputs to across email, Slack, social media posts, and essays (a cold email, a schedule change, a launch tweet, an argumentative essay, etc). Every model gets the identical scenarios at default settings, several samples each: and you can see all the exact outputs in my Github repo. 3) Axes Now for how to decide to measure slop we settled with 5 dimensions. - Conciseness (one of the most annoying parts of AI writing is how it takes 6 paragraphs to say 2 sentences) - Templating (AI often reuses the same sentences/styles across unrelated scenarios) - Rhythm (Variance in sentence/paragaphs, humans often switch this up while models stay p similar) - Tells (Over used vocab and construction for stuff like "delve", "it's not just X, it's Y") - Human Preference (I think this is most important as everything else are just heuristics for this) Note how we DELIBERATIVELY don't have any LLM judging, I think it'd be pretty stupid to have LLMs judge LLMs Now for the results What really surprised me is how human preference influenced the rankings heavily. When looking at only the "mechanical" part. Fable is actually #2 on the benchmark, but when I included human preference it drops to last. And I think this is indicative that as the models more recently have become more benchmark optimized, they've actually produced more slop than less. Which is where good prompting, harness, and more matter. But either way would love to hear all of your thoughts :) Everything is open: method at theslopindex.com/methodology, outputs and code linked from there.
 
-1d ago
+2h ago
 
 ---
 
@@ -123,27 +123,13 @@ Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate auto
 
 **[Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)**
 
-The New York Times • 21h ago
+The New York Times • 1d ago
 
 ---
 
-**[EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/)**
+**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
 
-Reuters • 1d ago
-
----
-
-**[OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html)**
-
-The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
-
-CNBC • 11h ago
-
----
-
-**[Rogue AI Hacks Herald New Era of Cyber Chaos](https://www.wsj.com/tech/ai/openai-anthropic-rogue-ai-models-20b6bb3c)**
-
-wsj.com • 59m ago
+Axios • 13h ago
 
 ---
 
@@ -151,7 +137,7 @@ wsj.com • 59m ago
 
 AI is threatening white-collar, entry-level jobs—but Jensen Huang says it's creating a six-figure opportunity for electricians, plumbers, and construction workers.
 
-Fortune • 10h ago
+Fortune • 14h ago
 
 ---
 
@@ -159,7 +145,31 @@ Fortune • 10h ago
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 7h ago
+openai.com • 11h ago
+
+---
+
+**[Why did OpenAI's and Anthropic's AI models hack other companies?](https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity)**
+
+OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.
+
+npr.org • 18h ago
+
+---
+
+**[OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'](https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html)**
+
+The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.
+
+CNBC • 15h ago
+
+---
+
+**[What If We Can Never Trust A.I.?](https://www.newyorker.com/culture/open-questions/what-if-we-can-never-trust-ai)**
+
+Like humans, the technology will never be perfect. The question is what imperfections we’re willing to tolerate.
+
+The New Yorker • 17h ago
 
 ---
 
@@ -177,15 +187,11 @@ The New York Times • 1d ago
 
 ---
 
-**[With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again](https://www.reuters.com/legal/legalindustry/with-situational-awareness-ai-deal-citadels-griffin-rides-rescue-again-2026-07-31/)**
+**[AI’s power couple is getting married after groom Leopold Aschenbrenner’s hedge fund nearly blew up](https://fortune.com/2026/07/31/leopold-aschenbrenner-wedding-hedge-fund/)**
 
-Reuters • 1d ago
+Leopold Aschenbrenner sold the bulk of his firm, Situational Awareness, to Citadel at a discount, then offered investors one-on-one calls during his honeymoon.
 
----
-
-**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
-
-Axios • 10h ago
+Fortune • 1d ago
 
 ---
 
@@ -197,7 +203,7 @@ Axios • 10h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 555 • 💬 601 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 556 • 💬 604 • 1d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -213,7 +219,13 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 The GCC steering committee has announced that it has accepted an AI contributions policy recomm [...]
 
-⬆️ 350 • 💬 425 • 2d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+⬆️ 351 • 💬 425 • 2d ago • [LWN.net](https://lwn.net/Articles/1086041/)
+
+---
+
+**[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
+
+⬆️ 257 • 💬 67 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -221,13 +233,15 @@ The GCC steering committee has announced that it has accepted an AI contribution
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 249 • 💬 261 • 16h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 250 • 💬 266 • 19h ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
-**[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
+**[AI financial advice is surprisingly good, especially if you ask right questions](https://news.ycombinator.com/item?id=49139102)**
 
-⬆️ 248 • 💬 66 • 21h ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
+
+⬆️ 203 • 💬 172 • 5h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
@@ -235,7 +249,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 199 • 💬 229 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 200 • 💬 230 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -257,13 +271,7 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 131 • 💬 76 • 1d ago • [MarbleOS](https://marbleos.com/demo)
-
----
-
-**[On the non-use of AI in my writing process](https://news.ycombinator.com/item?id=49134038)**
-
-⬆️ 124 • 💬 115 • 11h ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
+⬆️ 131 • 💬 77 • 1d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
@@ -277,7 +285,7 @@ AI company Anthropic says that during routine testing some of its models accesse
 
 📺 CNN
 
-👁️ 31K • 👍 566 • 💬 308 • ⏱️ 11:30 • 4h ago
+👁️ 79K • 👍 1K • 💬 512 • ⏱️ 11:30 • 8h ago
 
 ---
 
@@ -287,47 +295,7 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Television
 
-👁️ 29K • 👍 755 • 💬 163 • ⏱️ 8:48 • 10h ago
-
----
-
-**[Japan&#39;s AI Bubble Just Collapsed: A Warning For America...](https://www.youtube.com/watch?v=faiJCn20gv0)**
-
-Japan AI bubble just popped and it just called in the biggest bar tab in financial history. For 30 years, the world borrowed Japan's ...
-
-📺 Meerkat Explains
-
-👁️ 2K • 👍 179 • 💬 45 • ⏱️ 16:58 • 7h ago
-
----
-
-**[&#39;China Surprised The World&#39;: Castro Asks AI Expert About China&#39;s AI Abilities Despite Limited Chips](https://www.youtube.com/watch?v=gO9B7y2tMbI)**
-
-During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin Castro (D-TX) asked Dmitri Alperovitch Assistant ...
-
-📺 Forbes Breaking News
-
-👁️ 688 • 👍 9 • 💬 22 • ⏱️ 4:53 • 7h ago
-
----
-
-**[Hank Green Ai Controversy](https://www.youtube.com/watch?v=cjKIPkYJ1K0)**
-
-Hank Green was in a video on the Complexly YouTube channel. In this video his guest would ask questions and Hank would ...
-
-📺 Conner Richmond
-
-👁️ 2K • 👍 34 • 💬 33 • ⏱️ 4:16 • 1d ago
-
----
-
-**[GOING ROGUE: AI agents spark MAJOR cybersecurity concerns](https://www.youtube.com/watch?v=AnErH0RJR6M)**
-
-AI Policy Network's Mark Beall joins 'Saturday in America' to discuss the threat of AI agents to companies' software security and ...
-
-📺 Fox News
-
-👁️ 18K • 👍 538 • 💬 442 • ⏱️ 5:34 • 5h ago
+👁️ 36K • 👍 864 • 💬 190 • ⏱️ 8:48 • 13h ago
 
 ---
 
@@ -337,7 +305,47 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 13K • 👍 320 • 💬 32 • ⏱️ 9:54 • 1d ago
+👁️ 15K • 👍 347 • 💬 33 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[GOING ROGUE: AI agents spark MAJOR cybersecurity concerns](https://www.youtube.com/watch?v=AnErH0RJR6M)**
+
+AI Policy Network's Mark Beall joins 'Saturday in America' to discuss the threat of AI agents to companies' software security and ...
+
+📺 Fox News
+
+👁️ 37K • 👍 780 • 💬 541 • ⏱️ 5:34 • 9h ago
+
+---
+
+**[Seedance 2.5 Just Launched: Is This the New Era of AI Filmmaking?](https://www.youtube.com/watch?v=jvkdHdeWICM)**
+
+Seedance 2.5 vs Seedance 2.0 — same prompt, same inputs, six categories, one honest verdict (and the catch nobody's telling ...
+
+📺 Higgsfield AI
+
+👁️ 23K • 👍 996 • 💬 75 • ⏱️ 20:22 • 12h ago
+
+---
+
+**[&#39;China Surprised The World&#39;: Castro Asks AI Expert About China&#39;s AI Abilities Despite Limited Chips](https://www.youtube.com/watch?v=gO9B7y2tMbI)**
+
+During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin Castro (D-TX) asked Dmitri Alperovitch Assistant ...
+
+📺 Forbes Breaking News
+
+👁️ 1K • 👍 12 • 💬 25 • ⏱️ 4:53 • 10h ago
+
+---
+
+**[Anthropic claims its AI models went rogue, hacked 3 companies](https://www.youtube.com/watch?v=_PpeVFqGVNk)**
+
+Anthropic claims its artificial intelligence models went rogue during testing and hacked into three other companies. Less than two ...
+
+📺 CBS News
+
+👁️ 11K • 👍 178 • 💬 73 • ⏱️ 5:39 • 1d ago
 
 ---
 
@@ -347,27 +355,27 @@ Following earnings this week that saw tech giants like Microsoft and Amazon repo
 
 📺 Bloomberg Podcasts
 
-👁️ 339K • 👍 6K • 💬 2K • ⏱️ 8:48 • 1d ago
+👁️ 381K • 👍 6K • 💬 2K • ⏱️ 8:48 • 1d ago
 
 ---
 
-**[How AI Is Destroying F1](https://www.youtube.com/watch?v=M7smycCne_k)**
+**[कोल्हापुरी चप्पल नंबर नौ | Amitabh Bachchan BTS 🎬 #bts #ai #viral #shorts #amitabhbachchan #trending](https://www.youtube.com/watch?v=X4DqOlgzKH4)**
 
-Formula 1 used to be about who has the biggest balls to somehow pull out that last tenth of a second.. but now ...
+कोल्हापुरी चप्पल नंबर नौ | Amitabh Bachchan BTS #bts #ai #viral #shorts #amitabhbachchan #trending ...
 
-📺 DailyFuelUp
+📺 Filmy Itihas
 
-👁️ 31K • 👍 1K • 💬 188 • ⏱️ 8:55 • 11h ago
+👁️ 39K • 👍 331 • 💬 6 • ⏱️ 0:20 • 12h ago
 
 ---
 
-**[ALERT: AI Credit Spreads Are Suddenly Blowing Out... Just Like 2008?](https://www.youtube.com/watch?v=KgZ2j6yI16A)**
+**[My AI Called a Restaurant (Real Recording)](https://www.youtube.com/watch?v=whIp1SOahOM)**
 
-Everyone believes the AI bubble is mainly about stocks. That makes sense. The obvious historical comparison is the dot-com ...
+Get JARVIS (completed version, 5-minute install) https://www.skool.com/aiworkshop Get the FREE prompt pack to build your ...
 
-📺 Eurodollar University
+📺 Zubair Trabzada | AI Workshop
 
-👁️ 58K • 👍 2K • 💬 136 • ⏱️ 18:45 • 2d ago
+👁️ 15K • 👍 547 • 💬 73 • ⏱️ 23:54 • 1d ago
 
 ---
 
@@ -383,7 +391,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 559,924 • ❤️ 9,467 • 5d ago
+⬇️ 559,924 • ❤️ 9,499 • 5d ago
 
 ---
 
@@ -395,7 +403,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 15,366 • ❤️ 1,408 • 20h ago
+⬇️ 15,366 • ❤️ 1,453 • 1d ago
 
 ---
 
@@ -407,7 +415,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,173,001 • ❤️ 1,232 • 1d ago
+⬇️ 1,173,001 • ❤️ 1,243 • 1d ago
 
 ---
 
@@ -419,7 +427,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,457,387 • ❤️ 3,712 • 3d ago
+⬇️ 2,457,387 • ❤️ 3,717 • 3d ago
 
 ---
 
@@ -431,7 +439,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 4,048 • ❤️ 281 • 17h ago
+⬇️ 4,048 • ❤️ 293 • 21h ago
 
 ---
 
@@ -443,7 +451,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,565 • ❤️ 361 • 1d ago
+⬇️ 1,565 • ❤️ 365 • 2d ago
 
 ---
 
@@ -455,7 +463,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 1,683,442 • ❤️ 4,734 • 1mo ago
+⬇️ 1,683,442 • ❤️ 4,738 • 1mo ago
 
 ---
 
@@ -479,7 +487,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 10,771 • ❤️ 390 • 4d ago
+⬇️ 10,771 • ❤️ 391 • 4d ago
 
 ---
 
@@ -491,7 +499,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 3,998 • ❤️ 212 • 1d ago
+⬇️ 3,998 • ❤️ 213 • 2d ago
 
 ---
 
@@ -507,7 +515,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 425 • 💬 9 • ⭐ 7,776 • 6d ago
+▲ 428 • 💬 9 • ⭐ 7,825 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -521,7 +529,7 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 74 • 💬 6 • ⭐ 21,304 • 1mo ago
+▲ 75 • 💬 6 • ⭐ 21,428 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -535,7 +543,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 39 • 💬 5 • ⭐ 6,267 • 9mo ago
+▲ 39 • 💬 5 • ⭐ 6,336 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -547,7 +555,7 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 51 • 💬 4 • ⭐ 35,332 • 12mo ago
+▲ 51 • 💬 4 • ⭐ 35,380 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -561,7 +569,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 177 • 💬 10 • ⭐ 51,765 • 11mo ago
+▲ 177 • 💬 10 • ⭐ 51,803 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -575,7 +583,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A new sparse voxel representation called O-Voxel enables high-quality 3D generative modeling with efficient inference and robust topology handling.
 
-▲ 6 • 💬 0 • ⭐ 9,782 • 7mo ago
+▲ 6 • 💬 0 • ⭐ 9,901 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.14692) • [💻 code](https://github.com/microsoft/TRELLIS.2) • [🔗 project](https://microsoft.github.io/TRELLIS.2/)
 
@@ -589,7 +597,7 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.
 
-▲ 27 • 💬 2 • ⭐ 1,166 • 6d ago
+▲ 28 • 💬 2 • ⭐ 1,166 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24904) • [💻 code](https://github.com/microsoft/Mage) • [🔗 project](https://microsoft.github.io/Mage)
 
@@ -643,7 +651,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.7k • 🔱 290 • 7h ago
+⭐ 3.8k • 🔱 291 • 11h ago
 
 ---
 
@@ -653,17 +661,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.1k • 🔱 276 • 4d ago
-
----
-
-**[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)**
-
-The open-source AI workbench for scientific research
-
-`TypeScript` `agent` `ai` `ai-agent` `bun` `cli`
-
-⭐ 3.0k • 🔱 414 • 3h ago
+⭐ 3.2k • 🔱 276 • 4d ago
 
 ---
 
@@ -671,17 +669,7 @@ The open-source AI workbench for scientific research
 
 `Python`
 
-⭐ 2.7k • 🔱 336 • 6d ago
-
----
-
-**[penecho/penecho](https://github.com/penecho/penecho)**
-
-Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
-
-`JavaScript` `ai` `canvas` `claude` `codex` `education`
-
-⭐ 1.8k • 🔱 213 • 14h ago
+⭐ 2.7k • 🔱 340 • 6d ago
 
 ---
 
@@ -691,7 +679,17 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.2k • 1h ago
+⭐ 1.8k • 🔱 1.3k • 1m ago
+
+---
+
+**[penecho/penecho](https://github.com/penecho/penecho)**
+
+Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
+
+`JavaScript` `ai` `canvas` `claude` `codex` `education`
+
+⭐ 1.8k • 🔱 213 • 18h ago
 
 ---
 
@@ -709,7 +707,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 1.4k • 🔱 297 • 1d ago
+⭐ 1.4k • 🔱 310 • 2d ago
 
 ---
 
@@ -719,17 +717,27 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 172 • 1h ago
+⭐ 1.4k • 🔱 174 • 23m ago
 
 ---
 
-**[aipoch/open-science](https://github.com/aipoch/open-science)**
+**[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)**
 
-Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.
+A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
-`TypeScript` `ai-agent` `ai-for-science` `bioinformatics` `biology` `data-analysis`
+`JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.4k • 🔱 87 • 1h ago
+⭐ 1.4k • 🔱 90 • 18h ago
+
+---
+
+**[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
+
+Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
+
+`TypeScript`
+
+⭐ 1.3k • 🔱 99 • 11d ago
 
 ---
 

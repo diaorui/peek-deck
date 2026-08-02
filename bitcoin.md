@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-01T23:59:57.985334+00:00'
+updated: '2026-08-02T03:42:43.388732+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 01, 2026 at 23:59 UTC  
+**Last Updated:** August 02, 2026 at 03:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,830.79
+### $63,449.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.9%  
-**30d:** +0.3%  
-**90d:** -21.3%  
-**1y:** -44.3%  
+**24h:** +0.6%  
+**7d:** -0.4%  
+**30d:** +0.5%  
+**90d:** -21.6%  
+**1y:** -44.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1259.81B
+**Market Cap:** $1272.60B
 Rank #1
 
-**Circulating Supply:** 20,064,440 BTC
+**Circulating Supply:** 20,064,537 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-49.7%
 
 **All-Time Low:** $67.81
-+92494.0%
++93424.6%
 
 ---
 
@@ -85,7 +85,7 @@ A total of 1,367.05 BTC has been stolen from 4,585 addresses so far, according t
 
 Users are urged to review the company's official security guidance as soon as possible‼
 
-🔗 [X (formerly Twitter)](https://x.com/BitcoinMagazine/status/2083634238104940884) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/BitcoinMagazine/status/2083634238104940884) • 7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Users are urged to review the company's official security guidance as soon as po
 
 Hi, Yesterday was one of the worst days of my life. I found out that just over 3 BTC was stolen from me through the Coldcard vulnerability. I know some people think posts like this are fake. Mine isn’t. Real people are getting hurt by these thieves. I did what I thought was the responsible thing. Back in 2022 everyone said the same stuff, get it off exchanges, get it into cold storage, use the best hardware wallet you can. Coldcard had a reputation as one of the best. It wasn’t the easiest thing to use but honestly that kind of made me trust it more. So I moved everything onto it. For years I DCA’d $250 a week, plus bigger amounts when I could. Never touched it, never even checked on it. I thought I was doing the smart, boring, responsible thing. Now it’s just gone. All of it. Looking back I probably should’ve split it across wallets, or maybe just left it on Coinbase. I already know the multisig and don’t put it all in one place comments are coming and yeah, that’s probably good advice. But I did what I thought was right at the time based on what everyone in this space was telling me to do. That’s what makes this sting so bad. I’m angry and honestly feel sick about it. Not sure what to do next. Posting this so people know it’s actually happening to real people. Happy to answer questions if anyone has them, and if you own a Coldcard, go check on it right now.
 
-2h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hi, Yesterday was one of the worst days of my life. I found out that just over 3
 
 I see a lot of people here wondering what to do at this point and whether trusting Coinkite moving forward is possible. Here is my take: Unforgivable sin #1 This bug was a integration mistake, not a complex crypto flaw. It should have been easily caught by basic build time assertions. It's a huge oversight and unforgivable for a company whose very existence is based on security. Unforgivable sin #2 The most damning issue here is that Coinkite, a company that primary and ONLY premise is the development of a secure HARDWARE device does not test the output of that hardware at runtime. The fact that they didn't check that the output produced by the seed generator passed through standard randomness battery tests is wild! They would have instantly noticed that the outputs were coming from a deterministic PRNG if they bothered to test. Unforgivable sin #3 At the end of the day, a hardware wallet only has one job. Generate true randomness. All coldcard wallets failed at this. Yes, you could say the bug is hard to spot, especially when doing static code analysis. The code is open source and has been subject to audits, but integration tests should have discovered this flaw before the affected firmware was ever published. The theory that this bug was discovered by AI is also a side track and completely irrelevant. This was not a complex vulnerability. https://np.reddit.com/r/coldcard/comments/1vcfugv/coinkite_is_done_for_here_is_why/ Edit (more details): ColdCard migrated to a different elliptic curve library in 2021. That library had a fallback to a software PRNG. The code checked if a specifc macro was defined (MICROPY_HW_ENABLE_RNG). If the macro was defined but set to a value of 1, the library would use it's generic STM32 driver for RNG. If the macro was not defined, the compiler would throw an error, forcing devs to fix it. In this case, the macro was defined but set to a value of 0. That bypassed the compiler error but resulted in the library using it's fallback software RNG instead. Coinkite erroneously assumed setting the value to 0 would tell the library to disable it's internal RNG driver and let the custom board-level RNG driver handle all entropy calls across the entire system. In the hot fix Coinkite has a script that checks the generated symbol table and asserts that whether the rng_get() symbol originates from the coldcard board directory and throws an error otherwise. There are several other ways they could accomplish the same thing. https://np.reddit.com/r/coldcard/comments/1vcfugv/coinkite_is_done_for_here_is_why/p11ge3v/
 
-6h ago
+10h ago
 
 ---
 
@@ -109,13 +109,13 @@ I see a lot of people here wondering what to do at this point and whether trusti
 
 I still cant belive what happend honestly. Im still in shock. I had 3.533382 BTC that i moved into my Coldcard because everyone always says hardware wallets are the safest. I thought i was doing everything right and taking security serious. 2 days ago, i checked my wallet and it was just gone. All 3.533382 BTC gone. I kept refreshing thinking maybe it was some bug or something but nope. The transaction was already confirmed and there was nothing i could do. I honestly dont even know what went wrong. Ive been replaying everything i did over and over in my head trying to figure it out. I barely slept since it happend. That wasnt just money to me, it was years of saving little by little. Im not posting this for pity, just because i honestly feel sick and i dont want anyone else going through this if they can avoid it. If anyone has any idea what could of happend im open to hearing it because right now im completely lost.
 
-4h ago
+8h ago
 
 ---
 
 **[11 minute supercut of Bitcoin influencers big and small shilling Coldcard](https://www.reddit.com/r/Bitcoin/comments/1vco15y/11_minute_supercut_of_bitcoin_influencers_big_and/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ I still cant belive what happend honestly. Im still in shock. I had 3.533382 BTC
 
 Can we all finally come to a consensus that leaving your coin on an exchange or buying ETFs may not be a bad idea for like 90% of bitcoin holders? For years i was mocked for leaving my coins on an exchange, yet I haven't had issues with stolen or hacked coins one bit.
 
-11h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ Can we all finally come to a consensus that leaving your coin on an exchange or 
 
 I think everyone is missing the economics of this attack. The attacker isn’t trying to brute-force your passphrase. They’re generating vulnerable seeds as fast as possible and checking whether those seeds control any bitcoin. The moment you add a BIP-39 passphrase, every candidate seed now requires deriving and checking an additional wallet. Even a passphrase that would only take an hour to brute-force in isolation completely destroys the attacker’s throughput when applied across millions or billions of candidate seeds. Realistically, they’ll check no passphrase, and maybe a tiny list of extremely common ones. Anything beyond that makes the attack economically unattractive. That’s why I suspect the overwhelming majority of victims will turn out to be users who didn’t use a BIP-39 passphrase at all.
 
-8h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ I think everyone is missing the economics of this attack. The attacker isn’t t
 
 I believed in Bitcoin. Holding it gave me peace of mind because my country has faced several FATF sanctions. I was glad to find a kind of money that cannot be censored or debased because I just want to protect myself from the money printing and my country's weak and inflated currency comapred to the dollar. I’m 39, and I was hoping to have a good financial cushion before 50. But today, my 2 BTC were drained. Losing my Bitcoin has changed my mindset. It’s no longer about finishing the race first. At this point, I just want to finish it. But losing my BTC feels like I’m back at the starting line. I lost years of hard work and time. I thought I was secure because Cold Card was always praised as one of the best and most secure wallets. It’s open source, so anyone can verify. I’m done with Bitcoin. I’m not even sure if I still believe in it. I don’t know what the future holds for it anymore. I could have stayed with traditional investments and lived a normal life. Maybe I should have just moved everything into a Bitcoin ETF when they launched. But I don't know. It's too late to do it. To everyone who has lost their BTC, I wish you the best and good health. I hope you find the strength to start again.
 
-11h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ I believed in Bitcoin. Holding it gave me peace of mind because my country has f
 
 I can’t believe how many people leave mean comments, gloating about how they always knew that Bitcoin is a scam, and so on. Seriously, how sad of a life one must live to be happy about the misfortunes of others? Some people have lost important amounts of BTC, including people from poor countries or poor backgrounds who will suffer for years as a result of this. If someone feels like gloating is the right thing to do here, why don’t you go to the ICU of the closest hospital and laugh about sick and dying patients? It wouldn’t be much different, think about that.
 
-1h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ I can’t believe how many people leave mean comments, gloating about how they a
 
 I was too lazy to set it up... My laziness prevented me from losing everything... My heart goes out to everyone that lost their coins.
 
-4h ago
+8h ago
 
 ---
 
@@ -167,63 +167,35 @@ I was too lazy to set it up... My laziness prevented me from losing everything..
 
 A Coldcard firmware flaw weakens wallet seed generation across five models, while Galaxy links a 1,196-address, $70.2 million sweep to the bug.
 
-The Hacker News • 6h ago
+The Hacker News • 10h ago
 
 ---
 
-**[Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)**
+**[Strategy Announces Second Quarter Financial Results; Currently Holds 843,775 Bitcoin; Now the Largest Institutional Holder Globally](https://www.businesswire.com/news/home/20260730035038/en/Strategy-Announces-Second-Quarter-Financial-Results-Currently-Holds-843775-Bitcoin-Now-the-Largest-Institutional-Holder-Globally)**
 
-Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
-
-CoinDesk • 3h ago
+Business Wire • 2d ago
 
 ---
 
-**[Coldcard Hacked for $70M: How Do You Keep Bitcoin Safe if Cold Wallets Can Be Hacked?](https://247wallst.com/investing/cryptocurrency/2026/08/01/coldcard-hacked-for-70m-how-do-you-keep-bitcoin-safe-if-cold-wallets-can-be-hacked/)**
+**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
 
-Hackers drained $70M from Coldcard wallets without touching a device. Here's how actually keep your Bitcoin safe when cold storage fails.
-
-24/7 Wall St. • 10h ago
-
----
-
-**[Bitcoin Falls To 3-Week Low—Here’s Why](https://www.forbes.com/sites/tylerroush/2026/07/31/bitcoin-hits-3-week-low-as-strategy-plans-5-billion-sale/)**
-
-The largest institutional holder of bitcoin has shifted to selling its position in recent months.
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin’s $437 Billion Quantum Exposure Meets IBM’s 2028 Deadline](https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html)**
-
-IBM CEO Arvind Krishna sees quantum revenue by 2028, tightening the clock on Bitcoin's $437 billion exposed supply.
+Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[History Says That Bitcoin Is an Unbelievable Bargain Right Now](https://www.fool.com/investing/2026/08/01/history-says-that-bitcoin-is-a-bargain-now/)**
+**[Chinese police AI algorithm tracks bitcoin money laundering with 90% accuracy](https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy)**
 
-Bitcoin could be nearing the end of its current cycle of boom and bust, making it an attractive buy.
-
-The Motley Fool • 4h ago
+South China Morning Post • 1h ago
 
 ---
 
-**[Bitcoin scam targets Montgomery County, Pennsylvania, residents](https://www.cbsnews.com/philadelphia/video/bitcoin-scam-targets-montgomery-county-pennsylvania-residents/)**
+**[Bitcoin vs. XRP: Which Is the Better Long-Term Buy?](https://www.fool.com/investing/2026/08/01/bitcoin-vs-xrp-which-is-the-better-long-term-buy/)**
 
-Warning notices are being posted on Bitcoin ATMs around Montgomery County after scammers impersonating the local sheriff's office took thousands of dollars from residents under the ruse that the victims owed court fees.
+Both cryptocurrencies have been around for a long time, but they can still fall out of favor.
 
-CBS News • 6h ago
-
----
-
-**[Exclusive | How bitcoin ransom in Nancy Guthrie case could still hold ‘valuable’ evidence 6 months after kidnapping](https://pagesix.com/2026/08/01/celebrity-news/how-bitcoin-ransom-in-nancy-guthrie-case-could-hold-valuable-evidence-6-months-after-kidnapping/)**
-
-Several alleged ransom notes surfaced after Savannah Guthrie’s 84-year-old mom was reported missing from her Tucson-area home on Feb. 1.
-
-Page Six • 12h ago
+fool.com • 17h ago
 
 ---
 
@@ -231,15 +203,37 @@ Page Six • 12h ago
 
 Bitcoin price fell by about 2% to $63,039, underperforming a slightly negative broader market, primarily driven by renewed institutional selling press
 
-MarketForces Africa • 9h ago
+MarketForces Africa • 13h ago
 
 ---
 
-**[US Closes in on Iran’s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies](https://bitcoinmagazine.com/news/us-sanctions-iran-companies-using-bitcoin)**
+**[Exclusive | How bitcoin ransom in Nancy Guthrie case could still hold ‘valuable’ evidence 6 months after kidnapping](https://pagesix.com/2026/08/01/celebrity-news/how-bitcoin-ransom-in-nancy-guthrie-case-could-hold-valuable-evidence-6-months-after-kidnapping/)**
 
-The US is sanctioned Iranian companies using Bitcoin to dodge sanctions.
+Several alleged ransom notes surfaced after Savannah Guthrie’s 84-year-old mom was reported missing from her Tucson-area home on Feb. 1.
 
-bitcoinmagazine.com • 1d ago
+Page Six • 16h ago
+
+---
+
+**[Why Jordi Visser Calls Bitcoin 'The Best Hedge Fund Ever' After Aschenbrenner's Collapse](https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-best-hedge-fund-aschenbrenner/cZ8U5b3RJ5X)**
+
+Bitcoin ended July near $62,800 and consolidated in the low-to-mid $60,000s, below its 200-week moving average.
+
+Stocktwits • 10h ago
+
+---
+
+**[Strategy Swings to Loss as Bitcoin Price Declines](https://www.wsj.com/finance/currencies/strategy-swings-to-loss-as-bitcoin-price-declines-85b90fcb)**
+
+WSJ • 2d ago
+
+---
+
+**[America Broke a 28-Year Rule to Save the Yen and Bitcoin Felt It First](https://beincrypto.com/bitcoin-us-yen-intervention-1998/)**
+
+Bitcoin fell near $63,000 as the US bought yen for the first time since 1998, reviving carry trade unwind risk.
+
+BeInCrypto • 17h ago
 
 ---
 
@@ -317,7 +311,7 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 **[The case for a lunar biocontainment facility](https://news.ycombinator.com/item?id=49134411)**
 
-⬆️ 1 • 💬 0 • 10h ago • [link.springer.com](https://link.springer.com/article/10.1007/s13280-026-02428-5)
+⬆️ 2 • 💬 0 • 13h ago • [link.springer.com](https://link.springer.com/article/10.1007/s13280-026-02428-5)
 
 ---
 
@@ -325,53 +319,43 @@ The open standard for proving any file is real, unaltered and sealed - letsseal/
 
 ## YouTube Videos: "bitcoin"
 
-**[DARKEST Moment in Bitcoin HAPPENING NOW!! (ACT QUICKLY)](https://www.youtube.com/watch?v=NX1q7Xj4eAE)**
-
-Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first $100 ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 123 • ⏱️ 14:52 • 1d ago
-
----
-
 **[Bitcoin Is The Best Hedge Fund That&#39;s Ever Existed](https://www.youtube.com/watch?v=03S1ECNLBnA)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 29K • 👍 1K • 💬 10 • ⏱️ 59:51 • 10h ago
+👁️ 35K • 👍 2K • 💬 10 • ⏱️ 59:51 • 14h ago
 
 ---
 
-**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
+**[DARKEST Moment in Bitcoin HAPPENING NOW!! (ACT QUICKLY)](https://www.youtube.com/watch?v=NX1q7Xj4eAE)**
 
-ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
+Bitcoin Holders... ACT QUICKLY! ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first $100 ...
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 17K • 👍 791 • 💬 142 • ⏱️ 22:31 • 1d ago
-
----
-
-**[Bitcoin: The End of July](https://www.youtube.com/watch?v=7vNA0geUryY)**
-
-Let's talk about Bitcoin! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 84K • 👍 4K • 💬 141 • ⏱️ 7:41 • 2d ago
+👁️ 39K • 👍 2K • 💬 127 • ⏱️ 14:52 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
+**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
 
-No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
 
-📺 Gareth Soloway
+📺 Altcoin Daily
 
-👁️ 53K • 👍 4K • 💬 291 • ⏱️ 14:35 • 1d ago
+👁️ 13K • 👍 1K • 💬 99 • ⏱️ 26:54 • 6h ago
+
+---
+
+**[$71 Million Bitcoin Attack - They Bought Anyway](https://www.youtube.com/watch?v=OCHRrNVwF38)**
+
+Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.com More than $71 million worth of Bitcoin has now ...
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 167 • 💬 139 • ⏱️ 17:03 • 5h ago
 
 ---
 
@@ -381,7 +365,47 @@ A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin h
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 396 • ⏱️ 16:44 • 1d ago
+👁️ 19K • 👍 1K • 💬 396 • ⏱️ 16:44 • 1d ago
+
+---
+
+**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
+
+ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
+
+📺 Digital Asset News
+
+👁️ 18K • 👍 820 • 💬 145 • ⏱️ 22:31 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Hidden Cycle Signal (35K Warning) - Gareth Soloway](https://www.youtube.com/watch?v=cGsk3fYoag8)**
+
+No B.S. Just Charts. Gareth Soloway breaks down a deep-dive Bitcoin cycle analysis, covering both the near-term setup and the ...
+
+📺 Gareth Soloway
+
+👁️ 55K • 👍 4K • 💬 312 • ⏱️ 14:35 • 1d ago
+
+---
+
+**[🚨 YOUR BITCOIN IS GONE?!?!?!?!?!](https://www.youtube.com/watch?v=a4qCeNeE1uQ)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 12K • 👍 754 • 💬 609 • ⏱️ 12:12 • 1d ago
+
+---
+
+**[$15 Trillion Bitcoin Reversal - BlackRock Just Flipped](https://www.youtube.com/watch?v=XFl0ibNYORk)**
+
+Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.com Bitcoin fell sharply after news broke that more than ...
+
+📺 Bitcoin News Alerts
+
+👁️ 5K • 👍 245 • 💬 132 • ⏱️ 17:05 • 1d ago
 
 ---
 
@@ -391,37 +415,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 196 • 💬 12 • ⏱️ 15:37 • 1d ago
-
----
-
-**[Saturday Bitcoin Update: Weekend Volatility Is Loading Stay Alert](https://www.youtube.com/watch?v=IN-sCt_lgPM)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 2K • 👍 292 • 💬 16 • ⏱️ 1:10:23 • 6h ago
-
----
-
-**[The Latest On The Coldcard Disaster (Steps You Can Take Now)](https://www.youtube.com/watch?v=eGkMQWExPL0)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the Coldcard disaster in more detail, ...
-
-📺 Bitcoin University
-
-👁️ 21K • 👍 2K • 💬 847 • ⏱️ 15:46 • 1d ago
-
----
-
-**[Why 1 Bitcoin Is The New $1,000,000,000](https://www.youtube.com/watch?v=BkQ4LQXIaHw)**
-
-There are more than 3000 billionaires in the world and the list adds a new one almost every day, but there's one club running the ...
-
-📺 Brandon Keys - Green Candle
-
-👁️ 541 • 👍 61 • 💬 28 • ⏱️ 13:38 • 7h ago
+👁️ 4K • 👍 197 • 💬 10 • ⏱️ 15:37 • 1d ago
 
 ---
 
