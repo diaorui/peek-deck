@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T21:57:42.194076+00:00'
+updated: '2026-08-02T23:00:05.761596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 21:57 UTC  
+**Last Updated:** August 02, 2026 at 23:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -0.2%  
-**30d:** +6.1%  
-**90d:** -20.0%  
-**1y:** -46.0%  
+**24h:** +2.0%  
+**7d:** -0.6%  
+**30d:** +5.7%  
+**90d:** -20.3%  
+**1y:** -46.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.07B
+**Market Cap:** $226.93B
 Rank #2
 
 **Circulating Supply:** 120,682,254 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+434456.9%
++434182.0%
 
 ---
 
@@ -162,15 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 4h ago
-
----
-
-**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
-
-Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
-
-The Block • 2d ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -182,15 +174,17 @@ TradingView • 2d ago
 
 ---
 
-**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
+**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
 
-thestreet.com • 2d ago
+Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
+
+The Block • 2d ago
 
 ---
 
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-MarketWatch • 2d ago
+thestreet.com • 2d ago
 
 ---
 
@@ -214,7 +208,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -223,6 +217,14 @@ CryptoSlate • 20h ago
 ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
 
 Benzinga • 3d ago
+
+---
+
+**[Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html)**
+
+Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -236,37 +238,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 10K • 👍 524 • 💬 81 • ⏱️ 15:24 • 9h ago
+👁️ 12K • 👍 579 • 💬 85 • ⏱️ 15:24 • 10h ago
 
 ---
 
-**[Is the Ethereum Top In? The Level That Decides](https://www.youtube.com/watch?v=jqB1yRvWqAI)**
+**[BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZlXb0XqHLQ4)**
 
-In this video I break down the latest Ethereum price action and analyze the potential path for ETH as it tests critical support levels.
+BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 162 • 💬 5 • ⏱️ 4:53 • 7h ago
-
----
-
-**[ETHEREUM PREDICTION FOR NEXT WEEK! (ETH Update)](https://www.youtube.com/watch?v=mUEGUJ16Oyg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 425 • 👍 18 • 💬 211 • ⏱️ 4:29 • 12h ago
-
----
-
-**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
-
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 342 • ⏱️ 26:54 • 1d ago
+👁️ 1K • 👍 124 • 💬 152 • ⏱️ 18:28 • 1h ago
 
 ---
 
@@ -276,17 +258,37 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 9K • 👍 447 • 💬 763 • ⏱️ 14:47 • 23h ago
+👁️ 10K • 👍 451 • 💬 810 • ⏱️ 14:47 • 1d ago
 
 ---
 
-**[Before You Buy Ethereum, Look at This First](https://www.youtube.com/watch?v=fNlSyCH4ikM)**
+**[Is the Ethereum Top In? The Level That Decides](https://www.youtube.com/watch?v=jqB1yRvWqAI)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+In this video I break down the latest Ethereum price action and analyze the potential path for ETH as it tests critical support levels.
 
-📺 Milk Road
+📺 More Crypto Online
 
-👁️ 2K • 👍 58 • 💬 137 • ⏱️ 13:19 • 1d ago
+👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:53 • 8h ago
+
+---
+
+**[ETHEREUM PREDICTION FOR NEXT WEEK! (ETH Update)](https://www.youtube.com/watch?v=mUEGUJ16Oyg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 499 • 👍 20 • 💬 210 • ⏱️ 4:29 • 13h ago
+
+---
+
+**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
+
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 2K • 💬 332 • ⏱️ 26:54 • 1d ago
 
 ---
 
@@ -296,27 +298,17 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 354 • 💬 29 • ⏱️ 10:08 • 1d ago
+👁️ 6K • 👍 357 • 💬 29 • ⏱️ 10:08 • 1d ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=Zxcyl3zrlOY)**
+**[Before You Buy Ethereum, Look at This First](https://www.youtube.com/watch?v=fNlSyCH4ikM)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in India just levelled up eXchange1 is ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Ashutosh Kumar
+📺 Milk Road
 
-👁️ 8K • 👍 985 • 4h ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
-
-BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 281 • 💬 488 • ⏱️ 21:52 • 22h ago
+👁️ 2K • 👍 59 • 💬 137 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -326,7 +318,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 534 • 💬 417 • ⏱️ 11:29 • 2d ago
+👁️ 11K • 👍 535 • 💬 417 • ⏱️ 11:29 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
+
+BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 285 • 💬 494 • ⏱️ 21:52 • 23h ago
 
 ---
 
