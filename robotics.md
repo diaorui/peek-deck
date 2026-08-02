@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T18:06:21.308537+00:00'
+updated: '2026-08-02T19:43:34.979744+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 18:06 UTC  
+**Last Updated:** August 02, 2026 at 19:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[how to build accelerator kit for robotics using Isaac sim and isaac lab](https://www.reddit.com/r/robotics/comments/1vb3ukp/how_to_build_accelerator_kit_for_robotics_using/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -110,6 +110,12 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
+**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
+
+South China Morning Post • 13h ago
+
+---
+
 **[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
 The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
@@ -126,25 +132,11 @@ Google DeepMind • 3d ago
 
 ---
 
-**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
 
-Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
 
-The Robot Report • 5h ago
-
----
-
-**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
-
-Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
-
-Business Insider • 1d ago
-
----
-
-**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
-
-South China Morning Post • 12h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -156,11 +148,35 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
+**[Tau Robotics launches humanoid robot home cleaning service in San Francisco](https://www.yahoo.com/news/videos/tau-robotics-launches-humanoid-robot-010804608.html)**
+
+Tau Robotics is offering humanoid robot cleaning services to selected applicants, with robots that can vacuum, clean counters and take out the trash.
+
+Yahoo • 18h ago
+
+---
+
+**[Lazy bones rejoice as SF robotics company introduces house-cleaning robot](https://nypost.com/2026/07/31/us-news/san-francisco-robotics-company-introduces-house-cleaning-robot/)**
+
+To start, the company is offering the robots to a selected group of applicants in San Francisco at a rate of $30 an hour.
+
+New York Post • 1d ago
+
+---
+
+**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
+
+Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
+
+businessinsider.com • 1d ago
+
+---
+
 **[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
 They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-morningbrew.com • 1d ago
+Morning Brew • 1d ago
 
 ---
 
@@ -169,22 +185,6 @@ morningbrew.com • 1d ago
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
 PYMNTS.com • 1d ago
-
----
-
-**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
-
-This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Tau Robotics launches humanoid robot home cleaning service in San Francisco](https://www.yahoo.com/news/videos/tau-robotics-launches-humanoid-robot-010804608.html)**
-
-Tau Robotics is offering humanoid robot cleaning services to selected applicants, with robots that can vacuum, clean counters and take out the trash.
-
-Yahoo • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ Robots are doing more and more for us these days but can they clean windows? Eco
 
 📺 Proper DIY - Tools & Effect
 
-👁️ 29K • 👍 2K • 💬 175 • ⏱️ 12:29 • 11h ago
+👁️ 29K • 👍 2K • 💬 175 • ⏱️ 12:29 • 12h ago
 
 ---
 
@@ -224,7 +224,7 @@ Robots are doing more and more for us these days but can they clean windows? Eco
 
 📺 David Nino Rodriguez
 
-👁️ 2K • 👍 208 • 💬 12 • ⏱️ 0:32 • 54m ago
+👁️ 2K • 👍 208 • 💬 12 • ⏱️ 0:32 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 2K • 👍 152 • 💬 9 • ⏱️ 9:14 • 5h ago
+👁️ 2K • 👍 152 • 💬 9 • ⏱️ 9:14 • 6h ago
 
 ---
 
@@ -274,7 +274,7 @@ Can a $500 robot goalkeeper stop a real soccer shot? ⚽ This kid decided to fin
 
 📺 Shutter Hype
 
-👁️ 5K • 💬 14 • ⏱️ 0:34 • 5h ago
+👁️ 5K • 💬 14 • ⏱️ 0:34 • 6h ago
 
 ---
 

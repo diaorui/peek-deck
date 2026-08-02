@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T18:06:21.305276+00:00'
+updated: '2026-08-02T19:43:34.977524+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 18:06 UTC  
+**Last Updated:** August 02, 2026 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -1.1%  
-**30d:** +5.1%  
-**90d:** -20.8%  
-**1y:** -46.5%  
+**24h:** +2.2%  
+**7d:** -0.8%  
+**30d:** +5.5%  
+**90d:** -20.5%  
+**1y:** -46.3%  
 
 ---
 
@@ -162,15 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 39m ago
-
----
-
-**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
-
-Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
-
-The Block • 2d ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -182,9 +174,23 @@ TradingView • 1d ago
 
 ---
 
+**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
+
+Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
+
+theblock.co • 2d ago
+
+---
+
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
 thestreet.com • 2d ago
+
+---
+
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+marketwatch.com • 2d ago
 
 ---
 
@@ -192,7 +198,7 @@ thestreet.com • 2d ago
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 22h ago
+blockchain.news • 1d ago
 
 ---
 
@@ -208,7 +214,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 16h ago
+cryptoslate.com • 18h ago
 
 ---
 
@@ -217,14 +223,6 @@ CryptoSlate • 16h ago
 ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
 
 Benzinga • 3d ago
-
----
-
-**[Total crypto market adds over $130B in 30 days, and nobody can pinpoint why](https://cryptobriefing.com/crypto-market-adds-130b-30-days/)**
-
-The total crypto market cap surged over $130 billion in 30 days without a clear catalyst, as Bitcoin and Ethereum led a broad accumulation-driven
-
-Crypto Briefing • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 419 • 💬 66 • ⏱️ 15:24 • 5h ago
+👁️ 6K • 👍 419 • 💬 66 • ⏱️ 15:24 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 142 • 💬 60 • ⏱️ 4:53 • 3h ago
+👁️ 1K • 👍 142 • 💬 60 • ⏱️ 4:53 • 5h ago
 
 ---
 
@@ -258,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 18 • 💬 211 • ⏱️ 4:29 • 9h ago
+👁️ 342 • 👍 18 • 💬 211 • ⏱️ 4:29 • 10h ago
 
 ---
 
@@ -268,7 +266,7 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 9K • 👍 448 • 💬 666 • ⏱️ 14:47 • 20h ago
+👁️ 9K • 👍 448 • 💬 666 • ⏱️ 14:47 • 21h ago
 
 ---
 
@@ -278,7 +276,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 333 • ⏱️ 26:54 • 20h ago
+👁️ 40K • 👍 2K • 💬 333 • ⏱️ 26:54 • 22h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 273 • 💬 492 • ⏱️ 21:52 • 18h ago
+👁️ 7K • 👍 273 • 💬 492 • ⏱️ 21:52 • 20h ago
 
 ---
 
