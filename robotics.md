@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T03:42:43.395137+00:00'
+updated: '2026-08-02T06:33:31.011057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 03:42 UTC  
+**Last Updated:** August 02, 2026 at 06:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ I'm exploring Bowden cables as a way to transmit motion when the motor can't be 
 
 The new US restriction on foreign-made humanoids and quadrupeds is framed around security, but price and availability matter to research velocity. AP reports that Chinese manufacturers ship far more humanoids than US rivals and often at much lower prices. Labs learn by breaking hardware, replacing parts, and running many imperfect prototypes. If the affordable platforms disappear, better-funded companies may adapt while universities, startups, and independent builders reduce experiments or move them abroad. Would a certified research-only pathway preserve security without concentrating access? Or are connected embodied systems too difficult to contain once they enter a lab network? Source: https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366
 
-2d ago
+3d ago
 
 ---
 
@@ -122,7 +122,15 @@ Google DeepMind • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-businessinsider.com • 18h ago
+Business Insider • 21h ago
+
+---
+
+**[Nvidia (NVDA) Teams Up With Kawasaki To Build AI Powered Shipyard Robots](https://uk.finance.yahoo.com/news/nvidia-nvda-teams-kawasaki-build-041403826.html)**
+
+Nvidia and Kawasaki Heavy Industries have agreed to co-develop AI-powered robotics for shipbuilding in Japan. The partners plan to build a next-generation digital shipyard that uses robotics, AI and simulation technologies. The collaboration extends Nvidia’s AI platform into industrial robotics and shipbuilding applications. Nvidia, traded as NasdaqGS:NVDA, is best known for its GPUs and broader AI computing stack that supports data centers and advanced computing workloads. This new...
+
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -134,11 +142,11 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
 
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
+The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
 
-Morning Brew • 21h ago
+DW.com • 1d ago
 
 ---
 
@@ -154,13 +162,7 @@ BBC • 3d ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 19h ago
-
----
-
-**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
-
-techxplore.com • 2d ago
+PYMNTS.com • 22h ago
 
 ---
 
@@ -168,7 +170,13 @@ techxplore.com • 2d ago
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 15h ago
+
+---
+
+**[Muscle radar unlocks potential for future robotic limbs](https://techxplore.com/news/2026-07-muscle-radar-potential-future-robotic.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -177,14 +185,6 @@ Interesting Engineering • 12h ago
 This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
 
 IEEE Spectrum • 1d ago
-
----
-
-**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
-
-The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
-
-dw.com • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 194K • 👍 6K • 💬 465 • ⏱️ 3:00 • 2d ago
+👁️ 196K • 👍 6K • 💬 465 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 1K • 👍 38 • 💬 29 • ⏱️ 1:03 • 6h ago
+👁️ 2K • 👍 48 • 💬 34 • ⏱️ 1:03 • 9h ago
 
 ---
 
@@ -218,17 +218,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 70K • 👍 357 • 💬 515 • ⏱️ 6:04 • 3d ago
-
----
-
-**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
-
-A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
-
-📺 ABC7 News Bay Area
-
-👁️ 7K • 👍 77 • 💬 47 • ⏱️ 2:01 • 2d ago
+👁️ 71K • 👍 357 • 💬 516 • ⏱️ 6:04 • 3d ago
 
 ---
 
@@ -238,7 +228,17 @@ A San Francisco robotics startup has begun offering humanoid home cleaning servi
 
 📺 All-In Podcast
 
-👁️ 103K • 👍 2K • 💬 318 • ⏱️ 1:08:35 • 3d ago
+👁️ 104K • 👍 2K • 💬 318 • ⏱️ 1:08:35 • 3d ago
+
+---
+
+**[You can hire these humanoid robots to clean your home in San Francisco](https://www.youtube.com/watch?v=SRfPI_6JitU)**
+
+A San Francisco robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in ...
+
+📺 ABC7 News Bay Area
+
+👁️ 7K • 👍 82 • 💬 49 • ⏱️ 2:01 • 2d ago
 
 ---
 
@@ -248,7 +248,17 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 15K • 👍 347 • 💬 33 • ⏱️ 9:54 • 1d ago
+👁️ 16K • 👍 353 • 💬 34 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+
+The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+
+📺 KhanFlicks
+
+👁️ 2K • 💬 32 • ⏱️ 3:45 • 3d ago
 
 ---
 
@@ -268,17 +278,7 @@ The world is built for human movements; it requires us to reach, bend, and balan
 
 📺 Google DeepMind
 
-👁️ 80K • 👍 2K • 💬 160 • ⏱️ 2:48 • 2d ago
-
----
-
-**[Touching the New Humanoid Robot With &#39;Smart Skin&#39;](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 26K • 👍 676 • 💬 53 • ⏱️ 4:23 • 6d ago
+👁️ 81K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
 
 ---
 
@@ -288,7 +288,7 @@ This New American Military Robot Will Leave You Speechless While the whole world
 
 📺 Future Core
 
-👁️ 7K • 👍 214 • 💬 10 • ⏱️ 9:36 • 4d ago
+👁️ 7K • 👍 222 • 💬 11 • ⏱️ 9:36 • 4d ago
 
 ---
 
