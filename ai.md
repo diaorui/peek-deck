@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-02T14:08:18.107038+00:00'
+updated: '2026-08-02T15:38:11.333448+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 02, 2026 at 14:08 UTC  
+**Last Updated:** August 02, 2026 at 15:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,30 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Character consistency in AI video — has anyone actually cracked it?](https://www.reddit.com/r/artificial/comments/1vdkdlz/character_consistency_in_ai_video_has_anyone/)**
+
+Been watching a project that claims to have solved the problem of keeping the same character looking and sounding consistent across multiple scenes. Not just a single clip — across a full 22-minute episode. Genuinely curious whether people here think that's actually achievable yet or whether they've just hidden the inconsistencies well enough.
+
+34m ago
+
+---
+
+**[AI and thinking](https://www.reddit.com/r/artificial/comments/1vdjajo/ai_and_thinking/)**
+
+this account is linked to a small ai automation side project i run alongside the building firm. i run a small refurbishment outfit in scotland. mind you, we do have admin help, and it works when the task repeats and it's clear what they can decide. contract jobs don't stay like that. explain one odd item, then answer the questions that come back while the job is moving. miss the order today and it misses friday, so it turns up next week. doing it myself was usually quicker. the work sat in a stupid gap. it needed too much context from the job to hand over cleanly, but it was far too basic to be using my day for. mostly pushing buttons, checking numbers and chasing things. it kept landing back with me. you can carry that for a while. problems creep up as you grow and daily firefighting feels like you're doing well. then your head goes. mine dropped to maybe 20% of what it handled two months before, only the problems kept coming. i'd lose a weekend catching up and the thing i fixed would grow arms and legs in the business and be back three times bigger next saturday. by then i wasn't looking at the market, speaking to clients properly, thinking about growth or keeping the staff motivated. brain doing the shovelling. the business questions were harder. i had loads and nobody obvious to ask. finding the right person is hard enough. working out the right question is half the job. i couldn't tell which one mattered first, so i stayed with whatever we already did. what i do now is get ai to sort the middle bit. check this, compare those, show me the options and where they go wrong. then i make the call. some of the options were properly awful. i caught some early. others cost me time, money or both. my head is clearer now. the questions actually move. get an answer, check it, make a call, see what happened. even the wrong ones give me feedback. leaving the whole lot on a list for next weekend gave me none. there must be bits i'm getting worse at because i'm not doing them as often. i don't know yet if that's a bad trade. what has ai changed in your actual thinking, good or bad? and prove me wrong on the practical side, is there a better way to handle this in an outfit our size when the work keeps changing and the decisions can't wait? happy to get into the actual examples, including the ones that cost me. ps, ai helped polish this post as well, my own writing is rubbish. the arguments took the same effort they always did, but if i wrote it up myself it'd either take days or the argumentation would be in there but not clear enough for you to see what i'm actually saying. i've done a fair bit of academic writing and some blogging over the years, i'm no copywriter. so the choice was this stays in my head, or i stop running the business and start converting my experience into blog posts instead.
+
+1h ago
+
+---
+
+**[Where's the line between AI helping with research vs AI just telling you what you want to hear?](https://www.reddit.com/r/artificial/comments/1vdksws/wheres_the_line_between_ai_helping_with_research/)**
+
+been using LLMs to help process customer feedback, dump a bunch of reddit comments or reviews in and ask it to find patterns, objections, common language. works well enough that i'm a little suspicious of it now. the thing that got me thinking about this: i fed it a batch of comments about a product category and asked for the top objections. it gave me a clean confident list. except when i went back and reread the raw comments myself, a couple of the "top objections" were actually pretty rare, like 2 out of 200 comments, but the model presented them with the same confidence as stuff that showed up constantly. it wasn't lying exactly, it was just... smoothing everything into a narrative that sounded right. which makes me wonder how much of what feels like "insight" from these tools is real pattern-finding versus the model doing what it's built to do, produce a coherent, satisfying answer whether or not the underlying signal actually supports it. like it's optimizing for "sounds like a good answer" not "is actually representative of the data." my current workaround is dumb but it works: i always spot check a sample of the raw source against whatever pattern the model claims to have found. slows things down, kind of defeats the point of using ai to save time in the first place, but at least i catch the stuff that sounds right but isn't backed by actual frequency. anyone else run into this? and if you have a better way to validate ai-generated patterns against real data without just re-reading everything yourself, genuinely want to know because right now i don't fully trust the output without checking it
+
+17m ago
+
+---
+
 **[Reddit Stock Collapses 23% as AI Eats Away at User Growth](https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/)**
 
 Reddit delivered strong earnings, but the numbers beneath the surface tell a different story. Slowing logged-in user growth and AI-powered search could threaten the platform's long-term value.
@@ -45,19 +69,11 @@ Reddit delivered strong earnings, but the numbers beneath the surface tell a dif
 
 ---
 
-**[LSP for AI Coding Agents: The Protocol Your Agent Isn't Using Yet](https://www.reddit.com/r/artificial/comments/1vdg5wr/lsp_for_ai_coding_agents_the_protocol_your_agent/)**
-
-Coding agents can analyze your codebase with around 30% fewer tokens. Instead of searching your project as plain text, they get real code intelligence from a language server: exact answers, faster, cheaper, nothing missed. On our codebase it cut 16 to 22% of the agent's tokens and 30 to 40% of the run time Language Server Protocol is an underrated tool for agentic development. It plugs your agent straight into the compiler API. Article: https://olegdubovoi.com/publications/lsp-for-ai-coding-agents-the-protocol-your-agent-isnt-using-yet/
-
-2h ago
-
----
-
 **[is learning copywriting still worth it when AI output is already client-passable?](https://www.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/)**
 
 Been using a few AI tools to help with copy for a small side project and it's raised a question I can't quite shake. The output is genuinely decent now. Not great, but decent enough that clients who aren't paying close attention probably wouldn't notice the difference. The thing is, I've been spending real time learning copywriting. Reading books, studying good ads, practicing hooks. And part of me wonders if that investment still makes sense the way it did two or three years ago. The counterargument I keep coming back to is that you need good taste to prompt well and to edit what the model gives you. Someone who doesn't understand copy at all is still going to get mediocre output because they won't catch what's flat or offtone. That feels true, fwiw. But I'm less sure the gap between a trained human copywriter and a wellprompted model is going to stay wide enough to matter commercially, at least for the midtier work that fills most freelance pipelines. Curious if people here have actually noticed a shift in how clients value humanwritten copy versus AIassisted, or whether the skill floor is just moving rather than disappearing.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +89,7 @@ The ruling clears the way for the first-in-the-nation law to go into effect on S
 
 I started kind of tinkering with Ai and it all is super fascinating, particularly interesting to me is prompt structure. So I would like to ask is formatting your prompt (persona, few shot negative, whatever else) gives you much better results than without? I want to know it to determine for myself balance between effort dedicated to quality prompt vs quality of output given through that prompt
 
-9h ago
+10h ago
 
 ---
 
@@ -85,35 +101,19 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 ---
 
-**[How strong are OpenAI's "No Data Sharing" clauses on enterprise plans?](https://www.reddit.com/r/artificial/comments/1vda6lp/how_strong_are_openais_no_data_sharing_clauses_on/)**
-
-People in my org tell me using the org certified AI is more secure because we are on an enterprise plan where our data is not used for training. Sure, I will use the company AI. But... Apple is suing OpenAI for for allegedly stealing trade secrets, where it was said employees were instructued by OpenAI to bring parts from apple into "show and tell" interviews at OpenAI and even take the company laptop with them. Also, the models are literally based on strip mining copyrighted media and ignoring sites robots.txt. So if OpenAI is not afraid to (allegedly) steal Apples IP and strip mine everything that was ever written down for its models training... Why would it drink their enterprises customers data like the milkshake it is?
-
-7h ago
-
----
-
 **[AI documentation tools vs actually learning the thing, which is saving you more time right now?](https://www.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/)**
 
 Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later. Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understand what you built. The flip side is time is finite. I'm not a full time dev. I need to ship something that works and move on. Using AI to fill gaps is just practical. What I keep coming back to is this: are these tools actually accelerating skill development, or just making it possible to fake competence long enough to finish a project? For professional devs this probably matters differently than it does for people building side projects with limited hours. Curious where people land on this. Not in a philosophical way, more practically. Has your actual skill level gone up since you started leaning on these tools, or are you more dependent now than you were a year ago?
 
-20h ago
+22h ago
 
 ---
 
-**[Don't ever use hackaigc.](https://www.reddit.com/r/artificial/comments/1vdabw4/dont_ever_use_hackaigc/)**
+**[Which AI tool is used for this AD?](https://www.reddit.com/r/artificial/comments/1vdjgxa/which_ai_tool_is_used_for_this_ad/)**
 
-I don't know if anybody knows the site but don't ever use that shit, hackaigc is a scam, please if you see this crap website shit on it.
+Can anyone just tell by the image which AI tool was used?
 
-7h ago
-
----
-
-**[Help choose a reasonably cheap AI environment for Coding](https://www.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/)**
-
-Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself. Basically im a "full stack developer" yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them). Im at the stage where its bug fixing or sometimes new integrations with the already linked 5 apps. My current setup is the $20 per month cursor plan. I used infinite agent + composer 2.5 to do 8hrs of work per day. However, i find that before the month ends im usually out of tokens. What do u guys recommend is the cheapest way i can manage? Similarly i do some freelancing too that has next & node.js website building from scratch (around 70hrs per month). What do u recommend would get me with quicker work done but within this price. What do u think i should setup to either continue with the same flow but more tokens i guess? Im hearing about kimi. Would that be better and easier to do the tasks which r pretty straight forward?
-
-17h ago
+1h ago
 
 ---
 
@@ -123,15 +123,7 @@ Hi, sorry if this is a repeated question on this subreddit but I want to know wh
 
 **[The Race to Build an American Alternative to Cheap AI From China](https://www.wsj.com/tech/ai/the-race-to-build-an-american-alternative-to-cheap-ai-from-china-2e99a28a)**
 
-WSJ • 20h ago
-
----
-
-**[Stock market turmoil sheds stark light on the opaque AI economy](https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy)**
-
-Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakers
-
-The Guardian • 5h ago
+WSJ • 10h ago
 
 ---
 
@@ -139,23 +131,31 @@ The Guardian • 5h ago
 
 AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.
 
-CNBC • 1h ago
+cnbc.com • 3h ago
 
 ---
 
-**[Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)**
+**[Resistance grows nationwide against AI data center boom](https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/)**
 
-AI startup Pippa is trying to entice artists with a revenue share system.
+To fuel their artificial intelligence initiatives, tech companies are building massive numbers of AI data centers, with more than 4,000 in operation across the country. But some communities, wary of the environmental and financial implications of such facilities in their backyards, are fighting back. "Sunday Morning" national correspondent Robert Costa examines the drive to construct AI data centers, and the debate between opponents and AI advocates. (Originally broadcast April 12, 2026.)
 
-The Verge • 1h ago
+CBS News • 1h ago
 
 ---
 
-**[California School Board Says It Unknowingly Approved $1.9 Million in AI Surveillance Cameras](https://www.yahoo.com/news/politics/articles/california-school-board-says-unknowingly-123352550.html)**
+**[Amazon and Walmart’s AI can spot fake ‘Made in USA’ labels but won’t tell you, says study](https://www.yahoo.com/news/politics/articles/amazon-walmart-ai-spot-fake-151441160.html)**
 
-The board of the Chico Unified School District in California approved a $1.9 million contract for AI-powered security cameras without realizing what it was authorizing. Now, members say they got it wr...
+The study reveals Amazon's AI answers questions about China-made products freely while blocking similar questions about "Made in USA" claims, exposing a curious platform double standard.
 
-Yahoo • 1h ago
+Yahoo • 23m ago
+
+---
+
+**[These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)**
+
+Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.
+
+techcrunch.com • 14m ago
 
 ---
 
@@ -167,31 +167,33 @@ Fortune • 1d ago
 
 ---
 
-**[Donald Trump, 80, Self-Soothes With Disturbing AI Slop Spree](https://www.thedailybeast.com/donald-trump-80-self-soothes-with-disturbing-ai-slop-spree/)**
-
-The president made dozens of bizarre posts on Saturday afternoon as he melted down over his Reflecting Pool humiliation.
-
-The Daily Beast • 6h ago
-
----
-
-**[DeepSeek's new bargain model accelerates AI's race to zero](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war)**
-
-axios.com • 11h ago
-
----
-
 **[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)**
 
 OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
 
-OpenAI • 21h ago
+OpenAI • 23h ago
 
 ---
 
-**[Anger Over Data Centers Is Fueling a New Political Movement](https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824)**
+**[Stock market turmoil sheds stark light on the opaque AI economy](https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy)**
 
-Politico • 3h ago
+Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakers
+
+The Guardian • 6h ago
+
+---
+
+**[Medical journals, law reviews, and literary magazines are grappling with AI-generated submissions](https://www.bostonglobe.com/2026/08/02/business/literary-academic-journals-artificial-intelligence/)**
+
+While these publications serve relatively narrow audiences, their contributions are key for new thinking about the world.
+
+The Boston Globe • 5h ago
+
+---
+
+**[America’s retirement nightmare has arrived](https://thehill.com/opinion/congress-blog/labor/6003046-ai-impact-job-market/)**
+
+The Hill • 1d ago
 
 ---
 
@@ -203,7 +205,7 @@ Politico • 3h ago
 
 Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
 
-⬆️ 566 • 💬 610 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
+⬆️ 567 • 💬 611 • 2d ago • [Google](https://blog.google/security/chrome-stronger-with-every-update/)
 
 ---
 
@@ -219,13 +221,13 @@ Writing about the big beautiful mess that is making things for the world wide we
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 318 • 💬 347 • 15h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 322 • 💬 356 • 17h ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
 **[Flint: A Visualization Language for the AI Era](https://news.ycombinator.com/item?id=49130604)**
 
-⬆️ 265 • 💬 68 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
+⬆️ 266 • 💬 68 • 1d ago • [microsoft.github.io](https://microsoft.github.io/flint-chart/)
 
 ---
 
@@ -233,7 +235,7 @@ Large language models encourage smart financial behavior, but they fall short on
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 257 • 💬 286 • 1d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 258 • 💬 287 • 1d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -241,7 +243,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 208 • 💬 235 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 210 • 💬 235 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -263,7 +265,7 @@ Grey swans are foreseeable risks most investors miss. Grey Swan Signals tracks m
 
 A workspace with visible files, tools, tasks, and outputs — not buried in chat threads.
 
-⬆️ 134 • 💬 77 • 2d ago • [MarbleOS](https://marbleos.com/demo)
+⬆️ 134 • 💬 78 • 2d ago • [MarbleOS](https://marbleos.com/demo)
 
 ---
 
@@ -283,67 +285,7 @@ AI company Anthropic says that during routine testing some of its models accesse
 
 📺 CNN
 
-👁️ 133K • 👍 1K • 💬 636 • ⏱️ 11:30 • 19h ago
-
----
-
-**[Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)](https://www.youtube.com/watch?v=4LwtuscILlc)**
-
-GET $500 IN FREE CREDITS (first 500 people only): https://www.hyperagent.com/vaibhav GRAB EVERY PROMPT AND ...
-
-📺 Vaibhav Sisinty
-
-👁️ 7K • 👍 451 • 💬 20 • ⏱️ 13:31 • 7h ago
-
----
-
-**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=N2lUu1Mg5B8)**
-
-Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
-
-📺 Bloomberg Television
-
-👁️ 42K • 👍 950 • 💬 205 • ⏱️ 8:48 • 1d ago
-
----
-
-**[Second AI Model Goes Rogue | Anthropic and OpenAI Models Hack External Networks | N18G](https://www.youtube.com/watch?v=nLJeky3RFdc)**
-
-Anthropic and OpenAI models broke out of test environments to hack external systems. Learn how Anthropic discovered the ...
-
-📺 CNN-News18
-
-👁️ 1K • 👍 23 • 💬 6 • ⏱️ 11:50 • 11h ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 17K • 👍 377 • 💬 36 • ⏱️ 9:54 • 1d ago
-
----
-
-**[Seedance 2.5 Just Launched: Is This the New Era of AI Filmmaking?](https://www.youtube.com/watch?v=jvkdHdeWICM)**
-
-Seedance 2.5 vs Seedance 2.0 — same prompt, same inputs, six categories, one honest verdict (and the catch nobody's telling ...
-
-📺 Higgsfield AI
-
-👁️ 34K • 👍 1K • 💬 75 • ⏱️ 20:22 • 23h ago
-
----
-
-**[hey ai come train on this song](https://www.youtube.com/watch?v=ZBvLadXo7XA)**
-
-folksong #singersongwriter.
-
-📺 Luke Nickle
-
-👁️ 121K • 👍 23K • 💬 3K • ⏱️ 3:23 • 22h ago
+👁️ 146K • 👍 1K • 💬 676 • ⏱️ 11:30 • 20h ago
 
 ---
 
@@ -353,27 +295,87 @@ Olatti, the business communications platform we launch on 15 September (founding
 
 📺 Axel Molist
 
-👁️ 11K • 👍 486 • 💬 176 • ⏱️ 14:39 • 18h ago
+👁️ 13K • 👍 529 • 💬 188 • ⏱️ 14:39 • 20h ago
 
 ---
 
-**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=pHcZpvIfho0)**
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 18K • 👍 396 • 💬 36 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=N2lUu1Mg5B8)**
 
 Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
 
-📺 Bloomberg Podcasts
+📺 Bloomberg Television
 
-👁️ 435K • 👍 7K • 💬 2K • ⏱️ 8:48 • 1d ago
+👁️ 45K • 👍 1K • 💬 222 • ⏱️ 8:48 • 1d ago
 
 ---
 
-**[&#39;China Surprised The World&#39;: Castro Asks AI Expert About China&#39;s AI Abilities Despite Limited Chips](https://www.youtube.com/watch?v=gO9B7y2tMbI)**
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
 
-During a House Intelligence Committee hearing earlier this month, Rep. Jaoquin Castro (D-TX) asked Dmitri Alperovitch Assistant ...
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
 
-📺 Forbes Breaking News
+📺 Creative Channel
 
-👁️ 2K • 👍 13 • 💬 26 • ⏱️ 4:53 • 21h ago
+👁️ 906 • 👍 111 • 💬 9 • ⏱️ 9:14 • 2h ago
+
+---
+
+**[Anthropic claims its AI models went rogue, hacked 3 companies](https://www.youtube.com/watch?v=_PpeVFqGVNk)**
+
+Anthropic claims its artificial intelligence models went rogue during testing and hacked into three other companies. Less than two ...
+
+📺 CBS News
+
+👁️ 13K • 👍 205 • 💬 84 • ⏱️ 5:39 • 1d ago
+
+---
+
+**[Seedance 2.5 Just Launched: Is This the New Era of AI Filmmaking?](https://www.youtube.com/watch?v=jvkdHdeWICM)**
+
+Seedance 2.5 vs Seedance 2.0 — same prompt, same inputs, six categories, one honest verdict (and the catch nobody's telling ...
+
+📺 Higgsfield AI
+
+👁️ 39K • 👍 1K • 💬 75 • ⏱️ 20:22 • 1d ago
+
+---
+
+**[ALERT: AI Credit Spreads Are Suddenly Blowing Out... Just Like 2008?](https://www.youtube.com/watch?v=KgZ2j6yI16A)**
+
+Everyone believes the AI bubble is mainly about stocks. That makes sense. The obvious historical comparison is the dot-com ...
+
+📺 Eurodollar University
+
+👁️ 64K • 👍 2K • 💬 147 • ⏱️ 18:45 • 2d ago
+
+---
+
+**[AI News: An INSANE Week… Here’s What Matters](https://www.youtube.com/watch?v=sUmx-Yi6TwE)**
+
+Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/3RjilvK Discover More: 🛠️ Explore AI Tools ...
+
+📺 Matt Wolfe
+
+👁️ 58K • 👍 2K • 💬 163 • ⏱️ 27:49 • 2d ago
+
+---
+
+**[The next 50 years: humanity, AI, power | Yuval Noah Harari](https://www.youtube.com/watch?v=_V_ed5fuexA)**
+
+AI can already remember more, compute faster and recall better than any human being. And it will only get better in the coming ...
+
+📺 Yuval Noah Harari 
+
+👁️ 236K • 👍 8K • 💬 840 • ⏱️ 48:06 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 837,202 • ❤️ 9,555 • 5d ago
+⬇️ 837,202 • ❤️ 9,583 • 5d ago
 
 ---
 
@@ -401,7 +403,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 156,173 • ❤️ 1,563 • 1d ago
+⬇️ 156,173 • ❤️ 1,618 • 1d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,372,285 • ❤️ 1,270 • 2d ago
+⬇️ 1,372,285 • ❤️ 1,284 • 2d ago
 
 ---
 
@@ -425,7 +427,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,536,284 • ❤️ 3,733 • 4d ago
+⬇️ 2,536,284 • ❤️ 3,741 • 4d ago
 
 ---
 
@@ -437,19 +439,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 48,707 • ❤️ 307 • 1d ago
-
----
-
-**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
-
-*Z.ai*
-
-GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. Key capabilities include advanced coding with flexible effort and an improved architecture for efficiency, making it suitable for complex reasoning and code generation.
-
-`text-generation` `753.3B`
-
-⬇️ 2,050,533 • ❤️ 4,745 • 1mo ago
+⬇️ 48,707 • ❤️ 315 • 1d ago
 
 ---
 
@@ -465,6 +455,18 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 ---
 
+**[GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**
+
+*Z.ai*
+
+GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with a solid 1M-token context. Key capabilities include advanced coding with flexible effort and an improved architecture for efficiency, making it suitable for complex reasoning and code generation.
+
+`text-generation` `753.3B`
+
+⬇️ 2,050,533 • ❤️ 4,747 • 1mo ago
+
+---
+
 **[Inkling-Small](https://huggingface.co/thinkingmachines/Inkling-Small)**
 
 *Thinking Machines Lab*
@@ -473,7 +475,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 6,839 • ❤️ 219 • 2d ago
+⬇️ 6,839 • ❤️ 220 • 2d ago
 
 ---
 
@@ -485,7 +487,7 @@ Inflect-Micro-v2 is a compact, fixed-voice English text-to-speech model (under 1
 
 `text-to-speech`
 
-⬇️ 1,825 • ❤️ 367 • 2d ago
+⬇️ 1,825 • ❤️ 369 • 2d ago
 
 ---
 
@@ -497,7 +499,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 `text-generation` `34.7B`
 
-⬇️ 13,164 • ❤️ 394 • 5d ago
+⬇️ 13,164 • ❤️ 397 • 5d ago
 
 ---
 
@@ -513,7 +515,7 @@ KAT-Coder-V2.5-Dev is a 35B parameter Mixture-of-Experts (MoE) text-generation m
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 430 • 💬 9 • ⭐ 7,858 • 6d ago
+▲ 431 • 💬 9 • ⭐ 7,858 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -527,9 +529,21 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 75 • 💬 6 • ⭐ 21,428 • 1mo ago
+▲ 75 • 💬 6 • ⭐ 21,554 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 51 • 💬 4 • ⭐ 35,520 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -541,7 +555,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
 
-▲ 39 • 💬 5 • ⭐ 6,336 • 9mo ago
+▲ 40 • 💬 5 • ⭐ 6,412 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
 
@@ -561,18 +575,6 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 51 • 💬 4 • ⭐ 35,380 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -581,7 +583,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 177 • 💬 10 • ⭐ 51,803 • 11mo ago
+▲ 177 • 💬 10 • ⭐ 51,854 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -648,7 +650,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.8k • 🔱 292 • 21h ago
+⭐ 3.8k • 🔱 294 • 23h ago
 
 ---
 
@@ -658,7 +660,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.2k • 🔱 277 • 5d ago
+⭐ 3.2k • 🔱 279 • 5d ago
 
 ---
 
@@ -666,7 +668,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 2.8k • 🔱 343 • 7d ago
+⭐ 2.9k • 🔱 351 • 7d ago
 
 ---
 
@@ -676,7 +678,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 1.8k • 🔱 1.3k • 1h ago
+⭐ 1.9k • 🔱 1.3k • 45s ago
 
 ---
 
@@ -686,7 +688,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.8k • 🔱 213 • 1d ago
+⭐ 1.9k • 🔱 213 • 1d ago
 
 ---
 
@@ -696,7 +698,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.7k • 🔱 108 • 8h ago
+⭐ 1.7k • 🔱 109 • 57m ago
 
 ---
 
@@ -714,7 +716,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 1.6k • 🔱 321 • 2d ago
+⭐ 1.6k • 🔱 332 • 2d ago
 
 ---
 
@@ -724,7 +726,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.4k • 🔱 176 • 2h ago
+⭐ 1.4k • 🔱 179 • 7m ago
 
 ---
 

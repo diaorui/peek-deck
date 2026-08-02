@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T14:08:18.120840+00:00'
+updated: '2026-08-02T15:38:11.346643+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 14:08 UTC  
+**Last Updated:** August 02, 2026 at 15:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.1%  
-**30d:** +4.1%  
-**90d:** -21.5%  
-**1y:** -47.0%  
+**24h:** -0.4%  
+**7d:** -1.7%  
+**30d:** +4.5%  
+**90d:** -21.2%  
+**1y:** -46.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.59B
+**Market Cap:** $224.24B
 Rank #2
 
 **Circulating Supply:** 120,682,254 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.5%
+-62.4%
 
 **All-Time Low:** $0.43
-+427800.7%
++429034.0%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -176,13 +176,7 @@ TradingView • 1d ago
 
 **[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-thestreet.com • 1d ago
-
----
-
-**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
-
-MarketWatch • 2d ago
+thestreet.com • 2d ago
 
 ---
 
@@ -190,7 +184,7 @@ MarketWatch • 2d ago
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 19h ago
+blockchain.news • 20h ago
 
 ---
 
@@ -206,7 +200,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 12h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -226,9 +220,37 @@ Benzinga • 3d ago
 
 ---
 
+**[Total crypto market adds over $130B in 30 days, and nobody can pinpoint why](https://cryptobriefing.com/crypto-market-adds-130b-30-days/)**
+
+The total crypto market cap surged over $130 billion in 30 days without a clear catalyst, as Bitcoin and Ethereum led a broad accumulation-driven
+
+Crypto Briefing • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Tom Lee Proves ETH Is BETTER Than Bitcoin](https://www.youtube.com/watch?v=410Xf3lj-nA)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 3K • 👍 270 • 💬 51 • ⏱️ 15:24 • 2h ago
+
+---
+
+**[Is the Ethereum Top In? The Level That Decides](https://www.youtube.com/watch?v=jqB1yRvWqAI)**
+
+In this video I break down the latest Ethereum price action and analyze the potential path for ETH as it tests critical support levels.
+
+📺 More Crypto Online
+
+👁️ 706 • 👍 90 • 💬 57 • ⏱️ 4:53 • 1h ago
+
+---
 
 **[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
 
@@ -236,7 +258,27 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 257 • ⏱️ 26:54 • 16h ago
+👁️ 36K • 👍 2K • 💬 508 • ⏱️ 26:54 • 18h ago
+
+---
+
+**[ETHEREUM PREDICTION FOR NEXT WEEK! (ETH Update)](https://www.youtube.com/watch?v=mUEGUJ16Oyg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 251 • 👍 14 • 💬 212 • ⏱️ 4:29 • 6h ago
+
+---
+
+**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+
+THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+
+📺 NCashOfficial
+
+👁️ 9K • 👍 440 • 💬 619 • ⏱️ 14:47 • 17h ago
 
 ---
 
@@ -246,17 +288,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 53 • 💬 122 • ⏱️ 13:19 • 23h ago
-
----
-
-**[Ethereum&#39;s Comeback Will SHOCK Bitcoin](https://www.youtube.com/watch?v=5K8_5lpeUY0)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 32K • 👍 1K • 💬 91 • ⏱️ 19:50 • 3d ago
+👁️ 2K • 👍 57 • 💬 122 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -266,7 +298,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 246 • 💬 494 • ⏱️ 21:52 • 14h ago
+👁️ 6K • 👍 261 • 💬 494 • ⏱️ 21:52 • 15h ago
 
 ---
 
@@ -276,7 +308,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 531 • 💬 409 • ⏱️ 11:29 • 1d ago
+👁️ 11K • 👍 533 • 💬 417 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -286,7 +318,7 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 333 • 💬 28 • ⏱️ 10:08 • 1d ago
+👁️ 6K • 👍 342 • 💬 28 • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -296,37 +328,7 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 2K • 👍 60 • 💬 4 • ⏱️ 0:56 • 22h ago
-
----
-
-**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 143 • 💬 12 • ⏱️ 12:19 • 1d ago
-
----
-
-**[Crypto Live Trading | btc live trading | 2 Aug | #cryptolive #btclive #livetrading](https://www.youtube.com/watch?v=L_045V7FOWs)**
-
-livetrading #livescalping #btclivetrading Crypto Live Trading | btc live trading | live crypto trading | #cryptolive #btclive ...
-
-📺 Balraj Trading Tech
-
-👁️ 2K • 👍 345 • 23h ago
-
----
-
-**[Is Buying 555 ICP Like Owning 123 Ethereum in 2016?](https://www.youtube.com/watch?v=BSBq8GXxhYY)**
-
-Is buying 555 ICP today like owning 123 Ethereum in 2016? I lay out the supply math and the technology that convinced me this is ...
-
-📺 Jerry Banfield ICP
-
-👁️ 2K • 👍 145 • 💬 35 • ⏱️ 10:43 • 19h ago
+👁️ 3K • 👍 62 • 💬 14 • ⏱️ 0:56 • 23h ago
 
 ---
 

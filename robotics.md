@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T14:08:18.123825+00:00'
+updated: '2026-08-02T15:38:11.349517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 14:08 UTC  
+**Last Updated:** August 02, 2026 at 15:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -102,7 +102,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.
 
-🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 2d ago
+🔗 [WIRED](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/) • 3d ago
 
 ---
 
@@ -114,7 +114,23 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
-deepmind.google • 2d ago
+Google DeepMind • 3d ago
+
+---
+
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+WIRED • 3d ago
+
+---
+
+**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+
+Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+
+CNET • 2d ago
 
 ---
 
@@ -123,6 +139,12 @@ deepmind.google • 2d ago
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
 Business Insider • 1d ago
+
+---
+
+**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
+
+South China Morning Post • 9h ago
 
 ---
 
@@ -138,7 +160,7 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
 
-DW.com • 1d ago
+dw.com • 1d ago
 
 ---
 
@@ -154,15 +176,7 @@ PYMNTS.com • 1d ago
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 23h ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-Morning Brew • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -171,22 +185,6 @@ Morning Brew • 1d ago
 The technology should co-exist alongside humans and complete the same tasks, a university says.
 
 BBC • 3d ago
-
----
-
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
-
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
-
-The Globe and Mail • 2d ago
-
----
-
-**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
-
-This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
-
-IEEE Spectrum • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 201K • 👍 6K • 💬 480 • ⏱️ 3:00 • 2d ago
+👁️ 204K • 👍 6K • 💬 483 • ⏱️ 3:00 • 3d ago
 
 ---
 
@@ -210,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 3K • 👍 57 • 💬 39 • ⏱️ 1:03 • 17h ago
+👁️ 3K • 👍 68 • 💬 41 • ⏱️ 1:03 • 18h ago
 
 ---
 
@@ -220,57 +218,17 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 71K • 👍 361 • 💬 516 • ⏱️ 6:04 • 3d ago
+👁️ 71K • 👍 364 • 💬 517 • ⏱️ 6:04 • 3d ago
 
 ---
 
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
 
-📺 TheAIGRID
+📺 Creative Channel
 
-👁️ 17K • 👍 377 • 💬 36 • ⏱️ 9:54 • 1d ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 105K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 4d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 10K • 👍 153 • 💬 15 • ⏱️ 1:00 • 1d ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 1.2M • 👍 9K • 💬 4K • ⏱️ 2:15 • 5d ago
-
----
-
-**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
-
-The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
-
-📺 Google DeepMind
-
-👁️ 83K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
+👁️ 906 • 👍 111 • 💬 9 • ⏱️ 9:14 • 2h ago
 
 ---
 
@@ -280,17 +238,57 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 8K • 👍 324 • 💬 16 • ⏱️ 5:33 • 1d ago
+👁️ 9K • 👍 352 • 💬 17 • ⏱️ 5:33 • 1d ago
 
 ---
 
-**[Inside the Inspire RH56DFQ Robotic Hand | Complete Teardown](https://www.youtube.com/watch?v=nhOiGu9qqzY)**
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
-In this episode of Munro Live, we perform a complete teardown of the Inspire Robots RH56DFQ robotic hand to examine the ...
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
 
-📺 Munro Live
+📺 NBC News
 
-👁️ 112K • 👍 276 • 💬 16 • ⏱️ 20:04 • 4d ago
+👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 5d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 10K • 👍 168 • 💬 16 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 18K • 👍 396 • 💬 36 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 105K • 👍 2K • 💬 321 • ⏱️ 1:08:35 • 4d ago
+
+---
+
+**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
+
+The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
+
+📺 Google DeepMind
+
+👁️ 84K • 👍 2K • 💬 161 • ⏱️ 2:48 • 3d ago
 
 ---
 
