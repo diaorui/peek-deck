@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T10:59:04.034410+00:00'
+updated: '2026-08-02T12:10:29.236053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 10:59 UTC  
+**Last Updated:** August 02, 2026 at 12:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,6 +118,22 @@ Google DeepMind • 2d ago
 
 ---
 
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+
+WIRED • 2d ago
+
+---
+
+**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
+
+Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
+
+CNET • 2d ago
+
+---
+
 **[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
@@ -126,27 +142,11 @@ Business Insider • 1d ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-ABC News - Breaking News, Latest News and Videos • 1d ago
-
----
-
-**[This Humanoid Robot Will Clean Your House for $30 an Hour](https://interestingengineering.com/videos/this-humanoid-robot-will-clean-your-house-for-30-an-hour)**
-
-San Francisco startup Tau Robotics has launched an invite-only humanoid cleaning service at a flat $30 for a one-hour visit. CEO and co-founder Alexander Koch announced it on X, stating that all footage was shown at 1x speed and that "each humanoid is jointly controlled by a human operator and AI." The robots handle house cleaning, deep cleaning and office cleaning — wiping counters, vacuuming hardwood and rugs, taking out trash and clearing floor clutter.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Lazy bones rejoice as SF robotics company introduces house-cleaning robot](https://nypost.com/2026/07/31/us-news/san-francisco-robotics-company-introduces-house-cleaning-robot/)**
-
-To start, the company is offering the robots to a selected group of applicants in San Francisco at a rate of $30 an hour.
-
-nypost.com • 1d ago
+abcnews.com • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ PYMNTS.com • 1d ago
 
 A new report reveals China holds 6 of the top 10 most innovative humanoid robotics startups, while the US maintains the patent quality.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -180,11 +180,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
 
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
+This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
 
-Morning Brew • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 199K • 👍 6K • 💬 472 • ⏱️ 3:00 • 2d ago
+👁️ 201K • 👍 6K • 💬 480 • ⏱️ 3:00 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 2K • 👍 52 • 💬 35 • ⏱️ 1:03 • 14h ago
+👁️ 3K • 👍 57 • 💬 39 • ⏱️ 1:03 • 15h ago
 
 ---
 
@@ -218,17 +218,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 71K • 👍 357 • 💬 516 • ⏱️ 6:04 • 3d ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 104K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 3d ago
+👁️ 71K • 👍 361 • 💬 516 • ⏱️ 6:04 • 3d ago
 
 ---
 
@@ -238,7 +228,27 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 16K • 👍 361 • 💬 34 • ⏱️ 9:54 • 1d ago
+👁️ 17K • 👍 377 • 💬 36 • ⏱️ 9:54 • 1d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 105K • 👍 2K • 💬 317 • ⏱️ 1:08:35 • 3d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 10K • 👍 153 • 💬 15 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -248,17 +258,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 1.1M • 👍 9K • 💬 4K • ⏱️ 2:15 • 5d ago
-
----
-
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
-
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
-
-📺 KhanFlicks
-
-👁️ 2K • 💬 32 • ⏱️ 3:45 • 3d ago
+👁️ 1.2M • 👍 9K • 💬 4K • ⏱️ 2:15 • 5d ago
 
 ---
 
@@ -268,17 +268,7 @@ The world is built for human movements; it requires us to reach, bend, and balan
 
 📺 Google DeepMind
 
-👁️ 82K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
-
----
-
-**[Touching the New Humanoid Robot With &#39;Smart Skin&#39;](https://www.youtube.com/watch?v=3vGWIPIDpB4)**
-
-Gene.01 is the new humanoid robot from Generative Bionics, featuring "smart skin" embedded with touch sensors and proximity ...
-
-📺 CNET
-
-👁️ 26K • 👍 687 • 💬 53 • ⏱️ 4:23 • 6d ago
+👁️ 83K • 👍 2K • 💬 161 • ⏱️ 2:48 • 2d ago
 
 ---
 
@@ -288,7 +278,17 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 7K • 👍 309 • 💬 14 • ⏱️ 5:33 • 20h ago
+👁️ 8K • 👍 324 • 💬 16 • ⏱️ 5:33 • 22h ago
+
+---
+
+**[Inside the Inspire RH56DFQ Robotic Hand | Complete Teardown](https://www.youtube.com/watch?v=nhOiGu9qqzY)**
+
+In this episode of Munro Live, we perform a complete teardown of the Inspire Robots RH56DFQ robotic hand to examine the ...
+
+📺 Munro Live
+
+👁️ 112K • 👍 276 • 💬 16 • ⏱️ 20:04 • 4d ago
 
 ---
 
