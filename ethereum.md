@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T15:38:11.346643+00:00'
+updated: '2026-08-02T16:59:37.510393+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 15:38 UTC  
+**Last Updated:** August 02, 2026 at 16:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.7%  
-**30d:** +4.5%  
-**90d:** -21.2%  
-**1y:** -46.8%  
+**24h:** +0.1%  
+**7d:** -1.5%  
+**30d:** +4.7%  
+**90d:** -21.1%  
+**1y:** -46.7%  
 
 ---
 
@@ -96,7 +96,7 @@ Follow-up to the thread two weeks ago where I posted a high scam rate on new Eth
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 1d ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Season 4 bounty challenge: build a confidential PoolTogether. 5,000 cUSDT in rewards.
 
-🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 2d ago
+🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 3d ago
 
 ---
 
@@ -158,19 +158,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
-
-Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
-
-The Block • 2d ago
-
----
-
 **[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
 
 Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
 
 TradingView • 1d ago
+
+---
+
+**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
+
+Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
+
+The Block • 2d ago
 
 ---
 
@@ -180,11 +180,17 @@ thestreet.com • 2d ago
 
 ---
 
+**[Large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/large-cryptocurrencies-fall-as-ethereum-tumbles-b6129189-179c5297972f)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
 
-blockchain.news • 20h ago
+blockchain.news • 21h ago
 
 ---
 
@@ -200,15 +206,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 14h ago
-
----
-
-**[Ethereum turns 11: Will record 40.2M staked ETH fuel a rally?](https://ambcrypto.com/ethereums-11th-anniversary-will-record-40-2m-staked-eth-fuel-a-rally/)**
-
-BlackRock clients bought over $20 million in ETH; staking beats records.
-
-AMBCrypto • 3d ago
+cryptoslate.com • 15h ago
 
 ---
 
@@ -238,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 270 • 💬 51 • ⏱️ 15:24 • 2h ago
+👁️ 3K • 👍 270 • 💬 51 • ⏱️ 15:24 • 4h ago
 
 ---
 
@@ -248,7 +246,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 706 • 👍 90 • 💬 57 • ⏱️ 4:53 • 1h ago
+👁️ 706 • 👍 90 • 💬 57 • ⏱️ 4:53 • 2h ago
 
 ---
 
@@ -258,7 +256,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 508 • ⏱️ 26:54 • 18h ago
+👁️ 36K • 👍 2K • 💬 508 • ⏱️ 26:54 • 19h ago
 
 ---
 
@@ -268,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 251 • 👍 14 • 💬 212 • ⏱️ 4:29 • 6h ago
+👁️ 251 • 👍 14 • 💬 212 • ⏱️ 4:29 • 7h ago
 
 ---
 
@@ -278,7 +276,7 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 9K • 👍 440 • 💬 619 • ⏱️ 14:47 • 17h ago
+👁️ 9K • 👍 440 • 💬 619 • ⏱️ 14:47 • 18h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 261 • 💬 494 • ⏱️ 21:52 • 15h ago
+👁️ 6K • 👍 261 • 💬 494 • ⏱️ 21:52 • 17h ago
 
 ---
 
@@ -308,7 +306,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 533 • 💬 417 • ⏱️ 11:29 • 1d ago
+👁️ 11K • 👍 533 • 💬 417 • ⏱️ 11:29 • 2d ago
 
 ---
 
@@ -328,7 +326,7 @@ Duke Professor Campbell Harvey explained why a 51 percent style attack that work
 
 📺 Lark Davis
 
-👁️ 3K • 👍 62 • 💬 14 • ⏱️ 0:56 • 23h ago
+👁️ 3K • 👍 62 • 💬 14 • ⏱️ 0:56 • 1d ago
 
 ---
 

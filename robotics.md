@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T15:38:11.349517+00:00'
+updated: '2026-08-02T16:59:37.513238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 15:38 UTC  
+**Last Updated:** August 02, 2026 at 16:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about 
 
 Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation models, in early access. The release adds full-body control for humanoid robots, multi-step task execution with the ability to recover from mistakes, natural language communication, multi-robot coordination, on-device deployment, and new safety features that can reject unsafe commands or request human assistance when needed. Google demonstrated the models on Apptronik’s Apollo 2 humanoid, along with dexterous robotic hands and dual-arm systems. The update moves beyond robots performing isolated tasks and toward systems that can complete longer sequences of work while interacting more naturally with people and other robots.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 2d ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/google-deepmind-announces-gemini-robotics-2-new-safety-measures-for-humanoids) • 3d ago
 
 ---
 
@@ -60,7 +60,7 @@ Google DeepMind has announced Gemini Robotics 2, its latest robotics foundation 
 
 Damage can fragment a modular robotic structure into disconnected pieces. We developed decentralized strategies that allow the surviving modules to consolidate, reorganize, and autonomously restore connectivity without a central controller. Across 1,000 simulated damage scenarios, the system retained at least 80% of surviving modules in its largest connected component even after 30% random failures, with near-perfect reconnection in fully connected cases. The broader goal is to develop machine analogues of homeostasis and morphogenesis: systems that can detect damage, adapt their physical organization, and preserve function. Technical article: https://www.manifoldrg.com/can-a-spacecraft-heal-itself/ Preprint: https://arxiv.org/abs/2607.13444 I’m one of the authors and would welcome feedback, particularly on the decentralized coordination strategy and the path toward hardware experiments.
 
-2d ago
+3d ago
 
 ---
 
@@ -118,22 +118,6 @@ Google DeepMind • 3d ago
 
 ---
 
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
-
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
-
-WIRED • 3d ago
-
----
-
-**[Google DeepMind Shows Off Gemini Robotics 2 Doing Chores, and the Future Is Here](https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/)**
-
-Google DeepMind released a series of videos demonstrating Gemini Robotics 2 utilizing the Apptronik Apollo 2 Humanoid Robot working alongside the Franka F3 Duo Dual-Arm System robot, and it looks like I won't be doing too many household chores in the near future.
-
-CNET • 2d ago
-
----
-
 **[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
@@ -144,7 +128,7 @@ Business Insider • 1d ago
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 9h ago
+South China Morning Post • 10h ago
 
 ---
 
@@ -156,11 +140,11 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
-**[Humanoid robots: Trump's latest China trade battle?](https://www.dw.com/en/us-china-trump-humanoid-robots-ban-trade-artificial-intelligence-elon-musk/a-78181288)**
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
-The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-dw.com • 1d ago
+Morning Brew • 1d ago
 
 ---
 
@@ -188,6 +172,22 @@ BBC • 3d ago
 
 ---
 
+**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
+
+This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
+
+Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
+
+The Globe and Mail • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -208,7 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 3K • 👍 68 • 💬 41 • ⏱️ 1:03 • 18h ago
+👁️ 3K • 👍 68 • 💬 41 • ⏱️ 1:03 • 20h ago
 
 ---
 
@@ -228,7 +228,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 906 • 👍 111 • 💬 9 • ⏱️ 9:14 • 2h ago
+👁️ 906 • 👍 111 • 💬 9 • ⏱️ 9:14 • 4h ago
 
 ---
 
