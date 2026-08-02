@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T19:43:34.979744+00:00'
+updated: '2026-08-02T20:56:12.194458+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 19:43 UTC  
+**Last Updated:** August 02, 2026 at 20:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ California-based robotics startup Satyress is developing Threehalves, a 7-foot-t
 
 Setup: a Raspberry Pi 4B on a small skid-steer chassis, a u-blox NEO-M9N (about $100), a BNO085 IMU, and hall encoders on the wheels. No RTK, no base station, no corrections Orange is pretty much every fix the receiver reported. Blue is the output seen after fusing those fixes with the IMU and wheel odometry in a UKF. Every fix was used, none were rejected in this entire run. What I can and cannot say about this is that, since this is a fair thing to ask: I don't have RTK ground truth for this run, so I can't claim the blue line is closer to the true path than the orange dots are. What I can say is that the filter's reported 1-sigma stayed around 2.5 m throughout, including while moving, and the fused output tracked the raw fixes to a median of 1.69 m. Both of those are self-reported numbers, not error against an independent reference. Other limitations worth stating: it's a single short run covering only about 20 m, there's no comparison against robot_localization on the same data yet, and heading comes from GPS track rather than a magnetometer, so it isn't meaningful for roughly the first minute of driving. The curve in the path is mechanical, the chassis pulls right about 3 deg/s. On the next run I'm closing the loop back to a physically marked start point so there's at least a real closure number, and replaying the same bag through robot_localization so it's a controlled comparison on identical input rather than one filter on its own. Also looking into borrowing an F9P for proper ground truth. Disclosure: I wrote the filter (FusionCore): https://github.com/manankharwar/fusioncore Happy to share the rosbag if anyone wants to run their own filter against it. Edit: rewrote this. Sorry if my english is bad...
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ The new US restriction on foreign-made humanoids and quadrupeds is framed around
 
 **[Could there be an open-source layout robot for surveyors?](https://www.reddit.com/r/robotics/comments/1vb5lv8/could_there_be_an_opensource_layout_robot_for/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -112,15 +112,15 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 13h ago
+South China Morning Post • 14h ago
 
 ---
 
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
 
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
-WIRED • 3d ago
+The Robot Report • 8h ago
 
 ---
 
@@ -132,11 +132,11 @@ Google DeepMind • 3d ago
 
 ---
 
-**[Do Robot Dogs Have More Fun Than Humanoids? One Explores, One Folds Laundry](https://spectrum.ieee.org/video-robot-gemini2-ai-robot)**
+**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
 
-This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone
+The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
 
-IEEE Spectrum • 2d ago
+WIRED • 3d ago
 
 ---
 
@@ -152,7 +152,7 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 Tau Robotics is offering humanoid robot cleaning services to selected applicants, with robots that can vacuum, clean counters and take out the trash.
 
-Yahoo • 18h ago
+Yahoo • 19h ago
 
 ---
 
@@ -168,7 +168,7 @@ New York Post • 1d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-businessinsider.com • 1d ago
+Business Insider • 1d ago
 
 ---
 
@@ -198,53 +198,27 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 207K • 👍 6K • 💬 486 • ⏱️ 3:00 • 3d ago
+👁️ 211K • 👍 6K • 💬 492 • ⏱️ 3:00 • 3d ago
 
 ---
 
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
 
-📺 Omar Agamy
+Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
 
-👁️ 560K • 👍 24K • 💬 2K • ⏱️ 0:40 • 2d ago
+📺 KCRA 3
 
----
-
-**[Robot Window Cleaners Are Here But Do They Work?](https://www.youtube.com/watch?v=SPV-hstjRGM)**
-
-Robots are doing more and more for us these days but can they clean windows? Ecovacs Mini Window Cleaner: ...
-
-📺 Proper DIY - Tools & Effect
-
-👁️ 29K • 👍 2K • 💬 175 • ⏱️ 12:29 • 12h ago
+👁️ 5K • 👍 97 • 💬 55 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[😳WTF… Mark Zuckerberg Robot Asked For WHAT?!](https://www.youtube.com/watch?v=M6qdlOEyT-8)**
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
 
-📺 David Nino Rodriguez
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
 
-👁️ 2K • 👍 208 • 💬 12 • ⏱️ 0:32 • 2h ago
+📺 NBC News
 
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 11K • 👍 177 • 💬 16 • ⏱️ 1:00 • 2d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 19K • 👍 412 • 💬 36 • ⏱️ 9:54 • 1d ago
+👁️ 72K • 👍 370 • 💬 521 • ⏱️ 6:04 • 3d ago
 
 ---
 
@@ -254,37 +228,67 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 2K • 👍 152 • 💬 9 • ⏱️ 9:14 • 6h ago
+👁️ 2K • 👍 187 • 💬 17 • ⏱️ 9:14 • 8h ago
 
 ---
 
-**[&quot;TREACHEROUS Waters Ahead!&quot; Will Super Intelligent Robots End Humanity? + Science vs God Debate](https://www.youtube.com/watch?v=5ZruLGRmU9g)**
+**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
 
-Check out Freecash today using my link https://bit.ly/4vtcdz6 and get a $10 bonus after completing your first offer. Can science ...
+War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Piers Morgan Uncensored
+📺 Manni-Gaming
 
-👁️ 131K • 👍 2K • 💬 1K • ⏱️ 1:04:34 • 2d ago
-
----
-
-**[This Robot Goalkeeper Is Actually Insane! #shorts #soccer #football](https://www.youtube.com/watch?v=vmuL5K3lnas)**
-
-Can a $500 robot goalkeeper stop a real soccer shot? ⚽ This kid decided to find out by putting it to the ultimate test. The first ...
-
-📺 Shutter Hype
-
-👁️ 5K • 💬 14 • ⏱️ 0:34 • 6h ago
+👁️ 5K • 👍 286 • 💬 70 • ⏱️ 16:58 • 8h ago
 
 ---
 
-**[Framework Laptops and a Robot Cleaner?](https://www.youtube.com/watch?v=PtCMsXYAPyc)**
+**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
 
-This week, Marques, Andrew, and David kick things off by talking about the new Apple leasing program. After that, they get into ...
+Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
 
-📺 WVFRM Podcast
+📺 NBC News
 
-👁️ 122K • 👍 3K • 💬 542 • ⏱️ 1:35:30 • 2d ago
+👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 5d ago
+
+---
+
+**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+
+Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+
+📺 Foundation Robotics
+
+👁️ 10K • 👍 389 • 💬 21 • ⏱️ 5:33 • 1d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 107K • 👍 2K • 💬 321 • ⏱️ 1:08:35 • 4d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 20K • 👍 427 • 💬 37 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
+
+The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
+
+📺 Google DeepMind
+
+👁️ 86K • 👍 2K • 💬 163 • ⏱️ 2:48 • 3d ago
 
 ---
 

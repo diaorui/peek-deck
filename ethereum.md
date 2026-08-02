@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T19:43:34.977524+00:00'
+updated: '2026-08-02T20:56:12.191166+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 19:43 UTC  
+**Last Updated:** August 02, 2026 at 20:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** -0.8%  
-**30d:** +5.5%  
-**90d:** -20.5%  
-**1y:** -46.3%  
+**24h:** +2.1%  
+**7d:** -0.5%  
+**30d:** +5.8%  
+**90d:** -20.2%  
+**1y:** -46.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.43B
+**Market Cap:** $227.07B
 Rank #2
 
 **Circulating Supply:** 120,682,254 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.0%
 
 **All-Time Low:** $0.43
-+431329.7%
++434456.9%
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 1d ago
 
 Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
 
-theblock.co • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-cryptoslate.com • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 419 • 💬 66 • ⏱️ 15:24 • 6h ago
+👁️ 10K • 👍 524 • 💬 81 • ⏱️ 15:24 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 142 • 💬 60 • ⏱️ 4:53 • 5h ago
+👁️ 2K • 👍 162 • 💬 5 • ⏱️ 4:53 • 6h ago
 
 ---
 
@@ -256,17 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 342 • 👍 18 • 💬 211 • ⏱️ 4:29 • 10h ago
-
----
-
-**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
-
-THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
-
-📺 NCashOfficial
-
-👁️ 9K • 👍 448 • 💬 666 • ⏱️ 14:47 • 21h ago
+👁️ 425 • 👍 18 • 💬 211 • ⏱️ 4:29 • 11h ago
 
 ---
 
@@ -276,7 +266,17 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 333 • ⏱️ 26:54 • 22h ago
+👁️ 44K • 👍 2K • 💬 342 • ⏱️ 26:54 • 23h ago
+
+---
+
+**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+
+THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+
+📺 NCashOfficial
+
+👁️ 9K • 👍 447 • 💬 763 • ⏱️ 14:47 • 22h ago
 
 ---
 
@@ -286,17 +286,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 57 • 💬 137 • ⏱️ 13:19 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
-
-BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 273 • 💬 492 • ⏱️ 21:52 • 20h ago
+👁️ 2K • 👍 58 • 💬 137 • ⏱️ 13:19 • 1d ago
 
 ---
 
@@ -306,7 +296,27 @@ In this video I break down potential price targets for Ethereum and analyze the 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 350 • 💬 29 • ⏱️ 10:08 • 1d ago
+👁️ 6K • 👍 354 • 💬 29 • ⏱️ 10:08 • 1d ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=Zxcyl3zrlOY)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Crypto trading in India just levelled up eXchange1 is ...
+
+📺 Ashutosh Kumar
+
+👁️ 8K • 👍 985 • 3h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
+
+BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 281 • 💬 488 • ⏱️ 21:52 • 21h ago
 
 ---
 
@@ -316,17 +326,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 533 • 💬 417 • ⏱️ 11:29 • 2d ago
-
----
-
-**[🏳️‍🌈 Arthur Hayes Is Wrong About Ethereum](https://www.youtube.com/watch?v=FmDkVFDXk7M)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 146 • 💬 12 • ⏱️ 12:19 • 1d ago
+👁️ 11K • 👍 534 • 💬 417 • ⏱️ 11:29 • 2d ago
 
 ---
 
