@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-03T07:57:05.777796+00:00'
+updated: '2026-08-03T11:29:16.874665+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 07:57 UTC  
+**Last Updated:** August 03, 2026 at 11:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
+**24h:** -0.6%  
 **7d:** -4.0%  
 **30d:** +3.5%  
 **90d:** -21.5%  
@@ -52,21 +52,37 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.32B
+**Market Cap:** $222.56B
 Rank #2
 
 **Circulating Supply:** 120,682,242 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.8%
+-62.7%
 
 **All-Time Low:** $0.43
-+425368.7%
++425784.4%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 03, 2026](https://www.reddit.com/r/ethereum/comments/1ve3vfo/daily_general_discussion_august_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+6h ago
+
+---
+
+**[Daily General Discussion August 02, 2026](https://www.reddit.com/r/ethereum/comments/1vd8vfm/daily_general_discussion_august_02_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
 
 **[Can't unstake stETH but can swap stETH to ETH. What's the difference?](https://www.reddit.com/r/ethereum/comments/1vcn9dg/cant_unstake_steth_but_can_swap_steth_to_eth/)**
 
@@ -88,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-1d ago
+2d ago
 
 ---
 
@@ -130,22 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Zama Developer Program for Solidity Developer](https://www.reddit.com/r/ethereum/comments/1vaxn0u/zama_developer_program_for_solidity_developer/)**
-
-Season 4 bounty challenge: build a confidential PoolTogether. 5,000 cUSDT in rewards.
-
-🔗 [zama.org](https://www.zama.org/post/zama-developer-program-mainnet-season-4) • 3d ago
-
----
-
-**[the most muted word on the internet is crypto](https://www.reddit.com/r/ethereum/comments/1vafpyt/the_most_muted_word_on_the_internet_is_crypto/)**
-
-in april 2026, the head of product at X posted a screenshot: the number one most muted topic on the platform was crypto. crypto. the thing ive spent all my effort on over the better part of the last decade. the thing a lot of you spend your careers and attention on as well. with this as the backdrop, i created my newest piece. it all started out with another question: “are the OGs jaded?”, which was itself admittedly ripped from one of ETHPrague 2026’s tracks. that thought gave me the opportunity to draw a map around a much broader topic that I think could resonate out in youtube land: is there anyone left in crypto, or did the thing we were building eat itself? for this piece, I wanted to take a more “journalistic” approach at this topic, and chatted with five people who’d been here since before the big money wave started showing up. builders, contributors, dreamers… some more than a decade deep. eternal gratitudes to the cast (Griff, Justice, Amer, Naomi, and Colin) for exploring with me this topic. I hope this piece can give the public a different perspective — that of the original mission and ethos steeped in reverence for permissionless tech and what it can do for humans. i think it’s worth a watch. particularly because every single person I interviewed still talks about the technology in the present tense, yet every one of them carries the same contradiction. you can watch the full video here: https://youtu.be/0D4fAkvwd3o ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
-
-🔗 [youtu.be](https://youtu.be/0D4fAkvwd3o) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,15 @@ in april 2026, the head of product at X posted a screenshot: the number one most
 
 In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 17h ago
+
+---
+
+**[Current price of Ethereum for August 3, 2026](https://fortune.com/article/price-of-ethereum-08-03-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 27m ago
 
 ---
 
@@ -162,7 +170,7 @@ Yahoo Finance • 13h ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 13h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -170,15 +178,7 @@ The Motley Fool • 13h ago
 
 US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
 
-Crypto Briefing • 3h ago
-
----
-
-**[Bitcoin And Ethereum Edge Higher As Traders Watch Altcoin Rotation](https://www.tradingview.com/news/newsbtc:9ecd2b172094b:0-bitcoin-and-ethereum-edge-higher-as-traders-watch-altcoin-rotation/)**
-
-Bitcoin and Ethereum edged higher into July 31, while a small shift in market dominance suggested traders were again watching whether capital was rotating toward major altcoins.The validated notes show Bitcoin rising 0.29% to about $64,145.86, while Ethereum traded around the $1,890 to $1,920 range…
-
-TradingView • 2d ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -190,9 +190,11 @@ The Block • 2d ago
 
 ---
 
-**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
+**[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
 
-thestreet.com • 2d ago
+Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
+
+blockchain.news • 1d ago
 
 ---
 
@@ -204,11 +206,9 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
+**[Cathie Wood trims Ethereum exposure on 11th anniversary](https://www.thestreet.com/crypto/markets/cathie-wood-trims-ethereum-exposure-on-11th-anniversary)**
 
-Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
-
-blockchain.news • 1d ago
+thestreet.com • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 17K • 👍 697 • 💬 95 • ⏱️ 15:24 • 19h ago
+👁️ 19K • 👍 740 • 💬 96 • ⏱️ 15:24 • 22h ago
 
 ---
 
@@ -248,7 +248,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 408 • 💬 249 • ⏱️ 19:51 • 6h ago
+👁️ 7K • 👍 511 • 💬 257 • ⏱️ 19:51 • 10h ago
+
+---
+
+**[Why $5 ADA Requires Flipping Ethereum First](https://www.youtube.com/watch?v=8MfIecFLrFE)**
+
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 288 • 👍 46 • 💬 43 • ⏱️ 16:11 • 1h ago
 
 ---
 
@@ -258,17 +268,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 315 • ⏱️ 26:54 • 1d ago
-
----
-
-**[THIS WEEK WILL BE HUGE. (BTC and ETH wave structure analysis)](https://www.youtube.com/watch?v=ahLHkcEfnuw)**
-
-CHART JUNKIES MEMBERSHIP Access my trades & system. Full Discord Access: https://whop.com/chart-junkies/chart-junkies/ ...
-
-📺 Chart Junkie
-
-👁️ 2K • 👍 118 • 💬 39 • ⏱️ 13:40 • 14h ago
+👁️ 56K • 👍 2K • 💬 316 • ⏱️ 26:54 • 1d ago
 
 ---
 
@@ -278,7 +278,17 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:53 • 17h ago
+👁️ 3K • 👍 195 • 💬 5 • ⏱️ 4:53 • 21h ago
+
+---
+
+**[BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZlXb0XqHLQ4)**
+
+BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 259 • 💬 169 • ⏱️ 18:28 • 14h ago
 
 ---
 
@@ -288,7 +298,17 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 10K • 👍 455 • 💬 757 • ⏱️ 14:47 • 1d ago
+👁️ 10K • 👍 457 • 💬 756 • ⏱️ 14:47 • 1d ago
+
+---
+
+**[THIS WEEK WILL BE HUGE. (BTC and ETH wave structure analysis)](https://www.youtube.com/watch?v=ahLHkcEfnuw)**
+
+CHART JUNKIES MEMBERSHIP Access my trades & system. Full Discord Access: https://whop.com/chart-junkies/chart-junkies/ ...
+
+📺 Chart Junkie
+
+👁️ 3K • 👍 124 • 💬 40 • ⏱️ 13:40 • 17h ago
 
 ---
 
@@ -298,17 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 635 • 👍 23 • 💬 205 • ⏱️ 4:29 • 22h ago
-
----
-
-**[🚨August Crypto Report! Bitcoin vs Ethereum vs XRP vs Solana (This Is Not Good)](https://www.youtube.com/watch?v=Y8f3WvqlXmM)**
-
-Bitcoin vs Ethereum vs XRP vs Solana: August Breakdown. Crypto monthly returns exposed. What is about to happen next?
-
-📺 Zach Humphries
-
-👁️ 773 • 👍 55 • 💬 79 • ⏱️ 12:02 • 15h ago
+👁️ 684 • 👍 23 • 💬 269 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -318,17 +328,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 535 • 💬 413 • ⏱️ 11:29 • 2d ago
-
----
-
-**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
-
-Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 455 • 💬 22 • ⏱️ 34:32 • 2d ago
+👁️ 11K • 👍 535 • 💬 412 • ⏱️ 11:29 • 2d ago
 
 ---
 

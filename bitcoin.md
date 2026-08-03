@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-03T07:57:05.771652+00:00'
+updated: '2026-08-03T11:29:16.868459+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 07:57 UTC  
+**Last Updated:** August 03, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -2.1%  
-**30d:** -1.6%  
-**90d:** -23.1%  
-**1y:** -45.6%  
+**24h:** -0.6%  
+**7d:** -1.9%  
+**30d:** -1.4%  
+**90d:** -23.0%  
+**1y:** -45.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1255.20B
+**Market Cap:** $1257.72B
 Rank #1
 
-**Circulating Supply:** 20,065,090 BTC
+**Circulating Supply:** 20,065,137 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.4%
+-50.3%
 
 **All-Time Low:** $67.81
-+92151.9%
++92331.8%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I've been where some of you are today. During the FTX collapse, I lost over $2 million USD. The cascade triggered margin calls, then liquidation. In what felt like an instant, six years of stacking disappeared. (Can send proof to mods if needed) I remember the disbelief, the anger, the sleepless nights, and asking myself, "What now?" Here's what I learned: money can disappear overnight, but your knowledge, your work ethic, your experience, and your ability to rebuild cannot be liquidated. If you were affected by Coldcard's wallet exploit, I'm genuinely sorry. Don't make irreversible decisions because of a financial loss. Reach out to family, friends, or your community. Take a breath. The charts will move again. Opportunities will come again. Your portfolio is not your identity. Your net worth is not your self-worth. Tomorrow, the sun will rise again. And as long as you're here, you still have a chance to build something even greater than what you lost.
 
-9h ago
+12h ago
 
 ---
 
 **[Coldcard seed + passphrase could be vulnerable as well](https://www.reddit.com/r/Bitcoin/comments/1vdzo8p/coldcard_seed_passphrase_could_be_vulnerable_as/)**
 
-6h ago
+9h ago
 
 ---
 
 **[This CEO just challenged Anthropic to hack the 100 bitcoin in his wallet address, worth $6 million.](https://www.reddit.com/r/Bitcoin/comments/1vdu0rl/this_ceo_just_challenged_anthropic_to_hack_the/)**
 
-10h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ I've been where some of you are today. During the FTX collapse, I lost over $2 m
 
 I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your ColdCard. If funds are recoverable at some point, they will probably be sent back to their original owners. If you are isolated, feel like something could go wrong or else, please please please reach out to someone. https://findahelpline.com Don’t keep things to yourself. You’re gonna need to talk about it. Time always does its thing. And yes, you can believe that the Bitcoin community is going to be ferocious on this one. If you have the courage to do so, you can always take a look at X. But you don’t have to. What matters most is you. Take care of yourself people.
 
-7h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your C
 
 I generated my keys and made transactions using Coldcard MK3 and I thought it was the ultimate, air gapped solution to protect my BTC I thought it was one of the most sophisticated but worthwhile solutions to make me sleep better at night knowing my keys were safe. Out of chance not that long ago I moved over 3 BTC out of my Coldcard generated key to Kraken so I can trade for a bit then move it back. I only left a tiny amount in that key and it ended up being drained. I don't know if I should consider myself lucky or not
 
-6h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ I generated my keys and made transactions using Coldcard MK3 and I thought it wa
 
 It is unbelievable that some kid with an LLM just stole $100m+ because no one bothered to check the source code. Also on GLM 5.2 (trained 16th June, no internet access).
 
-22h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ It is unbelievable that some kid with an LLM just stole $100m+ because no one bo
 
 “A hardware wallet is supposed to solve one problem: keep your Bitcoin keys somewhere no attacker can reach them. This week showed what happens when the flaw sits inside the wallet itself. A firmware bug that's been shipping in Coldcard devices since 2021 let an attacker guess supposedly random seed phrases from the outside, no physical access, no phishing, no malware required, and drain funds from thousands of addresses. The running total is already past $88 million, and it's still climbing. A flaw in Coldcard's firmware has put the spotlight on a basic part of wallet security: how the device generates its seed in the first place. The issue came into focus after an attacker drained 1,196 Bitcoin addresses on July 30 in a 41-minute stretch, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research tied the sweep to Coldcard, the Bitcoin-only hardware wallet line made by Coinkite, and said the pattern matched a firmware problem rather than a random event. Two more waves have surfaced since, and Galaxy's running total now stands at 1,367.05 BTC, worth about $88.6 million, across 4,585 addresses. The firm describes that as a preliminary observed figure that could still climb as it traces more on-chain activity. The problem goes back to a March 2021 firmware integration error. Instead of using the STM32 hardware random number generator, affected devices fell back to a deterministic software pseudorandom number generator when creating seeds. That matters because seed generation is supposed to produce output that cannot be guessed or reconstructed.”
 
-🔗 [TechSpot](https://www.techspot.com/news/113322-coldcard-firmware-flaw-hackers-drain-70-million-bitcoin.html) • 11h ago
+🔗 [TechSpot](https://www.techspot.com/news/113322-coldcard-firmware-flaw-hackers-drain-70-million-bitcoin.html) • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ It is unbelievable that some kid with an LLM just stole $100m+ because no one bo
 
 Took me years of DCA’ing to get there. I went with Coldcard because it was marketed as “ultra-secure.” I knew multisig was technically safer. I wasn’t worried about my key being guessed… I was worried about someone physically stealing it or it being destroyed. So that was the plan: 1 BTC, cold storage, steel plate backup, fire bag, fire safe. And then… wait. I hit the goal. I finally felt content. Now I just feel embarrassed. Like I let my family down. The worst part? I know Bitcoin isn’t going anywhere. I’m not hoping it fails… I think it’s going to keep making new all-time highs, and every time it does, I’ll be sitting here thinking about what could’ve been. ** I originally brain dumped my story to Claude to make it sound better because I have poor grammar. I’m admitting this in an edit at my own expense or whatever. I’m not embarrassed about my poor grammar or using AI to improve it. That said, in hindsight, it would have been more personal to not have done that. I’m sorry.
 
-17h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Took me years of DCA’ing to get there. I went with Coldcard because it was mar
 
 My seed used with this device was strong and I was unaffected by the security flaw in the RNG setup. Still, I’m re-doing everything. I am moving back to my ledger until I get a multisig setup with a SeedSigner or similar. It’s gonna be a pain to generate a new private key or two and stamp em, so I am getting my sledgehammer swinging arm back in good shape. What about you? Be safe out there…
 
-11h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ My seed used with this device was strong and I was unaffected by the security fl
 
 Nvk history posts show he was completely aware of firmware vector attacks, and narrative is, never in 5 years they audited the code in the single most safety-critical function on the device, not even SWE prompting to ask a frontier model "search for bad seed generation code" according to his own awareness of thst type of vulnerability. "hey but it is open source and has been open and publicly available"...so was he expecting community do their security job then, but at the same time he claims "most people don't check software signatures and never will", so he claims you must trust the hardware wallet vendor to do that, but they neither are doing that job, lame, isn't it?. Or....he just knew the vector of drain was just to target coldcard non geeky users who would not care to "dice rolls" at the right time....Damage is done, case gets out of notice after a week, and you just stay in business... Ok no. Enough of conspiration theories. Entropy of events suggest that this scenario is likely impossible...😂
 
-11h ago
+14h ago
 
 ---
 
@@ -161,7 +161,47 @@ Nvk history posts show he was completely aware of firmware vector attacks, and n
 
 A Coldcard firmware bug may have let attackers steal roughly $70 million in bitcoin in under an hour, and the company says attacks are still ongoing. Estimated losses now at $89M.
 
-Fox Business • 7h ago
+Fox Business • 10h ago
+
+---
+
+**[Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average](https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average)**
+
+Strategy begins tracking Bitcoin’s 200-week moving average as the price sits right on the historically important level. Here’s why it matters.
+
+CoinDesk • 5h ago
+
+---
+
+**[Current price of Bitcoin for August 3, 2026](https://fortune.com/article/price-of-bitcoin-08-03-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+fortune.com • 27m ago
+
+---
+
+**[Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html)**
+
+Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees](https://finance.yahoo.com/markets/crypto/articles/trump-media-sells-more-bitcoin-082738663.html)**
+
+Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Trump Media says $165 million bitcoin transfer to Crypto.com wasn't a sale](https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets)**
+
+The company said a similar transfer to Crypto.com in May was part of a broader trading strategy and did not represent a sale.
+
+The Block • 20h ago
 
 ---
 
@@ -169,23 +209,7 @@ Fox Business • 7h ago
 
 Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
 
-CoinDesk • 6h ago
-
----
-
-**[Cardano Tops Weekly Crypto Gainer Charts as ADA Soars 11% Over 7 Days — Bitcoin, Dogecoin Left in the Dust](https://uk.finance.yahoo.com/news/cardano-tops-weekly-crypto-gainer-071121911.html)**
-
-Cardano (CRYPTO: ADA) emerged as the best-performing large-cap cryptocurrency last week, defying losses among the market’s heavyweights. Cardano Races to a 1-Month High ADA nearly rallied 11% in the last seven days, the highest among coins with at least $1 billion in market capitalization. ADA’s returns stood out against Bitcoin’s stagnation and Dogecoin’s sharp losses. The token climbed to a near one-month high during this period. Cryptocurrency7-Day Gains +/-Cardano+10.98%BNB Coin (CRYPTO: BTC
-
-Yahoo Finance UK • 45m ago
-
----
-
-**[Quantum Blockchain Technologies says Method C AI Oracle produced "consistent advantage" in Bitcoin mining tests](https://uk.finance.yahoo.com/news/quantum-blockchain-technologies-says-method-064600651.html)**
-
-Quantum Blockchain Technologies PLC (AIM:QBT, FRA:BYA1) said its Method C AI Oracle produced a consistent advantage over traditional Bitcoin mining in tests conducted after the software was adapted for an ASIC manufacturer’s mining rig. The company’s researchers have completed the...
-
-Yahoo Finance UK • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -193,21 +217,7 @@ Yahoo Finance UK • 1h ago
 
 A quantum computer could crack the cryptography guarding millions of Bitcoin. Inside the freeze debate, the $470 billion exposed, and the startups racing to fix it.
 
-forbes.com • 1d ago
-
----
-
-**[Bitcoin Falls To 3-Week Low—Here’s Why](https://www.forbes.com/sites/tylerroush/2026/07/31/bitcoin-hits-3-week-low-as-strategy-plans-5-billion-sale/)**
-
-The largest institutional holder of bitcoin has shifted to selling its position in recent months.
-
-forbes.com • 2d ago
-
----
-
-**[Chinese police AI algorithm tracks bitcoin money laundering with 90% accuracy](https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy)**
-
-South China Morning Post • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -219,17 +229,9 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Price Prediction: What Price Will BTC Hit in August?](https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/)**
+**[Bitcoin Slides As Strategy Plans Up To $5 Bil In Crypto Sales](https://www.investors.com/news/bitcoin-price-falls-strategy-5-billion-crypto-sales-q2-earnings/)**
 
-Bitcoin trades near $63,000 going into its worst month on record. Here's where we think BTC could trade by the end of August.
-
-24/7 Wall St. • 10h ago
-
----
-
-**[Billionaire Ray Dalio reveals exact Bitcoin allocation](https://www.thestreet.com/crypto/markets/billionaire-ray-dalio-reveals-exact-bitcoin-allocation)**
-
-thestreet.com • 22h ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -241,7 +243,7 @@ thestreet.com • 22h ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 56 • 💬 10 • 9h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 58 • 💬 13 • 12h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -257,7 +259,7 @@ The alleged thieves infected 8,000 devices.
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 17 • 💬 0 • 9h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 17 • 💬 0 • 13h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -273,7 +275,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 13h ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 16h ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
@@ -299,19 +301,19 @@ An interactive timeline of money, gold, fiat, and Bitcoin — from 9000 BC to th
 
 ---
 
+**[Coldcard wallet RNG flaw likely linked to $88M Bitcoin theft](https://news.ycombinator.com/item?id=49154116)**
+
+A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
+
+⬆️ 1 • 💬 0 • 24m ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+
+---
+
 **[Radar – Your Messages. Your Bitcoin. Together, at Last](https://news.ycombinator.com/item?id=49129036)**
 
 End-to-end encrypted chat with self-custodial Bitcoin Lightning payments. Settle in under a second.
 
 ⬆️ 1 • 💬 0 • 2d ago • [Radar](https://radar.chat/)
-
----
-
-**[I mapped how 140 governments legally treat Bitcoin](https://news.ycombinator.com/item?id=49075070)**
-
-The first Bitcoin newsletter that rewards you with sats while you learn about regulation, sovereignty, and legal developments.
-
-⬆️ 1 • 💬 0 • 6d ago • [The Bitcoin Act](https://thebitcoinact.xyz/bitcoin-legal-map)
 
 ---
 
@@ -325,7 +327,7 @@ A massive wallet exploit, Strategy's potential Bitcoin sales, and growing regula
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 350 • ⏱️ 16:20 • 8h ago
+👁️ 17K • 👍 1K • 💬 409 • ⏱️ 16:20 • 11h ago
 
 ---
 
@@ -335,7 +337,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 639 • 💬 548 • ⏱️ 18:19 • 16h ago
+👁️ 11K • 👍 652 • 💬 603 • ⏱️ 18:19 • 19h ago
 
 ---
 
@@ -345,7 +347,17 @@ In this urgent PSA episode of Coin Stories recorded as the ColdCard hack unfolde
 
 📺 Natalie Brunell
 
-👁️ 17K • 👍 784 • 💬 754 • ⏱️ 22:56 • 12h ago
+👁️ 20K • 👍 866 • 💬 800 • ⏱️ 22:56 • 16h ago
+
+---
+
+**[$6 Trillion Bitcoin Signal - Saylor Just Sent This](https://www.youtube.com/watch?v=313e6lTlkaQ)**
+
+Subscribe before the next Strategy Bitcoin purchase. Michael Saylor may have only posted three words, but Bitcoiners know his ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 251 • 💬 147 • ⏱️ 17:12 • 13h ago
 
 ---
 
@@ -355,27 +367,7 @@ The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 139 • ⏱️ 10:34 • 10h ago
-
----
-
-**[25-Year Trading Veteran Reveals MASSIVE Crypto Prediction (top coins)](https://www.youtube.com/watch?v=cGTvc-rrREU)**
-
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 2K • 💬 315 • ⏱️ 26:54 • 1d ago
-
----
-
-**[Bitcoin Is The Best Hedge Fund That&#39;s Ever Existed](https://www.youtube.com/watch?v=03S1ECNLBnA)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 53K • 👍 2K • 💬 55 • ⏱️ 59:51 • 1d ago
+👁️ 22K • 👍 1K • 💬 144 • ⏱️ 10:34 • 14h ago
 
 ---
 
@@ -385,17 +377,27 @@ Let's talk about Bitcoin! I will be speaking at the Canterbury Tech Summit on Se
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 144 • ⏱️ 8:43 • 1d ago
+👁️ 54K • 👍 3K • 💬 144 • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[Bitcoin Cold Storage FAIL. $ Millions GONE. Are YOU Affected?](https://www.youtube.com/watch?v=yyR45HGxDIk)**
+**[Bitcoin Had a VERY Rough Week…](https://www.youtube.com/watch?v=0EWORm4JBXQ)**
 
-ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW can the masses trust crypto? A sad day for ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Digital Asset News
+📺 CryptosRUs
 
-👁️ 22K • 👍 896 • 💬 172 • ⏱️ 22:31 • 2d ago
+👁️ 8K • 👍 563 • 💬 581 • ⏱️ 24:18 • 10h ago
+
+---
+
+**[Bitcoin Is The Best Hedge Fund That&#39;s Ever Existed](https://www.youtube.com/watch?v=03S1ECNLBnA)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 54K • 👍 2K • 💬 55 • ⏱️ 59:51 • 1d ago
 
 ---
 
@@ -405,17 +407,17 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 4K • 👍 428 • 💬 68 • ⏱️ 22:10 • 8h ago
+👁️ 5K • 👍 482 • 💬 74 • ⏱️ 22:10 • 12h ago
 
 ---
 
-**[Massive Bitcoin Hack! Your Bitcoin Could Be Stolen (What You Need to Know)](https://www.youtube.com/watch?v=AM_XRhMkCUc)**
+**[$71 Million Bitcoin Attack - They Bought Anyway](https://www.youtube.com/watch?v=OCHRrNVwF38)**
 
-A serious vulnerability affecting some Bitcoin wallets has put certain Bitcoin holders at risk, but this isn't a failure of Bitcoin or self ...
+Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.com More than $71 million worth of Bitcoin has now ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 21K • 👍 1K • 💬 456 • ⏱️ 16:44 • 2d ago
+👁️ 5K • 👍 244 • 💬 314 • ⏱️ 17:03 • 1d ago
 
 ---
 

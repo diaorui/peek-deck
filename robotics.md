@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T07:57:05.781063+00:00'
+updated: '2026-08-03T11:29:16.877952+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 07:57 UTC  
+**Last Updated:** August 03, 2026 at 11:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,21 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 6h ago
+wsj.com • 10h ago
+
+---
+
+**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
+
+South China Morning Post • 1d ago
+
+---
+
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+
+The Robot Report • 22h ago
 
 ---
 
@@ -124,19 +138,11 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 ---
 
-**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+**[Faraday Future Launches U.S. Robotics Program as FCC Adds Foreign Robots](https://www.stocktitan.net/news/FFAI/faraday-future-global-ceo-yt-jia-shares-weekly-investor-update-sets-78l61vnoyyap.html)**
 
-Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+FF EAI Robotics reached 394 units toward a 2,000-unit full-year target; initial implementation of three of four cores is complete, with a partner conference planned soon.
 
-The Robot Report • 19h ago
-
----
-
-**[Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing](https://www.independent.co.uk/tech/foundation-startup-military-robots-trump-b3024226.html)**
-
-The co-founder of Foundation Future Industries would build armed robots ‘tomorrow’ if the U.S. military asked, he tells Josh Marcus - and that has human rights experts extremely worried
-
-The Independent • 12h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -152,7 +158,15 @@ FreightWaves • 2d ago
 
 Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
+
+---
+
+**[100 driverless oilfield trucks planned for Permian Basin as US firms scale fleet by 2027](https://interestingengineering.com/ai-robotics/100-driverless-oilfield-trucks-in-us)**
+
+Atlas announces its intentions to expand its driverless truck fleet to 100 by mid-2027 for its sand delivery operations in the Permian Basin.
+
+Interesting Engineering • 22h ago
 
 ---
 
@@ -160,31 +174,15 @@ Business Insider • 1d ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-PYMNTS.com • 1d ago
+PYMNTS.com • 2d ago
 
 ---
 
-**[Hereford robot sessions aim to inspire future engineers](https://www.bbc.com/news/articles/cy0jw7j2x5lo)**
+**[FCC Bans Humanoid Robots From China](https://www.presidentialprayerteam.org/2026/08/03/fcc-bans-humanoid-robots-from-china/)**
 
-Schoolchildren in Hereford are given a taste of how to build robots from scratch.
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
 
-BBC • 3d ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-morningbrew.com • 2d ago
-
----
-
-**[New AI and robotics studio at Lanier Tech to prepare students for manufacturing careers](https://www.wsbtv.com/news/local/new-ai-robotics-studio-lanier-tech-prepare-students-manufacturing-careers/RLZQ4R36OJGYJGC4YFGLOXCFDM/)**
-
-College officials said graduates will learn how to assemble, troubleshoot and maintain AI-powered manufacturing equipment — skills that are in high demand as companies continue investing in automation.
-
-WSB-TV • 10h ago
+The Presidential Prayer Team • 2h ago
 
 ---
 
@@ -198,7 +196,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 217K • 👍 6K • 💬 506 • ⏱️ 3:00 • 3d ago
+👁️ 219K • 👍 6K • 💬 509 • ⏱️ 3:00 • 3d ago
 
 ---
 
@@ -208,7 +206,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 16K • 👍 374 • 💬 35 • ⏱️ 11:26 • 19h ago
+👁️ 20K • 👍 441 • 💬 42 • ⏱️ 11:26 • 23h ago
 
 ---
 
@@ -228,7 +226,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 72K • 👍 374 • 💬 528 • ⏱️ 6:04 • 4d ago
+👁️ 73K • 👍 378 • 💬 530 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -238,7 +236,27 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 77K • 👍 938 • 💬 384 • ⏱️ 3:14 • 17h ago
+👁️ 102K • 👍 1K • 💬 443 • ⏱️ 3:14 • 21h ago
+
+---
+
+**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
+
+War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 414 • 💬 100 • ⏱️ 16:58 • 22h ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 23K • 👍 467 • 💬 39 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -252,23 +270,13 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
-**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
 
-War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
 
-📺 Manni-Gaming
+📺 Creative Channel
 
-👁️ 10K • 👍 384 • 💬 94 • ⏱️ 16:58 • 19h ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 109K • 👍 2K • 💬 324 • ⏱️ 1:08:35 • 4d ago
+👁️ 4K • 👍 251 • 💬 21 • ⏱️ 9:14 • 22h ago
 
 ---
 
@@ -278,15 +286,7 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 12K • 👍 445 • 💬 26 • ⏱️ 5:33 • 1d ago
-
----
-
-**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
-
-📺 Omar Agamy
-
-👁️ 571K • 👍 25K • 💬 2K • ⏱️ 0:40 • 3d ago
+👁️ 13K • 👍 458 • 💬 26 • ⏱️ 5:33 • 1d ago
 
 ---
 
