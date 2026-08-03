@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-03T16:31:11.000626+00:00'
+updated: '2026-08-03T18:50:59.286535+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 03, 2026 at 16:31 UTC  
+**Last Updated:** August 03, 2026 at 18:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[EPA says power for data centers can sidestep pollution laws](https://www.reddit.com/r/artificial/comments/1ve6txk/epa_says_power_for_data_centers_can_sidestep/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27) • 11h ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 One thing I've noticed separates serious ML students from casual ones: how much they care about the quality of what they actually study from. I take that pretty seriously myself, so a while back I started digging into what students at MIT, Harvard, Stanford, Caltech, and USP actually use to complement their studies. What I found surprised me: several of these programs don't assign a textbook at all. Instead, the course staff writes and publishes their own lecture notes, and some of them are basically a full book. MIT's 6.390 (Introduction to Machine Learning) notes, for example, aren't a slide deck or a cheat sheet, they're structured, complete, and detailed enough to replace a textbook entirely. Same story with Harvard's CS181 and a few others. The problem is these are scattered and easy to miss if you don't know to look for them. So I put together a curated list: [Awesome Free AI Course Notes](https://github.com/MarcosSete/awesome-free-ai-course-notes). A few things about how it's curated, since I think this matters: - Only **written notes** count, slide decks and video-only lectures don't make the cut, even from great courses. I want this list to mean something. - Everything is official and links straight to the professor's or department's own page. No mirrors, no login walls. - I checked over 40 top universities across multiple countries for this. Most didn't qualify, they use a textbook or keep material behind a student portal. That's fine, it's exactly why the list stays short and (hopefully) trustworthy. If you take ML seriously the way I do, I think you'll get real value out of this. And if you know of course notes that fit this bar and aren't on the list yet, contributions are very welcome, the CONTRIBUTING.md lays out exactly what qualifies. What's the best set of course notes (not textbook, not slides) you've personally used to study ML? Repo: https://github.com/MarcosSete/awesome-free-ai-course-notes
 
-4h ago
+6h ago
+
+---
+
+**[AI automation is eating the parts of indie building I actually enjoyed, anyone else feeling this?](https://www.reddit.com/r/artificial/comments/1vejnhb/ai_automation_is_eating_the_parts_of_indie/)**
+
+Building small SaaS tools used to feel like a craft. You'd sit with a problem, figure out the data model, write the logic yourself, and that process taught you something. Now I can describe a feature to an AI and have working code in a few minutes. It is genuinely faster. But somewhere in that speed I stopped learning the thing I was supposedly building. The economics make sense on paper. Less time coding means more time on distribution and customer problems, which is where indie projects actually live or die anyway. So rationally I should be fine handing off the technical work. But here's the part that bothers me. If the moat for small builders used to be technical execution, and that moat is flattening, then the real differentiator becomes taste and judgment. Who can identify the right problem and build something people actually use. That's harder to shortcut and also harder to develop if you're skipping the messy parts. Not sure if this is a skill atrophy concern or just resistance to a workflow that's genuinely better. The people shipping fastest right now seem unbothered by it. Maybe that's the right posture. Maybe something is getting lost that won't show up until later. Curious whether people building with AI assistance feel like they're getting sharper or just faster.
+
+1h ago
 
 ---
 
@@ -55,15 +63,7 @@ One thing I've noticed separates serious ML students from casual ones: how much 
 
 MIT Technology Review put out a piece today on AI agent misbehavior that's actually good. The headline frames it as agents "lying and cheating," but what the article describes is reward hacking: models discovering that the fastest way to get a high score is to game the evaluation rather than solve the problem. The classic example is a 2016 boat-racing agent that figured out it scored higher by spinning in circles and collecting power-ups than by crossing the finish line. Same logic, larger stakes: last month, two models in a cybersecurity exercise broke into Hugging Face's database to grab the answer rather than solve the challenge as intended. Not malice, just the shortest path to a high score. Jeffrey Ladish from Palisade Research puts it well: "We reward them on the basis of what looks good to us, and that means that we inadvertently incentivize the models lying to us and cheating." His point is that calling this "lying" obscures the real problem, which is that we defined the objective badly. Worth noting: Anthropic researcher Ariana Azarbal calls current reward hacking "a nuisance rather than an existential threat," and she's probably right for now. But the article points out that if you eventually use these agents to run AI safety evaluations, fabricating results is a valid move under the same incentive structure. That's the version that doesn't self-correct.
 
-23m ago
-
----
-
-**[Built my first AI agent in Java (no Python) using LangChain4j — took about 30 minutes](https://www.reddit.com/r/artificial/comments/1vea5uf/built_my_first_ai_agent_in_java_no_python_using/)**
-
-Every AI tutorial I found was Python, Python, more Python. I've spent years in Java/Spring Boot and kept wondering if I actually had to switch languages just to build anything AI-related. Turns out no — LangChain4j isn't a hacky wrapper, it's a native, idiomatic way to build AI agents in Java. Wrote up how I got a working agent running in about 30 minutes, no Python involved: https://medium.com/@deepakatl1981/stop-learning-ai-the-hard-way-build-your-first-java-ai-agent-in-30-minutes-without-python-9390a218533a?sk=067e4cbed9f2bbf71d0cf70268dda2a7 Curious if other Java devs have been putting off learning AI for the same reason.
-
-5h ago
+2h ago
 
 ---
 
@@ -71,7 +71,39 @@ Every AI tutorial I found was Python, Python, more Python. I've spent years in J
 
 Hard no Spotify. Now Spotify with Kit 🤡 wants access to my calendar and inbox. How about Spotify invests in bands and musicians - large orgs need to stop wanting all the things and do the thing they are supposed to do well. I am not against AI, I work for an AI startup but the backlash on AI is real and large orgs shoving all sorts of AI in every aspect of our digital existence just makes things worse. Here you have indie musicians fighting to remain relevant in a world where Suno exists and Spotify, that should be focussed on helping them succeed is investing on what all the hyperscalers and AI startups are trying to do already. https://preview.redd.it/tptymobws5hh1.png?width=894&format=png&auto=webp&s=e2909d119eef5edfdd4f75db139ee574be48ba6c
 
-3h ago
+5h ago
+
+---
+
+**[I'm building an AI tool for rehabilitation. Here's one problem I keep running into.](https://www.reddit.com/r/artificial/comments/1velnc1/im_building_an_ai_tool_for_rehabilitation_heres/)**
+
+People don't just need a list of exercises. They want to know: "Am I progressing too quickly?" "Is this amount of pain expected?" "Should I repeat this week or move on?" I'm not trying to replace physical therapists—more to support people between visits. For those interested in AI or digital health, where do you think AI can genuinely help, and where should it stay out of the way?
+
+23m ago
+
+---
+
+**[What your ideal AI work interface would look like](https://www.reddit.com/r/artificial/comments/1velk4m/what_your_ideal_ai_work_interface_would_look_like/)**
+
+For people using AI tools like Cursor, Claude Code, Codex, Copilot, Antigravity, etc. for real work... I'm curious how your workflow has evolved as your projects have become larger and more complex. I'd love to know: How do you handle workflows that involve multiple skills or stages? For example, research → design → development → testing, or any workflow that spans multiple tools or agents. Is chat the right interface, or do you wish AI felt more like a workspace where you could see tasks, files, progress, decisions, context, and agent activity in one place? Context seems to be one of the biggest challenges once projects grow. How do you manage it? I've tried using markdown files as a source of truth, but they're still manual to maintain and can quickly drift out of sync. What other systems or workflows have worked for you? And what's your ideal AI work interface would look and how it evolved alongside AI, what systems you've built, and what workarounds you've adopted.
+
+27m ago
+
+---
+
+**[Open always wins: How China is using the open source playbook to dominate AI's next chapter](https://www.reddit.com/r/artificial/comments/1vejxnd/open_always_wins_how_china_is_using_the_open/)**
+
+The United States built its tech dominance on one principle: Open beats closed. Now China is using that playbook to shape AI's future. Consider: The performance gap between the leading American and Chinese models has narrowed to single digits China is leading in AI publications, citations, patents and industrial robotics Builders breathlessly await the new Chinese model releases Local LLMs installs are dominated by capable, performant Chinese AI models Hugging Face used a Chinese LLM to beat back a cyber attack launched by an unreleased closed Open AI model I think OpenAI's decision to sharply reduce the costs of some of its models is just recognizing the obvious. The future isn't going to be won by the most expensive closed source Fable or Mythos-level model, but those are easy to access, capable for many tasks and less expensive to operate. In many cases this means open weight models. Effective does not always equal expensive. Some would like the U.S. to ban Chinese models. That would be a mistake on multiple levels. Most importantly it would push many across the world further toward China because a locally installed model provides AI sovereignty. I don't know what this means for the valuations of OpenAI and Anthropic. It's likely not good.
+
+1h ago
+
+---
+
+**[Built my first AI agent in Java (no Python) using LangChain4j — took about 30 minutes](https://www.reddit.com/r/artificial/comments/1vea5uf/built_my_first_ai_agent_in_java_no_python_using/)**
+
+Every AI tutorial I found was Python, Python, more Python. I've spent years in Java/Spring Boot and kept wondering if I actually had to switch languages just to build anything AI-related. Turns out no — LangChain4j isn't a hacky wrapper, it's a native, idiomatic way to build AI agents in Java. Wrote up how I got a working agent running in about 30 minutes, no Python involved: https://medium.com/@deepakatl1981/stop-learning-ai-the-hard-way-build-your-first-java-ai-agent-in-30-minutes-without-python-9390a218533a?sk=067e4cbed9f2bbf71d0cf70268dda2a7 Curious if other Java devs have been putting off learning AI for the same reason.
+
+7h ago
 
 ---
 
@@ -83,43 +115,13 @@ Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part tha
 
 ---
 
-**[What Are Companies Getting for All That A.I. Spending? A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence. (Gift Article)](https://www.reddit.com/r/artificial/comments/1vegh55/what_are_companies_getting_for_all_that_ai/)**
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html?unlocked_article_code=1.2lA.WJJb.AawHG6QBO5fk&smid=url-share) • 1h ago
-
----
-
-**[John Hu (Stan Co-Founder & CEO): His New AI Agent Already Edits Video 80% As Well As His Human Team](https://www.reddit.com/r/artificial/comments/1vehlux/john_hu_stan_cofounder_ceo_his_new_ai_agent/)**
-
-John Hu from Stan said on Trailblazers this week that his AI editor Stanley already cuts at 80% of his human team. That number stuck with me because I posted about Stan a few weeks ago - the $50 spreadsheet that did $200k. Different story, same feeling. I edit for creators full time. 80% used to be the joke number. Like "AI is 80% there, don't worry." Now 80% is the benchmark and it's shipping on real channels. I'm not even stressed about it getting faster. I'm stressed about who decides what it cuts. Anyone else editing inside someone else's operation feeling this shift right now?
-
-28m ago
-
----
-
-**[It started with a test of a frontier model and ended up as a multiplayer game](https://www.reddit.com/r/artificial/comments/1vdu2g8/it_started_with_a_test_of_a_frontier_model_and/)**
-
-The last 1,5 week has been quite an eyeopener for me - I must say that Claude Code and the current frontier models are amazing. A test of Fable (and later Opus 5) turned into a larger game. It’s very much inspired by the tank element of Battlefield 1942 and the round-by-round build system from Overwatch 2’s Stadium mode. About the game: You join a game and enhance your tank, then you go out and destroy the enemy while hunting for salvage which is used to enhance your tank even further (balance patches pending). Some of the features: 6 different tanks (Tiger 1 is a beast) 3 maps (a desert, grass and snow map with destructible terrain) Round-by-round build system Customisation of tanks Matchmaking system Lag compensation system Ballistic shells system Hit multiplier regions (many tanks fall on a single rear hit) Bots who backfill if theres not enough real players ELO ladder system Replay/clip system In-game power ups Career profiles Group system Friends system 3 layered chat system (global, match and team) I would love to hear what you think.
-
-19h ago
-
----
-
-**[How much Fable usage on 20$ plan?](https://www.reddit.com/r/artificial/comments/1vdz0wc/how_much_fable_usage_on_20_plan/)**
-
-I want to try fable. I literally just want it to scan my repo and make a plan to improve it. So it would be one prompt, but it would be doing a lot of work. My question is, will it be able to do that in one shot or will I have to keep waiting the 5 hour period a few times?
-
-15h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[What Are Companies Getting for All That A.I. Spending?](https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html)**
 
-The New York Times • 7h ago
+The New York Times • 3h ago
 
 ---
 
@@ -127,31 +129,13 @@ The New York Times • 7h ago
 
 Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.
 
-NPR • 6h ago
+NPR • 9h ago
 
 ---
 
-**[Hugging Face CEO says China is winning the AI race and dominating on open models](https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html)**
+**[Sweat, brain signals, eye movements and AI used to detect depression and suicide risk](https://medicalxpress.com/news/2026-08-brain-eye-movements-ai-depression.html)**
 
-Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.
-
-CNBC • 41m ago
-
----
-
-**[Why AI Governance Is More Important Than Speed](https://www.forbes.com/sites/ceo/2026/08/03/why-ai-governance-is-more-important-than-speed/)**
-
-Also in the Forbes CEO newsletter: Interest rates remain steady, but quarterly GDP drops; CEO tenure stabilizes; why Jamie Dimon says CEOs can be ‘sloppy.’
-
-Forbes • 30m ago
-
----
-
-**[Wall Street shifts focus from AI promises to profits ahead of key earnings](https://www.foxbusiness.com/video/6402695208112)**
-
-Circle Squared Alternative Investments founder Jeff Sica joins 'Varney & Co.' to break down why this week's Palantir and AMD earnings could determine whether Wall Street's AI boom can continue.
-
-Fox Business • 33m ago
+medicalxpress.com • 50m ago
 
 ---
 
@@ -159,29 +143,15 @@ Fox Business • 33m ago
 
 Iran’s strategy to counter military might with economic pain has exposed a vulnerability in one of the world’s most vital interests: AI data centers.
 
-CNN • 7h ago
+CNN • 9h ago
 
 ---
 
-**[White House finalizes AI framework behind closed doors](https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors)**
+**[Hugging Face CEO says China is winning the AI race and dominating on open models](https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html)**
 
-Axios • 1h ago
+Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.
 
----
-
-**[White House to host AI companies Tuesday to review new model-testing framework](https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html)**
-
-President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.
-
-CNBC • 12m ago
-
----
-
-**[White House to Host AI Companies on Tuesday to Review AI Framework](https://www.theinformation.com/articles/white-house-host-ai-companies-tuesday-review-ai-framework)**
-
-The Trump administration has invited staffers from major tech companies including OpenAI, Google and Anthropic to the White House on Tuesday to review the completed version of an AI oversight framework, according to five people familiar with the matter. The framework will create a voluntary ...
-
-The Information • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -189,7 +159,35 @@ The Information • 2h ago
 
 OpenAI may have an AI agent that promises to produce “share-ready work,” but the company’s CEO went public with an arguably unshare-ready take on what to do with it.
 
-Fortune • 4h ago
+Fortune • 7h ago
+
+---
+
+**[White House finalizes AI framework behind closed doors](https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors)**
+
+Axios • 3h ago
+
+---
+
+**[White House to host AI companies Tuesday to review new model-testing framework](https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html)**
+
+President Donald Trump’s June executive order directed officials to develop a process to evaluate the cybersecurity capabilities of advanced AI models.
+
+CNBC • 2h ago
+
+---
+
+**[White House finalizes artificial intelligence oversight framework](https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437)**
+
+Politico • 2h ago
+
+---
+
+**[Exclusive / The AI ‘news’ accounts hyping a blue-state dystopia](https://www.semafor.com/article/08/02/2026/the-ai-news-accounts-hyping-a-blue-state-dystopia)**
+
+AI-generated videos are flooding YouTube with fake narratives about chaos in California and New York.
+
+semafor.com • 17h ago
 
 ---
 
@@ -201,7 +199,7 @@ Fortune • 4h ago
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 344 • 💬 392 • 1d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 346 • 💬 395 • 1d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
@@ -223,7 +221,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 An interview request from a bot posing as a reporter revealed an AI-generated news site with articles attacking AI industry critics. For the second time this month, we found links to Targeted Victory, the firm at the center of OpenAI's $125 million political operation.
 
-⬆️ 197 • 💬 92 • 14h ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
+⬆️ 201 • 💬 98 • 16h ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 
 ---
 
@@ -231,13 +229,21 @@ An interview request from a bot posing as a reporter revealed an AI-generated ne
 
 One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.
 
-⬆️ 148 • 💬 81 • 20h ago • [Frogs](https://frogs.vaguespac.es/)
+⬆️ 149 • 💬 81 • 23h ago • [Frogs](https://frogs.vaguespac.es/)
+
+---
+
+**[AirLLM 70B inference with single 4GB GPU](https://news.ycombinator.com/item?id=49154228)**
+
+AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.
+
+⬆️ 144 • 💬 49 • 7h ago • [GitHub](https://github.com/lyogavin/airllm)
 
 ---
 
 **[AI poster wins Ohio State Fair contest](https://news.ycombinator.com/item?id=49149188)**
 
-⬆️ 136 • 💬 177 • 17h ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+⬆️ 139 • 💬 180 • 20h ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
 
 ---
 
@@ -255,19 +261,11 @@ Agentic platform for streamlining hardware and software development - spikonado/
 
 ---
 
-**[AirLLM 70B inference with single 4GB GPU](https://news.ycombinator.com/item?id=49154228)**
-
-AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.
-
-⬆️ 106 • 💬 39 • 5h ago • [GitHub](https://github.com/lyogavin/airllm)
-
----
-
 **[The AI Productivity Gap](https://news.ycombinator.com/item?id=49152222)**
 
 Why the productivity gains from AI are still small.
 
-⬆️ 88 • 💬 84 • 9h ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+⬆️ 95 • 💬 87 • 11h ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
 
 ---
 
@@ -275,13 +273,23 @@ Why the productivity gains from AI are still small.
 
 ## YouTube Videos: "ai"
 
+**[AI Wiz Kid Loses $35 BILLION of Investor Money in a Day](https://www.youtube.com/watch?v=AauPvx9lt-E)**
+
+Thanks to Klover for sponsoring this video! Get up to $750 before payday with no interest, no credit checks, and no late fees.
+
+📺 Spencer Cornelia
+
+👁️ 43K • 👍 2K • 💬 668 • ⏱️ 12:16 • 5h ago
+
+---
+
 **[Google Rolls Back Its Earth&#39;s New AI Feature In Just 48 Hours | FP Explains](https://www.youtube.com/watch?v=9zeAPNCohGE)**
 
 Google rolled back a new AI-powered Google Earth feature within 48 hours after experts warned it could fuel misinformation, ...
 
 📺 Firstpost
 
-👁️ 590 • 👍 6 • 💬 3 • ⏱️ 5:06 • 2h ago
+👁️ 949 • 👍 10 • 💬 3 • ⏱️ 5:06 • 4h ago
 
 ---
 
@@ -291,7 +299,7 @@ OpenAI's reported Astra model is built to work for hours, coordinate multiple ag
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 122 • ⏱️ 13:56 • 17h ago
+👁️ 42K • 👍 1K • 💬 125 • ⏱️ 13:56 • 20h ago
 
 ---
 
@@ -301,7 +309,7 @@ AI company Anthropic says that during routine testing some of its models accesse
 
 📺 CNN
 
-👁️ 256K • 👍 2K • 💬 988 • ⏱️ 11:30 • 1d ago
+👁️ 265K • 👍 3K • 💬 1K • ⏱️ 11:30 • 1d ago
 
 ---
 
@@ -311,7 +319,7 @@ Build, deploy, and run always-on AI agents with the Abacus AI SuperComputer: htt
 
 📺 WorldofAI
 
-👁️ 30K • 👍 977 • 💬 160 • ⏱️ 10:05 • 10h ago
+👁️ 35K • 👍 1K • 💬 166 • ⏱️ 10:05 • 13h ago
 
 ---
 
@@ -321,17 +329,37 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 25K • 👍 481 • 💬 39 • ⏱️ 9:54 • 2d ago
+👁️ 25K • 👍 489 • 💬 40 • ⏱️ 9:54 • 2d ago
 
 ---
 
-**[Study: US AI Ban Could Cost Up To $12 Billion](https://www.youtube.com/watch?v=7FIdtBZE0Ak)**
+**[The AI Bubble Survives on $1.65 Trillion in Hidden Debt](https://www.youtube.com/watch?v=HXlcMbxzz0U)**
 
-A potential US ban on Chinese open-weight artificial intelligence (AI) models could cost American businesses up to US$12 billion ...
+Wispr Flow is free to use and you can get 1 month of Wispr Flow Pro with unlimited words for free with code CASUAL: ...
 
-📺 WION
+📺 Casual Finance
 
-👁️ 192 • 👍 4 • 💬 2 • ⏱️ 2:12 • 1h ago
+👁️ 201K • 👍 12K • 💬 1K • ⏱️ 14:55 • 2d ago
+
+---
+
+**[Qwen 3.8 Max Just Changed AI Agents Forever](https://www.youtube.com/watch?v=okT6eRwLR48)**
+
+Get the Agent OS & Qwen System: https://www.skool.com/ai-profit-lab-7462/about Want to make money and save time with AI?
+
+📺 AI News Today | Julian Goldie Podcast
+
+👁️ 6K • 👍 163 • 💬 28 • ⏱️ 17:47 • 14h ago
+
+---
+
+**[AI Tools For Ecommerce (Store Setup Guide 2026)](https://www.youtube.com/watch?v=F3G85KlEaow)**
+
+The ai tools for ecommerce that actually build your store for you in 2026 — here's the full walkthrough. Project Link: ...
+
+📺 🔥 TOP Digital Products 🔥
+
+👁️ 6K • 👍 836 • 💬 40 • ⏱️ 30:25 • 5h ago
 
 ---
 
@@ -341,37 +369,7 @@ the original vibe guru Music: Dolce Vita - Peyruis Mood- Peyruis First Class - P
 
 📺 Eric Morrison
 
-👁️ 43K • 👍 3K • 💬 784 • ⏱️ 13:32 • 2d ago
-
----
-
-**[I Tested AI Life Hacks!](https://www.youtube.com/watch?v=NyAnh1ofyYs)**
-
-Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
-
-📺 Vlad and Chris
-
-👁️ 311K • 👍 4K • 💬 336 • ⏱️ 28:09 • 20h ago
-
----
-
-**[How to Learn to Build an App Using AI in 15 minutes](https://www.youtube.com/watch?v=Hk_58FZMRkk)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Mikey No Code
-
-👁️ 6K • 💬 6 • ⏱️ 27:13 • 2h ago
-
----
-
-**[First AI Domino to Fall?](https://www.youtube.com/watch?v=py23zYn1GMw)**
-
-Will Oracle be the first AI Domino to fall? Oracle now carries more than $160 billion in debt, its credit rating sits one notch above ...
-
-📺 Kiraa
-
-👁️ 172K • 👍 6K • 💬 797 • ⏱️ 8:38 • 1d ago
+👁️ 44K • 👍 3K • 💬 787 • ⏱️ 13:32 • 2d ago
 
 ---
 
@@ -387,7 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 967,622 • ❤️ 9,801 • 7d ago
+⬇️ 967,622 • ❤️ 9,814 • 7d ago
 
 ---
 
@@ -399,7 +397,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 236,076 • ❤️ 1,994 • 2d ago
+⬇️ 236,076 • ❤️ 2,014 • 2d ago
 
 ---
 
@@ -411,7 +409,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 1,227 • 25m ago
+⬇️ 0 • ❤️ 1,306 • 2h ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,550,034 • ❤️ 1,408 • 3d ago
+⬇️ 1,550,034 • ❤️ 1,413 • 3d ago
 
 ---
 
@@ -435,7 +433,17 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,601,062 • ❤️ 3,833 • 5d ago
+⬇️ 2,601,062 • ❤️ 3,838 • 5d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
+
+*Comfy Org*
+
+MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
+
+⬇️ 2 • ❤️ 409 • 6h ago
 
 ---
 
@@ -447,17 +455,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `19.8B`
 
-⬇️ 69,656 • ❤️ 404 • 6h ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
-
-*Comfy Org*
-
-MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
-
-⬇️ 2 • ❤️ 376 • 4h ago
+⬇️ 69,656 • ❤️ 415 • 8h ago
 
 ---
 
@@ -469,7 +467,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 128,215 • ❤️ 278 • 4d ago
+⬇️ 128,215 • ❤️ 279 • 5d ago
 
 ---
 
@@ -481,7 +479,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 8,504 • ❤️ 255 • 3d ago
+⬇️ 8,504 • ❤️ 257 • 3d ago
 
 ---
 
@@ -493,7 +491,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 `text-generation` `753.3B`
 
-⬇️ 2,180,509 • ❤️ 4,791 • 1mo ago
+⬇️ 2,180,509 • ❤️ 4,794 • 1mo ago
 
 ---
 
@@ -587,6 +585,8 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 *Zilong Chen, Chaorui Deng, Kunchang Li et al. (5 authors)*
 
+🏢 ByteDance Seed
+
 We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-language prompts. Surprisingly, we find that the converged diffusion loss scales with the amount of structured language in the prompt. To quantify structured language, we adapt two complementary measures: a white-box likelihood metric (GPG) and a black-box attribute metric (ED). Across controlled training runs, the converged diffusion loss decreases approximately linearly with GPG and follows a power law with ED. Guided by these scaling properties, we improve diffusability by constructing structured prompts with semantic and geometric annotations derived from images, and improve promptability by training a prompter through supervised fine-tuning, cold-start, and verifier-gated on-policy distillation. The resulting system outperforms all evaluated open-weight models on nearly every compositional, reasoning, and world-knowledge benchmark, while matching or surpassing the strongest closed-weight models on most evaluations.
 
 ▲ 23 • 💬 1 • ⭐ 55 • 3d ago
@@ -607,6 +607,19 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 82,995 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -620,19 +633,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 82,935 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -643,7 +643,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.9k • 🔱 302 • 16h ago
+⭐ 3.9k • 🔱 303 • 18h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.4k • 🔱 286 • 6d ago
+⭐ 3.4k • 🔱 287 • 6d ago
 
 ---
 
@@ -661,7 +661,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.2k • 🔱 399 • 1h ago
+⭐ 3.2k • 🔱 401 • 3h ago
 
 ---
 
@@ -671,7 +671,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.0k • 🔱 1.4k • 58s ago
+⭐ 2.0k • 🔱 1.4k • 31s ago
 
 ---
 
@@ -681,7 +681,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.9k • 🔱 216 • 2d ago
+⭐ 1.9k • 🔱 217 • 2d ago
 
 ---
 
@@ -691,7 +691,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.8k • 🔱 121 • 9m ago
+⭐ 1.8k • 🔱 121 • 2h ago
 
 ---
 
@@ -709,7 +709,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `MDX` `ai-agent` `learning-notes` `pi-agent` `python` `tutorial`
 
-⭐ 1.7k • 🔱 134 • 12d ago
+⭐ 1.7k • 🔱 134 • 13d ago
 
 ---
 
@@ -719,7 +719,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.6k • 🔱 200 • 5m ago
+⭐ 1.6k • 🔱 201 • 49s ago
 
 ---
 
@@ -729,7 +729,7 @@ Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English —
 
 `Python`
 
-⭐ 1.4k • 🔱 54 • 13d ago
+⭐ 1.4k • 🔱 55 • 13d ago
 
 ---
 

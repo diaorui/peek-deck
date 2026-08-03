@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T16:31:11.016697+00:00'
+updated: '2026-08-03T18:50:59.302832+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 16:31 UTC  
+**Last Updated:** August 03, 2026 at 18:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-8h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ On the previous video, people commented that the objects are placed on jigs in k
 
 I’ve briefly shown earlier versions of the editor in my previous posts, but this video gives a closer look at the complete workflow. This is Watti, my five-axis robotic lamp, and Watti Studio, the browser-based editor I built for creating its movements and lighting scenes. I’ve also refined the enclosure since my previous posts. It now looks cleaner and is much closer to what I imagine as the final design. In the video, I create a scene on the timeline, preview it on the virtual robot, and then run the same scene on the physical Watti. During playback, the real robot appears below the simulation so their movements can be compared directly. Motion and lighting share the same 25 Hz timeline. The complete scene is uploaded to a Raspberry Pi 5 and played locally through ROS 2, so the browser doesn’t need to remain connected during playback. I’ve also made the project repository public: https://github.com/Nikolay-Tyulkin/Watti There’s no source code yet, so it’s currently a public project preview rather than an open-source release. The repository already contains more extensive information about the architecture, hardware, current capabilities, and roadmap. I’ll also use it as a public development tracker, so anyone interested can follow the project’s progress. I’d be interested to hear what you think about the workflow and what features you would find useful in an editor like this.
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-2h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-15h ago
+17h ago
 
 ---
 
@@ -76,13 +76,13 @@ To play with continuous learning, your base model needs to be data-efficient and
 
 this is my second version of this companion i call PAL. his face is using a I2C oled display, the servos are generic SG90's he comunicates via BLE with the phone. the app was created with MIT app inventor. what are your thoughts on this project. im working on the jitteriness, the bottom servo is curently to weak so i'm adding asupport on the other side. the repo is on github (repo name : PAL-cube)
 
-22h ago
+1d ago
 
 ---
 
 **[How do you check when a joint hits the ground?](https://www.reddit.com/r/robotics/comments/1vdpq1x/how_do_you_check_when_a_joint_hits_the_ground/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -116,7 +116,15 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 15h ago
+WSJ • 17h ago
+
+---
+
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+Forbes • 6h ago
 
 ---
 
@@ -130,7 +138,7 @@ South China Morning Post • 1d ago
 
 Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
-therobotreport.com • 1d ago
+The Robot Report • 1d ago
 
 ---
 
@@ -138,53 +146,43 @@ therobotreport.com • 1d ago
 
 After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
 
-New York Focus • 7h ago
+New York Focus • 9h ago
 
 ---
 
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
 
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-Forbes • 3h ago
+morningbrew.com • 2d ago
+
+---
+
+**[The VC firm behind Shopify is doubling down on robotics and defense](https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8)**
+
+The venture capital firm, best known for bets on Shopify, Notion, and Mercor, has hired a new partner to invest in physical world technologies.
+
+Business Insider • 4h ago
+
+---
+
+**[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
+
+bloomberg.com • 8h ago
+
+---
+
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+
+A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
+
+ABC News - Breaking News, Latest News and Videos • 3d ago
 
 ---
 
 **[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
 
-Zacks Investment Research • 2h ago
-
----
-
-**[British military robots thrown into battle against US](https://www.telegraph.co.uk/us/news/2026/08/03/next-gen-warfare-testing-in-the-california-desert/)**
-
-Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
-
-The Telegraph • 10h ago
-
----
-
-**[Faraday Future Launches U.S. Robotics Program as FCC Adds Foreign Robots](https://www.stocktitan.net/news/FFAI/faraday-future-global-ceo-yt-jia-shares-weekly-investor-update-sets-78l61vnoyyap.html)**
-
-FF EAI Robotics reached 394 units toward a 2,000-unit full-year target; initial implementation of three of four cores is complete, with a partner conference planned soon.
-
-Stock Titan • 15h ago
-
----
-
-**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
-
-Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
-
-FreightWaves • 2d ago
-
----
-
-**[Americans in their 70s and 80s are among the first to bring AI robots into their homes](https://fortune.com/2026/08/03/gen-z-elliq-intuition-robotics-ai-companion-robot-older-adults/)**
-
-ElliQ’s device has been commercially available since 2022.
-
-Fortune • 1h ago
+Zacks Investment Research • 4h ago
 
 ---
 
@@ -198,7 +196,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 222K • 👍 6K • 💬 515 • ⏱️ 3:00 • 4d ago
+👁️ 223K • 👍 6K • 💬 515 • ⏱️ 3:00 • 4d ago
 
 ---
 
@@ -208,7 +206,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 26K • 👍 534 • 💬 52 • ⏱️ 11:26 • 1d ago
+👁️ 28K • 👍 579 • 💬 60 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -218,7 +216,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 384 • 💬 533 • ⏱️ 6:04 • 4d ago
+👁️ 73K • 👍 383 • 💬 533 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -238,17 +236,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 126K • 👍 1K • 💬 507 • ⏱️ 3:14 • 1d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 17K • 👍 277 • 💬 20 • ⏱️ 1:00 • 2d ago
+👁️ 134K • 👍 1K • 💬 517 • ⏱️ 3:14 • 1d ago
 
 ---
 
@@ -262,23 +250,13 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+**[BrainCo&#39;s Next-Gen Lifelike Bionic Robot Hand #robotics #robothand #china](https://www.youtube.com/watch?v=2Z1RuOi11C4)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+China's fixation on synthetic humans is also pushing next generation prosthetics forward. Hangzhou-based BrainCo, a ...
 
-📺 TheAIGRID
+📺 Kalil 4.0
 
-👁️ 25K • 👍 481 • 💬 39 • ⏱️ 9:54 • 2d ago
-
----
-
-**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
-
-Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
-
-📺 Creative Channel
-
-👁️ 5K • 👍 261 • 💬 22 • ⏱️ 9:14 • 1d ago
+👁️ 479 • 👍 7 • ⏱️ 0:56 • 4h ago
 
 ---
 
@@ -288,7 +266,27 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 14K • 👍 490 • 💬 26 • ⏱️ 5:33 • 2d ago
+👁️ 15K • 👍 496 • 💬 28 • ⏱️ 5:33 • 2d ago
+
+---
+
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
+
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
+
+📺 Creative Channel
+
+👁️ 5K • 👍 261 • 💬 23 • ⏱️ 9:14 • 1d ago
+
+---
+
+**[America’s Robot Soldiers vs India’s DRDO Humanoid #robotwars #robotics #humanoidrobot](https://www.youtube.com/watch?v=Tr7av4OWnLo)**
+
+Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand ? Terminator, Battlestar ...
+
+📺 Study Pathshala
+
+👁️ 3K • 👍 416 • 💬 2 • ⏱️ 1:42 • 4d ago
 
 ---
 
