@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-03T13:58:22.585281+00:00'
+updated: '2026-08-03T16:31:11.008434+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 13:58 UTC  
+**Last Updated:** August 03, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,188.54
+### $63,708.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.1%  
-**30d:** -0.6%  
-**90d:** -22.4%  
-**1y:** -45.1%  
+**24h:** +0.9%  
+**7d:** -0.1%  
+**30d:** +0.4%  
+**90d:** -21.6%  
+**1y:** -44.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.74B
+**Market Cap:** $1280.30B
 Rank #1
 
-**Circulating Supply:** 20,065,193 BTC
+**Circulating Supply:** 20,065,231 BTC
 95.5% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-49.4%
 
 **All-Time Low:** $67.81
-+92945.3%
++93992.3%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I've been where some of you are today. During the FTX collapse, I lost over $2 million USD. The cascade triggered margin calls, then liquidation. In what felt like an instant, six years of stacking disappeared. (Can send proof to mods if needed) I remember the disbelief, the anger, the sleepless nights, and asking myself, "What now?" Here's what I learned: money can disappear overnight, but your knowledge, your work ethic, your experience, and your ability to rebuild cannot be liquidated. If you were affected by Coldcard's wallet exploit, I'm genuinely sorry. Don't make irreversible decisions because of a financial loss. Reach out to family, friends, or your community. Take a breath. The charts will move again. Opportunities will come again. Your portfolio is not your identity. Your net worth is not your self-worth. Tomorrow, the sun will rise again. And as long as you're here, you still have a chance to build something even greater than what you lost.
 
-15h ago
+17h ago
 
 ---
 
 **[Coldcard seed + passphrase could be vulnerable as well](https://www.reddit.com/r/Bitcoin/comments/1vdzo8p/coldcard_seed_passphrase_could_be_vulnerable_as/)**
 
-12h ago
+14h ago
 
 ---
 
 **[This CEO just challenged Anthropic to hack the 100 bitcoin in his wallet address, worth $6 million.](https://www.reddit.com/r/Bitcoin/comments/1vdu0rl/this_ceo_just_challenged_anthropic_to_hack_the/)**
 
-16h ago
+19h ago
 
 ---
 
@@ -101,7 +101,7 @@ I've been where some of you are today. During the FTX collapse, I lost over $2 m
 
 I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your ColdCard. If funds are recoverable at some point, they will probably be sent back to their original owners. If you are isolated, feel like something could go wrong or else, please please please reach out to someone. https://findahelpline.com Don’t keep things to yourself. You’re gonna need to talk about it. Time always does its thing. And yes, you can believe that the Bitcoin community is going to be ferocious on this one. If you have the courage to do so, you can always take a look at X. But you don’t have to. What matters most is you. Take care of yourself people.
 
-13h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your C
 
 I generated my keys and made transactions using Coldcard MK3 and I thought it was the ultimate, air gapped solution to protect my BTC I thought it was one of the most sophisticated but worthwhile solutions to make me sleep better at night knowing my keys were safe. Out of chance not that long ago I moved over 3 BTC out of my Coldcard generated key to Kraken so I can trade for a bit then move it back. I only left a tiny amount in that key and it ended up being drained. I don't know if I should consider myself lucky or not
 
-12h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ It is unbelievable that some kid with an LLM just stole $100m+ because no one bo
 
 “A hardware wallet is supposed to solve one problem: keep your Bitcoin keys somewhere no attacker can reach them. This week showed what happens when the flaw sits inside the wallet itself. A firmware bug that's been shipping in Coldcard devices since 2021 let an attacker guess supposedly random seed phrases from the outside, no physical access, no phishing, no malware required, and drain funds from thousands of addresses. The running total is already past $88 million, and it's still climbing. A flaw in Coldcard's firmware has put the spotlight on a basic part of wallet security: how the device generates its seed in the first place. The issue came into focus after an attacker drained 1,196 Bitcoin addresses on July 30 in a 41-minute stretch, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research tied the sweep to Coldcard, the Bitcoin-only hardware wallet line made by Coinkite, and said the pattern matched a firmware problem rather than a random event. Two more waves have surfaced since, and Galaxy's running total now stands at 1,367.05 BTC, worth about $88.6 million, across 4,585 addresses. The firm describes that as a preliminary observed figure that could still climb as it traces more on-chain activity. The problem goes back to a March 2021 firmware integration error. Instead of using the STM32 hardware random number generator, affected devices fell back to a deterministic software pseudorandom number generator when creating seeds. That matters because seed generation is supposed to produce output that cannot be guessed or reconstructed.”
 
-🔗 [TechSpot](https://www.techspot.com/news/113322-coldcard-firmware-flaw-hackers-drain-70-million-bitcoin.html) • 17h ago
+🔗 [TechSpot](https://www.techspot.com/news/113322-coldcard-firmware-flaw-hackers-drain-70-million-bitcoin.html) • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ It is unbelievable that some kid with an LLM just stole $100m+ because no one bo
 
 Took me years of DCA’ing to get there. I went with Coldcard because it was marketed as “ultra-secure.” I knew multisig was technically safer. I wasn’t worried about my key being guessed… I was worried about someone physically stealing it or it being destroyed. So that was the plan: 1 BTC, cold storage, steel plate backup, fire bag, fire safe. And then… wait. I hit the goal. I finally felt content. Now I just feel embarrassed. Like I let my family down. The worst part? I know Bitcoin isn’t going anywhere. I’m not hoping it fails… I think it’s going to keep making new all-time highs, and every time it does, I’ll be sitting here thinking about what could’ve been. ** I originally brain dumped my story to Claude to make it sound better because I have poor grammar. I’m admitting this in an edit at my own expense or whatever. I’m not embarrassed about my poor grammar or using AI to improve it. That said, in hindsight, it would have been more personal to not have done that. I’m sorry.
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Took me years of DCA’ing to get there. I went with Coldcard because it was mar
 
 My seed used with this device was strong and I was unaffected by the security flaw in the RNG setup. Still, I’m re-doing everything. I am moving back to my ledger until I get a multisig setup with a SeedSigner or similar. It’s gonna be a pain to generate a new private key or two and stamp em, so I am getting my sledgehammer swinging arm back in good shape. What about you? Be safe out there…
 
-17h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ My seed used with this device was strong and I was unaffected by the security fl
 
 Nvk history posts show he was completely aware of firmware vector attacks, and narrative is, never in 5 years they audited the code in the single most safety-critical function on the device, not even SWE prompting to ask a frontier model "search for bad seed generation code" according to his own awareness of thst type of vulnerability. "hey but it is open source and has been open and publicly available"...so was he expecting community do their security job then, but at the same time he claims "most people don't check software signatures and never will", so he claims you must trust the hardware wallet vendor to do that, but they neither are doing that job, lame, isn't it?. Or....he just knew the vector of drain was just to target coldcard non geeky users who would not care to "dice rolls" at the right time....Damage is done, case gets out of notice after a week, and you just stay in business... Ok no. Enough of conspiration theories. Entropy of events suggest that this scenario is likely impossible...😂
 
-17h ago
+19h ago
 
 ---
 
@@ -161,45 +161,7 @@ Nvk history posts show he was completely aware of firmware vector attacks, and n
 
 A Coldcard firmware bug may have let attackers steal roughly $70 million in bitcoin in under an hour, and the company says attacks are still ongoing. Estimated losses now at $89M.
 
-Fox Business • 13h ago
-
----
-
-**[BTC news: Trump Media has moved out 7,000 bitcoin, leaving only likely loan collateral](https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move)**
-
-Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
-
-CoinDesk • 5h ago
-
----
-
-**[Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss](https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html)**
-
-Earnings continue to be the market's engine, and a series of results this week from Palantir, SpaceX, and AMD are set to rev up stocks again.
-
-Yahoo Finance • 53m ago
-
----
-
-**[Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html)**
-
-Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...
-
-Yahoo Finance • 18h ago
-
----
-
-**[Trump brothers-backed American Bitcoin swings to second-quarter loss](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-second-quarter-loss-2026-08-03/)**
-
-Reuters • 2h ago
-
----
-
-**['That Is The End Of Bitcoin'—The Quantum Race For $470 Billion](https://www.forbes.com/sites/boazsobrado/2026/08/02/that-is-the-end-of-bitcoin-the-quantum-race-for-470-billion/)**
-
-A quantum computer could crack the cryptography guarding millions of Bitcoin. Inside the freeze debate, the $470 billion exposed, and the startups racing to fix it.
-
-Forbes • 1d ago
+Fox Business • 15h ago
 
 ---
 
@@ -207,29 +169,65 @@ Forbes • 1d ago
 
 The company said a similar transfer to Crypto.com in May was part of a broader trading strategy and did not represent a sale.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
-**[Current price of Bitcoin for August 3, 2026](https://fortune.com/article/price-of-bitcoin-08-03-2026/)**
+**[Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees](https://finance.yahoo.com/markets/crypto/articles/trump-media-sells-more-bitcoin-082738663.html)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
 
-Fortune • 2h ago
-
----
-
-**[Bitcoin Miners Are Striking It Big With a Pivot Into AI. Here's the 1 Bitcoin Mining Stock I'm Buying Right Now.](https://www.fool.com/investing/2026/08/03/bitcoin-miners-are-striking-it-big-with-a-pivot-in/)**
-
-One Bitcoin miner has found a powerful new use for its energy assets, but the stock may already reflect much of the opportunity.
-
-The Motley Fool • 2h ago
+finance.yahoo.com • 1d ago
 
 ---
 
-**[Chinese police AI algorithm tracks bitcoin money laundering with 90% accuracy](https://www.scmp.com/news/china/science/article/3362493/chinese-police-ai-algorithm-tracks-bitcoin-money-laundering-90-accuracy)**
+**[BTC news: Trump Media has moved out 7,000 bitcoin, leaving only likely loan collateral](https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move)**
 
-South China Morning Post • 1d ago
+Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
+
+CoinDesk • 7h ago
+
+---
+
+**[The End of Bitcoin Halving Cycles? How Institutions Changed Crypto Markets](https://bitcoinfoundation.org/news/bitcoin/the-end-of-bitcoin-halving-cycles-how-institutions-changed-crypto-markets/)**
+
+Find out if Bitcoin market cycles are still relevant and how financial institutions have impacted them
+
+Bitcoin Foundation • 38m ago
+
+---
+
+**[Top New Crypto Coins of August 2026 Ranked by Potential](https://bitcoinfoundation.org/news/opinion/top-new-crypto-coins-of-august-2026-ranked-by-potential/)**
+
+Explore the top new crypto coins of August 2026, including upcoming launches, listings, tokenomics, risks, and growth potential.
+
+Bitcoin Foundation • 1h ago
+
+---
+
+**[Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html)**
+
+Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...
+
+finance.yahoo.com • 21h ago
+
+---
+
+**[Strategy Sells More Bitcoin, Stock as It Pushes on With Overhaul](https://www.bloomberg.com/news/articles/2026-08-03/strategy-sells-more-bitcoin-stock-as-it-pushes-on-with-overhaul)**
+
+Bloomberg • 3h ago
+
+---
+
+**[Bitcoin Faces Double Whammy From $89M Security Breach and Strategy Sale](https://www.barrons.com/articles/bitcoin-price-security-breach-strategy-stock-75dcdf54)**
+
+Barron's • 37m ago
+
+---
+
+**[Trump brothers-backed American Bitcoin swings to second-quarter loss](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-second-quarter-loss-2026-08-03/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -241,7 +239,7 @@ South China Morning Post • 1d ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 61 • 💬 16 • 15h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 63 • 💬 16 • 17h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -257,7 +255,7 @@ The alleged thieves infected 8,000 devices.
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 18 • 💬 0 • 15h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 18 • 💬 0 • 18h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -265,7 +263,7 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WASHINGTON—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is taking further action against the Iranian regime’s desperate efforts to monetize the Strait of Hormuz and prop up the nation’s failing economy.  OFAC is designating two firms integral to an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme that forces commercial vessels to purchase mandatory maritime “insurance” to transit the Strait.  Although this coverage purports to protect vessels from risks such as seizures, these risks are overwhelmingly created by Iran itself.  Through the Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority, the regime brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions—allowing Iran to tighten control over shipping activity and funnel funds into IRGC operations.“With its economy in freefall and inflation in the triple digits, the regime is desperate for cash,” said Secretary of the Treasury Scott Bessent. “The United States will not allow Iran to hold global commerce hostage or use international shipping to finance the IRGC’s terrorism, aggression, and repression.”                            OFAC is also reinforcing U.S. military interdiction efforts and intensifying pressure on Iran’s energy shipments by imposing sanctions on several vessels that transported Iranian crude oil and petrochemical products.  Since the beginning of the year, OFAC has sanctioned over 100 vessels linked to Iran’s shadow fleet, a covert logistics network that enables the regime to keep oil revenues flowing despite international sanctions. Today’s action was taken pursuant to Executive Order (E.O.) 13902, which targets Iran’s petroleum and petrochemical sectors and advances the President’s National Security Presidential Memorandum 2 (NSPM-2), to impose maximum economic pressure on Iran. IRANIAN Regime’s EXTORTION SCHEMEIn an attempt to prop up revenue streams decimated by Operation Epic Fury, Iran has established illegitimate schemes through the Persian Gulf Marine Insurance Company (PGMIC) and HormuzSafe Marine Services Authority, also known as Hormuz Safe, to extort vessels attempting to conduct routine commercial passages through the Strait of Hormuz.  Established by the Central Insurance of the Islamic Republic of Iran, Iran’s primary insurance regulator, the PGMIC brokers and issues insurance policies approved by the U.S.-designated, IRGC-backed Persian Gulf Strait Authority (PGSA).  The insurance covers risks, most of which are created by Iran itself, such as vessel seizures, and aims to generate revenue to fund the regime’s terror and corruption. PGSA was designated pursuant to E.O. 13224, as amended, on May 27, 2026 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the IRGC. Hormuz Safe is an Iranian digital insurance firm that advertises itself as a company offering trusted maritime services, including insurance, traffic control, security, and emergency response, to vessels transiting the Strait of Hormuz.  Developed by Iran’s Ministry of Economy, it accepts payment in Bitcoin and other digital assets as part of the regime’s attempts to bypass Western sanctions. Disgraced regime financier Babak Morteza Zanjani, who was sanctioned earlier this year, promoted Hormuz Safe to his social media followers.  Hormuz Safe generates revenue on behalf of the IRGC in an attempt to give the regime tighter control over shipping activity. The Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority are being designated pursuant to E.O. 13902 for operating in the financial sector of the Iranian economy. shadow fleet ACTORSTreasury is also taking action today against multiple shadow fleet vessels responsible for transporting millions of barrels of Iranian crude oil and petroleum products.  Iran’s shadow fleet provides an essential lifeline to the Iranian regime, which relies on oil sales to bolster its ailing economy. The Marshall Islands-flagged chemical/products tanker WELL SAIL (IMO 9321938), owned, operated, and managed by China-based Qi Hang Ship Management Limited, has transported hundreds of thousands of barrels of Iranian petroleum products to the United Arab Emirates (UAE) in 2026. The Mozambique-flagged crude oil tanker LILY (IMO 9294331), owned and operated by Hong Kong-based Confident Apex Limited, has transported millions of barrels of Iranian oil since 2025.The unknown-flagged crude oil tanker AL SALMI (IMO 9298296), owned and operated by Hong Kong-based Billion Nexus Int’l Co., Limited, has transported hundreds of thousands of barrels of Iranian oil to China since 2025.The Barbados-flagged crude oil tanker BREEZE V (IMO 9259355), owned and operated by Hong Kong-based Nevada Spirit Company Limited, has transported millions of barrels of Iranian oil to China in 2026. The Barbados-flagged crude oil tanker NATSUMI (IMO 9331244), owned, operated, and managed by Hong Kong-based Marinova Freight Limited, has transported millions of barrels of Iranian crude oil to China since 2022. The Vanuatu-flagged crude oil tanker CRYSTAL (IMO 9223887), owned, operated, and managed by Hong Kong and Marshall Islands-based Vast Mighty Limited, has transported millions of barrels of Iranian crude oil to China in 2026. The Vanuatu-flagged crude oil tanker NIRETA (IMO 9237785), owned, operated, and managed by Marshall Islands-based Ocean Tranquility Limited, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026. The Barbados-flagged crude oil tanker YEHOPE (IMO 9243320), owned by Marshall Islands-based Branch Saying International Trading Co Ltd, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026.   The following companies are being designated pursuant to E.O. 13902 for operating in the petroleum sector of the Iranian economy: Qi Hang Ship Management Limited;Marinova Freight Limited;Vast Mighty Limited;Ocean Tranquility Limited; Branch Saying International Trading Co Ltd;Confident Apex Limited;Billion Nexus Int’l Co., Limited; andNevada Spirit Company Limited.The following vessels are being identified as blocked property of the previously identified blocked persons: WELL SAIL (Qi Hang Ship Management Limited);NATSUMI (Marinova Freight Limited); CRYSTAL (Vast Mighty Limited); NIRETA (Ocean Tranquility Limited); YEHOPE (Branch Saying International Trading Co Ltd);LILY (Confident Apex Limited);AL SALMI (Billion Nexus Int’l Co., Limited); andBREEZE V (Nevada Spirit Company Limited). SANCTIONS IMPLICATIONSAs a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked.  Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons. Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons.  OFAC may impose civil penalties for sanctions violations on a strict liability basis.  OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons.  The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person.  Non-U.S. persons are also prohibited from causing or conspiring to cause U.S. persons to wittingly or unwittingly violate U.S. sanctions, as well as engaging in conduct that evades U.S. sanctions.  Individuals located in the U.S. or abroad who provide information about sanctions violations to FinCEN’s whistleblower incentive program may be eligible for awards if the information they provide leads to a successful enforcement action that results in monetary penalties exceeding $1,000,000. The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law.  The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior.  For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.Click here for more information on the persons designated and any property identified as blocked property today.###
 
-⬆️ 7 • 💬 1 • 1d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
+⬆️ 8 • 💬 1 • 1d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
 
 ---
 
@@ -273,7 +271,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 19h ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 21h ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
@@ -281,7 +279,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 2 • 💬 0 • 2h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 2 • 💬 0 • 5h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -325,47 +323,7 @@ A massive wallet exploit, Strategy's potential Bitcoin sales, and growing regula
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 467 • ⏱️ 16:20 • 14h ago
-
----
-
-**[$6 Trillion Bitcoin Signal - Saylor Just Sent This](https://www.youtube.com/watch?v=313e6lTlkaQ)**
-
-Subscribe before the next Strategy Bitcoin purchase. Michael Saylor may have only posted three words, but Bitcoiners know his ...
-
-📺 Bitcoin News Alerts
-
-👁️ 4K • 👍 257 • 💬 167 • ⏱️ 17:12 • 15h ago
-
----
-
-**[we need to have a serious talk about bitcoin](https://www.youtube.com/watch?v=kv2rfsfMWJE)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 12K • 👍 678 • 💬 701 • ⏱️ 18:19 • 22h ago
-
----
-
-**[What Every Bitcoin Self-Custody Holder Needs to Do Right Now After ColdCard Bug Discovered](https://www.youtube.com/watch?v=XRlZ4vu64m8)**
-
-In this urgent PSA episode of Coin Stories recorded as the ColdCard hack unfolded, Natalie Brunell sat down with Rob Hamilton, ...
-
-📺 Natalie Brunell
-
-👁️ 22K • 👍 961 • 💬 929 • ⏱️ 22:56 • 18h ago
-
----
-
-**[Bitcoin Had a VERY Rough Week…](https://www.youtube.com/watch?v=0EWORm4JBXQ)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 8K • 👍 613 • 💬 594 • ⏱️ 24:18 • 12h ago
+👁️ 21K • 👍 1K • 💬 547 • ⏱️ 16:20 • 17h ago
 
 ---
 
@@ -375,7 +333,37 @@ Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conferen
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 1K • 💬 78 • ⏱️ 7:53 • 1h ago
+👁️ 24K • 👍 3K • 💬 138 • ⏱️ 7:53 • 4h ago
+
+---
+
+**[we need to have a serious talk about bitcoin](https://www.youtube.com/watch?v=kv2rfsfMWJE)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 12K • 👍 704 • 💬 781 • ⏱️ 18:19 • 1d ago
+
+---
+
+**[Bitcoin Had a VERY Rough Week…](https://www.youtube.com/watch?v=0EWORm4JBXQ)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 624 • 💬 777 • ⏱️ 24:18 • 15h ago
+
+---
+
+**[What Every Bitcoin Self-Custody Holder Needs to Do Right Now After ColdCard Bug Discovered](https://www.youtube.com/watch?v=XRlZ4vu64m8)**
+
+In this urgent PSA episode of Coin Stories recorded as the ColdCard hack unfolded, Natalie Brunell sat down with Rob Hamilton, ...
+
+📺 Natalie Brunell
+
+👁️ 24K • 👍 1K • 💬 1K • ⏱️ 22:56 • 21h ago
 
 ---
 
@@ -385,7 +373,7 @@ Let's talk about Bitcoin! I will be speaking at the Canterbury Tech Summit on Se
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 3K • 💬 153 • ⏱️ 8:43 • 1d ago
+👁️ 57K • 👍 3K • 💬 153 • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -395,7 +383,7 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 5K • 👍 535 • 💬 107 • ⏱️ 22:10 • 14h ago
+👁️ 6K • 👍 571 • 💬 131 • ⏱️ 22:10 • 17h ago
 
 ---
 
@@ -405,17 +393,27 @@ ColdWallet Failed Us. Bitcoin is safe and you are PROBABLY not affected but HOW 
 
 📺 Digital Asset News
 
-👁️ 22K • 👍 903 • 💬 167 • ⏱️ 22:31 • 2d ago
+👁️ 22K • 👍 905 • 💬 167 • ⏱️ 22:31 • 2d ago
 
 ---
 
-**[$71 Million Bitcoin Attack - They Bought Anyway](https://www.youtube.com/watch?v=OCHRrNVwF38)**
+**[EVERYONE HAS IT WRONG!!!!! MY FINAL BITCOIN WARNING...](https://www.youtube.com/watch?v=R6Mtj_Nr4FY)**
 
-Watch the official fighter of Bitcoin News Alerts LIVE: https://www.elsicario.com More than $71 million worth of Bitcoin has now ...
+BTCC: https://cryptokid.io/BTCCexclusive FREE $1000 TRADE ❎ LeveX: https://levex.com/en/register?
 
-📺 Bitcoin News Alerts
+📺 Crypto Kid
 
-👁️ 5K • 👍 246 • 💬 314 • ⏱️ 17:03 • 1d ago
+👁️ 5K • 👍 259 • 💬 44 • ⏱️ 10:15 • 16h ago
+
+---
+
+**[THIS IS WHY I&#39;M WORRIED ABOUT BITCOIN...](https://www.youtube.com/watch?v=x91_FyaajoU)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 8K • 👍 662 • 💬 356 • ⏱️ 9:22 • 9h ago
 
 ---
 

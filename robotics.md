@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T13:58:22.593545+00:00'
+updated: '2026-08-03T16:31:11.016697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 13:58 UTC  
+**Last Updated:** August 03, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-6h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ On the previous video, people commented that the objects are placed on jigs in k
 
 I’ve briefly shown earlier versions of the editor in my previous posts, but this video gives a closer look at the complete workflow. This is Watti, my five-axis robotic lamp, and Watti Studio, the browser-based editor I built for creating its movements and lighting scenes. I’ve also refined the enclosure since my previous posts. It now looks cleaner and is much closer to what I imagine as the final design. In the video, I create a scene on the timeline, preview it on the virtual robot, and then run the same scene on the physical Watti. During playback, the real robot appears below the simulation so their movements can be compared directly. Motion and lighting share the same 25 Hz timeline. The complete scene is uploaded to a Raspberry Pi 5 and played locally through ROS 2, so the browser doesn’t need to remain connected during playback. I’ve also made the project repository public: https://github.com/Nikolay-Tyulkin/Watti There’s no source code yet, so it’s currently a public project preview rather than an open-source release. The repository already contains more extensive information about the architecture, hardware, current capabilities, and roadmap. I’ll also use it as a public development tracker, so anyone interested can follow the project’s progress. I’d be interested to hear what you think about the workflow and what features you would find useful in an editor like this.
 
-21h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-17m ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-13h ago
+15h ago
 
 ---
 
@@ -76,13 +76,13 @@ To play with continuous learning, your base model needs to be data-efficient and
 
 this is my second version of this companion i call PAL. his face is using a I2C oled display, the servos are generic SG90's he comunicates via BLE with the phone. the app was created with MIT app inventor. what are your thoughts on this project. im working on the jitteriness, the bottom servo is curently to weak so i'm adding asupport on the other side. the repo is on github (repo name : PAL-cube)
 
-19h ago
+22h ago
 
 ---
 
 **[How do you check when a joint hits the ground?](https://www.reddit.com/r/robotics/comments/1vdpq1x/how_do_you_check_when_a_joint_hits_the_ground/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -116,7 +116,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 12h ago
+WSJ • 15h ago
 
 ---
 
@@ -130,15 +130,29 @@ South China Morning Post • 1d ago
 
 Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
-The Robot Report • 1d ago
+therobotreport.com • 1d ago
 
 ---
 
-**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[New Bill Would Ban Humanoid Robots in Schools After New York Focus Report](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
 
-A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
+After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
 
-ABC News - Breaking News, Latest News and Videos • 3d ago
+New York Focus • 7h ago
+
+---
+
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+Forbes • 3h ago
+
+---
+
+**[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
+
+Zacks Investment Research • 2h ago
 
 ---
 
@@ -146,7 +160,7 @@ ABC News - Breaking News, Latest News and Videos • 3d ago
 
 Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
 
-The Telegraph • 7h ago
+The Telegraph • 10h ago
 
 ---
 
@@ -154,7 +168,7 @@ The Telegraph • 7h ago
 
 FF EAI Robotics reached 394 units toward a 2,000-unit full-year target; initial implementation of three of four cores is complete, with a partner conference planned soon.
 
-stocktitan.net • 13h ago
+Stock Titan • 15h ago
 
 ---
 
@@ -166,25 +180,11 @@ FreightWaves • 2d ago
 
 ---
 
-**[Graveyard guard shifts have gone to the (robot) dogs](https://www.businessinsider.com/security-guard-turnover-retention-robot-dogs-drones-patrol-2026-8)**
+**[Americans in their 70s and 80s are among the first to bring AI robots into their homes](https://fortune.com/2026/08/03/gen-z-elliq-intuition-robotics-ai-companion-robot-older-adults/)**
 
-Asylon's robot dogs and drones are patrolling large facilities as the security industry faces a retention problem.
+ElliQ’s device has been commercially available since 2022.
 
-Business Insider • 2d ago
-
----
-
-**[Electroecology for biohybrid and robotic systems](https://www.nature.com/articles/s44222-026-00481-z)**
-
-Nature • 1h ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 1h ago
+Fortune • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 220K • 👍 6K • 💬 512 • ⏱️ 3:00 • 3d ago
+👁️ 222K • 👍 6K • 💬 515 • ⏱️ 3:00 • 4d ago
 
 ---
 
@@ -208,7 +208,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 23K • 👍 490 • 💬 49 • ⏱️ 11:26 • 1d ago
+👁️ 26K • 👍 534 • 💬 52 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 380 • 💬 531 • ⏱️ 6:04 • 4d ago
+👁️ 73K • 👍 384 • 💬 533 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -238,7 +238,17 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 115K • 👍 1K • 💬 478 • ⏱️ 3:14 • 23h ago
+👁️ 126K • 👍 1K • 💬 507 • ⏱️ 3:14 • 1d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 17K • 👍 277 • 💬 20 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -258,7 +268,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 24K • 👍 474 • 💬 39 • ⏱️ 9:54 • 2d ago
+👁️ 25K • 👍 481 • 💬 39 • ⏱️ 9:54 • 2d ago
 
 ---
 
@@ -268,27 +278,17 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 5K • 👍 255 • 💬 21 • ⏱️ 9:14 • 1d ago
+👁️ 5K • 👍 261 • 💬 22 • ⏱️ 9:14 • 1d ago
 
 ---
 
-**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
 
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
 
-📺 a16z
+📺 Foundation Robotics
 
-👁️ 27K • 💬 37 • ⏱️ 42:21 • 5d ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 110K • 👍 2K • 💬 326 • ⏱️ 1:08:35 • 5d ago
+👁️ 14K • 👍 490 • 💬 26 • ⏱️ 5:33 • 2d ago
 
 ---
 
