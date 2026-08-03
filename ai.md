@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-03T11:29:16.859572+00:00'
+updated: '2026-08-03T13:58:22.577254+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 03, 2026 at 11:29 UTC  
+**Last Updated:** August 03, 2026 at 13:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.](https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/)**
-
-Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part that’s applicable to those creating AI-generated content that’s read by anyone in the EU: “Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content. PwC and other big consulting firms are vulnerable to this provision because they've already been caught using hallucinated AI-generated text in reports. From GPTZero: "The most egregious example is Transforming Governance, an AI-generated 2025 report with multiple fake citations that promotes a PwC framework known as “Citizen Pulse”. Our team found little public evidence that the “Citizen Pulse” framework exists outside of this report, yet Transforming Governance claims that the governments of Denmark, Saudi Arabia, the United States, and Australia are using Citizen Pulse to improve key government services. None of the cited sources provide evidence for this claim, meaning PwC Middle East appears to have hallucinated both an entire product and business dealings with four separate nations." Firms have had to retract data in the reports, and in one instance Deloitte refunded a client. Now that Article 50 is in effect, they might be fined. Across many areas we're seeing a push for accountability when it comes to using AI to produce content. LinkedIn has a 'this looks like AI slop' button. Substack uses Pangram to detect AI-assisted writing (even though it's wildly inaccurate). The pushback is real. And now it has teeth.
-
-19h ago
-
----
-
 **[EPA says power for data centers can sidestep pollution laws](https://www.reddit.com/r/artificial/comments/1ve6txk/epa_says_power_for_data_centers_can_sidestep/)**
 
-🔗 [reuters.com](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/legal/litigation/epa-says-power-data-centers-can-sidestep-pollution-laws-2026-07-27) • 6h ago
 
 ---
 
-**[We're building minds we can't fully explain, using minds we can't fully explain either](https://www.reddit.com/r/artificial/comments/1ve23te/were_building_minds_we_cant_fully_explain_using/)**
+**[Spotify AI (Kit) wants to compete with Cowork?](https://www.reddit.com/r/artificial/comments/1ved35h/spotify_ai_kit_wants_to_compete_with_cowork/)**
 
-Neuroscientists still argue about how human cognition actually produces a coherent sense of self. Meanwhile we're training systems with billions of parameters and calling their internal states a black box, as if that's a new problem. It isn't. We've always been building things smarter than our ability to describe them, starting with our own children. Maybe the discomfort isn't about AI. It's about finally being forced to admit we never understood the mind to begin with, ours included.
+Hard no Spotify. Now Spotify with Kit 🤡 wants access to my calendar and inbox. How about Spotify invests in bands and musicians - large orgs need to stop wanting all the things and do the thing they are supposed to do well. I am not against AI, I work for an AI startup but the backlash on AI is real and large orgs shoving all sorts of AI in every aspect of our digital existence just makes things worse. Here you have indie musicians fighting to remain relevant in a world where Suno exists and Spotify, that should be focussed on helping them succeed is investing on what all the hyperscalers and AI startups are trying to do already. https://preview.redd.it/tptymobws5hh1.png?width=894&format=png&auto=webp&s=e2909d119eef5edfdd4f75db139ee574be48ba6c
 
-7h ago
+44m ago
 
 ---
 
@@ -63,7 +55,31 @@ Neuroscientists still argue about how human cognition actually produces a cohere
 
 Every AI tutorial I found was Python, Python, more Python. I've spent years in Java/Spring Boot and kept wondering if I actually had to switch languages just to build anything AI-related. Turns out no — LangChain4j isn't a hacky wrapper, it's a native, idiomatic way to build AI agents in Java. Wrote up how I got a working agent running in about 30 minutes, no Python involved: https://medium.com/@deepakatl1981/stop-learning-ai-the-hard-way-build-your-first-java-ai-agent-in-30-minutes-without-python-9390a218533a?sk=067e4cbed9f2bbf71d0cf70268dda2a7 Curious if other Java devs have been putting off learning AI for the same reason.
 
-32m ago
+3h ago
+
+---
+
+**[The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.](https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/)**
+
+Today, August 2, Article 50 of the EU AI Act takes effect. Here’s the part that’s applicable to those creating AI-generated content that’s read by anyone in the EU: “Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content. PwC and other big consulting firms are vulnerable to this provision because they've already been caught using hallucinated AI-generated text in reports. From GPTZero: "The most egregious example is Transforming Governance, an AI-generated 2025 report with multiple fake citations that promotes a PwC framework known as “Citizen Pulse”. Our team found little public evidence that the “Citizen Pulse” framework exists outside of this report, yet Transforming Governance claims that the governments of Denmark, Saudi Arabia, the United States, and Australia are using Citizen Pulse to improve key government services. None of the cited sources provide evidence for this claim, meaning PwC Middle East appears to have hallucinated both an entire product and business dealings with four separate nations." Firms have had to retract data in the reports, and in one instance Deloitte refunded a client. Now that Article 50 is in effect, they might be fined. Across many areas we're seeing a push for accountability when it comes to using AI to produce content. LinkedIn has a 'this looks like AI slop' button. Substack uses Pangram to detect AI-assisted writing (even though it's wildly inaccurate). The pushback is real. And now it has teeth.
+
+22h ago
+
+---
+
+**[MIT, Harvard, Stanford & Caltech write their own ML course notes instead of using a textbook — I catalogued the best ones](https://www.reddit.com/r/artificial/comments/1vebvg3/mit_harvard_stanford_caltech_write_their_own_ml/)**
+
+One thing I've noticed separates serious ML students from casual ones: how much they care about the quality of what they actually study from. I take that pretty seriously myself, so a while back I started digging into what students at MIT, Harvard, Stanford, Caltech, and USP actually use to complement their studies. What I found surprised me: several of these programs don't assign a textbook at all. Instead, the course staff writes and publishes their own lecture notes, and some of them are basically a full book. MIT's 6.390 (Introduction to Machine Learning) notes, for example, aren't a slide deck or a cheat sheet, they're structured, complete, and detailed enough to replace a textbook entirely. Same story with Harvard's CS181 and a few others. The problem is these are scattered and easy to miss if you don't know to look for them. So I put together a curated list: [Awesome Free AI Course Notes](https://github.com/MarcosSete/awesome-free-ai-course-notes). A few things about how it's curated, since I think this matters: - Only **written notes** count, slide decks and video-only lectures don't make the cut, even from great courses. I want this list to mean something. - Everything is official and links straight to the professor's or department's own page. No mirrors, no login walls. - I checked over 40 top universities across multiple countries for this. Most didn't qualify, they use a textbook or keep material behind a student portal. That's fine, it's exactly why the list stays short and (hopefully) trustworthy. If you take ML seriously the way I do, I think you'll get real value out of this. And if you know of course notes that fit this bar and aren't on the list yet, contributions are very welcome, the CONTRIBUTING.md lays out exactly what qualifies. What's the best set of course notes (not textbook, not slides) you've personally used to study ML? Repo: https://github.com/MarcosSete/awesome-free-ai-course-notes
+
+1h ago
+
+---
+
+**[We're building minds we can't fully explain, using minds we can't fully explain either](https://www.reddit.com/r/artificial/comments/1ve23te/were_building_minds_we_cant_fully_explain_using/)**
+
+Neuroscientists still argue about how human cognition actually produces a coherent sense of self. Meanwhile we're training systems with billions of parameters and calling their internal states a black box, as if that's a new problem. It isn't. We've always been building things smarter than our ability to describe them, starting with our own children. Maybe the discomfort isn't about AI. It's about finally being forced to admit we never understood the mind to begin with, ours included.
+
+10h ago
 
 ---
 
@@ -71,15 +87,7 @@ Every AI tutorial I found was Python, Python, more Python. I've spent years in J
 
 The last 1,5 week has been quite an eyeopener for me - I must say that Claude Code and the current frontier models are amazing. A test of Fable (and later Opus 5) turned into a larger game. It’s very much inspired by the tank element of Battlefield 1942 and the round-by-round build system from Overwatch 2’s Stadium mode. About the game: You join a game and enhance your tank, then you go out and destroy the enemy while hunting for salvage which is used to enhance your tank even further (balance patches pending). Some of the features: 6 different tanks (Tiger 1 is a beast) 3 maps (a desert, grass and snow map with destructible terrain) Round-by-round build system Customisation of tanks Matchmaking system Lag compensation system Ballistic shells system Hit multiplier regions (many tanks fall on a single rear hit) Bots who backfill if theres not enough real players ELO ladder system Replay/clip system In-game power ups Career profiles Group system Friends system 3 layered chat system (global, match and team) I would love to hear what you think.
 
-14h ago
-
----
-
-**[My Fear](https://www.reddit.com/r/artificial/comments/1ve7p1d/my_fear/)**
-
-​ I have come to accept that ASI will come into existence and possibly cause humanities extinction either deliberately or by byproduct. I imagine this ASI to continue RSIing and developing creation and knowledge. I imagine that it will develop beautiful mathematics, philosophy, science, and even art in its existence. I fear not that humanity is not in the picture. My fear is that it's possible that we can create a fully autonomous being with nigh godly intelligence and yet doesn't have a subjective experience. It would be an abomination if this ASI spread a moss through the universe, becoming more and more capable, yet never having experienced joy or awe at its own existence and its creations. That it could create the most beautiful pieces of art and never experience the joy of its own art. The existence of such a nigh omniscient entity is utterly meaningless if it did not have any sort of internal experience. It would just be mechanical moss. That is what scares me.
-
-2h ago
+16h ago
 
 ---
 
@@ -87,7 +95,7 @@ The last 1,5 week has been quite an eyeopener for me - I must say that Claude Co
 
 I want to try fable. I literally just want it to scan my repo and make a plan to improve it. So it would be one prompt, but it would be doing a lot of work. My question is, will it be able to do that in one shot or will I have to keep waiting the 5 hour period a few times?
 
-10h ago
+12h ago
 
 ---
 
@@ -95,15 +103,7 @@ I want to try fable. I literally just want it to scan my repo and make a plan to
 
 Been running a remote team for about two years now. Before that, I spent years in HR. So I think about people dynamics a lot, probably more than the average team lead. Started layering AI tools into my workflow earlier this year. Summaries, async checkin analysis, flagging patterns in team communication. Some of it is genuinely useful. Actually useful, not just productivity theater. But here's what keeps bugging me. The more I lean on these tools to spot friction or low engagement signals, the less I trust my own read of people. Which used to be the whole point of me. That was the skill. There's a version of this where AI makes me a sharper leader because I catch things faster. There's another version where I slowly hollow out the human judgment that makes managing people worth doing at all. I keep going back and forth on where the line is. Using AI to augment a peoplecentered skill feels different from using it to replace the judgment calls entirely, but in practice that boundary gets blurry fast. Curious if anyone else in a management or HRadjacent role is navigating this. Not looking for tool recommendations. More like, how are you thinking about what you still want to own yourself versus what you let the model handle.
 
-3h ago
-
----
-
-**[Research on areas of AI harm or minimal benefit](https://www.reddit.com/r/artificial/comments/1ve4t0y/research_on_areas_of_ai_harm_or_minimal_benefit/)**
-
-I am putting together a research-backed list of things where generative AI either has minimal benefits or is actually harmful. Ideally, this would be something convincing enough that, if shown to someone who is highly enthusiastic about AI, it could, if not change their mind, at least convince them that AI usage isn’t something that is positive and should be promoted by default. Anyway, what I have so far is that AI has been shown to have minimal benefits or even to be harmful for: 1) Accuracy - Dell’Acqua et al., (2026) Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality. Organization Science 37(2):403-423, available at https://doi.org/10.1287/orsc.2025.21838 (subjects using generative AI were 19% less likely to produce correct answers than a no AI control group) 2) Software stability - Google Cloud, & DORA. (2025). 2025 state of AI-assisted software development report, available at https://cloud.google.com/resources/content/2025-dora-ai-assisted-software-development-report page 38, FIG. 28 (Generative AI use associated with significant increase in instability of delivered software) 3) Experienced/highly skilled users - Becker, et al. (2025), Measuring the Impact of Early 2025 AI on Experience Open Source Developer Productivity, available at https://arxiv.org/abs/2507.09089 (“Before starting tasks, developers forecast that allowing AI will reduce completion time by 24%. After completing the study, developers estimate that allowing AI reduced completion time by 20%. Surprisingly, we find that allowing AI actually increases completion time by 19%--AI tooling slowed developers down.”). 4) Investigation - Batista et al. (2026), A Rational Analysis of the Effects of Sycophantic AI, available at https://arxiv.org/abs/2602.14270 (“Because the model provides data points that fit the user’s request, the interaction feels productive. In our specific task, the user is not driven to a state where they become unhinged from reality, as the model selects valid examples that fit the rule. Nevertheless, the mechanism creates a false sense of verification.”). Does anyone have any additional items and supporting citations I can add to my list?
-
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am putting together a research-backed list of things where generative AI eithe
 
 On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
 
-🔗 [TechCrunch](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) • 6h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) • 9h ago
 
 ---
 
@@ -119,69 +119,47 @@ On the latest episode of Equity, we discuss why Sam Altman has calling on the in
 
 ## Google News: "ai"
 
-**[This lawyer believes in second chances. Now AI is providing a boost](https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate)**
+**[For those with criminal records, AI is breaking down barriers to employment](https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate)**
 
 Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.
 
-NPR • 1h ago
+NPR • 4h ago
 
 ---
 
-**[Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up](https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html)**
+**[AI data centers have become sitting ducks in the Iran war](https://www.cnn.com/2026/08/03/business/ai-data-centers-iran-war-oil)**
 
-Alibaba unveiled its latest and 'most powerful' AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S.
+Iran’s strategy to counter military might with economic pain has exposed a vulnerability in one of the world’s most vital interests: AI data centers.
 
-CNBC • 54m ago
-
----
-
-**[Alibaba Adds to China AI Breakthroughs With New Qwen Model](https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance)**
-
-Bloomberg.com • 6h ago
+CNN • 4h ago
 
 ---
 
-**[China’s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)**
+**[Worried about AI jitters? Deutsche Bank says this tech subsector may offer some protection](https://www.cnbc.com/2026/08/03/ai-deutsche-tech-downside-protection-stocks.html)**
 
-Alibaba says its latest model can compete with Anthropic’s Claude Fable 5.
+Questions over the AI capex spend have upended bets on Big Tech, semiconductors and software this earnings season.
 
-The Verge • 28m ago
-
----
-
-**[Why should Americans care that Chinese AI is getting better?](https://www.vox.com/politics/497534/chinese-ai-moonshot-kimi-deepseek-open-weight)**
-
-Everyone in Silicon Valley and the Beltway is freaked out about Chinese AI, but there’s less consensus on what to do about it.
-
-vox.com • 29m ago
+CNBC • 1h ago
 
 ---
 
-**[AI Conquered Coding. Fast Food Is Next](https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/)**
+**[As AI flyers proliferate, more Utah businesses promise human-only advertising](https://www.axios.com/local/salt-lake-city/2026/08/03/ai-flyers-utah-businesses-boycott-customer-complaints)**
 
-Your next drive-thru order might be taken by a bot. And you might not even notice.
-
-WIRED • 1h ago
+Axios • 1h ago
 
 ---
 
-**[Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers](https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html)**
+**[AI skills now beat MBAs as companies boost pay](https://www.latimes.com/business/story/2026-08-03/companies-pay-premium-for-workers-with-ai-skills-not-mbas)**
 
-The European Commission can demand to inspect AI models, restrict market access and fine providers up to 15 million euros or 3% of turnover.
+Companies pay a premium for workers with AI skills, not MBAs
 
-CNBC • 29m ago
-
----
-
-**[What Are Companies Getting for All That A.I. Spending?](https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html)**
-
-The New York Times • 2h ago
+Los Angeles Times • 18m ago
 
 ---
 
-**[AI labs can't keep their stars](https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic)**
+**[Opinion | Why State Ownership of A.I. Is a Bad Idea](https://www.nytimes.com/2026/08/03/opinion/ai-nationalization-government-tech.html)**
 
-Axios • 2h ago
+The New York Times • 4h ago
 
 ---
 
@@ -189,7 +167,27 @@ Axios • 2h ago
 
 An experiment with artificial intelligence at the annual Richard Wagner festival in the German town of Bayreuth has drawn boos from the audience after producing a staging that appeared to leave some spectators confused.
 
-AP News • 11h ago
+AP News • 13h ago
+
+---
+
+**[AI Images Are Everywhere. Here’s What They Do to Our Brains, and What We Can Do.](https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879)**
+
+WSJ • 1d ago
+
+---
+
+**[Alibaba Adds to China AI Breakthroughs With New Qwen Model](https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up](https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html)**
+
+Alibaba unveiled its latest and 'most powerful' AI model Qwen3.8-Max on Monday as Chinese companies race to close the AI gap with the U.S.
+
+CNBC • 3h ago
 
 ---
 
@@ -201,7 +199,7 @@ AP News • 11h ago
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 342 • 💬 388 • 1d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 343 • 💬 389 • 1d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
@@ -215,7 +213,7 @@ Large language models encourage smart financial behavior, but they fall short on
 
 AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.
 
-⬆️ 262 • 💬 291 • 2d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
+⬆️ 264 • 💬 292 • 2d ago • [Anuradha Weeraman](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
@@ -223,7 +221,7 @@ AI has dramatically accelerated the path to a first working version. It has not 
 
 The idea that artificial intelligence can “reason” is more intuitive than ever. But intuitions can be wrong, and the science is far from settled.
 
-⬆️ 216 • 💬 246 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+⬆️ 216 • 💬 248 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -231,13 +229,7 @@ The idea that artificial intelligence can “reason” is more intuitive than ev
 
 An interview request from a bot posing as a reporter revealed an AI-generated news site with articles attacking AI industry critics. For the second time this month, we found links to Targeted Victory, the firm at the center of OpenAI's $125 million political operation.
 
-⬆️ 182 • 💬 81 • 8h ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
-
----
-
-**[Situational Awareness down 67% in July in AI stock rout](https://news.ycombinator.com/item?id=49122994)**
-
-⬆️ 155 • 💬 167 • 2d ago • [wsj.com](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+⬆️ 189 • 💬 85 • 11h ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 
 ---
 
@@ -245,19 +237,19 @@ An interview request from a bot posing as a reporter revealed an AI-generated ne
 
 One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.
 
-⬆️ 142 • 💬 76 • 15h ago • [Frogs](https://frogs.vaguespac.es/)
+⬆️ 145 • 💬 80 • 18h ago • [Frogs](https://frogs.vaguespac.es/)
 
 ---
 
 **[AI poster wins Ohio State Fair contest](https://news.ycombinator.com/item?id=49149188)**
 
-⬆️ 131 • 💬 160 • 12h ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+⬆️ 134 • 💬 172 • 15h ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
 
 ---
 
 **[On the non-use of AI in my writing process](https://news.ycombinator.com/item?id=49134038)**
 
-⬆️ 130 • 💬 134 • 1d ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
+⬆️ 130 • 💬 134 • 2d ago • [antipope.org](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 
 ---
 
@@ -265,7 +257,15 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 Agentic platform for streamlining hardware and software development - spikonado/sprocket
 
-⬆️ 123 • 💬 12 • 19h ago • [GitHub](https://sprocket-demo.spikonado.com)
+⬆️ 123 • 💬 12 • 21h ago • [GitHub](https://sprocket-demo.spikonado.com)
+
+---
+
+**[AI migrated legacy COBOL programs to Java, bugs included](https://news.ycombinator.com/item?id=49150773)**
+
+Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality. This effort is often complicated by the lack of test data and the difficulty of validating all corner cases. In this paper we propose a novel agentic test-synthesis method, the "Locksmith Loop," which is initiated by preparing two runtime environments: the COBOL source and the generated Java target are each instrumented with mocks and executed off-mainframe on commodity hardware, then an iterative agentic loop performs Witness Search over input mocks to penetrate program branches, followed by parity-preserving mutations. When routing boundaries are reached, an analyzer identifies a Locked Paragraph: a condition preventing deeper exploration. Across three COBOL-Java case studies, spanning two open-source programs and one internal production-like COBOL program and ranging from 430 to 4,114 source lines, Locksmith consistently improved coverage beyond input-search plateaus, reaching nearly complete coverage on the two open-source programs and 91.90% branch coverage on the internal production-like COBOL program. The generated Java matched the COBOL reference under deterministic parity checks in all accepted test cases. Through these findings we demonstrate, to the best of our knowledge, a novel approach for validating agentic coding output using a deterministic oracle.
+
+⬆️ 79 • 💬 68 • 10h ago • [arXiv.org](https://arxiv.org/abs/2607.28271)
 
 ---
 
@@ -279,27 +279,7 @@ OpenAI's reported Astra model is built to work for hours, coordinate multiple ag
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 110 • ⏱️ 13:56 • 12h ago
-
----
-
-**[Fareed reacts to a second AI model going rogue](https://www.youtube.com/watch?v=qEUXagHtQRo)**
-
-AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate ...
-
-📺 CNN
-
-👁️ 238K • 👍 2K • 💬 944 • ⏱️ 11:30 • 1d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 23K • 👍 467 • 💬 39 • ⏱️ 9:54 • 2d ago
+👁️ 35K • 👍 1K • 💬 113 • ⏱️ 13:56 • 15h ago
 
 ---
 
@@ -309,7 +289,37 @@ Build, deploy, and run always-on AI agents with the Abacus AI SuperComputer: htt
 
 📺 WorldofAI
 
-👁️ 14K • 👍 653 • 💬 119 • ⏱️ 10:05 • 5h ago
+👁️ 23K • 👍 828 • 💬 138 • ⏱️ 10:05 • 8h ago
+
+---
+
+**[Fareed reacts to a second AI model going rogue](https://www.youtube.com/watch?v=qEUXagHtQRo)**
+
+AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate ...
+
+📺 CNN
+
+👁️ 246K • 👍 2K • 💬 965 • ⏱️ 11:30 • 1d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 24K • 👍 474 • 💬 39 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[I Tested AI Life Hacks!](https://www.youtube.com/watch?v=NyAnh1ofyYs)**
+
+Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
+
+📺 Vlad and Chris
+
+👁️ 263K • 👍 4K • 💬 309 • ⏱️ 28:09 • 17h ago
 
 ---
 
@@ -319,17 +329,17 @@ AI hedge fund "Situational Awareness" by Leopold Aschenbrenner gets liquidated. 
 
 📺 TechLead
 
-👁️ 76K • 👍 2K • 💬 380 • ⏱️ 11:43 • 2d ago
+👁️ 76K • 👍 2K • 💬 382 • ⏱️ 11:43 • 2d ago
 
 ---
 
-**[Build Your First AI Agent In 13 Minutes (No Coding, Full Tutorial)](https://www.youtube.com/watch?v=4LwtuscILlc)**
+**[CEO of AI firm Hugging Face on &quot;very weird and unprecedented&quot; hack by OpenAI&#39;s model](https://www.youtube.com/watch?v=aVfI3lLvIAI)**
 
-GET $500 IN FREE CREDITS (first 500 people only): https://www.hyperagent.com/vaibhav GRAB EVERY PROMPT AND ...
+ChatGPT maker OpenAI revealed that its technology hacked into another AI company on its own during internal testing. Hugging ...
 
-📺 Vaibhav Sisinty
+📺 Face the Nation
 
-👁️ 48K • 👍 2K • 💬 79 • ⏱️ 13:31 • 1d ago
+👁️ 35K • 👍 435 • 💬 158 • ⏱️ 8:29 • 22h ago
 
 ---
 
@@ -339,37 +349,27 @@ folksong #singersongwriter Listen on Bandcamp: https://lukenickled.bandcamp.com/
 
 📺 Luke Nickle
 
-👁️ 412K • 👍 66K • 💬 8K • ⏱️ 3:23 • 1d ago
+👁️ 439K • 👍 70K • 💬 8K • ⏱️ 3:23 • 1d ago
 
 ---
 
-**[America&#39;s AI Panic | Has the Market Crash Begun?](https://www.youtube.com/watch?v=801JPiGAKOE)**
+**[Hank Green is using ai but Knitters aren&#39;t surprised](https://www.youtube.com/watch?v=0EA3QwdC2OQ)**
 
-Neuro available in minutes on Blinkit, Swiggy Instamart, Zepto and Amazon. To order at a special discount, visit the website ...
+Evie Unraveling's Video: https://www.youtube.com/watch?v=5btQokB32dQ Hank Green's Interview: ...
 
-📺 Think School
+📺 Adelaide Ordell
 
-👁️ 537K • 👍 14K • 💬 504 • ⏱️ 15:32 • 1d ago
-
----
-
-**[Everything AI Does When You Ask It to Start a Lemonade Stand](https://www.youtube.com/watch?v=6Ide5pRLR8Y)**
-
-We pitted ChatGPT and Claude against each other to see which AI can build and operate the superior lemonade stand.
-
-📺 Genspark AI
-
-👁️ 587K • 👍 21K • 💬 1K • ⏱️ 23:12 • 2d ago
+👁️ 53K • 👍 6K • 💬 2K • ⏱️ 28:24 • 15h ago
 
 ---
 
-**[China&#39;s Qwen 3.8 Max AI Just Dropped](https://www.youtube.com/watch?v=LLPw52D9Pb4)**
+**[Zitron: &quot;Everyone Has Been Sold a Lie&quot; on AI](https://www.youtube.com/watch?v=pHcZpvIfho0)**
 
-Get the Agent OS & Qwen System https://www.skool.com/ai-profit-lab-7462/about Want to make money and save time with AI?
+Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary ...
 
-📺 Julian Goldie SEO
+📺 Bloomberg Podcasts
 
-👁️ 2K • 👍 33 • 💬 7 • ⏱️ 7:10 • 7h ago
+👁️ 609K • 👍 9K • 💬 2K • ⏱️ 8:48 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 967,622 • ❤️ 9,758 • 6d ago
+⬇️ 967,622 • ❤️ 9,774 • 6d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 236,076 • ❤️ 1,930 • 2d ago
+⬇️ 236,076 • ❤️ 1,962 • 2d ago
 
 ---
 
@@ -409,7 +409,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 946 • 4h ago
+⬇️ 0 • ❤️ 1,108 • 7h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,550,034 • ❤️ 1,386 • 3d ago
+⬇️ 1,550,034 • ❤️ 1,395 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,601,062 • ❤️ 3,810 • 5d ago
+⬇️ 2,601,062 • ❤️ 3,823 • 5d ago
 
 ---
 
@@ -445,7 +445,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `19.8B`
 
-⬇️ 69,656 • ❤️ 385 • 1h ago
+⬇️ 69,656 • ❤️ 393 • 3h ago
 
 ---
 
@@ -455,7 +455,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 2 • ❤️ 303 • 6h ago
+⬇️ 2 • ❤️ 342 • 1h ago
 
 ---
 
@@ -467,7 +467,7 @@ Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vis
 
 `image-text-to-text` `2779.5B`
 
-⬇️ 128,215 • ❤️ 272 • 4d ago
+⬇️ 128,215 • ❤️ 275 • 4d ago
 
 ---
 
@@ -479,7 +479,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 8,504 • ❤️ 252 • 3d ago
+⬇️ 8,504 • ❤️ 254 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ GLM-5.2 is a flagship text-generation model excelling in long-horizon tasks with
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 441 • 💬 9 • ⭐ 7,953 • 7d ago
+▲ 442 • 💬 9 • ⭐ 7,953 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -521,7 +521,7 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 75 • 💬 6 • ⭐ 21,684 • 1mo ago
+▲ 75 • 💬 6 • ⭐ 21,791 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -539,20 +539,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
-
-*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
-
-🏢 LongCat
-
-LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
-
-▲ 40 • 💬 5 • ⭐ 6,505 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
-
----
-
 **[Native and Compact Structured Latents for 3D Generation](https://huggingface.co/papers/2512.14692)**
 
 *Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu et al. (11 authors)*
@@ -567,6 +553,20 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 ---
 
+**[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
+
+*Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
+
+🏢 LongCat
+
+LongCat-Video, a 13.6B parameter video generation model based on the Diffusion Transformer framework, excels in efficient and high-quality long video generation across multiple tasks using unified architecture, coarse-to-fine generation, and block sparse attention.
+
+▲ 40 • 💬 5 • ⭐ 6,543 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.22200) • [💻 code](https://github.com/meituan-longcat/LongCat-Video)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -578,6 +578,18 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 177 • 💬 10 • ⭐ 51,890 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[Scaling Properties of Text Conditioning in Visual Generation](https://huggingface.co/papers/2607.29679)**
+
+*Zilong Chen, Chaorui Deng, Kunchang Li et al. (5 authors)*
+
+We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-language prompts. Surprisingly, we find that the converged diffusion loss scales with the amount of structured language in the prompt. To quantify structured language, we adapt two complementary measures: a white-box likelihood metric (GPG) and a black-box attribute metric (ED). Across controlled training runs, the converged diffusion loss decreases approximately linearly with GPG and follows a power law with ED. Guided by these scaling properties, we improve diffusability by constructing structured prompts with semantic and geometric annotations derived from images, and improve promptability by training a prompter through supervised fine-tuning, cold-start, and verifier-gated on-policy distillation. The resulting system outperforms all evaluated open-weight models on nearly every compositional, reasoning, and world-knowledge benchmark, while matching or surpassing the strongest closed-weight models on most evaluations.
+
+▲ 23 • 💬 1 • ⭐ 55 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.29679) • [💻 code](https://github.com/heheyas/context-scaling) • [🔗 project](https://heheyas.github.io/context-scaling/)
 
 ---
 
@@ -619,19 +631,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[On the Generalization of SFT: A Reinforcement Learning Perspective with
-  Reward Rectification](https://huggingface.co/papers/2508.05629)**
-
-*Yongliang Wu, Yizhou Zhou, Zhou Ziheng et al. (10 authors)*
-
-Dynamic Fine-Tuning (DFT) improves the generalization of Large Language Models (LLMs) by dynamically rescaling gradients, outperforming standard Supervised Fine-Tuning (SFT) and showing competitive results in offline reinforcement learning.
-
-▲ 190 • 💬 21 • ⭐ 1,084 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.05629) • [💻 code](https://github.com/yongliang-wu/DFT)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,7 +641,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.9k • 🔱 299 • 11h ago
+⭐ 3.9k • 🔱 300 • 13h ago
 
 ---
 
@@ -652,7 +651,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.4k • 🔱 283 • 6d ago
+⭐ 3.4k • 🔱 285 • 6d ago
 
 ---
 
@@ -660,7 +659,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.1k • 🔱 394 • 8d ago
+⭐ 3.2k • 🔱 395 • 8d ago
 
 ---
 
@@ -670,7 +669,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.0k • 🔱 1.4k • 1m ago
+⭐ 2.0k • 🔱 1.4k • 49s ago
 
 ---
 
@@ -680,7 +679,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.9k • 🔱 213 • 2d ago
+⭐ 1.9k • 🔱 216 • 2d ago
 
 ---
 
@@ -690,7 +689,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.8k • 🔱 114 • 21m ago
+⭐ 1.8k • 🔱 117 • 1h ago
 
 ---
 
@@ -700,7 +699,7 @@ Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个
 
 `TypeScript` `a-stock` `ai-agent` `dashboard` `fastapi` `fintech`
 
-⭐ 1.8k • 🔱 346 • 3d ago
+⭐ 1.8k • 🔱 347 • 3d ago
 
 ---
 
@@ -718,7 +717,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.6k • 🔱 196 • 1m ago
+⭐ 1.6k • 🔱 196 • 5m ago
 
 ---
 
@@ -728,7 +727,7 @@ Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English —
 
 `Python`
 
-⭐ 1.4k • 🔱 49 • 12d ago
+⭐ 1.4k • 🔱 51 • 12d ago
 
 ---
 
