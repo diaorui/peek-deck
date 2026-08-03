@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-03T18:50:59.299954+00:00'
+updated: '2026-08-03T20:26:59.380723+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 18:50 UTC  
+**Last Updated:** August 03, 2026 at 20:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.8%  
-**30d:** +4.8%  
-**90d:** -20.5%  
-**1y:** -49.8%  
+**24h:** -0.9%  
+**7d:** -2.7%  
+**30d:** +4.9%  
+**90d:** -20.4%  
+**1y:** -49.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -150,27 +150,43 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-more-153143906.html)**
+
+The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Ethereum news: Tom Lee's Bitmine (BMNR) continues to buy ETH while Strategy sold bitcoin](https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week)**
 
 Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
+**[BMNR Stock Falls Despite Bitmine Retiring Over 16M Shares In 3 Weeks – Tom Lee Highlights Ethereum’s Edge Over Nasdaq 100](https://www.tradingview.com/news/stocktwits:e708a1e4c094b:0-bmnr-stock-falls-despite-bitmine-retiring-over-16m-shares-in-3-weeks-tom-lee-highlights-ethereum-s-edge-over-nasdaq-100/)**
 
-In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
+Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
 
-Yahoo Finance • 1d ago
+TradingView • 6h ago
 
 ---
 
-**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
+**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback)**
 
-This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
+Tom Lee's Ethereum treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH tokens.
 
-TradingView • 1d ago
+Decrypt • 4h ago
+
+---
+
+**[XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto](https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling)**
+
+Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.
+
+Decrypt • 2h ago
 
 ---
 
@@ -178,7 +194,21 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
+
+---
+
+**[What Is the Ethereum Glamsterdam Upgrade?](https://www.binance.com/en/academy/articles/what-is-the-ethereum-glamsterdam-upgrade)**
+
+Binance • 3d ago
+
+---
+
+**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://coinpedia.org/news/key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
+
+This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here's what's on the calendar, and
+
+Coinpedia Fintech News • 19h ago
 
 ---
 
@@ -186,7 +216,7 @@ Fortune • 7h ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 1d ago
+fool.com • 1d ago
 
 ---
 
@@ -194,39 +224,7 @@ The Motley Fool • 1d ago
 
 The cryptocurrency market remains weak on Monday, with Bitcoin (BTC) falling toward the nearest $62,000. Ethereum (ETH) and Ripple (XRP) reflect the sell-off across altcoins, edging lower toward $1,800 and $1.05, respectively.
 
-FXStreet • 7h ago
-
----
-
-**[Bitcoin ETFs see $61M in weekly outflows while Ethereum ETFs quietly pocket $27M](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-2/)**
-
-US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
-
-Crypto Briefing • 13h ago
-
----
-
-**[Ethereum's 43-day staking queue isn't a clean demand signal, Sygnum says](https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum)**
-
-Sygnum's Thomas Brunner says Ethereum’s 43-day staking queue reflects mechanics, not just fresh demand from investors.
-
-The Block • 3d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Gain After Trump Holds Off Iran Strikes: Analyst Sees 'Strong and Vital](https://www.benzinga.com/crypto/cryptocurrency/26/08/60862831/bitcoin-ethereum-xrp-dogecoin-gain-after-trump-holds-off-iran-strikes)**
-
-Leading cryptocurrencies edged higher on Sunday, July 2, as investors weighed President Donald Trump's remarks about a potential Iran peace agreement.
-
-Benzinga • 17h ago
-
----
-
-**[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
-
-Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
-
-blockchain.news • 1d ago
+FXStreet • 9h ago
 
 ---
 
@@ -240,7 +238,7 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 4K • 👍 259 • 💬 42 • ⏱️ 5:30 • 5h ago
+👁️ 4K • 👍 259 • 💬 42 • ⏱️ 5:30 • 7h ago
 
 ---
 
@@ -260,7 +258,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 637 • 💬 314 • ⏱️ 19:51 • 17h ago
+👁️ 11K • 👍 637 • 💬 314 • ⏱️ 19:51 • 19h ago
 
 ---
 
@@ -270,7 +268,7 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 136 • 💬 4 • ⏱️ 6:21 • 4h ago
+👁️ 1K • 👍 136 • 💬 4 • ⏱️ 6:21 • 5h ago
 
 ---
 
@@ -280,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 216 • 👍 17 • 💬 5 • ⏱️ 4:24 • 7h ago
+👁️ 216 • 👍 17 • 💬 5 • ⏱️ 4:24 • 9h ago
 
 ---
 
@@ -300,7 +298,7 @@ The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 145 • ⏱️ 10:34 • 21h ago
+👁️ 26K • 👍 2K • 💬 145 • ⏱️ 10:34 • 22h ago
 
 ---
 
@@ -310,7 +308,7 @@ BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 268 • 💬 171 • ⏱️ 18:28 • 21h ago
+👁️ 6K • 👍 268 • 💬 171 • ⏱️ 18:28 • 23h ago
 
 ---
 
@@ -320,7 +318,7 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 1K • 👍 122 • 💬 74 • ⏱️ 16:11 • 8h ago
+👁️ 1K • 👍 122 • 💬 74 • ⏱️ 16:11 • 10h ago
 
 ---
 
@@ -330,7 +328,7 @@ El Banco Santander acaba de invertir 4,3 millones de dólares en el ETF de Bitco
 
 📺 Valentín Santamaría
 
-👁️ 1K • 👍 176 • 💬 18 • ⏱️ 16:01 • 8h ago
+👁️ 1K • 👍 176 • 💬 18 • ⏱️ 16:01 • 10h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T18:50:59.302832+00:00'
+updated: '2026-08-03T20:26:59.383955+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 18:50 UTC  
+**Last Updated:** August 03, 2026 at 20:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-17h ago
+19h ago
 
 ---
 
@@ -116,7 +116,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 17h ago
+WSJ • 19h ago
 
 ---
 
@@ -124,7 +124,7 @@ WSJ • 17h ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 1d ago
 
 After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
 
-New York Focus • 9h ago
+New York Focus • 11h ago
 
 ---
 
@@ -154,21 +154,13 @@ New York Focus • 9h ago
 
 They won't come after the Roomba you already own, but it might make it harder to get a new one.
 
-morningbrew.com • 2d ago
-
----
-
-**[The VC firm behind Shopify is doubling down on robotics and defense](https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8)**
-
-The venture capital firm, best known for bets on Shopify, Notion, and Mercor, has hired a new partner to invest in physical world technologies.
-
-Business Insider • 4h ago
+Morning Brew • 2d ago
 
 ---
 
 **[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
 
-bloomberg.com • 8h ago
+Bloomberg • 10h ago
 
 ---
 
@@ -182,7 +174,15 @@ ABC News - Breaking News, Latest News and Videos • 3d ago
 
 **[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
 
-Zacks Investment Research • 4h ago
+Zacks Investment Research • 6h ago
+
+---
+
+**[British military robots thrown into battle against US](https://www.telegraph.co.uk/us/news/2026/08/03/next-gen-warfare-testing-in-the-california-desert/)**
+
+Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
+
+The Telegraph • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 33 • ⏱️ 3:45 • 4d ago
+👁️ 2K • 💬 33 • ⏱️ 3:45 • 5d ago
 
 ---
 
@@ -256,7 +256,7 @@ China's fixation on synthetic humans is also pushing next generation prosthetics
 
 📺 Kalil 4.0
 
-👁️ 479 • 👍 7 • ⏱️ 0:56 • 4h ago
+👁️ 479 • 👍 7 • ⏱️ 0:56 • 5h ago
 
 ---
 
