@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-03T21:42:08.544140+00:00'
+updated: '2026-08-03T23:00:53.311144+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 21:42 UTC  
+**Last Updated:** August 03, 2026 at 23:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.4%  
-**30d:** +0.1%  
-**90d:** -21.8%  
-**1y:** -44.7%  
+**24h:** +0.5%  
+**7d:** -0.5%  
+**30d:** -0.0%  
+**90d:** -21.9%  
+**1y:** -44.8%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I've been where some of you are today. During the FTX collapse, I lost over $2 million USD. The cascade triggered margin calls, then liquidation. In what felt like an instant, six years of stacking disappeared. (Can send proof to mods if needed) I remember the disbelief, the anger, the sleepless nights, and asking myself, "What now?" Here's what I learned: money can disappear overnight, but your knowledge, your work ethic, your experience, and your ability to rebuild cannot be liquidated. If you were affected by Coldcard's wallet exploit, I'm genuinely sorry. Don't make irreversible decisions because of a financial loss. Reach out to family, friends, or your community. Take a breath. The charts will move again. Opportunities will come again. Your portfolio is not your identity. Your net worth is not your self-worth. Tomorrow, the sun will rise again. And as long as you're here, you still have a chance to build something even greater than what you lost.
 
-23h ago
+1d ago
 
 ---
 
 **[Coldcard seed + passphrase could be vulnerable as well](https://www.reddit.com/r/Bitcoin/comments/1vdzo8p/coldcard_seed_passphrase_could_be_vulnerable_as/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -101,7 +101,7 @@ I've been where some of you are today. During the FTX collapse, I lost over $2 m
 
 I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your ColdCard. If funds are recoverable at some point, they will probably be sent back to their original owners. If you are isolated, feel like something could go wrong or else, please please please reach out to someone. https://findahelpline.com Don’t keep things to yourself. You’re gonna need to talk about it. Time always does its thing. And yes, you can believe that the Bitcoin community is going to be ferocious on this one. If you have the courage to do so, you can always take a look at X. But you don’t have to. What matters most is you. Take care of yourself people.
 
-21h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ I mean it. Reach out to friends, family, anyone you trust. Do NOT destroy your C
 
 I generated my keys and made transactions using Coldcard MK3 and I thought it was the ultimate, air gapped solution to protect my BTC I thought it was one of the most sophisticated but worthwhile solutions to make me sleep better at night knowing my keys were safe. Out of chance not that long ago I moved over 3 BTC out of my Coldcard generated key to Kraken so I can trade for a bit then move it back. I only left a tiny amount in that key and it ended up being drained. I don't know if I should consider myself lucky or not
 
-19h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ Nvk history posts show he was completely aware of firmware vector attacks, and n
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin rises above $63,000 as stocks surge to start August](https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling)**
+**[Live updates: Bitcoin flirts with $64,000 as stocks start strong in August](https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling)**
 
 ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.
 
@@ -169,7 +169,7 @@ CoinDesk • 1h ago
 
 A Coldcard firmware bug may have let attackers steal roughly $70 million in bitcoin in under an hour, and the company says attacks are still ongoing. Estimated losses now at $89M.
 
-Fox Business • 21h ago
+foxbusiness.com • 22h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -205,27 +205,29 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
-
-WSJ • 7h ago
-
----
-
 **[Strategy Sells More Bitcoin, Stock as It Pushes on With Overhaul](https://www.bloomberg.com/news/articles/2026-08-03/strategy-sells-more-bitcoin-stock-as-it-pushes-on-with-overhaul)**
 
-bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss](https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss)**
+**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
 
-bloomberg.com • 1h ago
+WSJ • 8h ago
+
+---
+
+**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year's bull cycle](https://www.cnbc.com/video/2026/08/03/strategy-ceo-phong-le-expecting-strategy-to-outperform-bitcoin-in-next-years-bull-cycle.html)**
+
+Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the cryptocurrency and much more.
+
+CNBC • 4h ago
 
 ---
 
 **[Trump brothers-backed American Bitcoin swings to second-quarter loss](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-second-quarter-loss-2026-08-03/)**
 
-Reuters • 9h ago
+Reuters • 11h ago
 
 ---
 
@@ -237,7 +239,7 @@ Reuters • 9h ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 67 • 💬 18 • 22h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 67 • 💬 19 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -245,7 +247,7 @@ Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated k
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 18 • 💬 0 • 23h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 18 • 💬 0 • 1d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -269,7 +271,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it. Live wallet tracker.
 
-⬆️ 4 • 💬 0 • 1h ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
+⬆️ 4 • 💬 0 • 2h ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
 
 ---
 
@@ -277,7 +279,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 
 OBTC is a Bitcoin-derived lifecycle-money experiment. - organicbitcoin/obtcd
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/organicbitcoin/obtcd)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/organicbitcoin/obtcd)
 
 ---
 
@@ -285,7 +287,7 @@ OBTC is a Bitcoin-derived lifecycle-money experiment. - organicbitcoin/obtcd
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 2 • 💬 0 • 10h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 2 • 💬 0 • 11h ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -321,7 +323,7 @@ Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conferen
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 4K • 💬 188 • ⏱️ 7:53 • 9h ago
+👁️ 54K • 👍 4K • 💬 188 • ⏱️ 7:53 • 10h ago
 
 ---
 
@@ -331,7 +333,7 @@ Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to
 
 📺 CNBC Television
 
-👁️ 1K • 👍 15 • 💬 47 • ⏱️ 4:12 • 2h ago
+👁️ 1K • 👍 15 • 💬 47 • ⏱️ 4:12 • 3h ago
 
 ---
 
@@ -341,7 +343,7 @@ A massive wallet exploit, Strategy's potential Bitcoin sales, and growing regula
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 517 • ⏱️ 16:20 • 22h ago
+👁️ 24K • 👍 1K • 💬 517 • ⏱️ 16:20 • 23h ago
 
 ---
 
@@ -351,7 +353,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 15K • 👍 2K • 💬 115 • ⏱️ 1:39 • 1h ago
+👁️ 15K • 👍 2K • 💬 115 • ⏱️ 1:39 • 3h ago
 
 ---
 
@@ -371,7 +373,7 @@ Today we cover Michael Saylor's rumored $100M Bitcoin sale and why many are call
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 252 • 💬 122 • ⏱️ 59:03 • 6h ago
+👁️ 4K • 👍 252 • 💬 122 • ⏱️ 59:03 • 7h ago
 
 ---
 
@@ -411,7 +413,7 @@ Disclaimer: none of this is financial advice. This is financial entertainment. F
 
 📺 Adam Livingston
 
-👁️ 7K • 👍 623 • 💬 120 • ⏱️ 22:10 • 22h ago
+👁️ 7K • 👍 623 • 💬 120 • ⏱️ 22:10 • 23h ago
 
 ---
 

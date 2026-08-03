@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T21:42:08.549723+00:00'
+updated: '2026-08-03T23:00:53.319554+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 21:42 UTC  
+**Last Updated:** August 03, 2026 at 23:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-20h ago
+22h ago
 
 ---
 
@@ -116,15 +116,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 20h ago
-
----
-
-**[igus launches energy chain with 600-degree rotation for industrial robots](https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/)**
-
-igus says its new twisterchain energy chain provides cable management for challenging industrial robotics applications such as palletizing.
-
-The Robot Report • 31m ago
+WSJ • 21h ago
 
 ---
 
@@ -132,7 +124,15 @@ The Robot Report • 31m ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 9h ago
+Forbes • 10h ago
+
+---
+
+**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
+
+The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
+
+MIT Technology Review • 4h ago
 
 ---
 
@@ -148,27 +148,13 @@ The Robot Report • 1d ago
 
 People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
-The Conversation • 9h ago
-
----
-
-**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
-
-South China Morning Post • 1d ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-Morning Brew • 2d ago
+The Conversation • 10h ago
 
 ---
 
 **[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
 
-bloomberg.com • 11h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -180,11 +166,27 @@ ABC News - Breaking News, Latest News and Videos • 3d ago
 
 ---
 
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
+
+Morning Brew • 2d ago
+
+---
+
 **[British military robots thrown into battle against US](https://www.telegraph.co.uk/us/news/2026/08/03/next-gen-warfare-testing-in-the-california-desert/)**
 
 Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
 
-The Telegraph • 15h ago
+The Telegraph • 16h ago
+
+---
+
+**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
+
+Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
+
+FreightWaves • 3d ago
 
 ---
 
@@ -238,7 +240,7 @@ China's fixation on synthetic humans is also pushing next generation prosthetics
 
 📺 Kalil 4.0
 
-👁️ 511 • 👍 7 • ⏱️ 0:56 • 6h ago
+👁️ 511 • 👍 7 • ⏱️ 0:56 • 8h ago
 
 ---
 
