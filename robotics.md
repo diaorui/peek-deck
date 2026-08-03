@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T20:26:59.383955+00:00'
+updated: '2026-08-03T21:42:08.549723+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 20:26 UTC  
+**Last Updated:** August 03, 2026 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-12h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-6h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-19h ago
+20h ago
 
 ---
 
@@ -68,7 +68,7 @@ https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662b
 
 To play with continuous learning, your base model needs to be data-efficient and stable, which we tested here. Because all irrelevant fluctuations can compound over time.
 
-1d ago
+2d ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi alll, i was wondering what people use for visual context for ur robot, i have
 
 With various companies developing humanoid robots and advancements in robots in general, will there be some huge change in society the same way the internet boom changed humans?
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,15 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 19h ago
+WSJ • 20h ago
+
+---
+
+**[igus launches energy chain with 600-degree rotation for industrial robots](https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots/)**
+
+igus says its new twisterchain energy chain provides cable management for challenging industrial robotics applications such as palletizing.
+
+The Robot Report • 31m ago
 
 ---
 
@@ -124,13 +132,7 @@ WSJ • 19h ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 7h ago
-
----
-
-**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
-
-South China Morning Post • 1d ago
+Forbes • 9h ago
 
 ---
 
@@ -142,11 +144,17 @@ The Robot Report • 1d ago
 
 ---
 
-**[New Bill Would Ban Humanoid Robots in Schools After New York Focus Report](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
+**[When expressive humanoid robots are awkward, people become wary – new brain study](https://theconversation.com/when-expressive-humanoid-robots-are-awkward-people-become-wary-new-brain-study-288696)**
 
-After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
+People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
-New York Focus • 11h ago
+The Conversation • 9h ago
+
+---
+
+**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -160,7 +168,7 @@ Morning Brew • 2d ago
 
 **[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
 
-Bloomberg • 10h ago
+bloomberg.com • 11h ago
 
 ---
 
@@ -172,17 +180,11 @@ ABC News - Breaking News, Latest News and Videos • 3d ago
 
 ---
 
-**[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
-
-Zacks Investment Research • 6h ago
-
----
-
 **[British military robots thrown into battle against US](https://www.telegraph.co.uk/us/news/2026/08/03/next-gen-warfare-testing-in-the-california-desert/)**
 
 Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
 
-The Telegraph • 13h ago
+The Telegraph • 15h ago
 
 ---
 
@@ -196,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 223K • 👍 6K • 💬 515 • ⏱️ 3:00 • 4d ago
+👁️ 224K • 👍 6K • 💬 517 • ⏱️ 3:00 • 4d ago
 
 ---
 
@@ -206,7 +208,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 28K • 👍 579 • 💬 60 • ⏱️ 11:26 • 1d ago
+👁️ 31K • 👍 606 • 💬 61 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 383 • 💬 533 • ⏱️ 6:04 • 4d ago
+👁️ 73K • 👍 384 • 💬 534 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -230,13 +232,33 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 ---
 
+**[BrainCo&#39;s Next-Gen Lifelike Bionic Robot Hand #robotics #robothand #china](https://www.youtube.com/watch?v=2Z1RuOi11C4)**
+
+China's fixation on synthetic humans is also pushing next generation prosthetics forward. Hangzhou-based BrainCo, a ...
+
+📺 Kalil 4.0
+
+👁️ 511 • 👍 7 • ⏱️ 0:56 • 6h ago
+
+---
+
 **[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
 
 Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
 
 📺 BBC News
 
-👁️ 134K • 👍 1K • 💬 517 • ⏱️ 3:14 • 1d ago
+👁️ 143K • 👍 1K • 💬 539 • ⏱️ 3:14 • 1d ago
+
+---
+
+**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
+
+Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
+
+📺 Creative Channel
+
+👁️ 5K • 👍 265 • 💬 23 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -250,43 +272,23 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
-**[BrainCo&#39;s Next-Gen Lifelike Bionic Robot Hand #robotics #robothand #china](https://www.youtube.com/watch?v=2Z1RuOi11C4)**
-
-China's fixation on synthetic humans is also pushing next generation prosthetics forward. Hangzhou-based BrainCo, a ...
-
-📺 Kalil 4.0
-
-👁️ 479 • 👍 7 • ⏱️ 0:56 • 5h ago
-
----
-
 **[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
 
 Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
 
 📺 Foundation Robotics
 
-👁️ 15K • 👍 496 • 💬 28 • ⏱️ 5:33 • 2d ago
+👁️ 16K • 👍 511 • 💬 28 • ⏱️ 5:33 • 2d ago
 
 ---
 
-**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
 
-Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
 
-📺 Creative Channel
+📺 All-In Podcast
 
-👁️ 5K • 👍 261 • 💬 23 • ⏱️ 9:14 • 1d ago
-
----
-
-**[America’s Robot Soldiers vs India’s DRDO Humanoid #robotwars #robotics #humanoidrobot](https://www.youtube.com/watch?v=Tr7av4OWnLo)**
-
-Real-life Terminators? Eric Trump-backed startup is building humanoid soldiers - Where does India stand ? Terminator, Battlestar ...
-
-📺 Study Pathshala
-
-👁️ 3K • 👍 416 • 💬 2 • ⏱️ 1:42 • 4d ago
+👁️ 111K • 👍 2K • 💬 302 • ⏱️ 1:08:35 • 5d ago
 
 ---
 
