@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-02T23:00:05.764471+00:00'
+updated: '2026-08-03T00:06:32.296630+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 02, 2026 at 23:00 UTC  
+**Last Updated:** August 03, 2026 at 00:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,7 +128,7 @@ abcnews.com • 2d ago
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 16h ago
+South China Morning Post • 18h ago
 
 ---
 
@@ -137,6 +137,14 @@ South China Morning Post • 16h ago
 From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
 
 Google DeepMind • 3d ago
+
+---
+
+**[Beyond defense: why India and Israel should build the factories of the future](https://www.ynetnews.com/opinions-analysis/article/s1iyuftsme)**
+
+Analysis: Manufacturing scale and AI-driven innovation could make industrial automation, robotics and heavy electrical equipment the next pillar of the strategic partnership
+
+Ynetnews • 3h ago
 
 ---
 
@@ -152,7 +160,7 @@ Business Insider • 1d ago
 
 College officials said graduates will learn how to assemble, troubleshoot and maintain AI-powered manufacturing equipment — skills that are in high demand as companies continue investing in automation.
 
-WSB-TV • 2h ago
+WSB-TV • 3h ago
 
 ---
 
@@ -168,7 +176,7 @@ WIRED • 3d ago
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
 
-pymnts.com • 1d ago
+PYMNTS.com • 1d ago
 
 ---
 
@@ -177,14 +185,6 @@ pymnts.com • 1d ago
 Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
 
 FreightWaves • 2d ago
-
----
-
-**[Why this $11-billion money manager is buying Cameco, Kraken Robotics and trimming Canadian banks](https://www.theglobeandmail.com/investing/globe-advisor/advisor-funds/article-why-this-11-billion-money-manager-is-buying-cameco-kraken-robotics-and/)**
-
-Craig Jerusalim of CIBC Asset Management has also been adding to Brookfield Asset Management
-
-The Globe and Mail • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 72K • 👍 371 • 💬 524 • ⏱️ 6:04 • 3d ago
+👁️ 72K • 👍 371 • 💬 524 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 📺 NBC News
 
-👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 5d ago
+👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 6d ago
 
 ---
 
@@ -248,7 +248,7 @@ War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots
 
 📺 Manni-Gaming
 
-👁️ 7K • 👍 316 • 💬 79 • ⏱️ 16:58 • 10h ago
+👁️ 7K • 👍 316 • 💬 79 • ⏱️ 16:58 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 3K • 👍 202 • 💬 17 • ⏱️ 9:14 • 10h ago
+👁️ 3K • 👍 202 • 💬 17 • ⏱️ 9:14 • 11h ago
 
 ---
 

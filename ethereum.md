@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-02T23:00:05.761596+00:00'
+updated: '2026-08-03T00:06:32.293645+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 02, 2026 at 23:00 UTC  
+**Last Updated:** August 03, 2026 at 00:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.6%  
-**30d:** +5.7%  
-**90d:** -20.3%  
-**1y:** -46.2%  
+**24h:** +1.3%  
+**7d:** -2.2%  
+**30d:** +5.5%  
+**90d:** -20.0%  
+**1y:** -49.5%  
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-The Motley Fool • 5h ago
+fool.com • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ CoinDesk • 3d ago
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 579 • 💬 85 • ⏱️ 15:24 • 10h ago
+👁️ 12K • 👍 579 • 💬 85 • ⏱️ 15:24 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 1K • 👍 124 • 💬 152 • ⏱️ 18:28 • 1h ago
+👁️ 1K • 👍 124 • 💬 152 • ⏱️ 18:28 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:53 • 8h ago
+👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:53 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 499 • 👍 20 • 💬 210 • ⏱️ 4:29 • 13h ago
+👁️ 499 • 👍 20 • 💬 210 • ⏱️ 4:29 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 285 • 💬 494 • ⏱️ 21:52 • 23h ago
+👁️ 7K • 👍 285 • 💬 494 • ⏱️ 21:52 • 1d ago
 
 ---
 
