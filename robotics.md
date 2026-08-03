@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T04:06:27.139564+00:00'
+updated: '2026-08-03T07:57:05.781063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 04:06 UTC  
+**Last Updated:** August 03, 2026 at 07:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ I'm exploring Bowden cables as a way to transmit motion when the motor can't be 
 
 The new US restriction on foreign-made humanoids and quadrupeds is framed around security, but price and availability matter to research velocity. AP reports that Chinese manufacturers ship far more humanoids than US rivals and often at much lower prices. Labs learn by breaking hardware, replacing parts, and running many imperfect prototypes. If the affordable platforms disappear, better-funded companies may adapt while universities, startups, and independent builders reduce experiments or move them abroad. Would a certified research-only pathway preserve security without concentrating access? Or are connected embodied systems too difficult to contain once they enter a lab network? Source: https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366
 
-3d ago
+4d ago
 
 ---
 
@@ -110,6 +110,12 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
+**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
+
+WSJ • 6h ago
+
+---
+
 **[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
@@ -122,19 +128,23 @@ ABC News - Breaking News, Latest News and Videos • 2d ago
 
 Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
-The Robot Report • 15h ago
+The Robot Report • 19h ago
 
 ---
 
-**[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
+**[Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing](https://www.independent.co.uk/tech/foundation-startup-military-robots-trump-b3024226.html)**
 
-South China Morning Post • 22h ago
+The co-founder of Foundation Future Industries would build armed robots ‘tomorrow’ if the U.S. military asked, he tells Josh Marcus - and that has human rights experts extremely worried
+
+The Independent • 12h ago
 
 ---
 
-**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
+**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
 
-WSJ • 2h ago
+Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
+
+FreightWaves • 2d ago
 
 ---
 
@@ -146,14 +156,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Hereford robot sessions aim to inspire future engineers](https://www.bbc.com/news/articles/cy0jw7j2x5lo)**
-
-Schoolchildren in Hereford are given a taste of how to build robots from scratch.
-
-BBC • 2d ago
-
----
-
 **[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
 
 At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
@@ -162,11 +164,19 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[Google’s Gemini Can Now Stomp Around as a Humanoid Robot](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)**
+**[Hereford robot sessions aim to inspire future engineers](https://www.bbc.com/news/articles/cy0jw7j2x5lo)**
 
-The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.
+Schoolchildren in Hereford are given a taste of how to build robots from scratch.
 
-WIRED • 3d ago
+BBC • 3d ago
+
+---
+
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
+
+morningbrew.com • 2d ago
 
 ---
 
@@ -174,15 +184,7 @@ WIRED • 3d ago
 
 College officials said graduates will learn how to assemble, troubleshoot and maintain AI-powered manufacturing equipment — skills that are in high demand as companies continue investing in automation.
 
-WSB-TV • 7h ago
-
----
-
-**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
-
-Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
-
-FreightWaves • 2d ago
+WSB-TV • 10h ago
 
 ---
 
@@ -196,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 215K • 👍 6K • 💬 505 • ⏱️ 3:00 • 3d ago
+👁️ 217K • 👍 6K • 💬 506 • ⏱️ 3:00 • 3d ago
 
 ---
 
@@ -206,7 +208,17 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 12K • 👍 329 • 💬 26 • ⏱️ 11:26 • 16h ago
+👁️ 16K • 👍 374 • 💬 35 • ⏱️ 11:26 • 19h ago
+
+---
+
+**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+
+The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+
+📺 KhanFlicks
+
+👁️ 2K • 💬 33 • ⏱️ 3:45 • 4d ago
 
 ---
 
@@ -216,7 +228,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 72K • 👍 372 • 💬 528 • ⏱️ 6:04 • 4d ago
+👁️ 72K • 👍 374 • 💬 528 • ⏱️ 6:04 • 4d ago
 
 ---
 
@@ -226,17 +238,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 57K • 👍 721 • 💬 297 • ⏱️ 3:14 • 14h ago
-
----
-
-**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
-
-War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 366 • 💬 90 • ⏱️ 16:58 • 15h ago
+👁️ 77K • 👍 938 • 💬 384 • ⏱️ 3:14 • 17h ago
 
 ---
 
@@ -250,33 +252,23 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 TheAIGRID
+📺 Manni-Gaming
 
-👁️ 22K • 👍 445 • 💬 37 • ⏱️ 9:54 • 2d ago
-
----
-
-**[Tesla Robot Rival? T800 Reveals 2026 AI Endgame ($25,000 HUMANOID)](https://www.youtube.com/watch?v=_mPPeI9si7M)**
-
-EngineAI just released real, on-site footage of its brand new second mass-production facility in Henan, China. In this video we ...
-
-📺 AI News
-
-👁️ 3K • 👍 75 • 💬 23 • ⏱️ 8:04 • 4d ago
+👁️ 10K • 👍 384 • 💬 94 • ⏱️ 16:58 • 19h ago
 
 ---
 
-**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
 
-Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
 
-📺 Creative Channel
+📺 All-In Podcast
 
-👁️ 4K • 👍 229 • 💬 18 • ⏱️ 9:14 • 15h ago
+👁️ 109K • 👍 2K • 💬 324 • ⏱️ 1:08:35 • 4d ago
 
 ---
 
@@ -286,7 +278,15 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 11K • 👍 432 • 💬 26 • ⏱️ 5:33 • 1d ago
+👁️ 12K • 👍 445 • 💬 26 • ⏱️ 5:33 • 1d ago
+
+---
+
+**[America Banning Robot Vacuums](https://www.youtube.com/watch?v=utALr9hru-k)**
+
+📺 Omar Agamy
+
+👁️ 571K • 👍 25K • 💬 2K • ⏱️ 0:40 • 3d ago
 
 ---
 

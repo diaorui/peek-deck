@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-03T04:06:27.136335+00:00'
+updated: '2026-08-03T07:57:05.777796+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 04:06 UTC  
+**Last Updated:** August 03, 2026 at 07:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -3.2%  
-**30d:** +4.3%  
-**90d:** -20.9%  
-**1y:** -50.0%  
+**24h:** -1.2%  
+**7d:** -4.0%  
+**30d:** +3.5%  
+**90d:** -21.5%  
+**1y:** -50.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.14B
+**Market Cap:** $222.32B
 Rank #2
 
 **Circulating Supply:** 120,682,242 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.8%
 
 **All-Time Low:** $0.43
-+428943.9%
++425368.7%
 
 ---
 
@@ -80,7 +80,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -150,11 +150,11 @@ in april 2026, the head of product at X posted a screenshot: the number one most
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
+**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
 
-Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
+In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -162,7 +162,15 @@ finance.yahoo.com • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-fool.com • 10h ago
+The Motley Fool • 13h ago
+
+---
+
+**[Bitcoin ETFs see $61M in weekly outflows while Ethereum ETFs quietly pocket $27M](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-2/)**
+
+US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
+
+Crypto Briefing • 3h ago
 
 ---
 
@@ -188,6 +196,14 @@ thestreet.com • 2d ago
 
 ---
 
+**[Bitcoin Stuck at $63,000, Ethereum, XRP, Dogecoin Down up to 2% on Weak Friday](https://www.benzinga.com/crypto/cryptocurrency/26/07/60851941/bitcoin-stuck-at-63000-ethereum-xrp-dogecoin-down-up-to-2-on-weak-friday)**
+
+Cryptocurrencies struggle despite strong ETF inflows and hawkish Fed tone on interest rates. Analysts expect possible pullback to $60,000-$61,000 range and a fall below could trigger prolonged weakness.
+
+Benzinga • 2d ago
+
+---
+
 **[Ethereum: Supply Shock Builds as Staking Hits Record](https://blockchain.news/flashnews/ethereum-supply-shock-builds-staking-hits-record)**
 
 Ethereum supply shock forms with ETH below realized price, exchange balances at lows and staking volumes at highs, reshaping ETH price prediction models.
@@ -204,27 +220,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[QUICK SPARK: Cathie Wood's Birthday Present to Ethereum? A Bitmine Trim](https://www.benzinga.com/etfs/specialty-etfs/26/07/60825254/quick-spark-cathie-woods-birthday-present-to-ethereum-a-bitmine-trim)**
+**[Bitcoin and ethereum prices today, Friday, July 31, 2026: Crypto prices back off this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-31-2026-crypto-prices-back-off-this-morning-130657761.html)**
 
-Cathie Wood's Ark Invest trimmed its largest corporate Ethereum treasury holding, Bitmine, along with Bullish, Robinhood and Block.
+Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Benzinga • 3d ago
-
----
-
-**[Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html)**
-
-Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
-
-finance.yahoo.com • 3d ago
-
----
-
-**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
-
-Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
-
-CoinDesk • 4d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -238,27 +238,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 16K • 👍 658 • 💬 93 • ⏱️ 15:24 • 15h ago
+👁️ 17K • 👍 697 • 💬 95 • ⏱️ 15:24 • 19h ago
 
 ---
 
-**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+**[LAST CHANCE For The BIGGEST Crypto ALTCOIN Bull Market! (ETH, SUI, ADA Screaming It)](https://www.youtube.com/watch?v=NRRCwlgEGU8)**
 
-THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
-📺 NCashOfficial
+📺 Crypto Capital Venture
 
-👁️ 10K • 👍 454 • 💬 758 • ⏱️ 14:47 • 1d ago
-
----
-
-**[THIS WEEK WILL BE HUGE. (BTC and ETH wave structure analysis)](https://www.youtube.com/watch?v=ahLHkcEfnuw)**
-
-CHART JUNKIES MEMBERSHIP Access my trades & system. Full Discord Access: https://whop.com/chart-junkies/chart-junkies/ ...
-
-📺 Chart Junkie
-
-👁️ 2K • 👍 114 • 💬 36 • ⏱️ 13:40 • 10h ago
+👁️ 5K • 👍 408 • 💬 249 • ⏱️ 19:51 • 6h ago
 
 ---
 
@@ -268,7 +258,17 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 318 • ⏱️ 26:54 • 1d ago
+👁️ 54K • 👍 2K • 💬 315 • ⏱️ 26:54 • 1d ago
+
+---
+
+**[THIS WEEK WILL BE HUGE. (BTC and ETH wave structure analysis)](https://www.youtube.com/watch?v=ahLHkcEfnuw)**
+
+CHART JUNKIES MEMBERSHIP Access my trades & system. Full Discord Access: https://whop.com/chart-junkies/chart-junkies/ ...
+
+📺 Chart Junkie
+
+👁️ 2K • 👍 118 • 💬 39 • ⏱️ 13:40 • 14h ago
 
 ---
 
@@ -278,7 +278,17 @@ In this video I break down the latest Ethereum price action and analyze the pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 176 • 💬 5 • ⏱️ 4:53 • 13h ago
+👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:53 • 17h ago
+
+---
+
+**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+
+THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+
+📺 NCashOfficial
+
+👁️ 10K • 👍 455 • 💬 757 • ⏱️ 14:47 • 1d ago
 
 ---
 
@@ -288,37 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 595 • 👍 23 • 💬 205 • ⏱️ 4:29 • 19h ago
-
----
-
-**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
-
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 535 • 💬 414 • ⏱️ 11:29 • 2d ago
-
----
-
-**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
-
-Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 453 • 💬 20 • ⏱️ 34:32 • 2d ago
-
----
-
-**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
-
-In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 364 • 💬 29 • ⏱️ 10:08 • 2d ago
+👁️ 635 • 👍 23 • 💬 205 • ⏱️ 4:29 • 22h ago
 
 ---
 
@@ -328,7 +308,27 @@ Bitcoin vs Ethereum vs XRP vs Solana: August Breakdown. Crypto monthly returns e
 
 📺 Zach Humphries
 
-👁️ 693 • 👍 54 • 💬 70 • ⏱️ 12:02 • 12h ago
+👁️ 773 • 👍 55 • 💬 79 • ⏱️ 12:02 • 15h ago
+
+---
+
+**[Next 48 HOURS! Bitcoin, Ethereum &amp; Altcoins Are At The Pivot Point](https://www.youtube.com/watch?v=Rm232gzWgEk)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Bitcoin, ...
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 535 • 💬 413 • ⏱️ 11:29 • 2d ago
+
+---
+
+**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
+
+Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 455 • 💬 22 • ⏱️ 34:32 • 2d ago
 
 ---
 
