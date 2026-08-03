@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T00:06:32.296630+00:00'
+updated: '2026-08-03T04:06:27.139564+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 00:06 UTC  
+**Last Updated:** August 03, 2026 at 04:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,41 +110,31 @@ A German startup sent a camera-wearing chef to my apartment. In exchange for a f
 
 ## Google News: "robotics"
 
-**[Top 10 robotics stories of July 2026](https://www.therobotreport.com/top-10-robotics-stories-july-2026/)**
-
-In July 2026, large funding rounds, new approaches to robot training, and new robot models drew our readers attention.
-
-The Robot Report • 1d ago
-
----
-
-**[San Francisco company offers cleaning service using humanoid robots](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
+**[San Francisco company offers cleaning service using humanoid robots - ABC News](https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956)**
 
 A robotics startup has begun offering humanoid home cleaning services for $30 an hour to selected applicants in San Francisco.
 
-abcnews.com • 2d ago
+ABC News - Breaking News, Latest News and Videos • 2d ago
+
+---
+
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+
+The Robot Report • 15h ago
 
 ---
 
 **[Mixed feelings: can China’s companion robots win a place at home?](https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids)**
 
-South China Morning Post • 18h ago
+South China Morning Post • 22h ago
 
 ---
 
-**[Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)**
+**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-From feet to fingertips — we are teaching robots intelligent whole-body control, fine dexterity, and teamwork to complete a broad range of complex tasks.
-
-Google DeepMind • 3d ago
-
----
-
-**[Beyond defense: why India and Israel should build the factories of the future](https://www.ynetnews.com/opinions-analysis/article/s1iyuftsme)**
-
-Analysis: Manufacturing scale and AI-driven innovation could make industrial automation, robotics and heavy electrical equipment the next pillar of the strategic partnership
-
-Ynetnews • 3h ago
+WSJ • 2h ago
 
 ---
 
@@ -156,11 +146,19 @@ Business Insider • 1d ago
 
 ---
 
-**[New AI and robotics studio at Lanier Tech to prepare students for manufacturing careers](https://www.wsbtv.com/news/local/new-ai-robotics-studio-lanier-tech-prepare-students-manufacturing-careers/RLZQ4R36OJGYJGC4YFGLOXCFDM/)**
+**[Hereford robot sessions aim to inspire future engineers](https://www.bbc.com/news/articles/cy0jw7j2x5lo)**
 
-College officials said graduates will learn how to assemble, troubleshoot and maintain AI-powered manufacturing equipment — skills that are in high demand as companies continue investing in automation.
+Schoolchildren in Hereford are given a taste of how to build robots from scratch.
 
-WSB-TV • 3h ago
+BBC • 2d ago
+
+---
+
+**[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
+
+At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
+
+PYMNTS.com • 1d ago
 
 ---
 
@@ -172,11 +170,11 @@ WIRED • 3d ago
 
 ---
 
-**[The Robots Have Clocked in and Their Résumés Are Getting Weird](https://www.pymnts.com/technology/2026/robots-have-clocked-in-their-resumes-are-getting-weird/)**
+**[New AI and robotics studio at Lanier Tech to prepare students for manufacturing careers](https://www.wsbtv.com/news/local/new-ai-robotics-studio-lanier-tech-prepare-students-manufacturing-careers/RLZQ4R36OJGYJGC4YFGLOXCFDM/)**
 
-At LaGuardia Airport, where travelers already negotiate with kiosks, scanners and charging stations, a headless, four-wheeled robot dog is now roaming
+College officials said graduates will learn how to assemble, troubleshoot and maintain AI-powered manufacturing equipment — skills that are in high demand as companies continue investing in automation.
 
-PYMNTS.com • 1d ago
+WSB-TV • 7h ago
 
 ---
 
@@ -198,7 +196,17 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 212K • 👍 6K • 💬 497 • ⏱️ 3:00 • 3d ago
+👁️ 215K • 👍 6K • 💬 505 • ⏱️ 3:00 • 3d ago
+
+---
+
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 12K • 👍 329 • 💬 26 • ⏱️ 11:26 • 16h ago
 
 ---
 
@@ -208,27 +216,27 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 72K • 👍 371 • 💬 524 • ⏱️ 6:04 • 4d ago
+👁️ 72K • 👍 372 • 💬 528 • ⏱️ 6:04 • 4d ago
 
 ---
 
-**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
+**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
 
-Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
+Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
 
-📺 KCRA 3
+📺 BBC News
 
-👁️ 6K • 👍 102 • 💬 63 • ⏱️ 1:03 • 1d ago
+👁️ 57K • 👍 721 • 💬 297 • ⏱️ 3:14 • 14h ago
 
 ---
 
-**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
 
-Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Foundation Robotics
+📺 Manni-Gaming
 
-👁️ 10K • 👍 403 • 💬 24 • ⏱️ 5:33 • 1d ago
+👁️ 9K • 👍 366 • 💬 90 • ⏱️ 16:58 • 15h ago
 
 ---
 
@@ -242,13 +250,23 @@ Chinese robotics company Unitree released a new video of its "super athlete" mod
 
 ---
 
-**[NEVER Upgrade This ULTIMAGE GARBAGE: War Robots Tempest](https://www.youtube.com/watch?v=b5nSOmIpu-Y)**
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
 
-War Robots Gameplay: Ultimate TEMPEST sucks so bad - don't upgrade My War Robots Creator Link: https://wr.my.games/manni ...
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
-📺 Manni-Gaming
+📺 TheAIGRID
 
-👁️ 7K • 👍 316 • 💬 79 • ⏱️ 16:58 • 11h ago
+👁️ 22K • 👍 445 • 💬 37 • ⏱️ 9:54 • 2d ago
+
+---
+
+**[Tesla Robot Rival? T800 Reveals 2026 AI Endgame ($25,000 HUMANOID)](https://www.youtube.com/watch?v=_mPPeI9si7M)**
+
+EngineAI just released real, on-site footage of its brand new second mass-production facility in Henan, China. In this video we ...
+
+📺 AI News
+
+👁️ 3K • 👍 75 • 💬 23 • ⏱️ 8:04 • 4d ago
 
 ---
 
@@ -258,37 +276,17 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 3K • 👍 202 • 💬 17 • ⏱️ 9:14 • 11h ago
+👁️ 4K • 👍 229 • 💬 18 • ⏱️ 9:14 • 15h ago
 
 ---
 
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
 
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
 
-📺 TheAIGRID
+📺 Foundation Robotics
 
-👁️ 21K • 👍 433 • 💬 37 • ⏱️ 9:54 • 2d ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 107K • 👍 2K • 💬 322 • ⏱️ 1:08:35 • 4d ago
-
----
-
-**[Intelligent whole-body control with Gemini Robotics 2](https://www.youtube.com/watch?v=9MNLEAzA59o)**
-
-The world is built for human movements; it requires us to reach, bend, and balance in tight, cluttered spaces. While our previous ...
-
-📺 Google DeepMind
-
-👁️ 86K • 👍 2K • 💬 164 • ⏱️ 2:48 • 3d ago
+👁️ 11K • 👍 432 • 💬 26 • ⏱️ 5:33 • 1d ago
 
 ---
 

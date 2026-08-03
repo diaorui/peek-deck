@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-03T00:06:32.293645+00:00'
+updated: '2026-08-03T04:06:27.136335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 00:06 UTC  
+**Last Updated:** August 03, 2026 at 04:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -2.2%  
-**30d:** +5.5%  
-**90d:** -20.0%  
-**1y:** -49.5%  
+**24h:** -0.9%  
+**7d:** -3.2%  
+**30d:** +4.3%  
+**90d:** -20.9%  
+**1y:** -50.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.93B
+**Market Cap:** $224.14B
 Rank #2
 
-**Circulating Supply:** 120,682,254 ETH
+**Circulating Supply:** 120,682,242 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-62.4%
 
 **All-Time Low:** $0.43
-+434182.0%
++428943.9%
 
 ---
 
@@ -142,7 +142,7 @@ Season 4 bounty challenge: build a confidential PoolTogether. 5,000 cUSDT in rew
 
 in april 2026, the head of product at X posted a screenshot: the number one most muted topic on the platform was crypto. crypto. the thing ive spent all my effort on over the better part of the last decade. the thing a lot of you spend your careers and attention on as well. with this as the backdrop, i created my newest piece. it all started out with another question: “are the OGs jaded?”, which was itself admittedly ripped from one of ETHPrague 2026’s tracks. that thought gave me the opportunity to draw a map around a much broader topic that I think could resonate out in youtube land: is there anyone left in crypto, or did the thing we were building eat itself? for this piece, I wanted to take a more “journalistic” approach at this topic, and chatted with five people who’d been here since before the big money wave started showing up. builders, contributors, dreamers… some more than a decade deep. eternal gratitudes to the cast (Griff, Justice, Amer, Naomi, and Colin) for exploring with me this topic. I hope this piece can give the public a different perspective — that of the original mission and ethos steeped in reverence for permissionless tech and what it can do for humans. i think it’s worth a watch. particularly because every single person I interviewed still talks about the technology in the present tense, yet every one of them carries the same contradiction. you can watch the full video here: https://youtu.be/0D4fAkvwd3o ------------ if we're meeting for the first time — hi 👋 i built this channel to spread the good word on good work in crypto. a like, a comment, and a sub on my channel goes a long way to supporting my work :)
 
-🔗 [youtu.be](https://youtu.be/0D4fAkvwd3o) • 3d ago
+🔗 [youtu.be](https://youtu.be/0D4fAkvwd3o) • 4d ago
 
 ---
 
@@ -154,7 +154,7 @@ in april 2026, the head of product at X posted a screenshot: the number one most
 
 Bitcoin opened at $64,724.03 on Friday, July 31, 2026, 1.3% higher than Thursday's opening price. As of 8:52 a.m. ET, bitcoin fell to $63,652.09. Ethereum opened at $1,917.16 on Friday, July 31, 2026. Ethereum moved down to $1,877.52 as of 8:52 a.m. ET.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 The investment bank has quickly ramped up its crypto ETF offerings.
 
-fool.com • 6h ago
+fool.com • 10h ago
 
 ---
 
@@ -196,25 +196,17 @@ blockchain.news • 1d ago
 
 ---
 
-**[Ethereum enters its second decade after a year of upheaval at the foundation](https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation)**
-
-Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.
-
-CoinDesk • 3d ago
-
----
-
 **[Bitcoin ETFs just bled $265M in a brutal 24 hours, and Ethereum’s supposed rescue is another BlackRock illusion](https://cryptoslate.com/bitcoin-etfs-shed-265m-as-blackrocks-staked-ether-fund-takes-15-4m/)**
 
 Bitcoin ETF outflows hit $265.4 million as BlackRock's ETHB took in $15.4 million, keeping Ether ETFs positive on July 31.
 
-CryptoSlate • 22h ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Happy Birthday, Ethereum! 'ETH's New Leadership Era Is Here,' Expert Says](https://www.benzinga.com/crypto/cryptocurrency/26/07/60794668/happy-birthday-ethereum-eths-new-leadership-era-is-here-expert-says)**
+**[QUICK SPARK: Cathie Wood's Birthday Present to Ethereum? A Bitmine Trim](https://www.benzinga.com/etfs/specialty-etfs/26/07/60825254/quick-spark-cathie-woods-birthday-present-to-ethereum-a-bitmine-trim)**
 
-ETH outperforms BTC, fueling optimism for a new leadership era. ETH turns 11 years old, with annualized return of over 270%.
+Cathie Wood's Ark Invest trimmed its largest corporate Ethereum treasury holding, Bitmine, along with Bullish, Robinhood and Block.
 
 Benzinga • 3d ago
 
@@ -224,7 +216,15 @@ Benzinga • 3d ago
 
 Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.48%$1.08Solana (CRYPTO: SOL) +2.05%$75.02Dogecoin (CRYPTO: DOGE) +0.72%$0.07079 Crypto Market Rebounds After a brief lull, Bitcoin pushed back above $65,000. Ethereum, meanwhile, continued to wrestle w
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 3d ago
+
+---
+
+**[As crypto perpetual futures boom, Ethereum’s role is shifting](https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting)**
+
+Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.
+
+CoinDesk • 4d ago
 
 ---
 
@@ -238,17 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 579 • 💬 85 • ⏱️ 15:24 • 11h ago
-
----
-
-**[BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZlXb0XqHLQ4)**
-
-BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 124 • 💬 152 • ⏱️ 18:28 • 2h ago
+👁️ 16K • 👍 658 • 💬 93 • ⏱️ 15:24 • 15h ago
 
 ---
 
@@ -258,27 +248,17 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 10K • 👍 451 • 💬 810 • ⏱️ 14:47 • 1d ago
+👁️ 10K • 👍 454 • 💬 758 • ⏱️ 14:47 • 1d ago
 
 ---
 
-**[Is the Ethereum Top In? The Level That Decides](https://www.youtube.com/watch?v=jqB1yRvWqAI)**
+**[THIS WEEK WILL BE HUGE. (BTC and ETH wave structure analysis)](https://www.youtube.com/watch?v=ahLHkcEfnuw)**
 
-In this video I break down the latest Ethereum price action and analyze the potential path for ETH as it tests critical support levels.
+CHART JUNKIES MEMBERSHIP Access my trades & system. Full Discord Access: https://whop.com/chart-junkies/chart-junkies/ ...
 
-📺 More Crypto Online
+📺 Chart Junkie
 
-👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:53 • 9h ago
-
----
-
-**[ETHEREUM PREDICTION FOR NEXT WEEK! (ETH Update)](https://www.youtube.com/watch?v=mUEGUJ16Oyg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 499 • 👍 20 • 💬 210 • ⏱️ 4:29 • 15h ago
+👁️ 2K • 👍 114 • 💬 36 • ⏱️ 13:40 • 10h ago
 
 ---
 
@@ -288,27 +268,27 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 332 • ⏱️ 26:54 • 1d ago
+👁️ 52K • 👍 2K • 💬 318 • ⏱️ 26:54 • 1d ago
 
 ---
 
-**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+**[Is the Ethereum Top In? The Level That Decides](https://www.youtube.com/watch?v=jqB1yRvWqAI)**
 
-In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+In this video I break down the latest Ethereum price action and analyze the potential path for ETH as it tests critical support levels.
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 357 • 💬 29 • ⏱️ 10:08 • 1d ago
+👁️ 3K • 👍 176 • 💬 5 • ⏱️ 4:53 • 13h ago
 
 ---
 
-**[Before You Buy Ethereum, Look at This First](https://www.youtube.com/watch?v=fNlSyCH4ikM)**
+**[ETHEREUM PREDICTION FOR NEXT WEEK! (ETH Update)](https://www.youtube.com/watch?v=mUEGUJ16Oyg)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Milk Road
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 59 • 💬 137 • ⏱️ 13:19 • 1d ago
+👁️ 595 • 👍 23 • 💬 205 • ⏱️ 4:29 • 19h ago
 
 ---
 
@@ -318,17 +298,37 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 535 • 💬 417 • ⏱️ 11:29 • 2d ago
+👁️ 11K • 👍 535 • 💬 414 • ⏱️ 11:29 • 2d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IMMN_NK9F_w)**
+**[Ethereum Is First (These Altcoins Are Next)](https://www.youtube.com/watch?v=EH-9NMEwIJQ)**
 
-BITCOIN LIQUIDATIONS CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum is showing signs of strength, and Sheldon breaks down why an ETH-led rally could be just around the corner.
 
-📺 Crypto World
+📺 Crypto Banter
 
-👁️ 7K • 👍 285 • 💬 494 • ⏱️ 21:52 • 1d ago
+👁️ 8K • 👍 453 • 💬 20 • ⏱️ 34:32 • 2d ago
+
+---
+
+**[Ethereum Bull Market Targets!](https://www.youtube.com/watch?v=0USOx7ICU2Q)**
+
+In this video I break down potential price targets for Ethereum and analyze the current bear market structure. By applying Elliott ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 364 • 💬 29 • ⏱️ 10:08 • 2d ago
+
+---
+
+**[🚨August Crypto Report! Bitcoin vs Ethereum vs XRP vs Solana (This Is Not Good)](https://www.youtube.com/watch?v=Y8f3WvqlXmM)**
+
+Bitcoin vs Ethereum vs XRP vs Solana: August Breakdown. Crypto monthly returns exposed. What is about to happen next?
+
+📺 Zach Humphries
+
+👁️ 693 • 👍 54 • 💬 70 • ⏱️ 12:02 • 12h ago
 
 ---
 
