@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T22:13:48.351031+00:00'
+updated: '2026-08-04T23:32:54.227855+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 22:13 UTC  
+**Last Updated:** August 04, 2026 at 23:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -128,6 +128,14 @@ WSJ • 1d ago
 
 ---
 
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+Forbes • 1d ago
+
+---
+
 **[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
@@ -136,33 +144,31 @@ MIT Technology Review • 1d ago
 
 ---
 
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 6d ago
+
+---
+
 **[How One Startup Built a (Mostly) China-Free Robot](https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/)**
 
 Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.
 
-WIRED • 11h ago
-
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 11h ago
+WIRED • 12h ago
 
 ---
 
 **[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 17h ago
 
 ---
 
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+**[Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-surges-13-ouster-153512086.html)**
 
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.
 
-Forbes • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -174,19 +180,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[Are these new Chinese humanoid robots too human to tell apart?](https://www.futura-sciences.com/en/are-these-new-chinese-humanoid-robots-too-human-to-tell-apart_37065/)**
+**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
 
-The birth of a new companion: meet U1 Developed by UWorld, a UBTech brand, the U1 model is billed as the first full-size humanoid robot that genuinely resembles a real person. The company is focusing primarily on two groups: singles and seniors over 60, representing an eye-watering 120 million and...
+After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
 
-Futura, le média qui explore le monde • 8h ago
-
----
-
-**[Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-surges-13-ouster-153512086.html)**
-
-A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.
-
-finance.yahoo.com • 1d ago
+New York Focus • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 233K • 👍 6K • 💬 527 • ⏱️ 3:00 • 5d ago
+👁️ 234K • 👍 6K • 💬 527 • ⏱️ 3:00 • 5d ago
 
 ---
 
@@ -210,17 +208,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 48K • 👍 807 • 💬 82 • ⏱️ 11:26 • 2d ago
-
----
-
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
-
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
-
-📺 NBC News
-
-👁️ 74K • 👍 392 • 💬 536 • ⏱️ 6:04 • 5d ago
+👁️ 50K • 👍 815 • 💬 85 • ⏱️ 11:26 • 2d ago
 
 ---
 
@@ -234,11 +222,21 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 ---
 
-**[Robot version of Michael Jackson #robot #robotics #humanoid](https://www.youtube.com/watch?v=BEV65B5-l_o)**
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
 
-📺 Vy Chuong - robot 
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
 
-👁️ 2K • 👍 18 • ⏱️ 0:48 • 18h ago
+📺 NBC News
+
+👁️ 74K • 👍 392 • 💬 534 • ⏱️ 6:04 • 5d ago
+
+---
+
+**[#dancechallenge #trending #viralvideo #robotics #fyp #shorts squidboycally dance world dance challen](https://www.youtube.com/watch?v=UhqekHjzvEk)**
+
+📺 Dance Theorem 
+
+👁️ 559 • 👍 16 • 💬 2 • ⏱️ 0:38 • 5h ago
 
 ---
 
@@ -248,7 +246,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 184K • 👍 2K • 💬 626 • ⏱️ 3:14 • 2d ago
+👁️ 186K • 👍 2K • 💬 631 • ⏱️ 3:14 • 2d ago
 
 ---
 
@@ -258,7 +256,25 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 26K • 👍 466 • 💬 36 • ⏱️ 1:00 • 4d ago
+👁️ 28K • 👍 492 • 💬 36 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[Robot version of Michael Jackson #robot #robotics #humanoid](https://www.youtube.com/watch?v=BEV65B5-l_o)**
+
+📺 Vy Chuong - robot 
+
+👁️ 2K • 👍 18 • ⏱️ 0:48 • 20h ago
+
+---
+
+**[A Dog Tracking Camera Robot?! Meet Beni from Mondo Robotics!](https://www.youtube.com/watch?v=-GezG2zoElI)**
+
+Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
+
+📺 51 Drones
+
+👁️ 131 • 👍 13 • 💬 3 • ⏱️ 1:02 • 17m ago
 
 ---
 
@@ -269,26 +285,6 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 📺 All-In Podcast
 
 👁️ 114K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 6d ago
-
----
-
-**[Humanoid robot floors CEO with high-energy kick](https://www.youtube.com/watch?v=bzRdAgu_QYM)**
-
-A video of EngineAI's CEO being knocked to the ground by one of the company's humanoid robots during a live demonstration ...
-
-📺 CGTN Europe
-
-👁️ 332K • 👍 777 • 💬 247 • ⏱️ 0:18 • 7d ago
-
----
-
-**[China&#39;s Robots Are Now Wearing Clothes](https://www.youtube.com/watch?v=3pvnGyfYn2s)**
-
-KnitReal's Roboskin is a seamless fabric made for humanoid robots. It bends with robot joints and reduces friction from repetitive ...
-
-📺 Manav
-
-👁️ 6K • 👍 346 • 💬 7 • ⏱️ 0:31 • 1d ago
 
 ---
 
