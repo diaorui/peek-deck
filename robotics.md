@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T15:01:17.823788+00:00'
+updated: '2026-08-04T17:12:47.043220+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 15:01 UTC  
+**Last Updated:** August 04, 2026 at 17:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ On the previous video, people commented that the objects are placed on jigs in k
 
 I’ve briefly shown earlier versions of the editor in my previous posts, but this video gives a closer look at the complete workflow. This is Watti, my five-axis robotic lamp, and Watti Studio, the browser-based editor I built for creating its movements and lighting scenes. I’ve also refined the enclosure since my previous posts. It now looks cleaner and is much closer to what I imagine as the final design. In the video, I create a scene on the timeline, preview it on the virtual robot, and then run the same scene on the physical Watti. During playback, the real robot appears below the simulation so their movements can be compared directly. Motion and lighting share the same 25 Hz timeline. The complete scene is uploaded to a Raspberry Pi 5 and played locally through ROS 2, so the browser doesn’t need to remain connected during playback. I’ve also made the project repository public: https://github.com/Nikolay-Tyulkin/Watti There’s no source code yet, so it’s currently a public project preview rather than an open-source release. The repository already contains more extensive information about the architecture, hardware, current capabilities, and roadmap. I’ll also use it as a public development tracker, so anyone interested can follow the project’s progress. I’d be interested to hear what you think about the workflow and what features you would find useful in an editor like this.
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +118,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 The company aims to create physical AI tools for human workers
 
-IEEE Spectrum • 22h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -128,31 +128,11 @@ WSJ • 1d ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
-
-reuters.com • 6d ago
-
----
-
 **[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-MIT Technology Review • 20h ago
-
----
-
-**[Smart vacuums swept up in U.S. ban on imports of Chinese robots](https://www.nbcnews.com/world/asia/smart-vacuums-swept-us-ban-imports-chinese-robots-rcna590536)**
-
-American consumers are set to lose access to the latest models as new Trump administration regulations shut out the Chinese companies that dominate smart vacuum sales.
-
-NBC News • 7h ago
-
----
-
-**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
-
-Bloomberg.com • 5h ago
+MIT Technology Review • 22h ago
 
 ---
 
@@ -164,17 +144,17 @@ Forbes • 1d ago
 
 ---
 
-**[Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says](https://www.reuters.com/world/asia-pacific/unitree-expected-be-worth-over-50-billion-yuan-ipo-sponsor-citic-securities-says-2026-08-04/)**
+**[Family Offices Sidestep AI Fears With Robotics Deal Spree](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
 
-reuters.com • 3h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Americans in their 70s and 80s are among the first to bring AI robots into their homes](https://fortune.com/2026/08/03/gen-z-elliq-intuition-robotics-ai-companion-robot-older-adults/)**
+**[Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-surges-13-ouster-153512086.html)**
 
-ElliQ’s device has been commercially available since 2022.
+A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.
 
-Fortune • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -183,6 +163,30 @@ Fortune • 1d ago
 People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
 The Conversation • 1d ago
+
+---
+
+**[Missing Link In India's $5 Trillion Dream: Just 6 Robots Per 10,000 Workers](https://www.ndtv.com/business-news/india-manufacturing-robotics-factory-production-china-korea-economy-11858808)**
+
+Every one of India's 9,100 new robots in 2024 created demand somewhere down that chain, for component makers, system integrators, and research labs.
+
+NDTV • 10h ago
+
+---
+
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+
+The Robot Report • 2d ago
+
+---
+
+**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
+
+After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
+
+New York Focus • 1d ago
 
 ---
 
@@ -196,7 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 231K • 👍 6K • 💬 524 • ⏱️ 3:00 • 5d ago
+👁️ 232K • 👍 6K • 💬 525 • ⏱️ 3:00 • 5d ago
 
 ---
 
@@ -206,7 +210,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 45K • 👍 747 • 💬 79 • ⏱️ 11:26 • 2d ago
+👁️ 46K • 👍 760 • 💬 80 • ⏱️ 11:26 • 2d ago
 
 ---
 
@@ -216,7 +220,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 390 • 💬 534 • ⏱️ 6:04 • 5d ago
+👁️ 74K • 👍 391 • 💬 535 • ⏱️ 6:04 • 5d ago
 
 ---
 
@@ -234,7 +238,17 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 1K • 👍 16 • ⏱️ 0:48 • 11h ago
+👁️ 2K • 👍 16 • ⏱️ 0:48 • 13h ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 24K • 👍 429 • 💬 35 • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -244,17 +258,17 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 177K • 👍 2K • 💬 616 • ⏱️ 3:14 • 2d ago
+👁️ 180K • 👍 2K • 💬 619 • ⏱️ 3:14 • 2d ago
 
 ---
 
-**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
+**[SUN, SEA, STEEL — War Robots 12.3 Overview](https://www.youtube.com/watch?v=icJirB45nzM)**
 
-The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
 
-📺 DPCcars
+📺 War Robots [WR]
 
-👁️ 5K • 👍 39 • 💬 11 • ⏱️ 2:46 • 6d ago
+👁️ 7K • 👍 825 • 💬 760 • ⏱️ 5:18 • 3h ago
 
 ---
 
@@ -268,23 +282,13 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 ---
 
-**[China&#39;s Robots Are Now Wearing Clothes](https://www.youtube.com/watch?v=3pvnGyfYn2s)**
+**[AGIBOT A3 Revealed Future Humanoid Robot Technology Unboxing](https://www.youtube.com/watch?v=mv4eXwJ05So)**
 
-KnitReal's Roboskin is a seamless fabric made for humanoid robots. It bends with robot joints and reduces friction from repetitive ...
+The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanced artificial intelligence, impressive mobility ...
 
-📺 Manav
+📺 DPCcars
 
-👁️ 4K • 👍 304 • 💬 7 • ⏱️ 0:31 • 18h ago
-
----
-
-**[Pink Robot vs Blue Robot 🤖🥊 | Robot Wrestling Championship! #Shorts](https://www.youtube.com/watch?v=cBzhFg53ymE)**
-
-Who will win the ultimate Robot Wrestling Championship? Grandma's kind Pink Robot faces Grandpa's powerful Blue Robot ...
-
-📺 Animix Studio
-
-👁️ 4K • ⏱️ 0:58 • 13h ago
+👁️ 5K • 👍 39 • 💬 11 • ⏱️ 2:46 • 6d ago
 
 ---
 

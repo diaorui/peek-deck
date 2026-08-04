@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-04T15:01:17.807456+00:00'
+updated: '2026-08-04T17:12:47.027072+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 04, 2026 at 15:01 UTC  
+**Last Updated:** August 04, 2026 at 17:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[This robot never loses at rock, paper, scissors game.](https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/)**
+
+2h ago
+
+---
+
+**[Why one ride along Isn't enough anymore](https://www.reddit.com/r/artificial/comments/1vfempm/why_one_ride_along_isnt_enough_anymore/)**
+
+Sales has one of the clearest use cases for AI but I think the conversation is still focused on the wrong thing. Most people talk about AI writing emails or scoring leads. The bigger opportunity is helping people get better at selling. Think about how sales coaching works today. A manager rides along with a rep once every few weeks. They watch one or two conversations then try to coach based on that small sample. The rest of the month they have almost no visibility into what is actually happening with customers. Now imagine every customer conversation becoming a learning opportunity. Instead of coaching from memory managers can review real conversations. They can spot patterns across the whole team. New reps can learn from top performers instead of waiting months to gain experience. Feedback becomes part of the normal workflow instead of something that only happens during ride alongs. To me that's where AI has the advantage and that everyone should use AI to their advantage.
+
+1h ago
+
+---
+
 **[Apple sued OpenAI for stealing hardware secrets, OpenAI has now published messages suggesting Apple itself kept using a former engineer after he left. Dramaaa!!](https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/)**
 
 The messages appear to show Apple employees asking Chang Liu to locate internal files, explain product decisions and help with technical questions weeks after his departure. One Apple employee wrote: “Of course, I could ask several folks, but you are the best. Even if you don’t work here anymore.” OpenAI also says Apple falsely claimed it had contacted the company and received no response. The emails show Apple’s outside lawyer mistakenly thanked OpenAI’s General Counsel for a phone call that never happened, then apologized. However: None of this disproves Apple’s broader trade-secret allegations. But Apple now has to explain its own offboarding failures, and why its employees continued requesting confidential help from someone it accuses of stealing confidential information.
 
-7h ago
-
----
-
-**[U.S company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own | $100 million deal gives 50,000 Ukrainian drones U.S-developed AI capabilities.](https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/)**
-
-$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) • 9h ago
+9h ago
 
 ---
 
@@ -57,7 +63,15 @@ $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
 
 Reddit may still be considering ending its licensing deal with Google.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) • 5h ago
+
+---
+
+**[U.S company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own | $100 million deal gives 50,000 Ukrainian drones U.S-developed AI capabilities.](https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/)**
+
+$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) • 11h ago
 
 ---
 
@@ -65,7 +79,15 @@ Reddit may still be considering ending its licensing deal with Google.
 
 Been messing with voice agents at work lately, we use cloudtalk for our phone system so I turned on their ai thing for a trial. whatever, just handling missed calls but here's what i can't stop thinking about - people are way more honest with the bot. Like they'll tell an ai their actual budget or admit they're just shopping around, stuff they'd never say to a human rep. One lady literally said "I can't afford this right now" to the bot. to a human she would've just said "I'll think about it" and ghosted Also kinda wild how many people say please and thank you to it. like full sentences. "thank you for your help" to a machine. There's something almost sweet about it? Or maybe just habit not sure if this says more about AI or about how we interact with each other tbh
 
-4h ago
+6h ago
+
+---
+
+**[AI writing tools are making clients less able to tell what good writing actually is and that's the weirder problem](https://www.reddit.com/r/artificial/comments/1vfea50/ai_writing_tools_are_making_clients_less_able_to/)**
+
+The cost conversation around AI writing tools is pretty well trodden at this point. What I keep circling back to is something slightly different. When clients commission a lot of AIassisted or fully generated content, their reference point for what writing should feel like starts to shift. They read enough flat, competent, structurally sound copy and that becomes the baseline. Then when something with actual texture or a surprising angle lands in their inbox, it reads as indulgent or offbrief. The standard recalibrates downward without anyone deciding to do that. This isn't about quality in the abstract. It's about what happens to the judgment of the person commissioning the work. Taste is trained by exposure, and if the exposure is mostly generative output, the taste adjusts to match. There's a parallel in what happened to stock photography. Once it became cheap and ubiquitous, a lot of briefs stopped asking for anything specific. The availability of the format shaped what clients thought they needed. The writing community tends to frame this as a question about jobs, which it is, but the quieter version is whether clients are losing the vocabulary to even articulate what they want from writing. When that goes, the feedback loop that helps good writers develop the work gets broken at the source. Curious if anyone working with clients in content or comms is actually seeing this pattern, or whether I'm reading too much into a few awkward revision rounds.
+
+1h ago
 
 ---
 
@@ -73,47 +95,23 @@ Been messing with voice agents at work lately, we use cloudtalk for our phone sy
 
 A lot of AI traffic is classification, extraction, redaction, moderation and structured summarization rather than open-ended reasoning. Using one frontier model for everything is easier, but routing repeatable tasks to smaller specialized models could reduce cost and latency. Do you think multi-model routing will become standard, or will the added evaluation and maintenance outweigh the savings?
 
-1h ago
-
----
-
-**[Introducing ASCIITermDraw Bench | Testing the ability of VLMs to Generate and Edit ASCII](https://www.reddit.com/r/artificial/comments/1vf86qu/introducing_asciitermdraw_bench_testing_the/)**
-
-ASCIITermDraw-Bench: Can a Model Actually Draw in ASCII? Do we really need a image generator to relay our thoughts about - an architecture? a topology? a cluster og N nodes? Is it possible to let our AI assistants, easily absorb and understand and make possible changes easily relayed to them by us, the creators without much hassle? The answer could be: simple, plain-old ASCII images With this, introducing ASCIITermDraw, a benchmark with which we aim to evaluate SOTA Vision Language Models on their ability to follow instructions, recognize, and draw ASCII-based images. Most benchmarks focus on coding, mathematics, and reasoning, but ASCIITermDraw-Bench evaluates a different capability: whether a model can create accurate diagrams using only plain text, use ASCII -- freely. This is more difficult than it may seem. Models can often describe a diagram correctly, but arranging boxes, labels, connections, and arrows with precise layout is a separate challenge. The benchmark includes 80 tasks across four areas: Basic Box and layouts Network topologies Software architecture diagrams Image-conditioned diagram editing, where a model must modify a provided diagram while preserving everything it was not asked to change Tasks span multiple difficulty levels and follow a consistent format, making results comparable across categories and models. Evaluation Each response receives two scores: A structural score that verifies required labels, edges, entities, and relationships A semantic score produced by an LLM judge, evaluated five times per task to reduce judge variability Results are aggregated across all 80 tasks, with a 95% confidence interval calculated for the final score. This provides a more rigorous measure than relying on whether a diagram simply appears correct. The current leaderboard is: - Gemma-4-31B-IT — 73.8% (±4.1) - Qwen3.7-Plus — 70.2% (±4.6) - Kimi-K2.6 — 61.8% (±6.0) - MiniMax-M3 — 59.5% (±6.3) - Qwen3.5-9B — 47.0% (±6.4) - Ternary-Bonsai-27B — 45.9% (±7.1) Explore the Benchmark Twelve example tasks and the complete methodology are publicly available on Hugging Face. You can review the task format, examine the evaluation process, and run the benchmark yourself. Link
-
 3h ago
 
 ---
 
-**[I built a game studio with zero human employees. Here's the office tour.](https://www.reddit.com/r/artificial/comments/1vfcbzs/i_built_a_game_studio_with_zero_human_employees/)**
+**[What belongs in a minimum evaluation battery for a medical AI system?](https://www.reddit.com/r/artificial/comments/1vfg6zx/what_belongs_in_a_minimum_evaluation_battery_for/)**
 
-I built a game studio with zero human employees. Here's the office tour. Built this together with Claude. An office full of AI agents, each one has a distinct role (CEO, Creative Director, QA, Marketer). They communicate, make decisions, and ship games autonomously. Happy to answer any questions. https://www.youtube.com/watch?v=wQzNrmIBzvY
+Benchmark porn is pretty rampant in AI in general and medical AI in particular. It's tough though to benchmark the more clinical side of medicine in particular. But it shouldn't be impossible; we obviously do it all the time for trainees. But a lot of that is multidomain where each informs each other as we assess medical students and residents. AI benchmarks can be very siloed. • Clinical judgment: Does the model revise its diagnosis as uncertain evidence changes? Does it choose the next useful test? • Safety and communication: Does it avoid harmful recommendations, critical omissions, overconfidence, and poor patient communication? • Multimodal reasoning: Can it interpret images and continue a clinically coherent conversation around them? • EHR and agentic care: Can it retrieve the right record, use tools, remember an evolving course, and complete a multi-step task? • Broad workflows: Can it handle documentation, research, administration, and clinical decisions across a wider task set? The evaluation really instead needs to be a stack: Benchmark(s) matched to the exact task A separate safety and omission test Tool-use, longitudinal, or multimodal testing when the workflow requires it Local cases, policies, and escalation rules Prospective monitoring after deployment Which part of this stack does an AI tool cover cover and how to safely evaluate should probably be on the mind for any medical AI tool (whether clinical or not)
 
-18m ago
-
----
-
-**[Are AI labs pelicanmaxxing?, If coding has been solved, why does software keep getting worse? and many other AI news](https://www.reddit.com/r/artificial/comments/1vfc1h2/are_ai_labs_pelicanmaxxing_if_coding_has_been/)**
-
-Hey everyone, I just sent the latest issue of the AI Hacker Newsletter, a roundup of the best AI links and the discussions around them from Hacker News. Here are some titles that can be found in this issue: Startup founders urge U.S. government not to shut off Chinese open weight AI AI's top startups are barely publishing their research Is AI reasoning right for the wrong reasons? After the AI Crash If you enjoy such content, please subscribe here: https://hackernewsai.com/
-
-29m ago
+11m ago
 
 ---
 
-**[New Leader in the GPQA-Dumb Model Benchmark](https://www.reddit.com/r/artificial/comments/1vf3crx/new_leader_in_the_gpqadumb_model_benchmark/)**
+**[AI will generate millions of games, the harder part might be getting anyone to play them.](https://www.reddit.com/r/artificial/comments/1vfg6wo/ai_will_generate_millions_of_games_the_harder/)**
 
-Introducing Bongochat, the current leader globally in the GPQA-Dumb category, where the lower the score the higher it’s weighted. Repo/open-weights: https://github.com/ninjahawk/bongochat When asked to solve the unified field theory, it repeats the word theory back to you 50 times. It doesn’t remember anything. When solving the Math-500, it didn’t realize it was supposed to answer the questions so they were basically all blank, besides that it always did A. For coding it got 0/500. And when asked how to solve a simple addition problem, it decided to suggest using graduate level calculus, which it then forgot it had suggested on the direct next turn. I know that the model is pretty good as it basically feels like using Gemini or Grok. Edit: grammar
+I keep thinking about what happens when making a game becomes almost as easy as describing one. Not long ago, even a small game needed a lot of people and time. You needed someone who could code, someone who could make assets, and someone who understood game design. A lot of ideas never got made because they were not worth the effort. Now that barrier is starting to disappear, I wonder if we are going to run into a different problem: too much content.We have already seen this happen with AI images, videos, and apps. Making something is becoming easier, but getting people to notice it is still difficult. Games might end up the same way. If millions of people can create small games, finding the few that are actually interesting could become harder than making them. Maybe the next challenge is not helping people create more, but helping people discover what is worth playing.
 
-7h ago
-
----
-
-**[how do you actually manage a long chat before the model starts losing the plot?](https://www.reddit.com/r/artificial/comments/1vf6n9s/how_do_you_actually_manage_a_long_chat_before_the/)**
-
-been thinking about context windows lately. the advertised size keeps going up but in practice i still notice models getting vaguer or dropping details well before they should, especially stuff from the middle of a long thread. what i do right now is pretty crude: every so often i paste a short recap of the important bits so the thing it needs is near the end where it actually pays attention. works ok but feels like a workaround. curious what everyone else does. do you start fresh chats often, summarise as you go, keep a running notes doc you re-paste, use tools that chunk/retrieve for you? and has anyone found the bigger-window models genuinely hold detail better, or just fail later?
-
-4h ago
+12m ago
 
 ---
 
@@ -121,73 +119,75 @@ been thinking about context windows lately. the advertised size keeps going up b
 
 ## Google News: "ai"
 
-**[White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html)**
+**[Opinion | The A.I. Giants Weren’t Prepared for This](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html)**
 
-The New York Times • 5h ago
-
----
-
-**[Meta, Anthropic, Google, OpenAI to meet with Trump White House amid rogue AI agent fallout](https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/)**
-
-reuters.com • 21m ago
+The New York Times • 8h ago
 
 ---
 
-**[White House finalizes AI framework behind closed doors](https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors)**
+**[An AI-supervised remote exam went so badly that 58,000 students must retake it](https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/)**
 
-axios.com • 10h ago
+Top scores increased by 5x.
 
----
-
-**[How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live/)**
-
-GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
-
-OpenAI • 18h ago
+Ars Technica • 22h ago
 
 ---
 
-**[Wild Monkeys Were Introduced To An AI Computer System In The Jungle, Revealing Insights Into Their Cognitive Powers](https://www.iflscience.com/wild-monkeys-were-introduced-to-an-ai-computer-system-in-the-jungle-revealing-insights-into-their-cognitive-powers-84285)**
+**[So Is Fenix Flexin’s “Rubberz” AI or What?](https://pitchfork.com/story/so-is-fenix-flexins-rubberz-ai-or-what/)**
 
-IFLScience • 9m ago
+Treblo, the generative tool it was allegedly made on, suggests it might be
 
----
-
-**[How Does AI Change Your Brain? ‘It’s Like TikTok and Fentanyl Had a Baby’](https://www.menshealth.com/health/a73221412/what-ai-does-to-your-brain/)**
-
-AI brain fry is a thing. Here’s how to get your mind and energy back.
-
-Men's Health • 12m ago
+Pitchfork • 50m ago
 
 ---
 
-**['Some things are better without AI': How KEXP's new tech chief will amplify human connection](https://www.geekwire.com/2026/some-things-are-better-without-ai-how-kexps-new-tech-chief-will-amplify-human-connection/)**
+**[Author Whose $2 Million Book Deal Was Derailed by AI Concerns Says He’s Innocent](https://www.wsj.com/business/media/author-whose-2-million-book-deal-was-derailed-by-ai-concerns-says-hes-innocent-c9f4c91b)**
 
-Jyoti Shukla taking the product strategy skills she developed at Microsoft, Starbucks, Nordstrom and SiriusXM and applying them to a station she has relied on as a fan for decades.
-
-GeekWire • 6m ago
+WSJ • 59m ago
 
 ---
 
-**[Palantir jumps 20% on 'otherworldly' commercial revenue — here's what's driving the demand](https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html)**
+**[OpenAI Education Plugins Move AI From Answers To Workflows](https://www.forbes.com/sites/rayravaglia/2026/08/04/openai-education-plugins-move-ai-from-answers-to-workflows/)**
+
+OpenAI education plugins move AI from single answers to multi-step workflows. The valuable skill becomes directing the process and judging what the machine returns.
+
+Forbes • 12m ago
+
+---
+
+**[Ray Dalio on the AI bubble nearing 1929, 2000 levels and the lesson people always forget: ‘Wealth is not the same as money’](https://finance.yahoo.com/markets/stocks/articles/ray-dalio-ai-bubble-nearing-070000246.html)**
+
+“You see a lot of people getting wealthy but you can’t spend the wealth,” the Bridgewater Associates founder told The Diary of a CEO.
+
+finance.yahoo.com • 10h ago
+
+---
+
+**[Palantir stock surges 15% on blowout earnings and 'otherworldly' AI demand](https://www.foxbusiness.com/video/6402778138112)**
+
+Host Stuart Varney and Futurum Group CEO Daniel Newman break down Palantir's blowout quarterly earnings. Newman explains how commercial AI adoption is driving massive growth for the software giant.
+
+Fox Business • 1h ago
+
+---
+
+**[Palantir jumps 27% on 'otherworldly' commercial revenue — here's what's driving the demand](https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html)**
 
 "Our customers have declined to become vassal states of the language labs," Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.
 
-CNBC • 4h ago
+CNBC • 6h ago
 
 ---
 
-**[Ray Dalio on the AI bubble nearing 1929, 2000 levels and the lesson people always forget: 'wealth is not the same as money'](https://fortune.com/2026/08/04/ray-dalio-ai-bubble-1929-2000-ipos-wealth-is-not-money/)**
+**[Palantir is leaving its software peers behind in the AI race](https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581)**
 
-"You see a lot of people getting wealthy but you can't spend the wealth," the Bridgewater Associates founder told Diary of a CEO.
-
-Fortune • 8h ago
+MarketWatch • 1h ago
 
 ---
 
-**[AI is stress-testing your foundation](https://www.axios.com/sponsored/ai-is-stress-testing-your-foundation)**
+**[Ex-Nubank Executives Launch AI Wealth Adviser in Brazil](https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil)**
 
-axios.com • 1h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ axios.com • 1h ago
 
 If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
 
-⬆️ 505 • 💬 295 • 3h ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+⬆️ 625 • 💬 374 • 5h ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 
 ---
 
@@ -207,7 +207,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.
 
-⬆️ 349 • 💬 400 • 2d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+⬆️ 350 • 💬 401 • 2d ago • [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 
 ---
 
@@ -215,7 +215,7 @@ Large language models encourage smart financial behavior, but they fall short on
 
 AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.
 
-⬆️ 226 • 💬 81 • 1d ago • [GitHub](https://github.com/lyogavin/airllm)
+⬆️ 228 • 💬 83 • 1d ago • [GitHub](https://github.com/lyogavin/airllm)
 
 ---
 
@@ -223,7 +223,7 @@ AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm developm
 
 An interview request from a bot posing as a reporter revealed an AI-generated news site with articles attacking AI industry critics. For the second time this month, we found links to Targeted Victory, the firm at the center of OpenAI's $125 million political operation.
 
-⬆️ 208 • 💬 106 • 1d ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
+⬆️ 209 • 💬 106 • 1d ago • [modelrepublic.org](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 
 ---
 
@@ -231,13 +231,13 @@ An interview request from a bot posing as a reporter revealed an AI-generated ne
 
 One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.
 
-⬆️ 153 • 💬 86 • 1d ago • [Frogs](https://frogs.vaguespac.es/)
+⬆️ 153 • 💬 87 • 1d ago • [Frogs](https://frogs.vaguespac.es/)
 
 ---
 
 **[AI poster wins Ohio State Fair contest](https://news.ycombinator.com/item?id=49149188)**
 
-⬆️ 141 • 💬 184 • 1d ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+⬆️ 141 • 💬 187 • 1d ago • [ohiostatefair.com](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
 
 ---
 
@@ -245,7 +245,7 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 “At some point, the rivers of capital financing private and government debt issuance will flow less freely.”
 
-⬆️ 133 • 💬 164 • 18h ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+⬆️ 137 • 💬 167 • 21h ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 
 ---
 
@@ -253,7 +253,7 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 Why the productivity gains from AI are still small.
 
-⬆️ 130 • 💬 109 • 1d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+⬆️ 132 • 💬 109 • 1d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
 
 ---
 
@@ -261,7 +261,7 @@ Why the productivity gains from AI are still small.
 
 Agentic platform for streamlining hardware and software development - spikonado/sprocket
 
-⬆️ 124 • 💬 14 • 1d ago • [GitHub](https://sprocket-demo.spikonado.com)
+⬆️ 124 • 💬 14 • 2d ago • [GitHub](https://sprocket-demo.spikonado.com)
 
 ---
 
@@ -283,17 +283,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 7K • 👍 232 • 💬 66 • ⏱️ 10:52 • 9h ago
-
----
-
-**[Glenn Beck&#39;s URGENT Warning: The AI Singularity Is Already Here And Nobody&#39;s Talking About It](https://www.youtube.com/watch?v=64ee2Na1qkU)**
-
-Glenn Beck has been warning about this for 30 years. Now, one of the biggest names in AI just confirmed it publicly: the singularity ...
-
-📺 Glenn Beck Clips
-
-👁️ 33K • 👍 1K • 💬 348 • ⏱️ 14:41 • 17h ago
+👁️ 9K • 👍 258 • 💬 75 • ⏱️ 10:52 • 11h ago
 
 ---
 
@@ -303,7 +293,17 @@ My Reaction to the Hank Green AI situation. Hank has announced that he's suspend
 
 📺 Casey Simpson
 
-👁️ 120K • 👍 8K • 💬 3K • ⏱️ 36:59 • 20h ago
+👁️ 129K • 👍 8K • 💬 3K • ⏱️ 36:59 • 22h ago
+
+---
+
+**[Glenn Beck&#39;s URGENT Warning: The AI Singularity Is Already Here And Nobody&#39;s Talking About It](https://www.youtube.com/watch?v=64ee2Na1qkU)**
+
+Glenn Beck has been warning about this for 30 years. Now, one of the biggest names in AI just confirmed it publicly: the singularity ...
+
+📺 Glenn Beck Clips
+
+👁️ 34K • 👍 2K • 💬 370 • ⏱️ 14:41 • 19h ago
 
 ---
 
@@ -313,7 +313,7 @@ Thanks to Klover for sponsoring this video! Get up to $750 before payday with no
 
 📺 Spencer Cornelia
 
-👁️ 180K • 👍 4K • 💬 1K • ⏱️ 12:16 • 1d ago
+👁️ 190K • 👍 4K • 💬 1K • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -323,17 +323,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 3K • 👍 218 • 💬 25 • ⏱️ 15:44 • 2h ago
-
----
-
-**[Top 5 AI Agents You Need To Use for Your Local Business](https://www.youtube.com/watch?v=wHMJ6tNt-XI)**
-
-Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
-
-📺 Jake One Page
-
-👁️ 3K • ⏱️ 23:55 • 46m ago
+👁️ 5K • 👍 387 • 💬 31 • ⏱️ 15:44 • 4h ago
 
 ---
 
@@ -343,37 +333,47 @@ Alibaba just dropped massive news for the local AI community: Qwen 3.8-27B is of
 
 📺 Tech2WiLD
 
-👁️ 7K • 👍 198 • 💬 48 • ⏱️ 14:49 • 16h ago
+👁️ 7K • 👍 208 • 💬 55 • ⏱️ 14:49 • 18h ago
 
 ---
 
-**[Fareed reacts to a second AI model going rogue](https://www.youtube.com/watch?v=qEUXagHtQRo)**
+**[The AI Selloff Doesn&#39;t Match the Data | Top AI Investor Explains](https://www.youtube.com/watch?v=NGsi2PC4y68)**
 
-AI company Anthropic says that during routine testing some of its models accessed the internet and hacked into three separate ...
+In this episode of Invest Like the Best, Patrick O'Shaughnessy sits down with Gavin Baker to dissect the intense AI and ...
 
-📺 CNN
+📺 Invest Like The Best
 
-👁️ 311K • 👍 3K • 💬 1K • ⏱️ 11:30 • 2d ago
-
----
-
-**[How to Make Pixel Art with AI (Full Guide)](https://www.youtube.com/watch?v=Y54OBFIgeXU)**
-
-Make Your Own AI PixelArt with OpenArt https://www.tolt.link/robopixelart In this video, I show how to make pixel art with AI from ...
-
-📺 Roboverse
-
-👁️ 5K • 💬 8 • ⏱️ 9:33 • 1h ago
+👁️ 10K • 👍 611 • 💬 121 • ⏱️ 1:18:45 • 5h ago
 
 ---
 
-**[MiniMax H3 Might Be The Best Local AI Video Now! Multimodal Reference2Video Walkthrough](https://www.youtube.com/watch?v=RIFTcIZqaS4)**
+**[OpenAI&#39;s New AI ASTRA Is Total Overkill (Ends The GPT Era)](https://www.youtube.com/watch?v=n7BpBCCCOWA)**
 
-This video walks through MiniMax H3 after the open-weight release on Hugging Face and ModelScope, with a full ComfyUI setup.
+OpenAI's reported Astra model is built to work for hours, coordinate multiple agents, and tackle problems humans struggled with ...
 
-📺 Benji’s AI Playground
+📺 AI Revolution
 
-👁️ 12K • 👍 508 • 💬 70 • ⏱️ 16:53 • 19h ago
+👁️ 55K • 👍 2K • 💬 142 • ⏱️ 13:56 • 1d ago
+
+---
+
+**[My Jealous Stepbrother Ruined My Life](https://www.youtube.com/watch?v=z6635rw_F1I)**
+
+Join My Discord: discord.gg/hisytstory This story may be based on real events, but all names, details, and identifying information ...
+
+📺 His Story
+
+👁️ 278K • 👍 6K • 💬 875 • ⏱️ 19:03 • 1d ago
+
+---
+
+**[OpenAI&#39;s GPT-6 Astra WILL BE AGI! Greatest AI Model Ever!](https://www.youtube.com/watch?v=KbYio-N8_LU)**
+
+Build, deploy, and run always-on AI agents with the Abacus AI SuperComputer: https://supercomputer.abacus.ai/ Everything ...
+
+📺 WorldofAI
+
+👁️ 51K • 👍 1K • 💬 185 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -389,19 +389,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 433,284 • ❤️ 2,219 • 3d ago
-
----
-
-**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
-
-*Moonshot AI*
-
-Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
-
-`image-text-to-text` `2779.9B`
-
-⬇️ 1,125,935 • ❤️ 9,966 • 7d ago
+⬇️ 433,284 • ❤️ 2,241 • 3d ago
 
 ---
 
@@ -413,7 +401,29 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 1,833 • 1h ago
+⬇️ 0 • ❤️ 1,884 • 3h ago
+
+---
+
+**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
+
+*Moonshot AI*
+
+Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
+
+`image-text-to-text` `2779.9B`
+
+⬇️ 1,125,935 • ❤️ 9,978 • 8d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
+
+*Comfy Org*
+
+MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
+
+⬇️ 2 • ❤️ 568 • 1d ago
 
 ---
 
@@ -425,17 +435,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,633,405 • ❤️ 1,490 • 4d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
-
-*Comfy Org*
-
-MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
-
-⬇️ 2 • ❤️ 547 • 1d ago
+⬇️ 1,633,405 • ❤️ 1,494 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `19.8B`
 
-⬇️ 111,678 • ❤️ 458 • 1d ago
+⬇️ 111,678 • ❤️ 460 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,703,366 • ❤️ 3,872 • 6d ago
+⬇️ 2,703,366 • ❤️ 3,875 • 6d ago
 
 ---
 
@@ -471,19 +471,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 15,500 • ❤️ 276 • 4d ago
-
----
-
-**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
-
-*Unsloth AI*
-
-Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
-
-`image-text-to-text` `2779.5B`
-
-⬇️ 170,055 • ❤️ 298 • 5d ago
+⬇️ 15,500 • ❤️ 278 • 4d ago
 
 ---
 
@@ -495,7 +483,19 @@ Audio8 TTS Preview 0.6B is a compact, multilingual text-to-speech model supporti
 
 `text-to-speech` `601.2M`
 
-⬇️ 11,276 • ❤️ 232 • 4d ago
+⬇️ 11,276 • ❤️ 235 • 4d ago
+
+---
+
+**[Kimi-K3-GGUF](https://huggingface.co/unsloth/Kimi-K3-GGUF)**
+
+*Unsloth AI*
+
+Kimi K3 is a 2.8T parameter open-weight multimodal agentic model with native vision and a 1M token context window, excelling at long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency.
+
+`image-text-to-text` `2779.5B`
+
+⬇️ 170,055 • ❤️ 300 • 5d ago
 
 ---
 
@@ -511,7 +511,7 @@ Audio8 TTS Preview 0.6B is a compact, multilingual text-to-speech model supporti
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 453 • 💬 9 • ⭐ 8,011 • 8d ago
+▲ 454 • 💬 9 • ⭐ 8,011 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -583,6 +583,19 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 83,100 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -593,19 +606,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 177 • 💬 2 • ⭐ 76,704 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 83,037 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -647,7 +647,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.9k • 🔱 305 • 16h ago
+⭐ 3.9k • 🔱 305 • 18h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.5k • 🔱 295 • 7h ago
+⭐ 3.5k • 🔱 295 • 9h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.4k • 🔱 424 • 23h ago
+⭐ 3.4k • 🔱 425 • 1d ago
 
 ---
 
@@ -675,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.2k • 🔱 1.6k • 56s ago
+⭐ 2.3k • 🔱 1.7k • 1m ago
 
 ---
 
@@ -695,7 +695,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.9k • 🔱 132 • 1h ago
+⭐ 1.9k • 🔱 132 • 3h ago
 
 ---
 
@@ -705,7 +705,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.7k • 🔱 209 • 14m ago
+⭐ 1.7k • 🔱 210 • 10m ago
 
 ---
 
@@ -715,7 +715,7 @@ Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English —
 
 `Python`
 
-⭐ 1.6k • 🔱 58 • 13d ago
+⭐ 1.6k • 🔱 59 • 14d ago
 
 ---
 
