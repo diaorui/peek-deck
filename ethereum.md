@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-03T23:00:53.316628+00:00'
+updated: '2026-08-04T00:59:05.521162+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 03, 2026 at 23:00 UTC  
+**Last Updated:** August 04, 2026 at 00:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -3.3%  
-**30d:** +4.3%  
-**90d:** -20.9%  
-**1y:** -50.0%  
+**24h:** -0.8%  
+**7d:** -3.2%  
+**30d:** +2.9%  
+**90d:** -19.2%  
+**1y:** -48.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.21B
+**Market Cap:** $223.35B
 Rank #2
 
 **Circulating Supply:** 120,682,242 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.6%
 
 **All-Time Low:** $0.43
-+430934.8%
++427209.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -150,11 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
+
+In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
+
+finance.yahoo.com • 1d ago
+
+---
+
 **[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-more-153143906.html)**
 
 The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
 
-Yahoo Finance • 7h ago
+finance.yahoo.com • 9h ago
 
 ---
 
@@ -162,47 +170,31 @@ Yahoo Finance • 7h ago
 
 Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
-**[BMNR Stock Falls Despite Bitmine Retiring Over 16M Shares In 3 Weeks – Tom Lee Highlights Ethereum’s Edge Over Nasdaq 100](https://www.tradingview.com/news/stocktwits:e708a1e4c094b:0-bmnr-stock-falls-despite-bitmine-retiring-over-16m-shares-in-3-weeks-tom-lee-highlights-ethereum-s-edge-over-nasdaq-100/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
 
-Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
 
-TradingView • 8h ago
-
----
-
-**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
-
-In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
-
-Yahoo Finance • 1d ago
+PR Newswire • 12h ago
 
 ---
 
-**[Ethereum: Glamsterdam upgrade lands - Aug 2026](https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/)**
+**[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
 
-The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
+BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-TradingView • 6h ago
-
----
-
-**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
-
-The investment bank has quickly ramped up its crypto ETF offerings.
-
-fool.com • 1d ago
+Decrypt • 5h ago
 
 ---
 
-**[Crypto Today: BTC, ETH, XRP correct as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-decline-amid-renewed-risk-averse-sentiment-202608031112)**
+**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
 
-The cryptocurrency market remains weak on Monday, with Bitcoin (BTC) falling toward the nearest $62,000. Ethereum (ETH) and Ripple (XRP) reflect the sell-off across altcoins, edging lower toward $1,800 and $1.05, respectively.
+This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
 
-FXStreet • 11h ago
+TradingView • 1d ago
 
 ---
 
@@ -210,7 +202,7 @@ FXStreet • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
 
 ---
 
@@ -220,11 +212,19 @@ Binance • 3d ago
 
 ---
 
-**[Bitcoin ETFs see $61M in weekly outflows while Ethereum ETFs quietly pocket $27M](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-2/)**
+**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
 
-US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
+The investment bank has quickly ramped up its crypto ETF offerings.
 
-Crypto Briefing • 18h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Crypto Today: BTC, ETH, XRP correct as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-decline-amid-renewed-risk-averse-sentiment-202608031112)**
+
+The cryptocurrency market remains weak on Monday, with Bitcoin (BTC) falling toward the nearest $62,000. Ethereum (ETH) and Ripple (XRP) reflect the sell-off across altcoins, edging lower toward $1,800 and $1.05, respectively.
+
+FXStreet • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 6K • 👍 278 • 💬 42 • ⏱️ 5:30 • 10h ago
+👁️ 7K • 👍 295 • 💬 44 • ⏱️ 5:30 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 797 • 💬 102 • ⏱️ 15:24 • 1d ago
+👁️ 22K • 👍 803 • 💬 105 • ⏱️ 15:24 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 648 • 💬 337 • ⏱️ 19:51 • 21h ago
+👁️ 12K • 👍 659 • 💬 351 • ⏱️ 19:51 • 23h ago
 
 ---
 
@@ -268,37 +268,7 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 4 • ⏱️ 6:21 • 8h ago
-
----
-
-**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
-
-THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
-
-📺 NCashOfficial
-
-👁️ 10K • 👍 462 • 💬 745 • ⏱️ 14:47 • 2d ago
-
----
-
-**[Why $5 ADA Requires Flipping Ethereum First](https://www.youtube.com/watch?v=8MfIecFLrFE)**
-
-I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
-
-📺 Cheeky Crypto Unfiltered
-
-👁️ 2K • 👍 136 • 💬 75 • ⏱️ 16:11 • 13h ago
-
----
-
-**[COLDCARD $114M Post Mortem, Ethereum to Outperform, Bitcoin asks for Patience... ](https://www.youtube.com/watch?v=b6EOvpv5yiM)**
-
-(0:00) Colcard $114M Hack (02:33) Hyperliquid Winning Trade (05:39) BTC Loses Weekly Support (15:57) BTC Monthly - The ...
-
-📺 Mango Research
-
-👁️ 271 • 👍 32 • 💬 16 • ⏱️ 25:20 • 5h ago
+👁️ 2K • 👍 159 • 💬 4 • ⏱️ 6:21 • 10h ago
 
 ---
 
@@ -308,7 +278,47 @@ The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 93 • ⏱️ 10:34 • 1d ago
+👁️ 28K • 👍 2K • 💬 94 • ⏱️ 10:34 • 1d ago
+
+---
+
+**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+
+THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+
+📺 NCashOfficial
+
+👁️ 10K • 👍 463 • 💬 745 • ⏱️ 14:47 • 2d ago
+
+---
+
+**[Why $5 ADA Requires Flipping Ethereum First](https://www.youtube.com/watch?v=8MfIecFLrFE)**
+
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 2K • 👍 145 • 💬 56 • ⏱️ 16:11 • 14h ago
+
+---
+
+**[COLDCARD $114M Post Mortem, Ethereum to Outperform, Bitcoin asks for Patience... ](https://www.youtube.com/watch?v=b6EOvpv5yiM)**
+
+(0:00) Colcard $114M Hack (02:33) Hyperliquid Winning Trade (05:39) BTC Loses Weekly Support (15:57) BTC Monthly - The ...
+
+📺 Mango Research
+
+👁️ 428 • 👍 46 • 💬 17 • ⏱️ 25:20 • 7h ago
+
+---
+
+**[ETHEREUM BUYING OPPORTUNITY HERE? (ETH Update)](https://www.youtube.com/watch?v=ooXFjNWL-1o)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 259 • 👍 17 • 💬 5 • ⏱️ 4:24 • 13h ago
 
 ---
 
@@ -316,17 +326,7 @@ The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https
 
 📺 klay browning
 
-👁️ 176 • 👍 3 • ⏱️ 0:16 • 1h ago
-
----
-
-**[BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZlXb0XqHLQ4)**
-
-BITCOIN: NEW SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 272 • 💬 171 • ⏱️ 18:28 • 1d ago
+👁️ 999 • 👍 20 • ⏱️ 0:16 • 3h ago
 
 ---
 

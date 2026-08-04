@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-03T23:00:53.319554+00:00'
+updated: '2026-08-04T00:59:05.524500+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 03, 2026 at 23:00 UTC  
+**Last Updated:** August 04, 2026 at 00:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-15h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-9h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-22h ago
+1d ago
 
 ---
 
@@ -116,15 +116,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 21h ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 10h ago
+WSJ • 23h ago
 
 ---
 
@@ -132,7 +124,7 @@ Forbes • 10h ago
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-MIT Technology Review • 4h ago
+MIT Technology Review • 6h ago
 
 ---
 
@@ -148,13 +140,39 @@ The Robot Report • 1d ago
 
 People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
-The Conversation • 10h ago
+The Conversation • 12h ago
 
 ---
 
-**[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
 
-Bloomberg.com • 13h ago
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+forbes.com • 12h ago
+
+---
+
+**[Americans in their 70s and 80s are among the first to bring AI robots into their homes](https://fortune.com/2026/08/03/gen-z-elliq-intuition-robotics-ai-companion-robot-older-adults/)**
+
+ElliQ’s device has been commercially available since 2022.
+
+Fortune • 10h ago
+
+---
+
+**[Neither human nor robot dog: meet the machine set to police our streets](https://www.futura-sciences.com/en/neither-human-nor-robot-dog-meet-the-machine-set-to-police-our-streets_36761/)**
+
+Founded in Tallinn in 2025 by Sander Sebastian Agur and Arno Kütt, formerly of parcel delivery robotics company Cleveron, Rollo Robotics developed the platform, named 1ROLLO. Specifically, the team set out to address the long-standing engineering challenge of maintaining single-wheel stability during movement, turning, and stopping. Gyroscopic stabilization and technical...
+
+futura-sciences.com • 7h ago
+
+---
+
+**[The VC firm behind Shopify is doubling down on robotics and defense](https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8)**
+
+The venture capital firm, best known for bets on Shopify, Notion, and Mercor, has hired a new partner to invest in physical world technologies.
+
+Business Insider • 10h ago
 
 ---
 
@@ -166,27 +184,9 @@ ABC News - Breaking News, Latest News and Videos • 3d ago
 
 ---
 
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+**[Reshoring Invites Robots Into US Car Plants](https://www.bloomberg.com/opinion/articles/2026-08-03/reshoring-invites-robots-into-us-car-plants)**
 
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-Morning Brew • 2d ago
-
----
-
-**[British military robots thrown into battle against US](https://www.telegraph.co.uk/us/news/2026/08/03/next-gen-warfare-testing-in-the-california-desert/)**
-
-Ten thousand troops from five allied nations, including the UK, braved 50C heat in a vast California desert wargame
-
-The Telegraph • 16h ago
-
----
-
-**[Amazon ramps up delivery speed, robotics roll out](https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out)**
-
-Amazon said it continued to expand ultra-fast delivery and improve fulfillment center efficiency, partly due to more robotics deployment, during the second quarter.
-
-FreightWaves • 3d ago
+bloomberg.com • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 224K • 👍 6K • 💬 517 • ⏱️ 3:00 • 4d ago
+👁️ 226K • 👍 6K • 💬 519 • ⏱️ 3:00 • 4d ago
 
 ---
 
@@ -210,7 +210,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 31K • 👍 606 • 💬 61 • ⏱️ 11:26 • 1d ago
+👁️ 34K • 👍 639 • 💬 69 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 384 • 💬 534 • ⏱️ 6:04 • 4d ago
+👁️ 73K • 👍 387 • 💬 534 • ⏱️ 6:04 • 5d ago
 
 ---
 
@@ -240,7 +240,7 @@ China's fixation on synthetic humans is also pushing next generation prosthetics
 
 📺 Kalil 4.0
 
-👁️ 511 • 👍 7 • ⏱️ 0:56 • 8h ago
+👁️ 518 • 👍 7 • ⏱️ 0:56 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 143K • 👍 1K • 💬 539 • ⏱️ 3:14 • 1d ago
+👁️ 152K • 👍 1K • 💬 563 • ⏱️ 3:14 • 1d ago
 
 ---
 
@@ -260,27 +260,7 @@ Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgr
 
 📺 Creative Channel
 
-👁️ 5K • 👍 265 • 💬 23 • ⏱️ 9:14 • 1d ago
-
----
-
-**[Viral video of new robot released by Chinese Unitree freaks out social media](https://www.youtube.com/watch?v=GHbywXK2NMo)**
-
-Chinese robotics company Unitree released a new video of its "super athlete" model. It's going viral for its impressive all-terrain ...
-
-📺 NBC News
-
-👁️ 1.2M • 👍 10K • 💬 4K • ⏱️ 2:15 • 6d ago
-
----
-
-**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
-
-Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
-
-📺 Foundation Robotics
-
-👁️ 16K • 👍 511 • 💬 28 • ⏱️ 5:33 • 2d ago
+👁️ 5K • 👍 267 • 💬 23 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -290,7 +270,27 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 All-In Podcast
 
-👁️ 111K • 👍 2K • 💬 302 • ⏱️ 1:08:35 • 5d ago
+👁️ 111K • 👍 2K • 💬 300 • ⏱️ 1:08:35 • 5d ago
+
+---
+
+**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+
+Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+
+📺 Foundation Robotics
+
+👁️ 17K • 👍 520 • 💬 29 • ⏱️ 5:33 • 2d ago
+
+---
+
+**[Multi-robot collaboration with Gemini Robotics 2](https://www.youtube.com/watch?v=CiTPDm7PKW0)**
+
+Multi-robot collaboration enables different types of robots to communicate and work together to solve complex problems.
+
+📺 Google DeepMind
+
+👁️ 19K • 👍 561 • 💬 34 • ⏱️ 2:32 • 4d ago
 
 ---
 
