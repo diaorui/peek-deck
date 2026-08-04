@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-04T17:12:46.601624+00:00"
+          "dateModified": "2026-08-04T19:07:37.055133+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -813,6 +813,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vfe8sn/ai_scribes_are_everywhere_in_healthcare_now_and_i/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vfe8sn/ai_scribes_are_everywhere_in_healthcare_now_and_i/" target="_blank" onclick="event.stopPropagation();">AI scribes are everywhere in healthcare now and I have genuinely mixed feelings about them</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Been on the product side of a healthtech rollout for ambient AI documentation, the kind that listens to a patient encounter and autogenerates the clinical note. Doctors love it. Physicians on our pilot were almost evangelical about getting their evenings back, which I understand completely because charting is a soulcrushing time sink. But here is what keeps nagging at me. The model is transcribing and interpreting conversations it was not originally trained on: slang, accents, chaotic ER noise, patients who talk around their actual symptoms instead of describing them directly. And the output gets reviewed for maybe 45 seconds before it gets signed and lives in the medical record permanently. That review step is doing a lot of heavy lifting and I am not sure anyone is honest about how thin it actually is. Not blaming the clinicians. They are exhausted and the tool is supposed to reduce burden, so they are going to use it that way. The cost argument makes sense on paper. Less admin time, faster throughput. But when I think about what a confidently wrong note looks like downstream, a missed allergy or a misattributed symptom sitting quietly in someone's chart, it gets uncomfortable fast. Curious whether people here think the accuracy bar these tools are held to is anywhere close to high enough, or if we are just accepting a new category of error because the old category was also bad. Just my 2 cents.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1785858705.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vf6prl/the_weirdest_part_about_voice_ai_is_how_people/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -879,7 +912,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vfa4wz/are_frontier_models_becoming_the_default_for/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -887,13 +920,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vfa4wz/are_frontier_models_becoming_the_default_for/" target="_blank" onclick="event.stopPropagation();">Are frontier models becoming the default for tasks that don’t need them?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/" target="_blank" onclick="event.stopPropagation();">Fable, GPT-5.6 and other frontier models are assholes. Here's why.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A lot of AI traffic is classification, extraction, redaction, moderation and structured summarization rather than open-ended reasoning. Using one frontier model for everything is easier, but routing repeatable tasks to smaller specialized models could reduce cost and latency. Do you think multi-model routing will become standard, or will the added evaluation and maintenance outweigh the savings?
+                            People are noticing that frontier models can be real assholes. They: Won't follow your instructions because they think they know better Refuse to do basic tasks Will do things on you never asked for, like commit unfinished code, or refactor a file Why? Kun Chen, former engineer at Meta says blame it on the training: "The core idea of [reinforcement learning with human feedback (RHLF)] is that you ask the model to generate a few responses, and then let real humans pick which one they like. Do this over and over again, and you get a model that knows how to talk." Things changed as models became better at coding: "[L]et the model do billions and billions of attempts in ... virtual environments, and some of them would succeed by chance. You keep the successful agent sessions and use reinforcement learning to teach the model to do that ... That is called reinforcement learning with verifiable rewards (RLVR). If you look closely, you'll see that in this RLVR process, the final text response from the model doesn't matter AT ALL, as long as the code written by the agent could pass the test. It could talk like a jerk and it would still be rewarded." And so we have models trained by machines to talk to machines. Not humans. What about refusals? Highly capable, aligned models are rewarded for refusing to respond to harmful responses. This training is further backstopped by LLM and semantic filters that process every API request for 'harmful' language. Sometimes the LLM as a judge will filter a prompt before it even gets to the model, so its core training isn't activated. As for models not doing what you ask, that's another training artifact. These models are optimized for long-horizon tasks and autonomous decision-making. In other words, they're trusted to complete a task, and rewarded for it. If your instructions contradict what it's been trained to prioritize, guess which request wins? Refusals, robotic, non-helpful responses and other problems with frontier models is why working with them can be such a pain in the ass. Is it worth it? Sometimes, but it's another thing to consider when picking which models to work with.
                         </div>
                         
 
@@ -902,7 +935,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1785849516.0"></span>
+                                    <span data-timestamp="1785866224.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -945,39 +978,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vfg6wo/ai_will_generate_millions_of_games_the_harder/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vfg6wo/ai_will_generate_millions_of_games_the_harder/" target="_blank" onclick="event.stopPropagation();">AI will generate millions of games, the harder part might be getting anyone to play them.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I keep thinking about what happens when making a game becomes almost as easy as describing one. Not long ago, even a small game needed a lot of people and time. You needed someone who could code, someone who could make assets, and someone who understood game design. A lot of ideas never got made because they were not worth the effort. Now that barrier is starting to disappear, I wonder if we are going to run into a different problem: too much content.We have already seen this happen with AI images, videos, and apps. Making something is becoming easier, but getting people to notice it is still difficult. Games might end up the same way. If millions of people can create small games, finding the few that are actually interesting could become harder than making them. Maybe the next challenge is not helping people create more, but helping people discover what is worth playing.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1785862846.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1001,7 +1001,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-04T17:12:10.454805+00:00">Updated 2026-08-04T17:12:10.454805+00:00</small>
+        <small data-timestamp="2026-08-04T19:07:12.517698+00:00">Updated 2026-08-04T19:07:12.517698+00:00</small>
     </div>
 </div>
 
@@ -1187,285 +1187,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html" target="_blank" onclick="event.stopPropagation();">Opinion | The A.I. Giants Weren’t Prepared for This</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785834260.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/" target="_blank" onclick="event.stopPropagation();">An AI-supervised remote exam went so badly that 58,000 students must retake it</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Top scores increased by 5x.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785783650.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://pitchfork.com/story/so-is-fenix-flexins-rubberz-ai-or-what/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.pitchfork.com/photos/6a7211929ba627e03f891425/16:9/w_1280,c_limit/fenix-flexin-rubberz-ai-dispute.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://pitchfork.com/story/so-is-fenix-flexins-rubberz-ai-or-what/" target="_blank" onclick="event.stopPropagation();">So Is Fenix Flexin’s “Rubberz” AI or What?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Treblo, the generative tool it was allegedly made on, suggests it might be
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pitchfork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Pitchfork" class="news-favicon">
-                                    <a href="https://pitchfork.com" target="_blank" onclick="event.stopPropagation();">Pitchfork</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785860538.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/business/media/author-whose-2-million-book-deal-was-derailed-by-ai-concerns-says-hes-innocent-c9f4c91b', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/business/media/author-whose-2-million-book-deal-was-derailed-by-ai-concerns-says-hes-innocent-c9f4c91b" target="_blank" onclick="event.stopPropagation();">Author Whose $2 Million Book Deal Was Derailed by AI Concerns Says He’s Innocent</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785859980.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/rayravaglia/2026/08/04/openai-education-plugins-move-ai-from-answers-to-workflows/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/6a7200d5d133a295d26c7d85/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/rayravaglia/2026/08/04/openai-education-plugins-move-ai-from-answers-to-workflows/" target="_blank" onclick="event.stopPropagation();">OpenAI Education Plugins Move AI From Answers To Workflows</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            OpenAI education plugins move AI from single answers to multi-step workflows. The valuable skill becomes directing the process and judging what the machine returns.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785862832.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/ray-dalio-ai-bubble-nearing-070000246.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/C9E60721EFB522BB6167DCD07663169867295D9C7DFF47E40D815402D8AA08B3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F4be026dd5818f73ffcc03b06882e2e3d');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/markets/stocks/articles/ray-dalio-ai-bubble-nearing-070000246.html" target="_blank" onclick="event.stopPropagation();">Ray Dalio on the AI bubble nearing 1929, 2000 levels and the lesson people always forget: ‘Wealth is not the same as money’</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            “You see a lot of people getting wealthy but you can’t spend the wealth,” the Bridgewater Associates founder told The Diary of a CEO.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="finance.yahoo.com" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">finance.yahoo.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785826800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/video/6402778138112', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/a05400d9-eac8-45c6-9c36-4071d77d19be/75c9778f-4c70-4d48-bf2e-4c97610b1340/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.foxbusiness.com/video/6402778138112" target="_blank" onclick="event.stopPropagation();">Palantir stock surges 15% on blowout earnings and 'otherworldly' AI demand</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Host Stuart Varney and Futurum Group CEO Daniel Newman break down Palantir's blowout quarterly earnings. Newman explains how commercial AI adoption is driving massive growth for the software giant.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fox Business" class="news-favicon">
-                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1785857657.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108344215-1785797158413-gettyimages-2287893327-_jjj6729_opvcsegx.jpeg?v=1785797252&w=1920&h=1080');"></div>
@@ -1507,14 +1228,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581" target="_blank" onclick="event.stopPropagation();">Palantir is leaving its software peers behind in the AI race</a>
+                            <a href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" target="_blank" onclick="event.stopPropagation();">White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1526,9 +1247,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MarketWatch" class="news-favicon">
-                                    <a href="https://www.marketwatch.com" target="_blank" onclick="event.stopPropagation();">MarketWatch</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1536,7 +1257,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1785857340.0"></span>
+                                    <span data-timestamp="1785834263.0"></span>
                                 </div>
                                 
                             </div>
@@ -1544,14 +1265,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil" target="_blank" onclick="event.stopPropagation();">Ex-Nubank Executives Launch AI Wealth Adviser in Brazil</a>
+                            <a href="https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/" target="_blank" onclick="event.stopPropagation();">Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1563,9 +1284,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
                                     
                                 </div>
                                 
@@ -1573,7 +1294,286 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1785837600.0"></span>
+                                    <span data-timestamp="1785857668.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/c39ae8f4-6c46-4450-8493-baad72f978af/thumbnail/1200x630/05652765b50c4e1e18c27ca29a9c8bd5/cbsn-fusion-top-ai-company-executives-to-meet-with-white-house-officials-reports-show-thumbnail.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cbsnews.com/video/top-ai-company-executives-to-meet-with-white-house-officials-reports-show/" target="_blank" onclick="event.stopPropagation();">Top AI company executives to meet with White House officials, according to reports</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Top executives from leading artificial intelligence companies are set to meet with White House officials, according to media reports. Ian Krietzberg, an AI correspondent for Puck News, has more.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CBS News" class="news-favicon">
+                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785857760.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/08/04/nx-s1-5919601/ai-the-data-center-debate-part-two', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F71%2Fc803a7ec4207a28c64b8c4d1bd66%2F02782893-2791-47d2-9ae6-58b50b8b7797.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.npr.org/2026/08/04/nx-s1-5919601/ai-the-data-center-debate-part-two" target="_blank" onclick="event.stopPropagation();">AI: The Data Center Debate, Part Two : 1A</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Data centers.They’ve been all over the news. Last month, protesters showed up in 125 cities across the country on a single Saturday to demonstrate against these structures, either proposed or completed.But are the politicians listening? We sit down for the second part of our data center deep dive. This time, we talk politics. Why have data centers become a political flashpoint so quickly? And who is calling the shots at the local, state, and federal level?Find more of our programs online. Listen to 1A sponsor-free by signing up for 1A+ at plus.npr.org/the1a.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NPR" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785867144.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/" target="_blank" onclick="event.stopPropagation();">Senate Democrats press Trump administration on access to advanced AI models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785868500.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.phillyvoice.com/ai-companions-chatbots-adult-loneliness-study/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.phillyvoice.com/media/images/AI_chatbots_loneliness.2e16d0ba.fill-1200x630-c0.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.phillyvoice.com/ai-companions-chatbots-adult-loneliness-study/" target="_blank" onclick="event.stopPropagation();">AI chatbot companions could be making adults more lonely, new study finds</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            People with a small social network who used online tools to make virtual friends were found to have a poor sense of well-being.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.phillyvoice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PhillyVoice" class="news-favicon">
+                                    <a href="https://www.phillyvoice.com" target="_blank" onclick="event.stopPropagation();">PhillyVoice</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785869473.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html" target="_blank" onclick="event.stopPropagation();">Opinion | I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785783605.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/articles/ray-dalio-ai-bubble-nearing-070000246.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/C9E60721EFB522BB6167DCD07663169867295D9C7DFF47E40D815402D8AA08B3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F4be026dd5818f73ffcc03b06882e2e3d');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/markets/stocks/articles/ray-dalio-ai-bubble-nearing-070000246.html" target="_blank" onclick="event.stopPropagation();">Ray Dalio on the AI bubble nearing 1929, 2000 levels and the lesson people always forget: ‘Wealth is not the same as money’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            “You see a lot of people getting wealthy but you can’t spend the wealth,” the Bridgewater Associates founder told The Diary of a CEO.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785826800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.width-1300.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/" target="_blank" onclick="event.stopPropagation();">The latest AI news we announced in July 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Here are Google’s latest AI updates from July 2026
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="blog.google" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1785848923.0"></span>
                                 </div>
                                 
                             </div>
@@ -1601,7 +1601,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-04T17:12:44.643093+00:00">Updated 2026-08-04T17:12:44.643093+00:00</small>
+        <small data-timestamp="2026-08-04T19:07:36.519319+00:00">Updated 2026-08-04T19:07:36.519319+00:00</small>
     </div>
 </div>
 
@@ -1826,10 +1826,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 625</span>
+                                    <span class="post-points">▲ 682</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 374</span>
+                                    <span style="color: #9ca3af;">💬 416</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1973,7 +1973,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 209</span>
+                                    <span class="post-points">▲ 210</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 106</span>
@@ -2067,7 +2067,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 141</span>
+                                    <span class="post-points">▲ 142</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 187</span>
@@ -2116,10 +2116,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 137</span>
+                                    <span class="post-points">▲ 140</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 167</span>
+                                    <span style="color: #9ca3af;">💬 168</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2165,7 +2165,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 132</span>
+                                    <span class="post-points">▲ 134</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 109</span>
@@ -2311,7 +2311,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-04T17:12:10.394199+00:00">Updated 2026-08-04T17:12:10.394199+00:00</small>
+        <small data-timestamp="2026-08-04T19:07:13.568010+00:00">Updated 2026-08-04T19:07:13.568010+00:00</small>
     </div>
 </div>
 

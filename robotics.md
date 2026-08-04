@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T17:12:47.043220+00:00'
+updated: '2026-08-04T19:07:37.404664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 17:12 UTC  
+**Last Updated:** August 04, 2026 at 19:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ To play with continuous learning, your base model needs to be data-efficient and
 
 this is my second version of this companion i call PAL. his face is using a I2C oled display, the servos are generic SG90's he comunicates via BLE with the phone. the app was created with MIT app inventor. what are your thoughts on this project. im working on the jitteriness, the bottom servo is curently to weak so i'm adding asupport on the other side. the repo is on github (repo name : PAL-cube)
 
-1d ago
+2d ago
 
 ---
 
 **[How do you check when a joint hits the ground?](https://www.reddit.com/r/robotics/comments/1vdpq1x/how_do_you_check_when_a_joint_hits_the_ground/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -128,11 +128,11 @@ WSJ • 1d ago
 
 ---
 
-**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
+**[Robot soldiers are being built in America to fight tomorrow’s wars – and the alarm is growing](https://www.independent.co.uk/tech/foundation-startup-military-robots-trump-b3027414.html)**
 
-The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
+The co-founder of Foundation Future Industries would build armed robots ‘tomorrow’ if the U.S. military asked, he tells Josh Marcus - and that has human rights experts extremely worried
 
-MIT Technology Review • 22h ago
+The Independent • 1h ago
 
 ---
 
@@ -144,9 +144,17 @@ Forbes • 1d ago
 
 ---
 
-**[Family Offices Sidestep AI Fears With Robotics Deal Spree](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
+**[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 12h ago
+
+---
+
+**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
+
+The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
+
+MIT Technology Review • 1d ago
 
 ---
 
@@ -154,7 +162,7 @@ Bloomberg.com • 2h ago
 
 A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -170,7 +178,7 @@ The Conversation • 1d ago
 
 Every one of India's 9,100 new robots in 2024 created demand somewhere down that chain, for component makers, system integrators, and research labs.
 
-NDTV • 10h ago
+NDTV • 12h ago
 
 ---
 
@@ -179,14 +187,6 @@ NDTV • 10h ago
 Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
 The Robot Report • 2d ago
-
----
-
-**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
-
-After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
-
-New York Focus • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 2K • 👍 16 • ⏱️ 0:48 • 13h ago
+👁️ 2K • 👍 16 • ⏱️ 0:48 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 24K • 👍 429 • 💬 35 • ⏱️ 1:00 • 3d ago
+👁️ 24K • 👍 429 • 💬 35 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -268,7 +268,7 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 7K • 👍 825 • 💬 760 • ⏱️ 5:18 • 3h ago
+👁️ 7K • 👍 825 • 💬 760 • ⏱️ 5:18 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 DPCcars
 
-👁️ 5K • 👍 39 • 💬 11 • ⏱️ 2:46 • 6d ago
+👁️ 5K • 👍 39 • 💬 11 • ⏱️ 2:46 • 7d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-04T17:12:47.034983+00:00'
+updated: '2026-08-04T19:07:37.398296+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 17:12 UTC  
+**Last Updated:** August 04, 2026 at 19:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +0.2%  
-**30d:** +0.1%  
-**90d:** -19.9%  
-**1y:** -43.9%  
+**24h:** +0.8%  
+**7d:** +0.5%  
+**30d:** +0.4%  
+**90d:** -19.6%  
+**1y:** -43.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Well well well](https://www.reddit.com/r/Bitcoin/comments/1vev6os/well_well_well/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 .7 bitcoin gone. Years of DCAing with money that could have been invested in other ventures gone because of a stupid exploit from a company that was touted as being "the best" to keep coins safe. My .7 bitcoin could have been spent on so many useful things. It was my safety net. It was the hope of a down payment on a house. It was my sons future college tuition. Now I'm sitting on the sidelines like a loser. I'm livid. And since it's decentralized, there's no recourse for getting any of it back. It's gone. Fuck. I hope whoever stole my money gets what's coming to them. Happy to provide proof if there are any of you who believe this is another shitpost or karma farm or whatever. Where's the class action lawsuit? How do I sign up? Edit: Here's proof: https://preview.redd.it/k57fkfuwt9hh1.jpg?width=2364&format=pjpg&auto=webp&s=ca4c3ce0ef6390a3c237f37a4d0f09563bfec3c4
 
-15h ago
+17h ago
 
 ---
 
 **[The Bottom Is In Again](https://www.reddit.com/r/Bitcoin/comments/1vep4ih/the_bottom_is_in_again/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploitable COLDCARD wallets are now underway, according to @coinjoined If your COLDCARD was compromised, do not destroy the device. It could be needed if a recovery process is established. If a white hat secures your coins before you move them yourself, any future claim may depend on proving ownership with your device and KYC records. Users without a way to verify ownership could face a much harder path to recovery.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2084273394229362780) • 21h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2084273394229362780) • 23h ago
 
 ---
 
@@ -109,7 +109,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 - "What's a retirement attack?" - COLDCARD (@COLDCARDwallet): "It's when the project makers could have a "bug" in the entropy generation for later retrieval". _____ Seems that they were smart enough to launch a "dice rolls" suggestion in a critical element lacking foolproof design, knowing not all users would be paranoid enough. Like "hey, if you don't trust no problem, but...you can trust buddy, the (back)door is open." ☠️ Ok no, enough of conspiracy theory continuation. We know that Coldcard's post was pure coincidence. Right?...Right? Edit: In case you're curious on more tweets mentioning "retirement attack", here is another one: @nvk - 21 Dec 20: "My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack. Alternatively people could just use dice ;)." https://x.com/i/status/1341213389549412353 A strange way to warn "alternatively people" of what you have in mind to do...but Freudian slip or parapraxis theory explains that better, in case you're curious...
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 I was orange pilled back in 2021 and I was stacking hard ever since. I had managed to accumulate 5,13 BTC, something I was very proud of. Not so much for myself, but for the future of my daughter. And that's the only thought that brings me to tears, that one day handing 5+ BTC to my daughter is not gonna happen. I was stacking in all ways possible, mining, salary percentage straight to auto-accumulate, end of year bonus --> BTC, family gifts --> BTC. I even took a loan against by 401K a few months back. You can say my mouth was where my money was. I was so "proud" thinking that I only have a house loan at the bank. But everything was stolen today due to the coldcard exploit and the thing is that it seems to me this is how it was supposed to happen. I had created a new seed using an MK3 that funny enough my orange piller bought me as a Christmas gift in December of 2021. I had some BTC at the time, maybe ~1 in other wallets and I thought it would be safer to safeguard them with a coldcard. Over the years I kept accumulating and sending over to my coldcard addresses. I only signed a TX once to make sure it works and a small gift to my mom. When I created the new seed, I split into two parts and marked it on two steel plates. I had one part of the seed with me in the US and one in my home country. I also had two MK3, one with me, one back home. Both of them are time locked because wrench attacks lol. About a month ago, I decided it would be safer to store the second part of the seed in a bank vault back home and I did that. The vault could be accessed by myself and my father. However, my father was diagnosed with cancer 2 weeks ago and has been hospitalized ever since. His operation was supposed to happen last week but he was not ready and it is rescheduled for this Thursday. So instead of coming back to visit on Tuesday as it was originally planned I flew out on Friday night. Thursday night I saw the security notice and I immediately called my brother to get my coldcard, power it on and get the timer working backwards. With my father in the hospital and me in the US, there was no way of getting into the vault. I also tried with claude/codex/glm to beat the attackers by basically hacking my private key first as maybe knowing the first half of the seed or XPUB could help. As you can imagine, that didn't happen. Claude however did set up a live monitor on the mempool I run on my computer for on-chain analytics because wasting money was not enough. For 48 hours I did not get a message and I had a glimmer of hope. Last night however I could not sleep and I was thinking that maybe if I call enough people someone could be able to help me get to the vault on a Sunday. Unlikely but I had to try. At 7am I got the telegram notification and that shattered me. But not just that, it made me feel shameful for what happened to me. I also felt as lonely as ever being away from my wife and daughter. I wish I could be with them. Up until 3 days ago I thought I had done everything right. And yes some people will say but you didn't roll a dice, why you didn't use a passphrase, why not split it in 5 wallets. I didn't and frankly speaking I shouldn't have to and maybe that could also lead to other vulnerabilities (roll the dice but coldcard is like meh, i am just gonna use the python library instead). My biggest mistake was placing trust in a 3rd party. Which again is a rabbit hole on its own. In society we trust 3rd parties for basically everything, food, water, cars, airplanes, the list is endless. The saddest part however is that when I visited my father today I couldn't be there for him. I just didn't have the strength. I put a brave face on but inside I was empty. This is my first and probably last post, I just want to share with the world what happened, forget about it and put on my big boy pants tomorrow for my family. Today I saw online a new term, aura farming and if there is such a thing, yes I want all the aura farm I can get. Not for myself but for my father. Wish us luck! Update 1: I am keeping the above draft version as originally written. Today is the second day and I am at the 'feeling angry' step of grief. Angry mostly at myself but also a bit towards the community. Don't take me wrong, I take full responsibility. However, what happened shook me to the core and made me rethink everything. First of all I realized that no one knows anything including myself. I was also appalled by some of the responses by other bitcoiners: - You didn't roll a dice, what did you expect? No passphrase? What were you even thinking? No seal of blood on your entropy generation? Pfff - Last bull run started after the FTX crash, LFG! - Nothing stops this train, whatever ever doesn't kill us makes us stronger - Hardware wallets are a marketing scam - We will get through this together. (be honest, we are not) I am not gonna say much on the above, but two things: What I saw the last 3 days is no longer a community that represents me and also guys.. read the room. People lost everything and years of effort just vanished. Personally, I didn't just lose my safety net, I think a part of me died yesterday. I don't even know if I want to be in crypto or do anything with btc any more. What two days ago seemed like a life mission today seems like a very foolish action. There are a few thoughts I would like to share, both for the victims and the rest of the holders. Theoretically speaking, it takes a billion years to crack a 24 seed phrase so if you are thinking why I didn't use a passphrase or roll the dice, don't beat yourself up. Even today I don't think I needed more than 1 billion years of compute power protection to also add a passphrase. Yes I had one seed phrase but two Mk3, split seed and timelocks on devices. In theory I should be okay. But what I really had was 1.5 words of seed phrase. And here is what everyone needs to start reconsidering. Coldcard was open source, the bug was there for 5 years. People who were sworn by it, either never read the code or didn't have the ability to understand it. So open source is simply a false sense of security. People claiming that rolling the dice would have saved you, might be true for the specific exploit. It doesn't mean there isn't a wallet out there that took your randomly generated perfectly created dice outcome and did nothing with it. That is another false sense of security. People claim that multisig is the way, but that comes with its own challenges and risks. Suddenly everyone is an expert on the topic but where was everyone 1 week ago educating and screaming about any of this? Which brings me back to my challenge everything state of mind. Some of my favorite slogans in the space: Not your keys, not your crypto Get your BTC off the exchanges Sell your kidney if you must You can never have enough bitcoin Hadn't this happened I would have probably tattooed those phrases on my chest. But today I am rethinking.. why? Why wasn't 1 BTC or 2 BTC or 3 BTC enough for me? Suddenly, having cash in the bank seems like a good deal. 3rd party custody with a regulated exchange? Awesome! S&P500? Even better! Real estate? Best thing ever. I got greedy and with greed comes hubris. Take it from someone who went all in and thought he had everything figured out and covered. Reconsider everything, how you store your coins, your investments, your diversification, everything. When FTX happened I was not directly affected, I just felt the market pain. I was naive thinking, well this is why I self custody, this won't happen to me. If you saw the coldcard exploit and thought this won't happen to me, please think again. BTC even today feels like the best risk/reward investment one could enter but the chances of going to 0 because an AI in 5 years will figure out something no one has so far, are not 0. So maybe I won't give my daughter 5BTC, what I can give her today is time, love and attention and those are irreplaceable. I might get back to 5BTC one day (who am I kidding) but you never get back lost time. Seeing my father suffering today just brought me back to reality. It was just numbers on the screen, surely the screen now reads 0 but I still have my loved ones around. Seize the day and don't trust anyone, even yourself.
 
-22h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ Bought one of these back in the day, package still sealed. Happily I never used 
 
 Basically the title. Im sure we all want to determine what the safest hardware wallet is after this whole ColdCard scenario. So i propose that we audit Trezor as a community. They have stood the test of time, but now its time to test their code. Im a software engineer and im willing to help in whatever way possible, with some experience in cryptography.
 
-20h ago
+22h ago
 
 ---
 
@@ -167,23 +167,15 @@ Fox Business • 1d ago
 
 Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.
 
-The Block • 7h ago
+The Block • 9h ago
 
 ---
 
-**[Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes](https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears)**
+**[Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes](https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears)**
 
 Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.
 
-CoinDesk • 2h ago
-
----
-
-**[Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees](https://finance.yahoo.com/markets/crypto/articles/trump-media-sells-more-bitcoin-082738663.html)**
-
-Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
-
-finance.yahoo.com • 2d ago
+CoinDesk • 58m ago
 
 ---
 
@@ -193,11 +185,27 @@ WSJ • 1d ago
 
 ---
 
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year's bull cycle](https://www.cnbc.com/video/2026/08/03/strategy-ceo-phong-le-expecting-strategy-to-outperform-bitcoin-in-next-years-bull-cycle.html)**
+**[Saylor’s Strategy Dumps $100 Million In Bitcoin As Crypto’s Struggles Persist](https://www.forbes.com/sites/zacharyfolk/2026/08/03/saylors-strategy-dumps-100-million-in-bitcoin-as-cryptos-struggles-persist/)**
 
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the cryptocurrency and much more.
+The bitcoin treasury firm still holds over 800,000 bitcoin, which it purchased at an average price higher than what the cryptocurrency is currently worth.
 
-CNBC • 22h ago
+Forbes • 1d ago
+
+---
+
+**[‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy](https://bitcoinmagazine.com/news/strategy-to-get-through-bitcoin-bear-market)**
+
+Bitcoin treasury company Strategy's CEO Phong Le has reassured investors that the company will do well next year.
+
+Bitcoin Magazine • 21h ago
+
+---
+
+**[Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees](https://finance.yahoo.com/markets/crypto/articles/trump-media-sells-more-bitcoin-082738663.html)**
+
+Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -207,25 +215,19 @@ Reuters • 1d ago
 
 ---
 
+**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-073725523.html)**
+
+American Bitcoin Corp. (NASDAQ:ABTC) CEO Mike Ho sidestepped questions on Monday about selling Bitcoin (CRYPTO: BTC) to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned about the company’s treasury management strategy and whether it would contemplate selling Bitcoin to improve business economics, similar to the approach taken by Michael Saylor’s Strategy Inc. (
+
+Yahoo Finance • 11h ago
+
+---
+
 **[Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy](https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy)**
 
 The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.
 
 CoinDesk • 1d ago
-
----
-
-**[Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss](https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[Bitcoin Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks](https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks)**
-
-Boltz, the non-custodial bridge that routes swaps between bitcoin's mainchain, the Lightning Network and Liquid, disabled its service indefinitely on Monday, saying months of automated, AI-assisted attacks on its infrastructure have outpaced its ability to ship fixes.
-
-thedefiant.io • 21h ago
 
 ---
 
@@ -261,7 +263,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it. Live wallet tracker.
 
-⬆️ 8 • 💬 1 • 20h ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
+⬆️ 8 • 💬 1 • 22h ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
 
 ---
 
@@ -269,13 +271,13 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 1d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 2d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 3 • 💬 1 • 5h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 3 • 💬 1 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -283,7 +285,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
 
-⬆️ 2 • 💬 0 • 11h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
+⬆️ 2 • 💬 0 • 13h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -291,7 +293,7 @@ The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating
 
 OBTC is a Bitcoin-derived lifecycle-money experiment. - organicbitcoin/obtcd
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/organicbitcoin/obtcd)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/organicbitcoin/obtcd)
 
 ---
 
@@ -329,7 +331,7 @@ Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to
 
 📺 CNBC Television
 
-👁️ 14K • 👍 112 • 💬 108 • ⏱️ 4:12 • 21h ago
+👁️ 14K • 👍 112 • 💬 108 • ⏱️ 4:12 • 23h ago
 
 ---
 
@@ -339,7 +341,7 @@ More than 1300 Bitcoin was drained from thousands of cold-storage addresses afte
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 195 • ⏱️ 17:22 • 19h ago
+👁️ 18K • 👍 1K • 💬 195 • ⏱️ 17:22 • 21h ago
 
 ---
 
@@ -349,7 +351,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 225 • 💬 32 • ⏱️ 10:07 • 22h ago
+👁️ 5K • 👍 225 • 💬 32 • ⏱️ 10:07 • 1d ago
 
 ---
 
@@ -359,7 +361,7 @@ Join Ran as he unpacks why crypto is falling behind even as stocks and AI contin
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 587 • 💬 22 • ⏱️ 23:55 • 2h ago
+👁️ 7K • 👍 587 • 💬 22 • ⏱️ 23:55 • 4h ago
 
 ---
 
@@ -369,7 +371,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 156 • ⏱️ 17:44 • 15h ago
+👁️ 3K • 👍 156 • ⏱️ 17:44 • 17h ago
 
 ---
 
@@ -379,7 +381,7 @@ Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unloc
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 122 • ⏱️ 9:49 • 16h ago
+👁️ 41K • 👍 2K • 💬 122 • ⏱️ 9:49 • 18h ago
 
 ---
 
@@ -389,7 +391,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 430K • 👍 27K • 💬 2K • ⏱️ 1:39 • 21h ago
+👁️ 430K • 👍 27K • 💬 2K • ⏱️ 1:39 • 23h ago
 
 ---
 
@@ -399,7 +401,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 929 • 👍 127 • 💬 36 • ⏱️ 10:47 • 57m ago
+👁️ 929 • 👍 127 • 💬 36 • ⏱️ 10:47 • 2h ago
 
 ---
 
@@ -409,7 +411,7 @@ Does bitcoin have intrinsic value? Benefits to owning bitcoin is differnt than b
 
 📺 Free Advice Guy
 
-👁️ 1K • 👍 21 • ⏱️ 1:02 • 19h ago
+👁️ 1K • 👍 21 • ⏱️ 1:02 • 21h ago
 
 ---
 

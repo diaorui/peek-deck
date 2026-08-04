@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T17:12:47.040381+00:00'
+updated: '2026-08-04T19:07:37.402466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 17:12 UTC  
+**Last Updated:** August 04, 2026 at 19:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.0%  
-**30d:** +4.2%  
-**90d:** -18.2%  
-**1y:** -48.2%  
+**24h:** +0.5%  
+**7d:** -1.9%  
+**30d:** +4.3%  
+**90d:** -18.1%  
+**1y:** -48.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-2h ago
+4h ago
 
 ---
 
@@ -156,15 +156,15 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 21h ago
+Decrypt • 23h ago
 
 ---
 
-**[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
+**[BitMine Stakes 87% of Its Ethereum Holdings in Fresh Conviction Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-87-ethereum-holdings-042707070.html)**
 
-ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
+BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
-StepSecurity • 5h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -173,14 +173,6 @@ StepSecurity • 5h ago
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
 
 PR Newswire • 1d ago
-
----
-
-**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-more-153143906.html)**
-
-The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
-
-finance.yahoo.com • 1d ago
 
 ---
 
@@ -196,7 +188,7 @@ TradingView • 1d ago
 
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -212,21 +204,29 @@ TradingView • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
+**[Ethereum’s EIP-8361 aims to curb ETH inflation by reducing staking rewards](https://ambcrypto.com/ethereums-eip-8361-aims-to-curb-eth-inflation-by-reducing-staking-rewards/)**
 
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
+EIP-8361 could cut Ethereum consensus staking yield to 1.2%, but lower rewards may place pressure on validators and liquid-staking products.
 
-thedefiant.io • 16h ago
+ambcrypto.com • 3h ago
 
 ---
 
 **[Ethereum Price at Make-or-Break Point: Will ETH Hold $1,850 or Decline Toward $1,780?](https://www.ccn.com/analysis/crypto/ethereum-price-prediction-eth-1850-support-1780/)**
 
-CCN.com • 6h ago
+CCN.com • 8h ago
+
+---
+
+**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
+
+The investment bank has quickly ramped up its crypto ETF offerings.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ BlackRock is making major moves with Solana and Ethereum, and these are the top 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 205 • 💬 17 • ⏱️ 1:03:35 • 1h ago
+👁️ 2K • 👍 205 • 💬 17 • ⏱️ 1:03:35 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 168 • 👍 13 • 💬 13 • ⏱️ 10:24 • 1h ago
+👁️ 168 • 👍 13 • 💬 13 • ⏱️ 10:24 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 3K • 👍 292 • 💬 9 • ⏱️ 10:22 • 4h ago
+👁️ 3K • 👍 292 • 💬 9 • ⏱️ 10:22 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 1K • 👍 56 • 💬 5 • ⏱️ 35:18 • 15h ago
+👁️ 1K • 👍 56 • 💬 5 • ⏱️ 35:18 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 616 • 💬 71 • ⏱️ 28:23 • 7h ago
+👁️ 4K • 👍 616 • 💬 71 • ⏱️ 28:23 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 195 • 👍 15 • 💬 2 • ⏱️ 4:40 • 7h ago
+👁️ 195 • 👍 15 • 💬 2 • ⏱️ 4:40 • 9h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 257 • 👍 42 • 💬 1 • ⏱️ 7:17 • 3h ago
+👁️ 257 • 👍 42 • 💬 1 • ⏱️ 7:17 • 5h ago
 
 ---
 
