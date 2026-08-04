@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T00:59:05.521162+00:00'
+updated: '2026-08-04T04:19:39.227179+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 00:59 UTC  
+**Last Updated:** August 04, 2026 at 04:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -3.2%  
-**30d:** +2.9%  
-**90d:** -19.2%  
-**1y:** -48.8%  
+**24h:** +0.3%  
+**7d:** -2.4%  
+**30d:** +3.7%  
+**90d:** -18.6%  
+**1y:** -48.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.35B
+**Market Cap:** $224.66B
 Rank #2
 
-**Circulating Supply:** 120,682,242 ETH
+**Circulating Supply:** 120,682,210 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.6%
+-62.4%
 
 **All-Time Low:** $0.43
-+427209.4%
++429853.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
+**[Bitcoin, Dogecoin Gain; Ethereum, XRP Slide Amid Trump's Latest Warning to Iran: Analyst Says BTC 'Bottom' Not Yet Confirmed](https://uk.finance.yahoo.com/news/bitcoin-dogecoin-gain-ethereum-xrp-022203738.html)**
 
-In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
+Leading cryptocurrencies lacked momentum on Monday as traders balanced geopolitical risk from Iran against selling pressure from large corporate Bitcoin treasuries. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.57%$63,470.28Ethereum (CRYPTO: ETH) -0.76%$1,853.52XRP (CRYPTO: XRP) -0.48%$1.07Solana (CRYPTO: SOL) +0.18%$73.11Dogecoin (CRYPTO: DOGE) +0.29%$0.07020 What’s Impacting Crypto Market? Bitcoin jumped to an intraday high of $64,020 late afternoon be
 
-finance.yahoo.com • 1d ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ finance.yahoo.com • 1d ago
 
 The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
 
-finance.yahoo.com • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ finance.yahoo.com • 9h ago
 
 Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 12h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
 
-PR Newswire • 12h ago
+PR Newswire • 15h ago
 
 ---
 
@@ -186,15 +186,23 @@ PR Newswire • 12h ago
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 5h ago
+Decrypt • 9h ago
 
 ---
 
-**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
+**[Ethereum: Glamsterdam upgrade lands - Aug 2026](https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/)**
 
-This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
+The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
 
-TradingView • 1d ago
+TradingView • 11h ago
+
+---
+
+**[Ethereum analysis at the start of this week: Bears are a little stronger but this trading map is the key for crypto traders](https://investinglive.com/cryptocurrency/ethereum-analysis-at-the-start-of-this-week-bears-are-a-little-stronger-but-this-trading-map-is-the-key-for-crypto-traders/)**
+
+Ethereum futures faces a critical make-or-break moment as prices test a heavily defended support cluster near $1,850.
+
+investingLive • 20h ago
 
 ---
 
@@ -202,13 +210,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
-
----
-
-**[What Is the Ethereum Glamsterdam Upgrade?](https://www.binance.com/en/academy/articles/what-is-the-ethereum-glamsterdam-upgrade)**
-
-Binance • 3d ago
+Fortune • 17h ago
 
 ---
 
@@ -220,11 +222,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Crypto Today: BTC, ETH, XRP correct as ETF flows diverge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-extend-decline-amid-renewed-risk-averse-sentiment-202608031112)**
+**[Bitcoin ETFs see $61M in weekly outflows while Ethereum ETFs quietly pocket $27M](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-2/)**
 
-The cryptocurrency market remains weak on Monday, with Bitcoin (BTC) falling toward the nearest $62,000. Ethereum (ETH) and Ripple (XRP) reflect the sell-off across altcoins, edging lower toward $1,800 and $1.05, respectively.
+US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
 
-FXStreet • 13h ago
+Crypto Briefing • 23h ago
 
 ---
 
@@ -238,7 +240,7 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 7K • 👍 295 • 💬 44 • ⏱️ 5:30 • 11h ago
+👁️ 7K • 👍 306 • 💬 47 • ⏱️ 5:30 • 15h ago
 
 ---
 
@@ -248,7 +250,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 803 • 💬 105 • ⏱️ 15:24 • 1d ago
+👁️ 22K • 👍 808 • 💬 106 • ⏱️ 15:24 • 1d ago
+
+---
+
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
+
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
+
+📺 The Rollup
+
+👁️ 120 • 👍 6 • 💬 18 • ⏱️ 35:18 • 2h ago
 
 ---
 
@@ -258,17 +270,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 659 • 💬 351 • ⏱️ 19:51 • 23h ago
-
----
-
-**[The Critical Support Levels Ethereum Must Hold Now](https://www.youtube.com/watch?v=VXmm2q13IkQ)**
-
-In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 159 • 💬 4 • ⏱️ 6:21 • 10h ago
+👁️ 13K • 👍 662 • 💬 326 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -278,7 +280,37 @@ The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 94 • ⏱️ 10:34 • 1d ago
+👁️ 29K • 👍 2K • 💬 94 • ⏱️ 10:34 • 1d ago
+
+---
+
+**[Why $5 ADA Requires Flipping Ethereum First](https://www.youtube.com/watch?v=8MfIecFLrFE)**
+
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 2K • 👍 147 • 💬 56 • ⏱️ 16:11 • 18h ago
+
+---
+
+**[The Critical Support Levels Ethereum Must Hold Now](https://www.youtube.com/watch?v=VXmm2q13IkQ)**
+
+In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 167 • 💬 4 • ⏱️ 6:21 • 13h ago
+
+---
+
+**[COLDCARD $114M Post Mortem, Ethereum to Outperform, Bitcoin asks for Patience... ](https://www.youtube.com/watch?v=b6EOvpv5yiM)**
+
+(0:00) Colcard $114M Hack (02:33) Hyperliquid Winning Trade (05:39) BTC Loses Weekly Support (15:57) BTC Monthly - The ...
+
+📺 Mango Research
+
+👁️ 545 • 👍 62 • 💬 37 • ⏱️ 25:20 • 11h ago
 
 ---
 
@@ -292,41 +324,13 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 ---
 
-**[Why $5 ADA Requires Flipping Ethereum First](https://www.youtube.com/watch?v=8MfIecFLrFE)**
+**[BitMine Owns 4.8% of Ethereum](https://www.youtube.com/watch?v=tPmUYsyzloQ)**
 
-I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+BitMine #Ethereum #ETH #EthereumTreasury #MicroStrategy #Crypto #CryptoNews #Bitcoin #DigitalAssets #Blockchain.
 
-📺 Cheeky Crypto Unfiltered
+📺 New Wave Podcast
 
-👁️ 2K • 👍 145 • 💬 56 • ⏱️ 16:11 • 14h ago
-
----
-
-**[COLDCARD $114M Post Mortem, Ethereum to Outperform, Bitcoin asks for Patience... ](https://www.youtube.com/watch?v=b6EOvpv5yiM)**
-
-(0:00) Colcard $114M Hack (02:33) Hyperliquid Winning Trade (05:39) BTC Loses Weekly Support (15:57) BTC Monthly - The ...
-
-📺 Mango Research
-
-👁️ 428 • 👍 46 • 💬 17 • ⏱️ 25:20 • 7h ago
-
----
-
-**[ETHEREUM BUYING OPPORTUNITY HERE? (ETH Update)](https://www.youtube.com/watch?v=ooXFjNWL-1o)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 259 • 👍 17 • 💬 5 • ⏱️ 4:24 • 13h ago
-
----
-
-**[Xrp pain #xrp #ethereum](https://www.youtube.com/watch?v=Ec2gOihHpIc)**
-
-📺 klay browning
-
-👁️ 999 • 👍 20 • ⏱️ 0:16 • 3h ago
+👁️ 724 • 👍 2 • ⏱️ 0:52 • 8h ago
 
 ---
 
