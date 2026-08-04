@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T19:07:37.402466+00:00'
+updated: '2026-08-04T20:53:20.014884+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 19:07 UTC  
+**Last Updated:** August 04, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,867.61
+### $1,873.81
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** -1.9%  
-**30d:** +4.3%  
-**90d:** -18.1%  
-**1y:** -48.1%  
+**7d:** -1.8%  
+**30d:** +4.4%  
+**90d:** -18.0%  
+**1y:** -48.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.30B
+**Market Cap:** $226.48B
 Rank #2
 
 **Circulating Supply:** 120,682,210 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+432925.6%
++433311.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-4h ago
+6h ago
+
+---
+
+**[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
+
+3h ago
 
 ---
 
@@ -140,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #33 | Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot](https://www.reddit.com/r/ethereum/comments/1vbtfy9/ethereal_news_weekly_33_ethereum_11_years_since/)**
-
-Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear selected as Glamsterdam mascot
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-33/) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +154,7 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -164,7 +162,7 @@ Decrypt • 23h ago
 
 BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
-Yahoo Finance • 14h ago
+finance.yahoo.com • 16h ago
 
 ---
 
@@ -176,11 +174,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[BMNR Stock Falls Despite Bitmine Retiring Over 16M Shares In 3 Weeks – Tom Lee Highlights Ethereum’s Edge Over Nasdaq 100](https://www.tradingview.com/news/stocktwits:e708a1e4c094b:0-bmnr-stock-falls-despite-bitmine-retiring-over-16m-shares-in-3-weeks-tom-lee-highlights-ethereum-s-edge-over-nasdaq-100/)**
+**[Ethereum news: Tom Lee's Bitmine (BMNR) continues to buy ETH while Strategy sold bitcoin](https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week)**
 
-Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
+Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
 
-TradingView • 1d ago
+coindesk.com • 1d ago
 
 ---
 
@@ -188,7 +186,7 @@ TradingView • 1d ago
 
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 12h ago
+coindesk.com • 14h ago
 
 ---
 
@@ -204,29 +202,29 @@ TradingView • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11h ago
 
 ---
 
-**[Ethereum’s EIP-8361 aims to curb ETH inflation by reducing staking rewards](https://ambcrypto.com/ethereums-eip-8361-aims-to-curb-eth-inflation-by-reducing-staking-rewards/)**
+**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
 
-EIP-8361 could cut Ethereum consensus staking yield to 1.2%, but lower rewards may place pressure on validators and liquid-staking products.
+EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
 
-ambcrypto.com • 3h ago
+The Defiant • 4h ago
 
 ---
 
 **[Ethereum Price at Make-or-Break Point: Will ETH Hold $1,850 or Decline Toward $1,780?](https://www.ccn.com/analysis/crypto/ethereum-price-prediction-eth-1850-support-1780/)**
 
-CCN.com • 8h ago
+ccn.com • 10h ago
 
 ---
 
-**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
+**[PMI rebound lifts US stocks while Bitcoin and Ethereum retain warning signals](https://www.kitco.com/opinion/2026-08-04/pmi-rebound-lifts-us-stocks-while-bitcoin-and-ethereum-retain-warning-signals)**
 
-The investment bank has quickly ramped up its crypto ETF offerings.
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin recovered into its daily Cloud after a Monday wick to $62,300, but the crypto structure remains conditional and the analysis still favors another oscillation toward lower support unless BTC clears short-term resistance. At the same time, a sharp rise in PMI to 55.6 materially improved the outlook for US equities without erasing the weak signals across crypto breadth and selected global markets.Bitcoin recovered into the Cloud, but resistance still decides the next moveBTC wicked to $62,300 on Monday, nearly undercutting Saturday’s low, before recovering inside the daily Cloud and tagging the Fast line. That retrace is constructive, but RSI remains below resistance and OBV is flattening and beginning to trend lower. The analysis continues to favor the existing oscillation toward the next support-step zone below $62,000 unless BTC closes above short-term overhead resistance, which would require a close above roughly $64,000.Ethereum is showing a cluster of bearish warningsETH printed a TBT Bearish Divergence on Friday, dipped below the Fast line, and then wicked twice into short-term support. A close below that level could open a move toward the bottom of the Cloud, but that outcome still requires confirmation. RSI leans bearish and OBV crossed below its white moving average over the weekend. ETH/BTC added a second TBT Bearish Divergence on Monday, reinforcing the warning without turning it into a guaranteed breakdown.Stablecoin dominance has not delivered its closing confirmationCombined stablecoin dominance again wicked above the daily Cloud on Monday but has not closed above it. That close matters because a confirmed move above the Cloud could precede a TBO Open Long, similar to the setup seen before the June decline. Elsewhere, BTC dominance remains in consolidation, ETH dominance printed another bearish divergence, OTHERS.D remains strong bearish, and RSI and OBV across the broader market-cap charts remain weak.The new PMI reading changes the US equity outlookUS ISM PMI jumped to 55.6, up 2.3 points and its highest reading since June 2022. The chart is moving toward an area associated with past market tops, and the current move represents a major improvement for US equities. That does not imply an immediate market top, nor does it guarantee that every market will rise. It does, however, represent a material change from the previous US stock outlook.US indexes are responding positively, but the strength is not universalS&amp;P futures pushed back toward TBO Resistance and the SPX spot chart was described as being close to a new all-time high. DJI was nearly there, NDX still had an upper gap to close, NVDA had not closed its lower gap, and TSLA was framed for a recovery toward its upper gap and potentially $400 if the broader market continues higher. The PMI data applies to US indices and should not be projected automatically onto Japan, Hong Kong, Korea, or every other market.ALT setups remain selective and conditionalSOL is holding support only “kinda-sorta”; a confirmed close below support could open a larger move lower. ADA’s elevated RSI and recent four-hour TBO Breakout Cluster look more like exhaustion than continuation. UNI remains a conditional Springboard Bounce candidate as long as there is no massive pullback, while NEAR, ICP, ATOM and ENA are being watched for resistance or Fast-line short setups. Those are chart conditions to monitor, not unconditional trade outcomes.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
 
-The Motley Fool • 2d ago
+KITCO • 3h ago
 
 ---
 
@@ -234,23 +232,23 @@ The Motley Fool • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
-
-BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 205 • 💬 17 • ⏱️ 1:03:35 • 3h ago
-
----
-
 **[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
 
 Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
 
 📺 Coinsider
 
-👁️ 168 • 👍 13 • 💬 13 • ⏱️ 10:24 • 3h ago
+👁️ 787 • 👍 58 • 💬 14 • ⏱️ 10:24 • 4h ago
+
+---
+
+**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
+
+BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 247 • 💬 35 • ⏱️ 1:03:35 • 5h ago
 
 ---
 
@@ -260,37 +258,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 3K • 👍 292 • 💬 9 • ⏱️ 10:22 • 6h ago
-
----
-
-**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
-
-Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
-
-📺 The Rollup
-
-👁️ 1K • 👍 56 • 💬 5 • ⏱️ 35:18 • 17h ago
-
----
-
-**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
-
-YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
-
-📺 The Moon Show
-
-👁️ 7K • 👍 323 • 💬 47 • ⏱️ 5:30 • 1d ago
-
----
-
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
-
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 616 • 💬 71 • ⏱️ 28:23 • 9h ago
+👁️ 4K • 👍 348 • 💬 10 • ⏱️ 10:22 • 8h ago
 
 ---
 
@@ -300,17 +268,37 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 831 • 💬 104 • ⏱️ 15:24 • 2d ago
+👁️ 24K • 👍 836 • 💬 105 • ⏱️ 15:24 • 2d ago
 
 ---
 
-**[ETHEREUM PULLBACK WARNING!🚨 (ETH Update)](https://www.youtube.com/watch?v=epOXOdWY3fM)**
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
 
-📺 Cilinix Crypto
+📺 The Rollup
 
-👁️ 195 • 👍 15 • 💬 2 • ⏱️ 4:40 • 9h ago
+👁️ 1K • 👍 64 • 💬 7 • ⏱️ 35:18 • 18h ago
+
+---
+
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 665 • 💬 86 • ⏱️ 28:23 • 11h ago
+
+---
+
+**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
+
+YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
+
+📺 The Moon Show
+
+👁️ 7K • 👍 324 • 💬 47 • ⏱️ 5:30 • 1d ago
 
 ---
 
@@ -320,17 +308,27 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 671 • 💬 291 • ⏱️ 19:51 • 1d ago
+👁️ 14K • 👍 674 • 💬 291 • ⏱️ 19:51 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=i1YtEmWBDcI)**
+**[ETHEREUM PULLBACK WARNING!🚨 (ETH Update)](https://www.youtube.com/watch?v=epOXOdWY3fM)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 257 • 👍 42 • 💬 1 • ⏱️ 7:17 • 5h ago
+👁️ 270 • 👍 16 • 💬 26 • ⏱️ 4:40 • 11h ago
+
+---
+
+**[The Critical Support Levels Ethereum Must Hold Now](https://www.youtube.com/watch?v=VXmm2q13IkQ)**
+
+In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 181 • 💬 7 • ⏱️ 6:21 • 1d ago
 
 ---
 

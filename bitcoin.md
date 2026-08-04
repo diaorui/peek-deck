@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-04T19:07:37.398296+00:00'
+updated: '2026-08-04T20:53:20.009274+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 19:07 UTC  
+**Last Updated:** August 04, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,019.71
+### $64,182.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.5%  
-**30d:** +0.4%  
+**24h:** +1.2%  
+**7d:** +0.6%  
+**30d:** +0.5%  
 **90d:** -19.6%  
 **1y:** -43.7%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1286.21B
+**Market Cap:** $1290.43B
 Rank #1
 
-**Circulating Supply:** 20,065,715 BTC
+**Circulating Supply:** 20,065,806 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.0%
 
 **All-Time Low:** $67.81
-+94424.4%
++94732.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Well well well](https://www.reddit.com/r/Bitcoin/comments/1vev6os/well_well_well/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 .7 bitcoin gone. Years of DCAing with money that could have been invested in other ventures gone because of a stupid exploit from a company that was touted as being "the best" to keep coins safe. My .7 bitcoin could have been spent on so many useful things. It was my safety net. It was the hope of a down payment on a house. It was my sons future college tuition. Now I'm sitting on the sidelines like a loser. I'm livid. And since it's decentralized, there's no recourse for getting any of it back. It's gone. Fuck. I hope whoever stole my money gets what's coming to them. Happy to provide proof if there are any of you who believe this is another shitpost or karma farm or whatever. Where's the class action lawsuit? How do I sign up? Edit: Here's proof: https://preview.redd.it/k57fkfuwt9hh1.jpg?width=2364&format=pjpg&auto=webp&s=ca4c3ce0ef6390a3c237f37a4d0f09563bfec3c4
 
-17h ago
+18h ago
 
 ---
 
 **[The Bottom Is In Again](https://www.reddit.com/r/Bitcoin/comments/1vep4ih/the_bottom_is_in_again/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploitable COLDCARD wallets are now underway, according to @coinjoined If your COLDCARD was compromised, do not destroy the device. It could be needed if a recovery process is established. If a white hat secures your coins before you move them yourself, any future claim may depend on proving ownership with your device and KYC records. Users without a way to verify ownership could face a much harder path to recovery.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2084273394229362780) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2084273394229362780) • 1d ago
 
 ---
 
@@ -109,7 +109,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 - "What's a retirement attack?" - COLDCARD (@COLDCARDwallet): "It's when the project makers could have a "bug" in the entropy generation for later retrieval". _____ Seems that they were smart enough to launch a "dice rolls" suggestion in a critical element lacking foolproof design, knowing not all users would be paranoid enough. Like "hey, if you don't trust no problem, but...you can trust buddy, the (back)door is open." ☠️ Ok no, enough of conspiracy theory continuation. We know that Coldcard's post was pure coincidence. Right?...Right? Edit: In case you're curious on more tweets mentioning "retirement attack", here is another one: @nvk - 21 Dec 20: "My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack. Alternatively people could just use dice ;)." https://x.com/i/status/1341213389549412353 A strange way to warn "alternatively people" of what you have in mind to do...but Freudian slip or parapraxis theory explains that better, in case you're curious...
 
-13h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bought one of these back in the day, package still sealed. Happily I never used 
 
 Basically the title. Im sure we all want to determine what the safest hardware wallet is after this whole ColdCard scenario. So i propose that we audit Trezor as a community. They have stood the test of time, but now its time to test their code. Im a software engineer and im willing to help in whatever way possible, with some experience in cryptography.
 
-22h ago
+1d ago
 
 ---
 
@@ -167,37 +167,15 @@ Fox Business • 1d ago
 
 Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
-**[Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes](https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears)**
+**[Elon Musk's SpaceX (SPCX) tops earnings as bitcoin (BTC) holding value drops by $540 million](https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value)**
 
-Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.
+Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.
 
-CoinDesk • 58m ago
-
----
-
-**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
-
-WSJ • 1d ago
-
----
-
-**[Saylor’s Strategy Dumps $100 Million In Bitcoin As Crypto’s Struggles Persist](https://www.forbes.com/sites/zacharyfolk/2026/08/03/saylors-strategy-dumps-100-million-in-bitcoin-as-cryptos-struggles-persist/)**
-
-The bitcoin treasury firm still holds over 800,000 bitcoin, which it purchased at an average price higher than what the cryptocurrency is currently worth.
-
-Forbes • 1d ago
-
----
-
-**[‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy](https://bitcoinmagazine.com/news/strategy-to-get-through-bitcoin-bear-market)**
-
-Bitcoin treasury company Strategy's CEO Phong Le has reassured investors that the company will do well next year.
-
-Bitcoin Magazine • 21h ago
+coindesk.com • 26m ago
 
 ---
 
@@ -205,7 +183,7 @@ Bitcoin Magazine • 21h ago
 
 Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -215,19 +193,39 @@ Reuters • 1d ago
 
 ---
 
-**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-073725523.html)**
-
-American Bitcoin Corp. (NASDAQ:ABTC) CEO Mike Ho sidestepped questions on Monday about selling Bitcoin (CRYPTO: BTC) to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned about the company’s treasury management strategy and whether it would contemplate selling Bitcoin to improve business economics, similar to the approach taken by Michael Saylor’s Strategy Inc. (
-
-Yahoo Finance • 11h ago
-
----
-
 **[Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy](https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy)**
 
 The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
+
+---
+
+**[Watch Hackers Hit Bitcoin’s Safest Hiding Place](https://www.bloomberg.com/news/videos/2026-08-04/hackers-hit-bitcoin-s-safest-hiding-place-video)**
+
+Bloomberg.com • 20h ago
+
+---
+
+**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
+
+WSJ • 1d ago
+
+---
+
+**[A $116 million bitcoin theft: hackers break into one of the safest places to store cryptocurrencies](https://english.elpais.com/economy-and-business/2026-08-04/a-116-million-bitcoin-theft-hackers-break-into-one-of-the-safest-places-to-store-cryptocurrencies.html)**
+
+Attackers used a vulnerability in Coldcard wallets  in an incident that is still ongoing and reflects a visible trend in the crypto ecosystem
+
+EL PAÍS English • 12h ago
+
+---
+
+**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year's bull cycle](https://www.cnbc.com/video/2026/08/03/strategy-ceo-phong-le-expecting-strategy-to-outperform-bitcoin-in-next-years-bull-cycle.html)**
+
+Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the cryptocurrency and much more.
+
+CNBC • 1d ago
 
 ---
 
@@ -263,7 +261,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it. Live wallet tracker.
 
-⬆️ 8 • 💬 1 • 22h ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
+⬆️ 8 • 💬 1 • 1d ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
 
 ---
 
@@ -277,7 +275,16 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 3 • 💬 1 • 7h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 3 • 💬 1 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+
+---
+
+**[What we know about ongoing Coldcard hack that's stolen over $100M in Bitcoin](https://news.ycombinator.com/item?id=49174951)**
+
+A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
+has reportedly lost $100 million US worth of bitcoin as a result of the hack.
+
+⬆️ 3 • 💬 0 • 2m ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -285,7 +292,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
 
-⬆️ 2 • 💬 0 • 13h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
+⬆️ 2 • 💬 0 • 15h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -305,53 +312,17 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 ---
 
-**[Bitcoin slides as Strategy plans up to $5B in crypto sales](https://news.ycombinator.com/item?id=49128264)**
-
-⬆️ 2 • 💬 0 • 3d ago • [msn.com](https://www.msn.com/en-us/money/economy/bitcoin-slides-as-strategy-plans-up-to-5-bil-in-crypto-sales/ar-AA298VeK)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: A Decision Will be Forced](https://www.youtube.com/watch?v=WRftdLFrepU)**
+**[Saylor: &quot;Everyone Has Been Sold a Lie&quot; on Bitcoin](https://www.youtube.com/watch?v=I2y6CcOiBKk)**
 
-Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference ...
+Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unlock $100k): ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 95K • 👍 6K • 💬 241 • ⏱️ 7:53 • 1d ago
-
----
-
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
-
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 112 • 💬 108 • ⏱️ 4:12 • 23h ago
-
----
-
-**[They Say Bitcoin Self Custody Just Died. How I Came Within Hours of Being One of Them!](https://www.youtube.com/watch?v=PphcFB-vBiw)**
-
-More than 1300 Bitcoin was drained from thousands of cold-storage addresses after a catastrophic ColdCard vulnerability ...
-
-📺 Simply Bitcoin
-
-👁️ 18K • 👍 1K • 💬 195 • ⏱️ 17:22 • 21h ago
-
----
-
-**[BITCOIN - THE BIG BET IS COMING](https://www.youtube.com/watch?v=-dIU7x_ThlI)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 5K • 👍 225 • 💬 32 • ⏱️ 10:07 • 1d ago
+👁️ 45K • 👍 2K • 💬 131 • ⏱️ 9:49 • 20h ago
 
 ---
 
@@ -361,7 +332,7 @@ Join Ran as he unpacks why crypto is falling behind even as stocks and AI contin
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 587 • 💬 22 • ⏱️ 23:55 • 4h ago
+👁️ 13K • 👍 763 • 💬 28 • ⏱️ 23:55 • 6h ago
 
 ---
 
@@ -371,27 +342,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 156 • ⏱️ 17:44 • 17h ago
+👁️ 4K • 👍 167 • ⏱️ 17:44 • 19h ago
 
 ---
 
-**[Saylor: &quot;Everyone Has Been Sold a Lie&quot; on Bitcoin](https://www.youtube.com/watch?v=I2y6CcOiBKk)**
+**[Bitcoin: A Decision Will be Forced](https://www.youtube.com/watch?v=WRftdLFrepU)**
 
-Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unlock $100k): ...
+Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 41K • 👍 2K • 💬 122 • ⏱️ 9:49 • 18h ago
+👁️ 99K • 👍 6K • 💬 246 • ⏱️ 7:53 • 1d ago
 
 ---
 
-**[Hackers Steal Over $100 Million From &quot;Safe&quot; Bitcoin Wallets](https://www.youtube.com/watch?v=iYxVLvsaneA)**
+**[🚨 BITCOIN: DOWN TO THE WIRE!!!! DO NOT IGNORE THE SIGNS!!! [WARNNG] 🚨](https://www.youtube.com/watch?v=0Mjx8JBTlnU)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+Bitcoin is giving us many clues that most are ignoring! It could be time for BTC to really shake things up! BloFin ...
 
-📺 DeFranco News Clips
+📺 Crypto Zombie
 
-👁️ 430K • 👍 27K • 💬 2K • ⏱️ 1:39 • 23h ago
+👁️ 5K • 👍 689 • 💬 129 • ⏱️ 28:46 • 5h ago
+
+---
+
+**[Hugely Boosting XRP And Bitcoin Holdings The Crypto Market Dip Has Created A Great Opportunity](https://www.youtube.com/watch?v=fk0wag16yJ0)**
+
+Two names keep popping up on the radar of very popular assets to buy right now and it might surprise a lot of people. The last few ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 7K • 👍 955 • 💬 123 • ⏱️ 16:33 • 9h ago
 
 ---
 
@@ -401,17 +382,37 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 929 • 👍 127 • 💬 36 • ⏱️ 10:47 • 2h ago
+👁️ 3K • 👍 363 • 💬 54 • ⏱️ 10:47 • 4h ago
 
 ---
 
-**[Is he right about bitcoin?](https://www.youtube.com/watch?v=ueSTHBm6Vy8)**
+**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
 
-Does bitcoin have intrinsic value? Benefits to owning bitcoin is differnt than bitcoin obtaining it's value because someone is willing ...
+Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
 
-📺 Free Advice Guy
+📺 CNBC Television
 
-👁️ 1K • 👍 21 • ⏱️ 1:02 • 21h ago
+👁️ 15K • 👍 118 • 💬 113 • ⏱️ 4:12 • 1d ago
+
+---
+
+**[BITCOIN HOLDERS: PREPARE, THE NEXT BIG MOVE STARTS NOW!](https://www.youtube.com/watch?v=OZmDiLphhVU)**
+
+BTCC: https://cryptokid.io/BTCCexclusive FREE $1000 TRADE ❎ LeveX: https://levex.com/en/register?
+
+📺 Crypto Kid
+
+👁️ 740 • 👍 106 • 💬 18 • ⏱️ 19:01 • 2h ago
+
+---
+
+**[They Say Bitcoin Self Custody Just Died. How I Came Within Hours of Being One of Them!](https://www.youtube.com/watch?v=PphcFB-vBiw)**
+
+More than 1300 Bitcoin was drained from thousands of cold-storage addresses after a catastrophic ColdCard vulnerability ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 211 • ⏱️ 17:22 • 22h ago
 
 ---
 
