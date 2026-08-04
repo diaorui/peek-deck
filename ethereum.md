@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T04:19:39.227179+00:00'
+updated: '2026-08-04T07:13:27.888355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 04:19 UTC  
+**Last Updated:** August 04, 2026 at 07:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,873.00
+### $1,867.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -2.4%  
-**30d:** +3.7%  
-**90d:** -18.6%  
-**1y:** -48.4%  
+**24h:** +1.0%  
+**7d:** -2.9%  
+**30d:** +3.2%  
+**90d:** -19.0%  
+**1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.66B
+**Market Cap:** $223.86B
 Rank #2
 
 **Circulating Supply:** 120,682,210 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.5%
 
 **All-Time Low:** $0.43
-+429853.9%
++428318.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -150,43 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Dogecoin Gain; Ethereum, XRP Slide Amid Trump's Latest Warning to Iran: Analyst Says BTC 'Bottom' Not Yet Confirmed](https://uk.finance.yahoo.com/news/bitcoin-dogecoin-gain-ethereum-xrp-022203738.html)**
-
-Leading cryptocurrencies lacked momentum on Monday as traders balanced geopolitical risk from Iran against selling pressure from large corporate Bitcoin treasuries. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.57%$63,470.28Ethereum (CRYPTO: ETH) -0.76%$1,853.52XRP (CRYPTO: XRP) -0.48%$1.07Solana (CRYPTO: SOL) +0.18%$73.11Dogecoin (CRYPTO: DOGE) +0.29%$0.07020 What’s Impacting Crypto Market? Bitcoin jumped to an intraday high of $64,020 late afternoon be
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-more-153143906.html)**
-
-The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Ethereum news: Tom Lee's Bitmine (BMNR) continues to buy ETH while Strategy sold bitcoin](https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week)**
-
-Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
-
-CoinDesk • 15h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
-
-PR Newswire • 15h ago
-
----
-
 **[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 9h ago
+Decrypt • 11h ago
+
+---
+
+**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
+
+In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +170,39 @@ Decrypt • 9h ago
 
 The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
 
-TradingView • 11h ago
+TradingView • 14h ago
+
+---
+
+**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
+
+XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
+
+CoinDesk • 56m ago
+
+---
+
+**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-more-153143906.html)**
+
+The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
+
+PR Newswire • 18h ago
+
+---
+
+**[BMNR Stock Falls Despite Bitmine Retiring Over 16M Shares In 3 Weeks – Tom Lee Highlights Ethereum’s Edge Over Nasdaq 100](https://www.tradingview.com/news/stocktwits:e708a1e4c094b:0-bmnr-stock-falls-despite-bitmine-retiring-over-16m-shares-in-3-weeks-tom-lee-highlights-ethereum-s-edge-over-nasdaq-100/)**
+
+Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
+
+TradingView • 16h ago
 
 ---
 
@@ -202,7 +210,7 @@ TradingView • 11h ago
 
 Ethereum futures faces a critical make-or-break moment as prices test a heavily defended support cluster near $1,850.
 
-investingLive • 20h ago
+investingLive • 23h ago
 
 ---
 
@@ -210,7 +218,7 @@ investingLive • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 20h ago
 
 ---
 
@@ -219,14 +227,6 @@ Fortune • 17h ago
 The investment bank has quickly ramped up its crypto ETF offerings.
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin ETFs see $61M in weekly outflows while Ethereum ETFs quietly pocket $27M](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-inflows-2/)**
-
-US spot Bitcoin ETFs lost $61.53M last week while Ethereum ETFs gained $27.42M, signaling institutional rotation between the two largest crypto
-
-Crypto Briefing • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 7K • 👍 306 • 💬 47 • ⏱️ 5:30 • 15h ago
+👁️ 7K • 👍 315 • 💬 47 • ⏱️ 5:30 • 18h ago
 
 ---
 
@@ -250,17 +250,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 808 • 💬 106 • ⏱️ 15:24 • 1d ago
-
----
-
-**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
-
-Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
-
-📺 The Rollup
-
-👁️ 120 • 👍 6 • 💬 18 • ⏱️ 35:18 • 2h ago
+👁️ 23K • 👍 812 • 💬 103 • ⏱️ 15:24 • 1d ago
 
 ---
 
@@ -270,7 +260,17 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 662 • 💬 326 • ⏱️ 19:51 • 1d ago
+👁️ 13K • 👍 662 • 💬 290 • ⏱️ 19:51 • 1d ago
+
+---
+
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
+
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
+
+📺 The Rollup
+
+👁️ 220 • 👍 12 • 💬 18 • ⏱️ 35:18 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 147 • 💬 56 • ⏱️ 16:11 • 18h ago
+👁️ 2K • 👍 152 • 💬 58 • ⏱️ 16:11 • 21h ago
 
 ---
 
@@ -300,17 +300,17 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 4 • ⏱️ 6:21 • 13h ago
+👁️ 2K • 👍 171 • 💬 4 • ⏱️ 6:21 • 16h ago
 
 ---
 
-**[COLDCARD $114M Post Mortem, Ethereum to Outperform, Bitcoin asks for Patience... ](https://www.youtube.com/watch?v=b6EOvpv5yiM)**
+**[Ethereum Price Prediction: ETH Could Face Another Stress Test at $1,800 as Clarity Act Gets Shelved](https://www.youtube.com/watch?v=BSpoC4q9ZRM)**
 
-(0:00) Colcard $114M Hack (02:33) Hyperliquid Winning Trade (05:39) BTC Loses Weekly Support (15:57) BTC Monthly - The ...
+Ethereum (ETH) faces a critical stress test at $1800 as thin trading volumes and regulatory uncertainty from a shelved Clarity Act is ...
 
-📺 Mango Research
+📺 FXEmpire
 
-👁️ 545 • 👍 62 • 💬 37 • ⏱️ 25:20 • 11h ago
+👁️ 87 • ⏱️ 5:07 • 15h ago
 
 ---
 
@@ -324,13 +324,13 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 ---
 
-**[BitMine Owns 4.8% of Ethereum](https://www.youtube.com/watch?v=tPmUYsyzloQ)**
+**[Ethereum Chart Analysis | Is a New Rally Coming?](https://www.youtube.com/watch?v=K5bHGbz3Qmg)**
 
-BitMine #Ethereum #ETH #EthereumTreasury #MicroStrategy #Crypto #CryptoNews #Bitcoin #DigitalAssets #Blockchain.
+In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
 
-📺 New Wave Podcast
+📺 More Crypto Online
 
-👁️ 724 • 👍 2 • ⏱️ 0:52 • 8h ago
+👁️ 24 • 👍 4 • ⏱️ 1:15 • 43m ago
 
 ---
 
