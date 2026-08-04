@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-04T20:53:20.009274+00:00'
+updated: '2026-08-04T22:13:48.343764+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 20:53 UTC  
+**Last Updated:** August 04, 2026 at 22:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +0.6%  
-**30d:** +0.5%  
-**90d:** -19.6%  
-**1y:** -43.7%  
+**24h:** +1.1%  
+**7d:** +0.4%  
+**30d:** +0.3%  
+**90d:** -19.8%  
+**1y:** -43.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Well well well](https://www.reddit.com/r/Bitcoin/comments/1vev6os/well_well_well/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 .7 bitcoin gone. Years of DCAing with money that could have been invested in other ventures gone because of a stupid exploit from a company that was touted as being "the best" to keep coins safe. My .7 bitcoin could have been spent on so many useful things. It was my safety net. It was the hope of a down payment on a house. It was my sons future college tuition. Now I'm sitting on the sidelines like a loser. I'm livid. And since it's decentralized, there's no recourse for getting any of it back. It's gone. Fuck. I hope whoever stole my money gets what's coming to them. Happy to provide proof if there are any of you who believe this is another shitpost or karma farm or whatever. Where's the class action lawsuit? How do I sign up? Edit: Here's proof: https://preview.redd.it/k57fkfuwt9hh1.jpg?width=2364&format=pjpg&auto=webp&s=ca4c3ce0ef6390a3c237f37a4d0f09563bfec3c4
 
-18h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 - "What's a retirement attack?" - COLDCARD (@COLDCARDwallet): "It's when the project makers could have a "bug" in the entropy generation for later retrieval". _____ Seems that they were smart enough to launch a "dice rolls" suggestion in a critical element lacking foolproof design, knowing not all users would be paranoid enough. Like "hey, if you don't trust no problem, but...you can trust buddy, the (back)door is open." ☠️ Ok no, enough of conspiracy theory continuation. We know that Coldcard's post was pure coincidence. Right?...Right? Edit: In case you're curious on more tweets mentioning "retirement attack", here is another one: @nvk - 21 Dec 20: "My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack. Alternatively people could just use dice ;)." https://x.com/i/status/1341213389549412353 A strange way to warn "alternatively people" of what you have in mind to do...but Freudian slip or parapraxis theory explains that better, in case you're curious...
 
-15h ago
+17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fox Business • 1d ago
 
 Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 11h ago
 
 Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.
 
-coindesk.com • 26m ago
+coindesk.com • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ coindesk.com • 1d ago
 
 **[Watch Hackers Hit Bitcoin’s Safest Hiding Place](https://www.bloomberg.com/news/videos/2026-08-04/hackers-hit-bitcoin-s-safest-hiding-place-video)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -217,7 +217,7 @@ WSJ • 1d ago
 
 Attackers used a vulnerability in Coldcard wallets  in an incident that is still ongoing and reflects a visible trend in the crypto ecosystem
 
-EL PAÍS English • 12h ago
+EL PAÍS English • 13h ago
 
 ---
 
@@ -237,7 +237,7 @@ CNBC • 1d ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 68 • 💬 23 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 69 • 💬 23 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -245,7 +245,7 @@ Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated k
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 19 • 💬 0 • 1d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 19 • 💬 0 • 2d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -273,18 +273,18 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 ---
 
-**[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
-
-⬆️ 3 • 💬 1 • 9h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
-
----
-
 **[What we know about ongoing Coldcard hack that's stolen over $100M in Bitcoin](https://news.ycombinator.com/item?id=49174951)**
 
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 3 • 💬 0 • 2m ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 5 • 💬 0 • 1h ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+
+---
+
+**[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
+
+⬆️ 3 • 💬 1 • 10h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -292,7 +292,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
 
-⬆️ 2 • 💬 0 • 15h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
+⬆️ 2 • 💬 0 • 16h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -322,7 +322,7 @@ Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unloc
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 131 • ⏱️ 9:49 • 20h ago
+👁️ 45K • 👍 2K • 💬 131 • ⏱️ 9:49 • 21h ago
 
 ---
 
@@ -332,7 +332,7 @@ Join Ran as he unpacks why crypto is falling behind even as stocks and AI contin
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 763 • 💬 28 • ⏱️ 23:55 • 6h ago
+👁️ 13K • 👍 763 • 💬 28 • ⏱️ 23:55 • 7h ago
 
 ---
 
@@ -342,7 +342,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 167 • ⏱️ 17:44 • 19h ago
+👁️ 4K • 👍 167 • ⏱️ 17:44 • 20h ago
 
 ---
 
@@ -362,7 +362,7 @@ Bitcoin is giving us many clues that most are ignoring! It could be time for BTC
 
 📺 Crypto Zombie
 
-👁️ 5K • 👍 689 • 💬 129 • ⏱️ 28:46 • 5h ago
+👁️ 5K • 👍 689 • 💬 129 • ⏱️ 28:46 • 6h ago
 
 ---
 
@@ -372,7 +372,7 @@ Two names keep popping up on the radar of very popular assets to buy right now a
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 955 • 💬 123 • ⏱️ 16:33 • 9h ago
+👁️ 7K • 👍 955 • 💬 123 • ⏱️ 16:33 • 11h ago
 
 ---
 
@@ -382,7 +382,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 363 • 💬 54 • ⏱️ 10:47 • 4h ago
+👁️ 3K • 👍 363 • 💬 54 • ⏱️ 10:47 • 5h ago
 
 ---
 
@@ -402,7 +402,7 @@ BTCC: https://cryptokid.io/BTCCexclusive FREE $1000 TRADE ❎ LeveX: https://lev
 
 📺 Crypto Kid
 
-👁️ 740 • 👍 106 • 💬 18 • ⏱️ 19:01 • 2h ago
+👁️ 740 • 👍 106 • 💬 18 • ⏱️ 19:01 • 3h ago
 
 ---
 
@@ -412,7 +412,7 @@ More than 1300 Bitcoin was drained from thousands of cold-storage addresses afte
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 211 • ⏱️ 17:22 • 22h ago
+👁️ 19K • 👍 1K • 💬 211 • ⏱️ 17:22 • 1d ago
 
 ---
 

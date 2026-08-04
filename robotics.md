@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T20:53:20.017789+00:00'
+updated: '2026-08-04T22:13:48.351031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 20:53 UTC  
+**Last Updated:** August 04, 2026 at 22:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662b
 
 To play with continuous learning, your base model needs to be data-efficient and stable, which we tested here. Because all irrelevant fluctuations can compound over time.
 
-2d ago
+3d ago
 
 ---
 
@@ -140,7 +140,7 @@ MIT Technology Review • 1d ago
 
 Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.
 
-WIRED • 10h ago
+WIRED • 11h ago
 
 ---
 
@@ -148,13 +148,13 @@ WIRED • 10h ago
 
 New rules further bifurcate U.S. and Chinese supply chains
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 11h ago
 
 ---
 
 **[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Robot Report • 2d ago
 
 The birth of a new companion: meet U1 Developed by UWorld, a UBTech brand, the U1 model is billed as the first full-size humanoid robot that genuinely resembles a real person. The company is focusing primarily on two groups: singles and seniors over 60, representing an eye-watering 120 million and...
 
-Futura, le média qui explore le monde • 7h ago
+Futura, le média qui explore le monde • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 2K • 👍 18 • ⏱️ 0:48 • 17h ago
+👁️ 2K • 👍 18 • ⏱️ 0:48 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ A video of EngineAI's CEO being knocked to the ground by one of the company's hu
 
 📺 CGTN Europe
 
-👁️ 332K • 👍 777 • 💬 247 • ⏱️ 0:18 • 6d ago
+👁️ 332K • 👍 777 • 💬 247 • ⏱️ 0:18 • 7d ago
 
 ---
 

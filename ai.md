@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-04T20:53:20.000743+00:00'
+updated: '2026-08-04T22:13:48.336851+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 04, 2026 at 20:53 UTC  
+**Last Updated:** August 04, 2026 at 22:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,15 @@ AI news, discussions, and developments
 
 **[This robot never loses at rock, paper, scissors game.](https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/)**
 
-5h ago
+7h ago
 
 ---
 
-**[Why one ride along Isn't enough anymore](https://www.reddit.com/r/artificial/comments/1vfempm/why_one_ride_along_isnt_enough_anymore/)**
+**[Predictions about AI replacing programmers go back to the 1960s](https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/)**
 
-Sales has one of the clearest use cases for AI but I think the conversation is still focused on the wrong thing. Most people talk about AI writing emails or scoring leads. The bigger opportunity is helping people get better at selling. Think about how sales coaching works today. A manager rides along with a rep once every few weeks. They watch one or two conversations then try to coach based on that small sample. The rest of the month they have almost no visibility into what is actually happening with customers. Now imagine every customer conversation becoming a learning opportunity. Instead of coaching from memory managers can review real conversations. They can spot patterns across the whole team. New reps can learn from top performers instead of waiting months to gain experience. Feedback becomes part of the normal workflow instead of something that only happens during ride alongs. To me that's where AI has the advantage and that everyone should use AI to their advantage.
+A Turing Award and Nobel prize winner predicted in the 1960s that the programming occupation would become extinct, because computers would program themselves. https://seanhelvey.com/tools-and-their-tools/
 
-4h ago
+1h ago
 
 ---
 
@@ -55,7 +55,15 @@ Sales has one of the clearest use cases for AI but I think the conversation is s
 
 The messages appear to show Apple employees asking Chang Liu to locate internal files, explain product decisions and help with technical questions weeks after his departure. One Apple employee wrote: “Of course, I could ask several folks, but you are the best. Even if you don’t work here anymore.” OpenAI also says Apple falsely claimed it had contacted the company and received no response. The emails show Apple’s outside lawyer mistakenly thanked OpenAI’s General Counsel for a phone call that never happened, then apologized. However: None of this disproves Apple’s broader trade-secret allegations. But Apple now has to explain its own offboarding failures, and why its employees continued requesting confidential help from someone it accuses of stealing confidential information.
 
-13h ago
+14h ago
+
+---
+
+**[Why one ride along Isn't enough anymore](https://www.reddit.com/r/artificial/comments/1vfempm/why_one_ride_along_isnt_enough_anymore/)**
+
+Sales has one of the clearest use cases for AI but I think the conversation is still focused on the wrong thing. Most people talk about AI writing emails or scoring leads. The bigger opportunity is helping people get better at selling. Think about how sales coaching works today. A manager rides along with a rep once every few weeks. They watch one or two conversations then try to coach based on that small sample. The rest of the month they have almost no visibility into what is actually happening with customers. Now imagine every customer conversation becoming a learning opportunity. Instead of coaching from memory managers can review real conversations. They can spot patterns across the whole team. New reps can learn from top performers instead of waiting months to gain experience. Feedback becomes part of the normal workflow instead of something that only happens during ride alongs. To me that's where AI has the advantage and that everyone should use AI to their advantage.
+
+6h ago
 
 ---
 
@@ -63,7 +71,7 @@ The messages appear to show Apple employees asking Chang Liu to locate internal 
 
 Reddit may still be considering ending its licensing deal with Google.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) • 10h ago
 
 ---
 
@@ -71,15 +79,7 @@ Reddit may still be considering ending its licensing deal with Google.
 
 $100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) • 15h ago
-
----
-
-**[Fable, GPT-5.6 and other frontier models are assholes. Here's why.](https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/)**
-
-People are noticing that frontier models can be real assholes. They: Won't follow your instructions because they think they know better Refuse to do basic tasks Will do things on you never asked for, like commit unfinished code, or refactor a file Why? Kun Chen, former engineer at Meta says blame it on the training: "The core idea of [reinforcement learning with human feedback (RHLF)] is that you ask the model to generate a few responses, and then let real humans pick which one they like. Do this over and over again, and you get a model that knows how to talk." Things changed as models became better at coding: "[L]et the model do billions and billions of attempts in ... virtual environments, and some of them would succeed by chance. You keep the successful agent sessions and use reinforcement learning to teach the model to do that ... That is called reinforcement learning with verifiable rewards (RLVR). If you look closely, you'll see that in this RLVR process, the final text response from the model doesn't matter AT ALL, as long as the code written by the agent could pass the test. It could talk like a jerk and it would still be rewarded." And so we have models trained by machines to talk to machines. Not humans. What about refusals? Highly capable, aligned models are rewarded for refusing to respond to harmful responses. This training is further backstopped by LLM and semantic filters that process every API request for 'harmful' language. Sometimes the LLM as a judge will filter a prompt before it even gets to the model, so its core training isn't activated. As for models not doing what you ask, that's another training artifact. These models are optimized for long-horizon tasks and autonomous decision-making. In other words, they're trusted to complete a task, and rewarded for it. If your instructions contradict what it's been trained to prioritize, guess which request wins? Refusals, robotic, non-helpful responses and other problems with frontier models is why working with them can be such a pain in the ass. Is it worth it? Sometimes, but it's another thing to consider when picking which models to work with.
-
-2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) • 16h ago
 
 ---
 
@@ -87,7 +87,7 @@ People are noticing that frontier models can be real assholes. They: Won't follo
 
 Been on the product side of a healthtech rollout for ambient AI documentation, the kind that listens to a patient encounter and autogenerates the clinical note. Doctors love it. Physicians on our pilot were almost evangelical about getting their evenings back, which I understand completely because charting is a soulcrushing time sink. But here is what keeps nagging at me. The model is transcribing and interpreting conversations it was not originally trained on: slang, accents, chaotic ER noise, patients who talk around their actual symptoms instead of describing them directly. And the output gets reviewed for maybe 45 seconds before it gets signed and lives in the medical record permanently. That review step is doing a lot of heavy lifting and I am not sure anyone is honest about how thin it actually is. Not blaming the clinicians. They are exhausted and the tool is supposed to reduce burden, so they are going to use it that way. The cost argument makes sense on paper. Less admin time, faster throughput. But when I think about what a confidently wrong note looks like downstream, a missed allergy or a misattributed symptom sitting quietly in someone's chart, it gets uncomfortable fast. Curious whether people here think the accuracy bar these tools are held to is anywhere close to high enough, or if we are just accepting a new category of error because the old category was also bad. Just my 2 cents.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Been on the product side of a healthtech rollout for ambient AI documentation, t
 
 Been messing with voice agents at work lately, we use cloudtalk for our phone system so I turned on their ai thing for a trial. whatever, just handling missed calls but here's what i can't stop thinking about - people are way more honest with the bot. Like they'll tell an ai their actual budget or admit they're just shopping around, stuff they'd never say to a human rep. One lady literally said "I can't afford this right now" to the bot. to a human she would've just said "I'll think about it" and ghosted Also kinda wild how many people say please and thank you to it. like full sentences. "thank you for your help" to a machine. There's something almost sweet about it? Or maybe just habit not sure if this says more about AI or about how we interact with each other tbh
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Been messing with voice agents at work lately, we use cloudtalk for our phone sy
 
 The cost conversation around AI writing tools is pretty well trodden at this point. What I keep circling back to is something slightly different. When clients commission a lot of AIassisted or fully generated content, their reference point for what writing should feel like starts to shift. They read enough flat, competent, structurally sound copy and that becomes the baseline. Then when something with actual texture or a surprising angle lands in their inbox, it reads as indulgent or offbrief. The standard recalibrates downward without anyone deciding to do that. This isn't about quality in the abstract. It's about what happens to the judgment of the person commissioning the work. Taste is trained by exposure, and if the exposure is mostly generative output, the taste adjusts to match. There's a parallel in what happened to stock photography. Once it became cheap and ubiquitous, a lot of briefs stopped asking for anything specific. The availability of the format shaped what clients thought they needed. The writing community tends to frame this as a question about jobs, which it is, but the quieter version is whether clients are losing the vocabulary to even articulate what they want from writing. When that goes, the feedback loop that helps good writers develop the work gets broken at the source. Curious if anyone working with clients in content or comms is actually seeing this pattern, or whether I'm reading too much into a few awkward revision rounds.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ The cost conversation around AI writing tools is pretty well trodden at this poi
 
 Benchmark porn is pretty rampant in AI in general and medical AI in particular. It's tough though to benchmark the more clinical side of medicine in particular. But it shouldn't be impossible; we obviously do it all the time for trainees. But a lot of that is multidomain where each informs each other as we assess medical students and residents. AI benchmarks can be very siloed. • Clinical judgment: Does the model revise its diagnosis as uncertain evidence changes? Does it choose the next useful test? • Safety and communication: Does it avoid harmful recommendations, critical omissions, overconfidence, and poor patient communication? • Multimodal reasoning: Can it interpret images and continue a clinically coherent conversation around them? • EHR and agentic care: Can it retrieve the right record, use tools, remember an evolving course, and complete a multi-step task? • Broad workflows: Can it handle documentation, research, administration, and clinical decisions across a wider task set? The evaluation really instead needs to be a stack: Benchmark(s) matched to the exact task A separate safety and omission test Tool-use, longitudinal, or multimodal testing when the workflow requires it Local cases, policies, and escalation rules Prospective monitoring after deployment Which part of this stack does an AI tool cover cover and how to safely evaluate should probably be on the mind for any medical AI tool (whether clinical or not)
 
-3h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Benchmark porn is pretty rampant in AI in general and medical AI in particular. 
 
 **[White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -129,19 +129,19 @@ The New York Times • 8h ago
 
 Here are Google’s latest AI updates from July 2026
 
-blog.google • 7h ago
+blog.google • 9h ago
 
 ---
 
 **[AMD forecasts upbeat revenue on AI data-center demand, beats quarterly estimates](https://www.reuters.com/business/amd-forecasts-upbeat-revenue-ai-data-center-demand-beats-quarterly-estimates-2026-08-04/)**
 
-Reuters • 31m ago
+Reuters • 1h ago
 
 ---
 
 **[AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership](https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -149,13 +149,13 @@ Reuters • 6h ago
 
 Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
 **[Volta Emerges From Stealth With $10 Billion AI Lab Partnership and $5 Billion AI Infrastructure Program](https://www.businesswire.com/news/home/20260804493428/en/Volta-Emerges-From-Stealth-With-%2410-Billion-AI-Lab-Partnership-and-%245-Billion-AI-Infrastructure-Program)**
 
-Business Wire • 8h ago
+Business Wire • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Wire • 8h ago
 
 Meta vs Snap Q2 2026 earnings: AI-driven ad growth, margin pressure, and Snap’s turnaround.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Seeking Alpha • 1h ago
 
 “You see a lot of people getting wealthy but you can’t spend the wealth,” the Bridgewater Associates founder told The Diary of a CEO.
 
-finance.yahoo.com • 13h ago
+finance.yahoo.com • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ finance.yahoo.com • 13h ago
 
 "Our customers have declined to become vassal states of the language labs," Palantir's co-founder and CEO Alex Karp said after blowout second-quarter earnings.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 10h ago
 
 Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.
 
-mistral.ai • 6h ago
+mistral.ai • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ mistral.ai • 6h ago
 
 If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
 
-⬆️ 706 • 💬 427 • 9h ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+⬆️ 716 • 💬 429 • 10h ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 
 ---
 
@@ -231,7 +231,7 @@ An interview request from a bot posing as a reporter revealed an AI-generated ne
 
 One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.
 
-⬆️ 154 • 💬 87 • 2d ago • [Frogs](https://frogs.vaguespac.es/)
+⬆️ 155 • 💬 87 • 2d ago • [Frogs](https://frogs.vaguespac.es/)
 
 ---
 
@@ -283,7 +283,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 11K • 👍 283 • 💬 83 • ⏱️ 10:52 • 15h ago
+👁️ 11K • 👍 283 • 💬 83 • ⏱️ 10:52 • 16h ago
 
 ---
 
@@ -293,7 +293,7 @@ Join the Community: https://discord.gg/MRESQnf4R4 Companion Deep-dive article on
 
 📺 Manolo Remiddi
 
-👁️ 11K • 👍 739 • 💬 147 • ⏱️ 11:13 • 5h ago
+👁️ 11K • 👍 739 • 💬 147 • ⏱️ 11:13 • 6h ago
 
 ---
 
@@ -313,7 +313,7 @@ Glenn Beck has been warning about this for 30 years. Now, one of the biggest nam
 
 📺 Glenn Beck Clips
 
-👁️ 36K • 👍 2K • 💬 383 • ⏱️ 14:41 • 23h ago
+👁️ 36K • 👍 2K • 💬 383 • ⏱️ 14:41 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incide
 
 📺 CBS News
 
-👁️ 2K • 👍 25 • 💬 5 • ⏱️ 4:54 • 19h ago
+👁️ 2K • 👍 25 • 💬 5 • ⏱️ 4:54 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ Alibaba just dropped massive news for the local AI community: Qwen 3.8-27B is of
 
 📺 Tech2WiLD
 
-👁️ 8K • 👍 221 • 💬 61 • ⏱️ 14:49 • 22h ago
+👁️ 8K • 👍 221 • 💬 61 • ⏱️ 14:49 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Create Your Own AI Micro Drama with OpenArt https://tolt.link/microdrama In this
 
 📺 Isa does AI
 
-👁️ 9K • 💬 1 • ⏱️ 10:07 • 8h ago
+👁️ 9K • 💬 1 • ⏱️ 10:07 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 1,959 • 7h ago
+⬇️ 0 • ❤️ 1,959 • 8h ago
 
 ---
 
@@ -423,7 +423,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 2 • ❤️ 587 • 34m ago
+⬇️ 2 • ❤️ 587 • 1h ago
 
 ---
 
@@ -645,7 +645,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 3.9k • 🔱 305 • 22h ago
+⭐ 3.9k • 🔱 305 • 23h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.5k • 🔱 296 • 2h ago
+⭐ 3.5k • 🔱 296 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.3k • 🔱 1.7k • 1m ago
+⭐ 2.3k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.9k • 🔱 132 • 7h ago
+⭐ 1.9k • 🔱 132 • 8h ago
 
 ---
 
@@ -703,7 +703,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.7k • 🔱 211 • 2m ago
+⭐ 1.7k • 🔱 211 • 1h ago
 
 ---
 
