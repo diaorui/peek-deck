@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T12:25:41.901275+00:00'
+updated: '2026-08-04T15:01:17.823788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 12:25 UTC  
+**Last Updated:** August 04, 2026 at 15:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-22h ago
+1d ago
 
 ---
 
@@ -118,7 +118,7 @@ With various companies developing humanoid robots and advancements in robots in 
 
 The company aims to create physical AI tools for human workers
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -128,23 +128,9 @@ WSJ • 1d ago
 
 ---
 
-**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
-Reuters • 6d ago
-
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 1h ago
+reuters.com • 6d ago
 
 ---
 
@@ -152,7 +138,21 @@ IEEE Spectrum • 1h ago
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-MIT Technology Review • 17h ago
+MIT Technology Review • 20h ago
+
+---
+
+**[Smart vacuums swept up in U.S. ban on imports of Chinese robots](https://www.nbcnews.com/world/asia/smart-vacuums-swept-us-ban-imports-chinese-robots-rcna590536)**
+
+American consumers are set to lose access to the latest models as new Trump administration regulations shut out the Chinese companies that dominate smart vacuum sales.
+
+NBC News • 7h ago
+
+---
+
+**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -160,7 +160,13 @@ MIT Technology Review • 17h ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 23h ago
+Forbes • 1d ago
+
+---
+
+**[Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says](https://www.reuters.com/world/asia-pacific/unitree-expected-be-worth-over-50-billion-yuan-ipo-sponsor-citic-securities-says-2026-08-04/)**
+
+reuters.com • 3h ago
 
 ---
 
@@ -168,7 +174,7 @@ Forbes • 23h ago
 
 ElliQ’s device has been commercially available since 2022.
 
-Fortune • 21h ago
+Fortune • 1d ago
 
 ---
 
@@ -176,16 +182,7 @@ Fortune • 21h ago
 
 People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
-The Conversation • 23h ago
-
----
-
-**[New, free robotics program starting at Fauntleroy YMCA](https://westseattleblog.com/2026/08/new-free-robotics-program-starting-at-fauntleroy-ymca/)**
-
-Registration is open for a new free robotics program for 9- to 15-year-olds, offered by the West Seattle YMCA and NUCOR (both WSB sponsors) - free, with limited space. Here's the announcement sent to us to share with you:
-The West Seattle YMCA and NUCOR are excited to partner and provide a STEM Robotics Program for youth in our community. Using ...
-
-West Seattle Blog... • 20h ago
+The Conversation • 1d ago
 
 ---
 
@@ -199,7 +196,17 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 229K • 👍 6K • 💬 521 • ⏱️ 3:00 • 4d ago
+👁️ 231K • 👍 6K • 💬 524 • ⏱️ 3:00 • 5d ago
+
+---
+
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 45K • 👍 747 • 💬 79 • ⏱️ 11:26 • 2d ago
 
 ---
 
@@ -210,16 +217,6 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 📺 NBC News
 
 👁️ 73K • 👍 390 • 💬 534 • ⏱️ 6:04 • 5d ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 43K • 👍 734 • 💬 78 • ⏱️ 11:26 • 2d ago
 
 ---
 
@@ -237,7 +234,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 1K • 👍 14 • ⏱️ 0:48 • 9h ago
+👁️ 1K • 👍 16 • ⏱️ 0:48 • 11h ago
 
 ---
 
@@ -247,7 +244,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 173K • 👍 1K • 💬 610 • ⏱️ 3:14 • 1d ago
+👁️ 177K • 👍 2K • 💬 616 • ⏱️ 3:14 • 2d ago
 
 ---
 
@@ -267,27 +264,27 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 📺 All-In Podcast
 
-👁️ 113K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 5d ago
+👁️ 113K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 6d ago
 
 ---
 
-**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+**[China&#39;s Robots Are Now Wearing Clothes](https://www.youtube.com/watch?v=3pvnGyfYn2s)**
 
-Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+KnitReal's Roboskin is a seamless fabric made for humanoid robots. It bends with robot joints and reduces friction from repetitive ...
 
-📺 a16z
+📺 Manav
 
-👁️ 28K • 💬 40 • ⏱️ 42:21 • 6d ago
+👁️ 4K • 👍 304 • 💬 7 • ⏱️ 0:31 • 18h ago
 
 ---
 
-**[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
+**[Pink Robot vs Blue Robot 🤖🥊 | Robot Wrestling Championship! #Shorts](https://www.youtube.com/watch?v=cBzhFg53ymE)**
 
-Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
+Who will win the ultimate Robot Wrestling Championship? Grandma's kind Pink Robot faces Grandpa's powerful Blue Robot ...
 
-📺 Foundation Robotics
+📺 Animix Studio
 
-👁️ 18K • 👍 547 • 💬 29 • ⏱️ 5:33 • 2d ago
+👁️ 4K • ⏱️ 0:58 • 13h ago
 
 ---
 
