@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T10:10:18.752033+00:00'
+updated: '2026-08-04T12:25:41.901275+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 10:10 UTC  
+**Last Updated:** August 04, 2026 at 12:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-20h ago
+22h ago
 
 ---
 
@@ -114,17 +114,37 @@ With various companies developing humanoid robots and advancements in robots in 
 
 ## Google News: "robotics"
 
+**[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
+
+The company aims to create physical AI tools for human workers
+
+IEEE Spectrum • 20h ago
+
+---
+
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
 WSJ • 1d ago
 
 ---
 
-**[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
+**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
 
-The company aims to create physical AI tools for human workers
+Bloomberg.com • 2h ago
 
-IEEE Spectrum • 2d ago
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 6d ago
+
+---
+
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 1h ago
 
 ---
 
@@ -132,21 +152,15 @@ IEEE Spectrum • 2d ago
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-technologyreview.com • 15h ago
+MIT Technology Review • 17h ago
 
 ---
 
-**[U.S. Bans Imports Of AI Humanoid Robots To Protect Americans From A Massive Trojan Horse Invasion](https://www.forbes.com/sites/lanceeliot/2026/08/04/us-bans-imports-of-ai-humanoid-robots-to-protect-americans-from-a-massive-trojan-horse-invasion/)**
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
 
-FCC has banned foreign-produced AI humanoid robots from being imported to the U.S. for various vital reasons. Here's the backstory. An AI Insider analysis and scoop.
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 2h ago
-
----
-
-**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
-
-bloomberg.com • 27m ago
+Forbes • 23h ago
 
 ---
 
@@ -154,15 +168,15 @@ bloomberg.com • 27m ago
 
 ElliQ’s device has been commercially available since 2022.
 
-Fortune • 19h ago
+Fortune • 21h ago
 
 ---
 
-**[Neither human nor robot dog: meet the machine set to police our streets](https://www.futura-sciences.com/en/neither-human-nor-robot-dog-meet-the-machine-set-to-police-our-streets_36761/)**
+**[When expressive humanoid robots are awkward, people become wary – new brain study](https://theconversation.com/when-expressive-humanoid-robots-are-awkward-people-become-wary-new-brain-study-288696)**
 
-Founded in Tallinn in 2025 by Sander Sebastian Agur and Arno Kütt, formerly of parcel delivery robotics company Cleveron, Rollo Robotics developed the platform, named 1ROLLO. Specifically, the team set out to address the long-standing engineering challenge of maintaining single-wheel stability during movement, turning, and stopping. Gyroscopic stabilization and technical...
+People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
 
-Futura, le média qui explore le monde • 16h ago
+The Conversation • 23h ago
 
 ---
 
@@ -171,21 +185,7 @@ Futura, le média qui explore le monde • 16h ago
 Registration is open for a new free robotics program for 9- to 15-year-olds, offered by the West Seattle YMCA and NUCOR (both WSB sponsors) - free, with limited space. Here's the announcement sent to us to share with you:
 The West Seattle YMCA and NUCOR are excited to partner and provide a STEM Robotics Program for youth in our community. Using ...
 
-West Seattle Blog... • 18h ago
-
----
-
-**[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
-
-Zacks Investment Research • 20h ago
-
----
-
-**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
-
-They won't come after the Roomba you already own, but it might make it harder to get a new one.
-
-Morning Brew • 3d ago
+West Seattle Blog... • 20h ago
 
 ---
 
@@ -219,7 +219,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 42K • 👍 720 • 💬 73 • ⏱️ 11:26 • 1d ago
+👁️ 43K • 👍 734 • 💬 78 • ⏱️ 11:26 • 2d ago
 
 ---
 
@@ -237,7 +237,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 1K • 👍 13 • ⏱️ 0:48 • 6h ago
+👁️ 1K • 👍 14 • ⏱️ 0:48 • 9h ago
 
 ---
 
@@ -247,17 +247,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 170K • 👍 1K • 💬 602 • ⏱️ 3:14 • 1d ago
-
----
-
-**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
-
-(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
-
-📺 All-In Podcast
-
-👁️ 113K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 5d ago
+👁️ 173K • 👍 1K • 💬 610 • ⏱️ 3:14 • 1d ago
 
 ---
 
@@ -268,6 +258,16 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 📺 DPCcars
 
 👁️ 5K • 👍 39 • 💬 11 • ⏱️ 2:46 • 6d ago
+
+---
+
+**[The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next](https://www.youtube.com/watch?v=TqNiSTeNtb0)**
+
+(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged ...
+
+📺 All-In Podcast
+
+👁️ 113K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 5d ago
 
 ---
 
@@ -287,7 +287,7 @@ Special thanks to Andrea, Jason, and the whole engineering team that made this v
 
 📺 Foundation Robotics
 
-👁️ 18K • 👍 545 • 💬 29 • ⏱️ 5:33 • 2d ago
+👁️ 18K • 👍 547 • 💬 29 • ⏱️ 5:33 • 2d ago
 
 ---
 

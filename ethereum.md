@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T10:10:18.748846+00:00'
+updated: '2026-08-04T12:25:41.897978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 10:10 UTC  
+**Last Updated:** August 04, 2026 at 12:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -2.8%  
-**30d:** +3.3%  
-**90d:** -18.9%  
-**1y:** -48.6%  
+**24h:** +0.6%  
+**7d:** -2.2%  
+**30d:** +4.0%  
+**90d:** -18.4%  
+**1y:** -48.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.89B
+**Market Cap:** $225.57B
 Rank #2
 
 **Circulating Supply:** 120,682,210 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.5%
+-62.2%
 
 **All-Time Low:** $0.43
-+428364.2%
++431590.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 14h ago
+Decrypt • 17h ago
 
 ---
 
@@ -162,23 +162,7 @@ Decrypt • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 39m ago
-
----
-
-**[Is ARK Trimming Bitmine Immersion Technologies (BMNR) Redefining the Ethereum Treasury Playbook?](https://finance.yahoo.com/markets/crypto/articles/ark-trimming-bitmine-immersion-technologies-180840436.html)**
-
-In late July 2026, Bitmine Immersion Technologies came under pressure as crypto-linked equities weakened amid falling Bitcoin and Ethereum prices and ongoing regulatory uncertainty, while ARK Invest trimmed its Ethereum exposure by selling Bitmine shares on Ethereum’s 11th anniversary. The move was especially closely watched because Bitmine is viewed as one of the two leading Ethereum treasury companies, and ARK Invest still described its Ether-focused treasury approach as an exponential...
-
-Yahoo Finance • 1d ago
-
----
-
-**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
-
-XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
-
-CoinDesk • 3h ago
+Fortune • 2h ago
 
 ---
 
@@ -186,7 +170,7 @@ CoinDesk • 3h ago
 
 The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -194,7 +178,7 @@ Yahoo Finance • 18h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
 
-PR Newswire • 21h ago
+PR Newswire • 23h ago
 
 ---
 
@@ -202,7 +186,15 @@ PR Newswire • 21h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
 
-TradingView • 19h ago
+tradingview.com • 22h ago
+
+---
+
+**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
+
+XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -210,7 +202,13 @@ TradingView • 19h ago
 
 The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
 
-TradingView • 17h ago
+tradingview.com • 19h ago
+
+---
+
+**[Ethereum Price at Make-or-Break Point: Will ETH Hold $1,850 or Decline Toward $1,780?](https://www.ccn.com/analysis/crypto/ethereum-price-prediction-eth-1850-support-1780/)**
+
+CCN.com • 2h ago
 
 ---
 
@@ -218,7 +216,7 @@ TradingView • 17h ago
 
 Intesa Sanpaolo Bitcoin ETF filings show a 99% cut to its call position, a new 500,000-share put row and a tripled staked Ethereum holding.
 
-CryptoSlate • 14h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -234,13 +232,13 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Proves ETH Is BETTER Than Bitcoin](https://www.youtube.com/watch?v=410Xf3lj-nA)**
+**[ETHEREUM PULLBACK WARNING!🚨 (ETH Update)](https://www.youtube.com/watch?v=epOXOdWY3fM)**
 
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Coin Bureau
+📺 Cilinix Crypto
 
-👁️ 23K • 👍 821 • 💬 103 • ⏱️ 15:24 • 1d ago
+👁️ 93 • 👍 10 • 💬 2 • ⏱️ 4:40 • 2h ago
 
 ---
 
@@ -250,17 +248,17 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 7K • 👍 318 • 💬 47 • ⏱️ 5:30 • 21h ago
+👁️ 7K • 👍 320 • 💬 47 • ⏱️ 5:30 • 23h ago
 
 ---
 
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+**[Tom Lee Proves ETH Is BETTER Than Bitcoin](https://www.youtube.com/watch?v=410Xf3lj-nA)**
 
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 The Modern Investor
+📺 Coin Bureau
 
-👁️ 603 • 👍 121 • 💬 13 • ⏱️ 28:23 • 53m ago
+👁️ 23K • 👍 828 • 💬 103 • ⏱️ 15:24 • 1d ago
 
 ---
 
@@ -270,7 +268,17 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 355 • 👍 17 • 💬 19 • ⏱️ 35:18 • 8h ago
+👁️ 470 • 👍 34 • 💬 1 • ⏱️ 35:18 • 10h ago
+
+---
+
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 415 • 💬 33 • ⏱️ 28:23 • 3h ago
 
 ---
 
@@ -280,7 +288,7 @@ My Links: ▻ Get the risk models I use to track accumulation and exit zones. Fr
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 669 • 💬 291 • ⏱️ 19:51 • 1d ago
+👁️ 13K • 👍 671 • 💬 292 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -290,7 +298,7 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 153 • 💬 58 • ⏱️ 16:11 • 1d ago
+👁️ 2K • 👍 154 • 💬 58 • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -300,27 +308,7 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 4 • ⏱️ 6:21 • 19h ago
-
----
-
-**[The Next 5 Days Could Change Crypto FOREVER!!](https://www.youtube.com/watch?v=8TEauEFzqAI)**
-
-The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 30K • 👍 2K • 💬 95 • ⏱️ 10:34 • 1d ago
-
----
-
-**[Ethereum Chart Analysis | Is a New Rally Coming?](https://www.youtube.com/watch?v=K5bHGbz3Qmg)**
-
-In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
-
-📺 More Crypto Online
-
-👁️ 140 • 👍 5 • ⏱️ 1:15 • 3h ago
+👁️ 3K • 👍 176 • 💬 5 • ⏱️ 6:21 • 21h ago
 
 ---
 
@@ -330,7 +318,17 @@ THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Pers
 
 📺 NCashOfficial
 
-👁️ 10K • 👍 464 • 💬 745 • ⏱️ 14:47 • 2d ago
+👁️ 10K • 👍 467 • 💬 745 • ⏱️ 14:47 • 2d ago
+
+---
+
+**[Ethereum Chart Analysis | Is a New Rally Coming?](https://www.youtube.com/watch?v=K5bHGbz3Qmg)**
+
+In this video I break down the current Ethereum price action and analyze the structure of the recent pullback following the June ...
+
+📺 More Crypto Online
+
+👁️ 212 • 👍 6 • ⏱️ 1:15 • 5h ago
 
 ---
 
