@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T07:13:27.888355+00:00'
+updated: '2026-08-04T10:10:18.748846+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 07:13 UTC  
+**Last Updated:** August 04, 2026 at 10:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.0%  
-**7d:** -2.9%  
-**30d:** +3.2%  
-**90d:** -19.0%  
+**7d:** -2.8%  
+**30d:** +3.3%  
+**90d:** -18.9%  
 **1y:** -48.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $223.86B
+**Market Cap:** $223.89B
 Rank #2
 
 **Circulating Supply:** 120,682,210 ETH
@@ -62,11 +62,19 @@ No max supply
 -62.5%
 
 **All-Time Low:** $0.43
-+428318.0%
++428364.2%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 04, 2026](https://www.reddit.com/r/ethereum/comments/1vf0qnc/daily_general_discussion_august_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+5h ago
+
+---
 
 **[Daily General Discussion August 03, 2026](https://www.reddit.com/r/ethereum/comments/1ve3vfo/daily_general_discussion_august_03_2026/)**
 
@@ -138,14 +146,6 @@ Ethereum 11 years since genesis, pcaversaccio joined EF board, Polar bear select
 
 ---
 
-**[Daily General Discussion July 30, 2026](https://www.reddit.com/r/ethereum/comments/1vajxpb/daily_general_discussion_july_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
-Decrypt • 11h ago
+Decrypt • 14h ago
+
+---
+
+**[Current price of Ethereum for August 4, 2026](https://fortune.com/article/price-of-ethereum-08-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 39m ago
 
 ---
 
@@ -166,19 +174,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum: Glamsterdam upgrade lands - Aug 2026](https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/)**
-
-The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
-
-TradingView • 14h ago
-
----
-
 **[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
 
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 56m ago
+CoinDesk • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 56m ago
 
 The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 15h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
 
-PR Newswire • 18h ago
+PR Newswire • 21h ago
 
 ---
 
@@ -202,23 +202,23 @@ PR Newswire • 18h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) slipped Monday morning after the company said it repurchased 4.5 million shares last week, lifting total buybacks to 16.1 million shares over the past three weeks.Executive Chairman Tom Lee said the move was driven by a favorable setup following Ether…
 
-TradingView • 16h ago
+TradingView • 19h ago
 
 ---
 
-**[Ethereum analysis at the start of this week: Bears are a little stronger but this trading map is the key for crypto traders](https://investinglive.com/cryptocurrency/ethereum-analysis-at-the-start-of-this-week-bears-are-a-little-stronger-but-this-trading-map-is-the-key-for-crypto-traders/)**
+**[Ethereum: Glamsterdam upgrade lands - Aug 2026](https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/)**
 
-Ethereum futures faces a critical make-or-break moment as prices test a heavily defended support cluster near $1,850.
+The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
 
-investingLive • 23h ago
+TradingView • 17h ago
 
 ---
 
-**[Current price of Ethereum for August 3, 2026](https://fortune.com/article/price-of-ethereum-08-03-2026/)**
+**[Italy's biggest bank just slashed its Bitcoin ETF call position by 99% to triple down on staked Ethereum](https://cryptoslate.com/intesa-sanpaolos-ibit-call-row-plunged-99-as-its-staked-ethereum-shares-tripled/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Intesa Sanpaolo Bitcoin ETF filings show a 99% cut to its call position, a new 500,000-share put row and a tripled staked Ethereum holding.
 
-Fortune • 20h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -234,33 +234,33 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
-
-YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
-
-📺 The Moon Show
-
-👁️ 7K • 👍 315 • 💬 47 • ⏱️ 5:30 • 18h ago
-
----
-
 **[Tom Lee Proves ETH Is BETTER Than Bitcoin](https://www.youtube.com/watch?v=410Xf3lj-nA)**
 
 Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 812 • 💬 103 • ⏱️ 15:24 • 1d ago
+👁️ 23K • 👍 821 • 💬 103 • ⏱️ 15:24 • 1d ago
 
 ---
 
-**[LAST CHANCE For The BIGGEST Crypto ALTCOIN Bull Market! (ETH, SUI, ADA Screaming It)](https://www.youtube.com/watch?v=NRRCwlgEGU8)**
+**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
 
-📺 Crypto Capital Venture
+📺 The Moon Show
 
-👁️ 13K • 👍 662 • 💬 290 • ⏱️ 19:51 • 1d ago
+👁️ 7K • 👍 318 • 💬 47 • ⏱️ 5:30 • 21h ago
+
+---
+
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+
+📺 The Modern Investor
+
+👁️ 603 • 👍 121 • 💬 13 • ⏱️ 28:23 • 53m ago
 
 ---
 
@@ -270,17 +270,17 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 220 • 👍 12 • 💬 18 • ⏱️ 35:18 • 5h ago
+👁️ 355 • 👍 17 • 💬 19 • ⏱️ 35:18 • 8h ago
 
 ---
 
-**[The Next 5 Days Could Change Crypto FOREVER!!](https://www.youtube.com/watch?v=8TEauEFzqAI)**
+**[LAST CHANCE For The BIGGEST Crypto ALTCOIN Bull Market! (ETH, SUI, ADA Screaming It)](https://www.youtube.com/watch?v=NRRCwlgEGU8)**
 
-The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
 
-📺 Altcoin Daily
+📺 Crypto Capital Venture
 
-👁️ 29K • 👍 2K • 💬 94 • ⏱️ 10:34 • 1d ago
+👁️ 13K • 👍 669 • 💬 291 • ⏱️ 19:51 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ I've compiled a full list of the crypto exchanges I personally use and recommend
 
 📺 Cheeky Crypto Unfiltered
 
-👁️ 2K • 👍 152 • 💬 58 • ⏱️ 16:11 • 21h ago
+👁️ 2K • 👍 153 • 💬 58 • ⏱️ 16:11 • 1d ago
 
 ---
 
@@ -300,27 +300,17 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 4 • ⏱️ 6:21 • 16h ago
+👁️ 3K • 👍 174 • 💬 4 • ⏱️ 6:21 • 19h ago
 
 ---
 
-**[Ethereum Price Prediction: ETH Could Face Another Stress Test at $1,800 as Clarity Act Gets Shelved](https://www.youtube.com/watch?v=BSpoC4q9ZRM)**
+**[The Next 5 Days Could Change Crypto FOREVER!!](https://www.youtube.com/watch?v=8TEauEFzqAI)**
 
-Ethereum (ETH) faces a critical stress test at $1800 as thin trading volumes and regulatory uncertainty from a shelved Clarity Act is ...
+The Next 5 Days Could Change Crypto FOREVER ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 FXEmpire
+📺 Altcoin Daily
 
-👁️ 87 • ⏱️ 5:07 • 15h ago
-
----
-
-**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
-
-THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
-
-📺 NCashOfficial
-
-👁️ 10K • 👍 463 • 💬 745 • ⏱️ 14:47 • 2d ago
+👁️ 30K • 👍 2K • 💬 95 • ⏱️ 10:34 • 1d ago
 
 ---
 
@@ -330,7 +320,17 @@ In this video I break down the current Ethereum price action and analyze the str
 
 📺 More Crypto Online
 
-👁️ 24 • 👍 4 • ⏱️ 1:15 • 43m ago
+👁️ 140 • 👍 5 • ⏱️ 1:15 • 3h ago
+
+---
+
+**[THIS COULD SEAL IT! $40 PER XRP &amp; $20,000 PER ETH?! (INSANE!)](https://www.youtube.com/watch?v=SV2CK7wpGbg)**
+
+THIS COULD SEAL IT! $40 PER XRP & $20000 PER ETH?! (INSANE!) XRP Investing, Personal Finance, Crypto Portfolio, XRP ...
+
+📺 NCashOfficial
+
+👁️ 10K • 👍 464 • 💬 745 • ⏱️ 14:47 • 2d ago
 
 ---
 

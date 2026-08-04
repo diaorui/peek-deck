@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T07:13:27.891572+00:00'
+updated: '2026-08-04T10:10:18.752033+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 07:13 UTC  
+**Last Updated:** August 04, 2026 at 10:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 On the previous video, people commented that the objects are placed on jigs in known positions, which implies that the movements could be programmed. This is fair, although the object can still bounce away randomly when it falls. So I tested different cases here. A benefit of using an advanced model is that it can handle small variations that can happen in real life as a free bonus, just by recognizing patterns within small amount of examples.
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve briefly shown earlier versions of the editor in my previous posts, but th
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-17h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi all, I'm a PhD student working on socially-aware navigation. I've built a cus
 
 Hi alll, i was wondering what people use for visual context for ur robot, i have a project for visual context but for security cameras, and i thought maybe it could fit into robotics
 
-1d ago
+2d ago
 
 ---
 
@@ -120,17 +120,11 @@ WSJ • 1d ago
 
 ---
 
-**[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
+**[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
 
-Bloomberg.com • 32m ago
+The company aims to create physical AI tools for human workers
 
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 18h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -138,31 +132,29 @@ Forbes • 18h ago
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-MIT Technology Review • 12h ago
+technologyreview.com • 15h ago
 
 ---
 
-**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
+**[U.S. Bans Imports Of AI Humanoid Robots To Protect Americans From A Massive Trojan Horse Invasion](https://www.forbes.com/sites/lanceeliot/2026/08/04/us-bans-imports-of-ai-humanoid-robots-to-protect-americans-from-a-massive-trojan-horse-invasion/)**
 
-Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
+FCC has banned foreign-produced AI humanoid robots from being imported to the U.S. for various vital reasons. Here's the backstory. An AI Insider analysis and scoop.
 
-The Robot Report • 1d ago
-
----
-
-**[When expressive humanoid robots are awkward, people become wary – new brain study](https://theconversation.com/when-expressive-humanoid-robots-are-awkward-people-become-wary-new-brain-study-288696)**
-
-People who interact with expressive robots that make mistakes react with suspicion rather than seeing the bots as malfunctioning machines.
-
-The Conversation • 18h ago
+Forbes • 2h ago
 
 ---
 
-**[Jim Cramer Analyzes Johnson & Johnson (JNJ) After Surgical Robotics Milestone](https://finance.yahoo.com/healthcare/articles/jim-cramer-analyzes-johnson-johnson-163351539.html)**
+**[Family Offices Sidestep AI Fears in Deal Spree for Robotics Bets](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
 
-Jim Cramer celebrated a dramatic pivot in market sentiment surrounding Johnson & Johnson (NYSE:JNJ) during Mad Money’s July 23 episode. After days of urging investors to accumulate the stock following a strong earnings report that Wall Street initially dismissed, Cramer highlighted the FDA approval of JNJ’s OTTAVA Robotic Surgical System as the catalyst that finally […]
+bloomberg.com • 27m ago
 
-Yahoo Finance • 14h ago
+---
+
+**[Americans in their 70s and 80s are among the first to bring AI robots into their homes](https://fortune.com/2026/08/03/gen-z-elliq-intuition-robotics-ai-companion-robot-older-adults/)**
+
+ElliQ’s device has been commercially available since 2022.
+
+Fortune • 19h ago
 
 ---
 
@@ -170,21 +162,30 @@ Yahoo Finance • 14h ago
 
 Founded in Tallinn in 2025 by Sander Sebastian Agur and Arno Kütt, formerly of parcel delivery robotics company Cleveron, Rollo Robotics developed the platform, named 1ROLLO. Specifically, the team set out to address the long-standing engineering challenge of maintaining single-wheel stability during movement, turning, and stopping. Gyroscopic stabilization and technical...
 
-futura-sciences.com • 13h ago
+Futura, le média qui explore le monde • 16h ago
 
 ---
 
-**[The VC firm behind Shopify is doubling down on robotics and defense](https://www.businessinsider.com/felicis-hires-graham-littlehale-to-lead-hard-tech-startup-focus-2026-8)**
+**[New, free robotics program starting at Fauntleroy YMCA](https://westseattleblog.com/2026/08/new-free-robotics-program-starting-at-fauntleroy-ymca/)**
 
-The venture capital firm, best known for bets on Shopify, Notion, and Mercor, has hired a new partner to invest in physical world technologies.
+Registration is open for a new free robotics program for 9- to 15-year-olds, offered by the West Seattle YMCA and NUCOR (both WSB sponsors) - free, with limited space. Here's the announcement sent to us to share with you:
+The West Seattle YMCA and NUCOR are excited to partner and provide a STEM Robotics Program for youth in our community. Using ...
 
-Business Insider • 17h ago
+West Seattle Blog... • 18h ago
 
 ---
 
 **[Serve Robotics to Report Q2 Earnings: What to Expect From the Stock?](https://www.zacks.com/stock/news/2966675/serve-robotics-to-report-q2-earnings-what-to-expect-from-the-stock)**
 
-Zacks Investment Research • 17h ago
+Zacks Investment Research • 20h ago
+
+---
+
+**[US bans foreign-made robots, China threatens to retaliate](https://www.morningbrew.com/stories/us-bans-foreign-made-robots-china-retaliate)**
+
+They won't come after the Roomba you already own, but it might make it harder to get a new one.
+
+Morning Brew • 3d ago
 
 ---
 
@@ -198,7 +199,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 228K • 👍 6K • 💬 521 • ⏱️ 3:00 • 4d ago
+👁️ 229K • 👍 6K • 💬 521 • ⏱️ 3:00 • 4d ago
 
 ---
 
@@ -208,7 +209,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 73K • 👍 388 • 💬 534 • ⏱️ 6:04 • 5d ago
+👁️ 73K • 👍 390 • 💬 534 • ⏱️ 6:04 • 5d ago
 
 ---
 
@@ -218,7 +219,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 40K • 👍 692 • 💬 71 • ⏱️ 11:26 • 1d ago
+👁️ 42K • 👍 720 • 💬 73 • ⏱️ 11:26 • 1d ago
 
 ---
 
@@ -236,7 +237,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 Vy Chuong - robot 
 
-👁️ 901 • 👍 12 • ⏱️ 0:48 • 3h ago
+👁️ 1K • 👍 13 • ⏱️ 0:48 • 6h ago
 
 ---
 
@@ -246,7 +247,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 164K • 👍 1K • 💬 586 • ⏱️ 3:14 • 1d ago
+👁️ 170K • 👍 1K • 💬 602 • ⏱️ 3:14 • 1d ago
 
 ---
 
@@ -256,17 +257,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 All-In Podcast
 
-👁️ 112K • 👍 2K • 💬 300 • ⏱️ 1:08:35 • 5d ago
-
----
-
-**[DIY AI Xiaozhi Wire Robot - Part 2 | Adding TOF050C VL6180 Anti-Fall Distance Sensor](https://www.youtube.com/watch?v=XeehAdLLZN0)**
-
-Welcome to Part 2 of my DIY AI Xiaozhi Wire Robot project! In this video, I upgrade the robot by installing a TOF050C VL6180 ...
-
-📺 Creative Channel
-
-👁️ 6K • 👍 277 • 💬 24 • ⏱️ 9:14 • 1d ago
+👁️ 113K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 5d ago
 
 ---
 
@@ -280,13 +271,23 @@ The new AGIBOT A3 humanoid robot has officially been revealed, showcasing advanc
 
 ---
 
+**[Fei-Fei Li is Solving the Hardest Problem in Robotics | World Labs with a16z](https://www.youtube.com/watch?v=-tabaM5l3s0)**
+
+Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved ...
+
+📺 a16z
+
+👁️ 28K • 💬 40 • ⏱️ 42:21 • 6d ago
+
+---
+
 **[Testing Our New Robotic Hand](https://www.youtube.com/watch?v=Nhr7ZnFZYkA)**
 
 Special thanks to Andrea, Jason, and the whole engineering team that made this video possible. Want to join an awesome team ...
 
 📺 Foundation Robotics
 
-👁️ 17K • 👍 539 • 💬 29 • ⏱️ 5:33 • 2d ago
+👁️ 18K • 👍 545 • 💬 29 • ⏱️ 5:33 • 2d ago
 
 ---
 
