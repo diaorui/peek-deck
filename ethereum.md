@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T19:35:14.269837+00:00'
+updated: '2026-08-05T21:08:35.094075+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 19:35 UTC  
+**Last Updated:** August 05, 2026 at 21:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,916.95
+### $1,909.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +0.0%  
-**30d:** +8.4%  
-**90d:** -16.8%  
-**1y:** -47.9%  
+**24h:** +1.8%  
+**7d:** -0.5%  
+**30d:** +7.8%  
+**90d:** -17.2%  
+**1y:** -48.2%  
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 22h ago
 
 The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 1d ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 7h ago
+ethereum.org • 8h ago
 
 ---
 
@@ -198,19 +198,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Why are Bitcoin and Ethereum edging higher as XRP slides?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-advance-while-xrp-lags-amid-us-iran-deal-optimism-202608051100)**
-
-Bitcoin (BTC) hovers near $64,000 at the time of writing on Wednesday, buoyed by a marginal improvement in crypto sentiment amid growing optimism that the United States (US) and Iran could potentially reach an agreement to open the Strait of Hormuz this week.
-
-FXStreet • 8h ago
-
----
-
 **[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11h ago
+
+---
+
+**[Why are Bitcoin and Ethereum edging higher as XRP slides?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-advance-while-xrp-lags-amid-us-iran-deal-optimism-202608051100)**
+
+Bitcoin (BTC) hovers near $64,000 at the time of writing on Wednesday, buoyed by a marginal improvement in crypto sentiment amid growing optimism that the United States (US) and Iran could potentially reach an agreement to open the Strait of Hormuz this week.
+
+FXStreet • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 9h ago
 
 Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-AMBCrypto • 20h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 239 • 💬 15 • ⏱️ 13:21 • 7h ago
+👁️ 2K • 👍 239 • 💬 15 • ⏱️ 13:21 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 860 • 👍 82 • 💬 58 • ⏱️ 18:17 • 1h ago
+👁️ 860 • 👍 82 • 💬 58 • ⏱️ 18:17 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 226 • 💬 11 • ⏱️ 7:57 • 18h ago
+👁️ 4K • 👍 226 • 💬 11 • ⏱️ 7:57 • 20h ago
 
 ---
 
@@ -278,7 +278,7 @@ The two companies behind ChatGPT and Claude now trade on the world's biggest cry
 
 📺 Alexander Lorenzo
 
-👁️ 192 • 👍 13 • 💬 13 • ⏱️ 1:32 • 39m ago
+👁️ 192 • 👍 13 • 💬 13 • ⏱️ 1:32 • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 46 • 💬 9 • ⏱️ 1:07:07 • 8h ago
+👁️ 1K • 👍 46 • 💬 9 • ⏱️ 1:07:07 • 10h ago
 
 ---
 

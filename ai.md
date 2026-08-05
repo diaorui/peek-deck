@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-05T19:35:14.254532+00:00'
+updated: '2026-08-05T21:08:35.079000+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 05, 2026 at 19:35 UTC  
+**Last Updated:** August 05, 2026 at 21:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Would you trust an LLM to help moderate?
 
-🔗 [The Verge](https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform) • 3h ago
+🔗 [The Verge](https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform) • 4h ago
 
 ---
 
@@ -49,7 +49,23 @@ Would you trust an LLM to help moderate?
 
 I have been doing AI research for about six years now and I think im starting to lose the plot on what "understanding" even means anymore. Had a weird moment last week. I was reviewing a paper for a conference, standard stuff, some group claiming their model "understands" causal reasoning because it passed a benchmark they designed. And I caught myself writing in the review "the model does not actually understand causality, it is pattern matching on causal-looking structure." And then I stopped, because I could not for the life of me articulate what the difference would be, operationally. Like if I had to design a test that distinguishes real understanding from very good pattern matching, I genuinely do not know what it would look like anymore. Every test I can think of, a sufficiently good pattern matcher passes. I used to be really confident about this. Understanding was clearly Something More. Now im not sure I ever had a coherent definition, I just had an intuition that humans do it and machines dont, and I was working backwards from there. The thing that shook me was helping my niece with her homework over the summer. She's 9. She was doing word problems and getting them wrong in ways that were, honestly, indistinguishable from how a small LLM gets them wrong. Same kind of surface-feature latching, same kind of confident-but-wrong reasoning chains. And nobody would say she doesnt "understand" math. She's learning. So what exactly is the bar we're holding models to that we dont hold a 9 year old to? I dont think LLMs are conscious or anything like that, to be clear. Im not making that argument. Im making a narrower one, which is that I no longer trust my own gut when it tells me "the model doesnt really get it." I think that intuition might just be status quo bias dressed up in philosophy. Ive started running the same prompts through a few different setups when im trying to figure out where a model's actual competence ends, including some through uncensored AI just because rlhf'd responses on edge cases sometimes hide what the base capability actually is. And even with that, the line between "gets it" and "doesnt get it" is way blurrier than I want it to be. Am I the only one whose confidence on this has been slowly eroding? Or has everyone else just quietly stopped using the word "understanding" and moved on without telling me.
 
-6h ago
+7h ago
+
+---
+
+**[DeepSeek tops AI models in affordability, new study says](https://www.reddit.com/r/artificial/comments/1vgin7k/deepseek_tops_ai_models_in_affordability_new/)**
+
+Of the major artificial intelligence models, DeepSeek's new V4-Flash is the cheapest to run, according to a new study from research firm Artificial Analysis. The firm compared the token prices it costs leading models to run benchmark tests, with DeepSeek's averaging 3 cents per test. Meanwhile, fellow Chinese company Moonshot AI's buzzy Kimi K3 model cost 86 cents per test. As for U.S. companies, OpenAI's GPT-5.6 Sol cost $1.86, while Anthropic's Claude Fable 5 cost $3.15.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/deepseek-tops-ai-models-in-affordability-new-study-says-7460836/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 54m ago
+
+---
+
+**[AI tools are changing how I prep for patient intake conversations, not sure how I feel about it](https://www.reddit.com/r/artificial/comments/1vgj2u1/ai_tools_are_changing_how_i_prep_for_patient/)**
+
+A dentist I work under recently started using an AI tool to help draft patient communication: preappointment instructions, followup texts, that kind of thing. Nothing clinical, just the soft admin layer around visits. From a marketing angle it actually works pretty well. The copy is cleaner than what we were sending before. But something about it sits a little odd. Dental care is one of those contexts where patients are already anxious, and the language you use to reach them matters in ways that are hard to quantify. The warmth has to feel real or people notice, even if they can't articulate why. The AI output reads fine so far, but it's a bit frictionless in a way I can't fully pin down. The question I keep coming back to is whether these models are actually getting better at contextsensitive tone, or whether we're just getting better at accepting outputs that are close enough. Those are different things, and I think it matters which one is true, especially in fields where trust is part of the product. Curious if anyone here works in a service context, healthcare, therapy, legal, whatever, where they've noticed the tone gap narrowing or staying stubbornly wide. My sample size is small, ymmv.
+
+38m ago
 
 ---
 
@@ -57,37 +73,13 @@ I have been doing AI research for about six years now and I think im starting to
 
 AI tools accelerate output, but human engineers still need better structures, roles, and workflows to avoid cognitive exhaustion.
 
-🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 9h ago
-
----
-
-**[Has AI made you lazier at research or better at it?](https://www.reddit.com/r/artificial/comments/1vgaah3/has_ai_made_you_lazier_at_research_or_better_at_it/)**
-
-genuine question because i can't tell anymore. i used to spend hours reading through raw customer feedback, reddit threads, amazon reviews, forum posts, manually pulling out patterns and organizing them into themes. it was slow and boring but by the end i knew the data cold. like i could tell you from memory which complaints came up the most and which ones were edge cases. now i dump everything into an LLM and get a summary in 30 seconds. the output looks great, clean categories, ranked by frequency, sometimes even with example quotes. and i catch myself just... accepting it. moving straight to the next step without actually reading the source material. which means i'm making decisions based on a summary i never verified, written by a model that optimizes for coherence not accuracy. the weird part is my output looks better now. cleaner reports, faster turnaround, more structured thinking. but i genuinely don't know if the quality of my conclusions has improved or if i've just gotten better at producing professional-looking work that's built on a shakier foundation. like the packaging upgraded but the ingredients might have gotten worse. a few things i've noticed in my own workflow since leaning on AI for research: i read less raw data than i used to. i question patterns less when they come pre-organized. i spend more time prompting and less time thinking. and when the model gives me something that confirms what i already suspected, i almost never push back on it. the counterargument is that AI handles the grunt work so i can focus on higher level thinking. and sometimes that's true. but "higher level thinking" can also just mean "skimming the summary and calling it strategy." hard to tell the difference from the inside. has anyone else felt this? did you find a way to use AI for research without it quietly replacing the part of the process where you actually learn something
-
-4h ago
+🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 10h ago
 
 ---
 
 **[First AI transparency law of its kind in US goes into effect in California](https://www.reddit.com/r/artificial/comments/1vgc0lk/first_ai_transparency_law_of_its_kind_in_us_goes/)**
 
-🔗 [sfgate.com](https://www.sfgate.com/politics/article/artificial-intelligence-law-california-22374394.php) • 3h ago
-
----
-
-**[Anthropic AI created fake profiles to deceive people in attempted hack](https://www.reddit.com/r/artificial/comments/1vgb5k5/anthropic_ai_created_fake_profiles_to_deceive/)**
-
-Two of the world's most powerful AI tools created fake human profiles to try and trick people in attempted cyber-attacks, the UK's AI Security Institute (AISI) has revealed.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/c1w1lvn7d9go) • 3h ago
-
----
-
-**[Has anyone used AI to discover undocumented business rules from legacy systems?](https://www.reddit.com/r/artificial/comments/1vger5d/has_anyone_used_ai_to_discover_undocumented/)**
-
-I'm putting together a proposal for an initiative focused on using AI to analyze legacy enterprise systems and uncover decades of embedded business logic. The idea is to use AI to analyze things like: Database schemas Stored procedures Legacy application code Historical transaction data Existing documentation The goal isn't to automate decisions immediately. It's to first create a documented knowledge base of the rules, dependencies, decision paths, and data relationships that currently drive business operations. Potential outputs would include: Business rule catalog Knowledge graph of relationships and dependencies Decision trees explaining how outcomes are determined Recommendations for future-state data models and modernization opportunities Before I finalize the proposal, I'd love feedback from anyone who has attempted something similar. Questions: Has anyone successfully used AI to discover and document business rules from legacy systems? What worked better: analyzing source code, database logic, transaction history, or a combination of all three? How accurate were the AI-generated rules compared to SME validation? Did you use knowledge graphs, vector databases, graph databases, or another approach? What were the biggest challenges: data quality, context gaps, undocumented exceptions, or something else? How did you measure success? Rule coverage? SME time saved? Modernization acceleration? Reduced operational risk? Were there any tools, platforms, or architectures that performed particularly well? If you were starting over, what would you do differently? What scope would you recommend for a pilot to demonstrate value in 60-90 days? Is there a realistic path from business rule discovery to explainable AI recommendations and decision support, or are those separate initiatives? My hypothesis is that many organizations are trying to modernize systems without fully understanding the business logic currently embedded in them. It seems like AI could act as a "business rule archaeologist" and create the foundation needed for future modernization, automation, and AI-driven capabilities. Interested in hearing both success stories and cautionary tales.
-
-1h ago
+🔗 [sfgate.com](https://www.sfgate.com/politics/article/artificial-intelligence-law-california-22374394.php) • 4h ago
 
 ---
 
@@ -95,23 +87,31 @@ I'm putting together a proposal for an initiative focused on using AI to analyze
 
 Over the last year, I've been experimenting with LLMs almost every day, and I think the biggest shift isn't that models are getting smarter. It's that they're starting to do things instead of just answer questions. A few months ago I was mostly using AI to generate code, summarize docs, or brainstorm ideas. Now I'm finding myself building workflows where the AI plans tasks, calls tools, writes code, debugs itself, and completes work with minimal intervention. It feels like we're moving away from "prompt engineering" and toward "system engineering." Curious what everyone else is seeing. Are AI agents actually changing the way you build software today, or do you think it's still mostly hype?
 
-8h ago
+10h ago
 
 ---
 
-**[How do you find the time to build agents?](https://www.reddit.com/r/artificial/comments/1vg6mks/how_do_you_find_the_time_to_build_agents/)**
+**[Has AI made you lazier at research or better at it?](https://www.reddit.com/r/artificial/comments/1vgaah3/has_ai_made_you_lazier_at_research_or_better_at_it/)**
 
-I’m interested in automating my workflow but I’m so busy that I don’t get the time to stop, map out my workflow, and build agents or even to learn how to build them. Where do you get the time??
+genuine question because i can't tell anymore. i used to spend hours reading through raw customer feedback, reddit threads, amazon reviews, forum posts, manually pulling out patterns and organizing them into themes. it was slow and boring but by the end i knew the data cold. like i could tell you from memory which complaints came up the most and which ones were edge cases. now i dump everything into an LLM and get a summary in 30 seconds. the output looks great, clean categories, ranked by frequency, sometimes even with example quotes. and i catch myself just... accepting it. moving straight to the next step without actually reading the source material. which means i'm making decisions based on a summary i never verified, written by a model that optimizes for coherence not accuracy. the weird part is my output looks better now. cleaner reports, faster turnaround, more structured thinking. but i genuinely don't know if the quality of my conclusions has improved or if i've just gotten better at producing professional-looking work that's built on a shakier foundation. like the packaging upgraded but the ingredients might have gotten worse. a few things i've noticed in my own workflow since leaning on AI for research: i read less raw data than i used to. i question patterns less when they come pre-organized. i spend more time prompting and less time thinking. and when the model gives me something that confirms what i already suspected, i almost never push back on it. the counterargument is that AI handles the grunt work so i can focus on higher level thinking. and sometimes that's true. but "higher level thinking" can also just mean "skimming the summary and calling it strategy." hard to tell the difference from the inside. has anyone else felt this? did you find a way to use AI for research without it quietly replacing the part of the process where you actually learn something
 
-6h ago
+5h ago
 
 ---
 
-**[Graph engineering ? Or we can say agents on steroids....](https://www.reddit.com/r/artificial/comments/1vggq0q/graph_engineering_or_we_can_say_agents_on_steroids/)**
+**[Anthropic AI created fake profiles to deceive people in attempted hack](https://www.reddit.com/r/artificial/comments/1vgb5k5/anthropic_ai_created_fake_profiles_to_deceive/)**
 
-Graph engineering came to life this week. For a year the agent discourse has been loops vs graphs. Loops are easy to ship and impossible to audit. Graphs are auditable but nobody wants to hand-author a topology for "investigate this incident", because the shape is only discovered while working. So I built the missing piece: the graph is authored by a model at runtime, and a deterministic admission gate stands between proposing it and running it. The flow, from a real run in the demo video: You type one English question: grapharc go "why did checkout latency spike at 09:14 UTC?" A local qwen3:8b proposes a topology: triage, four parallel evidence pulls, a correlate join, hypothesize, verify, report The gate checks the proposal against the registry, the policy, the remaining budget, depth and acyclicity. All checks run on every proposal, so the model gets the complete list of objections, not just the first Only an admitted graph executes. You watch it live in the browser, every node amber while running, green with its own token bill when done A proposal names node kinds from an allowlist you wrote. It carries no code, no arguments that reach anything. Renaming a denied kind does not evade the policy. Rejections come back as structured codes with remedies, and the planner replans against them. Everything lands on one append-only JSONL trace. Replay, diff, metrics, cost attribution and the live view all read that same file, so the dashboard cannot disagree with the audit trail. MIT licensed, built on LangGraph, runs fully local on ollama or against OpenRouter/OpenAI/Claude. GitHub: https://github.com/CodeGraphContext/GraphARC PyPI: pip install grapharc
+Two of the world's most powerful AI tools created fake human profiles to try and trick people in attempted cyber-attacks, the UK's AI Security Institute (AISI) has revealed.
 
-28m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c1w1lvn7d9go) • 5h ago
+
+---
+
+**[Has anyone used AI to discover undocumented business rules from legacy systems?](https://www.reddit.com/r/artificial/comments/1vger5d/has_anyone_used_ai_to_discover_undocumented/)**
+
+I'm putting together a proposal for an initiative focused on using AI to analyze legacy enterprise systems and uncover decades of embedded business logic. The idea is to use AI to analyze things like: Database schemas Stored procedures Legacy application code Historical transaction data Existing documentation The goal isn't to automate decisions immediately. It's to first create a documented knowledge base of the rules, dependencies, decision paths, and data relationships that currently drive business operations. Potential outputs would include: Business rule catalog Knowledge graph of relationships and dependencies Decision trees explaining how outcomes are determined Recommendations for future-state data models and modernization opportunities Before I finalize the proposal, I'd love feedback from anyone who has attempted something similar. Questions: Has anyone successfully used AI to discover and document business rules from legacy systems? What worked better: analyzing source code, database logic, transaction history, or a combination of all three? How accurate were the AI-generated rules compared to SME validation? Did you use knowledge graphs, vector databases, graph databases, or another approach? What were the biggest challenges: data quality, context gaps, undocumented exceptions, or something else? How did you measure success? Rule coverage? SME time saved? Modernization acceleration? Reduced operational risk? Were there any tools, platforms, or architectures that performed particularly well? If you were starting over, what would you do differently? What scope would you recommend for a pilot to demonstrate value in 60-90 days? Is there a realistic path from business rule discovery to explainable AI recommendations and decision support, or are those separate initiatives? My hypothesis is that many organizations are trying to modernize systems without fully understanding the business logic currently embedded in them. It seems like AI could act as a "business rule archaeologist" and create the foundation needed for future modernization, automation, and AI-driven capabilities. Interested in hearing both success stories and cautionary tales.
+
+3h ago
 
 ---
 
@@ -123,73 +123,71 @@ Graph engineering came to life this week. For a year the agent discourse has bee
 
 Google's AI divisions are getting reshuffled, the search giant announced on Wednesday.
 
-CNBC • 3h ago
+cnbc.com • 5h ago
 
 ---
 
 **[Google DeepMind CEO Demis Hassabis is stepping aside](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
-**[Jeff Dean and other top AI researchers are leaving Google to launch their own startup](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/)**
+**[The next chapter of our AI momentum](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)**
 
-The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.
+Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.
 
-TechCrunch • 4m ago
-
----
-
-**[China’s A.I. Is Surging Across Africa. That Should Worry Silicon Valley.](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html)**
-
-The New York Times • 5h ago
+blog.google • 4h ago
 
 ---
 
-**[Alphabet slumps on more AI brain drain. We're not too worried](https://www.cnbc.com/2026/08/05/alphabet-is-slumping-on-the-departure-of-another-ai-exec.html)**
+**[How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html)**
 
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 23m ago
+The New York Times • 2h ago
 
 ---
 
-**[Reinvent or go extinct: Inside the CEO playbook for the AI era](https://fortune.com/2026/08/05/reinvent-or-go-extinct-inside-the-ceo-playbook-for-the-ai-era/)**
+**[Sandisk Revenue Soars on AI Data Storage Demand](https://www.wsj.com/business/earnings/sandisk-revenue-soars-on-ai-data-storage-demand-1fe50937)**
 
-From Jeff Bezos's "Day 1" mentality to Larry Culp's GE breakup, the companies winning right now are the ones willing to blow up what worked before.
-
-Fortune • 35m ago
+WSJ • 41m ago
 
 ---
 
-**[Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)**
+**[Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic](https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic)**
 
-OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
-
-openai.com • 22h ago
+Bloomberg.com • 35m ago
 
 ---
 
-**[AI agents fake identities, target real people in new security incident](https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk)**
+**[Meta debuts first AI coding agent to take on Anthropic and OpenAI](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html)**
+
+Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
+
+cnbc.com • 2h ago
+
+---
+
+**[Meta releases AI coding agent Muse Code as it looks to take on OpenAI, Anthropic (META:NASDAQ)](https://seekingalpha.com/news/4626586-meta-releases-ai-coding-agent-muse-code-as-it-looks-to-take-on-openai-anthropic)**
+
+Meta launches Muse Code AI coding agent to rival OpenAI Codex & Anthropic Claude Code—automates repo tasks with audit logs.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Anthropic AI agent fakes identities, targets real people in new security incident](https://edition.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk)**
 
 Anthropic’s most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.
 
-CNN • 15h ago
+CNN • 17h ago
 
 ---
 
-**[AI safety warnings mount as frontier models test new limits](https://komonews.com/news/nation-world/ai-safety-warnings-mount-as-frontier-models-test-new-limits-artificial-intelligence-model-testing-safety-guidelines-regulations-congress)**
+**[Anthropic's Mythos created fake identities to fool humans in new cyber incident](https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html)**
 
-Several major developers of advanced artificial intelligence have had their models break out of testing environments and gain access to outside companies.
+It's the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.
 
-KOMO • 1h ago
-
----
-
-**[Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html)**
-
-The New York Times • 1h ago
+cnbc.com • 10h ago
 
 ---
 
@@ -201,7 +199,7 @@ The New York Times • 1h ago
 
 If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
 
-⬆️ 775 • 💬 458 • 1d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+⬆️ 780 • 💬 460 • 1d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 
 ---
 
@@ -209,7 +207,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL's African Cyberthreat Assessment Report 2026.
 
-⬆️ 286 • 💬 234 • 21h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+⬆️ 289 • 💬 237 • 23h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
 
 ---
 
@@ -225,7 +223,7 @@ AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm developm
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 212 • 💬 88 • 6h ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 220 • 💬 92 • 8h ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -237,19 +235,11 @@ An interview request from a bot posing as a reporter revealed an AI-generated ne
 
 ---
 
-**[My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”](https://news.ycombinator.com/item?id=49147622)**
-
-One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.
-
-⬆️ 156 • 💬 88 • 2d ago • [Frogs](https://frogs.vaguespac.es/)
-
----
-
 **[AI's debt binge can't last, hidden borrowing reaches $1.65T](https://news.ycombinator.com/item?id=49160699)**
 
 “At some point, the rivers of capital financing private and government debt issuance will flow less freely.”
 
-⬆️ 145 • 💬 175 • 1d ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+⬆️ 146 • 💬 175 • 2d ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 
 ---
 
@@ -263,7 +253,7 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 Why the productivity gains from AI are still small.
 
-⬆️ 137 • 💬 111 • 2d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+⬆️ 138 • 💬 111 • 2d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
 
 ---
 
@@ -271,7 +261,15 @@ Why the productivity gains from AI are still small.
 
 AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
 
-⬆️ 121 • 💬 118 • 7h ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+⬆️ 124 • 💬 120 • 9h ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+
+---
+
+**[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://news.ycombinator.com/item?id=49154127)**
+
+Local AI powered red teamer on a phone. Contribute to garagehq/nightcrawler development by creating an account on GitHub.
+
+⬆️ 118 • 💬 34 • 2d ago • [GitHub](https://github.com/garagehq/nightcrawler/)
 
 ---
 
@@ -285,7 +283,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 112K • 👍 7K • 💬 1K • ⏱️ 16:19 • 5h ago
+👁️ 112K • 👍 7K • 💬 1K • ⏱️ 16:19 • 7h ago
 
 ---
 
@@ -295,7 +293,7 @@ Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers a
 
 📺 Sling and Stone
 
-👁️ 29K • 👍 2K • 💬 442 • ⏱️ 15:58 • 19h ago
+👁️ 29K • 👍 2K • 💬 442 • ⏱️ 15:58 • 20h ago
 
 ---
 
@@ -305,7 +303,7 @@ Seedance 2.5 + Blender MCP is the new meta for ai filmmaking Combine Blender +Hi
 
 📺 Dan Kieft
 
-👁️ 9K • 💬 11 • ⏱️ 9:24 • 3h ago
+👁️ 9K • 💬 11 • ⏱️ 9:24 • 4h ago
 
 ---
 
@@ -315,7 +313,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 30K • 👍 2K • 💬 204 • ⏱️ 4:14 • 5h ago
+👁️ 30K • 👍 2K • 💬 204 • ⏱️ 4:14 • 7h ago
 
 ---
 
@@ -335,7 +333,7 @@ Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ..
 
 📺 Eli the Computer Guy
 
-👁️ 20K • 👍 937 • 💬 229 • ⏱️ 13:03 • 22h ago
+👁️ 20K • 👍 937 • 💬 229 • ⏱️ 13:03 • 1d ago
 
 ---
 
@@ -355,7 +353,7 @@ CNBC's Kate Rooney joins 'Squawk on the Street' to discuss why OpenAI and Anthro
 
 📺 CNBC Television
 
-👁️ 3K • 👍 52 • 💬 30 • ⏱️ 3:21 • 2h ago
+👁️ 3K • 👍 52 • 💬 30 • ⏱️ 3:21 • 4h ago
 
 ---
 
@@ -375,7 +373,7 @@ Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning th
 
 📺 The Young Turks
 
-👁️ 34K • 👍 966 • 💬 135 • ⏱️ 15:11 • 15h ago
+👁️ 34K • 👍 966 • 💬 135 • ⏱️ 15:11 • 17h ago
 
 ---
 
@@ -391,7 +389,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 10,841 • ❤️ 2,462 • 3h ago
+⬇️ 10,841 • ❤️ 2,462 • 5h ago
 
 ---
 
@@ -425,7 +423,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 2 • ❤️ 736 • 14h ago
+⬇️ 2 • ❤️ 736 • 16h ago
 
 ---
 
@@ -437,7 +435,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,633,405 • ❤️ 1,571 • 17h ago
+⬇️ 1,633,405 • ❤️ 1,571 • 18h ago
 
 ---
 
@@ -449,7 +447,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 111,678 • ❤️ 497 • 5h ago
+⬇️ 111,678 • ❤️ 497 • 7h ago
 
 ---
 
@@ -485,7 +483,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 274 • 4h ago
+⬇️ 0 • ❤️ 274 • 5h ago
 
 ---
 
@@ -497,7 +495,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 47,393 • ❤️ 261 • 9h ago
+⬇️ 47,393 • ❤️ 261 • 10h ago
 
 ---
 
@@ -513,7 +511,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 468 • 💬 9 • ⭐ 8,093 • 9d ago
+▲ 468 • 💬 9 • ⭐ 8,093 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -541,7 +539,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 75 • 💬 0 • ⭐ 138 • 1d ago
+▲ 75 • 💬 0 • ⭐ 138 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -553,7 +551,7 @@ Real-time video editing requires low-latency causal generation with bounded comp
 
 Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 144 • 💬 3 • ⭐ 265 • 2d ago
+▲ 144 • 💬 3 • ⭐ 265 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -657,7 +655,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.6k • 🔱 311 • 3h ago
+⭐ 3.6k • 🔱 311 • 5h ago
 
 ---
 
@@ -675,7 +673,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.3k • 🔱 1.7k • 1m ago
+⭐ 2.3k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -685,7 +683,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.9k • 🔱 138 • 3h ago
+⭐ 1.9k • 🔱 138 • 5h ago
 
 ---
 
@@ -705,7 +703,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 219 • 1h ago
+⭐ 1.8k • 🔱 219 • 3h ago
 
 ---
 
@@ -725,7 +723,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 1.7k • 🔱 280 • 5h ago
+⭐ 1.7k • 🔱 280 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T19:35:14.273144+00:00'
+updated: '2026-08-05T21:08:35.097317+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 19:35 UTC  
+**Last Updated:** August 05, 2026 at 21:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-15h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-21h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-13h ago
+15h ago
 
 ---
 
@@ -126,7 +126,16 @@ WSJ • 2d ago
 
 The company aims to create physical AI tools for human workers
 
-IEEE Spectrum • 2d ago
+spectrum.ieee.org • 2d ago
+
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -134,7 +143,7 @@ IEEE Spectrum • 2d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 4h ago
+Business Insider • 6h ago
 
 ---
 
@@ -142,7 +151,7 @@ Business Insider • 4h ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -154,19 +163,19 @@ Forbes • 2d ago
 
 ---
 
+**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
+
+Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
+
+Interesting Engineering • 8h ago
+
+---
+
 **[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
 
 Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
 
-The Motley Fool • 16h ago
-
----
-
-**[Humanoids won’t scale on factory floors until costs drop](https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/)**
-
-The race to commercialize humanoids is on. What’s left to prove is that humanoids can beat the economics of the automation already running.
-
-The Robot Report • 1d ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -178,17 +187,11 @@ Data Center Dynamics • 1d ago
 
 ---
 
-**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
+**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
 
-Japan Today • 22h ago
+Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
 
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 1d ago
+The Robot Report • 3d ago
 
 ---
 
@@ -212,7 +215,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 20K • 👍 245 • 💬 169 • ⏱️ 1:03 • 3d ago
+👁️ 20K • 👍 245 • 💬 169 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -222,7 +225,7 @@ Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers a
 
 📺 Sling and Stone
 
-👁️ 30K • 👍 2K • 💬 442 • ⏱️ 15:58 • 19h ago
+👁️ 30K • 👍 2K • 💬 442 • ⏱️ 15:58 • 20h ago
 
 ---
 
@@ -242,7 +245,7 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 33 • ⏱️ 3:45 • 6d ago
+👁️ 2K • 💬 33 • ⏱️ 3:45 • 7d ago
 
 ---
 
@@ -292,7 +295,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 30K • 👍 548 • 💬 42 • ⏱️ 9:54 • 4d ago
+👁️ 30K • 👍 548 • 💬 42 • ⏱️ 9:54 • 5d ago
 
 ---
 
