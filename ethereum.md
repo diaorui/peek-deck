@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T08:36:23.463053+00:00'
+updated: '2026-08-05T11:21:16.135276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 08:36 UTC  
+**Last Updated:** August 05, 2026 at 11:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -2.5%  
-**30d:** +5.7%  
-**90d:** -18.9%  
-**1y:** -49.2%  
+**24h:** -0.3%  
+**7d:** -2.6%  
+**30d:** +5.5%  
+**90d:** -19.0%  
+**1y:** -49.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.65B
+**Market Cap:** $225.39B
 Rank #2
 
 **Circulating Supply:** 120,682,172 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.2%
 
 **All-Time Low:** $0.43
-+431726.9%
++431163.4%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-17h ago
+20h ago
 
 ---
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 11h ago
+The Block • 13h ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -162,13 +170,13 @@ The Block • 11h ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-Step Security • 14h ago
+Step Security • 17h ago
 
 ---
 
-**[BitMine Stakes 87% of Its Ethereum Holdings in Fresh Conviction Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-87-ethereum-holdings-042707070.html)**
+**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-nasdaq-100-btc-090344933.html)**
 
-BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
+Ethereum outperformed the Nasdaq 100 by 25 percentage points and Bitcoin by 11 percentage points in July, according to figures highlighted by Tom Lee. Lee ...
 
 Yahoo Finance • 1d ago
 
@@ -190,11 +198,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
 
-This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
 
-TradingView • 2d ago
+FXStreet • 7h ago
 
 ---
 
@@ -210,23 +218,15 @@ PR Newswire • 1d ago
 
 EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
 
-The Defiant • 14h ago
+The Defiant • 17h ago
 
 ---
 
-**[Current price of Ethereum for August 4, 2026](https://fortune.com/article/price-of-ethereum-08-04-2026/)**
+**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-Fortune • 23h ago
-
----
-
-**[How the Verus-Ethereum Bridge Exploit Bypassed Cross-Chain Validation](https://hackernoon.com/how-the-verus-ethereum-bridge-exploit-bypassed-cross-chain-validation)**
-
-Forensic deep-dive into the Verus-Ethereum bridge exploit. Discover how compromised cross-chain validation and fabricated Merkle proofs drained $7.54M.
-
-HackerNoon • 30m ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 15K • 👍 484 • 💬 71 • ⏱️ 10:24 • 16h ago
+👁️ 17K • 👍 520 • 💬 78 • ⏱️ 10:24 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 5K • 👍 399 • 💬 38 • ⏱️ 10:22 • 20h ago
+👁️ 5K • 👍 405 • 💬 38 • ⏱️ 10:22 • 23h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 7:57 • 7h ago
+👁️ 2K • 👍 174 • 💬 7 • ⏱️ 7:57 • 10h ago
 
 ---
 
@@ -270,27 +270,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 847 • 💬 107 • ⏱️ 15:24 • 2d ago
-
----
-
-**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
-
-BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 277 • 💬 15 • ⏱️ 1:03:35 • 16h ago
-
----
-
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
-
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 723 • 💬 189 • ⏱️ 28:23 • 23h ago
+👁️ 24K • 👍 851 • 💬 107 • ⏱️ 15:24 • 2d ago
 
 ---
 
@@ -300,27 +280,17 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 190 • ⏱️ 10:08 • 10h ago
+👁️ 26K • 👍 2K • 💬 195 • ⏱️ 10:08 • 13h ago
 
 ---
 
-**[Why Ethereum Is Holding Up Against Bitcoin](https://www.youtube.com/watch?v=mhCaQ1_Vrz4)**
+**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
 
-Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has been in a brutal bear market since October, ...
+BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
 
-📺 The Wolf Of All Streets
+📺 Discover Crypto
 
-👁️ 2K • 👍 34 • 💬 29 • ⏱️ 0:36 • 11h ago
-
----
-
-**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
-
-Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 82 • 💬 17 • ⏱️ 35:18 • 1d ago
+👁️ 5K • 👍 279 • 💬 15 • ⏱️ 1:03:35 • 19h ago
 
 ---
 
@@ -331,6 +301,36 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 📺 The Moon Show
 
 👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 1d ago
+
+---
+
+**[Ethereum &amp; Bitcoin, bekommen wir noch den Abverkauf, bevor es nach oben geht!??](https://www.youtube.com/watch?v=71BmID5M2Bw)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 409 • 💬 115 • ⏱️ 7:36 • 7h ago
+
+---
+
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
+
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
+
+📺 The Rollup
+
+👁️ 3K • 👍 83 • 💬 8 • ⏱️ 35:18 • 1d ago
+
+---
+
+**[Ethereum&#39;s Biggest Secret: Who REALLY Controls Staking? #shorts](https://www.youtube.com/watch?v=Z704WPpIhL8)**
+
+Ethereum's biggest infrastructure decision of the year was made without the Ethereum Foundation. Discover how the network's ...
+
+📺 Dana Love, PhD
+
+👁️ 677 • 👍 38 • 💬 29 • ⏱️ 1:28 • 10h ago
 
 ---
 
