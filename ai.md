@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-05T13:10:27.520238+00:00'
+updated: '2026-08-05T15:37:56.239176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 05, 2026 at 13:10 UTC  
+**Last Updated:** August 05, 2026 at 15:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Six years into AI research and I genuinely can't define "understanding" anymore](https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/)**
+
+I have been doing AI research for about six years now and I think im starting to lose the plot on what "understanding" even means anymore. Had a weird moment last week. I was reviewing a paper for a conference, standard stuff, some group claiming their model "understands" causal reasoning because it passed a benchmark they designed. And I caught myself writing in the review "the model does not actually understand causality, it is pattern matching on causal-looking structure." And then I stopped, because I could not for the life of me articulate what the difference would be, operationally. Like if I had to design a test that distinguishes real understanding from very good pattern matching, I genuinely do not know what it would look like anymore. Every test I can think of, a sufficiently good pattern matcher passes. I used to be really confident about this. Understanding was clearly Something More. Now im not sure I ever had a coherent definition, I just had an intuition that humans do it and machines dont, and I was working backwards from there. The thing that shook me was helping my niece with her homework over the summer. She's 9. She was doing word problems and getting them wrong in ways that were, honestly, indistinguishable from how a small LLM gets them wrong. Same kind of surface-feature latching, same kind of confident-but-wrong reasoning chains. And nobody would say she doesnt "understand" math. She's learning. So what exactly is the bar we're holding models to that we dont hold a 9 year old to? I dont think LLMs are conscious or anything like that, to be clear. Im not making that argument. Im making a narrower one, which is that I no longer trust my own gut when it tells me "the model doesnt really get it." I think that intuition might just be status quo bias dressed up in philosophy. Ive started running the same prompts through a few different setups when im trying to figure out where a model's actual competence ends, including some through uncensored AI just because rlhf'd responses on edge cases sometimes hide what the base capability actually is. And even with that, the line between "gets it" and "doesnt get it" is way blurrier than I want it to be. Am I the only one whose confidence on this has been slowly eroding? Or has everyone else just quietly stopped using the word "understanding" and moved on without telling me.
+
+2h ago
+
+---
+
 **[I think we're entering the "AI Agent" era faster than most people realize.](https://www.reddit.com/r/artificial/comments/1vg49it/i_think_were_entering_the_ai_agent_era_faster/)**
 
 Over the last year, I've been experimenting with LLMs almost every day, and I think the biggest shift isn't that models are getting smarter. It's that they're starting to do things instead of just answer questions. A few months ago I was mostly using AI to generate code, summarize docs, or brainstorm ideas. Now I'm finding myself building workflows where the AI plans tasks, calls tools, writes code, debugs itself, and completes work with minimal intervention. It feels like we're moving away from "prompt engineering" and toward "system engineering." Curious what everyone else is seeing. Are AI agents actually changing the way you build software today, or do you think it's still mostly hype?
 
-2h ago
+4h ago
 
 ---
 
@@ -49,15 +57,7 @@ Over the last year, I've been experimenting with LLMs almost every day, and I th
 
 AI tools accelerate output, but human engineers still need better structures, roles, and workflows to avoid cognitive exhaustion.
 
-🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 2h ago
-
----
-
-**[Predictions about AI replacing programmers go back to the 1960s](https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/)**
-
-A Turing Award and Nobel prize winner predicted in the 1960s that the programming occupation would become extinct, because computers would program themselves. https://seanhelvey.com/tools-and-their-tools/
-
-16h ago
+🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 5h ago
 
 ---
 
@@ -65,21 +65,21 @@ A Turing Award and Nobel prize winner predicted in the 1960s that the programmin
 
 I’m interested in automating my workflow but I’m so busy that I don’t get the time to stop, map out my workflow, and build agents or even to learn how to build them. Where do you get the time??
 
-13m ago
+2h ago
 
 ---
 
-**[What AI prediction from 5 years ago turned out to be completely wrong?](https://www.reddit.com/r/artificial/comments/1vg5z5s/what_ai_prediction_from_5_years_ago_turned_out_to/)**
+**[Predictions about AI replacing programmers go back to the 1960s](https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/)**
 
-There were many confident predictions about AI that aged badly. Which ones stand out?
+A Turing Award and Nobel prize winner predicted in the 1960s that the programming occupation would become extinct, because computers would program themselves. https://seanhelvey.com/tools-and-their-tools/
 
-41m ago
+19h ago
 
 ---
 
 **[This robot never loses at rock, paper, scissors game.](https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -87,31 +87,31 @@ There were many confident predictions about AI that aged badly. Which ones stand
 
 When you buy through links on our articles, Future and its syndication partners may earn a commission.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/why-context-engineering-ai-next-080541249.html) • 1h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/why-context-engineering-ai-next-080541249.html) • 4h ago
 
 ---
 
-**[What's an AI capability you thought was hype until you actually used it?](https://www.reddit.com/r/artificial/comments/1vg4ewa/whats_an_ai_capability_you_thought_was_hype_until/)**
+**[Has AI made you lazier at research or better at it?](https://www.reddit.com/r/artificial/comments/1vgaah3/has_ai_made_you_lazier_at_research_or_better_at_it/)**
 
-What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
+genuine question because i can't tell anymore. i used to spend hours reading through raw customer feedback, reddit threads, amazon reviews, forum posts, manually pulling out patterns and organizing them into themes. it was slow and boring but by the end i knew the data cold. like i could tell you from memory which complaints came up the most and which ones were edge cases. now i dump everything into an LLM and get a summary in 30 seconds. the output looks great, clean categories, ranked by frequency, sometimes even with example quotes. and i catch myself just... accepting it. moving straight to the next step without actually reading the source material. which means i'm making decisions based on a summary i never verified, written by a model that optimizes for coherence not accuracy. the weird part is my output looks better now. cleaner reports, faster turnaround, more structured thinking. but i genuinely don't know if the quality of my conclusions has improved or if i've just gotten better at producing professional-looking work that's built on a shakier foundation. like the packaging upgraded but the ingredients might have gotten worse. a few things i've noticed in my own workflow since leaning on AI for research: i read less raw data than i used to. i question patterns less when they come pre-organized. i spend more time prompting and less time thinking. and when the model gives me something that confirms what i already suspected, i almost never push back on it. the counterargument is that AI handles the grunt work so i can focus on higher level thinking. and sometimes that's true. but "higher level thinking" can also just mean "skimming the summary and calling it strategy." hard to tell the difference from the inside. has anyone else felt this? did you find a way to use AI for research without it quietly replacing the part of the process where you actually learn something
 
-1h ago
+19m ago
 
 ---
 
-**[🧠 How does the brain "imagine" a solution even before trying it?](https://www.reddit.com/r/artificial/comments/1vg0aoz/how_does_the_brain_imagine_a_solution_even_before/)**
+**[TIME Is Serving AI Bots a Different Website, With Ads Built In](https://www.reddit.com/r/artificial/comments/1vga8bq/time_is_serving_ai_bots_a_different_website_with/)**
 
-Our brain consumes just 20 watts — as much as a light bulb — yet it plans, navigates, and solves new problems in an instant. Large AI systems, by contrast, require enormous amounts of energy and long training times. What if we copied the way the brain really works? 📄 A recent study in Nature Machine Intelligence answers this question: "Neural sampling from cognitive maps enables goal-directed imagination and planning" by H. Lin, Y. Yang, R. Zhao, G. Pezzulo and W. Maass — Vol. 8, pp. 1045–1065 (2026). DOI: 10.1038/s42256-026-01254-4 The approach is "neuromorphic", literally "brain-shaped": algorithms that mimic real neurons, learning from experience without having to rewrite everything every time the goal changes. 🗺️ The heart of the idea is "cognitive maps". Like your mental map of your city: not a photograph, but a network of relationships between places and movements. The brain uses similar maps for abstract problems too, and on them it "imagines" paths toward a goal — just like when, before leaving, you mentally visualize the route. ✨ The novelty of the model (GCML) is adding a pinch of controlled randomness to this imagination. The result? Not a single solution, but a range of possible solutions, all goal-directed. A bit like our "intuition" when we look for the best way to solve something. ⚡ Why is it important? • It learns on its own while exploring, with simple, local rules. • It adapts instantly when the goal changes. • It consumes very little energy: ideal for small (edge) devices, not just large data centers. 🎓 Our contribution: we have created an educational program, developed in POWER-KI, that allows anyone to experiment "hands-on" with this technology. With a few clicks you train the cognitive map and watch it imagine routes, bypass obstacles, and solve compositional problems in real time. 👉 Available here: POWER-KI/GCML-PWK-Neuromorfico-04: Native POWER-KI implementation of the Generative Cognitive Map Learner (GCML) — goal-directed imaginati on & planning via neural sampling from cognitive maps, reproducing the GCML paper (Nature Machine Intelligence, 2026 💡 The message is powerful: inventing solutions to problems never encountered before does not necessarily require huge models. It can arise from simple, elegant, and efficient principles inspired by our brain. The future of AI could be not only "bigger", but also "more brain-like". 🌱
+TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
+
+🔗 [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) • 21m ago
+
+---
+
+**[AI hubs in UAE and Saudi Arabia](https://www.reddit.com/r/artificial/comments/1vg2peu/ai_hubs_in_uae_and_saudi_arabia/)**
+
+Are there any visible impacts from the current conflict in the Middle East in the expected future investment intentions to create AI hubs by the UAE and Saudi Arabia?
 
 5h ago
-
----
-
-**[What AI doesn't say about AI](https://www.reddit.com/r/artificial/comments/1vg3zem/what_ai_doesnt_say_about_ai/)**
-
-I wrote this to share some thoughts on what differentiates AI products as we move toward AGI. In particular, I focus on how product context shapes technology, and how LLM sycophancy can accelerate both good and bad ideas. https://preview.redd.it/5b63quardjhh1.png?width=1456&format=png&auto=webp&s=d6db917333934e6fb6b27c696de40ffa925234e5 Discussions are welcome, I'd like to know how much those thoughts are worth and relevant to other people. https://substack.com/home/post/p-209832236
-
-2h ago
 
 ---
 
@@ -119,9 +119,61 @@ I wrote this to share some thoughts on what differentiates AI products as we mov
 
 ## Google News: "ai"
 
+**[SpaceX dives 9% after AI spending surge rattles investors](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html)**
+
+CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.
+
+cnbc.com • 7h ago
+
+---
+
+**[SpaceX’s AI Splurge Puts Damper on Debut Earnings After IPO](https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo)**
+
+Bloomberg.com • 19h ago
+
+---
+
+**[SpaceX stock drops as AI capex jumps in Q2](https://finance.yahoo.com/technology/article/spacex-stock-drops-as-ai-capex-jumps-in-q2-132323178.html)**
+
+SpaceX reported second quarter results on Tuesday that topped estimates — its first report as a public company — which comes as the stock has been in a recent free fall.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Opinion | I’m Begging You: Never Write With A.I.](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html)**
 
-The New York Times • 16h ago
+The New York Times • 18h ago
+
+---
+
+**[Opinion | I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.](https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals](https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/)**
+
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+
+TechCrunch • 32m ago
+
+---
+
+**[Uber keeps AI spending stable using cheaper models and employees tracking cost, CFO says](https://www.businessinsider.com/uber-ai-cost-stable-cheaper-models-operational-efficiency-2026-8)**
+
+Uber uses AI for small operational changes, keeping AI spending stable while enhancing app features and efficiency, CEO Dara Khosrowshahi reports.
+
+Business Insider • 24m ago
+
+---
+
+**[Sovereign AI Without Control Is a Risk Europe Can’t Afford](https://www.datacenterknowledge.com/regulations/europe-has-built-sovereign-ai-infrastructure-it-didn-t-build-the-ability-to-govern-it-)**
+
+Converging EU and US regulations now demand demonstrated operational control and individual accountability over AI systems in production.
+
+Data Center Knowledge • 9m ago
 
 ---
 
@@ -129,71 +181,15 @@ The New York Times • 16h ago
 
 OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 
-OpenAI • 16h ago
+OpenAI • 18h ago
 
 ---
 
-**[AI agents fake identities, target real people in new security incident](https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk)**
+**[Anthropic's Mythos created fake identities to fool humans in new cyber incident](https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html)**
 
-Anthropic’s most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.
+It's the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.
 
-CNN • 9h ago
-
----
-
-**[Anthropic's AI model created fake identities to push malicious code in U.K. safety tests](https://qz.com/anthropic-mythos-ai-fake-identities-malicious-code-uk-safety-test-080526)**
-
-The U.K.'s AI Security Institute found Anthropic's Mythos 5 responsible for 17 of 19 unsanctioned actions during a routine cybersecurity evaluation
-
-qz.com • 49m ago
-
----
-
-**[We're adding to our position in a chipmaker as the AI trade regains its footing](https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html)**
-
-The stock is still well below levels it traded at last month after earnings.
-
-CNBC • 34m ago
-
----
-
-**[Game, set, Chat: how tennis players use AI to scout opponents and run their lives](https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology)**
-
-The emergence of GenAI has led to a generational shift with tennis stars conflicted on the impact of technology on their sport
-
-The Guardian • 1h ago
-
----
-
-**[A 25-Year-Old AI Investor’s Hedge Fund Implodes](https://www.forbes.com/sites/the-prompt/2026/08/05/a-25-year-old-ai-investors-hedge-fund-implodes/)**
-
-Former OpenAI researcher Leopold Aschenbrenner’s fund, Situational Awareness reached $45 billion in assets at its peak. But in a matter of weeks, the market wiped out 77% of it.
-
-Forbes • 6m ago
-
----
-
-**[SpaceX’s first earnings reveal the cost of becoming an AI giant: Chart of the Day](https://finance.yahoo.com/markets/article/spacexs-first-earnings-reveal-the-cost-of-becoming-an-ai-giant-chart-of-the-day-100100357.html)**
-
-SpaceX is becoming an AI giant faster than expected — and it's spending like one.
-
-Yahoo Finance • 3h ago
-
----
-
-**[SpaceX shares sink after first earnings report reveals huge AI spending plans](https://www.bbc.com/news/articles/c0qvpveg20vo)**
-
-Elon Musk told investors that people were "underestimating" his company.
-
-BBC • 4h ago
-
----
-
-**[SpaceX dives 12% after AI spending surge rattles investors](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html)**
-
-CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.
-
-CNBC • 5h ago
+cnbc.com • 5h ago
 
 ---
 
@@ -205,7 +201,7 @@ CNBC • 5h ago
 
 If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
 
-⬆️ 768 • 💬 449 • 1d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+⬆️ 770 • 💬 457 • 1d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 
 ---
 
@@ -213,7 +209,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL's African Cyberthreat Assessment Report 2026.
 
-⬆️ 268 • 💬 211 • 15h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+⬆️ 280 • 💬 223 • 17h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
 
 ---
 
@@ -259,7 +255,15 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 Why the productivity gains from AI are still small.
 
-⬆️ 137 • 💬 110 • 2d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+⬆️ 137 • 💬 111 • 2d ago • [Bjorg](https://bjorg.bjornroche.com/management/ai-productivity-gap/)
+
+---
+
+**[TIME Is Serving AI Bots a Different Website, with Ads Built In](https://news.ycombinator.com/item?id=49182041)**
+
+TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
+
+⬆️ 136 • 💬 47 • 2h ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -268,14 +272,6 @@ Why the productivity gains from AI are still small.
 Agentic platform for streamlining hardware and software development - spikonado/sprocket
 
 ⬆️ 124 • 💬 14 • 2d ago • [GitHub](https://sprocket-demo.spikonado.com)
-
----
-
-**[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://news.ycombinator.com/item?id=49154127)**
-
-Local AI powered red teamer on a phone. Contribute to garagehq/nightcrawler development by creating an account on GitHub.
-
-⬆️ 118 • 💬 34 • 2d ago • [GitHub](https://github.com/garagehq/nightcrawler/)
 
 ---
 
@@ -289,17 +285,17 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 15K • 👍 325 • 💬 94 • ⏱️ 10:52 • 1d ago
+👁️ 16K • 👍 337 • 💬 99 • ⏱️ 10:52 • 1d ago
 
 ---
 
-**[Big Tech Is Finally Paying for the AI Disaster It Created](https://www.youtube.com/watch?v=XB55jZAYifQ)**
+**[SpaceX just cracked the AI bubble](https://www.youtube.com/watch?v=JZJf95-GEB4)**
 
-Trillions in market value have vanished, free cash flow is collapsing even as revenues rise, companies are discovering that basic ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 House of El: AI
+📺 Chris Norlund
 
-👁️ 114K • 👍 10K • 💬 2K • ⏱️ 25:15 • 21h ago
+👁️ 35K • 👍 4K • 💬 789 • ⏱️ 16:19 • 1h ago
 
 ---
 
@@ -309,37 +305,17 @@ Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning th
 
 📺 The Young Turks
 
-👁️ 16K • 👍 584 • 💬 82 • ⏱️ 15:11 • 9h ago
+👁️ 26K • 👍 820 • 💬 125 • ⏱️ 15:11 • 11h ago
 
 ---
 
-**[MiniMax H3 = The BEST AI Video - Runs Locally in ComfyUI](https://www.youtube.com/watch?v=dgts0wG3kh0)**
+**[Big Tech Is Finally Paying for the AI Disaster It Created](https://www.youtube.com/watch?v=XB55jZAYifQ)**
 
-Forget the rest because MiniMax H3 really is the best AI video generation model you can run at home, on your own PC using ...
+Trillions in market value have vanished, free cash flow is collapsing even as revenues rise, companies are discovering that basic ...
 
-📺 Nerdy Rodent
+📺 House of El: AI
 
-👁️ 15K • 👍 742 • 💬 93 • ⏱️ 15:36 • 20h ago
-
----
-
-**[5000 Hours of Building AI in Just 17 Minutes](https://www.youtube.com/watch?v=7WZ6XldxX0U)**
-
-My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 21K • 👍 855 • 💬 63 • ⏱️ 15:44 • 1d ago
-
----
-
-**[DeepSeek V4 Just Broke AI Pricing](https://www.youtube.com/watch?v=LfvbE986-wk)**
-
-DeepSeek V4 Flash just became the cheapest capable model ever — 35x cheaper than Fable 5 at $0.03 a task! Step-by-step ...
-
-📺 Stacked Podcast
-
-👁️ 4K • 👍 120 • 💬 34 • ⏱️ 29:56 • 15h ago
+👁️ 124K • 👍 11K • 💬 2K • ⏱️ 25:15 • 23h ago
 
 ---
 
@@ -349,17 +325,17 @@ Dr. Alex Turner, PhD, recently went viral for resigning from Google DeepMind ove
 
 📺 Doom Debates
 
-👁️ 3K • 👍 148 • 💬 95 • ⏱️ 1:07:14 • 20h ago
+👁️ 4K • 👍 158 • 💬 112 • ⏱️ 1:07:14 • 22h ago
 
 ---
 
-**[White House hosts AI summit to review testing framework](https://www.youtube.com/watch?v=T9V9lMAQ888)**
+**[DeepSeek V4 Just Broke AI Pricing](https://www.youtube.com/watch?v=LfvbE986-wk)**
 
-Wall Street Journal assistant editor James Freeman joins 'Fox & Friends' to discuss the White House's AI industry summit, ...
+DeepSeek V4 Flash just became the cheapest capable model ever — 35x cheaper than Fable 5 at $0.03 a task! Step-by-step ...
 
-📺 Fox News Clips
+📺 Stacked Podcast
 
-👁️ 2K • 👍 55 • 💬 21 • ⏱️ 4:27 • 1d ago
+👁️ 5K • 👍 125 • 💬 38 • ⏱️ 29:56 • 18h ago
 
 ---
 
@@ -369,7 +345,7 @@ Evie Unraveling's Video: https://youtu.be/5btQokB32dQ Hank Green's Interview: ht
 
 📺 Adelaide Ordell
 
-👁️ 323K • 👍 20K • 💬 5K • ⏱️ 28:24 • 2d ago
+👁️ 333K • 👍 21K • 💬 5K • ⏱️ 28:24 • 2d ago
 
 ---
 
@@ -379,7 +355,27 @@ Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incide
 
 📺 CBS News
 
-👁️ 2K • 👍 29 • 💬 5 • ⏱️ 4:54 • 1d ago
+👁️ 3K • 👍 29 • 💬 5 • ⏱️ 4:54 • 1d ago
+
+---
+
+**[How to Make Cinematic Video Ads With AI (Full Guide)](https://www.youtube.com/watch?v=yFuLZ88dpq0)**
+
+Create Cinematic AI Ads with Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=conor In this video, I show my complete workflow for ...
+
+📺 Creating with Conor
+
+👁️ 4K • ⏱️ 12:38 • 52m ago
+
+---
+
+**[OpenAI&#39;s GPT-6 Astra WILL BE AGI! Greatest AI Model Ever!](https://www.youtube.com/watch?v=KbYio-N8_LU)**
+
+Build, deploy, and run always-on AI agents with the Abacus AI SuperComputer: https://supercomputer.abacus.ai/ Everything ...
+
+📺 WorldofAI
+
+👁️ 58K • 👍 1K • 💬 198 • ⏱️ 10:05 • 2d ago
 
 ---
 
@@ -395,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 2,316 • 4h ago
+⬇️ 0 • ❤️ 2,405 • 2h ago
 
 ---
 
@@ -407,7 +403,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 433,284 • ❤️ 2,409 • 4d ago
+⬇️ 433,284 • ❤️ 2,446 • 4d ago
 
 ---
 
@@ -419,7 +415,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,125,935 • ❤️ 10,059 • 8d ago
+⬇️ 1,125,935 • ❤️ 10,089 • 8d ago
 
 ---
 
@@ -429,7 +425,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 2 • ❤️ 689 • 8h ago
+⬇️ 2 • ❤️ 719 • 10h ago
 
 ---
 
@@ -441,7 +437,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,633,405 • ❤️ 1,551 • 10h ago
+⬇️ 1,633,405 • ❤️ 1,564 • 13h ago
 
 ---
 
@@ -453,7 +449,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 111,678 • ❤️ 486 • 2d ago
+⬇️ 111,678 • ❤️ 491 • 1h ago
 
 ---
 
@@ -465,7 +461,7 @@ Unlimited-OCR is a multilingual vision-language model for advanced OCR and docum
 
 `image-text-to-text` `3.3B`
 
-⬇️ 2,703,366 • ❤️ 3,893 • 7d ago
+⬇️ 2,703,366 • ❤️ 3,899 • 7d ago
 
 ---
 
@@ -477,7 +473,7 @@ Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to 
 
 `image-text-to-text` `266.0B`
 
-⬇️ 15,500 • ❤️ 299 • 5d ago
+⬇️ 15,500 • ❤️ 303 • 5d ago
 
 ---
 
@@ -489,7 +485,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 231 • 7h ago
+⬇️ 0 • ❤️ 256 • 9m ago
 
 ---
 
@@ -501,7 +497,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 47,393 • ❤️ 217 • 2h ago
+⬇️ 47,393 • ❤️ 243 • 5h ago
 
 ---
 
@@ -517,7 +513,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 465 • 💬 9 • ⭐ 8,066 • 9d ago
+▲ 468 • 💬 9 • ⭐ 8,066 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -537,13 +533,27 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
+**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+
+*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+
+🏢 jingdong
+
+Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
+
+▲ 72 • 💬 0 • ⭐ 138 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
 **[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
 
 *Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
 
 Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 139 • 💬 3 • ⭐ 210 • 2d ago
+▲ 142 • 💬 3 • ⭐ 265 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -575,6 +585,18 @@ A new sparse voxel representation called O-Voxel enables high-quality 3D generat
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 117 • 💬 4 • ⭐ 95,678 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[LongCat-Video Technical Report](https://huggingface.co/papers/2510.22200)**
 
 *Meituan LongCat Team, Xunliang Cai, Qilong Huang et al. (11 authors)*
@@ -589,15 +611,16 @@ LongCat-Video, a 13.6B parameter video generation model based on the Diffusion T
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 117 • 💬 4 • ⭐ 95,604 • 19mo ago
+▲ 84 • 💬 7 • ⭐ 83,189 • 24mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -614,33 +637,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 83,129 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
-
-*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
-
-🏢 Alibaba AMAP CV Lab
-
-We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
-
-▲ 309 • 💬 5 • ⭐ 1,667 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -651,7 +647,7 @@ Removes 20+ patterns of AI slop from any piece of writing.
 
 `Python`
 
-⭐ 4.0k • 🔱 310 • 1d ago
+⭐ 4.0k • 🔱 312 • 1d ago
 
 ---
 
@@ -661,7 +657,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.6k • 🔱 306 • 2h ago
+⭐ 3.6k • 🔱 310 • 1h ago
 
 ---
 
@@ -669,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.5k • 🔱 447 • 1d ago
+⭐ 3.5k • 🔱 448 • 2d ago
 
 ---
 
@@ -679,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.3k • 🔱 1.7k • 1h ago
+⭐ 2.3k • 🔱 1.7k • 44s ago
 
 ---
 
@@ -689,7 +685,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.9k • 🔱 137 • 2h ago
+⭐ 1.9k • 🔱 138 • 55s ago
 
 ---
 
@@ -709,7 +705,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 216 • 2h ago
+⭐ 1.8k • 🔱 218 • 3m ago
 
 ---
 
@@ -719,17 +715,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 1.7k • 🔱 124 • 1d ago
-
----
-
-**[AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)**
-
-Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
-
-`Python`
-
-⭐ 1.6k • 🔱 60 • 14d ago
+⭐ 1.7k • 🔱 129 • 2d ago
 
 ---
 
@@ -739,7 +725,17 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 1.6k • 🔱 258 • 3h ago
+⭐ 1.7k • 🔱 276 • 1h ago
+
+---
+
+**[AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)**
+
+Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
+`Python`
+
+⭐ 1.7k • 🔱 60 • 14d ago
 
 ---
 

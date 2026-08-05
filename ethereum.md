@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T13:10:27.534039+00:00'
+updated: '2026-08-05T15:37:56.253977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 13:10 UTC  
+**Last Updated:** August 05, 2026 at 15:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,884.31
+### $1,877.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -2.2%  
-**30d:** +5.7%  
-**90d:** -18.9%  
-**1y:** -49.2%  
+**24h:** +0.6%  
+**7d:** -2.1%  
+**30d:** +6.1%  
+**90d:** -18.5%  
+**1y:** -49.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.39B
+**Market Cap:** $226.60B
 Rank #2
 
 **Circulating Supply:** 120,682,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.0%
 
 **All-Time Low:** $0.43
-+431163.4%
++433553.8%
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-22h ago
+1d ago
 
 ---
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 15h ago
+The Block • 18h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 15h ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 51m ago
+ethereum.org • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 51m ago
 
 Bitcoin opened at $64,052.56 on Wednesday, August 5, 2026, and moved up to $64,486.72 by 8:29 a.m. ET. Ethereum opened at $1,868.36 on Wednesday, August 5, 2026, and moved higher this morning to $1,880.89 as of 8:56 a.m. ET.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,23 @@ Yahoo Finance • 23m ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-Step Security • 19h ago
+Step Security • 21h ago
+
+---
+
+**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
+
+EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
+
+The Defiant • 17h ago
+
+---
+
+**[Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)**
+
+NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata.
+
+The Hacker News • 1h ago
 
 ---
 
@@ -190,19 +206,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
 
-PR Newswire • 2d ago
-
----
-
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
+FXStreet • 11h ago
 
 ---
 
@@ -214,19 +222,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
-
-FXStreet • 9h ago
-
----
-
 **[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
 
 Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-AMBCrypto • 14h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -240,7 +240,17 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 17K • 👍 520 • 💬 78 • ⏱️ 10:24 • 21h ago
+👁️ 19K • 👍 560 • 💬 86 • ⏱️ 10:24 • 23h ago
+
+---
+
+**[🟣 Ethereum $7000](https://www.youtube.com/watch?v=5B_3buDI0Kw)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 850 • 👍 170 • 💬 11 • ⏱️ 13:21 • 3h ago
 
 ---
 
@@ -250,7 +260,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 5K • 👍 405 • 💬 38 • ⏱️ 10:22 • 1d ago
+👁️ 6K • 👍 418 • 💬 39 • ⏱️ 10:22 • 1d ago
+
+---
+
+**[Live Crypto Trading | ETH and BTC Breakout Soon | Xauusd Live Trade](https://www.youtube.com/watch?v=2ezDcDpEQV0)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 2K • 👍 565 • 57m ago
 
 ---
 
@@ -260,17 +280,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 174 • 💬 7 • ⏱️ 7:57 • 12h ago
-
----
-
-**[Tom Lee Proves ETH Is BETTER Than Bitcoin](https://www.youtube.com/watch?v=410Xf3lj-nA)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 24K • 👍 851 • 💬 107 • ⏱️ 15:24 • 3d ago
+👁️ 3K • 👍 209 • 💬 9 • ⏱️ 7:57 • 14h ago
 
 ---
 
@@ -280,37 +290,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 195 • ⏱️ 10:08 • 14h ago
-
----
-
-**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
-
-BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 279 • 💬 15 • ⏱️ 1:03:35 • 21h ago
-
----
-
-**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
-
-YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
-
-📺 The Moon Show
-
-👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 2d ago
-
----
-
-**[Ethereum &amp; Bitcoin, bekommen wir noch den Abverkauf, bevor es nach oben geht!??](https://www.youtube.com/watch?v=71BmID5M2Bw)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 409 • 💬 115 • ⏱️ 7:36 • 9h ago
+👁️ 30K • 👍 2K • 💬 214 • ⏱️ 10:08 • 17h ago
 
 ---
 
@@ -320,17 +300,37 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 3K • 👍 83 • 💬 8 • ⏱️ 35:18 • 1d ago
+👁️ 3K • 👍 87 • 💬 8 • ⏱️ 35:18 • 1d ago
 
 ---
 
-**[Ethereum&#39;s Biggest Secret: Who REALLY Controls Staking? #shorts](https://www.youtube.com/watch?v=Z704WPpIhL8)**
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
 
-Ethereum's biggest infrastructure decision of the year was made without the Ethereum Foundation. Discover how the network's ...
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
 
-📺 Dana Love, PhD
+📺 The Modern Investor
 
-👁️ 677 • 👍 38 • 💬 29 • ⏱️ 1:28 • 12h ago
+👁️ 7K • 👍 733 • 💬 196 • ⏱️ 28:23 • 1d ago
+
+---
+
+**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
+
+BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 285 • 💬 15 • ⏱️ 1:03:35 • 1d ago
+
+---
+
+**[Why Ethereum Is Holding Up Against Bitcoin](https://www.youtube.com/watch?v=mhCaQ1_Vrz4)**
+
+Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has been in a brutal bear market since October, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 41 • 💬 22 • ⏱️ 0:36 • 18h ago
 
 ---
 
