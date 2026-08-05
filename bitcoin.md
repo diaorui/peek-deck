@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-05T02:33:10.187504+00:00'
+updated: '2026-08-05T05:46:18.219163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 02:33 UTC  
+**Last Updated:** August 05, 2026 at 05:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,246.93
+### $64,306.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -0.6%  
-**30d:** +1.7%  
-**90d:** -19.7%  
-**1y:** -44.0%  
+**24h:** +1.1%  
+**7d:** -0.7%  
+**30d:** +1.6%  
+**90d:** -19.8%  
+**1y:** -44.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1292.01B
+**Market Cap:** $1290.56B
 Rank #1
 
-**Circulating Supply:** 20,065,878 BTC
+**Circulating Supply:** 20,065,959 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.0%
 
 **All-Time Low:** $67.81
-+94844.7%
++94741.5%
 
 ---
 
@@ -109,7 +109,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 - "What's a retirement attack?" - COLDCARD (@COLDCARDwallet): "It's when the project makers could have a "bug" in the entropy generation for later retrieval". _____ Seems that they were smart enough to launch a "dice rolls" suggestion in a critical element lacking foolproof design, knowing not all users would be paranoid enough. Like "hey, if you don't trust no problem, but...you can trust buddy, the (back)door is open." ☠️ Ok no, enough of conspiracy theory continuation. We know that Coldcard's post was pure coincidence. Right?...Right? Edit: In case you're curious on more tweets mentioning "retirement attack", here is another one: @nvk - 21 Dec 20: "My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack. Alternatively people could just use dice ;)." https://x.com/i/status/1341213389549412353 A strange way to warn "alternatively people" of what you have in mind to do...but Freudian slip or parapraxis theory explains that better, in case you're curious...
 
-21h ago
+1d ago
 
 ---
 
@@ -159,7 +159,7 @@ The Coldcard thief’s address has officially become the most chaotic public bul
 
 Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.
 
-CoinDesk • 2h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,27 +171,41 @@ Fox Business • 2d ago
 
 ---
 
-**[More than $100M worth of bitcoin stolen in data breach | Hanomansing Tonight](https://ca.news.yahoo.com/more-100m-worth-bitcoin-stolen-004837786.html)**
+**[Strategy Sells More Bitcoin, Stock as It Pushes on With Overhaul](https://www.bloomberg.com/news/articles/2026-08-03/strategy-sells-more-bitcoin-stock-as-it-pushes-on-with-overhaul)**
 
-A bitcoin-only hardware wallet has been the latest target of a data breach. Hackers reportedly drained more than $100 million US worth of bitcoin from Coldcard hard wallets.
-
-Yahoo News Canada • 1h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-073725523.html)**
+**[Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html)**
 
-American Bitcoin Corp. (NASDAQ:ABTC) CEO Mike Ho sidestepped questions on Monday about selling Bitcoin (CRYPTO: BTC) to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned about the company’s treasury management strategy and whether it would contemplate selling Bitcoin to improve business economics, similar to the approach taken by Michael Saylor’s Strategy Inc. (
+Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Trump-Linked American Bitcoin Settles Improper PPP Loan Allegation For $2.5 Million](https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/)**
+**['Not One Satoshi'—Saylor Sells $105 Million In Bitcoin Below Cost](https://www.forbes.com/sites/boazsobrado/2026/08/05/not-one-satoshi-saylor-sells-105-million-in-bitcoin-below-cost/)**
+
+Strategy sold 1,638 bitcoin at $63,957, under its $75,419 average cost, to pay preferred dividends and buy back STRC stock. Michael Saylor says he has sold none.
+
+Forbes • 14m ago
+
+---
+
+**[Trump brothers-backed American Bitcoin swings to second-quarter loss](https://finance.yahoo.com/markets/crypto/articles/trump-brothers-backed-american-bitcoin-114602551.html)**
+
+Market volatility from surging geopolitical tensions has pushed investors into a risk-off mode, piling pressure on ‌crypto asset prices.  • "Despite ‌bitcoin headwinds in Q2, ​we stayed focused on ​what we ​can control," CEO Mike ‌Ho said.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Trump-Linked Bitcoin Venture Reached $2.5 Million Settlement Over Improperly Obtained Loan Allegation](https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/)**
 
 The settlement was noted in the company’s 10-Q filing, excluded from its earnings narrative.
 
-Forbes • 4h ago
+Forbes • 7h ago
 
 ---
 
@@ -207,31 +221,15 @@ CoinDesk • 1d ago
 
 Canadian digital asset manager 3iQ Corp. will work to manage some of the Bitcoin reserves of Bhutan's Gelephu Mindfulness City project.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year's bull cycle](https://www.cnbc.com/video/2026/08/03/strategy-ceo-phong-le-expecting-strategy-to-outperform-bitcoin-in-next-years-bull-cycle.html)**
+**[BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus](https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus)**
 
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the cryptocurrency and much more.
+The move pushes the total value migrating from LayerZero to Chainlink near $15 billion, with WBTC representing the largest shift yet.
 
-cnbc.com • 1d ago
-
----
-
-**[The First Spot Bitcoin ETF Is About to Shut Down. Here's What Crypto Investors Need to Know](https://www.fool.com/investing/2026/08/04/the-first-spot-bitcoin-etf-is-about-to-shut-down-heres-what-crypto-investors-need-to-know/)**
-
-Crypto investors are feeling the squeeze as AI steals the spotlight.
-
-The Motley Fool • 6h ago
-
----
-
-**[A $116 million bitcoin theft: hackers break into one of the safest places to store cryptocurrencies](https://english.elpais.com/economy-and-business/2026-08-04/a-116-million-bitcoin-theft-hackers-break-into-one-of-the-safest-places-to-store-cryptocurrencies.html)**
-
-Attackers used a vulnerability in Coldcard wallets  in an incident that is still ongoing and reflects a visible trend in the crypto ecosystem
-
-EL PAÍS English • 17h ago
+The Block • 14h ago
 
 ---
 
@@ -259,7 +257,7 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WASHINGTON—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is taking further action against the Iranian regime’s desperate efforts to monetize the Strait of Hormuz and prop up the nation’s failing economy.  OFAC is designating two firms integral to an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme that forces commercial vessels to purchase mandatory maritime “insurance” to transit the Strait.  Although this coverage purports to protect vessels from risks such as seizures, these risks are overwhelmingly created by Iran itself.  Through the Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority, the regime brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions—allowing Iran to tighten control over shipping activity and funnel funds into IRGC operations.“With its economy in freefall and inflation in the triple digits, the regime is desperate for cash,” said Secretary of the Treasury Scott Bessent. “The United States will not allow Iran to hold global commerce hostage or use international shipping to finance the IRGC’s terrorism, aggression, and repression.”                            OFAC is also reinforcing U.S. military interdiction efforts and intensifying pressure on Iran’s energy shipments by imposing sanctions on several vessels that transported Iranian crude oil and petrochemical products.  Since the beginning of the year, OFAC has sanctioned over 100 vessels linked to Iran’s shadow fleet, a covert logistics network that enables the regime to keep oil revenues flowing despite international sanctions. Today’s action was taken pursuant to Executive Order (E.O.) 13902, which targets Iran’s petroleum and petrochemical sectors and advances the President’s National Security Presidential Memorandum 2 (NSPM-2), to impose maximum economic pressure on Iran. IRANIAN Regime’s EXTORTION SCHEMEIn an attempt to prop up revenue streams decimated by Operation Epic Fury, Iran has established illegitimate schemes through the Persian Gulf Marine Insurance Company (PGMIC) and HormuzSafe Marine Services Authority, also known as Hormuz Safe, to extort vessels attempting to conduct routine commercial passages through the Strait of Hormuz.  Established by the Central Insurance of the Islamic Republic of Iran, Iran’s primary insurance regulator, the PGMIC brokers and issues insurance policies approved by the U.S.-designated, IRGC-backed Persian Gulf Strait Authority (PGSA).  The insurance covers risks, most of which are created by Iran itself, such as vessel seizures, and aims to generate revenue to fund the regime’s terror and corruption. PGSA was designated pursuant to E.O. 13224, as amended, on May 27, 2026 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the IRGC. Hormuz Safe is an Iranian digital insurance firm that advertises itself as a company offering trusted maritime services, including insurance, traffic control, security, and emergency response, to vessels transiting the Strait of Hormuz.  Developed by Iran’s Ministry of Economy, it accepts payment in Bitcoin and other digital assets as part of the regime’s attempts to bypass Western sanctions. Disgraced regime financier Babak Morteza Zanjani, who was sanctioned earlier this year, promoted Hormuz Safe to his social media followers.  Hormuz Safe generates revenue on behalf of the IRGC in an attempt to give the regime tighter control over shipping activity. The Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority are being designated pursuant to E.O. 13902 for operating in the financial sector of the Iranian economy. shadow fleet ACTORSTreasury is also taking action today against multiple shadow fleet vessels responsible for transporting millions of barrels of Iranian crude oil and petroleum products.  Iran’s shadow fleet provides an essential lifeline to the Iranian regime, which relies on oil sales to bolster its ailing economy. The Marshall Islands-flagged chemical/products tanker WELL SAIL (IMO 9321938), owned, operated, and managed by China-based Qi Hang Ship Management Limited, has transported hundreds of thousands of barrels of Iranian petroleum products to the United Arab Emirates (UAE) in 2026. The Mozambique-flagged crude oil tanker LILY (IMO 9294331), owned and operated by Hong Kong-based Confident Apex Limited, has transported millions of barrels of Iranian oil since 2025.The unknown-flagged crude oil tanker AL SALMI (IMO 9298296), owned and operated by Hong Kong-based Billion Nexus Int’l Co., Limited, has transported hundreds of thousands of barrels of Iranian oil to China since 2025.The Barbados-flagged crude oil tanker BREEZE V (IMO 9259355), owned and operated by Hong Kong-based Nevada Spirit Company Limited, has transported millions of barrels of Iranian oil to China in 2026. The Barbados-flagged crude oil tanker NATSUMI (IMO 9331244), owned, operated, and managed by Hong Kong-based Marinova Freight Limited, has transported millions of barrels of Iranian crude oil to China since 2022. The Vanuatu-flagged crude oil tanker CRYSTAL (IMO 9223887), owned, operated, and managed by Hong Kong and Marshall Islands-based Vast Mighty Limited, has transported millions of barrels of Iranian crude oil to China in 2026. The Vanuatu-flagged crude oil tanker NIRETA (IMO 9237785), owned, operated, and managed by Marshall Islands-based Ocean Tranquility Limited, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026. The Barbados-flagged crude oil tanker YEHOPE (IMO 9243320), owned by Marshall Islands-based Branch Saying International Trading Co Ltd, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026.   The following companies are being designated pursuant to E.O. 13902 for operating in the petroleum sector of the Iranian economy: Qi Hang Ship Management Limited;Marinova Freight Limited;Vast Mighty Limited;Ocean Tranquility Limited; Branch Saying International Trading Co Ltd;Confident Apex Limited;Billion Nexus Int’l Co., Limited; andNevada Spirit Company Limited.The following vessels are being identified as blocked property of the previously identified blocked persons: WELL SAIL (Qi Hang Ship Management Limited);NATSUMI (Marinova Freight Limited); CRYSTAL (Vast Mighty Limited); NIRETA (Ocean Tranquility Limited); YEHOPE (Branch Saying International Trading Co Ltd);LILY (Confident Apex Limited);AL SALMI (Billion Nexus Int’l Co., Limited); andBREEZE V (Nevada Spirit Company Limited). SANCTIONS IMPLICATIONSAs a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked.  Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons. Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons.  OFAC may impose civil penalties for sanctions violations on a strict liability basis.  OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons.  The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person.  Non-U.S. persons are also prohibited from causing or conspiring to cause U.S. persons to wittingly or unwittingly violate U.S. sanctions, as well as engaging in conduct that evades U.S. sanctions.  Individuals located in the U.S. or abroad who provide information about sanctions violations to FinCEN’s whistleblower incentive program may be eligible for awards if the information they provide leads to a successful enforcement action that results in monetary penalties exceeding $1,000,000. The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law.  The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior.  For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.Click here for more information on the persons designated and any property identified as blocked property today.###
 
-⬆️ 10 • 💬 2 • 2d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
+⬆️ 10 • 💬 2 • 3d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
 
 ---
 
@@ -276,7 +274,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 7 • 💬 0 • 5h ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 7 • 💬 0 • 8h ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -290,7 +288,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 15h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 18h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -298,7 +296,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
 
-⬆️ 2 • 💬 0 • 20h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
+⬆️ 2 • 💬 0 • 1d ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -322,23 +320,23 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 ## YouTube Videos: "bitcoin"
 
+**[Are Washington&#39;s Fingerprints On This $100 Million Bitcoin Hack?](https://www.youtube.com/watch?v=ggc2Cq4NUQk)**
+
+The Coldcard wallet exploit has already resulted in the theft of more than $100 million in Bitcoin, but new details are raising even ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 890 • 💬 162 • ⏱️ 10:16 • 7h ago
+
+---
+
 **[Saylor: &quot;Everyone Has Been Sold a Lie&quot; on Bitcoin](https://www.youtube.com/watch?v=I2y6CcOiBKk)**
 
 Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unlock $100k): ...
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 131 • ⏱️ 9:49 • 1d ago
-
----
-
-**[Hackers Hit Bitcoin’s Safest Hiding Place](https://www.youtube.com/watch?v=bSFRf9pRrr8)**
-
-Bloomberg's Lauren Tara LaCapra joins Scarlet Fu and Tim Stenovec on "Bloomberg Crypto." Hackers have absconded with ...
-
-📺 Bloomberg Television
-
-👁️ 5K • 👍 129 • 💬 52 • ⏱️ 4:17 • 5h ago
+👁️ 51K • 👍 2K • 💬 143 • ⏱️ 9:49 • 1d ago
 
 ---
 
@@ -348,27 +346,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 178 • ⏱️ 17:44 • 1d ago
+👁️ 5K • 👍 182 • ⏱️ 17:44 • 1d ago
 
 ---
 
-**[Are Washington&#39;s Fingerprints On This $100 Million Bitcoin Hack?](https://www.youtube.com/watch?v=ggc2Cq4NUQk)**
+**[Crypto will EXPLODE in August! (Explained in 10 minutes)](https://www.youtube.com/watch?v=mVk1_eKbtfE)**
 
-The Coldcard wallet exploit has already resulted in the theft of more than $100 million in Bitcoin, but new details are raising even ...
+August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 6K • 👍 710 • 💬 114 • ⏱️ 10:16 • 4h ago
-
----
-
-**[Bitcoin is in Serious Trouble Again! [Warning]](https://www.youtube.com/watch?v=HUBTY70-qOM)**
-
-Join Ran as he unpacks why crypto is falling behind even as stocks and AI continue pushing to new highs. He breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 869 • 💬 31 • ⏱️ 23:55 • 11h ago
+👁️ 16K • 👍 1K • 💬 176 • ⏱️ 10:08 • 7h ago
 
 ---
 
@@ -378,27 +366,7 @@ More than 1300 Bitcoin was drained from thousands of cold-storage addresses afte
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 208 • ⏱️ 17:22 • 1d ago
-
----
-
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
-
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
-
-📺 CNBC Television
-
-👁️ 17K • 👍 132 • 💬 140 • ⏱️ 4:12 • 1d ago
-
----
-
-**[Bitcoin: A Decision Will be Forced](https://www.youtube.com/watch?v=WRftdLFrepU)**
-
-Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference ...
-
-📺 Benjamin Cowen
-
-👁️ 103K • 👍 6K • 💬 249 • ⏱️ 7:53 • 1d ago
+👁️ 21K • 👍 1K • 💬 214 • ⏱️ 17:22 • 1d ago
 
 ---
 
@@ -408,17 +376,47 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 616K • 👍 32K • 💬 2K • ⏱️ 1:39 • 1d ago
+👁️ 639K • 👍 33K • 💬 2K • ⏱️ 1:39 • 1d ago
 
 ---
 
-**[The Bitcoin Revolution Is Happening NOW (But Backwards) | Nolan Bauerle](https://www.youtube.com/watch?v=16oS7rOPB8s)**
+**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
 
-Nolan Bauerle joins Mark Moss to explain why Bitcoin, AI, and energy are converging into a new economic system, why the Trump ...
+Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
 
-📺 Market Disruptors Podcast
+📺 CNBC Television
 
-👁️ 8K • 👍 301 • 💬 120 • ⏱️ 1:06:19 • 1d ago
+👁️ 17K • 👍 136 • 💬 137 • ⏱️ 4:12 • 1d ago
+
+---
+
+**[CRYPTO BOTTOM Forming...Saylor Sells $100m Bitcoin, Coldcard Hack, Market Holds!](https://www.youtube.com/watch?v=8LHF1gpTmZo)**
+
+My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 486 • 💬 205 • ⏱️ 10:47 • 13h ago
+
+---
+
+**[Bitcoin: A Decision Will be Forced](https://www.youtube.com/watch?v=WRftdLFrepU)**
+
+Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference ...
+
+📺 Benjamin Cowen
+
+👁️ 105K • 👍 6K • 💬 252 • ⏱️ 7:53 • 1d ago
+
+---
+
+**[Bitcoin is in Serious Trouble Again! [Warning]](https://www.youtube.com/watch?v=HUBTY70-qOM)**
+
+Join Ran as he unpacks why crypto is falling behind even as stocks and AI continue pushing to new highs. He breaks down the ...
+
+📺 Crypto Banter
+
+👁️ 19K • 👍 894 • 💬 32 • ⏱️ 23:55 • 15h ago
 
 ---
 

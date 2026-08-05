@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T02:33:10.193717+00:00'
+updated: '2026-08-05T05:46:18.224865+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 02:33 UTC  
+**Last Updated:** August 05, 2026 at 05:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +1.0%  
 **7d:** -2.3%  
-**30d:** +5.9%  
+**30d:** +5.8%  
 **90d:** -18.8%  
 **1y:** -49.1%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.04B
+**Market Cap:** $225.87B
 Rank #2
 
 **Circulating Supply:** 120,682,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.2%
 
 **All-Time Low:** $0.43
-+432482.2%
++432165.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-11h ago
+15h ago
 
 ---
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -118,7 +118,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 4h ago
+The Block • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,23 @@ Yahoo Finance • 22h ago
 
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 20h ago
+CoinDesk • 23h ago
+
+---
+
+**[Ethereum: Glamsterdam upgrade lands - Aug 2026](https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/)**
+
+The event description states that Glamsterdam, described as Ethereum's biggest upgrade since the Merge, lands at the end of August.The upgrade gives ETH a defined near-term network-development catalyst. Its stated scale relative to the Merge is the detail most likely to draw investor attention, sin…
+
+TradingView • 1d ago
+
+---
+
+**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
+
+EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
+
+The Defiant • 12h ago
 
 ---
 
@@ -190,11 +206,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
+**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
 
-This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
+Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-TradingView • 2d ago
+AMBCrypto • 6h ago
+
+---
+
+**[PMI rebound lifts US stocks while Bitcoin and Ethereum retain warning signals](https://www.kitco.com/opinion/2026-08-04/pmi-rebound-lifts-us-stocks-while-bitcoin-and-ethereum-retain-warning-signals)**
+
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }Bitcoin recovered into its daily Cloud after a Monday wick to $62,300, but the crypto structure remains conditional and the analysis still favors another oscillation toward lower support unless BTC clears short-term resistance. At the same time, a sharp rise in PMI to 55.6 materially improved the outlook for US equities without erasing the weak signals across crypto breadth and selected global markets.Bitcoin recovered into the Cloud, but resistance still decides the next moveBTC wicked to $62,300 on Monday, nearly undercutting Saturday’s low, before recovering inside the daily Cloud and tagging the Fast line. That retrace is constructive, but RSI remains below resistance and OBV is flattening and beginning to trend lower. The analysis continues to favor the existing oscillation toward the next support-step zone below $62,000 unless BTC closes above short-term overhead resistance, which would require a close above roughly $64,000.Ethereum is showing a cluster of bearish warningsETH printed a TBT Bearish Divergence on Friday, dipped below the Fast line, and then wicked twice into short-term support. A close below that level could open a move toward the bottom of the Cloud, but that outcome still requires confirmation. RSI leans bearish and OBV crossed below its white moving average over the weekend. ETH/BTC added a second TBT Bearish Divergence on Monday, reinforcing the warning without turning it into a guaranteed breakdown.Stablecoin dominance has not delivered its closing confirmationCombined stablecoin dominance again wicked above the daily Cloud on Monday but has not closed above it. That close matters because a confirmed move above the Cloud could precede a TBO Open Long, similar to the setup seen before the June decline. Elsewhere, BTC dominance remains in consolidation, ETH dominance printed another bearish divergence, OTHERS.D remains strong bearish, and RSI and OBV across the broader market-cap charts remain weak.The new PMI reading changes the US equity outlookUS ISM PMI jumped to 55.6, up 2.3 points and its highest reading since June 2022. The chart is moving toward an area associated with past market tops, and the current move represents a major improvement for US equities. That does not imply an immediate market top, nor does it guarantee that every market will rise. It does, however, represent a material change from the previous US stock outlook.US indexes are responding positively, but the strength is not universalS&amp;P futures pushed back toward TBO Resistance and the SPX spot chart was described as being close to a new all-time high. DJI was nearly there, NDX still had an upper gap to close, NVDA had not closed its lower gap, and TSLA was framed for a recovery toward its upper gap and potentially $400 if the broader market continues higher. The PMI data applies to US indices and should not be projected automatically onto Japan, Hong Kong, Korea, or every other market.ALT setups remain selective and conditionalSOL is holding support only “kinda-sorta”; a confirmed close below support could open a larger move lower. ADA’s elevated RSI and recent four-hour TBO Breakout Cluster look more like exhaustion than continuation. UNI remains a conditional Springboard Bounce candidate as long as there is no massive pullback, while NEAR, ICP, ATOM and ENA are being watched for resistance or Fast-line short setups. Those are chart conditions to monitor, not unconditional trade outcomes.Learn my strategies and the tools I use every day by visiting The Complete Cryptocurrency Investor by Mastering Assets.
+
+KITCO • 12h ago
 
 ---
 
@@ -202,29 +226,7 @@ TradingView • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
-
----
-
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
-
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
-
-thedefiant.io • 8h ago
-
----
-
-**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
-
-Ethereum staking surge raises fresh questions over crypto market liquidity.
-
-AMBCrypto • 3h ago
-
----
-
-**[Ethereum Price at Make-or-Break Point: Will ETH Hold $1,850 or Decline Toward $1,780?](https://www.ccn.com/analysis/crypto/ethereum-price-prediction-eth-1850-support-1780/)**
-
-CCN.com • 16h ago
+Fortune • 20h ago
 
 ---
 
@@ -238,17 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 7K • 👍 341 • 💬 51 • ⏱️ 10:24 • 10h ago
-
----
-
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 5K • 👍 383 • 💬 11 • ⏱️ 10:22 • 14h ago
+👁️ 11K • 👍 437 • 💬 63 • ⏱️ 10:24 • 13h ago
 
 ---
 
@@ -258,7 +250,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 841 • 💬 106 • ⏱️ 15:24 • 2d ago
+👁️ 24K • 👍 843 • 💬 107 • ⏱️ 15:24 • 2d ago
 
 ---
 
@@ -268,7 +260,7 @@ BlackRock is making major moves with Solana and Ethereum, and these are the top 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 269 • 💬 22 • ⏱️ 1:03:35 • 10h ago
+👁️ 5K • 👍 276 • 💬 23 • ⏱️ 1:03:35 • 14h ago
 
 ---
 
@@ -278,7 +270,7 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 709 • 💬 119 • ⏱️ 28:23 • 17h ago
+👁️ 6K • 👍 714 • 💬 154 • ⏱️ 28:23 • 20h ago
 
 ---
 
@@ -288,17 +280,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 1K • 💬 107 • ⏱️ 10:08 • 4h ago
-
----
-
-**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
-
-Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
-
-📺 The Rollup
-
-👁️ 2K • 👍 78 • 💬 7 • ⏱️ 35:18 • 1d ago
+👁️ 16K • 👍 1K • 💬 176 • ⏱️ 10:08 • 7h ago
 
 ---
 
@@ -308,7 +290,27 @@ Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has
 
 📺 The Wolf Of All Streets
 
-👁️ 722 • 👍 22 • 💬 27 • ⏱️ 0:36 • 5h ago
+👁️ 1K • 👍 29 • 💬 29 • ⏱️ 0:36 • 8h ago
+
+---
+
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 393 • 💬 9 • ⏱️ 10:22 • 17h ago
+
+---
+
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
+
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
+
+📺 The Rollup
+
+👁️ 2K • 👍 80 • 💬 16 • ⏱️ 35:18 • 1d ago
 
 ---
 
@@ -318,17 +320,17 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 7K • 👍 326 • 💬 47 • ⏱️ 5:30 • 1d ago
+👁️ 7K • 👍 329 • 💬 47 • ⏱️ 5:30 • 1d ago
 
 ---
 
-**[BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Q6tBhy3zJJY)**
+**[Ethereum &amp; Bitcoin, bekommen wir noch den Abverkauf, bevor es nach oben geht!??](https://www.youtube.com/watch?v=71BmID5M2Bw)**
 
-BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ ...
 
-📺 Crypto World
+📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 195 • 💬 93 • ⏱️ 18:51 • 8h ago
+👁️ 734 • 👍 213 • 💬 75 • ⏱️ 7:36 • 2h ago
 
 ---
 
