@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T17:37:50.851644+00:00'
+updated: '2026-08-05T19:35:14.273144+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 17:37 UTC  
+**Last Updated:** August 05, 2026 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-13h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-19h ago
+21h ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-19h ago
+21h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-11h ago
+13h ago
 
 ---
 
@@ -134,7 +134,15 @@ IEEE Spectrum • 2d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 2h ago
+Business Insider • 4h ago
+
+---
+
+**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
+
+These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
+
+Yahoo Finance • 8h ago
 
 ---
 
@@ -146,35 +154,11 @@ Forbes • 2d ago
 
 ---
 
-**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
+**[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
 
-These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
+Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
 
-Yahoo Finance • 6h ago
-
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
-
-The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
-
-MIT Technology Review • 1d ago
-
----
-
-**[The Trump admin just banned Roombas: what else is affected?](https://www.newsweek.com/trumps-new-robotics-rules-the-household-items-impacted-12281594)**
-
-Trump's new robotics rules target foreign-produced advanced robots. Here's which household devices could be affected.
-
-Newsweek • 1d ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -194,19 +178,23 @@ Data Center Dynamics • 1d ago
 
 ---
 
+**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
+
+Japan Today • 22h ago
+
+---
+
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
-
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
-
-📺 NBC News
-
-👁️ 74K • 👍 394 • 💬 535 • ⏱️ 6:04 • 6d ago
-
----
 
 **[Gemini Robotics 2 brings whole body intelligence to robots](https://www.youtube.com/watch?v=4lSQnrMC6nY)**
 
@@ -214,7 +202,37 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 238K • 👍 6K • 💬 531 • ⏱️ 3:00 • 6d ago
+👁️ 239K • 👍 6K • 💬 529 • ⏱️ 3:00 • 6d ago
+
+---
+
+**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
+
+Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
+
+📺 KCRA 3
+
+👁️ 20K • 👍 245 • 💬 169 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
+
+Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
+
+📺 Sling and Stone
+
+👁️ 30K • 👍 2K • 💬 442 • ⏱️ 15:58 • 19h ago
+
+---
+
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
+
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
+
+📺 NBC News
+
+👁️ 74K • 👍 395 • 💬 535 • ⏱️ 6:04 • 6d ago
 
 ---
 
@@ -228,23 +246,13 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 ---
 
-**[FCC Robot Mower Ban Explained](https://www.youtube.com/watch?v=jAFmI1y3-TA)**
-
-Full Info → In this video, we dive into the massive news that the FCC has officially banned new foreign-made robot lawn mowers ...
-
-📺 How To with Doc
-
-👁️ 9K • 👍 506 • 💬 50 • ⏱️ 14:08 • 21h ago
-
----
-
 **[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
 
 After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
 
 📺 Bloomberg Television
 
-👁️ 60K • 👍 926 • 💬 93 • ⏱️ 11:26 • 3d ago
+👁️ 61K • 👍 949 • 💬 93 • ⏱️ 11:26 • 3d ago
 
 ---
 
@@ -254,7 +262,17 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 35K • 👍 656 • 💬 52 • ⏱️ 1:00 • 5d ago
+👁️ 38K • 👍 692 • 💬 56 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Trump Administration Bans Chinese Humanoid Robots | The AI War Begins? | By Ankit Sir](https://www.youtube.com/watch?v=poNXL5lzuDg)**
+
+https://youtu.be/5llFYp6KkSQ CJP vs Government | Dharmendra Pradhan Resignation That Changed the Political Game | By Ankit ...
+
+📺 Apni Pathshala
+
+👁️ 220K • 👍 14K • 💬 462 • ⏱️ 14:02 • 2d ago
 
 ---
 
@@ -264,7 +282,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 196K • 👍 2K • 💬 640 • ⏱️ 3:14 • 3d ago
+👁️ 197K • 👍 2K • 💬 641 • ⏱️ 3:14 • 3d ago
 
 ---
 
@@ -274,27 +292,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 30K • 👍 545 • 💬 42 • ⏱️ 9:54 • 4d ago
-
----
-
-**[New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](https://www.youtube.com/watch?v=OrcBSpADCGk)**
-
-HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 116K • 👍 4K • 💬 380 • ⏱️ 28:10 • 3d ago
-
----
-
-**[Luna humanoid robot&#39;s fashion show debut left everyone speechless #robotics #cyberpunk  #robot](https://www.youtube.com/watch?v=Y2xLiSejeaA)**
-
-On a South Korean fashion survival show, a humanoid robot, looking like it stepped straight out of a time machine, walked into the ...
-
-📺 Kalil 4.0
-
-👁️ 652 • 👍 29 • ⏱️ 1:08 • 5h ago
+👁️ 30K • 👍 548 • 💬 42 • ⏱️ 9:54 • 4d ago
 
 ---
 

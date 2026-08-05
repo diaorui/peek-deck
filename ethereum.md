@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T17:37:50.848346+00:00'
+updated: '2026-08-05T19:35:14.269837+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 17:37 UTC  
+**Last Updated:** August 05, 2026 at 19:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,894.12
+### $1,916.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.3%  
-**30d:** +7.0%  
-**90d:** -17.8%  
-**1y:** -48.5%  
+**24h:** +2.3%  
+**7d:** +0.0%  
+**30d:** +8.4%  
+**90d:** -16.8%  
+**1y:** -47.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.60B
+**Market Cap:** $231.47B
 Rank #2
 
 **Circulating Supply:** 120,682,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.2%
 
 **All-Time Low:** $0.43
-+433553.8%
++442785.2%
 
 ---
 
@@ -154,7 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 20h ago
+The Block • 22h ago
+
+---
+
+**[Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked](https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked)**
+
+The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
+
+Decrypt • 8h ago
 
 ---
 
@@ -162,7 +170,7 @@ The Block • 20h ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-Step Security • 23h ago
+Step Security • 1d ago
 
 ---
 
@@ -178,15 +186,7 @@ Yahoo Finance • 1d ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 5h ago
-
----
-
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
-
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
-
-The Defiant • 19h ago
+ethereum.org • 7h ago
 
 ---
 
@@ -198,19 +198,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)**
-
-NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata.
-
-The Hacker News • 3h ago
-
----
-
 **[Why are Bitcoin and Ethereum edging higher as XRP slides?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-advance-while-xrp-lags-amid-us-iran-deal-optimism-202608051100)**
 
 Bitcoin (BTC) hovers near $64,000 at the time of writing on Wednesday, buoyed by a marginal improvement in crypto sentiment amid growing optimism that the United States (US) and Iran could potentially reach an agreement to open the Strait of Hormuz this week.
 
-FXStreet • 6h ago
+FXStreet • 8h ago
 
 ---
 
@@ -218,15 +210,21 @@ FXStreet • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
-**[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
+**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
 
-BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
+Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-Decrypt • 1d ago
+AMBCrypto • 20h ago
+
+---
+
+**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://www.ccn.com/news/crypto/ethereum-beat-nasdaq-100-btc-july-tom-lee/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 19K • 👍 560 • 💬 86 • ⏱️ 10:24 • 1d ago
+👁️ 20K • 👍 596 • 💬 100 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -250,27 +248,17 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 850 • 👍 170 • 💬 11 • ⏱️ 13:21 • 5h ago
+👁️ 2K • 👍 239 • 💬 15 • ⏱️ 13:21 • 7h ago
 
 ---
 
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Moon Show
+📺 Crypto World
 
-👁️ 6K • 👍 418 • 💬 39 • ⏱️ 10:22 • 1d ago
-
----
-
-**[Live Crypto Trading | ETH and BTC Breakout Soon | Xauusd Live Trade](https://www.youtube.com/watch?v=2ezDcDpEQV0)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 2K • 👍 565 • 2h ago
+👁️ 860 • 👍 82 • 💬 58 • ⏱️ 18:17 • 1h ago
 
 ---
 
@@ -280,17 +268,27 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 209 • 💬 9 • ⏱️ 7:57 • 16h ago
+👁️ 4K • 👍 226 • 💬 11 • ⏱️ 7:57 • 18h ago
 
 ---
 
-**[Crypto will EXPLODE in August! (Explained in 10 minutes)](https://www.youtube.com/watch?v=mVk1_eKbtfE)**
+**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
 
-August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
 
-📺 Altcoin Daily
+📺 Alexander Lorenzo
 
-👁️ 30K • 👍 2K • 💬 214 • ⏱️ 10:08 • 19h ago
+👁️ 192 • 👍 13 • 💬 13 • ⏱️ 1:32 • 39m ago
+
+---
+
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 422 • 💬 39 • ⏱️ 10:22 • 1d ago
 
 ---
 
@@ -300,7 +298,7 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 3K • 👍 87 • 💬 8 • ⏱️ 35:18 • 1d ago
+👁️ 3K • 👍 90 • 💬 8 • ⏱️ 35:18 • 1d ago
 
 ---
 
@@ -310,7 +308,7 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 733 • 💬 196 • ⏱️ 28:23 • 1d ago
+👁️ 7K • 👍 737 • 💬 192 • ⏱️ 28:23 • 1d ago
 
 ---
 
@@ -324,13 +322,13 @@ BlackRock is making major moves with Solana and Ethereum, and these are the top 
 
 ---
 
-**[Why Ethereum Is Holding Up Against Bitcoin](https://www.youtube.com/watch?v=mhCaQ1_Vrz4)**
+**[Why a Crypto VC Would Choose Solana Over Ethereum](https://www.youtube.com/watch?v=eznEs0SxIDc)**
 
-Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has been in a brutal bear market since October, ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Memecoins were supposed to ...
 
-📺 The Wolf Of All Streets
+📺 Bankless
 
-👁️ 2K • 👍 41 • 💬 22 • ⏱️ 0:36 • 20h ago
+👁️ 1K • 👍 46 • 💬 9 • ⏱️ 1:07:07 • 8h ago
 
 ---
 
