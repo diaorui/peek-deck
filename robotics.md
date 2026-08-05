@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T21:08:35.097317+00:00'
+updated: '2026-08-05T22:34:57.336296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 21:08 UTC  
+**Last Updated:** August 05, 2026 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-22h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-15h ago
+16h ago
 
 ---
 
@@ -118,7 +118,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 2d ago
+wsj.com • 2d ago
 
 ---
 
@@ -126,16 +126,15 @@ WSJ • 2d ago
 
 The company aims to create physical AI tools for human workers
 
-spectrum.ieee.org • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
 
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
+Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-Pittsburgh Post-Gazette • 1h ago
+TechCrunch • 1h ago
 
 ---
 
@@ -143,7 +142,15 @@ Pittsburgh Post-Gazette • 1h ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
+
+---
+
+**[Meet Threehalves: The viral robot designed for Earth's most dangerous environments](https://www.foxweather.com/earth-space/meet-satyress-horrifying-new-robot-developed-fight-wildfires)**
+
+A viral, bull-headed humanoid robot has captivated millions online, but its mission goes far beyond its unsettling appearance. Meet Threehalves, the prototype designed to help tackle wildfires, forestry work and other dangerous jobs.
+
+FOX Weather • 21h ago
 
 ---
 
@@ -151,7 +158,15 @@ Business Insider • 6h ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
+
+Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
+
+Interesting Engineering • 9h ago
 
 ---
 
@@ -163,19 +178,11 @@ Forbes • 2d ago
 
 ---
 
-**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
-
-Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
-
-Interesting Engineering • 8h ago
-
----
-
 **[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
 
 Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -184,14 +191,6 @@ The Motley Fool • 18h ago
 Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
 
 Data Center Dynamics • 1d ago
-
----
-
-**[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
-
-Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
-
-The Robot Report • 3d ago
 
 ---
 
@@ -205,27 +204,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 239K • 👍 6K • 💬 529 • ⏱️ 3:00 • 6d ago
-
----
-
-**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
-
-Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
-
-📺 KCRA 3
-
-👁️ 20K • 👍 245 • 💬 169 • ⏱️ 1:03 • 4d ago
-
----
-
-**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
-
-Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
-
-📺 Sling and Stone
-
-👁️ 30K • 👍 2K • 💬 442 • ⏱️ 15:58 • 20h ago
+👁️ 239K • 👍 6K • 💬 530 • ⏱️ 3:00 • 6d ago
 
 ---
 
@@ -239,13 +218,13 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 ---
 
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
 
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
 
-📺 KhanFlicks
+📺 KCRA 3
 
-👁️ 2K • 💬 33 • ⏱️ 3:45 • 7d ago
+👁️ 21K • 👍 250 • 💬 173 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -255,7 +234,17 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 61K • 👍 949 • 💬 93 • ⏱️ 11:26 • 3d ago
+👁️ 62K • 👍 959 • 💬 95 • ⏱️ 11:26 • 3d ago
+
+---
+
+**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
+
+Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
+
+📺 Sling and Stone
+
+👁️ 32K • 👍 3K • 💬 459 • ⏱️ 15:58 • 22h ago
 
 ---
 
@@ -265,17 +254,15 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 38K • 👍 692 • 💬 56 • ⏱️ 1:00 • 5d ago
+👁️ 39K • 👍 736 • 💬 57 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[Trump Administration Bans Chinese Humanoid Robots | The AI War Begins? | By Ankit Sir](https://www.youtube.com/watch?v=poNXL5lzuDg)**
+**[world dance challenge #youtubeshorts #viralvideo #dancechallenge #robotics #shorts #fyp babyslow dan](https://www.youtube.com/watch?v=xdvZGK8ev_w)**
 
-https://youtu.be/5llFYp6KkSQ CJP vs Government | Dharmendra Pradhan Resignation That Changed the Political Game | By Ankit ...
+📺 Dance Theorem 
 
-📺 Apni Pathshala
-
-👁️ 220K • 👍 14K • 💬 462 • ⏱️ 14:02 • 2d ago
+👁️ 659 • 👍 11 • 💬 1 • ⏱️ 1:01 • 4h ago
 
 ---
 
@@ -285,7 +272,17 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 197K • 👍 2K • 💬 641 • ⏱️ 3:14 • 3d ago
+👁️ 198K • 👍 2K • 💬 643 • ⏱️ 3:14 • 3d ago
+
+---
+
+**[US Bans All Foreign Robots](https://www.youtube.com/watch?v=V8SLsAuVQ2s)**
+
+humanoids, robotic dogs, and vacuums. The US just banned all new robots from other countries. Is this a smart or dumb move?
+
+📺 WEB3MAXX
+
+👁️ 123 • 👍 2 • 💬 2 • ⏱️ 0:53 • 11m ago
 
 ---
 
@@ -295,7 +292,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 30K • 👍 548 • 💬 42 • ⏱️ 9:54 • 5d ago
+👁️ 30K • 👍 550 • 💬 42 • ⏱️ 9:54 • 5d ago
 
 ---
 
