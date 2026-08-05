@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T05:46:18.227945+00:00'
+updated: '2026-08-05T08:36:23.466337+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 05:46 UTC  
+**Last Updated:** August 05, 2026 at 08:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-2h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position & orientation of the rig at all times, and recenter it subtly.
 
-22h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-7h ago
+10h ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-7h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, bringing couture craftsmanship to life through motion. Process video: https://www.youtube.com/shorts/5dN0aB0yEsE
 
-15h ago
+18h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-7m ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey I am part of a small team training robotics policies for warehouse and manuf
 
 Wearable robotics could help people with Parkinson’s disease remain mobile for longer. Research into soft exoskeletons has shown promising early results for freezing of gait, a symptom that can suddenly prevent someone from moving their feet forward and increase the risk of falling. These systems may also help patients walk farther and faster. The larger challenge is building a device that can adapt as symptoms change from day to day. Researchers are exploring sensors, movement data and AI to better understand a person’s intent and provide support at the right moment. The technology is still early, particularly when it comes to long-term use, comfort and cost, but it could offer another option between fully independent movement and relying on a wheelchair.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 14h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 17h ago
 
 ---
 
@@ -92,7 +92,7 @@ Wearable robotics could help people with Parkinson’s disease remain mobile for
 
 Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for discussion, questions etc. Good luck with the reviews as well as the rebuttal!
 
-15h ago
+18h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for di
 
 Started this over a year ago, but got discouraged because of problems I didn't understand. Fixed the problems and wanted to share again. I made a github repo with all of the code and links included. [Github Repo](https://github.com/rrmudry/MBt2) Used standard multibuild parts for the body and modified parts for the legs, etc. Basics: ESP32 brain 2 SimpleFOC mini drivers 2 gm4108-120t gimbal motors 2 AS5600 magnetic encoders 1 MPU6050 IMU wheels are printed from TPU Bluetooth controlled Custom PCB links provided All of the coding completed in Google Antigravity (because I cannot code but always wanted to build something like this, sorry...so much shame). Want to add CYD (cheap yellow display for face) and autonomous navigation, wireless charging, ai chat interaction, basically I want to have a droid that can follow me around, someday.
 
-🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 23h ago
+🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 1d ago
 
 ---
 
@@ -124,6 +124,14 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 21h ago
+
+---
+
 **[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
 
 The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
@@ -132,9 +140,26 @@ MIT Technology Review • 1d ago
 
 ---
 
+**[How One Startup Built a (Mostly) China-Free Robot](https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/)**
+
+Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.
+
+WIRED • 21h ago
+
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+Pittsburgh Post-Gazette • 36m ago
+
+---
+
 **[Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says](https://www.reuters.com/world/asia-pacific/unitree-expected-be-worth-over-50-billion-yuan-ipo-sponsor-citic-securities-says-2026-08-04/)**
 
-Reuters • 18h ago
+Reuters • 21h ago
 
 ---
 
@@ -146,45 +171,23 @@ Forbes • 1d ago
 
 ---
 
-**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
-
-Japan Today • 8h ago
-
----
-
 **[Former Microsoft researcher launches data center robotics startup](https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/)**
 
 Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
 
-Data Center Dynamics • 14h ago
+Data Center Dynamics • 17h ago
 
 ---
 
 **[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-surges-13-ouster-153512086.html)**
+**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
 
-A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.
-
-Yahoo Finance • 1d ago
-
----
-
-**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
-
-WSJ • 6h ago
-
----
-
-**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
-
-After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
-
-New York Focus • 1d ago
+Japan Today • 11h ago
 
 ---
 
@@ -192,13 +195,13 @@ New York Focus • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
-The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
-📺 KhanFlicks
+📺 NBC News
 
-👁️ 2K • 💬 33 • ⏱️ 3:45 • 6d ago
+👁️ 16K • 👍 125 • 💬 222 • ⏱️ 1:36 • 8h ago
 
 ---
 
@@ -222,13 +225,33 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 ---
 
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 57K • 👍 888 • 💬 91 • ⏱️ 11:26 • 2d ago
+
+---
+
+**[The U.S. Just Banned Chinese Humanoid Robots… I Own Two](https://www.youtube.com/watch?v=wNaohV4eY0A)**
+
+The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 and Agibot X2, so here's what the new U.S. ...
+
+📺 KhanFlicks
+
+👁️ 2K • 💬 33 • ⏱️ 3:45 • 6d ago
+
+---
+
 **[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
 
 The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
 
 📺 ejunky66
 
-👁️ 30K • 👍 555 • 💬 43 • ⏱️ 1:00 • 4d ago
+👁️ 32K • 👍 583 • 💬 50 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -238,15 +261,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 191K • 👍 2K • 💬 634 • ⏱️ 3:14 • 2d ago
-
----
-
-**[Robot version of Michael Jackson #robot #robotics #humanoid](https://www.youtube.com/watch?v=BEV65B5-l_o)**
-
-📺 Vy Chuong - robot 
-
-👁️ 2K • 👍 21 • ⏱️ 0:48 • 1d ago
+👁️ 193K • 👍 2K • 💬 637 • ⏱️ 3:14 • 2d ago
 
 ---
 
@@ -260,33 +275,23 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 ---
 
+**[New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS](https://www.youtube.com/watch?v=OrcBSpADCGk)**
+
+HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi Thanks to ...
+
+📺 AI Search
+
+👁️ 115K • 👍 4K • 💬 381 • ⏱️ 28:10 • 3d ago
+
+---
+
 **[US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir](https://www.youtube.com/watch?v=5Tj-Svccykk)**
 
 US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir Our New Ai Mastery ...
 
 📺 Ankit Avasthi Insights
 
-👁️ 141K • 👍 8K • 💬 231 • ⏱️ 11:53 • 1d ago
-
----
-
-**[A Dog Tracking Camera Robot?! Meet Beni from Mondo Robotics!](https://www.youtube.com/watch?v=-GezG2zoElI)**
-
-Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera, self-balancing capabilities, can travel on ...
-
-📺 51 Drones
-
-👁️ 1K • 👍 49 • 💬 4 • ⏱️ 1:02 • 6h ago
-
----
-
-**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
-
-In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
-
-📺 Creative Channel
-
-👁️ 41K • 👍 1K • 💬 85 • ⏱️ 31:13 • 5d ago
+👁️ 147K • 👍 8K • 💬 240 • ⏱️ 11:53 • 1d ago
 
 ---
 
