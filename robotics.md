@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T15:37:56.257173+00:00'
+updated: '2026-08-05T17:37:50.851644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 15:37 UTC  
+**Last Updated:** August 05, 2026 at 17:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-11h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-17h ago
+19h ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-17h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-9h ago
+11h ago
 
 ---
 
@@ -126,7 +126,7 @@ WSJ • 2d ago
 
 The company aims to create physical AI tools for human workers
 
-spectrum.ieee.org • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -134,16 +134,7 @@ spectrum.ieee.org • 1d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 37m ago
-
----
-
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
-
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
-
-Pittsburgh Post-Gazette • 5m ago
+Business Insider • 2h ago
 
 ---
 
@@ -151,15 +142,15 @@ Pittsburgh Post-Gazette • 5m ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-forbes.com • 2d ago
+Forbes • 2d ago
 
 ---
 
-**[3 Robotics and Automation Stocks to Buy in August](https://www.fool.com/investing/2026/08/05/3-robotics-and-automation-stocks-to-buy-in-august/)**
+**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-The Motley Fool • 3h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -167,7 +158,7 @@ The Motley Fool • 3h ago
 
 New rules further bifurcate U.S. and Chinese supply chains
 
-spectrum.ieee.org • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -179,9 +170,11 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+**[The Trump admin just banned Roombas: what else is affected?](https://www.newsweek.com/trumps-new-robotics-rules-the-household-items-impacted-12281594)**
 
-Reuters • 7d ago
+Trump's new robotics rules target foreign-produced advanced robots. Here's which household devices could be affected.
+
+Newsweek • 1d ago
 
 ---
 
@@ -190,6 +183,14 @@ Reuters • 7d ago
 The race to commercialize humanoids is on. What’s left to prove is that humanoids can beat the economics of the automation already running.
 
 The Robot Report • 1d ago
+
+---
+
+**[Former Microsoft researcher launches data center robotics startup](https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/)**
+
+Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
+
+Data Center Dynamics • 1d ago
 
 ---
 
@@ -233,7 +234,7 @@ Full Info → In this video, we dive into the massive news that the FCC has offi
 
 📺 How To with Doc
 
-👁️ 9K • 👍 506 • 💬 50 • ⏱️ 14:08 • 19h ago
+👁️ 9K • 👍 506 • 💬 50 • ⏱️ 14:08 • 21h ago
 
 ---
 
@@ -253,7 +254,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 35K • 👍 656 • 💬 52 • ⏱️ 1:00 • 4d ago
+👁️ 35K • 👍 656 • 💬 52 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -293,7 +294,7 @@ On a South Korean fashion survival show, a humanoid robot, looking like it stepp
 
 📺 Kalil 4.0
 
-👁️ 652 • 👍 29 • ⏱️ 1:08 • 3h ago
+👁️ 652 • 👍 29 • ⏱️ 1:08 • 5h ago
 
 ---
 

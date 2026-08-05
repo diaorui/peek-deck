@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T15:37:56.253977+00:00'
+updated: '2026-08-05T17:37:50.848346+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 15:37 UTC  
+**Last Updated:** August 05, 2026 at 17:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,877.61
+### $1,894.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -2.1%  
-**30d:** +6.1%  
-**90d:** -18.5%  
-**1y:** -49.0%  
+**24h:** +1.0%  
+**7d:** -1.3%  
+**30d:** +7.0%  
+**90d:** -17.8%  
+**1y:** -48.5%  
 
 ---
 
@@ -86,7 +86,7 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -134,7 +134,7 @@ Follow-up to the thread two weeks ago where I posted a high scam rate on new Eth
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 4d ago
+🔗 [youtu.be](https://youtu.be/evxFXupvq2A) • 5d ago
 
 ---
 
@@ -154,23 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 18h ago
-
----
-
-**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
-
-A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
-
-ethereum.org • 3h ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, August 5, 2026: Crypto prices rise as investors watch Hormuz negotiations and jobs report closely](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html)**
-
-Bitcoin opened at $64,052.56 on Wednesday, August 5, 2026, and moved up to $64,486.72 by 8:29 a.m. ET. Ethereum opened at $1,868.36 on Wednesday, August 5, 2026, and moved higher this morning to $1,880.89 as of 8:56 a.m. ET.
-
-Yahoo Finance • 2h ago
+The Block • 20h ago
 
 ---
 
@@ -178,7 +162,23 @@ Yahoo Finance • 2h ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-Step Security • 21h ago
+Step Security • 23h ago
+
+---
+
+**[Bitmine Accelerates Stock Buybacks And Continues Buying Ethereum](https://finance.yahoo.com/markets/stocks/articles/bitmine-accelerates-stock-buybacks-continues-133000732.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) has accelerated its stock buybacks even as it continues making weekly ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
+
+A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
+
+ethereum.org • 5h ago
 
 ---
 
@@ -186,15 +186,7 @@ Step Security • 21h ago
 
 EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
 
-The Defiant • 17h ago
-
----
-
-**[Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)**
-
-NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata.
-
-The Hacker News • 1h ago
+The Defiant • 19h ago
 
 ---
 
@@ -206,11 +198,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
+**[Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
+NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata.
 
-FXStreet • 11h ago
+The Hacker News • 3h ago
+
+---
+
+**[Why are Bitcoin and Ethereum edging higher as XRP slides?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-advance-while-xrp-lags-amid-us-iran-deal-optimism-202608051100)**
+
+Bitcoin (BTC) hovers near $64,000 at the time of writing on Wednesday, buoyed by a marginal improvement in crypto sentiment amid growing optimism that the United States (US) and Iran could potentially reach an agreement to open the Strait of Hormuz this week.
+
+FXStreet • 6h ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 7h ago
 
 ---
 
@@ -219,14 +227,6 @@ FXStreet • 11h ago
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
-
-Ethereum staking surge raises fresh questions over crypto market liquidity.
-
-AMBCrypto • 16h ago
 
 ---
 
@@ -240,7 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 19K • 👍 560 • 💬 86 • ⏱️ 10:24 • 23h ago
+👁️ 19K • 👍 560 • 💬 86 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 850 • 👍 170 • 💬 11 • ⏱️ 13:21 • 3h ago
+👁️ 850 • 👍 170 • 💬 11 • ⏱️ 13:21 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 2K • 👍 565 • 57m ago
+👁️ 2K • 👍 565 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 209 • 💬 9 • ⏱️ 7:57 • 14h ago
+👁️ 3K • 👍 209 • 💬 9 • ⏱️ 7:57 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 214 • ⏱️ 10:08 • 17h ago
+👁️ 30K • 👍 2K • 💬 214 • ⏱️ 10:08 • 19h ago
 
 ---
 
@@ -330,7 +330,7 @@ Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 41 • 💬 22 • ⏱️ 0:36 • 18h ago
+👁️ 2K • 👍 41 • 💬 22 • ⏱️ 0:36 • 20h ago
 
 ---
 
