@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-04T23:32:54.224510+00:00'
+updated: '2026-08-05T02:33:10.193717+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 23:32 UTC  
+**Last Updated:** August 05, 2026 at 02:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,873.30
+### $1,863.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -2.0%  
-**30d:** +4.1%  
-**90d:** -18.2%  
-**1y:** -48.2%  
+**24h:** +0.5%  
+**7d:** -2.3%  
+**30d:** +5.9%  
+**90d:** -18.8%  
+**1y:** -49.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.68B
+**Market Cap:** $226.04B
 Rank #2
 
-**Circulating Supply:** 120,682,210 ETH
+**Circulating Supply:** 120,682,172 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.1%
 
 **All-Time Low:** $0.43
-+431593.0%
++432482.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-8h ago
+11h ago
 
 ---
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october)**
+
+The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
+
+The Block • 4h ago
+
+---
+
 **[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
 
 BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
@@ -162,15 +170,15 @@ Decrypt • 1d ago
 
 BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Ethereum news: Tom Lee's Bitmine (BMNR) continues to buy ETH while Strategy sold bitcoin](https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week)**
+**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
 
-Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.
+XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 1d ago
+CoinDesk • 20h ago
 
 ---
 
@@ -182,14 +190,6 @@ PR Newswire • 1d ago
 
 ---
 
-**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
-
-XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
-
-CoinDesk • 17h ago
-
----
-
 **[Key Events This Week That Could Make or Break Bitcoin, Ethereum, and XRP Prices](https://www.tradingview.com/news/coinpedia:474953949094b:0-key-events-this-week-that-could-make-or-break-bitcoin-ethereum-and-xrp-prices/)**
 
 This week is packed with events that could move crypto prices, from major economic data releases to big tech earnings. Here’s what’s on the calendar, and what analysts are watching for Bitcoin, Ethereum, and XRP.What’s Happening This WeekMarkets are reacting today after Trump canceled planned US st…
@@ -198,33 +198,33 @@ TradingView • 2d ago
 
 ---
 
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
-
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
-
-thedefiant.io • 5h ago
-
----
-
 **[Current price of Ethereum for August 4, 2026](https://fortune.com/article/price-of-ethereum-08-04-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 17h ago
+
+---
+
+**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
+
+EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
+
+thedefiant.io • 8h ago
+
+---
+
+**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
+
+Ethereum staking surge raises fresh questions over crypto market liquidity.
+
+AMBCrypto • 3h ago
 
 ---
 
 **[Ethereum Price at Make-or-Break Point: Will ETH Hold $1,850 or Decline Toward $1,780?](https://www.ccn.com/analysis/crypto/ethereum-price-prediction-eth-1850-support-1780/)**
 
-CCN.com • 13h ago
-
----
-
-**[Morgan Stanley Just Launched New Ethereum and Solana ETFs. Here's What It Could Mean for Crypto Investors.](https://www.fool.com/investing/2026/08/02/morgan-stanley-just-launched-new-ethereum-and-sola/)**
-
-The investment bank has quickly ramped up its crypto ETF offerings.
-
-The Motley Fool • 2d ago
+CCN.com • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 2K • 👍 211 • 💬 37 • ⏱️ 10:24 • 7h ago
+👁️ 7K • 👍 341 • 💬 51 • ⏱️ 10:24 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 368 • 💬 11 • ⏱️ 10:22 • 11h ago
+👁️ 5K • 👍 383 • 💬 11 • ⏱️ 10:22 • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 839 • 💬 105 • ⏱️ 15:24 • 2d ago
+👁️ 24K • 👍 841 • 💬 106 • ⏱️ 15:24 • 2d ago
 
 ---
 
@@ -268,27 +268,7 @@ BlackRock is making major moves with Solana and Ethereum, and these are the top 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 261 • 💬 22 • ⏱️ 1:03:35 • 7h ago
-
----
-
-**[BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Q6tBhy3zJJY)**
-
-BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 162 • 💬 99 • ⏱️ 18:51 • 5h ago
-
----
-
-**[Crypto will EXPLODE in August! (Explained in 10 minutes)](https://www.youtube.com/watch?v=mVk1_eKbtfE)**
-
-August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 3K • 👍 456 • 💬 41 • ⏱️ 10:08 • 1h ago
+👁️ 5K • 👍 269 • 💬 22 • ⏱️ 1:03:35 • 10h ago
 
 ---
 
@@ -298,7 +278,17 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 689 • 💬 128 • ⏱️ 28:23 • 14h ago
+👁️ 6K • 👍 709 • 💬 119 • ⏱️ 28:23 • 17h ago
+
+---
+
+**[Crypto will EXPLODE in August! (Explained in 10 minutes)](https://www.youtube.com/watch?v=mVk1_eKbtfE)**
+
+August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 1K • 💬 107 • ⏱️ 10:08 • 4h ago
 
 ---
 
@@ -308,7 +298,17 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 2K • 👍 72 • 💬 7 • ⏱️ 35:18 • 21h ago
+👁️ 2K • 👍 78 • 💬 7 • ⏱️ 35:18 • 1d ago
+
+---
+
+**[Why Ethereum Is Holding Up Against Bitcoin](https://www.youtube.com/watch?v=mhCaQ1_Vrz4)**
+
+Dave explains why Ethereum has been holding up against Bitcoin lately Crypto has been in a brutal bear market since October, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 722 • 👍 22 • 💬 27 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -322,13 +322,13 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 ---
 
-**[LAST CHANCE For The BIGGEST Crypto ALTCOIN Bull Market! (ETH, SUI, ADA Screaming It)](https://www.youtube.com/watch?v=NRRCwlgEGU8)**
+**[BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Q6tBhy3zJJY)**
 
-My Links: ▻ Get the risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Intro ...
+BITCOIN: THIS CHANGES EVERYTHING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Capital Venture
+📺 Crypto World
 
-👁️ 14K • 👍 676 • 💬 291 • ⏱️ 19:51 • 1d ago
+👁️ 3K • 👍 195 • 💬 93 • ⏱️ 18:51 • 8h ago
 
 ---
 

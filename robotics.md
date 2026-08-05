@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-04T23:32:54.227855+00:00'
+updated: '2026-08-05T02:33:10.197021+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 04, 2026 at 23:32 UTC  
+**Last Updated:** August 05, 2026 at 02:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 https://preview.redd.it/a6uwux1o52hh1.png?width=1324&format=png&auto=webp&s=662bcc147f409a1f919860d34370c79e470ecc3b I don't understand why there are holes in cycloidal driver and it's connected to "output flange"? I don't understand how the transmission is carried out to whatever you want it to move. Also, one more thing why is the drive shaft eccentrically placed and why is there a bearing around the driveshaft. This bearing im referring to, what does that do?
 
-1d ago
+2d ago
 
 ---
 
@@ -124,15 +124,7 @@ IEEE Spectrum • 1d ago
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-WSJ • 1d ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 1d ago
+WSJ • 2d ago
 
 ---
 
@@ -144,23 +136,17 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
 
-Reuters • 6d ago
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
----
-
-**[How One Startup Built a (Mostly) China-Free Robot](https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/)**
-
-Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.
-
-WIRED • 12h ago
+Forbes • 1d ago
 
 ---
 
 **[Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -172,6 +158,22 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
+
+After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
+
+New York Focus • 1d ago
+
+---
+
+**[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
+
+Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
+
+The Motley Fool • 5m ago
+
+---
+
 **[Google DeepMind says Gemini Robotics 2 enables full body control](https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/)**
 
 Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said.
@@ -180,11 +182,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[New York Bill Would Ban Humanoid Robots in Schools](https://nysfocus.com/2026/08/03/new-york-humanoid-robot-school-ban)**
+**[Expressive humanoids face steeper trust losses after mistakes: Study](https://interestingengineering.com/ai-robotics/expressive-humanoid-robots-trust-loss-mistakes)**
 
-After a New York Focus report on Salamanca City Central School District’s plan, lawmakers proposed banning humanoid robots in schools statewide.
+New study reveals expressive humanoid robots build trust faster, but mistakes quickly erode confidence and influence.
 
-New York Focus • 1d ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -198,7 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 234K • 👍 6K • 💬 527 • ⏱️ 3:00 • 5d ago
+👁️ 235K • 👍 6K • 💬 528 • ⏱️ 3:00 • 5d ago
 
 ---
 
@@ -208,7 +210,17 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 50K • 👍 815 • 💬 85 • ⏱️ 11:26 • 2d ago
+👁️ 52K • 👍 849 • 💬 86 • ⏱️ 11:26 • 2d ago
+
+---
+
+**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
+
+The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
+
+📺 NBC News
+
+👁️ 74K • 👍 392 • 💬 534 • ⏱️ 6:04 • 6d ago
 
 ---
 
@@ -222,21 +234,11 @@ The U.S. just banned Chinese humanoid robots… or did it? I own the Unitree G1 
 
 ---
 
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
-
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
-
-📺 NBC News
-
-👁️ 74K • 👍 392 • 💬 534 • ⏱️ 6:04 • 5d ago
-
----
-
 **[#dancechallenge #trending #viralvideo #robotics #fyp #shorts squidboycally dance world dance challen](https://www.youtube.com/watch?v=UhqekHjzvEk)**
 
 📺 Dance Theorem 
 
-👁️ 559 • 👍 16 • 💬 2 • ⏱️ 0:38 • 5h ago
+👁️ 735 • 👍 18 • 💬 3 • ⏱️ 0:38 • 8h ago
 
 ---
 
@@ -246,17 +248,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 186K • 👍 2K • 💬 631 • ⏱️ 3:14 • 2d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 28K • 👍 492 • 💬 36 • ⏱️ 1:00 • 4d ago
+👁️ 189K • 👍 2K • 💬 632 • ⏱️ 3:14 • 2d ago
 
 ---
 
@@ -264,7 +256,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 Vy Chuong - robot 
 
-👁️ 2K • 👍 18 • ⏱️ 0:48 • 20h ago
+👁️ 2K • 👍 20 • ⏱️ 0:48 • 23h ago
 
 ---
 
@@ -274,7 +266,7 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 
 📺 51 Drones
 
-👁️ 131 • 👍 13 • 💬 3 • ⏱️ 1:02 • 17m ago
+👁️ 719 • 👍 36 • 💬 4 • ⏱️ 1:02 • 3h ago
 
 ---
 
@@ -285,6 +277,16 @@ Beni from Mondo Robotics is an autonomous tracking camera robot with a 4K camera
 📺 All-In Podcast
 
 👁️ 114K • 👍 2K • 💬 301 • ⏱️ 1:08:35 • 6d ago
+
+---
+
+**[UV robots, cotton bots &amp; ChatGPT on a Broccoli farm: The new face of farming](https://www.youtube.com/watch?v=qmf1TEu17ZI)**
+
+Robots are hunting pests with UV light at 2AM. Cotton fields run with almost no humans. Small bots are helping farmers inside a ...
+
+📺 Interesting Engineering Explains
+
+👁️ 18K • 👍 393 • 💬 41 • ⏱️ 9:02 • 5d ago
 
 ---
 

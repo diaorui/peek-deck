@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-04T23:32:54.218292+00:00'
+updated: '2026-08-05T02:33:10.187504+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 04, 2026 at 23:32 UTC  
+**Last Updated:** August 05, 2026 at 02:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,182.40
+### $64,246.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +0.3%  
-**30d:** +0.3%  
-**90d:** -19.8%  
-**1y:** -43.8%  
+**24h:** +0.9%  
+**7d:** -0.6%  
+**30d:** +1.7%  
+**90d:** -19.7%  
+**1y:** -44.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1287.70B
+**Market Cap:** $1292.01B
 Rank #1
 
-**Circulating Supply:** 20,065,831 BTC
+**Circulating Supply:** 20,065,878 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-48.9%
 
 **All-Time Low:** $67.81
-+94490.8%
++94844.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 25
-**EXTREME FEAR**
+### 27
+**FEAR**
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Well well well](https://www.reddit.com/r/Bitcoin/comments/1vev6os/well_well_well/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 .7 bitcoin gone. Years of DCAing with money that could have been invested in other ventures gone because of a stupid exploit from a company that was touted as being "the best" to keep coins safe. My .7 bitcoin could have been spent on so many useful things. It was my safety net. It was the hope of a down payment on a house. It was my sons future college tuition. Now I'm sitting on the sidelines like a loser. I'm livid. And since it's decentralized, there's no recourse for getting any of it back. It's gone. Fuck. I hope whoever stole my money gets what's coming to them. Happy to provide proof if there are any of you who believe this is another shitpost or karma farm or whatever. Where's the class action lawsuit? How do I sign up? Edit: Here's proof: https://preview.redd.it/k57fkfuwt9hh1.jpg?width=2364&format=pjpg&auto=webp&s=ca4c3ce0ef6390a3c237f37a4d0f09563bfec3c4
 
-21h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ WHITE HAT DRAINS OF COLDCARD WALLETS BEGIN The white hat wallet drains of exploi
 
 - "What's a retirement attack?" - COLDCARD (@COLDCARDwallet): "It's when the project makers could have a "bug" in the entropy generation for later retrieval". _____ Seems that they were smart enough to launch a "dice rolls" suggestion in a critical element lacking foolproof design, knowing not all users would be paranoid enough. Like "hey, if you don't trust no problem, but...you can trust buddy, the (back)door is open." ☠️ Ok no, enough of conspiracy theory continuation. We know that Coldcard's post was pure coincidence. Right?...Right? Edit: In case you're curious on more tweets mentioning "retirement attack", here is another one: @nvk - 21 Dec 20: "My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack. Alternatively people could just use dice ;)." https://x.com/i/status/1341213389549412353 A strange way to warn "alternatively people" of what you have in mind to do...but Freudian slip or parapraxis theory explains that better, in case you're curious...
 
-18h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Coldcard thief’s address has officially become the most chaotic public bul
 
 Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -167,59 +167,47 @@ CoinDesk • 1h ago
 
 A Coldcard firmware bug may have let attackers steal roughly $70 million in bitcoin in under an hour, and the company says attacks are still ongoing. Estimated losses now at $89M.
 
-Fox Business • 1d ago
+Fox Business • 2d ago
 
 ---
 
-**[Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees](https://finance.yahoo.com/markets/crypto/articles/trump-media-sells-more-bitcoin-082738663.html)**
+**[More than $100M worth of bitcoin stolen in data breach | Hanomansing Tonight](https://ca.news.yahoo.com/more-100m-worth-bitcoin-stolen-004837786.html)**
 
-Trump Media sold another 2,628 BTC while its $100,000 Truth API launch triggered Senate calls for an SEC probe.
+A bitcoin-only hardware wallet has been the latest target of a data breach. Hackers reportedly drained more than $100 million US worth of bitcoin from Coldcard hard wallets.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Binance launches bitcoin-backed 'Lite Loan' with $1,000 borrowing limit](https://www.theblock.co/post/410544/binance-lite-loan-bitcoin)**
-
-Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.
-
-The Block • 14h ago
+Yahoo News Canada • 1h ago
 
 ---
 
-**[Watch Hackers Hit Bitcoin’s Safest Hiding Place](https://www.bloomberg.com/news/videos/2026-08-04/hackers-hit-bitcoin-s-safest-hiding-place-video)**
+**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-073725523.html)**
 
-Bloomberg.com • 23h ago
+American Bitcoin Corp. (NASDAQ:ABTC) CEO Mike Ho sidestepped questions on Monday about selling Bitcoin (CRYPTO: BTC) to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned about the company’s treasury management strategy and whether it would contemplate selling Bitcoin to improve business economics, similar to the approach taken by Michael Saylor’s Strategy Inc. (
 
----
-
-**[A $116 million bitcoin theft: hackers break into one of the safest places to store cryptocurrencies](https://english.elpais.com/economy-and-business/2026-08-04/a-116-million-bitcoin-theft-hackers-break-into-one-of-the-safest-places-to-store-cryptocurrencies.html)**
-
-Attackers used a vulnerability in Coldcard wallets  in an incident that is still ongoing and reflects a visible trend in the crypto ecosystem
-
-english.elpais.com • 14h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
+**[Trump-Linked American Bitcoin Settles Improper PPP Loan Allegation For $2.5 Million](https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/)**
 
-WSJ • 1d ago
+The settlement was noted in the company’s 10-Q filing, excluded from its earnings narrative.
 
----
-
-**[Michael Saylor Says Strategy's Next $1 Trillion Opportunity Isn't Bitcoin](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-strategys-next-193027108.html)**
-
-Strategy Inc Executive Chairman Michael Saylor has spent years convincing investors that Bitcoin is the company’s biggest asset. Now, he says the next trillion-dollar opportunity isn’t owning more Bitcoin—it’s building a business on top of it. Speaking during Strategy’s second-quarter...
-
-Yahoo Finance • 2d ago
+Forbes • 4h ago
 
 ---
 
-**[‘We’ll Get Through This Bear Market,’ Says CEO of Bitcoin Treasury Company Strategy](https://bitcoinmagazine.com/news/strategy-to-get-through-bitcoin-bear-market)**
+**[Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy](https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy)**
 
-Bitcoin treasury company Strategy's CEO Phong Le has reassured investors that the company will do well next year.
+The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[Asset Manager 3iQ To Manage Bhutan's Bitcoin Reserves](https://bitcoinmagazine.com/news/3iq-to-manage-bhutan-bitcoin-reserves)**
+
+Canadian digital asset manager 3iQ Corp. will work to manage some of the Bitcoin reserves of Bhutan's Gelephu Mindfulness City project.
+
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -227,7 +215,23 @@ Bitcoin Magazine • 1d ago
 
 Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the cryptocurrency and much more.
 
-CNBC • 1d ago
+cnbc.com • 1d ago
+
+---
+
+**[The First Spot Bitcoin ETF Is About to Shut Down. Here's What Crypto Investors Need to Know](https://www.fool.com/investing/2026/08/04/the-first-spot-bitcoin-etf-is-about-to-shut-down-heres-what-crypto-investors-need-to-know/)**
+
+Crypto investors are feeling the squeeze as AI steals the spotlight.
+
+The Motley Fool • 6h ago
+
+---
+
+**[A $116 million bitcoin theft: hackers break into one of the safest places to store cryptocurrencies](https://english.elpais.com/economy-and-business/2026-08-04/a-116-million-bitcoin-theft-hackers-break-into-one-of-the-safest-places-to-store-cryptocurrencies.html)**
+
+Attackers used a vulnerability in Coldcard wallets  in an incident that is still ongoing and reflects a visible trend in the crypto ecosystem
+
+EL PAÍS English • 17h ago
 
 ---
 
@@ -272,7 +276,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 7 • 💬 0 • 2h ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 7 • 💬 0 • 5h ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -286,7 +290,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 3 • 💬 1 • 12h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 15h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -294,7 +298,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
 
-⬆️ 2 • 💬 0 • 17h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
+⬆️ 2 • 💬 0 • 20h ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -324,7 +328,17 @@ Michael Saylor, Jim Cramer, Blackrock CEO latest crypto news Trade Stocks (unloc
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 127 • ⏱️ 9:49 • 22h ago
+👁️ 50K • 👍 2K • 💬 131 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[Hackers Hit Bitcoin’s Safest Hiding Place](https://www.youtube.com/watch?v=bSFRf9pRrr8)**
+
+Bloomberg's Lauren Tara LaCapra joins Scarlet Fu and Tim Stenovec on "Bloomberg Crypto." Hackers have absconded with ...
+
+📺 Bloomberg Television
+
+👁️ 5K • 👍 129 • 💬 52 • ⏱️ 4:17 • 5h ago
 
 ---
 
@@ -334,7 +348,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 172 • ⏱️ 17:44 • 21h ago
+👁️ 5K • 👍 178 • ⏱️ 17:44 • 1d ago
+
+---
+
+**[Are Washington&#39;s Fingerprints On This $100 Million Bitcoin Hack?](https://www.youtube.com/watch?v=ggc2Cq4NUQk)**
+
+The Coldcard wallet exploit has already resulted in the theft of more than $100 million in Bitcoin, but new details are raising even ...
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 710 • 💬 114 • ⏱️ 10:16 • 4h ago
 
 ---
 
@@ -344,17 +368,7 @@ Join Ran as he unpacks why crypto is falling behind even as stocks and AI contin
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 830 • 💬 30 • ⏱️ 23:55 • 8h ago
-
----
-
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
-
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 122 • 💬 123 • ⏱️ 4:12 • 1d ago
+👁️ 18K • 👍 869 • 💬 31 • ⏱️ 23:55 • 11h ago
 
 ---
 
@@ -364,7 +378,17 @@ More than 1300 Bitcoin was drained from thousands of cold-storage addresses afte
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 207 • ⏱️ 17:22 • 1d ago
+👁️ 20K • 👍 1K • 💬 208 • ⏱️ 17:22 • 1d ago
+
+---
+
+**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
+
+Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
+
+📺 CNBC Television
+
+👁️ 17K • 👍 132 • 💬 140 • ⏱️ 4:12 • 1d ago
 
 ---
 
@@ -374,7 +398,7 @@ Bitcoin has a decision to make soon. Let's discuss! Come to the 1st ITC Conferen
 
 📺 Benjamin Cowen
 
-👁️ 101K • 👍 6K • 💬 248 • ⏱️ 7:53 • 1d ago
+👁️ 103K • 👍 6K • 💬 249 • ⏱️ 7:53 • 1d ago
 
 ---
 
@@ -384,7 +408,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 578K • 👍 31K • 💬 2K • ⏱️ 1:39 • 1d ago
+👁️ 616K • 👍 32K • 💬 2K • ⏱️ 1:39 • 1d ago
 
 ---
 
@@ -394,27 +418,7 @@ Nolan Bauerle joins Mark Moss to explain why Bitcoin, AI, and energy are converg
 
 📺 Market Disruptors Podcast
 
-👁️ 8K • 👍 294 • 💬 119 • ⏱️ 1:06:19 • 1d ago
-
----
-
-**[🏦 Banks Want The Clarity Act to Pass! | Cody Carbone](https://www.youtube.com/watch?v=8QBj5Bsb8dM)**
-
-Cody Carbone highlights how the CLARITY Act could benefit banks by providing greater regulatory clarity, enabling them to ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 107 • 💬 5 • ⏱️ 1:59 • 10h ago
-
----
-
-**[Bitcoin Is Entering The Final Phase Now! [My EXACT Plan]](https://www.youtube.com/watch?v=xIGoJyOmq5o)**
-
-Bitcoin is entering, what I believe, is the final phase of this current market structure, and with less than 7 days before a major ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 965 • 💬 12 • ⏱️ 27:15 • 15h ago
+👁️ 8K • 👍 301 • 💬 120 • ⏱️ 1:06:19 • 1d ago
 
 ---
 
