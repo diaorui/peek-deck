@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T11:21:16.135276+00:00'
+updated: '2026-08-05T13:10:27.534039+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 11:21 UTC  
+**Last Updated:** August 05, 2026 at 13:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,863.96
+### $1,884.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -2.6%  
-**30d:** +5.5%  
-**90d:** -19.0%  
-**1y:** -49.3%  
+**24h:** +0.1%  
+**7d:** -2.2%  
+**30d:** +5.7%  
+**90d:** -18.9%  
+**1y:** -49.2%  
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-20h ago
+22h ago
 
 ---
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -154,15 +154,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-Fortune • 1h ago
+ethereum.org • 51m ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, August 5, 2026: Crypto prices rise as investors watch Hormuz negotiations and jobs report closely](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html)**
+
+Bitcoin opened at $64,052.56 on Wednesday, August 5, 2026, and moved up to $64,486.72 by 8:29 a.m. ET. Ethereum opened at $1,868.36 on Wednesday, August 5, 2026, and moved higher this morning to $1,880.89 as of 8:56 a.m. ET.
+
+Yahoo Finance • 23m ago
 
 ---
 
@@ -170,15 +178,7 @@ Fortune • 1h ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-Step Security • 17h ago
-
----
-
-**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-nasdaq-100-btc-090344933.html)**
-
-Ethereum outperformed the Nasdaq 100 by 25 percentage points and Bitcoin by 11 percentage points in July, according to figures highlighted by Tom Lee. Lee ...
-
-Yahoo Finance • 1d ago
+Step Security • 19h ago
 
 ---
 
@@ -187,6 +187,22 @@ Yahoo Finance • 1d ago
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
 CoinDesk • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
+
+PR Newswire • 2d ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -202,23 +218,7 @@ Decrypt • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
 
-FXStreet • 7h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.8 Million Tokens, and Total Crypto and Total Cash Holdings of $11.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-8-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-3-billion-302840749.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 13 months In July, ETH outperformed...
-
-PR Newswire • 1d ago
-
----
-
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
-
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
-
-The Defiant • 17h ago
+FXStreet • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ The Defiant • 17h ago
 
 Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-AMBCrypto • 12h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -240,7 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 17K • 👍 520 • 💬 78 • ⏱️ 10:24 • 19h ago
+👁️ 17K • 👍 520 • 💬 78 • ⏱️ 10:24 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 5K • 👍 405 • 💬 38 • ⏱️ 10:22 • 23h ago
+👁️ 5K • 👍 405 • 💬 38 • ⏱️ 10:22 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 174 • 💬 7 • ⏱️ 7:57 • 10h ago
+👁️ 2K • 👍 174 • 💬 7 • ⏱️ 7:57 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 851 • 💬 107 • ⏱️ 15:24 • 2d ago
+👁️ 24K • 👍 851 • 💬 107 • ⏱️ 15:24 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 195 • ⏱️ 10:08 • 13h ago
+👁️ 26K • 👍 2K • 💬 195 • ⏱️ 10:08 • 14h ago
 
 ---
 
@@ -290,7 +290,7 @@ BlackRock is making major moves with Solana and Ethereum, and these are the top 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 279 • 💬 15 • ⏱️ 1:03:35 • 19h ago
+👁️ 5K • 👍 279 • 💬 15 • ⏱️ 1:03:35 • 21h ago
 
 ---
 
@@ -300,7 +300,7 @@ YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: 
 
 📺 The Moon Show
 
-👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 1d ago
+👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 2d ago
 
 ---
 
@@ -310,7 +310,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 400€ ...
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 409 • 💬 115 • ⏱️ 7:36 • 7h ago
+👁️ 2K • 👍 409 • 💬 115 • ⏱️ 7:36 • 9h ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum's biggest infrastructure decision of the year was made without the Ethe
 
 📺 Dana Love, PhD
 
-👁️ 677 • 👍 38 • 💬 29 • ⏱️ 1:28 • 10h ago
+👁️ 677 • 👍 38 • 💬 29 • ⏱️ 1:28 • 12h ago
 
 ---
 

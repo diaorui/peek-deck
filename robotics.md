@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T11:21:16.137107+00:00'
+updated: '2026-08-05T13:10:27.537022+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 11:21 UTC  
+**Last Updated:** August 05, 2026 at 13:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-7h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-13h ago
+15h ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-12h ago
+14h ago
 
 ---
 
@@ -68,7 +68,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, bringing couture craftsmanship to life through motion. Process video: https://www.youtube.com/shorts/5dN0aB0yEsE
 
-21h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-5h ago
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey I am part of a small team training robotics policies for warehouse and manuf
 
 Wearable robotics could help people with Parkinson’s disease remain mobile for longer. Research into soft exoskeletons has shown promising early results for freezing of gait, a symptom that can suddenly prevent someone from moving their feet forward and increase the risk of falling. These systems may also help patients walk farther and faster. The larger challenge is building a device that can adapt as symptoms change from day to day. Researchers are exploring sensors, movement data and AI to better understand a person’s intent and provide support at the right moment. The technology is still early, particularly when it comes to long-term use, comfort and cost, but it could offer another option between fully independent movement and relying on a wheelchair.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 20h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 22h ago
 
 ---
 
@@ -92,7 +92,7 @@ Wearable robotics could help people with Parkinson’s disease remain mobile for
 
 Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for discussion, questions etc. Good luck with the reviews as well as the rebuttal!
 
-20h ago
+22h ago
 
 ---
 
@@ -116,11 +116,34 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
+**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
+
+WSJ • 2d ago
+
+---
+
 **[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
 
 The company aims to create physical AI tools for human workers
 
-IEEE Spectrum • 1d ago
+spectrum.ieee.org • 1d ago
+
+---
+
+**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
+
+These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+Pittsburgh Post-Gazette • 40m ago
 
 ---
 
@@ -128,7 +151,7 @@ IEEE Spectrum • 1d ago
 
 New rules further bifurcate U.S. and Chinese supply chains
 
-IEEE Spectrum • 2d ago
+spectrum.ieee.org • 2d ago
 
 ---
 
@@ -140,25 +163,11 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[How One Startup Built a (Mostly) China-Free Robot](https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/)**
+**[The Trump admin just banned Roombas: what else is affected?](https://www.newsweek.com/trumps-new-robotics-rules-the-household-items-impacted-12281594)**
 
-Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.
+Trump's new robotics rules target foreign-produced advanced robots. Here's which household devices could be affected.
 
-WIRED • 1d ago
-
----
-
-**[Chinese robot maker Unitree seen worth over $7.4 billion yuan after IPO, Citic says](https://www.reuters.com/world/asia-pacific/unitree-expected-be-worth-over-50-billion-yuan-ipo-sponsor-citic-securities-says-2026-08-04/)**
-
-Reuters • 1d ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 1d ago
+Newsweek • 22h ago
 
 ---
 
@@ -166,27 +175,21 @@ Forbes • 1d ago
 
 Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
 
-Data Center Dynamics • 20h ago
+Data Center Dynamics • 21h ago
+
+---
+
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+Forbes • 2d ago
 
 ---
 
 **[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
 
-Japan Today • 14h ago
-
----
-
-**[Are these new Chinese humanoid robots too human to tell apart?](https://www.futura-sciences.com/en/are-these-new-chinese-humanoid-robots-too-human-to-tell-apart_37065/)**
-
-The birth of a new companion: meet U1 Developed by UWorld, a UBTech brand, the U1 model is billed as the first full-size humanoid robot that genuinely resembles a real person. The company is focusing primarily on two groups: singles and seniors over 60, representing an eye-watering 120 million and...
-
-Futura, le média qui explore le monde • 21h ago
-
----
-
-**[Family Offices Sidestep AI Fears With Robotics Deal Spree](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
-
-Bloomberg.com • 20h ago
+Japan Today • 15h ago
 
 ---
 
@@ -200,7 +203,7 @@ Full Info → In this video, we dive into the massive news that the FCC has offi
 
 📺 How To with Doc
 
-👁️ 9K • 👍 470 • 💬 47 • ⏱️ 14:08 • 14h ago
+👁️ 9K • 👍 470 • 💬 47 • ⏱️ 14:08 • 16h ago
 
 ---
 
@@ -260,7 +263,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 All-In Podcast
 
-👁️ 115K • 👍 2K • 💬 298 • ⏱️ 1:08:35 • 6d ago
+👁️ 115K • 👍 2K • 💬 298 • ⏱️ 1:08:35 • 7d ago
 
 ---
 
@@ -290,7 +293,7 @@ Arpo and Daniel are playing hide and seek but Daniel is just too good at the gam
 
 📺 ARPO: The Robot
 
-👁️ 5K • 👍 10 • ⏱️ 32:00 • 22h ago
+👁️ 5K • 👍 10 • ⏱️ 32:00 • 1d ago
 
 ---
 

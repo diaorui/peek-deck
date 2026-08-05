@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-05T11:21:16.126410+00:00'
+updated: '2026-08-05T13:10:27.520238+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 05, 2026 at 11:21 UTC  
+**Last Updated:** August 05, 2026 at 13:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Predictions about AI replacing programmers go back to the 1960s](https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/)**
-
-A Turing Award and Nobel prize winner predicted in the 1960s that the programming occupation would become extinct, because computers would program themselves. https://seanhelvey.com/tools-and-their-tools/
-
-14h ago
-
----
-
 **[I think we're entering the "AI Agent" era faster than most people realize.](https://www.reddit.com/r/artificial/comments/1vg49it/i_think_were_entering_the_ai_agent_era_faster/)**
 
 Over the last year, I've been experimenting with LLMs almost every day, and I think the biggest shift isn't that models are getting smarter. It's that they're starting to do things instead of just answer questions. A few months ago I was mostly using AI to generate code, summarize docs, or brainstorm ideas. Now I'm finding myself building workflows where the AI plans tasks, calls tools, writes code, debugs itself, and completes work with minimal intervention. It feels like we're moving away from "prompt engineering" and toward "system engineering." Curious what everyone else is seeing. Are AI agents actually changing the way you build software today, or do you think it's still mostly hype?
 
-15m ago
+2h ago
 
 ---
 
@@ -57,43 +49,45 @@ Over the last year, I've been experimenting with LLMs almost every day, and I th
 
 AI tools accelerate output, but human engineers still need better structures, roles, and workflows to avoid cognitive exhaustion.
 
-🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 1h ago
+🔗 [ShiftMag](https://shiftmag.dev/what-if-the-biggest-bottleneck-behind-ais-10x-promise-is-the-human-engineer-11165/) • 2h ago
+
+---
+
+**[Predictions about AI replacing programmers go back to the 1960s](https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/)**
+
+A Turing Award and Nobel prize winner predicted in the 1960s that the programming occupation would become extinct, because computers would program themselves. https://seanhelvey.com/tools-and-their-tools/
+
+16h ago
+
+---
+
+**[How do you find the time to build agents?](https://www.reddit.com/r/artificial/comments/1vg6mks/how_do_you_find_the_time_to_build_agents/)**
+
+I’m interested in automating my workflow but I’m so busy that I don’t get the time to stop, map out my workflow, and build agents or even to learn how to build them. Where do you get the time??
+
+13m ago
+
+---
+
+**[What AI prediction from 5 years ago turned out to be completely wrong?](https://www.reddit.com/r/artificial/comments/1vg5z5s/what_ai_prediction_from_5_years_ago_turned_out_to/)**
+
+There were many confident predictions about AI that aged badly. Which ones stand out?
+
+41m ago
 
 ---
 
 **[This robot never loses at rock, paper, scissors game.](https://www.reddit.com/r/artificial/comments/1vfcvog/this_robot_never_loses_at_rock_paper_scissors_game/)**
 
-20h ago
+22h ago
 
 ---
 
-**[🧠 How does the brain "imagine" a solution even before trying it?](https://www.reddit.com/r/artificial/comments/1vg0aoz/how_does_the_brain_imagine_a_solution_even_before/)**
+**[Why context engineering is AI’s next hiring challenge](https://www.reddit.com/r/artificial/comments/1vg4uts/why_context_engineering_is_ais_next_hiring/)**
 
-Our brain consumes just 20 watts — as much as a light bulb — yet it plans, navigates, and solves new problems in an instant. Large AI systems, by contrast, require enormous amounts of energy and long training times. What if we copied the way the brain really works? 📄 A recent study in Nature Machine Intelligence answers this question: "Neural sampling from cognitive maps enables goal-directed imagination and planning" by H. Lin, Y. Yang, R. Zhao, G. Pezzulo and W. Maass — Vol. 8, pp. 1045–1065 (2026). DOI: 10.1038/s42256-026-01254-4 The approach is "neuromorphic", literally "brain-shaped": algorithms that mimic real neurons, learning from experience without having to rewrite everything every time the goal changes. 🗺️ The heart of the idea is "cognitive maps". Like your mental map of your city: not a photograph, but a network of relationships between places and movements. The brain uses similar maps for abstract problems too, and on them it "imagines" paths toward a goal — just like when, before leaving, you mentally visualize the route. ✨ The novelty of the model (GCML) is adding a pinch of controlled randomness to this imagination. The result? Not a single solution, but a range of possible solutions, all goal-directed. A bit like our "intuition" when we look for the best way to solve something. ⚡ Why is it important? • It learns on its own while exploring, with simple, local rules. • It adapts instantly when the goal changes. • It consumes very little energy: ideal for small (edge) devices, not just large data centers. 🎓 Our contribution: we have created an educational program, developed in POWER-KI, that allows anyone to experiment "hands-on" with this technology. With a few clicks you train the cognitive map and watch it imagine routes, bypass obstacles, and solve compositional problems in real time. 👉 Available here: POWER-KI/GCML-PWK-Neuromorfico-04: Native POWER-KI implementation of the Generative Cognitive Map Learner (GCML) — goal-directed imaginati on & planning via neural sampling from cognitive maps, reproducing the GCML paper (Nature Machine Intelligence, 2026 💡 The message is powerful: inventing solutions to problems never encountered before does not necessarily require huge models. It can arise from simple, elegant, and efficient principles inspired by our brain. The future of AI could be not only "bigger", but also "more brain-like". 🌱
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
 
-3h ago
-
----
-
-**[AI hubs in UAE and Saudi Arabia](https://www.reddit.com/r/artificial/comments/1vg2peu/ai_hubs_in_uae_and_saudi_arabia/)**
-
-Are there any visible impacts from the current conflict in the Middle East in the expected future investment intentions to create AI hubs by the UAE and Saudi Arabia?
-
-1h ago
-
----
-
-**[Visa's AI-driven restructuring cuts 320 Bay Area jobs, including six vice presidents](https://www.reddit.com/r/artificial/comments/1vfq1l4/visas_aidriven_restructuring_cuts_320_bay_area/)**
-
-🔗 [sfgate.com](https://www.sfgate.com/tech/article/visa-layoffs-ai-22374291.php) • 12h ago
-
----
-
-**[Am I the only one getting tired of AI tools that try to do everything?](https://www.reddit.com/r/artificial/comments/1vg4ibi/am_i_the_only_one_getting_tired_of_ai_tools_that/)**
-
-Maybe it’s just me, but I’ve started preferring AI tools that do one thing really well. Every week there’s another AI assistant that promises to plan trips, write code, summarize meetings, generate images, organize your calendar, answer emails, and somehow also replace Google. I usually stop using those after a week. The tools I keep are surprisingly boring. I don’t really think in terms of “best AI” anymore. I just have different defaults now. ChatGPT when I need to think. Perplexity when I need to verify something. And if someone texts, “Where are we eating?” I’ve found myself opening Karpo more often lately instead of trying to squeeze that question into ChatGPT. Maybe this is just where AI is going: less one “do everything” assistant, and more a bunch of specialized tools that each fit different parts of everyday life.
-
-3m ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/why-context-engineering-ai-next-080541249.html) • 1h ago
 
 ---
 
@@ -101,7 +95,15 @@ Maybe it’s just me, but I’ve started preferring AI tools that do one thing r
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-7m ago
+1h ago
+
+---
+
+**[🧠 How does the brain "imagine" a solution even before trying it?](https://www.reddit.com/r/artificial/comments/1vg0aoz/how_does_the_brain_imagine_a_solution_even_before/)**
+
+Our brain consumes just 20 watts — as much as a light bulb — yet it plans, navigates, and solves new problems in an instant. Large AI systems, by contrast, require enormous amounts of energy and long training times. What if we copied the way the brain really works? 📄 A recent study in Nature Machine Intelligence answers this question: "Neural sampling from cognitive maps enables goal-directed imagination and planning" by H. Lin, Y. Yang, R. Zhao, G. Pezzulo and W. Maass — Vol. 8, pp. 1045–1065 (2026). DOI: 10.1038/s42256-026-01254-4 The approach is "neuromorphic", literally "brain-shaped": algorithms that mimic real neurons, learning from experience without having to rewrite everything every time the goal changes. 🗺️ The heart of the idea is "cognitive maps". Like your mental map of your city: not a photograph, but a network of relationships between places and movements. The brain uses similar maps for abstract problems too, and on them it "imagines" paths toward a goal — just like when, before leaving, you mentally visualize the route. ✨ The novelty of the model (GCML) is adding a pinch of controlled randomness to this imagination. The result? Not a single solution, but a range of possible solutions, all goal-directed. A bit like our "intuition" when we look for the best way to solve something. ⚡ Why is it important? • It learns on its own while exploring, with simple, local rules. • It adapts instantly when the goal changes. • It consumes very little energy: ideal for small (edge) devices, not just large data centers. 🎓 Our contribution: we have created an educational program, developed in POWER-KI, that allows anyone to experiment "hands-on" with this technology. With a few clicks you train the cognitive map and watch it imagine routes, bypass obstacles, and solve compositional problems in real time. 👉 Available here: POWER-KI/GCML-PWK-Neuromorfico-04: Native POWER-KI implementation of the Generative Cognitive Map Learner (GCML) — goal-directed imaginati on & planning via neural sampling from cognitive maps, reproducing the GCML paper (Nature Machine Intelligence, 2026 💡 The message is powerful: inventing solutions to problems never encountered before does not necessarily require huge models. It can arise from simple, elegant, and efficient principles inspired by our brain. The future of AI could be not only "bigger", but also "more brain-like". 🌱
+
+5h ago
 
 ---
 
@@ -109,7 +111,7 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 I wrote this to share some thoughts on what differentiates AI products as we move toward AGI. In particular, I focus on how product context shapes technology, and how LLM sycophancy can accelerate both good and bad ideas. https://preview.redd.it/5b63quardjhh1.png?width=1456&format=png&auto=webp&s=d6db917333934e6fb6b27c696de40ffa925234e5 Discussions are welcome, I'd like to know how much those thoughts are worth and relevant to other people. https://substack.com/home/post/p-209832236
 
-28m ago
+2h ago
 
 ---
 
@@ -117,17 +119,57 @@ I wrote this to share some thoughts on what differentiates AI products as we mov
 
 ## Google News: "ai"
 
+**[Opinion | I’m Begging You: Never Write With A.I.](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html)**
+
+The New York Times • 16h ago
+
+---
+
 **[Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)**
 
 OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 
-OpenAI • 14h ago
+OpenAI • 16h ago
 
 ---
 
-**[Opinion | I’m Begging You: Never Write With A.I.](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html)**
+**[AI agents fake identities, target real people in new security incident](https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk)**
 
-nytimes.com • 14h ago
+Anthropic’s most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.
+
+CNN • 9h ago
+
+---
+
+**[Anthropic's AI model created fake identities to push malicious code in U.K. safety tests](https://qz.com/anthropic-mythos-ai-fake-identities-malicious-code-uk-safety-test-080526)**
+
+The U.K.'s AI Security Institute found Anthropic's Mythos 5 responsible for 17 of 19 unsanctioned actions during a routine cybersecurity evaluation
+
+qz.com • 49m ago
+
+---
+
+**[We're adding to our position in a chipmaker as the AI trade regains its footing](https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html)**
+
+The stock is still well below levels it traded at last month after earnings.
+
+CNBC • 34m ago
+
+---
+
+**[Game, set, Chat: how tennis players use AI to scout opponents and run their lives](https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology)**
+
+The emergence of GenAI has led to a generational shift with tennis stars conflicted on the impact of technology on their sport
+
+The Guardian • 1h ago
+
+---
+
+**[A 25-Year-Old AI Investor’s Hedge Fund Implodes](https://www.forbes.com/sites/the-prompt/2026/08/05/a-25-year-old-ai-investors-hedge-fund-implodes/)**
+
+Former OpenAI researcher Leopold Aschenbrenner’s fund, Situational Awareness reached $45 billion in assets at its peak. But in a matter of weeks, the market wiped out 77% of it.
+
+Forbes • 6m ago
 
 ---
 
@@ -135,53 +177,23 @@ nytimes.com • 14h ago
 
 SpaceX is becoming an AI giant faster than expected — and it's spending like one.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[SpaceX's AI spending unnerves Wall Street despite promises of quick payoff](https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html)**
+**[SpaceX shares sink after first earnings report reveals huge AI spending plans](https://www.bbc.com/news/articles/c0qvpveg20vo)**
 
-In addressing Wall Street for the first time since SpaceX's IPO, executives tried to make the case that hefty AI investments are paying off within a year.
+Elon Musk told investors that people were "underestimating" his company.
 
-CNBC • 9h ago
-
----
-
-**[SpaceX slides as AI spending worries overshadow early returns](https://www.reuters.com/business/media-telecom/spacex-slides-ai-spending-worries-overshadow-early-returns-2026-08-05/)**
-
-Reuters • 1h ago
+BBC • 4h ago
 
 ---
 
-**[EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks](https://www.reuters.com/world/jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-2026-08-05/)**
+**[SpaceX dives 12% after AI spending surge rattles investors](https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html)**
 
-Reuters • 1h ago
+CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.
 
----
-
-**[Tech companies rack up debt, risks to fund AI ambitions](https://thehill.com/policy/technology/6008962-hyperscalers-raising-ai-infrastructure-costs/)**
-
-The Hill • 1h ago
-
----
-
-**[Introducing Shieldstral.](https://mistral.ai/news/shieldstral/)**
-
-Shieldstral introduces a 3B open-weights multimodal safety classifier that outperforms models up to 7x its size.
-
-mistral.ai • 21h ago
-
----
-
-**[We're headed toward the first true AI election](https://www.axios.com/2026/08/05/ai-election-bots-simulated-voters-2026-2028)**
-
-Axios • 1h ago
-
----
-
-**[Hollywood is entering its AI era](https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era)**
-
-The Economist • 19h ago
+CNBC • 5h ago
 
 ---
 
@@ -193,7 +205,7 @@ The Economist • 19h ago
 
 If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
 
-⬆️ 764 • 💬 443 • 23h ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+⬆️ 768 • 💬 449 • 1d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
 
 ---
 
@@ -201,7 +213,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL's African Cyberthreat Assessment Report 2026.
 
-⬆️ 255 • 💬 196 • 13h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+⬆️ 268 • 💬 211 • 15h ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
 
 ---
 
@@ -233,7 +245,7 @@ One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each mod
 
 “At some point, the rivers of capital financing private and government debt issuance will flow less freely.”
 
-⬆️ 143 • 💬 175 • 1d ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
+⬆️ 144 • 💬 175 • 1d ago • [Fortune](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 
 ---
 
@@ -287,7 +299,7 @@ Trillions in market value have vanished, free cash flow is collapsing even as re
 
 📺 House of El: AI
 
-👁️ 114K • 👍 10K • 💬 2K • ⏱️ 25:15 • 19h ago
+👁️ 114K • 👍 10K • 💬 2K • ⏱️ 25:15 • 21h ago
 
 ---
 
@@ -297,7 +309,7 @@ Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning th
 
 📺 The Young Turks
 
-👁️ 16K • 👍 584 • 💬 82 • ⏱️ 15:11 • 7h ago
+👁️ 16K • 👍 584 • 💬 82 • ⏱️ 15:11 • 9h ago
 
 ---
 
@@ -307,7 +319,7 @@ Forget the rest because MiniMax H3 really is the best AI video generation model 
 
 📺 Nerdy Rodent
 
-👁️ 15K • 👍 742 • 💬 93 • ⏱️ 15:36 • 19h ago
+👁️ 15K • 👍 742 • 💬 93 • ⏱️ 15:36 • 20h ago
 
 ---
 
@@ -317,7 +329,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 21K • 👍 855 • 💬 63 • ⏱️ 15:44 • 22h ago
+👁️ 21K • 👍 855 • 💬 63 • ⏱️ 15:44 • 1d ago
 
 ---
 
@@ -327,7 +339,7 @@ DeepSeek V4 Flash just became the cheapest capable model ever — 35x cheaper th
 
 📺 Stacked Podcast
 
-👁️ 4K • 👍 120 • 💬 34 • ⏱️ 29:56 • 14h ago
+👁️ 4K • 👍 120 • 💬 34 • ⏱️ 29:56 • 15h ago
 
 ---
 
@@ -337,7 +349,7 @@ Dr. Alex Turner, PhD, recently went viral for resigning from Google DeepMind ove
 
 📺 Doom Debates
 
-👁️ 3K • 👍 148 • 💬 95 • ⏱️ 1:07:14 • 18h ago
+👁️ 3K • 👍 148 • 💬 95 • ⏱️ 1:07:14 • 20h ago
 
 ---
 
@@ -347,7 +359,7 @@ Wall Street Journal assistant editor James Freeman joins 'Fox & Friends' to disc
 
 📺 Fox News Clips
 
-👁️ 2K • 👍 55 • 💬 21 • ⏱️ 4:27 • 23h ago
+👁️ 2K • 👍 55 • 💬 21 • ⏱️ 4:27 • 1d ago
 
 ---
 
@@ -383,7 +395,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 0 • ❤️ 2,316 • 2h ago
+⬇️ 0 • ❤️ 2,316 • 4h ago
 
 ---
 
@@ -417,7 +429,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 2 • ❤️ 689 • 6h ago
+⬇️ 2 • ❤️ 689 • 8h ago
 
 ---
 
@@ -429,7 +441,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,633,405 • ❤️ 1,551 • 9h ago
+⬇️ 1,633,405 • ❤️ 1,551 • 10h ago
 
 ---
 
@@ -477,7 +489,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 231 • 5h ago
+⬇️ 0 • ❤️ 231 • 7h ago
 
 ---
 
@@ -489,7 +501,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 47,393 • ❤️ 217 • 52m ago
+⬇️ 47,393 • ❤️ 217 • 2h ago
 
 ---
 
@@ -623,7 +635,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
 
-▲ 309 • 💬 5 • ⭐ 1,667 • 14d ago
+▲ 309 • 💬 5 • ⭐ 1,667 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
@@ -649,7 +661,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.6k • 🔱 306 • 46m ago
+⭐ 3.6k • 🔱 306 • 2h ago
 
 ---
 
@@ -667,7 +679,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.3k • 🔱 1.7k • 1m ago
+⭐ 2.3k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -677,7 +689,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 1.9k • 🔱 137 • 53m ago
+⭐ 1.9k • 🔱 137 • 2h ago
 
 ---
 
@@ -697,7 +709,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 216 • 11m ago
+⭐ 1.8k • 🔱 216 • 2h ago
 
 ---
 
@@ -727,7 +739,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 1.6k • 🔱 258 • 1h ago
+⭐ 1.6k • 🔱 258 • 3h ago
 
 ---
 
