@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-06T09:21:44.788963+00:00'
+updated: '2026-08-06T11:40:48.836528+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 09:21 UTC  
+**Last Updated:** August 06, 2026 at 11:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +2.6%  
-**30d:** +9.6%  
-**90d:** -17.8%  
-**1y:** -51.2%  
+**24h:** +1.5%  
+**7d:** +2.4%  
+**30d:** +9.4%  
+**90d:** -17.9%  
+**1y:** -51.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.00B
+**Market Cap:** $230.03B
 Rank #2
 
 **Circulating Supply:** 120,682,142 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.5%
 
 **All-Time Low:** $0.43
-+440059.9%
++440163.8%
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Follow-up to the thread two weeks ago where I posted a high scam rate on new Ethereum tokens and several of you pushed back on the methodology. That pushback was right, and this is the part I could not answer then. I joined 5.9M resolved swap transactions against contracts scoring 70+ on my risk index. That gives 474,791 distinct wallets that bought at least one flagged token. Distribution of how many different flagged tokens each wallet bought: 1 token 309,256 65.1% 2 to 4 115,885 24.4% 5 to 10 32,635 6.9% 11 to 50 14,699 3.1% 51 to 200 1,952 0.4% 200+ 364 0.1% 34.9% bought more than one. Median victim bought exactly 1, p90 is 5. Before anyone asks about bots, because that was the main critique last time: the 2,316 wallets above 50 tokens (0.5% of the total) account for 23.6% of every scam-token purchase in the set. Those are trading bots, not people. I am reporting them separately instead of folding them into a bigger headline. And the repeat finding survives the sceptical cut: throw away every wallet above 10 tokens as possible automation and 31.3% still got hit more than once. Two things that explain the repeats, both measurable: **Template reuse.** 44.6% of flagged contracts share a bytecode template with another flagged contract. One single template accounts for 8,401 flagged tokens, which is 13.5% of every scam in the set. They do not look exotic, they look like ordinary new tokens, because most of them are copies of each other. **Late rugs.** I froze a cohort of 25,931 tokens and re-scored them at deploy and again at day 30 with a fixed threshold. 48.8% scored as scams on day 0, 90.6% by day 30. 41.9% flipped from clean to flagged and not one flipped back. Checking a contract on launch day misses most of the danger, which is the thing I had wrong for months. Limits, stated up front: "flagged" is my detector, not a court ruling. Precision sits around 0.3 to 0.4, so it over-flags on purpose. Recall against a behavioural label (real retail money in, buyers not recovering their WETH) is about 0.97, so it rarely misses an actual rug once real money is involved, but that is on a small sample. Happy to run other cuts on the data if someone wants a specific one, or to go into the three drain mechanisms (honeypot, liquidity removal, late rug) if that is useful.
 
-4d ago
+5d ago
 
 ---
 
@@ -162,7 +162,15 @@ The Block • 1d ago
 
 The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20m ago
 
 ---
 
@@ -170,7 +178,7 @@ CoinDesk • 1d ago
 
 Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
@@ -178,23 +186,7 @@ TradingView • 7h ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 21h ago
-
----
-
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
-
----
-
-**[Crypto Market Today, Aug. 4: Bitcoin Steadies Near $64,000 Despite Ongoing Coldcard Hack](https://www.fool.com/coverage/stock-market-today/2026/08/04/crypto-market-today-aug-4-bitcoin-steadies-near-usd64-000-despite-ongoing-coldcard-hack/)**
-
-Today, Aug. 4, 2026, waning geopolitical tensions and spot ETF inflows are keeping major crypto assets in positive territory.
-
-The Motley Fool • 1d ago
+ethereum.org • 23h ago
 
 ---
 
@@ -206,11 +198,19 @@ FXStreet • 1d ago
 
 ---
 
+**[Crypto Market Today, Aug. 4: Bitcoin Steadies Near $64,000 Despite Ongoing Coldcard Hack](https://www.fool.com/coverage/stock-market-today/2026/08/04/crypto-market-today-aug-4-bitcoin-steadies-near-usd64-000-despite-ongoing-coldcard-hack/)**
+
+Today, Aug. 4, 2026, waning geopolitical tensions and spot ETF inflows are keeping major crypto assets in positive territory.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Ethereum dominates USDC issuance with 70% of $72B market cap](https://cryptobriefing.com/ethereum-dominates-usdc-issuance-72-billion/)**
 
 Ethereum hosts $49.5B of USDC's $72B total supply, roughly 70% of Circle's stablecoin, as CCTP expands native issuance to 35 blockchains.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -218,15 +218,13 @@ Crypto Briefing • 13h ago
 
 LDO prices drop as Ethereum's staking proposal revives concerns while traders increase leveraged exposure.
 
-AMBCrypto • 17h ago
+ambcrypto.com • 19h ago
 
 ---
 
-**[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
+**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://www.ccn.com/news/crypto/ethereum-beat-nasdaq-100-btc-july-tom-lee/)**
 
-BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
-
-Decrypt • 2d ago
+CCN.com • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 24K • 👍 668 • 💬 108 • ⏱️ 10:24 • 1d ago
+👁️ 24K • 👍 680 • 💬 113 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -250,17 +248,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 758 • 👍 54 • 💬 5 • ⏱️ 13:23 • 12h ago
-
----
-
-**[Ethereum Price Analysis: Will ETH Break Down to 1000?](https://www.youtube.com/watch?v=qL__Eml4hPQ)**
-
-In this video I break down the current Ethereum price action to determine if we are nearing a major market low or if further ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 235 • 💬 13 • ⏱️ 7:57 • 1d ago
+👁️ 925 • 👍 60 • 💬 22 • ⏱️ 13:23 • 14h ago
 
 ---
 
@@ -270,27 +258,7 @@ Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance v
 
 📺 Schwab Network
 
-👁️ 695 • 👍 21 • 💬 2 • ⏱️ 8:10 • 11h ago
-
----
-
-**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
-
-The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
-
-📺 Alexander Lorenzo
-
-👁️ 764 • 👍 46 • 💬 28 • ⏱️ 1:32 • 14h ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
-
-BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 231 • 💬 126 • ⏱️ 18:17 • 15h ago
+👁️ 783 • 👍 21 • 💬 2 • ⏱️ 8:10 • 13h ago
 
 ---
 
@@ -300,7 +268,27 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 430 • 💬 40 • ⏱️ 10:22 • 1d ago
+👁️ 6K • 👍 431 • 💬 40 • ⏱️ 10:22 • 1d ago
+
+---
+
+**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
+
+The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
+
+📺 Alexander Lorenzo
+
+👁️ 835 • 👍 48 • 💬 28 • ⏱️ 1:32 • 16h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
+
+BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 234 • 💬 171 • ⏱️ 18:17 • 17h ago
 
 ---
 
@@ -314,23 +302,33 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 ---
 
+**[Ethereum Price Analysis: Will ETH Break Down to 1000?](https://www.youtube.com/watch?v=qL__Eml4hPQ)**
+
+In this video I break down the current Ethereum price action to determine if we are nearing a major market low or if further ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 237 • 💬 13 • ⏱️ 7:57 • 1d ago
+
+---
+
 **[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
 
 Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
 
 📺 The Rollup
 
-👁️ 4K • 👍 99 • 💬 8 • ⏱️ 35:18 • 2d ago
+👁️ 4K • 👍 100 • 💬 8 • ⏱️ 35:18 • 2d ago
 
 ---
 
-**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
+**[WARNING! BTC &amp; ETH IGNORE CLARITY&#39;S COLLAPSE! — What&#39;s Really Happening?](https://www.youtube.com/watch?v=T_--Ju9EQMo)**
 
-BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
+The CLARITY Act's cloture vote is now expected to fail — Thune didn't file, Democrats have coalesced against it, and Polymarket ...
 
-📺 Discover Crypto
+📺 The Crypto Cowboy
 
-👁️ 5K • 👍 287 • 💬 15 • ⏱️ 1:03:35 • 1d ago
+👁️ 323 • 👍 32 • 💬 22 • ⏱️ 16:08 • 14h ago
 
 ---
 

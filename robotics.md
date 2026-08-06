@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-06T09:21:44.792255+00:00'
+updated: '2026-08-06T11:40:48.839769+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 06, 2026 at 09:21 UTC  
+**Last Updated:** August 06, 2026 at 11:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,11 +130,9 @@ WSJ • 3d ago
 
 ---
 
-**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo?srnd=homepage-americas)**
 
-Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
-
-businessinsider.com • 18h ago
+Bloomberg.com • 17m ago
 
 ---
 
@@ -142,13 +140,43 @@ businessinsider.com • 18h ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-techcrunch.com • 11h ago
+TechCrunch • 14h ago
+
+---
+
+**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
+
+Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
+
+businessinsider.com • 20h ago
+
+---
+
+**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
+
+The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
+
+MIT Technology Review • 2d ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 8d ago
+
+---
+
+**[The Trump admin just banned Roombas: what else is affected?](https://www.newsweek.com/trumps-new-robotics-rules-the-household-items-impacted-12281594)**
+
+Trump's new robotics rules target foreign-produced advanced robots. Here's which household devices could be affected.
+
+Newsweek • 1d ago
 
 ---
 
 **[Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US](https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us)**
 
-South China Morning Post • 20h ago
+South China Morning Post • 22h ago
 
 ---
 
@@ -156,35 +184,7 @@ South China Morning Post • 20h ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 21h ago
-
----
-
-**[China's Unitree IPO puts global robotics race and geopolitics in focus](https://www.cnbc.com/video/2026/08/06/chinas-unitree-ipo-puts-global-robotics-race-and-geopolitics-in-focus.html)**
-
-Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that plays a major role in global markets.
-
-CNBC • 1h ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 2d ago
-
----
-
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
-
-Tech Xplore • 21h ago
-
----
-
-**[Family Offices Sidestep AI Fears With Robotics Deal Spree](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,15 +198,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 240K • 👍 6K • 💬 532 • ⏱️ 3:00 • 6d ago
-
----
-
-**[The Ohbot family 😍 #ai #robotics #funny #family #fun #humanoidrobot](https://www.youtube.com/watch?v=iw91gfOPSM4)**
-
-📺 Ohbot Robot
-
-👁️ 1K • 👍 4 • ⏱️ 0:07 • 2h ago
+👁️ 241K • 👍 6K • 💬 534 • ⏱️ 3:00 • 6d ago
 
 ---
 
@@ -216,17 +208,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 23K • 👍 268 • 💬 183 • ⏱️ 1:03 • 4d ago
-
----
-
-**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
-
-Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
-
-📺 TESLA CAR WORLD
-
-👁️ 264K • 👍 3K • 💬 532 • ⏱️ 12:26 • 5d ago
+👁️ 24K • 👍 269 • 💬 183 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -236,7 +218,17 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 43K • 👍 812 • 💬 97 • ⏱️ 1:00 • 5d ago
+👁️ 44K • 👍 823 • 💬 98 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
+
+Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
+
+📺 TESLA CAR WORLD
+
+👁️ 265K • 👍 3K • 💬 532 • ⏱️ 12:26 • 6d ago
 
 ---
 
@@ -246,7 +238,17 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 65K • 👍 994 • 💬 96 • ⏱️ 11:26 • 3d ago
+👁️ 65K • 👍 999 • 💬 97 • ⏱️ 11:26 • 3d ago
+
+---
+
+**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
+
+Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
+
+📺 Reuters
+
+👁️ 2K • 👍 44 • 💬 17 • ⏱️ 1:39 • 10h ago
 
 ---
 
@@ -256,7 +258,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 31K • 👍 559 • 💬 43 • ⏱️ 9:54 • 5d ago
+👁️ 31K • 👍 561 • 💬 43 • ⏱️ 9:54 • 5d ago
 
 ---
 
@@ -266,7 +268,17 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 687 • 👍 21 • ⏱️ 11:48 • 13h ago
+👁️ 811 • 👍 25 • ⏱️ 11:48 • 16h ago
+
+---
+
+**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+
+Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+
+📺 Lon.TV
+
+👁️ 14K • 👍 735 • 💬 173 • ⏱️ 9:59 • 12h ago
 
 ---
 
@@ -277,16 +289,6 @@ Every time you click "buy" on an online order, the chances are that your purchas
 📺 BBC News
 
 👁️ 200K • 👍 2K • 💬 647 • ⏱️ 3:14 • 3d ago
-
----
-
-**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
-
-In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
-
-📺 Creative Channel
-
-👁️ 49K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
 
 ---
 
