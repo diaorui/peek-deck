@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-06T06:12:10.147286+00:00'
+updated: '2026-08-06T09:21:44.788963+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 06:12 UTC  
+**Last Updated:** August 06, 2026 at 09:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,912.94
+### $1,911.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
+**24h:** +2.3%  
 **7d:** +2.6%  
 **30d:** +9.6%  
 **90d:** -17.8%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.62B
+**Market Cap:** $230.00B
 Rank #2
 
 **Circulating Supply:** 120,682,142 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.4%
+-61.5%
 
 **All-Time Low:** $0.43
-+441170.8%
++440059.9%
 
 ---
 
@@ -166,27 +166,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[BitMine Stakes 87% of Its Ethereum Holdings in Fresh Conviction Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-87-ethereum-holdings-042707070.html)**
-
-BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
 
 Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
 
-TradingView • 4h ago
-
----
-
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
-
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
-
-247wallst.com • 13h ago
+TradingView • 7h ago
 
 ---
 
@@ -194,7 +178,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 17h ago
+ethereum.org • 21h ago
 
 ---
 
@@ -202,7 +186,7 @@ ethereum.org • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 23h ago
 
 ---
 
@@ -222,11 +206,27 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum staking surges by 1.4M ETH – What happens to liquidity now?](https://ambcrypto.com/ethereum-staking-surges-by-1-4m-eth-what-happens-to-liquidity-now/)**
+**[Ethereum dominates USDC issuance with 70% of $72B market cap](https://cryptobriefing.com/ethereum-dominates-usdc-issuance-72-billion/)**
 
-Ethereum staking surge raises fresh questions over crypto market liquidity.
+Ethereum hosts $49.5B of USDC's $72B total supply, roughly 70% of Circle's stablecoin, as CCTP expands native issuance to 35 blockchains.
 
-AMBCrypto • 1d ago
+Crypto Briefing • 13h ago
+
+---
+
+**[Lido DAO drops 16% after Ethereum’s new staking proposal – Can LDO recover?](https://ambcrypto.com/lido-dao-drops-16-after-ethereums-new-staking-proposal-can-ldo-recover/)**
+
+LDO prices drop as Ethereum's staking proposal revives concerns while traders increase leveraged exposure.
+
+AMBCrypto • 17h ago
+
+---
+
+**[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum](https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum)**
+
+BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.
+
+Decrypt • 2d ago
 
 ---
 
@@ -234,23 +234,13 @@ AMBCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[🟣 Ethereum $7000](https://www.youtube.com/watch?v=5B_3buDI0Kw)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 319 • 💬 21 • ⏱️ 13:21 • 18h ago
-
----
-
 **[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
 
 Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
 
 📺 Coinsider
 
-👁️ 23K • 👍 649 • 💬 108 • ⏱️ 10:24 • 1d ago
+👁️ 24K • 👍 668 • 💬 108 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -260,7 +250,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 492 • 👍 46 • 💬 4 • ⏱️ 13:23 • 9h ago
+👁️ 758 • 👍 54 • 💬 5 • ⏱️ 13:23 • 12h ago
 
 ---
 
@@ -270,27 +260,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 233 • 💬 13 • ⏱️ 7:57 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
-
-BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 222 • 💬 120 • ⏱️ 18:17 • 12h ago
-
----
-
-**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
-
-The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
-
-📺 Alexander Lorenzo
-
-👁️ 710 • 👍 44 • 💬 28 • ⏱️ 1:32 • 11h ago
+👁️ 4K • 👍 235 • 💬 13 • ⏱️ 7:57 • 1d ago
 
 ---
 
@@ -300,7 +270,27 @@ Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance v
 
 📺 Schwab Network
 
-👁️ 556 • 👍 20 • 💬 2 • ⏱️ 8:10 • 8h ago
+👁️ 695 • 👍 21 • 💬 2 • ⏱️ 8:10 • 11h ago
+
+---
+
+**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
+
+The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
+
+📺 Alexander Lorenzo
+
+👁️ 764 • 👍 46 • 💬 28 • ⏱️ 1:32 • 14h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
+
+BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 231 • 💬 126 • ⏱️ 18:17 • 15h ago
 
 ---
 
@@ -310,7 +300,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 428 • 💬 39 • ⏱️ 10:22 • 1d ago
+👁️ 6K • 👍 430 • 💬 40 • ⏱️ 10:22 • 1d ago
 
 ---
 
@@ -320,17 +310,27 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 742 • 💬 192 • ⏱️ 28:23 • 1d ago
+👁️ 7K • 👍 742 • 💬 192 • ⏱️ 28:23 • 2d ago
 
 ---
 
-**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
+**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
 
-YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
+Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
 
-📺 The Moon Show
+📺 The Rollup
 
-👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 2d ago
+👁️ 4K • 👍 99 • 💬 8 • ⏱️ 35:18 • 2d ago
+
+---
+
+**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
+
+BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 287 • 💬 15 • ⏱️ 1:03:35 • 1d ago
 
 ---
 

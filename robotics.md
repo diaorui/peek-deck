@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-06T06:12:10.150194+00:00'
+updated: '2026-08-06T09:21:44.792255+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 06, 2026 at 06:12 UTC  
+**Last Updated:** August 06, 2026 at 09:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position & orientation of the rig at all times, and recenter it subtly.
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for di
 
 Started this over a year ago, but got discouraged because of problems I didn't understand. Fixed the problems and wanted to share again. I made a github repo with all of the code and links included. [Github Repo](https://github.com/rrmudry/MBt2) Used standard multibuild parts for the body and modified parts for the legs, etc. Basics: ESP32 brain 2 SimpleFOC mini drivers 2 gm4108-120t gimbal motors 2 AS5600 magnetic encoders 1 MPU6050 IMU wheels are printed from TPU Bluetooth controlled Custom PCB links provided All of the coding completed in Google Antigravity (because I cannot code but always wanted to build something like this, sorry...so much shame). Want to add CYD (cheap yellow display for face) and autonomous navigation, wireless charging, ai chat interaction, basically I want to have a droid that can follow me around, someday.
 
-🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 1d ago
+🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ WSJ • 3d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 15h ago
+businessinsider.com • 18h ago
 
 ---
 
@@ -142,16 +142,13 @@ Business Insider • 15h ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-TechCrunch • 8h ago
+techcrunch.com • 11h ago
 
 ---
 
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+**[Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US](https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us)**
 
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
-
-post-gazette.com • 10h ago
+South China Morning Post • 20h ago
 
 ---
 
@@ -159,7 +156,15 @@ post-gazette.com • 10h ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[China's Unitree IPO puts global robotics race and geopolitics in focus](https://www.cnbc.com/video/2026/08/06/chinas-unitree-ipo-puts-global-robotics-race-and-geopolitics-in-focus.html)**
+
+Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that plays a major role in global markets.
+
+CNBC • 1h ago
 
 ---
 
@@ -171,25 +176,15 @@ Forbes • 2d ago
 
 ---
 
-**[Robotics and automotive company to open North American headquarters in Upstate](https://www.foxcarolina.com/2026/08/05/robotics-automotive-company-open-north-american-headquarters-upstate/)**
+**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
 
-A German robotics and automotive company recently announced plans to open its North American headquarters in Greenville.
-
-FOX Carolina News • 17h ago
+Tech Xplore • 21h ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+**[Family Offices Sidestep AI Fears With Robotics Deal Spree](https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets)**
 
-Reuters • 8d ago
-
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -207,23 +202,21 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 ---
 
+**[The Ohbot family 😍 #ai #robotics #funny #family #fun #humanoidrobot](https://www.youtube.com/watch?v=iw91gfOPSM4)**
+
+📺 Ohbot Robot
+
+👁️ 1K • 👍 4 • ⏱️ 0:07 • 2h ago
+
+---
+
 **[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
 
 Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
 
 📺 KCRA 3
 
-👁️ 23K • 👍 265 • 💬 179 • ⏱️ 1:03 • 4d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 42K • 👍 788 • 💬 59 • ⏱️ 1:00 • 5d ago
+👁️ 23K • 👍 268 • 💬 183 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -233,7 +226,17 @@ Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 cou
 
 📺 TESLA CAR WORLD
 
-👁️ 263K • 👍 3K • 💬 530 • ⏱️ 12:26 • 5d ago
+👁️ 264K • 👍 3K • 💬 532 • ⏱️ 12:26 • 5d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 43K • 👍 812 • 💬 97 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -243,17 +246,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 65K • 👍 992 • 💬 96 • ⏱️ 11:26 • 3d ago
-
----
-
-**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
-
-Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
-
-📺 Reuters
-
-👁️ 1K • 👍 36 • 💬 12 • ⏱️ 1:39 • 5h ago
+👁️ 65K • 👍 994 • 💬 96 • ⏱️ 11:26 • 3d ago
 
 ---
 
@@ -263,7 +256,17 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 31K • 👍 554 • 💬 42 • ⏱️ 9:54 • 5d ago
+👁️ 31K • 👍 559 • 💬 43 • ⏱️ 9:54 • 5d ago
+
+---
+
+**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
+
+A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
+
+📺 MACHINEKIND
+
+👁️ 687 • 👍 21 • ⏱️ 11:48 • 13h ago
 
 ---
 
@@ -273,7 +276,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 199K • 👍 2K • 💬 645 • ⏱️ 3:14 • 3d ago
+👁️ 200K • 👍 2K • 💬 647 • ⏱️ 3:14 • 3d ago
 
 ---
 
@@ -283,17 +286,7 @@ In this video, I'll show you how to build a tiny AI-powered robot using the ESP3
 
 📺 Creative Channel
 
-👁️ 48K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
-
----
-
-**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
-
-Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
-
-📺 Lon.TV
-
-👁️ 9K • 👍 605 • 💬 135 • ⏱️ 9:59 • 7h ago
+👁️ 49K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
 
 ---
 
