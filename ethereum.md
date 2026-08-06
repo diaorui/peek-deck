@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-06T03:28:16.478264+00:00'
+updated: '2026-08-06T06:12:10.147286+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 03:28 UTC  
+**Last Updated:** August 06, 2026 at 06:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +1.8%  
-**30d:** +8.7%  
-**90d:** -18.4%  
-**1y:** -51.6%  
+**24h:** +2.1%  
+**7d:** +2.6%  
+**30d:** +9.6%  
+**90d:** -17.8%  
+**1y:** -51.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.60B
+**Market Cap:** $230.62B
 Rank #2
 
 **Circulating Supply:** 120,682,142 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.4%
 
 **All-Time Low:** $0.43
-+437399.3%
++441170.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -118,7 +118,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -142,7 +142,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -158,19 +158,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked](https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked)**
+**[New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion](https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion)**
 
-The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
+The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.
 
-Decrypt • 15h ago
-
----
-
-**[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
-
-ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
-
-Step Security • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -178,7 +170,23 @@ Step Security • 1d ago
 
 BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
+
+Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
+
+TradingView • 4h ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+247wallst.com • 13h ago
 
 ---
 
@@ -186,7 +194,15 @@ Yahoo Finance • 1d ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 15h ago
+ethereum.org • 17h ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
 
 ---
 
@@ -198,27 +214,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
-
-XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
-
-CoinDesk • 1d ago
-
----
-
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
 
-FXStreet • 23h ago
-
----
-
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
+FXStreet • 1d ago
 
 ---
 
@@ -240,17 +240,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 3K • 👍 316 • 💬 21 • ⏱️ 13:21 • 15h ago
-
----
-
-**[Crypto Corner: Ethereum&#39;s Edge, EIP-8361 &amp; Bitcoin Security](https://www.youtube.com/watch?v=VPhGB_yutd8)**
-
-Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance vs. Bitcoin, how EIP-8361 reduces supply by ...
-
-📺 Schwab Network
-
-👁️ 313 • 👍 16 • 💬 1 • ⏱️ 8:10 • 5h ago
+👁️ 3K • 👍 319 • 💬 21 • ⏱️ 13:21 • 18h ago
 
 ---
 
@@ -260,7 +250,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 22K • 👍 635 • 💬 106 • ⏱️ 10:24 • 1d ago
+👁️ 23K • 👍 649 • 💬 108 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -270,47 +260,17 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 330 • 👍 34 • 💬 4 • ⏱️ 13:23 • 6h ago
+👁️ 492 • 👍 46 • 💬 4 • ⏱️ 13:23 • 9h ago
 
 ---
 
-**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
+**[Ethereum Price Analysis: Will ETH Break Down to 1000?](https://www.youtube.com/watch?v=qL__Eml4hPQ)**
 
-The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
+In this video I break down the current Ethereum price action to determine if we are nearing a major market low or if further ...
 
-📺 Alexander Lorenzo
+📺 More Crypto Online
 
-👁️ 585 • 👍 41 • 💬 28 • ⏱️ 1:32 • 8h ago
-
----
-
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
-
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 741 • 💬 192 • ⏱️ 28:23 • 1d ago
-
----
-
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 6K • 👍 427 • 💬 39 • ⏱️ 10:22 • 1d ago
-
----
-
-**[Vladimir Novakovski: Why Robinhood Chain And Lighter Both Bet On Ethereum (Composability Thesis)](https://www.youtube.com/watch?v=3EqhnsaSVaw)**
-
-Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on top of Ethereum, and how ZK proofs let ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 97 • 💬 8 • ⏱️ 35:18 • 2d ago
+👁️ 4K • 👍 233 • 💬 13 • ⏱️ 7:57 • 1d ago
 
 ---
 
@@ -320,7 +280,47 @@ BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 210 • 💬 117 • ⏱️ 18:17 • 9h ago
+👁️ 5K • 👍 222 • 💬 120 • ⏱️ 18:17 • 12h ago
+
+---
+
+**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
+
+The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
+
+📺 Alexander Lorenzo
+
+👁️ 710 • 👍 44 • 💬 28 • ⏱️ 1:32 • 11h ago
+
+---
+
+**[Crypto Corner: Ethereum&#39;s Edge, EIP-8361 &amp; Bitcoin Security](https://www.youtube.com/watch?v=VPhGB_yutd8)**
+
+Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance vs. Bitcoin, how EIP-8361 reduces supply by ...
+
+📺 Schwab Network
+
+👁️ 556 • 👍 20 • 💬 2 • ⏱️ 8:10 • 8h ago
+
+---
+
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 428 • 💬 39 • ⏱️ 10:22 • 1d ago
+
+---
+
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 742 • 💬 192 • ⏱️ 28:23 • 1d ago
 
 ---
 

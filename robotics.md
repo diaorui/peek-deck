@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-06T03:28:16.480904+00:00'
+updated: '2026-08-06T06:12:10.150194+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 06, 2026 at 03:28 UTC  
+**Last Updated:** August 06, 2026 at 06:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-23h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-21h ago
+1d ago
 
 ---
 
@@ -134,7 +134,7 @@ WSJ • 3d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 12h ago
+Business Insider • 15h ago
 
 ---
 
@@ -142,15 +142,16 @@ Business Insider • 12h ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-TechCrunch • 6h ago
+TechCrunch • 8h ago
 
 ---
 
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
 
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
 
-forbes.com • 2d ago
+post-gazette.com • 10h ago
 
 ---
 
@@ -158,35 +159,37 @@ forbes.com • 2d ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
 
-Tech Xplore • 15h ago
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
----
-
-**[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
-
-Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
-
-The Motley Fool • 1d ago
+Forbes • 2d ago
 
 ---
 
-**[Former Microsoft researcher launches data center robotics startup](https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/)**
+**[Robotics and automotive company to open North American headquarters in Upstate](https://www.foxcarolina.com/2026/08/05/robotics-automotive-company-open-north-american-headquarters-upstate/)**
 
-Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
+A German robotics and automotive company recently announced plans to open its North American headquarters in Greenville.
 
-Data Center Dynamics • 1d ago
+FOX Carolina News • 17h ago
 
 ---
 
 **[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
 
 Reuters • 8d ago
+
+---
+
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -200,7 +203,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 239K • 👍 6K • 💬 532 • ⏱️ 3:00 • 6d ago
+👁️ 240K • 👍 6K • 💬 532 • ⏱️ 3:00 • 6d ago
 
 ---
 
@@ -210,37 +213,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 22K • 👍 258 • 💬 178 • ⏱️ 1:03 • 4d ago
-
----
-
-**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
-
-Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
-
-📺 TESLA CAR WORLD
-
-👁️ 261K • 👍 3K • 💬 529 • ⏱️ 12:26 • 5d ago
-
----
-
-**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
-
-Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
-
-📺 Reuters
-
-👁️ 488 • 👍 33 • 💬 9 • ⏱️ 1:39 • 2h ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 63K • 👍 981 • 💬 96 • ⏱️ 11:26 • 3d ago
+👁️ 23K • 👍 265 • 💬 179 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -250,17 +223,37 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 41K • 👍 770 • 💬 58 • ⏱️ 1:00 • 5d ago
+👁️ 42K • 👍 788 • 💬 59 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
 
-Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
 
-📺 BBC News
+📺 TESLA CAR WORLD
 
-👁️ 199K • 👍 2K • 💬 643 • ⏱️ 3:14 • 3d ago
+👁️ 263K • 👍 3K • 💬 530 • ⏱️ 12:26 • 5d ago
+
+---
+
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 65K • 👍 992 • 💬 96 • ⏱️ 11:26 • 3d ago
+
+---
+
+**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
+
+Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
+
+📺 Reuters
+
+👁️ 1K • 👍 36 • 💬 12 • ⏱️ 1:39 • 5h ago
 
 ---
 
@@ -270,7 +263,17 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 31K • 👍 552 • 💬 42 • ⏱️ 9:54 • 5d ago
+👁️ 31K • 👍 554 • 💬 42 • ⏱️ 9:54 • 5d ago
+
+---
+
+**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+
+Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+
+📺 BBC News
+
+👁️ 199K • 👍 2K • 💬 645 • ⏱️ 3:14 • 3d ago
 
 ---
 
@@ -280,17 +283,17 @@ In this video, I'll show you how to build a tiny AI-powered robot using the ESP3
 
 📺 Creative Channel
 
-👁️ 47K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
+👁️ 48K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
 
 ---
 
-**[New demon robot just dropped 🫪](https://www.youtube.com/watch?v=mcUaHg7ig7w)**
+**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
 
-This robot has hooves, horns, and a chainsaw for a hand, and it's built to run into wildfires instead of you. Satyress Robotics just ...
+Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
 
-📺 The Kaizen Lab
+📺 Lon.TV
 
-👁️ 845 • 👍 41 • 💬 8 • ⏱️ 0:45 • 5h ago
+👁️ 9K • 👍 605 • 💬 135 • ⏱️ 9:59 • 7h ago
 
 ---
 
