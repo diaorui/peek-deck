@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T23:59:57.770023+00:00'
+updated: '2026-08-06T03:28:16.478264+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 23:59 UTC  
+**Last Updated:** August 06, 2026 at 03:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** -0.5%  
-**30d:** +7.8%  
-**90d:** -17.3%  
-**1y:** -48.2%  
+**24h:** +1.6%  
+**7d:** +1.8%  
+**30d:** +8.7%  
+**90d:** -18.4%  
+**1y:** -51.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.50B
+**Market Cap:** $228.60B
 Rank #2
 
-**Circulating Supply:** 120,682,172 ETH
+**Circulating Supply:** 120,682,142 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.4%
+-61.7%
 
 **All-Time Low:** $0.43
-+440976.8%
++437399.3%
 
 ---
 
@@ -162,13 +162,21 @@ The Block • 1d ago
 
 The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
 
-Decrypt • 12h ago
+Decrypt • 15h ago
 
 ---
 
-**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-nasdaq-100-btc-090344933.html)**
+**[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
 
-Ethereum outperformed the Nasdaq 100 by 25 percentage points and Bitcoin by 11 percentage points in July, according to figures highlighted by Tom Lee. Lee ...
+ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
+
+Step Security • 1d ago
+
+---
+
+**[BitMine Stakes 87% of Its Ethereum Holdings in Fresh Conviction Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-87-ethereum-holdings-042707070.html)**
+
+BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
 
 Yahoo Finance • 1d ago
 
@@ -178,7 +186,7 @@ Yahoo Finance • 1d ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 11h ago
+ethereum.org • 15h ago
 
 ---
 
@@ -186,7 +194,7 @@ ethereum.org • 11h ago
 
 Today, Aug. 4, 2026, waning geopolitical tensions and spot ETF inflows are keeping major crypto assets in positive territory.
 
-fool.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -198,19 +206,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
-
----
-
 **[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
 
-fxstreet.com • 20h ago
+FXStreet • 23h ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 17h ago
 
 ---
 
@@ -222,25 +230,17 @@ AMBCrypto • 1d ago
 
 ---
 
-**[HYPE, ADA Outperform Bitcoin, Ethereum and XRP As Strait Of Hormuz Tensions Keep Crypto Markets On The Edge](https://www.tradingview.com/news/stocktwits:329bbc6a1094b:0-hype-ada-outperform-bitcoin-ethereum-and-xrp-as-strait-of-hormuz-tensions-keep-crypto-markets-on-the-edge/)**
-
-Cardano (ADA) and Hyperliquid (HYPE) outperformed major cryptocurrencies on Tuesday, despite uncertainty over U.S.-Iran talks and fresh shipping risks in the Strait of Hormuz weighing on investor sentiment.ADA price is up more than 4%, and HYPE price was up over 3% in the last 24 hours. In comparis…
-
-TradingView • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+**[🟣 Ethereum $7000](https://www.youtube.com/watch?v=5B_3buDI0Kw)**
 
-Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 Coinsider
+📺 🌟yourfriendsommi
 
-👁️ 21K • 👍 611 • 💬 103 • ⏱️ 10:24 • 1d ago
+👁️ 3K • 👍 316 • 💬 21 • ⏱️ 13:21 • 15h ago
 
 ---
 
@@ -250,37 +250,27 @@ Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance v
 
 📺 Schwab Network
 
-👁️ 38 • 👍 3 • ⏱️ 8:10 • 1h ago
+👁️ 313 • 👍 16 • 💬 1 • ⏱️ 8:10 • 5h ago
 
 ---
 
-**[🟣 Ethereum $7000](https://www.youtube.com/watch?v=5B_3buDI0Kw)**
+**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
 
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
 
-📺 🌟yourfriendsommi
+📺 Coinsider
 
-👁️ 2K • 👍 281 • 💬 20 • ⏱️ 13:21 • 11h ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
-
-BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 143 • 💬 133 • ⏱️ 18:17 • 5h ago
+👁️ 22K • 👍 635 • 💬 106 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
 
-📺 The Moon Show
+📺 XForceGlobal
 
-👁️ 6K • 👍 423 • 💬 39 • ⏱️ 10:22 • 1d ago
+👁️ 330 • 👍 34 • 💬 4 • ⏱️ 13:23 • 6h ago
 
 ---
 
@@ -290,27 +280,7 @@ The two companies behind ChatGPT and Claude now trade on the world's biggest cry
 
 📺 Alexander Lorenzo
 
-👁️ 366 • 👍 28 • 💬 30 • ⏱️ 1:32 • 5h ago
-
----
-
-**[Ethereum Price Analysis: Will ETH Break Down to 1000?](https://www.youtube.com/watch?v=qL__Eml4hPQ)**
-
-In this video I break down the current Ethereum price action to determine if we are nearing a major market low or if further ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 228 • 💬 12 • ⏱️ 7:57 • 22h ago
-
----
-
-**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
-
-BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 286 • 💬 15 • ⏱️ 1:03:35 • 1d ago
+👁️ 585 • 👍 41 • 💬 28 • ⏱️ 1:32 • 8h ago
 
 ---
 
@@ -320,7 +290,17 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 738 • 💬 192 • ⏱️ 28:23 • 1d ago
+👁️ 7K • 👍 741 • 💬 192 • ⏱️ 28:23 • 1d ago
+
+---
+
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 427 • 💬 39 • ⏱️ 10:22 • 1d ago
 
 ---
 
@@ -330,7 +310,27 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 📺 The Rollup
 
-👁️ 3K • 👍 93 • 💬 8 • ⏱️ 35:18 • 1d ago
+👁️ 3K • 👍 97 • 💬 8 • ⏱️ 35:18 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
+
+BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 210 • 💬 117 • ⏱️ 18:17 • 9h ago
+
+---
+
+**[BUYING ETHEREUM NOW !!!!!!!](https://www.youtube.com/watch?v=n_UACoPtUOs)**
+
+YUBIT: https://themoon.co/Yubit 50000 USDT Welcome Bonus + Instant VIP 2 BYBIT: https://themoon.co/BYBITever 10% ...
+
+📺 The Moon Show
+
+👁️ 8K • 👍 329 • 💬 47 • ⏱️ 5:30 • 2d ago
 
 ---
 

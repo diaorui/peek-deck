@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T23:59:57.773261+00:00'
+updated: '2026-08-06T03:28:16.480904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 23:59 UTC  
+**Last Updated:** August 06, 2026 at 03:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-20h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-18h ago
+21h ago
 
 ---
 
@@ -116,12 +116,6 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
-**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
-
-WSJ • 2d ago
-
----
-
 **[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
 
 The company aims to create physical AI tools for human workers
@@ -130,11 +124,9 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
+**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
-
-TechCrunch • 2h ago
+WSJ • 3d ago
 
 ---
 
@@ -142,32 +134,15 @@ TechCrunch • 2h ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 8h ago
+Business Insider • 12h ago
 
 ---
 
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
 
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
+Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-post-gazette.com • 4h ago
-
----
-
-**[Meet Threehalves: The viral robot designed for Earth's most dangerous environments](https://www.foxweather.com/earth-space/meet-satyress-horrifying-new-robot-developed-fight-wildfires)**
-
-A viral, bull-headed humanoid robot has captivated millions online, but its mission goes far beyond its unsettling appearance. Meet Threehalves, the prototype designed to help tackle wildfires, forestry work and other dangerous jobs.
-
-FOX Weather • 22h ago
-
----
-
-**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
-
-These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
-
-Yahoo Finance • 12h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -175,21 +150,43 @@ Yahoo Finance • 12h ago
 
 Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
 
-Forbes • 2d ago
+forbes.com • 2d ago
+
+---
+
+**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
+
+These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
+
+Yahoo Finance • 15h ago
 
 ---
 
 **[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
 
-Tech Xplore • 11h ago
+Tech Xplore • 15h ago
 
 ---
 
-**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
+**[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
 
-Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
+Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
 
-Interesting Engineering • 11h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Former Microsoft researcher launches data center robotics startup](https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/)**
+
+Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
+
+Data Center Dynamics • 1d ago
+
+---
+
+**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
+
+Reuters • 8d ago
 
 ---
 
@@ -203,17 +200,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 239K • 👍 6K • 💬 530 • ⏱️ 3:00 • 6d ago
-
----
-
-**[FCC chair Carr defends new ban on foreign-made humanoid robots](https://www.youtube.com/watch?v=kTeCO57t9cs)**
-
-The Trump administration will ban foreign-made humanoid robots in the U.S. as China seeks to dominate the emerging high-tech ...
-
-📺 NBC News
-
-👁️ 74K • 👍 395 • 💬 535 • ⏱️ 6:04 • 7d ago
+👁️ 239K • 👍 6K • 💬 532 • ⏱️ 3:00 • 6d ago
 
 ---
 
@@ -223,7 +210,27 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 21K • 👍 250 • 💬 173 • ⏱️ 1:03 • 4d ago
+👁️ 22K • 👍 258 • 💬 178 • ⏱️ 1:03 • 4d ago
+
+---
+
+**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
+
+Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
+
+📺 TESLA CAR WORLD
+
+👁️ 261K • 👍 3K • 💬 529 • ⏱️ 12:26 • 5d ago
+
+---
+
+**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
+
+Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
+
+📺 Reuters
+
+👁️ 488 • 👍 33 • 💬 9 • ⏱️ 1:39 • 2h ago
 
 ---
 
@@ -233,17 +240,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 62K • 👍 959 • 💬 95 • ⏱️ 11:26 • 3d ago
-
----
-
-**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
-
-Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
-
-📺 Sling and Stone
-
-👁️ 32K • 👍 3K • 💬 459 • ⏱️ 15:58 • 23h ago
+👁️ 63K • 👍 981 • 💬 96 • ⏱️ 11:26 • 3d ago
 
 ---
 
@@ -253,15 +250,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 39K • 👍 736 • 💬 57 • ⏱️ 1:00 • 5d ago
-
----
-
-**[world dance challenge #youtubeshorts #viralvideo #dancechallenge #robotics #shorts #fyp babyslow dan](https://www.youtube.com/watch?v=xdvZGK8ev_w)**
-
-📺 Dance Theorem 
-
-👁️ 659 • 👍 11 • 💬 1 • ⏱️ 1:01 • 5h ago
+👁️ 41K • 👍 770 • 💬 58 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -271,17 +260,7 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 198K • 👍 2K • 💬 643 • ⏱️ 3:14 • 3d ago
-
----
-
-**[US Bans All Foreign Robots](https://www.youtube.com/watch?v=V8SLsAuVQ2s)**
-
-humanoids, robotic dogs, and vacuums. The US just banned all new robots from other countries. Is this a smart or dumb move?
-
-📺 WEB3MAXX
-
-👁️ 123 • 👍 2 • 💬 2 • ⏱️ 0:53 • 1h ago
+👁️ 199K • 👍 2K • 💬 643 • ⏱️ 3:14 • 3d ago
 
 ---
 
@@ -291,7 +270,27 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 30K • 👍 550 • 💬 42 • ⏱️ 9:54 • 5d ago
+👁️ 31K • 👍 552 • 💬 42 • ⏱️ 9:54 • 5d ago
+
+---
+
+**[I Built a Tiny AI Robot with ESP32-S3 | Xiaozhi AI Robot DIY](https://www.youtube.com/watch?v=i0nN3e4tpvE)**
+
+In this video, I'll show you how to build a tiny AI-powered robot using the ESP32-S3 N16R8 and Xiaozhi AI. Components Used ...
+
+📺 Creative Channel
+
+👁️ 47K • 👍 1K • 💬 86 • ⏱️ 31:13 • 6d ago
+
+---
+
+**[New demon robot just dropped 🫪](https://www.youtube.com/watch?v=mcUaHg7ig7w)**
+
+This robot has hooves, horns, and a chainsaw for a hand, and it's built to run into wildfires instead of you. Satyress Robotics just ...
+
+📺 The Kaizen Lab
+
+👁️ 845 • 👍 41 • 💬 8 • ⏱️ 0:45 • 5h ago
 
 ---
 
