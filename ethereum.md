@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-05T22:34:57.333995+00:00'
+updated: '2026-08-05T23:59:57.770023+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 05, 2026 at 22:34 UTC  
+**Last Updated:** August 05, 2026 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** -0.3%  
-**30d:** +8.0%  
-**90d:** -17.1%  
-**1y:** -48.1%  
+**24h:** +2.4%  
+**7d:** -0.5%  
+**30d:** +7.8%  
+**90d:** -17.3%  
+**1y:** -48.2%  
 
 ---
 
@@ -162,13 +162,13 @@ The Block • 1d ago
 
 The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[BitMine Stakes 87% of Its Ethereum Holdings in Fresh Conviction Bet](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-87-ethereum-holdings-042707070.html)**
+**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-nasdaq-100-btc-090344933.html)**
 
-BitMine staked 150,120 more ETH, pushing its staked position to 87.4% of holdings, signaling long-term conviction.
+Ethereum outperformed the Nasdaq 100 by 25 percentage points and Bitcoin by 11 percentage points in July, according to figures highlighted by Tom Lee. Lee ...
 
 Yahoo Finance • 1d ago
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 10h ago
+ethereum.org • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ ethereum.org • 10h ago
 
 Today, Aug. 4, 2026, waning geopolitical tensions and spot ETF inflows are keeping major crypto assets in positive territory.
 
-The Motley Fool • 23h ago
+fool.com • 1d ago
 
 ---
 
@@ -198,19 +198,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
-
-FXStreet • 18h ago
-
----
-
 **[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-05-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 14h ago
+
+---
+
+**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
+
+fxstreet.com • 20h ago
 
 ---
 
@@ -218,15 +218,15 @@ Fortune • 12h ago
 
 Ethereum staking surge raises fresh questions over crypto market liquidity.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Iran Deal Hopes: Analyst Says 'Most of the Pain' of the](https://www.benzinga.com/crypto/cryptocurrency/26/08/60936929/bitcoin-ethereum-xrp-dogecoin-iran-deal-crypto-market)**
+**[HYPE, ADA Outperform Bitcoin, Ethereum and XRP As Strait Of Hormuz Tensions Keep Crypto Markets On The Edge](https://www.tradingview.com/news/stocktwits:329bbc6a1094b:0-hype-ada-outperform-bitcoin-ethereum-and-xrp-as-strait-of-hormuz-tensions-keep-crypto-markets-on-the-edge/)**
 
-Leading cryptocurrencies edged higher on Tuesday, August 4, as investors weighed the prospects of a U.S.-Iran peace agreement after weeks of fighting.
+Cardano (ADA) and Hyperliquid (HYPE) outperformed major cryptocurrencies on Tuesday, despite uncertainty over U.S.-Iran talks and fresh shipping risks in the Strait of Hormuz weighing on investor sentiment.ADA price is up more than 4%, and HYPE price was up over 3% in the last 24 hours. In comparis…
 
-Benzinga • 20h ago
+TradingView • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance v
 
 📺 Schwab Network
 
-👁️ 38 • 👍 3 • ⏱️ 8:10 • 34m ago
+👁️ 38 • 👍 3 • ⏱️ 8:10 • 1h ago
 
 ---
 
@@ -260,7 +260,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 281 • 💬 20 • ⏱️ 13:21 • 10h ago
+👁️ 2K • 👍 281 • 💬 20 • ⏱️ 13:21 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 2K • 👍 143 • 💬 133 • ⏱️ 18:17 • 4h ago
+👁️ 2K • 👍 143 • 💬 133 • ⏱️ 18:17 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ The two companies behind ChatGPT and Claude now trade on the world's biggest cry
 
 📺 Alexander Lorenzo
 
-👁️ 366 • 👍 28 • 💬 30 • ⏱️ 1:32 • 3h ago
+👁️ 366 • 👍 28 • 💬 30 • ⏱️ 1:32 • 5h ago
 
 ---
 
@@ -300,7 +300,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 228 • 💬 12 • ⏱️ 7:57 • 21h ago
+👁️ 4K • 👍 228 • 💬 12 • ⏱️ 7:57 • 22h ago
 
 ---
 

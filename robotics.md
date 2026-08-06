@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-05T22:34:57.336296+00:00'
+updated: '2026-08-05T23:59:57.773261+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 05, 2026 at 22:34 UTC  
+**Last Updated:** August 05, 2026 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
 
-18h ago
+20h ago
 
 ---
 
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-16h ago
+18h ago
 
 ---
 
@@ -118,7 +118,7 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 **[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
@@ -134,7 +134,7 @@ IEEE Spectrum • 2d ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -142,7 +142,16 @@ TechCrunch • 1h ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
+
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+post-gazette.com • 4h ago
 
 ---
 
@@ -150,7 +159,7 @@ Business Insider • 7h ago
 
 A viral, bull-headed humanoid robot has captivated millions online, but its mission goes far beyond its unsettling appearance. Meet Threehalves, the prototype designed to help tackle wildfires, forestry work and other dangerous jobs.
 
-FOX Weather • 21h ago
+FOX Weather • 22h ago
 
 ---
 
@@ -158,15 +167,7 @@ FOX Weather • 21h ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
-
-Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
-
-Interesting Engineering • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -178,19 +179,17 @@ Forbes • 2d ago
 
 ---
 
-**[Better Robotics Stock: Tesla vs. Nvidia](https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/)**
+**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
 
-Both companies view robotics as a big part of their future, but Nvidia has some advantages that Tesla doesn't.
-
-The Motley Fool • 19h ago
+Tech Xplore • 11h ago
 
 ---
 
-**[Former Microsoft researcher launches data center robotics startup](https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/)**
+**[Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
 
-Exclaim Robotics secures $4.95m in pre-seed funding to build first bots
+Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
 
-Data Center Dynamics • 1d ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -214,7 +213,7 @@ The Trump administration will ban foreign-made humanoid robots in the U.S. as Ch
 
 📺 NBC News
 
-👁️ 74K • 👍 395 • 💬 535 • ⏱️ 6:04 • 6d ago
+👁️ 74K • 👍 395 • 💬 535 • ⏱️ 6:04 • 7d ago
 
 ---
 
@@ -244,7 +243,7 @@ Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers a
 
 📺 Sling and Stone
 
-👁️ 32K • 👍 3K • 💬 459 • ⏱️ 15:58 • 22h ago
+👁️ 32K • 👍 3K • 💬 459 • ⏱️ 15:58 • 23h ago
 
 ---
 
@@ -262,7 +261,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 Dance Theorem 
 
-👁️ 659 • 👍 11 • 💬 1 • ⏱️ 1:01 • 4h ago
+👁️ 659 • 👍 11 • 💬 1 • ⏱️ 1:01 • 5h ago
 
 ---
 
@@ -282,7 +281,7 @@ humanoids, robotic dogs, and vacuums. The US just banned all new robots from oth
 
 📺 WEB3MAXX
 
-👁️ 123 • 👍 2 • 💬 2 • ⏱️ 0:53 • 11m ago
+👁️ 123 • 👍 2 • 💬 2 • ⏱️ 0:53 • 1h ago
 
 ---
 
