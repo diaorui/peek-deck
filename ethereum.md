@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-06T11:40:48.836528+00:00'
+updated: '2026-08-06T14:10:05.548481+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 11:40 UTC  
+**Last Updated:** August 06, 2026 at 14:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +2.4%  
-**30d:** +9.4%  
+**24h:** +1.9%  
+**7d:** +2.5%  
+**30d:** +9.5%  
 **90d:** -17.9%  
 **1y:** -51.3%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.03B
+**Market Cap:** $230.12B
 Rank #2
 
 **Circulating Supply:** 120,682,142 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.4%
 
 **All-Time Low:** $0.43
-+440163.8%
++440364.8%
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm trying to understand the difference between unstaking stETH and simply swapping stETH to ETH. If I can already swap my stETH for ETH at any time, what does the unstaking feature actually add? Once unstaking is available, won't the total cost be similar anyway? Swapping stETH to ETH has slippage and fees, while unstaking has a withdrawal queue and gas costs. Why would someone choose one over the other?
 
-4d ago
+5d ago
 
 ---
 
@@ -150,6 +150,38 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion](https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion)**
+
+The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked](https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked)**
+
+The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.
+
+Decrypt • 1d ago
+
+---
+
+**[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
+
+ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
+
+StepSecurity • 1d ago
+
+---
+
+**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-06-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
 **[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october)**
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
@@ -158,19 +190,19 @@ The Block • 1d ago
 
 ---
 
-**[New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion](https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion)**
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
 
-The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
 
-coindesk.com • 1d ago
+24/7 Wall St. • 21h ago
 
 ---
 
-**[Current price of Ethereum for Aug. 6, 2026](https://fortune.com/article/price-of-ethereum-08-06-2026/)**
+**[Bitcoin and ethereum prices today, Thursday, August 6, 2026: Prices firm as Hormuz negotiations continue and ADP jobs report misses](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-6-2026-prices-firm-as-hormuz-negotiations-continue-and-adp-jobs-report-misses-134510256.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin opened at $64,602.32 on Thursday, August 6, 2026, up 0.9% compared to Wednesday's opening price. Ethereum opened at $1,906.96, up 2.1% from Wednesday's opening price.
 
-Fortune • 20m ago
+Yahoo Finance • 24m ago
 
 ---
 
@@ -178,7 +210,7 @@ Fortune • 20m ago
 
 Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
 
-TradingView • 9h ago
+TradingView • 12h ago
 
 ---
 
@@ -186,23 +218,7 @@ TradingView • 9h ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 23h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
-
-FXStreet • 1d ago
-
----
-
-**[Crypto Market Today, Aug. 4: Bitcoin Steadies Near $64,000 Despite Ongoing Coldcard Hack](https://www.fool.com/coverage/stock-market-today/2026/08/04/crypto-market-today-aug-4-bitcoin-steadies-near-usd64-000-despite-ongoing-coldcard-hack/)**
-
-Today, Aug. 4, 2026, waning geopolitical tensions and spot ETF inflows are keeping major crypto assets in positive territory.
-
-The Motley Fool • 1d ago
+ethereum.org • 1d ago
 
 ---
 
@@ -210,21 +226,7 @@ The Motley Fool • 1d ago
 
 Ethereum hosts $49.5B of USDC's $72B total supply, roughly 70% of Circle's stablecoin, as CCTP expands native issuance to 35 blockchains.
 
-Crypto Briefing • 16h ago
-
----
-
-**[Lido DAO drops 16% after Ethereum’s new staking proposal – Can LDO recover?](https://ambcrypto.com/lido-dao-drops-16-after-ethereums-new-staking-proposal-can-ldo-recover/)**
-
-LDO prices drop as Ethereum's staking proposal revives concerns while traders increase leveraged exposure.
-
-ambcrypto.com • 19h ago
-
----
-
-**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://www.ccn.com/news/crypto/ethereum-beat-nasdaq-100-btc-july-tom-lee/)**
-
-CCN.com • 2d ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -238,7 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 24K • 👍 680 • 💬 113 • ⏱️ 10:24 • 1d ago
+👁️ 25K • 👍 689 • 💬 114 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -248,57 +250,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 925 • 👍 60 • 💬 22 • ⏱️ 13:23 • 14h ago
-
----
-
-**[Crypto Corner: Ethereum&#39;s Edge, EIP-8361 &amp; Bitcoin Security](https://www.youtube.com/watch?v=VPhGB_yutd8)**
-
-Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance vs. Bitcoin, how EIP-8361 reduces supply by ...
-
-📺 Schwab Network
-
-👁️ 783 • 👍 21 • 💬 2 • ⏱️ 8:10 • 13h ago
-
----
-
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 6K • 👍 431 • 💬 40 • ⏱️ 10:22 • 1d ago
-
----
-
-**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
-
-The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
-
-📺 Alexander Lorenzo
-
-👁️ 835 • 👍 48 • 💬 28 • ⏱️ 1:32 • 16h ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
-
-BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 234 • 💬 171 • ⏱️ 18:17 • 17h ago
-
----
-
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
-
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 742 • 💬 192 • ⏱️ 28:23 • 2d ago
+👁️ 1K • 👍 66 • 💬 25 • ⏱️ 13:23 • 17h ago
 
 ---
 
@@ -308,7 +260,57 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 237 • 💬 13 • ⏱️ 7:57 • 1d ago
+👁️ 4K • 👍 239 • 💬 13 • ⏱️ 7:57 • 1d ago
+
+---
+
+**[Ethereum Is An Amplified Multiplier on Bitcoin](https://www.youtube.com/watch?v=r6KPHp7R_e4)**
+
+The two companies behind ChatGPT and Claude now trade on the world's biggest crypto exchange before they ever go public.
+
+📺 Alexander Lorenzo
+
+👁️ 902 • 👍 54 • 💬 37 • ⏱️ 1:32 • 19h ago
+
+---
+
+**[Crypto Corner: Ethereum&#39;s Edge, EIP-8361 &amp; Bitcoin Security](https://www.youtube.com/watch?v=VPhGB_yutd8)**
+
+Jim Ferraioli from @CharlesSchwab breaks down Ethereum's recent outperformance vs. Bitcoin, how EIP-8361 reduces supply by ...
+
+📺 Schwab Network
+
+👁️ 855 • 👍 24 • 💬 3 • ⏱️ 8:10 • 16h ago
+
+---
+
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 431 • 💬 40 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+
+Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+
+📺 The Modern Investor
+
+👁️ 7K • 👍 743 • 💬 192 • ⏱️ 28:23 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS PENDING: Don&#39;t Miss This!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eAv5bHgAw-s)**
+
+BITCOIN LIQUIDATIONS PENDING: Don't Miss This!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 239 • 💬 255 • ⏱️ 18:17 • 20h ago
 
 ---
 
@@ -322,13 +324,13 @@ Vladimir Novakovski breaks down why both Lighter Core and Robinhood Chain sit on
 
 ---
 
-**[WARNING! BTC &amp; ETH IGNORE CLARITY&#39;S COLLAPSE! — What&#39;s Really Happening?](https://www.youtube.com/watch?v=T_--Ju9EQMo)**
+**[Blackrock Picks Solana &amp; Ethereum (Top Altcoins I&#39;m Buying)](https://www.youtube.com/watch?v=YVcTkqiPgiw)**
 
-The CLARITY Act's cloture vote is now expected to fail — Thune didn't file, Democrats have coalesced against it, and Polymarket ...
+BlackRock is making major moves with Solana and Ethereum, and these are the top altcoins I'm buying right now! We break down ...
 
-📺 The Crypto Cowboy
+📺 Discover Crypto
 
-👁️ 323 • 👍 32 • 💬 22 • ⏱️ 16:08 • 14h ago
+👁️ 5K • 👍 287 • 💬 15 • ⏱️ 1:03:35 • 1d ago
 
 ---
 

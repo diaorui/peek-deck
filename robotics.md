@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-06T11:40:48.839769+00:00'
+updated: '2026-08-06T14:10:05.551960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 06, 2026 at 11:40 UTC  
+**Last Updated:** August 06, 2026 at 14:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, bringing couture craftsmanship to life through motion. Process video: https://www.youtube.com/shorts/5dN0aB0yEsE
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Started this over a year ago, but got discouraged because of problems I didn't u
 
 Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
 
-2d ago
+3d ago
 
 ---
 
@@ -124,15 +124,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[German Robotics Startup Agile Robots Set to Double Revenue This Year](https://www.wsj.com/tech/ai/german-robotics-startup-agile-robots-set-to-double-revenue-this-year-6d0a27dc)**
+**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
 
-WSJ • 3d ago
+Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
----
-
-**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo?srnd=homepage-americas)**
-
-Bloomberg.com • 17m ago
+Business Insider • 23h ago
 
 ---
 
@@ -140,15 +136,22 @@ Bloomberg.com • 17m ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-TechCrunch • 14h ago
+TechCrunch • 16h ago
 
 ---
 
-**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
+**[Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US](https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us)**
 
-Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
+South China Morning Post • 1d ago
 
-businessinsider.com • 20h ago
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -160,31 +163,33 @@ MIT Technology Review • 2d ago
 
 ---
 
-**[Trump administration bans new Chinese humanoid robots, to protect US AI buildout](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)**
-
-Reuters • 8d ago
-
----
-
-**[The Trump admin just banned Roombas: what else is affected?](https://www.newsweek.com/trumps-new-robotics-rules-the-household-items-impacted-12281594)**
-
-Trump's new robotics rules target foreign-produced advanced robots. Here's which household devices could be affected.
-
-Newsweek • 1d ago
-
----
-
-**[Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US](https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us)**
-
-South China Morning Post • 22h ago
-
----
-
 **[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
+
+Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
+
+Forbes • 3d ago
+
+---
+
+**[Robotics and automotive company to open North American headquarters in Upstate](https://www.foxcarolina.com/2026/08/05/robotics-automotive-company-open-north-american-headquarters-upstate/)**
+
+A German robotics and automotive company recently announced plans to open its North American headquarters in Greenville.
+
+FOX Carolina News • 1d ago
 
 ---
 
@@ -198,7 +203,7 @@ For decades, we've dreamed of robots that can seamlessly step into our world and
 
 📺 Google DeepMind
 
-👁️ 241K • 👍 6K • 💬 534 • ⏱️ 3:00 • 6d ago
+👁️ 241K • 👍 7K • 💬 534 • ⏱️ 3:00 • 6d ago
 
 ---
 
@@ -208,17 +213,7 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 24K • 👍 269 • 💬 183 • ⏱️ 1:03 • 4d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 44K • 👍 823 • 💬 98 • ⏱️ 1:00 • 5d ago
+👁️ 24K • 👍 276 • 💬 182 • ⏱️ 1:03 • 4d ago
 
 ---
 
@@ -228,7 +223,17 @@ Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 cou
 
 📺 TESLA CAR WORLD
 
-👁️ 265K • 👍 3K • 💬 532 • ⏱️ 12:26 • 6d ago
+👁️ 266K • 👍 3K • 💬 540 • ⏱️ 12:26 • 6d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 45K • 👍 838 • 💬 100 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -238,17 +243,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 65K • 👍 999 • 💬 97 • ⏱️ 11:26 • 3d ago
-
----
-
-**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
-
-Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
-
-📺 Reuters
-
-👁️ 2K • 👍 44 • 💬 17 • ⏱️ 1:39 • 10h ago
+👁️ 66K • 👍 1K • 💬 97 • ⏱️ 11:26 • 4d ago
 
 ---
 
@@ -258,7 +253,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 31K • 👍 561 • 💬 43 • ⏱️ 9:54 • 5d ago
+👁️ 31K • 👍 563 • 💬 43 • ⏱️ 9:54 • 5d ago
 
 ---
 
@@ -268,17 +263,17 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 811 • 👍 25 • ⏱️ 11:48 • 16h ago
+👁️ 979 • 👍 30 • 💬 1 • ⏱️ 11:48 • 18h ago
 
 ---
 
-**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
 
-Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
 
-📺 Lon.TV
+📺 Reuters
 
-👁️ 14K • 👍 735 • 💬 173 • ⏱️ 9:59 • 12h ago
+👁️ 2K • 👍 48 • 💬 18 • ⏱️ 1:39 • 13h ago
 
 ---
 
@@ -288,7 +283,17 @@ Every time you click "buy" on an online order, the chances are that your purchas
 
 📺 BBC News
 
-👁️ 200K • 👍 2K • 💬 647 • ⏱️ 3:14 • 3d ago
+👁️ 201K • 👍 2K • 💬 648 • ⏱️ 3:14 • 4d ago
+
+---
+
+**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+
+Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+
+📺 Lon.TV
+
+👁️ 16K • 👍 844 • 💬 200 • ⏱️ 9:59 • 15h ago
 
 ---
 

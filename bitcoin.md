@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-06T11:40:48.830441+00:00'
+updated: '2026-08-06T14:10:05.541946+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 11:40 UTC  
+**Last Updated:** August 06, 2026 at 14:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,887.53
+### $64,214.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.8%  
-**30d:** +3.8%  
-**90d:** -19.9%  
-**1y:** -45.0%  
+**24h:** +0.1%  
+**7d:** +2.6%  
+**30d:** +3.5%  
+**90d:** -20.1%  
+**1y:** -45.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1295.55B
+**Market Cap:** $1292.36B
 Rank #1
 
-**Circulating Supply:** 20,066,496 BTC
+**Circulating Supply:** 20,066,528 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.8%
+-48.9%
 
 **All-Time Low:** $67.81
-+95117.5%
++94880.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 SpaceX (NASDAQ: $SPCX) has reported a $540 million U.S. paper loss on its Bitcoin (CRYPTO: $BTC) holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html) • 21h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html) • 1d ago
 
 ---
 
@@ -103,7 +103,7 @@ Hacker keeps getting message, I wonder if they really found his location.
 
 **[Every cycle](https://www.reddit.com/r/Bitcoin/comments/1vgblzi/every_cycle/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://x.com/inverse_hanlon/status/2084689208627925384 A CEO who dismissed the 
 
 There is an active petition for keeping Bitcoin tax free in Germany (after one year hodling). It reached 21.000 signatures within the first 24 hours - let's make it 30.000 to put it on the agenda of german Bundestag. You need to sign up in order to put your signature but it's worth it. Everyone can sign - not just germans! https://epetitionen.bundestag.de/petitionen/_2026/_05/_30/Petition_201716.nc.html Thank you!
 
-20h ago
+22h ago
 
 ---
 
@@ -135,7 +135,7 @@ There is an active petition for keeping Bitcoin tax free in Germany (after one y
 
 The network processed 20,364,529 transactions in July 2026, making it the second-best month in entire history by transaction count. As new users, institutions, and Bitcoin-native applications continue to arrive, on-chain activity keeps pushing toward record territory. We think that, it's a remarkable achievement for a network that has been operating for more than 17 years and continues to reach new milestones. Congratulations to everyone contributing to the Bitcoin ecosystem!
 
-21h ago
+1d ago
 
 ---
 
@@ -161,21 +161,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.
 
-coindesk.com • 2h ago
-
----
-
-**[SpaceX Reports $540 Million Loss On Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html)**
-
-SpaceX (NASDAQ: $SPCX) has reported a $540 million U.S. paper loss on its Bitcoin (CRYPTO: $BTC) holdings.
-
-Yahoo Finance • 21h ago
-
----
-
-**[SpaceX Crypto Holdings Drop $539M Despite Blowout Earnings, Raising Questions Over Bitcoin Strategy](https://www.ccn.com/news/crypto/spacex-crypto-holdings-drop-539m-earnings-beat/)**
-
-CCN.com • 21h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -183,38 +169,7 @@ CCN.com • 21h ago
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-The Block • 16h ago
-
----
-
-**[What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)**
-
-A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
-has reportedly lost $100 million US worth of bitcoin as a result of the hack.
-
-CBC • 1d ago
-
----
-
-**[Michael Saylor finally breaks silence on personal Bitcoin holdings](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-finally-breaks-silence-213516252.html)**
-
-Billionaire Michael Saylor-led Strategy (Nasdaq: MSTR) again sold Bitcoin (BTC) last week as the leading cryptocurrency's price failed to recover. The world's largest Bitcoin treasury company sold 1,638 BTC for $104.73 million during July 27–Aug. 2. This is the third time the company has ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Strategy's Michael Saylor Is Making a Strong Case Against a Proposed New Bitcoin Upgrade. Here's What That Means for Bitcoin.](https://www.fool.com/investing/2026/08/06/strategys-michael-saylor-is-making-a-strong-case-a/)**
-
-The future of Bitcoin is at stake, and so is the value of Strategy's $54 billion Bitcoin investment.
-
-The Motley Fool • 2h ago
-
----
-
-**[Strategy Sells $105 Million of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/strategy-sells-105-million-of-bitcoin-7WqoOGNEx07IFQjWcsqF)**
-
-WSJ • 3d ago
+The Block • 19h ago
 
 ---
 
@@ -222,13 +177,61 @@ WSJ • 3d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 20m ago
+Fortune • 2h ago
 
 ---
 
-**[Bitcoin Falls as Geopolitical Uncertainty Persists](https://www.barrons.com/livecoverage/stock-market-news-today-080526/card/bitcoin-falls-as-geopolitical-uncertainty-persists-0DInXFwRVy7mC4Df1uBV)**
+**[Why Sandisk and Western Digital crashed 10% and what it means for bitcoin](https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin)**
 
-Barron's • 1d ago
+Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin owners rocked by $116 million hack: What we know about the Coldcard exploit](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)**
+
+The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
+
+Fortune • 2d ago
+
+---
+
+**[St. Louis men indicted in attempted robbery of teen involved in $245 million Bitcoin theft](https://www.stltoday.com/news/local/crime-courts/article_4470adee-5563-4132-ba8b-514243ce6db8.html)**
+
+Federal prosecutors say three St. Louis men traveled to Connecticut to help kidnap a teen linked to a $245 million Bitcoin theft. They have pleaded not guilty.
+
+STLtoday.com • 20h ago
+
+---
+
+**[Where Will Bitcoin Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-3-years-152500857.html)**
+
+The world's top cryptocurrency still has a bright future.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin rangebound above $64k with Hormuz deal in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-drifts-above-64k-with-hormuz-deal-in-focus-4836483)**
+
+Investing.com • 1d ago
+
+---
+
+**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+
+Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+
+Benzinga • 21h ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -325,47 +328,7 @@ Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discu
 
 📺 Fox Business Clips
 
-👁️ 43K • 👍 884 • 💬 337 • ⏱️ 8:52 • 19h ago
-
----
-
-**[Hackers Steal Over $100 Million From &quot;Safe&quot; Bitcoin Wallets](https://www.youtube.com/watch?v=iYxVLvsaneA)**
-
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
-
-📺 DeFranco News Clips
-
-👁️ 759K • 👍 37K • 💬 2K • ⏱️ 1:39 • 2d ago
-
----
-
-**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
-
-Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
-
-📺 Fireship
-
-👁️ 327K • 👍 13K • 💬 1K • ⏱️ 5:10 • 17h ago
-
----
-
-**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
-
-Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
-
-📺 The Diary Of A CEO
-
-👁️ 85K • 👍 5K • 💬 1K • ⏱️ 1:39:55 • 4h ago
-
----
-
-**[Dylan LeClair: &quot;The Bitcoin Bottom Is In&quot;](https://www.youtube.com/watch?v=igsBnAI7Juc)**
-
-Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared out short-term traders, and why Bitcoin's path ...
-
-📺 Natalie Brunell
-
-👁️ 1K • 👍 55 • 💬 36 • ⏱️ 1:03 • 16h ago
+👁️ 47K • 👍 952 • 💬 349 • ⏱️ 8:52 • 22h ago
 
 ---
 
@@ -375,7 +338,17 @@ Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING 
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 507 • 💬 82 • ⏱️ 23:41 • 18h ago
+👁️ 9K • 👍 525 • 💬 83 • ⏱️ 23:41 • 20h ago
+
+---
+
+**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
+
+Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
+
+📺 The Diary Of A CEO
+
+👁️ 158K • 👍 7K • 💬 2K • ⏱️ 1:39:55 • 7h ago
 
 ---
 
@@ -385,7 +358,47 @@ Everyone's scared. The Fear and Greed Index just hit EXTREME FEAR, and yesterday
 
 📺 Kyle Chasse crypto
 
-👁️ 3K • 👍 151 • 💬 26 • ⏱️ 17:23 • 14h ago
+👁️ 3K • 👍 161 • 💬 34 • ⏱️ 17:23 • 17h ago
+
+---
+
+**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
+
+Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
+
+📺 Crypto Insider
+
+👁️ 11K • 👍 487 • 💬 8 • ⏱️ 41:36 • 19h ago
+
+---
+
+**[Hackers Steal Over $100 Million From &quot;Safe&quot; Bitcoin Wallets](https://www.youtube.com/watch?v=iYxVLvsaneA)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 764K • 👍 38K • 💬 2K • ⏱️ 1:39 • 2d ago
+
+---
+
+**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
+
+Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
+
+📺 Fireship
+
+👁️ 352K • 👍 14K • 💬 1K • ⏱️ 5:10 • 20h ago
+
+---
+
+**[LIVE: BITCOIN CRASHING? Michael Saylor on BTC &amp; MSTR Prediction 2026](https://www.youtube.com/watch?v=mQswhS1c_HY)**
+
+Join Michael Saylor for a live discussion on Bitcoin as growing volatility and renewed selling pressure raise concerns across the ...
+
+📺 Angel Ladino
+
+👁️ 3K • 1h ago
 
 ---
 
@@ -405,17 +418,7 @@ In 2026, Bitcoin treasury stocks have taken a much bigger beating than Bitcoin i
 
 📺 Natalie Brunell
 
-👁️ 10K • 👍 373 • 💬 178 • ⏱️ 42:50 • 15h ago
-
----
-
-**[Bitcoin: Journey To The Brutal Bottom](https://www.youtube.com/watch?v=z6x7rlxtoPE)**
-
-TIA PRO ON SALE NOW, USE CODE "BTCBULL2027" → https://link.tiainvestor.com/jpytjulysale ➡ WEEKLY REPORTS ...
-
-📺 Jason Pizzino
-
-👁️ 24K • 👍 1K • 💬 59 • ⏱️ 26:49 • 2d ago
+👁️ 12K • 👍 408 • 💬 214 • ⏱️ 42:50 • 17h ago
 
 ---
 
