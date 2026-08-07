@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T15:56:09.955189+00:00'
+updated: '2026-08-07T16:55:02.297036+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 15:56 UTC  
+**Last Updated:** August 07, 2026 at 16:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1307.09B
+**Market Cap:** $1302.15B
 Rank #1
 
-**Circulating Supply:** 20,066,975 BTC
+**Circulating Supply:** 20,067,034 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.3%
+-48.5%
 
 **All-Time Low:** $67.81
-+95987.6%
++95602.7%
 
 ---
 
@@ -77,79 +77,86 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[SpaceX Reports $540 Million Loss On Bitcoin Holdings](https://www.reddit.com/r/Bitcoin/comments/1vg885b/spacex_reports_540_million_loss_on_bitcoin/)**
+**[The game was goated tho](https://www.reddit.com/r/Bitcoin/comments/1vhzqqa/the_game_was_goated_tho/)**
 
-SpaceX (NASDAQ: $SPCX) has reported a $540 million U.S. paper loss on its Bitcoin (CRYPTO: $BTC) holdings.
+Same as title.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html) • 2d ago
-
----
-
-**[Coldcard Thief Starts Mixing 64 BTC](https://www.reddit.com/r/Bitcoin/comments/1vg1rlc/coldcard_thief_starts_mixing_64_btc/)**
-
-https://xcancel.com/LightningNewsX/status/2084923135174844805#m
-
-2d ago
+4h ago
 
 ---
 
-**[Legit Feelings Right There](https://www.reddit.com/r/Bitcoin/comments/1vg46a3/legit_feelings_right_there/)**
+**[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
-Hacker keeps getting message, I wonder if they really found his location.
-
-2d ago
+8h ago
 
 ---
 
-**[Every cycle](https://www.reddit.com/r/Bitcoin/comments/1vgblzi/every_cycle/)**
+**[Trezor user loses life savings by entering their seed phrase into a fake Google-sponsored Trezor website](https://www.reddit.com/r/Bitcoin/comments/1vi2jv0/trezor_user_loses_life_savings_by_entering_their/)**
 
-1d ago
+Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor wallet' is a phishing site!
 
----
+The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
+bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-**[What's ColdCard's CEO doing during an emergency? He's on X, Deleting posts](https://www.reddit.com/r/Bitcoin/comments/1vfxsv0/whats_coldcards_ceo_doing_during_an_emergency_hes/)**
-
-NVK is currently deleting old posts from 2020 to try to clean up the history. Screenshot them while you can. They will all be gone soon.
-
-🔗 [X (formerly Twitter)](https://x.com/zherbert/status/2083377265593692242) • 2d ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 2h ago
 
 ---
 
-**[Retirement Attack: Many more details pointing straight to the CEO and CTO stealing the coins. This is more than enough evidence of probable cause to charge them and start a prosecution.](https://www.reddit.com/r/Bitcoin/comments/1vfvogm/retirement_attack_many_more_details_pointing/)**
+**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
 
-https://x.com/inverse_hanlon/status/2084689208627925384 A CEO who dismissed the threat by name, a pseudonym that turned out to be the CTO, two warnings four years apart, and a company whose entire answer was that it would have already known. They Sold the Warning On 21 December 2020 (22 Dec UTC), replying to Bitcoin security researcher Michael Flaxman, who had just posted about hardware wallets eliminating the risk of a retirement attack during seed generation and Rodolfo Novak “NVK” addressed the question head on. My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack.Alternatively people could just use dice ;) Ten weeks later on 1 March 2021, Coinkite’s CTO shipped a commit titled “First pass w/ libNgU” that routed Coldcard’s seed generation into a software pseudorandom number generator seeded from the device’s serial number and a clock. NVK’s threat model in December 2020 pointed outward. Users were the risk. Vendors were not. Ten weeks after he said so his co-founder shipped the vendor version and it stayed shipped for five years. The dice line is the other half: He offered it with a wink and it turned out to be the only thing standing between his customers and total loss. Oops They sold it again On 10 October 2021: seven months into shipping the defect the official Coldcard account posted that Coldcard makes retirement attacks impossible. Someone in the replies asked what a retirement attack was. Coinkite answered it themselves. It’s when the project makers could have a “bug” in the entropy generation for later retrieval. Their scare quotes not mine. By then somebody had already tried to warn them. The escape hatch was optional on purpose Look at what that 2021 post was actually selling: Dice rolls. The documentation it linked to still opens with a sentence that reads differently today; if you don’t trust the TRNGs in your COLDCARD, you can introduce your own randomness with dice. At least ninety nine rolls for a full 256 bits. But that setting is “opt in” and sits behind the default that looks fine from the outside.It asks the user to press buttons a hundred times to avoid trusting the manufacturer. Every person who still has their bitcoin took that option, or used a (strong) passphrase, or ran multisig. Every person who got swept trusted the default. That is the architecture a retirement attack requires. You can’t make the mitigation mandatory because then there’s nothing left to collect. You can’t omit it because the paranoid customers will ask why. So you offer it, document it, recommend at least ninety nine rolls, and let the default do the work. When it detonates the record shows you warned your users, therefore neatly covering your tracks if this was an inside job. Coinkite built the structure, warned of the attack it enables, and then pushed a firmware with a backdoor for five years. The pseudonym was the CTO Here is the detail that reorganizes everything else. Coldcard’s crypto ran through libngu, a library on GitHub under the account switck. About six stars. Maintained by one person: apparently pseudonymous. When James O’Beirne audited the firmware that’s what he found: a random number generation for a device holding billions of dollars in bitcoin backed up to what he described as a shady library with six stars maintained solely by a pseudoanon. Dylan LeClair ran GPG verification against that repo and published the output. James O’Beirne then published a full census: fifty-eight commits authored as Switck carry a good signature from Peter D. Gray’s personal key: the same key that signs nineteen other commits in the same repo under Gray’s own name. The key is expired and the signatures are still good. The RNG selection commit is among them. Signed 28 January 2021, switck published no GPG key of they/their own. Peter Gray is Coinkite’s CTO and cofounded the company with NVK. Coinkite has never had more than about twenty people and by most accounts Gray wrote the large majority of the firmware. So switck was Coinkite’s own CTO. Cryptographically proven; not inferred. Every outside reviewer who looked at libngu saw an unaudited third party dependency by an anonymous stranger and worried about supply chain risk. Coinkite’s own people knew it was in house and had no reason to review it as external code. The use of a pseudonym here means that no one audited that chunk of code. Outsiders assumed insiders had. Insiders knew there was no outside to check. They were warned in 2021 Five weeks after the commit on 7 April 2021 someone in a Telegram group flagged the change. Their post sounds in retrospect like a man watching a car roll toward a cliff. Roughly quoting: “The 4.0.x firmware was a radical deviation from every firmware since 2018, with all crypto and BIP39 related code replaced by libNgU. Is it was wise to replace the many-years-old TrezorCrypto code, which has been heavily scrutinized by white hats like Johoe and penetration tested by wallet.fail, with something new. “switck” might be a talented pseudonymous coder, but the commit history is bad” (and they linked to it) The post sat in a Coldcard Telegram group under an embedded NVK tweet about the 4.0.x upgrade: the same tweet in which he said he doesn’t check Telegram. That warning posted five weeks after the defect shipped was correct in every single way. Five years and four months before the money starting mysteriously leaving peoples cold storage. They were warned again in 2025 In May 2025 James O’Beirne audited coldcard/firmware. He wanted to establish conclusively where the RNG was sourced from. He traced it into libngu, found the six-star pseudonymous repo, and was confused about why it was there at all. Because linking libsecp256k1 from Python is easy and that appeared to be the stated purpose. He sent Coinkite a report. In his own words: he had “doubts about whether the true RNG was actually in use”, and he pointed out that the “hardcoded yasmarang constants in libngu were sloppy”. He advised them to rip the whole thing out and link against libsecp256k1 directly. That’s the bug! He identified the exact library, constants, and the question of whether the hardware RNG was being used. And he told them to remove it! Coinkite’s answer, as O’Beirne reports, was that if something was wrong “we’d already know about it by now” and that everything was properly configured for the real boards. That is not a technical response. That is an appeal to their own reputation offered to a developer who had just traced the code and found otherwise. And in a separate post O’Beirne identifies Peter Gray “@DocHex” as “the same guy that shrugged off my report of the possibility of the defect in May 2025.” The same Gray who wrote the library. The same Gray who was switck. There was follow-up of a kind. A Signal group titled “LNGU Clean up” was created on 23 May 2025, with members shown as “n,” “Doc,” “andres,” and one other. Doc-hex is Gray. “n” is NVK. So Coinkite formed a group about cleaning up libNgU and named it after the problem. Then they shipped… nothing! Absolutely no fix fourteen months. The group’s messages were set to disappear after four weeks so whatever was said there is gone, just like the bitcoins that were in hundres of hard working peoples Coldcards. O’Beirne blames himself for not pushing harder. He calls not following up rigorously a horrible mistake on his part. Hold that next to Coinkite’s public explanation which is that an attacker probably used AI to find something nobody could reasonably have caught. The developer who caught it is apologizing. The company that was responsibly informed is blaming the clankers. He didn’t know what was in his own crypto library Coinkite’s technical postmortem is worth reading in full because its author is if nothing else candid. He explains that he set the macro to zero believing it meant neither implementation would be compiled. That is not what it does. And he writes that the bulk of the randomness in the device was coming from a PRNG he did not know was in the codebase at all because it arrived through a submodule. Meanwhile the carefully written hardware TRNG code was still being used, but only by accident and only for things that didn’t matter. He is describing a submodule he wrote. The company selling immunity to entropy tampering did not know which random number generator its product used for five years. The man who says he didn’t know is the man who authored both sides of the mistake. And the answer when it finally surfaced was that libngu XORed one software PRNG against a second software PRNG seeded from constants hardcoded in public source. Two deterministic streams XORed together produce a deterministic stream. The built in health check rejects adjacent repeated values which any nondegenerate PRNG passes without effort. Those are the same hardcoded yasmarang constants O’Beirne told them to rip out. Coldcard seeds generated in that window contained no physical randomness whatsoever. They bought a press release not an audit Peter Todd says Coinkite brought him on in early 2014 as “Chief Naysayer”: an advisory role. Years before the first hardware wallet existed there was a press release. By his account he was given nothing to work on: no tasks, no work to bill for, and then the arrangement quietly dropped. He says it’s still on a LinkedIn profile that he hasn’t logged into in a over decade. His assessment now in his own words: “if they had kept him on and asked him to audit the codebases, there’s a good chance he’d have spotted the practices at issue, and maybe eighty million dollars wouldn’t have been stolen”. He puts that audit at roughly $50k and asks what Coinkite spent on podcast sponsorships instead. The company announced that a famous skeptic was reviewing them and then never asked him to review anything. The press release was the product. All the things they said Coinkite’s public position throughout this crisis has been that it had no idea the flaw existed until the day the money started moving. Two documented warnings and a Signal group named after the problem say otherwise. NVK’s stated position on attribution: they “don’t have full attribution or scope yet”, and they “won’t speculate until the technical evaluation is complete”. Coinkite then suggested publicly that the attacker likely used an automated tool to comb the public source and find the flaw before they did. That’s speculation. This propisition rests on absolutely no evidence. And it happens to be the only theory of the case in which nobody at Coinkite knew and nobody at Coinkite failed. You can decline to speculate or you can float the hypothesis that clears you. Doing both inside the same week tells you which one was the priority. Coinkite told customers it kept purchase data for 90 days. When breach notifications went out they reached buyers going back to 2019. Challenged, the company pointed at a policy page, conceded it has no deletion schedule and said the addresses would be kept “for now.” A verifiable lie caught within a few days of the largest breach of trust in hardware wallet history, and on a question where the answer was easily verifiable. This speaks volumes of NVK’s character. The fix broke too On 31 July Coinkite shipped out an emergency firmware update. Three days later a contributor opened pull request #692 against the Coldcard firmware repo, reporting that the hotfix had introduced a new failure on the hardware RNG path. The entropy fix itself is correct: rng_get() now resolves to the board’s true hardware accessor instead of the software fallback. But rng_get_or_fault() had no recovery path for the STM32’s RNG seed error flags. After a seed error the peripheral stops delivering data and the shipped code never clears the condition; so every later call times out and raises OSError(EFAULT) for the rest of that boot. Because rng_get() now sits on the keypad scan path (an interrupt callback that runs before login) that exception lands before the PIN prompt. Power cycling clears the flags; if the error recurs on the next boo: the user is locked out of the upgrade menu too and the device is essentially bricked. The original report overstated the stickiness. The flags do not survive a power cycle: so this is not a permanent brick from a single glitch. It is still a serious regression: an emergency patch for a five-year review failure shipped fast that can take the device down before the user can enter a PIN. 692 was closed in favor of #693, a cleaner recovery sequence from a Coinkite contributor, with #698 as the Mk3 follow-up. Both were still open when this was written. The point is not that nobody noticed. The point is that the first hotfix for a five-year entropy failure needed a second round of patches within days. Giving the attacker MORE TIME to execute sweeping funds from vulnerable wallets. What they’ll say Three objections are coming, and they’re the ones I’d make if I was NVK for sure Galaxy says the waves may not share an operator. True: and irrelevant to the part that matters. Galaxy’s caution is about waves two, three, and four. Once wave one went loud on 30 July the vulnerability was public property and anyone with tooling could pile in. That’s what waves three and four look like. Wave one is the one that tells you something. 1,082 BTC out of 1,195 addresses in 41 minutes with seeds already computed; executed by someone who had been preparing while nobody else on earth knew there was anything to prepare for. The bug was publicly findable: anyone could have found it. Two people found it in public and said so, in 2021 and in 2025. Both were told it was fine. The set of people who knew this was a live question before 30 July is not the general public. It’s a short list and Coinkite was on it. A mass sweep is too loud for an insider. It’s too loud for the rational insider who bleeds quietly over years and never triggers a referral. The loudness cuts against a careful inside job. It does not erase the warnings, the Signal group, or their response that if something was wrong they’d already know. What I think happened Somebody inside that company knew what was sitting in the codebase and knew what it was worth. Look at the timeline: Ten weeks before the bug shipped the CEO publicly waved off the idea that a vendor would ever run a retirement attack and pointed at dice as the alternative. His co-founder and CTO then wrote a crypto library under a pseudonymous GitHub account with about six stars, and shipped the device’s entire randomness path through it. Five weeks later someone flagged the swap in a Coldcard Telegram group and was ignored. Seven months after that the company marketed immunity to the exact attack class the defect enables and made the only reliable defense an “opt in”. Four years in: a Bitcoin developer audited the firmware found the library, named the hardcoded constants, told them to remove the whole thing, and was told they’d already know if something was wrong. They opened a Signal group called “LNGU Clean up,” set the messages to disappear, and shipped nothing. Coins were leaving through 695 transactions nobody noticed. Then somebody who had been precomputing seeds for a long time took 1,082 BTC in 41 minutes. Each of these has an innocent explanation available. All of them stacked in the same direction inside a company of twenty people. This is not a run of bad luck. Inverse Hanlon’s razor exists for exactly this shape: when incompetence needs that many separate coincidences to line up the same way the incentive is the simpler explanation. I can’t say for 100% it was an inside job of course: every document that would definititevly prove it belongs to them. The “LNGU Clean up” thread, whatever survived a four week expiration. Whatever code review they ran and when. The commit history around anyone who touched rng.c after May 2025. Roughly 600 attacker addresses are already in front of federal investigators and Coinkite says it’s cooperating. Cooperation is cheap. Coinkite has apologized, published a postmortem, shipped a fix that needed a second round of patches within days, and offered its customers not a single sat as compensation. The man who found this in May 2025 is publicly apologizing for not pushing harder. And NVK is blaming AI. The people who still have their bitcoins are the ones who read Coldcard’s own documentation, saw the line offering them a way to distrust the manufacturer’s randomness, and took it. Nobody told them that one sentence in the docs was the difference between keeping their money and losing it.
+The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
 
-2d ago
-
----
-
-**[[GER] Petition for Bundestag: Beibehaltung der steuerlichen Haltefrist für Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vgaw3p/ger_petition_for_bundestag_beibehaltung_der/)**
-
-There is an active petition for keeping Bitcoin tax free in Germany (after one year hodling). It reached 21.000 signatures within the first 24 hours - let's make it 30.000 to put it on the agenda of german Bundestag. You need to sign up in order to put your signature but it's worth it. Everyone can sign - not just germans! https://epetitionen.bundestag.de/petitionen/_2026/_05/_30/Petition_201716.nc.html Thank you!
-
-2d ago
+7h ago
 
 ---
 
-**[Wow, Bitcoin just delivered one of the biggest on-chain performances ever!](https://www.reddit.com/r/Bitcoin/comments/1vg85pg/wow_bitcoin_just_delivered_one_of_the_biggest/)**
+**[my journey starts here](https://www.reddit.com/r/Bitcoin/comments/1vhzych/my_journey_starts_here/)**
 
-The network processed 20,364,529 transactions in July 2026, making it the second-best month in entire history by transaction count. As new users, institutions, and Bitcoin-native applications continue to arrive, on-chain activity keeps pushing toward record territory. We think that, it's a remarkable achievement for a network that has been operating for more than 17 years and continues to reach new milestones. Congratulations to everyone contributing to the Bitcoin ecosystem!
+after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-2d ago
-
----
-
-**[Coinkite](https://www.reddit.com/r/Bitcoin/comments/1vfyzcd/coinkite/)**
-
-2d ago
+3h ago
 
 ---
 
-**[Coinkite CTO Peter Gray linked to the code behind the $114M Coldcard hack](https://www.reddit.com/r/Bitcoin/comments/1vfpadi/coinkite_cto_peter_gray_linked_to_the_code_behind/)**
+**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-Researchers have tied the faulty randomness code at the center of the Coldcard wallet breach to Coinkite co-founder and CTO Peter Gray, who Bitcoin developer
+2h ago
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/coinkite-cto-peter-gray-linked-coldcard-hack/) • 2d ago
+---
+
+**[I did 1200 dice rolls to check for bias in ordinary board game dice](https://www.reddit.com/r/Bitcoin/comments/1vi20y9/i_did_1200_dice_rolls_to_check_for_bias_in/)**
+
+Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
+
+2h ago
+
+---
+
+**[BTCPay Server Vulnerability Under Active Exploit.](https://www.reddit.com/r/Bitcoin/comments/1vi5bkj/btcpay_server_vulnerability_under_active_exploit/)**
+
+There is a critical vulnerability being actively exploited on BTCPay Server, which can result in the loss of funds.
+
+Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Server -&gt; Maintenance -&gt; Update &amp; verify the 2.4.2 version string in the footer.
+
+If you
+
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 28m ago
+
+---
+
+**[Michael Saylor explains the reasons why he sold a little bit of Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vhrrim/michael_saylor_explains_the_reasons_why_he_sold_a/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/1aGpJQ8BMLI?t=5072) • 11h ago
+
+---
+
+**[With the whole ColdCard fiasco, you should consider generating a new 24-word seed phrase of your own, manually, regardless of what hardware wallet you're using. (Alternate title: Finding your 24th word the right way)](https://www.reddit.com/r/Bitcoin/comments/1vhrlos/with_the_whole_coldcard_fiasco_you_should/)**
+
+tldr: roll dice, find the right 256-word range, pray as you brute force, profit. I'll try and keep this simple and avoid using difficult words. To generate your own seed phrase, you're good to go even with just rolling some dice, mix them up with a coin flip, or even use a deck of cards. But the real question is, how do we get the 24th word? There are tools out there that lets you type it on any machine, preferably offline, or even better: permanently air-gapped machine. What if you don't have an air-gapped machine? There are ways to do it like using a Seed Signer. But you can (if you're into it) do it manually too. Here's how: Well, after you get the 23 words, there are 8 valid choices for the final word (8 out of the 2048 BIP39 list). They are distributed so there's exactly one valid word, in every 256-word range. In other words: There's only 1 valid word between 1 (abandon) and 256 (cable) There's only 1 valid word between 257 (cactus) and 512 (divide) There's only 1 valid word between 513 (divorce) and 768 (garment) There's only 1 valid word between 769 (gain) and 1024 (lend) .. so on and on. You get the gist. Whatever method you pick, you'll want to make sure the 24th word isn't selected manually. Generate it randomly just like the previous 23 words, and use the result as a starting point. Once you get the 24th word (I'll use "verify" as an example), here are the steps to follow, in simpler terms: The word "verify" is number 1942 on the BIP39 word list Subtract 1 from 1942 to get its 0-based index (counting starts from 0). You'll get 1941 Convert this number to an 11-bit binary. You'll get 111 1001 0101 Take the first 3 bits (in this case, 111), discard the remaining 8 bits, and append 8 zeroes so it becomes 111 0000 0000 Convert this number back to decimal. You'll get 1792 Your 24th word checksum can be found from word 1793 to 2048. Sure, you can just pick any 256-word range (e.g. 1025-1280), but the whole point of generating your own seed is to make it truly random without any human interaction/intervention. Is trying brute forcing through 256 words a pain? Yes, though probably much less so than calculating your own sha256 checksum manually with pen and paper. This is especially true, if you're using hardware wallets that don't allow you to edit a specific word. (e.g. on Ledger, if the 24-word phrase is invalid, you'll have to input it again from word 1). But hey, you might get lucky and find the right 24th word on your 10th attempt. Or on your 200th ¯\_(ツ)_/¯ So I suggest printing out the BIP39 word list and crossing them one by one as you try to find the right checksum. Good luck, and remember: don't trust, verify!
+
+11h ago
 
 ---
 
@@ -161,7 +168,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 The day ahead in crypto: Aug. 7, 2026
 
-coindesk.com • 4h ago
+coindesk.com • 5h ago
 
 ---
 
@@ -177,7 +184,7 @@ Yahoo Finance • 3d ago
 
 Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-coindesk.com • 41m ago
+coindesk.com • 1h ago
 
 ---
 
@@ -185,13 +192,13 @@ coindesk.com • 41m ago
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -199,7 +206,7 @@ Bloomberg.com • 4h ago
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -207,7 +214,7 @@ Seeking Alpha • 21h ago
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -223,7 +230,7 @@ Forbes • 1d ago
 
 MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -231,7 +238,7 @@ The Block • 18h ago
 
 Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
 
-Benzinga • 1d ago
+Benzinga • 2d ago
 
 ---
 
@@ -322,43 +329,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 4K • 👍 304 • 💬 40 • ⏱️ 11:04 • 8h ago
-
----
-
-**[BITCOIN IS ABOUT TO EXPLODE NOW !!!!!](https://www.youtube.com/watch?v=exJXTH2OUo8)**
-
-WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 upgrade BYBIT: http://themoon.co/Bybit ...
-
-📺 The Moon Show
-
-👁️ 4K • 👍 331 • 💬 17 • ⏱️ 6:33 • 7h ago
-
----
-
 **[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
 
 Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 413 • 💬 30 • ⏱️ 8:03 • 21h ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 70K • 👍 5K • 💬 323 • ⏱️ 24:00 • 16h ago
+👁️ 7K • 👍 432 • 💬 30 • ⏱️ 8:03 • 22h ago
 
 ---
 
@@ -368,17 +345,37 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 880 • 💬 109 • ⏱️ 12:39 • 14h ago
+👁️ 18K • 👍 931 • 💬 166 • ⏱️ 12:39 • 15h ago
 
 ---
 
-**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
+**[&quot;THEY JUST ADMITTED IT! The Fed Can&#39;t Stop the Coming BTC EXPLOSION&quot; - Larry Lepard](https://www.youtube.com/watch?v=WNUnPEBjT1Y)**
 
-BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Luke Mikic
+📺 Savvy Finance
 
-👁️ 6K • 👍 383 • 💬 54 • ⏱️ 38:58 • 19h ago
+👁️ 4K • 👍 171 • 💬 1 • ⏱️ 13:51 • 17h ago
+
+---
+
+**[BITCOIN IS ABOUT TO EXPLODE NOW !!!!!](https://www.youtube.com/watch?v=exJXTH2OUo8)**
+
+WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 upgrade BYBIT: http://themoon.co/Bybit ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 369 • 💬 17 • ⏱️ 6:33 • 8h ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 79K • 👍 5K • 💬 347 • ⏱️ 24:00 • 17h ago
 
 ---
 
@@ -388,37 +385,45 @@ Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 229 • 💬 148 • ⏱️ 16:58 • 17h ago
+👁️ 3K • 👍 247 • 💬 153 • ⏱️ 16:58 • 18h ago
 
 ---
 
-**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
-Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
-📺 The Diary Of A CEO
+📺 Lark Davis
 
-👁️ 674K • 👍 19K • 💬 3K • ⏱️ 1:39:55 • 1d ago
-
----
-
-**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 611 • 💬 62 • ⏱️ 7:37 • 9h ago
+👁️ 6K • 👍 359 • 💬 62 • ⏱️ 11:04 • 9h ago
 
 ---
 
-**[BITCOIN 🚨 La PISTA CLAVE para SABER si ya SOLO QUEDA SUBIR](https://www.youtube.com/watch?v=ZRDj8ZAGf94)**
+**[URGENT BTC UPDATE:  The Bitcoin CRASH is About to Resume to Finish the Mother of BTC CRASHES](https://www.youtube.com/watch?v=bTX5Np_ZQVk)**
 
-Hay un nivel exacto que separa el suelo de Bitcoin de otra pierna a la baja: 58.599$. Mientras no lo perdamos, sigue viva la tesis ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Rodrigo Arnedo Noticias Bitcoin
+📺 Doctor of Pump & Dump
 
-👁️ 549 • 👍 110 • 💬 13 • ⏱️ 29:34 • 4h ago
+👁️ 5K • 👍 444 • ⏱️ 29:06 • 20h ago
+
+---
+
+**[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
+
+Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
+
+📺 Fox Business Clips
+
+👁️ 74K • 👍 1K • 💬 437 • ⏱️ 8:52 • 2d ago
+
+---
+
+**[BEST INVESTMENT BITCOIN TO $1M #bitcoin #crypto #finance #stocks](https://www.youtube.com/watch?v=chjNi0hUj18)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 262 • 💬 26 • ⏱️ 2:06 • 15h ago
 
 ---
 

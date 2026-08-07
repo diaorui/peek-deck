@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T15:56:09.960728+00:00'
+updated: '2026-08-07T16:55:02.302528+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 15:56 UTC  
+**Last Updated:** August 07, 2026 at 16:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.08B
+**Market Cap:** $231.03B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.3%
 
 **All-Time Low:** $0.43
-+444030.1%
++442108.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ StepSecurity • 2d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-coindesk.com • 7h ago
+coindesk.com • 8h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -210,7 +210,7 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -218,7 +218,7 @@ AMBCrypto • 14h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 12h ago
 
 Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
 
-Crypto Briefing • 23h ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -234,13 +234,13 @@ Crypto Briefing • 23h ago
 
 ## YouTube Videos: "ethereum"
 
-**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
-Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
-📺 Coinsider
+📺 Lark Davis
 
-👁️ 29K • 👍 741 • 💬 124 • ⏱️ 10:24 • 2d ago
+👁️ 307 • 👍 24 • 💬 3 • ⏱️ 1:08 • 54m ago
 
 ---
 
@@ -250,27 +250,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 2K • 👍 44 • 💬 4 • ⏱️ 3:33 • 1d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 113 • 💬 90 • ⏱️ 51:35 • 21h ago
-
----
-
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
-
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
-
-📺 DukascopyTV English
-
-👁️ 812 • 👍 1 • ⏱️ 0:57 • 4h ago
+👁️ 2K • 👍 45 • 💬 4 • ⏱️ 3:33 • 1d ago
 
 ---
 
@@ -280,27 +260,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 407 • 💬 58 • ⏱️ 43:51 • 13h ago
-
----
-
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
-
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 183 • 💬 6 • ⏱️ 7:25 • 13h ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 644 • 💬 196 • ⏱️ 14:40 • 23h ago
+👁️ 6K • 👍 426 • 💬 61 • ⏱️ 43:51 • 14h ago
 
 ---
 
@@ -310,27 +270,67 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 98 • 💬 30 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 97 • 💬 30 • ⏱️ 13:23 • 1d ago
 
 ---
 
-**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
 
-The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
 
-📺 Anthony Pompliano
+📺 DukascopyTV English
 
-👁️ 5K • 👍 101 • 💬 11 • ⏱️ 0:30 • 16h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 5h ago
 
 ---
 
-**[Ethereum &amp; Bitcoin, Langeweile pur! Wann bekommen wir endlich Aktion?](https://www.youtube.com/watch?v=BSkIQCEKQ20)**
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bonus auf eure Einzahlung!
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
 
-📺 Krypto Trading & Investing
+📺 More Crypto Online
 
-👁️ 2K • 👍 378 • 💬 90 • ⏱️ 10:06 • 11h ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 7:25 • 14h ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 119 • 💬 91 • ⏱️ 51:35 • 22h ago
+
+---
+
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 649 • 💬 248 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[WARNING! BTC &amp; ETH IGNORE CLARITY&#39;S COLLAPSE! — What&#39;s Really Happening?](https://www.youtube.com/watch?v=T_--Ju9EQMo)**
+
+The CLARITY Act's cloture vote is now expected to fail — Thune didn't file, Democrats have coalesced against it, and Polymarket ...
+
+📺 The Crypto Cowboy
+
+👁️ 468 • 👍 35 • 💬 22 • ⏱️ 16:08 • 1d ago
+
+---
+
+**[BitGo&#39;s $7.4B WBTC shift, Ethereum staking, Western Union stablecard and Circle wallets](https://www.youtube.com/watch?v=xfHIC3ewpNg)**
+
+BitGo's $7.4B WBTC shift, Ethereum staking, Western Union stablecard and Circle wallets BitGo moves $7.4 billion in Wrapped ...
+
+📺 The Coin Daily
+
+👁️ 4K • ⏱️ 6:40 • 2d ago
 
 ---
 

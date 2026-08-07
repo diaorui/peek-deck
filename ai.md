@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T15:56:09.947259+00:00'
+updated: '2026-08-07T16:55:02.289023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 15:56 UTC  
+**Last Updated:** August 07, 2026 at 16:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 15h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,13 +73,13 @@ The job title survives longer than almost anyone attached to it. That's the part
 
 I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
 
-7h ago
+8h ago
 
 ---
 
 **[AI designs a novel E. coli killer](https://www.reddit.com/r/artificial/comments/1vi3jb6/ai_designs_a_novel_e_coli_killer/)**
 
-🔗 [news.stanford.edu](https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages) • 36m ago
+🔗 [news.stanford.edu](https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I currently use ChatGPT but after a while the images go a little weird like face
 
 I'm trying to translate an accounting book I downloaded and make it a download able file with AI I've tried chatgpt, Claude. Even deepseek I've been at it for like an hour with deepseek because neither Claude or GPT can make a file from it. The first time with deepseek it gave me a download link that doesn't work And the next tries, it just generates the translation without giving me a file to download. Each time I tell it "give me a file I can download" it just regenerates the translated version no matter how it word it. Instesd of just giving me the fucking file it just generates the entire thing over again I thought deepseek was suppose to be this powerfull AI and it can't do this? It's so frustrating. I can't just copy paste it because the formatting is not the same. I can't just paste it onto word because the questions and formatting and columns won't be there It already translated it. And for any reason it can't give me a file
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm trying to translate an accounting book I downloaded and make it a download a
 
 Hi everyone. I wanted to ask you about where I could work with large volumes of text. The thing is, I work with records of various achievements and deeds of people. These are inventories of specific accomplishments: where, when, and what happened, what the person did. I get sent a lot of these records, and I enter them into a master spreadsheet for further submission. And very often, the records I receive are very rough and poorly written, so I spend a lot of time polishing them, correcting mistakes, sometimes coming up with additions, and making sure all the records are different so they don't repeat. I started using AI for this: I upload three records at a time (so there aren't too many per request), and the AI gives me three processed versions. The narrative logic often repeats, along with other errors, so I correct those. But is there any way I could upload an entire file at once, have the AI process everything, and return it to me as a single complete file? Can this be done in Claude, or somewhere else? There's quite a lot of text — sometimes up to 40 pages at a time for about 50 people. And each one needs their description edited. I'd like to simplify my work and automate this more. Can you suggest how this could be done?
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy htt
 
 I’ve been experimenting with a domain‑specific AI assistant for plant care and plant problem diagnosis. It’s called Plantcoach — an intent‑driven pipeline where the LLM only rewrites facts, never invents them. Technical repo: https://github.com/Introgreen/plantcoach How it works (short version) Intent recognition (care, problems, pests, toxicity, propagation, attribute‑matching queries) Natural language → structured JSON Domain search (knowledge base + structured attributes) LLM only used for wording, not content Example internal JSON: json { "intent": "care", "topic": "monstera", "symptoms": ["brown leaf edges"], "language": "en" } Where I’m unsure Curious how others think about: Does this architecture scale as the domain grows Is JSON‑routing too rigid long‑term Should intent detection move to a small local model Is a hybrid rule‑based + LLM pipeline future‑proof How do you handle multilingual domain assistants Would agent‑based systems be better for niche domains Example questions it handles “Why does my Monstera get brown leaf edges” “Which plants are safe for cats” “Find a plant for a dark living room” Would love input from people building domain‑specific assistants.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been experimenting with a domain‑specific AI assistant for plant care a
 
 Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.
 
-WIRED • 14h ago
+WIRED • 15h ago
 
 ---
 
@@ -131,19 +131,19 @@ WIRED • 14h ago
 
 In the Kimi test, the sandbox designed to contain the experiment was not properly configured.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
 **[Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 21h ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -159,7 +159,7 @@ BBC • 21h ago
 
 Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-The Hill • 53m ago
+The Hill • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Hill • 53m ago
 
 Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.
 
-CNBC • 58m ago
+CNBC • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ CNBC • 58m ago
 
 The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
 **[Who is liable when AI goes rogue? Lawyers see new risks](https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ Reuters • 5h ago
 
 Michael Burry of "The Big Short" fame said on his Substack that he's shorting Oracle and Nebius, and several AI companies look vulnerable to him.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -257,7 +257,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 141 • 💬 120 • 20h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 141 • 💬 120 • 21h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -265,7 +265,7 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 130 • 💬 77 • 2h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 130 • 💬 77 • 3h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -279,53 +279,23 @@ Here's how to spot the disease—and what to do about it.
 
 ## YouTube Videos: "ai"
 
-**[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
-
-Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
-
-📺 CNN
-
-👁️ 17K • 👍 299 • 💬 185 • ⏱️ 9:52 • 13h ago
-
----
-
 **[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
 
 "One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
 
 📺 Brief But Spectacular
 
-👁️ 36K • 👍 2K • 💬 201 • ⏱️ 3:48 • 1d ago
+👁️ 43K • 👍 2K • 💬 241 • ⏱️ 3:48 • 1d ago
 
 ---
 
-**[The A.I. Revolt Is Here | The Ezra Klein Show](https://www.youtube.com/watch?v=rbgvTlt1VB8)**
+**[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
 
-What's big and ugly and has united Republicans and Democrats? A.I. data centers. An overwhelming majority of Americans say ...
+Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
 
-📺 The Ezra Klein Show
+📺 CNN
 
-👁️ 201K • 👍 4K • 💬 1K • ⏱️ 1:16:45 • 3d ago
-
----
-
-**[No One Is Talking About What China JUST DID With AI!!!](https://www.youtube.com/watch?v=0kBjUG3YojM)**
-
-China's recent release of the AI model Kimi K3 has sent shockwaves through global financial markets, wiping trillions from the ...
-
-📺 Dr. Steve Turley
-
-👁️ 146K • 👍 13K • 💬 1K • ⏱️ 15:56 • 1d ago
-
----
-
-**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
-
-Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
-
-📺 AI Explained
-
-👁️ 58K • 👍 3K • 💬 484 • ⏱️ 31:43 • 1d ago
+👁️ 20K • 👍 339 • 💬 236 • ⏱️ 9:52 • 14h ago
 
 ---
 
@@ -335,7 +305,37 @@ AI agents just crossed into the real world. During a UK government safety test, 
 
 📺 AI Revolution
 
-👁️ 17K • 👍 614 • 💬 72 • ⏱️ 16:27 • 1d ago
+👁️ 17K • 👍 628 • 💬 72 • ⏱️ 16:27 • 1d ago
+
+---
+
+**[Google&#39;s AI Shake-Up: Jeff Dean Exits, Demis Hassabis Steps Back From DeepMind | FP Explains](https://www.youtube.com/watch?v=aIRLietAKgc)**
+
+On August 5, Google published a memo titled 'The next chapter of our AI momentum'. Within hours, Alphabet had shed close to ...
+
+📺 Firstpost
+
+👁️ 7K • 👍 80 • 💬 8 • ⏱️ 8:05 • 19h ago
+
+---
+
+**[I Built A Better Duolingo Using AI Waifus](https://www.youtube.com/watch?v=KKLSDqVGGZ0)**
+
+Fish Audio! https://fish.audio/?fpr=rayen10 We one step closer. Want to join the discord? https://discord.com/invite/3vpgUZncsH ...
+
+📺 Just Rayen
+
+👁️ 2K • 👍 421 • 💬 75 • ⏱️ 13:12 • 3h ago
+
+---
+
+**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
+
+Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
+
+📺 AI Explained
+
+👁️ 60K • 👍 3K • 💬 508 • ⏱️ 31:43 • 1d ago
 
 ---
 
@@ -345,37 +345,35 @@ Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss 
 
 📺 CNBC Television
 
-👁️ 13K • 👍 129 • 💬 15 • ⏱️ 3:43 • 1d ago
+👁️ 14K • 👍 133 • 💬 17 • ⏱️ 3:43 • 1d ago
 
 ---
 
-**[“AI bubble will pop………....any day now.”](https://www.youtube.com/watch?v=9ETxmOfw0JM)**
+**[Famous Investor EXPOSES The AI Bubble](https://www.youtube.com/watch?v=jmmaBcRduwQ)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning that the AI boom is approaching bubble territory.
 
-📺 Man Carrying Thing
+📺 The Young Turks
 
-👁️ 478K • 👍 33K • 💬 4K • ⏱️ 1:33 • 1d ago
-
----
-
-**[Local AI is No Longer an Option. Here is Why](https://www.youtube.com/watch?v=SLwuR7xFXUI)**
-
-Join the Community: https://discord.gg/MRESQnf4R4 Companion Deep-dive article on Substack: ...
-
-📺 Manolo Remiddi
-
-👁️ 88K • 👍 3K • 💬 485 • ⏱️ 11:13 • 3d ago
+👁️ 58K • 👍 1K • 💬 196 • ⏱️ 15:11 • 2d ago
 
 ---
 
-**[Meta says AI agent broke guardrails in latest hacking incident](https://www.youtube.com/watch?v=PMKI7n-K4EY)**
+**[Why everybody is lying about A.I. #booktube](https://www.youtube.com/watch?v=5tOuZ6ngJsk)**
 
-Alex Stone explains how Meta's AI agent targeted another company and what the incident could mean for AI security.
+The most important thing I learned from "The Reverse Centaur's Guide to Life After A.I." by Cory Doctorow.
 
-📺 ABC News
+📺 Alex Falcone
 
-👁️ 5K • 👍 63 • 💬 48 • ⏱️ 3:15 • 21h ago
+👁️ 211K • 👍 17K • 💬 302 • ⏱️ 1:25 • 18h ago
+
+---
+
+**[I Hate AI 😭🥀](https://www.youtube.com/watch?v=P2n8QVAlYfM)**
+
+📺 Onevilage
+
+👁️ 740K • 👍 18K • 💬 536 • ⏱️ 0:21 • 22h ago
 
 ---
 
@@ -391,7 +389,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,881 • 23h ago
+⬇️ 18,112 • ❤️ 2,904 • 1d ago
 
 ---
 
@@ -403,7 +401,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,717 • 6d ago
+⬇️ 702,709 • ❤️ 2,722 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 899 • 1d ago
+⬇️ 3,139,920 • ❤️ 911 • 1d ago
 
 ---
 
@@ -425,19 +423,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,308,186 • ❤️ 10,254 • 10d ago
-
----
-
-**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
-
-*Unsloth AI*
-
-DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
-
-`284.3B`
-
-⬇️ 161,253 • ❤️ 573 • 1d ago
+⬇️ 1,308,186 • ❤️ 10,261 • 11d ago
 
 ---
 
@@ -449,7 +435,19 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,685 • 2d ago
+⬇️ 2,217,339 • ❤️ 1,690 • 2d ago
+
+---
+
+**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
+
+*Unsloth AI*
+
+DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
+
+`284.3B`
+
+⬇️ 161,253 • ❤️ 577 • 1d ago
 
 ---
 
@@ -461,7 +459,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 380 • 5h ago
+⬇️ 0 • ❤️ 391 • 24m ago
 
 ---
 
@@ -473,7 +471,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 365 • 2d ago
+⬇️ 0 • ❤️ 371 • 2d ago
 
 ---
 
@@ -485,7 +483,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 359 • 5h ago
+⬇️ 77,973 • ❤️ 366 • 6h ago
 
 ---
 
@@ -497,27 +495,13 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 686 • ❤️ 221 • 2d ago
+⬇️ 686 • ❤️ 222 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
-
-*Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
-
-🏢 Moonshot AI
-
-We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
-
-▲ 483 • 💬 10 • ⭐ 8,154 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
-
----
 
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
@@ -530,6 +514,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 79 • 💬 6 • ⭐ 22,391 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
+
+*Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
+
+🏢 Moonshot AI
+
+We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
+
+▲ 483 • 💬 10 • ⭐ 8,173 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
 ---
 
@@ -571,18 +569,6 @@ Large language model (LLM) agents increasingly undertake long-horizon tasks that
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 51 • 💬 4 • ⭐ 36,110 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -593,6 +579,18 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 177 • 💬 2 • ⭐ 77,067 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 51 • 💬 4 • ⭐ 36,132 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -644,7 +642,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 786 • 9h ago
+⭐ 7.4k • 🔱 790 • 34m ago
 
 ---
 
@@ -654,7 +652,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.9k • 🔱 335 • 5h ago
+⭐ 3.9k • 🔱 341 • 2m ago
 
 ---
 
@@ -662,7 +660,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 3h ago
+⭐ 3.7k • 🔱 480 • 4h ago
 
 ---
 
@@ -672,7 +670,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.4k • 🔱 1.7k • 1h ago
+⭐ 2.4k • 🔱 1.7k • 29s ago
 
 ---
 
@@ -682,7 +680,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.1k • 🔱 364 • 8h ago
+⭐ 2.1k • 🔱 367 • 9h ago
 
 ---
 
@@ -692,7 +690,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 155 • 4d ago
+⭐ 2.1k • 🔱 157 • 4d ago
 
 ---
 
@@ -702,7 +700,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 2h ago
+⭐ 2.0k • 🔱 141 • 3h ago
 
 ---
 
@@ -722,7 +720,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 236 • 1h ago
+⭐ 1.9k • 🔱 236 • 6m ago
 
 ---
 
@@ -732,7 +730,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 1.8k • 🔱 165 • 2d ago
+⭐ 1.9k • 🔱 165 • 2d ago
 
 ---
 

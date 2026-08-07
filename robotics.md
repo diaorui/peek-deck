@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T15:56:09.963646+00:00'
+updated: '2026-08-07T16:55:02.305491+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 15:56 UTC  
+**Last Updated:** August 07, 2026 at 16:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-20h ago
+21h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 12h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 13h ago
 
 ---
 
@@ -66,7 +66,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-19h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ I got this pneumatic gripper from my work because it needs a new o ring on the i
 
 **[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ Wanted to share what we've been working on: the Alicia-M, a semi-humanoid robot 
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 23h ago
+HII • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ The New York Times • 1d ago
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -134,13 +134,13 @@ Bloomberg.com • 13h ago
 
 The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 22h ago
+USNI News • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ TechCrunch • 1d ago
 
 Humans will get the AI models they deserve
 
-The Register • 5h ago
+The Register • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Register • 5h ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 1h ago
+The Information • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Information • 1h ago
 
 We recently added this group as investors think about SpaceX and growth in the sector.
 
-TheStreet Pro • 22h ago
+TheStreet Pro • 23h ago
 
 ---
 
@@ -188,31 +188,31 @@ TheStreet Pro • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 202K • 👍 28K • 💬 2K • ⏱️ 0:58 • 5h ago
-
----
-
 **[China&#39;s Unitree IPO puts global robotics race and geopolitics in focus](https://www.youtube.com/watch?v=X7lJ0GkmG5g)**
 
 Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that ...
 
 📺 CNBC International Live
 
-👁️ 2K • 👍 33 • 💬 6 • ⏱️ 5:49 • 8h ago
+👁️ 3K • 👍 43 • 💬 12 • ⏱️ 5:49 • 9h ago
 
 ---
 
-**[The Robot Ban Nobody Read: What the FCC Actually Blocked](https://www.youtube.com/watch?v=SKY5udE5SOA)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-In February 2026, one engineer connected a robot vacuum to a PS5 controller and ended up with camera feeds and floor maps ...
+📺 Tyrecordslol
 
-📺 Interesting Engineering Explains
+👁️ 512K • 👍 44K • 💬 3K • ⏱️ 0:58 • 6h ago
 
-👁️ 4K • 👍 93 • 💬 6 • ⏱️ 1:32 • 21h ago
+---
+
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 69K • 👍 1K • 💬 102 • ⏱️ 11:26 • 5d ago
 
 ---
 
@@ -222,37 +222,7 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 11K • 👍 87 • 💬 30 • ⏱️ 6:44 • 1d ago
-
----
-
-**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
-
-MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
-
-📺 Created to be Curious
-
-👁️ 906 • 👍 50 • 💬 3 • ⏱️ 2:05 • 14h ago
-
----
-
-**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
-
-A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
-
-📺 MACHINEKIND
-
-👁️ 3K • 👍 93 • 💬 11 • ⏱️ 11:48 • 1d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 45K • 👍 3K • 💬 448 • ⏱️ 26:40 • 3d ago
+👁️ 12K • 👍 88 • 💬 30 • ⏱️ 6:44 • 1d ago
 
 ---
 
@@ -262,27 +232,55 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 32K • 👍 577 • 💬 43 • ⏱️ 9:54 • 6d ago
+👁️ 32K • 👍 579 • 💬 43 • ⏱️ 9:54 • 6d ago
 
 ---
 
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+**[The Robot Ban Nobody Read: What the FCC Actually Blocked](https://www.youtube.com/watch?v=SKY5udE5SOA)**
 
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+In February 2026, one engineer connected a robot vacuum to a PS5 controller and ended up with camera feeds and floor maps ...
 
-📺 Alpha Central
+📺 Interesting Engineering Explains
 
-👁️ 112K • 👍 4K • 💬 2K • ⏱️ 20:28 • 2d ago
+👁️ 5K • 👍 99 • 💬 8 • ⏱️ 1:32 • 22h ago
 
 ---
 
-**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-📺 Lon.TV
+📺 Custom Adventurist
 
-👁️ 37K • 👍 1K • 💬 353 • ⏱️ 9:59 • 1d ago
+👁️ 11K • 👍 868 • 💬 47 • ⏱️ 1:02 • 15h ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 54K • 👍 1K • 💬 147 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
+
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
+
+📺 Synthetic Empire
+
+👁️ 30K • 👍 675 • 💬 64 • ⏱️ 12:38 • 3d ago
+
+---
+
+**[world dance challenge #youtubeshorts #viralvideo #dancechallenge #robotics #shorts #fyp babyslow dan](https://www.youtube.com/watch?v=xdvZGK8ev_w)**
+
+📺 Dance Theorem 
+
+👁️ 3K • 👍 88 • 💬 8 • ⏱️ 1:01 • 1d ago
 
 ---
 
