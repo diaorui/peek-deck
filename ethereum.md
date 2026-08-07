@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T16:55:02.302528+00:00'
+updated: '2026-08-07T17:50:05.601694+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 16:55 UTC  
+**Last Updated:** August 07, 2026 at 17:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.3%  
-**7d:** +4.0%  
-**30d:** +9.9%  
-**90d:** -19.0%  
-**1y:** -52.1%  
+**7d:** +3.6%  
+**30d:** +9.5%  
+**90d:** -19.3%  
+**1y:** -52.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -134,7 +134,7 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 **[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+**[Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://finance.yahoo.com/markets/crypto/articles/why-hasn-t-xrp-hit-165702084.html)**
 
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+Ripple just secured a national bank charter, launched a stablecoin clearing billions in trades, and closed a years-long SEC battle, yet XRP sits 72% below a price it set in 2018. The reasons why reveal a fundamental tension built into how XRP was designed.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ StepSecurity • 2d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-coindesk.com • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -178,15 +178,7 @@ coindesk.com • 8h ago
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 2d ago
-
----
-
-**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
-
-Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
-
-TradingView • 22h ago
+theblock.co • 2d ago
 
 ---
 
@@ -194,7 +186,7 @@ TradingView • 22h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -210,7 +202,7 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -218,7 +210,7 @@ AMBCrypto • 15h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -227,6 +219,12 @@ FXStreet • 13h ago
 Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
 
 Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
+
+FinanceFeeds • 49m ago
 
 ---
 
@@ -240,7 +238,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 307 • 👍 24 • 💬 3 • ⏱️ 1:08 • 54m ago
+👁️ 307 • 👍 24 • 💬 3 • ⏱️ 1:08 • 1h ago
 
 ---
 
@@ -260,7 +258,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 426 • 💬 61 • ⏱️ 43:51 • 14h ago
+👁️ 6K • 👍 426 • 💬 61 • ⏱️ 43:51 • 15h ago
 
 ---
 
@@ -280,7 +278,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 5h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 6h ago
 
 ---
 
@@ -290,7 +288,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 196 • 💬 6 • ⏱️ 7:25 • 14h ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 7:25 • 15h ago
 
 ---
 
@@ -300,7 +298,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 119 • 💬 91 • ⏱️ 51:35 • 22h ago
+👁️ 4K • 👍 119 • 💬 91 • ⏱️ 51:35 • 23h ago
 
 ---
 

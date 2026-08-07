@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T16:55:02.305491+00:00'
+updated: '2026-08-07T17:50:05.604593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 16:55 UTC  
+**Last Updated:** August 07, 2026 at 17:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 13h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 14h ago
 
 ---
 
@@ -66,7 +66,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ I got this pneumatic gripper from my work because it needs a new o ring on the i
 
 **[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -118,29 +118,37 @@ HII • 1d ago
 
 ---
 
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
+
+bloomberg.com • 15h ago
+
+---
+
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
+**[Banning Chinese Robots: Will It Work?](https://www.forbes.com/sites/johnwerner/2026/08/07/banning-chinese-robots-will-it-work/)**
 
-Bloomberg.com • 14h ago
+U.S. bans target Chinese robots while American manufacturers remain dependent on China’s crucial robotics components.
+
+Forbes • 1h ago
 
 ---
 
-**[Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation](https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html)**
+**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
 
-The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
+On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-CNBC • 1d ago
+The Information • 3h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 23h ago
+USNI News • 1d ago
 
 ---
 
@@ -152,6 +160,14 @@ Business Insider • 2d ago
 
 ---
 
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
+
+Humans will get the AI models they deserve
+
+The Register • 7h ago
+
+---
+
 **[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
@@ -160,27 +176,11 @@ TechCrunch • 1d ago
 
 ---
 
-**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
+**[Beyond VLAs: How World Action Models Reshape Robot Manipulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/)**
 
-Humans will get the AI models they deserve
+A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene often fails when object shapes, positions…
 
-The Register • 6h ago
-
----
-
-**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
-
-On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
-
-The Information • 2h ago
-
----
-
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
-
-We recently added this group as investors think about SpaceX and growth in the sector.
-
-TheStreet Pro • 23h ago
+NVIDIA Developer • 3d ago
 
 ---
 
@@ -194,7 +194,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 3K • 👍 43 • 💬 12 • ⏱️ 5:49 • 9h ago
+👁️ 3K • 👍 43 • 💬 12 • ⏱️ 5:49 • 10h ago
 
 ---
 
@@ -202,7 +202,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 Tyrecordslol
 
-👁️ 512K • 👍 44K • 💬 3K • ⏱️ 0:58 • 6h ago
+👁️ 512K • 👍 44K • 💬 3K • ⏱️ 0:58 • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ In February 2026, one engineer connected a robot vacuum to a PS5 controller and 
 
 📺 Interesting Engineering Explains
 
-👁️ 5K • 👍 99 • 💬 8 • ⏱️ 1:32 • 22h ago
+👁️ 5K • 👍 99 • 💬 8 • ⏱️ 1:32 • 23h ago
 
 ---
 
@@ -252,7 +252,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 11K • 👍 868 • 💬 47 • ⏱️ 1:02 • 15h ago
+👁️ 11K • 👍 868 • 💬 47 • ⏱️ 1:02 • 16h ago
 
 ---
 
@@ -262,7 +262,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 54K • 👍 1K • 💬 147 • ⏱️ 1:00 • 6d ago
+👁️ 54K • 👍 1K • 💬 147 • ⏱️ 1:00 • 7d ago
 
 ---
 
