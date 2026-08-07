@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T00:24:14.624748+00:00'
+updated: '2026-08-07T03:28:52.832876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 00:24 UTC  
+**Last Updated:** August 07, 2026 at 03:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.27B
+**Market Cap:** $229.19B
 Rank #2
 
-**Circulating Supply:** 120,682,142 ETH
+**Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.6%
 
 **All-Time Low:** $0.43
-+438574.9%
++438524.0%
 
 ---
 
@@ -150,27 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback)**
 
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+Tom Lee's Ethereum treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH tokens.
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.benzinga.com/crypto/cryptocurrency/26/08/61012211/bitcoin-holds-above-64000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote)**
-
-Bitcoin is trading above $64,000 as markets await the CLARITY Act decision before the August recess. Analysts mark weekly close as key levels to watch for the next major move.
-
-Benzinga • 6h ago
-
----
-
-**[Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes breakout, ETH consolidates, XRP finds stability](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-ethereum-ripple-btc-eyes-breakout-eth-consolidates-xrp-finds-stability-202608050343)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) move toward the key technical levels on Wednesday, which could determine the next directional bias. BTC is near the 50-day Exponential Moving Average (EMA), ETH trades sideways while XRP is showing signs of stabilization.
-
-FXStreet • 1d ago
+Decrypt • 3d ago
 
 ---
 
@@ -198,6 +182,38 @@ CoinDesk • 2d ago
 
 ---
 
+**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
+
+Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
+
+TradingView • 9h ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
+
+Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
+
+TradingView • 1d ago
+
+---
+
+**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Iran Deal Hopes: Analyst Says 'Most of the Pain' of the](https://www.benzinga.com/crypto/cryptocurrency/26/08/60936929/bitcoin-ethereum-xrp-dogecoin-iran-deal-crypto-market)**
+
+Leading cryptocurrencies edged higher on Tuesday, August 4, as investors weighed the prospects of a U.S.-Iran peace agreement after weeks of fighting.
+
+Benzinga • 2d ago
+
+---
+
 **[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october)**
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
@@ -210,23 +226,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
-
----
-
-**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
-
-A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
-
-ethereum.org • 1d ago
-
----
-
-**[Crypto Today: Bitcoin and Ethereum gain ground as XRP extends decline amid potential Iran-Oman deal](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-gain-ground-as-xrp-extends-decline-amid-potential-iran-oman-deal-202608061100)**
-
-The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
-
-FXStreet • 13h ago
+Fortune • 16h ago
 
 ---
 
@@ -234,23 +234,23 @@ FXStreet • 13h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: Why Ethereum Is The Next 10X Trade In Crypto](https://www.youtube.com/watch?v=whFoNV3LW0Y)**
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
 
-Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispriced asset in crypto right now. In this clip he explains ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 New Era Finance Podcast
+📺 Milk Road
 
-👁️ 744 • 👍 27 • 💬 1 • ⏱️ 3:33 • 10h ago
+👁️ 2K • 👍 82 • 💬 81 • ⏱️ 51:35 • 8h ago
 
 ---
 
-**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
 
-Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
 
-📺 Coinsider
+📺 Investing Made Simple
 
-👁️ 27K • 👍 714 • 💬 118 • ⏱️ 10:24 • 2d ago
+👁️ 5K • 👍 409 • ⏱️ 9:52 • 14h ago
 
 ---
 
@@ -260,17 +260,47 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 513 • 💬 116 • ⏱️ 14:40 • 7h ago
+👁️ 9K • 👍 565 • 💬 202 • ⏱️ 14:40 • 10h ago
 
 ---
 
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+**[Tom Lee: Why Ethereum Is The Next 10X Trade In Crypto](https://www.youtube.com/watch?v=whFoNV3LW0Y)**
 
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispriced asset in crypto right now. In this clip he explains ...
 
-📺 Milk Road
+📺 New Era Finance Podcast
 
-👁️ 1K • 👍 64 • 💬 62 • ⏱️ 51:35 • 5h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 3:33 • 13h ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 296 • 👍 22 • 💬 2 • ⏱️ 7:25 • 1h ago
+
+---
+
+**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+
+Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+
+📺 Coinsider
+
+👁️ 27K • 👍 720 • 💬 118 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 981 • 👍 41 • 💬 3 • ⏱️ 0:30 • 3h ago
 
 ---
 
@@ -284,53 +314,23 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 ---
 
-**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 6K • 👍 432 • 💬 40 • ⏱️ 10:22 • 2d ago
-
----
-
 **[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
 
 Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 84 • 💬 28 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 88 • 💬 28 • ⏱️ 13:23 • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP: Crypto Explained #shorts](https://www.youtube.com/watch?v=5Y1QZDC5bMs)**
+**[THIS IS VERY BAD FOR ETHEREUM HATERS](https://www.youtube.com/watch?v=FD8lkJcreOU)**
 
-Explore the world of crypto: Bitcoin as digital gold, Ethereum as a smart contract platform, XRP for cross-border payments, and ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 The James Rule Crypto Show
+📺 The Moon Show
 
-👁️ 12 • 👍 2 • 💬 1 • ⏱️ 2:47 • 58m ago
-
----
-
-**[Ethereum Price Analysis: Will ETH Break Down to 1000?](https://www.youtube.com/watch?v=qL__Eml4hPQ)**
-
-In this video I break down the current Ethereum price action to determine if we are nearing a major market low or if further ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 245 • 💬 13 • ⏱️ 7:57 • 1d ago
-
----
-
-**[BITCOIN WARNING: LIQUIDATIONS JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eCYBx1wHsKY)**
-
-BITCOIN WARNING: LIQUIDATIONS JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 173 • 💬 42 • ⏱️ 20:31 • 8h ago
+👁️ 6K • 👍 433 • 💬 40 • ⏱️ 10:22 • 2d ago
 
 ---
 

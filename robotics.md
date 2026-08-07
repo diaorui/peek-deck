@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T00:24:14.627644+00:00'
+updated: '2026-08-07T03:28:52.836102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 00:24 UTC  
+**Last Updated:** August 07, 2026 at 03:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,23 +116,23 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
-**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
-
-The New York Times • 9h ago
-
----
-
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 13h ago
+Bloomberg • 16h ago
 
 ---
 
-**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
+**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
+The New York Times • 12h ago
 
-Investor's Business Daily • 8h ago
+---
+
+**[Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation](https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html)**
+
+The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
+
+CNBC • 11h ago
 
 ---
 
@@ -140,7 +140,21 @@ Investor's Business Daily • 8h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 7h ago
+HII • 10h ago
+
+---
+
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+
+USNI News • 10h ago
+
+---
+
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
+
+We recently added this group as investors think about SpaceX and growth in the sector.
+
+TheStreet Pro • 9h ago
 
 ---
 
@@ -149,14 +163,6 @@ HII • 7h ago
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
 Business Insider • 1d ago
-
----
-
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
-
-We recently added this group as investors think about SpaceX and growth in the sector.
-
-TheStreet Pro • 6h ago
 
 ---
 
@@ -176,17 +182,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
 
-New rules further bifurcate U.S. and Chinese supply chains
+The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Disputes over AI, robotics, trade mount ahead of planned Xi-Trump summit in US](https://www.scmp.com/economy/policy/article/3363062/disputes-over-ai-robotics-trade-mount-ahead-planned-xi-trump-summit-us)**
-
-South China Morning Post • 1d ago
+MIT Technology Review • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 cou
 
 📺 TESLA CAR WORLD
 
-👁️ 272K • 👍 3K • 💬 557 • ⏱️ 12:26 • 6d ago
+👁️ 274K • 👍 3K • 💬 562 • ⏱️ 12:26 • 6d ago
 
 ---
 
@@ -210,7 +210,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 32K • 👍 571 • 💬 43 • ⏱️ 9:54 • 6d ago
+👁️ 32K • 👍 572 • 💬 43 • ⏱️ 9:54 • 6d ago
 
 ---
 
@@ -220,17 +220,27 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 67K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
+👁️ 68K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
 
 ---
 
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+**[I Visited America&#39;s First Robot Security Company...You Won&#39;t Believe What I Saw](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
-📺 Alpha Central
+📺 Cyrus Janssen
 
-👁️ 97K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
+👁️ 6K • 👍 412 • 💬 71 • ⏱️ 40:27 • 15h ago
+
+---
+
+**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
+
+MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
+
+📺 Created to be Curious
+
+👁️ 612 • 👍 47 • 💬 1 • ⏱️ 2:05 • 1h ago
 
 ---
 
@@ -240,17 +250,17 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 48K • 👍 901 • 💬 102 • ⏱️ 1:00 • 6d ago
+👁️ 49K • 👍 915 • 💬 104 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
+**[The Robot Ban Nobody Read: What the FCC Actually Blocked](https://www.youtube.com/watch?v=SKY5udE5SOA)**
 
-A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
+In February 2026, one engineer connected a robot vacuum to a PS5 controller and ended up with camera feeds and floor maps ...
 
-📺 MACHINEKIND
+📺 Interesting Engineering Explains
 
-👁️ 2K • 👍 73 • 💬 8 • ⏱️ 11:48 • 1d ago
+👁️ 2K • 👍 55 • 💬 4 • ⏱️ 1:32 • 9h ago
 
 ---
 
@@ -260,7 +270,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 41K • 👍 3K • 💬 431 • ⏱️ 26:40 • 2d ago
+👁️ 42K • 👍 3K • 💬 436 • ⏱️ 26:40 • 2d ago
 
 ---
 
@@ -268,27 +278,17 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 InvestingwithCJ
 
-👁️ 4K • 👍 115 • 💬 3 • ⏱️ 1:38 • 2d ago
+👁️ 5K • 👍 131 • 💬 3 • ⏱️ 1:38 • 2d ago
 
 ---
 
-**[Robot Window Cleaners Are Here But Do They Work?](https://www.youtube.com/watch?v=SPV-hstjRGM)**
+**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
 
-Robots are doing more and more for us these days but can they clean windows? Ecovacs Mini Window Cleaner: ...
+A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
 
-📺 Proper DIY - Tools & Effect
+📺 MACHINEKIND
 
-👁️ 90K • 👍 4K • 💬 387 • ⏱️ 12:29 • 4d ago
-
----
-
-**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
-
-Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
-
-📺 Lon.TV
-
-👁️ 27K • 👍 1K • 💬 310 • ⏱️ 9:59 • 1d ago
+👁️ 3K • 👍 77 • 💬 9 • ⏱️ 11:48 • 1d ago
 
 ---
 

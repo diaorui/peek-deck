@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T00:24:14.619279+00:00'
+updated: '2026-08-07T03:28:52.826663+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 00:24 UTC  
+**Last Updated:** August 07, 2026 at 03:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.3%  
-**30d:** +1.5%  
-**90d:** -21.8%  
+**24h:** -0.6%  
+**7d:** +2.4%  
+**30d:** +1.6%  
+**90d:** -21.7%  
 **1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.83B
+**Market Cap:** $1289.03B
 Rank #1
 
-**Circulating Supply:** 20,066,690 BTC
+**Circulating Supply:** 20,066,765 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -49.1%
 
 **All-Time Low:** $67.81
-+94594.0%
++94630.9%
 
 ---
 
@@ -119,7 +119,7 @@ NVK is currently deleting old posts from 2020 to try to clean up the history. Sc
 
 https://x.com/inverse_hanlon/status/2084689208627925384 A CEO who dismissed the threat by name, a pseudonym that turned out to be the CTO, two warnings four years apart, and a company whose entire answer was that it would have already known. They Sold the Warning On 21 December 2020 (22 Dec UTC), replying to Bitcoin security researcher Michael Flaxman, who had just posted about hardware wallets eliminating the risk of a retirement attack during seed generation and Rodolfo Novak “NVK” addressed the question head on. My money is on people screwing themselves out of their BTC before any vendor tries a retirement attack.Alternatively people could just use dice ;) Ten weeks later on 1 March 2021, Coinkite’s CTO shipped a commit titled “First pass w/ libNgU” that routed Coldcard’s seed generation into a software pseudorandom number generator seeded from the device’s serial number and a clock. NVK’s threat model in December 2020 pointed outward. Users were the risk. Vendors were not. Ten weeks after he said so his co-founder shipped the vendor version and it stayed shipped for five years. The dice line is the other half: He offered it with a wink and it turned out to be the only thing standing between his customers and total loss. Oops They sold it again On 10 October 2021: seven months into shipping the defect the official Coldcard account posted that Coldcard makes retirement attacks impossible. Someone in the replies asked what a retirement attack was. Coinkite answered it themselves. It’s when the project makers could have a “bug” in the entropy generation for later retrieval. Their scare quotes not mine. By then somebody had already tried to warn them. The escape hatch was optional on purpose Look at what that 2021 post was actually selling: Dice rolls. The documentation it linked to still opens with a sentence that reads differently today; if you don’t trust the TRNGs in your COLDCARD, you can introduce your own randomness with dice. At least ninety nine rolls for a full 256 bits. But that setting is “opt in” and sits behind the default that looks fine from the outside.It asks the user to press buttons a hundred times to avoid trusting the manufacturer. Every person who still has their bitcoin took that option, or used a (strong) passphrase, or ran multisig. Every person who got swept trusted the default. That is the architecture a retirement attack requires. You can’t make the mitigation mandatory because then there’s nothing left to collect. You can’t omit it because the paranoid customers will ask why. So you offer it, document it, recommend at least ninety nine rolls, and let the default do the work. When it detonates the record shows you warned your users, therefore neatly covering your tracks if this was an inside job. Coinkite built the structure, warned of the attack it enables, and then pushed a firmware with a backdoor for five years. The pseudonym was the CTO Here is the detail that reorganizes everything else. Coldcard’s crypto ran through libngu, a library on GitHub under the account switck. About six stars. Maintained by one person: apparently pseudonymous. When James O’Beirne audited the firmware that’s what he found: a random number generation for a device holding billions of dollars in bitcoin backed up to what he described as a shady library with six stars maintained solely by a pseudoanon. Dylan LeClair ran GPG verification against that repo and published the output. James O’Beirne then published a full census: fifty-eight commits authored as Switck carry a good signature from Peter D. Gray’s personal key: the same key that signs nineteen other commits in the same repo under Gray’s own name. The key is expired and the signatures are still good. The RNG selection commit is among them. Signed 28 January 2021, switck published no GPG key of they/their own. Peter Gray is Coinkite’s CTO and cofounded the company with NVK. Coinkite has never had more than about twenty people and by most accounts Gray wrote the large majority of the firmware. So switck was Coinkite’s own CTO. Cryptographically proven; not inferred. Every outside reviewer who looked at libngu saw an unaudited third party dependency by an anonymous stranger and worried about supply chain risk. Coinkite’s own people knew it was in house and had no reason to review it as external code. The use of a pseudonym here means that no one audited that chunk of code. Outsiders assumed insiders had. Insiders knew there was no outside to check. They were warned in 2021 Five weeks after the commit on 7 April 2021 someone in a Telegram group flagged the change. Their post sounds in retrospect like a man watching a car roll toward a cliff. Roughly quoting: “The 4.0.x firmware was a radical deviation from every firmware since 2018, with all crypto and BIP39 related code replaced by libNgU. Is it was wise to replace the many-years-old TrezorCrypto code, which has been heavily scrutinized by white hats like Johoe and penetration tested by wallet.fail, with something new. “switck” might be a talented pseudonymous coder, but the commit history is bad” (and they linked to it) The post sat in a Coldcard Telegram group under an embedded NVK tweet about the 4.0.x upgrade: the same tweet in which he said he doesn’t check Telegram. That warning posted five weeks after the defect shipped was correct in every single way. Five years and four months before the money starting mysteriously leaving peoples cold storage. They were warned again in 2025 In May 2025 James O’Beirne audited coldcard/firmware. He wanted to establish conclusively where the RNG was sourced from. He traced it into libngu, found the six-star pseudonymous repo, and was confused about why it was there at all. Because linking libsecp256k1 from Python is easy and that appeared to be the stated purpose. He sent Coinkite a report. In his own words: he had “doubts about whether the true RNG was actually in use”, and he pointed out that the “hardcoded yasmarang constants in libngu were sloppy”. He advised them to rip the whole thing out and link against libsecp256k1 directly. That’s the bug! He identified the exact library, constants, and the question of whether the hardware RNG was being used. And he told them to remove it! Coinkite’s answer, as O’Beirne reports, was that if something was wrong “we’d already know about it by now” and that everything was properly configured for the real boards. That is not a technical response. That is an appeal to their own reputation offered to a developer who had just traced the code and found otherwise. And in a separate post O’Beirne identifies Peter Gray “@DocHex” as “the same guy that shrugged off my report of the possibility of the defect in May 2025.” The same Gray who wrote the library. The same Gray who was switck. There was follow-up of a kind. A Signal group titled “LNGU Clean up” was created on 23 May 2025, with members shown as “n,” “Doc,” “andres,” and one other. Doc-hex is Gray. “n” is NVK. So Coinkite formed a group about cleaning up libNgU and named it after the problem. Then they shipped… nothing! Absolutely no fix fourteen months. The group’s messages were set to disappear after four weeks so whatever was said there is gone, just like the bitcoins that were in hundres of hard working peoples Coldcards. O’Beirne blames himself for not pushing harder. He calls not following up rigorously a horrible mistake on his part. Hold that next to Coinkite’s public explanation which is that an attacker probably used AI to find something nobody could reasonably have caught. The developer who caught it is apologizing. The company that was responsibly informed is blaming the clankers. He didn’t know what was in his own crypto library Coinkite’s technical postmortem is worth reading in full because its author is if nothing else candid. He explains that he set the macro to zero believing it meant neither implementation would be compiled. That is not what it does. And he writes that the bulk of the randomness in the device was coming from a PRNG he did not know was in the codebase at all because it arrived through a submodule. Meanwhile the carefully written hardware TRNG code was still being used, but only by accident and only for things that didn’t matter. He is describing a submodule he wrote. The company selling immunity to entropy tampering did not know which random number generator its product used for five years. The man who says he didn’t know is the man who authored both sides of the mistake. And the answer when it finally surfaced was that libngu XORed one software PRNG against a second software PRNG seeded from constants hardcoded in public source. Two deterministic streams XORed together produce a deterministic stream. The built in health check rejects adjacent repeated values which any nondegenerate PRNG passes without effort. Those are the same hardcoded yasmarang constants O’Beirne told them to rip out. Coldcard seeds generated in that window contained no physical randomness whatsoever. They bought a press release not an audit Peter Todd says Coinkite brought him on in early 2014 as “Chief Naysayer”: an advisory role. Years before the first hardware wallet existed there was a press release. By his account he was given nothing to work on: no tasks, no work to bill for, and then the arrangement quietly dropped. He says it’s still on a LinkedIn profile that he hasn’t logged into in a over decade. His assessment now in his own words: “if they had kept him on and asked him to audit the codebases, there’s a good chance he’d have spotted the practices at issue, and maybe eighty million dollars wouldn’t have been stolen”. He puts that audit at roughly $50k and asks what Coinkite spent on podcast sponsorships instead. The company announced that a famous skeptic was reviewing them and then never asked him to review anything. The press release was the product. All the things they said Coinkite’s public position throughout this crisis has been that it had no idea the flaw existed until the day the money started moving. Two documented warnings and a Signal group named after the problem say otherwise. NVK’s stated position on attribution: they “don’t have full attribution or scope yet”, and they “won’t speculate until the technical evaluation is complete”. Coinkite then suggested publicly that the attacker likely used an automated tool to comb the public source and find the flaw before they did. That’s speculation. This propisition rests on absolutely no evidence. And it happens to be the only theory of the case in which nobody at Coinkite knew and nobody at Coinkite failed. You can decline to speculate or you can float the hypothesis that clears you. Doing both inside the same week tells you which one was the priority. Coinkite told customers it kept purchase data for 90 days. When breach notifications went out they reached buyers going back to 2019. Challenged, the company pointed at a policy page, conceded it has no deletion schedule and said the addresses would be kept “for now.” A verifiable lie caught within a few days of the largest breach of trust in hardware wallet history, and on a question where the answer was easily verifiable. This speaks volumes of NVK’s character. The fix broke too On 31 July Coinkite shipped out an emergency firmware update. Three days later a contributor opened pull request #692 against the Coldcard firmware repo, reporting that the hotfix had introduced a new failure on the hardware RNG path. The entropy fix itself is correct: rng_get() now resolves to the board’s true hardware accessor instead of the software fallback. But rng_get_or_fault() had no recovery path for the STM32’s RNG seed error flags. After a seed error the peripheral stops delivering data and the shipped code never clears the condition; so every later call times out and raises OSError(EFAULT) for the rest of that boot. Because rng_get() now sits on the keypad scan path (an interrupt callback that runs before login) that exception lands before the PIN prompt. Power cycling clears the flags; if the error recurs on the next boo: the user is locked out of the upgrade menu too and the device is essentially bricked. The original report overstated the stickiness. The flags do not survive a power cycle: so this is not a permanent brick from a single glitch. It is still a serious regression: an emergency patch for a five-year review failure shipped fast that can take the device down before the user can enter a PIN. 692 was closed in favor of #693, a cleaner recovery sequence from a Coinkite contributor, with #698 as the Mk3 follow-up. Both were still open when this was written. The point is not that nobody noticed. The point is that the first hotfix for a five-year entropy failure needed a second round of patches within days. Giving the attacker MORE TIME to execute sweeping funds from vulnerable wallets. What they’ll say Three objections are coming, and they’re the ones I’d make if I was NVK for sure Galaxy says the waves may not share an operator. True: and irrelevant to the part that matters. Galaxy’s caution is about waves two, three, and four. Once wave one went loud on 30 July the vulnerability was public property and anyone with tooling could pile in. That’s what waves three and four look like. Wave one is the one that tells you something. 1,082 BTC out of 1,195 addresses in 41 minutes with seeds already computed; executed by someone who had been preparing while nobody else on earth knew there was anything to prepare for. The bug was publicly findable: anyone could have found it. Two people found it in public and said so, in 2021 and in 2025. Both were told it was fine. The set of people who knew this was a live question before 30 July is not the general public. It’s a short list and Coinkite was on it. A mass sweep is too loud for an insider. It’s too loud for the rational insider who bleeds quietly over years and never triggers a referral. The loudness cuts against a careful inside job. It does not erase the warnings, the Signal group, or their response that if something was wrong they’d already know. What I think happened Somebody inside that company knew what was sitting in the codebase and knew what it was worth. Look at the timeline: Ten weeks before the bug shipped the CEO publicly waved off the idea that a vendor would ever run a retirement attack and pointed at dice as the alternative. His co-founder and CTO then wrote a crypto library under a pseudonymous GitHub account with about six stars, and shipped the device’s entire randomness path through it. Five weeks later someone flagged the swap in a Coldcard Telegram group and was ignored. Seven months after that the company marketed immunity to the exact attack class the defect enables and made the only reliable defense an “opt in”. Four years in: a Bitcoin developer audited the firmware found the library, named the hardcoded constants, told them to remove the whole thing, and was told they’d already know if something was wrong. They opened a Signal group called “LNGU Clean up,” set the messages to disappear, and shipped nothing. Coins were leaving through 695 transactions nobody noticed. Then somebody who had been precomputing seeds for a long time took 1,082 BTC in 41 minutes. Each of these has an innocent explanation available. All of them stacked in the same direction inside a company of twenty people. This is not a run of bad luck. Inverse Hanlon’s razor exists for exactly this shape: when incompetence needs that many separate coincidences to line up the same way the incentive is the simpler explanation. I can’t say for 100% it was an inside job of course: every document that would definititevly prove it belongs to them. The “LNGU Clean up” thread, whatever survived a four week expiration. Whatever code review they ran and when. The commit history around anyone who touched rng.c after May 2025. Roughly 600 attacker addresses are already in front of federal investigators and Coinkite says it’s cooperating. Cooperation is cheap. Coinkite has apologized, published a postmortem, shipped a fix that needed a second round of patches within days, and offered its customers not a single sat as compensation. The man who found this in May 2025 is publicly apologizing for not pushing harder. And NVK is blaming AI. The people who still have their bitcoins are the ones who read Coldcard’s own documentation, saw the line offering them a way to distrust the manufacturer’s randomness, and took it. Nobody told them that one sentence in the docs was the difference between keeping their money and losing it.
 
-1d ago
+2d ago
 
 ---
 
@@ -157,14 +157,6 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s (BTC) low price volatility doesn’t necessarily mean low risk: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk)**
-
-The day ahead in crypto: Aug. 6, 2026
-
-CoinDesk • 12h ago
-
----
-
 **[CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a 'late-stage bear market'](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market)**
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
@@ -173,17 +165,17 @@ The Block • 1d ago
 
 ---
 
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+
+Bloomberg • 7h ago
+
+---
+
 **[St. Louis trio charged in plot targeting $245 million Bitcoin fortune](https://fox2now.com/news/missouri/st-louis-trio-charged-in-plot-targeting-245-million-bitcoin-fortune/)**
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 5h ago
-
----
-
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
-
-Bloomberg.com • 4h ago
+FOX 2 • 8h ago
 
 ---
 
@@ -195,19 +187,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 5h ago
-
----
-
 **[Breez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit](https://bitcoinmagazine.com/news/breez-drops-new-bitcoin-app)**
 
 Breeze's new app, Glow, allows Bitcoin developers to see what's working under the hood with the Lightning wallet so they can build their own products.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 9h ago
+
+---
+
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
+
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
+
+Seeking Alpha • 8h ago
+
+---
+
+**[Bitcoin (BTC), ether (ETH) benefit as altcoins lose their luster: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens)**
+
+The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.
+
+CoinDesk • 16h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 6h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 12h ago
+Forbes • 15h ago
 
 ---
 
@@ -322,43 +322,33 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 4K • 👍 500 • 💬 30 • ⏱️ 24:00 • 45m ago
-
----
-
-**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
-
-Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 8K • 👍 858 • 💬 113 • ⏱️ 20:41 • 7h ago
-
----
-
-**[LIVE: Donald Trump Discusses Ripple &amp; XRP | Brad Garlinghouse Update](https://www.youtube.com/watch?v=_wrq9baHo_w)**
-
-Welcome to our LIVE coverage of the latest Ripple and XRP news! Join us as we break down the biggest developments ...
-
-📺 Zack Seif
-
-👁️ 19K • 👍 3K • 4h ago
-
----
-
 **[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
 
 Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 275 • 💬 37 • ⏱️ 8:03 • 6h ago
+👁️ 4K • 👍 334 • 💬 45 • ⏱️ 8:03 • 9h ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 15K • 👍 2K • 💬 146 • ⏱️ 24:00 • 3h ago
+
+---
+
+**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
+
+Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
+
+📺 Schwab Network
+
+👁️ 3K • 👍 56 • 💬 6 • ⏱️ 6:13 • 7h ago
 
 ---
 
@@ -368,17 +358,27 @@ Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discu
 
 📺 Fox Business Clips
 
-👁️ 61K • 👍 1K • 💬 413 • ⏱️ 8:52 • 1d ago
+👁️ 64K • 👍 1K • 💬 414 • ⏱️ 8:52 • 1d ago
 
 ---
 
-**[THE &quot;UNHACKABLE&quot; BITCOIN TRAP: How $120M Was Stolen Offline!](https://www.youtube.com/watch?v=AUbJNpTWkR8)**
+**[This Could BREAK Bitcoin in 2028.](https://www.youtube.com/watch?v=dSEC1n8TT0Q)**
 
-A $120 Million Bitcoin hack just proved that storing your crypto offline is not as safe as you think. In today's Wall Street Truthbomb, ...
+Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING is on the table and we MUST evaluate it ...
 
-📺 Wall Street Truthbombs
+📺 Digital Asset News
 
-👁️ 9K • 👍 622 • 💬 106 • ⏱️ 8:09 • 10h ago
+👁️ 10K • 👍 567 • 💬 96 • ⏱️ 23:41 • 1d ago
+
+---
+
+**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
+
+Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 10K • 👍 930 • 💬 128 • ⏱️ 20:41 • 10h ago
 
 ---
 
@@ -388,37 +388,37 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 Fireship
 
-👁️ 422K • 👍 16K • 💬 1K • ⏱️ 5:10 • 1d ago
+👁️ 438K • 👍 17K • 💬 1K • ⏱️ 5:10 • 1d ago
 
 ---
 
-**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
+**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
 
-Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
+Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
 
-📺 The Diary Of A CEO
+📺 Crypto Insider
 
-👁️ 444K • 👍 14K • 💬 3K • ⏱️ 1:39:55 • 17h ago
-
----
-
-**[Is Bitcoin Self-Custody DEAD?!](https://www.youtube.com/watch?v=0iXL24xuBec)**
-
-Tillman Holloway is the Co-Founder & CEO of Arch Public, and Andrew Parish is the Co-Founder & COO. In this conversation, we ...
-
-📺 Anthony Pompliano
-
-👁️ 10K • 👍 395 • 💬 33 • ⏱️ 48:12 • 1d ago
+👁️ 13K • 👍 560 • 💬 8 • ⏱️ 41:36 • 1d ago
 
 ---
 
-**[Your savings account could be connected to a crypto casino](https://www.youtube.com/watch?v=BDGspbABk4Y)**
+**[Bitcoin is in Serious Trouble Again! [Warning]](https://www.youtube.com/watch?v=HUBTY70-qOM)**
 
-BlackRock, Goldman Sachs, and other big financial firms are pushing a bill that would let banks invest your retirement savings in ...
+Join Ran as he unpacks why crypto is falling behind even as stocks and AI continue pushing to new highs. He breaks down the ...
 
-📺 More Perfect Union
+📺 Crypto Banter
 
-👁️ 181K • 👍 13K • 💬 1K • ⏱️ 2:50 • 2d ago
+👁️ 22K • 👍 956 • 💬 35 • ⏱️ 23:55 • 2d ago
+
+---
+
+**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 5K • 👍 475 • 💬 77 • ⏱️ 12:39 • 2h ago
 
 ---
 
