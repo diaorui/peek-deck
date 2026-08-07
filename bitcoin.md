@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T06:46:30.563023+00:00'
+updated: '2026-08-07T08:14:07.145708+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 06:46 UTC  
+**Last Updated:** August 07, 2026 at 08:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,390.40
+### $64,391.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.4%  
+**24h:** -0.5%  
+**7d:** +2.5%  
 **30d:** +1.7%  
 **90d:** -21.7%  
 **1y:** -45.0%  
@@ -157,11 +157,11 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock](https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock)**
+**[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
 
-Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.
+The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -169,21 +169,54 @@ CoinDesk • 1d ago
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-The Block • 1d ago
+theblock.co • 1d ago
 
 ---
 
-**[MARA Holdings Inc (MARA) (Q2 2026) Earnings Call Highlights: Strategic Expansion and Bitcoin ...](https://uk.finance.yahoo.com/news/mara-holdings-inc-mara-q2-050428345.html)**
+**[S&P 500 Adds $2.1 Trillion in a Month as Bitcoin Stalls Near $64K — What Is Holding BTC Back?](https://bitcoinfoundation.org/news/bitcoin/sp-500-adds-2-1-trillion-in-a-month-as-bitcoin-stalls-near-64k-what-is-holding-btc-back/)**
 
-MARA doubles power capacity to 4.8 GW while navigating a challenging Bitcoin price environment with a $611.3 million net loss.
+S&P 500 adds $2.1T as Bitcoin stalls near $64K, with AI-led stocks, ETF flows, bond yields and crypto-specific pressure limiting BTC upside.
 
-Yahoo Finance UK • 1h ago
+Bitcoin Foundation • 45m ago
+
+---
+
+**[Bitcoin Whales Snap Up $1.2 Billion Worth of BTC as ETF Inflows Surge Toward Four-Month High](https://bitcoinfoundation.org/news/bitcoin/bitcoin-whales-snap-up-1-2-billion-worth-of-btc-as-etf-inflows-surge-toward-four-month-high/)**
+
+Bitcoin whales accumulated $1.2B in BTC while U.S. spot ETFs attracted $754M, reinforcing institutional demand despite regulatory uncertainty.
+
+Bitcoin Foundation • 15m ago
+
+---
+
+**[BTC news: Early bitcoin wallet wakes after 15 years with $3.2 million transfer](https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address)**
+
+The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.
+
+CoinDesk • 3h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 12h ago
+
+---
+
+**[What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)**
+
+A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
+has reportedly lost $100 million US worth of bitcoin as a result of the hack.
+
+CBC • 2d ago
+
+---
+
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
+
+(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -191,47 +224,15 @@ Bloomberg.com • 10h ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 11h ago
+FOX 2 • 13h ago
 
 ---
 
-**[Breez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit](https://bitcoinmagazine.com/news/breez-drops-new-bitcoin-app)**
+**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
 
-Breeze's new app, Glow, allows Bitcoin developers to see what's working under the hood with the Lightning wallet so they can build their own products.
+American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
 
-Bitcoin Magazine • 13h ago
-
----
-
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 12h ago
-
----
-
-**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
-
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-Forbes • 18h ago
-
----
-
-**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
-
-Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
-
-Benzinga • 1d ago
-
----
-
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
-
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
-
-24/7 Wall St. • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -306,7 +307,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal from individuals storing their own cryptocurrency
 
-⬆️ 3 • 💬 0 • 1d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
+⬆️ 3 • 💬 0 • 2d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
 
 ---
 
@@ -328,7 +329,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 359 • 💬 45 • ⏱️ 8:03 • 12h ago
+👁️ 6K • 👍 359 • 💬 45 • ⏱️ 8:03 • 14h ago
 
 ---
 
@@ -338,7 +339,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 687 • 💬 105 • ⏱️ 12:39 • 5h ago
+👁️ 10K • 👍 687 • 💬 105 • ⏱️ 12:39 • 7h ago
 
 ---
 
@@ -348,7 +349,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 3K • 💬 203 • ⏱️ 24:00 • 7h ago
+👁️ 31K • 👍 3K • 💬 203 • ⏱️ 24:00 • 8h ago
 
 ---
 
@@ -358,7 +359,7 @@ After mining my very first Bitcoin in 2011 and building multiple million-dollar 
 
 📺 Filip Martinsson
 
-👁️ 680 • 👍 37 • 💬 29 • ⏱️ 10:08 • 18h ago
+👁️ 680 • 👍 37 • 💬 29 • ⏱️ 10:08 • 19h ago
 
 ---
 
@@ -368,7 +369,7 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 11K • 👍 975 • 💬 131 • ⏱️ 20:41 • 14h ago
+👁️ 11K • 👍 975 • 💬 131 • ⏱️ 20:41 • 15h ago
 
 ---
 
@@ -388,7 +389,7 @@ BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield
 
 📺 Luke Mikic
 
-👁️ 5K • 👍 347 • 💬 39 • ⏱️ 38:58 • 10h ago
+👁️ 5K • 👍 347 • 💬 39 • ⏱️ 38:58 • 12h ago
 
 ---
 
@@ -398,7 +399,7 @@ Crypto is entering a critical decision window as Bitcoin tests major resistance 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 33 • ⏱️ 21:53 • 15h ago
+👁️ 19K • 👍 1K • 💬 33 • ⏱️ 21:53 • 17h ago
 
 ---
 
@@ -418,7 +419,7 @@ Michael made $15 billion last year using ChatGPT, by building something that has
 
 📺 The Diary Of A CEO
 
-👁️ 564K • 👍 17K • 💬 3K • ⏱️ 1:39:55 • 23h ago
+👁️ 564K • 👍 17K • 💬 3K • ⏱️ 1:39:55 • 1d ago
 
 ---
 

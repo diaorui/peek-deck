@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T06:46:30.572591+00:00'
+updated: '2026-08-07T08:14:07.154249+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 06:46 UTC  
+**Last Updated:** August 07, 2026 at 08:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position & orientation of the rig at all times, and recenter it subtly.
 
-2d ago
+3d ago
 
 ---
 
@@ -116,15 +116,15 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
-**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-The New York Times • 16h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
+**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-Bloomberg.com • 4h ago
+The New York Times • 18h ago
 
 ---
 
@@ -132,13 +132,21 @@ Bloomberg.com • 4h ago
 
 The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
 
-CNBC • 14h ago
+CNBC • 16h ago
+
+---
+
+**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
+
+HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
+
+HII • 15h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 13h ago
+USNI News • 15h ago
 
 ---
 
@@ -147,23 +155,7 @@ USNI News • 13h ago
 An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
 TeraBridges placed first overall and...
 
-Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
-
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
-
-HII • 14h ago
-
----
-
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
-
-We recently added this group as investors think about SpaceX and growth in the sector.
-
-TheStreet Pro • 13h ago
+Pittsburgh Post-Gazette • 2d ago
 
 ---
 
@@ -172,6 +164,14 @@ TheStreet Pro • 13h ago
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
 Business Insider • 1d ago
+
+---
+
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
+
+We recently added this group as investors think about SpaceX and growth in the sector.
+
+TheStreet Pro • 14h ago
 
 ---
 
@@ -231,7 +231,7 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 6K • 👍 423 • 💬 73 • ⏱️ 40:27 • 19h ago
+👁️ 6K • 👍 423 • 💬 73 • ⏱️ 40:27 • 20h ago
 
 ---
 
@@ -251,7 +251,7 @@ In February 2026, one engineer connected a robot vacuum to a PS5 controller and 
 
 📺 Interesting Engineering Explains
 
-👁️ 3K • 👍 85 • 💬 5 • ⏱️ 1:32 • 12h ago
+👁️ 3K • 👍 85 • 💬 5 • ⏱️ 1:32 • 14h ago
 
 ---
 
@@ -281,7 +281,7 @@ MIT just unveiled a robot that can swim underwater… then explode out of the su
 
 📺 Created to be Curious
 
-👁️ 655 • 👍 47 • 💬 3 • ⏱️ 2:05 • 5h ago
+👁️ 655 • 👍 47 • 💬 3 • ⏱️ 2:05 • 6h ago
 
 ---
 

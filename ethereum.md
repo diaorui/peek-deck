@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T06:46:30.569281+00:00'
+updated: '2026-08-07T08:14:07.151289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 06:46 UTC  
+**Last Updated:** August 07, 2026 at 08:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.1%  
 **7d:** +3.3%  
 **30d:** +9.1%  
 **90d:** -19.6%  
@@ -174,14 +174,6 @@ CoinDesk • 3d ago
 
 ---
 
-**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
-
-Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
-
-TradingView • 12h ago
-
----
-
 **[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
 
 XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
@@ -194,7 +186,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 2d ago
+theblock.co • 2d ago
 
 ---
 
@@ -202,7 +194,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -218,7 +210,7 @@ blog.ethereum.org • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-ambcrypto.com • 5h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -226,7 +218,15 @@ ambcrypto.com • 5h ago
 
 The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
 
-fxstreet.com • 19h ago
+FXStreet • 21h ago
+
+---
+
+**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
+
+EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
+
+The Defiant • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 92 • 💬 76 • ⏱️ 51:35 • 12h ago
+👁️ 2K • 👍 92 • 💬 76 • ⏱️ 51:35 • 13h ago
 
 ---
 
@@ -260,7 +260,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 1K • 👍 34 • 💬 3 • ⏱️ 3:33 • 16h ago
+👁️ 1K • 👍 34 • 💬 3 • ⏱️ 3:33 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 593 • 💬 204 • ⏱️ 14:40 • 14h ago
+👁️ 10K • 👍 593 • 💬 204 • ⏱️ 14:40 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 970 • 👍 111 • 💬 4 • ⏱️ 7:25 • 4h ago
+👁️ 970 • 👍 111 • 💬 4 • ⏱️ 7:25 • 6h ago
 
 ---
 
@@ -310,7 +310,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bon
 
 📺 Krypto Trading & Investing
 
-👁️ 713 • 👍 235 • 💬 56 • ⏱️ 10:06 • 2h ago
+👁️ 713 • 👍 235 • 💬 56 • ⏱️ 10:06 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 2K • 👍 66 • 💬 5 • ⏱️ 0:30 • 7h ago
+👁️ 2K • 👍 66 • 💬 5 • ⏱️ 0:30 • 8h ago
 
 ---
 

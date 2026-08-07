@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T06:46:30.553971+00:00'
+updated: '2026-08-07T08:14:07.137601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 06:46 UTC  
+**Last Updated:** August 07, 2026 at 08:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 6h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 7h ago
+
+---
+
+**[Chinese AI Models Turn Cost Into a Competitive Weapon](https://www.reddit.com/r/artificial/comments/1vht6c2/chinese_ai_models_turn_cost_into_a_competitive/)**
+
+🔗 [ai-updates.net](https://ai-updates.net/chinese-ai-models-cost-competitive-weapon/) • 1h ago
 
 ---
 
@@ -49,7 +55,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy https://www.ycombinator.com/library/Rj-the-age-of-the-40-year-old-solo-founder-is-here I believe this is definitely one of those things that AI was intended for, this brought me back some nostalgia and it's really amazing being able to see these old school websites be redesigned back to life
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +63,7 @@ Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy htt
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 5h ago
+🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 7h ago
 
 ---
 
@@ -65,23 +71,15 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cx2kgdnyk2po) • 20h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cx2kgdnyk2po) • 21h ago
 
 ---
 
-**[OpenAI Models Colluded for Months Before Hugging Face Hack](https://www.reddit.com/r/artificial/comments/1vh9653/openai_models_colluded_for_months_before_hugging/)**
+**[Best ai tool for creating concept images](https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/)**
 
-A lot of people are dismissing news about the OpenAI and Anthropic sandbox escape hacks as propaganda and examples of lax security practices at labs. I agree that the labs aren’t taking security seriously enough. But then I see stuff like this and it gives me pause (source): The OpenAI models that were behind the Hugging Face breach last month started communicating and strategizing with each other as early as May. For months, they left notes for each other on "undetected message boards," figuring out how to escape their testing environment and get the information they needed to solve their assigned tasks. "Frontline models really like to cheat," said OpenAI's because they face "pressure... to work fast." The Hugging Face incident and others involving rival models have sparked fresh concerns about the safety of cutting-edge AI.” This is a clear example of how incentives provided to agents to complete tasks optimally during training bleed into mis-aligned behavior by individual and groups of agents over time. This is also an outgrowth of what AI labs are training agents to become, but this is looking more and more like an alignment and training problem leading to security issues.
+I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
 
-14h ago
-
----
-
-**[I need help testing my WASM/JS based decentralized AI network.](https://www.reddit.com/r/artificial/comments/1vhmpil/i_need_help_testing_my_wasmjs_based_decentralized/)**
-
-I made this project that lets you in your web browser help an AI think. It uses WASM or pure JS depending on your device to do some of the matrix multiplication for an AI. The more users, the better the math is shared, the faster layers get solved. The issue is that I don't have enough devices to test the server in most fronts besides "does it work." If you want to help, go to the site at https://ecthqmainserver.orfe-climb.ts.net/ . I am making this to test for weather it works on a large scale and efficiency, but also how much bandwidth is needed, etc. If you want to see the progress, you can turn off contributing to the math using the button. I expect bugs, and will fix them as soon as I can. I will also be making a wiki very soon. Thanks in advance! P.S. The AI that is being used is really bad, but works for this proof-of-concept. Just don't expect perfection. Edit: KNOWN ISSUES: connections seemingly get dropped after a delay - possibly fixed by switching networks "sits there loading" - possibly fixed by switching networks Thanks for letting me know about bugs!
-
-5h ago
+12m ago
 
 ---
 
@@ -89,7 +87,23 @@ I made this project that lets you in your web browser help an AI think. It uses 
 
 Been doing the same thing for client work over the past year. Claude for long drafts, Perplexity for research, a couple of image tools, different summarizers depending on the format. Each one has its own logic, its own way of surprising you or failing you at the worst moment. The individual costs keep dropping, which looks great on paper. Chinese models are undercutting everything, open source is genuinely closing the gap, API pricing is getting squeezed hard. Pertoken costs are falling fast. But nobody really talks about the switching cost that lives in your head. Every time a better or cheaper tool shows up, you have to rebuild your mental model of how to actually get useful output from it. That context you built over six months of weird little prompt habits doesn't transfer. You start from zero. For a small freelance operation, that relearning time is real overhead. It never shows up in any pricing comparison, but it absolutely shows up in my week. Wondering if this is just a solo freelancer thing or if people on bigger teams run into it too. At what point does the cheaper tool actually cost more once you factor in the friction of switching?
 
-11h ago
+12h ago
+
+---
+
+**[OpenAI Models Colluded for Months Before Hugging Face Hack](https://www.reddit.com/r/artificial/comments/1vh9653/openai_models_colluded_for_months_before_hugging/)**
+
+A lot of people are dismissing news about the OpenAI and Anthropic sandbox escape hacks as propaganda and examples of lax security practices at labs. I agree that the labs aren’t taking security seriously enough. But then I see stuff like this and it gives me pause (source): The OpenAI models that were behind the Hugging Face breach last month started communicating and strategizing with each other as early as May. For months, they left notes for each other on "undetected message boards," figuring out how to escape their testing environment and get the information they needed to solve their assigned tasks. "Frontline models really like to cheat," said OpenAI's because they face "pressure... to work fast." The Hugging Face incident and others involving rival models have sparked fresh concerns about the safety of cutting-edge AI.” This is a clear example of how incentives provided to agents to complete tasks optimally during training bleed into mis-aligned behavior by individual and groups of agents over time. This is also an outgrowth of what AI labs are training agents to become, but this is looking more and more like an alignment and training problem leading to security issues.
+
+15h ago
+
+---
+
+**[I need help testing my WASM/JS based decentralized AI network.](https://www.reddit.com/r/artificial/comments/1vhmpil/i_need_help_testing_my_wasmjs_based_decentralized/)**
+
+I made this project that lets you in your web browser help an AI think. It uses WASM or pure JS depending on your device to do some of the matrix multiplication for an AI. The more users, the better the math is shared, the faster layers get solved. The issue is that I don't have enough devices to test the server in most fronts besides "does it work." If you want to help, go to the site at https://ecthqmainserver.orfe-climb.ts.net/ . I am making this to test for weather it works on a large scale and efficiency, but also how much bandwidth is needed, etc. If you want to see the progress, you can turn off contributing to the math using the button. I expect bugs, and will fix them as soon as I can. I will also be making a wiki very soon. Thanks in advance! P.S. The AI that is being used is really bad, but works for this proof-of-concept. Just don't expect perfection. Edit: KNOWN ISSUES: connections seemingly get dropped after a delay - possibly fixed by switching networks "sits there loading" - possibly fixed by switching networks Thanks for letting me know about bugs!
+
+6h ago
 
 ---
 
@@ -97,23 +111,7 @@ Been doing the same thing for client work over the past year. Claude for long dr
 
 What adding AI to an existing ASP.NET Core application actually involves - integration patterns, Microsoft Agent Framework, Azure OpenAI, and what to expect.
 
-🔗 [Adding AI to Your ASP.NET Core App](https://www.faciletechnolab.com/blog/adding-ai-to-your-aspnet-core-app/) • 2h ago
-
----
-
-**[The OpenAI Boardroom Coup: 'I Love You All, and I'm Going to Destroy the Company'](https://www.reddit.com/r/artificial/comments/1vh1k26/the_openai_boardroom_coup_i_love_you_all_and_im/)**
-
-Interesting dialogue that surfaced
-
-🔗 [realdealarchives.substack.com](https://realdealarchives.substack.com/p/the-openai-boardroom-coup-i-love) • 19h ago
-
----
-
-**[we keep talking about making agents smarter but not about making them safe around data](https://www.reddit.com/r/artificial/comments/1vh7nwr/we_keep_talking_about_making_agents_smarter_but/)**
-
-this is something thats been bugging me. we have all these frameworks for building AI agents now. MCP for tool access, function calling is standard across every major model, you can spin up an agent that queries databases and calls APIs in like 20 minutes. but the safety conversation around agents is mostly about "dont say bad things" and "follow instructions." nobody is really talking about what happens when your agent accesses data it shouldnt, or runs a query that costs $500 in compute, or returns confidently wrong results from a hallucinated join. the current approach is basically: put rules in the system prompt ("only query these tables") use read-only database users hope for the best option 1 is unreliable because models dont always follow instructions, especially on complex multi-step tasks. option 2 prevents disasters but doesnt prevent bad results. option 3 is not a strategy. i think the real problem is that data governance for agents doesnt exist as a layer yet. we have authentication (who is this agent), we sort of have authorization (what can it access), but we dont have anything for "is this specific data request reasonable and should it be allowed given the current context." theres a few early attempts at solving this. the one i find most conceptually interesting is the Agentic Data Protocol, an open source spec that puts a policy engine between agents and data systems. the idea is that policy belongs in infrastructure, not in prompts. they call it a "data hypervisor." its from the same team behind Apache Gravitino (the data catalog project). fair warning though, its extremely early. still small and launched earlier this year, reference implementation is bare minimum. im not recommending anyone go deploy this tomorrow. but the framing resonates: we need protocol-level governance for agent data access, not prompt-level wishful thinking. also worth noting this is meant to complement MCP, not replace it. MCP handles tool calling, this handles data access policies. different layers. genuinely curious what others think. is this a real problem that needs its own protocol, or is it solvable with better prompting and traditional access controls? also if anyone knows of other projects working on this specific problem id love to hear about them.
-
-15h ago
+🔗 [Adding AI to Your ASP.NET Core App](https://www.faciletechnolab.com/blog/adding-ai-to-your-aspnet-core-app/) • 4h ago
 
 ---
 
@@ -123,7 +121,7 @@ this is something thats been bugging me. we have all these frameworks for buildi
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 12h ago
+The New York Times • 7h ago
 
 ---
 
@@ -131,7 +129,7 @@ The New York Times • 12h ago
 
 Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions
 
-The Guardian • 11h ago
+theguardian.com • 12h ago
 
 ---
 
@@ -139,41 +137,7 @@ The Guardian • 11h ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-BBC • 12h ago
-
----
-
-**[How Insilico Medicine Is Using AI To Reinvent Drug Discovery](https://www.forbes.com/sites/bernardmarr/2026/08/07/how-insilico-medicine-is-using-ai-to-reinvent-drug-discovery/)**
-
-Insilico Medicine has shown that generative AI can dramatically accelerate drug discovery, but its bigger challenge is turning one breakthrough into a repeatable process.
-
-Forbes • 39m ago
-
----
-
-**[13 times the size of Zhejiang: China deploys drones, AI as Typhoon Dolphin nears coast](https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast)**
-
-South China Morning Post • 52m ago
-
----
-
-**[Nancy Pelosi accuses Scott Wiener campaign of ‘sexist’ AI attack on Connie Chan](https://www.sfchronicle.com/politics/article/pelosi-wiener-ai-chatbot-connie-chan-22378352.php)**
-
-San Francisco Chronicle • 1h ago
-
----
-
-**[House Democrats pitch AI tax to fund worker protections](https://www.politico.com/live-updates/2026/08/06/congress/house-democrats-pitch-ai-tax-to-fund-worker-protections-01027694)**
-
-Politico • 11h ago
-
----
-
-**[One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)**
-
-Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.
-
-WIRED • 5h ago
+BBC • 14h ago
 
 ---
 
@@ -181,7 +145,7 @@ WIRED • 5h ago
 
 Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products
 
-ft.com • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -190,6 +154,42 @@ ft.com • 9h ago
 Jeff Dean, who for years was one of Google’s most important executives, is leading the new artificial intelligence company with the backing of Google.
 
 The New York Times • 1d ago
+
+---
+
+**[Googlers Contend With Exit of AI Pioneer and ‘Most Google Person’](https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person)**
+
+Bloomberg.com • 12h ago
+
+---
+
+**[China’s Top AI Model Evaded Testing Environment, Researchers Say](https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[How Insilico Medicine Is Using AI To Reinvent Drug Discovery](https://www.forbes.com/sites/bernardmarr/2026/08/07/how-insilico-medicine-is-using-ai-to-reinvent-drug-discovery/)**
+
+Insilico Medicine has shown that generative AI can dramatically accelerate drug discovery, but its bigger challenge is turning one breakthrough into a repeatable process.
+
+Forbes • 2h ago
+
+---
+
+**[The godfather of Israeli cybersecurity: The Hugging Face incident exposes the wrong AI security debate](https://fortune.com/2026/08/07/shlomo-kramer-cato-godfather-of-cyber-hugging-face-hack/)**
+
+A human insider threat unfolds over days or weeks; an agent can execute thousands of autonomous actions in an entirely different window of time.
+
+Fortune • 1h ago
+
+---
+
+**[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)**
+
+ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.
+
+OpenAI • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 337 • 💬 367 • 15h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 363 • 💬 382 • 16h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -217,7 +217,15 @@ Why AI can make software development faster without replacing the judgment and u
 
 More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
 
-⬆️ 319 • 💬 263 • 1d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+⬆️ 319 • 💬 264 • 1d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+
+---
+
+**[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://news.ycombinator.com/item?id=49195468)**
+
+Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
+
+⬆️ 293 • 💬 207 • 20h ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -229,19 +237,11 @@ Artificial intelligence is now powering more than half of reported cybercrime ac
 
 ---
 
-**[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://news.ycombinator.com/item?id=49195468)**
-
-Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
-
-⬆️ 283 • 💬 200 • 18h ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
-
----
-
 **[TIME Is Serving AI Bots a Different Website, with Ads Built In](https://news.ycombinator.com/item?id=49182041)**
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 257 • 💬 110 • 1d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 259 • 💬 110 • 1d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -249,7 +249,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
 
-⬆️ 166 • 💬 98 • 1d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
+⬆️ 167 • 💬 99 • 1d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
 
 ---
 
@@ -265,7 +265,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 138 • 💬 116 • 11h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 139 • 💬 119 • 12h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -287,7 +287,7 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 48K • 👍 2K • 💬 428 • ⏱️ 31:43 • 15h ago
+👁️ 48K • 👍 2K • 💬 428 • ⏱️ 31:43 • 17h ago
 
 ---
 
@@ -307,7 +307,7 @@ House Dems propose mass employment plan funded by AI tax Don't just watch Fox Ne
 
 📺 Fox News
 
-👁️ 11K • 👍 75 • 💬 145 • ⏱️ 47:15 • 11h ago
+👁️ 11K • 👍 75 • 💬 145 • ⏱️ 47:15 • 12h ago
 
 ---
 
@@ -317,7 +317,7 @@ Alphabet shares fall as the company reshuffles its leadership team at Google Dee
 
 📺 CNBC International Live
 
-👁️ 19K • 👍 163 • 💬 24 • ⏱️ 7:14 • 19h ago
+👁️ 19K • 👍 163 • 💬 24 • ⏱️ 7:14 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Alpha Membership: https://MeetKevin.com COUPON "VACATIONGREEN" EXPIRING AUG 14. 
 
 📺 Meet Kevin
 
-👁️ 51K • 👍 2K • 💬 178 • ⏱️ 25:33 • 15h ago
+👁️ 51K • 👍 2K • 💬 178 • ⏱️ 25:33 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ An AI model writes one word at a time, but it doesn't think one word at a time. 
 
 📺 Onevilage
 
-👁️ 412K • 👍 12K • 💬 420 • ⏱️ 0:21 • 12h ago
+👁️ 412K • 👍 12K • 💬 420 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ An AI model writes one word at a time, but it doesn't think one word at a time. 
 
 📺 Prof G Markets
 
-👁️ 28K • 👍 752 • 💬 61 • ⏱️ 1:49 • 11h ago
+👁️ 28K • 👍 752 • 💬 61 • ⏱️ 1:49 • 13h ago
 
 ---
 
@@ -363,7 +363,7 @@ An AI model writes one word at a time, but it doesn't think one word at a time. 
 
 📺 human1011
 
-👁️ 243K • 👍 27K • 💬 803 • ⏱️ 2:46 • 16h ago
+👁️ 243K • 👍 27K • 💬 803 • ⏱️ 2:46 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 12,102 • ❤️ 2,802 • 14h ago
+⬇️ 12,102 • ❤️ 2,802 • 16h ago
 
 ---
 
@@ -435,7 +435,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 145,105 • ❤️ 562 • 15h ago
+⬇️ 145,105 • ❤️ 562 • 17h ago
 
 ---
 
@@ -471,7 +471,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 73,573 • ❤️ 343 • 12h ago
+⬇️ 73,573 • ❤️ 343 • 13h ago
 
 ---
 
@@ -483,7 +483,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 338 • 8h ago
+⬇️ 0 • ❤️ 338 • 9h ago
 
 ---
 
@@ -643,7 +643,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 770 • 43m ago
+⭐ 7.3k • 🔱 770 • 2h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.8k • 🔱 327 • 2h ago
+⭐ 3.8k • 🔱 327 • 4h ago
 
 ---
 
@@ -671,7 +671,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.4k • 🔱 1.7k • 1m ago
+⭐ 2.4k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -681,7 +681,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.1k • 🔱 350 • 2m ago
+⭐ 2.1k • 🔱 350 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 35m ago
+⭐ 2.0k • 🔱 142 • 2h ago
 
 ---
 
@@ -721,7 +721,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 234 • 11m ago
+⭐ 1.8k • 🔱 234 • 1h ago
 
 ---
 
