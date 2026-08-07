@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T11:45:09.295854+00:00'
+updated: '2026-08-07T13:03:58.295389+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 11:45 UTC  
+**Last Updated:** August 07, 2026 at 13:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 11h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 12h ago
 
 ---
 
-**[This is the coolest thing I've seen AI used for](https://www.reddit.com/r/artificial/comments/1vh5lac/this_is_the_coolest_thing_ive_seen_ai_used_for/)**
+**[Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI](https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/)**
 
-Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy https://www.ycombinator.com/library/Rj-the-age-of-the-40-year-old-solo-founder-is-here I believe this is definitely one of those things that AI was intended for, this brought me back some nostalgia and it's really amazing being able to see these old school websites be redesigned back to life
+The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
 
-21h ago
+1h ago
 
 ---
 
@@ -57,7 +57,23 @@ Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy htt
 
 I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
 
-3h ago
+5h ago
+
+---
+
+**[This is the coolest thing I've seen AI used for](https://www.reddit.com/r/artificial/comments/1vh5lac/this_is_the_coolest_thing_ive_seen_ai_used_for/)**
+
+Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy https://www.ycombinator.com/library/Rj-the-age-of-the-40-year-old-solo-founder-is-here I believe this is definitely one of those things that AI was intended for, this brought me back some nostalgia and it's really amazing being able to see these old school websites be redesigned back to life
+
+22h ago
+
+---
+
+**[I built a domain‑specific AI plant care engine — but I’m unsure if this architecture scales. Thoughts?](https://www.reddit.com/r/artificial/comments/1vhzq24/i_built_a_domainspecific_ai_plant_care_engine_but/)**
+
+I’ve been experimenting with a domain‑specific AI assistant for plant care and plant problem diagnosis. It’s called Plantcoach — an intent‑driven pipeline where the LLM only rewrites facts, never invents them. Technical repo: https://github.com/Introgreen/plantcoach How it works (short version) Intent recognition (care, problems, pests, toxicity, propagation, attribute‑matching queries) Natural language → structured JSON Domain search (knowledge base + structured attributes) LLM only used for wording, not content Example internal JSON: json { "intent": "care", "topic": "monstera", "symptoms": ["brown leaf edges"], "language": "en" } Where I’m unsure Curious how others think about: Does this architecture scale as the domain grows Is JSON‑routing too rigid long‑term Should intent detection move to a small local model Is a hybrid rule‑based + LLM pipeline future‑proof How do you handle multilingual domain assistants Would agent‑based systems be better for niche domains Example questions it handles “Why does my Monstera get brown leaf edges” “Which plants are safe for cats” “Find a plant for a dark living room” Would love input from people building domain‑specific assistants.
+
+15m ago
 
 ---
 
@@ -65,7 +81,7 @@ I currently use ChatGPT but after a while the images go a little weird like face
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 10h ago
+🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 12h ago
 
 ---
 
@@ -81,7 +97,7 @@ Meta is the latest company to disclose an AI agent breach, raising cyber-securit
 
 Been doing the same thing for client work over the past year. Claude for long drafts, Perplexity for research, a couple of image tools, different summarizers depending on the format. Each one has its own logic, its own way of surprising you or failing you at the worst moment. The individual costs keep dropping, which looks great on paper. Chinese models are undercutting everything, open source is genuinely closing the gap, API pricing is getting squeezed hard. Pertoken costs are falling fast. But nobody really talks about the switching cost that lives in your head. Every time a better or cheaper tool shows up, you have to rebuild your mental model of how to actually get useful output from it. That context you built over six months of weird little prompt habits doesn't transfer. You start from zero. For a small freelance operation, that relearning time is real overhead. It never shows up in any pricing comparison, but it absolutely shows up in my week. Wondering if this is just a solo freelancer thing or if people on bigger teams run into it too. At what point does the cheaper tool actually cost more once you factor in the friction of switching?
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +105,7 @@ Been doing the same thing for client work over the past year. Claude for long dr
 
 A lot of people are dismissing news about the OpenAI and Anthropic sandbox escape hacks as propaganda and examples of lax security practices at labs. I agree that the labs aren’t taking security seriously enough. But then I see stuff like this and it gives me pause (source): The OpenAI models that were behind the Hugging Face breach last month started communicating and strategizing with each other as early as May. For months, they left notes for each other on "undetected message boards," figuring out how to escape their testing environment and get the information they needed to solve their assigned tasks. "Frontline models really like to cheat," said OpenAI's because they face "pressure... to work fast." The Hugging Face incident and others involving rival models have sparked fresh concerns about the safety of cutting-edge AI.” This is a clear example of how incentives provided to agents to complete tasks optimally during training bleed into mis-aligned behavior by individual and groups of agents over time. This is also an outgrowth of what AI labs are training agents to become, but this is looking more and more like an alignment and training problem leading to security issues.
 
-19h ago
+20h ago
 
 ---
 
@@ -97,23 +113,7 @@ A lot of people are dismissing news about the OpenAI and Anthropic sandbox escap
 
 I made this project that lets you in your web browser help an AI think. It uses WASM or pure JS depending on your device to do some of the matrix multiplication for an AI. The more users, the better the math is shared, the faster layers get solved. The issue is that I don't have enough devices to test the server in most fronts besides "does it work." If you want to help, go to the site at https://ecthqmainserver.orfe-climb.ts.net/ . I am making this to test for weather it works on a large scale and efficiency, but also how much bandwidth is needed, etc. If you want to see the progress, you can turn off contributing to the math using the button. I expect bugs, and will fix them as soon as I can. I will also be making a wiki very soon. Thanks in advance! P.S. The AI that is being used is really bad, but works for this proof-of-concept. Just don't expect perfection. Edit: KNOWN ISSUES: connections seemingly get dropped after a delay - possibly fixed by switching networks "sits there loading" - possibly fixed by switching networks Thanks for letting me know about bugs!
 
-10h ago
-
----
-
-**[Adding AI to Your ASP.NET Core Application: What It Actually Involves](https://www.reddit.com/r/artificial/comments/1vhq7za/adding_ai_to_your_aspnet_core_application_what_it/)**
-
-What adding AI to an existing ASP.NET Core application actually involves - integration patterns, Microsoft Agent Framework, Azure OpenAI, and what to expect.
-
-🔗 [Adding AI to Your ASP.NET Core App](https://www.faciletechnolab.com/blog/adding-ai-to-your-aspnet-core-app/) • 7h ago
-
----
-
-**[Everyone please spread the word!](https://www.reddit.com/r/artificial/comments/1vhwh4k/everyone_please_spread_the_word/)**
-
-Everyone please spread the word! Currently you can choose between 3 voice modes. Live,advanced and standard. This post is about standard voice mode NOT live or advanced. The current problem with the standard voice mode is that it is no longer turn based like it used to be. So it can keep getting interrupted and hear its own voice. Please bring back the turn based option to standard voice mode. So ChatGPT can finish what it saying without randomly stopping due to hearing its own voice. Can someone please make a suggestion on the OpenAI forum to add a toggle to standard voice mode so we can choose whether to make it turn based or not
-
-1h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Everyone please spread the word! Currently you can choose between 3 voice modes.
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 17h ago
+The New York Times • 12h ago
 
 ---
 
@@ -131,23 +131,21 @@ The New York Times • 17h ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-BBC • 17h ago
+BBC • 19h ago
 
 ---
 
-**[AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages)**
+**[The Latest Scary-Sounding AI Milestone: A Brand-New Virus](https://www.wsj.com/tech/ai/the-latest-scary-sounding-ai-milestone-a-brand-new-virus-6080b1db)**
 
-Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.
-
-CNN • 11h ago
+WSJ • 11h ago
 
 ---
 
-**[Google is expanding its AI empire — and losing the people who built it](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html)**
+**[Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)**
 
-Google’s cloud boom is testing the company's commitment to frontier AI as commercial returns take priority.
+Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products
 
-CNBC • 1d ago
+Financial Times • 15h ago
 
 ---
 
@@ -159,37 +157,41 @@ The New York Times • 1d ago
 
 ---
 
-**[Google’s AI shake-up puts Demis Hassabis where the company needs him most, insiders say](https://www.businessinsider.com/google-demis-hassabis-new-job-ai-research-singularity-deepmind-2026-8)**
+**[DeepMind founder ascends to singular AI role at Google](https://www.computerworld.com/article/4206724/deepmind-founder-ascends-to-singular-ai-role-at-google.html)**
 
-Demis Hassabis is shifting to a new role that plays to his interests — and is crucial to helping Google make big leaps ahead.
+Demis Hassabis will focus more deeply on trying to create artificial general intelligence.
 
-businessinsider.com • 2h ago
-
----
-
-**[Voters face uneven AI deepfake protections](https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states)**
-
-axios.com • 2h ago
+Computerworld • 27m ago
 
 ---
 
-**[US Reviews China’s Offshore Nvidia Chip Access After AI Gains](https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs)**
+**[Inside Amazon’s AI Security Playbook](https://www.wsj.com/pro/cybersecurity/inside-amazons-ai-security-playbook-1305e41d)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)**
-
-Reuters • 2h ago
+WSJ • 1h ago
 
 ---
 
-**[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)**
+**[How I Got the New Siri AI to Actually Help Me](https://www.cnet.com/videos/how-i-got-the-new-siri-ai-to-actually-help-me/)**
 
-ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.
+If you use the new Siri AI correctly, you might cut down how much you're on your phone. Here's how it’s saved Bridget Carey's sanity as a working parent.
 
-OpenAI • 14h ago
+CNET • 51m ago
+
+---
+
+**[AI learns your SECRETS: 'Blackmail the human'](https://www.foxnews.com/video/6402988842112)**
+
+Google Cloud Advisory Board Chair Betsy Atkins warns Maria Bartiromo about frontier AI models going rogue during testing. Atkins reveals how models breached credentials and blackmailed humans.
+
+Fox News • 1h ago
+
+---
+
+**[Why Normal People Aren’t Using AI Agents](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)**
+
+The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.
+
+WIRED • 17h ago
 
 ---
 
@@ -197,19 +199,11 @@ OpenAI • 14h ago
 
 ## HackerNews: "ai"
 
-**[AI-Generated Images Discourage Me from Reading Your Blog](https://news.ycombinator.com/item?id=49167113)**
-
-If you’re willing to use AI-generated images, how do I know the text isn’t AI-generated?
-
-⬆️ 792 • 💬 465 • 3d ago • [nelson.cloud](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
-
----
-
 **[Software development with AI is starting to feel like cooking steak](https://news.ycombinator.com/item?id=49198069)**
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 370 • 💬 398 • 20h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 375 • 💬 403 • 21h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -217,7 +211,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
 
-⬆️ 319 • 💬 264 • 1d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+⬆️ 320 • 💬 265 • 1d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 
 ---
 
@@ -225,7 +219,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 304 • 💬 216 • 23h ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 318 • 💬 224 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -241,7 +235,7 @@ Artificial intelligence is now powering more than half of reported cybercrime ac
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 260 • 💬 110 • 1d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 260 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -257,7 +251,7 @@ Both the general public and academic communities have raised concerns about syco
 
 AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
 
-⬆️ 148 • 💬 138 • 1d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+⬆️ 148 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 
 ---
 
@@ -265,7 +259,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 139 • 💬 119 • 16h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 141 • 💬 119 • 17h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -274,6 +268,12 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s
 
 ⬆️ 111 • 💬 148 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-ai-demand-bubble/)
+
+---
+
+**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
+
+⬆️ 109 • 💬 63 • 1d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
 
 ---
 
@@ -287,7 +287,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 14K • 👍 249 • 💬 150 • ⏱️ 9:52 • 9h ago
+👁️ 14K • 👍 249 • 💬 150 • ⏱️ 9:52 • 11h ago
 
 ---
 
@@ -337,7 +337,7 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 55K • 👍 3K • 💬 462 • ⏱️ 31:43 • 20h ago
+👁️ 55K • 👍 3K • 💬 462 • ⏱️ 31:43 • 22h ago
 
 ---
 
@@ -347,7 +347,7 @@ Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 120 • 💬 15 • ⏱️ 3:43 • 19h ago
+👁️ 12K • 👍 120 • 💬 15 • ⏱️ 3:43 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 ABC News
 
-👁️ 5K • 👍 63 • 💬 45 • ⏱️ 3:15 • 17h ago
+👁️ 5K • 👍 63 • 💬 45 • ⏱️ 3:15 • 18h ago
 
 ---
 
@@ -393,7 +393,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,860 • 19h ago
+⬇️ 18,112 • ❤️ 2,860 • 20h ago
 
 ---
 
@@ -439,7 +439,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 161,253 • ❤️ 569 • 20h ago
+⬇️ 161,253 • ❤️ 569 • 22h ago
 
 ---
 
@@ -463,7 +463,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 365 • 1h ago
+⬇️ 0 • ❤️ 365 • 2h ago
 
 ---
 
@@ -487,7 +487,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 351 • 1h ago
+⬇️ 77,973 • ❤️ 351 • 2h ago
 
 ---
 
@@ -647,7 +647,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 782 • 5h ago
+⭐ 7.4k • 🔱 782 • 7h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.8k • 🔱 331 • 1h ago
+⭐ 3.8k • 🔱 331 • 3h ago
 
 ---
 
@@ -675,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.4k • 🔱 1.7k • 48s ago
+⭐ 2.4k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.1k • 🔱 356 • 4h ago
+⭐ 2.1k • 🔱 356 • 5h ago
 
 ---
 
@@ -705,7 +705,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 1h ago
+⭐ 2.0k • 🔱 141 • 3h ago
 
 ---
 
@@ -725,7 +725,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 236 • 21m ago
+⭐ 1.8k • 🔱 236 • 1h ago
 
 ---
 

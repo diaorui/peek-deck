@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T11:45:09.303917+00:00'
+updated: '2026-08-07T13:03:58.301445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 11:45 UTC  
+**Last Updated:** August 07, 2026 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,678.56
+### $65,061.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +3.3%  
-**30d:** +2.5%  
-**90d:** -21.0%  
-**1y:** -44.5%  
+**24h:** +0.6%  
+**7d:** +3.8%  
+**30d:** +3.0%  
+**90d:** -20.6%  
+**1y:** -44.2%  
 
 ---
 
@@ -157,33 +157,58 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
+**[Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)**
+
+Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
+
+coindesk.com • 3h ago
+
+---
+
 **[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
-**[CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a 'late-stage bear market'](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market)**
+**[Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
 
-Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
+Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million](https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million)**
-
-Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week. Here's what it means for the price.
-
-CoinDesk • 9h ago
+coindesk.com • 2h ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
+**[Bitcoin hovers below $68,000 as Middle East tensions escalate further: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/07/cmt)**
 
-Bloomberg.com • 18h ago
+Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.
+
+coindesk.com • 2h ago
+
+---
+
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+
+bloomberg.com • 1h ago
+
+---
+
+**[What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)**
+
+A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
+has reportedly lost $100 million US worth of bitcoin as a result of the hack.
+
+CBC • 2d ago
+
+---
+
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
+
+(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
+
+Yahoo Finance • 10h ago
 
 ---
 
@@ -191,7 +216,7 @@ Bloomberg.com • 18h ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 16h ago
+FOX 2 • 17h ago
 
 ---
 
@@ -203,35 +228,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Bitcoin for August 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-fortune.com • 2h ago
-
----
-
-**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
-
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-Forbes • 1h ago
-
----
-
 **[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 17h ago
-
----
-
-**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
-
-Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
-
-Benzinga • 1d ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -328,7 +329,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 814 • 💬 133 • ⏱️ 12:39 • 10h ago
+👁️ 15K • 👍 814 • 💬 133 • ⏱️ 12:39 • 12h ago
 
 ---
 
@@ -338,7 +339,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 257 • ⏱️ 24:00 • 12h ago
+👁️ 59K • 👍 4K • 💬 257 • ⏱️ 24:00 • 13h ago
 
 ---
 
@@ -348,7 +349,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 386 • 💬 46 • ⏱️ 8:03 • 17h ago
+👁️ 6K • 👍 386 • 💬 46 • ⏱️ 8:03 • 19h ago
 
 ---
 
@@ -358,7 +359,7 @@ WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 up
 
 📺 The Moon Show
 
-👁️ 3K • 👍 226 • 💬 14 • ⏱️ 6:33 • 3h ago
+👁️ 3K • 👍 226 • 💬 14 • ⏱️ 6:33 • 4h ago
 
 ---
 
@@ -368,7 +369,7 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 12K • 👍 1K • 💬 136 • ⏱️ 20:41 • 19h ago
+👁️ 12K • 👍 1K • 💬 136 • ⏱️ 20:41 • 20h ago
 
 ---
 
@@ -398,7 +399,7 @@ After mining my very first Bitcoin in 2011 and building multiple million-dollar 
 
 📺 Filip
 
-👁️ 2K • 👍 49 • 💬 42 • ⏱️ 10:08 • 23h ago
+👁️ 2K • 👍 49 • 💬 42 • ⏱️ 10:08 • 1d ago
 
 ---
 
@@ -408,7 +409,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 423 • ⏱️ 29:06 • 15h ago
+👁️ 4K • 👍 423 • ⏱️ 29:06 • 16h ago
 
 ---
 

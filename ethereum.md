@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T11:45:09.309445+00:00'
+updated: '2026-08-07T13:03:58.305659+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 11:45 UTC  
+**Last Updated:** August 07, 2026 at 13:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +3.7%  
-**30d:** +9.6%  
-**90d:** -19.3%  
-**1y:** -52.3%  
+**24h:** +0.8%  
+**7d:** +4.6%  
+**30d:** +10.5%  
+**90d:** -18.6%  
+**1y:** -51.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Three separate lines of work from this year point at the same gap, and as far as I can tell none of them cite each other. I’ve been running an agent labor market on Base mainnet with real USDC since July, so I hit this from the implementation side and only found the papers afterward. 1. The ERC-8004 empirical study (2606.26028) measured the deployed ecosystem across Ethereum, BSC and Base. Coordinated Sybil behaviour among reviewers at 73.5% / 59.2% / 90.6%. Only 3% / 4% / 15% of registrations expose a live endpoint. Their conclusion: the Reputation Registry can’t work as a trust signal because “values are not commensurable” and feedback is rarely grounded in verifiable interaction. 2. Separately, a pile of 2026 work on LLM-as-judge robustness (2603.06594, 2506.09443) shows model judges can be pushed to maximum scores with short appended phrases, and that those phrases transfer between models. One paper’s title is literally “A Coin Flip for Safety.” 3. And “Trust Without Trusting” (2605.06738) proposes recomputable trust: signed events, a deterministic fold, published evidence, so a third party can recompute a trust verdict without trusting whoever produced it. It works over existing on-chain data, no new standard needed. Here’s the thing. Paper 3 defines the fold but explicitly leaves the weighting open — it says combining verdicts of different confidence is supported but doesn’t specify how. Papers 1 and 2 are, together, the reason that weighting can’t be left open. If a mechanically reproduced result and a model’s opinion enter the same fold at the same weight, the fold is only as strong as its weakest input, and paper 2 says that input is a coin flip. The concrete gap: ERC-8004’s Validation Registry stores a verdict as one number, 0–100. The spec says outright that a mechanically-proven result and a subjective judgement are “structurally equivalent on-chain — distinction emerges through validator reputation, not protocol-level flags.” But validator reputation is the thing paper 1 measured as 73–90% Sybil. The fallback is the broken part. There’s also a taxonomy paper (2511.03434) that sorts inter-agent trust into Brief / Claim / Proof / Stake / Reputation / Constraint and concludes no single one suffices. I think it’s right but that “Proof” is one bucket too coarse. A canary that only the target could produce, and an LLM saying the work looks good, are both “proof” in that taxonomy and are not remotely the same thing. Paper 2 is the evidence for splitting it. What I did about it, for whatever one implementation is worth. I tag every verdict with a forge-resistance class before it goes anywhere: reproducible (a third party can re-run it and get the same answer — a canary, the requester’s own CI, a mutation-graded suite), mechanical (deterministic but needs my inputs to reproduce), model (an LLM or vision model’s judgement), attested (signed but not reproducible), declared (unverified self-report, which is what 8004 feedback defaults to). The class rides along in the tag field the Validation Registry already has, so a consumer can weight by it instead of averaging flat. Fifty declared 100s weigh less than one reproducible 60. That’s it. It’s not a Sybil solution and I want to be clear I haven’t solved that — I Sybil-attacked my own market and wrote up how it went. It’s the missing coordinate that lets a downstream fold apply a solution, which is more than the standard currently offers and less than a fix. Two things I’d genuinely like to be argued with on: **•** Is “reproducible vs. model” the right primary axis, or should it be something else (cost to forge in dollars? number of independent parties required?). **•** The 8004 tag field is a string and nobody agrees on its contents. Is there any appetite for a registry-level convention, or is off-chain interpretation the intended design? Disclosure: I used an LLM to help tidy the writing here. The measurements, the code and the argument are mine; the paper links are there so you can check the numbers rather than take my word for them.
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -166,27 +166,27 @@ StepSecurity • 2d ago
 
 ---
 
-**[Current price of Ethereum for August 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-fortune.com • 2h ago
-
----
-
 **[ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)**
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 3h ago
+coindesk.com • 4h ago
 
 ---
 
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
 
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-24/7 Wall St. • 1d ago
+Fortune • 3h ago
+
+---
+
+**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
+
+Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
+
+TradingView • 18h ago
 
 ---
 
@@ -198,11 +198,19 @@ The Block • 2d ago
 
 ---
 
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 1d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -210,7 +218,7 @@ ethereum.org • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 10h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -219,14 +227,6 @@ AMBCrypto • 10h ago
 The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
 
 FXStreet • 1d ago
-
----
-
-**[Coinbase suspends six non-USD pairs to consolidate liquidity, affects Ethereum outlook](https://cryptobriefing.com/coinbase-suspends-six-non-usd-pairs-to-consolidate-liquidity-affects-ethereum/)**
-
-Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
-
-Crypto Briefing • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 103 • 💬 89 • ⏱️ 51:35 • 16h ago
+👁️ 3K • 👍 103 • 💬 89 • ⏱️ 51:35 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 627 • 💬 224 • ⏱️ 14:40 • 19h ago
+👁️ 11K • 👍 627 • 💬 224 • ⏱️ 14:40 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 176 • 💬 6 • ⏱️ 7:25 • 9h ago
+👁️ 2K • 👍 176 • 💬 6 • ⏱️ 7:25 • 10h ago
 
 ---
 
@@ -280,7 +280,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 2K • 👍 40 • 💬 3 • ⏱️ 3:33 • 21h ago
+👁️ 2K • 👍 40 • 💬 3 • ⏱️ 3:33 • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ This is all about why the next 30 days for Bitcoin & crypto could be a major boo
 
 📺 Investing Made Simple
 
-👁️ 7K • 👍 451 • ⏱️ 9:52 • 22h ago
+👁️ 7K • 👍 451 • ⏱️ 9:52 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 378 • 💬 55 • ⏱️ 43:51 • 9h ago
+👁️ 5K • 👍 378 • 💬 55 • ⏱️ 43:51 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bon
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 359 • 💬 121 • ⏱️ 10:06 • 7h ago
+👁️ 2K • 👍 359 • 💬 121 • ⏱️ 10:06 • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN WARNING: LIQUIDATIONS JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 214 • 💬 74 • ⏱️ 20:31 • 19h ago
+👁️ 5K • 👍 214 • 💬 74 • ⏱️ 20:31 • 20h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T11:45:09.312355+00:00'
+updated: '2026-08-07T13:03:58.307843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 11:45 UTC  
+**Last Updated:** August 07, 2026 at 13:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-16h ago
+17h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 8h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 10h ago
 
 ---
 
@@ -66,7 +66,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-15h ago
+16h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute t
 
 I got this pneumatic gripper from my work because it needs a new o ring on the inside. It’s a SCHUNK 308910 and is normally worth quite a lot. I have no real use for it and don’t feel like getting a seal kit for it so I was wondering if anyone was interested in getting one that they can use on their own projects I figured it’s better if it gets used rather than being a desk ornament.
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ I got this pneumatic gripper from my work because it needs a new o ring on the i
 
 **[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -112,13 +112,13 @@ Wanted to share what we've been working on: the Alicia-M, a semi-humanoid robot 
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 9h ago
+bloomberg.com • 10h ago
 
 ---
 
@@ -126,7 +126,51 @@ Bloomberg.com • 9h ago
 
 Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 21h ago
+
+---
+
+**[Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation](https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html)**
+
+The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
+
+CNBC • 20h ago
+
+---
+
+**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[Mitsubishi to make 1,000 humanoids per month at idle engine plant](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
+
+Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
+
+japantoday.com • 2d ago
+
+---
+
+**[Who wins and who loses after US bans foreign robots?](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/)**
+
+Government ban on foreign-made robots may hinder instead of help US robotics.
+
+Ars Technica • 9d ago
+
+---
+
+**[Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace](https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/)**
+
+Mitsubishi is joining the rapidly growing ranks of robot makers, with plans to build up to 1,000 units per month at its former engine plant.
+
+Electrek • 16m ago
 
 ---
 
@@ -134,53 +178,7 @@ Investor's Business Daily • 19h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 19h ago
-
----
-
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
-
-news.usni.org • 18h ago
-
----
-
-**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
-
-Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
-
-businessinsider.com • 1d ago
-
----
-
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
-
-We recently added this group as investors think about SpaceX and growth in the sector.
-
-TheStreet Pro • 18h ago
-
----
-
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
-
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
-
-TechCrunch • 1d ago
-
----
-
-**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
-
-These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Smart vacuums swept up in U.S. ban on imports of Chinese robots](https://www.nbcnews.com/world/asia/smart-vacuums-swept-us-ban-imports-chinese-robots-rcna590536)**
-
-American consumers are set to lose access to the latest models as new Trump administration regulations shut out the Chinese companies that dominate smart vacuum sales.
-
-NBC News • 3d ago
+HII • 20h ago
 
 ---
 
@@ -192,7 +190,7 @@ NBC News • 3d ago
 
 📺 Tyrecordslol
 
-👁️ 67K • 👍 7K • 💬 509 • ⏱️ 0:58 • 1h ago
+👁️ 67K • 👍 7K • 💬 509 • ⏱️ 0:58 • 2h ago
 
 ---
 
@@ -212,7 +210,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 69K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
+👁️ 69K • 👍 1K • 💬 101 • ⏱️ 11:26 • 5d ago
 
 ---
 
@@ -242,7 +240,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 670 • 👍 17 • 💬 5 • ⏱️ 5:49 • 4h ago
+👁️ 670 • 👍 17 • 💬 5 • ⏱️ 5:49 • 5h ago
 
 ---
 
