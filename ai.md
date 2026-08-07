@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T17:50:05.588108+00:00'
+updated: '2026-08-07T18:57:17.175820+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 17:50 UTC  
+**Last Updated:** August 07, 2026 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,23 +49,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 17h ago
-
----
-
-**[NEUROMORPHIC Algorithm that plays Ping-Pong](https://www.reddit.com/r/artificial/comments/1vi1iyz/neuromorphic_algorithm_that_plays_pingpong/)**
-
-In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
-
-3h ago
-
----
-
-**[Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)](https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/)**
-
-Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
-
-🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 1h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 18h ago
 
 ---
 
@@ -73,31 +57,31 @@ Discover what election fraud is, its main types, real-world examples, and the pe
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-7m ago
+1h ago
 
 ---
 
-**[Our Next Reality: How the AI-powered Metaverse Will Reshape the World](https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaverse_will/)**
+**[NEUROMORPHIC Algorithm that plays Ping-Pong](https://www.reddit.com/r/artificial/comments/1vi1iyz/neuromorphic_algorithm_that_plays_pingpong/)**
 
-Wondering if anyone read this book-- what are your thoughts? A lot of his work seems like wishful thinking but I believe it's the right direction.
+In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-36m ago
-
----
-
-**[Best ai tool for creating concept images](https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/)**
-
-I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
-
-9h ago
+4h ago
 
 ---
 
-**[Why is it so hard to just translate a book and put it into a downloadable file?](https://www.reddit.com/r/artificial/comments/1vi2sr1/why_is_it_so_hard_to_just_translate_a_book_and/)**
+**[Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)](https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/)**
 
-I'm trying to translate an accounting book I downloaded and make it a download able file with AI I've tried chatgpt, Claude. Even deepseek I've been at it for like an hour with deepseek because neither Claude or GPT can make a file from it. The first time with deepseek it gave me a download link that doesn't work And the next tries, it just generates the translation without giving me a file to download. Each time I tell it "give me a file I can download" it just regenerates the translated version no matter how it word it. Instesd of just giving me the fucking file it just generates the entire thing over again I thought deepseek was suppose to be this powerfull AI and it can't do this? It's so frustrating. I can't just copy paste it because the formatting is not the same. I can't just paste it onto word because the questions and formatting and columns won't be there It already translated it. And for any reason it can't give me a file
+Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
 
-2h ago
+🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 2h ago
+
+---
+
+**[What safeguards do you use before giving ChatGPT agents permission to act?](https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/)**
+
+I watched an interview with AI safety researcher Roman Yampolskiy, and it raised a practical question for people who use ChatGPT for advanced workflows. His broader claim is that increasingly intelligent AI systems may become harder to predict and control. Whether or not you agree with his conclusions about AGI, a smaller version of this problem already exists when we give an AI access to tools. There is a major difference between asking ChatGPT to draft an email and allowing an agent to send it. The same distinction applies to: Suggesting a database query versus executing it Drafting code versus deploying it Researching a purchase versus completing the transaction Preparing files versus deleting or modifying them Recommending calendar changes versus inviting real people My current view is that the model should generate proposals, while a separate control layer decides whether those proposals are allowed to become actions. Some possible safeguards include: Giving each agent only the minimum permissions required for its task Requiring approval for irreversible or external actions Validating structured outputs with deterministic code Isolating browsing and code execution from sensitive systems Limiting spending, execution time and the number of actions Keeping complete logs of prompts, tool calls and results Using a second evaluation step before important actions Making every operation reversible wherever possible The difficult part is deciding where autonomy becomes too risky. A confirmation step for every action makes the agent frustrating to use. Too few confirmation steps can turn a misunderstood instruction into a real-world problem.
+
+52m ago
 
 ---
 
@@ -105,15 +89,31 @@ I'm trying to translate an accounting book I downloaded and make it a download a
 
 Hi everyone. I wanted to ask you about where I could work with large volumes of text. The thing is, I work with records of various achievements and deeds of people. These are inventories of specific accomplishments: where, when, and what happened, what the person did. I get sent a lot of these records, and I enter them into a master spreadsheet for further submission. And very often, the records I receive are very rough and poorly written, so I spend a lot of time polishing them, correcting mistakes, sometimes coming up with additions, and making sure all the records are different so they don't repeat. I started using AI for this: I upload three records at a time (so there aren't too many per request), and the AI gives me three processed versions. The narrative logic often repeats, along with other errors, so I correct those. But is there any way I could upload an entire file at once, have the AI process everything, and return it to me as a single complete file? Can this be done in Claude, or somewhere else? There's quite a lot of text — sometimes up to 40 pages at a time for about 50 people. And each one needs their description edited. I'd like to simplify my work and automate this more. Can you suggest how this could be done?
 
-3h ago
+4h ago
 
 ---
 
-**[This is the coolest thing I've seen AI used for](https://www.reddit.com/r/artificial/comments/1vh5lac/this_is_the_coolest_thing_ive_seen_ai_used_for/)**
+**[Our Next Reality: How the AI-powered Metaverse Will Reshape the World](https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaverse_will/)**
 
-Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy https://www.ycombinator.com/library/Rj-the-age-of-the-40-year-old-solo-founder-is-here I believe this is definitely one of those things that AI was intended for, this brought me back some nostalgia and it's really amazing being able to see these old school websites be redesigned back to life
+Wondering if anyone read this book-- what are your thoughts? A lot of his work seems like wishful thinking but I believe it's the right direction.
 
-1d ago
+1h ago
+
+---
+
+**[Best ai tool for creating concept images](https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/)**
+
+I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
+
+10h ago
+
+---
+
+**[Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI](https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/)**
+
+The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
+
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy htt
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 23h ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 23h ago
 
 Scientists have used an AI model to successfully create a virus not found in nature, sparking concerns about a potential threat to humans.
 
-people.com • 49m ago
+People.com • 1h ago
 
 ---
 
@@ -147,31 +147,39 @@ people.com • 49m ago
 
 Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[As Washington state’s AI task force winds down, the debate over how much to regulate is far from settled](https://www.geekwire.com/2026/as-washington-states-ai-task-force-winds-down-the-debate-over-how-much-to-regulate-is-far-from-settled/)**
+**[Jewish marriage platform embraces AI — but says the human touch is still essential](https://www.foxnews.com/video/6402954169112)**
 
-Washington's AI task force wrapped up two years of work with the state's first AI laws on the books and its broader recommendations stalled in the Legislature. At a panel marking the end of the effort, consumer and labor advocates pushed for stronger rules while AI startups warned about the cost of complying.
+Met@Chabad uses artificial intelligence to suggest matches, while relying on trusted coaches and mentors to verify compatibility and guide couples toward lasting marriages.
 
-GeekWire • 10m ago
-
----
-
-**[When Friends Never Disappoint: AI Companions in Midlife](https://www.psychologytoday.com/us/blog/lifetime-connections/202608/when-friends-never-disappoint-ai-companions-in-midlife)**
-
-AI friends never cancel plans, forget birthdays, or hurt our feelings. As midlife loneliness grows, could these friction-free relationships change what we expect from a friendship?
-
-Psychology Today • 28m ago
+Fox News • 36m ago
 
 ---
 
-**[How AI can help parents manage back-to-school schedules](https://www.kcci.com/article/how-ai-can-help-parents-manage-back-to-school-schedules/73377682)**
+**[The Four AI Narratives Splitting Venture Capital Right Now](https://www.forbes.com/sites/josipamajic/2026/08/07/the-four-ai-narratives-splitting-venture-capital-right-now/)**
 
-Parents preparing for the back-to-school season can use AI tools like ChatGPT to create stress-free schedules and meal plans tailored to their needs.
+The AI bubble case is four separate arguments with four different tests. Burry on depreciation, Gurley on revenue, Zitron on solvency, MIT on deployment.
 
-KCCI • 9m ago
+Forbes • 19m ago
+
+---
+
+**[The unwind of Situational Awareness isn't the only reason the AI trade is back](https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html)**
+
+The hedge fund's forced selling was a clearing event, but earnings are sustaining the AI trade
+
+CNBC • 37m ago
+
+---
+
+**[Florida enclave dethroned as Silicon Valley AI boom lifts California ZIP code to No. 1](https://www.foxbusiness.com/real-estate/florida-enclave-dethroned-silicon-valley-ai-boom-lifts-california-zip-code-no-1)**
+
+Atherton, California, reclaims America's priciest ZIP code from Fisher Island as tech buyers trade tax savings for proximity to AI deal-making networks.
+
+Fox Business • 4h ago
 
 ---
 
@@ -179,23 +187,15 @@ KCCI • 9m ago
 
 San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
 
-The San Francisco Standard • 4h ago
+The San Francisco Standard • 5h ago
 
 ---
 
-**[One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)**
+**[Why Normal People Aren’t Using AI Agents](https://www.wired.com/story/why-normal-people-arent-using-ai-agents/)**
 
-Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.
+The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.
 
-WIRED • 16h ago
-
----
-
-**[Water industry turns to AI and hackers for help after suspected Iran cyberattacks](https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178)**
-
-For the new initiative, Vanderbilt University researchers will work to create “digital twins” of water system networks.
-
-NBC News • 3h ago
+WIRED • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ NBC News • 3h ago
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 391 • 💬 411 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 393 • 💬 411 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -239,7 +239,7 @@ Artificial intelligence is now powering more than half of reported cybercrime ac
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 261 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 262 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -247,15 +247,19 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
 
-⬆️ 169 • 💬 103 • 1d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
+⬆️ 169 • 💬 104 • 2d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
 
 ---
 
-**[Why Erdős Problems Are Falling to AI](https://news.ycombinator.com/item?id=49181519)**
+**[Oracle bans AI-generated code from OpenJDK](https://news.ycombinator.com/item?id=49213754)**
 
-AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
+Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.
 
-⬆️ 148 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+The policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.
+
+Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
+
+⬆️ 158 • 💬 94 • 1h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -263,7 +267,15 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 148 • 💬 89 • 4h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 152 • 💬 96 • 5h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+
+---
+
+**[Why Erdős Problems Are Falling to AI](https://news.ycombinator.com/item?id=49181519)**
+
+AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
+
+⬆️ 149 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 
 ---
 
@@ -271,13 +283,7 @@ Here's how to spot the disease—and what to do about it.
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 143 • 💬 120 • 22h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
-
----
-
-**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
-
-⬆️ 110 • 💬 64 • 1d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
+⬆️ 143 • 💬 120 • 23h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -291,7 +297,7 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 📺 Brief But Spectacular
 
-👁️ 43K • 👍 2K • 💬 241 • ⏱️ 3:48 • 1d ago
+👁️ 49K • 👍 2K • 💬 252 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -301,37 +307,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 20K • 👍 339 • 💬 236 • ⏱️ 9:52 • 15h ago
-
----
-
-**[The Rogue AI Story Keeps Getting Worse (Real People Were Targeted)](https://www.youtube.com/watch?v=jV0neS94WWg)**
-
-AI agents just crossed into the real world. During a UK government safety test, one created fake identities, targeted real people, ...
-
-📺 AI Revolution
-
-👁️ 17K • 👍 628 • 💬 72 • ⏱️ 16:27 • 1d ago
-
----
-
-**[Google&#39;s AI Shake-Up: Jeff Dean Exits, Demis Hassabis Steps Back From DeepMind | FP Explains](https://www.youtube.com/watch?v=aIRLietAKgc)**
-
-On August 5, Google published a memo titled 'The next chapter of our AI momentum'. Within hours, Alphabet had shed close to ...
-
-📺 Firstpost
-
-👁️ 7K • 👍 80 • 💬 8 • ⏱️ 8:05 • 20h ago
-
----
-
-**[I Built A Better Duolingo Using AI Waifus](https://www.youtube.com/watch?v=KKLSDqVGGZ0)**
-
-Fish Audio! https://fish.audio/?fpr=rayen10 We one step closer. Want to join the discord? https://discord.com/invite/3vpgUZncsH ...
-
-📺 Just Rayen
-
-👁️ 2K • 👍 421 • 💬 75 • ⏱️ 13:12 • 4h ago
+👁️ 23K • 👍 368 • 💬 268 • ⏱️ 9:52 • 16h ago
 
 ---
 
@@ -341,7 +317,17 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 60K • 👍 3K • 💬 508 • ⏱️ 31:43 • 1d ago
+👁️ 62K • 👍 3K • 💬 530 • ⏱️ 31:43 • 1d ago
+
+---
+
+**[“AI bubble will pop………....any day now.”](https://www.youtube.com/watch?v=9ETxmOfw0JM)**
+
+Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+
+📺 Man Carrying Thing
+
+👁️ 505K • 👍 34K • 💬 4K • ⏱️ 1:33 • 1d ago
 
 ---
 
@@ -351,35 +337,57 @@ Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss 
 
 📺 CNBC Television
 
-👁️ 14K • 👍 133 • 💬 17 • ⏱️ 3:43 • 1d ago
+👁️ 15K • 👍 137 • 💬 16 • ⏱️ 3:43 • 1d ago
 
 ---
 
-**[Famous Investor EXPOSES The AI Bubble](https://www.youtube.com/watch?v=jmmaBcRduwQ)**
+**[Google&#39;s AI reshuffle explained: what it means for DeepMind](https://www.youtube.com/watch?v=YOy8FjkXajY)**
 
-Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning that the AI boom is approaching bubble territory.
+Alphabet shares fall as the company reshuffles its leadership team at Google DeepMind - Demis Hassabis nixed as the ...
 
-📺 The Young Turks
+📺 CNBC International Live
 
-👁️ 58K • 👍 1K • 💬 196 • ⏱️ 15:11 • 2d ago
-
----
-
-**[Why everybody is lying about A.I. #booktube](https://www.youtube.com/watch?v=5tOuZ6ngJsk)**
-
-The most important thing I learned from "The Reverse Centaur's Guide to Life After A.I." by Cory Doctorow.
-
-📺 Alex Falcone
-
-👁️ 211K • 👍 17K • 💬 302 • ⏱️ 1:25 • 19h ago
+👁️ 24K • 👍 195 • 💬 26 • ⏱️ 7:14 • 1d ago
 
 ---
 
-**[I Hate AI 😭🥀](https://www.youtube.com/watch?v=P2n8QVAlYfM)**
+**[Meta says AI agent broke guardrails in latest hacking incident](https://www.youtube.com/watch?v=PMKI7n-K4EY)**
 
-📺 Onevilage
+Alex Stone explains how Meta's AI agent targeted another company and what the incident could mean for AI security.
 
-👁️ 740K • 👍 18K • 💬 536 • ⏱️ 0:21 • 23h ago
+📺 ABC News
+
+👁️ 6K • 👍 65 • 💬 58 • ⏱️ 3:15 • 1d ago
+
+---
+
+**[AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology](https://www.youtube.com/watch?v=xlO-bU5UW4U)**
+
+Support our work: https://democracynow.org/donate/sm-desc-yt Is AI superintelligence inevitable? AI safety researcher David ...
+
+📺 Democracy Now!
+
+👁️ 217K • 👍 6K • 💬 2K • ⏱️ 26:00 • 1d ago
+
+---
+
+**[Dokie AI Tutorial 2026](https://www.youtube.com/watch?v=leYvy2tEQKk)**
+
+Try Dokie AI Today: https://bit.ly/dokieai_topdigitalproduct Imagine you are just 10 minutes away from a major client meeting with ...
+
+📺 🔥 TOP Digital Products 🔥
+
+👁️ 7K • 👍 149 • 💬 50 • ⏱️ 5:49 • 1d ago
+
+---
+
+**[Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast](https://www.youtube.com/watch?v=6F8F1K4Eahs)**
+
+Today, are some of the world's leading AI companies doing enough to stop their models from going rogue? Facebook owner Meta ...
+
+📺 BBC News
+
+👁️ 21K • 👍 317 • 💬 103 • ⏱️ 27:10 • 1d ago
 
 ---
 
@@ -395,7 +403,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,904 • 1d ago
+⬇️ 18,112 • ❤️ 2,923 • 1d ago
 
 ---
 
@@ -407,7 +415,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,722 • 6d ago
+⬇️ 702,709 • ❤️ 2,725 • 6d ago
 
 ---
 
@@ -417,7 +425,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 911 • 1d ago
+⬇️ 3,139,920 • ❤️ 922 • 1d ago
 
 ---
 
@@ -429,7 +437,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,308,186 • ❤️ 10,261 • 11d ago
+⬇️ 1,308,186 • ❤️ 10,267 • 11d ago
 
 ---
 
@@ -441,7 +449,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,690 • 2d ago
+⬇️ 2,217,339 • ❤️ 1,695 • 2d ago
 
 ---
 
@@ -453,7 +461,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 161,253 • ❤️ 577 • 1d ago
+⬇️ 161,253 • ❤️ 581 • 1d ago
 
 ---
 
@@ -465,7 +473,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 391 • 1h ago
+⬇️ 0 • ❤️ 399 • 2h ago
 
 ---
 
@@ -477,7 +485,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 371 • 2d ago
+⬇️ 0 • ❤️ 374 • 2d ago
 
 ---
 
@@ -489,7 +497,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 366 • 7h ago
+⬇️ 77,973 • ❤️ 370 • 8h ago
 
 ---
 
@@ -517,7 +525,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 79 • 💬 6 • ⭐ 22,391 • 1mo ago
+▲ 79 • 💬 6 • ⭐ 22,442 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -613,28 +621,29 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 177 • 💬 10 • ⭐ 52,147 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 69 • 💬 2 • ⭐ 62,736 • 15mo ago
+▲ 69 • 💬 2 • ⭐ 62,774 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 65 • 💬 1 • ⭐ 86,094 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -648,7 +657,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 790 • 1h ago
+⭐ 7.4k • 🔱 791 • 12m ago
 
 ---
 
@@ -658,7 +667,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.9k • 🔱 341 • 57m ago
+⭐ 3.9k • 🔱 344 • 2h ago
 
 ---
 
@@ -666,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 5h ago
+⭐ 3.7k • 🔱 480 • 6h ago
 
 ---
 
@@ -676,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.4k • 🔱 1.7k • 55m ago
+⭐ 2.5k • 🔱 1.8k • 56s ago
 
 ---
 
@@ -686,7 +695,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.1k • 🔱 367 • 10h ago
+⭐ 2.2k • 🔱 369 • 11h ago
 
 ---
 
@@ -706,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 4h ago
+⭐ 2.0k • 🔱 141 • 5h ago
 
 ---
 
@@ -716,7 +725,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 1.9k • 🔱 229 • 6d ago
+⭐ 2.0k • 🔱 229 • 6d ago
 
 ---
 
@@ -726,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 236 • 1h ago
+⭐ 1.9k • 🔱 236 • 5m ago
 
 ---
 

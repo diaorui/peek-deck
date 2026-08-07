@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T17:50:05.601694+00:00'
+updated: '2026-08-07T18:57:17.189212+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 17:50 UTC  
+**Last Updated:** August 07, 2026 at 18:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +3.6%  
-**30d:** +9.5%  
-**90d:** -19.3%  
-**1y:** -52.3%  
+**24h:** -0.1%  
+**7d:** +3.4%  
+**30d:** +9.3%  
+**90d:** -19.5%  
+**1y:** -52.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.03B
+**Market Cap:** $229.93B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.5%
 
 **All-Time Low:** $0.43
-+442108.5%
++439958.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-StepSecurity • 2d ago
+Step Security • 3d ago
 
 ---
 
@@ -170,7 +170,7 @@ StepSecurity • 2d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -186,7 +186,7 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -202,7 +202,7 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 16h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 1d ago
 
 **[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
 
-FinanceFeeds • 49m ago
+FinanceFeeds • 1h ago
 
 ---
 
@@ -232,33 +232,23 @@ FinanceFeeds • 49m ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 307 • 👍 24 • 💬 3 • ⏱️ 1:08 • 1h ago
-
----
-
 **[Tom Lee: Why Ethereum Is The Next 10X Trade In Crypto](https://www.youtube.com/watch?v=whFoNV3LW0Y)**
 
 Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispriced asset in crypto right now. In this clip he explains ...
 
 📺 New Era Finance Podcast
 
-👁️ 2K • 👍 45 • 💬 4 • ⏱️ 3:33 • 1d ago
+👁️ 3K • 👍 45 • 💬 4 • ⏱️ 3:33 • 1d ago
 
 ---
 
-**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
-BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Lark Davis
 
-👁️ 6K • 👍 426 • 💬 61 • ⏱️ 43:51 • 15h ago
+👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 2h ago
 
 ---
 
@@ -268,27 +258,17 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 97 • 💬 30 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 98 • 💬 30 • ⏱️ 13:23 • 1d ago
 
 ---
 
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
+**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
 
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
+BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
 
-📺 DukascopyTV English
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 6h ago
-
----
-
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
-
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 196 • 💬 6 • ⏱️ 7:25 • 15h ago
+👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 16h ago
 
 ---
 
@@ -298,7 +278,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 119 • 💬 91 • ⏱️ 51:35 • 23h ago
+👁️ 4K • 👍 121 • 💬 92 • ⏱️ 51:35 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 16h ago
+
+---
+
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
+
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
+
+📺 DukascopyTV English
+
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 7h ago
 
 ---
 
@@ -308,7 +308,17 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 649 • 💬 248 • ⏱️ 14:40 • 1d ago
+👁️ 12K • 👍 649 • 💬 198 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 19h ago
 
 ---
 
@@ -319,16 +329,6 @@ The CLARITY Act's cloture vote is now expected to fail — Thune didn't file, De
 📺 The Crypto Cowboy
 
 👁️ 468 • 👍 35 • 💬 22 • ⏱️ 16:08 • 1d ago
-
----
-
-**[BitGo&#39;s $7.4B WBTC shift, Ethereum staking, Western Union stablecard and Circle wallets](https://www.youtube.com/watch?v=xfHIC3ewpNg)**
-
-BitGo's $7.4B WBTC shift, Ethereum staking, Western Union stablecard and Circle wallets BitGo moves $7.4 billion in Wrapped ...
-
-📺 The Coin Daily
-
-👁️ 4K • ⏱️ 6:40 • 2d ago
 
 ---
 

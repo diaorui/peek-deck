@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T17:50:05.596219+00:00'
+updated: '2026-08-07T18:57:17.183787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 17:50 UTC  
+**Last Updated:** August 07, 2026 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,992.26
+### $64,827.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** +3.0%  
 **30d:** +2.2%  
 **90d:** -21.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.15B
+**Market Cap:** $1297.22B
 Rank #1
 
-**Circulating Supply:** 20,067,034 BTC
+**Circulating Supply:** 20,067,081 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.7%
 
 **All-Time Low:** $67.81
-+95602.7%
++95220.7%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Same as title.
 
-5h ago
+6h ago
 
 ---
 
 **[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 4h ago
 
 ---
 
@@ -106,7 +106,7 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
 
-8h ago
+9h ago
 
 ---
 
@@ -114,13 +114,13 @@ The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but 
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -128,7 +128,7 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
 
-3h ago
+4h ago
 
 ---
 
@@ -140,7 +140,7 @@ Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Serve
 
 If you
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 2h ago
 
 ---
 
@@ -148,7 +148,7 @@ If you
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/1aGpJQ8BMLI?t=5072) • 12h ago
+🔗 [youtu.be](https://youtu.be/1aGpJQ8BMLI?t=5072) • 13h ago
 
 ---
 
@@ -156,7 +156,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 tldr: roll dice, find the right 256-word range, pray as you brute force, profit. I'll try and keep this simple and avoid using difficult words. To generate your own seed phrase, you're good to go even with just rolling some dice, mix them up with a coin flip, or even use a deck of cards. But the real question is, how do we get the 24th word? There are tools out there that lets you type it on any machine, preferably offline, or even better: permanently air-gapped machine. What if you don't have an air-gapped machine? There are ways to do it like using a Seed Signer. But you can (if you're into it) do it manually too. Here's how: Well, after you get the 23 words, there are 8 valid choices for the final word (8 out of the 2048 BIP39 list). They are distributed so there's exactly one valid word, in every 256-word range. In other words: There's only 1 valid word between 1 (abandon) and 256 (cable) There's only 1 valid word between 257 (cactus) and 512 (divide) There's only 1 valid word between 513 (divorce) and 768 (garment) There's only 1 valid word between 769 (gain) and 1024 (lend) .. so on and on. You get the gist. Whatever method you pick, you'll want to make sure the 24th word isn't selected manually. Generate it randomly just like the previous 23 words, and use the result as a starting point. Once you get the 24th word (I'll use "verify" as an example), here are the steps to follow, in simpler terms: The word "verify" is number 1942 on the BIP39 word list Subtract 1 from 1942 to get its 0-based index (counting starts from 0). You'll get 1941 Convert this number to an 11-bit binary. You'll get 111 1001 0101 Take the first 3 bits (in this case, 111), discard the remaining 8 bits, and append 8 zeroes so it becomes 111 0000 0000 Convert this number back to decimal. You'll get 1792 Your 24th word checksum can be found from word 1793 to 2048. Sure, you can just pick any 256-word range (e.g. 1025-1280), but the whole point of generating your own seed is to make it truly random without any human interaction/intervention. Is trying brute forcing through 256 words a pain? Yes, though probably much less so than calculating your own sha256 checksum manually with pen and paper. This is especially true, if you're using hardware wallets that don't allow you to edit a specific word. (e.g. on Ledger, if the 24-word phrase is invalid, you'll have to input it again from word 1). But hey, you might get lucky and find the right 24th word on your 10th attempt. Or on your 200th ¯\_(ツ)_/¯ So I suggest printing out the BIP39 word list and crossing them one by one as you try to find the right checksum. Good luck, and remember: don't trust, verify!
 
-12h ago
+13h ago
 
 ---
 
@@ -168,7 +168,7 @@ tldr: roll dice, find the right 256-word range, pray as you brute force, profit.
 
 The day ahead in crypto: Aug. 7, 2026
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -180,9 +180,17 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Live updates: Bitcoin holding near $65,000 as U.S. jobs data falls short of forecasts](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
+
+Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
+
+CoinDesk • 2h ago
+
+---
+
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -190,15 +198,7 @@ bloomberg.com • 6h ago
 
 The Senate will not vote on the Clarity Act ahead of the August recess, delaying it until September. Odds for passing in 2026 fall.
 
-Investor's Business Daily • 2h ago
-
----
-
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 23h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -206,15 +206,15 @@ Seeking Alpha • 23h ago
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds](https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds)**
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
 
-A soft July payrolls print pulled September rate-hike odds down, giving investors in risk assets hope. But Bitcoin remains in bear territory.
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Decrypt • 1h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -234,11 +234,11 @@ theblock.co • 1d ago
 
 ---
 
-**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+**[Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC](https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc)**
 
-Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
 
-Benzinga • 2d ago
+Decrypt • 3h ago
 
 ---
 
@@ -299,7 +299,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 5d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
@@ -329,63 +329,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 432 • 💬 30 • ⏱️ 8:03 • 23h ago
-
----
-
 **[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 931 • 💬 166 • ⏱️ 12:39 • 16h ago
-
----
-
-**[&quot;THEY JUST ADMITTED IT! The Fed Can&#39;t Stop the Coming BTC EXPLOSION&quot; - Larry Lepard](https://www.youtube.com/watch?v=WNUnPEBjT1Y)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 171 • 💬 1 • ⏱️ 13:51 • 18h ago
-
----
-
-**[BITCOIN IS ABOUT TO EXPLODE NOW !!!!!](https://www.youtube.com/watch?v=exJXTH2OUo8)**
-
-WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 upgrade BYBIT: http://themoon.co/Bybit ...
-
-📺 The Moon Show
-
-👁️ 5K • 👍 369 • 💬 17 • ⏱️ 6:33 • 9h ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 79K • 👍 5K • 💬 347 • ⏱️ 24:00 • 18h ago
-
----
-
-**[190,000 Bitcoin Bought - The Bottom Is In](https://www.youtube.com/watch?v=jPPnsWYZW3s)**
-
-Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved into whale wallets. While much of the market ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 247 • 💬 153 • ⏱️ 16:58 • 19h ago
+👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 17h ago
 
 ---
 
@@ -395,17 +345,67 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 6K • 👍 359 • 💬 62 • ⏱️ 11:04 • 10h ago
+👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 11h ago
 
 ---
 
-**[URGENT BTC UPDATE:  The Bitcoin CRASH is About to Resume to Finish the Mother of BTC CRASHES](https://www.youtube.com/watch?v=bTX5Np_ZQVk)**
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
 
-📺 Doctor of Pump & Dump
+📺 Natalie Brunell
 
-👁️ 5K • 👍 444 • ⏱️ 29:06 • 21h ago
+👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 4h ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 8K • 👍 444 • 💬 30 • ⏱️ 8:03 • 1d ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 19h ago
+
+---
+
+**[Is the Bitcoin Breakout Starting Today?](https://www.youtube.com/watch?v=bHUyX5Egn4M)**
+
+In this video I break down the latest Bitcoin price action to determine if the recent market movement confirms a bullish reversal or a ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 6h ago
+
+---
+
+**[190,000 Bitcoin Bought - The Bottom Is In](https://www.youtube.com/watch?v=jPPnsWYZW3s)**
+
+Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved into whale wallets. While much of the market ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 253 • 💬 154 • ⏱️ 16:58 • 20h ago
+
+---
+
+**[Dylan LeClair: &quot;The Bitcoin Bottom Is In&quot;](https://www.youtube.com/watch?v=igsBnAI7Juc)**
+
+Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared out short-term traders, and why Bitcoin's path ...
+
+📺 Natalie Brunell
+
+👁️ 2K • 👍 67 • 💬 45 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -415,15 +415,17 @@ Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discu
 
 📺 Fox Business Clips
 
-👁️ 74K • 👍 1K • 💬 437 • ⏱️ 8:52 • 2d ago
+👁️ 76K • 👍 1K • 💬 440 • ⏱️ 8:52 • 2d ago
 
 ---
 
-**[BEST INVESTMENT BITCOIN TO $1M #bitcoin #crypto #finance #stocks](https://www.youtube.com/watch?v=chjNi0hUj18)**
+**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
 
-📺 CryptoWendyO
+Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
 
-👁️ 3K • 👍 262 • 💬 26 • ⏱️ 2:06 • 16h ago
+📺 Crypto Insider
+
+👁️ 15K • 👍 616 • 💬 9 • ⏱️ 41:36 • 2d ago
 
 ---
 
