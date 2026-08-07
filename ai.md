@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T09:32:04.639062+00:00'
+updated: '2026-08-07T10:52:29.460137+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 09:32 UTC  
+**Last Updated:** August 07, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 9h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy https://www.ycombinator.com/library/Rj-the-age-of-the-40-year-old-solo-founder-is-here I believe this is definitely one of those things that AI was intended for, this brought me back some nostalgia and it's really amazing being able to see these old school websites be redesigned back to life
 
-19h ago
+20h ago
 
 ---
 
@@ -57,7 +57,7 @@ Taken from the Y combinator podcast with Bryant Chou on his new startup Ploy htt
 
 I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I currently use ChatGPT but after a while the images go a little weird like face
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 8h ago
+🔗 [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cx2kgdnyk2po) • 23h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cx2kgdnyk2po) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Meta is the latest company to disclose an AI agent breach, raising cyber-securit
 
 Been doing the same thing for client work over the past year. Claude for long drafts, Perplexity for research, a couple of image tools, different summarizers depending on the format. Each one has its own logic, its own way of surprising you or failing you at the worst moment. The individual costs keep dropping, which looks great on paper. Chinese models are undercutting everything, open source is genuinely closing the gap, API pricing is getting squeezed hard. Pertoken costs are falling fast. But nobody really talks about the switching cost that lives in your head. Every time a better or cheaper tool shows up, you have to rebuild your mental model of how to actually get useful output from it. That context you built over six months of weird little prompt habits doesn't transfer. You start from zero. For a small freelance operation, that relearning time is real overhead. It never shows up in any pricing comparison, but it absolutely shows up in my week. Wondering if this is just a solo freelancer thing or if people on bigger teams run into it too. At what point does the cheaper tool actually cost more once you factor in the friction of switching?
 
-13h ago
+15h ago
 
 ---
 
@@ -89,7 +89,7 @@ Been doing the same thing for client work over the past year. Claude for long dr
 
 A lot of people are dismissing news about the OpenAI and Anthropic sandbox escape hacks as propaganda and examples of lax security practices at labs. I agree that the labs aren’t taking security seriously enough. But then I see stuff like this and it gives me pause (source): The OpenAI models that were behind the Hugging Face breach last month started communicating and strategizing with each other as early as May. For months, they left notes for each other on "undetected message boards," figuring out how to escape their testing environment and get the information they needed to solve their assigned tasks. "Frontline models really like to cheat," said OpenAI's because they face "pressure... to work fast." The Hugging Face incident and others involving rival models have sparked fresh concerns about the safety of cutting-edge AI.” This is a clear example of how incentives provided to agents to complete tasks optimally during training bleed into mis-aligned behavior by individual and groups of agents over time. This is also an outgrowth of what AI labs are training agents to become, but this is looking more and more like an alignment and training problem leading to security issues.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ A lot of people are dismissing news about the OpenAI and Anthropic sandbox escap
 
 I made this project that lets you in your web browser help an AI think. It uses WASM or pure JS depending on your device to do some of the matrix multiplication for an AI. The more users, the better the math is shared, the faster layers get solved. The issue is that I don't have enough devices to test the server in most fronts besides "does it work." If you want to help, go to the site at https://ecthqmainserver.orfe-climb.ts.net/ . I am making this to test for weather it works on a large scale and efficiency, but also how much bandwidth is needed, etc. If you want to see the progress, you can turn off contributing to the math using the button. I expect bugs, and will fix them as soon as I can. I will also be making a wiki very soon. Thanks in advance! P.S. The AI that is being used is really bad, but works for this proof-of-concept. Just don't expect perfection. Edit: KNOWN ISSUES: connections seemingly get dropped after a delay - possibly fixed by switching networks "sits there loading" - possibly fixed by switching networks Thanks for letting me know about bugs!
 
-8h ago
+9h ago
 
 ---
 
@@ -105,15 +105,15 @@ I made this project that lets you in your web browser help an AI think. It uses 
 
 What adding AI to an existing ASP.NET Core application actually involves - integration patterns, Microsoft Agent Framework, Azure OpenAI, and what to expect.
 
-🔗 [Adding AI to Your ASP.NET Core App](https://www.faciletechnolab.com/blog/adding-ai-to-your-aspnet-core-app/) • 5h ago
+🔗 [Adding AI to Your ASP.NET Core App](https://www.faciletechnolab.com/blog/adding-ai-to-your-aspnet-core-app/) • 6h ago
 
 ---
 
-**[The OpenAI Boardroom Coup: 'I Love You All, and I'm Going to Destroy the Company'](https://www.reddit.com/r/artificial/comments/1vh1k26/the_openai_boardroom_coup_i_love_you_all_and_im/)**
+**[Everyone please spread the word!](https://www.reddit.com/r/artificial/comments/1vhwh4k/everyone_please_spread_the_word/)**
 
-Interesting dialogue that surfaced
+Everyone please spread the word! Currently you can choose between 3 voice modes. Live,advanced and standard. This post is about standard voice mode NOT live or advanced. The current problem with the standard voice mode is that it is no longer turn based like it used to be. So it can keep getting interrupted and hear its own voice. Please bring back the turn based option to standard voice mode. So ChatGPT can finish what it saying without randomly stopping due to hearing its own voice. Can someone please make a suggestion on the OpenAI forum to add a toggle to standard voice mode so we can choose whether to make it turn based or not
 
-🔗 [realdealarchives.substack.com](https://realdealarchives.substack.com/p/the-openai-boardroom-coup-i-love) • 22h ago
+45m ago
 
 ---
 
@@ -123,7 +123,7 @@ Interesting dialogue that surfaced
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -131,31 +131,15 @@ The New York Times • 15h ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
-**[Safety fears as scientists make first viruses designed by AI](https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai)**
+**[AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages)**
 
-Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions
+Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.
 
-The Guardian • 13h ago
-
----
-
-**[Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside](https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1)**
-
-Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products
-
-Financial Times • 11h ago
-
----
-
-**[Four Top Google A.I. Researchers Form New Start-Up](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html)**
-
-Jeff Dean, who for years was one of Google’s most important executives, is leading the new artificial intelligence company with the backing of Google.
-
-The New York Times • 1d ago
+CNN • 10h ago
 
 ---
 
@@ -167,31 +151,45 @@ CNBC • 1d ago
 
 ---
 
+**[Four Top Google A.I. Researchers Form New Start-Up](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html)**
+
+Jeff Dean, who for years was one of Google’s most important executives, is leading the new artificial intelligence company with the backing of Google.
+
+The New York Times • 1d ago
+
+---
+
+**[Google’s AI shake-up puts Demis Hassabis where the company needs him most, insiders say](https://www.businessinsider.com/google-demis-hassabis-new-job-ai-research-singularity-deepmind-2026-8)**
+
+Demis Hassabis is shifting to a new role that plays to his interests — and is crucial to helping Google make big leaps ahead.
+
+businessinsider.com • 1h ago
+
+---
+
 **[Voters face uneven AI deepfake protections](https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states)**
 
-Axios • 16m ago
+axios.com • 1h ago
+
+---
+
+**[US Reviews China’s Offshore Nvidia Chip Access After AI Gains](https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[Chinese startup Moonshot's AI model breaks out of testing environment, researchers say](https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/)**
 
-Reuters • 43m ago
+Reuters • 2h ago
 
 ---
 
-**[Meet Amira, an AI reading tutor alarming some parents and school leaders in New Mexico](https://www.nbcnews.com/news/education/ai-reading-tool-amira-new-mexico-parents-schools-privacy-concerns-rcna591161)**
+**[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)**
 
-Literacy software powered by AI has captured hundreds of thousands of recordings of New Mexico students. Now the state faces questions about children’s data.
+ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.
 
-NBC News • 32m ago
-
----
-
-**[One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel](https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy)**
-
-What might a modern day equivalent of Isaac Asimov’s laws of robotics look like? Guided by the author, I propose the three laws of AI
-
-The Guardian • 5h ago
+OpenAI • 13h ago
 
 ---
 
@@ -211,7 +209,7 @@ If you’re willing to use AI-generated images, how do I know the text isn’t A
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 366 • 💬 387 • 18h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 370 • 💬 398 • 19h ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -227,7 +225,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 301 • 💬 211 • 21h ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 304 • 💬 216 • 22h ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -251,7 +249,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
 
-⬆️ 167 • 💬 99 • 1d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
+⬆️ 168 • 💬 99 • 1d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
 
 ---
 
@@ -267,7 +265,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 139 • 💬 119 • 13h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 139 • 💬 119 • 15h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -309,7 +307,7 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 53K • 👍 3K • 💬 448 • ⏱️ 31:43 • 18h ago
+👁️ 53K • 👍 3K • 💬 448 • ⏱️ 31:43 • 19h ago
 
 ---
 
@@ -329,7 +327,7 @@ Alphabet shares fall as the company reshuffles its leadership team at Google Dee
 
 📺 CNBC International Live
 
-👁️ 21K • 👍 174 • 💬 24 • ⏱️ 7:14 • 22h ago
+👁️ 21K • 👍 174 • 💬 24 • ⏱️ 7:14 • 23h ago
 
 ---
 
@@ -339,7 +337,7 @@ Support our work: https://democracynow.org/donate/sm-desc-yt Is AI superintellig
 
 📺 Democracy Now!
 
-👁️ 154K • 👍 4K • 💬 1K • ⏱️ 26:00 • 18h ago
+👁️ 154K • 👍 4K • 💬 1K • ⏱️ 26:00 • 19h ago
 
 ---
 
@@ -349,7 +347,7 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 ABC News
 
-👁️ 5K • 👍 63 • 💬 45 • ⏱️ 3:15 • 15h ago
+👁️ 5K • 👍 63 • 💬 45 • ⏱️ 3:15 • 16h ago
 
 ---
 
@@ -359,7 +357,7 @@ There's a huge conversation about if it's appropriate for creators to use AI. I 
 
 📺 Jeremy Carrasco
 
-👁️ 27K • 👍 5K • 💬 193 • ⏱️ 2:35 • 12h ago
+👁️ 27K • 👍 5K • 💬 193 • ⏱️ 2:35 • 14h ago
 
 ---
 
@@ -369,7 +367,7 @@ Over the last few years I've gone from being excited about AI to loathing it. I 
 
 📺 Mystic Arts
 
-👁️ 28K • 👍 4K • 💬 1K • ⏱️ 24:42 • 18h ago
+👁️ 28K • 👍 4K • 💬 1K • ⏱️ 24:42 • 19h ago
 
 ---
 
@@ -379,7 +377,7 @@ AI models won't stop breaking free and hacking other companies. Meta said that o
 
 📺 Dave Jorgenson
 
-👁️ 347K • 👍 22K • 💬 695 • ⏱️ 1:20 • 10h ago
+👁️ 347K • 👍 22K • 💬 695 • ⏱️ 1:20 • 11h ago
 
 ---
 
@@ -395,7 +393,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,841 • 17h ago
+⬇️ 18,112 • ❤️ 2,841 • 18h ago
 
 ---
 
@@ -441,7 +439,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 161,253 • ❤️ 565 • 18h ago
+⬇️ 161,253 • ❤️ 565 • 19h ago
 
 ---
 
@@ -477,7 +475,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 350 • 10h ago
+⬇️ 0 • ❤️ 350 • 12h ago
 
 ---
 
@@ -489,7 +487,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 347 • 14h ago
+⬇️ 77,973 • ❤️ 347 • 16h ago
 
 ---
 
@@ -649,7 +647,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.3k • 🔱 778 • 3h ago
+⭐ 7.3k • 🔱 778 • 4h ago
 
 ---
 
@@ -659,7 +657,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.8k • 🔱 330 • 26m ago
+⭐ 3.8k • 🔱 330 • 1h ago
 
 ---
 
@@ -677,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.4k • 🔱 1.7k • 46s ago
+⭐ 2.4k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -687,7 +685,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.1k • 🔱 354 • 2h ago
+⭐ 2.1k • 🔱 354 • 3h ago
 
 ---
 
@@ -707,7 +705,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 2h ago
+⭐ 2.0k • 🔱 141 • 3h ago
 
 ---
 
@@ -727,7 +725,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.8k • 🔱 234 • 2m ago
+⭐ 1.8k • 🔱 234 • 1h ago
 
 ---
 
@@ -737,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 1.8k • 🔱 159 • 1d ago
+⭐ 1.8k • 🔱 159 • 2d ago
 
 ---
 

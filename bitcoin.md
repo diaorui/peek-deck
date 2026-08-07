@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T09:32:04.648612+00:00'
+updated: '2026-08-07T10:52:29.469257+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 09:32 UTC  
+**Last Updated:** August 07, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.4%  
-**7d:** +3.2%  
+**7d:** +3.3%  
 **30d:** +2.5%  
-**90d:** -21.1%  
+**90d:** -21.0%  
 **1y:** -44.5%  
 
 ---
@@ -161,7 +161,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -173,23 +173,17 @@ The Block • 1d ago
 
 ---
 
-**[Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
+**[Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million](https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million)**
 
-Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
+Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week. Here's what it means for the price.
 
-CoinDesk • 1h ago
+CoinDesk • 8h ago
 
 ---
 
 **[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
 
-Bloomberg.com • 16h ago
-
----
-
-**[Keeping Your Bitcoin Riches Safe Has Never Been Harder](https://www.bloomberg.com/opinion/articles/2026-08-05/bitcoin-keeping-your-crypto-stash-safe-has-never-been-harder)**
-
-Bloomberg.com • 1d ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -197,7 +191,23 @@ Bloomberg.com • 1d ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 14h ago
+FOX 2 • 15h ago
+
+---
+
+**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
+
+American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Current price of Bitcoin for August 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+fortune.com • 1h ago
 
 ---
 
@@ -205,7 +215,7 @@ FOX 2 • 14h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 21h ago
+Forbes • 44m ago
 
 ---
 
@@ -213,7 +223,7 @@ Forbes • 21h ago
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -222,12 +232,6 @@ Seeking Alpha • 14h ago
 Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
 
 Benzinga • 1d ago
-
----
-
-**[Billionaire reveals how he made $15 billion using ChatGPT](https://www.thestreet.com/crypto/markets/billionaire-reveals-how-he-made-15-billion-using-chatgpt)**
-
-thestreet.com • 15h ago
 
 ---
 
@@ -263,7 +267,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
-⬆️ 9 • 💬 4 • 1d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
+⬆️ 9 • 💬 4 • 2d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -324,7 +328,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 369 • 💬 46 • ⏱️ 8:03 • 15h ago
+👁️ 6K • 👍 369 • 💬 46 • ⏱️ 8:03 • 16h ago
 
 ---
 
@@ -334,7 +338,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 770 • 💬 95 • ⏱️ 12:39 • 8h ago
+👁️ 14K • 👍 770 • 💬 95 • ⏱️ 12:39 • 9h ago
 
 ---
 
@@ -344,7 +348,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 4K • 💬 227 • ⏱️ 24:00 • 9h ago
+👁️ 50K • 👍 4K • 💬 227 • ⏱️ 24:00 • 11h ago
 
 ---
 
@@ -354,7 +358,7 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 12K • 👍 1K • 💬 133 • ⏱️ 20:41 • 16h ago
+👁️ 12K • 👍 1K • 💬 133 • ⏱️ 20:41 • 18h ago
 
 ---
 
@@ -364,7 +368,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 992 • 💬 253 • ⏱️ 12:33 • 19h ago
+👁️ 8K • 👍 992 • 💬 253 • ⏱️ 12:33 • 21h ago
 
 ---
 
@@ -384,7 +388,7 @@ After mining my very first Bitcoin in 2011 and building multiple million-dollar 
 
 📺 Filip Martinsson
 
-👁️ 1K • 👍 46 • 💬 35 • ⏱️ 10:08 • 20h ago
+👁️ 1K • 👍 46 • 💬 35 • ⏱️ 10:08 • 22h ago
 
 ---
 
@@ -394,7 +398,7 @@ Crypto is entering a critical decision window as Bitcoin tests major resistance 
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 33 • ⏱️ 21:53 • 18h ago
+👁️ 20K • 👍 1K • 💬 33 • ⏱️ 21:53 • 19h ago
 
 ---
 
@@ -404,7 +408,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 385 • 💬 36 • ⏱️ 7:37 • 3h ago
+👁️ 3K • 👍 385 • 💬 36 • ⏱️ 7:37 • 4h ago
 
 ---
 
@@ -414,7 +418,7 @@ BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield
 
 📺 Luke Mikic
 
-👁️ 5K • 👍 367 • 💬 45 • ⏱️ 38:58 • 13h ago
+👁️ 5K • 👍 367 • 💬 45 • ⏱️ 38:58 • 14h ago
 
 ---
 

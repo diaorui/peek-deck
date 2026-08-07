@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T09:32:04.658406+00:00'
+updated: '2026-08-07T10:52:29.479005+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 09:32 UTC  
+**Last Updated:** August 07, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,13 +118,13 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 1h ago
+The New York Times • 20h ago
 
 ---
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 7h ago
 
 Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -140,13 +140,13 @@ Investor's Business Daily • 17h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 16h ago
+HII • 18h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 16h ago
+news.usni.org • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ USNI News • 16h ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 1d ago
+businessinsider.com • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Business Insider • 1d ago
 
 We recently added this group as investors think about SpaceX and growth in the sector.
 
-TheStreet Pro • 15h ago
+TheStreet Pro • 17h ago
 
 ---
 
@@ -182,11 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+**[Smart vacuums swept up in U.S. ban on imports of Chinese robots](https://www.nbcnews.com/world/asia/smart-vacuums-swept-us-ban-imports-chinese-robots-rcna590536)**
 
-New rules further bifurcate U.S. and Chinese supply chains
+American consumers are set to lose access to the latest models as new Trump administration regulations shut out the Chinese companies that dominate smart vacuum sales.
 
-IEEE Spectrum • 2d ago
+NBC News • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ MIT just unveiled a robot that can swim underwater… then explode out of the su
 
 📺 Created to be Curious
 
-👁️ 871 • 👍 48 • 💬 3 • ⏱️ 2:05 • 8h ago
+👁️ 871 • 👍 48 • 💬 3 • ⏱️ 2:05 • 9h ago
 
 ---
 
