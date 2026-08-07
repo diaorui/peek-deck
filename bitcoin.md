@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T14:31:56.891144+00:00'
+updated: '2026-08-07T15:56:09.955189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 14:31 UTC  
+**Last Updated:** August 07, 2026 at 15:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +3.7%  
-**30d:** +2.9%  
-**90d:** -20.7%  
-**1y:** -44.3%  
+**24h:** +0.3%  
+**7d:** +3.4%  
+**30d:** +2.6%  
+**90d:** -20.9%  
+**1y:** -44.5%  
 
 ---
 
@@ -127,7 +127,7 @@ https://x.com/inverse_hanlon/status/2084689208627925384 A CEO who dismissed the 
 
 There is an active petition for keeping Bitcoin tax free in Germany (after one year hodling). It reached 21.000 signatures within the first 24 hours - let's make it 30.000 to put it on the agenda of german Bundestag. You need to sign up in order to put your signature but it's worth it. Everyone can sign - not just germans! https://epetitionen.bundestag.de/petitionen/_2026/_05/_30/Petition_201716.nc.html Thank you!
 
-1d ago
+2d ago
 
 ---
 
@@ -157,27 +157,19 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
-**[Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)**
+**[Bitcoin’s volatility has nearly disappeared. The risk hasn’t: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t)**
 
-Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
+The day ahead in crypto: Aug. 7, 2026
 
-CoinDesk • 5h ago
-
----
-
-**[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
-
-The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
-
-Bitcoin Magazine • 18h ago
+coindesk.com • 4h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+**[If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today](https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html)**
 
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment. Bitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -185,13 +177,37 @@ Yahoo Finance • 1h ago
 
 Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-CoinDesk • 1h ago
+coindesk.com • 41m ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
+
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
+
+Seeking Alpha • 21h ago
+
+---
+
+**[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
+
+The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
+
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -203,19 +219,11 @@ Forbes • 1d ago
 
 ---
 
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 19h ago
-
----
-
 **[Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues](https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot)**
 
 MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -223,15 +231,7 @@ The Block • 17h ago
 
 Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
 
-benzinga.com • 1d ago
-
----
-
-**[Current price of Bitcoin for Aug. 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 4h ago
+Benzinga • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 4K • 👍 304 • 💬 40 • ⏱️ 11:04 • 7h ago
+👁️ 4K • 👍 304 • 💬 40 • ⏱️ 11:04 • 8h ago
 
 ---
 
@@ -338,7 +338,7 @@ WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 up
 
 📺 The Moon Show
 
-👁️ 4K • 👍 331 • 💬 17 • ⏱️ 6:33 • 6h ago
+👁️ 4K • 👍 331 • 💬 17 • ⏱️ 6:33 • 7h ago
 
 ---
 
@@ -348,7 +348,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 7K • 👍 413 • 💬 30 • ⏱️ 8:03 • 20h ago
+👁️ 7K • 👍 413 • 💬 30 • ⏱️ 8:03 • 21h ago
 
 ---
 
@@ -358,7 +358,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 70K • 👍 5K • 💬 323 • ⏱️ 24:00 • 14h ago
+👁️ 70K • 👍 5K • 💬 323 • ⏱️ 24:00 • 16h ago
 
 ---
 
@@ -368,7 +368,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 880 • 💬 109 • ⏱️ 12:39 • 13h ago
+👁️ 16K • 👍 880 • 💬 109 • ⏱️ 12:39 • 14h ago
 
 ---
 
@@ -378,7 +378,7 @@ BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield
 
 📺 Luke Mikic
 
-👁️ 6K • 👍 383 • 💬 54 • ⏱️ 38:58 • 18h ago
+👁️ 6K • 👍 383 • 💬 54 • ⏱️ 38:58 • 19h ago
 
 ---
 
@@ -388,7 +388,7 @@ Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 229 • 💬 148 • ⏱️ 16:58 • 15h ago
+👁️ 3K • 👍 229 • 💬 148 • ⏱️ 16:58 • 17h ago
 
 ---
 
@@ -408,7 +408,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 611 • 💬 62 • ⏱️ 7:37 • 8h ago
+👁️ 7K • 👍 611 • 💬 62 • ⏱️ 7:37 • 9h ago
 
 ---
 
@@ -418,7 +418,7 @@ Hay un nivel exacto que separa el suelo de Bitcoin de otra pierna a la baja: 58.
 
 📺 Rodrigo Arnedo Noticias Bitcoin
 
-👁️ 549 • 👍 110 • 💬 13 • ⏱️ 29:34 • 2h ago
+👁️ 549 • 👍 110 • 💬 13 • ⏱️ 29:34 • 4h ago
 
 ---
 

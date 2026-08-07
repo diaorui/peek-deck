@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T14:31:56.894780+00:00'
+updated: '2026-08-07T15:56:09.960728+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 14:31 UTC  
+**Last Updated:** August 07, 2026 at 15:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +4.3%  
-**30d:** +10.2%  
-**90d:** -18.8%  
-**1y:** -52.0%  
+**24h:** +0.3%  
+**7d:** +4.0%  
+**30d:** +9.9%  
+**90d:** -19.0%  
+**1y:** -52.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR and quick context - I work at DeFi Saver, and we built a completely free tool that lets you check if you have any smart wallets that have "lost tokens" sitting around waiting to be claimed. Just re-iterating, there are no strings attached - it's completely free and we quickly built it after realizing there was over $67M in unclaimed tokens sitting across 87,021 smart wallets. I'm just disclosing that I work for DFS to underscore that this isn't some hidden shill for DFS. No need to connect your wallet to the tool - just run your wallet address, check if you have tokens to claim - and claim them on DeFi Saver. The leftover tokens typically happen as leftover dust from DeFi transactions, long-forgotten airdrop (such as $UNI) or regular DeFi activity where you forgot the funds on your smart wallet. Full Info about the tool: We found over $67M in unclaimed tokens sitting in numerous smart wallets across the DeFi landscape. Not random tokens, but blue chip assets - including: $ETH - $3.4M $USDT - $6.9M $sUSDS - $10M $WBTC - $6M And many more. We then built a tool that lets you claim the tokens you forgot you had. Simply connect your main wallet to TokenSaver, check, and claim on DeFi Saver: https://tokensaver.fyi/ How do these assets end up in a smart wallet? Option 1: When you manage your lending position through a DeFi app (such as DeFi Saver, Summer.Fi, Instadapp) - it utilizes a smart wallet in order to perform advanced transactions such as 1-tx leveraging, unwinding, and more. All of these advanced transactions typically require swapping an asset to pay back a flash loan. When these swaps happen - It's possible that it swaps a bit more than necessary to make sure the transaction goes through despite small price movement. Those leftover funds remain sitting in the smart wallet holding the position. Or, perhaps you have/had a Maker position? All Maker CDPs are held on DSProxy smart wallets, so it’s worth connecting your CDP owner wallet to TokenSaver - maybe there are some leftover funds waiting to be claimed. That’s up to 8 years of potentially accumulating assets that never ended up in your EOA wallet. Option 2: You were eligible for an airdrop and received it due to your DeFi activity - but because it was distributed to your smart wallet, you never realized it. There's currently over $5.5M in $UNI that were likely distributed this way - and are unclaimed to this day. Option 3: Through regular DeFi activity over the years - some funds might have ended up on your smart wallet, and due to smart wallets typically lacking dedicated frontends - you forgot about them. While Safe (Gnosis) smart wallets have a dedicated UI - some, such as DSProxy, DSA, and SummerFi proprietary wallets lack it. So, it’s possible you continued on your DeFi journey without ever realizing you had funds leftover on the smart wallet(s). Since smart wallets need to have an owner wallet - you should simply connect with your main wallet, and TokenSaver will find all smart wallets owned by it. Note for nested Safe owners - Please input your owner Safe’s address into TokenSaver, not your EOA. You can then access DeFi Saver through the Safe app and claim your funds that way. That's pretty much it! Please try the tool out and let me know if you found anything interesting, such as a bag that you never realized you had available to claim :)
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ StepSecurity • 2d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 6h ago
+coindesk.com • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -218,15 +218,15 @@ AMBCrypto • 13h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
 
 ---
 
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+**[Coinbase suspends six non-USD pairs to consolidate liquidity, affects Ethereum outlook](https://cryptobriefing.com/coinbase-suspends-six-non-usd-pairs-to-consolidate-liquidity-affects-ethereum/)**
 
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
 
-24/7 Wall St. • 1d ago
+Crypto Briefing • 23h ago
 
 ---
 
@@ -260,7 +260,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 3K • 👍 113 • 💬 90 • ⏱️ 51:35 • 19h ago
+👁️ 3K • 👍 113 • 💬 90 • ⏱️ 51:35 • 21h ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 812 • 👍 1 • ⏱️ 0:57 • 3h ago
+👁️ 812 • 👍 1 • ⏱️ 0:57 • 4h ago
 
 ---
 
@@ -280,7 +280,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 407 • 💬 58 • ⏱️ 43:51 • 12h ago
+👁️ 5K • 👍 407 • 💬 58 • ⏱️ 43:51 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 183 • 💬 6 • ⏱️ 7:25 • 12h ago
+👁️ 3K • 👍 183 • 💬 6 • ⏱️ 7:25 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 644 • 💬 196 • ⏱️ 14:40 • 21h ago
+👁️ 11K • 👍 644 • 💬 196 • ⏱️ 14:40 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 101 • 💬 11 • ⏱️ 0:30 • 15h ago
+👁️ 5K • 👍 101 • 💬 11 • ⏱️ 0:30 • 16h ago
 
 ---
 
@@ -330,7 +330,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bon
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 378 • 💬 90 • ⏱️ 10:06 • 9h ago
+👁️ 2K • 👍 378 • 💬 90 • ⏱️ 10:06 • 11h ago
 
 ---
 

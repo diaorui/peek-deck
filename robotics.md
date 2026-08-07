@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T14:31:56.896764+00:00'
+updated: '2026-08-07T15:56:09.963646+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 14:31 UTC  
+**Last Updated:** August 07, 2026 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-19h ago
+20h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 11h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 12h ago
 
 ---
 
@@ -66,7 +66,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-17h ago
+19h ago
 
 ---
 
@@ -94,7 +94,7 @@ I got this pneumatic gripper from my work because it needs a new o ring on the i
 
 **[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -110,6 +110,14 @@ Wanted to share what we've been working on: the Alicia-M, a semi-humanoid robot 
 
 ## Google News: "robotics"
 
+**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
+
+HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
+
+HII • 23h ago
+
+---
+
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
 The New York Times • 1d ago
@@ -118,7 +126,7 @@ The New York Times • 1d ago
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -126,59 +134,53 @@ Bloomberg.com • 12h ago
 
 The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
-
-Investor's Business Daily • 22h ago
+USNI News • 22h ago
 
 ---
 
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
 
-Tech Xplore • 2d ago
+Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
----
-
-**[Mitsubishi to make 1,000 humanoids per month at idle engine plant](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
-
-Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
-
-Interesting Engineering • 2d ago
+Business Insider • 2d ago
 
 ---
 
-**[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
+**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
 
-Japan Today • 2d ago
+Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
----
-
-**[Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace](https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/)**
-
-Mitsubishi is joining the rapidly growing ranks of robot makers, with plans to build up to 1,000 units per month at its former engine plant.
-
-Electrek • 1h ago
+TechCrunch • 1d ago
 
 ---
 
-**[Who wins and who loses after US bans foreign robots?](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/)**
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
 
-Government ban on foreign-made robots may hinder instead of help US robotics.
+Humans will get the AI models they deserve
 
-Ars Technica • 9d ago
+The Register • 5h ago
 
 ---
 
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
+**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
 
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
+On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-HII • 21h ago
+The Information • 1h ago
+
+---
+
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
+
+We recently added this group as investors think about SpaceX and growth in the sector.
+
+TheStreet Pro • 22h ago
 
 ---
 
@@ -190,7 +192,7 @@ HII • 21h ago
 
 📺 Tyrecordslol
 
-👁️ 202K • 👍 28K • 💬 2K • ⏱️ 0:58 • 3h ago
+👁️ 202K • 👍 28K • 💬 2K • ⏱️ 0:58 • 5h ago
 
 ---
 
@@ -200,7 +202,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 2K • 👍 33 • 💬 6 • ⏱️ 5:49 • 7h ago
+👁️ 2K • 👍 33 • 💬 6 • ⏱️ 5:49 • 8h ago
 
 ---
 
@@ -210,7 +212,7 @@ In February 2026, one engineer connected a robot vacuum to a PS5 controller and 
 
 📺 Interesting Engineering Explains
 
-👁️ 4K • 👍 93 • 💬 6 • ⏱️ 1:32 • 20h ago
+👁️ 4K • 👍 93 • 💬 6 • ⏱️ 1:32 • 21h ago
 
 ---
 
@@ -230,7 +232,7 @@ MIT just unveiled a robot that can swim underwater… then explode out of the su
 
 📺 Created to be Curious
 
-👁️ 906 • 👍 50 • 💬 3 • ⏱️ 2:05 • 13h ago
+👁️ 906 • 👍 50 • 💬 3 • ⏱️ 2:05 • 14h ago
 
 ---
 
@@ -250,7 +252,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 45K • 👍 3K • 💬 448 • ⏱️ 26:40 • 2d ago
+👁️ 45K • 👍 3K • 💬 448 • ⏱️ 26:40 • 3d ago
 
 ---
 
@@ -270,7 +272,7 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 112K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
+👁️ 112K • 👍 4K • 💬 2K • ⏱️ 20:28 • 2d ago
 
 ---
 
