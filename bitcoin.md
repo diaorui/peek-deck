@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T18:57:17.183787+00:00'
+updated: '2026-08-07T19:53:14.967141+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 18:57 UTC  
+**Last Updated:** August 07, 2026 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Same as title.
 
-6h ago
+7h ago
 
 ---
 
 **[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -98,15 +98,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 4h ago
-
----
-
-**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
-
-The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
-
-9h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 5h ago
 
 ---
 
@@ -114,13 +106,27 @@ The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but 
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-5h ago
+6h ago
+
+---
+
+**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
+
+The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
+
+10h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-4h ago
+5h ago
+
+---
+
+**[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
+
+1h ago
 
 ---
 
@@ -128,7 +134,7 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
 
-4h ago
+5h ago
 
 ---
 
@@ -140,23 +146,13 @@ Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Serve
 
 If you
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 3h ago
 
 ---
 
-**[Michael Saylor explains the reasons why he sold a little bit of Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1vhrrim/michael_saylor_explains_the_reasons_why_he_sold_a/)**
+**[Long-term hodlers moved ~210,000 BTC amid Coldcard fallout. The movement appears to be custody migration rather than capitulation, with Bitcoin moving into newly secured self-custody setups and regulated custodians, including spot ETFs.](https://www.reddit.com/r/Bitcoin/comments/1vi75f4/longterm_hodlers_moved_210000_btc_amid_coldcard/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/1aGpJQ8BMLI?t=5072) • 13h ago
-
----
-
-**[With the whole ColdCard fiasco, you should consider generating a new 24-word seed phrase of your own, manually, regardless of what hardware wallet you're using. (Alternate title: Finding your 24th word the right way)](https://www.reddit.com/r/Bitcoin/comments/1vhrlos/with_the_whole_coldcard_fiasco_you_should/)**
-
-tldr: roll dice, find the right 256-word range, pray as you brute force, profit. I'll try and keep this simple and avoid using difficult words. To generate your own seed phrase, you're good to go even with just rolling some dice, mix them up with a coin flip, or even use a deck of cards. But the real question is, how do we get the 24th word? There are tools out there that lets you type it on any machine, preferably offline, or even better: permanently air-gapped machine. What if you don't have an air-gapped machine? There are ways to do it like using a Seed Signer. But you can (if you're into it) do it manually too. Here's how: Well, after you get the 23 words, there are 8 valid choices for the final word (8 out of the 2048 BIP39 list). They are distributed so there's exactly one valid word, in every 256-word range. In other words: There's only 1 valid word between 1 (abandon) and 256 (cable) There's only 1 valid word between 257 (cactus) and 512 (divide) There's only 1 valid word between 513 (divorce) and 768 (garment) There's only 1 valid word between 769 (gain) and 1024 (lend) .. so on and on. You get the gist. Whatever method you pick, you'll want to make sure the 24th word isn't selected manually. Generate it randomly just like the previous 23 words, and use the result as a starting point. Once you get the 24th word (I'll use "verify" as an example), here are the steps to follow, in simpler terms: The word "verify" is number 1942 on the BIP39 word list Subtract 1 from 1942 to get its 0-based index (counting starts from 0). You'll get 1941 Convert this number to an 11-bit binary. You'll get 111 1001 0101 Take the first 3 bits (in this case, 111), discard the remaining 8 bits, and append 8 zeroes so it becomes 111 0000 0000 Convert this number back to decimal. You'll get 1792 Your 24th word checksum can be found from word 1793 to 2048. Sure, you can just pick any 256-word range (e.g. 1025-1280), but the whole point of generating your own seed is to make it truly random without any human interaction/intervention. Is trying brute forcing through 256 words a pain? Yes, though probably much less so than calculating your own sha256 checksum manually with pen and paper. This is especially true, if you're using hardware wallets that don't allow you to edit a specific word. (e.g. on Ledger, if the 24-word phrase is invalid, you'll have to input it again from word 1). But hey, you might get lucky and find the right 24th word on your 10th attempt. Or on your 200th ¯\_(ツ)_/¯ So I suggest printing out the BIP39 word list and crossing them one by one as you try to find the right checksum. Good luck, and remember: don't trust, verify!
-
-13h ago
+2h ago
 
 ---
 
@@ -168,7 +164,7 @@ tldr: roll dice, find the right 256-word range, pray as you brute force, profit.
 
 The day ahead in crypto: Aug. 7, 2026
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -184,13 +180,13 @@ Yahoo Finance • 3d ago
 
 Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -198,7 +194,7 @@ Bloomberg.com • 7h ago
 
 The Senate will not vote on the Clarity Act ahead of the August recess, delaying it until September. Odds for passing in 2026 fall.
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -206,7 +202,7 @@ Investor's Business Daily • 3h ago
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -230,7 +226,7 @@ Forbes • 1d ago
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-theblock.co • 1d ago
+theblock.co • 2d ago
 
 ---
 
@@ -238,7 +234,7 @@ theblock.co • 1d ago
 
 A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -335,7 +331,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 17h ago
+👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 18h ago
 
 ---
 
@@ -345,7 +341,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 11h ago
+👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 12h ago
 
 ---
 
@@ -355,7 +351,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 4h ago
+👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 5h ago
 
 ---
 
@@ -375,7 +371,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 19h ago
+👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 20h ago
 
 ---
 
@@ -385,7 +381,7 @@ In this video I break down the latest Bitcoin price action to determine if the r
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 6h ago
+👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 7h ago
 
 ---
 
@@ -395,7 +391,7 @@ Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 253 • 💬 154 • ⏱️ 16:58 • 20h ago
+👁️ 3K • 👍 253 • 💬 154 • ⏱️ 16:58 • 21h ago
 
 ---
 
@@ -405,7 +401,7 @@ Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared 
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 67 • 💬 45 • ⏱️ 1:03 • 1d ago
+👁️ 2K • 👍 67 • 💬 45 • ⏱️ 1:03 • 2d ago
 
 ---
 

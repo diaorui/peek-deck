@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T18:57:17.175820+00:00'
+updated: '2026-08-07T19:53:14.959284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 18:57 UTC  
+**Last Updated:** August 07, 2026 at 19:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 18h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
 
-🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 2h ago
+🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Discover what election fraud is, its main types, real-world examples, and the pe
 
 I watched an interview with AI safety researcher Roman Yampolskiy, and it raised a practical question for people who use ChatGPT for advanced workflows. His broader claim is that increasingly intelligent AI systems may become harder to predict and control. Whether or not you agree with his conclusions about AGI, a smaller version of this problem already exists when we give an AI access to tools. There is a major difference between asking ChatGPT to draft an email and allowing an agent to send it. The same distinction applies to: Suggesting a database query versus executing it Drafting code versus deploying it Researching a purchase versus completing the transaction Preparing files versus deleting or modifying them Recommending calendar changes versus inviting real people My current view is that the model should generate proposals, while a separate control layer decides whether those proposals are allowed to become actions. Some possible safeguards include: Giving each agent only the minimum permissions required for its task Requiring approval for irreversible or external actions Validating structured outputs with deterministic code Isolating browsing and code execution from sensitive systems Limiting spending, execution time and the number of actions Keeping complete logs of prompts, tool calls and results Using a second evaluation step before important actions Making every operation reversible wherever possible The difficult part is deciding where autonomy becomes too risky. A confirmation step for every action makes the agent frustrating to use. Too few confirmation steps can turn a misunderstood instruction into a real-world problem.
 
-52m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I watched an interview with AI safety researcher Roman Yampolskiy, and it raised
 
 Hi everyone. I wanted to ask you about where I could work with large volumes of text. The thing is, I work with records of various achievements and deeds of people. These are inventories of specific accomplishments: where, when, and what happened, what the person did. I get sent a lot of these records, and I enter them into a master spreadsheet for further submission. And very often, the records I receive are very rough and poorly written, so I spend a lot of time polishing them, correcting mistakes, sometimes coming up with additions, and making sure all the records are different so they don't repeat. I started using AI for this: I upload three records at a time (so there aren't too many per request), and the AI gives me three processed versions. The narrative logic often repeats, along with other errors, so I correct those. But is there any way I could upload an entire file at once, have the AI process everything, and return it to me as a single complete file? Can this be done in Claude, or somewhere else? There's quite a lot of text — sometimes up to 40 pages at a time for about 50 people. And each one needs their description edited. I'd like to simplify my work and automate this more. Can you suggest how this could be done?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi everyone. I wanted to ask you about where I could work with large volumes of 
 
 Wondering if anyone read this book-- what are your thoughts? A lot of his work seems like wishful thinking but I believe it's the right direction.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Wondering if anyone read this book-- what are your thoughts? A lot of his work s
 
 I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that. Is Gemini good for creating concept images? I heard about another ai called Claude is that good? Or is there any other ai that is better
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ I currently use ChatGPT but after a while the images go a little weird like face
 
 The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 1d ago
 
 Scientists have used an AI model to successfully create a virus not found in nature, sparking concerns about a potential threat to humans.
 
-People.com • 1h ago
+People.com • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ People.com • 1h ago
 
 Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 7h ago
 
 Met@Chabad uses artificial intelligence to suggest matches, while relying on trusted coaches and mentors to verify compatibility and guide couples toward lasting marriages.
 
-Fox News • 36m ago
+Fox News • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fox News • 36m ago
 
 The AI bubble case is four separate arguments with four different tests. Burry on depreciation, Gurley on revenue, Zitron on solvency, MIT on deployment.
 
-Forbes • 19m ago
+Forbes • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 19m ago
 
 The hedge fund's forced selling was a clearing event, but earnings are sustaining the AI trade
 
-CNBC • 37m ago
+CNBC • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 37m ago
 
 Atherton, California, reclaims America's priciest ZIP code from Fisher Island as tech buyers trade tax savings for proximity to AI deal-making networks.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fox Business • 4h ago
 
 San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
 
-The San Francisco Standard • 5h ago
+The San Francisco Standard • 6h ago
 
 ---
 
@@ -223,7 +223,7 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
 
-⬆️ 321 • 💬 265 • 1d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+⬆️ 321 • 💬 265 • 2d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 
 ---
 
@@ -259,7 +259,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 158 • 💬 94 • 1h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 158 • 💬 94 • 2h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -267,7 +267,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 152 • 💬 96 • 5h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 152 • 💬 96 • 6h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -283,7 +283,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 143 • 💬 120 • 23h ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 143 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -307,7 +307,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 23K • 👍 368 • 💬 268 • ⏱️ 9:52 • 16h ago
+👁️ 23K • 👍 368 • 💬 268 • ⏱️ 9:52 • 17h ago
 
 ---
 
@@ -473,7 +473,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 399 • 2h ago
+⬇️ 0 • ❤️ 399 • 3h ago
 
 ---
 
@@ -497,7 +497,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 370 • 8h ago
+⬇️ 77,973 • ❤️ 370 • 9h ago
 
 ---
 
@@ -657,7 +657,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 791 • 12m ago
+⭐ 7.4k • 🔱 791 • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.9k • 🔱 344 • 2h ago
+⭐ 3.9k • 🔱 344 • 3h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 6h ago
+⭐ 3.7k • 🔱 480 • 7h ago
 
 ---
 
@@ -685,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 56s ago
+⭐ 2.5k • 🔱 1.8k • 56m ago
 
 ---
 
@@ -695,7 +695,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 369 • 11h ago
+⭐ 2.2k • 🔱 369 • 12h ago
 
 ---
 
@@ -715,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 5h ago
+⭐ 2.0k • 🔱 141 • 6h ago
 
 ---
 
@@ -735,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 236 • 5m ago
+⭐ 1.9k • 🔱 236 • 1h ago
 
 ---
 

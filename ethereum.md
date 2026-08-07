@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T18:57:17.189212+00:00'
+updated: '2026-08-07T19:53:14.972434+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 18:57 UTC  
+**Last Updated:** August 07, 2026 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Step Security • 3d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -202,7 +202,7 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 17h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 1d ago
 
 **[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
 
-FinanceFeeds • 1h ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 2h ago
+👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 16h ago
+👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 16h ago
+👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 7h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 19h ago
+👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 20h ago
 
 ---
 
