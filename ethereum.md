@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T20:40:58.870014+00:00'
+updated: '2026-08-07T21:38:40.587055+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 20:40 UTC  
+**Last Updated:** August 07, 2026 at 21:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.93B
+**Market Cap:** $230.93B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.3%
 
 **All-Time Low:** $0.43
-+439958.3%
++441854.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -170,7 +170,7 @@ Step Security • 3d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 12h ago
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ Benzinga • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -240,7 +240,17 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 45 • 💬 4 • ⏱️ 3:33 • 1d ago
+👁️ 3K • 👍 46 • 💬 4 • ⏱️ 3:33 • 1d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 1h ago
 
 ---
 
@@ -250,7 +260,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 4h ago
+👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 5h ago
 
 ---
 
@@ -260,7 +270,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 98 • 💬 30 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 99 • 💬 30 • ⏱️ 13:23 • 2d ago
 
 ---
 
@@ -270,17 +280,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 18h ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 121 • 💬 92 • ⏱️ 51:35 • 1d ago
+👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 19h ago
 
 ---
 
@@ -290,17 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 18h ago
-
----
-
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
-
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
-
-📺 DukascopyTV English
-
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 9h ago
+👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 19h ago
 
 ---
 
@@ -310,7 +300,27 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 649 • 💬 198 • ⏱️ 14:40 • 1d ago
+👁️ 12K • 👍 650 • 💬 197 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 126 • 💬 92 • ⏱️ 51:35 • 1d ago
+
+---
+
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
+
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
+
+📺 DukascopyTV English
+
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 10h ago
 
 ---
 
@@ -320,17 +330,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 21h ago
-
----
-
-**[WARNING! BTC &amp; ETH IGNORE CLARITY&#39;S COLLAPSE! — What&#39;s Really Happening?](https://www.youtube.com/watch?v=T_--Ju9EQMo)**
-
-The CLARITY Act's cloture vote is now expected to fail — Thune didn't file, Democrats have coalesced against it, and Polymarket ...
-
-📺 The Crypto Cowboy
-
-👁️ 468 • 👍 35 • 💬 22 • ⏱️ 16:08 • 1d ago
+👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 22h ago
 
 ---
 

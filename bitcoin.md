@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T20:40:58.864542+00:00'
+updated: '2026-08-07T21:38:40.580872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 20:40 UTC  
+**Last Updated:** August 07, 2026 at 21:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1297.22B
+**Market Cap:** $1303.82B
 Rank #1
 
-**Circulating Supply:** 20,067,081 BTC
+**Circulating Supply:** 20,067,118 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.5%
 
 **All-Time Low:** $67.81
-+95220.7%
++95717.7%
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 Same as title.
 
-7h ago
-
----
-
-**[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
-
-11h ago
+8h ago
 
 ---
 
@@ -98,7 +92,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 6h ago
 
 ---
 
@@ -106,27 +100,25 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-7h ago
-
----
-
-**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
-
-The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
-
-11h ago
-
----
-
-**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
-
-6h ago
+8h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-2h ago
+3h ago
+
+---
+
+**[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
+
+12h ago
+
+---
+
+**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
+
+7h ago
 
 ---
 
@@ -134,7 +126,7 @@ The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but 
 
 Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
 
-6h ago
+7h ago
 
 ---
 
@@ -146,13 +138,21 @@ Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Serve
 
 If you
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 5h ago
 
 ---
 
-**[Long-term hodlers moved ~210,000 BTC amid Coldcard fallout. The movement appears to be custody migration rather than capitulation, with Bitcoin moving into newly secured self-custody setups and regulated custodians, including spot ETFs.](https://www.reddit.com/r/Bitcoin/comments/1vi75f4/longterm_hodlers_moved_210000_btc_amid_coldcard/)**
+**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
 
-3h ago
+The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
+
+12h ago
+
+---
+
+**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+
+16m ago
 
 ---
 
@@ -164,7 +164,7 @@ If you
 
 Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 2d ago
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -186,7 +186,7 @@ Bloomberg.com • 9h ago
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -218,7 +218,7 @@ Forbes • 1d ago
 
 A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -232,7 +232,7 @@ thestreet.com • 1d ago
 
 BIP-110's author told users to abandon Bitcoin Core. Michael Saylor says its backers should stand down instead.
 
-BeInCrypto • 9h ago
+BeInCrypto • 10h ago
 
 ---
 
@@ -285,7 +285,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 8 • 💬 0 • 2d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 8 • 💬 0 • 3d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -323,53 +323,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 19h ago
-
----
-
 **[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
 BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
 📺 Lark Davis
 
-👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 13h ago
-
----
-
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
-
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
-
-📺 Natalie Brunell
-
-👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 6h ago
-
----
-
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 8K • 👍 444 • 💬 30 • ⏱️ 8:03 • 1d ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 21h ago
+👁️ 9K • 👍 415 • 💬 52 • ⏱️ 11:04 • 14h ago
 
 ---
 
@@ -379,7 +339,47 @@ In this video I break down the latest Bitcoin price action to determine if the r
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 8h ago
+👁️ 5K • 👍 344 • 💬 16 • ⏱️ 7:59 • 9h ago
+
+---
+
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+
+📺 Natalie Brunell
+
+👁️ 11K • 👍 1K • 💬 265 • ⏱️ 1:09:52 • 7h ago
+
+---
+
+**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 991 • 💬 137 • ⏱️ 12:39 • 20h ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 93K • 👍 6K • 💬 375 • ⏱️ 24:00 • 22h ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 8K • 👍 459 • 💬 30 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -389,37 +389,37 @@ Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 253 • 💬 154 • ⏱️ 16:58 • 21h ago
+👁️ 3K • 👍 255 • 💬 139 • ⏱️ 16:58 • 22h ago
 
 ---
 
-**[Dylan LeClair: &quot;The Bitcoin Bottom Is In&quot;](https://www.youtube.com/watch?v=igsBnAI7Juc)**
+**[My 15-Year Bitcoin Journey Ends Today](https://www.youtube.com/watch?v=6K2KU_35UJM)**
 
-Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared out short-term traders, and why Bitcoin's path ...
+After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
 
-📺 Natalie Brunell
+📺 Filip
 
-👁️ 2K • 👍 67 • 💬 45 • ⏱️ 1:03 • 2d ago
-
----
-
-**[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
-
-Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
-
-📺 Fox Business Clips
-
-👁️ 76K • 👍 1K • 💬 440 • ⏱️ 8:52 • 2d ago
+👁️ 2K • 👍 51 • 💬 56 • ⏱️ 10:08 • 1d ago
 
 ---
 
-**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
+**[I MADE $15B WITH CHAT GPT](https://www.youtube.com/watch?v=VHzvNrcAuck)**
 
-Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
+Would you bet EVERYTHING on one idea? Michael Saylor did. Michael is a technology entrepreneur and the founder of the ...
 
-📺 Crypto Insider
+📺 The Diary Of A CEO
 
-👁️ 15K • 👍 616 • 💬 9 • ⏱️ 41:36 • 2d ago
+👁️ 273K • 👍 8K • 💬 516 • ⏱️ 1:51 • 1d ago
+
+---
+
+**[⚠️ Own Bitcoin? Do This Before Tomorrow [BIP-110 + MORE HACKS]](https://www.youtube.com/watch?v=vWRf6-odWa0)**
+
+LIVE – BIP-110 mandatory signaling hits block 961632 - TOMORROW - with miner support at just 2.7%, a Bitcoin chain split is ...
+
+📺 BTC Sessions
+
+👁️ 1K • 👍 92 • 5h ago
 
 ---
 

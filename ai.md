@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T20:40:58.856390+00:00'
+updated: '2026-08-07T21:38:40.572149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 20:40 UTC  
+**Last Updated:** August 07, 2026 at 21:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 20h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 I’m working on a software-agent system and keep coming back to one design question: **Should the model/provider that performs an action be allowed to be the final authority on whether the action succeeded?** My current answer is “no,” at least for meaningful software work. I’m building Flows around a chain where execution, checks, repair, and evidence are separate concepts. Oort is the canonical library/provider layer underneath it. https://flows.oortstack.com https://oortstack.com In agentic systems generally, what should count as independent verification rather than provider self-reporting?
 
-12m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I’m working on a software-agent system and keep coming back to one design ques
 
 Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
 
-🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 4h ago
+🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Discover what election fraud is, its main types, real-world examples, and the pe
 
 Experiments involving real businesses suggest that AI overlords may be weird. One bought 120 eggs for no reason.
 
-🔗 [Inc](https://www.inc.com/julie-lee/the-bosses-at-these-2-stores-are-bots-their-management-style-is-nice-but-sometimes-dumb/91386567) • 58m ago
+🔗 [Inc](https://www.inc.com/julie-lee/the-bosses-at-these-2-stores-are-bots-their-management-style-is-nice-but-sometimes-dumb/91386567) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Experiments involving real businesses suggest that AI overlords may be weird. On
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 2h ago
 
 ---
 
@@ -105,7 +105,7 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ The job title survives longer than almost anyone attached to it. That's the part
 
 I watched an interview with AI safety researcher Roman Yampolskiy, and it raised a practical question for people who use ChatGPT for advanced workflows. His broader claim is that increasingly intelligent AI systems may become harder to predict and control. Whether or not you agree with his conclusions about AGI, a smaller version of this problem already exists when we give an AI access to tools. There is a major difference between asking ChatGPT to draft an email and allowing an agent to send it. The same distinction applies to: Suggesting a database query versus executing it Drafting code versus deploying it Researching a purchase versus completing the transaction Preparing files versus deleting or modifying them Recommending calendar changes versus inviting real people My current view is that the model should generate proposals, while a separate control layer decides whether those proposals are allowed to become actions. Some possible safeguards include: Giving each agent only the minimum permissions required for its task Requiring approval for irreversible or external actions Validating structured outputs with deterministic code Isolating browsing and code execution from sensitive systems Limiting spending, execution time and the number of actions Keeping complete logs of prompts, tool calls and results Using a second evaluation step before important actions Making every operation reversible wherever possible The difficult part is deciding where autonomy becomes too risky. A confirmation step for every action makes the agent frustrating to use. Too few confirmation steps can turn a misunderstood instruction into a real-world problem.
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 1d ago
 
 Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-The Hill • 5h ago
+The Hill • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Hill • 5h ago
 
 Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -171,13 +171,13 @@ BBC • 1d ago
 
 Yahoo Finance Tech Editor discusses reports that OpenAI (OPAI.PVT) is developing a $300+ puck-sized smart home device designed to compete directly with Amazon (AMZN) Alexa and Google Home
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[AI audits in limbo](https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2026/08/07/ai-audits-in-limbo-01029299)**
 
-Politico • 21m ago
+Politico • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Politico • 21m ago
 
 The cybersecurity industry is employing an all hands on deck approach to fighting AI with AI
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 1h ago
 
 Atherton, California, reclaims America's priciest ZIP code from Fisher Island as tech buyers trade tax savings for proximity to AI deal-making networks.
 
-foxbusiness.com • 6h ago
+foxbusiness.com • 7h ago
 
 ---
 
@@ -249,7 +249,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 255 • 💬 179 • 3h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 255 • 💬 179 • 4h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -265,7 +265,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 156 • 💬 98 • 7h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 156 • 💬 98 • 8h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -295,7 +295,7 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 📺 Brief But Spectacular
 
-👁️ 49K • 👍 2K • 💬 252 • ⏱️ 3:48 • 1d ago
+👁️ 53K • 👍 2K • 💬 271 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -305,7 +305,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 23K • 👍 368 • 💬 268 • ⏱️ 9:52 • 18h ago
+👁️ 25K • 👍 403 • 💬 287 • ⏱️ 9:52 • 19h ago
 
 ---
 
@@ -315,17 +315,37 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 62K • 👍 3K • 💬 530 • ⏱️ 31:43 • 1d ago
+👁️ 64K • 👍 3K • 💬 576 • ⏱️ 31:43 • 1d ago
 
 ---
 
-**[“AI bubble will pop………....any day now.”](https://www.youtube.com/watch?v=9ETxmOfw0JM)**
+**[$3 Trillion in Hidden AI Debt: Is This 2008 All Over Again?](https://www.youtube.com/watch?v=6VVM-KXiMJA)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+If you're skeptical of the AI hype, questioning Big Tech's spending, or think the AI bubble is about to pop, this video is for you. Meta ...
 
-📺 Man Carrying Thing
+📺 Redhawk Media Group
 
-👁️ 505K • 👍 34K • 💬 4K • ⏱️ 1:33 • 1d ago
+👁️ 11K • 👍 281 • 💬 57 • ⏱️ 12:12 • 1d ago
+
+---
+
+**[The Rogue AI Story Keeps Getting Worse (Real People Were Targeted)](https://www.youtube.com/watch?v=jV0neS94WWg)**
+
+AI agents just crossed into the real world. During a UK government safety test, one created fake identities, targeted real people, ...
+
+📺 AI Revolution
+
+👁️ 18K • 👍 654 • 💬 74 • ⏱️ 16:27 • 1d ago
+
+---
+
+**[How do I use AI? #ai #medialiteracy #chatgpt #hankgreen](https://www.youtube.com/watch?v=Q-9ofuvzp8k)**
+
+There's a huge conversation about if it's appropriate for creators to use AI. I don't use AI in my creative process, but the company I ...
+
+📺 Jeremy Carrasco
+
+👁️ 44K • 👍 7K • 💬 273 • ⏱️ 2:35 • 1d ago
 
 ---
 
@@ -335,57 +355,37 @@ Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss 
 
 📺 CNBC Television
 
-👁️ 15K • 👍 137 • 💬 16 • ⏱️ 3:43 • 1d ago
+👁️ 15K • 👍 138 • 💬 17 • ⏱️ 3:43 • 1d ago
 
 ---
 
-**[Google&#39;s AI reshuffle explained: what it means for DeepMind](https://www.youtube.com/watch?v=YOy8FjkXajY)**
+**[AI Website Builder Ranked from Worst to Best (2026)](https://www.youtube.com/watch?v=Yt_BrsfWLw4)**
 
-Alphabet shares fall as the company reshuffles its leadership team at Google DeepMind - Demis Hassabis nixed as the ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
 
-📺 CNBC International Live
+📺 Mikey Website
 
-👁️ 24K • 👍 195 • 💬 26 • ⏱️ 7:14 • 1d ago
-
----
-
-**[Meta says AI agent broke guardrails in latest hacking incident](https://www.youtube.com/watch?v=PMKI7n-K4EY)**
-
-Alex Stone explains how Meta's AI agent targeted another company and what the incident could mean for AI security.
-
-📺 ABC News
-
-👁️ 6K • 👍 65 • 💬 58 • ⏱️ 3:15 • 1d ago
+👁️ 9K • 💬 17 • ⏱️ 37:12 • 1d ago
 
 ---
 
-**[AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology](https://www.youtube.com/watch?v=xlO-bU5UW4U)**
+**[Prompt Like THIS to Master Making AI Videos (5 Levels)](https://www.youtube.com/watch?v=P3cxhr8FJa8)**
 
-Support our work: https://democracynow.org/donate/sm-desc-yt Is AI superintelligence inevitable? AI safety researcher David ...
+Create your own AI Videos with Higgsfield https://youricreates.com/Higgsfield In this video, I walk through the five levels of AI ...
 
-📺 Democracy Now!
+📺 Youri van Hofwegen
 
-👁️ 217K • 👍 6K • 💬 2K • ⏱️ 26:00 • 1d ago
-
----
-
-**[Dokie AI Tutorial 2026](https://www.youtube.com/watch?v=leYvy2tEQKk)**
-
-Try Dokie AI Today: https://bit.ly/dokieai_topdigitalproduct Imagine you are just 10 minutes away from a major client meeting with ...
-
-📺 🔥 TOP Digital Products 🔥
-
-👁️ 7K • 👍 149 • 💬 50 • ⏱️ 5:49 • 1d ago
+👁️ 11K • 💬 20 • ⏱️ 22:04 • 1d ago
 
 ---
 
-**[Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast](https://www.youtube.com/watch?v=6F8F1K4Eahs)**
+**[Famous Investor EXPOSES The AI Bubble](https://www.youtube.com/watch?v=jmmaBcRduwQ)**
 
-Today, are some of the world's leading AI companies doing enough to stop their models from going rogue? Facebook owner Meta ...
+Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning that the AI boom is approaching bubble territory.
 
-📺 BBC News
+📺 The Young Turks
 
-👁️ 21K • 👍 317 • 💬 103 • ⏱️ 27:10 • 1d ago
+👁️ 59K • 👍 1K • 💬 197 • ⏱️ 15:11 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,923 • 1d ago
+⬇️ 18,112 • ❤️ 2,936 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,725 • 6d ago
+⬇️ 702,709 • ❤️ 2,734 • 6d ago
 
 ---
 
@@ -423,7 +423,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 922 • 1d ago
+⬇️ 3,139,920 • ❤️ 930 • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,308,186 • ❤️ 10,267 • 11d ago
+⬇️ 1,308,186 • ❤️ 10,269 • 11d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,695 • 2d ago
+⬇️ 2,217,339 • ❤️ 1,703 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 161,253 • ❤️ 581 • 1d ago
+⬇️ 161,253 • ❤️ 582 • 1d ago
 
 ---
 
@@ -471,19 +471,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 399 • 4h ago
-
----
-
-**[Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot)**
-
-*ethan fel*
-
-This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic checkpoints for image-text-to-text tasks, offering a memory-efficient H3 conditioning encoder (24.55 GiB) and an optional prompt-enhancement generation tail.
-
-`image-text-to-text`
-
-⬇️ 0 • ❤️ 374 • 2d ago
+⬇️ 0 • ❤️ 406 • 5h ago
 
 ---
 
@@ -495,7 +483,19 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 370 • 10h ago
+⬇️ 77,973 • ❤️ 375 • 11h ago
+
+---
+
+**[Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot)**
+
+*ethan fel*
+
+This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic checkpoints for image-text-to-text tasks, offering a memory-efficient H3 conditioning encoder (24.55 GiB) and an optional prompt-enhancement generation tail.
+
+`image-text-to-text`
+
+⬇️ 0 • ❤️ 376 • 2d ago
 
 ---
 
@@ -507,7 +507,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 686 • ❤️ 222 • 2d ago
+⬇️ 686 • ❤️ 222 • 3d ago
 
 ---
 
@@ -551,7 +551,7 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 84 • 💬 1 • ⭐ 339 • 4d ago
+▲ 86 • 💬 1 • ⭐ 339 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -563,7 +563,7 @@ Real-time video editing requires low-latency causal generation with bounded comp
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 120 • 💬 4 • ⭐ 96,002 • 19mo ago
+▲ 120 • 💬 4 • ⭐ 96,069 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -655,7 +655,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.4k • 🔱 791 • 1h ago
+⭐ 7.5k • 🔱 799 • 57m ago
 
 ---
 
@@ -665,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.9k • 🔱 344 • 3h ago
+⭐ 3.9k • 🔱 346 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.7k • 🔱 480 • 8h ago
+⭐ 3.8k • 🔱 481 • 9h ago
 
 ---
 
@@ -683,7 +683,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1h ago
+⭐ 2.5k • 🔱 1.8k • 39s ago
 
 ---
 
@@ -693,7 +693,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 369 • 13h ago
+⭐ 2.2k • 🔱 372 • 14h ago
 
 ---
 
@@ -703,7 +703,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 157 • 4d ago
+⭐ 2.1k • 🔱 158 • 4d ago
 
 ---
 
@@ -713,7 +713,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 141 • 7h ago
+⭐ 2.0k • 🔱 142 • 8h ago
 
 ---
 
@@ -727,16 +727,6 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 ---
 
-**[makecindy/cindy](https://github.com/makecindy/cindy)**
-
-Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-
-`TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
-
-⭐ 1.9k • 🔱 236 • 1h ago
-
----
-
 **[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)**
 
 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
@@ -744,6 +734,16 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
 ⭐ 1.9k • 🔱 165 • 2d ago
+
+---
+
+**[makecindy/cindy](https://github.com/makecindy/cindy)**
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
+`TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
+
+⭐ 1.9k • 🔱 236 • 4m ago
 
 ---
 
