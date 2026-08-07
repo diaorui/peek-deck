@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T08:14:07.154249+00:00'
+updated: '2026-08-07T09:32:04.658406+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 08:14 UTC  
+**Last Updated:** August 07, 2026 at 09:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,23 +116,23 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
-**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
-
-Bloomberg.com • 5h ago
-
----
-
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 18h ago
+The New York Times • 1h ago
 
 ---
 
-**[Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation](https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html)**
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
+Bloomberg.com • 7h ago
 
-CNBC • 16h ago
+---
+
+**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
+
+Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
+
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -140,22 +140,13 @@ CNBC • 16h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 15h ago
+HII • 16h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 15h ago
-
----
-
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
-
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
-
-Pittsburgh Post-Gazette • 2d ago
+USNI News • 16h ago
 
 ---
 
@@ -167,11 +158,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
 
 We recently added this group as investors think about SpaceX and growth in the sector.
 
-TheStreet Pro • 14h ago
+TheStreet Pro • 15h ago
 
 ---
 
@@ -191,9 +182,37 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+
+📺 NBC News
+
+👁️ 31K • 👍 306 • 💬 378 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
+
+Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
+
+📺 TESLA CAR WORLD
+
+👁️ 277K • 👍 3K • 💬 577 • ⏱️ 12:26 • 6d ago
+
+---
 
 **[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
 
@@ -205,33 +224,13 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 ---
 
-**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
-
-Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
-
-📺 TESLA CAR WORLD
-
-👁️ 276K • 👍 3K • 💬 567 • ⏱️ 12:26 • 6d ago
-
----
-
 **[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
 
 After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
 
 📺 Bloomberg Television
 
-👁️ 68K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
-
----
-
-**[I Visited America&#39;s First Robot Security Company...You Won&#39;t Believe What I Saw](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 6K • 👍 423 • 💬 73 • ⏱️ 40:27 • 20h ago
+👁️ 69K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
 
 ---
 
@@ -241,27 +240,27 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 50K • 👍 949 • 💬 105 • ⏱️ 1:00 • 6d ago
+👁️ 51K • 👍 977 • 💬 133 • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[The Robot Ban Nobody Read: What the FCC Actually Blocked](https://www.youtube.com/watch?v=SKY5udE5SOA)**
+**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
 
-In February 2026, one engineer connected a robot vacuum to a PS5 controller and ended up with camera feeds and floor maps ...
+Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
 
-📺 Interesting Engineering Explains
+📺 KhanFlicks
 
-👁️ 3K • 👍 85 • 💬 5 • ⏱️ 1:32 • 14h ago
+👁️ 2K • 👍 49 • 💬 15 • ⏱️ 6:44 • 1d ago
 
 ---
 
-**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
 
-A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
 
-📺 MACHINEKIND
+📺 Synthetic Empire
 
-👁️ 3K • 👍 79 • 💬 11 • ⏱️ 11:48 • 1d ago
+👁️ 30K • 👍 658 • 💬 61 • ⏱️ 12:38 • 3d ago
 
 ---
 
@@ -271,7 +270,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 43K • 👍 3K • 💬 437 • ⏱️ 26:40 • 2d ago
+👁️ 44K • 👍 3K • 💬 441 • ⏱️ 26:40 • 2d ago
 
 ---
 
@@ -281,15 +280,17 @@ MIT just unveiled a robot that can swim underwater… then explode out of the su
 
 📺 Created to be Curious
 
-👁️ 655 • 👍 47 • 💬 3 • ⏱️ 2:05 • 6h ago
+👁️ 871 • 👍 48 • 💬 3 • ⏱️ 2:05 • 8h ago
 
 ---
 
-**[Trump says DO MAGNETS 🧲 the next AI Robotics bottleneck #aistocks #robotics #optimus #stocks](https://www.youtube.com/watch?v=hTH_ukuOOR0)**
+**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
 
-📺 InvestingwithCJ
+A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
 
-👁️ 6K • 👍 145 • 💬 3 • ⏱️ 1:38 • 2d ago
+📺 MACHINEKIND
+
+👁️ 3K • 👍 82 • 💬 12 • ⏱️ 11:48 • 1d ago
 
 ---
 

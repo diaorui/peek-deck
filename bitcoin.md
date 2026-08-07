@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T08:14:07.145708+00:00'
+updated: '2026-08-07T09:32:04.648612+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 08:14 UTC  
+**Last Updated:** August 07, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,391.13
+### $64,678.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.5%  
-**30d:** +1.7%  
-**90d:** -21.7%  
-**1y:** -45.0%  
+**24h:** +0.4%  
+**7d:** +3.2%  
+**30d:** +2.5%  
+**90d:** -21.1%  
+**1y:** -44.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.32B
+**Market Cap:** $1299.68B
 Rank #1
 
-**Circulating Supply:** 20,066,784 BTC
+**Circulating Supply:** 20,066,837 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-48.6%
 
 **All-Time Low:** $67.81
-+94740.0%
++95409.5%
 
 ---
 
@@ -89,7 +89,7 @@ SpaceX (NASDAQ: $SPCX) has reported a $540 million U.S. paper loss on its Bitcoi
 
 https://xcancel.com/LightningNewsX/status/2084923135174844805#m
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -169,54 +169,27 @@ Bitcoin Magazine • 12h ago
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-theblock.co • 1d ago
+The Block • 1d ago
 
 ---
 
-**[S&P 500 Adds $2.1 Trillion in a Month as Bitcoin Stalls Near $64K — What Is Holding BTC Back?](https://bitcoinfoundation.org/news/bitcoin/sp-500-adds-2-1-trillion-in-a-month-as-bitcoin-stalls-near-64k-what-is-holding-btc-back/)**
+**[Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
 
-S&P 500 adds $2.1T as Bitcoin stalls near $64K, with AI-led stocks, ETF flows, bond yields and crypto-specific pressure limiting BTC upside.
+Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-Bitcoin Foundation • 45m ago
-
----
-
-**[Bitcoin Whales Snap Up $1.2 Billion Worth of BTC as ETF Inflows Surge Toward Four-Month High](https://bitcoinfoundation.org/news/bitcoin/bitcoin-whales-snap-up-1-2-billion-worth-of-btc-as-etf-inflows-surge-toward-four-month-high/)**
-
-Bitcoin whales accumulated $1.2B in BTC while U.S. spot ETFs attracted $754M, reinforcing institutional demand despite regulatory uncertainty.
-
-Bitcoin Foundation • 15m ago
+CoinDesk • 1h ago
 
 ---
 
-**[BTC news: Early bitcoin wallet wakes after 15 years with $3.2 million transfer](https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
 
-The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.
-
-CoinDesk • 3h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Keeping Your Bitcoin Riches Safe Has Never Been Harder](https://www.bloomberg.com/opinion/articles/2026-08-05/bitcoin-keeping-your-crypto-stash-safe-has-never-been-harder)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)**
-
-A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
-has reportedly lost $100 million US worth of bitcoin as a result of the hack.
-
-CBC • 2d ago
-
----
-
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
-
-(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
-
-Yahoo Finance • 5h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -224,15 +197,37 @@ Yahoo Finance • 5h ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 13h ago
+FOX 2 • 14h ago
 
 ---
 
-**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
 
-American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Yahoo Finance • 1d ago
+Forbes • 21h ago
+
+---
+
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
+
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
+
+Seeking Alpha • 14h ago
+
+---
+
+**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+
+Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+
+Benzinga • 1d ago
+
+---
+
+**[Billionaire reveals how he made $15 billion using ChatGPT](https://www.thestreet.com/crypto/markets/billionaire-reveals-how-he-made-15-billion-using-chatgpt)**
+
+thestreet.com • 15h ago
 
 ---
 
@@ -329,7 +324,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 359 • 💬 45 • ⏱️ 8:03 • 14h ago
+👁️ 6K • 👍 369 • 💬 46 • ⏱️ 8:03 • 15h ago
 
 ---
 
@@ -339,7 +334,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 687 • 💬 105 • ⏱️ 12:39 • 7h ago
+👁️ 14K • 👍 770 • 💬 95 • ⏱️ 12:39 • 8h ago
 
 ---
 
@@ -349,17 +344,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 3K • 💬 203 • ⏱️ 24:00 • 8h ago
-
----
-
-**[My 15-Year Bitcoin Journey Ends Today](https://www.youtube.com/watch?v=6K2KU_35UJM)**
-
-After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
-
-📺 Filip Martinsson
-
-👁️ 680 • 👍 37 • 💬 29 • ⏱️ 10:08 • 19h ago
+👁️ 50K • 👍 4K • 💬 227 • ⏱️ 24:00 • 9h ago
 
 ---
 
@@ -369,7 +354,17 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 11K • 👍 975 • 💬 131 • ⏱️ 20:41 • 15h ago
+👁️ 12K • 👍 1K • 💬 133 • ⏱️ 20:41 • 16h ago
+
+---
+
+**[Why Bitcoin Forks Are Beautiful](https://www.youtube.com/watch?v=-88OWS7dxj8)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin forks are a beautiful ...
+
+📺 Bitcoin University
+
+👁️ 8K • 👍 992 • 💬 253 • ⏱️ 12:33 • 19h ago
 
 ---
 
@@ -379,17 +374,17 @@ Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING 
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 571 • 💬 97 • ⏱️ 23:41 • 1d ago
+👁️ 10K • 👍 576 • 💬 97 • ⏱️ 23:41 • 1d ago
 
 ---
 
-**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
+**[My 15-Year Bitcoin Journey Ends Today](https://www.youtube.com/watch?v=6K2KU_35UJM)**
 
-BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
+After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
 
-📺 Luke Mikic
+📺 Filip Martinsson
 
-👁️ 5K • 👍 347 • 💬 39 • ⏱️ 38:58 • 12h ago
+👁️ 1K • 👍 46 • 💬 35 • ⏱️ 10:08 • 20h ago
 
 ---
 
@@ -399,27 +394,27 @@ Crypto is entering a critical decision window as Bitcoin tests major resistance 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 33 • ⏱️ 21:53 • 17h ago
+👁️ 20K • 👍 1K • 💬 33 • ⏱️ 21:53 • 18h ago
 
 ---
 
-**[CRYPTO CLARITY ACT Vote! Don&#39;t Get Fooled Too Much By Hype! Here&#39;s the Real Deal!](https://www.youtube.com/watch?v=tn1cJsqINQE)**
+**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
 
-Crypto Clarity Act vote likely THIS WEEKEND. Lummis basically just said the Senate isn't leaving for recess without crypto clarity ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Crypto Capital Venture
+📺 Crypto Rover
 
-👁️ 13K • 👍 678 • 💬 340 • ⏱️ 8:59 • 1d ago
+👁️ 3K • 👍 385 • 💬 36 • ⏱️ 7:37 • 3h ago
 
 ---
 
-**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
+**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
 
-Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
+BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
 
-📺 The Diary Of A CEO
+📺 Luke Mikic
 
-👁️ 564K • 👍 17K • 💬 3K • ⏱️ 1:39:55 • 1d ago
+👁️ 5K • 👍 367 • 💬 45 • ⏱️ 38:58 • 13h ago
 
 ---
 

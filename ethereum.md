@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T08:14:07.151289+00:00'
+updated: '2026-08-07T09:32:04.655037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 08:14 UTC  
+**Last Updated:** August 07, 2026 at 09:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +3.3%  
-**30d:** +9.1%  
-**90d:** -19.6%  
-**1y:** -52.5%  
+**24h:** +0.6%  
+**7d:** +3.7%  
+**30d:** +9.6%  
+**90d:** -19.3%  
+**1y:** -52.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.60B
+**Market Cap:** $230.43B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.4%
 
 **All-Time Low:** $0.43
-+439401.7%
++440866.0%
 
 ---
 
@@ -150,6 +150,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
+
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
+
+Yahoo Finance • 9h ago
+
+---
+
 **[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
@@ -158,19 +166,11 @@ stepsecurity.io • 2d ago
 
 ---
 
-**[Ethereum Beat Nasdaq 100 and BTC in July, Tom Lee Highlights — Here’s What He Says Happens in August](https://finance.yahoo.com/markets/crypto/articles/ethereum-beat-nasdaq-100-btc-090344933.html)**
+**[ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)**
 
-Ethereum outperformed the Nasdaq 100 by 25 percentage points and Bitcoin by 11 percentage points in July, according to figures highlighted by Tom Lee. Lee ...
+The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-Yahoo Finance • 2d ago
-
----
-
-**[XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool](https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault)**
-
-XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
-
-CoinDesk • 3d ago
+CoinDesk • 1h ago
 
 ---
 
@@ -178,7 +178,15 @@ CoinDesk • 3d ago
 
 XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
 
-24/7 Wall St. • 1d ago
+247wallst.com • 1d ago
+
+---
+
+**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
+
+Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
+
+TradingView • 15h ago
 
 ---
 
@@ -186,7 +194,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-theblock.co • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -194,7 +202,7 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 22h ago
 
 ---
 
@@ -210,7 +218,7 @@ blog.ethereum.org • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -218,15 +226,7 @@ AMBCrypto • 7h ago
 
 The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
 
-FXStreet • 21h ago
-
----
-
-**[New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More](https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield)**
-
-EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.
-
-The Defiant • 2d ago
+FXStreet • 22h ago
 
 ---
 
@@ -234,13 +234,13 @@ The Defiant • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
 
-Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
 
-📺 Coinsider
+📺 Investing Made Simple
 
-👁️ 27K • 👍 725 • 💬 119 • ⏱️ 10:24 • 2d ago
+👁️ 6K • 👍 441 • ⏱️ 9:52 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 92 • 💬 76 • ⏱️ 51:35 • 13h ago
+👁️ 3K • 👍 101 • 💬 88 • ⏱️ 51:35 • 14h ago
 
 ---
 
@@ -260,27 +260,17 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 1K • 👍 34 • 💬 3 • ⏱️ 3:33 • 18h ago
+👁️ 2K • 👍 38 • 💬 3 • ⏱️ 3:33 • 19h ago
 
 ---
 
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
 
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
 
-📺 Crypto Capital Venture
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 10K • 👍 593 • 💬 204 • ⏱️ 14:40 • 15h ago
-
----
-
-**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
-
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
-
-📺 XForceGlobal
-
-👁️ 2K • 👍 88 • 💬 29 • ⏱️ 13:23 • 1d ago
+👁️ 4K • 👍 340 • 💬 53 • ⏱️ 43:51 • 7h ago
 
 ---
 
@@ -290,37 +280,37 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 970 • 👍 111 • 💬 4 • ⏱️ 7:25 • 6h ago
+👁️ 2K • 👍 152 • 💬 6 • ⏱️ 7:25 • 7h ago
 
 ---
 
-**[XRP Golden Pocket Price Target Ethereum &amp; Solana Getting MAJOR Support Things Keep Getting Better](https://www.youtube.com/watch?v=_4eimC80qAU)**
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
 
-Everyone, and I mean every single person in the cryptocurrency market has an enormous amount of hype and positivity right now.
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
 
-📺 The Modern Investor
+📺 Crypto Capital Venture
 
-👁️ 7K • 👍 746 • 💬 192 • ⏱️ 28:23 • 2d ago
-
----
-
-**[Ethereum &amp; Bitcoin, Langeweile pur! Wann bekommen wir endlich Aktion?](https://www.youtube.com/watch?v=BSkIQCEKQ20)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bonus auf eure Einzahlung!
-
-📺 Krypto Trading & Investing
-
-👁️ 713 • 👍 235 • 💬 56 • ⏱️ 10:06 • 3h ago
+👁️ 11K • 👍 613 • 💬 195 • ⏱️ 14:40 • 16h ago
 
 ---
 
-**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
 
-The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
 
-📺 Anthony Pompliano
+📺 Coinsider
 
-👁️ 2K • 👍 66 • 💬 5 • ⏱️ 0:30 • 8h ago
+👁️ 28K • 👍 730 • 💬 119 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
+
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
+
+📺 XForceGlobal
+
+👁️ 2K • 👍 90 • 💬 29 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -330,7 +320,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 6K • 👍 433 • 💬 40 • ⏱️ 10:22 • 2d ago
+👁️ 6K • 👍 435 • 💬 40 • ⏱️ 10:22 • 2d ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 3K • 👍 77 • 💬 10 • ⏱️ 0:30 • 10h ago
 
 ---
 
