@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-06T14:10:05.541946+00:00'
+updated: '2026-08-07T00:24:14.619279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 06, 2026 at 14:10 UTC  
+**Last Updated:** August 07, 2026 at 00:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,214.45
+### $64,442.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.6%  
-**30d:** +3.5%  
-**90d:** -20.1%  
-**1y:** -45.1%  
+**24h:** -0.5%  
+**7d:** +2.3%  
+**30d:** +1.5%  
+**90d:** -21.8%  
+**1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1292.36B
+**Market Cap:** $1288.83B
 Rank #1
 
-**Circulating Supply:** 20,066,528 BTC
+**Circulating Supply:** 20,066,690 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.1%
 
 **All-Time Low:** $67.81
-+94880.1%
++94594.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 25
-**EXTREME FEAR**
+### 29
+**FEAR**
 
 ---
 
@@ -103,7 +103,7 @@ Hacker keeps getting message, I wonder if they really found his location.
 
 **[Every cycle](https://www.reddit.com/r/Bitcoin/comments/1vgblzi/every_cycle/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -127,7 +127,7 @@ https://x.com/inverse_hanlon/status/2084689208627925384 A CEO who dismissed the 
 
 There is an active petition for keeping Bitcoin tax free in Germany (after one year hodling). It reached 21.000 signatures within the first 24 hours - let's make it 30.000 to put it on the agenda of german Bundestag. You need to sign up in order to put your signature but it's worth it. Everyone can sign - not just germans! https://epetitionen.bundestag.de/petitionen/_2026/_05/_30/Petition_201716.nc.html Thank you!
 
-22h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ The network processed 20,364,529 transactions in July 2026, making it the second
 
 Researchers have tied the faulty randomness code at the center of the Coldcard wallet breach to Coinkite co-founder and CTO Peter Gray, who Bitcoin developer
 
-🔗 [Cryptopolitan](https://www.cryptopolitan.com/coinkite-cto-peter-gray-linked-coldcard-hack/) • 1d ago
+🔗 [Cryptopolitan](https://www.cryptopolitan.com/coinkite-cto-peter-gray-linked-coldcard-hack/) • 2d ago
 
 ---
 
@@ -157,11 +157,11 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock](https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock)**
+**[Bitcoin’s (BTC) low price volatility doesn’t necessarily mean low risk: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk)**
 
-Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.
+The day ahead in crypto: Aug. 6, 2026
 
-CoinDesk • 9h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -169,53 +169,53 @@ CoinDesk • 9h ago
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-The Block • 19h ago
+The Block • 1d ago
 
 ---
 
-**[Current price of Bitcoin for Aug. 6, 2026](https://fortune.com/article/price-of-bitcoin-08-06-2026/)**
+**[St. Louis trio charged in plot targeting $245 million Bitcoin fortune](https://fox2now.com/news/missouri/st-louis-trio-charged-in-plot-targeting-245-million-bitcoin-fortune/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-Fortune • 2h ago
-
----
-
-**[Why Sandisk and Western Digital crashed 10% and what it means for bitcoin](https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin)**
-
-Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.
-
-CoinDesk • 2h ago
+FOX 2 • 5h ago
 
 ---
 
-**[Bitcoin owners rocked by $116 million hack: What we know about the Coldcard exploit](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)**
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
-
-Fortune • 2d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[St. Louis men indicted in attempted robbery of teen involved in $245 million Bitcoin theft](https://www.stltoday.com/news/local/crime-courts/article_4470adee-5563-4132-ba8b-514243ce6db8.html)**
+**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
 
-Federal prosecutors say three St. Louis men traveled to Connecticut to help kidnap a teen linked to a $245 million Bitcoin theft. They have pleaded not guilty.
+American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
 
-STLtoday.com • 20h ago
-
----
-
-**[Where Will Bitcoin Be in 3 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-3-years-152500857.html)**
-
-The world's top cryptocurrency still has a bright future.
-
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin rangebound above $64k with Hormuz deal in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-drifts-above-64k-with-hormuz-deal-in-focus-4836483)**
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
 
-Investing.com • 1d ago
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
+
+Seeking Alpha • 5h ago
+
+---
+
+**[Breez Drops New Bitcoin App Which Doubles As Wallet and Developer Toolkit](https://bitcoinmagazine.com/news/breez-drops-new-bitcoin-app)**
+
+Breeze's new app, Glow, allows Bitcoin developers to see what's working under the hood with the Lightning wallet so they can build their own products.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
+
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 12h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investing.com • 1d ago
 
 Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
 
-Benzinga • 21h ago
+Benzinga • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ Benzinga • 21h ago
 
 XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
 
-24/7 Wall St. • 21h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -243,7 +243,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 70 • 💬 23 • 3d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 70 • 💬 23 • 4d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -251,7 +251,7 @@ Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated k
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 19 • 💬 0 • 3d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 20 • 💬 0 • 4d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -267,7 +267,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
-⬆️ 8 • 💬 4 • 1d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
+⬆️ 9 • 💬 4 • 1d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -275,7 +275,7 @@ Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a
 
 BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it. Live wallet tracker.
 
-⬆️ 8 • 💬 2 • 2d ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
+⬆️ 8 • 💬 2 • 3d ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
 
 ---
 
@@ -284,7 +284,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 8 • 💬 0 • 1d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 8 • 💬 0 • 2d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -292,7 +292,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 3d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
@@ -322,63 +322,63 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 4K • 👍 500 • 💬 30 • ⏱️ 24:00 • 45m ago
+
+---
+
+**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
+
+Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 8K • 👍 858 • 💬 113 • ⏱️ 20:41 • 7h ago
+
+---
+
+**[LIVE: Donald Trump Discusses Ripple &amp; XRP | Brad Garlinghouse Update](https://www.youtube.com/watch?v=_wrq9baHo_w)**
+
+Welcome to our LIVE coverage of the latest Ripple and XRP news! Join us as we break down the biggest developments ...
+
+📺 Zack Seif
+
+👁️ 19K • 👍 3K • 4h ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 275 • 💬 37 • ⏱️ 8:03 • 6h ago
+
+---
+
 **[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
 
 Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
 
 📺 Fox Business Clips
 
-👁️ 47K • 👍 952 • 💬 349 • ⏱️ 8:52 • 22h ago
+👁️ 61K • 👍 1K • 💬 413 • ⏱️ 8:52 • 1d ago
 
 ---
 
-**[This Could BREAK Bitcoin in 2028.](https://www.youtube.com/watch?v=dSEC1n8TT0Q)**
+**[THE &quot;UNHACKABLE&quot; BITCOIN TRAP: How $120M Was Stolen Offline!](https://www.youtube.com/watch?v=AUbJNpTWkR8)**
 
-Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING is on the table and we MUST evaluate it ...
+A $120 Million Bitcoin hack just proved that storing your crypto offline is not as safe as you think. In today's Wall Street Truthbomb, ...
 
-📺 Digital Asset News
+📺 Wall Street Truthbombs
 
-👁️ 9K • 👍 525 • 💬 83 • ⏱️ 23:41 • 20h ago
-
----
-
-**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
-
-Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
-
-📺 The Diary Of A CEO
-
-👁️ 158K • 👍 7K • 💬 2K • ⏱️ 1:39:55 • 7h ago
-
----
-
-**[🚨 Someone Just Bought $183,000,000 of Bitcoin](https://www.youtube.com/watch?v=Cny2hjcxhzo)**
-
-Everyone's scared. The Fear and Greed Index just hit EXTREME FEAR, and yesterday U.S. spot Bitcoin ETFs took in $170 million ...
-
-📺 Kyle Chasse crypto
-
-👁️ 3K • 👍 161 • 💬 34 • ⏱️ 17:23 • 17h ago
-
----
-
-**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
-
-Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
-
-📺 Crypto Insider
-
-👁️ 11K • 👍 487 • 💬 8 • ⏱️ 41:36 • 19h ago
-
----
-
-**[Hackers Steal Over $100 Million From &quot;Safe&quot; Bitcoin Wallets](https://www.youtube.com/watch?v=iYxVLvsaneA)**
-
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
-
-📺 DeFranco News Clips
-
-👁️ 764K • 👍 38K • 💬 2K • ⏱️ 1:39 • 2d ago
+👁️ 9K • 👍 622 • 💬 106 • ⏱️ 8:09 • 10h ago
 
 ---
 
@@ -388,37 +388,37 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 Fireship
 
-👁️ 352K • 👍 14K • 💬 1K • ⏱️ 5:10 • 20h ago
+👁️ 422K • 👍 16K • 💬 1K • ⏱️ 5:10 • 1d ago
 
 ---
 
-**[LIVE: BITCOIN CRASHING? Michael Saylor on BTC &amp; MSTR Prediction 2026](https://www.youtube.com/watch?v=mQswhS1c_HY)**
+**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
 
-Join Michael Saylor for a live discussion on Bitcoin as growing volatility and renewed selling pressure raise concerns across the ...
+Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
 
-📺 Angel Ladino
+📺 The Diary Of A CEO
 
-👁️ 3K • 1h ago
-
----
-
-**[Strategy CEO Phong Le: Expecting Strategy to outperform bitcoin in next year&#39;s bull cycle](https://www.youtube.com/watch?v=bs6yz79MneQ)**
-
-Phone Le, Strategy CEO, joins 'Power Lunch' to discuss the company's decision to sell more bitcoin, the outlook for the ...
-
-📺 CNBC Television
-
-👁️ 22K • 👍 171 • 💬 167 • ⏱️ 4:12 • 2d ago
+👁️ 444K • 👍 14K • 💬 3K • ⏱️ 1:39:55 • 17h ago
 
 ---
 
-**[This Selloff Sets Up the Next Run For Bitcoin with Dylan LeClair](https://www.youtube.com/watch?v=-_dbkQ_Yevk)**
+**[Is Bitcoin Self-Custody DEAD?!](https://www.youtube.com/watch?v=0iXL24xuBec)**
 
-In 2026, Bitcoin treasury stocks have taken a much bigger beating than Bitcoin itself. Dylan LeClair, Director of Bitcoin Strategy at ...
+Tillman Holloway is the Co-Founder & CEO of Arch Public, and Andrew Parish is the Co-Founder & COO. In this conversation, we ...
 
-📺 Natalie Brunell
+📺 Anthony Pompliano
 
-👁️ 12K • 👍 408 • 💬 214 • ⏱️ 42:50 • 17h ago
+👁️ 10K • 👍 395 • 💬 33 • ⏱️ 48:12 • 1d ago
+
+---
+
+**[Your savings account could be connected to a crypto casino](https://www.youtube.com/watch?v=BDGspbABk4Y)**
+
+BlackRock, Goldman Sachs, and other big financial firms are pushing a bill that would let banks invest your retirement savings in ...
+
+📺 More Perfect Union
+
+👁️ 181K • 👍 13K • 💬 1K • ⏱️ 2:50 • 2d ago
 
 ---
 

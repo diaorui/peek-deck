@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-06T14:10:05.551960+00:00'
+updated: '2026-08-07T00:24:14.627644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 06, 2026 at 14:10 UTC  
+**Last Updated:** August 07, 2026 at 00:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I designed this mecanum wheel based omnidirectional vehicle for motion simulatio
 
 Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ Thickening/adding more cross bracing isn’t an option because of range of motio
 
 🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
 
-1d ago
+2d ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey I am part of a small team training robotics policies for warehouse and manuf
 
 Wearable robotics could help people with Parkinson’s disease remain mobile for longer. Research into soft exoskeletons has shown promising early results for freezing of gait, a symptom that can suddenly prevent someone from moving their feet forward and increase the risk of falling. These systems may also help patients walk farther and faster. The larger challenge is building a device that can adapt as symptoms change from day to day. Researchers are exploring sensors, movement data and AI to better understand a person’s intent and provide support at the right moment. The technology is still early, particularly when it comes to long-term use, comfort and cost, but it could offer another option between fully independent movement and relying on a wheelchair.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 1d ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 2d ago
 
 ---
 
@@ -92,7 +92,7 @@ Wearable robotics could help people with Parkinson’s disease remain mobile for
 
 Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for discussion, questions etc. Good luck with the reviews as well as the rebuttal!
 
-1d ago
+2d ago
 
 ---
 
@@ -116,11 +116,31 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 ## Google News: "robotics"
 
-**[Walden’s Wheeled Humanoids Aim to Redefine Factory Floor Work](https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota)**
+**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The company aims to create physical AI tools for human workers
+The New York Times • 9h ago
 
-IEEE Spectrum • 2d ago
+---
+
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
+
+Bloomberg.com • 13h ago
+
+---
+
+**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
+
+Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
+
+Investor's Business Daily • 8h ago
+
+---
+
+**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
+
+HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
+
+HII • 7h ago
 
 ---
 
@@ -128,7 +148,23 @@ IEEE Spectrum • 2d ago
 
 Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
+
+---
+
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
+
+We recently added this group as investors think about SpaceX and growth in the sector.
+
+TheStreet Pro • 6h ago
+
+---
+
+**[Elon Musk spends half his time talking robots and AI on Tesla earnings calls](https://finance.yahoo.com/technology/ai/articles/elon-musk-spends-half-time-152006639.html)**
+
+An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -136,7 +172,15 @@ Business Insider • 23h ago
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
 
-TechCrunch • 16h ago
+TechCrunch • 1d ago
+
+---
+
+**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
+
+New rules further bifurcate U.S. and Chinese supply chains
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -146,76 +190,9 @@ South China Morning Post • 1d ago
 
 ---
 
-**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
-
-An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
-TeraBridges placed first overall and...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
-
-The FTC has banned foreign-made humanoids, making a fragile, nascent sector  part of America’s AI industrial policy.
-
-MIT Technology Review • 2d ago
-
----
-
-**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
-
-These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Ukraine Carries Out Aerial Assaults Dropping Robots From Drones](https://www.forbes.com/sites/davidhambling/2026/08/03/ukraine-carries-out-aerial-assaults-dropping-robots-from--drones/)**
-
-Combat footage indicated Ukraine is using heavy-lift multicopter to transport armed UGVs into action. This could open up an entirely new era in heliborne assault.
-
-Forbes • 3d ago
-
----
-
-**[Robotics and automotive company to open North American headquarters in Upstate](https://www.foxcarolina.com/2026/08/05/robotics-automotive-company-open-north-american-headquarters-upstate/)**
-
-A German robotics and automotive company recently announced plans to open its North American headquarters in Greenville.
-
-FOX Carolina News • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Gemini Robotics 2 brings whole body intelligence to robots](https://www.youtube.com/watch?v=4lSQnrMC6nY)**
-
-For decades, we've dreamed of robots that can seamlessly step into our world and lend a hand. Now, that vision takes a ...
-
-📺 Google DeepMind
-
-👁️ 241K • 👍 7K • 💬 534 • ⏱️ 3:00 • 6d ago
-
----
-
-**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
-
-Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
-
-📺 KCRA 3
-
-👁️ 24K • 👍 276 • 💬 182 • ⏱️ 1:03 • 4d ago
-
----
 
 **[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
 
@@ -223,27 +200,7 @@ Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 cou
 
 📺 TESLA CAR WORLD
 
-👁️ 266K • 👍 3K • 💬 540 • ⏱️ 12:26 • 6d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 45K • 👍 838 • 💬 100 • ⏱️ 1:00 • 5d ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 66K • 👍 1K • 💬 97 • ⏱️ 11:26 • 4d ago
+👁️ 272K • 👍 3K • 💬 557 • ⏱️ 12:26 • 6d ago
 
 ---
 
@@ -253,7 +210,37 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 31K • 👍 563 • 💬 43 • ⏱️ 9:54 • 5d ago
+👁️ 32K • 👍 571 • 💬 43 • ⏱️ 9:54 • 6d ago
+
+---
+
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+
+📺 Bloomberg Television
+
+👁️ 67K • 👍 1K • 💬 101 • ⏱️ 11:26 • 4d ago
+
+---
+
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+
+📺 Alpha Central
+
+👁️ 97K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
+
+---
+
+**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 48K • 👍 901 • 💬 102 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -263,27 +250,35 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 979 • 👍 30 • 💬 1 • ⏱️ 11:48 • 18h ago
+👁️ 2K • 👍 73 • 💬 8 • ⏱️ 11:48 • 1d ago
 
 ---
 
-**[Robot dogs are replacing security guards in Atlanta](https://www.youtube.com/watch?v=xotQxTBBgPE)**
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
 
-Atlanta-based startup Undaunted says robotic dogs provide proactive security at half the cost of traditional guards, patrolling ...
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
 
-📺 Reuters
+📺 China Fact Chasers
 
-👁️ 2K • 👍 48 • 💬 18 • ⏱️ 1:39 • 13h ago
+👁️ 41K • 👍 3K • 💬 431 • ⏱️ 26:40 • 2d ago
 
 ---
 
-**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+**[Trump says DO MAGNETS 🧲 the next AI Robotics bottleneck #aistocks #robotics #optimus #stocks](https://www.youtube.com/watch?v=hTH_ukuOOR0)**
 
-Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+📺 InvestingwithCJ
 
-📺 BBC News
+👁️ 4K • 👍 115 • 💬 3 • ⏱️ 1:38 • 2d ago
 
-👁️ 201K • 👍 2K • 💬 648 • ⏱️ 3:14 • 4d ago
+---
+
+**[Robot Window Cleaners Are Here But Do They Work?](https://www.youtube.com/watch?v=SPV-hstjRGM)**
+
+Robots are doing more and more for us these days but can they clean windows? Ecovacs Mini Window Cleaner: ...
+
+📺 Proper DIY - Tools & Effect
+
+👁️ 90K • 👍 4K • 💬 387 • ⏱️ 12:29 • 4d ago
 
 ---
 
@@ -293,7 +288,7 @@ Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to 
 
 📺 Lon.TV
 
-👁️ 16K • 👍 844 • 💬 200 • ⏱️ 9:59 • 15h ago
+👁️ 27K • 👍 1K • 💬 310 • ⏱️ 9:59 • 1d ago
 
 ---
 
