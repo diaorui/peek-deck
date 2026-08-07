@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T13:03:58.307843+00:00'
+updated: '2026-08-07T14:31:56.896764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 13:03 UTC  
+**Last Updated:** August 07, 2026 at 14:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-17h ago
+19h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-7h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 10h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-16h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-16h ago
+17h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute t
 
 I got this pneumatic gripper from my work because it needs a new o ring on the inside. It’s a SCHUNK 308910 and is normally worth quite a lot. I have no real use for it and don’t feel like getting a seal kit for it so I was wondering if anyone was interested in getting one that they can use on their own projects I figured it’s better if it gets used rather than being a desk ornament.
 
-22h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ I got this pneumatic gripper from my work because it needs a new o ring on the i
 
 **[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -112,21 +112,13 @@ Wanted to share what we've been working on: the Alicia-M, a semi-humanoid robot 
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 22h ago
+The New York Times • 1d ago
 
 ---
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-bloomberg.com • 10h ago
-
----
-
-**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
-
-Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
-
-Investor's Business Daily • 21h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -134,7 +126,15 @@ Investor's Business Daily • 21h ago
 
 The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
 
-CNBC • 20h ago
+CNBC • 22h ago
+
+---
+
+**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
+
+Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
+
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -154,7 +154,15 @@ Interesting Engineering • 2d ago
 
 **[Honda revives robotics ambitions after ASIMO](https://japantoday.com/category/tech/feature-honda-revives-robotics-ambitions-after-asimo)**
 
-japantoday.com • 2d ago
+Japan Today • 2d ago
+
+---
+
+**[Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace](https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/)**
+
+Mitsubishi is joining the rapidly growing ranks of robot makers, with plans to build up to 1,000 units per month at its former engine plant.
+
+Electrek • 1h ago
 
 ---
 
@@ -166,19 +174,11 @@ Ars Technica • 9d ago
 
 ---
 
-**[Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace](https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/)**
-
-Mitsubishi is joining the rapidly growing ranks of robot makers, with plans to build up to 1,000 units per month at its former engine plant.
-
-Electrek • 16m ago
-
----
-
 **[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 20h ago
+HII • 21h ago
 
 ---
 
@@ -190,47 +190,7 @@ HII • 20h ago
 
 📺 Tyrecordslol
 
-👁️ 67K • 👍 7K • 💬 509 • ⏱️ 0:58 • 2h ago
-
----
-
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 8K • 👍 442 • 💬 79 • ⏱️ 40:27 • 1d ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 69K • 👍 1K • 💬 101 • ⏱️ 11:26 • 5d ago
-
----
-
-**[AI Robots Future Is Now Almost Indistinguishable From Humans... 🤯 Humanoids Take over](https://www.youtube.com/watch?v=PXBGLSMu_Yw)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 52K • 👍 1K • 💬 135 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 32K • 👍 573 • 💬 43 • ⏱️ 9:54 • 6d ago
+👁️ 202K • 👍 28K • 💬 2K • ⏱️ 0:58 • 3h ago
 
 ---
 
@@ -240,7 +200,17 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 670 • 👍 17 • 💬 5 • ⏱️ 5:49 • 5h ago
+👁️ 2K • 👍 33 • 💬 6 • ⏱️ 5:49 • 7h ago
+
+---
+
+**[The Robot Ban Nobody Read: What the FCC Actually Blocked](https://www.youtube.com/watch?v=SKY5udE5SOA)**
+
+In February 2026, one engineer connected a robot vacuum to a PS5 controller and ended up with camera feeds and floor maps ...
+
+📺 Interesting Engineering Explains
+
+👁️ 4K • 👍 93 • 💬 6 • ⏱️ 1:32 • 20h ago
 
 ---
 
@@ -250,7 +220,17 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 6K • 👍 93 • 💬 26 • ⏱️ 6:44 • 1d ago
+👁️ 11K • 👍 87 • 💬 30 • ⏱️ 6:44 • 1d ago
+
+---
+
+**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
+
+MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
+
+📺 Created to be Curious
+
+👁️ 906 • 👍 50 • 💬 3 • ⏱️ 2:05 • 13h ago
 
 ---
 
@@ -260,7 +240,7 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 3K • 👍 87 • 💬 11 • ⏱️ 11:48 • 1d ago
+👁️ 3K • 👍 93 • 💬 11 • ⏱️ 11:48 • 1d ago
 
 ---
 
@@ -270,7 +250,17 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 44K • 👍 3K • 💬 444 • ⏱️ 26:40 • 2d ago
+👁️ 45K • 👍 3K • 💬 448 • ⏱️ 26:40 • 2d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 32K • 👍 577 • 💬 43 • ⏱️ 9:54 • 6d ago
 
 ---
 
@@ -280,7 +270,17 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 110K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
+👁️ 112K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
+
+---
+
+**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+
+Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+
+📺 Lon.TV
+
+👁️ 37K • 👍 1K • 💬 353 • ⏱️ 9:59 • 1d ago
 
 ---
 

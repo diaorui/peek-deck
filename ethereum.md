@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T13:03:58.305659+00:00'
+updated: '2026-08-07T14:31:56.894780+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 13:03 UTC  
+**Last Updated:** August 07, 2026 at 14:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +4.6%  
-**30d:** +10.5%  
-**90d:** -18.6%  
-**1y:** -51.9%  
+**24h:** +0.7%  
+**7d:** +4.3%  
+**30d:** +10.2%  
+**90d:** -18.8%  
+**1y:** -52.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.10B
+**Market Cap:** $232.08B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.1%
 
 **All-Time Low:** $0.43
-+442157.0%
++444030.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -150,11 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
-Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -170,23 +170,7 @@ StepSecurity • 2d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-coindesk.com • 4h ago
-
----
-
-**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
-**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
-
-Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
-
-TradingView • 18h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -198,11 +182,19 @@ The Block • 2d ago
 
 ---
 
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.tradingview.com/news/benzinga:1c38022bc094b:0-bitcoin-holds-above-64-000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote/)**
 
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
 
-24/7 Wall St. • 1d ago
+TradingView • 20h ago
+
+---
+
+**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
@@ -218,15 +210,23 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
-**[Crypto Today: Bitcoin and Ethereum gain ground as XRP extends decline amid potential Iran-Oman deal](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-gain-ground-as-xrp-extends-decline-amid-potential-iran-oman-deal-202608061100)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
 
-The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
+Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 1d ago
+FXStreet • 11h ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -240,37 +240,7 @@ Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. 
 
 📺 Coinsider
 
-👁️ 28K • 👍 736 • 💬 120 • ⏱️ 10:24 • 2d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 103 • 💬 89 • ⏱️ 51:35 • 18h ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 11K • 👍 627 • 💬 224 • ⏱️ 14:40 • 20h ago
-
----
-
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
-
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 176 • 💬 6 • ⏱️ 7:25 • 10h ago
+👁️ 29K • 👍 741 • 💬 124 • ⏱️ 10:24 • 2d ago
 
 ---
 
@@ -280,17 +250,27 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 2K • 👍 40 • 💬 3 • ⏱️ 3:33 • 23h ago
+👁️ 2K • 👍 44 • 💬 4 • ⏱️ 3:33 • 1d ago
 
 ---
 
-**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
 
-This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 Investing Made Simple
+📺 Milk Road
 
-👁️ 7K • 👍 451 • ⏱️ 9:52 • 1d ago
+👁️ 3K • 👍 113 • 💬 90 • ⏱️ 51:35 • 19h ago
+
+---
+
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
+
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
+
+📺 DukascopyTV English
+
+👁️ 812 • 👍 1 • ⏱️ 0:57 • 3h ago
 
 ---
 
@@ -300,7 +280,27 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 5K • 👍 378 • 💬 55 • ⏱️ 43:51 • 10h ago
+👁️ 5K • 👍 407 • 💬 58 • ⏱️ 43:51 • 12h ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 183 • 💬 6 • ⏱️ 7:25 • 12h ago
+
+---
+
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 644 • 💬 196 • ⏱️ 14:40 • 21h ago
 
 ---
 
@@ -310,7 +310,17 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 94 • 💬 29 • ⏱️ 13:23 • 1d ago
+👁️ 2K • 👍 98 • 💬 30 • ⏱️ 13:23 • 1d ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 5K • 👍 101 • 💬 11 • ⏱️ 0:30 • 15h ago
 
 ---
 
@@ -320,17 +330,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bon
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 359 • 💬 121 • ⏱️ 10:06 • 8h ago
-
----
-
-**[BITCOIN WARNING: LIQUIDATIONS JUST CONFIRMED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eCYBx1wHsKY)**
-
-BITCOIN WARNING: LIQUIDATIONS JUST CONFIRMED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 214 • 💬 74 • ⏱️ 20:31 • 20h ago
+👁️ 2K • 👍 378 • 💬 90 • ⏱️ 10:06 • 9h ago
 
 ---
 

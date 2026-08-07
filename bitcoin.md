@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T13:03:58.301445+00:00'
+updated: '2026-08-07T14:31:56.891144+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 13:03 UTC  
+**Last Updated:** August 07, 2026 at 14:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,061.71
+### $65,042.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.8%  
-**30d:** +3.0%  
-**90d:** -20.6%  
-**1y:** -44.2%  
+**24h:** +0.8%  
+**7d:** +3.7%  
+**30d:** +2.9%  
+**90d:** -20.7%  
+**1y:** -44.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.29B
+**Market Cap:** $1307.09B
 Rank #1
 
-**Circulating Supply:** 20,066,887 BTC
+**Circulating Supply:** 20,066,975 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.4%
+-48.3%
 
 **All-Time Low:** $67.81
-+95751.6%
++95987.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 SpaceX (NASDAQ: $SPCX) has reported a $540 million U.S. paper loss on its Bitcoin (CRYPTO: $BTC) holdings.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html) • 1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/spacex-reports-540-million-loss-134200453.html) • 2d ago
 
 ---
 
@@ -135,7 +135,7 @@ There is an active petition for keeping Bitcoin tax free in Germany (after one y
 
 The network processed 20,364,529 transactions in July 2026, making it the second-best month in entire history by transaction count. As new users, institutions, and Bitcoin-native applications continue to arrive, on-chain activity keeps pushing toward record territory. We think that, it's a remarkable achievement for a network that has been operating for more than 17 years and continues to reach new milestones. Congratulations to everyone contributing to the Bitcoin ecosystem!
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
-coindesk.com • 3h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -169,62 +169,37 @@ coindesk.com • 3h ago
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
-**[Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Live updates: Bitcoin holding near $65,000 as U.S. jobs data falls short of forecasts](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
 
 Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
 
-coindesk.com • 2h ago
-
----
-
-**[Bitcoin hovers below $68,000 as Middle East tensions escalate further: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/07/cmt)**
-
-Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.
-
-coindesk.com • 2h ago
+CoinDesk • 1h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)**
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
 
-A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
-has reportedly lost $100 million US worth of bitcoin as a result of the hack.
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-CBC • 2d ago
-
----
-
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
-
-(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
-
-Yahoo Finance • 10h ago
-
----
-
-**[St. Louis trio charged in plot targeting $245 million Bitcoin fortune](https://fox2now.com/news/missouri/st-louis-trio-charged-in-plot-targeting-245-million-bitcoin-fortune/)**
-
-Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
-
-FOX 2 • 17h ago
-
----
-
-**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
-
-American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
-
-Yahoo Finance • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -232,7 +207,31 @@ Yahoo Finance • 1d ago
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
+
+---
+
+**[Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues](https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot)**
+
+MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.
+
+The Block • 17h ago
+
+---
+
+**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+
+Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+
+benzinga.com • 1d ago
+
+---
+
+**[Current price of Bitcoin for Aug. 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 4h ago
 
 ---
 
@@ -323,33 +322,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
-📺 CryptosRUs
+📺 Lark Davis
 
-👁️ 15K • 👍 814 • 💬 133 • ⏱️ 12:39 • 12h ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 59K • 👍 4K • 💬 257 • ⏱️ 24:00 • 13h ago
-
----
-
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 386 • 💬 46 • ⏱️ 8:03 • 19h ago
+👁️ 4K • 👍 304 • 💬 40 • ⏱️ 11:04 • 7h ago
 
 ---
 
@@ -359,17 +338,57 @@ WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 up
 
 📺 The Moon Show
 
-👁️ 3K • 👍 226 • 💬 14 • ⏱️ 6:33 • 4h ago
+👁️ 4K • 👍 331 • 💬 17 • ⏱️ 6:33 • 6h ago
 
 ---
 
-**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
 
-Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
 
-📺 Crypto Zombie
+📺 Crypto Jebb
 
-👁️ 12K • 👍 1K • 💬 136 • ⏱️ 20:41 • 20h ago
+👁️ 7K • 👍 413 • 💬 30 • ⏱️ 8:03 • 20h ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 70K • 👍 5K • 💬 323 • ⏱️ 24:00 • 14h ago
+
+---
+
+**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 880 • 💬 109 • ⏱️ 12:39 • 13h ago
+
+---
+
+**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
+
+BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
+
+📺 Luke Mikic
+
+👁️ 6K • 👍 383 • 💬 54 • ⏱️ 38:58 • 18h ago
+
+---
+
+**[190,000 Bitcoin Bought - The Bottom Is In](https://www.youtube.com/watch?v=jPPnsWYZW3s)**
+
+Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved into whale wallets. While much of the market ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 229 • 💬 148 • ⏱️ 16:58 • 15h ago
 
 ---
 
@@ -379,47 +398,27 @@ Michael made $15 billion last year using ChatGPT, by building something that has
 
 📺 The Diary Of A CEO
 
-👁️ 641K • 👍 18K • 💬 3K • ⏱️ 1:39:55 • 1d ago
+👁️ 674K • 👍 19K • 💬 3K • ⏱️ 1:39:55 • 1d ago
 
 ---
 
-**[This Could BREAK Bitcoin in 2028.](https://www.youtube.com/watch?v=dSEC1n8TT0Q)**
+**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
 
-Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING is on the table and we MUST evaluate it ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Digital Asset News
+📺 Crypto Rover
 
-👁️ 10K • 👍 578 • 💬 97 • ⏱️ 23:41 • 1d ago
-
----
-
-**[My 15-Year Bitcoin Journey Ends Today](https://www.youtube.com/watch?v=6K2KU_35UJM)**
-
-After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
-
-📺 Filip
-
-👁️ 2K • 👍 49 • 💬 42 • ⏱️ 10:08 • 1d ago
+👁️ 7K • 👍 611 • 💬 62 • ⏱️ 7:37 • 8h ago
 
 ---
 
-**[URGENT BTC UPDATE:  The Bitcoin CRASH is About to Resume to Finish the Mother of BTC CRASHES](https://www.youtube.com/watch?v=bTX5Np_ZQVk)**
+**[BITCOIN 🚨 La PISTA CLAVE para SABER si ya SOLO QUEDA SUBIR](https://www.youtube.com/watch?v=ZRDj8ZAGf94)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Hay un nivel exacto que separa el suelo de Bitcoin de otra pierna a la baja: 58.599$. Mientras no lo perdamos, sigue viva la tesis ...
 
-📺 Doctor of Pump & Dump
+📺 Rodrigo Arnedo Noticias Bitcoin
 
-👁️ 4K • 👍 423 • ⏱️ 29:06 • 16h ago
-
----
-
-**[Bitcoin Core Sybil Attack (Happening Now)](https://www.youtube.com/watch?v=-VzfqDZC540)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss what looks like an ongoing Bitcoin ...
-
-📺 Bitcoin University
-
-👁️ 14K • 👍 1K • 💬 319 • ⏱️ 8:03 • 1d ago
+👁️ 549 • 👍 110 • 💬 13 • ⏱️ 29:34 • 2h ago
 
 ---
 
