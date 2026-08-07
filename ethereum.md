@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T03:28:52.832876+00:00'
+updated: '2026-08-07T05:16:58.121797+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 03:28 UTC  
+**Last Updated:** August 07, 2026 at 05:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +3.0%  
-**30d:** +8.9%  
-**90d:** -19.8%  
-**1y:** -52.6%  
+**24h:** -0.9%  
+**7d:** +2.8%  
+**30d:** +8.7%  
+**90d:** -19.9%  
+**1y:** -52.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -118,7 +118,7 @@ I'm trying to understand the difference between unstaking stETH and simply swapp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -142,7 +142,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -195,22 +195,6 @@ TradingView • 9h ago
 XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
 
 24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
-
-Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
-
-TradingView • 1d ago
-
----
-
-**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Iran Deal Hopes: Analyst Says 'Most of the Pain' of the](https://www.benzinga.com/crypto/cryptocurrency/26/08/60936929/bitcoin-ethereum-xrp-dogecoin-iran-deal-crypto-market)**
-
-Leading cryptocurrencies edged higher on Tuesday, August 4, as investors weighed the prospects of a U.S.-Iran peace agreement after weeks of fighting.
-
-Benzinga • 2d ago
 
 ---
 
@@ -226,7 +210,23 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 17h ago
+
+---
+
+**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
+
+A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
+
+ethereum.org • 1d ago
+
+---
+
+**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
+
+Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
+
+AMBCrypto • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 2K • 👍 82 • 💬 81 • ⏱️ 51:35 • 8h ago
+👁️ 2K • 👍 82 • 💬 81 • ⏱️ 51:35 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ This is all about why the next 30 days for Bitcoin & crypto could be a major boo
 
 📺 Investing Made Simple
 
-👁️ 5K • 👍 409 • ⏱️ 9:52 • 14h ago
+👁️ 5K • 👍 409 • ⏱️ 9:52 • 16h ago
 
 ---
 
@@ -260,7 +260,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 565 • 💬 202 • ⏱️ 14:40 • 10h ago
+👁️ 9K • 👍 565 • 💬 202 • ⏱️ 14:40 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 3:33 • 13h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 3:33 • 15h ago
 
 ---
 
@@ -280,7 +280,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 296 • 👍 22 • 💬 2 • ⏱️ 7:25 • 1h ago
+👁️ 296 • 👍 22 • 💬 2 • ⏱️ 7:25 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 981 • 👍 41 • 💬 3 • ⏱️ 0:30 • 3h ago
+👁️ 981 • 👍 41 • 💬 3 • ⏱️ 0:30 • 5h ago
 
 ---
 

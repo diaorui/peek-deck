@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T03:28:52.826663+00:00'
+updated: '2026-08-07T05:16:58.116470+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 03:28 UTC  
+**Last Updated:** August 07, 2026 at 05:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,442.61
+### $64,311.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +2.4%  
-**30d:** +1.6%  
-**90d:** -21.7%  
+**24h:** -0.9%  
+**7d:** +2.3%  
+**30d:** +1.5%  
+**90d:** -21.8%  
 **1y:** -45.0%  
 
 ---
@@ -111,7 +111,7 @@ Hacker keeps getting message, I wonder if they really found his location.
 
 NVK is currently deleting old posts from 2020 to try to clean up the history. Screenshot them while you can. They will all be gone soon.
 
-🔗 [X (formerly Twitter)](https://x.com/zherbert/status/2083377265593692242) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/zherbert/status/2083377265593692242) • 2d ago
 
 ---
 
@@ -157,6 +157,14 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s (BTC) low price volatility doesn’t necessarily mean low risk: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk)**
+
+The day ahead in crypto: Aug. 6, 2026
+
+CoinDesk • 17h ago
+
+---
+
 **[CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a 'late-stage bear market'](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market)**
 
 Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
@@ -165,9 +173,25 @@ The Block • 1d ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
 
-Bloomberg • 7h ago
+(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
+
+Yahoo Finance • 2h ago
+
+---
+
+**[MARA Holdings Inc (MARA) (Q2 2026) Earnings Call Highlights: Strategic Expansion and Bitcoin ...](https://uk.finance.yahoo.com/news/mara-holdings-inc-mara-q2-050428345.html)**
+
+MARA doubles power capacity to 4.8 GW while navigating a challenging Bitcoin price environment with a $611.3 million net loss.
+
+Yahoo Finance UK • 12m ago
+
+---
+
+**[Keeping Your Bitcoin Riches Safe Has Never Been Harder](https://www.bloomberg.com/opinion/articles/2026-08-05/bitcoin-keeping-your-crypto-stash-safe-has-never-been-harder)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -175,15 +199,7 @@ Bloomberg • 7h ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 8h ago
-
----
-
-**[Eric Trump-Led American Bitcoin To Adopt Michael Saylor’s Approach of Selling BTC to Support Economics? CEO Says…](https://finance.yahoo.com/markets/crypto/articles/eric-trump-led-american-bitcoin-223120136.html)**
-
-American Bitcoin Corp. CEO Mike Ho sidestepped questions on Monday about selling Bitcoin to fund equity buybacks, a move some other companies in the industry have pursued. American Bitcoin’s ‘North Star’ During American Bitcoin’s second-quarter earnings call, Ho was questioned...
-
-Yahoo Finance • 1d ago
+FOX 2 • 10h ago
 
 ---
 
@@ -191,23 +207,7 @@ Yahoo Finance • 1d ago
 
 Breeze's new app, Glow, allows Bitcoin developers to see what's working under the hood with the Lightning wallet so they can build their own products.
 
-Bitcoin Magazine • 9h ago
-
----
-
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 8h ago
-
----
-
-**[Bitcoin (BTC), ether (ETH) benefit as altcoins lose their luster: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens)**
-
-The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.
-
-CoinDesk • 16h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
@@ -215,23 +215,21 @@ CoinDesk • 16h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
-**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
 
-Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Benzinga • 1d ago
+Seeking Alpha • 10h ago
 
 ---
 
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
-
-24/7 Wall St. • 1d ago
+Bloomberg • 9h ago
 
 ---
 
@@ -259,7 +257,7 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WASHINGTON—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is taking further action against the Iranian regime’s desperate efforts to monetize the Strait of Hormuz and prop up the nation’s failing economy.  OFAC is designating two firms integral to an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme that forces commercial vessels to purchase mandatory maritime “insurance” to transit the Strait.  Although this coverage purports to protect vessels from risks such as seizures, these risks are overwhelmingly created by Iran itself.  Through the Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority, the regime brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions—allowing Iran to tighten control over shipping activity and funnel funds into IRGC operations.“With its economy in freefall and inflation in the triple digits, the regime is desperate for cash,” said Secretary of the Treasury Scott Bessent. “The United States will not allow Iran to hold global commerce hostage or use international shipping to finance the IRGC’s terrorism, aggression, and repression.”                            OFAC is also reinforcing U.S. military interdiction efforts and intensifying pressure on Iran’s energy shipments by imposing sanctions on several vessels that transported Iranian crude oil and petrochemical products.  Since the beginning of the year, OFAC has sanctioned over 100 vessels linked to Iran’s shadow fleet, a covert logistics network that enables the regime to keep oil revenues flowing despite international sanctions. Today’s action was taken pursuant to Executive Order (E.O.) 13902, which targets Iran’s petroleum and petrochemical sectors and advances the President’s National Security Presidential Memorandum 2 (NSPM-2), to impose maximum economic pressure on Iran. IRANIAN Regime’s EXTORTION SCHEMEIn an attempt to prop up revenue streams decimated by Operation Epic Fury, Iran has established illegitimate schemes through the Persian Gulf Marine Insurance Company (PGMIC) and HormuzSafe Marine Services Authority, also known as Hormuz Safe, to extort vessels attempting to conduct routine commercial passages through the Strait of Hormuz.  Established by the Central Insurance of the Islamic Republic of Iran, Iran’s primary insurance regulator, the PGMIC brokers and issues insurance policies approved by the U.S.-designated, IRGC-backed Persian Gulf Strait Authority (PGSA).  The insurance covers risks, most of which are created by Iran itself, such as vessel seizures, and aims to generate revenue to fund the regime’s terror and corruption. PGSA was designated pursuant to E.O. 13224, as amended, on May 27, 2026 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the IRGC. Hormuz Safe is an Iranian digital insurance firm that advertises itself as a company offering trusted maritime services, including insurance, traffic control, security, and emergency response, to vessels transiting the Strait of Hormuz.  Developed by Iran’s Ministry of Economy, it accepts payment in Bitcoin and other digital assets as part of the regime’s attempts to bypass Western sanctions. Disgraced regime financier Babak Morteza Zanjani, who was sanctioned earlier this year, promoted Hormuz Safe to his social media followers.  Hormuz Safe generates revenue on behalf of the IRGC in an attempt to give the regime tighter control over shipping activity. The Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority are being designated pursuant to E.O. 13902 for operating in the financial sector of the Iranian economy. shadow fleet ACTORSTreasury is also taking action today against multiple shadow fleet vessels responsible for transporting millions of barrels of Iranian crude oil and petroleum products.  Iran’s shadow fleet provides an essential lifeline to the Iranian regime, which relies on oil sales to bolster its ailing economy. The Marshall Islands-flagged chemical/products tanker WELL SAIL (IMO 9321938), owned, operated, and managed by China-based Qi Hang Ship Management Limited, has transported hundreds of thousands of barrels of Iranian petroleum products to the United Arab Emirates (UAE) in 2026. The Mozambique-flagged crude oil tanker LILY (IMO 9294331), owned and operated by Hong Kong-based Confident Apex Limited, has transported millions of barrels of Iranian oil since 2025.The unknown-flagged crude oil tanker AL SALMI (IMO 9298296), owned and operated by Hong Kong-based Billion Nexus Int’l Co., Limited, has transported hundreds of thousands of barrels of Iranian oil to China since 2025.The Barbados-flagged crude oil tanker BREEZE V (IMO 9259355), owned and operated by Hong Kong-based Nevada Spirit Company Limited, has transported millions of barrels of Iranian oil to China in 2026. The Barbados-flagged crude oil tanker NATSUMI (IMO 9331244), owned, operated, and managed by Hong Kong-based Marinova Freight Limited, has transported millions of barrels of Iranian crude oil to China since 2022. The Vanuatu-flagged crude oil tanker CRYSTAL (IMO 9223887), owned, operated, and managed by Hong Kong and Marshall Islands-based Vast Mighty Limited, has transported millions of barrels of Iranian crude oil to China in 2026. The Vanuatu-flagged crude oil tanker NIRETA (IMO 9237785), owned, operated, and managed by Marshall Islands-based Ocean Tranquility Limited, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026. The Barbados-flagged crude oil tanker YEHOPE (IMO 9243320), owned by Marshall Islands-based Branch Saying International Trading Co Ltd, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026.   The following companies are being designated pursuant to E.O. 13902 for operating in the petroleum sector of the Iranian economy: Qi Hang Ship Management Limited;Marinova Freight Limited;Vast Mighty Limited;Ocean Tranquility Limited; Branch Saying International Trading Co Ltd;Confident Apex Limited;Billion Nexus Int’l Co., Limited; andNevada Spirit Company Limited.The following vessels are being identified as blocked property of the previously identified blocked persons: WELL SAIL (Qi Hang Ship Management Limited);NATSUMI (Marinova Freight Limited); CRYSTAL (Vast Mighty Limited); NIRETA (Ocean Tranquility Limited); YEHOPE (Branch Saying International Trading Co Ltd);LILY (Confident Apex Limited);AL SALMI (Billion Nexus Int’l Co., Limited); andBREEZE V (Nevada Spirit Company Limited). SANCTIONS IMPLICATIONSAs a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked.  Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons. Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons.  OFAC may impose civil penalties for sanctions violations on a strict liability basis.  OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons.  The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person.  Non-U.S. persons are also prohibited from causing or conspiring to cause U.S. persons to wittingly or unwittingly violate U.S. sanctions, as well as engaging in conduct that evades U.S. sanctions.  Individuals located in the U.S. or abroad who provide information about sanctions violations to FinCEN’s whistleblower incentive program may be eligible for awards if the information they provide leads to a successful enforcement action that results in monetary penalties exceeding $1,000,000. The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law.  The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior.  For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.Click here for more information on the persons designated and any property identified as blocked property today.###
 
-⬆️ 10 • 💬 2 • 4d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
+⬆️ 10 • 💬 2 • 5d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
 
 ---
 
@@ -314,7 +312,7 @@ A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal
 
 Try out Artifacts created by Claude users
 
-⬆️ 2 • 💬 0 • 1d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
+⬆️ 2 • 💬 0 • 2d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
 
 ---
 
@@ -328,7 +326,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 334 • 💬 45 • ⏱️ 8:03 • 9h ago
+👁️ 4K • 👍 334 • 💬 45 • ⏱️ 8:03 • 11h ago
 
 ---
 
@@ -338,7 +336,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 2K • 💬 146 • ⏱️ 24:00 • 3h ago
+👁️ 15K • 👍 2K • 💬 146 • ⏱️ 24:00 • 5h ago
 
 ---
 
@@ -348,7 +346,7 @@ Adam Lynch joins The Watch List to break down the current performance trends for
 
 📺 Schwab Network
 
-👁️ 3K • 👍 56 • 💬 6 • ⏱️ 6:13 • 7h ago
+👁️ 3K • 👍 56 • 💬 6 • ⏱️ 6:13 • 9h ago
 
 ---
 
@@ -378,7 +376,7 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 10K • 👍 930 • 💬 128 • ⏱️ 20:41 • 10h ago
+👁️ 10K • 👍 930 • 💬 128 • ⏱️ 20:41 • 12h ago
 
 ---
 
@@ -418,7 +416,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 475 • 💬 77 • ⏱️ 12:39 • 2h ago
+👁️ 5K • 👍 475 • 💬 77 • ⏱️ 12:39 • 4h ago
 
 ---
 
