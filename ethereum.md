@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T19:53:14.972434+00:00'
+updated: '2026-08-07T20:40:58.870014+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 19:53 UTC  
+**Last Updated:** August 07, 2026 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +3.4%  
-**30d:** +9.3%  
-**90d:** -19.5%  
-**1y:** -52.4%  
+**24h:** +0.4%  
+**7d:** +3.8%  
+**30d:** +9.7%  
+**90d:** -19.2%  
+**1y:** -52.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -170,7 +170,7 @@ Step Security • 3d ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 11h ago
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-theblock.co • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -186,15 +186,15 @@ theblock.co • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
-**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
+**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.benzinga.com/crypto/cryptocurrency/26/08/61012211/bitcoin-holds-above-64000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote)**
 
-A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
+Bitcoin is trading above $64,000 as markets await the CLARITY Act decision before the August recess. Analysts mark weekly close as key levels to watch for the next major move.
 
-ethereum.org • 2d ago
+Benzinga • 1d ago
 
 ---
 
@@ -202,15 +202,23 @@ ethereum.org • 2d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
+**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
 
-Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
+A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-FXStreet • 16h ago
+blog.ethereum.org • 2d ago
+
+---
+
+**[Crypto Today: Bitcoin and Ethereum gain ground as XRP extends decline amid potential Iran-Oman deal](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-gain-ground-as-xrp-extends-decline-amid-potential-iran-oman-deal-202608061100)**
+
+The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
+
+FXStreet • 1d ago
 
 ---
 
@@ -219,12 +227,6 @@ FXStreet • 16h ago
 Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
 
 Crypto Briefing • 1d ago
-
----
-
-**[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
-
-FinanceFeeds • 2h ago
 
 ---
 
@@ -248,7 +250,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 3h ago
+👁️ 537 • 👍 40 • 💬 3 • ⏱️ 1:08 • 4h ago
 
 ---
 
@@ -268,7 +270,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 17h ago
+👁️ 6K • 👍 437 • 💬 61 • ⏱️ 43:51 • 18h ago
 
 ---
 
@@ -288,7 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 17h ago
+👁️ 3K • 👍 202 • 💬 6 • ⏱️ 7:25 • 18h ago
 
 ---
 
@@ -298,7 +300,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 8h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 9h ago
 
 ---
 
@@ -318,7 +320,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 20h ago
+👁️ 6K • 👍 110 • 💬 14 • ⏱️ 0:30 • 21h ago
 
 ---
 

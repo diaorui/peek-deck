@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T19:53:14.967141+00:00'
+updated: '2026-08-07T20:40:58.864542+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 19:53 UTC  
+**Last Updated:** August 07, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,827.51
+### $64,989.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +3.0%  
-**30d:** +2.2%  
-**90d:** -21.2%  
-**1y:** -44.7%  
+**24h:** +0.8%  
+**7d:** +3.4%  
+**30d:** +2.6%  
+**90d:** -20.9%  
+**1y:** -44.5%  
 
 ---
 
@@ -106,7 +106,7 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-6h ago
+7h ago
 
 ---
 
@@ -114,19 +114,19 @@ after years of working and saving, I just started stacking this week. put in rou
 
 The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but 
 
 Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
 
-5h ago
+6h ago
 
 ---
 
@@ -146,13 +146,13 @@ Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Serve
 
 If you
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 4h ago
 
 ---
 
 **[Long-term hodlers moved ~210,000 BTC amid Coldcard fallout. The movement appears to be custody migration rather than capitulation, with Bitcoin moving into newly secured self-custody setups and regulated custodians, including spot ETFs.](https://www.reddit.com/r/Bitcoin/comments/1vi75f4/longterm_hodlers_moved_210000_btc_amid_coldcard/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -160,49 +160,33 @@ If you
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s volatility has nearly disappeared. The risk hasn’t: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t)**
+**[Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)**
 
-The day ahead in crypto: Aug. 7, 2026
+Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
-CoinDesk • 8h ago
-
----
-
-**[If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today](https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html)**
-
-Pick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment. Bitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And ...
-
-Yahoo Finance • 3d ago
+CoinDesk • 11h ago
 
 ---
 
-**[Live updates: Bitcoin holding near $65,000 as U.S. jobs data falls short of forecasts](https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind)**
+**[CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a 'late-stage bear market'](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market)**
 
-Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.
+Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
 
-CoinDesk • 3h ago
+The Block • 2d ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Clarity Act Hopes Dive As Senate Delays Vote Until After Summer Recess](https://www.investors.com/news/clarity-act-senate-vote-recess-deadline-cryptocurrency-market-structure-bitcoin/)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
-The Senate will not vote on the Clarity Act ahead of the August recess, delaying it until September. Odds for passing in 2026 fall.
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Investor's Business Daily • 4h ago
-
----
-
-**[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
-
-The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
-
-Bitcoin Magazine • 23h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -214,6 +198,14 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets](https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app)**
+
+The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
@@ -222,19 +214,25 @@ Forbes • 1d ago
 
 ---
 
-**[CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a 'late-stage bear market'](https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market)**
-
-Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.
-
-theblock.co • 2d ago
-
----
-
 **[Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC](https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc)**
 
 A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
+
+---
+
+**[Billionaire reveals how he made $15 billion using ChatGPT](https://www.thestreet.com/crypto/markets/billionaire-reveals-how-he-made-15-billion-using-chatgpt)**
+
+thestreet.com • 1d ago
+
+---
+
+**[Bitcoin Could Split in Two This Weekend: What Holders Need to Know](https://beincrypto.com/bip-110-mandatory-signaling-bitcoin-core-warning/)**
+
+BIP-110's author told users to abandon Bitcoin Core. Michael Saylor says its backers should stand down instead.
+
+BeInCrypto • 9h ago
 
 ---
 
@@ -278,7 +276,7 @@ Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a
 
 BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it. Live wallet tracker.
 
-⬆️ 8 • 💬 2 • 3d ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
+⬆️ 8 • 💬 2 • 4d ago • [hasthebitcoinmoved.com](https://hasthebitcoinmoved.com/)
 
 ---
 
@@ -331,7 +329,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 18h ago
+👁️ 19K • 👍 955 • 💬 118 • ⏱️ 12:39 • 19h ago
 
 ---
 
@@ -341,7 +339,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 12h ago
+👁️ 8K • 👍 388 • 💬 49 • ⏱️ 11:04 • 13h ago
 
 ---
 
@@ -351,7 +349,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 5h ago
+👁️ 6K • 👍 798 • 💬 193 • ⏱️ 1:09:52 • 6h ago
 
 ---
 
@@ -371,7 +369,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 20h ago
+👁️ 87K • 👍 5K • 💬 355 • ⏱️ 24:00 • 21h ago
 
 ---
 
@@ -381,7 +379,7 @@ In this video I break down the latest Bitcoin price action to determine if the r
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 7h ago
+👁️ 4K • 👍 318 • 💬 16 • ⏱️ 7:59 • 8h ago
 
 ---
 

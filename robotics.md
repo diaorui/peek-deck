@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T19:53:14.975328+00:00'
+updated: '2026-08-07T20:40:58.872886+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 19:53 UTC  
+**Last Updated:** August 07, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 **[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 2h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 3h ago
 
 ---
 
@@ -72,13 +72,13 @@ ROS News for the Week August 3rd, 2026          Congratulations to our Japanese 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-14h ago
+15h ago
 
 ---
 
 **[[Feedback Request] Master’s Thesis: Edge-Orchestrated Smart Home using ROS 2, MPC, and Micro-PLC architecture](https://www.reddit.com/r/robotics/comments/1vhza34/feedback_request_masters_thesis_edgeorchestrated/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ So I saw a youtube short where someone presented double servo diff action that a
 
 Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 16h ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Vídeo de hace unos años donde probé unos mini músculos que me fabriqué util
 
 Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-23h ago
+1d ago
 
 ---
 
@@ -120,21 +120,13 @@ HII • 1d ago
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+**[Can Robots Save Japan’s Aging Cherry Blossom Farmers?](https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
-
-Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
-
-Investor's Business Daily • 1d ago
 
 ---
 
@@ -148,7 +140,7 @@ USNI News • 1d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 5h ago
+The Information • 6h ago
 
 ---
 
@@ -164,7 +156,7 @@ Business Insider • 2d ago
 
 Humans will get the AI models they deserve
 
-theregister.com • 9h ago
+The Register • 10h ago
 
 ---
 
@@ -184,6 +176,14 @@ TechCrunch • 1d ago
 
 ---
 
+**[Beyond VLAs: How World Action Models Reshape Robot Manipulation | NVIDIA Technical Blog](https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/)**
+
+A central challenge in robotics is building policies that generalize beyond the demonstrations they’re trained on. A policy that succeeds in a training scene often fails when object shapes, positions…
+
+NVIDIA Developer • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +194,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 3K • 👍 46 • 💬 12 • ⏱️ 5:49 • 12h ago
+👁️ 3K • 👍 46 • 💬 12 • ⏱️ 5:49 • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 Tyrecordslol
 
-👁️ 870K • 👍 55K • 💬 3K • ⏱️ 0:58 • 9h ago
+👁️ 870K • 👍 55K • 💬 3K • ⏱️ 0:58 • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subs
 
 📺 TheAIGRID
 
-👁️ 33K • 👍 583 • 💬 44 • ⏱️ 9:54 • 6d ago
+👁️ 33K • 👍 583 • 💬 44 • ⏱️ 9:54 • 7d ago
 
 ---
 
@@ -252,7 +252,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 13K • 👍 1K • 💬 57 • ⏱️ 1:02 • 18h ago
+👁️ 13K • 👍 1K • 💬 57 • ⏱️ 1:02 • 19h ago
 
 ---
 
@@ -260,7 +260,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Ben Esherick
 
-👁️ 147K • 👍 10K • 💬 306 • ⏱️ 0:35 • 19h ago
+👁️ 147K • 👍 10K • 💬 306 • ⏱️ 0:35 • 20h ago
 
 ---
 
