@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T21:38:40.587055+00:00'
+updated: '2026-08-07T22:35:40.422925+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 21:38 UTC  
+**Last Updated:** August 07, 2026 at 22:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,913.49
+### $1,913.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.6%  
 **7d:** +3.8%  
 **30d:** +9.7%  
 **90d:** -19.2%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -150,14 +150,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://finance.yahoo.com/markets/crypto/articles/why-hasn-t-xrp-hit-165702084.html)**
-
-Ripple just secured a national bank charter, launched a stablecoin clearing billions in trades, and closed a years-long SEC battle, yet XRP sits 72% below a price it set in 2018. The reasons why reveal a fundamental tension built into how XRP was designed.
-
-Yahoo Finance • 2d ago
-
----
-
 **[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
@@ -166,11 +158,67 @@ Step Security • 3d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+
+TradingView • 6h ago
+
+---
+
 **[ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)**
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 2d ago
+
+---
+
+**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
+
+Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
+
+AMBCrypto • 21h ago
+
+---
+
+**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
+
+A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
+
+ethereum.org • 2d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
+
+Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
+
+FXStreet • 19h ago
+
+---
+
+**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13h ago
 
 ---
 
@@ -179,54 +227,6 @@ CoinDesk • 13h ago
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
 The Block • 3d ago
-
----
-
-**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 12h ago
-
----
-
-**[Bitcoin Holds Above $64,000 as Ethereum Stays Firm, XRP, Dogecoin Slip Ahead of CLARITY Act Vote](https://www.benzinga.com/crypto/cryptocurrency/26/08/61012211/bitcoin-holds-above-64000-as-ethereum-stays-firm-xrp-dogecoin-slip-ahead-of-clarity-act-vote)**
-
-Bitcoin is trading above $64,000 as markets await the CLARITY Act decision before the August recess. Analysts mark weekly close as key levels to watch for the next major move.
-
-Benzinga • 1d ago
-
----
-
-**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
-
-Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
-
-AMBCrypto • 20h ago
-
----
-
-**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
-
-A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
-
-blog.ethereum.org • 2d ago
-
----
-
-**[Crypto Today: Bitcoin and Ethereum gain ground as XRP extends decline amid potential Iran-Oman deal](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-gain-ground-as-xrp-extends-decline-amid-potential-iran-oman-deal-202608061100)**
-
-The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
-
-FXStreet • 1d ago
-
----
-
-**[Coinbase suspends six non-USD pairs to consolidate liquidity, affects Ethereum outlook](https://cryptobriefing.com/coinbase-suspends-six-non-usd-pairs-to-consolidate-liquidity-affects-ethereum/)**
-
-Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
-
-Crypto Briefing • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 1h ago
+👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 2h ago
 
 ---
 
@@ -260,7 +260,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 5h ago
+👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 19h ago
+👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 20h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 19h ago
+👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 20h ago
 
 ---
 
@@ -320,7 +320,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 10h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 11h ago
 
 ---
 
@@ -330,7 +330,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 22h ago
+👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 23h ago
 
 ---
 

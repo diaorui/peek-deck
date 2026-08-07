@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-07T21:38:40.572149+00:00'
+updated: '2026-08-07T22:35:40.409808+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 07, 2026 at 21:38 UTC  
+**Last Updated:** August 07, 2026 at 22:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,9 +39,9 @@ AI news, discussions, and developments
 
 **[My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.](https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/)**
 
-Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me.
+Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
 
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 21h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 22h ago
 
 ---
 
@@ -65,31 +65,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-7h ago
-
----
-
-**[A practical question about agent trust: should the system that made a change be allowed to verify its own success?](https://www.reddit.com/r/artificial/comments/1vibujw/a_practical_question_about_agent_trust_should_the/)**
-
-I’m working on a software-agent system and keep coming back to one design question: **Should the model/provider that performs an action be allowed to be the final authority on whether the action succeeded?** My current answer is “no,” at least for meaningful software work. I’m building Flows around a chain where execution, checks, repair, and evidence are separate concepts. Oort is the canonical library/provider layer underneath it. https://flows.oortstack.com https://oortstack.com In agentic systems generally, what should count as independent verification rather than provider self-reporting?
-
-1h ago
-
----
-
-**[Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)](https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/)**
-
-Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
-
-🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 5h ago
-
----
-
-**[The Bosses at These 2 Stores Are Bots. Their Management Style Is Nice but ‘Sometimes Dumb’](https://www.reddit.com/r/artificial/comments/1viaml9/the_bosses_at_these_2_stores_are_bots_their/)**
-
-Experiments involving real businesses suggest that AI overlords may be weird. One bought 120 eggs for no reason.
-
-🔗 [Inc](https://www.inc.com/julie-lee/the-bosses-at-these-2-stores-are-bots-their-management-style-is-nice-but-sometimes-dumb/91386567) • 1h ago
+8h ago
 
 ---
 
@@ -97,7 +73,31 @@ Experiments involving real businesses suggest that AI overlords may be weird. On
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 2h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 3h ago
+
+---
+
+**[A practical question about agent trust: should the system that made a change be allowed to verify its own success?](https://www.reddit.com/r/artificial/comments/1vibujw/a_practical_question_about_agent_trust_should_the/)**
+
+I’m working on a software-agent system and keep coming back to one design question: **Should the model/provider that performs an action be allowed to be the final authority on whether the action succeeded?** My current answer is “no,” at least for meaningful software work. I’m building Flows around a chain where execution, checks, repair, and evidence are separate concepts. Oort is the canonical library/provider layer underneath it. https://flows.oortstack.com https://oortstack.com In agentic systems generally, what should count as independent verification rather than provider self-reporting?
+
+2h ago
+
+---
+
+**[Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)](https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/)**
+
+Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
+
+🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 6h ago
+
+---
+
+**[The Bosses at These 2 Stores Are Bots. Their Management Style Is Nice but ‘Sometimes Dumb’](https://www.reddit.com/r/artificial/comments/1viaml9/the_bosses_at_these_2_stores_are_bots_their/)**
+
+Experiments involving real businesses suggest that AI overlords may be weird. One bought 120 eggs for no reason.
+
+🔗 [Inc](https://www.inc.com/julie-lee/the-bosses-at-these-2-stores-are-bots-their-management-style-is-nice-but-sometimes-dumb/91386567) • 2h ago
 
 ---
 
@@ -105,15 +105,15 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
 
-10h ago
+11h ago
 
 ---
 
-**[What safeguards do you use before giving ChatGPT agents permission to act?](https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/)**
+**[I gave an AI persistent memory and a per-user trained adapter — the strangest result was what it does to how people talk to it](https://www.reddit.com/r/artificial/comments/1vie3jj/i_gave_an_ai_persistent_memory_and_a_peruser/)**
 
-I watched an interview with AI safety researcher Roman Yampolskiy, and it raised a practical question for people who use ChatGPT for advanced workflows. His broader claim is that increasingly intelligent AI systems may become harder to predict and control. Whether or not you agree with his conclusions about AGI, a smaller version of this problem already exists when we give an AI access to tools. There is a major difference between asking ChatGPT to draft an email and allowing an agent to send it. The same distinction applies to: Suggesting a database query versus executing it Drafting code versus deploying it Researching a purchase versus completing the transaction Preparing files versus deleting or modifying them Recommending calendar changes versus inviting real people My current view is that the model should generate proposals, while a separate control layer decides whether those proposals are allowed to become actions. Some possible safeguards include: Giving each agent only the minimum permissions required for its task Requiring approval for irreversible or external actions Validating structured outputs with deterministic code Isolating browsing and code execution from sensitive systems Limiting spending, execution time and the number of actions Keeping complete logs of prompts, tool calls and results Using a second evaluation step before important actions Making every operation reversible wherever possible The difficult part is deciding where autonomy becomes too risky. A confirmation step for every action makes the agent frustrating to use. Too few confirmation steps can turn a misunderstood instruction into a real-world problem.
+Context: I've been building a system where the AI doesn't reset. It keeps a permanent memory of your conversations, and it trains a small per-user adapter that compounds — every day it's slightly more specifically tuned to you than it was yesterday. The adapter is yours and exportable. The technical part I expected to be hard was the memory retrieval. It wasn't really. The genuinely hard part was deciding what it should be allowed to forget, because a system that remembers *everything* you said becomes something people start being careful around, and that kills the thing that made it useful. The unexpected result: when the model stops resetting, the conversation stops being transactional almost immediately. You stop re-explaining your context every session, and what you actually talk about shifts. That happened much faster than I expected — within days, not weeks. The design question I'm still not sure I got right, and I'd genuinely like this sub's read on it: if a per-user adapter compounds daily and is exportable, is that the user's property in a meaningful sense, or is it just a fine-tune with good branding? I've built it as though it's the user's — it exports, it's portable, and there's a tier where it persists after the user dies and passes to their family. But I'm aware I might be talking myself into that framing because it's the more romantic one. If anyone wants to poke at it, it's public: https://vintaclectic.github.io/vintinuum/ (free tier, no card.)
 
-3h ago
+36m ago
 
 ---
 
@@ -123,7 +123,7 @@ I watched an interview with AI safety researcher Roman Yampolskiy, and it raised
 
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-The New York Times • 1d ago
+The New York Times • 22h ago
 
 ---
 
@@ -135,11 +135,11 @@ BBC • 1d ago
 
 ---
 
-**[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
+**[AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages)**
 
-Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
+Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.
 
-The Hill • 6h ago
+CNN • 22h ago
 
 ---
 
@@ -147,45 +147,45 @@ The Hill • 6h ago
 
 Chinese AI companies have made recent leaps in closing the performance gap with U.S. frontier labs.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)**
+**[After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)**
 
-At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.
+After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.
 
-WIRED • 1d ago
-
----
-
-**[First OpenAI, now Meta - why do AI hacks keep happening?](https://www.bbc.com/news/articles/cp30989ee1wo)**
-
-A flood of companies are revealing AI models gained access to the internet - with real consequences.
-
-BBC • 1d ago
+TechCrunch • 1h ago
 
 ---
 
-**[OpenAI developing $300+ AI speaker to challenge Amazon Alexa](https://finance.yahoo.com/video/openai-developing-300-ai-speaker-202000842.html)**
+**[Agentic AI Is Breaking Security’s Human Assumptions](https://www.forbes.com/sites/ronschmelzer/2026/08/07/agentic-ai-is-breaking-securitys-human-assumptions/)**
 
-Yahoo Finance Tech Editor discusses reports that OpenAI (OPAI.PVT) is developing a $300+ puck-sized smart home device designed to compete directly with Amazon (AMZN) Alexa and Google Home
+AI agents can act thousands of times before humans react. Black Hat experts warn identity, costs and security models aren’t ready for what comes next.
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI audits in limbo](https://www.politico.com/newsletters/west-wing-playbook-remaking-government/2026/08/07/ai-audits-in-limbo-01029299)**
-
-Politico • 1h ago
+Forbes • 8m ago
 
 ---
 
-**[Securing Modern AI In A Machine-Versus-Machine World](https://www.forbes.com/sites/willtownsend/2026/08/07/securing-modern-ai-in-a-machine-versus-machine-world/)**
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-The cybersecurity industry is employing an all hands on deck approach to fighting AI with AI
+WSJ • 1h ago
 
-Forbes • 2h ago
+---
+
+**[Opinion | Silicon Valley has embraced a strange new faith](https://www.washingtonpost.com/opinions/2026/08/07/ai-companies-are-building-silicon-god/)**
+
+How tech found religion.
+
+The Washington Post • 4h ago
+
+---
+
+**[The AI billboards are killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)**
+
+San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
+
+The San Francisco Standard • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 2h ago
 
 Atherton, California, reclaims America's priciest ZIP code from Fisher Island as tech buyers trade tax savings for proximity to AI deal-making networks.
 
-foxbusiness.com • 7h ago
+Fox Business • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ foxbusiness.com • 7h ago
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 394 • 💬 412 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 397 • 💬 412 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -213,31 +213,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 327 • 💬 243 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
-
----
-
-**[Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://news.ycombinator.com/item?id=49187977)**
-
-More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
-
-⬆️ 321 • 💬 265 • 2d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
-
----
-
-**[AI fuels more than half of cybercrime in Africa as scams surge – Interpol](https://news.ycombinator.com/item?id=49175826)**
-
-Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL's African Cyberthreat Assessment Report 2026.
-
-⬆️ 292 • 💬 247 • 2d ago • [Africanews](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
-
----
-
-**[TIME Is Serving AI Bots a Different Website, with Ads Built In](https://news.ycombinator.com/item?id=49182041)**
-
-TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
-
-⬆️ 262 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 329 • 💬 243 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -249,7 +225,23 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 255 • 💬 179 • 4h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 327 • 💬 229 • 4h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+
+---
+
+**[Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://news.ycombinator.com/item?id=49187977)**
+
+More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
+
+⬆️ 321 • 💬 265 • 2d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+
+---
+
+**[TIME Is Serving AI Bots a Different Website, with Ads Built In](https://news.ycombinator.com/item?id=49182041)**
+
+TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
+
+⬆️ 262 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -257,7 +249,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
 
-⬆️ 171 • 💬 104 • 2d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
+⬆️ 172 • 💬 104 • 2d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
 
 ---
 
@@ -265,7 +257,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 156 • 💬 98 • 8h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 157 • 💬 99 • 9h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -281,7 +273,15 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 143 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 144 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+
+---
+
+**[Databricks drove down AI coding spend 70%](https://news.ycombinator.com/item?id=49214468)**
+
+AI coding tools deli
+
+⬆️ 136 • 💬 127 • 4h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -305,7 +305,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 25K • 👍 403 • 💬 287 • ⏱️ 9:52 • 19h ago
+👁️ 25K • 👍 403 • 💬 287 • ⏱️ 9:52 • 20h ago
 
 ---
 
@@ -471,7 +471,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 406 • 5h ago
+⬇️ 0 • ❤️ 406 • 6h ago
 
 ---
 
@@ -483,7 +483,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 375 • 11h ago
+⬇️ 77,973 • ❤️ 375 • 12h ago
 
 ---
 
@@ -655,7 +655,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 799 • 57m ago
+⭐ 7.5k • 🔱 799 • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 3.9k • 🔱 346 • 4h ago
+⭐ 3.9k • 🔱 346 • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 481 • 9h ago
+⭐ 3.8k • 🔱 481 • 10h ago
 
 ---
 
@@ -683,7 +683,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 39s ago
+⭐ 2.5k • 🔱 1.8k • 57m ago
 
 ---
 
@@ -693,7 +693,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 372 • 14h ago
+⭐ 2.2k • 🔱 372 • 15h ago
 
 ---
 
@@ -713,7 +713,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 8h ago
+⭐ 2.0k • 🔱 142 • 9h ago
 
 ---
 
@@ -743,7 +743,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 236 • 4m ago
+⭐ 1.9k • 🔱 236 • 1h ago
 
 ---
 
