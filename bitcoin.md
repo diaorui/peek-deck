@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T10:52:29.469257+00:00'
+updated: '2026-08-07T11:45:09.303917+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 10:52 UTC  
+**Last Updated:** August 07, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1299.68B
+**Market Cap:** $1304.29B
 Rank #1
 
-**Circulating Supply:** 20,066,837 BTC
+**Circulating Supply:** 20,066,887 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-48.4%
 
 **All-Time Low:** $67.81
-+95409.5%
++95751.6%
 
 ---
 
@@ -97,7 +97,7 @@ https://xcancel.com/LightningNewsX/status/2084923135174844805#m
 
 Hacker keeps getting message, I wonder if they really found his location.
 
-1d ago
+2d ago
 
 ---
 
@@ -161,7 +161,7 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Block • 1d ago
 
 Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week. Here's what it means for the price.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
 **[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 17h ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 15h ago
+FOX 2 • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-fortune.com • 1h ago
+fortune.com • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ fortune.com • 1h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 44m ago
+Forbes • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ Forbes • 44m ago
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -322,23 +322,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 369 • 💬 46 • ⏱️ 8:03 • 16h ago
-
----
-
 **[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 770 • 💬 95 • ⏱️ 12:39 • 9h ago
+👁️ 15K • 👍 814 • 💬 133 • ⏱️ 12:39 • 10h ago
 
 ---
 
@@ -348,7 +338,27 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 4K • 💬 227 • ⏱️ 24:00 • 11h ago
+👁️ 59K • 👍 4K • 💬 257 • ⏱️ 24:00 • 12h ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 386 • 💬 46 • ⏱️ 8:03 • 17h ago
+
+---
+
+**[BITCOIN IS ABOUT TO EXPLODE NOW !!!!!](https://www.youtube.com/watch?v=exJXTH2OUo8)**
+
+WEEX: https://themoon.co/WEEXrewards BTC position airdrop, trial funds & VIP3 upgrade BYBIT: http://themoon.co/Bybit ...
+
+📺 The Moon Show
+
+👁️ 3K • 👍 226 • 💬 14 • ⏱️ 6:33 • 3h ago
 
 ---
 
@@ -358,17 +368,17 @@ Bitcoin is at a major turning point and could all come down to this! Everyone is
 
 📺 Crypto Zombie
 
-👁️ 12K • 👍 1K • 💬 133 • ⏱️ 20:41 • 18h ago
+👁️ 12K • 👍 1K • 💬 136 • ⏱️ 20:41 • 19h ago
 
 ---
 
-**[Why Bitcoin Forks Are Beautiful](https://www.youtube.com/watch?v=-88OWS7dxj8)**
+**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin forks are a beautiful ...
+Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
 
-📺 Bitcoin University
+📺 The Diary Of A CEO
 
-👁️ 8K • 👍 992 • 💬 253 • ⏱️ 12:33 • 21h ago
+👁️ 641K • 👍 18K • 💬 3K • ⏱️ 1:39:55 • 1d ago
 
 ---
 
@@ -378,7 +388,7 @@ Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING 
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 576 • 💬 97 • ⏱️ 23:41 • 1d ago
+👁️ 10K • 👍 578 • 💬 97 • ⏱️ 23:41 • 1d ago
 
 ---
 
@@ -386,39 +396,29 @@ Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING 
 
 After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
 
-📺 Filip Martinsson
+📺 Filip
 
-👁️ 1K • 👍 46 • 💬 35 • ⏱️ 10:08 • 22h ago
-
----
-
-**[Clarity Act DELAYED! What this means for Crypto](https://www.youtube.com/watch?v=BQXrc3OBLBk)**
-
-Crypto is entering a critical decision window as Bitcoin tests major resistance while key regulatory and Ethereum developments ...
-
-📺 Crypto Banter
-
-👁️ 20K • 👍 1K • 💬 33 • ⏱️ 21:53 • 19h ago
+👁️ 2K • 👍 49 • 💬 42 • ⏱️ 10:08 • 23h ago
 
 ---
 
-**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
+**[URGENT BTC UPDATE:  The Bitcoin CRASH is About to Resume to Finish the Mother of BTC CRASHES](https://www.youtube.com/watch?v=bTX5Np_ZQVk)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Crypto Rover
+📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 385 • 💬 36 • ⏱️ 7:37 • 4h ago
+👁️ 4K • 👍 423 • ⏱️ 29:06 • 15h ago
 
 ---
 
-**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
+**[Bitcoin Core Sybil Attack (Happening Now)](https://www.youtube.com/watch?v=-VzfqDZC540)**
 
-BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss what looks like an ongoing Bitcoin ...
 
-📺 Luke Mikic
+📺 Bitcoin University
 
-👁️ 5K • 👍 367 • 💬 45 • ⏱️ 38:58 • 14h ago
+👁️ 14K • 👍 1K • 💬 319 • ⏱️ 8:03 • 1d ago
 
 ---
 

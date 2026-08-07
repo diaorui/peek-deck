@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T10:52:29.479005+00:00'
+updated: '2026-08-07T11:45:09.312355+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 10:52 UTC  
+**Last Updated:** August 07, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,83 +32,77 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Serious About Mushroom Picking](https://www.reddit.com/r/robotics/comments/1vfw5dt/serious_about_mushroom_picking/)**
+**[I tested my robotic lamp’s positioning repeatability -about 0.03 mm average deviation across 10 repetitions](https://www.reddit.com/r/robotics/comments/1vhe8ml/i_tested_my_robotic_lamps_positioning/)**
 
-​ 我们的机械臂已具备自主识别与精准采摘蘑菇的能力。算法需要真实环境数据来迭代优化，现面向行业伙伴开放测试合作——提供您的种植场景，我们共同探索自动化采收的边界。 Our robotic arm can now identify and pick mushrooms autonomously. To refine the algorithm, we need authentic field data. We’re opening test partnerships with growers or landholders – bring your environment, and let’s push the boundaries of automated harvesting together. - #RoboticArm #MushroomHarvesting #AgTech #SmartFarming #Partnership #自动化采收 #农业科技 #测试合作
+I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
 
-2d ago
-
----
-
-**[Mecanum wheel based robot for motion simulation](https://www.reddit.com/r/robotics/comments/1vf3oq8/mecanum_wheel_based_robot_for_motion_simulation/)**
-
-I designed this mecanum wheel based omnidirectional vehicle for motion simulation. It can move on 3 degrees of freedom : surge, sway and yaw. A VR tracker is used to ascertain the position & orientation of the rig at all times, and recenter it subtly.
-
-3d ago
+16h ago
 
 ---
 
-**[How to improve torsional strength here?](https://www.reddit.com/r/robotics/comments/1vfoaej/how_to_improve_torsional_strength_here/)**
+**[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-Thickening/adding more cross bracing isn’t an option because of range of motion. This is a hexapod, and every time it lifts up legs/shifts load to legs, it collapses a bit torsionally like this.
-
-2d ago
+2h ago
 
 ---
 
-**[Upcoming Global and Regional ROSCon Events](https://www.reddit.com/r/robotics/comments/1vfp1z8/upcoming_global_and_regional_roscon_events/)**
+**[Is it ok if I talk about one of my projects here?](https://www.reddit.com/r/robotics/comments/1vhre7f/is_it_ok_if_i_talk_about_one_of_my_projects_here/)**
 
-🗺️🇨🇦 ROSCon Global 2026 in Toronto 2026-09-22 => 2026-09-24 🚨 Last day for regular price tickets is Monday, August 24th 🔗 https://roscon.ros.org/2026/ 🇨🇳 ROSCon China 2026-10-16 => 2026-10-17 ℹ️ Details announced shortly 🔗 https://discourse.openrobotics.org/t/pre-announcing-roscon-china-2026/55027 🇬🇧 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROSCon UK in Edinburg 2026-10-21 => 2026-10-23 ℹ️ Registration now open 🔗 https://roscon.org.uk/2026/ 🇸🇬 ROSCon Singapore 2026-10-23 => 2026-10-26 ℹ️ CFP now open 🔗 https://roscon.ros.org/sg/2026/ 🇪🇸 ROSCon Spain in Valencia 2026-10-27 => 2026-10-28 ℹ️ Registration now open! 🔗 https://roscon.org.es/roscon2026/ROSConES2026.html 🇮🇹 ROSCon Italy in Bologna 2026-11-03 ℹ️ CFP opens soon 🔗 https://roscon.ros.org/it/2026/ 🇧🇪 ROSCon Belgium in Nivelles 2026-11-25 => 2026-11-26 ℹ️ Registration now open 🔗 https://roscon.ros.org/be/2026/ 🇹🇷 ROScon Turkey in Istanbul 2026-12-03 => 2026-12-04 ℹ️ CFP Open Soons 🔗 https://roscon.ros.org/tr/2026/
+Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-2d ago
-
----
-
-**[Mechanical jellyfish embellished with Swarovski](https://www.reddit.com/r/robotics/comments/1vfb1x7/mechanical_jellyfish_embellished_with_swarovski/)**
-
-Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, bringing couture craftsmanship to life through motion. Process video: https://www.youtube.com/shorts/5dN0aB0yEsE
-
-2d ago
+6h ago
 
 ---
 
-**[Evals for robotics](https://www.reddit.com/r/robotics/comments/1vfyf2n/evals_for_robotics/)**
+**[Probando con mini músculos neumáticos.](https://www.reddit.com/r/robotics/comments/1vhowfn/probando_con_mini_músculos_neumáticos/)**
 
-Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
+Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
 
-2d ago
-
----
-
-**[Parkinson's Patients Could Soon Benefit From Wearable Robotics](https://www.reddit.com/r/robotics/comments/1vfcy3w/parkinsons_patients_could_soon_benefit_from/)**
-
-Wearable robotics could help people with Parkinson’s disease remain mobile for longer. Research into soft exoskeletons has shown promising early results for freezing of gait, a symptom that can suddenly prevent someone from moving their feet forward and increase the risk of falling. These systems may also help patients walk farther and faster. The larger challenge is building a device that can adapt as symptoms change from day to day. Researchers are exploring sensors, movement data and AI to better understand a person’s intent and provide support at the right moment. The technology is still early, particularly when it comes to long-term use, comfort and cost, but it could offer another option between fully independent movement and relying on a wheelchair.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/parkinsons-patients-could-soon-benefit-from-wearable-robotics) • 2d ago
+🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 8h ago
 
 ---
 
-**[CoRL’26 discussion thread](https://www.reddit.com/r/robotics/comments/1vfbrsz/corl26_discussion_thread/)**
+**[Newbie question - differential vs two separated servos](https://www.reddit.com/r/robotics/comments/1vhfd7s/newbie_question_differential_vs_two_separated/)**
 
-Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for discussion, questions etc. Good luck with the reviews as well as the rebuttal!
+So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
 
-2d ago
-
----
-
-**[Multibot mk2 (MBt2) update](https://www.reddit.com/r/robotics/comments/1vf2mll/multibot_mk2_mbt2_update/)**
-
-Started this over a year ago, but got discouraged because of problems I didn't understand. Fixed the problems and wanted to share again. I made a github repo with all of the code and links included. [Github Repo](https://github.com/rrmudry/MBt2) Used standard multibuild parts for the body and modified parts for the legs, etc. Basics: ESP32 brain 2 SimpleFOC mini drivers 2 gm4108-120t gimbal motors 2 AS5600 magnetic encoders 1 MPU6050 IMU wheels are printed from TPU Bluetooth controlled Custom PCB links provided All of the coding completed in Google Antigravity (because I cannot code but always wanted to build something like this, sorry...so much shame). Want to add CYD (cheap yellow display for face) and autonomous navigation, wireless charging, ai chat interaction, basically I want to have a droid that can follow me around, someday.
-
-🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 3d ago
+15h ago
 
 ---
 
-**[Built a $23 leader arm for teleoperation](https://www.reddit.com/r/robotics/comments/1vedrhr/built_a_23_leader_arm_for_teleoperation/)**
+**[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vhg06t/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-Please don't mind the cables and the messy table. I am new to the VLA and robot arm side of robotics and was primarily working on the legged locomotion. I thought of building the lerobot kit to work on vla. I felt the price was a bit steep for me so decided to build my own leader arm with encoders instead of motors. Parts and price list : 6 x AS5600 encoder - 186rs x 6 = 1,116rs (~11.7 usd) 6 x 608 bearing - 30rs x 6 = 180rs (~1.9 usd) 1 x CJMCU TCA9548A I2C 8 Channel- 59rs (~0.6 usd) 1 x esp32 - 550rs (~5.8 usd) wires - 200rs (~2.1 usd) M3x10mm screws (40pcs) - 128rs (~1.3 usd) Total cost - 2,233 rs. (~ 23.5 usd) (excluding 3d printed parts cost) for context, price of one ST3215 (used in the lerobot kit) in india is around 2,200rs (~23 USD) Haven't put it on github yet but will do it in a few days after some improvements and cleanups, and edit this post with the link.
+Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
 
-3d ago
+15h ago
+
+---
+
+**[Pneumatic gripper.](https://www.reddit.com/r/robotics/comments/1vh5tml/pneumatic_gripper/)**
+
+I got this pneumatic gripper from my work because it needs a new o ring on the inside. It’s a SCHUNK 308910 and is normally worth quite a lot. I have no real use for it and don’t feel like getting a seal kit for it so I was wondering if anyone was interested in getting one that they can use on their own projects I figured it’s better if it gets used rather than being a desk ornament.
+
+21h ago
+
+---
+
+**[Bro's AI robot switched from basketball mode to reproduction mode](https://www.reddit.com/r/robotics/comments/1vgp4dm/bros_ai_robot_switched_from_basketball_mode_to/)**
+
+1d ago
+
+---
+
+**[Go 2 Pro voice controls](https://www.reddit.com/r/robotics/comments/1vhove8/go_2_pro_voice_controls/)**
+
+8h ago
+
+---
+
+**[We built a VR teleop setup where you move and our semi-humanoid follows. The interesting part isn't the grab.](https://www.reddit.com/r/robotics/comments/1vgwy78/we_built_a_vr_teleop_setup_where_you_move_and_our/)**
+
+Wanted to share what we've been working on: the Alicia-M, a semi-humanoid robot we built, running VR teleoperation. The operator wears a VR rig, moves naturally, and the robot mirrors the motion. No scripting, no coded trajectories. In the demo it picks up a cup, pours, and sets it back. The part worth talking about: people assume the hard problem is the grasp. It isn't. The hard part is that one good demo doesn't generalize. Move the cup two inches and the same arm motion that worked now overshoots the wrist angle, drifts the trajectory, and the pour runs too fast. Same intent, different outcome. That's the thing teleop surfaces clearly: robot control is less "repeat a perfect move" and more "adapt to where the world actually is." Shift the cup and the wrist angle, arm path, and pour all need to change with it. VR makes that legible because you feel the mismatch between your motion and the robot's in real time. We're treating these human demos as seed data for embodied learning, not just a control scheme. Curious how others here handle the demo-to-policy or sim-to-real gap. Are you collecting teleop demos, or going straight to reinforcement learning? Happy to answer questions about the rig, the kinematic mapping, or why we went semi-humanoid instead of full.
+
+1d ago
 
 ---
 
@@ -118,13 +112,13 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -140,13 +134,13 @@ Investor's Business Daily • 19h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 18h ago
+HII • 19h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-news.usni.org • 17h ago
+news.usni.org • 18h ago
 
 ---
 
@@ -162,7 +156,7 @@ businessinsider.com • 1d ago
 
 We recently added this group as investors think about SpaceX and growth in the sector.
 
-TheStreet Pro • 17h ago
+TheStreet Pro • 18h ago
 
 ---
 
@@ -178,7 +172,7 @@ TechCrunch • 1d ago
 
 These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -194,33 +188,21 @@ NBC News • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+📺 Tyrecordslol
 
-📺 NBC News
-
-👁️ 31K • 👍 306 • 💬 378 • ⏱️ 1:36 • 2d ago
+👁️ 67K • 👍 7K • 💬 509 • ⏱️ 0:58 • 1h ago
 
 ---
 
-**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
-Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
-📺 TESLA CAR WORLD
+📺 Cyrus Janssen
 
-👁️ 277K • 👍 3K • 💬 577 • ⏱️ 12:26 • 6d ago
-
----
-
-**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
-
-Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
-
-📺 TheAIGRID
-
-👁️ 32K • 👍 573 • 💬 43 • ⏱️ 9:54 • 6d ago
+👁️ 8K • 👍 442 • 💬 79 • ⏱️ 40:27 • 1d ago
 
 ---
 
@@ -240,7 +222,27 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 51K • 👍 977 • 💬 133 • ⏱️ 1:00 • 6d ago
+👁️ 52K • 👍 1K • 💬 135 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
+
+Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
+
+📺 TheAIGRID
+
+👁️ 32K • 👍 573 • 💬 43 • ⏱️ 9:54 • 6d ago
+
+---
+
+**[China&#39;s Unitree IPO puts global robotics race and geopolitics in focus](https://www.youtube.com/watch?v=X7lJ0GkmG5g)**
+
+Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that ...
+
+📺 CNBC International Live
+
+👁️ 670 • 👍 17 • 💬 5 • ⏱️ 5:49 • 4h ago
 
 ---
 
@@ -250,37 +252,7 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 2K • 👍 49 • 💬 15 • ⏱️ 6:44 • 1d ago
-
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 30K • 👍 658 • 💬 61 • ⏱️ 12:38 • 3d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 44K • 👍 3K • 💬 441 • ⏱️ 26:40 • 2d ago
-
----
-
-**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
-
-MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
-
-📺 Created to be Curious
-
-👁️ 871 • 👍 48 • 💬 3 • ⏱️ 2:05 • 9h ago
+👁️ 6K • 👍 93 • 💬 26 • ⏱️ 6:44 • 1d ago
 
 ---
 
@@ -290,7 +262,27 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 3K • 👍 82 • 💬 12 • ⏱️ 11:48 • 1d ago
+👁️ 3K • 👍 87 • 💬 11 • ⏱️ 11:48 • 1d ago
+
+---
+
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 44K • 👍 3K • 💬 444 • ⏱️ 26:40 • 2d ago
+
+---
+
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+
+📺 Alpha Central
+
+👁️ 110K • 👍 4K • 💬 2K • ⏱️ 20:28 • 1d ago
 
 ---
 
