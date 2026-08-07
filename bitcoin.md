@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T22:35:40.417620+00:00'
+updated: '2026-08-07T23:33:40.972628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 22:35 UTC  
+**Last Updated:** August 07, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Same as title.
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,13 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 8h ago
+
+---
+
+**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
+
+9h ago
 
 ---
 
@@ -100,25 +106,25 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-9h ago
+10h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-3h ago
+4h ago
+
+---
+
+**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+
+2h ago
 
 ---
 
 **[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
-13h ago
-
----
-
-**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
-
-8h ago
+14h ago
 
 ---
 
@@ -126,7 +132,15 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Result: there is no detected bias, and regular dice can easily and quickly be used to generate good randomness I saw some FUD that you need special casino dice, and you have to roll them in some special way, and it's easy to get it wrong, and the surface needs to be completely flat, float the dice in water to check they're balanced, etc etc loads of FUD reasons why dice rolling won't work. So I checked myself in the spirit of don't trust verify. I found three dice lying around my house in some old board games. I rolled them inside a plastic cup that I'd shake for a second or two, then put the cup down bottom-up. The dice bounce off the walls of the cup and each other many times, which creates huge unpredictability. I originally was only meaning to do this for 200 rolls, but then became hyperfocused and just kept going. This data is brought to you by weaponized autism. Rolling 50 dice this way only took me 2-3 minutes, and it would be even faster if I had more dice. Now in any sample there will be some variation just by chance. We can understand that boundary with math. The binomial distribution describes these dice rolls. The standard deviation of the binomial distribution is sqrt(N p (1-p)) where p is probability (1/6 in this case) and N is number of trials (1200 in this case). Put the numbers in the formula, work out the percentage and you get a standard deviation of 1.08%, which means there's a 63% chance that those percentages in my graph will deviate by that much (and therefore 37% that the deviation will be outside that range just by chance). Since my graph values are within that range there was no bias detected. I worked out that to detect bias down to 0.1% I would need to roll 138888 time and I'm not going to roll that much. The percentage standard deviation goes as 1/sqrtN so it only improves slowly as you do more rolls. I was not affected by the recent coldcard hack and I've never owned that wallet, but it's interesting and important to check and improve. I think the biggest thing people can do is multi-software multisig. This is easy to do as many bitcoin wallets have multisig like electrum and sparrow. You just click buttons in the UI and don't need to do any math. Multisig security is additive. It removes a single point of failure. If coldcard users had made a 2-of-2 multisig with the most malware-ridden online desktop computer you've ever seen, then it will still be better security than coldcard alone, and they would still have their bitcoins today because the online desktop would have to be hacked separately which is unlikely. I've seen a big misunderstanding that most important thing is good randomness for seed generation, so people are thinking of using radioactive decay or something. It's not, the most important thing for seed generation is having a secret number that nobody else knows. Dice are perfect for this because they can be understood by anyone, and they can be used offline and behind closed doors.
 
-8h ago
+9h ago
+
+---
+
+**[All attacks on Bitcoin are good](https://www.reddit.com/r/Bitcoin/comments/1vidcdf/all_attacks_on_bitcoin_are_good/)**
+
+Everyone's got their panties in a bunch about the recent hacks and exploits against things in the a Bitcoin ecosystem. I say it's a good thing. Bitcoin need to be able to exist, no, thrive, in an environment where anyone and everyone can attack it at any time. Every weakness needs to be found, exploited, and then fixed. Each hack, every attack, all the other scam bullshit in the ecosystem makes Bitcoin, the network, stronger. If Bitcoin can't survive constant assault, then it isn't worth a damn thing. If it ain't broke, you aren't trying hard enough.
+
+2h ago
 
 ---
 
@@ -138,21 +152,7 @@ Please update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Serve
 
 If you
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 6h ago
-
----
-
-**[Coldcard hack made me lose confidence in Bitcoin self custody](https://www.reddit.com/r/Bitcoin/comments/1vhvreh/coldcard_hack_made_me_lose_confidence_in_bitcoin/)**
-
-The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but now I’m questioning how much I can trust any hardware wallet company. Honestly considering selling my Bitcoin because of this. What are your thoughts long term? especially after AI finding vulnerabilities easily?
-
-13h ago
-
----
-
-**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
-
-1h ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2085755643659522240) • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Coldcard hack damaged my confidence in Bitcoin. I have a Ledger Nano S, but 
 
 Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -182,13 +182,13 @@ Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Dat
 
 Moore is also the author of "How to Get Rich in American History."
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ Seeking Alpha • 1d ago
 
 A soft July payrolls print pulled September rate-hike odds down, giving investors in risk assets hope. But Bitcoin remains in bear territory.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -226,7 +226,7 @@ thestreet.com • 1d ago
 
 Bitcoin and Ethereum remain resilient despite fading hopes for U.S. crypto legislation. Other altcoins, such as Solana and Dogecoin, are also performing well.
 
-benzinga.com • 6h ago
+benzinga.com • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Fortune • 13h ago
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 70 • 💬 23 • 4d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 70 • 💬 23 • 5d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -331,7 +331,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 9K • 👍 415 • 💬 52 • ⏱️ 11:04 • 15h ago
+👁️ 9K • 👍 415 • 💬 52 • ⏱️ 11:04 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ In this video I break down the latest Bitcoin price action to determine if the r
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 344 • 💬 16 • ⏱️ 7:59 • 10h ago
+👁️ 5K • 👍 344 • 💬 16 • ⏱️ 7:59 • 11h ago
 
 ---
 
@@ -351,7 +351,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 11K • 👍 1K • 💬 265 • ⏱️ 1:09:52 • 8h ago
+👁️ 11K • 👍 1K • 💬 265 • ⏱️ 1:09:52 • 9h ago
 
 ---
 
@@ -361,7 +361,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 991 • 💬 137 • ⏱️ 12:39 • 21h ago
+👁️ 20K • 👍 991 • 💬 137 • ⏱️ 12:39 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 93K • 👍 6K • 💬 375 • ⏱️ 24:00 • 22h ago
+👁️ 93K • 👍 6K • 💬 375 • ⏱️ 24:00 • 23h ago
 
 ---
 
@@ -391,7 +391,7 @@ Subscribe before the next Bitcoin supply shock. 190000 Bitcoin has quietly moved
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 255 • 💬 139 • ⏱️ 16:58 • 23h ago
+👁️ 3K • 👍 255 • 💬 139 • ⏱️ 16:58 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ LIVE – BIP-110 mandatory signaling hits block 961632 - TOMORROW - with miner s
 
 📺 BTC Sessions
 
-👁️ 1K • 👍 92 • 6h ago
+👁️ 1K • 👍 92 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T22:35:40.422925+00:00'
+updated: '2026-08-07T23:33:40.978056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 22:35 UTC  
+**Last Updated:** August 07, 2026 at 23:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -162,7 +162,7 @@ Step Security • 3d ago
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 9h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 6h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -210,7 +210,7 @@ ethereum.org • 2d ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 2h ago
+👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 6h ago
+👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 20h ago
+👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 20h ago
+👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 21h ago
 
 ---
 
@@ -320,7 +320,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 11h ago
+👁️ 1K • 👍 1 • ⏱️ 0:57 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ The hardest skill in investing isn't finding the winner. It's knowing when to le
 
 📺 Anthony Pompliano
 
-👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 23h ago
+👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 1d ago
 
 ---
 
