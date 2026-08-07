@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-07T05:16:58.116470+00:00'
+updated: '2026-08-07T06:46:30.563023+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 05:16 UTC  
+**Last Updated:** August 07, 2026 at 06:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,311.58
+### $64,390.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +2.3%  
-**30d:** +1.5%  
-**90d:** -21.8%  
+**24h:** -0.7%  
+**7d:** +2.4%  
+**30d:** +1.7%  
+**90d:** -21.7%  
 **1y:** -45.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1289.03B
+**Market Cap:** $1290.32B
 Rank #1
 
-**Circulating Supply:** 20,066,765 BTC
+**Circulating Supply:** 20,066,784 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.1%
+-49.0%
 
 **All-Time Low:** $67.81
-+94630.9%
++94740.0%
 
 ---
 
@@ -141,7 +141,7 @@ The network processed 20,364,529 transactions in July 2026, making it the second
 
 **[Coinkite](https://www.reddit.com/r/Bitcoin/comments/1vfyzcd/coinkite/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -157,11 +157,11 @@ Researchers have tied the faulty randomness code at the center of the Coldcard w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s (BTC) low price volatility doesn’t necessarily mean low risk: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk)**
+**[Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock](https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock)**
 
-The day ahead in crypto: Aug. 6, 2026
+Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.
 
-CoinDesk • 17h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -173,25 +173,17 @@ The Block • 1d ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://finance.yahoo.com/markets/crypto/articles/hack-supposedly-safe-bitcoin-tool-024624179.html)**
-
-(Bloomberg) -- Tim Lamb was vacationing in the Channel Islands with his family last week when news of the cryptocurrency hack reached him. He faced a quandary: whether to rush home and check on his Bitcoin, or finish the trip.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanOpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIshbia’s Mortgage Firm Suffers Record Drop on Dividend HaltWhy Do D
-
-Yahoo Finance • 2h ago
-
----
-
 **[MARA Holdings Inc (MARA) (Q2 2026) Earnings Call Highlights: Strategic Expansion and Bitcoin ...](https://uk.finance.yahoo.com/news/mara-holdings-inc-mara-q2-050428345.html)**
 
 MARA doubles power capacity to 4.8 GW while navigating a challenging Bitcoin price environment with a $611.3 million net loss.
 
-Yahoo Finance UK • 12m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[Keeping Your Bitcoin Riches Safe Has Never Been Harder](https://www.bloomberg.com/opinion/articles/2026-08-05/bitcoin-keeping-your-crypto-stash-safe-has-never-been-harder)**
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -199,7 +191,7 @@ Bloomberg • 1d ago
 
 Three St. Louis men were part of a plan to kidnap a cryptocurrency investor and potentially steal hundreds of millions of dollars in Bitcoin, according to newly-filed criminal charges.
 
-FOX 2 • 10h ago
+FOX 2 • 11h ago
 
 ---
 
@@ -207,15 +199,7 @@ FOX 2 • 10h ago
 
 Breeze's new app, Glow, allows Bitcoin developers to see what's working under the hood with the Lightning wallet so they can build their own products.
 
-Bitcoin Magazine • 11h ago
-
----
-
-**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
-
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-Forbes • 16h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -223,13 +207,31 @@ Forbes • 16h ago
 
 Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 12h ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
 
-Bloomberg • 9h ago
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 18h ago
+
+---
+
+**[Arthur Hayes Predicts Bitcoin 'Crack-Up Boom' When AI Credit Bubble Unwinds](https://www.benzinga.com/crypto/cryptocurrency/26/08/60959356/arthur-hayes-predicts-bitcoin-crack-up-boom-when-ai-credit-bubble-unwinds)**
+
+Arthur Hayes says an AI credit bubble and massive bailout could send Bitcoin to $1 million while Ethereum targets $5,000.
+
+Benzinga • 1d ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -326,87 +328,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 334 • 💬 45 • ⏱️ 8:03 • 11h ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 15K • 👍 2K • 💬 146 • ⏱️ 24:00 • 5h ago
-
----
-
-**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
-
-Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
-
-📺 Schwab Network
-
-👁️ 3K • 👍 56 • 💬 6 • ⏱️ 6:13 • 9h ago
-
----
-
-**[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
-
-Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
-
-📺 Fox Business Clips
-
-👁️ 64K • 👍 1K • 💬 414 • ⏱️ 8:52 • 1d ago
-
----
-
-**[This Could BREAK Bitcoin in 2028.](https://www.youtube.com/watch?v=dSEC1n8TT0Q)**
-
-Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING is on the table and we MUST evaluate it ...
-
-📺 Digital Asset News
-
-👁️ 10K • 👍 567 • 💬 96 • ⏱️ 23:41 • 1d ago
-
----
-
-**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
-
-Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 10K • 👍 930 • 💬 128 • ⏱️ 20:41 • 12h ago
-
----
-
-**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
-
-Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
-
-📺 Fireship
-
-👁️ 438K • 👍 17K • 💬 1K • ⏱️ 5:10 • 1d ago
-
----
-
-**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
-
-Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
-
-📺 Crypto Insider
-
-👁️ 13K • 👍 560 • 💬 8 • ⏱️ 41:36 • 1d ago
-
----
-
-**[Bitcoin is in Serious Trouble Again! [Warning]](https://www.youtube.com/watch?v=HUBTY70-qOM)**
-
-Join Ran as he unpacks why crypto is falling behind even as stocks and AI continue pushing to new highs. He breaks down the ...
-
-📺 Crypto Banter
-
-👁️ 22K • 👍 956 • 💬 35 • ⏱️ 23:55 • 2d ago
+👁️ 6K • 👍 359 • 💬 45 • ⏱️ 8:03 • 12h ago
 
 ---
 
@@ -416,7 +338,87 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 475 • 💬 77 • ⏱️ 12:39 • 4h ago
+👁️ 10K • 👍 687 • 💬 105 • ⏱️ 12:39 • 5h ago
+
+---
+
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 31K • 👍 3K • 💬 203 • ⏱️ 24:00 • 7h ago
+
+---
+
+**[My 15-Year Bitcoin Journey Ends Today](https://www.youtube.com/watch?v=6K2KU_35UJM)**
+
+After mining my very first Bitcoin in 2011 and building multiple million-dollar crypto companies, I've made a decision that took me ...
+
+📺 Filip Martinsson
+
+👁️ 680 • 👍 37 • 💬 29 • ⏱️ 10:08 • 18h ago
+
+---
+
+**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
+
+Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 11K • 👍 975 • 💬 131 • ⏱️ 20:41 • 14h ago
+
+---
+
+**[This Could BREAK Bitcoin in 2028.](https://www.youtube.com/watch?v=dSEC1n8TT0Q)**
+
+Could this REALLY break bitcoin in 2028 as Tom Lee suggests? I think EVERYTHING is on the table and we MUST evaluate it ...
+
+📺 Digital Asset News
+
+👁️ 10K • 👍 571 • 💬 97 • ⏱️ 23:41 • 1d ago
+
+---
+
+**[BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction!](https://www.youtube.com/watch?v=U7HH0v4tbaI)**
+
+BREAKING: Michael Saylor Just Made A SHOCKING NEW Bitcoin Prediction! Earn yield or borrow against your Bitcoin with ...
+
+📺 Luke Mikic
+
+👁️ 5K • 👍 347 • 💬 39 • ⏱️ 38:58 • 10h ago
+
+---
+
+**[Clarity Act DELAYED! What this means for Crypto](https://www.youtube.com/watch?v=BQXrc3OBLBk)**
+
+Crypto is entering a critical decision window as Bitcoin tests major resistance while key regulatory and Ethereum developments ...
+
+📺 Crypto Banter
+
+👁️ 19K • 👍 1K • 💬 33 • ⏱️ 21:53 • 15h ago
+
+---
+
+**[CRYPTO CLARITY ACT Vote! Don&#39;t Get Fooled Too Much By Hype! Here&#39;s the Real Deal!](https://www.youtube.com/watch?v=tn1cJsqINQE)**
+
+Crypto Clarity Act vote likely THIS WEEKEND. Lummis basically just said the Senate isn't leaving for recess without crypto clarity ...
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 678 • 💬 340 • ⏱️ 8:59 • 1d ago
+
+---
+
+**[Man Who Owns 4% Of All Bitcoin: His Final WARNING To Everyone Who Doesn&#39;t Own It | Michael Saylor](https://www.youtube.com/watch?v=1aGpJQ8BMLI)**
+
+Michael made $15 billion last year using ChatGPT, by building something that has never existed in the history of the world.
+
+📺 The Diary Of A CEO
+
+👁️ 564K • 👍 17K • 💬 3K • ⏱️ 1:39:55 • 23h ago
 
 ---
 

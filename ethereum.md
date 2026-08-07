@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T05:16:58.121797+00:00'
+updated: '2026-08-07T06:46:30.569281+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 05:16 UTC  
+**Last Updated:** August 07, 2026 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +2.8%  
-**30d:** +8.7%  
-**90d:** -19.9%  
-**1y:** -52.7%  
+**24h:** -0.3%  
+**7d:** +3.3%  
+**30d:** +9.1%  
+**90d:** -19.6%  
+**1y:** -52.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.19B
+**Market Cap:** $229.60B
 Rank #2
 
 **Circulating Supply:** 120,682,112 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.6%
+-61.5%
 
 **All-Time Low:** $0.43
-+438524.0%
++439401.7%
 
 ---
 
@@ -150,19 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback](https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback)**
-
-Tom Lee's Ethereum treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH tokens.
-
-Decrypt • 3d ago
-
----
-
 **[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
 
 ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
 
-StepSecurity • 2d ago
+stepsecurity.io • 2d ago
 
 ---
 
@@ -178,7 +170,7 @@ Yahoo Finance • 2d ago
 
 XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -186,7 +178,7 @@ CoinDesk • 2d ago
 
 Bitcoin traded above $64,000 on Thursday as investors await a decision on the CLARITY Act before Congress breaks for its August recess.Notable Statistics:Notable Developments:Trader Notes:Ted Pillows predicts Bitcoin’s weekly close will likely determine its next major moveTrader KillaXBT sees only…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
@@ -210,7 +202,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 17h ago
+Fortune • 19h ago
 
 ---
 
@@ -218,7 +210,7 @@ Fortune • 17h ago
 
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
-ethereum.org • 1d ago
+blog.ethereum.org • 1d ago
 
 ---
 
@@ -226,7 +218,15 @@ ethereum.org • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 4h ago
+ambcrypto.com • 5h ago
+
+---
+
+**[Crypto Today: Bitcoin and Ethereum gain ground as XRP extends decline amid potential Iran-Oman deal](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-and-ethereum-gain-ground-as-xrp-extends-decline-amid-potential-iran-oman-deal-202608061100)**
+
+The cryptocurrency market is somewhat lethargic on Thursday, with Bitcoin (BTC) approaching $65,000, Ethereum (ETH) holding above $1,900 while Ripple (XRP) trades under pressure around $1.05.
+
+fxstreet.com • 19h ago
 
 ---
 
@@ -234,33 +234,23 @@ AMBCrypto • 4h ago
 
 ## YouTube Videos: "ethereum"
 
+**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
+
+Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
+
+📺 Coinsider
+
+👁️ 27K • 👍 725 • 💬 119 • ⏱️ 10:24 • 2d ago
+
+---
+
 **[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
 
 We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 82 • 💬 81 • ⏱️ 51:35 • 10h ago
-
----
-
-**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
-
-This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
-
-📺 Investing Made Simple
-
-👁️ 5K • 👍 409 • ⏱️ 9:52 • 16h ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 565 • 💬 202 • ⏱️ 14:40 • 12h ago
+👁️ 2K • 👍 92 • 💬 76 • ⏱️ 51:35 • 12h ago
 
 ---
 
@@ -270,7 +260,27 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 1K • 👍 32 • 💬 2 • ⏱️ 3:33 • 15h ago
+👁️ 1K • 👍 34 • 💬 3 • ⏱️ 3:33 • 16h ago
+
+---
+
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 10K • 👍 593 • 💬 204 • ⏱️ 14:40 • 14h ago
+
+---
+
+**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
+
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
+
+📺 XForceGlobal
+
+👁️ 2K • 👍 88 • 💬 29 • ⏱️ 13:23 • 1d ago
 
 ---
 
@@ -280,27 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 296 • 👍 22 • 💬 2 • ⏱️ 7:25 • 3h ago
-
----
-
-**[I Haven’t Been THIS Bullish on Ethereum in 3 Years](https://www.youtube.com/watch?v=RPunkkLtQLA)**
-
-Recently, Ethereum announced the 3rd evolution of their network, Lean Ethereum. And after looking into it closely, I am so much ...
-
-📺 Coinsider
-
-👁️ 27K • 👍 720 • 💬 118 • ⏱️ 10:24 • 2d ago
-
----
-
-**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
-
-The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
-
-📺 Anthony Pompliano
-
-👁️ 981 • 👍 41 • 💬 3 • ⏱️ 0:30 • 5h ago
+👁️ 970 • 👍 111 • 💬 4 • ⏱️ 7:25 • 4h ago
 
 ---
 
@@ -314,13 +304,23 @@ Everyone, and I mean every single person in the cryptocurrency market has an eno
 
 ---
 
-**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
+**[Ethereum &amp; Bitcoin, Langeweile pur! Wann bekommen wir endlich Aktion?](https://www.youtube.com/watch?v=BSkIQCEKQ20)**
 
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8%Bonus auf eure Einzahlung!
 
-📺 XForceGlobal
+📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 88 • 💬 28 • ⏱️ 13:23 • 1d ago
+👁️ 713 • 👍 235 • 💬 56 • ⏱️ 10:06 • 2h ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 2K • 👍 66 • 💬 5 • ⏱️ 0:30 • 7h ago
 
 ---
 

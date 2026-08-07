@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-07T05:16:58.124538+00:00'
+updated: '2026-08-07T06:46:30.572591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 07, 2026 at 05:16 UTC  
+**Last Updated:** August 07, 2026 at 06:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Using hundreds of Swarovski crystals, this piece is handcrafted and engineered, 
 
 Hey I am part of a small team training robotics policies for warehouse and manufacturing settings, and running rigorous evals is turning out to be so painful. Anything below 50 rollouts, and its hard to trust the numbers, and above its so hard to test all the checkpoints that we have. Its really hard to run a bunch of experiments to get good results. Have you guys faced this? Any hacks that you've developed?
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi everyone! The reviews for CoRL’26 would be out soon. Use this thread for di
 
 Started this over a year ago, but got discouraged because of problems I didn't understand. Fixed the problems and wanted to share again. I made a github repo with all of the code and links included. [Github Repo](https://github.com/rrmudry/MBt2) Used standard multibuild parts for the body and modified parts for the legs, etc. Basics: ESP32 brain 2 SimpleFOC mini drivers 2 gm4108-120t gimbal motors 2 AS5600 magnetic encoders 1 MPU6050 IMU wheels are printed from TPU Bluetooth controlled Custom PCB links provided All of the coding completed in Google Antigravity (because I cannot code but always wanted to build something like this, sorry...so much shame). Want to add CYD (cheap yellow display for face) and autonomous navigation, wireless charging, ai chat interaction, basically I want to have a droid that can follow me around, someday.
 
-🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 2d ago
+🔗 [youtu.be](https://youtu.be/mh7uXmJ1fcI?si=A7_LkFfRknEKYBPE) • 3d ago
 
 ---
 
@@ -118,13 +118,13 @@ Please don't mind the cables and the messy table. I am new to the VLA and robot 
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -132,7 +132,22 @@ Bloomberg • 2h ago
 
 The IPO comes as the U.S. and China ratchet up trade ​and technology tensions, with Washington tightening Chinese access to U.S. technology and markets.
 
-CNBC • 13h ago
+CNBC • 14h ago
+
+---
+
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+
+USNI News • 13h ago
+
+---
+
+**[This award-winning high school team is using robotics to make a difference](https://www.post-gazette.com/life/goodness/2026/08/05/terabridges-upper-st-clair-high-school-first-tech-tikkun-olam-makers/stories/202608060003)**
+
+An Upper St. Clair High School robotics team capped their season with top honors in two international competitions.
+TeraBridges placed first overall and...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -140,13 +155,15 @@ CNBC • 13h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 12h ago
+HII • 14h ago
 
 ---
 
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/posts/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
 
-USNI News • 12h ago
+We recently added this group as investors think about SpaceX and growth in the sector.
+
+TheStreet Pro • 13h ago
 
 ---
 
@@ -158,14 +175,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Chart of the Day: Perfect Timing on Our Robotics ETF](https://pro.thestreet.com/portfolio/chart-of-the-day-perfect-timing-on-our-robotics-etf)**
-
-We recently added this group as investors think about SpaceX and growth in the sector.
-
-TheStreet Pro • 11h ago
-
----
-
 **[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
 
 Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
@@ -174,19 +183,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[Elon Musk spends half his time talking robots and AI on Tesla earnings calls](https://finance.yahoo.com/technology/ai/articles/elon-musk-spends-half-time-152006639.html)**
+**[3 Robotics and Automation Stocks to Buy in August](https://finance.yahoo.com/markets/stocks/articles/3-robotics-automation-stocks-buy-113500071.html)**
 
-An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.
+These three automation stocks offer investors different ways to profit from the next wave of robotics growth.
 
-Yahoo Finance • 2d ago
-
----
-
-**[U.S. Bans New Foreign Mobile Robots](https://spectrum.ieee.org/fcc-covered-list-mobile-robots)**
-
-New rules further bifurcate U.S. and Chinese supply chains
-
-IEEE Spectrum • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,23 +195,23 @@ IEEE Spectrum • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
-
-Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
-
-📺 TESLA CAR WORLD
-
-👁️ 274K • 👍 3K • 💬 562 • ⏱️ 12:26 • 6d ago
-
----
-
 **[Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2](https://www.youtube.com/watch?v=s42VQasz4iI)**
 
 Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...
 
 📺 TheAIGRID
 
-👁️ 32K • 👍 572 • 💬 43 • ⏱️ 9:54 • 6d ago
+👁️ 32K • 👍 573 • 💬 43 • ⏱️ 9:54 • 6d ago
+
+---
+
+**[Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning &amp; More!](https://www.youtube.com/watch?v=SRVdIDQRgiw)**
+
+Tesla Bot Gen 3 $1/Hour Is Coming, Cooking, Cleaning & More! Tesla Bot Gen 3 could become Tesla's biggest AI breakthrough ...
+
+📺 TESLA CAR WORLD
+
+👁️ 276K • 👍 3K • 💬 567 • ⏱️ 12:26 • 6d ago
 
 ---
 
@@ -230,17 +231,7 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 6K • 👍 412 • 💬 71 • ⏱️ 40:27 • 17h ago
-
----
-
-**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
-
-MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
-
-📺 Created to be Curious
-
-👁️ 612 • 👍 47 • 💬 1 • ⏱️ 2:05 • 3h ago
+👁️ 6K • 👍 423 • 💬 73 • ⏱️ 40:27 • 19h ago
 
 ---
 
@@ -250,7 +241,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 49K • 👍 915 • 💬 104 • ⏱️ 1:00 • 6d ago
+👁️ 50K • 👍 949 • 💬 105 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -260,25 +251,7 @@ In February 2026, one engineer connected a robot vacuum to a PS5 controller and 
 
 📺 Interesting Engineering Explains
 
-👁️ 2K • 👍 55 • 💬 4 • ⏱️ 1:32 • 11h ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 42K • 👍 3K • 💬 436 • ⏱️ 26:40 • 2d ago
-
----
-
-**[Trump says DO MAGNETS 🧲 the next AI Robotics bottleneck #aistocks #robotics #optimus #stocks](https://www.youtube.com/watch?v=hTH_ukuOOR0)**
-
-📺 InvestingwithCJ
-
-👁️ 5K • 👍 131 • 💬 3 • ⏱️ 1:38 • 2d ago
+👁️ 3K • 👍 85 • 💬 5 • ⏱️ 1:32 • 12h ago
 
 ---
 
@@ -288,7 +261,35 @@ A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell w
 
 📺 MACHINEKIND
 
-👁️ 3K • 👍 77 • 💬 9 • ⏱️ 11:48 • 1d ago
+👁️ 3K • 👍 79 • 💬 11 • ⏱️ 11:48 • 1d ago
+
+---
+
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 43K • 👍 3K • 💬 437 • ⏱️ 26:40 • 2d ago
+
+---
+
+**[MIT Robot That Flies and Swims Like a Bird! #robotics](https://www.youtube.com/watch?v=75VDkfuX41c)**
+
+MIT just unveiled a robot that can swim underwater… then explode out of the surface and keep flying. This flapping-wing ...
+
+📺 Created to be Curious
+
+👁️ 655 • 👍 47 • 💬 3 • ⏱️ 2:05 • 5h ago
+
+---
+
+**[Trump says DO MAGNETS 🧲 the next AI Robotics bottleneck #aistocks #robotics #optimus #stocks](https://www.youtube.com/watch?v=hTH_ukuOOR0)**
+
+📺 InvestingwithCJ
+
+👁️ 6K • 👍 145 • 💬 3 • ⏱️ 1:38 • 2d ago
 
 ---
 
