@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T07:49:52.575670+00:00'
+updated: '2026-08-08T08:41:13.270174+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 07:49 UTC  
+**Last Updated:** August 08, 2026 at 08:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.8%  
-**30d:** +6.6%  
-**90d:** -18.1%  
+**24h:** -0.0%  
+**7d:** +1.7%  
+**30d:** +6.5%  
+**90d:** -18.2%  
 **1y:** -55.1%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 18h ago
 
 ---
 
@@ -150,11 +150,11 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 ## Google News: "ethereum"
 
-**[Why Hasn’t XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://finance.yahoo.com/markets/crypto/articles/why-hasn-t-xrp-hit-165702084.html)**
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
 
-Ripple just secured a national bank charter, launched a stablecoin clearing billions in trades, and closed a years-long SEC battle, yet XRP sits 72% below a price it set in 2018. The reasons why reveal a fundamental tension built into how XRP was designed.
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-tradingview.com • 15h ago
+tradingview.com • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ tradingview.com • 15h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -178,21 +178,21 @@ CoinDesk • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[Ethereum: EIP-8361 targets inflation, yet 99.7% signal ‘No’ – Why?](https://ambcrypto.com/ethereum-eip-8361-targets-inflation-yet-99-7-signal-no-why/)**
+**[Trump-linked Ethereum wallet reportedly moves $100M to Binance](https://cryptobriefing.com/trump-ethereum-100m-binance-transfer/)**
 
-Ethereum Foundation is now under fire for the infamous proposal
+A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-AMBCrypto • 8h ago
+Crypto Briefing • 12h ago
 
 ---
 
 **[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
@@ -204,11 +204,11 @@ The Defiant • 13h ago
 
 ---
 
-**[Grayscale’s Ethereum staking Mini ETF could stake nearly all its Ether](https://cryptobriefing.com/grayscale-ethereum-staking-mini-etf/)**
+**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
 
-Grayscale's Ethereum Staking Mini ETF has 80.8% of its 839,556 Ether staked, with quarterly cash distributions planned after a July 2026 tax
+Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-cryptobriefing.com • 16h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -220,11 +220,9 @@ ethereum.org • 2d ago
 
 ---
 
-**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october)**
+**[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
 
-The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
-
-The Block • 3d ago
+FinanceFeeds • 15h ago
 
 ---
 
@@ -248,7 +246,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 15h ago
+👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 16h ago
 
 ---
 
@@ -258,7 +256,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 11h ago
+👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 12h ago
 
 ---
 
@@ -288,7 +286,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 19h ago
+👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 20h ago
 
 ---
 
@@ -298,7 +296,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https:
 
 📺 Ashutosh Kumar
 
-👁️ 5K • 👍 514 • 2h ago
+👁️ 5K • 👍 514 • 3h ago
 
 ---
 

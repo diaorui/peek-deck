@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T07:49:52.560783+00:00'
+updated: '2026-08-08T08:41:13.256816+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 07:49 UTC  
+**Last Updated:** August 08, 2026 at 08:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 4h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Not “solve climate change” or “cure every disease” or some other massive
 
 Today, we are officially announcing Early Access for our latest and most advanced model, Horus Cyper Nano 1.0 BETA. We are making Horus Cyper Nano 1.0 BETA available to developers, researchers, and students through our Early Access program. You can apply through the official Early Access portal. Once you meet the required eligibility criteria and your application is approved, you will receive your personal Access Token, which can be used through our NeuralNode Framework to access and integrate the model. Apply for Early Access: https://tokenai.llc/horus-cyper-nano-access Horus Cyper Nano is a specialized cybersecurity model designed for offensive security and cybersecurity research workflows. Its core use cases include: Offensive security and red teaming, including penetration testing workflow support, vulnerability analysis, and exploitation path building. Capture The Flag challenges and cybersecurity training. Active Directory security, including enumeration and lateral movement planning within authorized engagements. Authorized security testing labs and controlled environments. Safe and scoped cybersecurity research within authorized environments. Red team report drafting and attack chain structure planning. Horus Cyper Nano 1.0 will be the first release in the Horus Cyper series, a family of specialized cybersecurity models developed by TokenAI, an AI startup based in Egypt. The Open Weights of Horus Cyper Nano 1.0 will be released on September 3, 2026, which also happens to be my 19th birthday. What a way to celebrate. Our vision is to build Horus Cyper Nano into one of the strongest cybersecurity AI models to emerge from Egypt, the Arab world, the Middle East, and Africa, and to establish it as one of the leading openly available cybersecurity models across the region. This is only the beginning of the Horus Cyper series. Horus Cyper Nano 1.0 BETA Developed by TokenAI Built in Egypt
 
-3h ago
+4h ago
 
 ---
 
@@ -93,6 +93,14 @@ Today, we are officially announcing Early Access for our latest and most advance
 
 ---
 
+**[OpenAI's 'hockey puck-sized' gadget to cost over $300](https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/)**
+
+OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 13h ago
+
+---
+
 **[Sam Altman believes AI will become incredibly abundant. If that's true, what actually becomes valuable?](https://www.reddit.com/r/artificial/comments/1vi7dxg/sam_altman_believes_ai_will_become_incredibly/)**
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
@@ -101,19 +109,11 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 ---
 
-**[OpenAI's 'hockey puck-sized' gadget to cost over $300](https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/)**
+**[NEUROMORPHIC Algorithm that plays Ping-Pong](https://www.reddit.com/r/artificial/comments/1vi1iyz/neuromorphic_algorithm_that_plays_pingpong/)**
 
-OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
+In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 12h ago
-
----
-
-**[New Democratic bill would tax AI companies to create jobs](https://www.reddit.com/r/artificial/comments/1vhljad/new_democratic_bill_would_tax_ai_companies_to/)**
-
-Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration, saying: “We are not going to let AI company CEOs get rich by displacing millions of American workers.”
-
-🔗 [NBC News](https://www.nbcnews.com/politics/congress/new-democratic-bill-tax-ai-companies-create-jobs-rcna590262) • 1d ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 AI coding tools deli
 
-Databricks • 14h ago
+Databricks • 15h ago
 
 ---
 
@@ -147,23 +147,23 @@ The New York Times • 1d ago
 
 Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-The Hill • 16h ago
+The Hill • 17h ago
 
 ---
 
-**[‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time](https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/)**
+**[‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)**
 
-Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.
+Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
 
-The Hollywood Reporter • 1h ago
+The Guardian • 39m ago
 
 ---
 
-**[Deepfake victim urges better regulation of 'dangerous' AI](https://www.bbc.com/news/articles/c75gvyk6d4yo)**
+**[Rising number of UK children report seeing explicit deepfakes of themselves](https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai)**
 
-Georgia's photos were used to create obscene images without her consent by someone she knew.
+Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or ‘nudified’ content easier to produce
 
-BBC • 1h ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,21 +171,13 @@ BBC • 1h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 6h ago
-
----
-
-**[AI, boy kibble and parasite cleanses: the 11 biggest wellness trends of 2026](https://www.theguardian.com/wellness/2026/aug/07/biggest-wellness-trends-2026)**
-
-Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something
-
-The Guardian • 15h ago
+Fox Business • 7h ago
 
 ---
 
 **[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -193,7 +185,13 @@ WSJ • 9h ago
 
 This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
 
-CNBC • 11h ago
+CNBC • 12h ago
+
+---
+
+**[Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun](https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun)**
+
+Bloomberg.com • 20h ago
 
 ---
 
@@ -209,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 443 • 💬 307 • 14h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 462 • 💬 309 • 15h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -217,7 +215,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 405 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 408 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -225,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 331 • 💬 244 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 332 • 💬 244 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -249,7 +247,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 AI coding tools deli
 
-⬆️ 213 • 💬 194 • 13h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 229 • 💬 199 • 14h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -265,7 +263,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 168 • 💬 104 • 18h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 169 • 💬 104 • 19h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -375,7 +373,7 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 Mansuri Point
 
-👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:16 • 2h ago
+👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:16 • 3h ago
 
 ---
 
@@ -383,7 +381,7 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 Lando Kalriz
 
-👁️ 467K • 👍 38K • 💬 280 • ⏱️ 1:27 • 11h ago
+👁️ 467K • 👍 38K • 💬 280 • ⏱️ 1:27 • 12h ago
 
 ---
 
@@ -445,7 +443,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,723 • 5h ago
+⬇️ 2,217,339 • ❤️ 1,723 • 6h ago
 
 ---
 
@@ -457,7 +455,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 436 • 8h ago
+⬇️ 0 • ❤️ 436 • 9h ago
 
 ---
 
@@ -469,7 +467,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 388 • 21h ago
+⬇️ 77,973 • ❤️ 388 • 22h ago
 
 ---
 
@@ -654,7 +652,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 812 • 7h ago
+⭐ 7.6k • 🔱 812 • 8h ago
 
 ---
 
@@ -664,7 +662,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.0k • 🔱 356 • 14h ago
+⭐ 4.0k • 🔱 356 • 15h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 482 • 19h ago
+⭐ 3.8k • 🔱 482 • 20h ago
 
 ---
 
@@ -682,7 +680,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 57m ago
+⭐ 2.5k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -692,7 +690,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 381 • 4h ago
+⭐ 2.2k • 🔱 381 • 5h ago
 
 ---
 
@@ -712,7 +710,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 18h ago
+⭐ 2.0k • 🔱 142 • 19h ago
 
 ---
 

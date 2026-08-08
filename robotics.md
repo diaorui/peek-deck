@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T07:49:52.579014+00:00'
+updated: '2026-08-08T08:41:13.273067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 07:49 UTC  
+**Last Updated:** August 08, 2026 at 08:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 **[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,13 +58,13 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 14h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 15h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 **[[Feedback Request] Master’s Thesis: Edge-Orchestrated Smart Home using ROS 2, MPC, and Micro-PLC architecture](https://www.reddit.com/r/robotics/comments/1vhza34/feedback_request_masters_thesis_edgeorchestrated/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute t
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -126,21 +126,13 @@ Bloomberg.com • 1d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 17h ago
+The Information • 18h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
 USNI News • 1d ago
-
----
-
-**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
-
-This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
-
-IEEE Spectrum • 15h ago
 
 ---
 
@@ -156,29 +148,35 @@ hii.com • 1d ago
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
+
+---
+
+**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
+
+This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
+
+IEEE Spectrum • 16h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
+**[Chernobyl’s Robots, Or The Hackathon From Hell](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/)**
 
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
+When the Chernobyl Nuclear Power Plant’s #4 reactor experienced an extreme criticality event on that infamous day in 1986, the resulting steam explosion and lack of any kind of containment bu…
 
-techcrunch.com • 2d ago
+hackaday.com • 14h ago
 
 ---
 
-**[This startup that just raised $6.5 million bets the next big side hustle is controlling robots with VR headsets](https://www.businessinsider.com/avatar-robotics-raises-6-5m-to-expand-robot-workforce-2026-8)**
+**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
-Avatar Robotics, led by Colin Webb, is paying people to control warehouse robots, which generates the data needed to train autonomous machines.
-
-Business Insider • 2d ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -190,7 +188,7 @@ Business Insider • 2d ago
 
 📺 Tyrecordslol
 
-👁️ 1.8M • 👍 91K • 💬 6K • ⏱️ 0:58 • 21h ago
+👁️ 1.8M • 👍 91K • 💬 6K • ⏱️ 0:58 • 22h ago
 
 ---
 
