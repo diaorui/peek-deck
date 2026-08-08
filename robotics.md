@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T05:42:21.516950+00:00'
+updated: '2026-08-08T06:53:46.628538+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 05:42 UTC  
+**Last Updated:** August 08, 2026 at 06:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 **[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -58,13 +58,13 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 12h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 13h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi if I’m breaking a rule please lmk or just help me remove the post glad to d
 
 **[[Feedback Request] Master’s Thesis: Edge-Orchestrated Smart Home using ROS 2, MPC, and Micro-PLC architecture](https://www.reddit.com/r/robotics/comments/1vhza34/feedback_request_masters_thesis_edgeorchestrated/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute t
 
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -126,7 +126,7 @@ Bloomberg.com • 1d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 15h ago
+The Information • 16h ago
 
 ---
 
@@ -140,7 +140,7 @@ USNI News • 1d ago
 
 This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -148,7 +148,7 @@ IEEE Spectrum • 13h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 1d ago
+hii.com • 1d ago
 
 ---
 
@@ -156,7 +156,21 @@ HII • 1d ago
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
+
+WSJ • 9h ago
+
+---
+
+**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
+
+Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
+
+techcrunch.com • 2d ago
 
 ---
 
@@ -168,22 +182,6 @@ Business Insider • 2d ago
 
 ---
 
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
-
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
-
-TechCrunch • 2d ago
-
----
-
-**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
-
-Humans will get the AI models they deserve
-
-The Register • 19h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,67 +190,17 @@ The Register • 19h ago
 
 📺 Tyrecordslol
 
-👁️ 1.7M • 👍 86K • 💬 5K • ⏱️ 0:58 • 19h ago
+👁️ 1.8M • 👍 91K • 💬 6K • ⏱️ 0:58 • 20h ago
 
 ---
 
-**[How This Chip Makes Tesla Robots Unstoppable #AI #Tesla #robotics](https://www.youtube.com/watch?v=WLoEbpi6ufQ)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-Discover the revolutionary chip that makes Tesla robots unstoppable, leveraging the power of machine learning to create a ...
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-📺 Unsealed Universe
+📺 Custom Adventurist
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:44 • 14h ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 23K • 👍 565 • ⏱️ 17:44 • 1d ago
-
----
-
-**[China&#39;s Unitree IPO puts global robotics race and geopolitics in focus](https://www.youtube.com/watch?v=X7lJ0GkmG5g)**
-
-Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that ...
-
-📺 CNBC International Live
-
-👁️ 5K • 👍 54 • 💬 14 • ⏱️ 5:49 • 22h ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 71K • 👍 1K • 💬 104 • ⏱️ 11:26 • 5d ago
-
----
-
-**[This Nightmare Demon Robot Broke the Internet](https://www.youtube.com/watch?v=Er-XWU_RjzI)**
-
-A demonic, chainsaw-equipped centaur robot is going viral, and nobody can tell whether it is real or an elaborate joke. Then ...
-
-📺 MACHINEKIND
-
-👁️ 5K • 👍 116 • 💬 12 • ⏱️ 11:48 • 2d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 96K • 👍 3K • 💬 191 • ⏱️ 47:03 • 2d ago
+👁️ 24K • 👍 2K • 💬 115 • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -262,17 +210,7 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 80K • 👍 486 • 💬 91 • ⏱️ 40:27 • 1d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 48K • 👍 3K • 💬 461 • ⏱️ 26:40 • 3d ago
+👁️ 82K • 👍 491 • 💬 92 • ⏱️ 40:27 • 1d ago
 
 ---
 
@@ -282,7 +220,65 @@ Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to 
 
 📺 Lon.TV
 
-👁️ 43K • 👍 2K • 💬 391 • ⏱️ 9:59 • 2d ago
+👁️ 44K • 👍 2K • 💬 395 • ⏱️ 9:59 • 2d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 99K • 👍 4K • 💬 194 • ⏱️ 47:03 • 2d ago
+
+---
+
+**[China&#39;s Unitree IPO puts global robotics race and geopolitics in focus](https://www.youtube.com/watch?v=X7lJ0GkmG5g)**
+
+Peter Alexander from Z-Ben Advisors says China's robotics industry could have a similiar growth trajectory as the EV industry that ...
+
+📺 CNBC International Live
+
+👁️ 5K • 👍 56 • 💬 14 • ⏱️ 5:49 • 23h ago
+
+---
+
+**[This Robot Was Built To Save You? #draw #robot #ai #shortsfeed #horror #robotics](https://www.youtube.com/watch?v=135LsLpUW2A)**
+
+📺 Inkziic
+
+👁️ 41K • 👍 549 • 💬 124 • ⏱️ 0:13 • 2d ago
+
+---
+
+**[High-Speed Delta Robot Packaging Glass Bottles! #DeltaRobot #Automation #Manufacturing](https://www.youtube.com/watch?v=A_JKVAXAeKM)**
+
+Title: High-Speed Delta Robot Packaging Glass Bottles! #DeltaRobot #Automation #Manufacturing Description: Watch a ...
+
+📺 Dr Bretz
+
+👁️ 49K • 👍 63 • ⏱️ 0:04 • 1d ago
+
+---
+
+**[The Smartest Barn Robot🤯🚜 #agriculture #farm #farming #farmer](https://www.youtube.com/watch?v=VJPT5Qq5UeI)**
+
+This automated bedding robot cleans the cow stalls and spreads fresh bedding with incredible precision. Modern dairy farming is ...
+
+📺 AgroMix 
+
+👁️ 252K • 👍 746 • 💬 32 • ⏱️ 0:16 • 1d ago
+
+---
+
+**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
+
+Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
+
+📺 Sling and Stone
+
+👁️ 51K • 👍 3K • 💬 595 • ⏱️ 15:58 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T05:42:21.513527+00:00'
+updated: '2026-08-08T06:53:46.625331+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 05:42 UTC  
+**Last Updated:** August 08, 2026 at 06:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +1.9%  
-**30d:** +6.7%  
-**90d:** -18.0%  
+**24h:** +0.6%  
+**7d:** +1.8%  
+**30d:** +6.6%  
+**90d:** -18.1%  
 **1y:** -55.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.26B
+**Market Cap:** $231.25B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+442478.0%
++442464.2%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 13h ago
+tradingview.com • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ TradingView • 13h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-coindesk.com • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ coindesk.com • 21h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -186,15 +186,13 @@ Fortune • 20h ago
 
 Ethereum Foundation is now under fire for the infamous proposal
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
-
-FXStreet • 1d ago
+FXStreet • 19h ago
 
 ---
 
@@ -202,7 +200,15 @@ FXStreet • 1d ago
 
 SharpLink's Joseph Chalom opposes EIP-8363, a draft Ethereum proposal to burn validator rewards as staking rises, warning it would remove DeFi's base rate.
 
-The Defiant • 1d ago
+The Defiant • 12h ago
+
+---
+
+**[Grayscale’s Ethereum staking Mini ETF could stake nearly all its Ether](https://cryptobriefing.com/grayscale-ethereum-staking-mini-etf/)**
+
+Grayscale's Ethereum Staking Mini ETF has 80.8% of its 839,556 Ether staked, with quarterly cash distributions planned after a July 2026 tax
+
+cryptobriefing.com • 15h ago
 
 ---
 
@@ -218,15 +224,7 @@ ethereum.org • 2d ago
 
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-theblock.co • 3d ago
-
----
-
-**[Coinbase suspends six non-USD pairs to consolidate liquidity, affects Ethereum outlook](https://cryptobriefing.com/coinbase-suspends-six-non-usd-pairs-to-consolidate-liquidity-affects-ethereum/)**
-
-Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
-
-Crypto Briefing • 1d ago
+The Block • 3d ago
 
 ---
 
@@ -244,33 +242,23 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 ---
 
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 177 • 💬 64 • ⏱️ 21:05 • 9h ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 134 • 💬 91 • ⏱️ 51:35 • 1d ago
-
----
-
 **[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
 Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
 📺 Lark Davis
 
-👁️ 2K • 👍 78 • 💬 4 • ⏱️ 1:08 • 13h ago
+👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 14h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 10h ago
 
 ---
 
@@ -280,7 +268,47 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 102 • 💬 30 • ⏱️ 13:23 • 2d ago
+👁️ 2K • 👍 103 • 💬 30 • ⏱️ 13:23 • 2d ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 135 • 💬 91 • ⏱️ 51:35 • 1d ago
+
+---
+
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 18h ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=9GtnuggfoWY)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https://t.me/Ashulivetrade ⚡ Open ...
+
+📺 Ashutosh Kumar
+
+👁️ 5K • 👍 514 • 2h ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 214 • 💬 7 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -294,16 +322,6 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 ---
 
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
-
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 213 • 💬 7 • ⏱️ 7:25 • 1d ago
-
----
-
 **[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
 
 BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
@@ -311,26 +329,6 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 📺 Aaron Dishner aka Moonin Papa
 
 👁️ 7K • 👍 463 • 💬 47 • ⏱️ 43:51 • 1d ago
-
----
-
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
-
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
-
-📺 DukascopyTV English
-
-👁️ 1K • 👍 2 • ⏱️ 0:57 • 18h ago
-
----
-
-**[is crypto finally out of the woods? (HEX Bitcoin PulseChain Ethereum)](https://www.youtube.com/watch?v=rfItjf6J8Bk)**
-
-public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
-
-📺 Crypto Coffee
-
-👁️ 2K • 👍 192 • ⏱️ 1:03:33 • 19h ago
 
 ---
 

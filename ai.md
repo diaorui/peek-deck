@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T05:42:21.498367+00:00'
+updated: '2026-08-08T06:53:46.610511+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 05:42 UTC  
+**Last Updated:** August 08, 2026 at 06:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-5h ago
+7h ago
 
 ---
 
@@ -49,23 +49,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-15h ago
-
----
-
-**[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
-
-China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
-
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 2h ago
-
----
-
-**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
-
-Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
-
-3h ago
+16h ago
 
 ---
 
@@ -73,7 +57,39 @@ Not “solve climate change” or “cure every disease” or some other massive
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-3h ago
+4h ago
+
+---
+
+**[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
+
+China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
+
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 3h ago
+
+---
+
+**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
+
+Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
+
+4h ago
+
+---
+
+**[The best AI Model in Africa and the middle east](https://www.reddit.com/r/artificial/comments/1vim1oq/the_best_ai_model_in_africa_and_the_middle_east/)**
+
+Today, we are officially announcing Early Access for our latest and most advanced model, Horus Cyper Nano 1.0 BETA. We are making Horus Cyper Nano 1.0 BETA available to developers, researchers, and students through our Early Access program. You can apply through the official Early Access portal. Once you meet the required eligibility criteria and your application is approved, you will receive your personal Access Token, which can be used through our NeuralNode Framework to access and integrate the model. Apply for Early Access: https://tokenai.llc/horus-cyper-nano-access Horus Cyper Nano is a specialized cybersecurity model designed for offensive security and cybersecurity research workflows. Its core use cases include: Offensive security and red teaming, including penetration testing workflow support, vulnerability analysis, and exploitation path building. Capture The Flag challenges and cybersecurity training. Active Directory security, including enumeration and lateral movement planning within authorized engagements. Authorized security testing labs and controlled environments. Safe and scoped cybersecurity research within authorized environments. Red team report drafting and attack chain structure planning. Horus Cyper Nano 1.0 will be the first release in the Horus Cyper series, a family of specialized cybersecurity models developed by TokenAI, an AI startup based in Egypt. The Open Weights of Horus Cyper Nano 1.0 will be released on September 3, 2026, which also happens to be my 19th birthday. What a way to celebrate. Our vision is to build Horus Cyper Nano into one of the strongest cybersecurity AI models to emerge from Egypt, the Arab world, the Middle East, and Africa, and to establish it as one of the leading openly available cybersecurity models across the region. This is only the beginning of the Horus Cyper series. Horus Cyper Nano 1.0 BETA Developed by TokenAI Built in Egypt
+
+2h ago
+
+---
+
+**[I’m Researching Leo — a byte-native learning architecture that tries to move beyond Transformers](https://www.reddit.com/r/artificial/comments/1viotxh/im_researching_leo_a_bytenative_learning/)**
+
+​ I've been working on a project called Leo / PSCLS. The goal isn’t to build yet another Transformer with a different name. I’ve been trying to explore a different question: «What if we built an AI architecture around persistent neural state, sparse connectivity, recurrent processing, and memory — instead of making attention and large dense parameter matrices the core building blocks?» Leo is still very early and nowhere near a fluent language model. But we’ve reached a point where I think the architecture itself is worth talking about. What is Leo? Leo’s basic representation is raw UTF-8 bytes. There is: - No BPE tokenizer - No fixed word vocabulary - No token embeddings as the fundamental representation - No giant dense parameter matrix as the core representation The current model has roughly: - 32,768 neurons - 1,572,864 fixed sparse synapses - 524,288 persistent context slots - 32-dimensional context embeddings - Maximum context order of 8 The model works directly on bytes. The idea is that higher-level structure can emerge from learning, instead of being baked in through a predefined token system. How is Leo different from a Transformer? A Transformer usually takes tokenized input, turns tokens into embeddings, runs self-attention and dense layers, and predicts the next token. Leo is built differently. The core computation is based on: - Sparse recurrent neurons - Fixed sparse synaptic connectivity - Persistent context - Eligibility traces - Homeostasis - Learned neural dynamics - Next-byte prediction The key difference isn’t just “sparse vs dense.” It’s the role of persistent state. A Transformer is mostly a function over a fixed context: «“Given this context, compute the next output.”» Leo is designed more like an evolving system: «“Process incoming experience, update internal state, and let that state shape future predictions.”» Right now, Leo is still a trained system, not an autonomous self-learning agent. Online or self-directed learning is a future direction — not something I’m claiming it already does. How is Leo different from attention? This is probably the most important distinction. Attention is not the same thing as persistent memory. In a Transformer, attention dynamically recomputes relationships across tokens in the current context. It’s basically asking: «“What parts of this context matter right now?”» Leo doesn’t rely on attention as its core mechanism. Instead, it keeps a persistent internal state that evolves over time. Information can influence future computation through: - Recurrent neural activity - Persistent context slots - Sparse synaptic connections - Eligibility traces - Homeostatic regulation So instead of repeatedly re-scoring relationships across a sequence, Leo is trying to maintain a continuously evolving internal representation as bytes flow through it. That’s one of the reasons I think of it as more brain-inspired than Transformer-like. Why call it brain-inspired? I’m not claiming Leo is a brain simulation. The brain is vastly more complex. The inspiration comes from a few broad principles: Sparse activity The brain doesn’t activate everything at once. Leo uses sparse connectivity and sparse activation patterns. Persistent state The brain doesn’t reset after every word. Your understanding carries forward continuously. Leo maintains persistent recurrent/context state. Plasticity Biological systems adapt through experience. Leo has learning mechanisms that modify its parameters during training. Homeostasis Brains regulate activity levels instead of letting everything drift freely. Leo includes similar stabilizing mechanisms. Distributed memory Human memory isn’t a lookup table of sentences. It’s distributed across activity and connections. Leo uses recurrent state and sparse structure instead of explicit token memory. Again: this is inspired by biology, not an attempt to replicate it. How does Leo learn? At a high level, imagine feeding it: "The cat sat on the mat." The UTF-8 bytes stream in one by one. Each byte activates a sparse subset of neurons. That activity flows through the recurrent system and updates internal state. Learning signals (like eligibility traces) track which parts of the network were involved. Then the system updates its parameters based on those dynamics. So instead of: «“Tokenize everything and train a huge dense model”» It’s more like: «“Let a sparse recurrent system process raw bytes and learn from its evolving internal activity.”» Right now, Leo does not decide on its own what to learn from. That’s still fully controlled by the training setup. How does Leo generate text? Generation is also byte-by-byte. Say the prompt is: "Once upon a time" Leo processes those UTF-8 bytes and builds an internal state. Then it predicts the next byte. That byte gets appended. The state updates. Then it predicts the next byte again. And so on. So the loop is: bytes → neural state → next-byte prediction → updated state → repeat There is no token vocabulary like: - “Once” - “upon” - “ing” Everything stays at the byte level. The hope is that structure emerges from learning patterns over time, rather than being imposed through tokenization. The important question: does it actually learn? This was the part I cared about most. We spent a lot of time optimizing the system. The original version ran at about: "~375 bytes/sec" The current GPU version reaches about: "~2,345 bytes/sec" So roughly a 6× speedup. But speed doesn’t matter if nothing is actually learned. So we stopped optimizing and ran a controlled experiment. Experiment setup - 3,000 TinyStories - 3 passes - 9,000 total presentations - 90 GPU workers - ~113 minutes total We compared a trained checkpoint against a frozen baseline on held-out data. Results Held-out BpB 2.67848 → 2.64052 Held-out accuracy 52.3737% → 53.6187% Neural-only BpB 4.12877 → 4.10943 Context gain 1.45029 → 1.46891 Repetition rate 32.166% → 28.466% All five metrics improved. So at this scale, we do see that training produces measurable gains on unseen data. That’s the result I care about most. Not: «“This is AGI”» Not: «“This beats Transformers”» It doesn’t. The more modest takeaway is: «This unusual architecture can be trained, and training improves performance in a measurable way.» It’s still far from fluent This is important. If I prompt: "Once upon a time..." I might get things like: - “to the store” - “said that” - “they went” - “with her” But also: - broken grammar - malformed words - repetition - weak long-range structure - messy endings So: 53.6% next-byte accuracy is not fluent English. It’s still very early. Why not just scale it up? That’s one of the next questions. We don’t yet know if 32K neurons is a real bottleneck. It’s still improving with more training. So instead of immediately jumping to 64K or 128K, I want to understand: - how performance scales with data - how it scales with capacity - where it actually saturates Basically, I want to build a scaling curve for Leo itself. If it saturates early, that tells us something important. If it keeps improving, that’s even more interesting. The bigger question Transformers have shown what happens when you scale: - parameters - data - compute Leo is exploring a different direction: - persistent neural state - sparse recurrence - context memory - eligibility traces - homeostasis - byte-level representation Maybe it doesn’t scale well. Maybe it scales differently. Maybe it needs different hardware. Maybe structure emerges in unexpected ways at larger sizes. I don’t know yet — that’s the point. For now, Leo is not AGI. It’s not a Transformer replacement. It’s not even a strong language model yet. It’s an experiment in a different kind of learning system. The question I’m trying to answer is: «Can useful intelligence emerge from persistent neural dynamics, memory, and sparse recurrent computation — instead of primarily scaling dense attention-based models?» We’ve shown it can learn under controlled training. Now I want to see how far it can go.
+
+8m ago
 
 ---
 
@@ -81,7 +97,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-11h ago
+13h ago
 
 ---
 
@@ -89,7 +105,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 10h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 11h ago
 
 ---
 
@@ -101,22 +117,6 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 ---
 
-**[NEUROMORPHIC Algorithm that plays Ping-Pong](https://www.reddit.com/r/artificial/comments/1vi1iyz/neuromorphic_algorithm_that_plays_pingpong/)**
-
-In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
-
-15h ago
-
----
-
-**[The best AI Model in Africa and the middle east](https://www.reddit.com/r/artificial/comments/1vim1oq/the_best_ai_model_in_africa_and_the_middle_east/)**
-
-Today, we are officially announcing Early Access for our latest and most advanced model, Horus Cyper Nano 1.0 BETA. We are making Horus Cyper Nano 1.0 BETA available to developers, researchers, and students through our Early Access program. You can apply through the official Early Access portal. Once you meet the required eligibility criteria and your application is approved, you will receive your personal Access Token, which can be used through our NeuralNode Framework to access and integrate the model. Apply for Early Access: https://tokenai.llc/horus-cyper-nano-access Horus Cyper Nano is a specialized cybersecurity model designed for offensive security and cybersecurity research workflows. Its core use cases include: Offensive security and red teaming, including penetration testing workflow support, vulnerability analysis, and exploitation path building. Capture The Flag challenges and cybersecurity training. Active Directory security, including enumeration and lateral movement planning within authorized engagements. Authorized security testing labs and controlled environments. Safe and scoped cybersecurity research within authorized environments. Red team report drafting and attack chain structure planning. Horus Cyper Nano 1.0 will be the first release in the Horus Cyper series, a family of specialized cybersecurity models developed by TokenAI, an AI startup based in Egypt. The Open Weights of Horus Cyper Nano 1.0 will be released on September 3, 2026, which also happens to be my 19th birthday. What a way to celebrate. Our vision is to build Horus Cyper Nano into one of the strongest cybersecurity AI models to emerge from Egypt, the Arab world, the Middle East, and Africa, and to establish it as one of the leading openly available cybersecurity models across the region. This is only the beginning of the Horus Cyper series. Horus Cyper Nano 1.0 BETA Developed by TokenAI Built in Egypt
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,13 +125,7 @@ Today, we are officially announcing Early Access for our latest and most advance
 
 AI coding tools deli
 
-Databricks • 12h ago
-
----
-
-**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
-
-The New York Times • 1d ago
+Databricks • 13h ago
 
 ---
 
@@ -143,11 +137,33 @@ BBC • 1d ago
 
 ---
 
+**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
 
 Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-The Hill • 14h ago
+The Hill • 15h ago
+
+---
+
+**[‘Asphalt Guerrilla’ Blends Fact, Fiction, AI and a Story About Filmmaking to Hold Up a Mirror to Our Time](https://www.hollywoodreporter.com/movies/movie-news/asphalt-guerrilla-film-interview-locarno-2026-ai-radicalism-1236668855/)**
+
+Portuguese auteur Edgar Pêra discusses his new film, premiering at Locarno, shares how he is using AI to fight his concerns about it, and why he thinks about the rise of radicalism in the world as a symptom.
+
+The Hollywood Reporter • 53m ago
+
+---
+
+**[Deepfake victim urges better regulation of 'dangerous' AI](https://www.bbc.com/news/articles/c75gvyk6d4yo)**
+
+Georgia's photos were used to create obscene images without her consent by someone she knew.
+
+BBC • 34m ago
 
 ---
 
@@ -155,7 +171,7 @@ The Hill • 14h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 4h ago
+Fox Business • 6h ago
 
 ---
 
@@ -163,7 +179,13 @@ Fox Business • 4h ago
 
 Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something
 
-The Guardian • 13h ago
+The Guardian • 14h ago
+
+---
+
+**[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
+
+WSJ • 8h ago
 
 ---
 
@@ -171,27 +193,7 @@ The Guardian • 13h ago
 
 This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
 
-CNBC • 9h ago
-
----
-
-**[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
-
-wsj.com • 7h ago
-
----
-
-**[Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun](https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun)**
-
-Bloomberg.com • 17h ago
-
----
-
-**[San Francisco AI billboards: Why cryptic tech ads are alienating the city](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)**
-
-San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
-
-The San Francisco Standard • 16h ago
+CNBC • 10h ago
 
 ---
 
@@ -207,7 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 435 • 💬 296 • 12h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 443 • 💬 307 • 13h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -215,7 +217,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 403 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 405 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -247,7 +249,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 AI coding tools deli
 
-⬆️ 205 • 💬 191 • 11h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 213 • 💬 194 • 12h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -263,7 +265,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 166 • 💬 103 • 16h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 168 • 💬 104 • 17h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -287,33 +289,33 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 ## YouTube Videos: "ai"
 
+**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
+
+Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
+
+📺 TechLead
+
+👁️ 42K • 👍 1K • 💬 203 • ⏱️ 8:21 • 15h ago
+
+---
+
 **[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
 
 Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
 
 📺 CNN
 
-👁️ 30K • 👍 445 • 💬 333 • ⏱️ 9:52 • 1d ago
+👁️ 31K • 👍 453 • 💬 350 • ⏱️ 9:52 • 1d ago
 
 ---
 
-**[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
+**[“AI bubble will pop………....any day now.”](https://www.youtube.com/watch?v=9ETxmOfw0JM)**
 
-"One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
+Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
 
-📺 Brief But Spectacular
+📺 Man Carrying Thing
 
-👁️ 63K • 👍 3K • 💬 311 • ⏱️ 3:48 • 2d ago
-
----
-
-**[The Rogue AI Story Keeps Getting Worse (Real People Were Targeted)](https://www.youtube.com/watch?v=jV0neS94WWg)**
-
-AI agents just crossed into the real world. During a UK government safety test, one created fake identities, targeted real people, ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 681 • 💬 75 • ⏱️ 16:27 • 2d ago
+👁️ 544K • 👍 36K • 💬 4K • ⏱️ 1:33 • 2d ago
 
 ---
 
@@ -323,7 +325,7 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 68K • 👍 3K • 💬 605 • ⏱️ 31:43 • 1d ago
+👁️ 68K • 👍 3K • 💬 610 • ⏱️ 31:43 • 1d ago
 
 ---
 
@@ -333,7 +335,7 @@ Support our work: https://democracynow.org/donate/sm-desc-yt Is AI superintellig
 
 📺 Democracy Now!
 
-👁️ 283K • 👍 7K • 💬 2K • ⏱️ 26:00 • 1d ago
+👁️ 296K • 👍 8K • 💬 2K • ⏱️ 26:00 • 1d ago
 
 ---
 
@@ -343,27 +345,17 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 169K • 👍 4K • 💬 407 • ⏱️ 0:51 • 1d ago
+👁️ 172K • 👍 4K • 💬 410 • ⏱️ 0:51 • 1d ago
 
 ---
 
-**[Bruce Lee DISARMS Bolo Yeung&#39;s Knife Attack in 1 Second! 😱 | AI Movie 4K](https://www.youtube.com/watch?v=RSd86LOq2RI)**
+**[Why are AI agents hacking other companies and have they gone rogue? | BBC Newscast](https://www.youtube.com/watch?v=6F8F1K4Eahs)**
 
-Bolo Yeung thought a knife would intimidate Bruce Lee... He was wrong. ⚡ Watch this action-packed AI-generated martial arts ...
+Today, are some of the world's leading AI companies doing enough to stop their models from going rogue? Facebook owner Meta ...
 
-📺 LegendVerseTV.
+📺 BBC News
 
-👁️ 359K • 👍 1K • 💬 11 • ⏱️ 0:11 • 17h ago
-
----
-
-**[&#39;Elon Musk is killing our community&#39;: Tennessee Democrat sounds alarm on AI data centers in Memphis](https://www.youtube.com/watch?v=wgmRkDWvseg)**
-
-Justin Pearson, the projected winner in the Democratic primary for Tennessee's 9th district, says AI data centers near Memphis ...
-
-📺 MS NOW
-
-👁️ 18K • 👍 637 • 💬 160 • ⏱️ 11:39 • 1d ago
+👁️ 25K • 👍 352 • 💬 110 • ⏱️ 27:10 • 1d ago
 
 ---
 
@@ -377,11 +369,21 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 ---
 
-**[Which One is Real Vs AI?](https://www.youtube.com/watch?v=93K0tpACpCA)**
+**[150 Me Dega 🤣🤣 | Ai Comedy 🤣🤣 #shorts #politics #funny #comedy #popular #ai](https://www.youtube.com/watch?v=QPM_74JSVbc)**
 
-📺 Patrick Zeinali
+150 Me Dega | Ai Comedy #shorts #politics #funny #comedy #popular #ai.
 
-👁️ 275K • 👍 12K • 💬 519 • ⏱️ 0:43 • 13h ago
+📺 Mansuri Point
+
+👁️ 2K • 👍 39 • 💬 1 • ⏱️ 0:16 • 1h ago
+
+---
+
+**[When the Entire Office Uses AI](https://www.youtube.com/watch?v=SzAE6vdfX88)**
+
+📺 Lando Kalriz
+
+👁️ 467K • 👍 38K • 💬 280 • ⏱️ 1:27 • 10h ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,979 • 1d ago
+⬇️ 18,112 • ❤️ 2,995 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,761 • 7d ago
+⬇️ 702,709 • ❤️ 2,772 • 7d ago
 
 ---
 
@@ -419,7 +421,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 951 • 2d ago
+⬇️ 3,139,920 • ❤️ 958 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,308,186 • ❤️ 10,292 • 11d ago
+⬇️ 1,308,186 • ❤️ 10,296 • 11d ago
 
 ---
 
@@ -443,7 +445,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,718 • 3h ago
+⬇️ 2,217,339 • ❤️ 1,723 • 4h ago
 
 ---
 
@@ -455,7 +457,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 430 • 6h ago
+⬇️ 0 • ❤️ 436 • 7h ago
 
 ---
 
@@ -467,7 +469,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 386 • 19h ago
+⬇️ 77,973 • ❤️ 388 • 20h ago
 
 ---
 
@@ -479,7 +481,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 385 • 2d ago
+⬇️ 0 • ❤️ 386 • 2d ago
 
 ---
 
@@ -491,7 +493,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 161,253 • ❤️ 591 • 1d ago
+⬇️ 161,253 • ❤️ 593 • 1d ago
 
 ---
 
@@ -503,7 +505,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 686 • ❤️ 233 • 3d ago
+⬇️ 686 • ❤️ 235 • 3d ago
 
 ---
 
@@ -519,7 +521,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 79 • 💬 6 • ⭐ 22,442 • 1mo ago
+▲ 79 • 💬 6 • ⭐ 22,489 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -615,18 +617,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 69 • 💬 2 • ⭐ 62,774 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -641,6 +631,19 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 65 • 💬 1 • ⭐ 86,094 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -651,7 +654,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 811 • 5h ago
+⭐ 7.6k • 🔱 812 • 7h ago
 
 ---
 
@@ -661,7 +664,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.0k • 🔱 354 • 12h ago
+⭐ 4.0k • 🔱 356 • 14h ago
 
 ---
 
@@ -669,7 +672,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 481 • 17h ago
+⭐ 3.8k • 🔱 482 • 18h ago
 
 ---
 
@@ -679,7 +682,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1h ago
+⭐ 2.5k • 🔱 1.8k • 57s ago
 
 ---
 
@@ -689,7 +692,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 377 • 2h ago
+⭐ 2.2k • 🔱 381 • 3h ago
 
 ---
 
@@ -699,7 +702,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 159 • 4d ago
+⭐ 2.1k • 🔱 160 • 4d ago
 
 ---
 
@@ -709,7 +712,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 16h ago
+⭐ 2.0k • 🔱 142 • 17h ago
 
 ---
 
@@ -719,7 +722,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 230 • 6d ago
+⭐ 2.0k • 🔱 232 • 6d ago
 
 ---
 
@@ -729,7 +732,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 1.9k • 🔱 166 • 2d ago
+⭐ 1.9k • 🔱 167 • 2d ago
 
 ---
 
@@ -739,7 +742,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 241 • 1h ago
+⭐ 1.9k • 🔱 243 • 10m ago
 
 ---
 
