@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T08:41:13.270174+00:00'
+updated: '2026-08-08T09:37:38.025400+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 08:41 UTC  
+**Last Updated:** August 08, 2026 at 09:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,21 +52,29 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.25B
+**Market Cap:** $231.50B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+442464.2%
++443041.6%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 08, 2026](https://www.reddit.com/r/ethereum/comments/1vimypu/daily_general_discussion_august_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+4h ago
+
+---
 
 **[Daily General Discussion August 07, 2026](https://www.reddit.com/r/ethereum/comments/1vhr87x/daily_general_discussion_august_07_2026/)**
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 19h ago
 
 ---
 
@@ -89,6 +97,14 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 2d ago
+
+---
+
+**[I rebuilt OGame on EVM, fully open source](https://www.reddit.com/r/ethereum/comments/1vhcq8d/i_rebuilt_ogame_on_evm_fully_open_source/)**
+
+Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
+
+1d ago
 
 ---
 
@@ -132,20 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ETHSpain 2026 is coming to Barcelona on September 17](https://www.reddit.com/r/ethereum/comments/1vfca01/ethspain_2026_is_coming_to_barcelona_on_september/)**
-
-ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during European Blockchain Convention week. The program is built around Ethereum and EVM development, covering infrastructure, apps, public goods, and regulation. Confirmed speakers include representatives from Starknet, 1inch, Giveth, the European Ethereum Institute and Bitvavo. There is a free Networking Pass that requires approval, plus a €20 General ticket. Discosure: I’m affiliated with Web3Voyager, an ETHSpain partner. Details and registration link: https://web3voyager.com/event/ethspain-2026
-
-3d ago
-
----
-
-**[Do you care about the price or technology?](https://www.reddit.com/r/ethereum/comments/1vfgtx9/do_you_care_about_the_price_or_technology/)**
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-tradingview.com • 16h ago
+tradingview.com • 17h ago
 
 ---
 
@@ -178,7 +180,7 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -186,13 +188,13 @@ Fortune • 23h ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 12h ago
+Crypto Briefing • 13h ago
 
 ---
 
 **[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-FXStreet • 21h ago
+FXStreet • 22h ago
 
 ---
 
@@ -200,7 +202,7 @@ FXStreet • 21h ago
 
 SharpLink's Joseph Chalom opposes EIP-8363, a draft Ethereum proposal to burn validator rewards as staking rises, warning it would remove DeFi's base rate.
 
-The Defiant • 13h ago
+The Defiant • 14h ago
 
 ---
 
@@ -222,7 +224,7 @@ ethereum.org • 2d ago
 
 **[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
 
-FinanceFeeds • 15h ago
+FinanceFeeds • 16h ago
 
 ---
 
@@ -240,26 +242,6 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 ---
 
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 16h ago
-
----
-
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 12h ago
-
----
-
 **[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
 
 Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
@@ -270,33 +252,33 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 ---
 
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 195 • 💬 91 • ⏱️ 21:05 • 13h ago
+
+---
+
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 87 • 💬 10 • ⏱️ 1:08 • 17h ago
+
+---
+
 **[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
 
 We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
 📺 Milk Road
 
-👁️ 4K • 👍 135 • 💬 91 • ⏱️ 51:35 • 1d ago
-
----
-
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
-
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 20h ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=9GtnuggfoWY)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https://t.me/Ashulivetrade ⚡ Open ...
-
-📺 Ashutosh Kumar
-
-👁️ 5K • 👍 514 • 3h ago
+👁️ 4K • 👍 136 • 💬 91 • ⏱️ 51:35 • 1d ago
 
 ---
 
@@ -306,7 +288,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 214 • 💬 7 • ⏱️ 7:25 • 1d ago
+👁️ 4K • 👍 220 • 💬 7 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -316,7 +298,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 653 • 💬 194 • ⏱️ 14:40 • 1d ago
+👁️ 12K • 👍 654 • 💬 195 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -326,7 +308,27 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 463 • 💬 47 • ⏱️ 43:51 • 1d ago
+👁️ 7K • 👍 464 • 💬 47 • ⏱️ 43:51 • 1d ago
+
+---
+
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
+
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
+
+📺 DukascopyTV English
+
+👁️ 1K • 👍 2 • ⏱️ 0:57 • 22h ago
+
+---
+
+**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+
+The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+
+📺 Anthony Pompliano
+
+👁️ 9K • 👍 134 • 💬 15 • ⏱️ 0:30 • 1d ago
 
 ---
 

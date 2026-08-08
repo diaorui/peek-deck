@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T08:41:13.264774+00:00'
+updated: '2026-08-08T09:37:38.020060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 08:41 UTC  
+**Last Updated:** August 08, 2026 at 09:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1303.76B
+**Market Cap:** $1304.01B
 Rank #1
 
-**Circulating Supply:** 20,067,246 BTC
+**Circulating Supply:** 20,067,321 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.5%
 
 **All-Time Low:** $67.81
-+95710.4%
++95719.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -96,19 +96,19 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 17h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 18h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-2h ago
+3h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -116,25 +116,25 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Same as title.
 
-19h ago
+20h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-18h ago
+19h ago
 
 ---
 
 **[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -142,7 +142,7 @@ Same as title.
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-19h ago
+20h ago
 
 ---
 
@@ -154,7 +154,7 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -178,13 +178,13 @@ Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Dat
 
 Moore is also the author of "How to Get Rich in American History."
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin rises toward a weekly gain, and bumps up against a key chart level](https://www.marketwatch.com/livecoverage/dow-s-p-500-and-nasdaq-set-for-mostly-steady-start-as-investors-wait-for-u-s-jobs-data/card/bitcoin-rises-toward-a-weekly-gain-and-bumps-up-against-a-key-chart-level-FsyoNrCTe2L6MIxxQfZ8)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Times of Israel • 8h ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ Bitcoin Magazine • 11h ago
 
 Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 1d ago
 
 A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WA
 
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
-⬆️ 9 • 💬 4 • 2d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
+⬆️ 9 • 💬 4 • 3d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -319,37 +319,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 106K • 👍 6K • 💬 385 • ⏱️ 24:00 • 1d ago
-
----
-
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
-
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
-
-📺 Natalie Brunell
-
-👁️ 23K • 👍 2K • 💬 342 • ⏱️ 1:09:52 • 18h ago
-
----
-
-**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
-
-Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
-
-📺 Fireship
-
-👁️ 527K • 👍 19K • 💬 1K • ⏱️ 5:10 • 2d ago
-
----
-
-**[What Happened When Michael Saylor Sold Bitcoin?](https://www.youtube.com/watch?v=9t210Dite1g)**
-
-Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common fear that any Bitcoin sale by Michael Saylor would ...
-
-📺 Natalie Brunell
-
-👁️ 690 • 👍 11 • 💬 40 • ⏱️ 0:53 • 16h ago
+👁️ 110K • 👍 6K • 💬 399 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -363,43 +333,41 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 ---
 
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+
+📺 Natalie Brunell
+
+👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 19h ago
+
+---
+
 **[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
 
 Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
 
 📺 Crypto Jebb
 
-👁️ 9K • 👍 487 • 💬 42 • ⏱️ 8:03 • 1d ago
+👁️ 10K • 👍 491 • 💬 43 • ⏱️ 8:03 • 1d ago
 
 ---
 
-**[Jobs Report Shocker, Market Surge, S&amp;P Nears Next Major Resistance, Bitcoin Breakout, Gold Surge](https://www.youtube.com/watch?v=Ha7A-BX9zME)**
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
-📺 Verified Investing
+📺 Lark Davis
 
-👁️ 62K • 👍 4K • 💬 135 • ⏱️ 18:43 • 19h ago
-
----
-
-**[Clarity Act DELAYED! What this means for Crypto](https://www.youtube.com/watch?v=BQXrc3OBLBk)**
-
-Crypto is entering a critical decision window as Bitcoin tests major resistance while key regulatory and Ethereum developments ...
-
-📺 Crypto Banter
-
-👁️ 23K • 👍 1K • 💬 37 • ⏱️ 21:53 • 1d ago
+👁️ 11K • 👍 469 • 💬 73 • ⏱️ 11:04 • 1d ago
 
 ---
 
-**[Bitcoin’s Next 10 YEARS: The Smart Money Thesis](https://www.youtube.com/watch?v=wgviboABMZA)**
+**[HUGE CRYPTO SETBACK? $65,000 BITCOIN #bitcoin #xrp #crypto](https://www.youtube.com/watch?v=EoUv5-dm-XA)**
 
-Bitcoin #Crypto #finance The panel discusses why institutional adoption is accelerating despite weak market sentiment, arguing ...
+📺 CryptoWendyO
 
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 276 • ⏱️ 31:55 • 1d ago
+👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 8h ago
 
 ---
 
@@ -409,7 +377,37 @@ Adam Lynch joins The Watch List to break down the current performance trends for
 
 📺 Schwab Network
 
-👁️ 9K • 👍 95 • 💬 11 • ⏱️ 6:13 • 1d ago
+👁️ 9K • 👍 96 • 💬 11 • ⏱️ 6:13 • 1d ago
+
+---
+
+**[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
+
+Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
+
+📺 Fox Business Clips
+
+👁️ 83K • 👍 1K • 💬 466 • ⏱️ 8:52 • 2d ago
+
+---
+
+**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
+
+Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
+
+📺 Fireship
+
+👁️ 532K • 👍 19K • 💬 1K • ⏱️ 5:10 • 2d ago
+
+---
+
+**[Dylan LeClair: &quot;The Bitcoin Bottom Is In&quot;](https://www.youtube.com/watch?v=igsBnAI7Juc)**
+
+Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared out short-term traders, and why Bitcoin's path ...
+
+📺 Natalie Brunell
+
+👁️ 2K • 👍 75 • 💬 46 • ⏱️ 1:03 • 2d ago
 
 ---
 
