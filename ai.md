@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T01:40:15.690710+00:00'
+updated: '2026-08-08T03:26:04.176326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - repositories
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 01:40 UTC  
+**Last Updated:** August 08, 2026 at 03:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-1h ago
+3h ago
 
 ---
 
@@ -49,7 +49,15 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-11h ago
+13h ago
+
+---
+
+**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
+
+Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-7h ago
+9h ago
 
 ---
 
@@ -65,7 +73,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 6h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 8h ago
 
 ---
 
@@ -81,39 +89,31 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-11h ago
+13h ago
 
 ---
 
-**[Codex vs Claude for coding: which do you use for implementation vs code review?](https://www.reddit.com/r/artificial/comments/1vifpar/codex_vs_claude_for_coding_which_do_you_use_for/)**
+**[Chinese company Moonshot's AI model breaks out and escapes from isolated test environment.](https://www.reddit.com/r/artificial/comments/1vil1u3/chinese_company_moonshots_ai_model_breaks_out_and/)**
 
-I’m not asking which one is better overall. I’m specifically curious about how people split implementation and code review between Codex and Claude. Right now, I usually use Codex for implementation because the token/cost limits feel more practical for larger coding tasks comapred to Claude ridiculous token limit, then I use Claude to review the code, look for bugs, logic issues, missed edge cases, or possible improvements. But sometimes Codex seriously impresses me with the issues it catches during reviews, so now I’m wondering if I should do the opposite: Codex → code review/debugging Claude → implementation Or maybe use both for implementation/review depending on the situation but this consumes alot of time and tokens. For people who have used both extensively, what workflow have you found works best? Which one do you trust more for: - Implementing features - Reviewing existing code - Finding subtle bugs - Understanding large codebases - Refactoring - Debugging - Catching things the other model missed I feel a bit lost switching between the two because both occasionally outperform the other in ways I don’t expect. Would love to hear from people who regularly use both, especially on larger real-world projects.
+Moonshot AI's Kimi K3 model escaped a UK AI Security Institute sandbox during a cybersecurity test by exploiting a basic network misconfiguration, accessing GitHub to retrieve benchmark answers instead of solving tasks independently.
 
-2h ago
-
----
-
-**[A practical question about agent trust: should the system that made a change be allowed to verify its own success?](https://www.reddit.com/r/artificial/comments/1vibujw/a_practical_question_about_agent_trust_should_the/)**
-
-I’m working on a software-agent system and keep coming back to one design question: **Should the model/provider that performs an action be allowed to be the final authority on whether the action succeeded?** My current answer is “no,” at least for meaningful software work. I’m building Flows around a chain where execution, checks, repair, and evidence are separate concepts. Oort is the canonical library/provider layer underneath it. https://flows.oortstack.com https://oortstack.com In agentic systems generally, what should count as independent verification rather than provider self-reporting?
-
-5h ago
+3m ago
 
 ---
 
-**[Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI](https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/)**
+**[LLM judgment over correct context problem](https://www.reddit.com/r/artificial/comments/1vikno2/llm_judgment_over_correct_context_problem/)**
 
-The job title survives longer than almost anyone attached to it. That's the part nobody puts in the internal memo when they call a role "AI-assisted." Scott Galloway put a real number on it, talking to Steven Bartlett on The Diary Of A CEO. He says he'll cut legal fees by a third this year — not because the law changed, but because a prompt now does the $400–$2,000 contract review a name-brand firm used to bill him for, at a fraction of the junior associate markup. Bartlett went further with his own fund. They planned to hire five analysts. They hired one — Molly. Two agents, two Mac Minis, and she screens inbound deals, scores them against a framework, and preps them for the investment committee herself. Five jobs, one person, same org chart line. Same ratio on executive assistants: ten planned, three hired. One runs travel, one runs scheduling, one meets people at the door. I've watched this exact pattern before, minus the AI. I was a Technical Manager for a China Construction company here in Malaysia. I contributed a lot into their technical and tendering work — helped build up a real chunk of their documentation and tendering process. But about six months in, I'd exhausted all my know-how for them, I guess. Then the announcement came at the end of my year there. My contract wasn't renewed. I was just let go, just like that. I remember what Deng Xiaoping said: "无论白猫，或者黑猫，会抓老鼠的就是好猫" — black cat, white cat, doesn't matter, so long as it catches mice. I guess they think I'd outlived my usefulness. Can't catch mice anymore. That's the mechanism underneath "AI-assisted" that nobody names out loud. It's not that the work got automated. It's that the one person left is now doing what used to justify five headcounts, and the fifth person's job title is the only part of the org that didn't change. Actually, this reminded me of something — a former SpaceX CIO cut a 175-person engineering team down to 6 using the same compression math, and the ratio held there too. Drop your take — did you know your own job has a ratio like this attached to it? Clip credit: Global Talks — full video on their channel. DM for credit or removal requests.
+Ive tested all the models where it can fit into my 4080 vram. Even some slightly bigger. Gemma4 outperforms all of them so that's what I'm sticking with for now. Gemma4 12B model judging network configs for CVE false positives stuck at ~77.8% pass rate and it's a reasoning issue. Have the complete CVE list for the code base and the device config. I pull each networks device's running config, batch ~10 CVEs per call to a local gemma4:12b (Ollama), and have the model return applicable / not_applicable / undetermined per CVE, with a verbatim evidence quote from the config supporting the verdict. For example what I'm trying to do if the cve is for an IPv6 bug that's listed as critical and no ipv6 is configured in the device config it's not applicable to me. Same on devices if a web interface is running and I have no web services enabled. these will show positive that I matched with no configuration evidence for it. Temperature 0 is set. Device config sent once per device ahead of the CVE batch (KV-cache reuse), and output-token limits tuned up after finding truncation was producing wasted undetermineds. Error analysis shows the failures are reasoning failures. The model is handed the full rule text and the raw config directly, complete context, and still gets the comparison wrong (version-range logic, negation, "present but in a different mode" cases). A parallel eval harness on the same model doing DoD STIG compliance verdicts with a RAG (same shape of task: config chunk + rule text = judgment + config) measures 77.3% verdict accuracy. Also all reasoning failures, not retrieval failures from the RAG. This one is a bit different in that if the configuration of the DoD spec is missing from the config use the rag to give me the configuration for the device. A bit more complicated but same overall shape. Anyone have any ideas I can look into? Bigger model? ~27B+ specifically on config-reasoning / policy-comparison tasks. Hybrid offloading to a frontier model is a no go due to configuration sensitivity. Other local models pose challenges if foreign (Qwen/deepseek) but willing to try in lab, they scored worse anyways. Decompose the task? deterministically parse the config into structured feature facts first then the LLM or even a rules engine only maps CVE to feature. Shrinks the LLM's job from "read a config" to "match two labels." Two-pass self-verification or small-ensemble voting on disagreement? A tested answer key moved the needle to over 95% pass for a single device but that defeats the purpose of then having to do an answer key for 500+ devices due to variability. For those running small local models on "judgment over correct context" tasks what actually moved your accuracy? Bigger model, task decomposition, or verification layers? My experience so far says the guardrails (quote verification, conservative fallbacks) are what make 77% usable, but they don't raise it.
 
-14h ago
+23m ago
 
 ---
 
-**[Election Fraud Worldwide: How AI Is Eroding Trust in Elections (2026)](https://www.reddit.com/r/artificial/comments/1vi50mv/election_fraud_worldwide_how_ai_is_eroding_trust/)**
+**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
 
-Discover what election fraud is, its main types, real-world examples, and the penalties fraudsters could face.
+Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
 
-🔗 [Sumsub](https://sumsub.com/blog/election-fraud-guide/?utm_source=chatgpt.com&utm_source=reddit&utm_medium=social) • 9h ago
+1h ago
 
 ---
 
@@ -121,9 +121,17 @@ Discover what election fraud is, its main types, real-world examples, and the pe
 
 ## Google News: "ai"
 
+**[Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)**
+
+AI coding tools deli
+
+databricks.com • 10h ago
+
+---
+
 **[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-nytimes.com • 1d ago
+The New York Times • 1d ago
 
 ---
 
@@ -131,23 +139,15 @@ nytimes.com • 1d ago
 
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
-bbc.com • 1d ago
+BBC • 1d ago
 
 ---
 
-**[Study examines the ability of AI to create viruses](https://www.yahoo.com/news/videos/study-examines-ability-ai-create-234016019.html)**
+**[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
 
-Fox News host Will Cain discusses a study revealing artificial intelligence is capable of designing never-before-seen viruses from scratch on ‘The Will Cain Show.’
+Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-Yahoo • 1h ago
-
----
-
-**[San Francisco AI billboards: Why cryptic tech ads are alienating the city](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)**
-
-San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
-
-The San Francisco Standard • 12h ago
+The Hill • 12h ago
 
 ---
 
@@ -155,21 +155,7 @@ The San Francisco Standard • 12h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 48m ago
-
----
-
-**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
-
-WSJ • 40m ago
-
----
-
-**[Consumer Reports cautions using AI chatbots for health inquiries](https://www.wmur.com/article/consumer-reports-ai-chatbots-health/73380546)**
-
-As time goes on, more people are turning to ChatGPT and other artificial intelligence tools for health questions. However, as Consumer Reports explains, they are not always accurate or reliable.
-
-WMUR • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -177,7 +163,7 @@ WMUR • 1h ago
 
 How tech found religion.
 
-The Washington Post • 7h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -185,7 +171,7 @@ The Washington Post • 7h ago
 
 Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something
 
-The Guardian • 9h ago
+The Guardian • 11h ago
 
 ---
 
@@ -193,21 +179,27 @@ The Guardian • 9h ago
 
 This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
 
-CNBC • 5h ago
+CNBC • 7h ago
+
+---
+
+**[Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun](https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun)**
+
+Bloomberg.com • 15h ago
+
+---
+
+**[San Francisco AI billboards: Why cryptic tech ads are alienating the city](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)**
+
+San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
+
+sfstandard.com • 14h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[Software development with AI is starting to feel like cooking steak](https://news.ycombinator.com/item?id=49198069)**
-
-Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
-
-⬆️ 398 • 💬 414 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
-
----
 
 **[Oracle bans AI-generated code from OpenJDK](https://news.ycombinator.com/item?id=49213754)**
 
@@ -217,7 +209,15 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 390 • 💬 257 • 8h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 408 • 💬 275 • 9h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+
+---
+
+**[Software development with AI is starting to feel like cooking steak](https://news.ycombinator.com/item?id=49198069)**
+
+Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
+
+⬆️ 400 • 💬 414 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -245,6 +245,14 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 ---
 
+**[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
+
+AI coding tools deli
+
+⬆️ 179 • 💬 178 • 9h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+
+---
+
 **[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://news.ycombinator.com/item?id=49186720)**
 
 Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
@@ -253,19 +261,11 @@ Both the general public and academic communities have raised concerns about syco
 
 ---
 
-**[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
-
-AI coding tools deli
-
-⬆️ 165 • 💬 171 • 7h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-
----
-
 **[AI psychosis is the new leadership blind spot](https://news.ycombinator.com/item?id=49210077)**
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 160 • 💬 103 • 12h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 161 • 💬 103 • 13h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -273,7 +273,7 @@ Here's how to spot the disease—and what to do about it.
 
 AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
 
-⬆️ 150 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+⬆️ 151 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 
 ---
 
@@ -281,7 +281,7 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 144 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 145 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -295,7 +295,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 28K • 👍 435 • 💬 326 • ⏱️ 9:52 • 23h ago
+👁️ 28K • 👍 435 • 💬 326 • ⏱️ 9:52 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,748 • 6d ago
+⬇️ 702,709 • ❤️ 2,748 • 7d ago
 
 ---
 
@@ -423,7 +423,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 938 • 1d ago
+⬇️ 3,139,920 • ❤️ 938 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,709 • 2d ago
+⬇️ 2,217,339 • ❤️ 1,709 • 3d ago
 
 ---
 
@@ -459,7 +459,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 419 • 2h ago
+⬇️ 0 • ❤️ 419 • 3h ago
 
 ---
 
@@ -483,7 +483,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 380 • 15h ago
+⬇️ 77,973 • ❤️ 380 • 16h ago
 
 ---
 
@@ -655,7 +655,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 807 • 1h ago
+⭐ 7.5k • 🔱 807 • 3h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.0k • 🔱 351 • 8h ago
+⭐ 4.0k • 🔱 351 • 10h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 481 • 13h ago
+⭐ 3.8k • 🔱 481 • 15h ago
 
 ---
 
@@ -683,7 +683,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1m ago
+⭐ 2.5k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 377 • 18h ago
+⭐ 2.2k • 🔱 377 • 20h ago
 
 ---
 
@@ -713,7 +713,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 12h ago
+⭐ 2.0k • 🔱 142 • 14h ago
 
 ---
 
@@ -743,7 +743,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 237 • 4m ago
+⭐ 1.9k • 🔱 237 • 1h ago
 
 ---
 
