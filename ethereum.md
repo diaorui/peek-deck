@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T06:53:46.625331+00:00'
+updated: '2026-08-08T07:49:52.575670+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 06:53 UTC  
+**Last Updated:** August 08, 2026 at 07:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 17h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-tradingview.com • 14h ago
+tradingview.com • 15h ago
 
 ---
 
@@ -170,7 +170,7 @@ tradingview.com • 14h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 22h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -186,13 +186,13 @@ Fortune • 21h ago
 
 Ethereum Foundation is now under fire for the infamous proposal
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
 **[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ FXStreet • 19h ago
 
 SharpLink's Joseph Chalom opposes EIP-8363, a draft Ethereum proposal to burn validator rewards as staking rises, warning it would remove DeFi's base rate.
 
-The Defiant • 12h ago
+The Defiant • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Defiant • 12h ago
 
 Grayscale's Ethereum Staking Mini ETF has 80.8% of its 839,556 Ether staked, with quarterly cash distributions planned after a July 2026 tax
 
-cryptobriefing.com • 15h ago
+cryptobriefing.com • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 14h ago
+👁️ 2K • 👍 82 • 💬 4 • ⏱️ 1:08 • 15h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 10h ago
+👁️ 3K • 👍 183 • 💬 67 • ⏱️ 21:05 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 18h ago
+👁️ 17K • 👍 2K • 💬 275 • ⏱️ 17:35 • 19h ago
 
 ---
 
