@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T22:35:55.207711+00:00'
+updated: '2026-08-08T23:29:03.803737+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 22:35 UTC  
+**Last Updated:** August 08, 2026 at 23:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Source: https://openrouter.ai/rankings
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-22h ago
+23h ago
 
 ---
 
@@ -73,7 +73,7 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 13h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 14h ago
 
 ---
 
@@ -95,7 +95,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-20h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 Managers are saving over 2x the time individual contributors are with AI tools. and it’s just starting I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were. I believe that's one of the reasons you get a 2x gap between managers and everyone else. In the same survey, 36% of managers said they're not likely to launch training for their employees on how to leverage AI, which makes the gap even bigger. A manager's job was never to be the best individual operator in the room. It's to make everyone else better at the job. That doesn't change because the tool changed. Why do you think there's a 100% gap between managers and their teams right now, and what would it actually take to close it? Source: https://www.business.com/articles/ai-usage-smb-workplace-study/ P.S. If you're the founder still in the middle of every decision, still the person the whole company waits on, still telling yourself you'll fix the structure "once things calm down." I write about building the operational backbone that lets a founder actually step back every Thursday. Was a COO for 20+ years, so this is genuinely my bread and butter. Free to join here
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ This is a weird one to admit but here goes. Spent the last few years home with k
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 10h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 5h ago
 
 Chabad's Met@Chabad initiative combines AI matchmaking with rabbi-vetted profiles for a virtual speed dating event aiming to connect 13,000 Jewish singles.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fox News • 1h ago
 
 some Colorado students are questioning why their institutions of higher education are aligning themselves with big AI companies.
 
-The Detroit News • 1h ago
+The Detroit News • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ WSJ • 8h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 21h ago
+Fox Business • 22h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fox Business • 21h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-fortune.com • 6h ago
+fortune.com • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ WCAX • 1d ago
 
 What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -209,7 +209,13 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 511 • 💬 374 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 517 • 💬 374 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+
+---
+
+**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
+
+⬆️ 460 • 💬 216 • 5h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -217,13 +223,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 413 • 💬 417 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
-
----
-
-**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
-
-⬆️ 374 • 💬 179 • 4h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+⬆️ 413 • 💬 418 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -239,7 +239,7 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 AI coding tools deli
 
-⬆️ 295 • 💬 252 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 299 • 💬 253 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -247,15 +247,7 @@ AI coding tools deli
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 171 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
-
----
-
-**[xAI, SpaceX, and the Race for AI Buildout](https://news.ycombinator.com/item?id=49201342)**
-
-An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
-
-⬆️ 146 • 💬 120 • 2d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 172 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -267,7 +259,15 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 144 • 💬 96 • 8h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 150 • 💬 103 • 9h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+
+---
+
+**[xAI, SpaceX, and the Race for AI Buildout](https://news.ycombinator.com/item?id=49201342)**
+
+An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
+
+⬆️ 146 • 💬 120 • 2d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -278,7 +278,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 80 • 💬 19 • 18h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 80 • 💬 19 • 19h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -286,7 +286,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-⬆️ 73 • 💬 117 • 1d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+⬆️ 74 • 💬 117 • 1d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
@@ -320,7 +320,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Brief But Spectacular
 
-👁️ 87K • 👍 4K • 💬 405 • ⏱️ 3:48 • 2d ago
+👁️ 87K • 👍 4K • 💬 405 • ⏱️ 3:48 • 3d ago
 
 ---
 
@@ -328,7 +328,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Mark Tilbury
 
-👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 14h ago
+👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 15h ago
 
 ---
 
@@ -450,7 +450,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 477 • 2h ago
+⬇️ 0 • ❤️ 477 • 3h ago
 
 ---
 
@@ -462,7 +462,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,755 • 20h ago
+⬇️ 2,345,190 • ❤️ 1,755 • 21h ago
 
 ---
 
@@ -659,7 +659,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 839 • 14h ago
+⭐ 7.7k • 🔱 839 • 15h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 12h ago
+⭐ 3.8k • 🔱 489 • 13h ago
 
 ---
 
@@ -697,7 +697,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 389 • 18h ago
+⭐ 2.2k • 🔱 389 • 19h ago
 
 ---
 
@@ -737,7 +737,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 1h ago
+⭐ 2.0k • 🔱 233 • 2h ago
 
 ---
 
@@ -747,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 1h ago
+⭐ 1.9k • 🔱 243 • 2h ago
 
 ---
 

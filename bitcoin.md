@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T22:35:55.216473+00:00'
+updated: '2026-08-08T23:29:03.811797+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 22:35 UTC  
+**Last Updated:** August 08, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +2.4%  
-**30d:** +1.4%  
-**90d:** -20.5%  
+**24h:** +0.1%  
+**7d:** +2.2%  
+**30d:** +1.2%  
+**90d:** -20.6%  
 **1y:** -44.2%  
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 2h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 3h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,13 +95,21 @@ Rank #1
 
 The last non split block has been mined. Lest see what happens now
 
-2h ago
+3h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-16h ago
+17h ago
+
+---
+
+**[Did someone burn 100 BTC?](https://www.reddit.com/r/Bitcoin/comments/1vj99lc/did_someone_burn_100_btc/)**
+
+Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
+
+46m ago
 
 ---
 
@@ -109,13 +117,13 @@ The last non split block has been mined. Lest see what happens now
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-6h ago
+7h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -127,18 +135,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-2h ago
-
----
-
-**[Trezor user loses life savings by entering their seed phrase into a fake Google-sponsored Trezor website](https://www.reddit.com/r/Bitcoin/comments/1vi2jv0/trezor_user_loses_life_savings_by_entering_their/)**
-
-Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor wallet' is a phishing site!
-
-The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
-bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
-
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 1d ago
+3h ago
 
 ---
 
@@ -146,7 +143,7 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
 
-5h ago
+6h ago
 
 ---
 
@@ -158,7 +155,7 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -174,13 +171,13 @@ Decrypt • 5h ago
 
 Just days after hackers drained thousands of self-custody wallets in the Coldcard exploit, Bitcoin ETFs suddenly snapped a months-long losing streak with their strongest week in months. The timing is hard to ignore, but the explanation turns out to be more complicated than it first appears.
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -200,7 +197,7 @@ fortune.com • 1d ago
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -208,7 +205,7 @@ Investing.com • 13h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
@@ -216,7 +213,7 @@ Forbes • 14h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -236,7 +233,7 @@ Bitcoin is holding near $65,000, yet some of the largest mining stocks are posti
 
 Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
 
-⬆️ 70 • 💬 23 • 5d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
+⬆️ 70 • 💬 23 • 6d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
 
 ---
 
@@ -321,7 +318,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 6h ago
+👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 7h ago
 
 ---
 
