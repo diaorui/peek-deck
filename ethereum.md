@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T20:32:34.558927+00:00'
+updated: '2026-08-08T21:30:07.047342+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 20:32 UTC  
+**Last Updated:** August 08, 2026 at 21:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,922.79
+### $1,921.54
 
 ---
 
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+443304.9%
++443270.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -152,28 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363](https://finance.yahoo.com/markets/crypto/articles/sharplink-ceo-warns-against-ethereum-190430981.html)**
-
-SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
-
-CCN.com • 11h ago
-
----
-
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
-
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
-
-TradingView • 15h ago
-
----
-
 **[ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)**
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
@@ -182,11 +160,33 @@ CoinDesk • 1d ago
 
 ---
 
+**[SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363](https://finance.yahoo.com/markets/crypto/articles/sharplink-ceo-warns-against-ethereum-190430981.html)**
+
+SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
+
+CCN.com • 12h ago
+
+---
+
+**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+
+US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+
+TradingView • 16h ago
+
+---
+
 **[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ Benzinga • 1d ago
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -208,13 +208,7 @@ thestreet.com • 23h ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 4h ago
-
----
-
-**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
-
-FXStreet • 1d ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -223,6 +217,12 @@ FXStreet • 1d ago
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
 AMBCrypto • 1d ago
+
+---
+
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 56 • 💬 17 • ⏱️ 3:33 • 2d ago
+👁️ 3K • 👍 57 • 💬 17 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 197 • 💬 30 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 197 • 💬 34 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -256,27 +256,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 19K • 👍 2K • 💬 292 • ⏱️ 17:35 • 1d ago
-
----
-
-**[Anthony Pompliano lesson on why you never sell your ETH](https://www.youtube.com/watch?v=9Gl55dx5g3o)**
-
-Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
-
-📺 Liquid Loans
-
-👁️ 818 • 👍 7 • ⏱️ 0:32 • 5h ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 142 • 💬 93 • ⏱️ 51:35 • 2d ago
+👁️ 19K • 👍 2K • 💬 240 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -286,7 +266,7 @@ This is all about why the next 30 days for Bitcoin & crypto could be a major boo
 
 📺 Investing Made Simple
 
-👁️ 9K • 👍 535 • ⏱️ 9:52 • 2d ago
+👁️ 9K • 👍 539 • ⏱️ 9:52 • 2d ago
 
 ---
 
@@ -296,27 +276,37 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 221 • 💬 103 • ⏱️ 21:05 • 1d ago
+👁️ 4K • 👍 221 • 💬 99 • ⏱️ 21:05 • 1d ago
 
 ---
 
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+**[BMNR’s $19.30 Rejection: Is Tom Lee’s ETH Breakout Still Alive??](https://www.youtube.com/watch?v=zYxG7HCyLf8)**
 
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
 
-📺 Lark Davis
+📺 MONEY GAME
 
-👁️ 2K • 👍 97 • 💬 11 • ⏱️ 1:08 • 1d ago
+👁️ 2K • 👍 110 • 💬 2 • ⏱️ 17:46 • 1d ago
 
 ---
 
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
 
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 4K • 👍 228 • 💬 10 • ⏱️ 7:25 • 1d ago
+👁️ 5K • 👍 144 • 💬 93 • ⏱️ 51:35 • 2d ago
+
+---
+
+**[Anthony Pompliano lesson on why you never sell your ETH](https://www.youtube.com/watch?v=9Gl55dx5g3o)**
+
+Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
+
+📺 Liquid Loans
+
+👁️ 1K • 👍 8 • ⏱️ 0:32 • 6h ago
 
 ---
 
@@ -326,7 +316,17 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 662 • 💬 195 • ⏱️ 14:40 • 2d ago
+👁️ 13K • 👍 663 • 💬 196 • ⏱️ 14:40 • 2d ago
+
+---
+
+**[Bitcoin LIVE: Prepare Now or Chase Later! (it’s coming) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=XEOqpofWL-o)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 3K • 👍 236 • 💬 8 • ⏱️ 57:20 • 7h ago
 
 ---
 

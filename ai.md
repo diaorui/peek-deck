@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T20:32:34.549605+00:00'
+updated: '2026-08-08T21:30:07.034141+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 20:32 UTC  
+**Last Updated:** August 08, 2026 at 21:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-4h ago
-
----
-
-**[What is the best AI image generator?](https://www.reddit.com/r/artificial/comments/1vj10i1/what_is_the_best_ai_image_generator/)**
-
-I'm looking for a new one and my last post got deleted. Midjourney is alright but it does something weird with faces and buildings when they're close. I've worked on my prompts quite a bit but nothing seems to work well.
-
-3h ago
-
----
-
-**[KPMG finds 49% cut AI agent rollouts when costs outran value](https://www.reddit.com/r/artificial/comments/1vj16y1/kpmg_finds_49_cut_ai_agent_rollouts_when_costs/)**
-
-Established ROI sits at 7% while planned AI spending holds at $188m across the 2,145 leaders surveyed. Cost visibility now separates the firms seeing returns.
-
-🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 3h ago
-
----
-
-**[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
-
-Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
-
-20h ago
-
----
-
-**[Will AI help speed up medical science?](https://www.reddit.com/r/artificial/comments/1vj3trr/will_ai_help_speed_up_medical_science/)**
-
-What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
-
-1h ago
+5h ago
 
 ---
 
@@ -81,7 +49,23 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-4h ago
+5h ago
+
+---
+
+**[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
+
+Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
+
+21h ago
+
+---
+
+**[Will AI help speed up medical science?](https://www.reddit.com/r/artificial/comments/1vj3trr/will_ai_help_speed_up_medical_science/)**
+
+What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
+
+2h ago
 
 ---
 
@@ -97,21 +81,37 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 11h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 12h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 9h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 10h ago
 
 ---
 
 **[I read a study that managers are the ones benefiting more from AI and it’s just getting started](https://www.reddit.com/r/artificial/comments/1vj3zsu/i_read_a_study_that_managers_are_the_ones/)**
 
-Managers are saving over 2x the time individual contributors are with AI tools. and it’s just starting I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were. I believe that's one of the reasons you get a 2x gap between managers and everyone else. In the same survey, 36% of managers said they're not likely to launch training for their employees on how to leverage AI, which makes the gap even bigger. A manager's job was never to be the best individual operator in the room. It's to make everyone else better at the job. That doesn't change because the tool changed. Why do you think there's a 100% gap between managers and their teams right now, and what would it actually take to close it? Source: https://www.business.com/articles/ai-usage-smb-workplace-study/
+Managers are saving over 2x the time individual contributors are with AI tools. and it’s just starting I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were. I believe that's one of the reasons you get a 2x gap between managers and everyone else. In the same survey, 36% of managers said they're not likely to launch training for their employees on how to leverage AI, which makes the gap even bigger. A manager's job was never to be the best individual operator in the room. It's to make everyone else better at the job. That doesn't change because the tool changed. Why do you think there's a 100% gap between managers and their teams right now, and what would it actually take to close it? Source: https://www.business.com/articles/ai-usage-smb-workplace-study/ P.S. If you're the founder still in the middle of every decision, still the person the whole company waits on, still telling yourself you'll fix the structure "once things calm down." I write about building the operational backbone that lets a founder actually step back every Thursday. Was a COO for 20+ years, so this is genuinely my bread and butter. Free to join here
 
-1h ago
+2h ago
+
+---
+
+**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
+
+Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
+
+19h ago
+
+---
+
+**[Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?](https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/)**
+
+This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
+
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Managers are saving over 2x the time individual contributors are with AI tools. 
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 8h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-theguardian.com • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -143,17 +143,33 @@ OpenAI • 1d ago
 
 ---
 
-**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
+**[As AI reshapes dating, a Jewish organization is betting on the return of the human matchmaker](https://www.foxnews.com/culture/ai-reshapes-dating-jewish-organization-betting-return-human-matchmaker)**
 
-WSJ • 19h ago
+Chabad's Met@Chabad initiative combines AI matchmaking with rabbi-vetted profiles for a virtual speed dating event aiming to connect 13,000 Jewish singles.
+
+Fox News • 29m ago
 
 ---
 
-**[AI expert warns of power grid challenges as data centers surge](https://www.foxnews.com/video/6403060495112)**
+**[AI pioneer: 'Trust cannot be outsourced to machines'](https://www.yahoo.com/news/videos/ai-pioneer-trust-cannot-outsourced-200000757.html)**
 
-AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge in AI data centers in Texas and the power grid challenges they present.
+During a conversation live at the Masters of Scale Summit, Dr. Fei-Fei Li, co-founder and CEO of World Labs and a leading AI researcher, argues that trust in the AI era must stay fundamentally human. ...
 
-Fox News • 3h ago
+Yahoo • 1h ago
+
+---
+
+**[Generative AI Could 'Invent' Biological Discoveries That Don't Exist](https://www.sciencealert.com/generative-ai-could-invent-biological-discoveries-that-dont-exist)**
+
+An AI system could help scientists identify a promising new drug.
+
+ScienceAlert • 28m ago
+
+---
+
+**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
+
+wsj.com • 20h ago
 
 ---
 
@@ -161,7 +177,7 @@ Fox News • 3h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 19h ago
+Fox Business • 20h ago
 
 ---
 
@@ -169,15 +185,7 @@ Fox Business • 19h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 4h ago
-
----
-
-**[Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher](https://www.fool.com/investing/2026/08/08/forget-the-artificial-intelligence-ai-capex-bubble/)**
-
-Elon Musk says that memory prices will continue to rise.
-
-The Motley Fool • 9h ago
+Fortune • 5h ago
 
 ---
 
@@ -185,15 +193,7 @@ The Motley Fool • 9h ago
 
 The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
 
-NVIDIA Blog • 9h ago
-
----
-
-**[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)**
-
-Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
-
-WCAX • 1d ago
+NVIDIA Blog • 10h ago
 
 ---
 
@@ -239,7 +239,7 @@ AI coding tools deli
 
 **[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
 
-⬆️ 248 • 💬 119 • 2h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+⬆️ 248 • 💬 119 • 3h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -267,13 +267,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 124 • 💬 87 • 6h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 124 • 💬 87 • 7h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
 **[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
 
-⬆️ 116 • 💬 64 • 2d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
+⬆️ 116 • 💬 64 • 3d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
 
 ---
 
@@ -284,7 +284,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 79 • 💬 19 • 16h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 79 • 💬 19 • 17h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -292,11 +292,33 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 ## YouTube Videos: "ai"
 
-**[Never ask me this…](https://www.youtube.com/watch?v=m17j6eZ5xoA)**
+**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
 
-📺 Bugs
+Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
 
-👁️ 169K • 👍 13K • 💬 615 • ⏱️ 0:34 • 1d ago
+📺 TechLead
+
+👁️ 64K • 👍 2K • 💬 308 • ⏱️ 8:21 • 1d ago
+
+---
+
+**[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
+
+Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
+
+📺 CNN
+
+👁️ 35K • 👍 540 • 💬 379 • ⏱️ 9:52 • 1d ago
+
+---
+
+**[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
+
+"One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
+
+📺 Brief But Spectacular
+
+👁️ 87K • 👍 4K • 💬 405 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -304,37 +326,57 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 📺 Mark Tilbury
 
-👁️ 290K • 👍 9K • 💬 499 • ⏱️ 0:26 • 12h ago
+👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 13h ago
 
 ---
 
-**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
+**[The Rogue AI Story Keeps Getting Worse (Real People Were Targeted)](https://www.youtube.com/watch?v=jV0neS94WWg)**
 
-(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
+AI agents just crossed into the real world. During a UK government safety test, one created fake identities, targeted real people, ...
 
-📺 All-In Podcast
+📺 AI Revolution
 
-👁️ 176K • 👍 4K • 💬 368 • ⏱️ 1:15:18 • 18h ago
-
----
-
-**[AI Company Is DESTROYING Books?!](https://www.youtube.com/watch?v=DTrqs3n7iq4)**
-
-Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscribe to Glenn Beck on YouTube: ...
-
-📺 Glenn Beck
-
-👁️ 186K • 👍 5K • 💬 434 • ⏱️ 0:51 • 1d ago
+👁️ 20K • 👍 705 • 💬 83 • ⏱️ 16:27 • 2d ago
 
 ---
 
-**[Gen Z, AI Is Destroying Your Knowledge Base: End Of Expertise?](https://www.youtube.com/watch?v=HZ7IbLrew_o)**
+**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
 
-Gen Z | Artificial Intelligence | End Of Expertise | AI Impact On Education | Gen Z & AI | Generative AI | AI Knowledge Base | Future ...
+Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
 
-📺 Firstpost
+📺 AI Explained
 
-👁️ 468 • 👍 13 • 💬 1 • ⏱️ 0:34 • 2h ago
+👁️ 73K • 👍 3K • 💬 625 • ⏱️ 31:43 • 2d ago
+
+---
+
+**[AI just created a brand new virus. Should we be scared? | BBC News](https://www.youtube.com/watch?v=z9FXO6_0Nv0)**
+
+Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say ...
+
+📺 BBC News
+
+👁️ 428K • 👍 6K • 💬 3K • ⏱️ 6:38 • 1d ago
+
+---
+
+**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
+
+In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
+
+📺 Shawn Ryan Show
+
+👁️ 99K • 👍 3K • 💬 585 • ⏱️ 17:08 • 23h ago
+
+---
+
+**[Prompt Like THIS to Master Making AI Videos (5 Levels)](https://www.youtube.com/watch?v=P3cxhr8FJa8)**
+
+Create your own AI Videos with Higgsfield https://youricreates.com/Higgsfield In this video, I walk through the five levels of AI ...
+
+📺 Youri van Hofwegen
+
+👁️ 12K • 💬 20 • ⏱️ 22:04 • 2d ago
 
 ---
 
@@ -344,45 +386,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 273K • 👍 19K • 💬 660 • ⏱️ 1:36 • 1d ago
-
----
-
-**[When AI becomes more expensive than people](https://www.youtube.com/watch?v=3JHfFMcAnO0)**
-
-📺 Christian Maldonado
-
-👁️ 140K • 👍 8K • 💬 136 • ⏱️ 1:03 • 1d ago
-
----
-
-**[Galaxy AI | My FanCam | Galaxy Z Fold8 | Samsung](https://www.youtube.com/watch?v=SDGsyLu5wg0)**
-
-Just film it, then reframe your favorite views later with the all-new Galaxy Z Fold8. My FanCam takes a group video and lets you ...
-
-📺 Samsung
-
-👁️ 2.6M • 👍 355 • 💬 22 • ⏱️ 0:35 • 1d ago
-
----
-
-**[AI Designed A Walking Robot In Just 26 Seconds 🤖 #ai #robotics #innovation #tech](https://www.youtube.com/watch?v=JJqv4lGA7Mg)**
-
-This AI Designed A Walking Robot From Scratch What happens when you stop telling humans how a robot should look and ...
-
-📺 EcoZora
-
-👁️ 8K • 👍 44 • 💬 4 • ⏱️ 0:07 • 6h ago
-
----
-
-**[I Asked AI To Zoom Out This Picture 100 Times](https://www.youtube.com/watch?v=zbrR345mXPI)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 941K • 👍 51K • 💬 532 • ⏱️ 0:52 • 1d ago
+👁️ 290K • 👍 20K • 💬 704 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -398,7 +402,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 26,693 • ❤️ 3,081 • 2d ago
+⬇️ 26,693 • ❤️ 3,092 • 2d ago
 
 ---
 
@@ -410,7 +414,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,836 • 7d ago
+⬇️ 785,771 • ❤️ 2,841 • 7d ago
 
 ---
 
@@ -420,7 +424,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 998 • 2d ago
+⬇️ 3,943,176 • ❤️ 1,000 • 2d ago
 
 ---
 
@@ -432,7 +436,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,388,105 • ❤️ 10,328 • 12d ago
+⬇️ 1,388,105 • ❤️ 10,336 • 12d ago
 
 ---
 
@@ -444,7 +448,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 470 • 21h ago
+⬇️ 0 • ❤️ 477 • 1h ago
 
 ---
 
@@ -456,7 +460,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,750 • 18h ago
+⬇️ 2,345,190 • ❤️ 1,755 • 19h ago
 
 ---
 
@@ -468,7 +472,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 81,522 • ❤️ 409 • 1d ago
+⬇️ 81,522 • ❤️ 414 • 1d ago
 
 ---
 
@@ -480,7 +484,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 401 • 3d ago
+⬇️ 0 • ❤️ 403 • 3d ago
 
 ---
 
@@ -504,7 +508,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 896 • ❤️ 250 • 3d ago
+⬇️ 896 • ❤️ 254 • 4d ago
 
 ---
 
@@ -512,17 +516,15 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
-*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
 
-🏢 jingdong
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
+▲ 119 • 💬 4 • ⭐ 96,341 • 19mo ago
 
-▲ 87 • 💬 1 • ⭐ 461 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -540,6 +542,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
+**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+
+*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+
+🏢 jingdong
+
+Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
+
+▲ 87 • 💬 1 • ⭐ 512 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
 **[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
 
 *Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
@@ -551,18 +567,6 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 ▲ 486 • 💬 10 • ⭐ 8,227 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 119 • 💬 4 • ⭐ 96,112 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -653,7 +657,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 835 • 12h ago
+⭐ 7.7k • 🔱 839 • 13h ago
 
 ---
 
@@ -663,7 +667,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.2k • 🔱 368 • 1d ago
+⭐ 4.2k • 🔱 370 • 1d ago
 
 ---
 
@@ -671,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 10h ago
+⭐ 3.8k • 🔱 489 • 11h ago
 
 ---
 
@@ -681,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 40s ago
 
 ---
 
@@ -691,7 +695,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 388 • 16h ago
+⭐ 2.2k • 🔱 389 • 17h ago
 
 ---
 
@@ -731,7 +735,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 7d ago
+⭐ 2.0k • 🔱 233 • 49m ago
 
 ---
 
@@ -741,7 +745,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 1h ago
+⭐ 1.9k • 🔱 243 • 3m ago
 
 ---
 

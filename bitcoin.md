@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T20:32:34.555136+00:00'
+updated: '2026-08-08T21:30:07.041974+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 20:32 UTC  
+**Last Updated:** August 08, 2026 at 21:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.36B
+**Market Cap:** $1304.30B
 Rank #1
 
-**Circulating Supply:** 20,067,503 BTC
+**Circulating Supply:** 20,067,575 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.4%
+-48.5%
 
 **All-Time Low:** $67.81
-+95759.0%
++95747.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
 
-4h ago
+5h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ When it first came out it sounded like a pretty good idea, but it hasn’t caugh
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 30m ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 1h ago
 
 ---
 
@@ -109,7 +109,7 @@ When it first came out it sounded like a pretty good idea, but it hasn’t caugh
 
 The last non split block has been mined. Lest see what happens now
 
-41m ago
+1h ago
 
 ---
 
@@ -117,25 +117,25 @@ The last non split block has been mined. Lest see what happens now
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-4h ago
+5h ago
 
 ---
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-23h ago
+1d ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-14h ago
+15h ago
 
 ---
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -158,7 +158,23 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
+
+A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
+
+Decrypt • 3h ago
+
+---
+
+**[Bitcoin Security Scare Deepens As ‘Critical’ Exploits Hit Major Projects](https://www.forbes.com/sites/digital-assets/2026/08/08/bitcoin-security-scare-deepens-as-critical-exploits-hit-major-projects/)**
+
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 44m ago
 
 ---
 
@@ -172,13 +188,7 @@ Bloomberg.com • 1d ago
 
 Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
 
-Yahoo Finance • 7h ago
-
----
-
-**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
-
-Bloomberg.com • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -192,37 +202,31 @@ Fortune • 1d ago
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
-**[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
+**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
 
-A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
+Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-Decrypt • 3h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
-
-CCN.com • 11h ago
+The Block • 6h ago
 
 ---
 
-**[BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)**
+**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
 
-Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
+Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
 
-CoinDesk • 1d ago
+24/7 Wall St. • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
 
-Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
+Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Benzinga • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -275,7 +279,7 @@ BitGo's CEO put 100 BTC ($6.3M) in a wallet and dared Anthropic's AI to take it.
 A Toronto-based company that made Coldcard, a bitcoin-only hardware wallet that has been the latest target of a data breach, 
 has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
-⬆️ 8 • 💬 0 • 3d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
+⬆️ 8 • 💬 0 • 4d ago • [CBC](https://www.cbc.ca/news/world/bitcoin-coinkite-security-hack-9.7295582)
 
 ---
 
@@ -313,13 +317,43 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 5h ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
+
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
+
+📺 The Compound
+
+👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 8h ago
+
+---
+
 **[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 140 • ⏱️ 12:39 • 1d ago
+👁️ 24K • 👍 1K • 💬 140 • ⏱️ 12:39 • 1d ago
+
+---
+
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 11h ago
 
 ---
 
@@ -329,37 +363,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 122K • 👍 7K • 💬 432 • ⏱️ 24:00 • 1d ago
-
----
-
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 1K • 👍 94 • 💬 4 • ⏱️ 1:20 • 4h ago
-
----
-
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
-
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
-
-📺 Natalie Brunell
-
-👁️ 31K • 👍 2K • 💬 408 • ⏱️ 1:09:52 • 1d ago
-
----
-
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 495 • 💬 79 • ⏱️ 11:04 • 1d ago
+👁️ 125K • 👍 7K • 💬 439 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -369,7 +373,17 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 16K • 👍 299 • 💬 10 • ⏱️ 8:07 • 22h ago
+👁️ 19K • 👍 310 • 💬 26 • ⏱️ 8:07 • 23h ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 11K • 👍 520 • 💬 49 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -379,25 +393,17 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 4K • 👍 94 • 💬 5 • ⏱️ 1:23 • 1d ago
+👁️ 4K • 👍 103 • 💬 5 • ⏱️ 1:23 • 1d ago
 
 ---
 
-**[Bitcoin Bottom Signals..](https://www.youtube.com/watch?v=TmrfJa7_Bo8)**
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
-Today we analyze the strongest Bitcoin bottom signals and whether the crypto market is preparing for its next explosive move.
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
-📺 Discover Crypto
+📺 Lark Davis
 
-👁️ 4K • 👍 294 • 💬 27 • ⏱️ 1:00:41 • 1d ago
-
----
-
-**[HUGE CRYPTO SETBACK? $65,000 BITCOIN #bitcoin #xrp #crypto](https://www.youtube.com/watch?v=EoUv5-dm-XA)**
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 264 • 💬 23 • ⏱️ 2:26 • 19h ago
+👁️ 12K • 👍 497 • 💬 79 • ⏱️ 11:04 • 1d ago
 
 ---
 
@@ -407,7 +413,7 @@ Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common f
 
 📺 Natalie Brunell
 
-👁️ 883 • 👍 20 • 💬 53 • ⏱️ 0:53 • 1d ago
+👁️ 925 • 👍 22 • 💬 53 • ⏱️ 0:53 • 1d ago
 
 ---
 
