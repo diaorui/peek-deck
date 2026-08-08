@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T18:51:31.368483+00:00'
+updated: '2026-08-08T19:30:26.543053+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - social
 - videos
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 18:51 UTC  
+**Last Updated:** August 08, 2026 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Source: https://openrouter.ai/rankings
 
 I'm looking for a new one and my last post got deleted. Midjourney is alright but it does something weird with faces and buildings when they're close. I've worked on my prompts quite a bit but nothing seems to work well.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 Established ROI sits at 7% while planned AI spending holds at $188m across the 2,145 leaders surveyed. Cost visibility now separates the firms seeing returns.
 
-🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 1h ago
+🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Established ROI sits at 7% while planned AI spending holds at $188m across the 2
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-2m ago
+41m ago
 
 ---
 
@@ -89,13 +89,13 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 10h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 7h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
 
-22m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ This is a weird one to admit but here goes. Spent the last few years home with k
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 4h ago
 
 AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge in AI data centers in Texas and the power grid challenges they present.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 2h ago
 
 Explore the AI Narrative: understand the risks and changes in the financial market to protect your investments effectively.
 
-Real Investment Advice • 1h ago
+Real Investment Advice • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Real Investment Advice • 1h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 17h ago
+Fox Business • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 3h ago
 
 US employers shed 23,000 jobs in July, while construction firms added 22,000. Nearly all of that construction hiring came from the nonresidential and infrastructure side of the business, likely helped by data center growth.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 2d ago
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-WCAX • 22h ago
+WCAX • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 506 • 💬 368 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 506 • 💬 372 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -223,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 334 • 💬 244 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 335 • 💬 244 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -239,15 +239,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 AI coding tools deli
 
-⬆️ 290 • 💬 244 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-
----
-
-**[Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://news.ycombinator.com/item?id=49186720)**
-
-Both the general public and academic communities have raised concerns about sycophancy, the phenomenon of artificial intelligence (AI) excessively agreeing with or flattering users. Yet, beyond isolated media reports of severe consequences, like reinforcing delusions, little is known about the extent of sycophancy or how it affects people who use AI. Here we show the pervasiveness and harmful impacts of sycophancy when people seek advice from AI. First, across 11 state-of-the-art AI models, we find that models are highly sycophantic: they affirm users' actions 50% more than humans do, and they do so even in cases where user queries mention manipulation, deception, or other relational harms. Second, in two preregistered experiments (N = 1604), including a live-interaction study where participants discuss a real interpersonal conflict from their life, we find that interaction with sycophantic AI models significantly reduced participants' willingness to take actions to repair interpersonal conflict, while increasing their conviction of being in the right. However, participants rated sycophantic responses as higher quality, trusted the sycophantic AI model more, and were more willing to use it again. This suggests that people are drawn to AI that unquestioningly validate, even as that validation risks eroding their judgment and reducing their inclination toward prosocial behavior. These preferences create perverse incentives both for people to increasingly rely on sycophantic AI models and for AI model training to favor sycophancy. Our findings highlight the necessity of explicitly addressing this incentive structure to mitigate the widespread risks of AI sycophancy.
-
-⬆️ 173 • 💬 104 • 3d ago • [arXiv.org](https://arxiv.org/abs/2510.01395)
+⬆️ 290 • 💬 248 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -267,9 +259,9 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 ---
 
-**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
+**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
 
-⬆️ 116 • 💬 64 • 2d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
+⬆️ 141 • 💬 57 • 1h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -281,7 +273,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 100 • 💬 61 • 4h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 116 • 💬 82 • 5h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+
+---
+
+**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
+
+⬆️ 116 • 💬 64 • 2d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
 
 ---
 
@@ -301,7 +299,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 📺 Mark Tilbury
 
-👁️ 290K • 👍 9K • 💬 499 • ⏱️ 0:26 • 10h ago
+👁️ 290K • 👍 9K • 💬 499 • ⏱️ 0:26 • 11h ago
 
 ---
 
@@ -331,7 +329,7 @@ Gen Z | Artificial Intelligence | End Of Expertise | AI Impact On Education | Ge
 
 📺 Firstpost
 
-👁️ 468 • 👍 13 • 💬 1 • ⏱️ 0:34 • 46m ago
+👁️ 468 • 👍 13 • 💬 1 • ⏱️ 0:34 • 1h ago
 
 ---
 
@@ -369,7 +367,7 @@ This AI Designed A Walking Robot From Scratch What happens when you stop telling
 
 📺 EcoZora
 
-👁️ 8K • 👍 44 • 💬 4 • ⏱️ 0:07 • 4h ago
+👁️ 8K • 👍 44 • 💬 4 • ⏱️ 0:07 • 5h ago
 
 ---
 
@@ -441,7 +439,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 470 • 19h ago
+⬇️ 0 • ❤️ 470 • 20h ago
 
 ---
 
@@ -453,7 +451,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,750 • 16h ago
+⬇️ 2,345,190 • ❤️ 1,750 • 17h ago
 
 ---
 
@@ -650,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 835 • 10h ago
+⭐ 7.7k • 🔱 835 • 11h ago
 
 ---
 
@@ -668,7 +666,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 8h ago
+⭐ 3.8k • 🔱 487 • 9h ago
 
 ---
 
@@ -678,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 29s ago
+⭐ 2.6k • 🔱 1.8k • 39m ago
 
 ---
 
@@ -738,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 4m ago
+⭐ 1.9k • 🔱 243 • 43m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T18:51:31.377336+00:00'
+updated: '2026-08-08T19:30:26.551779+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 18:51 UTC  
+**Last Updated:** August 08, 2026 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.5%  
-**30d:** +1.5%  
-**90d:** -20.4%  
-**1y:** -44.1%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +1.3%  
+**90d:** -20.5%  
+**1y:** -44.2%  
 
 ---
 
@@ -83,29 +83,37 @@ Rank #1
 
 ---
 
+**[What went wrong with BIP110?](https://www.reddit.com/r/Bitcoin/comments/1vizw0i/what_went_wrong_with_bip110/)**
+
+When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
+
+3h ago
+
+---
+
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
 13h ago
 
 ---
 
-**[What went wrong with BIP110?](https://www.reddit.com/r/Bitcoin/comments/1vizw0i/what_went_wrong_with_bip110/)**
-
-When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
-
-2h ago
-
----
-
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-21h ago
+22h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-12h ago
+13h ago
+
+---
+
+**[We are going to have our moments to shine soon fellow hodlers.](https://www.reddit.com/r/Bitcoin/comments/1vizw86/we_are_going_to_have_our_moments_to_shine_soon/)**
+
+Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
+
+3h ago
 
 ---
 
@@ -120,6 +128,14 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 ---
 
+**[New cold-wallet?](https://www.reddit.com/r/Bitcoin/comments/1vj1a8m/new_coldwallet/)**
+
+Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
+
+2h ago
+
+---
+
 **[The game was goated tho](https://www.reddit.com/r/Bitcoin/comments/1vhzqqa/the_game_was_goated_tho/)**
 
 Same as title.
@@ -128,25 +144,11 @@ Same as title.
 
 ---
 
-**[IBIT and BTC Do you own both?](https://www.reddit.com/r/Bitcoin/comments/1viwqaz/ibit_and_btc_do_you_own_both/)**
+**[What are the possible failures of this multi-sig setup?](https://www.reddit.com/r/Bitcoin/comments/1vj3xxb/what_are_the_possible_failures_of_this_multisig/)**
 
-Hi all, since the cold card hack, wondering if owning both IBIT and using another HW for BTC is ideal. I’m looking at the ledger or bitkey to purchase. Thanks!
+Setup: Sparrow as the wallet organizer (unsure of technical term) ColdCard as signer 1 (using updated firmware and software generated seed) BitBox signing device as signer 2 with software generated seed Both keys use a 13th word (passphrase) Descriptor string stored securely separate from keys Backup seed phrases stored securely separately Both devices require a password (separete from passphrase) to unlock What I am mostly conerned with is if 1 device gets comprimised in the same way the bugged ColdCards did, I would still be able to spend from the multi-sig wallet correct? Even if BOTH devices were compromized but my passphrase was unknown to the atacker, i would STILL be able to spend from the multi-sig correct? This feels like a pretty solid set up, I have gotten here since barely avoiding the Coldcard attack recently. I still think the Colcard device is a good device so I don't really want to get rid of it, but adding an additional device to the mix seems like a good solution. Thoughts?
 
-4h ago
-
----
-
-**[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
-
-1d ago
-
----
-
-**[Happy SegWit Lock-In Day!](https://www.reddit.com/r/Bitcoin/comments/1viywv9/happy_segwit_lockin_day/)**
-
-On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on the Bitcoin network by the UASF client.
-
-3h ago
+36m ago
 
 ---
 
@@ -158,7 +160,7 @@ On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on 
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -166,13 +168,13 @@ CoinDesk • 4h ago
 
 Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -206,13 +208,13 @@ The Times of Israel • 18h ago
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -337,7 +339,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 94 • 💬 4 • ⏱️ 1:20 • 2h ago
+👁️ 1K • 👍 94 • 💬 4 • ⏱️ 1:20 • 3h ago
 
 ---
 
@@ -367,7 +369,7 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 16K • 👍 299 • 💬 10 • ⏱️ 8:07 • 20h ago
+👁️ 16K • 👍 299 • 💬 10 • ⏱️ 8:07 • 21h ago
 
 ---
 
@@ -395,7 +397,7 @@ Today we analyze the strongest Bitcoin bottom signals and whether the crypto mar
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 264 • 💬 23 • ⏱️ 2:26 • 17h ago
+👁️ 3K • 👍 264 • 💬 23 • ⏱️ 2:26 • 18h ago
 
 ---
 
