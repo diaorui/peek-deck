@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T11:28:55.476357+00:00'
+updated: '2026-08-08T11:56:35.546627+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 11:28 UTC  
+**Last Updated:** August 08, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-11h ago
+12h ago
+
+---
+
+**[ByteDance trains massive AI model in bid to rival Anthropic](https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/)**
+
+TikTok owner training a model with 10 trillion parameters.
+
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 2h ago
 
 ---
 
@@ -61,19 +69,17 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 ---
 
-**[ByteDance trains massive AI model in bid to rival Anthropic](https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/)**
-
-TikTok owner training a model with 10 trillion parameters.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 2h ago
-
----
-
 **[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 7h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 8h ago
+
+---
+
+**[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
+
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 27m ago
 
 ---
 
@@ -81,15 +87,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
 
-2h ago
-
----
-
-**[The best AI Model in Africa and the middle east](https://www.reddit.com/r/artificial/comments/1vim1oq/the_best_ai_model_in_africa_and_the_middle_east/)**
-
-Today, we are officially announcing Early Access for our latest and most advanced model, Horus Cyper Nano 1.0 BETA. We are making Horus Cyper Nano 1.0 BETA available to developers, researchers, and students through our Early Access program. You can apply through the official Early Access portal. Once you meet the required eligibility criteria and your application is approved, you will receive your personal Access Token, which can be used through our NeuralNode Framework to access and integrate the model. Apply for Early Access: https://tokenai.llc/horus-cyper-nano-access Horus Cyper Nano is a specialized cybersecurity model designed for offensive security and cybersecurity research workflows. Its core use cases include: Offensive security and red teaming, including penetration testing workflow support, vulnerability analysis, and exploitation path building. Capture The Flag challenges and cybersecurity training. Active Directory security, including enumeration and lateral movement planning within authorized engagements. Authorized security testing labs and controlled environments. Safe and scoped cybersecurity research within authorized environments. Red team report drafting and attack chain structure planning. Horus Cyper Nano 1.0 will be the first release in the Horus Cyper series, a family of specialized cybersecurity models developed by TokenAI, an AI startup based in Egypt. The Open Weights of Horus Cyper Nano 1.0 will be released on September 3, 2026, which also happens to be my 19th birthday. What a way to celebrate. Our vision is to build Horus Cyper Nano into one of the strongest cybersecurity AI models to emerge from Egypt, the Arab world, the Middle East, and Africa, and to establish it as one of the leading openly available cybersecurity models across the region. This is only the beginning of the Horus Cyper series. Horus Cyper Nano 1.0 BETA Developed by TokenAI Built in Egypt
-
-7h ago
+3h ago
 
 ---
 
@@ -109,11 +107,11 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 ---
 
-**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
+**[Sam Altman believes AI will become incredibly abundant. If that's true, what actually becomes valuable?](https://www.reddit.com/r/artificial/comments/1vi7dxg/sam_altman_believes_ai_will_become_incredibly/)**
 
-Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
+Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-9h ago
+18h ago
 
 ---
 
@@ -133,7 +131,37 @@ Databricks • 18h ago
 
 Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
 
-theguardian.com • 3h ago
+The Guardian • 3h ago
+
+---
+
+**[How AI Is Propelling a Surge in American Imports](https://www.bloomberg.com/news/newsletters/2026-08-08/how-ai-is-triggering-a-surge-in-american-imports-new-economy)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[AI is booming on the West Coast. So why is unemployment so high there?](https://edition.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+
+A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
+
+CNN • 1h ago
+
+---
+
+**[China’s new AI bottleneck isn’t chips. It’s running out of Chinese-language training data.](https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage)**
+
+Chinese accounts for just 1.3% of global web content. Beijing is now treating data as strategic infrastructure, with a 2028 plan to build national AI datasets.
+
+thenextweb.com • 15m ago
+
+---
+
+**[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
+
+SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
+
+Fox Business • 11h ago
 
 ---
 
@@ -143,27 +171,9 @@ Axios • 1h ago
 
 ---
 
-**[Replit's CEO Says AI Is Making Software Engineering More Human](https://www.businessinsider.com/replit-ceo-ai-software-engineers-more-human-saaspocalypse-2026-8)**
+**[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
 
-Replit CEO Amjad Masad said his company's office has become "more vibrant" since his software engineers started vibe coding.
-
-Business Insider • 1h ago
-
----
-
-**[How to Disable the AI Features in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)**
-
-New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.
-
-wired.com • 1h ago
-
----
-
-**[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
-
-SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
-
-Fox Business • 10h ago
+WSJ • 13h ago
 
 ---
 
@@ -181,20 +191,6 @@ The New York Times • 1d ago
 
 ---
 
-**[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
-
-Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
-
-The Hill • 20h ago
-
----
-
-**[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
-
-WSJ • 12h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -207,7 +203,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 474 • 💬 339 • 17h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 483 • 💬 345 • 18h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -215,7 +211,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 410 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 411 • 💬 416 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -239,7 +235,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 262 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 263 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -247,7 +243,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 AI coding tools deli
 
-⬆️ 240 • 💬 204 • 17h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 254 • 💬 212 • 17h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -263,15 +259,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 169 • 💬 105 • 22h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
-
----
-
-**[Why Erdős Problems Are Falling to AI](https://news.ycombinator.com/item?id=49181519)**
-
-AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.
-
-⬆️ 151 • 💬 139 • 2d ago • [Quanta Magazine](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+⬆️ 169 • 💬 106 • 22h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -280,6 +268,12 @@ AI’s greatest mathematical successes have come from answers to problems posed 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
 ⬆️ 145 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+
+---
+
+**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
+
+⬆️ 115 • 💬 64 • 2d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
 
 ---
 
@@ -293,7 +287,17 @@ Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek C
 
 📺 TechLead
 
-👁️ 47K • 👍 1K • 💬 227 • ⏱️ 8:21 • 19h ago
+👁️ 50K • 👍 1K • 💬 238 • ⏱️ 8:21 • 20h ago
+
+---
+
+**[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
+
+"One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
+
+📺 Brief But Spectacular
+
+👁️ 75K • 👍 3K • 💬 350 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -303,7 +307,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 32K • 👍 465 • 💬 354 • ⏱️ 9:52 • 1d ago
+👁️ 32K • 👍 478 • 💬 359 • ⏱️ 9:52 • 1d ago
 
 ---
 
@@ -311,27 +315,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Bugs
 
-👁️ 147K • 👍 12K • 💬 548 • ⏱️ 0:34 • 19h ago
-
----
-
-**[The Rogue AI Story Keeps Getting Worse (Real People Were Targeted)](https://www.youtube.com/watch?v=jV0neS94WWg)**
-
-AI agents just crossed into the real world. During a UK government safety test, one created fake identities, targeted real people, ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 684 • 💬 75 • ⏱️ 16:27 • 2d ago
-
----
-
-**[Google&#39;s AI leadership shake-up is &#39;a huge shock,&#39; says Cohere&#39;s Aidan Gomez](https://www.youtube.com/watch?v=N08t6jNPuzU)**
-
-Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss Google's AI leadership shake-up and why he ...
-
-📺 CNBC Television
-
-👁️ 17K • 👍 151 • 💬 18 • ⏱️ 3:43 • 1d ago
+👁️ 152K • 👍 12K • 💬 561 • ⏱️ 0:34 • 19h ago
 
 ---
 
@@ -341,17 +325,7 @@ Wow. Mathematical breakthroughs that would be called genius if done by humans. A
 
 📺 AI Explained
 
-👁️ 69K • 👍 3K • 💬 611 • ⏱️ 31:43 • 1d ago
-
----
-
-**[Generative AI won’t survive until 2030 | Paris Marx](https://www.youtube.com/watch?v=01q1zb8rO2w)**
-
-I think we're in this moment where those promises are starting to kind of erode.” Tech journalist and author of Hyperscale Paris ...
-
-📺 The Tech Report
-
-👁️ 115K • 👍 3K • 💬 1K • ⏱️ 33:06 • 2d ago
+👁️ 70K • 👍 3K • 💬 617 • ⏱️ 31:43 • 1d ago
 
 ---
 
@@ -361,7 +335,17 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 175K • 👍 5K • 💬 410 • ⏱️ 0:51 • 1d ago
+👁️ 177K • 👍 5K • 💬 412 • ⏱️ 0:51 • 1d ago
+
+---
+
+**[why AI companies are shredding books](https://www.youtube.com/watch?v=SMy46xA2dJE)**
+
+why AI companies are secretly shredding rare books.
+
+📺 Morning Brew
+
+👁️ 194K • 👍 14K • 💬 503 • ⏱️ 1:36 • 20h ago
 
 ---
 
@@ -371,7 +355,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 694K • 👍 40K • 💬 459 • ⏱️ 0:52 • 18h ago
+👁️ 758K • 👍 43K • 💬 477 • ⏱️ 0:52 • 18h ago
 
 ---
 
@@ -381,7 +365,15 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 ABC News
 
-👁️ 7K • 👍 85 • 💬 59 • ⏱️ 3:15 • 1d ago
+👁️ 7K • 👍 86 • 💬 59 • ⏱️ 3:15 • 1d ago
+
+---
+
+**[When AI becomes more expensive than people](https://www.youtube.com/watch?v=3JHfFMcAnO0)**
+
+📺 Christian Maldonado
+
+👁️ 120K • 👍 7K • 💬 116 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -397,7 +389,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 26,693 • ❤️ 3,017 • 1d ago
+⬇️ 26,693 • ❤️ 3,032 • 1d ago
 
 ---
 
@@ -409,7 +401,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,787 • 7d ago
+⬇️ 785,771 • ❤️ 2,801 • 7d ago
 
 ---
 
@@ -419,7 +411,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 972 • 2d ago
+⬇️ 3,943,176 • ❤️ 977 • 2d ago
 
 ---
 
@@ -431,7 +423,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,388,105 • ❤️ 10,304 • 11d ago
+⬇️ 1,388,105 • ❤️ 10,310 • 11d ago
 
 ---
 
@@ -443,7 +435,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,729 • 9h ago
+⬇️ 2,345,190 • ❤️ 1,735 • 9h ago
 
 ---
 
@@ -455,7 +447,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 444 • 11h ago
+⬇️ 0 • ❤️ 448 • 12h ago
 
 ---
 
@@ -467,7 +459,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 81,522 • ❤️ 393 • 1d ago
+⬇️ 81,522 • ❤️ 397 • 1d ago
 
 ---
 
@@ -479,7 +471,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 391 • 2d ago
+⬇️ 0 • ❤️ 393 • 2d ago
 
 ---
 
@@ -491,7 +483,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 175,093 • ❤️ 595 • 1d ago
+⬇️ 175,093 • ❤️ 597 • 1d ago
 
 ---
 
@@ -503,7 +495,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 896 • ❤️ 238 • 3d ago
+⬇️ 896 • ❤️ 239 • 3d ago
 
 ---
 
@@ -533,7 +525,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 87 • 💬 1 • ⭐ 398 • 4d ago
+▲ 87 • 💬 1 • ⭐ 461 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -571,7 +563,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 158 • 💬 3 • ⭐ 387 • 5d ago
+▲ 159 • 💬 3 • ⭐ 400 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -584,7 +576,7 @@ Large language model (LLM) agents increasingly undertake long-horizon tasks that
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 77,095 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 77,133 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -597,7 +589,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 83,400 • 24mo ago
+▲ 84 • 💬 7 • ⭐ 83,452 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -652,7 +644,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 818 • 3h ago
+⭐ 7.6k • 🔱 820 • 3h ago
 
 ---
 
@@ -662,7 +654,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.1k • 🔱 358 • 18h ago
+⭐ 4.1k • 🔱 361 • 19h ago
 
 ---
 
@@ -670,7 +662,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 483 • 23h ago
+⭐ 3.8k • 🔱 487 • 2h ago
 
 ---
 
@@ -680,7 +672,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1h ago
+⭐ 2.5k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -690,7 +682,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 385 • 7h ago
+⭐ 2.2k • 🔱 386 • 8h ago
 
 ---
 
@@ -700,7 +692,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 160 • 4d ago
+⭐ 2.1k • 🔱 161 • 4d ago
 
 ---
 
@@ -730,7 +722,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 1.9k • 🔱 168 • 3d ago
+⭐ 1.9k • 🔱 170 • 3d ago
 
 ---
 
@@ -740,7 +732,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 1h ago
+⭐ 1.9k • 🔱 243 • 13m ago
 
 ---
 

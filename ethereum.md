@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T11:28:55.491240+00:00'
+updated: '2026-08-08T11:56:35.561929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 11:28 UTC  
+**Last Updated:** August 08, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,920.38
+### $1,920.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +2.0%  
-**30d:** +6.9%  
+**24h:** -0.7%  
+**7d:** +1.9%  
+**30d:** +6.8%  
 **90d:** -17.9%  
 **1y:** -55.0%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.50B
+**Market Cap:** $231.58B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+443041.6%
++443106.3%
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -184,6 +184,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitcoi, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
+
+Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
+
+Benzinga • 16h ago
+
+---
+
 **[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
 
 XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
@@ -192,11 +200,9 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 ---
 
-**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
+**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+thestreet.com • 14h ago
 
 ---
 
@@ -210,7 +216,7 @@ Crypto Briefing • 15h ago
 
 **[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-fxstreet.com • 1d ago
+FXStreet • 1d ago
 
 ---
 
@@ -219,14 +225,6 @@ fxstreet.com • 1d ago
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
 AMBCrypto • 1d ago
-
----
-
-**[Announcing a Trillion Dollar Security grant for WEBCAT](https://blog.ethereum.org/2026/08/05/1ts-grant)**
-
-A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
-
-ethereum.org • 2d ago
 
 ---
 
@@ -240,17 +238,17 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 49 • 💬 4 • ⏱️ 3:33 • 1d ago
+👁️ 3K • 👍 50 • 💬 17 • ⏱️ 3:33 • 1d ago
 
 ---
 
-**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
+**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
 
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
 
-📺 XForceGlobal
+📺 Bankless
 
-👁️ 2K • 👍 103 • 💬 30 • ⏱️ 13:23 • 2d ago
+👁️ 5K • 👍 172 • 💬 23 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -260,17 +258,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 195 • 💬 91 • ⏱️ 21:05 • 15h ago
-
----
-
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 2K • 👍 87 • 💬 10 • ⏱️ 1:08 • 19h ago
+👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 15h ago
 
 ---
 
@@ -280,17 +268,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 136 • 💬 91 • ⏱️ 51:35 • 1d ago
+👁️ 5K • 👍 137 • 💬 91 • ⏱️ 51:35 • 1d ago
 
 ---
 
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
-📺 More Crypto Online
+📺 Lark Davis
 
-👁️ 4K • 👍 220 • 💬 7 • ⏱️ 7:25 • 1d ago
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 19h ago
+
+---
+
+**[BITCOIN TO $72K! | Bitcoin &amp; Ethereum Price Analysis Today](https://www.youtube.com/watch?v=2s2cHx2mmeQ)**
+
+Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #CryptoUpdate #CryptoTrading In this video, ...
+
+📺 Chart Analysis
+
+👁️ 203 • 💬 18 • ⏱️ 12:53 • 4h ago
 
 ---
 
@@ -300,17 +298,17 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 654 • 💬 195 • ⏱️ 14:40 • 1d ago
+👁️ 12K • 👍 655 • 💬 195 • ⏱️ 14:40 • 1d ago
 
 ---
 
-**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
 
-BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 More Crypto Online
 
-👁️ 7K • 👍 464 • 💬 47 • ⏱️ 43:51 • 1d ago
+👁️ 4K • 👍 221 • 💬 7 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -324,13 +322,13 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 ---
 
-**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
 
-The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
 
-📺 Anthony Pompliano
+📺 XForceGlobal
 
-👁️ 9K • 👍 134 • 💬 15 • ⏱️ 0:30 • 1d ago
+👁️ 2K • 👍 103 • 💬 30 • ⏱️ 13:23 • 2d ago
 
 ---
 

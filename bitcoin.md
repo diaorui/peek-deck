@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T11:28:55.485076+00:00'
+updated: '2026-08-08T11:56:35.555697+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 11:28 UTC  
+**Last Updated:** August 08, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +2.3%  
-**30d:** +1.3%  
-**90d:** -20.5%  
+**24h:** -0.5%  
+**7d:** +2.2%  
+**30d:** +1.2%  
+**90d:** -20.6%  
 **1y:** -44.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.01B
+**Market Cap:** $1302.90B
 Rank #1
 
-**Circulating Supply:** 20,067,321 BTC
+**Circulating Supply:** 20,067,393 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.5%
 
 **All-Time Low:** $67.81
-+95719.2%
++95648.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-4h ago
+5h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 21h ago
 
 ---
 
@@ -116,13 +116,13 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Same as title.
 
-22h ago
+23h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -150,11 +150,11 @@ At this point in the cycle I always get a mix of anxiety and excitement because 
 
 ## Google News: "bitcoin"
 
-**[Trump-backed American Bitcoin board member adds $1.9 million to personal stake](https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock)**
+**[BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes](https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes)**
 
-Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.
+BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 15h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -172,24 +172,6 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)**
-
-Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
-
-CoinDesk • 1d ago
-
----
-
-**[The Clarity Act, Bitcoin's Resilience, and the Quantum Question for COINBASE:BTCUSD by Profit_Through_Patience](https://www.tradingview.com/chart/BTCUSD/2Ga0AZV4-The-Clarity-Act-Bitcoin-s-Resilience-and-the-Quantum-Question/)**
-
-The U.S. Senate is heading into its August recess, and the Digital Asset Market Clarity Act, known as the CLARITY Act, is stuck in limbo. Senator Cynthia Lummis pushed for the Senate to stay in session and force a vote. Majority Leader John Thune said no. The procedural vote is now delayed to September, leaving only three working weeks before campaign season takes over. On Polymarket, the odds of passage sit at just 16%.
-
-But here is the part the headlines miss. The CLARITY Act matters to Wall …
-
-TradingView • 1d ago
-
----
-
 **[The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/white-house-continues-promote-strategic-091800005.html)**
 
 Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
@@ -202,7 +184,7 @@ Yahoo Finance • 2h ago
 
 Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -210,13 +192,7 @@ Yahoo Finance UK • 1h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
-
----
-
-**[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
-
-The Times of Israel • 10h ago
+fortune.com • 1d ago
 
 ---
 
@@ -224,7 +200,29 @@ The Times of Israel • 10h ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-Bitcoin Magazine • 14h ago
+bitcoinmagazine.com • 14h ago
+
+---
+
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
+
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 1d ago
+
+---
+
+**[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
+
+The Times of Israel • 11h ago
+
+---
+
+**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
+
+Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
+
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -291,7 +289,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 3d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -315,33 +313,23 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 110K • 👍 6K • 💬 399 • ⏱️ 24:00 • 1d ago
-
----
-
 **[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 135 • ⏱️ 12:39 • 1d ago
+👁️ 22K • 👍 1K • 💬 134 • ⏱️ 12:39 • 1d ago
 
 ---
 
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
 
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Natalie Brunell
+📺 Benjamin Cowen
 
-👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 21h ago
+👁️ 113K • 👍 7K • 💬 404 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -351,35 +339,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 10K • 👍 491 • 💬 43 • ⏱️ 8:03 • 1d ago
-
----
-
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 469 • 💬 73 • ⏱️ 11:04 • 1d ago
-
----
-
-**[HUGE CRYPTO SETBACK? $65,000 BITCOIN #bitcoin #xrp #crypto](https://www.youtube.com/watch?v=EoUv5-dm-XA)**
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 10h ago
-
----
-
-**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
-
-Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
-
-📺 Schwab Network
-
-👁️ 9K • 👍 96 • 💬 11 • ⏱️ 6:13 • 1d ago
+👁️ 10K • 👍 497 • 💬 43 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -389,7 +349,27 @@ Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discu
 
 📺 Fox Business Clips
 
-👁️ 83K • 👍 1K • 💬 466 • ⏱️ 8:52 • 2d ago
+👁️ 83K • 👍 1K • 💬 467 • ⏱️ 8:52 • 2d ago
+
+---
+
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 473 • 💬 73 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[The Data Says Bitcoin’s Bottom Is Already In | Mitchell Askew &amp; John Haar](https://www.youtube.com/watch?v=SnVM6jdvd88)**
+
+I would give myself 95% confidence that the bottom is in.” Mitchell Askew and John Haar are on the show to get into whether ...
+
+📺 What Bitcoin Did
+
+👁️ 6K • 👍 181 • 💬 145 • ⏱️ 1:28:18 • 18h ago
 
 ---
 
@@ -399,7 +379,7 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 Fireship
 
-👁️ 532K • 👍 19K • 💬 1K • ⏱️ 5:10 • 2d ago
+👁️ 536K • 👍 19K • 💬 1K • ⏱️ 5:10 • 2d ago
 
 ---
 
@@ -409,7 +389,27 @@ Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared 
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 75 • 💬 46 • ⏱️ 1:03 • 2d ago
+👁️ 2K • 👍 77 • 💬 46 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
+
+Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
+
+📺 Schwab Network
+
+👁️ 9K • 👍 99 • 💬 12 • ⏱️ 6:13 • 1d ago
+
+---
+
+**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+
+Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+
+📺 Crypto Vlog
+
+👁️ 8K • 💬 25 • ⏱️ 1:13 • 1d ago
 
 ---
 

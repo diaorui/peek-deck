@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T11:28:55.494489+00:00'
+updated: '2026-08-08T11:56:35.565390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 11:28 UTC  
+**Last Updated:** August 08, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 **[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 17h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 18h ago
 
 ---
 
@@ -132,7 +132,7 @@ Tech Xplore • 2d ago
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-news.usni.org • 1d ago
+USNI News • 1d ago
 
 ---
 
@@ -144,14 +144,6 @@ HII • 1d ago
 
 ---
 
-**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
-
-This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
-
-IEEE Spectrum • 19h ago
-
----
-
 **[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
@@ -160,11 +152,19 @@ Yahoo Finance • 23h ago
 
 ---
 
+**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
+
+This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
+
+IEEE Spectrum • 19h ago
+
+---
+
 **[GrayMatter Robotics CEO: The FCC was right to ban Chinese robots. But protection alone won't win the robotics race](https://fortune.com/2026/08/08/why-did-fcc-ban-chinese-robots/)**
 
 Robotics is no longer simply another technology market.
 
-Fortune • 2h ago
+fortune.com • 2h ago
 
 ---
 
@@ -190,7 +190,7 @@ TechCrunch • 2d ago
 
 📺 Tyrecordslol
 
-👁️ 2.0M • 👍 95K • 💬 6K • ⏱️ 0:58 • 1d ago
+👁️ 2.1M • 👍 98K • 💬 6K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -210,7 +210,17 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 32K • 👍 347 • 💬 234 • ⏱️ 1:03 • 6d ago
+👁️ 32K • 👍 351 • 💬 237 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
+
+Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
+
+📺 KhanFlicks
+
+👁️ 12K • 👍 90 • 💬 30 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -220,17 +230,7 @@ Discover the revolutionary chip that makes Tesla robots unstoppable, leveraging 
 
 📺 Unsealed Universe
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:44 • 19h ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 40K • 👍 677 • ⏱️ 17:44 • 1d ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:44 • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 40K • 👍 793 • 💬 74 • ⏱️ 12:38 • 4d ago
+👁️ 43K • 👍 832 • 💬 80 • ⏱️ 12:38 • 4d ago
 
 ---
 
@@ -250,7 +250,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 25K • 👍 2K • 💬 124 • ⏱️ 1:02 • 1d ago
+👁️ 25K • 👍 2K • 💬 125 • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 49K • 👍 3K • 💬 463 • ⏱️ 26:40 • 3d ago
+👁️ 49K • 👍 3K • 💬 468 • ⏱️ 26:40 • 3d ago
 
 ---
 
@@ -280,7 +280,7 @@ Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next
 
 📺 Dhar Mann Studios
 
-👁️ 423K • 👍 10K • 💬 1K • ⏱️ 24:28 • 11h ago
+👁️ 531K • 👍 11K • 💬 1K • ⏱️ 24:28 • 11h ago
 
 ---
 
