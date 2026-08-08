@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T17:59:40.924518+00:00'
+updated: '2026-08-08T18:51:31.386788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 17:59 UTC  
+**Last Updated:** August 08, 2026 at 18:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-9h ago
+10h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 9h ago
 
 ---
 
@@ -66,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-10h ago
+11h ago
 
 ---
 
@@ -80,13 +80,13 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 9h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 10h ago
 
 ---
 
@@ -120,7 +120,7 @@ The New York Times • 1d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-theinformation.com • 1d ago
+The Information • 1d ago
 
 ---
 
@@ -136,17 +136,9 @@ USNI News • 2d ago
 
 ---
 
-**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-Tech Xplore • 1d ago
-
----
-
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
-
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
-
-HII • 2d ago
+WSJ • 21h ago
 
 ---
 
@@ -155,6 +147,14 @@ HII • 2d ago
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
+
+HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
+
+hii.com • 2d ago
 
 ---
 
@@ -174,9 +174,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
+**[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
 
-WSJ • 20h ago
+Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
+
+Princeton Engineering • 1d ago
 
 ---
 
@@ -190,27 +192,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 72K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 28K • 👍 398 • 💬 228 • ⏱️ 28:01 • 22h ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 50K • 👍 767 • ⏱️ 17:44 • 1d ago
+👁️ 73K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
 
 ---
 
@@ -220,7 +202,17 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 33K • 👍 349 • 💬 403 • ⏱️ 1:36 • 3d ago
+👁️ 33K • 👍 349 • 💬 406 • ⏱️ 1:36 • 3d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 52K • 👍 786 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -228,7 +220,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 Tyrecordslol
 
-👁️ 2.2M • 👍 105K • 💬 6K • ⏱️ 0:58 • 1d ago
+👁️ 2.3M • 👍 107K • 💬 7K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -238,7 +230,7 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 50K • 👍 895 • 💬 97 • ⏱️ 12:38 • 4d ago
+👁️ 52K • 👍 920 • 💬 101 • ⏱️ 12:38 • 4d ago
 
 ---
 
@@ -268,7 +260,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 50K • 👍 3K • 💬 473 • ⏱️ 26:40 • 4d ago
+👁️ 50K • 👍 3K • 💬 475 • ⏱️ 26:40 • 4d ago
 
 ---
 
@@ -278,7 +270,17 @@ Satyress Robotics, a company based in Auburn, California, is developing a 7-foot
 
 📺 KCRA 3
 
-👁️ 33K • 👍 362 • 💬 242 • ⏱️ 1:03 • 6d ago
+👁️ 33K • 👍 369 • 💬 242 • ⏱️ 1:03 • 6d ago
+
+---
+
+**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+
+Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+
+📺 BBC News
+
+👁️ 205K • 👍 2K • 💬 666 • ⏱️ 3:14 • 6d ago
 
 ---
 

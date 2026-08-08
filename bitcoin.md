@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T17:59:40.915076+00:00'
+updated: '2026-08-08T18:51:31.377336+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 17:59 UTC  
+**Last Updated:** August 08, 2026 at 18:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.67B
+**Market Cap:** $1304.36B
 Rank #1
 
-**Circulating Supply:** 20,067,475 BTC
+**Circulating Supply:** 20,067,503 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.4%
 
 **All-Time Low:** $67.81
-+95775.2%
++95759.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-11h ago
+12h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
 
-1h ago
+2h ago
 
 ---
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-20h ago
+21h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -138,7 +138,7 @@ Hi all, since the cold card hack, wondering if owning both IBIT and using anothe
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -146,7 +146,7 @@ Hi all, since the cold card hack, wondering if owning both IBIT and using anothe
 
 On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on the Bitcoin network by the UASF client.
 
-2h ago
+3h ago
 
 ---
 
@@ -154,23 +154,33 @@ On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on 
 
 ## Google News: "bitcoin"
 
-**[BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes](https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes)**
+**[Why Bitwise predicts a $1.3M Bitcoin price target fueled by institutions](https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan)**
 
-BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
+Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 10h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
+**[Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack](https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack)**
 
-Bloomberg.com • 1d ago
+Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
+
+Decrypt • 22h ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,33 +192,27 @@ Fortune • 1d ago
 
 ---
 
-**[Arthur Hayes says Bitcoin could hit $1 million after the next AI bailout](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-could-211500881.html)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
 
-In a Substack post published on Wednesday, Hayes said the current AI boom is being misclassified by markets. Investors treat the multi-trillion-dollar buildout of data centers and power plants as pure technology growth. In reality, he argued, it more closely resembles commercial real estate ...
+Bloomberg.com • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
+
+The Times of Israel • 18h ago
+
+---
+
+**[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
+
+Investing.com • 9h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 8h ago
-
----
-
-**[BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)**
-
-Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
-
-Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
-
-Benzinga • 22h ago
+CCN.com • 9h ago
 
 ---
 
@@ -217,14 +221,6 @@ Benzinga • 22h ago
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
 Forbes • 2d ago
-
----
-
-**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
-
-Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
-
-24/7 Wall St. • 22h ago
 
 ---
 
@@ -285,7 +281,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly $88.6 million worth of BTC.
 
-⬆️ 6 • 💬 1 • 5d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
+⬆️ 6 • 💬 1 • 6d ago • [Decrypt](https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets)
 
 ---
 
@@ -315,26 +311,6 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 655 • 👍 52 • 💬 2 • ⏱️ 1:20 • 1h ago
-
----
-
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 10K • 👍 510 • 💬 45 • ⏱️ 8:03 • 1d ago
-
----
-
 **[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
@@ -345,13 +321,23 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 ---
 
-**[Do This Before Saturday (BIP-110)](https://www.youtube.com/watch?v=3D7dENo5A1Y)**
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss some steps that Bitcoiners can take ...
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Bitcoin University
+📺 Benjamin Cowen
 
-👁️ 24K • 👍 2K • 💬 581 • ⏱️ 23:19 • 1d ago
+👁️ 122K • 👍 7K • 💬 432 • ⏱️ 24:00 • 1d ago
+
+---
+
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 1K • 👍 94 • 💬 4 • ⏱️ 1:20 • 2h ago
 
 ---
 
@@ -361,7 +347,47 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 29K • 👍 2K • 💬 399 • ⏱️ 1:09:52 • 1d ago
+👁️ 31K • 👍 2K • 💬 408 • ⏱️ 1:09:52 • 1d ago
+
+---
+
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 495 • 💬 79 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
+
+Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
+
+📺 PragerU
+
+👁️ 16K • 👍 299 • 💬 10 • ⏱️ 8:07 • 20h ago
+
+---
+
+**[AI Finds 5-Year-Old Bitcoin Vulnerability: $100M Stolen! #shorts](https://www.youtube.com/watch?v=NG46mGjTv2Q)**
+
+An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard source code. In just 40 minutes, nearly 1000 Bitcoins ...
+
+📺 TWiT Tech Podcast Network
+
+👁️ 4K • 👍 94 • 💬 5 • ⏱️ 1:23 • 1d ago
+
+---
+
+**[Bitcoin Bottom Signals..](https://www.youtube.com/watch?v=TmrfJa7_Bo8)**
+
+Today we analyze the strongest Bitcoin bottom signals and whether the crypto market is preparing for its next explosive move.
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 294 • 💬 27 • ⏱️ 1:00:41 • 1d ago
 
 ---
 
@@ -369,47 +395,17 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 249 • 💬 23 • ⏱️ 2:26 • 16h ago
+👁️ 3K • 👍 264 • 💬 23 • ⏱️ 2:26 • 17h ago
 
 ---
 
-**[Trump Declares Crypto WAR!](https://www.youtube.com/watch?v=tAwJV1HgBeU)**
+**[What Happened When Michael Saylor Sold Bitcoin?](https://www.youtube.com/watch?v=9t210Dite1g)**
 
-Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com/discovercrypto/about ​​If you have ever made ...
+Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common fear that any Bitcoin sale by Michael Saylor would ...
 
-📺 Discover Crypto
+📺 Natalie Brunell
 
-👁️ 3K • 👍 113 • 💬 39 • ⏱️ 1:24 • 20h ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 119K • 👍 7K • 💬 424 • ⏱️ 24:00 • 1d ago
-
----
-
-**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
-
-Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 14K • 👍 1K • 💬 139 • ⏱️ 20:41 • 2d ago
-
----
-
-**[bitcoin game over ](https://www.youtube.com/watch?v=FbghHd86MwA)**
-
-Bitcoin what now.
-
-📺 MMCrypto
-
-👁️ 24K • 👍 2K • 💬 115 • ⏱️ 7:20 • 1d ago
+👁️ 883 • 👍 20 • 💬 53 • ⏱️ 0:53 • 1d ago
 
 ---
 

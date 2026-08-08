@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T17:59:40.921238+00:00'
+updated: '2026-08-08T18:51:31.383521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 17:59 UTC  
+**Last Updated:** August 08, 2026 at 18:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.79B
+**Market Cap:** $231.68B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+443475.8%
++443304.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
 
-1d ago
+2d ago
 
 ---
 
@@ -152,9 +152,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
-Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
 Yahoo Finance • 1d ago
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ CCN.com • 8h ago
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 13h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -190,25 +190,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
+
+DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
+
+markets.businessinsider.com • 11h ago
+
+---
+
 **[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 22h ago
-
----
-
-**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
-
-thestreet.com • 21h ago
-
----
-
-**[Trump-linked Ethereum wallet reportedly moves $100M to Binance](https://cryptobriefing.com/trump-ethereum-100m-binance-transfer/)**
-
-A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
-
-Crypto Briefing • 21h ago
+Benzinga • 23h ago
 
 ---
 
@@ -216,7 +210,13 @@ Crypto Briefing • 21h ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 1h ago
+cryptoslate.com • 2h ago
+
+---
+
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 54 • 💬 17 • ⏱️ 3:33 • 2d ago
+👁️ 3K • 👍 56 • 💬 17 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 193 • 💬 28 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 197 • 💬 30 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -258,7 +258,17 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 18K • 👍 2K • 💬 290 • ⏱️ 17:35 • 1d ago
+👁️ 19K • 👍 2K • 💬 292 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[Anthony Pompliano lesson on why you never sell your ETH](https://www.youtube.com/watch?v=9Gl55dx5g3o)**
+
+Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
+
+📺 Liquid Loans
+
+👁️ 818 • 👍 7 • ⏱️ 0:32 • 4h ago
 
 ---
 
@@ -268,7 +278,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 141 • 💬 93 • ⏱️ 51:35 • 1d ago
+👁️ 5K • 👍 142 • 💬 93 • ⏱️ 51:35 • 2d ago
 
 ---
 
@@ -278,7 +288,7 @@ This is all about why the next 30 days for Bitcoin & crypto could be a major boo
 
 📺 Investing Made Simple
 
-👁️ 9K • 👍 530 • ⏱️ 9:52 • 2d ago
+👁️ 9K • 👍 535 • ⏱️ 9:52 • 2d ago
 
 ---
 
@@ -288,7 +298,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 220 • 💬 103 • ⏱️ 21:05 • 21h ago
+👁️ 4K • 👍 221 • 💬 103 • ⏱️ 21:05 • 22h ago
 
 ---
 
@@ -298,17 +308,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 93 • 💬 11 • ⏱️ 1:08 • 1d ago
-
----
-
-**[BITCOIN TO $72K! | Bitcoin &amp; Ethereum Price Analysis Today](https://www.youtube.com/watch?v=2s2cHx2mmeQ)**
-
-Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #CryptoUpdate #CryptoTrading In this video, ...
-
-📺 Chart Analysis
-
-👁️ 404 • 💬 19 • ⏱️ 12:53 • 10h ago
+👁️ 2K • 👍 97 • 💬 11 • ⏱️ 1:08 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 226 • 💬 7 • ⏱️ 7:25 • 1d ago
+👁️ 4K • 👍 228 • 💬 10 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 658 • 💬 195 • ⏱️ 14:40 • 2d ago
+👁️ 13K • 👍 662 • 💬 195 • ⏱️ 14:40 • 2d ago
 
 ---
 
