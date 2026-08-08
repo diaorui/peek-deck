@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T15:29:51.971926+00:00'
+updated: '2026-08-08T15:58:48.527269+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 15:29 UTC  
+**Last Updated:** August 08, 2026 at 15:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -120,7 +120,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 TL;DR and quick context - I work at DeFi Saver, and we built a completely free tool that lets you check if you have any smart wallets that have "lost tokens" sitting around waiting to be claimed. Just re-iterating, there are no strings attached - it's completely free and we quickly built it after realizing there was over $67M in unclaimed tokens sitting across 87,021 smart wallets. I'm just disclosing that I work for DFS to underscore that this isn't some hidden shill for DFS. No need to connect your wallet to the tool - just run your wallet address, check if you have tokens to claim - and claim them on DeFi Saver. The leftover tokens typically happen as leftover dust from DeFi transactions, long-forgotten airdrop (such as $UNI) or regular DeFi activity where you forgot the funds on your smart wallet. Full Info about the tool: We found over $67M in unclaimed tokens sitting in numerous smart wallets across the DeFi landscape. Not random tokens, but blue chip assets - including: $ETH - $3.4M $USDT - $6.9M $sUSDS - $10M $WBTC - $6M And many more. We then built a tool that lets you claim the tokens you forgot you had. Simply connect your main wallet to TokenSaver, check, and claim on DeFi Saver: https://tokensaver.fyi/ How do these assets end up in a smart wallet? Option 1: When you manage your lending position through a DeFi app (such as DeFi Saver, Summer.Fi, Instadapp) - it utilizes a smart wallet in order to perform advanced transactions such as 1-tx leveraging, unwinding, and more. All of these advanced transactions typically require swapping an asset to pay back a flash loan. When these swaps happen - It's possible that it swaps a bit more than necessary to make sure the transaction goes through despite small price movement. Those leftover funds remain sitting in the smart wallet holding the position. Or, perhaps you have/had a Maker position? All Maker CDPs are held on DSProxy smart wallets, so it’s worth connecting your CDP owner wallet to TokenSaver - maybe there are some leftover funds waiting to be claimed. That’s up to 8 years of potentially accumulating assets that never ended up in your EOA wallet. Option 2: You were eligible for an airdrop and received it due to your DeFi activity - but because it was distributed to your smart wallet, you never realized it. There's currently over $5.5M in $UNI that were likely distributed this way - and are unclaimed to this day. Option 3: Through regular DeFi activity over the years - some funds might have ended up on your smart wallet, and due to smart wallets typically lacking dedicated frontends - you forgot about them. While Safe (Gnosis) smart wallets have a dedicated UI - some, such as DSProxy, DSA, and SummerFi proprietary wallets lack it. So, it’s possible you continued on your DeFi journey without ever realizing you had funds leftover on the smart wallet(s). Since smart wallets need to have an owner wallet - you should simply connect with your main wallet, and TokenSaver will find all smart wallets owned by it. Note for nested Safe owners - Please input your owner Safe’s address into TokenSaver, not your EOA. You can then access DeFi Saver through the Safe app and claim your funds that way. That's pretty much it! Please try the tool out and let me know if you found anything interesting, such as a bag that you never realized you had available to claim :)
 
-2d ago
+3d ago
 
 ---
 
@@ -152,11 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
 
-The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
 
-The Block • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,19 +166,19 @@ CCN.com • 6h ago
 
 ---
 
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+The Block • 20h ago
+
+---
+
 **[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
 TradingView • 23h ago
-
----
-
-**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
-
-Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
-
-TradingView • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Benzinga • 20h ago
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #Cr
 
 📺 Chart Analysis
 
-👁️ 304 • 💬 18 • ⏱️ 12:53 • 7h ago
+👁️ 304 • 💬 18 • ⏱️ 12:53 • 8h ago
 
 ---
 

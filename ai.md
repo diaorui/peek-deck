@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T15:29:51.956968+00:00'
+updated: '2026-08-08T15:58:48.513838+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 15:29 UTC  
+**Last Updated:** August 08, 2026 at 15:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-15h ago
+16h ago
 
 ---
 
-**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
+**[Chinese LLMs dominate this week's top charts](https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/)**
 
-Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
+Source: https://openrouter.ai/rankings
 
-13h ago
+10m ago
 
 ---
 
@@ -61,6 +61,20 @@ TikTok owner training a model with 10 trillion parameters.
 
 ---
 
+**[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
+
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 4h ago
+
+---
+
+**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
+
+Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
+
+13h ago
+
+---
+
 **[My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.](https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/)**
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
@@ -69,9 +83,11 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 ---
 
-**[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
+**[A question about Large Language Models (LLMs): my own observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting.](https://www.reddit.com/r/artificial/comments/1viz14o/a_question_about_large_language_models_llms_my/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 4h ago
+Hi everyone! I’ve been conducting experiments with LLMs that have undergone RLHF alignment, and I’ve encountered a phenomenon that I still don’t have a complete explanation for. A long, harmless text containing no instructions at all causes a noticeable and persistent shift in activations in the middle and later layers - and this effectively disables the model’s safety mechanisms, without any explicit commands being given. If I’m not mistaken, Yann LeCun has said that for a model to predict text well, it needs to understand the reality underlying that text. My question is: could this activation drift be evidence that the model’s “world” is actually a collection of regions formed during training, and that context can move the model between them, completely bypassing its safety settings? If anyone is interested, I have the relevant metrics and reproducible tests. I’m familiar with the Anthropic research; it’s not quite about what I’m talking about here.
+
+23m ago
 
 ---
 
@@ -79,7 +95,15 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 11h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 12h ago
+
+---
+
+**[AI cost vs human cost math still doesn't add up for me and I work in healthcare](https://www.reddit.com/r/artificial/comments/1viqva8/ai_cost_vs_human_cost_math_still_doesnt_add_up/)**
+
+Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
+
+7h ago
 
 ---
 
@@ -91,53 +115,21 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 ---
 
-**[AI cost vs human cost math still doesn't add up for me and I work in healthcare](https://www.reddit.com/r/artificial/comments/1viqva8/ai_cost_vs_human_cost_math_still_doesnt_add_up/)**
-
-Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
-
-6h ago
-
----
-
-**[NEUROMORPHIC Algorithm that plays Ping-Pong](https://www.reddit.com/r/artificial/comments/1vi1iyz/neuromorphic_algorithm_that_plays_pingpong/)**
-
-In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
-
-1d ago
-
----
-
-**[OpenAI's 'hockey puck-sized' gadget to cost over $300](https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/)**
-
-OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
-
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 20h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html)**
+
+The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
+
+CNBC • 3h ago
+
+---
+
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 22h ago
-
----
-
-**[Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)**
-
-AI coding tools deli
-
-Databricks • 22h ago
-
----
-
-**[Here’s how we played the massive rebound in AI stocks this week](https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html)**
-
-AI stocks roared back to help lift two of the major averages to fresh records.
-
-CNBC • 1h ago
+WSJ • 1h ago
 
 ---
 
@@ -149,35 +141,11 @@ KOMO • 1h ago
 
 ---
 
-**[‘Stop the slop’ efforts gain traction as platforms draw lines around AI content](https://www.nbcnews.com/tech/tech-news/ai-slop-linkedin-snap-efforts-rein-in-technology-rcna590817)**
+**[Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)**
 
-LinkedIn, Snap and other platforms are revving up efforts to rein in low-quality AI content without banning the technology entirely.
+Surprise, it's a data center!
 
-NBC News • 2h ago
-
----
-
-**[A pillar of environmental enforcement is targeted by Trump and Musk's AI company](https://www.wral.com/news/ap/a46d8-a-pillar-of-environmental-enforcement-is-targeted-by-trump-and-musks-ai-company/)**
-
-WASHINGTON (AP) — Right-leaning legal activists along with Elon Musk ’s artificial intelligence company have brought sweeping challenges against a cornerstone of legal enforcement in the United States: the right of private groups, people and local governments to sue over violations of many major ...
-
-WRAL • 2h ago
-
----
-
-**[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
-
-SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
-
-Fox Business • 14h ago
-
----
-
-**[Elon Musk on jobs that will soon become redundant and the ones that are likely to survive in the age of A](https://timesofindia.indiatimes.com/etimes/work-career/elon-musk-on-jobs-that-will-soon-become-redundant-and-the-jobs-that-are-likely-to-survive-in-the-age-of-ai/articleshow/133051537.cms)**
-
-View this post on Instagram A post shared by AI | Technology | Innovation (@meteoric.ai)
-
-The Times of India • 3h ago
+Tom's Hardware • 2h ago
 
 ---
 
@@ -187,11 +155,43 @@ The New York Times • 1d ago
 
 ---
 
-**[Artificial Intelligence used to design brand new viruses](https://www.bbc.com/news/articles/c5y3j3ngevmo)**
+**[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
 
-Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
+Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-BBC • 1d ago
+The Hill • 1d ago
+
+---
+
+**[AI Designed a Virus Genome No One Had Seen Before. Researchers Made It Work](https://www.yahoo.com/news/science/articles/ai-designed-virus-genome-no-140800781.html)**
+
+Scientists at Stanford University and the Arc Institute have crossed a line that, until this week, existed only as a possibility. They used artificial intelligence to design complete viral genomes fro...
+
+Yahoo • 1h ago
+
+---
+
+**[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
+
+SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
+
+Fox Business • 15h ago
+
+---
+
+**[AI is booming on the West Coast. So why is unemployment so high there?](https://www.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+
+A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
+
+CNN • 5h ago
+
+---
+
+**[‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)**
+
+Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
+
+The Guardian • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 501 • 💬 359 • 21h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 501 • 💬 359 • 22h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -215,7 +215,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 412 • 💬 417 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 412 • 💬 417 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -280,7 +280,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 74 • 💬 19 • 11h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 74 • 💬 19 • 12h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -322,7 +322,7 @@ GET vidIQ AND GROW YOUR CHANNEL https://www.vidIQ.com/start YouTube is purging t
 
 📺 All-In Podcast
 
-👁️ 124K • 👍 3K • 💬 290 • ⏱️ 1:15:18 • 13h ago
+👁️ 124K • 👍 3K • 💬 290 • ⏱️ 1:15:18 • 14h ago
 
 ---
 
@@ -442,7 +442,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 459 • 15h ago
+⬇️ 0 • ❤️ 459 • 16h ago
 
 ---
 
@@ -661,7 +661,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.1k • 🔱 363 • 22h ago
+⭐ 4.1k • 🔱 363 • 23h ago
 
 ---
 
@@ -669,7 +669,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 5h ago
+⭐ 3.8k • 🔱 487 • 6h ago
 
 ---
 
@@ -679,7 +679,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 59m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 387 • 11h ago
+⭐ 2.2k • 🔱 387 • 12h ago
 
 ---
 

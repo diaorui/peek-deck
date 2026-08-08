@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T15:29:51.975588+00:00'
+updated: '2026-08-08T15:58:48.530155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 15:29 UTC  
+**Last Updated:** August 08, 2026 at 15:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 6h ago
 
 ---
 
@@ -84,7 +84,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 6h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 7h ago
 
 ---
 
@@ -92,7 +92,7 @@ Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on 
 
 I wanna a show my first working 4wheeled urdf model that i have designed in freecad.robotcad for ros2 jazzy and gazebo harmonic. am very proud of it.It was quite some work especialy the wheels but i got it making functional(it still a little rough to use).But it was fun experience and made prototyping in the future way easier.I posted the pkg github link in the video description.I do advice if you wanna try out to read the Readme file in the pkg folder first.
 
-🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 6h ago
+🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 7h ago
 
 ---
 
@@ -116,17 +116,17 @@ As the titles says, I would like to know your experience with new Nvidia models,
 
 ## Google News: "robotics"
 
+**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 1d ago
-
----
-
-**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
-
-The New York Times • 1d ago
+theinformation.com • 1d ago
 
 ---
 
@@ -136,27 +136,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
-
-Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
-
-Investor's Business Daily • 1d ago
-
----
-
 **[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
 HII • 1d ago
-
----
-
-**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
-
-Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -174,17 +158,31 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Air Force uses robotics to create part for damaged C-17](https://www.stripes.com/branches/air_force/2026-08-08/air-force-robotics-replacement-part-c-17-22486166.html)**
-
-When Boeing couldn’t provide a replacement part for a storm-damaged C-17 Globemaster III, the Air Force turned to its own robots to make a new one.
-
-stripes.com • 18h ago
-
----
-
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
 WSJ • 18h ago
+
+---
+
+**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+
+Tech Xplore • 3d ago
+
+---
+
+**[Chernobyl’s Robots, Or The Hackathon From Hell](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/)**
+
+When the Chernobyl Nuclear Power Plant’s #4 reactor experienced an extreme criticality event on that infamous day in 1986, the resulting steam explosion and lack of any kind of containment bu…
+
+Hackaday • 21h ago
+
+---
+
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
+
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 1d ago
 
 ---
 

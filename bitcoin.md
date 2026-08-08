@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T15:29:51.965783+00:00'
+updated: '2026-08-08T15:58:48.521762+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 15:29 UTC  
+**Last Updated:** August 08, 2026 at 15:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-8h ago
+9h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -122,7 +122,7 @@ Same as title.
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -150,17 +150,19 @@ Everyone's got their panties in a bunch about the recent hacks and exploits agai
 
 ## Google News: "bitcoin"
 
-**[BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes](https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes)**
+**[Why Bitwise predicts a $1.3M Bitcoin price target fueled by institutions](https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan)**
 
-BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
+Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 7h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack](https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack)**
 
-Bloomberg.com • 1d ago
+Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
+
+Decrypt • 19h ago
 
 ---
 
@@ -186,19 +188,17 @@ Fortune • 1d ago
 
 ---
 
-**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
 
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-Forbes • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
-Trump Media wants to focus on other business ventures, according to an Axios report.
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Bitcoin Magazine • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -208,19 +208,19 @@ CCN.com • 6h ago
 
 ---
 
-**[XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?](https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market)**
+**[BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)**
 
-On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.
+Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
 
-Decrypt • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
+**[Bitcoin miners MARA and CleanSpark post double-digit revenue drops as AI infrastructure pivot continues](https://www.theblock.co/news/business/2026-08-06-bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot-411049)**
 
-Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
+MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.
 
-24/7 Wall St. • 20h ago
+The Block • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Today we analyze the strongest Bitcoin bottom signals and whether the crypto mar
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 23h ago
+👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 1d ago
 
 ---
 
