@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T10:33:37.591009+00:00'
+updated: '2026-08-08T11:28:55.485076+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 10:33 UTC  
+**Last Updated:** August 08, 2026 at 11:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,15 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-13h ago
+4h ago
 
 ---
 
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-3h ago
+5h ago
+
+---
+
+**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+
+14h ago
+
+---
+
+**[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
+
+5h ago
 
 ---
 
@@ -96,19 +108,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 19h ago
-
----
-
-**[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
-
-4h ago
-
----
-
-**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
-
-4h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 20h ago
 
 ---
 
@@ -116,33 +116,33 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Same as title.
 
-21h ago
+22h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-20h ago
+21h ago
+
+---
+
+**[What will the real bottom be?](https://www.reddit.com/r/Bitcoin/comments/1vinec2/what_will_the_real_bottom_be/)**
+
+At this point in the cycle I always get a mix of anxiety and excitement because usually around this time we form a bottom and we get those big liquidation events that are in my opinion really exciting as a normal person who just buys and holds you know. Personally I strongly believe there will be a lower low sometime between like October and the end of the year. What do you think?
+
+6h ago
 
 ---
 
 **[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
 
 1d ago
-
----
-
-**[my journey starts here](https://www.reddit.com/r/Bitcoin/comments/1vhzych/my_journey_starts_here/)**
-
-after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
-
-21h ago
 
 ---
 
@@ -154,7 +154,7 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 1d ago
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 1h ago
 
 Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.
 
-Yahoo Finance UK • 51m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 1d ago
 
 **[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
 
-The Times of Israel • 9h ago
+The Times of Israel • 10h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Times of Israel • 9h ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -341,7 +341,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 20h ago
+👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 21h ago
 
 ---
 
@@ -369,7 +369,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 9h ago
+👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 10h ago
 
 ---
 
