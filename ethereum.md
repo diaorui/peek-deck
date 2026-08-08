@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T12:53:10.145720+00:00'
+updated: '2026-08-08T13:47:00.688579+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 12:53 UTC  
+**Last Updated:** August 08, 2026 at 13:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
+**24h:** +0.2%  
 **7d:** +1.9%  
-**30d:** +6.8%  
-**90d:** -17.9%  
+**30d:** +6.7%  
+**90d:** -18.0%  
 **1y:** -55.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 3h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 17h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 1d ago
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 15h ago
+thestreet.com • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ thestreet.com • 15h ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 16h ago
+👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 20h ago
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 21h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #Cr
 
 📺 Chart Analysis
 
-👁️ 203 • 💬 18 • ⏱️ 12:53 • 5h ago
+👁️ 203 • 💬 18 • ⏱️ 12:53 • 6h ago
 
 ---
 

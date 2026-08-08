@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T12:53:10.139608+00:00'
+updated: '2026-08-08T13:47:00.682210+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - news
 - cryptocurrency
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 12:53 UTC  
+**Last Updated:** August 08, 2026 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,938.17
+### $65,011.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.2%  
-**30d:** +1.2%  
-**90d:** -20.6%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +1.3%  
+**90d:** -20.5%  
 **1y:** -44.2%  
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-6h ago
+7h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-7h ago
+8h ago
 
 ---
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-15h ago
+16h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 23h ago
 
 ---
 
@@ -122,13 +122,13 @@ Same as title.
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -136,7 +136,7 @@ Same as title.
 
 At this point in the cycle I always get a mix of anxiety and excitement because usually around this time we form a bottom and we get those big liquidation events that are in my opinion really exciting as a normal person who just buys and holds you know. Personally I strongly believe there will be a lower low sometime between like October and the end of the year. What do you think?
 
-7h ago
+8h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 1d ago
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 3h ago
 
 Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 3h ago
 
 Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.
 
-Yahoo Finance UK • 3h ago
+Yahoo Finance UK • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ fortune.com • 1d ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-bitcoinmagazine.com • 15h ago
+bitcoinmagazine.com • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ Forbes • 2d ago
 
 **[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
 
-The Times of Israel • 12h ago
+The Times of Israel • 13h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Times of Israel • 12h ago
 
 Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ I would give myself 95% confidence that the bottom is in.” Mitchell Askew and 
 
 📺 What Bitcoin Did
 
-👁️ 6K • 👍 181 • 💬 145 • ⏱️ 1:28:18 • 19h ago
+👁️ 6K • 👍 181 • 💬 145 • ⏱️ 1:28:18 • 20h ago
 
 ---
 
