@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T21:57:40.556622+00:00'
+updated: '2026-08-08T22:35:55.226461+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 21:57 UTC  
+**Last Updated:** August 08, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-13h ago
+14h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-19h ago
+20h ago
 
 ---
 
@@ -130,6 +130,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
+
+Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
+
+ABC30 Fresno • 21h ago
+
+---
+
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
 USNI News • 2d ago
@@ -138,21 +146,13 @@ USNI News • 2d ago
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-wsj.com • 1d ago
+WSJ • 1d ago
 
 ---
 
 **[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
-
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
-
-HII • 2d ago
 
 ---
 
@@ -164,11 +164,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
+**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
 
-This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
+HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-IEEE Spectrum • 2d ago
+HII • 2d ago
 
 ---
 
@@ -176,7 +176,7 @@ IEEE Spectrum • 2d ago
 
 Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
 
-Princeton Engineering • 2d ago
+engineering.princeton.edu • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 Ohbot Robot
 
-👁️ 1K • 👍 16 • ⏱️ 0:08 • 3h ago
+👁️ 1K • 👍 16 • ⏱️ 0:08 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 2d ago
+👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 3d ago
 
 ---
 

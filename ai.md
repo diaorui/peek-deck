@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T21:57:40.544235+00:00'
+updated: '2026-08-08T22:35:55.207711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 21:57 UTC  
+**Last Updated:** August 08, 2026 at 22:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Source: https://openrouter.ai/rankings
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-5h ago
+6h ago
 
 ---
 
@@ -61,6 +61,14 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 ---
 
+**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
+
+The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
+
+9h ago
+
+---
+
 **[Will AI help speed up medical science?](https://www.reddit.com/r/artificial/comments/1vj3trr/will_ai_help_speed_up_medical_science/)**
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
@@ -69,25 +77,25 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 ---
 
-**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
-
-The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
-
-8h ago
-
----
-
 **[ByteDance trains massive AI model in bid to rival Anthropic](https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/)**
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 13h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 10h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 11h ago
+
+---
+
+**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
+
+Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
+
+20h ago
 
 ---
 
@@ -99,19 +107,11 @@ Managers are saving over 2x the time individual contributors are with AI tools. 
 
 ---
 
-**[Gave my AI the ability to call my phone and talk to me when it finishes a task. Can't decide if it's useful or unhinged.](https://www.reddit.com/r/artificial/comments/1vijw90/gave_my_ai_the_ability_to_call_my_phone_and_talk/)**
-
-Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
-
-19h ago
-
----
-
 **[Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?](https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/)**
 
 This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
 
-3h ago
+4h ago
 
 ---
 
@@ -123,11 +123,11 @@ This is a weird one to admit but here goes. Spent the last few years home with k
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[OpenAI to pause some work on AI model Astra due to security concerns](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
+**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
@@ -135,41 +135,25 @@ The Guardian • 5h ago
 
 ---
 
-**[Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)**
-
-OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
-
-OpenAI • 1d ago
-
----
-
 **[As AI reshapes dating, a Jewish organization is betting on the return of the human matchmaker](https://www.foxnews.com/culture/ai-reshapes-dating-jewish-organization-betting-return-human-matchmaker)**
 
 Chabad's Met@Chabad initiative combines AI matchmaking with rabbi-vetted profiles for a virtual speed dating event aiming to connect 13,000 Jewish singles.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
-**[AI pioneer: 'Trust cannot be outsourced to machines'](https://www.yahoo.com/news/videos/ai-pioneer-trust-cannot-outsourced-200000757.html)**
+**[As Colorado universities align with AI, students take a stand against ‘plagiarism machine’](https://www.detroitnews.com/story/news/nation/2026/08/08/colorado-students-resist-artificial-intelligence-plagiarism/91228891007/)**
 
-During a conversation live at the Masters of Scale Summit, Dr. Fei-Fei Li, co-founder and CEO of World Labs and a leading AI researcher, argues that trust in the AI era must stay fundamentally human. ...
+some Colorado students are questioning why their institutions of higher education are aligning themselves with big AI companies.
 
-Yahoo • 1h ago
-
----
-
-**[Generative AI Could 'Invent' Biological Discoveries That Don't Exist](https://www.sciencealert.com/generative-ai-could-invent-biological-discoveries-that-dont-exist)**
-
-An AI system could help scientists identify a promising new drug.
-
-ScienceAlert • 56m ago
+The Detroit News • 1h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-wsj.com • 20h ago
+WSJ • 8h ago
 
 ---
 
@@ -185,7 +169,7 @@ Fox Business • 21h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 6h ago
+fortune.com • 6h ago
 
 ---
 
@@ -193,7 +177,23 @@ Fortune • 6h ago
 
 The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
 
-NVIDIA Blog • 11h ago
+NVIDIA Blog • 12h ago
+
+---
+
+**[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)**
+
+Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
+
+WCAX • 1d ago
+
+---
+
+**[Is football AI-proof? Why tech investors wanted a slice of the World Cup](https://www.bbc.com/news/articles/cd7l4e3v238o)**
+
+What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?
+
+BBC • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 **[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
 
-⬆️ 374 • 💬 179 • 3h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+⬆️ 374 • 💬 179 • 4h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -328,7 +328,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Mark Tilbury
 
-👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 13h ago
+👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 14h ago
 
 ---
 
@@ -368,7 +368,7 @@ In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial
 
 📺 Shawn Ryan Show
 
-👁️ 99K • 👍 3K • 💬 585 • ⏱️ 17:08 • 23h ago
+👁️ 99K • 👍 3K • 💬 585 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -450,7 +450,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 477 • 1h ago
+⬇️ 0 • ❤️ 477 • 2h ago
 
 ---
 
@@ -462,7 +462,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,755 • 19h ago
+⬇️ 2,345,190 • ❤️ 1,755 • 20h ago
 
 ---
 
@@ -659,7 +659,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 839 • 13h ago
+⭐ 7.7k • 🔱 839 • 14h ago
 
 ---
 
@@ -687,7 +687,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 28m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -747,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 31m ago
+⭐ 1.9k • 🔱 243 • 1h ago
 
 ---
 

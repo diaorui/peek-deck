@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T21:57:40.550216+00:00'
+updated: '2026-08-08T22:35:55.216473+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 21:57 UTC  
+**Last Updated:** August 08, 2026 at 22:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 1h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 2h ago
 
 ---
 
@@ -109,13 +109,13 @@ The last non split block has been mined. Lest see what happens now
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-5h ago
+6h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -146,7 +146,7 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
 
-4h ago
+5h ago
 
 ---
 
@@ -158,7 +158,7 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -166,15 +166,21 @@ CoinDesk • 7h ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[Bitcoin Security Scare Deepens As ‘Critical’ Exploits Hit Major Projects](https://www.forbes.com/sites/digital-assets/2026/08/08/bitcoin-security-scare-deepens-as-critical-exploits-hit-major-projects/)**
+**[Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-having-best-week-221057546.html)**
 
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+Just days after hackers drained thousands of self-custody wallets in the Coldcard exploit, Bitcoin ETFs suddenly snapped a months-long losing streak with their strongest week in months. The timing is hard to ignore, but the explanation turns out to be more complicated than it first appears.
 
-Forbes • 1h ago
+Yahoo Finance • 24m ago
+
+---
+
+**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -184,25 +190,25 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
-
-Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
-
-Yahoo Finance • 8h ago
-
----
-
 **[Current price of Bitcoin for Aug. 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+fortune.com • 1d ago
 
 ---
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
+
+---
+
+**[Bitcoin Security Scare Deepens As ‘Critical’ Exploits Hit Major Projects](https://www.forbes.com/sites/digital-assets/2026/08/08/bitcoin-security-scare-deepens-as-critical-exploits-hit-major-projects/)**
+
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 14h ago
 
 ---
 
@@ -222,14 +228,6 @@ Bitcoin is holding near $65,000, yet some of the largest mining stocks are posti
 
 ---
 
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
-
-Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
-
-Yahoo Finance • 12h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -246,7 +244,7 @@ Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated k
 
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
-⬆️ 20 • 💬 0 • 5d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+⬆️ 20 • 💬 0 • 6d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 
 ---
 
@@ -323,7 +321,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 5h ago
+👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 6h ago
 
 ---
 
@@ -333,7 +331,7 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 9h ago
+👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 10h ago
 
 ---
 
@@ -353,7 +351,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 12h ago
+👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 13h ago
 
 ---
 
@@ -373,7 +371,7 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 19K • 👍 310 • 💬 26 • ⏱️ 8:07 • 23h ago
+👁️ 19K • 👍 310 • 💬 26 • ⏱️ 8:07 • 1d ago
 
 ---
 

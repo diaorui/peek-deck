@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T21:57:40.554389+00:00'
+updated: '2026-08-08T22:35:55.223116+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 21:57 UTC  
+**Last Updated:** August 08, 2026 at 22:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -164,13 +164,13 @@ CoinDesk • 1d ago
 
 SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 12h ago
+CCN.com • 13h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 17h ago
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -208,7 +208,13 @@ thestreet.com • 1d ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
+
+---
+
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -217,12 +223,6 @@ CryptoSlate • 5h ago
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
 AMBCrypto • 1d ago
-
----
-
-**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
-
-FXStreet • 1d ago
 
 ---
 
@@ -306,7 +306,7 @@ Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
 
 📺 Liquid Loans
 
-👁️ 1K • 👍 8 • ⏱️ 0:32 • 7h ago
+👁️ 1K • 👍 8 • ⏱️ 0:32 • 8h ago
 
 ---
 
