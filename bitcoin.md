@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T14:31:53.085870+00:00'
+updated: '2026-08-08T15:29:51.965783+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 14:31 UTC  
+**Last Updated:** August 08, 2026 at 15:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.3%  
-**30d:** +1.3%  
-**90d:** -20.5%  
-**1y:** -44.2%  
+**24h:** +0.4%  
+**7d:** +2.4%  
+**30d:** +1.4%  
+**90d:** -20.4%  
+**1y:** -44.1%  
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-7h ago
+8h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-8h ago
+9h ago
 
 ---
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-17h ago
+18h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 1d ago
 
 ---
 
@@ -122,7 +122,7 @@ Same as title.
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Same as title.
 
 Everyone's got their panties in a bunch about the recent hacks and exploits against things in the a Bitcoin ecosystem. I say it's a good thing. Bitcoin need to be able to exist, no, thrive, in an environment where anyone and everyone can attack it at any time. Every weakness needs to be found, exploited, and then fixed. Each hack, every attack, all the other scam bullshit in the ecosystem makes Bitcoin, the network, stronger. If Bitcoin can't survive constant assault, then it isn't worth a damn thing. If it ain't broke, you aren't trying hard enough.
 
-17h ago
+18h ago
 
 ---
 
@@ -154,7 +154,7 @@ Everyone's got their panties in a bunch about the recent hacks and exploits agai
 
 BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -166,7 +166,7 @@ Bloomberg.com • 1d ago
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -174,7 +174,7 @@ Bloomberg.com • 1h ago
 
 Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,13 +198,13 @@ Forbes • 2d ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -220,7 +220,7 @@ Decrypt • 1d ago
 
 Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 20h ago
 
 ---
 
@@ -355,7 +355,7 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 225 • 💬 13 • ⏱️ 2:26 • 13h ago
+👁️ 3K • 👍 225 • 💬 13 • ⏱️ 2:26 • 14h ago
 
 ---
 
@@ -395,7 +395,7 @@ Today we analyze the strongest Bitcoin bottom signals and whether the crypto mar
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 22h ago
+👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 23h ago
 
 ---
 

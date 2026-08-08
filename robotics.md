@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T14:31:53.095280+00:00'
+updated: '2026-08-08T15:29:51.975588+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 14:31 UTC  
+**Last Updated:** August 08, 2026 at 15:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 5h ago
 
 ---
 
@@ -60,7 +60,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-23h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 5h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 6h ago
 
 ---
 
@@ -92,7 +92,7 @@ Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on 
 
 I wanna a show my first working 4wheeled urdf model that i have designed in freecad.robotcad for ros2 jazzy and gazebo harmonic. am very proud of it.It was quite some work especialy the wheels but i got it making functional(it still a little rough to use).But it was fun experience and made prototyping in the future way easier.I posted the pkg github link in the video description.I do advice if you wanna try out to read the Readme file in the pkg folder first.
 
-🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 5h ago
+🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 6h ago
 
 ---
 
@@ -100,7 +100,7 @@ I wanna a show my first working 4wheeled urdf model that i have designed in free
 
 https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba98acb9452175d90466e84d51e846903d2632 My eccentric cam for my 20:1 reduction cycloidal driver is 40mm thick while I was hoping for less like 20mm thick. All the empty spots you see which is 4 is where the bearings are supposed to go. I don't know how I can make the eccentric cam smaller without using smaller bearings that are like 3mm thick but if I do that won't it not be able to handle high torques of like 100Nm of torque or should I try doing that. I don't think using small bearings is good idea as I searched it up and google gemini said "no its a horrible idea." Lowkey I dont even know what eccentric cam even does I am mostly following a tutorial and I don't know if there may be another mechanism that is way thinner. Thanks.
 
-6h ago
+7h ago
 
 ---
 
@@ -108,7 +108,7 @@ https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba9
 
 As the titles says, I would like to know your experience with new Nvidia models, both world action models and VLAs, like Cosmos3, DreamZero, Groot, etc. And how they compare with the good old fine-tuned Pi05 that I am currently using in my daily life in the lab. I haven't tried any of those Nvidia models yet and before getting my hand on them I'd like a honest feedback from someone that have a direct experience with them both in Sim and in real world experiments.
 
-14h ago
+15h ago
 
 ---
 
@@ -178,13 +178,13 @@ IEEE Spectrum • 2d ago
 
 When Boeing couldn’t provide a replacement part for a storm-damaged C-17 Globemaster III, the Air Force turned to its own robots to make a new one.
 
-stripes.com • 17h ago
+stripes.com • 18h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 49K • 👍 3K • 💬 469 • ⏱️ 26:40 • 3d ago
+👁️ 49K • 👍 3K • 💬 469 • ⏱️ 26:40 • 4d ago
 
 ---
 

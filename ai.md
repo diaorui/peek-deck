@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T14:31:53.077034+00:00'
+updated: '2026-08-08T15:29:51.956968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 14:31 UTC  
+**Last Updated:** August 08, 2026 at 15:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 6h ago
 
 ---
 
@@ -71,7 +71,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 3h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 10h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 11h ago
 
 ---
 
@@ -87,7 +87,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 19h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -129,7 +129,7 @@ WSJ • 21h ago
 
 AI coding tools deli
 
-Databricks • 21h ago
+Databricks • 22h ago
 
 ---
 
@@ -137,7 +137,7 @@ Databricks • 21h ago
 
 AI stocks roared back to help lift two of the major averages to fresh records.
 
-CNBC • 24m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 24m ago
 
 A convincing product pitch on social media can look and sound like trustworthy advice, but the Better Business Bureau (BBB) warns that some influencers are help
 
-KOMO • 28m ago
+KOMO • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ KOMO • 28m ago
 
 LinkedIn, Snap and other platforms are revving up efforts to rein in low-quality AI content without banning the technology entirely.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ NBC News • 1h ago
 
 WASHINGTON (AP) — Right-leaning legal activists along with Elon Musk ’s artificial intelligence company have brought sweeping challenges against a cornerstone of legal enforcement in the United States: the right of private groups, people and local governments to sue over violations of many major ...
 
-WRAL • 1h ago
+WRAL • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ WRAL • 1h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 13h ago
+Fox Business • 14h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fox Business • 13h ago
 
 View this post on Instagram A post shared by AI | Technology | Innovation (@meteoric.ai)
 
-The Times of India • 2h ago
+The Times of India • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 493 • 💬 356 • 20h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 501 • 💬 359 • 21h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -215,7 +215,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 411 • 💬 416 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 412 • 💬 417 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -223,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 332 • 💬 243 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 333 • 💬 243 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -239,7 +239,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 AI coding tools deli
 
-⬆️ 267 • 💬 227 • 20h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 278 • 💬 230 • 21h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -255,7 +255,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 170 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 171 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -263,7 +263,7 @@ Here's how to spot the disease—and what to do about it.
 
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
-⬆️ 145 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+⬆️ 146 • 💬 120 • 1d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
 
 ---
 
@@ -273,11 +273,14 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 ---
 
-**[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://news.ycombinator.com/item?id=49204546)**
+**[Mythos social engineering AISI INC-2026-07-28-01](https://news.ycombinator.com/item?id=49218707)**
 
-New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
+Fixes #2 - discovery hangs when multiple default via routes exist.
+What changed
 
-⬆️ 72 • 💬 115 • 1d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
+
+⬆️ 74 • 💬 19 • 11h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -299,7 +302,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Bugs
 
-👁️ 158K • 👍 13K • 💬 588 • ⏱️ 0:34 • 22h ago
+👁️ 158K • 👍 13K • 💬 588 • ⏱️ 0:34 • 23h ago
 
 ---
 
@@ -319,7 +322,7 @@ GET vidIQ AND GROW YOUR CHANNEL https://www.vidIQ.com/start YouTube is purging t
 
 📺 All-In Podcast
 
-👁️ 124K • 👍 3K • 💬 290 • ⏱️ 1:15:18 • 12h ago
+👁️ 124K • 👍 3K • 💬 290 • ⏱️ 1:15:18 • 13h ago
 
 ---
 
@@ -339,7 +342,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 823K • 👍 46K • 💬 492 • ⏱️ 0:52 • 21h ago
+👁️ 823K • 👍 46K • 💬 492 • ⏱️ 0:52 • 22h ago
 
 ---
 
@@ -377,7 +380,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 217K • 👍 17K • 💬 551 • ⏱️ 1:36 • 23h ago
+👁️ 217K • 👍 17K • 💬 551 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -451,7 +454,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,740 • 12h ago
+⬇️ 2,345,190 • ❤️ 1,740 • 13h ago
 
 ---
 
@@ -475,7 +478,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 396 • 2d ago
+⬇️ 0 • ❤️ 396 • 3d ago
 
 ---
 
@@ -487,7 +490,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 175,093 • ❤️ 601 • 1d ago
+⬇️ 175,093 • ❤️ 601 • 2d ago
 
 ---
 
@@ -648,7 +651,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 829 • 6h ago
+⭐ 7.7k • 🔱 829 • 7h ago
 
 ---
 
@@ -658,7 +661,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.1k • 🔱 363 • 21h ago
+⭐ 4.1k • 🔱 363 • 22h ago
 
 ---
 
@@ -666,7 +669,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 4h ago
+⭐ 3.8k • 🔱 487 • 5h ago
 
 ---
 
@@ -676,7 +679,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1m ago
+⭐ 2.6k • 🔱 1.8k • 59m ago
 
 ---
 
@@ -686,7 +689,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 387 • 10h ago
+⭐ 2.2k • 🔱 387 • 11h ago
 
 ---
 
@@ -736,7 +739,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 10m ago
+⭐ 1.9k • 🔱 243 • 1h ago
 
 ---
 
