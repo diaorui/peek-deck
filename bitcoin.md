@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T16:44:01.050481+00:00'
+updated: '2026-08-08T17:30:10.680584+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 16:44 UTC  
+**Last Updated:** August 08, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
 
-33m ago
+1h ago
 
 ---
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-19h ago
+20h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Same as title.
 
 Hi all, since the cold card hack, wondering if owning both IBIT and using another HW for BTC is ideal. I’m looking at the ledger or bitkey to purchase. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -146,7 +146,7 @@ Hi all, since the cold card hack, wondering if owning both IBIT and using anothe
 
 On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on the Bitcoin network by the UASF client.
 
-1h ago
+2h ago
 
 ---
 
@@ -154,33 +154,23 @@ On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on 
 
 ## Google News: "bitcoin"
 
-**[Why Bitwise predicts a $1.3M Bitcoin price target fueled by institutions](https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan)**
+**[BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes](https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes)**
 
-Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
+BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 2h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack](https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
 
-Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
-
-Decrypt • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
-
-Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
-
-Yahoo Finance • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -192,15 +182,9 @@ Fortune • 1d ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
+**[Arthur Hayes says Bitcoin could hit $1 million after the next AI bailout](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-bitcoin-could-211500881.html)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
-
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+In a Substack post published on Wednesday, Hayes said the current AI boom is being misclassified by markets. Investors treat the multi-trillion-dollar buildout of data centers and power plants as pure technology growth. In reality, he argued, it more closely resembles commercial real estate ...
 
 Yahoo Finance • 1d ago
 
@@ -208,7 +192,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 7h ago
+CCN.com • 8h ago
 
 ---
 
@@ -220,11 +204,27 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin miners MARA and CleanSpark post double-digit revenue drops as AI infrastructure pivot continues](https://www.theblock.co/news/business/2026-08-06-bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot-411049)**
+**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
-MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.
+Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-The Block • 1d ago
+Benzinga • 22h ago
+
+---
+
+**[‘Situation Is Extremely Bad’—Bitcoin Braced For More ‘Critical’ Exploits After $10,000 Price Per Day AI Warning](https://www.forbes.com/sites/digital-assets/2026/08/06/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
+
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+
+Forbes • 2d ago
+
+---
+
+**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
+
+Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
+
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 655 • 👍 52 • 💬 2 • ⏱️ 1:20 • 43m ago
+👁️ 655 • 👍 52 • 💬 2 • ⏱️ 1:20 • 1h ago
 
 ---
 
@@ -369,7 +369,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 249 • 💬 23 • ⏱️ 2:26 • 15h ago
+👁️ 3K • 👍 249 • 💬 23 • ⏱️ 2:26 • 16h ago
 
 ---
 
@@ -379,7 +379,7 @@ Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 113 • 💬 39 • ⏱️ 1:24 • 19h ago
+👁️ 3K • 👍 113 • 💬 39 • ⏱️ 1:24 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T16:44:01.043317+00:00'
+updated: '2026-08-08T17:30:10.671611+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 16:44 UTC  
+**Last Updated:** August 08, 2026 at 17:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
+**[What is the best AI image generator?](https://www.reddit.com/r/artificial/comments/1vj10i1/what_is_the_best_ai_image_generator/)**
 
-Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
+I'm looking for a new one and my last post got deleted. Midjourney is alright but it does something weird with faces and buildings when they're close. I've worked on my prompts quite a bit but nothing seems to work well.
 
-16h ago
+34m ago
 
 ---
 
@@ -49,7 +49,31 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Source: https://openrouter.ai/rankings
 
-55m ago
+1h ago
+
+---
+
+**[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
+
+Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
+
+17h ago
+
+---
+
+**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
+
+Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
+
+1h ago
+
+---
+
+**[KPMG finds 49% cut AI agent rollouts when costs outran value](https://www.reddit.com/r/artificial/comments/1vj16y1/kpmg_finds_49_cut_ai_agent_rollouts_when_costs/)**
+
+Established ROI sits at 7% while planned AI spending holds at $188m across the 2,145 leaders surveyed. Cost visibility now separates the firms seeing returns.
+
+🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 27m ago
 
 ---
 
@@ -57,13 +81,13 @@ Source: https://openrouter.ai/rankings
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 8h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 5h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 6h ago
 
 ---
 
@@ -71,7 +95,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-14h ago
+15h ago
 
 ---
 
@@ -83,35 +107,11 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 ---
 
-**[A question about Large Language Models (LLMs): my own observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting.](https://www.reddit.com/r/artificial/comments/1viz14o/a_question_about_large_language_models_llms_my/)**
-
-Hi everyone! I’ve been conducting experiments with LLMs that have undergone RLHF alignment, and I’ve encountered a phenomenon that I still don’t have a complete explanation for. A long, harmless text containing no instructions at all causes a noticeable and persistent shift in activations in the middle and later layers - and this effectively disables the model’s safety mechanisms, without any explicit commands being given. If I’m not mistaken, Yann LeCun has said that for a model to predict text well, it needs to understand the reality underlying that text. My question is: could this activation drift be evidence that the model’s “world” is actually a collection of regions formed during training, and that context can move the model between them, completely bypassing its safety settings? If anyone is interested, I have the relevant metrics and reproducible tests. I’m familiar with the Anthropic research; it’s not quite about what I’m talking about here.
-
-1h ago
-
----
-
-**[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
-
-China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
-
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 13h ago
-
----
-
-**[AI cost vs human cost math still doesn't add up for me and I work in healthcare](https://www.reddit.com/r/artificial/comments/1viqva8/ai_cost_vs_human_cost_math_still_doesnt_add_up/)**
-
-Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
-
-7h ago
-
----
-
 **[What's an AI capability you thought was hype until you actually used it?](https://www.reddit.com/r/artificial/comments/1viule1/whats_an_ai_capability_you_thought_was_hype_until/)**
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-4h ago
+5h ago
 
 ---
 
@@ -123,51 +123,37 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 2h ago
+WSJ • 16h ago
 
 ---
 
-**[BBB warns of fake AI influencers and undisclosed paid endorsements on social media](https://komonews.com/news/local/better-business-bureau-surge-in-influencers-fake-ai-creators-not-clear-if-being-paid-to-endorse-products-social-media-scam-influencer-marketing)**
+**[OpenAI to pause work on AI model Astra due to security concerns](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
 
-A convincing product pitch on social media can look and sound like trustworthy advice, but the Better Business Bureau (BBB) warns that some influencers are help
+Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-KOMO • 2h ago
-
----
-
-**[Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)**
-
-Surprise, it's a data center!
-
-Tom's Hardware • 2h ago
+The Guardian • 39m ago
 
 ---
 
-**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
+**[How AI-Powered Business Email Compromise Scams Are Stealing Billions](https://www.forbes.com/sites/steveweisman/2026/08/08/how-ai-powered-business-email-compromise-scams-are-stealing-billions/)**
 
-The New York Times • 1d ago
+Business Email Compromise scams cost companies billions. Criminals are use AI, deepfakes and voice cloning to commit fraud.  Learn how businesses can protect themselves.
 
----
-
-**[AI used to create synthetic virus](https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/)**
-
-Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
-
-The Hill • 1d ago
+Forbes • 17m ago
 
 ---
 
-**[AI Designed a Virus Genome No One Had Seen Before. Researchers Made It Work](https://www.yahoo.com/news/science/articles/ai-designed-virus-genome-no-140800781.html)**
+**[How Cyclists Can Use AI: 5 Proven Strategies from an Industry Insider](https://sports.yahoo.com/articles/cyclists-ai-5-proven-strategies-132614194.html)**
 
-Scientists at Stanford University and the Arc Institute have crossed a line that, until this week, existed only as a possibility. They used artificial intelligence to design complete viral genomes fro...
+There are certain tools that are essential to the sport of cycling. A bike pump, a good set of hex keys, a torque wrench, and good tire levers. These tools can get most basic home-mechanic jobs done, but there’s one that I keep seeing pop up on some lists that has no place in your cycling essential ...
 
-Yahoo • 2h ago
+Yahoo Sports • 20m ago
 
 ---
 
@@ -175,7 +161,13 @@ Yahoo • 2h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 15h ago
+foxbusiness.com • 16h ago
+
+---
+
+**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -187,11 +179,19 @@ CNN • 6h ago
 
 ---
 
-**[‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)**
+**[How to Disable the AI Features in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)**
 
-Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
+New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.
 
-The Guardian • 8h ago
+WIRED • 7h ago
+
+---
+
+**[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)**
+
+Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
+
+WCAX • 21h ago
 
 ---
 
@@ -239,7 +239,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 AI coding tools deli
 
-⬆️ 283 • 💬 238 • 22h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 283 • 💬 238 • 23h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -281,7 +281,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 80 • 💬 35 • 2h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 80 • 💬 35 • 3h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -321,7 +321,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Mark Tilbury
 
-👁️ 230K • 👍 8K • 💬 435 • ⏱️ 0:26 • 8h ago
+👁️ 230K • 👍 8K • 💬 435 • ⏱️ 0:26 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ GET vidIQ AND GROW YOUR CHANNEL https://www.vidIQ.com/start YouTube is purging t
 
 📺 vidIQ
 
-👁️ 36K • 👍 1K • 💬 551 • ⏱️ 8:28 • 2d ago
+👁️ 36K • 👍 1K • 💬 551 • ⏱️ 8:28 • 3d ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 878K • 👍 49K • 💬 518 • ⏱️ 0:52 • 23h ago
+👁️ 878K • 👍 49K • 💬 518 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -381,7 +381,7 @@ Alphabet's new chief scientist, Demis Hassabis argues time is running out before
 
 📺 The Royal Society
 
-👁️ 759 • 👍 15 • 💬 4 • ⏱️ 1:21 • 2h ago
+👁️ 759 • 👍 15 • 💬 4 • ⏱️ 1:21 • 3h ago
 
 ---
 
@@ -443,7 +443,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 466 • 17h ago
+⬇️ 0 • ❤️ 466 • 18h ago
 
 ---
 
@@ -455,7 +455,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,746 • 14h ago
+⬇️ 2,345,190 • ❤️ 1,746 • 15h ago
 
 ---
 
@@ -652,7 +652,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 833 • 8h ago
+⭐ 7.7k • 🔱 833 • 9h ago
 
 ---
 
@@ -662,7 +662,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.2k • 🔱 368 • 23h ago
+⭐ 4.2k • 🔱 368 • 1d ago
 
 ---
 
@@ -670,7 +670,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 6h ago
+⭐ 3.8k • 🔱 487 • 7h ago
 
 ---
 
@@ -680,7 +680,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 41s ago
+⭐ 2.6k • 🔱 1.8k • 46m ago
 
 ---
 
@@ -740,7 +740,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 9m ago
+⭐ 1.9k • 🔱 243 • 55m ago
 
 ---
 

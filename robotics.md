@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T16:44:01.057969+00:00'
+updated: '2026-08-08T17:30:10.690128+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 16:44 UTC  
+**Last Updated:** August 08, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-8h ago
+9h ago
+
+---
+
+**[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
+
+4h ago
 
 ---
 
@@ -44,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-7h ago
+8h ago
 
 ---
 
@@ -60,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-9h ago
+10h ago
 
 ---
 
@@ -72,11 +78,23 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 ---
 
+**[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
+
+41m ago
+
+---
+
+**[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
+
+3h ago
+
+---
+
 **[Robotics Project Ideas](https://www.reddit.com/r/robotics/comments/1vijujp/robotics_project_ideas/)**
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-14h ago
+15h ago
 
 ---
 
@@ -84,31 +102,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 7h ago
-
----
-
-**[showing my 4wheeled urdf model update 07-08-2026 #robotics #simulation l...](https://www.reddit.com/r/robotics/comments/1viqt9r/showing_my_4wheeled_urdf_model_update_07082026/)**
-
-I wanna a show my first working 4wheeled urdf model that i have designed in freecad.robotcad for ros2 jazzy and gazebo harmonic. am very proud of it.It was quite some work especialy the wheels but i got it making functional(it still a little rough to use).But it was fun experience and made prototyping in the future way easier.I posted the pkg github link in the video description.I do advice if you wanna try out to read the Readme file in the pkg folder first.
-
-🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 7h ago
-
----
-
-**[Eccentric cam too thick](https://www.reddit.com/r/robotics/comments/1viq5h8/eccentric_cam_too_thick/)**
-
-https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba98acb9452175d90466e84d51e846903d2632 My eccentric cam for my 20:1 reduction cycloidal driver is 40mm thick while I was hoping for less like 20mm thick. All the empty spots you see which is 4 is where the bearings are supposed to go. I don't know how I can make the eccentric cam smaller without using smaller bearings that are like 3mm thick but if I do that won't it not be able to handle high torques of like 100Nm of torque or should I try doing that. I don't think using small bearings is good idea as I searched it up and google gemini said "no its a horrible idea." Lowkey I dont even know what eccentric cam even does I am mostly following a tutorial and I don't know if there may be another mechanism that is way thinner. Thanks.
-
-8h ago
-
----
-
-**[Opinion on the Nvidia models compared to pi05?](https://www.reddit.com/r/robotics/comments/1vihcv4/opinion_on_the_nvidia_models_compared_to_pi05/)**
-
-As the titles says, I would like to know your experience with new Nvidia models, both world action models and VLAs, like Cosmos3, DreamZero, Groot, etc. And how they compare with the good old fine-tuned Pi05 that I am currently using in my daily life in the lab. I haven't tried any of those Nvidia models yet and before getting my hand on them I'd like a honest feedback from someone that have a direct experience with them both in Sim and in real world experiments.
-
-16h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 8h ago
 
 ---
 
@@ -136,6 +130,18 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+
+USNI News • 2d ago
+
+---
+
+**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
@@ -144,9 +150,11 @@ HII • 2d ago
 
 ---
 
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
 
-USNI News • 1d ago
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -158,31 +166,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
+
+Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
+
+TechCrunch • 2d ago
+
+---
+
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 19h ago
-
----
-
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
-
-Tech Xplore • 3d ago
-
----
-
-**[Chernobyl’s Robots, Or The Hackathon From Hell](https://hackaday.com/2026/08/07/chernobyls-robots-or-the-hackathon-from-hell/)**
-
-When the Chernobyl Nuclear Power Plant’s #4 reactor experienced an extreme criticality event on that infamous day in 1986, the resulting steam explosion and lack of any kind of containment bu…
-
-Hackaday • 22h ago
-
----
-
-**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
-
-Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
-
-Yahoo Finance • 1d ago
+WSJ • 20h ago
 
 ---
 
@@ -206,7 +200,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 28K • 👍 398 • 💬 228 • ⏱️ 28:01 • 21h ago
+👁️ 28K • 👍 398 • 💬 228 • ⏱️ 28:01 • 22h ago
 
 ---
 
