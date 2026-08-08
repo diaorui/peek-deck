@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T13:47:00.682210+00:00'
+updated: '2026-08-08T14:31:53.085870+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 13:47 UTC  
+**Last Updated:** August 08, 2026 at 14:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.90B
+**Market Cap:** $1305.63B
 Rank #1
 
-**Circulating Supply:** 20,067,393 BTC
+**Circulating Supply:** 20,067,431 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.4%
 
 **All-Time Low:** $67.81
-+95648.4%
++95847.5%
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-16h ago
+17h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -128,15 +128,15 @@ Same as title.
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-23h ago
+1d ago
 
 ---
 
-**[What will the real bottom be?](https://www.reddit.com/r/Bitcoin/comments/1vinec2/what_will_the_real_bottom_be/)**
+**[All attacks on Bitcoin are good](https://www.reddit.com/r/Bitcoin/comments/1vidcdf/all_attacks_on_bitcoin_are_good/)**
 
-At this point in the cycle I always get a mix of anxiety and excitement because usually around this time we form a bottom and we get those big liquidation events that are in my opinion really exciting as a normal person who just buys and holds you know. Personally I strongly believe there will be a lower low sometime between like October and the end of the year. What do you think?
+Everyone's got their panties in a bunch about the recent hacks and exploits against things in the a Bitcoin ecosystem. I say it's a good thing. Bitcoin need to be able to exist, no, thrive, in an environment where anyone and everyone can attack it at any time. Every weakness needs to be found, exploited, and then fixed. Each hack, every attack, all the other scam bullshit in the ecosystem makes Bitcoin, the network, stronger. If Bitcoin can't survive constant assault, then it isn't worth a damn thing. If it ain't broke, you aren't trying hard enough.
 
-8h ago
+17h ago
 
 ---
 
@@ -154,37 +154,27 @@ At this point in the cycle I always get a mix of anxiety and excitement because 
 
 BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
+**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
-
-Yahoo Finance • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/white-house-continues-promote-strategic-091800005.html)**
+**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
 
-Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
+Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
 
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://uk.finance.yahoo.com/news/bitcoin-rises-toward-65-000-094210739.html)**
-
-Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.
-
-Yahoo Finance UK • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,15 +182,7 @@ Yahoo Finance UK • 4h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-fortune.com • 1d ago
-
----
-
-**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
-
-Trump Media wants to focus on other business ventures, according to an Axios report.
-
-bitcoinmagazine.com • 16h ago
+Fortune • 1d ago
 
 ---
 
@@ -212,9 +194,25 @@ Forbes • 2d ago
 
 ---
 
-**[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
+**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
 
-The Times of Israel • 13h ago
+Trump Media wants to focus on other business ventures, according to an Axios report.
+
+Bitcoin Magazine • 17h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
+
+CCN.com • 5h ago
+
+---
+
+**[XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?](https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market)**
+
+On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.
+
+Decrypt • 1d ago
 
 ---
 
@@ -222,7 +220,7 @@ The Times of Israel • 13h ago
 
 Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -319,7 +317,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 134 • ⏱️ 12:39 • 1d ago
+👁️ 23K • 👍 1K • 💬 135 • ⏱️ 12:39 • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 113K • 👍 7K • 💬 404 • ⏱️ 24:00 • 1d ago
+👁️ 116K • 👍 7K • 💬 416 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -339,37 +337,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 10K • 👍 497 • 💬 43 • ⏱️ 8:03 • 1d ago
-
----
-
-**[UNSTOPPABLE: CEO predicts crypto&#39;s BIGGEST shift yet](https://www.youtube.com/watch?v=x4XrXA6AUuw)**
-
-Real Jet founder and Chairman Kenny Dichter joins 'Mornings with Maria' to discuss accepting crypto payments through ...
-
-📺 Fox Business Clips
-
-👁️ 83K • 👍 1K • 💬 467 • ⏱️ 8:52 • 2d ago
-
----
-
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 473 • 💬 73 • ⏱️ 11:04 • 1d ago
-
----
-
-**[The Data Says Bitcoin’s Bottom Is Already In | Mitchell Askew &amp; John Haar](https://www.youtube.com/watch?v=SnVM6jdvd88)**
-
-I would give myself 95% confidence that the bottom is in.” Mitchell Askew and John Haar are on the show to get into whether ...
-
-📺 What Bitcoin Did
-
-👁️ 6K • 👍 181 • 💬 145 • ⏱️ 1:28:18 • 20h ago
+👁️ 10K • 👍 503 • 💬 43 • ⏱️ 8:03 • 1d ago
 
 ---
 
@@ -379,17 +347,35 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 Fireship
 
-👁️ 536K • 👍 19K • 💬 1K • ⏱️ 5:10 • 2d ago
+👁️ 540K • 👍 19K • 💬 2K • ⏱️ 5:10 • 2d ago
 
 ---
 
-**[Dylan LeClair: &quot;The Bitcoin Bottom Is In&quot;](https://www.youtube.com/watch?v=igsBnAI7Juc)**
+**[HUGE CRYPTO SETBACK? $65,000 BITCOIN #bitcoin #xrp #crypto](https://www.youtube.com/watch?v=EoUv5-dm-XA)**
 
-Metaplanet's Dylan LeClair breaks down why bear market capitulation has cleared out short-term traders, and why Bitcoin's path ...
+📺 CryptoWendyO
 
-📺 Natalie Brunell
+👁️ 3K • 👍 225 • 💬 13 • ⏱️ 2:26 • 13h ago
 
-👁️ 2K • 👍 77 • 💬 46 • ⏱️ 1:03 • 2d ago
+---
+
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 485 • 💬 76 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
+
+Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
+
+📺 Crypto Insider
+
+👁️ 17K • 👍 658 • 💬 10 • ⏱️ 41:36 • 2d ago
 
 ---
 
@@ -399,17 +385,27 @@ Adam Lynch joins The Watch List to break down the current performance trends for
 
 📺 Schwab Network
 
-👁️ 9K • 👍 99 • 💬 12 • ⏱️ 6:13 • 1d ago
+👁️ 9K • 👍 102 • 💬 12 • ⏱️ 6:13 • 1d ago
 
 ---
 
-**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+**[Bitcoin Bottom Signals..](https://www.youtube.com/watch?v=TmrfJa7_Bo8)**
 
-Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+Today we analyze the strongest Bitcoin bottom signals and whether the crypto market is preparing for its next explosive move.
 
-📺 Crypto Vlog
+📺 Discover Crypto
 
-👁️ 8K • 💬 25 • ⏱️ 1:13 • 1d ago
+👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 22h ago
+
+---
+
+**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 10K • 👍 733 • 💬 55 • ⏱️ 7:37 • 1d ago
 
 ---
 

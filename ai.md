@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T13:47:00.673114+00:00'
+updated: '2026-08-08T14:31:53.077034+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 13:47 UTC  
+**Last Updated:** August 08, 2026 at 14:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-13h ago
+14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 5h ago
 
 ---
 
@@ -65,13 +65,13 @@ TikTok owner training a model with 10 trillion parameters.
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-23h ago
+1d ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 2h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Physical therapy clinics run on thin margins. I see it every day. So when I hear
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 18h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 19h ago
 
 ---
 
@@ -119,41 +119,49 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 ## Google News: "ai"
 
+**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
+
+WSJ • 21h ago
+
+---
+
 **[Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)**
 
 AI coding tools deli
 
-Databricks • 20h ago
+Databricks • 21h ago
 
 ---
 
-**[‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)**
+**[Here’s how we played the massive rebound in AI stocks this week](https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html)**
 
-Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
+AI stocks roared back to help lift two of the major averages to fresh records.
 
-The Guardian • 5h ago
-
----
-
-**[How AI Is Propelling a Surge in American Imports](https://www.bloomberg.com/news/newsletters/2026-08-08/how-ai-is-triggering-a-surge-in-american-imports-new-economy)**
-
-Bloomberg.com • 3h ago
+CNBC • 24m ago
 
 ---
 
-**[AI is booming on the West Coast. So why is unemployment so high there?](https://edition.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+**[BBB warns of fake AI influencers and undisclosed paid endorsements on social media](https://komonews.com/news/local/better-business-bureau-surge-in-influencers-fake-ai-creators-not-clear-if-being-paid-to-endorse-products-social-media-scam-influencer-marketing)**
 
-A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
+A convincing product pitch on social media can look and sound like trustworthy advice, but the Better Business Bureau (BBB) warns that some influencers are help
 
-CNN • 3h ago
+KOMO • 28m ago
 
 ---
 
-**[China’s new AI bottleneck isn’t chips. It’s running out of Chinese-language training data.](https://thenextweb.com/news/china-chinese-language-ai-training-data-shortage)**
+**[‘Stop the slop’ efforts gain traction as platforms draw lines around AI content](https://www.nbcnews.com/tech/tech-news/ai-slop-linkedin-snap-efforts-rein-in-technology-rcna590817)**
 
-Chinese accounts for just 1.3% of global web content. Beijing is now treating data as strategic infrastructure, with a 2028 plan to build national AI datasets.
+LinkedIn, Snap and other platforms are revving up efforts to rein in low-quality AI content without banning the technology entirely.
 
-thenextweb.com • 2h ago
+NBC News • 1h ago
+
+---
+
+**[A pillar of environmental enforcement is targeted by Trump and Musk's AI company](https://www.wral.com/news/ap/a46d8-a-pillar-of-environmental-enforcement-is-targeted-by-trump-and-musks-ai-company/)**
+
+WASHINGTON (AP) — Right-leaning legal activists along with Elon Musk ’s artificial intelligence company have brought sweeping challenges against a cornerstone of legal enforcement in the United States: the right of private groups, people and local governments to sue over violations of many major ...
+
+WRAL • 1h ago
 
 ---
 
@@ -161,19 +169,21 @@ thenextweb.com • 2h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 12h ago
+Fox Business • 13h ago
 
 ---
 
-**[Suspected AI use is the entertainment industry's scarlet letter](https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade)**
+**[Elon Musk on jobs that will soon become redundant and the ones that are likely to survive in the age of A](https://timesofindia.indiatimes.com/etimes/work-career/elon-musk-on-jobs-that-will-soon-become-redundant-and-the-jobs-that-are-likely-to-survive-in-the-age-of-ai/articleshow/133051537.cms)**
 
-Axios • 3h ago
+View this post on Instagram A post shared by AI | Technology | Innovation (@meteoric.ai)
+
+The Times of India • 2h ago
 
 ---
 
-**[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
+**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
 
-WSJ • 15h ago
+The New York Times • 1d ago
 
 ---
 
@@ -182,12 +192,6 @@ WSJ • 15h ago
 Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.
 
 BBC • 1d ago
-
----
-
-**[This A.I. Just Created Viruses Not Found in Nature](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -235,7 +239,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 AI coding tools deli
 
-⬆️ 267 • 💬 227 • 19h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 267 • 💬 227 • 20h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -281,33 +285,13 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 ## YouTube Videos: "ai"
 
-**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
-
-Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
-
-📺 TechLead
-
-👁️ 50K • 👍 1K • 💬 238 • ⏱️ 8:21 • 21h ago
-
----
-
-**[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
-
-"One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
-
-📺 Brief But Spectacular
-
-👁️ 75K • 👍 3K • 💬 350 • ⏱️ 3:48 • 2d ago
-
----
-
 **[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
 
 Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
 
 📺 CNN
 
-👁️ 32K • 👍 478 • 💬 359 • ⏱️ 9:52 • 1d ago
+👁️ 33K • 👍 496 • 💬 362 • ⏱️ 9:52 • 1d ago
 
 ---
 
@@ -315,17 +299,27 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Bugs
 
-👁️ 152K • 👍 12K • 💬 561 • ⏱️ 0:34 • 21h ago
+👁️ 158K • 👍 13K • 💬 588 • ⏱️ 0:34 • 22h ago
 
 ---
 
-**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
+**[YouTube Killed 130,000 AI Slop Channels... But Made a Mistake](https://www.youtube.com/watch?v=0-HBPwb3eLo)**
 
-Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
+GET vidIQ AND GROW YOUR CHANNEL https://www.vidIQ.com/start YouTube is purging thousands of AI-generated channels, ...
 
-📺 AI Explained
+📺 vidIQ
 
-👁️ 70K • 👍 3K • 💬 617 • ⏱️ 31:43 • 1d ago
+👁️ 36K • 👍 1K • 💬 551 • ⏱️ 8:28 • 2d ago
+
+---
+
+**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
+
+(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
+
+📺 All-In Podcast
+
+👁️ 124K • 👍 3K • 💬 290 • ⏱️ 1:15:18 • 12h ago
 
 ---
 
@@ -335,17 +329,7 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 177K • 👍 5K • 💬 412 • ⏱️ 0:51 • 1d ago
-
----
-
-**[why AI companies are shredding books](https://www.youtube.com/watch?v=SMy46xA2dJE)**
-
-why AI companies are secretly shredding rare books.
-
-📺 Morning Brew
-
-👁️ 194K • 👍 14K • 💬 503 • ⏱️ 1:36 • 22h ago
+👁️ 180K • 👍 5K • 💬 420 • ⏱️ 0:51 • 1d ago
 
 ---
 
@@ -355,7 +339,25 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 758K • 👍 43K • 💬 477 • ⏱️ 0:52 • 20h ago
+👁️ 823K • 👍 46K • 💬 492 • ⏱️ 0:52 • 21h ago
+
+---
+
+**[Generative AI won’t survive until 2030 | Paris Marx](https://www.youtube.com/watch?v=01q1zb8rO2w)**
+
+I think we're in this moment where those promises are starting to kind of erode.” Tech journalist and author of Hyperscale Paris ...
+
+📺 The Tech Report
+
+👁️ 116K • 👍 3K • 💬 1K • ⏱️ 33:06 • 2d ago
+
+---
+
+**[When AI becomes more expensive than people](https://www.youtube.com/watch?v=3JHfFMcAnO0)**
+
+📺 Christian Maldonado
+
+👁️ 126K • 👍 8K • 💬 126 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -365,15 +367,17 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 ABC News
 
-👁️ 7K • 👍 86 • 💬 59 • ⏱️ 3:15 • 1d ago
+👁️ 7K • 👍 87 • 💬 60 • ⏱️ 3:15 • 1d ago
 
 ---
 
-**[When AI becomes more expensive than people](https://www.youtube.com/watch?v=3JHfFMcAnO0)**
+**[why AI companies are shredding books](https://www.youtube.com/watch?v=SMy46xA2dJE)**
 
-📺 Christian Maldonado
+why AI companies are secretly shredding rare books.
 
-👁️ 120K • 👍 7K • 💬 116 • ⏱️ 1:03 • 1d ago
+📺 Morning Brew
+
+👁️ 217K • 👍 17K • 💬 551 • ⏱️ 1:36 • 23h ago
 
 ---
 
@@ -389,7 +393,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 26,693 • ❤️ 3,032 • 1d ago
+⬇️ 26,693 • ❤️ 3,049 • 1d ago
 
 ---
 
@@ -401,7 +405,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,801 • 7d ago
+⬇️ 785,771 • ❤️ 2,813 • 7d ago
 
 ---
 
@@ -411,7 +415,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 977 • 2d ago
+⬇️ 3,943,176 • ❤️ 985 • 2d ago
 
 ---
 
@@ -423,19 +427,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,388,105 • ❤️ 10,310 • 11d ago
-
----
-
-**[Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)**
-
-*David Belton*
-
-Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that excels in reasoning and problem-solving, achieving over 700 ARC-C scores in 4-bit and 8-bit quantization. It's optimized for consumer hardware and supports image-text-to-text tasks, making it suitable for diverse applications including coding and creative writing.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 2,345,190 • ❤️ 1,735 • 11h ago
+⬇️ 1,388,105 • ❤️ 10,318 • 11d ago
 
 ---
 
@@ -447,7 +439,19 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 448 • 14h ago
+⬇️ 0 • ❤️ 459 • 15h ago
+
+---
+
+**[Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)**
+
+*David Belton*
+
+Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that excels in reasoning and problem-solving, achieving over 700 ARC-C scores in 4-bit and 8-bit quantization. It's optimized for consumer hardware and supports image-text-to-text tasks, making it suitable for diverse applications including coding and creative writing.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 2,345,190 • ❤️ 1,740 • 12h ago
 
 ---
 
@@ -459,7 +463,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 81,522 • ❤️ 397 • 1d ago
+⬇️ 81,522 • ❤️ 406 • 1d ago
 
 ---
 
@@ -471,7 +475,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 393 • 2d ago
+⬇️ 0 • ❤️ 396 • 2d ago
 
 ---
 
@@ -483,7 +487,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 175,093 • ❤️ 597 • 1d ago
+⬇️ 175,093 • ❤️ 601 • 1d ago
 
 ---
 
@@ -495,7 +499,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 896 • ❤️ 239 • 3d ago
+⬇️ 896 • ❤️ 244 • 3d ago
 
 ---
 
@@ -539,7 +543,7 @@ Real-time video editing requires low-latency causal generation with bounded comp
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 484 • 💬 10 • ⭐ 8,192 • 12d ago
+▲ 484 • 💬 10 • ⭐ 8,227 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -644,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 820 • 5h ago
+⭐ 7.7k • 🔱 829 • 6h ago
 
 ---
 
@@ -654,7 +658,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.1k • 🔱 361 • 20h ago
+⭐ 4.1k • 🔱 363 • 21h ago
 
 ---
 
@@ -662,7 +666,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 3h ago
+⭐ 3.8k • 🔱 487 • 4h ago
 
 ---
 
@@ -672,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -682,7 +686,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 386 • 10h ago
+⭐ 2.2k • 🔱 387 • 10h ago
 
 ---
 
@@ -692,7 +696,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 161 • 5d ago
+⭐ 2.1k • 🔱 162 • 5d ago
 
 ---
 
@@ -706,6 +710,16 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 ---
 
+**[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)**
+
+让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+
+`Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
+
+⭐ 2.0k • 🔱 171 • 3d ago
+
+---
+
 **[penecho/penecho](https://github.com/penecho/penecho)**
 
 Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
@@ -716,23 +730,13 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 ---
 
-**[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)**
-
-让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-`Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
-
-⭐ 1.9k • 🔱 170 • 3d ago
-
----
-
 **[makecindy/cindy](https://github.com/makecindy/cindy)**
 
 Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 2h ago
+⭐ 1.9k • 🔱 243 • 10m ago
 
 ---
 

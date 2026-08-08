@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T13:47:00.688579+00:00'
+updated: '2026-08-08T14:31:53.091975+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 13:47 UTC  
+**Last Updated:** August 08, 2026 at 14:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.58B
+**Market Cap:** $231.91B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.1%
 
 **All-Time Low:** $0.43
-+443106.3%
++443716.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 1d ago
 
 ---
 
@@ -152,14 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
-
-Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
-
-Yahoo Finance • 4h ago
-
----
-
 **[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
@@ -168,11 +160,25 @@ The Block • 18h ago
 
 ---
 
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
+
+CCN.com • 5h ago
+
+---
+
 **[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 21h ago
+TradingView • 22h ago
+
+---
+
+**[Bitcoin, Ethereum Gain; XRP, Dogecoin Slide Amid Crypto Act Standoff: Analyst Spots BTC Bottom Signal That Preceded 740% Rally Before](https://www.tradingview.com/news/benzinga:49416927b094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-amid-crypto-act-standoff-analyst-spots-btc-bottom-signal-that-preceded-740-rally-before/)**
+
+Leading cryptocurrencies inched higher on Wednesday amid a renewed Senate push to pass the CLARITY Act before the recess.‘Extreme Fear’ ReturnsBitcoin staged a late-afternoon rally but fell short of the $65,000 mark as trading activity stayed subdued. Ethereum posted a stronger advance, climbing to…
+
+TradingView • 2d ago
 
 ---
 
@@ -184,25 +190,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoi, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
+**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 18h ago
-
----
-
-**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
-
-XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
-
-24/7 Wall St. • 2d ago
+Benzinga • 19h ago
 
 ---
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 16h ago
+thestreet.com • 17h ago
 
 ---
 
@@ -210,13 +208,7 @@ thestreet.com • 16h ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 17h ago
-
----
-
-**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
-
-FXStreet • 1d ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -225,6 +217,12 @@ FXStreet • 1d ago
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
 AMBCrypto • 1d ago
+
+---
+
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 50 • 💬 17 • ⏱️ 3:33 • 1d ago
+👁️ 3K • 👍 52 • 💬 17 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -248,7 +246,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 172 • 💬 23 • ⏱️ 1:06:58 • 1d ago
+👁️ 5K • 👍 185 • 💬 27 • ⏱️ 1:06:58 • 1d ago
+
+---
+
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 18K • 👍 2K • 💬 280 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -258,7 +266,17 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 17h ago
+👁️ 4K • 👍 217 • 💬 103 • ⏱️ 21:05 • 18h ago
+
+---
+
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
+
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
+
+📺 Investing Made Simple
+
+👁️ 9K • 👍 524 • ⏱️ 9:52 • 2d ago
 
 ---
 
@@ -268,7 +286,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 137 • 💬 91 • ⏱️ 51:35 • 1d ago
+👁️ 5K • 👍 141 • 💬 92 • ⏱️ 51:35 • 1d ago
 
 ---
 
@@ -278,17 +296,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 21h ago
-
----
-
-**[BITCOIN TO $72K! | Bitcoin &amp; Ethereum Price Analysis Today](https://www.youtube.com/watch?v=2s2cHx2mmeQ)**
-
-Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #CryptoUpdate #CryptoTrading In this video, ...
-
-📺 Chart Analysis
-
-👁️ 203 • 💬 18 • ⏱️ 12:53 • 6h ago
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 22h ago
 
 ---
 
@@ -298,7 +306,17 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 12K • 👍 655 • 💬 195 • ⏱️ 14:40 • 1d ago
+👁️ 12K • 👍 656 • 💬 195 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[BITCOIN TO $72K! | Bitcoin &amp; Ethereum Price Analysis Today](https://www.youtube.com/watch?v=2s2cHx2mmeQ)**
+
+Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #CryptoUpdate #CryptoTrading In this video, ...
+
+📺 Chart Analysis
+
+👁️ 304 • 💬 18 • ⏱️ 12:53 • 6h ago
 
 ---
 
@@ -308,27 +326,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 221 • 💬 7 • ⏱️ 7:25 • 1d ago
-
----
-
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
-
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
-
-📺 DukascopyTV English
-
-👁️ 1K • 👍 2 • ⏱️ 0:57 • 1d ago
-
----
-
-**[ETHEREUM: Incredibly Bullish on the Macro | Elliott Wave Theory Technical Analysis](https://www.youtube.com/watch?v=eVDV-fniXHQ)**
-
-Eth is the second-largest crypto by market cap, and often sets the tone for market trends for altcoins. The Elliott Wave Theory is ...
-
-📺 XForceGlobal
-
-👁️ 2K • 👍 103 • 💬 30 • ⏱️ 13:23 • 2d ago
+👁️ 4K • 👍 224 • 💬 7 • ⏱️ 7:25 • 1d ago
 
 ---
 

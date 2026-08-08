@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T13:47:00.691949+00:00'
+updated: '2026-08-08T14:31:53.095280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 13:47 UTC  
+**Last Updated:** August 08, 2026 at 14:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ I wanna a show my first working 4wheeled urdf model that i have designed in free
 
 https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba98acb9452175d90466e84d51e846903d2632 My eccentric cam for my 20:1 reduction cycloidal driver is 40mm thick while I was hoping for less like 20mm thick. All the empty spots you see which is 4 is where the bearings are supposed to go. I don't know how I can make the eccentric cam smaller without using smaller bearings that are like 3mm thick but if I do that won't it not be able to handle high torques of like 100Nm of torque or should I try doing that. I don't think using small bearings is good idea as I searched it up and google gemini said "no its a horrible idea." Lowkey I dont even know what eccentric cam even does I am mostly following a tutorial and I don't know if there may be another mechanism that is way thinner. Thanks.
 
-5h ago
+6h ago
 
 ---
 
@@ -108,7 +108,7 @@ https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba9
 
 As the titles says, I would like to know your experience with new Nvidia models, both world action models and VLAs, like Cosmos3, DreamZero, Groot, etc. And how they compare with the good old fine-tuned Pi05 that I am currently using in my daily life in the lab. I haven't tried any of those Nvidia models yet and before getting my hand on them I'd like a honest feedback from someone that have a direct experience with them both in Sim and in real world experiments.
 
-13h ago
+14h ago
 
 ---
 
@@ -116,29 +116,31 @@ As the titles says, I would like to know your experience with new Nvidia models,
 
 ## Google News: "robotics"
 
+**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
+
+On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
+
+The Information • 1d ago
+
+---
+
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
+**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
-
-The Information • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
+**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
 
-Tech Xplore • 3d ago
+Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
 
----
-
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
-
-USNI News • 1d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -158,33 +160,31 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+
+USNI News • 1d ago
+
+---
+
 **[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
 
 This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
 
-IEEE Spectrum • 21h ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[GrayMatter Robotics CEO: The FCC was right to ban Chinese robots. But protection alone won't win the robotics race](https://fortune.com/2026/08/08/why-did-fcc-ban-chinese-robots/)**
+**[Air Force uses robotics to create part for damaged C-17](https://www.stripes.com/branches/air_force/2026-08-08/air-force-robotics-replacement-part-c-17-22486166.html)**
 
-Robotics is no longer simply another technology market.
+When Boeing couldn’t provide a replacement part for a storm-damaged C-17 Globemaster III, the Air Force turned to its own robots to make a new one.
 
-fortune.com • 4h ago
+stripes.com • 17h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 16h ago
-
----
-
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
-
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
-
-TechCrunch • 2d ago
+WSJ • 17h ago
 
 ---
 
@@ -196,7 +196,17 @@ TechCrunch • 2d ago
 
 📺 Tyrecordslol
 
-👁️ 2.1M • 👍 98K • 💬 6K • ⏱️ 0:58 • 1d ago
+👁️ 2.1M • 👍 101K • 💬 6K • ⏱️ 0:58 • 1d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 48K • 👍 752 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -210,13 +220,23 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 ---
 
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+
+📺 NBC News
+
+👁️ 33K • 👍 348 • 💬 402 • ⏱️ 1:36 • 3d ago
+
+---
+
 **[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
 
 Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
 
 📺 KCRA 3
 
-👁️ 32K • 👍 351 • 💬 237 • ⏱️ 1:03 • 6d ago
+👁️ 32K • 👍 355 • 💬 239 • ⏱️ 1:03 • 6d ago
 
 ---
 
@@ -226,17 +246,7 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 12K • 👍 90 • 💬 30 • ⏱️ 6:44 • 2d ago
-
----
-
-**[How This Chip Makes Tesla Robots Unstoppable #AI #Tesla #robotics](https://www.youtube.com/watch?v=WLoEbpi6ufQ)**
-
-Discover the revolutionary chip that makes Tesla robots unstoppable, leveraging the power of machine learning to create a ...
-
-📺 Unsealed Universe
-
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:44 • 22h ago
+👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -246,17 +256,7 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 43K • 👍 832 • 💬 80 • ⏱️ 12:38 • 4d ago
-
----
-
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
-
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
-
-📺 Custom Adventurist
-
-👁️ 25K • 👍 2K • 💬 125 • ⏱️ 1:02 • 1d ago
+👁️ 47K • 👍 870 • 💬 91 • ⏱️ 12:38 • 4d ago
 
 ---
 
@@ -266,7 +266,17 @@ From robotic beach landings to AI-powered "Terminator" drones, what was once the
 
 📺 NBC News
 
-👁️ 75K • 👍 614 • 💬 136 • ⏱️ 4:18 • 4d ago
+👁️ 75K • 👍 615 • 💬 136 • ⏱️ 4:18 • 4d ago
+
+---
+
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+
+📺 Custom Adventurist
+
+👁️ 26K • 👍 2K • 💬 128 • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -276,17 +286,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 49K • 👍 3K • 💬 468 • ⏱️ 26:40 • 3d ago
-
----
-
-**[Popular Girl Only Has ROBOT FRIENDS | Dhar Mann Studios](https://www.youtube.com/watch?v=GonfnLQqW98)**
-
-Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next series YOU want us to create: ...
-
-📺 Dhar Mann Studios
-
-👁️ 531K • 👍 11K • 💬 1K • ⏱️ 24:28 • 13h ago
+👁️ 49K • 👍 3K • 💬 469 • ⏱️ 26:40 • 3d ago
 
 ---
 
