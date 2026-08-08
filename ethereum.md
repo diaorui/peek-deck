@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T03:26:04.191169+00:00'
+updated: '2026-08-08T04:35:19.904060+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 03:26 UTC  
+**Last Updated:** August 08, 2026 at 04:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +1.7%  
-**30d:** +6.5%  
-**90d:** -18.2%  
+**24h:** +0.8%  
+**7d:** +1.8%  
+**30d:** +6.7%  
+**90d:** -18.1%  
 **1y:** -55.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.96B
+**Market Cap:** $231.26B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+441903.0%
++442478.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 14h ago
 
 ---
 
@@ -150,11 +150,11 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
 
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 14h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-tradingview.com • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ tradingview.com • 11h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -182,11 +182,19 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 ---
 
+**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 19h ago
+
+---
+
 **[Ethereum: EIP-8361 targets inflation, yet 99.7% signal ‘No’ – Why?](https://ambcrypto.com/ethereum-eip-8361-targets-inflation-yet-99-7-signal-no-why/)**
 
 Ethereum Foundation is now under fire for the infamous proposal
 
-AMBCrypto • 4h ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -194,7 +202,7 @@ AMBCrypto • 4h ago
 
 Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -203,14 +211,6 @@ FXStreet • 23h ago
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
 ethereum.org • 2d ago
-
----
-
-**[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
 
 ---
 
@@ -240,17 +240,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 48 • 💬 4 • ⏱️ 3:33 • 1d ago
-
----
-
-**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
-
-📺 Bankless
-
-👁️ 4K • 👍 148 • 💬 21 • ⏱️ 1:06:58 • 16h ago
+👁️ 3K • 👍 49 • 💬 4 • ⏱️ 3:33 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 149 • 💬 12 • ⏱️ 21:05 • 7h ago
+👁️ 3K • 👍 177 • 💬 64 • ⏱️ 21:05 • 8h ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 134 • 💬 91 • ⏱️ 51:35 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 1K • 👍 68 • 💬 4 • ⏱️ 1:08 • 11h ago
+👁️ 2K • 👍 78 • 💬 4 • ⏱️ 1:08 • 12h ago
 
 ---
 
@@ -284,33 +284,23 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 ---
 
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 653 • 💬 194 • ⏱️ 14:40 • 1d ago
+
+---
+
 **[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
 
 In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 212 • 💬 7 • ⏱️ 7:25 • 1d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 132 • 💬 91 • ⏱️ 51:35 • 1d ago
-
----
-
-**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
-
-Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
-
-📺 DukascopyTV English
-
-👁️ 1K • 👍 2 • ⏱️ 0:57 • 16h ago
+👁️ 4K • 👍 213 • 💬 7 • ⏱️ 7:25 • 1d ago
 
 ---
 
@@ -320,17 +310,27 @@ BTC closed red on Thursday, down 0.53%, but held above short-term overhead resis
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 6K • 👍 456 • 💬 47 • ⏱️ 43:51 • 1d ago
+👁️ 7K • 👍 463 • 💬 47 • ⏱️ 43:51 • 1d ago
 
 ---
 
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+**[Ethereum Fixed Its Problems—So Why Is ETH Still Down?](https://www.youtube.com/watch?v=M4uqVZ2tjic)**
 
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+Ethereum made transactions cheaper, improved efficiency and attracted institutional investors through ETFs. So why is ETH still ...
 
-📺 Crypto Capital Venture
+📺 DukascopyTV English
 
-👁️ 12K • 👍 651 • 💬 194 • ⏱️ 14:40 • 1d ago
+👁️ 1K • 👍 2 • ⏱️ 0:57 • 17h ago
+
+---
+
+**[is crypto finally out of the woods? (HEX Bitcoin PulseChain Ethereum)](https://www.youtube.com/watch?v=rfItjf6J8Bk)**
+
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
+
+📺 Crypto Coffee
+
+👁️ 2K • 👍 192 • ⏱️ 1:03:33 • 18h ago
 
 ---
 

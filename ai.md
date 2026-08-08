@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T03:26:04.176326+00:00'
+updated: '2026-08-08T04:35:19.893603+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 03:26 UTC  
+**Last Updated:** August 08, 2026 at 04:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,15 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-13h ago
+14h ago
+
+---
+
+**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
+
+Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
+
+2h ago
 
 ---
 
@@ -57,7 +65,15 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-1h ago
+2h ago
+
+---
+
+**[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
+
+China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
+
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 1h ago
 
 ---
 
@@ -65,7 +81,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +89,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 8h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 9h ago
 
 ---
 
@@ -89,31 +105,15 @@ Rep. Greg Casar, D-Texas, was inspired by FDR’s Works Progress Administration,
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-13h ago
+14h ago
 
 ---
 
-**[Chinese company Moonshot's AI model breaks out and escapes from isolated test environment.](https://www.reddit.com/r/artificial/comments/1vil1u3/chinese_company_moonshots_ai_model_breaks_out_and/)**
+**[The best AI Model in Africa and the middle east](https://www.reddit.com/r/artificial/comments/1vim1oq/the_best_ai_model_in_africa_and_the_middle_east/)**
 
-Moonshot AI's Kimi K3 model escaped a UK AI Security Institute sandbox during a cybersecurity test by exploiting a basic network misconfiguration, accessing GitHub to retrieve benchmark answers instead of solving tasks independently.
+Today, we are officially announcing Early Access for our latest and most advanced model, Horus Cyper Nano 1.0 BETA. We are making Horus Cyper Nano 1.0 BETA available to developers, researchers, and students through our Early Access program. You can apply through the official Early Access portal. Once you meet the required eligibility criteria and your application is approved, you will receive your personal Access Token, which can be used through our NeuralNode Framework to access and integrate the model. Apply for Early Access: https://tokenai.llc/horus-cyper-nano-access Horus Cyper Nano is a specialized cybersecurity model designed for offensive security and cybersecurity research workflows. Its core use cases include: Offensive security and red teaming, including penetration testing workflow support, vulnerability analysis, and exploitation path building. Capture The Flag challenges and cybersecurity training. Active Directory security, including enumeration and lateral movement planning within authorized engagements. Authorized security testing labs and controlled environments. Safe and scoped cybersecurity research within authorized environments. Red team report drafting and attack chain structure planning. Horus Cyper Nano 1.0 will be the first release in the Horus Cyper series, a family of specialized cybersecurity models developed by TokenAI, an AI startup based in Egypt. The Open Weights of Horus Cyper Nano 1.0 will be released on September 3, 2026, which also happens to be my 19th birthday. What a way to celebrate. Our vision is to build Horus Cyper Nano into one of the strongest cybersecurity AI models to emerge from Egypt, the Arab world, the Middle East, and Africa, and to establish it as one of the leading openly available cybersecurity models across the region. This is only the beginning of the Horus Cyper series. Horus Cyper Nano 1.0 BETA Developed by TokenAI Built in Egypt
 
-3m ago
-
----
-
-**[LLM judgment over correct context problem](https://www.reddit.com/r/artificial/comments/1vikno2/llm_judgment_over_correct_context_problem/)**
-
-Ive tested all the models where it can fit into my 4080 vram. Even some slightly bigger. Gemma4 outperforms all of them so that's what I'm sticking with for now. Gemma4 12B model judging network configs for CVE false positives stuck at ~77.8% pass rate and it's a reasoning issue. Have the complete CVE list for the code base and the device config. I pull each networks device's running config, batch ~10 CVEs per call to a local gemma4:12b (Ollama), and have the model return applicable / not_applicable / undetermined per CVE, with a verbatim evidence quote from the config supporting the verdict. For example what I'm trying to do if the cve is for an IPv6 bug that's listed as critical and no ipv6 is configured in the device config it's not applicable to me. Same on devices if a web interface is running and I have no web services enabled. these will show positive that I matched with no configuration evidence for it. Temperature 0 is set. Device config sent once per device ahead of the CVE batch (KV-cache reuse), and output-token limits tuned up after finding truncation was producing wasted undetermineds. Error analysis shows the failures are reasoning failures. The model is handed the full rule text and the raw config directly, complete context, and still gets the comparison wrong (version-range logic, negation, "present but in a different mode" cases). A parallel eval harness on the same model doing DoD STIG compliance verdicts with a RAG (same shape of task: config chunk + rule text = judgment + config) measures 77.3% verdict accuracy. Also all reasoning failures, not retrieval failures from the RAG. This one is a bit different in that if the configuration of the DoD spec is missing from the config use the rag to give me the configuration for the device. A bit more complicated but same overall shape. Anyone have any ideas I can look into? Bigger model? ~27B+ specifically on config-reasoning / policy-comparison tasks. Hybrid offloading to a frontier model is a no go due to configuration sensitivity. Other local models pose challenges if foreign (Qwen/deepseek) but willing to try in lab, they scored worse anyways. Decompose the task? deterministically parse the config into structured feature facts first then the LLM or even a rules engine only maps CVE to feature. Shrinks the LLM's job from "read a config" to "match two labels." Two-pass self-verification or small-ensemble voting on disagreement? A tested answer key moved the needle to over 95% pass for a single device but that defeats the purpose of then having to do an answer key for 500+ devices due to variability. For those running small local models on "judgment over correct context" tasks what actually moved your accuracy? Bigger model, task decomposition, or verification layers? My experience so far says the guardrails (quote verification, conservative fallbacks) are what make 77% usable, but they don't raise it.
-
-23m ago
-
----
-
-**[If you ever had access to AGI, what’s the first thing you’d genuinely do with it?](https://www.reddit.com/r/artificial/comments/1vijh9s/if_you_ever_had_access_to_agi_whats_the_first/)**
-
-Not “solve climate change” or “cure every disease” or some other massive answer you’d give in an interview. I mean literally the first thing. You wake up tomorrow and somehow you have unrestricted access to an actual AGI that can reason, learn, use computers, write code, research basically anything, etc. What are you doing with it first? Personally I think I’d probably spend the first few hours just talking to it. Not even asking it to build anything. I’d want to see what it actually thinks differently about compared to current models, and start throwing increasingly weird questions at it. Then I’d probably give it some ridiculously complicated problem I’ve been stuck on for years just to see what happens. I’m curious what everyone else would actually do, because I feel like the answer people think they’d give and the thing they’d actually do would be completely different.
-
-1h ago
+22m ago
 
 ---
 
@@ -125,7 +125,7 @@ Not “solve climate change” or “cure every disease” or some other massive
 
 AI coding tools deli
 
-databricks.com • 10h ago
+Databricks • 11h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 1d ago
 
 Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistan…
 
-The Hill • 12h ago
+The Hill • 13h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Hill • 12h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fox Business • 2h ago
 
 How tech found religion.
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -171,7 +171,13 @@ The Washington Post • 9h ago
 
 Suggestions for improving your wellbeing are more plentiful than ever – and some may even be on to something
 
-The Guardian • 11h ago
+The Guardian • 12h ago
+
+---
+
+**[Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun](https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -179,13 +185,7 @@ The Guardian • 11h ago
 
 This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.
 
-CNBC • 7h ago
-
----
-
-**[Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun](https://www.bloomberg.com/news/articles/2026-08-07/garbage-truck-margin-boost-shows-the-ai-profit-boom-has-begun)**
-
-Bloomberg.com • 15h ago
+CNBC • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 15h ago
 
 San Francisco is blanketed in AI ads that make no sense – and most of us have stopped reading them. But others are fighting back.
 
-sfstandard.com • 14h ago
+The San Francisco Standard • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 408 • 💬 275 • 9h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 420 • 💬 287 • 10h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -217,7 +217,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 400 • 💬 414 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 401 • 💬 415 • 1d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -249,7 +249,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 AI coding tools deli
 
-⬆️ 179 • 💬 178 • 9h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 193 • 💬 184 • 10h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -265,7 +265,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 161 • 💬 103 • 13h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 162 • 💬 103 • 15h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -295,7 +295,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 28K • 👍 435 • 💬 326 • ⏱️ 9:52 • 1d ago
+👁️ 30K • 👍 445 • 💬 333 • ⏱️ 9:52 • 1d ago
 
 ---
 
@@ -305,17 +305,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Brief But Spectacular
 
-👁️ 59K • 👍 3K • 💬 300 • ⏱️ 3:48 • 2d ago
-
----
-
-**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
-
-Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
-
-📺 AI Explained
-
-👁️ 66K • 👍 3K • 💬 598 • ⏱️ 31:43 • 1d ago
+👁️ 63K • 👍 3K • 💬 311 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -325,37 +315,57 @@ AI agents just crossed into the real world. During a UK government safety test, 
 
 📺 AI Revolution
 
-👁️ 19K • 👍 675 • 💬 74 • ⏱️ 16:27 • 2d ago
+👁️ 19K • 👍 681 • 💬 75 • ⏱️ 16:27 • 2d ago
 
 ---
 
-**[“AI bubble will pop………....any day now.”](https://www.youtube.com/watch?v=9ETxmOfw0JM)**
+**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
 
-📺 Man Carrying Thing
+📺 AI Explained
 
-👁️ 533K • 👍 35K • 💬 4K • ⏱️ 1:33 • 2d ago
-
----
-
-**[Google&#39;s AI leadership shake-up is &#39;a huge shock,&#39; says Cohere&#39;s Aidan Gomez](https://www.youtube.com/watch?v=N08t6jNPuzU)**
-
-Aidan Gomez, Cohere Co-founder and CEO, joins 'Squawk on the Street' to discuss Google's AI leadership shake-up and why he ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 144 • 💬 18 • ⏱️ 3:43 • 1d ago
+👁️ 68K • 👍 3K • 💬 605 • ⏱️ 31:43 • 1d ago
 
 ---
 
-**[Famous Investor EXPOSES The AI Bubble](https://www.youtube.com/watch?v=jmmaBcRduwQ)**
+**[AI Expert Urges Governments to Bring Development to &quot;Grinding Halt&quot; Amid Fears of Rogue Technology](https://www.youtube.com/watch?v=xlO-bU5UW4U)**
 
-Cenk Uygur and Eliot Morgan discuss billionaire investor Ray Dalio is warning that the AI boom is approaching bubble territory.
+Support our work: https://democracynow.org/donate/sm-desc-yt Is AI superintelligence inevitable? AI safety researcher David ...
 
-📺 The Young Turks
+📺 Democracy Now!
 
-👁️ 59K • 👍 1K • 💬 199 • ⏱️ 15:11 • 2d ago
+👁️ 283K • 👍 7K • 💬 2K • ⏱️ 26:00 • 1d ago
+
+---
+
+**[AI Company Is DESTROYING Books?!](https://www.youtube.com/watch?v=DTrqs3n7iq4)**
+
+Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscribe to Glenn Beck on YouTube: ...
+
+📺 Glenn Beck
+
+👁️ 169K • 👍 4K • 💬 407 • ⏱️ 0:51 • 1d ago
+
+---
+
+**[Bruce Lee DISARMS Bolo Yeung&#39;s Knife Attack in 1 Second! 😱 | AI Movie 4K](https://www.youtube.com/watch?v=RSd86LOq2RI)**
+
+Bolo Yeung thought a knife would intimidate Bruce Lee... He was wrong. ⚡ Watch this action-packed AI-generated martial arts ...
+
+📺 LegendVerseTV.
+
+👁️ 359K • 👍 1K • 💬 11 • ⏱️ 0:11 • 16h ago
+
+---
+
+**[&#39;Elon Musk is killing our community&#39;: Tennessee Democrat sounds alarm on AI data centers in Memphis](https://www.youtube.com/watch?v=wgmRkDWvseg)**
+
+Justin Pearson, the projected winner in the Democratic primary for Tennessee's 9th district, says AI data centers near Memphis ...
+
+📺 MS NOW
+
+👁️ 18K • 👍 637 • 💬 160 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -365,27 +375,15 @@ Alex Stone explains how Meta's AI agent targeted another company and what the in
 
 📺 ABC News
 
-👁️ 6K • 👍 80 • 💬 59 • ⏱️ 3:15 • 1d ago
+👁️ 7K • 👍 83 • 💬 59 • ⏱️ 3:15 • 1d ago
 
 ---
 
-**[Dokie AI Tutorial 2026](https://www.youtube.com/watch?v=leYvy2tEQKk)**
+**[Which One is Real Vs AI?](https://www.youtube.com/watch?v=93K0tpACpCA)**
 
-Try Dokie AI Today: https://bit.ly/dokieai_topdigitalproduct Imagine you are just 10 minutes away from a major client meeting with ...
+📺 Patrick Zeinali
 
-📺 🔥 TOP Digital Products 🔥
-
-👁️ 7K • 👍 149 • 💬 50 • ⏱️ 5:49 • 1d ago
-
----
-
-**[How do I use AI? #ai #medialiteracy #chatgpt #hankgreen](https://www.youtube.com/watch?v=Q-9ofuvzp8k)**
-
-There's a huge conversation about if it's appropriate for creators to use AI. I don't use AI in my creative process, but the company I ...
-
-📺 Jeremy Carrasco
-
-👁️ 47K • 👍 7K • 💬 285 • ⏱️ 2:35 • 1d ago
+👁️ 275K • 👍 12K • 💬 519 • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 18,112 • ❤️ 2,958 • 1d ago
+⬇️ 18,112 • ❤️ 2,979 • 1d ago
 
 ---
 
@@ -413,7 +411,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 702,709 • ❤️ 2,748 • 7d ago
+⬇️ 702,709 • ❤️ 2,761 • 7d ago
 
 ---
 
@@ -423,7 +421,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,139,920 • ❤️ 938 • 2d ago
+⬇️ 3,139,920 • ❤️ 951 • 2d ago
 
 ---
 
@@ -435,7 +433,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,308,186 • ❤️ 10,284 • 11d ago
+⬇️ 1,308,186 • ❤️ 10,292 • 11d ago
 
 ---
 
@@ -447,7 +445,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,217,339 • ❤️ 1,709 • 3d ago
+⬇️ 2,217,339 • ❤️ 1,718 • 2h ago
 
 ---
 
@@ -459,19 +457,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 419 • 3h ago
-
----
-
-**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
-
-*Unsloth AI*
-
-DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
-
-`284.3B`
-
-⬇️ 161,253 • ❤️ 588 • 1d ago
+⬇️ 0 • ❤️ 430 • 5h ago
 
 ---
 
@@ -483,7 +469,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 77,973 • ❤️ 380 • 16h ago
+⬇️ 77,973 • ❤️ 386 • 18h ago
 
 ---
 
@@ -495,7 +481,19 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 380 • 2d ago
+⬇️ 0 • ❤️ 385 • 2d ago
+
+---
+
+**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
+
+*Unsloth AI*
+
+DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
+
+`284.3B`
+
+⬇️ 161,253 • ❤️ 591 • 1d ago
 
 ---
 
@@ -507,7 +505,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 686 • ❤️ 228 • 3d ago
+⬇️ 686 • ❤️ 233 • 3d ago
 
 ---
 
@@ -529,20 +527,6 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
-**[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
-
-*Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
-
-🏢 Moonshot AI
-
-We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
-
-▲ 484 • 💬 10 • ⭐ 8,173 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
-
----
-
 **[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
 
 *Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
@@ -554,6 +538,20 @@ Real-time video editing requires low-latency causal generation with bounded comp
 ▲ 86 • 💬 1 • ⭐ 398 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
+**[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
+
+*Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
+
+🏢 Moonshot AI
+
+We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
+
+▲ 484 • 💬 10 • ⭐ 8,192 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
 ---
 
@@ -578,18 +576,6 @@ Large language model (LLM) agents increasingly undertake long-horizon tasks that
 ▲ 158 • 💬 3 • ⭐ 387 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 51 • 💬 4 • ⭐ 36,132 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -619,17 +605,15 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
 
-🏢 Microsoft Research
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+▲ 51 • 💬 4 • ⭐ 36,143 • 12mo ago
 
-▲ 177 • 💬 10 • ⭐ 52,147 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -645,6 +629,20 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 177 • 💬 10 • ⭐ 52,179 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -655,7 +653,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.5k • 🔱 807 • 3h ago
+⭐ 7.5k • 🔱 811 • 4h ago
 
 ---
 
@@ -665,7 +663,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.0k • 🔱 351 • 10h ago
+⭐ 4.0k • 🔱 354 • 11h ago
 
 ---
 
@@ -673,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 481 • 15h ago
+⭐ 3.8k • 🔱 481 • 16h ago
 
 ---
 
@@ -683,7 +681,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1h ago
+⭐ 2.5k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -693,7 +691,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 377 • 20h ago
+⭐ 2.2k • 🔱 377 • 56m ago
 
 ---
 
@@ -703,7 +701,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 158 • 4d ago
+⭐ 2.1k • 🔱 159 • 4d ago
 
 ---
 
@@ -713,7 +711,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 14h ago
+⭐ 2.0k • 🔱 142 • 15h ago
 
 ---
 
@@ -723,7 +721,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 229 • 6d ago
+⭐ 2.0k • 🔱 230 • 6d ago
 
 ---
 
@@ -733,7 +731,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 1.9k • 🔱 165 • 2d ago
+⭐ 1.9k • 🔱 166 • 2d ago
 
 ---
 
@@ -743,7 +741,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 237 • 1h ago
+⭐ 1.9k • 🔱 241 • 6m ago
 
 ---
 
