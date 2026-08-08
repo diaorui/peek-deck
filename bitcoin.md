@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T09:37:38.020060+00:00'
+updated: '2026-08-08T10:33:37.591009+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 09:37 UTC  
+**Last Updated:** August 08, 2026 at 10:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** -0.0%  
 **7d:** +2.3%  
 **30d:** +1.3%  
 **90d:** -20.5%  
@@ -79,13 +79,13 @@ Rank #1
 
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -96,19 +96,19 @@ Hey @Trezor, just lost my life savings. Top sponsored Google result for 'Trezor 
 The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting address is currently sitting at:
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
-🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 19h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-3h ago
+4h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 Same as title.
 
-20h ago
+21h ago
 
 ---
 
@@ -128,7 +128,7 @@ Same as title.
 
 **[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Same as title.
 
 after years of working and saving, I just started stacking this week. put in roughly $15k, split into 3 buys around $5k each cuz dumping it all in one shot felt kinda insane lool goodluck for me :D
 
-20h ago
+21h ago
 
 ---
 
@@ -154,13 +154,55 @@ after years of working and saving, I just started stacking this week. put in rou
 
 Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
 **[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
+
+Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September](https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september)**
+
+Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.
+
+CoinDesk • 1d ago
+
+---
+
+**[The Clarity Act, Bitcoin's Resilience, and the Quantum Question for COINBASE:BTCUSD by Profit_Through_Patience](https://www.tradingview.com/chart/BTCUSD/2Ga0AZV4-The-Clarity-Act-Bitcoin-s-Resilience-and-the-Quantum-Question/)**
+
+The U.S. Senate is heading into its August recess, and the Digital Asset Market Clarity Act, known as the CLARITY Act, is stuck in limbo. Senator Cynthia Lummis pushed for the Senate to stay in session and force a vote. Majority Leader John Thune said no. The procedural vote is now delayed to September, leaving only three working weeks before campaign season takes over. On Polymarket, the odds of passage sit at just 16%.
+
+But here is the part the headlines miss. The CLARITY Act matters to Wall …
+
+TradingView • 1d ago
+
+---
+
+**[The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/white-house-continues-promote-strategic-091800005.html)**
+
+Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://uk.finance.yahoo.com/news/bitcoin-rises-toward-65-000-094210739.html)**
+
+Investing.com -- Bitcoin traded just below $65,000 on Saturday, gaining slightly over the previous 24 hours, as investors assessed a critical BTCPay Server vulnerability and the risk of replay attacks from a possible BIP-110 chain split.
+
+Yahoo Finance UK • 51m ago
 
 ---
 
@@ -172,25 +214,9 @@ Fortune • 1d ago
 
 ---
 
-**['Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future](https://finance.yahoo.com/video/bitcoin-zeppelin-why-historian-says-211147648.html)**
-
-Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Data Editor Jared Blikre to explain bitcoin's (BTC-USD) historical parallels. 
-
-Moore is also the author of "How to Get Rich in American History."
-
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin rises toward a weekly gain, and bumps up against a key chart level](https://www.marketwatch.com/livecoverage/dow-s-p-500-and-nasdaq-set-for-mostly-steady-start-as-investors-wait-for-u-s-jobs-data/card/bitcoin-rises-toward-a-weekly-gain-and-bumps-up-against-a-key-chart-level-FsyoNrCTe2L6MIxxQfZ8)**
-
-MarketWatch • 15h ago
-
----
-
 **[US sanctions Dubai crypto exchange for aiding Iran’s Revolutionary Guards](https://www.timesofisrael.com/us-sanctions-dubai-crypto-exchange-for-aiding-irans-revolutionary-guards/)**
 
-The Times of Israel • 8h ago
+The Times of Israel • 9h ago
 
 ---
 
@@ -198,31 +224,7 @@ The Times of Israel • 8h ago
 
 Trump Media wants to focus on other business ventures, according to an Axios report.
 
-Bitcoin Magazine • 12h ago
-
----
-
-**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
-
-Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
-
-24/7 Wall St. • 14h ago
-
----
-
-**[Crickets in the crypto casino: Nobody is paying for bitcoin's next big move (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4628148-crickets-in-the-crypto-casino-nobody-is-paying-for-bitcoins-next-big-move)**
-
-Glassnode data show Bitcoin options traders have stopped betting on a major BTC breakout as upside volatility hits a record low—see what it means now.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC](https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc)**
-
-A Bitcoin address holding millions in BTC had stayed silent for almost 15 years. It just sent its coins out for the first time.
-
-Decrypt • 18h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -339,7 +341,7 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 📺 Natalie Brunell
 
-👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 19h ago
+👁️ 25K • 👍 2K • 💬 362 • ⏱️ 1:09:52 • 20h ago
 
 ---
 
@@ -367,7 +369,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 8h ago
+👁️ 2K • 👍 177 • 💬 8 • ⏱️ 2:26 • 9h ago
 
 ---
 

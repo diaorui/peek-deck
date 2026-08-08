@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T09:37:38.025400+00:00'
+updated: '2026-08-08T10:33:37.597270+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 09:37 UTC  
+**Last Updated:** August 08, 2026 at 10:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,913.83
+### $1,920.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +1.7%  
-**30d:** +6.5%  
-**90d:** -18.2%  
-**1y:** -55.1%  
+**24h:** +0.3%  
+**7d:** +2.0%  
+**30d:** +6.9%  
+**90d:** -17.9%  
+**1y:** -55.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 20h ago
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
 
-Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
+Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+The Block • 14h ago
 
 ---
 
@@ -164,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-tradingview.com • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -173,6 +181,14 @@ tradingview.com • 17h ago
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
 CoinDesk • 1d ago
+
+---
+
+**[Why Hasn't XRP Hit New Highs Like Bitcoin and Ethereum Despite Ripple Becoming a Top Financial Institution](https://247wallst.com/investing/cryptocurrency/2026/08/05/why-hasnt-xrp-hit-new-highs-like-bitcoin-and-ethereum-despite-ripple-becoming-a-top-financial-institution/)**
+
+XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached $126,00 and Ethereum $4,950 last year. Here's why XRP lags.
+
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -188,21 +204,13 @@ Fortune • 1d ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 14h ago
 
 ---
 
 **[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
 
-FXStreet • 22h ago
-
----
-
-**[SharpLink Opposes Ethereum Proposal to Burn a Growing Share of Validator Rewards](https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards)**
-
-SharpLink's Joseph Chalom opposes EIP-8363, a draft Ethereum proposal to burn validator rewards as staking rises, warning it would remove DeFi's base rate.
-
-The Defiant • 14h ago
+fxstreet.com • 23h ago
 
 ---
 
@@ -219,12 +227,6 @@ AMBCrypto • 1d ago
 A grant to Freedom of the Press Foundation supports the continued development of WEBCAT to help address the front-end verification gap for Ethereum wallets and apps.
 
 ethereum.org • 2d ago
-
----
-
-**[Ethereum Price Prediction: Whales Grab $76.6 Million in ETH While Pepeto Steals the 2026 Spotlight As The Best Crypto Not To Miss](https://financefeeds.com/ethereum-price-prediction-whales-grab-76-6-million-in-eth-while-pepeto-steals-the-2026-spotlight-as-the-best-crypto-not-to-miss/)**
-
-FinanceFeeds • 16h ago
 
 ---
 
@@ -258,7 +260,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 195 • 💬 91 • ⏱️ 21:05 • 13h ago
+👁️ 4K • 👍 195 • 💬 91 • ⏱️ 21:05 • 14h ago
 
 ---
 
@@ -268,7 +270,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 87 • 💬 10 • ⏱️ 1:08 • 17h ago
+👁️ 2K • 👍 87 • 💬 10 • ⏱️ 1:08 • 18h ago
 
 ---
 
@@ -318,7 +320,7 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 2 • ⏱️ 0:57 • 22h ago
+👁️ 1K • 👍 2 • ⏱️ 0:57 • 23h ago
 
 ---
 
