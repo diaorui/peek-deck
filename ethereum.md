@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-07T23:33:40.978056+00:00'
+updated: '2026-08-08T01:40:15.705817+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 07, 2026 at 23:33 UTC  
+**Last Updated:** August 08, 2026 at 01:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.6%  
-**7d:** +3.8%  
-**30d:** +9.7%  
-**90d:** -19.2%  
-**1y:** -52.2%  
+**7d:** +1.7%  
+**30d:** +6.5%  
+**90d:** -18.2%  
+**1y:** -55.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.93B
+**Market Cap:** $230.96B
 Rank #2
 
-**Circulating Supply:** 120,682,112 ETH
+**Circulating Supply:** 120,682,085 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.3%
 
 **All-Time Low:** $0.43
-+441854.5%
++441903.0%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
+
+---
+
+**[Ethereal news weekly #34 | EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet](https://www.reddit.com/r/ethereum/comments/1vi1fba/ethereal_news_weekly_34_eip8363_tapered_issuance/)**
+
+EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 11h ago
 
 ---
 
@@ -138,31 +146,15 @@ ETHSpain team is hosting its 2026 conference in Barcelona on September 17 during
 
 ---
 
-**[Daily General Discussion August 03, 2026](https://www.reddit.com/r/ethereum/comments/1ve3vfo/daily_general_discussion_august_03_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[ChainDrop npm Worm: Bun-loaded CI/CD credential harvester with Ethereum dead-drop C2](https://www.stepsecurity.io/blog/chaindrop-npm-worm)**
-
-ChainDrop npm worm: 435 packages and 1,557 versions poisoned, starting with keyv@6.0.0. Payload analysis, affected package list, IOCs, and remediation steps.
-
-Step Security • 3d ago
-
----
 
 **[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -170,7 +162,7 @@ Yahoo Finance • 10h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
@@ -178,7 +170,7 @@ TradingView • 7h ago
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 15h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -190,11 +182,19 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 ---
 
-**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
+**[Ethereum: EIP-8361 targets inflation, yet 99.7% signal ‘No’ – Why?](https://ambcrypto.com/ethereum-eip-8361-targets-inflation-yet-99-7-signal-no-why/)**
 
-Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
+Ethereum Foundation is now under fire for the infamous proposal
 
-AMBCrypto • 22h ago
+AMBCrypto • 2h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
+
+Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
+
+FXStreet • 22h ago
 
 ---
 
@@ -206,19 +206,11 @@ ethereum.org • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC under pressure, ETH trades sideways, XRP gravitates toward $1](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-under-pressure-eth-trades-sideways-xrp-gravitates-toward-1-202608070327)**
-
-Bitcoin (BTC) and Ethereum (ETH) remain under pressure on Friday after mild gains, while Ripple (XRP) slides over 5% so far this week. BTC faces rejection near a key resistance barrier, and ETH has been trading sideways for the last 22 days.
-
-FXStreet • 20h ago
-
----
-
 **[Current price of Ethereum for Aug. 7, 2026](https://fortune.com/article/price-of-ethereum-08-07-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 16h ago
 
 ---
 
@@ -227,6 +219,14 @@ Fortune • 13h ago
 The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
 The Block • 3d ago
+
+---
+
+**[Coinbase suspends six non-USD pairs to consolidate liquidity, affects Ethereum outlook](https://cryptobriefing.com/coinbase-suspends-six-non-usd-pairs-to-consolidate-liquidity-affects-ethereum/)**
+
+Coinbase suspends six non-USD pairs to improve liquidity. Ethereum reaching $10,000 by December 31, 2026 now at 1.7% YES.
+
+cryptobriefing.com • 1d ago
 
 ---
 
@@ -240,7 +240,17 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 46 • 💬 4 • ⏱️ 3:33 • 1d ago
+👁️ 3K • 👍 48 • 💬 4 • ⏱️ 3:33 • 1d ago
+
+---
+
+**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
+
+📺 Bankless
+
+👁️ 4K • 👍 148 • 💬 21 • ⏱️ 1:06:58 • 15h ago
 
 ---
 
@@ -250,7 +260,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 728 • 👍 76 • 💬 67 • ⏱️ 21:05 • 3h ago
+👁️ 2K • 👍 149 • 💬 12 • ⏱️ 21:05 • 5h ago
 
 ---
 
@@ -260,7 +270,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 888 • 👍 56 • 💬 4 • ⏱️ 1:08 • 7h ago
+👁️ 1K • 👍 68 • 💬 4 • ⏱️ 1:08 • 9h ago
 
 ---
 
@@ -270,17 +280,7 @@ Eth is the second-largest crypto by market cap, and often sets the tone for mark
 
 📺 XForceGlobal
 
-👁️ 2K • 👍 99 • 💬 30 • ⏱️ 13:23 • 2d ago
-
----
-
-**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
-
-BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 6K • 👍 449 • 💬 43 • ⏱️ 43:51 • 21h ago
+👁️ 2K • 👍 102 • 💬 30 • ⏱️ 13:23 • 2d ago
 
 ---
 
@@ -290,17 +290,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 6 • ⏱️ 7:25 • 21h ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 650 • 💬 197 • ⏱️ 14:40 • 1d ago
+👁️ 4K • 👍 212 • 💬 7 • ⏱️ 7:25 • 23h ago
 
 ---
 
@@ -310,7 +300,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 4K • 👍 126 • 💬 92 • ⏱️ 51:35 • 1d ago
+👁️ 4K • 👍 132 • 💬 91 • ⏱️ 51:35 • 1d ago
 
 ---
 
@@ -320,17 +310,27 @@ Ethereum made transactions cheaper, improved efficiency and attracted institutio
 
 📺 DukascopyTV English
 
-👁️ 1K • 👍 1 • ⏱️ 0:57 • 12h ago
+👁️ 1K • 👍 2 • ⏱️ 0:57 • 14h ago
 
 ---
 
-**[My BIGGEST Regret from Mining Ethereum](https://www.youtube.com/watch?v=4n0qjGFaSMU)**
+**[Ethereum and Solana Will Fall First](https://www.youtube.com/watch?v=Hh9HtMe7Z3Y)**
 
-The hardest skill in investing isn't finding the winner. It's knowing when to let it go – and I've been the guy who sold too early.
+BTC closed red on Thursday, down 0.53%, but held above short-term overhead resistance for a second confirmed day, keeping ...
 
-📺 Anthony Pompliano
+📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 120 • 💬 15 • ⏱️ 0:30 • 1d ago
+👁️ 6K • 👍 456 • 💬 47 • ⏱️ 43:51 • 23h ago
+
+---
+
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 12K • 👍 651 • 💬 194 • ⏱️ 14:40 • 1d ago
 
 ---
 
