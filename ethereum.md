@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T19:56:37.990686+00:00'
+updated: '2026-08-08T20:32:34.558927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 19:56 UTC  
+**Last Updated:** August 08, 2026 at 20:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +2.0%  
+**24h:** +0.2%  
+**7d:** +1.9%  
 **30d:** +6.8%  
-**90d:** -17.9%  
+**90d:** -18.0%  
 **1y:** -55.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 10h ago
+CCN.com • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ Benzinga • 1d ago
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ thestreet.com • 22h ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 3h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 221 • 💬 103 • ⏱️ 21:05 • 23h ago
+👁️ 4K • 👍 221 • 💬 103 • ⏱️ 21:05 • 1d ago
 
 ---
 

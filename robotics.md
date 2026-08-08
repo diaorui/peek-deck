@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T19:56:37.993588+00:00'
+updated: '2026-08-08T20:32:34.560775+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 19:56 UTC  
+**Last Updated:** August 08, 2026 at 20:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-11h ago
+12h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-17h ago
+18h ago
 
 ---
 
@@ -138,7 +138,7 @@ USNI News • 2d ago
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 

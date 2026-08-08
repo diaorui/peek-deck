@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T19:56:37.977306+00:00'
+updated: '2026-08-08T20:32:34.549605+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 19:56 UTC  
+**Last Updated:** August 08, 2026 at 20:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I'm looking for a new one and my last post got deleted. Midjourney is alright bu
 
 Established ROI sits at 7% while planned AI spending holds at $188m across the 2,145 leaders surveyed. Cost visibility now separates the firms seeing returns.
 
-🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 2h ago
+🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-6h ago
+7h ago
 
 ---
 
@@ -97,13 +97,13 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 11h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 8h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Managers are saving over 2x the time individual contributors are with AI tools. 
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ OpenAI • 1d ago
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -153,7 +153,7 @@ WSJ • 18h ago
 
 AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge in AI data centers in Texas and the power grid challenges they present.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 4h ago
 
 Elon Musk says that memory prices will continue to rise.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ NVIDIA Blog • 9h ago
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-WCAX • 23h ago
+WCAX • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 506 • 💬 372 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 508 • 💬 372 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -229,19 +229,17 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 ---
 
-**[Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://news.ycombinator.com/item?id=49187977)**
-
-More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.
-
-⬆️ 322 • 💬 267 • 3d ago • [WIRED](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
-
----
-
 **[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
 
 AI coding tools deli
 
-⬆️ 290 • 💬 248 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 293 • 💬 250 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+
+---
+
+**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
+
+⬆️ 248 • 💬 119 • 2h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -261,12 +259,6 @@ An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occ
 
 ---
 
-**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
-
-⬆️ 141 • 💬 57 • 1h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
-
----
-
 **[Gentoo bugzilla closed due AI bot scraper overload](https://news.ycombinator.com/item?id=49221864)**
 
 I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.
@@ -275,13 +267,24 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 116 • 💬 82 • 6h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 124 • 💬 87 • 6h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
 **[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
 
 ⬆️ 116 • 💬 64 • 2d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
+
+---
+
+**[Mythos social engineering AISI INC-2026-07-28-01](https://news.ycombinator.com/item?id=49218707)**
+
+Fixes #2 - discovery hangs when multiple default via routes exist.
+What changed
+
+defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
+
+⬆️ 79 • 💬 19 • 16h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -301,7 +304,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 📺 Mark Tilbury
 
-👁️ 290K • 👍 9K • 💬 499 • ⏱️ 0:26 • 11h ago
+👁️ 290K • 👍 9K • 💬 499 • ⏱️ 0:26 • 12h ago
 
 ---
 
@@ -331,7 +334,7 @@ Gen Z | Artificial Intelligence | End Of Expertise | AI Impact On Education | Ge
 
 📺 Firstpost
 
-👁️ 468 • 👍 13 • 💬 1 • ⏱️ 0:34 • 1h ago
+👁️ 468 • 👍 13 • 💬 1 • ⏱️ 0:34 • 2h ago
 
 ---
 
@@ -369,7 +372,7 @@ This AI Designed A Walking Robot From Scratch What happens when you stop telling
 
 📺 EcoZora
 
-👁️ 8K • 👍 44 • 💬 4 • ⏱️ 0:07 • 5h ago
+👁️ 8K • 👍 44 • 💬 4 • ⏱️ 0:07 • 6h ago
 
 ---
 
@@ -441,7 +444,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 470 • 20h ago
+⬇️ 0 • ❤️ 470 • 21h ago
 
 ---
 
@@ -453,7 +456,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,750 • 17h ago
+⬇️ 2,345,190 • ❤️ 1,750 • 18h ago
 
 ---
 
@@ -517,7 +520,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 87 • 💬 1 • ⭐ 461 • 4d ago
+▲ 87 • 💬 1 • ⭐ 461 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -545,7 +548,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 486 • 💬 10 • ⭐ 8,227 • 12d ago
+▲ 486 • 💬 10 • ⭐ 8,227 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -569,7 +572,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 159 • 💬 3 • ⭐ 400 • 5d ago
+▲ 159 • 💬 3 • ⭐ 400 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -650,7 +653,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 835 • 11h ago
+⭐ 7.7k • 🔱 835 • 12h ago
 
 ---
 
