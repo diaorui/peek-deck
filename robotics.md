@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T04:35:19.906297+00:00'
+updated: '2026-08-08T05:42:21.516950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 04:35 UTC  
+**Last Updated:** August 08, 2026 at 05:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 **[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -58,13 +58,13 @@ I ran a preliminary test to see how consistently Watti could return to the same 
 
 ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 11h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 12h ago
 
 ---
 
 **[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -72,13 +72,13 @@ ROS News for the Week August 3rd, 2026          Congratulations to our Japanese 
 
 Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
 
-23h ago
+1d ago
 
 ---
 
 **[[Feedback Request] Master’s Thesis: Edge-Orchestrated Smart Home using ROS 2, MPC, and Micro-PLC architecture](https://www.reddit.com/r/robotics/comments/1vhza34/feedback_request_masters_thesis_edgeorchestrated/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -110,17 +110,9 @@ Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute t
 
 ## Google News: "robotics"
 
-**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
-
-On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
-
-The Information • 14h ago
-
----
-
 **[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -130,17 +122,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Mitsubishi to make 1,000 humanoids per month at idle engine plant](https://interestingengineering.com/ai-robotics/mitsubishi-humanoid-robots-japan-plant)**
+**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
 
-Mitsubishi will mass-produce AI humanoid robots in Japan, converting an idle engine line into a high-volume robot factory.
+On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-interestingengineering.com • 2d ago
+The Information • 15h ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-news.usni.org • 1d ago
+USNI News • 1d ago
 
 ---
 
@@ -148,7 +140,7 @@ news.usni.org • 1d ago
 
 This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
 
-IEEE Spectrum • 12h ago
+IEEE Spectrum • 13h ago
 
 ---
 
@@ -164,7 +156,7 @@ HII • 1d ago
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -184,6 +176,14 @@ TechCrunch • 2d ago
 
 ---
 
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
+
+Humans will get the AI models they deserve
+
+The Register • 19h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +192,7 @@ TechCrunch • 2d ago
 
 📺 Tyrecordslol
 
-👁️ 1.7M • 👍 86K • 💬 5K • ⏱️ 0:58 • 17h ago
+👁️ 1.7M • 👍 86K • 💬 5K • ⏱️ 0:58 • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Discover the revolutionary chip that makes Tesla robots unstoppable, leveraging 
 
 📺 Unsealed Universe
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:44 • 13h ago
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:44 • 14h ago
 
 ---
 
@@ -222,7 +222,7 @@ Peter Alexander from Z-Ben Advisors says China's robotics industry could have a 
 
 📺 CNBC International Live
 
-👁️ 5K • 👍 54 • 💬 14 • ⏱️ 5:49 • 21h ago
+👁️ 5K • 👍 54 • 💬 14 • ⏱️ 5:49 • 22h ago
 
 ---
 
