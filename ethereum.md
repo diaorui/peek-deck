@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T23:29:03.817781+00:00'
+updated: '2026-08-08T23:57:25.236097+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 23:29 UTC  
+**Last Updated:** August 08, 2026 at 23:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.54
+### $1,916.08
 
 ---
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.68B
+**Market Cap:** $231.34B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+443270.2%
++442635.1%
 
 ---
 
@@ -160,11 +160,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363](https://finance.yahoo.com/markets/crypto/articles/sharplink-ceo-warns-against-ethereum-190430981.html)**
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
 
-SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,15 @@ CCN.com • 14h ago
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 18h ago
+TradingView • 19h ago
+
+---
+
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+theblock.co • 1d ago
 
 ---
 
@@ -186,7 +194,7 @@ TradingView • 18h ago
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -195,12 +203,6 @@ markets.businessinsider.com • 15h ago
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
 Benzinga • 1d ago
-
----
-
-**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
-
-thestreet.com • 1d ago
 
 ---
 
@@ -236,7 +238,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 57 • 💬 17 • ⏱️ 3:33 • 2d ago
+👁️ 3K • 👍 58 • 💬 17 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -246,7 +248,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 197 • 💬 34 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 204 • 💬 34 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -260,33 +262,23 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 ---
 
+**[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
+
+The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 117 • 👍 8 • 💬 1 • ⏱️ 1:25 • 5h ago
+
+---
+
 **[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
 
 This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
 
 📺 Investing Made Simple
 
-👁️ 9K • 👍 539 • ⏱️ 9:52 • 2d ago
-
----
-
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 221 • 💬 99 • ⏱️ 21:05 • 1d ago
-
----
-
-**[BMNR’s $19.30 Rejection: Is Tom Lee’s ETH Breakout Still Alive??](https://www.youtube.com/watch?v=zYxG7HCyLf8)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
-
-📺 MONEY GAME
-
-👁️ 2K • 👍 110 • 💬 2 • ⏱️ 17:46 • 1d ago
+👁️ 9K • 👍 544 • ⏱️ 9:52 • 2d ago
 
 ---
 
@@ -296,17 +288,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 144 • 💬 93 • ⏱️ 51:35 • 2d ago
+👁️ 5K • 👍 146 • 💬 93 • ⏱️ 51:35 • 2d ago
 
 ---
 
-**[Anthony Pompliano lesson on why you never sell your ETH](https://www.youtube.com/watch?v=9Gl55dx5g3o)**
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
-Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
-📺 Liquid Loans
+📺 Lark Davis
 
-👁️ 1K • 👍 8 • ⏱️ 0:32 • 8h ago
+👁️ 3K • 👍 104 • 💬 12 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 222 • 💬 99 • ⏱️ 21:05 • 1d ago
 
 ---
 
@@ -316,17 +318,17 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 📺 Crypto Capital Venture
 
-👁️ 13K • 👍 663 • 💬 196 • ⏱️ 14:40 • 2d ago
+👁️ 13K • 👍 664 • 💬 196 • ⏱️ 14:40 • 2d ago
 
 ---
 
-**[Bitcoin LIVE: Prepare Now or Chase Later! (it’s coming) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=XEOqpofWL-o)**
+**[ETH &amp; SOL Short Setups - Gold Breaks Out Above Resistance!](https://www.youtube.com/watch?v=v-RGgEAl4zw)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+In this Coin Bureau Trading episode, Aaron Dishner of The Better Traders addresses Bitcoin's recent close above a key overhead ...
 
-📺 BitcoinHyper
+📺 Coin Bureau Trading
 
-👁️ 3K • 👍 236 • 💬 8 • ⏱️ 57:20 • 9h ago
+👁️ 5K • 👍 408 • 💬 22 • ⏱️ 22:28 • 1d ago
 
 ---
 

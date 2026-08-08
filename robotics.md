@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T23:29:03.820770+00:00'
+updated: '2026-08-08T23:57:25.238886+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 23:29 UTC  
+**Last Updated:** August 08, 2026 at 23:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 14h ago
 
 ---
 
@@ -80,13 +80,13 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 14h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 15h ago
 
 ---
 
@@ -130,11 +130,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
-
-ABC30 Fresno • 22h ago
+wsj.com • 1d ago
 
 ---
 
@@ -144,23 +142,9 @@ USNI News • 2d ago
 
 ---
 
-**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
-
-WSJ • 1d ago
-
----
-
 **[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
-
-Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -169,6 +153,22 @@ Yahoo Finance • 1d ago
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
 HII • 2d ago
+
+---
+
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
+
+Humans will get the AI models they deserve
+
+The Register • 1d ago
+
+---
+
+**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
+
+Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
+
+ABC30 Fresno • 23h ago
 
 ---
 
@@ -190,35 +190,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 73K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 32K • 👍 440 • 💬 245 • ⏱️ 28:01 • 1d ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 53K • 👍 816 • ⏱️ 17:44 • 2d ago
-
----
-
-**[You know 👽🚀🔭🪐☄️ #ai #robotics #funny](https://www.youtube.com/watch?v=p9KKgQmj_lc)**
-
-📺 Ohbot Robot
-
-👁️ 1K • 👍 16 • ⏱️ 0:08 • 5h ago
+👁️ 74K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
 
 ---
 
@@ -228,7 +200,27 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 33K • 👍 351 • 💬 407 • ⏱️ 1:36 • 3d ago
+👁️ 33K • 👍 352 • 💬 407 • ⏱️ 1:36 • 3d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 55K • 👍 841 • ⏱️ 17:44 • 2d ago
+
+---
+
+**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+
+This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+
+📺 Y Combinator
+
+👁️ 6K • 👍 241 • 💬 8 • ⏱️ 1:24:13 • 9h ago
 
 ---
 
@@ -236,17 +228,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 Tyrecordslol
 
-👁️ 2.4M • 👍 109K • 💬 7K • ⏱️ 0:58 • 1d ago
-
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 54K • 👍 944 • 💬 104 • ⏱️ 12:38 • 5d ago
+👁️ 2.4M • 👍 110K • 💬 7K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -256,7 +238,7 @@ From robotic beach landings to AI-powered "Terminator" drones, what was once the
 
 📺 NBC News
 
-👁️ 75K • 👍 615 • 💬 136 • ⏱️ 4:18 • 4d ago
+👁️ 75K • 👍 615 • 💬 136 • ⏱️ 4:18 • 5d ago
 
 ---
 
@@ -277,6 +259,26 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 📺 KhanFlicks
 
 👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 3d ago
+
+---
+
+**[US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir](https://www.youtube.com/watch?v=5Tj-Svccykk)**
+
+US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir Our New Ai Mastery ...
+
+📺 Ankit Avasthi Insights
+
+👁️ 192K • 👍 10K • 💬 270 • ⏱️ 11:53 • 4d ago
+
+---
+
+**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+
+Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+
+📺 BBC News
+
+👁️ 205K • 👍 2K • 💬 666 • ⏱️ 3:14 • 6d ago
 
 ---
 

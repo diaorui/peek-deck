@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T23:29:03.803737+00:00'
+updated: '2026-08-08T23:57:25.223045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 23:29 UTC  
+**Last Updated:** August 08, 2026 at 23:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-23h ago
+1d ago
 
 ---
 
@@ -65,7 +65,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,7 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 11h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 12h ago
 
 ---
 
@@ -99,19 +99,19 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 ---
 
-**[I read a study that managers are the ones benefiting more from AI and it’s just getting started](https://www.reddit.com/r/artificial/comments/1vj3zsu/i_read_a_study_that_managers_are_the_ones/)**
-
-Managers are saving over 2x the time individual contributors are with AI tools. and it’s just starting I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were. I believe that's one of the reasons you get a 2x gap between managers and everyone else. In the same survey, 36% of managers said they're not likely to launch training for their employees on how to leverage AI, which makes the gap even bigger. A manager's job was never to be the best individual operator in the room. It's to make everyone else better at the job. That doesn't change because the tool changed. Why do you think there's a 100% gap between managers and their teams right now, and what would it actually take to close it? Source: https://www.business.com/articles/ai-usage-smb-workplace-study/ P.S. If you're the founder still in the middle of every decision, still the person the whole company waits on, still telling yourself you'll fix the structure "once things calm down." I write about building the operational backbone that lets a founder actually step back every Thursday. Was a COO for 20+ years, so this is genuinely my bread and butter. Free to join here
-
-4h ago
-
----
-
 **[Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?](https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/)**
 
 This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
 
-4h ago
+5h ago
+
+---
+
+**[Beijing may be adapting its influence playbook for America’s infrastructure debate](https://www.reddit.com/r/artificial/comments/1vil97d/beijing_may_be_adapting_its_influence_playbook/)**
+
+China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
+
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 20h ago
 
 ---
 
@@ -127,11 +127,9 @@ CNBC • 11h ago
 
 ---
 
-**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
+**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
-
-The Guardian • 6h ago
+wsj.com • 22h ago
 
 ---
 
@@ -143,25 +141,11 @@ Fox News • 2h ago
 
 ---
 
-**[As Colorado universities align with AI, students take a stand against ‘plagiarism machine’](https://www.detroitnews.com/story/news/nation/2026/08/08/colorado-students-resist-artificial-intelligence-plagiarism/91228891007/)**
-
-some Colorado students are questioning why their institutions of higher education are aligning themselves with big AI companies.
-
-The Detroit News • 2h ago
-
----
-
-**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
-
-WSJ • 8h ago
-
----
-
 **[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 22h ago
+Fox Business • 23h ago
 
 ---
 
@@ -169,15 +153,15 @@ Fox Business • 22h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-fortune.com • 7h ago
+fortune.com • 8h ago
 
 ---
 
-**[Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)**
+**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
 
-The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
+Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-NVIDIA Blog • 12h ago
+The Guardian • 7h ago
 
 ---
 
@@ -193,7 +177,21 @@ WCAX • 1d ago
 
 What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?
 
-BBC • 9h ago
+BBC • 10h ago
+
+---
+
+**[AI is booming on the West Coast. So why is unemployment so high there?](https://www.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+
+A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
+
+CNN • 13h ago
+
+---
+
+**[Suspected AI use is the entertainment industry's scarlet letter](https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade)**
+
+Axios • 13h ago
 
 ---
 
@@ -259,7 +257,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 150 • 💬 103 • 9h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 150 • 💬 103 • 10h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -278,7 +276,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 80 • 💬 19 • 19h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 80 • 💬 19 • 20h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -300,7 +298,7 @@ Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek C
 
 📺 TechLead
 
-👁️ 64K • 👍 2K • 💬 308 • ⏱️ 8:21 • 1d ago
+👁️ 67K • 👍 2K • 💬 316 • ⏱️ 8:21 • 1d ago
 
 ---
 
@@ -310,25 +308,17 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 CNN
 
-👁️ 35K • 👍 540 • 💬 379 • ⏱️ 9:52 • 1d ago
+👁️ 36K • 👍 552 • 💬 386 • ⏱️ 9:52 • 1d ago
 
 ---
 
-**[Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)**
+**[Seedance 2.5 Is Absolutely Insane For AI Filmmaking](https://www.youtube.com/watch?v=ZqRDuKB-hg8)**
 
-"One of the most powerful forces in history is human stupidity." Historian and bestselling author Yuval Noah Harari argues that ...
+Seedance 2.5 Is The Best AI Filmmaking AI Video Generator Try Higgsfield: https://higgsfield.ai?fpr=utm&fp_sid=mira Hey friends ...
 
-📺 Brief But Spectacular
+📺 Mira AI
 
-👁️ 87K • 👍 4K • 💬 405 • ⏱️ 3:48 • 3d ago
-
----
-
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
-
-📺 Mark Tilbury
-
-👁️ 355K • 👍 10K • 💬 561 • ⏱️ 0:26 • 15h ago
+👁️ 19K • 💬 24 • ⏱️ 7:07 • 1d ago
 
 ---
 
@@ -338,17 +328,7 @@ AI agents just crossed into the real world. During a UK government safety test, 
 
 📺 AI Revolution
 
-👁️ 20K • 👍 705 • 💬 83 • ⏱️ 16:27 • 2d ago
-
----
-
-**[AI is getting a little out of control](https://www.youtube.com/watch?v=xGzseSSStnw)**
-
-Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms ...
-
-📺 AI Explained
-
-👁️ 73K • 👍 3K • 💬 625 • ⏱️ 31:43 • 2d ago
+👁️ 21K • 👍 708 • 💬 83 • ⏱️ 16:27 • 2d ago
 
 ---
 
@@ -358,27 +338,37 @@ Artificial Intelligence has been used to design brand new viruses that are fully
 
 📺 BBC News
 
-👁️ 428K • 👍 6K • 💬 3K • ⏱️ 6:38 • 1d ago
+👁️ 505K • 👍 7K • 💬 3K • ⏱️ 6:38 • 1d ago
 
 ---
 
-**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
+**[China Just Shocked Everyone With a 10 Trillion Parameter AI Model](https://www.youtube.com/watch?v=MEw7TrAUEPQ)**
 
-In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
+China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta ...
 
-📺 Shawn Ryan Show
+📺 AI Revolution
 
-👁️ 99K • 👍 3K • 💬 585 • ⏱️ 17:08 • 1d ago
+👁️ 40K • 👍 1K • 💬 135 • ⏱️ 15:28 • 23h ago
 
 ---
 
-**[Prompt Like THIS to Master Making AI Videos (5 Levels)](https://www.youtube.com/watch?v=P3cxhr8FJa8)**
+**[AI is SPAWNCAMPING the next generation...](https://www.youtube.com/watch?v=irN38xaz3Og)**
 
-Create your own AI Videos with Higgsfield https://youricreates.com/Higgsfield In this video, I walk through the five levels of AI ...
+I stream on Twitch ( https://www.twitch.tv/luality ) most days, come watch me suffer daily! Or inflict suffering. Please.. Like.
 
-📺 Youri van Hofwegen
+📺 Luality
 
-👁️ 12K • 💬 20 • ⏱️ 22:04 • 2d ago
+👁️ 2K • 👍 314 • 💬 14 • ⏱️ 0:52 • 3h ago
+
+---
+
+**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
+
+(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
+
+📺 All-In Podcast
+
+👁️ 220K • 👍 5K • 💬 407 • ⏱️ 1:15:18 • 22h ago
 
 ---
 
@@ -388,7 +378,15 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 290K • 👍 20K • 💬 704 • ⏱️ 1:36 • 1d ago
+👁️ 304K • 👍 21K • 💬 728 • ⏱️ 1:36 • 1d ago
+
+---
+
+**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
+
+📺 Mark Tilbury
+
+👁️ 405K • 👍 11K • 💬 621 • ⏱️ 0:26 • 15h ago
 
 ---
 
@@ -404,7 +402,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 26,693 • ❤️ 3,092 • 2d ago
+⬇️ 26,693 • ❤️ 3,101 • 2d ago
 
 ---
 
@@ -416,7 +414,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,841 • 7d ago
+⬇️ 785,771 • ❤️ 2,851 • 7d ago
 
 ---
 
@@ -426,7 +424,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 1,000 • 2d ago
+⬇️ 3,943,176 • ❤️ 1,005 • 2h ago
 
 ---
 
@@ -438,7 +436,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,388,105 • ❤️ 10,336 • 12d ago
+⬇️ 1,388,105 • ❤️ 10,340 • 12d ago
 
 ---
 
@@ -450,7 +448,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 477 • 3h ago
+⬇️ 0 • ❤️ 483 • 3h ago
 
 ---
 
@@ -462,7 +460,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,755 • 21h ago
+⬇️ 2,345,190 • ❤️ 1,760 • 21h ago
 
 ---
 
@@ -474,7 +472,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 81,522 • ❤️ 414 • 1d ago
+⬇️ 81,522 • ❤️ 415 • 1d ago
 
 ---
 
@@ -498,7 +496,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 175,093 • ❤️ 604 • 2d ago
+⬇️ 175,093 • ❤️ 607 • 2d ago
 
 ---
 
@@ -510,7 +508,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 896 • ❤️ 254 • 4d ago
+⬇️ 896 • ❤️ 255 • 4d ago
 
 ---
 
@@ -572,15 +570,16 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 ---
 
-**[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
 
-*Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
 
-Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 159 • 💬 3 • ⭐ 400 • 6d ago
+▲ 84 • 💬 7 • ⭐ 83,487 • 24mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -591,22 +590,21 @@ Large language model (LLM) agents increasingly undertake long-horizon tasks that
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 177 • 💬 2 • ⭐ 77,133 • 10mo ago
+▲ 177 • 💬 2 • ⭐ 77,161 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
+**[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
 
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+*Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
 
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 84 • 💬 7 • ⭐ 83,452 • 24mo ago
+▲ 159 • 💬 3 • ⭐ 411 • 6d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+[🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
 ---
 
@@ -659,7 +657,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.7k • 🔱 839 • 15h ago
+⭐ 7.8k • 🔱 845 • 5m ago
 
 ---
 
@@ -669,7 +667,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.2k • 🔱 370 • 1d ago
+⭐ 4.2k • 🔱 373 • 1d ago
 
 ---
 
@@ -677,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 13h ago
+⭐ 3.8k • 🔱 489 • 14h ago
 
 ---
 
@@ -687,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 52s ago
 
 ---
 
@@ -697,7 +695,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 389 • 19h ago
+⭐ 2.3k • 🔱 389 • 20h ago
 
 ---
 
@@ -727,7 +725,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.0k • 🔱 173 • 3d ago
+⭐ 2.0k • 🔱 174 • 3d ago
 
 ---
 
@@ -737,7 +735,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 2h ago
+⭐ 2.0k • 🔱 233 • 1h ago
 
 ---
 
@@ -747,7 +745,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 2h ago
+⭐ 1.9k • 🔱 243 • 1h ago
 
 ---
 

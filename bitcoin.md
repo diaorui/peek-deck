@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T23:29:03.811797+00:00'
+updated: '2026-08-08T23:57:25.230747+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 23:29 UTC  
+**Last Updated:** August 08, 2026 at 23:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,011.27
+### $64,956.18
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.30B
+**Market Cap:** $1302.71B
 Rank #1
 
-**Circulating Supply:** 20,067,575 BTC
+**Circulating Supply:** 20,067,628 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.5%
 
 **All-Time Low:** $67.81
-+95747.2%
++95630.7%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,13 +95,13 @@ Rank #1
 
 The last non split block has been mined. Lest see what happens now
 
-3h ago
+4h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ The last non split block has been mined. Lest see what happens now
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-46m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -159,11 +159,11 @@ CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
+**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
 
-A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
+Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-Decrypt • 5h ago
+theblock.co • 9h ago
 
 ---
 
@@ -181,17 +181,17 @@ Bloomberg.com • 10h ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline-msi84uao)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Current price of Bitcoin for Aug. 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 fortune.com • 1d ago
+
+---
+
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -209,11 +209,11 @@ Forbes • 15h ago
 
 ---
 
-**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
+**[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
 
-Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
+A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-The Block • 8h ago
+Decrypt • 6h ago
 
 ---
 
@@ -312,23 +312,23 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 3K • 👍 126 • 💬 5 • ⏱️ 1:20 • 7h ago
-
----
-
 **[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
 
 On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
 
 📺 The Compound
 
-👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 10h ago
+👁️ 3K • 👍 73 • 💬 19 • ⏱️ 1:18 • 11h ago
+
+---
+
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 146 • 💬 5 • ⏱️ 1:20 • 7h ago
 
 ---
 
@@ -342,13 +342,13 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 ---
 
-**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
 
-This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
 
-📺 The Modern Investor
+📺 Altcoin Daily
 
-👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 13h ago
+👁️ 4K • 👍 145 • 💬 7 • ⏱️ 1:03 • 8h ago
 
 ---
 
@@ -358,17 +358,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 125K • 👍 7K • 💬 439 • ⏱️ 24:00 • 1d ago
-
----
-
-**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
-
-Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
-
-📺 PragerU
-
-👁️ 19K • 👍 310 • 💬 26 • ⏱️ 8:07 • 1d ago
+👁️ 128K • 👍 7K • 💬 444 • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -378,7 +368,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 11K • 👍 520 • 💬 49 • ⏱️ 8:03 • 2d ago
+👁️ 11K • 👍 522 • 💬 49 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -388,7 +378,7 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 4K • 👍 103 • 💬 5 • ⏱️ 1:23 • 1d ago
+👁️ 4K • 👍 118 • 💬 5 • ⏱️ 1:23 • 1d ago
 
 ---
 
@@ -398,7 +388,7 @@ BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX
 
 📺 Lark Davis
 
-👁️ 12K • 👍 497 • 💬 79 • ⏱️ 11:04 • 1d ago
+👁️ 12K • 👍 501 • 💬 80 • ⏱️ 11:04 • 1d ago
 
 ---
 
@@ -408,7 +398,15 @@ Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common f
 
 📺 Natalie Brunell
 
-👁️ 925 • 👍 22 • 💬 53 • ⏱️ 0:53 • 1d ago
+👁️ 946 • 👍 23 • 💬 53 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[RIPPLE XRP BUILT THIS WHILE BITCOIN BREAKS! #xrp #bitcoin #crypto](https://www.youtube.com/watch?v=HPXaQFiaMSQ)**
+
+📺 CryptoWendyO
+
+👁️ 1K • 👍 117 • 💬 3 • ⏱️ 0:59 • 2h ago
 
 ---
 
