@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T15:58:48.527269+00:00'
+updated: '2026-08-08T16:44:01.055368+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 15:58 UTC  
+**Last Updated:** August 08, 2026 at 16:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,920.84
+### $1,922.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.6%  
 **7d:** +2.1%  
-**30d:** +7.0%  
-**90d:** -17.8%  
-**1y:** -54.9%  
+**30d:** +6.9%  
+**90d:** -17.9%  
+**1y:** -55.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.91B
+**Market Cap:** $231.79B
 Rank #2
 
 **Circulating Supply:** 120,682,085 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.2%
 
 **All-Time Low:** $0.43
-+443716.0%
++443475.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -170,7 +170,7 @@ CCN.com • 6h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 20h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 1d ago
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ thestreet.com • 19h ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 3K • 👍 52 • 💬 17 • ⏱️ 3:33 • 2d ago
+👁️ 3K • 👍 54 • 💬 17 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 185 • 💬 27 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 193 • 💬 28 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -256,27 +256,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 18K • 👍 2K • 💬 280 • ⏱️ 17:35 • 1d ago
-
----
-
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 217 • 💬 103 • ⏱️ 21:05 • 19h ago
-
----
-
-**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
-
-This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
-
-📺 Investing Made Simple
-
-👁️ 9K • 👍 524 • ⏱️ 9:52 • 2d ago
+👁️ 18K • 👍 2K • 💬 290 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -286,7 +266,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 141 • 💬 92 • ⏱️ 51:35 • 1d ago
+👁️ 5K • 👍 141 • 💬 93 • ⏱️ 51:35 • 1d ago
+
+---
+
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
+
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
+
+📺 Investing Made Simple
+
+👁️ 9K • 👍 530 • ⏱️ 9:52 • 2d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 220 • 💬 103 • ⏱️ 21:05 • 20h ago
 
 ---
 
@@ -296,17 +296,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 23h ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 12K • 👍 656 • 💬 195 • ⏱️ 14:40 • 1d ago
+👁️ 2K • 👍 93 • 💬 11 • ⏱️ 1:08 • 1d ago
 
 ---
 
@@ -316,7 +306,7 @@ Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #Cr
 
 📺 Chart Analysis
 
-👁️ 304 • 💬 18 • ⏱️ 12:53 • 8h ago
+👁️ 404 • 💬 19 • ⏱️ 12:53 • 9h ago
 
 ---
 
@@ -326,7 +316,17 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 224 • 💬 7 • ⏱️ 7:25 • 1d ago
+👁️ 4K • 👍 226 • 💬 7 • ⏱️ 7:25 • 1d ago
+
+---
+
+**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
+
+Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 13K • 👍 658 • 💬 195 • ⏱️ 14:40 • 2d ago
 
 ---
 

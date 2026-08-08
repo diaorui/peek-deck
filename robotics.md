@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T15:58:48.530155+00:00'
+updated: '2026-08-08T16:44:01.057969+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 15:58 UTC  
+**Last Updated:** August 08, 2026 at 16:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 7h ago
 
 ---
 
@@ -60,7 +60,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ I wanna a show my first working 4wheeled urdf model that i have designed in free
 
 https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba98acb9452175d90466e84d51e846903d2632 My eccentric cam for my 20:1 reduction cycloidal driver is 40mm thick while I was hoping for less like 20mm thick. All the empty spots you see which is 4 is where the bearings are supposed to go. I don't know how I can make the eccentric cam smaller without using smaller bearings that are like 3mm thick but if I do that won't it not be able to handle high torques of like 100Nm of torque or should I try doing that. I don't think using small bearings is good idea as I searched it up and google gemini said "no its a horrible idea." Lowkey I dont even know what eccentric cam even does I am mostly following a tutorial and I don't know if there may be another mechanism that is way thinner. Thanks.
 
-7h ago
+8h ago
 
 ---
 
@@ -108,7 +108,7 @@ https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba9
 
 As the titles says, I would like to know your experience with new Nvidia models, both world action models and VLAs, like Cosmos3, DreamZero, Groot, etc. And how they compare with the good old fine-tuned Pi05 that I am currently using in my daily life in the lab. I haven't tried any of those Nvidia models yet and before getting my hand on them I'd like a honest feedback from someone that have a direct experience with them both in Sim and in real world experiments.
 
-15h ago
+16h ago
 
 ---
 
@@ -140,7 +140,7 @@ Bloomberg.com • 1d ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 1d ago
+HII • 2d ago
 
 ---
 
@@ -160,7 +160,7 @@ IEEE Spectrum • 2d ago
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
@@ -174,7 +174,7 @@ Tech Xplore • 3d ago
 
 When the Chernobyl Nuclear Power Plant’s #4 reactor experienced an extreme criticality event on that infamous day in 1986, the resulting steam explosion and lack of any kind of containment bu…
 
-Hackaday • 21h ago
+Hackaday • 22h ago
 
 ---
 
@@ -190,11 +190,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
 
-📺 Tyrecordslol
+After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
 
-👁️ 2.1M • 👍 101K • 💬 6K • ⏱️ 0:58 • 1d ago
+📺 Bloomberg Television
+
+👁️ 72K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 28K • 👍 398 • 💬 228 • ⏱️ 28:01 • 21h ago
 
 ---
 
@@ -204,17 +216,7 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 48K • 👍 752 • ⏱️ 17:44 • 1d ago
-
----
-
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
-
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
-
-📺 Bloomberg Television
-
-👁️ 72K • 👍 1K • 💬 104 • ⏱️ 11:26 • 6d ago
+👁️ 50K • 👍 767 • ⏱️ 17:44 • 1d ago
 
 ---
 
@@ -224,27 +226,15 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 33K • 👍 348 • 💬 402 • ⏱️ 1:36 • 3d ago
+👁️ 33K • 👍 349 • 💬 403 • ⏱️ 1:36 • 3d ago
 
 ---
 
-**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
+📺 Tyrecordslol
 
-📺 KCRA 3
-
-👁️ 32K • 👍 355 • 💬 239 • ⏱️ 1:03 • 6d ago
-
----
-
-**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
-
-Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
-
-📺 KhanFlicks
-
-👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 2d ago
+👁️ 2.2M • 👍 105K • 💬 6K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -254,7 +244,7 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 47K • 👍 870 • 💬 91 • ⏱️ 12:38 • 4d ago
+👁️ 50K • 👍 895 • 💬 97 • ⏱️ 12:38 • 4d ago
 
 ---
 
@@ -268,13 +258,13 @@ From robotic beach landings to AI-powered "Terminator" drones, what was once the
 
 ---
 
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
 
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
 
-📺 Custom Adventurist
+📺 KhanFlicks
 
-👁️ 26K • 👍 2K • 💬 128 • ⏱️ 1:02 • 1d ago
+👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -284,7 +274,17 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 49K • 👍 3K • 💬 469 • ⏱️ 26:40 • 4d ago
+👁️ 50K • 👍 3K • 💬 473 • ⏱️ 26:40 • 4d ago
+
+---
+
+**[Centaur-style robot being developed in Northern California causes a frenzy online](https://www.youtube.com/watch?v=BAbcOI6S2ck)**
+
+Satyress Robotics, a company based in Auburn, California, is developing a 7-foot-tall centaur-style robot called "Three-Halves.
+
+📺 KCRA 3
+
+👁️ 33K • 👍 362 • 💬 242 • ⏱️ 1:03 • 6d ago
 
 ---
 

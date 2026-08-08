@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T15:58:48.521762+00:00'
+updated: '2026-08-08T16:44:01.050481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 15:58 UTC  
+**Last Updated:** August 08, 2026 at 16:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.5%  
 **7d:** +2.4%  
 **30d:** +1.4%  
 **90d:** -20.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1305.63B
+**Market Cap:** $1304.67B
 Rank #1
 
-**Circulating Supply:** 20,067,431 BTC
+**Circulating Supply:** 20,067,475 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.4%
 
 **All-Time Low:** $67.81
-+95847.5%
++95775.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -89,15 +89,23 @@ Rank #1
 
 ---
 
+**[What went wrong with BIP110?](https://www.reddit.com/r/Bitcoin/comments/1vizw0i/what_went_wrong_with_bip110/)**
+
+When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
+
+33m ago
+
+---
+
 **[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
 
-18h ago
+19h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -120,29 +128,25 @@ Same as title.
 
 ---
 
+**[IBIT and BTC Do you own both?](https://www.reddit.com/r/Bitcoin/comments/1viwqaz/ibit_and_btc_do_you_own_both/)**
+
+Hi all, since the cold card hack, wondering if owning both IBIT and using another HW for BTC is ideal. I’m looking at the ledger or bitkey to purchase. Thanks!
+
+2h ago
+
+---
+
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Bitcoin is so attractive right now! Im buying every month](https://www.reddit.com/r/Bitcoin/comments/1vi1vec/bitcoin_is_so_attractive_right_now_im_buying/)**
+**[Happy SegWit Lock-In Day!](https://www.reddit.com/r/Bitcoin/comments/1viywv9/happy_segwit_lockin_day/)**
 
-1d ago
+On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on the Bitcoin network by the UASF client.
 
----
-
-**[All attacks on Bitcoin are good](https://www.reddit.com/r/Bitcoin/comments/1vidcdf/all_attacks_on_bitcoin_are_good/)**
-
-Everyone's got their panties in a bunch about the recent hacks and exploits against things in the a Bitcoin ecosystem. I say it's a good thing. Bitcoin need to be able to exist, no, thrive, in an environment where anyone and everyone can attack it at any time. Every weakness needs to be found, exploited, and then fixed. Each hack, every attack, all the other scam bullshit in the ecosystem makes Bitcoin, the network, stronger. If Bitcoin can't survive constant assault, then it isn't worth a damn thing. If it ain't broke, you aren't trying hard enough.
-
-18h ago
-
----
-
-**[How the markets feel rn](https://www.reddit.com/r/Bitcoin/comments/1vhv3bm/how_the_markets_feel_rn/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -154,7 +158,7 @@ Everyone's got their panties in a bunch about the recent hacks and exploits agai
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -162,13 +166,13 @@ CoinDesk • 1h ago
 
 Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -176,7 +180,7 @@ Bloomberg.com • 2h ago
 
 Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -204,7 +208,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -311,23 +315,13 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 135 • ⏱️ 12:39 • 1d ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 116K • 👍 7K • 💬 416 • ⏱️ 24:00 • 1d ago
+👁️ 655 • 👍 52 • 💬 2 • ⏱️ 1:20 • 43m ago
 
 ---
 
@@ -337,17 +331,37 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 10K • 👍 503 • 💬 43 • ⏱️ 8:03 • 1d ago
+👁️ 10K • 👍 510 • 💬 45 • ⏱️ 8:03 • 1d ago
 
 ---
 
-**[The safest way to store Bitcoin was just hacked...](https://www.youtube.com/watch?v=2X2V3xv_jik)**
+**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
 
-Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vGHox Last week the most secure way to store Bitcoin ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Fireship
+📺 CryptosRUs
 
-👁️ 540K • 👍 19K • 💬 2K • ⏱️ 5:10 • 2d ago
+👁️ 23K • 👍 1K • 💬 140 • ⏱️ 12:39 • 1d ago
+
+---
+
+**[Do This Before Saturday (BIP-110)](https://www.youtube.com/watch?v=3D7dENo5A1Y)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss some steps that Bitcoiners can take ...
+
+📺 Bitcoin University
+
+👁️ 24K • 👍 2K • 💬 581 • ⏱️ 23:19 • 1d ago
+
+---
+
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+
+📺 Natalie Brunell
+
+👁️ 29K • 👍 2K • 💬 399 • ⏱️ 1:09:52 • 1d ago
 
 ---
 
@@ -355,57 +369,47 @@ Build, test, and ship real apps in a day with Lovable: https://lovable.link/11vG
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 225 • 💬 13 • ⏱️ 2:26 • 14h ago
+👁️ 3K • 👍 249 • 💬 23 • ⏱️ 2:26 • 15h ago
 
 ---
 
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
+**[Trump Declares Crypto WAR!](https://www.youtube.com/watch?v=tAwJV1HgBeU)**
 
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 485 • 💬 76 • ⏱️ 11:04 • 1d ago
-
----
-
-**[Bitcoin to $180K, Gold to $7K, Silver to $200… In X Months!](https://www.youtube.com/watch?v=gUWUIs1EV-w)**
-
-Lawrence Lepard has made one of the boldest predictions yet for Bitcoin, gold, and silver and it all comes down to one macro ...
-
-📺 Crypto Insider
-
-👁️ 17K • 👍 658 • 💬 10 • ⏱️ 41:36 • 2d ago
-
----
-
-**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
-
-Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
-
-📺 Schwab Network
-
-👁️ 9K • 👍 102 • 💬 12 • ⏱️ 6:13 • 1d ago
-
----
-
-**[Bitcoin Bottom Signals..](https://www.youtube.com/watch?v=TmrfJa7_Bo8)**
-
-Today we analyze the strongest Bitcoin bottom signals and whether the crypto market is preparing for its next explosive move.
+Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com/discovercrypto/about ​​If you have ever made ...
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 287 • 💬 22 • ⏱️ 1:00:41 • 1d ago
+👁️ 3K • 👍 113 • 💬 39 • ⏱️ 1:24 • 19h ago
 
 ---
 
-**[BITCOIN JUST FLASHED A RARE BUY SIGNAL!!!](https://www.youtube.com/watch?v=dO1Ic0FmQOw)**
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Crypto Rover
+📺 Benjamin Cowen
 
-👁️ 10K • 👍 733 • 💬 55 • ⏱️ 7:37 • 1d ago
+👁️ 119K • 👍 7K • 💬 424 • ⏱️ 24:00 • 1d ago
+
+---
+
+**[🚨 BITCOIN!!!!!!!! STOP EVERYTHING!!!!!!](https://www.youtube.com/watch?v=80miHxo3Xe4)**
+
+Bitcoin is at a major turning point and could all come down to this! Everyone is wrong? BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 14K • 👍 1K • 💬 139 • ⏱️ 20:41 • 2d ago
+
+---
+
+**[bitcoin game over ](https://www.youtube.com/watch?v=FbghHd86MwA)**
+
+Bitcoin what now.
+
+📺 MMCrypto
+
+👁️ 24K • 👍 2K • 💬 115 • ⏱️ 7:20 • 1d ago
 
 ---
 
