@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T17:30:10.671611+00:00'
+updated: '2026-08-08T17:59:40.905773+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 17:30 UTC  
+**Last Updated:** August 08, 2026 at 17:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'm looking for a new one and my last post got deleted. Midjourney is alright but it does something weird with faces and buildings when they're close. I've worked on my prompts quite a bit but nothing seems to work well.
 
-34m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ I'm looking for a new one and my last post got deleted. Midjourney is alright bu
 
 Source: https://openrouter.ai/rankings
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Source: https://openrouter.ai/rankings
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-17h ago
+18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 Established ROI sits at 7% while planned AI spending holds at $188m across the 2,145 leaders surveyed. Cost visibility now separates the firms seeing returns.
 
-🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 27m ago
+🔗 [PPC Land](https://ppc.land/kpmg-finds-49-cut-ai-agent-rollouts-when-costs-outran-value/) • 56m ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 16h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 39m ago
+The Guardian • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 39m ago
 
 Business Email Compromise scams cost companies billions. Criminals are use AI, deepfakes and voice cloning to commit fraud.  Learn how businesses can protect themselves.
 
-Forbes • 17m ago
+Forbes • 47m ago
 
 ---
 
@@ -153,7 +153,7 @@ Forbes • 17m ago
 
 There are certain tools that are essential to the sport of cycling. A bike pump, a good set of hex keys, a torque wrench, and good tire levers. These tools can get most basic home-mechanic jobs done, but there’s one that I keep seeing pop up on some lists that has no place in your cycling essential ...
 
-Yahoo Sports • 20m ago
+Yahoo Sports • 49m ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Sports • 20m ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-foxbusiness.com • 16h ago
+foxbusiness.com • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1d ago
 
 A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 504 • 💬 362 • 23h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 506 • 💬 368 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -215,7 +215,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
-⬆️ 412 • 💬 417 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 413 • 💬 417 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
 
 ---
 
@@ -223,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 334 • 💬 243 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 334 • 💬 244 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -239,7 +239,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 AI coding tools deli
 
-⬆️ 283 • 💬 238 • 23h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 290 • 💬 244 • 23h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -281,7 +281,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 80 • 💬 35 • 3h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 100 • 💬 61 • 4h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -303,7 +303,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 📺 All-In Podcast
 
-👁️ 150K • 👍 4K • 💬 347 • ⏱️ 1:15:18 • 15h ago
+👁️ 150K • 👍 4K • 💬 347 • ⏱️ 1:15:18 • 16h ago
 
 ---
 
@@ -670,7 +670,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 487 • 7h ago
+⭐ 3.8k • 🔱 487 • 8h ago
 
 ---
 
@@ -680,7 +680,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 46m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -690,7 +690,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 388 • 13h ago
+⭐ 2.2k • 🔱 388 • 14h ago
 
 ---
 
@@ -740,7 +740,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 55m ago
+⭐ 1.9k • 🔱 243 • 1h ago
 
 ---
 

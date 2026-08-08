@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T17:30:10.680584+00:00'
+updated: '2026-08-08T17:59:40.915076+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 17:30 UTC  
+**Last Updated:** August 08, 2026 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +2.4%  
-**30d:** +1.4%  
+**24h:** +0.6%  
+**7d:** +2.5%  
+**30d:** +1.5%  
 **90d:** -20.4%  
 **1y:** -44.1%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-10h ago
+11h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -132,13 +132,13 @@ Same as title.
 
 Hi all, since the cold card hack, wondering if owning both IBIT and using another HW for BTC is ideal. I’m looking at the ledger or bitkey to purchase. Thanks!
 
-3h ago
+4h ago
 
 ---
 
 **[Lightning nodes seem to be next. If you have LND is probably a good idea to move them in your on chain wallet](https://www.reddit.com/r/Bitcoin/comments/1vi8w2l/lightning_nodes_seem_to_be_next_if_you_have_lnd/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -158,7 +158,7 @@ On this day (August 8) in 2017, the Segregated Witness upgrade was locked in on 
 
 BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 

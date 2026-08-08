@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T17:30:10.686696+00:00'
+updated: '2026-08-08T17:59:40.921238+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 17:30 UTC  
+**Last Updated:** August 08, 2026 at 17:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,922.43
+### $1,922.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +2.1%  
-**30d:** +6.9%  
-**90d:** -17.9%  
-**1y:** -55.0%  
+**24h:** +0.8%  
+**7d:** +2.2%  
+**30d:** +7.1%  
+**90d:** -17.7%  
+**1y:** -54.9%  
 
 ---
 
@@ -170,7 +170,7 @@ CCN.com • 8h ago
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -178,7 +178,7 @@ TradingView • 12h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Benzinga • 22h ago
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #Cr
 
 📺 Chart Analysis
 
-👁️ 404 • 💬 19 • ⏱️ 12:53 • 9h ago
+👁️ 404 • 💬 19 • ⏱️ 12:53 • 10h ago
 
 ---
 
