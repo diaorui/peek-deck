@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T21:30:07.047342+00:00'
+updated: '2026-08-08T21:57:40.554389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 21:30 UTC  
+**Last Updated:** August 08, 2026 at 21:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.9%  
-**30d:** +6.8%  
-**90d:** -18.0%  
+**24h:** +0.3%  
+**7d:** +2.0%  
+**30d:** +6.9%  
+**90d:** -17.9%  
 **1y:** -55.0%  
 
 ---
@@ -178,7 +178,7 @@ CCN.com • 12h ago
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -306,7 +306,7 @@ Learn from Anthony Pompliano's mistake. #ethereum #neverselling #liquidloans.
 
 📺 Liquid Loans
 
-👁️ 1K • 👍 8 • ⏱️ 0:32 • 6h ago
+👁️ 1K • 👍 8 • ⏱️ 0:32 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 236 • 💬 8 • ⏱️ 57:20 • 7h ago
+👁️ 3K • 👍 236 • 💬 8 • ⏱️ 57:20 • 8h ago
 
 ---
 

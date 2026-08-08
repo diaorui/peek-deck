@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T21:30:07.041974+00:00'
+updated: '2026-08-08T21:57:40.550216+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 21:30 UTC  
+**Last Updated:** August 08, 2026 at 21:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,8 +47,8 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.2%  
 **7d:** +2.4%  
 **30d:** +1.4%  
-**90d:** -20.4%  
-**1y:** -44.1%  
+**90d:** -20.5%  
+**1y:** -44.2%  
 
 ---
 
@@ -77,26 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
-
-14h ago
-
----
-
-**[What went wrong with BIP110?](https://www.reddit.com/r/Bitcoin/comments/1vizw0i/what_went_wrong_with_bip110/)**
-
-When it first came out it sounded like a pretty good idea, but it hasn’t caught traction. What do y’all think went wrong?
-
-5h ago
-
----
-
-**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
-
-15h ago
-
----
-
 **[THE CHAIN HAS SPLIT](https://www.reddit.com/r/Bitcoin/comments/1vj5l7w/the_chain_has_split/)**
 
 <3% support before the window opened. Good luck, shitcoiners
@@ -105,11 +85,23 @@ When it first came out it sounded like a pretty good idea, but it hasn’t caugh
 
 ---
 
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+
+15h ago
+
+---
+
 **[This is the block. Decisions are being made.](https://www.reddit.com/r/Bitcoin/comments/1vj5box/this_is_the_block_decisions_are_being_made/)**
 
 The last non split block has been mined. Lest see what happens now
 
-1h ago
+2h ago
+
+---
+
+**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
+
+16h ago
 
 ---
 
@@ -121,21 +113,21 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 ---
 
-**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
-
-1d ago
-
----
-
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
 15h ago
 
 ---
 
+**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+
+1d ago
+
+---
+
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -147,6 +139,14 @@ The scam page (https://t.co/z5s9HaJIu2) is vacuuming up millions. Harvesting add
 bc1qrz33mr7tx8wrpcs2pxrvv83hqwpm907s9shkz4 @zachxbt @CertiK
 
 🔗 [X (formerly Twitter)](https://x.com/ReallyBadDay99/status/2085454877719675354) • 1d ago
+
+---
+
+**[New cold-wallet?](https://www.reddit.com/r/Bitcoin/comments/1vj1a8m/new_coldwallet/)**
+
+Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
+
+4h ago
 
 ---
 
@@ -166,7 +166,7 @@ CoinDesk • 7h ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -174,7 +174,7 @@ Decrypt • 3h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 44m ago
+Forbes • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ Investing.com • 12h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 8h ago
+👁️ 2K • 👍 63 • 💬 16 • ⏱️ 1:18 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 11h ago
+👁️ 5K • 👍 566 • 💬 52 • ⏱️ 33:45 • 12h ago
 
 ---
 

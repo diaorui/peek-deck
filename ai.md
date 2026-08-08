@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T21:30:07.034141+00:00'
+updated: '2026-08-08T21:57:40.544235+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 21:30 UTC  
+**Last Updated:** August 08, 2026 at 21:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-21h ago
+22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 Managers are saving over 2x the time individual contributors are with AI tools. and it’s just starting I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were. I believe that's one of the reasons you get a 2x gap between managers and everyone else. In the same survey, 36% of managers said they're not likely to launch training for their employees on how to leverage AI, which makes the gap even bigger. A manager's job was never to be the best individual operator in the room. It's to make everyone else better at the job. That doesn't change because the tool changed. Why do you think there's a 100% gap between managers and their teams right now, and what would it actually take to close it? Source: https://www.business.com/articles/ai-usage-smb-workplace-study/ P.S. If you're the founder still in the middle of every decision, still the person the whole company waits on, still telling yourself you'll fix the structure "once things calm down." I write about building the operational backbone that lets a founder actually step back every Thursday. Was a COO for 20+ years, so this is genuinely my bread and butter. Free to join here
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 9h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ OpenAI • 1d ago
 
 Chabad's Met@Chabad initiative combines AI matchmaking with rabbi-vetted profiles for a virtual speed dating event aiming to connect 13,000 Jewish singles.
 
-Fox News • 29m ago
+Fox News • 57m ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo • 1h ago
 
 An AI system could help scientists identify a promising new drug.
 
-ScienceAlert • 28m ago
+ScienceAlert • 56m ago
 
 ---
 
@@ -177,7 +177,7 @@ wsj.com • 20h ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 20h ago
+Fox Business • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ Fox Business • 20h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 5h ago
 
 The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
 
-NVIDIA Blog • 10h ago
+NVIDIA Blog • 11h ago
 
 ---
 
@@ -209,7 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 508 • 💬 372 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 511 • 💬 374 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -218,6 +218,12 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
 
 ⬆️ 413 • 💬 417 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+
+---
+
+**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
+
+⬆️ 374 • 💬 179 • 3h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
@@ -233,13 +239,7 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 AI coding tools deli
 
-⬆️ 293 • 💬 250 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-
----
-
-**[Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://news.ycombinator.com/item?id=49224294)**
-
-⬆️ 248 • 💬 119 • 3h ago • [mezha.net](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+⬆️ 295 • 💬 252 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -267,13 +267,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 124 • 💬 87 • 7h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
-
----
-
-**[When online commenters detect my art as AI](https://news.ycombinator.com/item?id=49188916)**
-
-⬆️ 116 • 💬 64 • 3d ago • [David Revoy](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai)
+⬆️ 144 • 💬 96 • 8h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -284,7 +278,15 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 79 • 💬 19 • 17h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 80 • 💬 19 • 18h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+
+---
+
+**[New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://news.ycombinator.com/item?id=49204546)**
+
+New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
+
+⬆️ 73 • 💬 117 • 1d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
@@ -675,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 11h ago
+⭐ 3.8k • 🔱 489 • 12h ago
 
 ---
 
@@ -685,7 +687,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 40s ago
+⭐ 2.6k • 🔱 1.8k • 28m ago
 
 ---
 
@@ -695,7 +697,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 389 • 17h ago
+⭐ 2.2k • 🔱 389 • 18h ago
 
 ---
 
@@ -735,7 +737,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 49m ago
+⭐ 2.0k • 🔱 233 • 1h ago
 
 ---
 
@@ -745,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 3m ago
+⭐ 1.9k • 🔱 243 • 31m ago
 
 ---
 
