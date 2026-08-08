@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-08T11:56:35.546627+00:00'
+updated: '2026-08-08T12:53:10.131068+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - repositories
 - news
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 08, 2026 at 11:56 UTC  
+**Last Updated:** August 08, 2026 at 12:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ TikTok owner training a model with 10 trillion parameters.
 
 Okay this genuinely scared me and I don't think enough people are talking about it. I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address. My agent almost did it. I caught it mid action because I happened to have a confirmation step turned on, but if I hadn't, it would have just quietly forwarded stuff without asking me first. This apparently called prompt injection and it's not some rare theoretical thing, there's already been real world cases with tools like microsoft copilot getting exploited the same way. Any ai with access to your inbox, calendar, or other accounts is a potential target because it can't always tell the difference between your instructions and instructions hidden inside the content it is reading. If you're using any kind of ai agent connected to your accounts, please actually test what happens if it hits something malicious. Most people including me had no idea this was even possible until it almost happened to me. A few people asked what agent this was, it's Slashy. the only reason i caught this at all is it has a confirmation step before anything sends, wasn't relying on my own attention span to catch it.
 
-21h ago
+22h ago
 
 ---
 
@@ -65,7 +65,7 @@ Okay this genuinely scared me and I don't think enough people are talking about 
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-9h ago
+10h ago
 
 ---
 
@@ -73,13 +73,13 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 8h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 9h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 27m ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast. The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile a skilled PT costs the clinic maybe 40 to 60 an hour all in. The robot does not replace that PT. It maybe assists. So now you have both costs. I get that the argument is long term. Depreciation over time, no sick days, scales without hiring. That math works eventually in manufacturing maybe. High volume, repetitive, controlled environment. Healthcare is none of those things. Patients are unpredictable. Edge cases are the norm, not the exception. What actually confuses me is who keeps funding this narrative that replacement is imminent. The timeline keeps sliding but the confidence never drops. At some point that pattern should raise flags. Curious if people in other fields are running actual numbers or just repeating the talking point. Where does the cost crossover actually happen in a domain you know well.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Physical therapy clinics run on thin margins. I see it every day. So when I hear
 
 In the video the player on the left is a Neuromorphic Algorithm that knows nothing about ping-pong or trajectories, but it knows how to learn and imagine. As you can see it does it well, better than its opponent which, on the other hand, is implemented with standard algorithms; moreover, unlike the latter, if you play tricks on it, e.g., invert the commands (UP<->DOWN), after a brief moment of bewilderment it realigns. Cute, right? P.S. The code was implemented in POWER-KI entirely by PWK-AI-WORKBENCH (100% VIBE coding 😊 ).
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ In the video the player on the left is a Neuromorphic Algorithm that knows nothi
 
 OpenAI’s consumer hardware device is expected to feature a doughnut-like design roughly the size of a hockey puck and carry a price tag of more than $300, Bloomberg reports, citing anonymous sources. The AI-powered gadget, slated for release in 2027, will function like a smart speaker without a screen, serving as an interactive companion. Designed in collaboration with former Apple design chief Jony Ive, it is expected to be the first of a forthcoming lineup of hardware devices infused with ChatGPT.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 16h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openais-hockey-puck-sized-gadget-to-cost-over-300-8440609/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 17h ago
 
 ---
 
@@ -111,7 +111,7 @@ OpenAI’s consumer hardware device is expected to feature a doughnut-like desig
 
 Sam Altman has often talked about AI becoming increasingly accessible over time. If every company eventually has access to frontier models, what becomes the competitive advantage? Better data? Better workflows? Better distribution? Better execution? Curious what people here think the real moat will be once the models themselves become commodities.
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ Sam Altman has often talked about AI becoming increasingly accessible over time.
 
 AI coding tools deli
 
-Databricks • 18h ago
+Databricks • 19h ago
 
 ---
 
@@ -131,13 +131,13 @@ Databricks • 18h ago
 
 Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[How AI Is Propelling a Surge in American Imports](https://www.bloomberg.com/news/newsletters/2026-08-08/how-ai-is-triggering-a-surge-in-american-imports-new-economy)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 1h ago
 
 A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNN • 1h ago
 
 Chinese accounts for just 1.3% of global web content. Beijing is now treating data as strategic infrastructure, with a 2028 plan to build national AI datasets.
 
-thenextweb.com • 15m ago
+thenextweb.com • 1h ago
 
 ---
 
@@ -161,19 +161,19 @@ thenextweb.com • 15m ago
 
 SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
 
-Fox Business • 11h ago
+Fox Business • 12h ago
 
 ---
 
 **[Suspected AI use is the entertainment industry's scarlet letter](https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash](https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 483 • 💬 345 • 18h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 483 • 💬 345 • 19h ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -219,7 +219,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 332 • 💬 243 • 1d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 332 • 💬 243 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -235,7 +235,7 @@ More than 50 offending image and video ads were published across Facebook, Insta
 
 TIME is now serving two different versions of its website. Humans get the magazine. AI crawlers get a stripped down markdown copy with ads baked in that no person will ever see. I fetched one ordinary…
 
-⬆️ 263 • 💬 110 • 2d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+⬆️ 263 • 💬 110 • 3d ago • [Vincent Schmalbach](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -243,7 +243,7 @@ TIME is now serving two different versions of its website. Humans get the magazi
 
 AI coding tools deli
 
-⬆️ 254 • 💬 212 • 17h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 254 • 💬 212 • 18h ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -259,7 +259,7 @@ Both the general public and academic communities have raised concerns about syco
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 169 • 💬 106 • 22h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 169 • 💬 106 • 23h ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -287,7 +287,7 @@ Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek C
 
 📺 TechLead
 
-👁️ 50K • 👍 1K • 💬 238 • ⏱️ 8:21 • 20h ago
+👁️ 50K • 👍 1K • 💬 238 • ⏱️ 8:21 • 21h ago
 
 ---
 
@@ -315,7 +315,7 @@ Scientists used an artificial intelligence program to create new viral genomes t
 
 📺 Bugs
 
-👁️ 152K • 👍 12K • 💬 561 • ⏱️ 0:34 • 19h ago
+👁️ 152K • 👍 12K • 💬 561 • ⏱️ 0:34 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 194K • 👍 14K • 💬 503 • ⏱️ 1:36 • 20h ago
+👁️ 194K • 👍 14K • 💬 503 • ⏱️ 1:36 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 758K • 👍 43K • 💬 477 • ⏱️ 0:52 • 18h ago
+👁️ 758K • 👍 43K • 💬 477 • ⏱️ 0:52 • 19h ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,735 • 9h ago
+⬇️ 2,345,190 • ❤️ 1,735 • 10h ago
 
 ---
 
@@ -447,7 +447,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 448 • 12h ago
+⬇️ 0 • ❤️ 448 • 13h ago
 
 ---
 
@@ -644,7 +644,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.6k • 🔱 820 • 3h ago
+⭐ 7.6k • 🔱 820 • 4h ago
 
 ---
 
@@ -654,7 +654,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.1k • 🔱 361 • 19h ago
+⭐ 4.1k • 🔱 361 • 20h ago
 
 ---
 
@@ -672,7 +672,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.5k • 🔱 1.8k • 1m ago
+⭐ 2.5k • 🔱 1.8k • 57m ago
 
 ---
 
@@ -682,7 +682,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.2k • 🔱 386 • 8h ago
+⭐ 2.2k • 🔱 386 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `agent` `agentic-ai` `voice-agent` `voice-ai` `voice-chat`
 
-⭐ 2.0k • 🔱 142 • 22h ago
+⭐ 2.0k • 🔱 142 • 23h ago
 
 ---
 
@@ -732,7 +732,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 243 • 13m ago
+⭐ 1.9k • 🔱 243 • 1h ago
 
 ---
 

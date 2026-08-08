@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T11:56:35.561929+00:00'
+updated: '2026-08-08T12:53:10.145720+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 11:56 UTC  
+**Last Updated:** August 08, 2026 at 12:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 22h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Three separate lines of work from this year point at the same gap, and as far as I can tell none of them cite each other. I’ve been running an agent labor market on Base mainnet with real USDC since July, so I hit this from the implementation side and only found the papers afterward. 1. The ERC-8004 empirical study (2606.26028) measured the deployed ecosystem across Ethereum, BSC and Base. Coordinated Sybil behaviour among reviewers at 73.5% / 59.2% / 90.6%. Only 3% / 4% / 15% of registrations expose a live endpoint. Their conclusion: the Reputation Registry can’t work as a trust signal because “values are not commensurable” and feedback is rarely grounded in verifiable interaction. 2. Separately, a pile of 2026 work on LLM-as-judge robustness (2603.06594, 2506.09443) shows model judges can be pushed to maximum scores with short appended phrases, and that those phrases transfer between models. One paper’s title is literally “A Coin Flip for Safety.” 3. And “Trust Without Trusting” (2605.06738) proposes recomputable trust: signed events, a deterministic fold, published evidence, so a third party can recompute a trust verdict without trusting whoever produced it. It works over existing on-chain data, no new standard needed. Here’s the thing. Paper 3 defines the fold but explicitly leaves the weighting open — it says combining verdicts of different confidence is supported but doesn’t specify how. Papers 1 and 2 are, together, the reason that weighting can’t be left open. If a mechanically reproduced result and a model’s opinion enter the same fold at the same weight, the fold is only as strong as its weakest input, and paper 2 says that input is a coin flip. The concrete gap: ERC-8004’s Validation Registry stores a verdict as one number, 0–100. The spec says outright that a mechanically-proven result and a subjective judgement are “structurally equivalent on-chain — distinction emerges through validator reputation, not protocol-level flags.” But validator reputation is the thing paper 1 measured as 73–90% Sybil. The fallback is the broken part. There’s also a taxonomy paper (2511.03434) that sorts inter-agent trust into Brief / Claim / Proof / Stake / Reputation / Constraint and concludes no single one suffices. I think it’s right but that “Proof” is one bucket too coarse. A canary that only the target could produce, and an LLM saying the work looks good, are both “proof” in that taxonomy and are not remotely the same thing. Paper 2 is the evidence for splitting it. What I did about it, for whatever one implementation is worth. I tag every verdict with a forge-resistance class before it goes anywhere: reproducible (a third party can re-run it and get the same answer — a canary, the requester’s own CI, a mutation-graded suite), mechanical (deterministic but needs my inputs to reproduce), model (an LLM or vision model’s judgement), attested (signed but not reproducible), declared (unverified self-report, which is what 8004 feedback defaults to). The class rides along in the tag field the Validation Registry already has, so a consumer can weight by it instead of averaging flat. Fifty declared 100s weigh less than one reproducible 60. That’s it. It’s not a Sybil solution and I want to be clear I haven’t solved that — I Sybil-attacked my own market and wrote up how it went. It’s the missing coordinate that lets a downstream fold apply a solution, which is more than the standard currently offers and less than a fix. Two things I’d genuinely like to be argued with on: **•** Is “reproducible vs. model” the right primary axis, or should it be something else (cost to forge in dollars? number of independent parties required?). **•** The 8004 tag field is a string and nobody agrees on its contents. Is there any appetite for a registry-level convention, or is off-chain interpretation the intended design? Disclosure: I used an LLM to help tidy the writing here. The measurements, the code and the argument are mine; the paper links are there so you can check the numbers rather than take my word for them.
 
-2d ago
+3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 16h ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 1d ago
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 16h ago
+Benzinga • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ XRP's ATH is still the $3.84 price it hit in January 2018, while Bitcoin reached
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -210,7 +210,7 @@ thestreet.com • 14h ago
 
 A Trump-linked Ethereum wallet reportedly moved $100M to Binance, raising questions about potential ETH sales and the deep ties between WLFI and
 
-Crypto Briefing • 15h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 15h ago
+👁️ 4K • 👍 207 • 💬 101 • ⏱️ 21:05 • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 19h ago
+👁️ 2K • 👍 92 • 💬 10 • ⏱️ 1:08 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin #Ethereum #BTCPricePrediction #ETHAnalysis #CryptoNews #CryptoMarket #Cr
 
 📺 Chart Analysis
 
-👁️ 203 • 💬 18 • ⏱️ 12:53 • 4h ago
+👁️ 203 • 💬 18 • ⏱️ 12:53 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T11:56:35.565390+00:00'
+updated: '2026-08-08T12:53:10.148979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 11:56 UTC  
+**Last Updated:** August 08, 2026 at 12:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,77 +32,83 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[He fell😭](https://www.reddit.com/r/robotics/comments/1viqcje/he_fell/)**
+
+While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
+
+4h ago
+
+---
+
+**[How do you give a microgripper a sense of touch?](https://www.reddit.com/r/robotics/comments/1vir7vk/how_do_you_give_a_microgripper_a_sense_of_touch/)**
+
+​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
+
+3h ago
+
+---
+
+**[Designing & training a robot from start to finish for beginners](https://www.reddit.com/r/robotics/comments/1viroes/designing_training_a_robot_from_start_to_finish/)**
+
+I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 3h ago
+
+---
+
+**[Active spine vs rigid (cheetah) experiment](https://www.reddit.com/r/robotics/comments/1vip6mk/active_spine_vs_rigid_cheetah_experiment/)**
+
+Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
+
+5h ago
+
+---
+
 **[Autoresearch for Robotics Hardware](https://www.reddit.com/r/robotics/comments/1vi3ju0/autoresearch_for_robotics_hardware/)**
 
 I let 120 autoresearch agents discover a physics model for a robotic actuator, and in 1.5 hours they completed research that would have taken weeks. We’re building open-source autoresearch agents for hardware. We’re designing this tool to be focused on co-design, where you can steer research in natural language the same way you’d talk to a single coding agent. Onyx uses its own CLI to scaffold its own setup, tools, and evaluation for its agents to use for reliable research at scale. It works with your existing claude/codex/opencode and simply uses git for experiment tracking in your repo. Here were the stats from our BLDC actuator autoresearch: One-time setup of a research goal to predict the dynamics of the actuator 120 Onyx agents across 4 autoresearch sessions, 1.5 hours total 1200 code experiments, each with a git commit and metric result 36 unique hypotheses were explored for new physics model terms I love controls and robotics, and have worked on these areas for most of my career. I started working on this tool because real-world hardware engineering is fundamentally iterative and I’ve always felt constrained by my own time bandwidth. Since the autoresearch experiments are just code, we can point it at both simple problems like parameter tuning but even designing fully new algorithm architectures on each experiment. I think that’s exciting. Github repo: https://github.com/onyx-robotics/onyx-agent There’s a lot of work cut out for us at Onyx with getting autoresearch working on physical systems, but I want to share results along the way and keep the agents open-source for the ecosystem. Ask me any questions and let me know what you’d want to see!
-
-20h ago
-
----
-
-**[I tested my robotic lamp’s positioning repeatability -about 0.03 mm average deviation across 10 repetitions](https://www.reddit.com/r/robotics/comments/1vhe8ml/i_tested_my_robotic_lamps_positioning/)**
-
-I ran a preliminary test to see how consistently Watti could return to the same position. Across 10 repetitions, the average measured deviation was about 0.03 mm. This was only a simple test at one position using a dial indicator, but the result was better than I expected. Next, I want to experiment with using her depth camera and movement to create 3D scans of the surrounding scene and individual objects.
-
-1d ago
-
----
-
-**[So it's day 2 of making ortomi robot DIY version I have added a happy expression to it hoping it replicates he original ortomi robot](https://www.reddit.com/r/robotics/comments/1vi2tr1/so_its_day_2_of_making_ortomi_robot_diy_version_i/)**
 
 21h ago
 
 ---
 
-**[ROS News for the Week August 3rd, 2026 - Community News](https://www.reddit.com/r/robotics/comments/1vi753b/ros_news_for_the_week_august_3rd_2026_community/)**
+**[Robotics Project Ideas](https://www.reddit.com/r/robotics/comments/1vijujp/robotics_project_ideas/)**
 
-ROS News for the Week August 3rd, 2026          Congratulations to our Japanese colleagues on another successful ROSConJP. The photos and videos coming out of the event look amazing.             We’ve got a ton of great events coming up. Next Thursday we’ve schedule a ROS By-The-Bay meetup at InOrbit in Mountain View. Foxglove’s Actuate conference  is the following week followed by a workshop for the Scenic project at UC Santa Cruz. I’ve also organized a ROS Industry Night at Trossen Robotics sh...
+I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-august-3rd-2026/57223) • 18h ago
-
----
-
-**[Looking for guidance for building career in robotics](https://www.reddit.com/r/robotics/comments/1vhv7n6/looking_for_guidance_for_building_career_in/)**
-
-1d ago
+10h ago
 
 ---
 
-**[Is it ok if I talk about one of my projects here?](https://www.reddit.com/r/robotics/comments/1vhre7f/is_it_ok_if_i_talk_about_one_of_my_projects_here/)**
+**[Inferencing Cosmos3-Nano with RTX 5090 in a WebUI Docker](https://www.reddit.com/r/robotics/comments/1viqtlk/inferencing_cosmos3nano_with_rtx_5090_in_a_webui/)**
 
-Hi if I’m breaking a rule please lmk or just help me remove the post glad to do so I’m looking for folks who want to talk more about robotics, specifically how to use onboard VLMs to do real work in a home environment I have some more context I can share but long story short I am an author who wants to talk shop with folks who are into that kind of thing or maybe even who do that kind of thing Would it be ok to ask here?
+Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-1d ago
-
----
-
-**[[Feedback Request] Master’s Thesis: Edge-Orchestrated Smart Home using ROS 2, MPC, and Micro-PLC architecture](https://www.reddit.com/r/robotics/comments/1vhza34/feedback_request_masters_thesis_edgeorchestrated/)**
-
-23h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 4h ago
 
 ---
 
-**[Newbie question - differential vs two separated servos](https://www.reddit.com/r/robotics/comments/1vhfd7s/newbie_question_differential_vs_two_separated/)**
+**[showing my 4wheeled urdf model update 07-08-2026 #robotics #simulation l...](https://www.reddit.com/r/robotics/comments/1viqt9r/showing_my_4wheeled_urdf_model_update_07082026/)**
 
-So I saw a youtube short where someone presented double servo diff action that allows for two degrees of motion. Is there any upside to that? For a newbie, with zero robotics knowledge, it seems that the separate servos would be more loaded than like designed here, with differential. I’d like to know your opinions :)
+I wanna a show my first working 4wheeled urdf model that i have designed in freecad.robotcad for ros2 jazzy and gazebo harmonic. am very proud of it.It was quite some work especialy the wheels but i got it making functional(it still a little rough to use).But it was fun experience and made prototyping in the future way easier.I posted the pkg github link in the video description.I do advice if you wanna try out to read the Readme file in the pkg folder first.
 
-1d ago
-
----
-
-**[Probando con mini músculos neumáticos.](https://www.reddit.com/r/robotics/comments/1vhowfn/probando_con_mini_músculos_neumáticos/)**
-
-Vídeo de hace unos años donde probé unos mini músculos que me fabriqué utilizando una válvula pepepako de mi antigua versión y el aire de 1.5 bates que tenía comprimido en una botella de refrescos de plástico para imitar la cola de un pescado.
-
-🔗 [youtu.be](https://youtu.be/36rIR4SqzzA?is=O56Gjti0P2-gyru4) • 1d ago
+🔗 [YouTube](https://youtube.com/shorts/bfe_6QHdr1Q?si=M_-r3rzuqKoD2JdV) • 4h ago
 
 ---
 
-**[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vhg06t/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
+**[Eccentric cam too thick](https://www.reddit.com/r/robotics/comments/1viq5h8/eccentric_cam_too_thick/)**
 
-Hi r/robotics! handle the business/ops side for UFACTORY USA — we distribute the xArm and Lite 6 collaborative arms across the U.S. to universities, national labs, and commercial customers. I'm explicitly not an engineer, so this isn't a "how do I calibrate my DH parameters" AMA — it's more about what it actually takes to run a robotics hardware distribution business day to day.
+https://preview.redd.it/nq714ryey3ih1.png?width=991&format=png&auto=webp&s=9eba98acb9452175d90466e84d51e846903d2632 My eccentric cam for my 20:1 reduction cycloidal driver is 40mm thick while I was hoping for less like 20mm thick. All the empty spots you see which is 4 is where the bearings are supposed to go. I don't know how I can make the eccentric cam smaller without using smaller bearings that are like 3mm thick but if I do that won't it not be able to handle high torques of like 100Nm of torque or should I try doing that. I don't think using small bearings is good idea as I searched it up and google gemini said "no its a horrible idea." Lowkey I dont even know what eccentric cam even does I am mostly following a tutorial and I don't know if there may be another mechanism that is way thinner. Thanks.
 
-1d ago
+4h ago
+
+---
+
+**[Opinion on the Nvidia models compared to pi05?](https://www.reddit.com/r/robotics/comments/1vihcv4/opinion_on_the_nvidia_models_compared_to_pi05/)**
+
+As the titles says, I would like to know your experience with new Nvidia models, both world action models and VLAs, like Cosmos3, DreamZero, Groot, etc. And how they compare with the good old fine-tuned Pi05 that I am currently using in my daily life in the lab. I haven't tried any of those Nvidia models yet and before getting my hand on them I'd like a honest feedback from someone that have a direct experience with them both in Sim and in real world experiments.
+
+12h ago
 
 ---
 
@@ -120,13 +126,13 @@ The New York Times • 1d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 21h ago
+The Information • 22h ago
 
 ---
 
 **[Human-aware robots adapt to partners, reducing back strain during team lifting](https://techxplore.com/news/2026-08-human-aware-robots-partners-strain.html)**
 
-Tech Xplore • 2d ago
+Tech Xplore • 3d ago
 
 ---
 
@@ -148,7 +154,7 @@ HII • 1d ago
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -156,7 +162,7 @@ Yahoo Finance • 23h ago
 
 This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
 
-IEEE Spectrum • 19h ago
+IEEE Spectrum • 20h ago
 
 ---
 
@@ -164,13 +170,13 @@ IEEE Spectrum • 19h ago
 
 Robotics is no longer simply another technology market.
 
-fortune.com • 2h ago
+fortune.com • 3h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -200,7 +206,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 72K • 👍 1K • 💬 104 • ⏱️ 11:26 • 5d ago
+👁️ 72K • 👍 1K • 💬 104 • ⏱️ 11:26 • 6d ago
 
 ---
 
@@ -230,7 +236,7 @@ Discover the revolutionary chip that makes Tesla robots unstoppable, leveraging 
 
 📺 Unsealed Universe
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:44 • 20h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:44 • 21h ago
 
 ---
 
@@ -280,7 +286,7 @@ Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next
 
 📺 Dhar Mann Studios
 
-👁️ 531K • 👍 11K • 💬 1K • ⏱️ 24:28 • 11h ago
+👁️ 531K • 👍 11K • 💬 1K • ⏱️ 24:28 • 12h ago
 
 ---
 
