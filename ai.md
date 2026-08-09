@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T10:35:04.820088+00:00'
+updated: '2026-08-09T11:29:04.157521+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 10:35 UTC  
+**Last Updated:** August 09, 2026 at 11:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-18h ago
+19h ago
 
 ---
 
@@ -57,7 +57,7 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +81,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 22h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -143,7 +143,7 @@ WSJ • 1d ago
 
 **[China AI Chip Designer Moore Threads Plans Hong Kong Listing](https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing)**
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 55m ago
 
 A chatbot called 'Psychologist' offers empathy and advice, but it's not a real therapist. California legislators are trying to craft some guardrails.
 
-Los Angeles Times • 35m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Los Angeles Times • 35m ago
 
 Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
 
-Variety • 10h ago
+Variety • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ blogs.nvidia.com • 11h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 165 • 💬 108 • 20h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 165 • 💬 108 • 21h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -330,7 +330,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 16h ago
+👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 17h ago
 
 ---
 
@@ -452,7 +452,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 505 • 14h ago
+⬇️ 0 • ❤️ 505 • 15h ago
 
 ---
 
@@ -464,7 +464,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,778 • 7h ago
+⬇️ 2,390,692 • ❤️ 1,778 • 8h ago
 
 ---
 
@@ -661,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 857 • 10h ago
+⭐ 7.9k • 🔱 857 • 11h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 377 • 56m ago
+⭐ 4.3k • 🔱 377 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 56m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 394 • 9h ago
+⭐ 2.3k • 🔱 394 • 10h ago
 
 ---
 
@@ -719,7 +719,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.0k • 🔱 179 • 3d ago
+⭐ 2.0k • 🔱 179 • 4d ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 143 • 1h ago
+⭐ 2.0k • 🔱 143 • 2h ago
 
 ---
 
@@ -739,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 234 • 2h ago
+⭐ 2.0k • 🔱 234 • 3h ago
 
 ---
 

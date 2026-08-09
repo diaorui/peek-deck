@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T10:35:04.834890+00:00'
+updated: '2026-08-09T11:29:04.172322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 10:35 UTC  
+**Last Updated:** August 09, 2026 at 11:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 4d ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 8h ago
+👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 9h ago
+👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https:
 
 📺 Ashutosh Kumar
 
-👁️ 7K • 👍 587 • 3h ago
+👁️ 7K • 👍 587 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 16h ago
+👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 17h ago
 
 ---
 
