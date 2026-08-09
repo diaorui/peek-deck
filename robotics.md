@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T06:08:03.881560+00:00'
+updated: '2026-08-09T07:32:26.713616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 06:08 UTC  
+**Last Updated:** August 09, 2026 at 07:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-10h ago
+12h ago
 
 ---
 
@@ -44,13 +44,13 @@ This is a short clip from my latest underwater field test. The system is process
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-21h ago
+23h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ I have lots of stuff to build with and a 3d printer but the issue is my pc it’
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-20h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I have lots of stuff to build with and a 3d printer but the issue is my pc it’
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 20h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 21h ago
 
 ---
 
@@ -82,7 +82,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 2d ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 1d ago
+theinformation.com • 1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Tech Xplore • 1d ago
 
 Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 58K • 👍 899 • ⏱️ 17:44 • 2d ago
+👁️ 60K • 👍 935 • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 34K • 👍 358 • 💬 410 • ⏱️ 1:36 • 4d ago
+👁️ 34K • 👍 362 • 💬 413 • ⏱️ 1:36 • 4d ago
 
 ---
 
@@ -222,7 +222,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Y Combinator
 
-👁️ 8K • 👍 310 • 💬 12 • ⏱️ 1:24:13 • 16h ago
+👁️ 9K • 👍 341 • 💬 14 • ⏱️ 1:24:13 • 17h ago
 
 ---
 
@@ -232,15 +232,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 35K • 👍 496 • 💬 266 • ⏱️ 28:01 • 1d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 2.5M • 👍 113K • 💬 7K • ⏱️ 0:58 • 1d ago
+👁️ 36K • 👍 515 • 💬 269 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -264,6 +256,16 @@ A Robotics startup in California sparks an internet frenzy after releasing pictu
 
 ---
 
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+
+📺 Cyrus Janssen
+
+👁️ 153K • 👍 559 • 💬 97 • ⏱️ 40:27 • 2d ago
+
+---
+
 **[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
 
 Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
@@ -274,13 +276,11 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 ---
 
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+📺 Tyrecordslol
 
-📺 Custom Adventurist
-
-👁️ 32K • 👍 2K • 💬 157 • ⏱️ 1:02 • 2d ago
+👁️ 2.5M • 👍 113K • 💬 7K • ⏱️ 0:58 • 1d ago
 
 ---
 
