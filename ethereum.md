@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T14:06:40.015013+00:00'
+updated: '2026-08-09T15:01:02.919507+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 14:06 UTC  
+**Last Updated:** August 09, 2026 at 15:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Ether supply is leaving exchanges as stablecoins rotate onto Ethereum, yet ETH price stays flat near $1,900.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ tradingview.com • 1d ago
 
 Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ markets.businessinsider.com • 1d ago
 
 Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 217 • 💬 4 • ⏱️ 7:37 • 12h ago
+👁️ 4K • 👍 217 • 💬 4 • ⏱️ 7:37 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 354 • 💬 6 • ⏱️ 1:29 • 13h ago
+👁️ 6K • 👍 354 • 💬 6 • ⏱️ 1:29 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 228 • 👍 9 • 💬 1 • ⏱️ 1:25 • 20h ago
+👁️ 228 • 👍 9 • 💬 1 • ⏱️ 1:25 • 21h ago
 
 ---
 

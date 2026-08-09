@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T14:06:40.010905+00:00'
+updated: '2026-08-09T15:01:02.913942+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 14:06 UTC  
+**Last Updated:** August 09, 2026 at 15:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,19 +77,53 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
+
+2h ago
+
+---
+
 **[I finally own 1% of a Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjiurw/i_finally_own_1_of_a_bitcoin/)**
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-7h ago
+8h ago
+
+---
+
+**[End of my journey. Please learn from me.](https://www.reddit.com/r/Bitcoin/comments/1vjq5uk/end_of_my_journey_please_learn_from_me/)**
+
+I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
+
+1h ago
+
+---
+
+**[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
+
+2h ago
+
+---
+
+**[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
+
+1h ago
+
+---
+
+**[BIP110 in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1vjpnbg/bip110_in_a_nutshell/)**
+
+I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
+
+1h ago
 
 ---
 
 **[Rodolfo Novak, Coldcard scammer: "I will take it".](https://www.reddit.com/r/Bitcoin/comments/1vji2nz/rodolfo_novak_coldcard_scammer_i_will_take_it/)**
 
-"If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general.
+"If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +131,15 @@ I started with daily investments early this year and before I realized I passed 
 
 To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
 
-10h ago
+11h ago
+
+---
+
+**[RIB](https://www.reddit.com/r/Bitcoin/comments/1vjkyt9/rib/)**
+
+I have a story to tell, but i don't.
+
+6h ago
 
 ---
 
@@ -106,50 +148,6 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 <3% support before the window opened. Good luck, shitcoiners
 
 🔗 [bip110monitor.com](https://bip110monitor.com/) • 18h ago
-
----
-
-**[Did someone burn 100 BTC?](https://www.reddit.com/r/Bitcoin/comments/1vj99lc/did_someone_burn_100_btc/)**
-
-Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
-
-15h ago
-
----
-
-**[RIB](https://www.reddit.com/r/Bitcoin/comments/1vjkyt9/rib/)**
-
-I have a story to tell, but i don't.
-
-5h ago
-
----
-
-**[What's the best Instant Exchange to sell Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjk2co/whats_the_best_instant_exchange_to_sell_bitcoin/)**
-
-I am mining Bitcoin and want to hold as much as possible, but to keep my machines running I need to sell some. I do not like using P2P because it takes too long and I have had issues before. Changenow froze one of my orders and that made me lose trust in the process. I also do not trust centralized exchanges, so I avoid them completely. Now that eXch has shut down, I feel stuck without any reliable options left. Is there any method that could help me sell without giving up control or going through all the hassle, something fast and secure that does not involve the usual problems I have faced?
-
-6h ago
-
----
-
-**[This is the block. Decisions are being made.](https://www.reddit.com/r/Bitcoin/comments/1vj5box/this_is_the_block_decisions_are_being_made/)**
-
-The last non split block has been mined. Lest see what happens now
-
-18h ago
-
----
-
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
-
-1d ago
-
----
-
-**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
-
-1d ago
 
 ---
 
@@ -169,7 +167,7 @@ CoinDesk • 1d ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -177,7 +175,7 @@ The Block • 23h ago
 
 AI data center builder Firmus, originally a Bitcoin miner, secured $2 billion in equity at over $10.5 billion valuation, doubling in four months.
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -201,7 +199,7 @@ Bloomberg.com • 2d ago
 
 Bitcoin’s BIP-110-enforcing branch stalled at block 961,633 on Sunday after producing only two blocks, while the non-enforcing chain advanced to 961,721, widening the gap to 88 blocks.According to the BIP-110 monitor, updated at 10:19 am UTC, the branch’s latest block had been mined about 12 hours…
 
-tradingview.com • 3h ago
+tradingview.com • 4h ago
 
 ---
 
@@ -225,7 +223,7 @@ Fortune • 2d ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -233,7 +231,7 @@ Decrypt • 20h ago
 
 Within the next five years, Bitcoin could soar past the $1 million price level.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -340,7 +338,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 197 • 💬 10 • ⏱️ 1:20 • 22h ago
+👁️ 7K • 👍 197 • 💬 10 • ⏱️ 1:20 • 23h ago
 
 ---
 
@@ -400,7 +398,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 174 • 💬 7 • ⏱️ 1:03 • 23h ago
+👁️ 6K • 👍 174 • 💬 7 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -410,7 +408,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 424 • 💬 14 • ⏱️ 17:47 • 15h ago
+👁️ 8K • 👍 424 • 💬 14 • ⏱️ 17:47 • 16h ago
 
 ---
 

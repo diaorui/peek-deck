@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T14:06:40.017212+00:00'
+updated: '2026-08-09T15:01:02.922509+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 14:06 UTC  
+**Last Updated:** August 09, 2026 at 15:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -220,7 +220,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 51K • 👍 3K • 💬 483 • ⏱️ 26:40 • 4d ago
+👁️ 51K • 👍 3K • 💬 483 • ⏱️ 26:40 • 5d ago
 
 ---
 
