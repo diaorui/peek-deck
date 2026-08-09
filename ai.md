@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T05:11:49.129341+00:00'
+updated: '2026-08-09T06:08:03.862610+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 05:11 UTC  
+**Last Updated:** August 09, 2026 at 06:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-15h ago
+16h ago
 
 ---
 
@@ -65,7 +65,7 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-10h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 19h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 20h ago
 
 ---
 
@@ -81,13 +81,13 @@ TikTok owner training a model with 10 trillion parameters.
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-13h ago
+14h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 17h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ China is evolving its influence operations to amplify existing American domestic
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-cnbc.com • 17h ago
+cnbc.com • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ cnbc.com • 17h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -145,7 +145,7 @@ WSJ • 1d ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fortune • 13h ago
 
 Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
 
-Variety • 5h ago
+Variety • 6h ago
 
 ---
 
@@ -169,13 +169,13 @@ wcax.com • 1d ago
 
 A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
 **[Suspected AI use is the entertainment industry's scarlet letter](https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade)**
 
-Axios • 18h ago
+Axios • 19h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 18h ago
 
 The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
 
-blogs.nvidia.com • 5h ago
+blogs.nvidia.com • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ blogs.nvidia.com • 5h ago
 
 The platform is making AI better while AI is making it worse.
 
-New York Magazine • 13h ago
+New York Magazine • 14h ago
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 157 • 💬 106 • 15h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 157 • 💬 106 • 16h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -308,7 +308,7 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 7K • 👍 258 • 💬 63 • ⏱️ 13:38 • 8h ago
+👁️ 7K • 👍 258 • 💬 63 • ⏱️ 13:38 • 9h ago
 
 ---
 
@@ -338,7 +338,7 @@ I stream on Twitch ( https://www.twitch.tv/luality ) most days, come watch me su
 
 📺 Luality
 
-👁️ 5K • 👍 599 • 💬 25 • ⏱️ 0:52 • 8h ago
+👁️ 5K • 👍 599 • 💬 25 • ⏱️ 0:52 • 9h ago
 
 ---
 
@@ -348,7 +348,7 @@ This was so fun lol shoutout @Sambucha for the idea! **STREAM "YOU'RE MY YES" HE
 
 📺 Liv Swearingen (LIV)
 
-👁️ 115K • 👍 2K • 💬 459 • ⏱️ 18:08 • 11h ago
+👁️ 115K • 👍 2K • 💬 459 • ⏱️ 18:08 • 12h ago
 
 ---
 
@@ -426,7 +426,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 1,012 • 7h ago
+⬇️ 3,943,176 • ❤️ 1,012 • 8h ago
 
 ---
 
@@ -450,7 +450,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 494 • 9h ago
+⬇️ 0 • ❤️ 494 • 10h ago
 
 ---
 
@@ -659,7 +659,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 850 • 5h ago
+⭐ 7.8k • 🔱 850 • 6h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 19h ago
+⭐ 3.8k • 🔱 489 • 20h ago
 
 ---
 
@@ -687,7 +687,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 27s ago
+⭐ 2.6k • 🔱 1.8k • 56m ago
 
 ---
 
@@ -697,7 +697,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 391 • 4h ago
+⭐ 2.3k • 🔱 391 • 5h ago
 
 ---
 
@@ -737,7 +737,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 6h ago
+⭐ 2.0k • 🔱 233 • 7h ago
 
 ---
 
@@ -747,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 244 • 1m ago
+⭐ 1.9k • 🔱 244 • 58m ago
 
 ---
 

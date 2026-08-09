@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T05:11:49.148100+00:00'
+updated: '2026-08-09T06:08:03.881560+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 05:11 UTC  
+**Last Updated:** August 09, 2026 at 06:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.](https://www.reddit.com/r/robotics/comments/1vj4oym/built_a_realtime_underwater_image_processing/)**
+
+This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
+
+10h ago
+
+---
+
 **[He fell😭](https://www.reddit.com/r/robotics/comments/1viqcje/he_fell/)**
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-20h ago
+21h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-15h ago
+16h ago
+
+---
+
+**[I’m trying to get better at robotics but my pc may be an issue](https://www.reddit.com/r/robotics/comments/1vjd8mk/im_trying_to_get_better_at_robotics_but_my_pc_may/)**
+
+I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
+
+4h ago
 
 ---
 
@@ -58,7 +74,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 19h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 20h ago
 
 ---
 
@@ -66,7 +82,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-22h ago
+23h ago
 
 ---
 
@@ -78,15 +94,9 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 ---
 
-**[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
+**[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-12h ago
-
----
-
-**[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
-
-14h ago
+10h ago
 
 ---
 
@@ -95,14 +105,6 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
 1d ago
-
----
-
-**[Inferencing Cosmos3-Nano with RTX 5090 in a WebUI Docker](https://www.reddit.com/r/robotics/comments/1viqtlk/inferencing_cosmos3nano_with_rtx_5090_in_a_webui/)**
-
-Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
-
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 20h ago
 
 ---
 
@@ -220,7 +222,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Y Combinator
 
-👁️ 8K • 👍 310 • 💬 12 • ⏱️ 1:24:13 • 15h ago
+👁️ 8K • 👍 310 • 💬 12 • ⏱️ 1:24:13 • 16h ago
 
 ---
 
