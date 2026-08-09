@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T03:58:02.726528+00:00'
+updated: '2026-08-09T05:11:49.138484+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 03:58 UTC  
+**Last Updated:** August 09, 2026 at 05:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.3%  
 **7d:** +2.0%  
 **30d:** +1.5%  
 **90d:** -19.5%  
@@ -54,23 +54,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1300.72B
+**Market Cap:** $1299.25B
 Rank #1
 
-**Circulating Supply:** 20,067,662 BTC
+**Circulating Supply:** 20,067,709 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.6%
 
 **All-Time Low:** $67.81
-+95486.2%
++95377.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 30
+### 31
 **FEAR**
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 7h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 9h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -95,13 +95,13 @@ Rank #1
 
 The last non split block has been mined. Lest see what happens now
 
-8h ago
+9h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ The last non split block has been mined. Lest see what happens now
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-5h ago
+6h ago
 
 ---
 
@@ -117,13 +117,13 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-11h ago
+13h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -135,7 +135,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
 
-10h ago
+12h ago
 
 ---
 
@@ -155,7 +155,7 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 13h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 13h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -179,11 +179,11 @@ Yahoo Finance • 1d ago
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 16h ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
 
 Bloomberg.com • 2d ago
 
@@ -199,7 +199,7 @@ Fortune • 1d ago
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-investing.com • 19h ago
+Investing.com • 20h ago
 
 ---
 
@@ -215,15 +215,15 @@ Bitcoin Magazine • 1d ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
-**[Bitcoin ‘9/11’—Urgent New Warning Issued As Wave Of ‘Critical’ Exploits Hits Price](https://www.forbes.com/sites/digital-assets/2026/08/08/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
+**[Bitcoin’s first institutional bear market is starting to take shape and draining liquidity](https://cryptoslate.com/bitcoins-first-institutional-bear-market-is-starting-to-take-shape-and-draining-liquidity/)**
 
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
+ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
 
-Forbes • 19h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -244,14 +244,6 @@ Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated k
 A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
 
 ⬆️ 20 • 💬 0 • 6d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
-
----
-
-**[U.S. sanctions Iranian firms for Bitcoin maritime insurance operation in Hormuz](https://news.ycombinator.com/item?id=49141295)**
-
-OFAC Sanctions Illicit Maritime Insurance Scheme and Iran’s Shadow Fleet  WASHINGTON—Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is taking further action against the Iranian regime’s desperate efforts to monetize the Strait of Hormuz and prop up the nation’s failing economy.  OFAC is designating two firms integral to an Islamic Revolutionary Guard Corps (IRGC)-backed extortion scheme that forces commercial vessels to purchase mandatory maritime “insurance” to transit the Strait.  Although this coverage purports to protect vessels from risks such as seizures, these risks are overwhelmingly created by Iran itself.  Through the Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority, the regime brokers IRGC-approved policies designed to extract revenue under the guise of maritime services, including payments in digital assets to evade sanctions—allowing Iran to tighten control over shipping activity and funnel funds into IRGC operations.“With its economy in freefall and inflation in the triple digits, the regime is desperate for cash,” said Secretary of the Treasury Scott Bessent. “The United States will not allow Iran to hold global commerce hostage or use international shipping to finance the IRGC’s terrorism, aggression, and repression.”                            OFAC is also reinforcing U.S. military interdiction efforts and intensifying pressure on Iran’s energy shipments by imposing sanctions on several vessels that transported Iranian crude oil and petrochemical products.  Since the beginning of the year, OFAC has sanctioned over 100 vessels linked to Iran’s shadow fleet, a covert logistics network that enables the regime to keep oil revenues flowing despite international sanctions. Today’s action was taken pursuant to Executive Order (E.O.) 13902, which targets Iran’s petroleum and petrochemical sectors and advances the President’s National Security Presidential Memorandum 2 (NSPM-2), to impose maximum economic pressure on Iran. IRANIAN Regime’s EXTORTION SCHEMEIn an attempt to prop up revenue streams decimated by Operation Epic Fury, Iran has established illegitimate schemes through the Persian Gulf Marine Insurance Company (PGMIC) and HormuzSafe Marine Services Authority, also known as Hormuz Safe, to extort vessels attempting to conduct routine commercial passages through the Strait of Hormuz.  Established by the Central Insurance of the Islamic Republic of Iran, Iran’s primary insurance regulator, the PGMIC brokers and issues insurance policies approved by the U.S.-designated, IRGC-backed Persian Gulf Strait Authority (PGSA).  The insurance covers risks, most of which are created by Iran itself, such as vessel seizures, and aims to generate revenue to fund the regime’s terror and corruption. PGSA was designated pursuant to E.O. 13224, as amended, on May 27, 2026 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the IRGC. Hormuz Safe is an Iranian digital insurance firm that advertises itself as a company offering trusted maritime services, including insurance, traffic control, security, and emergency response, to vessels transiting the Strait of Hormuz.  Developed by Iran’s Ministry of Economy, it accepts payment in Bitcoin and other digital assets as part of the regime’s attempts to bypass Western sanctions. Disgraced regime financier Babak Morteza Zanjani, who was sanctioned earlier this year, promoted Hormuz Safe to his social media followers.  Hormuz Safe generates revenue on behalf of the IRGC in an attempt to give the regime tighter control over shipping activity. The Persian Gulf Marine Insurance Company and HormuzSafe Marine Services Authority are being designated pursuant to E.O. 13902 for operating in the financial sector of the Iranian economy. shadow fleet ACTORSTreasury is also taking action today against multiple shadow fleet vessels responsible for transporting millions of barrels of Iranian crude oil and petroleum products.  Iran’s shadow fleet provides an essential lifeline to the Iranian regime, which relies on oil sales to bolster its ailing economy. The Marshall Islands-flagged chemical/products tanker WELL SAIL (IMO 9321938), owned, operated, and managed by China-based Qi Hang Ship Management Limited, has transported hundreds of thousands of barrels of Iranian petroleum products to the United Arab Emirates (UAE) in 2026. The Mozambique-flagged crude oil tanker LILY (IMO 9294331), owned and operated by Hong Kong-based Confident Apex Limited, has transported millions of barrels of Iranian oil since 2025.The unknown-flagged crude oil tanker AL SALMI (IMO 9298296), owned and operated by Hong Kong-based Billion Nexus Int’l Co., Limited, has transported hundreds of thousands of barrels of Iranian oil to China since 2025.The Barbados-flagged crude oil tanker BREEZE V (IMO 9259355), owned and operated by Hong Kong-based Nevada Spirit Company Limited, has transported millions of barrels of Iranian oil to China in 2026. The Barbados-flagged crude oil tanker NATSUMI (IMO 9331244), owned, operated, and managed by Hong Kong-based Marinova Freight Limited, has transported millions of barrels of Iranian crude oil to China since 2022. The Vanuatu-flagged crude oil tanker CRYSTAL (IMO 9223887), owned, operated, and managed by Hong Kong and Marshall Islands-based Vast Mighty Limited, has transported millions of barrels of Iranian crude oil to China in 2026. The Vanuatu-flagged crude oil tanker NIRETA (IMO 9237785), owned, operated, and managed by Marshall Islands-based Ocean Tranquility Limited, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026. The Barbados-flagged crude oil tanker YEHOPE (IMO 9243320), owned by Marshall Islands-based Branch Saying International Trading Co Ltd, has transported hundreds of thousands of barrels of Iranian crude oil to China in 2026.   The following companies are being designated pursuant to E.O. 13902 for operating in the petroleum sector of the Iranian economy: Qi Hang Ship Management Limited;Marinova Freight Limited;Vast Mighty Limited;Ocean Tranquility Limited; Branch Saying International Trading Co Ltd;Confident Apex Limited;Billion Nexus Int’l Co., Limited; andNevada Spirit Company Limited.The following vessels are being identified as blocked property of the previously identified blocked persons: WELL SAIL (Qi Hang Ship Management Limited);NATSUMI (Marinova Freight Limited); CRYSTAL (Vast Mighty Limited); NIRETA (Ocean Tranquility Limited); YEHOPE (Branch Saying International Trading Co Ltd);LILY (Confident Apex Limited);AL SALMI (Billion Nexus Int’l Co., Limited); andBREEZE V (Nevada Spirit Company Limited). SANCTIONS IMPLICATIONSAs a result of today’s action, all property and interests in property of the designated or blocked persons described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, individually or in the aggregate, 50 percent or more by one or more blocked persons are also blocked.  Unless authorized by OFAC, or exempt, OFAC’s regulations generally prohibit all transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of blocked persons. Violations of U.S. sanctions may result in the imposition of civil or criminal penalties on U.S. and foreign persons.  OFAC may impose civil penalties for sanctions violations on a strict liability basis.  OFAC’s Economic Sanctions Enforcement Guidelines provide more information regarding OFAC’s enforcement of U.S. economic sanctions. In addition, financial institutions and other persons may risk exposure to sanctions for engaging in certain transactions or activities involving designated or otherwise blocked persons.  The prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any designated or blocked person, or the receipt of any contribution or provision of funds, goods, or services from any such person.  Non-U.S. persons are also prohibited from causing or conspiring to cause U.S. persons to wittingly or unwittingly violate U.S. sanctions, as well as engaging in conduct that evades U.S. sanctions.  Individuals located in the U.S. or abroad who provide information about sanctions violations to FinCEN’s whistleblower incentive program may be eligible for awards if the information they provide leads to a successful enforcement action that results in monetary penalties exceeding $1,000,000. The power and integrity of OFAC sanctions derive not only from OFAC’s ability to designate and add persons to the SDN List, but also from its willingness to remove persons from the SDN List consistent with the law.  The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior.  For information concerning the process for seeking removal from an OFAC list, including the SDN List, or to submit a request, please refer to OFAC’s guidance on Filing a Petition for Removal from an OFAC List.Click here for more information on the persons designated and any property identified as blocked property today.###
-
-⬆️ 10 • 💬 2 • 6d ago • [U.S. Department of the Treasury](https://home.treasury.gov/news/press-releases/sb0581)
 
 ---
 
@@ -306,7 +298,15 @@ A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal
 
 Try out Artifacts created by Claude users
 
-⬆️ 2 • 💬 0 • 3d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
+⬆️ 2 • 💬 0 • 4d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
+
+---
+
+**[Bitcoin owners rocked by $116M hack: What we know about the Coldcard exploit](https://news.ycombinator.com/item?id=49164690)**
+
+The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
+
+⬆️ 2 • 💬 0 • 4d ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
 
 ---
 
@@ -314,33 +314,23 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is About to Explode — The Fed Just Ran Out of Tools](https://www.youtube.com/watch?v=vsONy3IizCU)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 51K • 👍 3K • 💬 79 • ⏱️ 47:31 • 16h ago
+
+---
+
 **[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
 Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 159 • 💬 8 • ⏱️ 1:20 • 11h ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
-
-On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
-
-📺 The Compound
-
-👁️ 3K • 👍 81 • 💬 19 • ⏱️ 1:18 • 15h ago
-
----
-
-**[Don’t Miss What Saylor Said About Bitcoin Today](https://www.youtube.com/watch?v=w2GMdsnSerk)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 141 • ⏱️ 12:39 • 2d ago
+👁️ 5K • 👍 169 • 💬 8 • ⏱️ 1:20 • 13h ago
 
 ---
 
@@ -350,7 +340,37 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 130K • 👍 7K • 💬 446 • ⏱️ 24:00 • 2d ago
+👁️ 132K • 👍 7K • 💬 448 • ⏱️ 24:00 • 2d ago
+
+---
+
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
+
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 504 • 💬 81 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[Crypto will EXPLODE in August! (Explained in 10 minutes)](https://www.youtube.com/watch?v=mVk1_eKbtfE)**
+
+August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 37K • 👍 2K • 💬 177 • ⏱️ 10:08 • 4d ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
+
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
+
+📺 The Compound
+
+👁️ 4K • 👍 91 • 💬 19 • ⏱️ 1:18 • 16h ago
 
 ---
 
@@ -360,47 +380,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 146 • 💬 7 • ⏱️ 1:03 • 12h ago
-
----
-
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 11K • 👍 524 • 💬 47 • ⏱️ 8:03 • 2d ago
-
----
-
-**[AI Finds 5-Year-Old Bitcoin Vulnerability: $100M Stolen! #shorts](https://www.youtube.com/watch?v=NG46mGjTv2Q)**
-
-An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard source code. In just 40 minutes, nearly 1000 Bitcoins ...
-
-📺 TWiT Tech Podcast Network
-
-👁️ 5K • 👍 134 • 💬 5 • ⏱️ 1:23 • 1d ago
-
----
-
-**[What Happened When Michael Saylor Sold Bitcoin?](https://www.youtube.com/watch?v=9t210Dite1g)**
-
-Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common fear that any Bitcoin sale by Michael Saylor would ...
-
-📺 Natalie Brunell
-
-👁️ 984 • 👍 23 • 💬 53 • ⏱️ 0:53 • 1d ago
-
----
-
-**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
-
-Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
-
-📺 Schwab Network
-
-👁️ 10K • 👍 107 • 💬 22 • ⏱️ 6:13 • 2d ago
+👁️ 5K • 👍 156 • 💬 7 • ⏱️ 1:03 • 14h ago
 
 ---
 
@@ -410,7 +390,27 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 26K • 👍 327 • 💬 27 • ⏱️ 8:07 • 1d ago
+👁️ 29K • 👍 334 • 💬 27 • ⏱️ 8:07 • 1d ago
+
+---
+
+**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
+
+Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
+
+📺 Crypto Jebb
+
+👁️ 11K • 👍 526 • 💬 49 • ⏱️ 8:03 • 2d ago
+
+---
+
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 606 • 💬 94 • ⏱️ 33:45 • 19h ago
 
 ---
 

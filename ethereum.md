@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T03:58:02.731872+00:00'
+updated: '2026-08-09T05:11:49.144801+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 03:58 UTC  
+**Last Updated:** August 09, 2026 at 05:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,8 +43,8 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** +2.9%  
-**30d:** +7.0%  
+**7d:** +2.8%  
+**30d:** +6.9%  
 **90d:** -15.9%  
 **1y:** -55.0%  
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.03B
+**Market Cap:** $230.80B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+442046.2%
++441660.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 **TL;DR**: Solidity 0.8.36 adds Amsterdam EVM support. Sourcify passes 42M+ verified contracts. Foundry adds symbolic testing.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-july-2026-update) • 2d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-july-2026-update) • 3d ago
 
 ---
 
@@ -128,7 +128,7 @@ TL;DR and quick context - I work at DeFi Saver, and we built a completely free t
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Three separate lines of work from this year point at the same gap, and as far as
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -180,15 +180,7 @@ The Block • 1d ago
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 23h ago
-
----
-
-**[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
-
-DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
-
-markets.businessinsider.com • 20h ago
+TradingView • 1d ago
 
 ---
 
@@ -200,11 +192,19 @@ Benzinga • 1d ago
 
 ---
 
+**[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
+
+DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
+
+markets.businessinsider.com • 21h ago
+
+---
+
 **[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 11h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -214,19 +214,19 @@ FXStreet • 1d ago
 
 ---
 
+**[Ethereum: EIP-8361 targets inflation, yet 99.7% signal ‘No’ – Why?](https://ambcrypto.com/ethereum-eip-8361-targets-inflation-yet-99-7-signal-no-why/)**
+
+Ethereum Foundation is now under fire for the infamous proposal
+
+AMBCrypto • 1d ago
+
+---
+
 **[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
 
 Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-Crypto Briefing • 11h ago
-
----
-
-**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
-
-Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
-
-AMBCrypto • 2d ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -250,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 207 • 💬 34 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 208 • 💬 35 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 19K • 👍 2K • 💬 240 • ⏱️ 17:35 • 1d ago
+👁️ 20K • 👍 2K • 💬 241 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 180 • 👍 8 • 💬 1 • ⏱️ 1:25 • 9h ago
+👁️ 222 • 👍 9 • 💬 1 • ⏱️ 1:25 • 11h ago
 
 ---
 
@@ -280,17 +280,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 3K • 👍 104 • 💬 12 • ⏱️ 1:08 • 1d ago
-
----
-
-**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
-
-This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
-
-📺 Investing Made Simple
-
-👁️ 9K • 👍 547 • ⏱️ 9:52 • 2d ago
+👁️ 3K • 👍 105 • 💬 12 • ⏱️ 1:08 • 1d ago
 
 ---
 
@@ -300,7 +290,27 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 5K • 👍 148 • 💬 93 • ⏱️ 51:35 • 2d ago
+👁️ 5K • 👍 150 • 💬 93 • ⏱️ 51:35 • 2d ago
+
+---
+
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
+
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
+
+📺 Investing Made Simple
+
+👁️ 9K • 👍 548 • ⏱️ 9:52 • 2d ago
+
+---
+
+**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 7K • 👍 431 • 💬 72 • ⏱️ 13:58 • 20h ago
 
 ---
 
@@ -314,23 +324,13 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 ---
 
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
-
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 222 • 💬 99 • ⏱️ 21:05 • 1d ago
-
----
-
 **[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
 
 In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 230 • 💬 10 • ⏱️ 7:25 • 2d ago
+👁️ 5K • 👍 231 • 💬 10 • ⏱️ 7:25 • 2d ago
 
 ---
 

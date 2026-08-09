@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T03:58:02.734691+00:00'
+updated: '2026-08-09T05:11:49.148100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 03:58 UTC  
+**Last Updated:** August 09, 2026 at 05:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-19h ago
+20h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-18h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 18h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 19h ago
 
 ---
 
@@ -66,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-20h ago
+22h ago
 
 ---
 
@@ -80,13 +80,13 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 19h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 20h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 2d ago
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-wsj.com • 1d ago
+WSJ • 1d ago
 
 ---
 
@@ -145,6 +145,22 @@ USNI News • 2d ago
 **[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
+
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
+
+Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
+
+Princeton Engineering • 2d ago
 
 ---
 
@@ -164,25 +180,19 @@ The Register • 1d ago
 
 ---
 
-**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
-
-Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
-
-ABC30 Fresno • 1d ago
-
----
-
-**[Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO](https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/)**
-
-Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.
-
-TechCrunch • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 58K • 👍 899 • ⏱️ 17:44 • 2d ago
+
+---
 
 **[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
 
@@ -190,7 +200,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 74K • 👍 1K • 💬 106 • ⏱️ 11:26 • 6d ago
+👁️ 75K • 👍 1K • 💬 106 • ⏱️ 11:26 • 6d ago
 
 ---
 
@@ -200,27 +210,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 33K • 👍 354 • 💬 407 • ⏱️ 1:36 • 4d ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 56K • 👍 857 • ⏱️ 17:44 • 2d ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 33K • 👍 475 • 💬 252 • ⏱️ 28:01 • 1d ago
+👁️ 34K • 👍 358 • 💬 410 • ⏱️ 1:36 • 4d ago
 
 ---
 
@@ -230,7 +220,17 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Y Combinator
 
-👁️ 7K • 👍 278 • 💬 9 • ⏱️ 1:24:13 • 13h ago
+👁️ 8K • 👍 310 • 💬 12 • ⏱️ 1:24:13 • 15h ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 35K • 👍 496 • 💬 266 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Tyrecordslol
 
-👁️ 2.4M • 👍 111K • 💬 7K • ⏱️ 0:58 • 1d ago
+👁️ 2.5M • 👍 113K • 💬 7K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -248,7 +248,17 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 50K • 👍 3K • 💬 479 • ⏱️ 26:40 • 4d ago
+👁️ 50K • 👍 3K • 💬 480 • ⏱️ 26:40 • 4d ago
+
+---
+
+**[Centaur Robot Sparks MAJOR Questions After Shocking Chainsaw Pictures Unveiled](https://www.youtube.com/watch?v=MhnOQCJXums)**
+
+A Robotics startup in California sparks an internet frenzy after releasing pictures of their creation of a robot centaur meant to help ...
+
+📺 The Damage Report
+
+👁️ 25K • 👍 1K • 💬 327 • ⏱️ 8:30 • 6d ago
 
 ---
 
@@ -258,27 +268,17 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 12K • 👍 91 • 💬 30 • ⏱️ 6:44 • 3d ago
+👁️ 12K • 👍 92 • 💬 30 • ⏱️ 6:44 • 3d ago
 
 ---
 
-**[US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir](https://www.youtube.com/watch?v=5Tj-Svccykk)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Breaking By Ankit Sir Our New Ai Mastery ...
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-📺 Ankit Avasthi Insights
+📺 Custom Adventurist
 
-👁️ 192K • 👍 10K • 💬 270 • ⏱️ 11:53 • 5d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 116K • 👍 4K • 💬 214 • ⏱️ 47:03 • 3d ago
+👁️ 32K • 👍 2K • 💬 157 • ⏱️ 1:02 • 2d ago
 
 ---
 
