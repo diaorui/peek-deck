@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T18:40:29.037329+00:00'
+updated: '2026-08-09T19:33:13.290448+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 18:40 UTC  
+**Last Updated:** August 09, 2026 at 19:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-23h ago
+1d ago
 
 ---
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -156,7 +156,7 @@ WSJ • 1d ago
 
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
@@ -194,7 +194,17 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 38K • 👍 1K • 💬 183 • ⏱️ 9:02 • 1d ago
+👁️ 40K • 👍 1K • 💬 191 • ⏱️ 9:02 • 1d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 71K • 👍 1K • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -208,13 +218,13 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 ---
 
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
 
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
 
-📺 FRAME
+📺 Al Jazeera English
 
-👁️ 69K • 👍 1K • ⏱️ 17:44 • 2d ago
+👁️ 42K • 👍 611 • 💬 308 • ⏱️ 28:01 • 2d ago
 
 ---
 
@@ -224,45 +234,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Y Combinator
 
-👁️ 13K • 👍 452 • 💬 16 • ⏱️ 1:24:13 • 1d ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 40K • 👍 590 • 💬 296 • ⏱️ 28:01 • 1d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 51K • 👍 3K • 💬 483 • ⏱️ 26:40 • 5d ago
-
----
-
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
-
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
-
-📺 Alpha Central
-
-👁️ 149K • 👍 6K • 💬 2K • ⏱️ 20:28 • 4d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 2.6M • 👍 117K • 💬 7K • ⏱️ 0:58 • 2d ago
+👁️ 14K • 👍 483 • 💬 17 • ⏱️ 1:24:13 • 1d ago
 
 ---
 
@@ -272,7 +244,17 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 181K • 👍 587 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 190K • 👍 595 • 💬 98 • ⏱️ 40:27 • 3d ago
+
+---
+
+**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
+
+Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
+
+📺 WOLF Financial
+
+👁️ 30K • 👍 810 • 💬 206 • ⏱️ 48:23 • 1d ago
 
 ---
 
@@ -282,7 +264,25 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 📺 Boston Dynamics
 
-👁️ 162K • 👍 11K • 💬 504 • ⏱️ 2:03 • 5d ago
+👁️ 163K • 👍 11K • 💬 508 • ⏱️ 2:03 • 5d ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 2.6M • 👍 118K • 💬 7K • ⏱️ 0:58 • 2d ago
+
+---
+
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
+
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
+
+📺 Synthetic Empire
+
+👁️ 68K • 👍 1K • 💬 113 • ⏱️ 12:38 • 6d ago
 
 ---
 

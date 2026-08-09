@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T18:40:29.030896+00:00'
+updated: '2026-08-09T19:33:13.282222+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 18:40 UTC  
+**Last Updated:** August 09, 2026 at 19:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1308.54B
+**Market Cap:** $1307.73B
 Rank #1
 
-**Circulating Supply:** 20,067,928 BTC
+**Circulating Supply:** 20,067,981 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.3%
 
 **All-Time Low:** $67.81
-+96052.5%
++95999.4%
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
+**[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-6h ago
+3h ago
 
 ---
 
-**[I finally own 1% of a Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjiurw/i_finally_own_1_of_a_bitcoin/)**
+**[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
-
-11h ago
+7h ago
 
 ---
 
@@ -99,21 +97,21 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 ---
 
-**[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
+**[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-5h ago
+4h ago
 
 ---
 
-**[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
+**[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-2h ago
+6h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -121,13 +119,15 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-5h ago
+6h ago
 
 ---
 
-**[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
+**[I finally own 1% of a Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjiurw/i_finally_own_1_of_a_bitcoin/)**
 
-3h ago
+I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
+
+12h ago
 
 ---
 
@@ -135,15 +135,15 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-12h ago
+13h ago
 
 ---
 
-**[Bitcoin wasn't broken. The random key generation was. The Coldcard lesson everyone should understand](https://www.reddit.com/r/Bitcoin/comments/1vjf9jw/bitcoin_wasnt_broken_the_random_key_generation/)**
+**[RIB](https://www.reddit.com/r/Bitcoin/comments/1vjkyt9/rib/)**
 
-To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
+I have a story to tell, but i don't.
 
-15h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-coindesk.com • 4h ago
+coindesk.com • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ coindesk.com • 4h ago
 
 Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-24/7 Wall St. • 1h ago
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -203,13 +203,13 @@ Futurism • 1d ago
 
 In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
 **[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investing.com • 9h ago
 
 Bitcoin’s BIP-110-enforcing branch stalled at block 961,633 on Sunday after producing only two blocks, while the non-enforcing chain advanced to 961,721, widening the gap to 88 blocks.According to the BIP-110 monitor, updated at 10:19 am UTC, the branch’s latest block had been mined about 12 hours…
 
-TradingView • 7h ago
+TradingView • 8h ago
 
 ---
 
@@ -316,23 +316,53 @@ OBTC is a Bitcoin-derived lifecycle-money experiment. - organicbitcoin/obtcd
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 217 • 💬 11 • ⏱️ 1:20 • 1d ago
+
+---
+
+**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+
+Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+
+📺 Crypto Vlog
+
+👁️ 8K • 💬 25 • ⏱️ 1:13 • 2d ago
+
+---
+
 **[Bitcoin Is About to Explode — The Fed Just Ran Out of Tools](https://www.youtube.com/watch?v=vsONy3IizCU)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 64K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
+👁️ 67K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
 
 ---
 
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
 
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
 
-📺 Benjamin Cowen
+📺 The Compound
 
-👁️ 138K • 👍 8K • 💬 461 • ⏱️ 24:00 • 2d ago
+👁️ 5K • 👍 119 • 💬 25 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[EURUSD, Gold &amp; Bitcoin Setting Up a BIG Week | Weekly SMC Outlook](https://www.youtube.com/watch?v=LQz0WrSnt2s)**
+
+Gold, Silver, EURUSD, DXY, S&P 500, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
+
+📺 Justin Bennett
+
+👁️ 17K • 👍 940 • 💬 90 • ⏱️ 23:34 • 1d ago
 
 ---
 
@@ -346,23 +376,13 @@ BIP-110 has divided the Bitcoin community more than anything I've covered in yea
 
 ---
 
-**[&quot;The Fed JUST QUIETLY Took Action! Bitcoin Will Explode MASSIVELY&quot;    Cathie Wood](https://www.youtube.com/watch?v=aTN016GxGgg)**
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 Savvy Finance
+📺 Benjamin Cowen
 
-👁️ 9K • 👍 464 • 💬 14 • ⏱️ 17:47 • 19h ago
-
----
-
-**[EURUSD, Gold &amp; Bitcoin Setting Up a BIG Week | Weekly SMC Outlook](https://www.youtube.com/watch?v=LQz0WrSnt2s)**
-
-Gold, Silver, EURUSD, DXY, S&P 500, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
-
-📺 Justin Bennett
-
-👁️ 16K • 👍 890 • 💬 90 • ⏱️ 23:34 • 1d ago
+👁️ 140K • 👍 8K • 💬 463 • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -372,7 +392,17 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 36K • 👍 356 • 💬 29 • ⏱️ 8:07 • 1d ago
+👁️ 38K • 👍 361 • 💬 29 • ⏱️ 8:07 • 1d ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=CImWwKQHvwE)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 DJ STAN | THE GOSPEL PLUG
+
+👁️ 5K • 👍 8 • 4h ago
 
 ---
 
@@ -382,37 +412,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 626 • 💬 105 • ⏱️ 33:45 • 1d ago
-
----
-
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 7K • 👍 213 • 💬 11 • ⏱️ 1:20 • 1d ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
-
-On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
-
-📺 The Compound
-
-👁️ 5K • 👍 117 • 💬 24 • ⏱️ 1:18 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
-
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 7K • 👍 180 • 💬 7 • ⏱️ 1:03 • 1d ago
+👁️ 6K • 👍 630 • 💬 105 • ⏱️ 33:45 • 1d ago
 
 ---
 

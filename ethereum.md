@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T18:40:29.035108+00:00'
+updated: '2026-08-09T19:33:13.287545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 18:40 UTC  
+**Last Updated:** August 09, 2026 at 19:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.02B
+**Market Cap:** $231.79B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.2%
 
 **All-Time Low:** $0.43
-+443958.5%
++443524.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 2d ago
 
 Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -218,7 +218,7 @@ Crypto Briefing • 6h ago
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-Benzinga • 1d ago
+Benzinga • 2d ago
 
 ---
 
@@ -240,7 +240,15 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 239 • 💬 4 • ⏱️ 7:37 • 16h ago
+👁️ 5K • 👍 251 • 💬 4 • ⏱️ 7:37 • 17h ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 445 • 💬 19 • ⏱️ 1:29 • 18h ago
 
 ---
 
@@ -250,35 +258,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 626 • 💬 105 • ⏱️ 33:45 • 1d ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
-
-📺 CryptoWendyO
-
-👁️ 6K • 👍 395 • 💬 19 • ⏱️ 1:29 • 17h ago
-
----
-
-**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
-
-📺 Bankless
-
-👁️ 7K • 👍 226 • 💬 36 • ⏱️ 1:06:58 • 2d ago
-
----
-
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
-
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 20K • 👍 2K • 💬 232 • ⏱️ 17:35 • 2d ago
+👁️ 6K • 👍 630 • 💬 105 • ⏱️ 33:45 • 1d ago
 
 ---
 
@@ -288,7 +268,27 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 3K • 👍 114 • 💬 12 • ⏱️ 1:08 • 2d ago
+👁️ 3K • 👍 115 • 💬 12 • ⏱️ 1:08 • 2d ago
+
+---
+
+**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
+
+📺 Bankless
+
+👁️ 7K • 👍 228 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+
+---
+
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 21K • 👍 2K • 💬 232 • ⏱️ 17:35 • 2d ago
 
 ---
 
@@ -298,17 +298,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 242 • 👍 9 • 💬 1 • ⏱️ 1:25 • 1d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 156 • 💬 92 • ⏱️ 51:35 • 2d ago
+👁️ 255 • 👍 9 • 💬 1 • ⏱️ 1:25 • 1d ago
 
 ---
 
@@ -318,7 +308,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 457 • 💬 82 • ⏱️ 13:58 • 1d ago
+👁️ 8K • 👍 461 • 💬 82 • ⏱️ 13:58 • 1d ago
 
 ---
 
@@ -329,6 +319,16 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 📺 More Crypto Online
 
 👁️ 5K • 👍 236 • 💬 10 • ⏱️ 7:25 • 2d ago
+
+---
+
+**[ETH &amp; SOL Short Setups - Gold Breaks Out Above Resistance!](https://www.youtube.com/watch?v=v-RGgEAl4zw)**
+
+In this Coin Bureau Trading episode, Aaron Dishner of The Better Traders addresses Bitcoin's recent close above a key overhead ...
+
+📺 Coin Bureau Trading
+
+👁️ 5K • 👍 421 • 💬 22 • ⏱️ 22:28 • 2d ago
 
 ---
 
