@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T11:57:42.508226+00:00'
+updated: '2026-08-09T13:03:03.282745+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 11:57 UTC  
+**Last Updated:** August 09, 2026 at 13:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** -0.3%  
 **7d:** +2.3%  
 **30d:** +1.8%  
 **90d:** -19.3%  
@@ -81,7 +81,7 @@ Rank #1
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ I started with daily investments early this year and before I realized I passed 
 
 To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 15h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 17h ago
 
 ---
 
@@ -113,7 +113,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 I have a story to tell, but i don't.
 
-2h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I have a story to tell, but i don't.
 
 I am mining Bitcoin and want to hold as much as possible, but to keep my machines running I need to sell some. I do not like using P2P because it takes too long and I have had issues before. Changenow froze one of my orders and that made me lose trust in the process. I also do not trust centralized exchanges, so I avoid them completely. Now that eXch has shut down, I feel stuck without any reliable options left. Is there any method that could help me sell without giving up control or going through all the hassle, something fast and secure that does not involve the usual problems I have faced?
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ I am mining Bitcoin and want to hold as much as possible, but to keep my machine
 
 The last non split block has been mined. Lest see what happens now
 
-16h ago
+17h ago
 
 ---
 
@@ -161,31 +161,7 @@ The last non split block has been mined. Lest see what happens now
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
-
-Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
-
-The Block • 21h ago
-
----
-
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://uk.finance.yahoo.com/news/bitcoin-slips-below-65-000-093409218.html)**
-
-Investing.com -- Bitcoin traded under $65,000 on Sunday, slipping slightly over the previous 24 hours, as strong U.S. exchange-traded fund inflows competed with concerns surrounding the stalled BIP-110 minority chain.
-
-Yahoo Finance UK • 2h ago
-
----
-
-**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html)**
-
-In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
-
-Yahoo Finance • 1h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -197,11 +173,35 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://uk.finance.yahoo.com/news/bitcoin-slips-below-65-000-093409218.html)**
+
+Investing.com -- Bitcoin traded under $65,000 on Sunday, slipping slightly over the previous 24 hours, as strong U.S. exchange-traded fund inflows competed with concerns surrounding the stalled BIP-110 minority chain.
+
+Yahoo Finance UK • 3h ago
+
+---
+
+**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html)**
+
+In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 27m ago
+Forbes • 1h ago
+
+---
+
+**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
+
+Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
+
+The Block • 22h ago
 
 ---
 
@@ -217,7 +217,7 @@ Fortune • 2d ago
 
 GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
 
-TradingView • 9h ago
+TradingView • 11h ago
 
 ---
 
@@ -225,7 +225,7 @@ TradingView • 9h ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -233,7 +233,7 @@ Decrypt • 18h ago
 
 ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 3K • 💬 79 • ⏱️ 47:31 • 22h ago
+👁️ 59K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
 
 ---
 
@@ -340,7 +340,7 @@ BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain s
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 388 • ⏱️ 21:56 • 11h ago
+👁️ 21K • 👍 2K • 💬 388 • ⏱️ 21:56 • 12h ago
 
 ---
 
@@ -350,7 +350,7 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 5K • 👍 102 • 💬 21 • ⏱️ 1:18 • 23h ago
+👁️ 5K • 👍 102 • 💬 21 • ⏱️ 1:18 • 1d ago
 
 ---
 
@@ -360,7 +360,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 192 • 💬 9 • ⏱️ 1:20 • 19h ago
+👁️ 6K • 👍 192 • 💬 9 • ⏱️ 1:20 • 21h ago
 
 ---
 
@@ -370,7 +370,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 172 • 💬 7 • ⏱️ 1:03 • 20h ago
+👁️ 6K • 👍 172 • 💬 7 • ⏱️ 1:03 • 22h ago
 
 ---
 
@@ -390,7 +390,7 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 6K • 👍 148 • 💬 5 • ⏱️ 1:23 • 1d ago
+👁️ 6K • 👍 148 • 💬 5 • ⏱️ 1:23 • 2d ago
 
 ---
 
@@ -420,7 +420,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 387 • 💬 14 • ⏱️ 17:47 • 13h ago
+👁️ 7K • 👍 387 • 💬 14 • ⏱️ 17:47 • 14h ago
 
 ---
 
