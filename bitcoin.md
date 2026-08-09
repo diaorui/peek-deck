@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T07:32:26.704277+00:00'
+updated: '2026-08-09T08:42:54.622780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 07:32 UTC  
+**Last Updated:** August 09, 2026 at 08:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
+**24h:** -0.3%  
 **7d:** +2.1%  
-**30d:** +1.6%  
-**90d:** -19.4%  
+**30d:** +1.5%  
+**90d:** -19.5%  
 **1y:** -45.5%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 11h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 The last non split block has been mined. Lest see what happens now
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ The last non split block has been mined. Lest see what happens now
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-8h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
 
-14h ago
+15h ago
 
 ---
 
@@ -155,7 +155,7 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 17h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -173,19 +173,27 @@ Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Dat
 
 Moore is also the author of "How to Get Rich in American History."
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
 
 Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin: BIP-110 soft fork attempt begins - 09 Aug 2026](https://www.tradingview.com/news/coinmarketcal:908539481094b:0-bitcoin-bip-110-soft-fork-attempt-begins-09-aug-2026/)**
+
+GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
+
+TradingView • 6h ago
+
+---
+
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 22h ago
+Investing.com • 23h ago
 
 ---
 
@@ -201,7 +209,7 @@ Fortune • 1d ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -209,7 +217,7 @@ Decrypt • 14h ago
 
 ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -217,15 +225,7 @@ CryptoSlate • 16h ago
 
 bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-Forbes • 23h ago
-
----
-
-**[The White House Continues to Promote the Strategic Bitcoin Reserve. Here's What It Means for Bitcoin.](https://www.fool.com/investing/2026/08/08/the-white-house-continues-to-promote-the-strategic/)**
-
-Bipartisan support for the Strategic Bitcoin Reserve could mean big things ahead for Bitcoin.
-
-The Motley Fool • 21h ago
+forbes.com • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 3K • 💬 79 • ⏱️ 47:31 • 18h ago
+👁️ 54K • 👍 3K • 💬 79 • ⏱️ 47:31 • 19h ago
 
 ---
 
@@ -332,7 +332,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 177 • 💬 8 • ⏱️ 1:20 • 15h ago
+👁️ 6K • 👍 177 • 💬 8 • ⏱️ 1:20 • 16h ago
 
 ---
 
@@ -342,7 +342,7 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 4K • 👍 97 • 💬 20 • ⏱️ 1:18 • 18h ago
+👁️ 4K • 👍 97 • 💬 20 • ⏱️ 1:18 • 20h ago
 
 ---
 
@@ -372,7 +372,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 163 • 💬 7 • ⏱️ 1:03 • 16h ago
+👁️ 5K • 👍 163 • 💬 7 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -412,7 +412,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 21h ago
+👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 23h ago
 
 ---
 

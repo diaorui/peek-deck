@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T07:32:26.710292+00:00'
+updated: '2026-08-09T08:42:54.628791+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 07:32 UTC  
+**Last Updated:** August 09, 2026 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +3.1%  
-**30d:** +7.2%  
-**90d:** -15.7%  
-**1y:** -54.9%  
+**24h:** -0.2%  
+**7d:** +3.0%  
+**30d:** +7.1%  
+**90d:** -15.8%  
+**1y:** -55.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -156,7 +156,7 @@ Three separate lines of work from this year point at the same gap, and as far as
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -164,15 +164,15 @@ CoinDesk • 1d ago
 
 Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
 
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-TradingView • 1d ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -184,6 +184,14 @@ The Block • 1d ago
 
 ---
 
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+
+TradingView • 1d ago
+
+---
+
 **[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
@@ -192,25 +200,11 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.benzinga.com/crypto/cryptocurrency/26/08/61046907/clarity-act-delay-means-its-pretty-much-dead-expert-says-bitcoin-ethereum-dont-care)**
+**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
-Bitcoin and Ethereum remain resilient despite fading hopes for U.S. crypto legislation. Other altcoins, such as Solana and Dogecoin, are also performing well.
+Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
 Benzinga • 1d ago
-
----
-
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
-
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
-
-CryptoSlate • 15h ago
-
----
-
-**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
-
-FXStreet • 1d ago
 
 ---
 
@@ -218,15 +212,23 @@ FXStreet • 1d ago
 
 Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 16h ago
 
 ---
 
-**[Ethereum leverage climbs to 0.65 – Can ETH avoid a liquidation cascade?](https://ambcrypto.com/ethereum-leverage-climbs-to-0-65-can-eth-avoid-a-liquidation-cascade/)**
+**[Yield Hunters Circle Ethereum: NEOS High-Income ETF Draws Fresh Cash Despite Price Slump](https://www.tipranks.com/news/cryptocurrencies/yield-hunters-circle-ethereum-neos-high-income-etf-draws-fresh-cash-despite-price-slump)**
 
-Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
+NEOS’s income-focused crypto product just got a fresh vote of confidence. The NEOS Ethereum High Income ETF, NEHI, recorded a $1,078,288 inflow on July 31, 2026, li...
 
-AMBCrypto • 2d ago
+TipRanks • 20h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
+
+Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -250,7 +252,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 21h ago
+👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 23h ago
 
 ---
 
@@ -290,7 +292,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 222 • 👍 9 • 💬 1 • ⏱️ 1:25 • 13h ago
+👁️ 222 • 👍 9 • 💬 1 • ⏱️ 1:25 • 14h ago
 
 ---
 
@@ -330,7 +332,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 438 • 💬 77 • ⏱️ 13:58 • 22h ago
+👁️ 7K • 👍 438 • 💬 77 • ⏱️ 13:58 • 23h ago
 
 ---
 
