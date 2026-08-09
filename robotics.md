@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T13:03:03.291081+00:00'
+updated: '2026-08-09T14:06:40.017212+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 13:03 UTC  
+**Last Updated:** August 09, 2026 at 14:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-17h ago
+18h ago
 
 ---
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-11h ago
+12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -110,9 +110,17 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 ## Google News: "robotics"
 
+**[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
+
+Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
+
+Business Insider • 5h ago
+
+---
+
 **[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -124,25 +132,23 @@ The Information • 1d ago
 
 ---
 
-**[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
+**[Next AI Battleground: U.S., China Scramble To Lead In Humanoid Robots](https://www.investors.com/news/technology/humanoid-robots-usa-china-conflict-tesla-nvidia/)**
 
-Bloomberg.com • 2d ago
+Tesla CEO Elon Musk and Nvidia CEO Jensen Huang have touted humanoid robots as the ultimate physical embodiment of artificial intelligence.
 
----
-
-**[Analog Devices returns as strategic sponsor to aid MassRobotics startups](https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/)**
-
-Analog Devices Inc. is supporting MassRobotics startups with Analog Garage and participating in events including RoboBusiness.
-
-The Robot Report • 26m ago
+Investor's Business Daily • 2d ago
 
 ---
 
-**[Experimental Drone Designs Take Flight in DARPA's Heavy Lift Challenge](https://spectrum.ieee.org/video-friday-heavy-lift-drone)**
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-This week’s selection of awesome robot videos also includes NASA’s Skyfall water-hunting Martian helicopter, gecko-inspired robotic grippers, and more
+news.usni.org • 2d ago
 
-IEEE Spectrum • 3d ago
+---
+
+**[Can Robots Save an Aging Japan?](https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html)**
+
+The New York Times • 3d ago
 
 ---
 
@@ -158,25 +164,19 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
-
-Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
-
-Business Insider • 4h ago
-
----
-
 **[Robot Dogs Suddenly Taking Jobs From Human Security Guards](https://futurism.com/robots-and-machines/robot-dogs-labor-security-guards-automation)**
 
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
 
-news.usni.org • 2d ago
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -184,33 +184,23 @@ news.usni.org • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 65K • 👍 997 • ⏱️ 17:44 • 2d ago
-
----
-
 **[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
 The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
 📺 NBC News
 
-👁️ 34K • 👍 364 • 💬 413 • ⏱️ 1:36 • 4d ago
+👁️ 34K • 👍 366 • 💬 416 • ⏱️ 1:36 • 4d ago
 
 ---
 
-**[J&amp;J’s Billion-Dollar Robot Bet](https://www.youtube.com/watch?v=rx0FFvpF8pI)**
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
 
-After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot ...
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
 
-📺 Bloomberg Television
+📺 FRAME
 
-👁️ 75K • 👍 1K • 💬 106 • ⏱️ 11:26 • 7d ago
+👁️ 67K • 👍 1K • ⏱️ 17:44 • 2d ago
 
 ---
 
@@ -220,27 +210,17 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 38K • 👍 550 • 💬 277 • ⏱️ 28:01 • 1d ago
+👁️ 39K • 👍 563 • 💬 291 • ⏱️ 28:01 • 1d ago
 
 ---
 
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
 
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
 
-📺 Cyrus Janssen
+📺 China Fact Chasers
 
-👁️ 164K • 👍 569 • 💬 98 • ⏱️ 40:27 • 3d ago
-
----
-
-**[Centaur Robot Sparks MAJOR Questions After Shocking Chainsaw Pictures Unveiled](https://www.youtube.com/watch?v=MhnOQCJXums)**
-
-A Robotics startup in California sparks an internet frenzy after releasing pictures of their creation of a robot centaur meant to help ...
-
-📺 The Damage Report
-
-👁️ 25K • 👍 1K • 💬 327 • ⏱️ 8:30 • 6d ago
+👁️ 51K • 👍 3K • 💬 483 • ⏱️ 26:40 • 4d ago
 
 ---
 
@@ -250,25 +230,7 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 📺 Boston Dynamics
 
-👁️ 160K • 👍 10K • 💬 489 • ⏱️ 2:03 • 4d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 2.5M • 👍 114K • 💬 7K • ⏱️ 0:58 • 2d ago
-
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 64K • 👍 1K • 💬 109 • ⏱️ 12:38 • 5d ago
+👁️ 161K • 👍 11K • 💬 489 • ⏱️ 2:03 • 5d ago
 
 ---
 
@@ -279,6 +241,44 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 📺 KhanFlicks
 
 👁️ 12K • 👍 92 • 💬 30 • ⏱️ 6:44 • 3d ago
+
+---
+
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+
+📺 Cyrus Janssen
+
+👁️ 173K • 👍 577 • 💬 98 • ⏱️ 40:27 • 3d ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 2.5M • 👍 115K • 💬 7K • ⏱️ 0:58 • 2d ago
+
+---
+
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
+
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
+
+📺 Synthetic Empire
+
+👁️ 65K • 👍 1K • 💬 109 • ⏱️ 12:38 • 5d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 123K • 👍 4K • 💬 225 • ⏱️ 47:03 • 3d ago
 
 ---
 

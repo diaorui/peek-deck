@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T13:03:03.288134+00:00'
+updated: '2026-08-09T14:06:40.015013+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 13:03 UTC  
+**Last Updated:** August 09, 2026 at 14:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +3.1%  
-**30d:** +7.2%  
-**90d:** -15.7%  
-**1y:** -54.9%  
+**24h:** -0.0%  
+**7d:** +3.4%  
+**30d:** +7.5%  
+**90d:** -15.5%  
+**1y:** -54.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.53B
+**Market Cap:** $231.89B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.2%
 
 **All-Time Low:** $0.43
-+442974.6%
++443688.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 2d ago
 
 ---
 
@@ -164,7 +164,15 @@ CoinDesk • 2d ago
 
 Ether supply is leaving exchanges as stablecoins rotate onto Ethereum, yet ETH price stays flat near $1,900.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+
+tradingview.com • 1d ago
 
 ---
 
@@ -172,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -192,25 +200,17 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
 
-Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
 
-TradingView • 1d ago
+Crypto Briefing • 2h ago
 
 ---
 
 **[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
 thestreet.com • 1d ago
-
----
-
-**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
-
-Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
-
-cryptobriefing.com • 1h ago
 
 ---
 
@@ -240,17 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 4 • ⏱️ 7:37 • 11h ago
-
----
-
-**[Tom Lee: Why Ethereum Is The Next 10X Trade In Crypto](https://www.youtube.com/watch?v=whFoNV3LW0Y)**
-
-Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispriced asset in crypto right now. In this clip he explains ...
-
-📺 New Era Finance Podcast
-
-👁️ 4K • 👍 58 • 💬 19 • ⏱️ 3:33 • 2d ago
+👁️ 4K • 👍 217 • 💬 4 • ⏱️ 7:37 • 12h ago
 
 ---
 
@@ -260,7 +250,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 624 • 💬 94 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 622 • 💬 105 • ⏱️ 33:45 • 1d ago
 
 ---
 
@@ -268,27 +258,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 312 • 💬 6 • ⏱️ 1:29 • 12h ago
-
----
-
-**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
-
-📺 Bankless
-
-👁️ 7K • 👍 218 • 💬 35 • ⏱️ 1:06:58 • 2d ago
-
----
-
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
-
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 20K • 👍 2K • 💬 230 • ⏱️ 17:35 • 2d ago
+👁️ 6K • 👍 354 • 💬 6 • ⏱️ 1:29 • 13h ago
 
 ---
 
@@ -302,13 +272,23 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 ---
 
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 20K • 👍 2K • 💬 231 • ⏱️ 17:35 • 2d ago
+
+---
+
 **[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
 
 The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 19h ago
+👁️ 228 • 👍 9 • 💬 1 • ⏱️ 1:25 • 20h ago
 
 ---
 
@@ -318,7 +298,17 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 3K • 👍 109 • 💬 12 • ⏱️ 1:08 • 1d ago
+👁️ 3K • 👍 112 • 💬 12 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[Ethereum’s Staking Yield Could Go to Zero](https://www.youtube.com/watch?v=851HcRILQBw)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's monetary policy is ...
+
+📺 Bankless
+
+👁️ 7K • 👍 225 • 💬 36 • ⏱️ 1:06:58 • 2d ago
 
 ---
 
@@ -328,7 +318,17 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 151 • 💬 91 • ⏱️ 51:35 • 2d ago
+👁️ 6K • 👍 154 • 💬 91 • ⏱️ 51:35 • 2d ago
+
+---
+
+**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 8K • 👍 451 • 💬 80 • ⏱️ 13:58 • 1d ago
 
 ---
 

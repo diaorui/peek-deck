@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T13:03:03.282745+00:00'
+updated: '2026-08-09T14:06:40.010905+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 13:03 UTC  
+**Last Updated:** August 09, 2026 at 14:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.3%  
-**30d:** +1.8%  
-**90d:** -19.3%  
-**1y:** -45.4%  
+**24h:** +0.2%  
+**7d:** +2.7%  
+**30d:** +2.2%  
+**90d:** -19.0%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1303.14B
+**Market Cap:** $1307.54B
 Rank #1
 
-**Circulating Supply:** 20,067,868 BTC
+**Circulating Supply:** 20,067,893 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.3%
 
 **All-Time Low:** $67.81
-+95663.2%
++95986.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I started with daily investments early this year and before I realized I passed 
 
 To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 17h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 18h ago
 
 ---
 
@@ -113,7 +113,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 I have a story to tell, but i don't.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ I have a story to tell, but i don't.
 
 I am mining Bitcoin and want to hold as much as possible, but to keep my machines running I need to sell some. I do not like using P2P because it takes too long and I have had issues before. Changenow froze one of my orders and that made me lose trust in the process. I also do not trust centralized exchanges, so I avoid them completely. Now that eXch has shut down, I feel stuck without any reliable options left. Is there any method that could help me sell without giving up control or going through all the hassle, something fast and secure that does not involve the usual problems I have faced?
 
-4h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ I am mining Bitcoin and want to hold as much as possible, but to keep my machine
 
 The last non split block has been mined. Lest see what happens now
 
-17h ago
+18h ago
 
 ---
 
@@ -161,39 +161,7 @@ The last non split block has been mined. Lest see what happens now
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 23h ago
-
----
-
-**[Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html)**
-
-Bitcoin was trading right around $65,000 U.S. on Aug. 7 to end a difficult week for the crypto market. ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://uk.finance.yahoo.com/news/bitcoin-slips-below-65-000-093409218.html)**
-
-Investing.com -- Bitcoin traded under $65,000 on Sunday, slipping slightly over the previous 24 hours, as strong U.S. exchange-traded fund inflows competed with concerns surrounding the stalled BIP-110 minority chain.
-
-Yahoo Finance UK • 3h ago
-
----
-
-**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html)**
-
-In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
-
-Yahoo Finance • 2h ago
-
----
-
-**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
-
-The billionaire says he made $15 billion for his company in 2025...
-
-Forbes • 1h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -201,7 +169,47 @@ Forbes • 1h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 22h ago
+The Block • 23h ago
+
+---
+
+**[Former Bitcoin Miner Firmus Became A $10.5B AI Infrastructure Company](https://www.forbes.com/sites/jonmarkman/2026/08/09/former-bitcoin-miner-firmus-became-a-105b-ai-infrastructure-company/)**
+
+AI data center builder Firmus, originally a Bitcoin miner, secured $2 billion in equity at over $10.5 billion valuation, doubling in four months.
+
+Forbes • 1h ago
+
+---
+
+**['Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future](https://finance.yahoo.com/video/bitcoin-zeppelin-why-historian-says-211147648.html)**
+
+Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Data Editor Jared Blikre to explain bitcoin's (BTC-USD) historical parallels. 
+
+Moore is also the author of "How to Get Rich in American History."
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[BIP-110 Bitcoin branch stalls after two blocks as gap widens](https://www.tradingview.com/news/cointelegraph:a3621af53094b:0-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens/)**
+
+Bitcoin’s BIP-110-enforcing branch stalled at block 961,633 on Sunday after producing only two blocks, while the non-enforcing chain advanced to 961,721, widening the gap to 88 blocks.According to the BIP-110 monitor, updated at 10:19 am UTC, the branch’s latest block had been mined about 12 hours…
+
+tradingview.com • 3h ago
+
+---
+
+**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
+
+Trump Media wants to focus on other business ventures, according to an Axios report.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -213,27 +221,19 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin: BIP-110 soft fork attempt begins - 09 Aug 2026](https://www.tradingview.com/news/coinmarketcal:908539481094b:0-bitcoin-bip-110-soft-fork-attempt-begins-09-aug-2026/)**
-
-GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
-
-TradingView • 11h ago
-
----
-
 **[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
-**[Bitcoin’s first institutional bear market is starting to take shape and draining liquidity](https://cryptoslate.com/bitcoins-first-institutional-bear-market-is-starting-to-take-shape-and-draining-liquidity/)**
+**[1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/)**
 
-ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
+Within the next five years, Bitcoin could soar past the $1 million price level.
 
-CryptoSlate • 21h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -330,27 +330,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
-
----
-
-**[BITCOIN JUST FORKED!! (Here&#39;s What&#39;s Happening)](https://www.youtube.com/watch?v=Cku7ECkr2qQ)**
-
-BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain splits and the possibility of a hard fork. Samson ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 2K • 💬 388 • ⏱️ 21:56 • 12h ago
-
----
-
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
-
-On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
-
-📺 The Compound
-
-👁️ 5K • 👍 102 • 💬 21 • ⏱️ 1:18 • 1d ago
+👁️ 61K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
 
 ---
 
@@ -360,17 +340,27 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 192 • 💬 9 • ⏱️ 1:20 • 21h ago
+👁️ 7K • 👍 197 • 💬 10 • ⏱️ 1:20 • 22h ago
 
 ---
 
-**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
 
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
 
-📺 Altcoin Daily
+📺 The Compound
 
-👁️ 6K • 👍 172 • 💬 7 • ⏱️ 1:03 • 22h ago
+👁️ 5K • 👍 106 • 💬 21 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[Bitcoin breaks $65,000 — one $9.6M buy ate a $17M sell wall (live order flow) #trading #crypto](https://www.youtube.com/watch?v=6ixPJKsD0tM)**
+
+A single $9.6M market buy — 148.54 BTC in one print — ate a $17M sell wall at $65000 and broke Bitcoin up through the round ...
+
+📺 fintermxyz
+
+👁️ 738 • 👍 4 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -380,37 +370,37 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 135K • 👍 7K • 💬 451 • ⏱️ 24:00 • 2d ago
+👁️ 136K • 👍 7K • 💬 457 • ⏱️ 24:00 • 2d ago
 
 ---
 
-**[AI Finds 5-Year-Old Bitcoin Vulnerability: $100M Stolen! #shorts](https://www.youtube.com/watch?v=NG46mGjTv2Q)**
+**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
 
-An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard source code. In just 40 minutes, nearly 1000 Bitcoins ...
+Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
 
-📺 TWiT Tech Podcast Network
+📺 PragerU
 
-👁️ 6K • 👍 148 • 💬 5 • ⏱️ 1:23 • 2d ago
-
----
-
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
-
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
-
-📺 Natalie Brunell
-
-👁️ 36K • 👍 2K • 💬 438 • ⏱️ 1:09:52 • 1d ago
+👁️ 35K • 👍 348 • 💬 27 • ⏱️ 8:07 • 1d ago
 
 ---
 
-**[Jobs Report Shocker, Market Surge, S&amp;P Nears Next Major Resistance, Bitcoin Breakout, Gold Surge](https://www.youtube.com/watch?v=Ha7A-BX9zME)**
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
 
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
 
-📺 Verified Investing
+📺 The Modern Investor
 
-👁️ 66K • 👍 4K • 💬 142 • ⏱️ 18:43 • 1d ago
+👁️ 6K • 👍 622 • 💬 105 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+
+📺 Altcoin Daily
+
+👁️ 6K • 👍 174 • 💬 7 • ⏱️ 1:03 • 23h ago
 
 ---
 
@@ -420,7 +410,17 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 387 • 💬 14 • ⏱️ 17:47 • 14h ago
+👁️ 8K • 👍 424 • 💬 14 • ⏱️ 17:47 • 15h ago
+
+---
+
+**[AI Finds 5-Year-Old Bitcoin Vulnerability: $100M Stolen! #shorts](https://www.youtube.com/watch?v=NG46mGjTv2Q)**
+
+An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard source code. In just 40 minutes, nearly 1000 Bitcoins ...
+
+📺 TWiT Tech Podcast Network
+
+👁️ 6K • 👍 152 • 💬 5 • ⏱️ 1:23 • 2d ago
 
 ---
 
