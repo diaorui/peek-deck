@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T21:32:08.562452+00:00'
+updated: '2026-08-09T22:31:09.788763+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 21:32 UTC  
+**Last Updated:** August 09, 2026 at 22:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,924.74
+### $1,925.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +3.2%  
-**30d:** +7.3%  
-**90d:** -15.6%  
-**1y:** -54.9%  
+**24h:** +0.6%  
+**7d:** +3.7%  
+**30d:** +7.8%  
+**90d:** -15.2%  
+**1y:** -54.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.79B
+**Market Cap:** $232.74B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.0%
 
 **All-Time Low:** $0.43
-+443524.3%
++445321.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -172,23 +172,15 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 3h ago
+24/7 Wall St. • 4h ago
 
 ---
 
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 1d ago
-
----
-
-**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
-
-One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
-
-The Motley Fool • 3h ago
+TradingView • 2d ago
 
 ---
 
@@ -206,6 +198,22 @@ thestreet.com • 2d ago
 
 ---
 
+**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
+
+One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
+
+The Motley Fool • 4h ago
+
+---
+
+**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
+
+Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
+
+cryptobriefing.com • 10h ago
+
+---
+
 **[Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash](https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/)**
 
 Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
@@ -214,19 +222,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
 
-Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
 
-Crypto Briefing • 9h ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
-
-Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
-
-Benzinga • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 251 • 💬 4 • ⏱️ 7:37 • 19h ago
+👁️ 5K • 👍 260 • 💬 5 • ⏱️ 7:37 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 445 • 💬 19 • ⏱️ 1:29 • 20h ago
+👁️ 8K • 👍 485 • 💬 20 • ⏱️ 1:29 • 21h ago
 
 ---
 
@@ -258,7 +258,15 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 630 • 💬 105 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 631 • 💬 105 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[BEST INVESTMENT ADVICE! #xrp #ethereum #finance](https://www.youtube.com/watch?v=TZXeVdGLX9c)**
+
+📺 CryptoWendyO
+
+👁️ 619 • 👍 58 • 💬 3 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -268,7 +276,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 3K • 👍 115 • 💬 12 • ⏱️ 1:08 • 2d ago
+👁️ 3K • 👍 119 • 💬 12 • ⏱️ 1:08 • 2d ago
 
 ---
 
@@ -278,7 +286,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 228 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+👁️ 7K • 👍 229 • 💬 36 • ⏱️ 1:06:58 • 2d ago
 
 ---
 
@@ -288,7 +296,15 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 21K • 👍 2K • 💬 232 • ⏱️ 17:35 • 2d ago
+👁️ 21K • 👍 2K • 💬 234 • ⏱️ 17:35 • 2d ago
+
+---
+
+**[+251964615165 #amhara #eritrian #tigray  #wedding #ethiopia#gonder #ethereum @dwamharic](https://www.youtube.com/watch?v=RaMbBxWFuSY)**
+
+📺 ማሜ የባህል ልብስ
+
+👁️ 1K • 👍 16 • ⏱️ 0:16 • 3h ago
 
 ---
 
@@ -298,17 +314,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 255 • 👍 9 • 💬 1 • ⏱️ 1:25 • 1d ago
-
----
-
-**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 461 • 💬 82 • ⏱️ 13:58 • 1d ago
+👁️ 273 • 👍 9 • 💬 1 • ⏱️ 1:25 • 1d ago
 
 ---
 
@@ -318,17 +324,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 236 • 💬 10 • ⏱️ 7:25 • 2d ago
-
----
-
-**[ETH &amp; SOL Short Setups - Gold Breaks Out Above Resistance!](https://www.youtube.com/watch?v=v-RGgEAl4zw)**
-
-In this Coin Bureau Trading episode, Aaron Dishner of The Better Traders addresses Bitcoin's recent close above a key overhead ...
-
-📺 Coin Bureau Trading
-
-👁️ 5K • 👍 421 • 💬 22 • ⏱️ 22:28 • 2d ago
+👁️ 5K • 👍 237 • 💬 10 • ⏱️ 7:25 • 2d ago
 
 ---
 
