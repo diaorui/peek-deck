@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T22:31:09.788763+00:00'
+updated: '2026-08-09T23:31:21.123700+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 22:31 UTC  
+**Last Updated:** August 09, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +3.7%  
-**30d:** +7.8%  
-**90d:** -15.2%  
-**1y:** -54.6%  
+**24h:** -0.4%  
+**7d:** +2.7%  
+**30d:** +6.8%  
+**90d:** -16.0%  
+**1y:** -55.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -172,23 +172,23 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 5h ago
 
 ---
 
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
 
-Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 2d ago
+TradingView • 1d ago
 
 ---
 
-**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
 
-The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
 
-The Block • 2d ago
+The Block • 5d ago
 
 ---
 
@@ -198,19 +198,11 @@ thestreet.com • 2d ago
 
 ---
 
-**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
-
-One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
-
-The Motley Fool • 4h ago
-
----
-
 **[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
 
 Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
 
-cryptobriefing.com • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -230,6 +222,14 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+The Block • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 260 • 💬 5 • ⏱️ 7:37 • 20h ago
+👁️ 5K • 👍 260 • 💬 5 • ⏱️ 7:37 • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 485 • 💬 20 • ⏱️ 1:29 • 21h ago
+👁️ 8K • 👍 485 • 💬 20 • ⏱️ 1:29 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 619 • 👍 58 • 💬 3 • ⏱️ 1:00 • 1h ago
+👁️ 619 • 👍 58 • 💬 3 • ⏱️ 1:00 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 ማሜ የባህል ልብስ
 
-👁️ 1K • 👍 16 • ⏱️ 0:16 • 3h ago
+👁️ 1K • 👍 16 • ⏱️ 0:16 • 4h ago
 
 ---
 

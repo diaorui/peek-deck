@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T22:31:09.782631+00:00'
+updated: '2026-08-09T23:31:21.119528+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 22:31 UTC  
+**Last Updated:** August 09, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,210.45
+### $65,080.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.7%  
-**30d:** +2.2%  
-**90d:** -18.9%  
-**1y:** -45.2%  
+**24h:** -0.2%  
+**7d:** +2.1%  
+**30d:** +1.6%  
+**90d:** -19.4%  
+**1y:** -45.5%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-7h ago
+8h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-8h ago
+9h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-9h ago
+10h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-9h ago
+10h ago
 
 ---
 
@@ -127,13 +127,13 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-15h ago
+16h ago
 
 ---
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -171,11 +171,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html)**
+
+Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
+
+Yahoo Finance • 6h ago
+
+---
+
 **[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -183,7 +191,7 @@ Forbes • 11h ago
 
 Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
 
-Benzinga • 7h ago
+Benzinga • 8h ago
 
 ---
 
@@ -191,7 +199,13 @@ Benzinga • 7h ago
 
 Hackers made away with more than $100 million worth of Bitcoin from thousands of secured "cold" wallets thanks to a glaring software bug.
 
-Futurism • 1d ago
+futurism.com • 1d ago
+
+---
+
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -203,41 +217,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million](https://bitcoinmagazine.com/news/coldcard-victims-report-median-loss-1btc)**
-
-The amount of Bitcoin stolen has been confirmed at $111 million, but is likely much higher — and could stand at over $130 million.
-
-bitcoinmagazine.com • 2d ago
-
----
-
 **[1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/)**
 
 Within the next five years, Bitcoin could soar past the $1 million price level.
 
-The Motley Fool • 9h ago
-
----
-
-**[Which Crypto Do AI Models Say to Buy Right Now: Bitcoin, Ethereum, or XRP?](https://247wallst.com/investing/cryptocurrency/2026/08/09/which-crypto-do-ai-models-say-to-buy-right-now-bitcoin-ethereum-or-xrp/)**
-
-We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
-
-24/7 Wall St. • 4h ago
+The Motley Fool • 10h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89M](https://news.ycombinator.com/item?id=49149222)**
-
-Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.
-
-⬆️ 70 • 💬 23 • 6d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million)
-
----
 
 **[Bitcoin BIP110 mandatory activation this Saturday, how game theory will unfold?](https://news.ycombinator.com/item?id=49180531)**
 
@@ -310,6 +300,16 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 ---
 
+**[Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39?](https://news.ycombinator.com/item?id=49207230)**
+
+In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.
+
+A firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a deterministic software PRNG, seeded only from the serial number
+
+⬆️ 1 • 💬 1 • 2d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -320,7 +320,7 @@ BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain s
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 479 • ⏱️ 21:56 • 21h ago
+👁️ 31K • 👍 2K • 💬 479 • ⏱️ 21:56 • 22h ago
 
 ---
 
@@ -370,7 +370,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 521 • 💬 31 • ⏱️ 17:47 • 23h ago
+👁️ 11K • 👍 521 • 💬 31 • ⏱️ 17:47 • 1d ago
 
 ---
 
