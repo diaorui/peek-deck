@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T15:01:02.905789+00:00'
+updated: '2026-08-09T15:57:47.939756+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 15:01 UTC  
+**Last Updated:** August 09, 2026 at 15:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 3h ago
 
 ---
 
@@ -49,13 +49,21 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 Source: https://openrouter.ai/rankings
 
-23h ago
+1d ago
 
 ---
 
-**[Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?](https://www.reddit.com/r/artificial/comments/1vjq4z0/reddit_is_rolling_out_ai_moderators_for_new/)**
+**[Emad Mostaque, on camera: "It's a bad time to be a pure mathematician." AI just solved 10 decade-old math problems for $2,000.](https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/)**
 
-I’ve been posting about AI-related stuff for a while now and honestly, the more I see it being pushed everywhere, the more I think we need proper regulation around it. Not just “hey, we have AI now, let’s put it into everything”. And now Reddit is going down that road too. Like... seriously, wtf is going on? I get that moderation is a pain and AI can probably help with some of it. But this is always how it starts. First it’s there to “assist” people, then little by little it ends up making more and more decisions. Reddit is also probably one of the worst places to rely too much on AI moderation because so much of this site is sarcasm, jokes, arguments, dark humour, inside jokes, people taking things out of context, etc. How is an AI supposed to get all of that right? And what happens when it gets it wrong? You appeal to another AI? 😂 I’m not against AI at all. I use it and I think it can be really useful. I just don’t understand why the answer to everything suddenly seems to be “add AI”. Maybe we should figure out the rules and limits first before putting it everywhere. At this rate we’re going to end up with AI writing posts, AI moderating them, AI reviewing the appeals and humans just scrolling through the mess.
+A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, Emad Mostaque — just sat with a number that's hard to argue with: $2,000 in compute, and ten decade-old, previously-unsolved math problems came back with machine-checkable proofs. Not "AI is getting better at math" in the abstract. A Fields Medalist said he'd recommend one of the proofs for publication without hesitation. A cosmologist called it "a dark night for mathematics" — "the old gods are being slaughtered by the new machine gods." Then Emad closed it flat: "It's a bad time to be a pure mathematician." Here's what they're not saying yet. Back in 2013/2014, I was with M+W High Tech Projects, on a design-and-build project in Kulim, Kedah, Malaysia. Our M&E engineer wanted an opening cut straight through the middle of a reinforced concrete beam — right where the bending moment peaks. I caught him before he did it. Told him no. That's beyond madness — you don't sacrifice a beam's structural integrity for an M&E opening. Had him redirect the ducts instead. Structural safety came first. The engineering knowledge wasn't rare. The judgment — catching the mistake before it became permanent — was. Same pattern here. Ten unsolved proofs, correct on paper, for $2,000. The correctness was never the scarce part. Hmm — this actually pulls the same thread as a post I put up about the corporate ladder losing its entry-level rungs to AI. Different profession, same mechanism: whichever rung gets automated first isn't random, and the people still standing on it are the ones who saw it as a pattern instead of a headline. Drop your take — is judgment actually the thing that survives this, or is that just the story we tell ourselves until it's our turn?
+
+39m ago
+
+---
+
+**[Why is there no “App Store” for independent AI agents yet?](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
+
+One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
 
 1h ago
 
@@ -65,7 +73,15 @@ I’ve been posting about AI-related stuff for a while now and honestly, the mor
 
 Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 9h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 10h ago
+
+---
+
+**[Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?](https://www.reddit.com/r/artificial/comments/1vjq4z0/reddit_is_rolling_out_ai_moderators_for_new/)**
+
+I’ve been posting about AI-related stuff for a while now and honestly, the more I see it being pushed everywhere, the more I think we need proper regulation around it. Not just “hey, we have AI now, let’s put it into everything”. And now Reddit is going down that road too. Like... seriously, wtf is going on? I get that moderation is a pain and AI can probably help with some of it. But this is always how it starts. First it’s there to “assist” people, then little by little it ends up making more and more decisions. Reddit is also probably one of the worst places to rely too much on AI moderation because so much of this site is sarcasm, jokes, arguments, dark humour, inside jokes, people taking things out of context, etc. How is an AI supposed to get all of that right? And what happens when it gets it wrong? You appeal to another AI? 😂 I’m not against AI at all. I use it and I think it can be really useful. I just don’t understand why the answer to everything suddenly seems to be “add AI”. Maybe we should figure out the rules and limits first before putting it everywhere. At this rate we’re going to end up with AI writing posts, AI moderating them, AI reviewing the appeals and humans just scrolling through the mess.
+
+2h ago
 
 ---
 
@@ -85,14 +101,6 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 ---
 
-**[Built a tiny AI sidehustle stack for under 30 bucks a month and now I am scared it actually works](https://www.reddit.com/r/artificial/comments/1vjojr5/built_a_tiny_ai_sidehustle_stack_for_under_30/)**
-
-I run a small digital tools consultancy between shifts at the cafe. Mostly I help solo creators glue together cheap SaaS stuff. A few months back I threw together my own workflow - some scraper I found on GitHub, a cheap Claude subscription, a nocode database, all held together with Zapier duct tape. Total monthly burn is like 27 dollars. It now handles client onboarding, drafts my proposals, and spits out pretty decent competitor teardowns. I have done maybe four hours of handson work this week that used to eat twenty. My clients have not noticed the difference. They actually think I got faster. Part of me is proud. The other part is watching these cheap Chinese models drop and wondering if my entire tiny operation has an expiration date measured in months, not years. I built this to save time and now I am lowkey anxious I automated myself into irrelevance before I even scaled. Anyone else running a micro business on cutrate AI? Are you hedging with human touch stuff or just riding the wave until it crashes? My herb garden does not judge me but Reddit might.
-
-2h ago
-
----
-
 **[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
@@ -101,19 +109,11 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 ---
 
-**[Will AI help speed up medical science?](https://www.reddit.com/r/artificial/comments/1vj3trr/will_ai_help_speed_up_medical_science/)**
+**[Built a tiny AI sidehustle stack for under 30 bucks a month and now I am scared it actually works](https://www.reddit.com/r/artificial/comments/1vjojr5/built_a_tiny_ai_sidehustle_stack_for_under_30/)**
 
-What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
+I run a small digital tools consultancy between shifts at the cafe. Mostly I help solo creators glue together cheap SaaS stuff. A few months back I threw together my own workflow - some scraper I found on GitHub, a cheap Claude subscription, a nocode database, all held together with Zapier duct tape. Total monthly burn is like 27 dollars. It now handles client onboarding, drafts my proposals, and spits out pretty decent competitor teardowns. I have done maybe four hours of handson work this week that used to eat twenty. My clients have not noticed the difference. They actually think I got faster. Part of me is proud. The other part is watching these cheap Chinese models drop and wondering if my entire tiny operation has an expiration date measured in months, not years. I built this to save time and now I am lowkey anxious I automated myself into irrelevance before I even scaled. Anyone else running a micro business on cutrate AI? Are you hedging with human touch stuff or just riding the wave until it crashes? My herb garden does not judge me but Reddit might.
 
-20h ago
-
----
-
-**[If you're genuinely concerned about data centers' water consumption, do you also consider the water footprint of the food you eat?](https://www.reddit.com/r/artificial/comments/1vjiehd/if_youre_genuinely_concerned_about_data_centers/)**
-
-I keep seeing people on Reddit criticizing AI and data centers because of how much water they use. I think the concern is legitimate, but I also think there's a pretty obvious consistency problem with how this issue is discussed. If your argument is that water consumption itself is an environmental problem, then shouldn't you also care about the water footprint of the products you consume? Beef is a particularly striking example. The Water Footprint Network estimates the global-average water footprint of beef at roughly 15,400 liters of water per kilogram of beef. It also estimates that beef has about 20 times the water footprint per calorie of cereals and starchy roots. Most of that footprint isn't the cow literally drinking water; it's primarily the water associated with producing its feed. I'm not saying this means "data centers are fine because beef exists." That's a bad argument. Data centers absolutely can create legitimate local water concerns, especially when they're built in water-stressed regions or place significant demand on municipal water systems during droughts. My point is that environmental criticism should be applied consistently. If someone is angry about a data center consuming millions of gallons of water, but eats beef regularly without ever considering its much larger water footprint, I'd like to know what principle they're actually applying. And this doesn't stop with beef. The same logic applies to: Dairy Food production in general Cotton clothing Lawns and landscaping Swimming pools Long showers and other household water use Water-intensive crops Bottled water Other industries that consume substantial amounts of freshwater There is nothing wrong with saying, "I think data centers should use less water." In fact, I agree that companies should be pushed toward more efficient cooling systems, transparent reporting, responsible siting, and minimizing their impact on communities facing water scarcity. But if the argument is instead, "Data centers use a lot of water, therefore they're environmentally irresponsible," then that standard should be applied to the rest of our consumption too. Otherwise, we're not really having a conversation about water conservation. We're selectively focusing on an industry we dislike while ignoring the environmental costs associated with things we personally consume. If water conservation is the principle, apply the principle consistently.
-
-8h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ I keep seeing people on Reddit criticizing AI and data centers because of how mu
 
 The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-CNBC • 3h ago
+cnbc.com • 4h ago
 
 ---
 
@@ -135,11 +135,11 @@ WSJ • 11h ago
 
 ---
 
-**[AI is shaking software. There's a new way to spot which companies are built to survive.](https://www.businessinsider.com/software-companies-built-survive-ai-threat-2026-8)**
+**[The world's leading AI companies are all struggling to contain their latest models](https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8)**
 
-Which software companies can survive the AI era? Barclays highlights the firms best positioned to weather the disruption.
+There's been a recent string of cybersecurity incidents among the world's leading AI models. Here's a look at what's happened.
 
-Business Insider • 1h ago
+businessinsider.com • 32m ago
 
 ---
 
@@ -147,7 +147,7 @@ Business Insider • 1h ago
 
 A degree should distinguish what students can do independently from what they can accomplish with AI.
 
-The Washington Post • 58m ago
+The Washington Post • 24m ago
 
 ---
 
@@ -155,15 +155,7 @@ The Washington Post • 58m ago
 
 Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
 
-CNN • 4h ago
-
----
-
-**[How AI agents can power the S&P 500 higher](https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html)**
-
-AI agents are only getting more powerful.
-
-Yahoo Finance • 2h ago
+CNN • 5h ago
 
 ---
 
@@ -171,29 +163,37 @@ Yahoo Finance • 2h ago
 
 Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communities, says Guardian columnist John Harris
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/)**
+**[How AI agents can power the S&P 500 higher](https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html)**
 
-Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
+AI agents are only getting more powerful.
 
-Variety • 15h ago
-
----
-
-**[Six weeks is all you get in the age of post-processable velocity](https://www.axios.com/2026/08/09/post-processable-velocity-ai-capability-simplify)**
-
-Axios • 4h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[‘Stop the slop’ efforts gain traction as platforms draw lines around AI content](https://www.nbcnews.com/tech/tech-news/ai-slop-linkedin-snap-efforts-rein-in-technology-rcna590817)**
+**[Here’s how we played the massive rebound in AI stocks this week](https://www.cnbc.com/2026/08/08/heres-how-we-played-the-massive-rebound-in-ai-stocks-this-week.html)**
 
-LinkedIn, Snap and other platforms are revving up efforts to rein in low-quality AI content without banning the technology entirely.
+AI stocks roared back to help lift two of the major averages to fresh records.
 
-NBC News • 1d ago
+cnbc.com • 1d ago
+
+---
+
+**[5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661)**
+
+Investing.com • 6h ago
+
+---
+
+**[These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)**
+
+A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?
+
+WIRED • 6h ago
 
 ---
 
@@ -209,15 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 530 • 💬 374 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-
----
-
-**[Software development with AI is starting to feel like cooking steak](https://news.ycombinator.com/item?id=49198069)**
-
-Why AI can make software development faster without replacing the judgment and understanding needed to build consistently good software.
-
-⬆️ 416 • 💬 418 • 2d ago • [Yurii’s Blog](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+⬆️ 531 • 💬 375 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -225,7 +217,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 AI coding tools deli
 
-⬆️ 305 • 💬 263 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 307 • 💬 263 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -280,7 +272,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 69 • 💬 47 • 7h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 72 • 💬 56 • 7h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -288,7 +280,15 @@ SAP says it needs to “be disciplined in how we spend.” That includes still f
 
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 66 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+⬆️ 67 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+
+---
+
+**[Amazon circumvents Gilroy community vote for AI data center](https://news.ycombinator.com/item?id=49230954)**
+
+Surprise, it's a data center!
+
+⬆️ 52 • 💬 59 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
 
 ---
 
@@ -302,7 +302,7 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 12K • 👍 412 • 💬 107 • ⏱️ 13:38 • 18h ago
+👁️ 12K • 👍 412 • 💬 107 • ⏱️ 13:38 • 19h ago
 
 ---
 
@@ -312,7 +312,7 @@ Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek C
 
 📺 TechLead
 
-👁️ 77K • 👍 2K • 💬 353 • ⏱️ 8:21 • 1d ago
+👁️ 77K • 👍 2K • 💬 353 • ⏱️ 8:21 • 2d ago
 
 ---
 
@@ -342,7 +342,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 72K • 👍 10K • 💬 603 • ⏱️ 13:15 • 21h ago
+👁️ 72K • 👍 10K • 💬 603 • ⏱️ 13:15 • 22h ago
 
 ---
 
@@ -360,7 +360,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 354K • 👍 24K • 💬 915 • ⏱️ 1:36 • 1d ago
+👁️ 354K • 👍 24K • 💬 915 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -406,7 +406,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,190 • 4h ago
+⬇️ 35,295 • ❤️ 3,190 • 5h ago
 
 ---
 
@@ -428,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,042 • 4h ago
+⬇️ 4,947,943 • ❤️ 1,042 • 5h ago
 
 ---
 
@@ -452,7 +452,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 523 • 18h ago
+⬇️ 0 • ❤️ 523 • 19h ago
 
 ---
 
@@ -464,7 +464,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,792 • 11h ago
+⬇️ 2,390,692 • ❤️ 1,792 • 12h ago
 
 ---
 
@@ -488,7 +488,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 414 • 3d ago
+⬇️ 0 • ❤️ 414 • 4d ago
 
 ---
 
@@ -661,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 862 • 15h ago
+⭐ 7.9k • 🔱 862 • 16h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 379 • 4h ago
+⭐ 4.3k • 🔱 379 • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 55m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 397 • 59m ago
+⭐ 2.3k • 🔱 397 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 146 • 3h ago
+⭐ 2.0k • 🔱 146 • 4h ago
 
 ---
 
@@ -739,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 234 • 7h ago
+⭐ 2.0k • 🔱 234 • 8h ago
 
 ---
 
@@ -749,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 246 • 1h ago
+⭐ 1.9k • 🔱 246 • 2h ago
 
 ---
 
