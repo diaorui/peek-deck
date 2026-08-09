@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T11:29:04.175540+00:00'
+updated: '2026-08-09T11:57:42.517731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 11:29 UTC  
+**Last Updated:** August 09, 2026 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-33m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-9h ago
+10h ago
 
 ---
 
@@ -130,17 +130,17 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
-
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
-
-Global News • 1d ago
-
----
-
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
 WSJ • 1d ago
+
+---
+
+**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
+
+Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
+
+ABC30 Fresno • 1d ago
 
 ---
 
@@ -152,23 +152,9 @@ businessinsider.com • 2h ago
 
 ---
 
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
-
-USNI News • 2d ago
-
----
-
 **[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
-
-Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -177,6 +163,20 @@ Yahoo Finance • 1d ago
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
 Futurism • 16h ago
+
+---
+
+**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+
+USNI News • 2d ago
+
+---
+
+**[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
+
+Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
+
+Princeton Engineering • 2d ago
 
 ---
 
@@ -190,17 +190,17 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 62K • 👍 971 • ⏱️ 17:44 • 2d ago
+👁️ 65K • 👍 997 • ⏱️ 17:44 • 2d ago
 
 ---
 
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
-📺 Al Jazeera English
+📺 NBC News
 
-👁️ 37K • 👍 537 • 💬 275 • ⏱️ 28:01 • 1d ago
+👁️ 34K • 👍 364 • 💬 413 • ⏱️ 1:36 • 4d ago
 
 ---
 
@@ -214,33 +214,33 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 ---
 
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 38K • 👍 550 • 💬 277 • ⏱️ 28:01 • 1d ago
+
+---
+
 **[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
 I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
 📺 Cyrus Janssen
 
-👁️ 159K • 👍 564 • 💬 98 • ⏱️ 40:27 • 2d ago
+👁️ 164K • 👍 569 • 💬 98 • ⏱️ 40:27 • 3d ago
 
 ---
 
-**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
+**[Centaur Robot Sparks MAJOR Questions After Shocking Chainsaw Pictures Unveiled](https://www.youtube.com/watch?v=MhnOQCJXums)**
 
-Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
+A Robotics startup in California sparks an internet frenzy after releasing pictures of their creation of a robot centaur meant to help ...
 
-📺 KhanFlicks
+📺 The Damage Report
 
-👁️ 12K • 👍 92 • 💬 30 • ⏱️ 6:44 • 3d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 50K • 👍 3K • 💬 481 • ⏱️ 26:40 • 4d ago
+👁️ 25K • 👍 1K • 💬 327 • ⏱️ 8:30 • 6d ago
 
 ---
 
@@ -250,7 +250,7 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 📺 Boston Dynamics
 
-👁️ 159K • 👍 10K • 💬 486 • ⏱️ 2:03 • 4d ago
+👁️ 160K • 👍 10K • 💬 489 • ⏱️ 2:03 • 4d ago
 
 ---
 
@@ -262,23 +262,23 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 ---
 
-**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
 
-Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
 
-📺 Lon.TV
+📺 Synthetic Empire
 
-👁️ 49K • 👍 2K • 💬 430 • ⏱️ 9:59 • 3d ago
+👁️ 64K • 👍 1K • 💬 109 • ⏱️ 12:38 • 5d ago
 
 ---
 
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
 
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
 
-📺 Excessive Overkill
+📺 KhanFlicks
 
-👁️ 121K • 👍 4K • 💬 221 • ⏱️ 47:03 • 3d ago
+👁️ 12K • 👍 92 • 💬 30 • ⏱️ 6:44 • 3d ago
 
 ---
 

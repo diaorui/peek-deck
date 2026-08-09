@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T11:29:04.166274+00:00'
+updated: '2026-08-09T11:57:42.508226+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 11:29 UTC  
+**Last Updated:** August 09, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1299.70B
+**Market Cap:** $1303.14B
 Rank #1
 
-**Circulating Supply:** 20,067,793 BTC
+**Circulating Supply:** 20,067,868 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.6%
+-48.5%
 
 **All-Time Low:** $67.81
-+95409.5%
++95663.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ I started with daily investments early this year and before I realized I passed 
 
 To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ I am mining Bitcoin and want to hold as much as possible, but to keep my machine
 
 The last non split block has been mined. Lest see what happens now
 
-15h ago
+16h ago
 
 ---
 
@@ -169,15 +169,15 @@ CoinDesk • 21h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://ca.finance.yahoo.com/news/bitcoin-slips-below-65-000-093410889.html)**
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://uk.finance.yahoo.com/news/bitcoin-slips-below-65-000-093409218.html)**
 
 Investing.com -- Bitcoin traded under $65,000 on Sunday, slipping slightly over the previous 24 hours, as strong U.S. exchange-traded fund inflows competed with concerns surrounding the stalled BIP-110 minority chain.
 
-Yahoo! Finance Canada • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -189,25 +189,19 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Hack of Supposedly Safe Bitcoin Tool Tries Faith of the Devoted](https://www.bloomberg.com/news/features/2026-08-06/bitcoin-btc-faithful-tested-as-hackers-drain-funds-stashed-offline)**
+**[Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html)**
 
-Bloomberg.com • 2d ago
+Bitcoin was trading right around $65,000 U.S. on Aug. 7 to end a difficult week for the crypto market. ...
 
----
-
-**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
-
-Trump Media wants to focus on other business ventures, according to an Axios report.
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin: BIP-110 soft fork attempt begins - 09 Aug 2026](https://www.tradingview.com/news/coinmarketcal:908539481094b:0-bitcoin-bip-110-soft-fork-attempt-begins-09-aug-2026/)**
+**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
 
-GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
+The billionaire says he made $15 billion for his company in 2025...
 
-TradingView • 9h ago
+Forbes • 27m ago
 
 ---
 
@@ -219,11 +213,19 @@ Fortune • 2d ago
 
 ---
 
+**[Bitcoin: BIP-110 soft fork attempt begins - 09 Aug 2026](https://www.tradingview.com/news/coinmarketcal:908539481094b:0-bitcoin-bip-110-soft-fork-attempt-begins-09-aug-2026/)**
+
+GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
+
+TradingView • 9h ago
+
+---
+
 **[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -290,7 +292,7 @@ Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pu
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 4d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -328,17 +330,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 57K • 👍 3K • 💬 79 • ⏱️ 47:31 • 22h ago
+👁️ 59K • 👍 3K • 💬 79 • ⏱️ 47:31 • 22h ago
 
 ---
 
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+**[BITCOIN JUST FORKED!! (Here&#39;s What&#39;s Happening)](https://www.youtube.com/watch?v=Cku7ECkr2qQ)**
 
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain splits and the possibility of a hard fork. Samson ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 182 • 💬 9 • ⏱️ 1:20 • 19h ago
+👁️ 21K • 👍 2K • 💬 388 • ⏱️ 21:56 • 11h ago
 
 ---
 
@@ -348,27 +350,17 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 4K • 👍 100 • 💬 21 • ⏱️ 1:18 • 22h ago
+👁️ 5K • 👍 102 • 💬 21 • ⏱️ 1:18 • 23h ago
 
 ---
 
-**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
-Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
-📺 Crypto Vlog
+📺 Altcoin Daily
 
-👁️ 8K • 💬 25 • ⏱️ 1:13 • 2d ago
-
----
-
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
-
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 134K • 👍 7K • 💬 448 • ⏱️ 24:00 • 2d ago
+👁️ 6K • 👍 192 • 💬 9 • ⏱️ 1:20 • 19h ago
 
 ---
 
@@ -378,27 +370,17 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 165 • 💬 7 • ⏱️ 1:03 • 20h ago
+👁️ 6K • 👍 172 • 💬 7 • ⏱️ 1:03 • 20h ago
 
 ---
 
-**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
+**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
 
-Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
+Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
-📺 PragerU
+📺 Benjamin Cowen
 
-👁️ 32K • 👍 340 • 💬 27 • ⏱️ 8:07 • 1d ago
-
----
-
-**[Bitcoins Move Towards $250k Starts HERE! Bitcoin Price Prediction](https://www.youtube.com/watch?v=1tePMqLARJI)**
-
-Bitcoin is coming — and the setup is forming now. In this video I break down why the next major leg higher in Bitcoin may be ...
-
-📺 Crypto Jebb
-
-👁️ 11K • 👍 530 • 💬 49 • ⏱️ 8:03 • 2d ago
+👁️ 135K • 👍 7K • 💬 451 • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -408,17 +390,37 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 6K • 👍 143 • 💬 5 • ⏱️ 1:23 • 1d ago
+👁️ 6K • 👍 148 • 💬 5 • ⏱️ 1:23 • 1d ago
 
 ---
 
-**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
 
-This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
 
-📺 The Modern Investor
+📺 Natalie Brunell
 
-👁️ 6K • 👍 620 • 💬 110 • ⏱️ 33:45 • 1d ago
+👁️ 36K • 👍 2K • 💬 438 • ⏱️ 1:09:52 • 1d ago
+
+---
+
+**[Jobs Report Shocker, Market Surge, S&amp;P Nears Next Major Resistance, Bitcoin Breakout, Gold Surge](https://www.youtube.com/watch?v=Ha7A-BX9zME)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 66K • 👍 4K • 💬 142 • ⏱️ 18:43 • 1d ago
+
+---
+
+**[&quot;The Fed JUST QUIETLY Took Action! Bitcoin Will Explode MASSIVELY&quot;    Cathie Wood](https://www.youtube.com/watch?v=aTN016GxGgg)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 387 • 💬 14 • ⏱️ 17:47 • 13h ago
 
 ---
 

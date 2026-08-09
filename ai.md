@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T11:29:04.157521+00:00'
+updated: '2026-08-09T11:57:42.499417+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 11:29 UTC  
+**Last Updated:** August 09, 2026 at 11:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-19h ago
-
----
-
-**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
-
-The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
-
-21h ago
+20h ago
 
 ---
 
@@ -69,6 +61,14 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 ---
 
+**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
+
+The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
+
+22h ago
+
+---
+
 **[Learned the term "context poisoning" today and now I can't stop noticing it](https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/)**
 
 Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The model starts treating the repeated-but-refuted claim like something more established than a one-off error, even though every mention of it in the conversation was someone telling it that it's wrong. Sat with that for a bit because it explains something I'd noticed but never had a name for. Long sessions where a bad idea keeps resurfacing no matter how many times you shoot it down, and it always felt like the model just wasn't listening. Sounds like it's closer to the opposite, it's listening to everything, including the argument about the mistake, and that argument is inadvertently keeping the mistake alive in a weird way. Kind of unsettling implication if this is right: correcting a model in place, in the same long conversation, might be structurally worse than starting fresh with just the correct information stated once. The instinct to "just explain it better" or "just correct it again" could be actively working against you past a certain conversation length. Curious if anyone here has a more precise mental model of why this happens mechanically, or knows of research specifically on this pattern versus general context window degradation. Feels like a distinct phenomenon from "the model just forgot," more like "the model remembered too well, including the wrong parts."
@@ -81,7 +81,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-4h ago
+5h ago
 
 ---
 
@@ -97,13 +97,13 @@ https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparenc
 
 I keep seeing people on Reddit criticizing AI and data centers because of how much water they use. I think the concern is legitimate, but I also think there's a pretty obvious consistency problem with how this issue is discussed. If your argument is that water consumption itself is an environmental problem, then shouldn't you also care about the water footprint of the products you consume? Beef is a particularly striking example. The Water Footprint Network estimates the global-average water footprint of beef at roughly 15,400 liters of water per kilogram of beef. It also estimates that beef has about 20 times the water footprint per calorie of cereals and starchy roots. Most of that footprint isn't the cow literally drinking water; it's primarily the water associated with producing its feed. I'm not saying this means "data centers are fine because beef exists." That's a bad argument. Data centers absolutely can create legitimate local water concerns, especially when they're built in water-stressed regions or place significant demand on municipal water systems during droughts. My point is that environmental criticism should be applied consistently. If someone is angry about a data center consuming millions of gallons of water, but eats beef regularly without ever considering its much larger water footprint, I'd like to know what principle they're actually applying. And this doesn't stop with beef. The same logic applies to: Dairy Food production in general Cotton clothing Lawns and landscaping Swimming pools Long showers and other household water use Water-intensive crops Bottled water Other industries that consume substantial amounts of freshwater There is nothing wrong with saying, "I think data centers should use less water." In fact, I agree that companies should be pushed toward more efficient cooling systems, transparent reporting, responsible siting, and minimizing their impact on communities facing water scarcity. But if the argument is instead, "Data centers use a lot of water, therefore they're environmentally irresponsible," then that standard should be applied to the rest of our consumption too. Otherwise, we're not really having a conversation about water conservation. We're selectively focusing on an industry we dislike while ignoring the environmental costs associated with things we personally consume. If water conservation is the principle, apply the principle consistently.
 
-4h ago
+5h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 23h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 23h ago
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -141,25 +141,25 @@ WSJ • 1d ago
 
 ---
 
-**[China AI Chip Designer Moore Threads Plans Hong Kong Listing](https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing)**
+**[A.I. Is Now a Major Election Issue](https://www.newyorker.com/magazine/2026/08/17/ai-is-now-a-major-election-issue)**
 
-Bloomberg.com • 1h ago
+As Abdul El-Sayed, Michigan’s newly elected Democratic nominee for the U.S. Senate, put it, “People really effing hate data centers.”
 
----
-
-**[As AI ‘therapists’ dish out advice, California lawmakers try to set some limits](https://www.latimes.com/science/story/2026-08-09/as-ai-therapists-dish-out-advice-california-lawmakers-try-to-set-some-limits)**
-
-A chatbot called 'Psychologist' offers empathy and advice, but it's not a real therapist. California legislators are trying to craft some guardrails.
-
-Los Angeles Times • 1h ago
+The New Yorker • 1h ago
 
 ---
 
-**[AI push is putting banks at mercy of tech firms, warns Moody’s](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector)**
+**[AI isn’t the biggest cybersecurity problem. People are](https://www.cnn.com/2026/08/09/tech/ai-cybersecurity-people)**
 
-Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency
+Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
 
-The Guardian • 2h ago
+CNN • 1h ago
+
+---
+
+**[5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661)**
+
+Investing.com • 2h ago
 
 ---
 
@@ -167,15 +167,7 @@ The Guardian • 2h ago
 
 Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
 
-Variety • 11h ago
-
----
-
-**[Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)**
-
-The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
-
-blogs.nvidia.com • 11h ago
+Variety • 12h ago
 
 ---
 
@@ -183,15 +175,23 @@ blogs.nvidia.com • 11h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
-**[AI is booming on the West Coast. So why is unemployment so high there?](https://www.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+**[The bank behind China’s AI listings bonanza](https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1)**
 
-A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
+CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
-CNN • 1d ago
+Financial Times • 10h ago
+
+---
+
+**[Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground](https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html)**
+
+Nokia (NYSE:NOK) has spent the past year rebuilding its story around AI, and earlier on July 14, it added another data point. The company signed a 5G expansion agreement with Taiwan Mobile to deploy its AirScale portfolio and AI-driven software across the carrier’s network, part of a broader push toward what Nokia calls AI-native mobile […]
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 528 • 💬 373 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 529 • 💬 374 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -231,7 +231,7 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 AI coding tools deli
 
-⬆️ 303 • 💬 262 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 304 • 💬 262 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 165 • 💬 108 • 21h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 166 • 💬 109 • 22h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -286,7 +286,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 62 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+⬆️ 66 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
 
 ---
 
@@ -300,7 +300,7 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 9K • 👍 337 • 💬 90 • ⏱️ 13:38 • 14h ago
+👁️ 11K • 👍 375 • 💬 100 • ⏱️ 13:38 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek C
 
 📺 TechLead
 
-👁️ 74K • 👍 2K • 💬 345 • ⏱️ 8:21 • 1d ago
+👁️ 75K • 👍 2K • 💬 348 • ⏱️ 8:21 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 17h ago
+👁️ 69K • 👍 9K • 💬 583 • ⏱️ 13:15 • 18h ago
 
 ---
 
@@ -340,7 +340,15 @@ Artificial Intelligence has been used to design brand new viruses that are fully
 
 📺 BBC News
 
-👁️ 732K • 👍 9K • 💬 4K • ⏱️ 6:38 • 1d ago
+👁️ 766K • 👍 10K • 💬 4K • ⏱️ 6:38 • 1d ago
+
+---
+
+**[jesus 😱🧐#jesus #oraçãoforte #god #fé#oração #gaming #amen #usa #jesuscristo #amém #shortvideo #ai](https://www.youtube.com/watch?v=x7N80cp1vII)**
+
+📺 Deba Das
+
+👁️ 248K • 👍 1K • 💬 2 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -350,17 +358,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 340K • 👍 24K • 💬 847 • ⏱️ 1:36 • 1d ago
-
----
-
-**[How to Detect AI Slop](https://www.youtube.com/watch?v=ORgKY9AlybA)**
-
-Everyone is missing how to really tell what's AI writing or not. Contrary to popular belief, the best 'tell' is not sentence constructions ...
-
-📺 languagejones
-
-👁️ 122K • 👍 8K • 💬 2K • ⏱️ 17:13 • 1d ago
+👁️ 347K • 👍 24K • 💬 871 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -370,7 +368,17 @@ In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial
 
 📺 Shawn Ryan Show
 
-👁️ 136K • 👍 3K • 💬 688 • ⏱️ 17:08 • 1d ago
+👁️ 139K • 👍 3K • 💬 696 • ⏱️ 17:08 • 1d ago
+
+---
+
+**[How to Detect AI Slop](https://www.youtube.com/watch?v=ORgKY9AlybA)**
+
+Everyone is missing how to really tell what's AI writing or not. Contrary to popular belief, the best 'tell' is not sentence constructions ...
+
+📺 languagejones
+
+👁️ 129K • 👍 8K • 💬 2K • ⏱️ 17:13 • 1d ago
 
 ---
 
@@ -380,17 +388,7 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 200K • 👍 5K • 💬 452 • ⏱️ 0:51 • 2d ago
-
----
-
-**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
-
-(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
-
-📺 All-In Podcast
-
-👁️ 263K • 👍 5K • 💬 432 • ⏱️ 1:15:18 • 1d ago
+👁️ 201K • 👍 5K • 💬 453 • ⏱️ 0:51 • 2d ago
 
 ---
 
@@ -406,7 +404,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,156 • 2d ago
+⬇️ 35,295 • ❤️ 3,177 • 1h ago
 
 ---
 
@@ -418,7 +416,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 868,576 • ❤️ 2,890 • 8d ago
+⬇️ 868,576 • ❤️ 2,896 • 8d ago
 
 ---
 
@@ -428,7 +426,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,028 • 13h ago
+⬇️ 4,947,943 • ❤️ 1,033 • 1h ago
 
 ---
 
@@ -440,7 +438,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,456,459 • ❤️ 10,361 • 12d ago
+⬇️ 1,456,459 • ❤️ 10,368 • 12d ago
 
 ---
 
@@ -452,7 +450,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 505 • 15h ago
+⬇️ 0 • ❤️ 511 • 15h ago
 
 ---
 
@@ -464,7 +462,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,778 • 8h ago
+⬇️ 2,390,692 • ❤️ 1,786 • 8h ago
 
 ---
 
@@ -476,7 +474,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 85,651 • ❤️ 428 • 2d ago
+⬇️ 85,651 • ❤️ 432 • 2d ago
 
 ---
 
@@ -500,7 +498,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 188,761 • ❤️ 617 • 2d ago
+⬇️ 188,761 • ❤️ 618 • 2d ago
 
 ---
 
@@ -512,7 +510,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,089 • ❤️ 267 • 4d ago
+⬇️ 1,089 • ❤️ 274 • 4d ago
 
 ---
 
@@ -554,7 +552,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 87 • 💬 1 • ⭐ 547 • 5d ago
+▲ 88 • 💬 1 • ⭐ 547 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -574,26 +572,13 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 177 • 💬 2 • ⭐ 77,161 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
 
 *Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
 
 Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
 
-▲ 161 • 💬 3 • ⭐ 411 • 6d ago
+▲ 161 • 💬 3 • ⭐ 450 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
 
@@ -622,6 +607,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 65 • 💬 1 • ⭐ 86,094 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 177 • 💬 2 • ⭐ 77,176 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -661,7 +659,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 857 • 11h ago
+⭐ 7.9k • 🔱 861 • 12h ago
 
 ---
 
@@ -671,7 +669,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 377 • 1h ago
+⭐ 4.3k • 🔱 378 • 1h ago
 
 ---
 
@@ -679,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 492 • 1d ago
+⭐ 3.8k • 🔱 493 • 1d ago
 
 ---
 
@@ -689,7 +687,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 39s ago
 
 ---
 
@@ -699,7 +697,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 394 • 10h ago
+⭐ 2.3k • 🔱 394 • 11h ago
 
 ---
 
@@ -709,7 +707,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.2k • 🔱 166 • 5d ago
+⭐ 2.2k • 🔱 168 • 5d ago
 
 ---
 
@@ -719,7 +717,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.0k • 🔱 179 • 4d ago
+⭐ 2.0k • 🔱 180 • 4d ago
 
 ---
 
@@ -729,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 143 • 2h ago
+⭐ 2.0k • 🔱 146 • 37m ago
 
 ---
 
@@ -739,7 +737,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 234 • 3h ago
+⭐ 2.0k • 🔱 234 • 4h ago
 
 ---
 
@@ -749,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 245 • 1h ago
+⭐ 1.9k • 🔱 245 • 4m ago
 
 ---
 

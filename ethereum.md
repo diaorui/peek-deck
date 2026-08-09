@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T11:29:04.172322+00:00'
+updated: '2026-08-09T11:57:42.514422+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 11:29 UTC  
+**Last Updated:** August 09, 2026 at 11:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.94B
+**Market Cap:** $231.53B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+441903.0%
++442974.6%
 
 ---
 
@@ -160,35 +160,27 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+**[Ethereum Price Risk: Fewer Coins to Sell and More Dollars in Position](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-risk-fewer-coins-101228566.html)**
 
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+Ether supply is leaving exchanges as stablecoins rotate onto Ethereum, yet ETH price stays flat near $1,900.
 
-Yahoo Finance • 1d ago
-
----
-
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
-
-Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
-
-TradingView • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
+**[Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash](https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/)**
 
-The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
+Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
 
-The Block • 4d ago
+CryptoSlate • 17h ago
 
 ---
 
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
 
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-CryptoSlate • 19h ago
+The Block • 1d ago
 
 ---
 
@@ -200,11 +192,25 @@ markets.businessinsider.com • 1d ago
 
 ---
 
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
+
+thestreet.com • 1d ago
+
+---
+
 **[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
 
 Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -213,12 +219,6 @@ Crypto Briefing • 18h ago
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
 Benzinga • 1d ago
-
----
-
-**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
-
-thestreet.com • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 9h ago
+👁️ 3K • 👍 195 • 💬 4 • ⏱️ 7:37 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ Everyone thinks Ethereum is falling behind. Tom Lee thinks it's the most mispric
 
 📺 New Era Finance Podcast
 
-👁️ 4K • 👍 58 • 💬 17 • ⏱️ 3:33 • 2d ago
+👁️ 4K • 👍 58 • 💬 19 • ⏱️ 3:33 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 620 • 💬 111 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 624 • 💬 94 • ⏱️ 33:45 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 10h ago
+👁️ 5K • 👍 312 • 💬 6 • ⏱️ 1:29 • 10h ago
 
 ---
 
@@ -278,17 +278,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 214 • 💬 35 • ⏱️ 1:06:58 • 2d ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=AvwW8g9GqVc)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https://t.me/Ashulivetrade Create ...
-
-📺 Ashutosh Kumar
-
-👁️ 7K • 👍 587 • 4h ago
+👁️ 7K • 👍 218 • 💬 35 • ⏱️ 1:06:58 • 2d ago
 
 ---
 
@@ -298,7 +288,7 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 20K • 👍 2K • 💬 229 • ⏱️ 17:35 • 1d ago
+👁️ 20K • 👍 2K • 💬 230 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -312,16 +302,6 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 ---
 
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 108 • 💬 12 • ⏱️ 1:08 • 1d ago
-
----
-
 **[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
 
 The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
@@ -329,6 +309,26 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 17h ago
+
+---
+
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 109 • 💬 12 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 151 • 💬 91 • ⏱️ 51:35 • 2d ago
 
 ---
 
