@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T02:06:07.847791+00:00'
+updated: '2026-08-09T03:58:02.718534+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 02:06 UTC  
+**Last Updated:** August 09, 2026 at 03:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-10h ago
+12h ago
 
 ---
 
@@ -53,11 +53,11 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 ---
 
-**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
+**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
 
-Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
+The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-10h ago
+14h ago
 
 ---
 
@@ -65,15 +65,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-7h ago
-
----
-
-**[The EU AI Act may become a global rulebook without other countries adopting it](https://www.reddit.com/r/artificial/comments/1viw4vs/the_eu_ai_act_may_become_a_global_rulebook/)**
-
-The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
-
-12h ago
+9h ago
 
 ---
 
@@ -81,21 +73,21 @@ The EU AI Act is usually discussed as a European compliance issue, but its large
 
 TikTok owner training a model with 10 trillion parameters.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/) • 18h ago
+
+---
+
+**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
+
+Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
+
+11h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 14h ago
-
----
-
-**[Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?](https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/)**
-
-This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
-
-7h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 16h ago
 
 ---
 
@@ -103,7 +95,15 @@ This is a weird one to admit but here goes. Spent the last few years home with k
 
 Been running longer and longer tasks and I kept losing track of them, so I wired it up so the thing actually phones me when it's done, or when it gets stuck and needs a call on something. It reads out what happened and I just talk back and tell it what to do next. Been using it a few days and honestly it flips between genuinely useful and slightly cursed. There's something strange about your computer ringing you like a coworker. But not staring at a progress bar for twenty minutes is really nice. Curious where people land on this. Is an AI that calls your phone something you'd actually want, or does it cross a line into too much.
 
-23h ago
+1d ago
+
+---
+
+**[Anyone else using AI tools to figure out if they're actually employable again after years out of the workforce?](https://www.reddit.com/r/artificial/comments/1vj3cnc/anyone_else_using_ai_tools_to_figure_out_if/)**
+
+This is a weird one to admit but here goes. Spent the last few years home with kids, which was the right call, but now I'm in this fuzzy inbetween place where I'm starting to think about what comes next professionally. My background is HR and recruiting, which means I spent years evaluating other people's career gaps on paper and now I get to experience one myself. Very humbling, not going to lie. Anyway I've been using a few different AI tools to stresstest my own resume and do mock interview prep, and it's genuinely strange how useful it's been. Not perfect, not even close. But it's like having a brutally honest mirror that doesn't get tired of your followup questions at 11pm. What's interesting is that from an HR angle I keep noticing how the AI frames employability: what it treats as a gap versus a credential, how it weights certain language. It reflects back some real assumptions that were baked into recruiting culture for years, and it makes me wonder how much of that bias got trained into these models, or whether I'm just projecting patterns I already know. The whole thing feels a little like watching your old industry from the outside through a very weird telescope. Has anyone with a nontechnical background found themselves using AI in a way that accidentally became a critique of their own field?
+
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 China is evolving its influence operations to amplify existing American domestic debates regarding AI infrastructure, such as data centers, to strategically slow the nation’s technological bu…
 
-🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 22h ago
+🔗 [The Hill](https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/) • 1d ago
 
 ---
 
@@ -123,37 +123,13 @@ China is evolving its influence operations to amplify existing American domestic
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 14h ago
+cnbc.com • 15h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 1d ago
-
----
-
-**[Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/)**
-
-Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
-
-Variety • 2h ago
-
----
-
-**[The bank behind China’s AI listings bonanza](https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1)**
-
-CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
-
-Financial Times • 41m ago
-
----
-
-**[SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building](https://www.foxbusiness.com/technology/spacex-tesla-choose-texas-ai-chip-manufacturing-plant-worlds-largest-building)**
-
-SpaceX and Tesla's Terafab in Grimes, Texas, will produce AI chips for Optimus robots, Cybercabs and space-based data centers at massive scale.
-
-Fox Business • 1d ago
+wsj.com • 1d ago
 
 ---
 
@@ -161,15 +137,23 @@ Fox Business • 1d ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 10h ago
+Fortune • 12h ago
 
 ---
 
-**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
+**[Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’](https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/)**
 
-Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
+Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
 
-The Guardian • 9h ago
+Variety • 4h ago
+
+---
+
+**[‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)**
+
+Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?
+
+The Guardian • 19h ago
 
 ---
 
@@ -185,7 +169,7 @@ WCAX • 1d ago
 
 What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
@@ -193,7 +177,21 @@ BBC • 12h ago
 
 A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-CNN • 15h ago
+CNN • 17h ago
+
+---
+
+**[Suspected AI use is the entertainment industry's scarlet letter](https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade)**
+
+Axios • 17h ago
+
+---
+
+**[Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)**
+
+The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
+
+NVIDIA Blog • 4h ago
 
 ---
 
@@ -209,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 520 • 💬 376 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 523 • 💬 377 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -225,7 +223,7 @@ Why AI can make software development faster without replacing the judgment and u
 
 Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.
 
-⬆️ 335 • 💬 244 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
+⬆️ 336 • 💬 244 • 2d ago • [Scale X](https://scalex.dev/blog/ai-agent-permissions-stats/)
 
 ---
 
@@ -233,7 +231,7 @@ Results from AI agent permission game: which attacks beat human reviewers, and w
 
 AI coding tools deli
 
-⬆️ 300 • 💬 257 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 300 • 💬 261 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -253,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 152 • 💬 105 • 12h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 155 • 💬 106 • 14h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -272,7 +270,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 81 • 💬 19 • 22h ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 81 • 💬 19 • 1d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -280,13 +278,13 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-⬆️ 74 • 💬 117 • 2d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+⬆️ 75 • 💬 117 • 2d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
-**[Governments are making a dangerous bet on the AI boom](https://news.ycombinator.com/item?id=49192160)**
+**[Should AI labs be treated like the owners of dangerous animals?](https://news.ycombinator.com/item?id=49217629)**
 
-⬆️ 58 • 💬 35 • 2d ago • [economist.com](https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom)
+⬆️ 51 • 💬 58 • 1d ago • [economist.com](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
 
 ---
 
@@ -310,7 +308,7 @@ Alpha Membership: https://MeetKevin.com COUPON "VACATIONGREEN" EXPIRING AUG 14. 
 
 📺 Meet Kevin
 
-👁️ 12K • 👍 582 • 💬 82 • ⏱️ 53:00 • 4h ago
+👁️ 12K • 👍 582 • 💬 82 • ⏱️ 53:00 • 6h ago
 
 ---
 
@@ -340,7 +338,7 @@ I stream on Twitch ( https://www.twitch.tv/luality ) most days, come watch me su
 
 📺 Luality
 
-👁️ 4K • 👍 428 • 💬 16 • ⏱️ 0:52 • 5h ago
+👁️ 4K • 👍 428 • 💬 16 • ⏱️ 0:52 • 7h ago
 
 ---
 
@@ -348,7 +346,7 @@ I stream on Twitch ( https://www.twitch.tv/luality ) most days, come watch me su
 
 📺 Mark Tilbury
 
-👁️ 437K • 👍 12K • 💬 666 • ⏱️ 0:26 • 17h ago
+👁️ 437K • 👍 12K • 💬 666 • ⏱️ 0:26 • 19h ago
 
 ---
 
@@ -416,7 +414,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,854 • 7d ago
+⬇️ 785,771 • ❤️ 2,854 • 8d ago
 
 ---
 
@@ -426,7 +424,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 1,006 • 4h ago
+⬇️ 3,943,176 • ❤️ 1,006 • 6h ago
 
 ---
 
@@ -450,7 +448,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 489 • 5h ago
+⬇️ 0 • ❤️ 489 • 7h ago
 
 ---
 
@@ -462,7 +460,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,761 • 23h ago
+⬇️ 2,345,190 • ❤️ 1,761 • 1d ago
 
 ---
 
@@ -659,7 +657,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 846 • 2h ago
+⭐ 7.8k • 🔱 846 • 4h ago
 
 ---
 
@@ -677,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 489 • 16h ago
+⭐ 3.8k • 🔱 489 • 18h ago
 
 ---
 
@@ -687,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 52s ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -697,7 +695,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 389 • 1h ago
+⭐ 2.3k • 🔱 389 • 3h ago
 
 ---
 
@@ -737,7 +735,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 3h ago
+⭐ 2.0k • 🔱 233 • 5h ago
 
 ---
 
@@ -747,7 +745,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 244 • 3m ago
+⭐ 1.9k • 🔱 244 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T02:06:07.862923+00:00'
+updated: '2026-08-09T03:58:02.731872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 02:06 UTC  
+**Last Updated:** August 09, 2026 at 03:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +3.0%  
-**30d:** +7.1%  
-**90d:** -15.8%  
+**24h:** -0.2%  
+**7d:** +2.9%  
+**30d:** +7.0%  
+**90d:** -15.9%  
 **1y:** -55.0%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -168,14 +168,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
-
-Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
-
-TradingView • 1d ago
-
----
-
 **[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
@@ -184,11 +176,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
 
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-CryptoSlate • 9h ago
+TradingView • 23h ago
 
 ---
 
@@ -196,7 +188,23 @@ CryptoSlate • 9h ago
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 20h ago
+
+---
+
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.benzinga.com/crypto/cryptocurrency/26/08/61046907/clarity-act-delay-means-its-pretty-much-dead-expert-says-bitcoin-ethereum-dont-care)**
+
+Bitcoin and Ethereum remain resilient despite fading hopes for U.S. crypto legislation. Other altcoins, such as Solana and Dogecoin, are also performing well.
+
+Benzinga • 1d ago
+
+---
+
+**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+
+CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+
+CryptoSlate • 11h ago
 
 ---
 
@@ -206,19 +214,11 @@ FXStreet • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
-
-Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
-
-Benzinga • 1d ago
-
----
-
 **[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
 
 Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 180 • 👍 8 • 💬 1 • ⏱️ 1:25 • 8h ago
+👁️ 180 • 👍 8 • 💬 1 • ⏱️ 1:25 • 9h ago
 
 ---
 
@@ -330,7 +330,7 @@ In this video, I provide a detailed Elliott Wave analysis for Ethereum to determ
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 230 • 💬 10 • ⏱️ 7:25 • 1d ago
+👁️ 4K • 👍 230 • 💬 10 • ⏱️ 7:25 • 2d ago
 
 ---
 
