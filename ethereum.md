@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T09:39:19.852671+00:00'
+updated: '2026-08-09T10:35:04.834890+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 09:39 UTC  
+**Last Updated:** August 09, 2026 at 10:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,916.08
+### $1,921.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +3.0%  
-**30d:** +7.1%  
-**90d:** -15.8%  
-**1y:** -55.0%  
+**24h:** -0.0%  
+**7d:** +3.2%  
+**30d:** +7.3%  
+**90d:** -15.6%  
+**1y:** -54.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -168,27 +168,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
-
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
-
-CryptoSlate • 17h ago
-
----
-
-**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
-
-The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
-
-The Block • 1d ago
-
----
-
 **[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
 TradingView • 1d ago
+
+---
+
+**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
+
+The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
+
+The Block • 4d ago
+
+---
+
+**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+
+CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+
+CryptoSlate • 18h ago
 
 ---
 
@@ -200,6 +200,14 @@ markets.businessinsider.com • 1d ago
 
 ---
 
+**[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
+
+Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
+
+Crypto Briefing • 18h ago
+
+---
+
 **[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
 Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
@@ -208,19 +216,9 @@ Benzinga • 1d ago
 
 ---
 
-**[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
+**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
 
-Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
-
-Crypto Briefing • 17h ago
-
----
-
-**[Yield Hunters Circle Ethereum: NEOS High-Income ETF Draws Fresh Cash Despite Price Slump](https://www.tipranks.com/news/cryptocurrencies/yield-hunters-circle-ethereum-neos-high-income-etf-draws-fresh-cash-despite-price-slump)**
-
-NEOS’s income-focused crypto product just got a fresh vote of confidence. The NEOS Ethereum High Income ETF, NEHI, recorded a $1,078,288 inflow on July 31, 2026, li...
-
-TipRanks • 21h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 7h ago
+👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 8h ago
 
 ---
 
@@ -270,7 +268,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 8h ago
+👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 9h ago
 
 ---
 
@@ -280,7 +278,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 214 • 💬 35 • ⏱️ 1:06:58 • 1d ago
+👁️ 7K • 👍 214 • 💬 35 • ⏱️ 1:06:58 • 2d ago
 
 ---
 
@@ -290,7 +288,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https:
 
 📺 Ashutosh Kumar
 
-👁️ 7K • 👍 587 • 2h ago
+👁️ 7K • 👍 587 • 3h ago
 
 ---
 
@@ -330,7 +328,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 15h ago
+👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 16h ago
 
 ---
 

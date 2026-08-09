@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T09:39:19.837704+00:00'
+updated: '2026-08-09T10:35:04.820088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 09:39 UTC  
+**Last Updated:** August 09, 2026 at 10:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-17h ago
-
----
-
-**[Meta debuts first AI coding agent to take on Anthropic and OpenAI](https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/)**
-
-Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
-
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 4h ago
+18h ago
 
 ---
 
@@ -57,7 +49,23 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-20h ago
+21h ago
+
+---
+
+**[Meta debuts first AI coding agent to take on Anthropic and OpenAI](https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/)**
+
+Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
+
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 5h ago
+
+---
+
+**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
+
+Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
+
+18h ago
 
 ---
 
@@ -73,15 +81,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-14h ago
-
----
-
-**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
-
-Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
-
-17h ago
+15h ago
 
 ---
 
@@ -89,13 +89,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-2h ago
-
----
-
-**[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
-
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 22h ago
+3h ago
 
 ---
 
@@ -103,7 +97,13 @@ https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparenc
 
 I keep seeing people on Reddit criticizing AI and data centers because of how much water they use. I think the concern is legitimate, but I also think there's a pretty obvious consistency problem with how this issue is discussed. If your argument is that water consumption itself is an environmental problem, then shouldn't you also care about the water footprint of the products you consume? Beef is a particularly striking example. The Water Footprint Network estimates the global-average water footprint of beef at roughly 15,400 liters of water per kilogram of beef. It also estimates that beef has about 20 times the water footprint per calorie of cereals and starchy roots. Most of that footprint isn't the cow literally drinking water; it's primarily the water associated with producing its feed. I'm not saying this means "data centers are fine because beef exists." That's a bad argument. Data centers absolutely can create legitimate local water concerns, especially when they're built in water-stressed regions or place significant demand on municipal water systems during droughts. My point is that environmental criticism should be applied consistently. If someone is angry about a data center consuming millions of gallons of water, but eats beef regularly without ever considering its much larger water footprint, I'd like to know what principle they're actually applying. And this doesn't stop with beef. The same logic applies to: Dairy Food production in general Cotton clothing Lawns and landscaping Swimming pools Long showers and other household water use Water-intensive crops Bottled water Other industries that consume substantial amounts of freshwater There is nothing wrong with saying, "I think data centers should use less water." In fact, I agree that companies should be pushed toward more efficient cooling systems, transparent reporting, responsible siting, and minimizing their impact on communities facing water scarcity. But if the argument is instead, "Data centers use a lot of water, therefore they're environmentally irresponsible," then that standard should be applied to the rest of our consumption too. Otherwise, we're not really having a conversation about water conservation. We're selectively focusing on an industry we dislike while ignoring the environmental costs associated with things we personally consume. If water conservation is the principle, apply the principle consistently.
 
-3h ago
+4h ago
+
+---
+
+**[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
+
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 23h ago
 
 ---
 
@@ -119,19 +119,19 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 ## Google News: "ai"
 
-**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
-
-Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
-
-The Guardian • 16h ago
-
----
-
 **[Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html)**
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 21h ago
+CNBC • 22h ago
+
+---
+
+**[OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns)**
+
+Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
+
+The Guardian • 17h ago
 
 ---
 
@@ -141,19 +141,25 @@ WSJ • 1d ago
 
 ---
 
-**[AI is booming on the West Coast. So why is unemployment so high there?](https://www.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
+**[China AI Chip Designer Moore Threads Plans Hong Kong Listing](https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing)**
 
-A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
-
-CNN • 23h ago
+Bloomberg.com • 55m ago
 
 ---
 
-**[Waiting 26 years 'for this shoe to drop': Musk's AI company joins the fight to strip citizens of their power to sue](https://fortune.com/2026/08/08/lazarus-26-years-citizen-suits-musk-xai/)**
+**[As AI ‘therapists’ dish out advice, California lawmakers try to set some limits](https://www.latimes.com/science/story/2026-08-09/as-ai-therapists-dish-out-advice-california-lawmakers-try-to-set-some-limits)**
 
-“The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
+A chatbot called 'Psychologist' offers empathy and advice, but it's not a real therapist. California legislators are trying to craft some guardrails.
 
-Fortune • 17h ago
+Los Angeles Times • 35m ago
+
+---
+
+**[AI push is putting banks at mercy of tech firms, warns Moody’s](https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector)**
+
+Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency
+
+The Guardian • 1h ago
 
 ---
 
@@ -161,37 +167,31 @@ Fortune • 17h ago
 
 Warner Bros. has teamed with an AI dog podcast to promote 'The End of Oak Street,' a new sci-fi movie starring Anne Hathaway and Ewan McGregor.
 
-Variety • 9h ago
+Variety • 10h ago
 
 ---
 
-**[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)**
+**[Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/)**
 
-Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
+The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]
 
-WCAX • 1d ago
-
----
-
-**[How to Disable the AI Features in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)**
-
-New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.
-
-WIRED • 23h ago
+blogs.nvidia.com • 11h ago
 
 ---
 
-**[Apple says Mac users in China can connect to Alibaba's Qwen AI service](https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/)**
+**[Waiting 26 years 'for this shoe to drop': Musk's AI company joins the fight to strip citizens of their power to sue](https://fortune.com/2026/08/08/lazarus-26-years-citizen-suits-musk-xai/)**
 
-Reuters • 21h ago
+“The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
+
+Fortune • 18h ago
 
 ---
 
-**[The bank behind China’s AI listings bonanza](https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1)**
+**[AI is booming on the West Coast. So why is unemployment so high there?](https://www.cnn.com/2026/08/08/business/jobs-california-ai-unemployment)**
 
-CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
+A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-Financial Times • 8h ago
+CNN • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 526 • 💬 372 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 528 • 💬 373 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -239,7 +239,7 @@ AI coding tools deli
 
 Here's how to spot the disease—and what to do about it.
 
-⬆️ 173 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 174 • 💬 106 • 1d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 164 • 💬 106 • 19h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 165 • 💬 108 • 20h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -278,7 +278,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 New Orleans is using AI to answer 911 calls instead of human dispatchers. What does this mean for crime and emergency response?
 
-⬆️ 76 • 💬 118 • 2d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
+⬆️ 77 • 💬 119 • 2d ago • [The Times](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
@@ -286,7 +286,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 62 • 💬 0 • 23h ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+⬆️ 62 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
 
 ---
 
@@ -300,7 +300,7 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 9K • 👍 337 • 💬 90 • ⏱️ 13:38 • 13h ago
+👁️ 9K • 👍 337 • 💬 90 • ⏱️ 13:38 • 14h ago
 
 ---
 
@@ -330,7 +330,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 15h ago
+👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 16h ago
 
 ---
 
@@ -428,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,028 • 12h ago
+⬇️ 4,947,943 • ❤️ 1,028 • 13h ago
 
 ---
 
@@ -452,7 +452,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 505 • 13h ago
+⬇️ 0 • ❤️ 505 • 14h ago
 
 ---
 
@@ -464,7 +464,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,778 • 6h ago
+⬇️ 2,390,692 • ❤️ 1,778 • 7h ago
 
 ---
 
@@ -476,7 +476,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 85,651 • ❤️ 428 • 1d ago
+⬇️ 85,651 • ❤️ 428 • 2d ago
 
 ---
 
@@ -661,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 857 • 9h ago
+⭐ 7.9k • 🔱 857 • 10h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 377 • 37s ago
+⭐ 4.3k • 🔱 377 • 56m ago
 
 ---
 
@@ -679,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 492 • 23h ago
+⭐ 3.8k • 🔱 492 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1m ago
+⭐ 2.6k • 🔱 1.8k • 56m ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 394 • 8h ago
+⭐ 2.3k • 🔱 394 • 9h ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 143 • 19m ago
+⭐ 2.0k • 🔱 143 • 1h ago
 
 ---
 
@@ -739,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 234 • 1h ago
+⭐ 2.0k • 🔱 234 • 2h ago
 
 ---
 
@@ -749,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 245 • 8m ago
+⭐ 1.9k • 🔱 245 • 1h ago
 
 ---
 

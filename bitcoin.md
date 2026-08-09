@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T09:39:19.846456+00:00'
+updated: '2026-08-09T10:35:04.828836+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 09:39 UTC  
+**Last Updated:** August 09, 2026 at 10:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +2.1%  
-**30d:** +1.5%  
-**90d:** -19.5%  
-**1y:** -45.5%  
+**24h:** -0.0%  
+**7d:** +2.3%  
+**30d:** +1.8%  
+**90d:** -19.3%  
+**1y:** -45.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 13h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 14h ago
 
 ---
 
@@ -113,7 +113,7 @@ To explain the Coldcard disaster as simply as possible, imagine you have 3 billi
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 I am mining Bitcoin and want to hold as much as possible, but to keep my machines running I need to sell some. I do not like using P2P because it takes too long and I have had issues before. Changenow froze one of my orders and that made me lose trust in the process. I also do not trust centralized exchanges, so I avoid them completely. Now that eXch has shut down, I feel stuck without any reliable options left. Is there any method that could help me sell without giving up control or going through all the hassle, something fast and secure that does not involve the usual problems I have faced?
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ I am mining Bitcoin and want to hold as much as possible, but to keep my machine
 
 The last non split block has been mined. Lest see what happens now
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ The last non split block has been mined. Lest see what happens now
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -169,17 +169,23 @@ CoinDesk • 19h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**['Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future](https://finance.yahoo.com/video/bitcoin-zeppelin-why-historian-says-211147648.html)**
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://ca.finance.yahoo.com/news/bitcoin-slips-below-65-000-093410889.html)**
 
-Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Data Editor Jared Blikre to explain bitcoin's (BTC-USD) historical parallels. 
+Investing.com -- Bitcoin traded under $65,000 on Sunday, slipping slightly over the previous 24 hours, as strong U.S. exchange-traded fund inflows competed with concerns surrounding the stalled BIP-110 minority chain.
 
-Moore is also the author of "How to Get Rich in American History."
+Yahoo! Finance Canada • 1h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html)**
+
+In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
+
+Yahoo Finance • 23m ago
 
 ---
 
@@ -189,17 +195,19 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
+
+Trump Media wants to focus on other business ventures, according to an Axios report.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Bitcoin: BIP-110 soft fork attempt begins - 09 Aug 2026](https://www.tradingview.com/news/coinmarketcal:908539481094b:0-bitcoin-bip-110-soft-fork-attempt-begins-09-aug-2026/)**
 
 GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
 
-TradingView • 7h ago
-
----
-
-**[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
-
-Investing.com • 1d ago
+TradingView • 8h ago
 
 ---
 
@@ -215,7 +223,7 @@ Fortune • 2d ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -223,15 +231,7 @@ Decrypt • 16h ago
 
 ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
 
-CryptoSlate • 18h ago
-
----
-
-**[Bitcoin Security Scare Deepens As ‘Critical’ Exploits Hit Major Projects](https://www.forbes.com/sites/digital-assets/2026/08/08/bitcoin-security-scare-deepens-as-critical-exploits-hit-major-projects/)**
-
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-forbes.com • 1d ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 57K • 👍 3K • 💬 79 • ⏱️ 47:31 • 20h ago
+👁️ 57K • 👍 3K • 💬 79 • ⏱️ 47:31 • 21h ago
 
 ---
 
@@ -338,7 +338,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 182 • 💬 9 • ⏱️ 1:20 • 17h ago
+👁️ 6K • 👍 182 • 💬 9 • ⏱️ 1:20 • 18h ago
 
 ---
 
@@ -348,7 +348,7 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 4K • 👍 100 • 💬 21 • ⏱️ 1:18 • 21h ago
+👁️ 4K • 👍 100 • 💬 21 • ⏱️ 1:18 • 22h ago
 
 ---
 
@@ -378,7 +378,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 165 • 💬 7 • ⏱️ 1:03 • 18h ago
+👁️ 6K • 👍 165 • 💬 7 • ⏱️ 1:03 • 19h ago
 
 ---
 

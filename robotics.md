@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T09:39:19.855963+00:00'
+updated: '2026-08-09T10:35:04.838151+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 09:39 UTC  
+**Last Updated:** August 09, 2026 at 10:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -132,9 +132,25 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+
+Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+
+Global News • 23h ago
+
+---
+
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
 WSJ • 1d ago
+
+---
+
+**[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
+
+Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
+
+businessinsider.com • 1h ago
 
 ---
 
@@ -144,17 +160,17 @@ USNI News • 2d ago
 
 ---
 
-**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
+**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
-Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
-
-abc30.com • 1d ago
+Tech Xplore • 1d ago
 
 ---
 
-**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
 
-techxplore.com • 1d ago
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,23 +178,7 @@ techxplore.com • 1d ago
 
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
-Futurism • 14h ago
-
----
-
-**[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
-
-Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
-
-Princeton Engineering • 2d ago
-
----
-
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
-
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
-
-HII • 2d ago
+Futurism • 15h ago
 
 ---
 
