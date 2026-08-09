@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-08T23:57:25.236097+00:00'
+updated: '2026-08-09T02:06:07.862923+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 23:57 UTC  
+**Last Updated:** August 09, 2026 at 02:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.8%  
-**30d:** +6.6%  
-**90d:** -18.1%  
-**1y:** -55.1%  
+**24h:** -0.1%  
+**7d:** +3.0%  
+**30d:** +7.1%  
+**90d:** -15.8%  
+**1y:** -55.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.34B
+**Market Cap:** $231.03B
 Rank #2
 
-**Circulating Supply:** 120,682,085 ETH
+**Circulating Supply:** 120,682,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.3%
 
 **All-Time Low:** $0.43
-+442635.1%
++442046.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -168,17 +168,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://www.ccn.com/news/crypto/ai-bitcoin-ethereum-xrp-clarity-act-predictions/)**
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
-CCN.com • 14h ago
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
----
-
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
-
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
-
-TradingView • 19h ago
+TradingView • 1d ago
 
 ---
 
@@ -186,7 +180,15 @@ TradingView • 19h ago
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
-theblock.co • 1d ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+
+CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+
+CryptoSlate • 9h ago
 
 ---
 
@@ -194,7 +196,13 @@ theblock.co • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 18h ago
+
+---
+
+**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
+
+FXStreet • 1d ago
 
 ---
 
@@ -206,17 +214,11 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+**[Ethereum and Solana are both rethinking how much new supply they create, and the numbers are striking](https://cryptobriefing.com/ethereum-solana-inflation-schedule-reassessment/)**
 
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-CryptoSlate • 7h ago
-
----
-
-**[Why is XRP falling as Bitcoin and Ethereum hold steady?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-hold-steady-xrp-decline-nears-100-amid-easing-geopolitical-tensions-202608071100)**
-
-FXStreet • 1d ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -224,7 +226,7 @@ FXStreet • 1d ago
 
 Ethereum faces rising leverage, while institutional staking continues supporting long-term market conviction.
 
-AMBCrypto • 1d ago
+AMBCrypto • 2d ago
 
 ---
 
@@ -248,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 204 • 💬 34 • ⏱️ 1:06:58 • 1d ago
+👁️ 6K • 👍 207 • 💬 34 • ⏱️ 1:06:58 • 1d ago
 
 ---
 
@@ -268,27 +270,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 117 • 👍 8 • 💬 1 • ⏱️ 1:25 • 5h ago
-
----
-
-**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
-
-This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
-
-📺 Investing Made Simple
-
-👁️ 9K • 👍 544 • ⏱️ 9:52 • 2d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 146 • 💬 93 • ⏱️ 51:35 • 2d ago
+👁️ 180 • 👍 8 • 💬 1 • ⏱️ 1:25 • 8h ago
 
 ---
 
@@ -302,13 +284,23 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 ---
 
-**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
+**[The Next 30 Days in Crypto - Watch Out! 👀](https://www.youtube.com/watch?v=ZTnnc4uJTkE)**
 
-BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+This is all about why the next 30 days for Bitcoin & crypto could be a major boom or bust. Big news for all Bitcoin, Ethereum, ...
 
-📺 Crypto World
+📺 Investing Made Simple
 
-👁️ 4K • 👍 222 • 💬 99 • ⏱️ 21:05 • 1d ago
+👁️ 9K • 👍 547 • ⏱️ 9:52 • 2d ago
+
+---
+
+**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
+
+We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 148 • 💬 93 • ⏱️ 51:35 • 2d ago
 
 ---
 
@@ -322,13 +314,23 @@ Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 
 
 ---
 
-**[ETH &amp; SOL Short Setups - Gold Breaks Out Above Resistance!](https://www.youtube.com/watch?v=v-RGgEAl4zw)**
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sPoMick5KXQ)**
 
-In this Coin Bureau Trading episode, Aaron Dishner of The Better Traders addresses Bitcoin's recent close above a key overhead ...
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Coin Bureau Trading
+📺 Crypto World
 
-👁️ 5K • 👍 408 • 💬 22 • ⏱️ 22:28 • 1d ago
+👁️ 4K • 👍 222 • 💬 99 • ⏱️ 21:05 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 230 • 💬 10 • ⏱️ 7:25 • 1d ago
 
 ---
 

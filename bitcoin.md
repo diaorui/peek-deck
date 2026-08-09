@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-08T23:57:25.230747+00:00'
+updated: '2026-08-09T02:06:07.856579+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 08, 2026 at 23:57 UTC  
+**Last Updated:** August 09, 2026 at 02:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.2%  
-**30d:** +1.2%  
-**90d:** -20.6%  
-**1y:** -44.2%  
+**24h:** -0.3%  
+**7d:** +2.1%  
+**30d:** +1.6%  
+**90d:** -19.4%  
+**1y:** -45.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.71B
+**Market Cap:** $1300.72B
 Rank #1
 
-**Circulating Supply:** 20,067,628 BTC
+**Circulating Supply:** 20,067,662 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.6%
 
 **All-Time Low:** $67.81
-+95630.7%
++95486.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 3h ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 6h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -95,13 +95,13 @@ Rank #1
 
 The last non split block has been mined. Lest see what happens now
 
-4h ago
+6h ago
 
 ---
 
 **[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ The last non split block has been mined. Lest see what happens now
 
 Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2, in this transaction from August 1st, the message appears in German "RIP 100 BTC! Mögest du in der Blockchain in Frieden ruhen!". ​"R.I.P. 100 BTC! May you rest in peace on the blockchain!" ​The thing is, dated July 29th, there are many transactions at once with very similar messages of the type X2[L'-J}w{9@ïL´(!Vu=x1,5!i?1ON. I don't know exactly how many BTC they add up to in total, I haven't stopped to count them. Can you help shed some light on this? Cheers, it's my first post on Reddit, go easy on me.
 
-1h ago
+3h ago
 
 ---
 
@@ -117,13 +117,13 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
 
-7h ago
+9h ago
 
 ---
 
 **[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 **[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just wanted to say how many posts ive been seeing in other finance related subre
 
 Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
 
-6h ago
+8h ago
 
 ---
 
@@ -151,11 +151,11 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 ## Google News: "bitcoin"
 
-**[Why Bitwise predicts a $1.3M Bitcoin price target fueled by institutions](https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan)**
+**[BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes](https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes)**
 
-Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
+BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.
 
-CoinDesk • 9h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -163,21 +163,29 @@ CoinDesk • 9h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-theblock.co • 9h ago
+The Block • 11h ago
 
 ---
 
-**[Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-having-best-week-221057546.html)**
+**['Bitcoin is a zeppelin': Why this historian says BTC looks more like the past than future](https://finance.yahoo.com/video/bitcoin-zeppelin-why-historian-says-211147648.html)**
 
-Just days after hackers drained thousands of self-custody wallets in the Coldcard exploit, Bitcoin ETFs suddenly snapped a months-long losing streak with their strongest week in months. The timing is hard to ignore, but the explanation turns out to be more complicated than it first appears.
+Historian and investor Joseph Moore sits down with Yahoo Finance Markets and Data Editor Jared Blikre to explain bitcoin's (BTC-USD) historical parallels. 
 
-Yahoo Finance • 1h ago
+Moore is also the author of "How to Get Rich in American History."
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 10h ago
+bloomberg.com • 13h ago
+
+---
+
+**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+
+bloomberg.com • 2d ago
 
 ---
 
@@ -185,27 +193,21 @@ Bloomberg.com • 10h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-fortune.com • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
 
-Bloomberg.com • 2d ago
+Trump Media wants to focus on other business ventures, according to an Axios report.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 14h ago
-
----
-
-**[Bitcoin Security Scare Deepens As ‘Critical’ Exploits Hit Major Projects](https://www.forbes.com/sites/digital-assets/2026/08/08/bitcoin-security-scare-deepens-as-critical-exploits-hit-major-projects/)**
-
-bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
-
-Forbes • 15h ago
+Investing.com • 17h ago
 
 ---
 
@@ -213,15 +215,15 @@ Forbes • 15h ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 6h ago
+Decrypt • 8h ago
 
 ---
 
-**[MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin's $65K Push](https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/)**
+**[Bitcoin ‘9/11’—Urgent New Warning Issued As Wave Of ‘Critical’ Exploits Hits Price](https://www.forbes.com/sites/digital-assets/2026/08/08/situation-is-extremely-bad-bitcoin-braced-for-more-critical-exploits-after-10000-price-per-day-ai-warning/)**
 
-Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and everything to do with what these companies reported after the bell.
+bitcoin developers have used AI tools to find almost 5,000 security vulnerabilities across almost 400 projects in just 24 hours...
 
-24/7 Wall St. • 1d ago
+Forbes • 17h ago
 
 ---
 
@@ -312,23 +314,23 @@ Try out Artifacts created by Claude users
 
 ## YouTube Videos: "bitcoin"
 
-**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
-
-On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
-
-📺 The Compound
-
-👁️ 3K • 👍 73 • 💬 19 • ⏱️ 1:18 • 11h ago
-
----
-
 **[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
 Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
 📺 Altcoin Daily
 
-👁️ 3K • 👍 146 • 💬 5 • ⏱️ 1:20 • 7h ago
+👁️ 4K • 👍 159 • 💬 8 • ⏱️ 1:20 • 10h ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
+
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
+
+📺 The Compound
+
+👁️ 3K • 👍 81 • 💬 19 • ⏱️ 1:18 • 13h ago
 
 ---
 
@@ -338,17 +340,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 140 • ⏱️ 12:39 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
-
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 4K • 👍 145 • 💬 7 • ⏱️ 1:03 • 8h ago
+👁️ 24K • 👍 1K • 💬 141 • ⏱️ 12:39 • 2d ago
 
 ---
 
@@ -358,7 +350,17 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 128K • 👍 7K • 💬 444 • ⏱️ 24:00 • 2d ago
+👁️ 130K • 👍 7K • 💬 446 • ⏱️ 24:00 • 2d ago
+
+---
+
+**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+
+📺 Altcoin Daily
+
+👁️ 4K • 👍 146 • 💬 7 • ⏱️ 1:03 • 11h ago
 
 ---
 
@@ -368,7 +370,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 11K • 👍 522 • 💬 49 • ⏱️ 8:03 • 2d ago
+👁️ 11K • 👍 524 • 💬 47 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -378,17 +380,7 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 4K • 👍 118 • 💬 5 • ⏱️ 1:23 • 1d ago
-
----
-
-**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
-
-BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 501 • 💬 80 • ⏱️ 11:04 • 1d ago
+👁️ 5K • 👍 134 • 💬 5 • ⏱️ 1:23 • 1d ago
 
 ---
 
@@ -398,15 +390,27 @@ Metaplanet's Director of Bitcoin Strategy, Dylan LeClair, addresses the common f
 
 📺 Natalie Brunell
 
-👁️ 946 • 👍 23 • 💬 53 • ⏱️ 0:53 • 1d ago
+👁️ 984 • 👍 23 • 💬 53 • ⏱️ 0:53 • 1d ago
 
 ---
 
-**[RIPPLE XRP BUILT THIS WHILE BITCOIN BREAKS! #xrp #bitcoin #crypto](https://www.youtube.com/watch?v=HPXaQFiaMSQ)**
+**[Crypto Report: CLARITY Act &quot;Pretty Much Dead&quot;](https://www.youtube.com/watch?v=E1ksOeasmbU)**
 
-📺 CryptoWendyO
+Adam Lynch joins The Watch List to break down the current performance trends for major crypto products including Bitcoin (/BTC) ...
 
-👁️ 1K • 👍 117 • 💬 3 • ⏱️ 0:59 • 2h ago
+📺 Schwab Network
+
+👁️ 10K • 👍 107 • 💬 22 • ⏱️ 6:13 • 2d ago
+
+---
+
+**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
+
+Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
+
+📺 PragerU
+
+👁️ 26K • 👍 327 • 💬 27 • ⏱️ 8:07 • 1d ago
 
 ---
 

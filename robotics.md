@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-08T23:57:25.238886+00:00'
+updated: '2026-08-09T02:06:07.866248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 08, 2026 at 23:57 UTC  
+**Last Updated:** August 09, 2026 at 02:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
 
-15h ago
+17h ago
 
 ---
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-14h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 16h ago
 
 ---
 
@@ -66,7 +66,7 @@ I use Isaacsim & lab in this video, which I have an installation guide for on my
 
 Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
 
-16h ago
+18h ago
 
 ---
 
@@ -80,13 +80,13 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[How to choose projects for Final Year ??](https://www.reddit.com/r/robotics/comments/1vj0u0c/how_to_choose_projects_for_final_year/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Edge Impulse on ESP32](https://www.reddit.com/r/robotics/comments/1vixgq1/edge_impulse_on_esp32/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 I am a robotics amateur and an AI engineering student so I have a pretty good knowledge about Langgraph, vision models etc,.. . I am searching for some practical, low/medium budget idea to build a robot and integrate an AI agent to help it make some autonomous decisions. I did a little research about the subject and some people advised me to learn ROS. As for the hardware, my friends recommended getting a rasberry pi 5 4/8gb RAM. I have pretty good pc specs and an Arduino Uno microcontroller. Please share your thoughts and recommendations (Ideas, Hardware, Architecture, etc...)
 
-21h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ I am a robotics amateur and an AI engineering student so I have a pretty good kn
 
 Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 15h ago
+🔗 [GitHub](https://github.com/fengwang/Cosmos3-Nano-WebUI/blob/main/docs/walkthrough.md) • 17h ago
 
 ---
 
@@ -110,9 +110,9 @@ Contribute to fengwang/Cosmos3-Nano-WebUI development by creating an account on 
 
 ## Google News: "robotics"
 
-**[China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+**[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -126,13 +126,13 @@ The Information • 1d ago
 
 **[China’s Unitree Seeks $904 Million in First Mainland Robotic IPO](https://www.bloomberg.com/news/articles/2026-08-06/china-s-unitree-seeks-904-million-in-first-mainland-robotic-ipo)**
 
-Bloomberg.com • 1d ago
+bloomberg.com • 1d ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-wsj.com • 1d ago
+WSJ • 1d ago
 
 ---
 
@@ -145,6 +145,14 @@ USNI News • 2d ago
 **[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
+
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -164,19 +172,11 @@ The Register • 1d ago
 
 ---
 
-**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
-
-Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
-
-ABC30 Fresno • 23h ago
-
----
-
 **[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
 
 Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
 
-engineering.princeton.edu • 2d ago
+Princeton Engineering • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 📺 Bloomberg Television
 
-👁️ 74K • 👍 1K • 💬 105 • ⏱️ 11:26 • 6d ago
+👁️ 74K • 👍 1K • 💬 106 • ⏱️ 11:26 • 6d ago
 
 ---
 
@@ -200,7 +200,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 33K • 👍 352 • 💬 407 • ⏱️ 1:36 • 3d ago
+👁️ 33K • 👍 354 • 💬 407 • ⏱️ 1:36 • 4d ago
 
 ---
 
@@ -210,7 +210,17 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 55K • 👍 841 • ⏱️ 17:44 • 2d ago
+👁️ 56K • 👍 857 • ⏱️ 17:44 • 2d ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 33K • 👍 475 • 💬 252 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -220,7 +230,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Y Combinator
 
-👁️ 6K • 👍 241 • 💬 8 • ⏱️ 1:24:13 • 9h ago
+👁️ 7K • 👍 278 • 💬 9 • ⏱️ 1:24:13 • 12h ago
 
 ---
 
@@ -228,17 +238,7 @@ This week's Paper Club is all about robotics. Every year for the last decade, so
 
 📺 Tyrecordslol
 
-👁️ 2.4M • 👍 110K • 💬 7K • ⏱️ 0:58 • 1d ago
-
----
-
-**[Ukraine&#39;s robotic amphibious landing signals new era of warfare](https://www.youtube.com/watch?v=H_weqVc3vmI)**
-
-From robotic beach landings to AI-powered "Terminator" drones, what was once the realm of sci-fi is now becoming reality on the ...
-
-📺 NBC News
-
-👁️ 75K • 👍 615 • 💬 136 • ⏱️ 4:18 • 5d ago
+👁️ 2.4M • 👍 111K • 💬 7K • ⏱️ 0:58 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 50K • 👍 3K • 💬 477 • ⏱️ 26:40 • 4d ago
+👁️ 50K • 👍 3K • 💬 479 • ⏱️ 26:40 • 4d ago
 
 ---
 
@@ -272,13 +272,13 @@ US vs China Robot War Explained | Why Trump Banned Chinese Humanoid Robots? Brea
 
 ---
 
-**[The Chinese robot army transforming the UK&#39;s retail industry | BBC News](https://www.youtube.com/watch?v=H7IqXkQUqxk)**
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
 
-Every time you click "buy" on an online order, the chances are that your purchase starts getting processed within minutes.
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
 
-📺 BBC News
+📺 Excessive Overkill
 
-👁️ 205K • 👍 2K • 💬 666 • ⏱️ 3:14 • 6d ago
+👁️ 116K • 👍 4K • 💬 214 • ⏱️ 47:03 • 2d ago
 
 ---
 
