@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T20:32:30.964769+00:00'
+updated: '2026-08-09T21:32:08.549122+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 20:32 UTC  
+**Last Updated:** August 09, 2026 at 21:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ codex ships with a model catalog, and its gpt-5.6 entry lists the context window
 
 I've been building an experimental reasoning system at Orivael and testing it against ARC-AGI-3. One of the runs just scored 100% on ft09. The unusual part: There is no LLM in the loop. Not for perception. Not for planning. Not for choosing an action. The agent reads the raw grid, decides, and acts directly. Results so far: • ft09: 6/6 levels, 80 actions, 100.0% https://arcprize.org/scorecards/9a212601-a12e-4da0-a527-aa69e86bd2b8 • tr87: 4/6 levels, 247 actions, 25.99% • cd82: 2/6 levels, 21 actions, 8.59% • bp35: 2/9 levels, 93 actions, 6.67% • lf52: 2/10 levels, 42 actions, 5.45% On ft09, the human baseline is 208 actions. We finish in 80: ours: 4 / 7 / 14 / 16 / 26 / 13 human baseline: 43 / 12 / 23 / 28 / 65 / 37 Every ft09 level hit ARC-AGI-3's maximum per-level score. Total model inference cost across these runs: $0.00 But what surprised me most wasn't the successful game. It was why the system fails. Almost every major failure we've seen has been a perfectly reasonable conclusion based on an incorrect representation of the environment. Examples: • A sprite sat on a tile using the same color value as a wall, so the system concluded it was surrounded by walls while standing on an empty floor. • Measurements taken every half-tile aliased. One measurement showed a block while another apparently showed a wall in the same place. • The agent concluded a move was impossible after testing it multiple ways, except every test accidentally positioned the relevant object one cell outside the useful state. • A board that appeared complete was actually a scrolling window onto a larger environment. • Buttons were classified as inert after being tested in one state. They were actually movement controls that only became active after the machine entered another configuration. The recurring failure pattern is: Exhaustive over what was sampled gets reported as exhaustive over what exists. That distinction is becoming much more interesting to me than the benchmark score itself. And an important caveat: We absolutely have not solved ARC-AGI-3. Twenty of the 25 public games are untouched. In one game we've examined, the system currently can't even identify a legal action. The interesting divide we're seeing is this: Once the agent identifies a game's mechanic, it can often become extremely efficient. The much harder problem is: How do you recognize what kind of world you've entered without carrying assumptions over from the previous one? That's what we're working on now. Official ARC Prize scorecards/replays are in the writeup. Would particularly love thoughts from people working on ARC, program synthesis, world models, active perception, or non-neural reasoning.
 
-18m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Source: https://openrouter.ai/rankings
 
 basically im asking for something that can make a carbon copy of the original, just in higher quality. i dont want it changing the vocals, melody, instruments, etc, literally just make the same recording sound cleaner/better i have a piece of lost media from circa 2003 so unfortunately the only recording i have is in absolutely horrible quality 😭 i was wondering if theres any ai that could somehow restore/recreate it without changing the actual song pls tell me if something like this exists !! Tysm
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ basically im asking for something that can make a carbon copy of the original, j
 
 AI is no longer about what technology can do. The bigger question is what it should do, especially when it affects communities, vulnerable populations, accessibility, and public trust. Why Nonprofits Must Lead in AI explores that question through the perspective of a 25-year nonprofit leader and accessibility specialist, offering a clear-eyed look at both the promise and risks of AI. The message is simple: nonprofits cannot afford to sit on the sidelines. Ignoring AI creates operational, ethical, and strategic risks, but adopting it without principles can be equally dangerous. The goal isn’t technology for technology’s sake. It’s using AI to create meaningful impact without sacrificing the human connection at the heart of mission-driven work. This book moves beyond theory with real-world use cases, AI tools, prompts, templates, and practical implementation strategies for leaders ready to move from experimentation to action. It makes the case that ethical AI leadership must become part of business ethics and leadership training, not merely a technology conversation. For nonprofit executives, innovators, accessibility advocates, and anyone who believes technology should serve humanity, Why Nonprofits Must Lead in AI provides a roadmap for leading responsibly in an AI-driven world. AI will change the world. The question is whether we will make sure it changes it for the better. Available now on Amazon.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI is no longer about what technology can do. The bigger question is what it sho
 
 I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?
 
-29m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I understand there are a million variations on this theme, but it feels like hal
 
 Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 15h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ What's an AI capability you thought was hype until you actually used it? I'll go
 
 One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ One thing that surprised me is that the barrier to entry is dropping much faster
 
 The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 1d ago
 
 Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNN • 10h ago
 
 San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Financial Times • 9h ago
 
 "There are literally no jobs that will not be affected by AI. We are talking about an entire fundamental societal and economic shift."
 
-BuzzFeed • 9h ago
+BuzzFeed • 10h ago
 
 ---
 
@@ -165,19 +165,19 @@ BuzzFeed • 9h ago
 
 Mark Cuban says AI won't erase jobs overnight, but these five categories face fewer openings and slower hiring. See which roles are at risk and what to do next.
 
-aol.com • 1h ago
+aol.com • 2h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
 **[“Get the Shiniest Thing” Is No Longer an AI Strategy, McKinsey CFO Says](https://www.bloomberg.com/news/newsletters/2026-08-09/mckinsey-cfo-has-a-warning-on-ai-costs-cfo-briefing)**
 
-Bloomberg.com • 32m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 32m ago
 
 In deep space environments, isolated hardware failures can terminate a mission. Because distance prevents sending physical repair crews or spare parts from Earth, predictive maintenance represents a major shift in space engineering. This approach relies on three interconnected digital techniques: Anomaly detection: monitoring systems track onboard parameters continuously, identifying operational...
 
-Futura, le média qui explore le monde • 1h ago
+Futura, le média qui explore le monde • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Futura, le média qui explore le monde • 1h ago
 
 Live during a conversation on the Masters of Scale Summit stage, AI expert Andrew Ng, founder of DeepLearning.AI, says waiting for artificial general intelligence is 'hypey' thinking. He argues agenti...
 
-Yahoo • 32m ago
+Yahoo • 1h ago
 
 ---
 
@@ -245,7 +245,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 86 • 💬 65 • 12h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 86 • 💬 65 • 13h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -280,7 +280,7 @@ A year of failure postmortems from building document AI for public tenders: phan
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 63 • 💬 74 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 63 • 💬 74 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -288,7 +288,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Surprise, it's a data center!
 
-⬆️ 59 • 💬 63 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+⬆️ 59 • 💬 63 • 8h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
 
 ---
 
@@ -322,7 +322,7 @@ AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge
 
 📺 Fox News Clips
 
-👁️ 4K • 👍 110 • 💬 52 • ⏱️ 5:02 • 19h ago
+👁️ 4K • 👍 110 • 💬 52 • ⏱️ 5:02 • 20h ago
 
 ---
 
@@ -342,7 +342,7 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 209K • 👍 5K • 💬 462 • ⏱️ 0:51 • 2d ago
+👁️ 209K • 👍 5K • 💬 462 • ⏱️ 0:51 • 3d ago
 
 ---
 
@@ -390,7 +390,7 @@ The answer is yes... but probably not the ones you think. They are looking espec
 
 📺 DW News
 
-👁️ 6K • 👍 215 • 💬 31 • ⏱️ 1:04 • 10h ago
+👁️ 6K • 👍 215 • 💬 31 • ⏱️ 1:04 • 11h ago
 
 ---
 
@@ -406,7 +406,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,217 • 10h ago
+⬇️ 35,295 • ❤️ 3,217 • 11h ago
 
 ---
 
@@ -428,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,059 • 9h ago
+⬇️ 4,947,943 • ❤️ 1,059 • 10h ago
 
 ---
 
@@ -476,7 +476,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,800 • 17h ago
+⬇️ 2,390,692 • ❤️ 1,800 • 18h ago
 
 ---
 
@@ -500,7 +500,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,089 • ❤️ 285 • 4d ago
+⬇️ 1,089 • ❤️ 285 • 5d ago
 
 ---
 
@@ -661,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 875 • 20h ago
+⭐ 7.9k • 🔱 875 • 21h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 381 • 10h ago
+⭐ 4.3k • 🔱 381 • 11h ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 405 • 2h ago
+⭐ 2.3k • 🔱 405 • 3h ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 147 • 9h ago
+⭐ 2.0k • 🔱 147 • 10h ago
 
 ---
 
@@ -739,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 236 • 12h ago
+⭐ 2.0k • 🔱 236 • 13h ago
 
 ---
 
@@ -749,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 247 • 1h ago
+⭐ 1.9k • 🔱 247 • 2h ago
 
 ---
 
