@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T15:57:47.939756+00:00'
+updated: '2026-08-09T16:42:53.280421+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 15:57 UTC  
+**Last Updated:** August 09, 2026 at 16:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Source: https://openrouter.ai/rankings
 
 A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, Emad Mostaque — just sat with a number that's hard to argue with: $2,000 in compute, and ten decade-old, previously-unsolved math problems came back with machine-checkable proofs. Not "AI is getting better at math" in the abstract. A Fields Medalist said he'd recommend one of the proofs for publication without hesitation. A cosmologist called it "a dark night for mathematics" — "the old gods are being slaughtered by the new machine gods." Then Emad closed it flat: "It's a bad time to be a pure mathematician." Here's what they're not saying yet. Back in 2013/2014, I was with M+W High Tech Projects, on a design-and-build project in Kulim, Kedah, Malaysia. Our M&E engineer wanted an opening cut straight through the middle of a reinforced concrete beam — right where the bending moment peaks. I caught him before he did it. Told him no. That's beyond madness — you don't sacrifice a beam's structural integrity for an M&E opening. Had him redirect the ducts instead. Structural safety came first. The engineering knowledge wasn't rare. The judgment — catching the mistake before it became permanent — was. Same pattern here. Ten unsolved proofs, correct on paper, for $2,000. The correctness was never the scarce part. Hmm — this actually pulls the same thread as a post I put up about the corporate ladder losing its entry-level rungs to AI. Different profession, same mechanism: whichever rung gets automated first isn't random, and the people still standing on it are the ones who saw it as a pattern instead of a headline. Drop your take — is judgment actually the thing that survives this, or is that just the story we tell ourselves until it's our turn?
 
-39m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, 
 
 One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ One thing that surprised me is that the barrier to entry is dropping much faster
 
 Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 I’ve been posting about AI-related stuff for a while now and honestly, the more I see it being pushed everywhere, the more I think we need proper regulation around it. Not just “hey, we have AI now, let’s put it into everything”. And now Reddit is going down that road too. Like... seriously, wtf is going on? I get that moderation is a pain and AI can probably help with some of it. But this is always how it starts. First it’s there to “assist” people, then little by little it ends up making more and more decisions. Reddit is also probably one of the worst places to rely too much on AI moderation because so much of this site is sarcasm, jokes, arguments, dark humour, inside jokes, people taking things out of context, etc. How is an AI supposed to get all of that right? And what happens when it gets it wrong? You appeal to another AI? 😂 I’m not against AI at all. I use it and I think it can be really useful. I just don’t understand why the answer to everything suddenly seems to be “add AI”. Maybe we should figure out the rules and limits first before putting it everywhere. At this rate we’re going to end up with AI writing posts, AI moderating them, AI reviewing the appeals and humans just scrolling through the mess.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’ve been posting about AI-related stuff for a while now and honestly, the mor
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-23h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 I run a small digital tools consultancy between shifts at the cafe. Mostly I help solo creators glue together cheap SaaS stuff. A few months back I threw together my own workflow - some scraper I found on GitHub, a cheap Claude subscription, a nocode database, all held together with Zapier duct tape. Total monthly burn is like 27 dollars. It now handles client onboarding, drafts my proposals, and spits out pretty decent competitor teardowns. I have done maybe four hours of handson work this week that used to eat twenty. My clients have not noticed the difference. They actually think I got faster. Part of me is proud. The other part is watching these cheap Chinese models drop and wondering if my entire tiny operation has an expiration date measured in months, not years. I built this to save time and now I am lowkey anxious I automated myself into irrelevance before I even scaled. Anyone else running a micro business on cutrate AI? Are you hedging with human touch stuff or just riding the wave until it crashes? My herb garden does not judge me but Reddit might.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,13 +125,13 @@ I run a small digital tools consultancy between shifts at the cafe. Mostly I hel
 
 The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-cnbc.com • 4h ago
+cnbc.com • 5h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ WSJ • 11h ago
 
 There's been a recent string of cybersecurity incidents among the world's leading AI models. Here's a look at what's happened.
 
-businessinsider.com • 32m ago
+businessinsider.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ businessinsider.com • 32m ago
 
 A degree should distinguish what students can do independently from what they can accomplish with AI.
 
-The Washington Post • 24m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Washington Post • 24m ago
 
 Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNN • 5h ago
 
 Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communities, says Guardian columnist John Harris
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 3h ago
 
 AI agents are only getting more powerful.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ cnbc.com • 1d ago
 
 **[5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investing.com • 6h ago
 
 A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -272,7 +272,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 72 • 💬 56 • 7h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 72 • 💬 56 • 8h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -302,27 +302,27 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 12K • 👍 412 • 💬 107 • ⏱️ 13:38 • 19h ago
+👁️ 13K • 👍 469 • 💬 111 • ⏱️ 13:38 • 20h ago
 
 ---
 
-**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
+**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
 
-Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
+Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
 
-📺 TechLead
+📺 Really American
 
-👁️ 77K • 👍 2K • 💬 353 • ⏱️ 8:21 • 2d ago
+👁️ 76K • 👍 10K • 💬 622 • ⏱️ 13:15 • 22h ago
 
 ---
 
-**[AI just created a brand new virus. Should we be scared? | BBC News](https://www.youtube.com/watch?v=z9FXO6_0Nv0)**
+**[AI expert warns of challenges as data centers surge](https://www.youtube.com/watch?v=Vl8NUtZUp4Q)**
 
-Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say ...
+AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge in AI data centers in Texas and the power grid ...
 
-📺 BBC News
+📺 Fox News Clips
 
-👁️ 798K • 👍 10K • 💬 4K • ⏱️ 6:38 • 1d ago
+👁️ 4K • 👍 107 • 💬 50 • ⏱️ 5:02 • 15h ago
 
 ---
 
@@ -336,21 +336,33 @@ China just pushed the AI race into a new league. ByteDance is reportedly trainin
 
 ---
 
-**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
+**[AI Company Is DESTROYING Books?!](https://www.youtube.com/watch?v=DTrqs3n7iq4)**
 
-Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
+Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscribe to Glenn Beck on YouTube: ...
 
-📺 Really American
+📺 Glenn Beck
 
-👁️ 72K • 👍 10K • 💬 603 • ⏱️ 13:15 • 22h ago
+👁️ 205K • 👍 5K • 💬 457 • ⏱️ 0:51 • 2d ago
 
 ---
 
-**[jesus 😱🧐#jesus #oraçãoforte #god #fé#oração #gaming #amen #usa #jesuscristo #amém #shortvideo #ai](https://www.youtube.com/watch?v=x7N80cp1vII)**
+**[Are AI companies destroying books? | DW News](https://www.youtube.com/watch?v=UDVkrTIud9k)**
 
-📺 Deba Das
+The answer is yes... but probably not the ones you think. They are looking especially for low-demand, outdated books. But why?
 
-👁️ 256K • 👍 1K • 💬 2 • ⏱️ 0:12 • 1d ago
+📺 DW News
+
+👁️ 5K • 👍 189 • 💬 22 • ⏱️ 1:04 • 6h ago
+
+---
+
+**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
+
+In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
+
+📺 Shawn Ryan Show
+
+👁️ 148K • 👍 3K • 💬 725 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -360,27 +372,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 354K • 👍 24K • 💬 915 • ⏱️ 1:36 • 2d ago
-
----
-
-**[How to Detect AI Slop](https://www.youtube.com/watch?v=ORgKY9AlybA)**
-
-Everyone is missing how to really tell what's AI writing or not. Contrary to popular belief, the best 'tell' is not sentence constructions ...
-
-📺 languagejones
-
-👁️ 138K • 👍 9K • 💬 2K • ⏱️ 17:13 • 1d ago
-
----
-
-**[AI Company Is DESTROYING Books?!](https://www.youtube.com/watch?v=DTrqs3n7iq4)**
-
-Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscribe to Glenn Beck on YouTube: ...
-
-📺 Glenn Beck
-
-👁️ 203K • 👍 5K • 💬 456 • ⏱️ 0:51 • 2d ago
+👁️ 364K • 👍 25K • 💬 961 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -390,7 +382,15 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 All-In Podcast
 
-👁️ 274K • 👍 6K • 💬 446 • ⏱️ 1:15:18 • 1d ago
+👁️ 285K • 👍 6K • 💬 464 • ⏱️ 1:15:18 • 1d ago
+
+---
+
+**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
+
+📺 Mark Tilbury
+
+👁️ 531K • 👍 14K • 💬 784 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -406,7 +406,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,190 • 5h ago
+⬇️ 35,295 • ❤️ 3,202 • 6h ago
 
 ---
 
@@ -418,7 +418,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 868,576 • ❤️ 2,905 • 8d ago
+⬇️ 868,576 • ❤️ 2,916 • 8d ago
 
 ---
 
@@ -428,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,042 • 5h ago
+⬇️ 4,947,943 • ❤️ 1,049 • 5h ago
 
 ---
 
@@ -440,7 +440,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,456,459 • ❤️ 10,373 • 12d ago
+⬇️ 1,456,459 • ❤️ 10,382 • 13d ago
 
 ---
 
@@ -452,19 +452,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 523 • 19h ago
-
----
-
-**[Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)**
-
-*David Belton*
-
-Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that excels in reasoning and problem-solving, achieving over 700 ARC-C scores in 4-bit and 8-bit quantization. It's optimized for consumer hardware and supports image-text-to-text tasks, making it suitable for diverse applications including coding and creative writing.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 2,390,692 • ❤️ 1,792 • 12h ago
+⬇️ 0 • ❤️ 534 • 20h ago
 
 ---
 
@@ -476,7 +464,19 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 85,651 • ❤️ 439 • 2d ago
+⬇️ 85,651 • ❤️ 442 • 2d ago
+
+---
+
+**[Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF)**
+
+*David Belton*
+
+Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that excels in reasoning and problem-solving, achieving over 700 ARC-C scores in 4-bit and 8-bit quantization. It's optimized for consumer hardware and supports image-text-to-text tasks, making it suitable for diverse applications including coding and creative writing.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 2,390,692 • ❤️ 1,795 • 13h ago
 
 ---
 
@@ -488,19 +488,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 414 • 4d ago
-
----
-
-**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
-
-*Unsloth AI*
-
-DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
-
-`284.3B`
-
-⬇️ 188,761 • ❤️ 621 • 3d ago
+⬇️ 0 • ❤️ 416 • 4d ago
 
 ---
 
@@ -512,7 +500,19 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,089 • ❤️ 278 • 4d ago
+⬇️ 1,089 • ❤️ 281 • 4d ago
+
+---
+
+**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
+
+*Unsloth AI*
+
+DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
+
+`284.3B`
+
+⬇️ 188,761 • ❤️ 624 • 3d ago
 
 ---
 
@@ -540,7 +540,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 79 • 💬 6 • ⭐ 22,660 • 1mo ago
+▲ 79 • 💬 6 • ⭐ 22,891 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -625,20 +625,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 177 • 💬 10 • ⭐ 52,243 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -648,6 +634,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 51 • 💬 4 • ⭐ 36,222 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 177 • 💬 10 • ⭐ 52,260 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -661,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 862 • 16h ago
+⭐ 7.9k • 🔱 870 • 16h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 379 • 5h ago
+⭐ 4.3k • 🔱 381 • 6h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 493 • 1d ago
+⭐ 3.8k • 🔱 494 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -699,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 397 • 1h ago
+⭐ 2.3k • 🔱 400 • 2h ago
 
 ---
 
@@ -719,7 +719,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.1k • 🔱 180 • 4d ago
+⭐ 2.1k • 🔱 182 • 4d ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 146 • 4h ago
+⭐ 2.0k • 🔱 147 • 5h ago
 
 ---
 
@@ -739,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 234 • 8h ago
+⭐ 2.0k • 🔱 235 • 9h ago
 
 ---
 
@@ -749,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 246 • 2h ago
+⭐ 1.9k • 🔱 246 • 4m ago
 
 ---
 

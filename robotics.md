@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T15:57:47.957981+00:00'
+updated: '2026-08-09T16:42:53.293163+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 15:57 UTC  
+**Last Updated:** August 09, 2026 at 16:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-20h ago
+21h ago
 
 ---
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -102,7 +102,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-businessinsider.com • 6h ago
+businessinsider.com • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ Princeton Engineering • 2d ago
 
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
-Futurism • 20h ago
+Futurism • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Futurism • 20h ago
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-HII • 2d ago
+HII • 3d ago
 
 ---
 
@@ -188,13 +188,23 @@ Global News • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
+
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
+
+📺 Julia McCoy
+
+👁️ 38K • 👍 1K • 💬 183 • ⏱️ 9:02 • 1d ago
+
+---
+
 **[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
 The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
 📺 NBC News
 
-👁️ 34K • 👍 366 • 💬 416 • ⏱️ 1:36 • 4d ago
+👁️ 34K • 👍 367 • 💬 416 • ⏱️ 1:36 • 4d ago
 
 ---
 
@@ -204,7 +214,17 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 67K • 👍 1K • ⏱️ 17:44 • 2d ago
+👁️ 69K • 👍 1K • ⏱️ 17:44 • 2d ago
+
+---
+
+**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+
+This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+
+📺 Y Combinator
+
+👁️ 13K • 👍 452 • 💬 16 • ⏱️ 1:24:13 • 1d ago
 
 ---
 
@@ -214,7 +234,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 39K • 👍 563 • 💬 291 • ⏱️ 28:01 • 1d ago
+👁️ 40K • 👍 590 • 💬 296 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -228,23 +248,21 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 ---
 
-**[Why Does Atlas Have A Head? #askaroboticist #bostondynamics](https://www.youtube.com/watch?v=VmBS2N1FzmE)**
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
 
-Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
 
-📺 Boston Dynamics
+📺 Alpha Central
 
-👁️ 161K • 👍 11K • 💬 489 • ⏱️ 2:03 • 5d ago
+👁️ 149K • 👍 6K • 💬 2K • ⏱️ 20:28 • 4d ago
 
 ---
 
-**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
+📺 Tyrecordslol
 
-📺 KhanFlicks
-
-👁️ 12K • 👍 92 • 💬 30 • ⏱️ 6:44 • 3d ago
+👁️ 2.6M • 👍 117K • 💬 7K • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -254,35 +272,17 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 173K • 👍 577 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 181K • 👍 587 • 💬 98 • ⏱️ 40:27 • 3d ago
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[Why Does Atlas Have A Head? #askaroboticist #bostondynamics](https://www.youtube.com/watch?v=VmBS2N1FzmE)**
 
-📺 Tyrecordslol
+Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...
 
-👁️ 2.5M • 👍 115K • 💬 7K • ⏱️ 0:58 • 2d ago
+📺 Boston Dynamics
 
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 65K • 👍 1K • 💬 109 • ⏱️ 12:38 • 5d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 123K • 👍 4K • 💬 225 • ⏱️ 47:03 • 3d ago
+👁️ 162K • 👍 11K • 💬 504 • ⏱️ 2:03 • 5d ago
 
 ---
 

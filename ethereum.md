@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T15:57:47.954779+00:00'
+updated: '2026-08-09T16:42:53.290829+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 15:57 UTC  
+**Last Updated:** August 09, 2026 at 16:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.89B
+**Market Cap:** $232.02B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.1%
 
 **All-Time Low:** $0.43
-+443688.3%
++443958.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 2d ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ markets.businessinsider.com • 1d ago
 
 Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 217 • 💬 4 • ⏱️ 7:37 • 14h ago
+👁️ 4K • 👍 239 • 💬 4 • ⏱️ 7:37 • 15h ago
 
 ---
 
@@ -250,7 +250,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 622 • 💬 105 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 626 • 💬 105 • ⏱️ 33:45 • 1d ago
 
 ---
 
@@ -258,47 +258,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 354 • 💬 6 • ⏱️ 1:29 • 14h ago
-
----
-
-**[BMNR’s $19.30 Rejection: Is Tom Lee’s ETH Breakout Still Alive??](https://www.youtube.com/watch?v=zYxG7HCyLf8)**
-
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt-a ...
-
-📺 MONEY GAME
-
-👁️ 3K • 👍 112 • 💬 3 • ⏱️ 17:46 • 1d ago
-
----
-
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
-
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 20K • 👍 2K • 💬 231 • ⏱️ 17:35 • 2d ago
-
----
-
-**[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
-
-The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 228 • 👍 9 • 💬 1 • ⏱️ 1:25 • 21h ago
-
----
-
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 112 • 💬 12 • ⏱️ 1:08 • 1d ago
+👁️ 6K • 👍 395 • 💬 19 • ⏱️ 1:29 • 15h ago
 
 ---
 
@@ -308,7 +268,37 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 225 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+👁️ 7K • 👍 226 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+
+---
+
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 20K • 👍 2K • 💬 232 • ⏱️ 17:35 • 2d ago
+
+---
+
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 114 • 💬 12 • ⏱️ 1:08 • 2d ago
+
+---
+
+**[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
+
+The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 242 • 👍 9 • 💬 1 • ⏱️ 1:25 • 22h ago
 
 ---
 
@@ -318,7 +308,7 @@ We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) befor
 
 📺 Milk Road
 
-👁️ 6K • 👍 154 • 💬 91 • ⏱️ 51:35 • 2d ago
+👁️ 6K • 👍 156 • 💬 92 • ⏱️ 51:35 • 2d ago
 
 ---
 
@@ -328,7 +318,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 451 • 💬 80 • ⏱️ 13:58 • 1d ago
+👁️ 8K • 👍 457 • 💬 82 • ⏱️ 13:58 • 1d ago
+
+---
+
+**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
+
+In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 236 • 💬 10 • ⏱️ 7:25 • 2d ago
 
 ---
 
