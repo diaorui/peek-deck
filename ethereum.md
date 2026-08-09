@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T08:42:54.628791+00:00'
+updated: '2026-08-09T09:39:19.852671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 08:42 UTC  
+**Last Updated:** August 09, 2026 at 09:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.29B
+**Market Cap:** $230.94B
 Rank #2
 
 **Circulating Supply:** 120,682,073 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.3%
 
 **All-Time Low:** $0.43
-+442535.8%
++441903.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ Benzinga • 1d ago
 
 Galaxy Research details Ethereum's EIP-8361 and Solana's SIMD-0550 and SIMD-0553 proposals that could reshape staking yields, token burns, and
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 17h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 16h ago
 
 NEOS’s income-focused crypto product just got a fresh vote of confidence. The NEOS Ethereum High Income ETF, NEHI, recorded a $1,078,288 inflow on July 31, 2026, li...
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
@@ -228,13 +228,23 @@ TipRanks • 20h ago
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Is the Ethereum Bull Market Already Here](https://www.youtube.com/watch?v=eKMWhhBxn9E)**
+
+In this video I break down the current Ethereum price action to determine if we are entering a new bull market or facing a potential ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 173 • 💬 3 • ⏱️ 7:37 • 7h ago
+
+---
 
 **[Tom Lee: Why Ethereum Is The Next 10X Trade In Crypto](https://www.youtube.com/watch?v=whFoNV3LW0Y)**
 
@@ -252,7 +262,15 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 23h ago
+👁️ 6K • 👍 620 • 💬 111 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 277 • 💬 6 • ⏱️ 1:29 • 8h ago
 
 ---
 
@@ -262,7 +280,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 210 • 💬 35 • ⏱️ 1:06:58 • 1d ago
+👁️ 7K • 👍 214 • 💬 35 • ⏱️ 1:06:58 • 1d ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=AvwW8g9GqVc)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Telegram link https://t.me/Ashulivetrade Create ...
+
+📺 Ashutosh Kumar
+
+👁️ 7K • 👍 587 • 2h ago
+
+---
+
+**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+
+Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 20K • 👍 2K • 💬 229 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -276,13 +314,13 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 ---
 
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
 
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
 
-📺 Money Rules - Investing Tips 
+📺 Lark Davis
 
-👁️ 20K • 👍 2K • 💬 231 • ⏱️ 17:35 • 1d ago
+👁️ 3K • 👍 108 • 💬 12 • ⏱️ 1:08 • 1d ago
 
 ---
 
@@ -292,47 +330,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 222 • 👍 9 • 💬 1 • ⏱️ 1:25 • 14h ago
-
----
-
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 106 • 💬 12 • ⏱️ 1:08 • 1d ago
-
----
-
-**[Ethereum Is Finally Playing to Win](https://www.youtube.com/watch?v=sa1feEqpRS0)**
-
-We called Micron (217%), Bloom (130%), Hyperliquid (55%), and Galaxy (37%) before their big runs. Want to see what we're ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 150 • 💬 93 • ⏱️ 51:35 • 2d ago
-
----
-
-**[Cardano Up 36% In Around 1 Week! Here&#39;s Why Ethereum&#39;s Next Move Decides All Altcoins...](https://www.youtube.com/watch?v=JNGLB6tN4d4)**
-
-Thanks Coinbase for sponsoring this crypto analysis. ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 13K • 👍 665 • 💬 196 • ⏱️ 14:40 • 2d ago
-
----
-
-**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 438 • 💬 77 • ⏱️ 13:58 • 23h ago
+👁️ 222 • 👍 10 • 💬 1 • ⏱️ 1:25 • 15h ago
 
 ---
 

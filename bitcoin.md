@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T08:42:54.622780+00:00'
+updated: '2026-08-09T09:39:19.846456+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 08:42 UTC  
+**Last Updated:** August 09, 2026 at 09:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1300.34B
+**Market Cap:** $1299.70B
 Rank #1
 
-**Circulating Supply:** 20,067,756 BTC
+**Circulating Supply:** 20,067,793 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -48.6%
 
 **All-Time Low:** $67.81
-+95455.2%
++95409.5%
 
 ---
 
@@ -77,31 +77,35 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I finally own 1% of a Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjiurw/i_finally_own_1_of_a_bitcoin/)**
+
+I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
+
+2h ago
+
+---
+
+**[Rodolfo Novak, Coldcard scammer: "I will take it".](https://www.reddit.com/r/Bitcoin/comments/1vji2nz/rodolfo_novak_coldcard_scammer_i_will_take_it/)**
+
+"If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general.
+
+3h ago
+
+---
+
+**[Bitcoin wasn't broken. The random key generation was. The Coldcard lesson everyone should understand](https://www.reddit.com/r/Bitcoin/comments/1vjf9jw/bitcoin_wasnt_broken_the_random_key_generation/)**
+
+To explain the Coldcard disaster as simply as possible, imagine you have 3 billion grains of sand, and one grain is marked. If I ask you to find the marked grain, you have to search through billions of grains. Pretty difficult. Now imagine I make a mistake and tell you that the marked grain is actually somewhere among only a few hundred grains. Suddenly, finding it is easy. You just check the few hundred grains one by one. That is basically what happened with the Coldcard vulnerability. A Bitcoin private key is normally chosen from an unimaginably huge number of possibilities. The whole point is that nobody can realistically search through them all. But because of a bug, some Coldcard devices could generate keys from a much smaller and predictable set of possibilities than they should have. So an attacker didn't have to search through the entire universe of possible Bitcoin keys. They could concentrate on this much smaller set and test the possibilities against the blockchain. With a powerful computer, they could eventually find the private key and steal the Bitcoin. So the simple version is: Billions of grains = practically impossible to search. A few hundred grains = easy to search. The security wasn't broken because Bitcoin's cryptography was cracked. The problem was that the key was generated from a much smaller pool of possibilities than it should have been.
+
+6h ago
+
+---
+
 **[THE CHAIN HAS SPLIT](https://www.reddit.com/r/Bitcoin/comments/1vj5l7w/the_chain_has_split/)**
 
 <3% support before the window opened. Good luck, shitcoiners
 
-🔗 [bip110monitor.com](https://bip110monitor.com/) • 12h ago
-
----
-
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
-
-1d ago
-
----
-
-**[This is the block. Decisions are being made.](https://www.reddit.com/r/Bitcoin/comments/1vj5box/this_is_the_block_decisions_are_being_made/)**
-
-The last non split block has been mined. Lest see what happens now
-
-12h ago
-
----
-
-**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
-
-1d ago
+🔗 [bip110monitor.com](https://bip110monitor.com/) • 13h ago
 
 ---
 
@@ -113,37 +117,39 @@ Exploring the mempool at the famous BTC burn address 1111111111111111111114oLvT2
 
 ---
 
-**[We are going to have our moments to shine soon fellow hodlers.](https://www.reddit.com/r/Bitcoin/comments/1vizw86/we_are_going_to_have_our_moments_to_shine_soon/)**
+**[What's the best Instant Exchange to sell Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjk2co/whats_the_best_instant_exchange_to_sell_bitcoin/)**
 
-Just wanted to say how many posts ive been seeing in other finance related subreddits related to these people becoming millionaires in their 20s and 30s, etc from their stock portfolios, etc. It feels bizarre how much everyone has been making lately and becoming wealthy. I know reddit is a small sample of total population but it still feels a lot. I see so many posts across different subreddits how people are making 600k, buying 2 million USD house, their portfolios being $3 million to $10 million. Well, we are going to have our time soon.
+I am mining Bitcoin and want to hold as much as possible, but to keep my machines running I need to sell some. I do not like using P2P because it takes too long and I have had issues before. Changenow froze one of my orders and that made me lose trust in the process. I also do not trust centralized exchanges, so I avoid them completely. Now that eXch has shut down, I feel stuck without any reliable options left. Is there any method that could help me sell without giving up control or going through all the hassle, something fast and secure that does not involve the usual problems I have faced?
 
-16h ago
-
----
-
-**[They just don’t get it! And it’s slowly eating away at their souls 🤣 Bitcoin was not hacked coldcard was therefore nothing is going to change lol](https://www.reddit.com/r/Bitcoin/comments/1vio4c4/they_just_dont_get_it_and_its_slowly_eating_away/)**
-
-1d ago
+1h ago
 
 ---
 
-**[We'll HODL here!!](https://www.reddit.com/r/Bitcoin/comments/1vid6v4/well_hodl_here/)**
+**[This is the block. Decisions are being made.](https://www.reddit.com/r/Bitcoin/comments/1vj5box/this_is_the_block_decisions_are_being_made/)**
 
-1d ago
-
----
-
-**[It's time to find out](https://www.reddit.com/r/Bitcoin/comments/1vj504p/its_time_to_find_out/)**
+The last non split block has been mined. Lest see what happens now
 
 13h ago
 
 ---
 
-**[New cold-wallet?](https://www.reddit.com/r/Bitcoin/comments/1vj1a8m/new_coldwallet/)**
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1vioqcb/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-Hi All, What is a cold wallet that is recommended except Coldcard of course. Which manufacter has proven 128 bit key production or even 256 bit? what should i look into when purchasing a new brand? Ledger is proven, however it has it's own backlash in the past. I've noticed brands like OneKey for example
+1d ago
 
-15h ago
+---
+
+**[WATER HEATER PAYS YOU IN BITCOIN Superheat unveils a $2,000 electric water heater that mines Bitcoin. The unit uses the same energy as a standard heater but runs ASIC miners to recoup costs, offsetting water heating bills.](https://www.reddit.com/r/Bitcoin/comments/1vinr6r/water_heater_pays_you_in_bitcoin_superheat/)**
+
+1d ago
+
+---
+
+**[Daily Discussion, August 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1vjhzxe/daily_discussion_august_09_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+3h ago
 
 ---
 
@@ -155,7 +161,7 @@ Hi All, What is a cold wallet that is recommended except Coldcard of course. Whi
 
 Matt Hougan says large capital pools control up to $200 trillion globally, and just a 1% shift toward crypto could unlock massive long-term growth.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -163,7 +169,7 @@ CoinDesk • 18h ago
 
 Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -187,13 +193,13 @@ Bloomberg.com • 2d ago
 
 GroveXchange reports: "Bitcoin hits block 961,632 as controversial BIP-110 soft fork attempt begins," with very low miner support.The attempt puts Bitcoin's consensus process and governance in focus. Its progress or failure could influence expectations for a future protocol change, since miner supp…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
 **[Bitcoin rises toward $65,000 as fresh security risks hit infrastructure](https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-toward-65000-as-fresh-security-risks-hit-infrastructure-4847628)**
 
-Investing.com • 23h ago
+Investing.com • 1d ago
 
 ---
 
@@ -201,7 +207,7 @@ Investing.com • 23h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -209,7 +215,7 @@ Fortune • 1d ago
 
 A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -217,7 +223,7 @@ Decrypt • 15h ago
 
 ETF outflows, lower volatility, and corporate Bitcoin sales are reshaping Bitcoin’s first institutional bear market.
 
-CryptoSlate • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -253,7 +259,7 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
-⬆️ 9 • 💬 4 • 3d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
+⬆️ 9 • 💬 4 • 4d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -322,7 +328,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 3K • 💬 79 • ⏱️ 47:31 • 19h ago
+👁️ 57K • 👍 3K • 💬 79 • ⏱️ 47:31 • 20h ago
 
 ---
 
@@ -332,7 +338,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 177 • 💬 8 • ⏱️ 1:20 • 16h ago
+👁️ 6K • 👍 182 • 💬 9 • ⏱️ 1:20 • 17h ago
 
 ---
 
@@ -342,7 +348,17 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 4K • 👍 97 • 💬 20 • ⏱️ 1:18 • 20h ago
+👁️ 4K • 👍 100 • 💬 21 • ⏱️ 1:18 • 21h ago
+
+---
+
+**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+
+Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+
+📺 Crypto Vlog
+
+👁️ 8K • 💬 25 • ⏱️ 1:13 • 2d ago
 
 ---
 
@@ -352,17 +368,7 @@ Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.b
 
 📺 Benjamin Cowen
 
-👁️ 133K • 👍 7K • 💬 448 • ⏱️ 24:00 • 2d ago
-
----
-
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
-
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
-
-📺 Natalie Brunell
-
-👁️ 35K • 👍 2K • 💬 435 • ⏱️ 1:09:52 • 1d ago
+👁️ 134K • 👍 7K • 💬 448 • ⏱️ 24:00 • 2d ago
 
 ---
 
@@ -372,7 +378,7 @@ Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 163 • 💬 7 • ⏱️ 1:03 • 17h ago
+👁️ 6K • 👍 165 • 💬 7 • ⏱️ 1:03 • 18h ago
 
 ---
 
@@ -382,7 +388,7 @@ Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and inve
 
 📺 PragerU
 
-👁️ 32K • 👍 339 • 💬 27 • ⏱️ 8:07 • 1d ago
+👁️ 32K • 👍 340 • 💬 27 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -392,7 +398,7 @@ Bitcoin is coming — and the setup is forming now. In this video I break down w
 
 📺 Crypto Jebb
 
-👁️ 11K • 👍 529 • 💬 49 • ⏱️ 8:03 • 2d ago
+👁️ 11K • 👍 530 • 💬 49 • ⏱️ 8:03 • 2d ago
 
 ---
 
@@ -402,7 +408,7 @@ An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard sourc
 
 📺 TWiT Tech Podcast Network
 
-👁️ 6K • 👍 142 • 💬 5 • ⏱️ 1:23 • 1d ago
+👁️ 6K • 👍 143 • 💬 5 • ⏱️ 1:23 • 1d ago
 
 ---
 
@@ -412,7 +418,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 614 • 💬 137 • ⏱️ 33:45 • 23h ago
+👁️ 6K • 👍 620 • 💬 110 • ⏱️ 33:45 • 1d ago
 
 ---
 

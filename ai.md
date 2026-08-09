@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T08:42:54.614100+00:00'
+updated: '2026-08-09T09:39:19.837704+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 08:42 UTC  
+**Last Updated:** August 09, 2026 at 09:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source: https://openrouter.ai/rankings
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Source: https://openrouter.ai/rankings
 
 Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 3h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 The EU AI Act is usually discussed as a European compliance issue, but its larger impact may happen outside Europe. Global AI companies may find it cheaper to build around one demanding regulatory standard than maintain completely different systems for every market. If that happens, European requirements could influence how AI is developed and deployed worldwide, even in countries that never adopt the Act themselves. I made a deeper analysis of how enforcement could reshape global AI regulation. Do you think this becomes another “Brussels effect,” or will AI regulation fragment into competing regional systems? Full analysis: https://youtu.be/tdH4-rEmXos
 
-19h ago
+20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Someone explained this to me in a comment thread and it's been rattling around i
 
 What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now? Could AI make the golden age of medicine come soon do you think? Are you optimistic?
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ What do you think? Could AI help the process so that chronic conditions could be
 
 Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
 
-16h ago
+17h ago
 
 ---
 
@@ -89,13 +89,13 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-1h ago
+2h ago
 
 ---
 
 **[Companies seeing AI returns had their data and governance sorted first, per PwC's 4,454-CEO survey](https://www.reddit.com/r/artificial/comments/1vitkw8/companies_seeing_ai_returns_had_their_data_and/)**
 
-🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 21h ago
+🔗 [inc.com](https://www.inc.com/kolawole-adebayo/the-companies-getting-returns-from-ai-arent-picking-better-models-theyre-asking-these-3-smart-questions-first/91383868) • 22h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparenc
 
 I keep seeing people on Reddit criticizing AI and data centers because of how much water they use. I think the concern is legitimate, but I also think there's a pretty obvious consistency problem with how this issue is discussed. If your argument is that water consumption itself is an environmental problem, then shouldn't you also care about the water footprint of the products you consume? Beef is a particularly striking example. The Water Footprint Network estimates the global-average water footprint of beef at roughly 15,400 liters of water per kilogram of beef. It also estimates that beef has about 20 times the water footprint per calorie of cereals and starchy roots. Most of that footprint isn't the cow literally drinking water; it's primarily the water associated with producing its feed. I'm not saying this means "data centers are fine because beef exists." That's a bad argument. Data centers absolutely can create legitimate local water concerns, especially when they're built in water-stressed regions or place significant demand on municipal water systems during droughts. My point is that environmental criticism should be applied consistently. If someone is angry about a data center consuming millions of gallons of water, but eats beef regularly without ever considering its much larger water footprint, I'd like to know what principle they're actually applying. And this doesn't stop with beef. The same logic applies to: Dairy Food production in general Cotton clothing Lawns and landscaping Swimming pools Long showers and other household water use Water-intensive crops Bottled water Other industries that consume substantial amounts of freshwater There is nothing wrong with saying, "I think data centers should use less water." In fact, I agree that companies should be pushed toward more efficient cooling systems, transparent reporting, responsible siting, and minimizing their impact on communities facing water scarcity. But if the argument is instead, "Data centers use a lot of water, therefore they're environmentally irresponsible," then that standard should be applied to the rest of our consumption too. Otherwise, we're not really having a conversation about water conservation. We're selectively focusing on an industry we dislike while ignoring the environmental costs associated with things we personally consume. If water conservation is the principle, apply the principle consistently.
 
-2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Been running longer and longer tasks and I kept losing track of them, so I wired
 
 Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 15h ago
 
 The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -145,7 +145,7 @@ WSJ • 1d ago
 
 A resume with AI skills and over a decade of tech management experience doesn’t mean there’s a position available for many job hunters on the West Coast.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNN • 22h ago
 
 “The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -177,13 +177,13 @@ WCAX • 1d ago
 
 New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.
 
-WIRED • 22h ago
+WIRED • 23h ago
 
 ---
 
 **[Apple says Mac users in China can connect to Alibaba's Qwen AI service](https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 20h ago
 
 CICC has become a dominant financier in Beijing’s drive to compete with US in tech race
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 164 • 💬 106 • 18h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 164 • 💬 106 • 19h ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -286,7 +286,7 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 62 • 💬 0 • 22h ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+⬆️ 62 • 💬 0 • 23h ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
 
 ---
 
@@ -300,7 +300,17 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 8K • 👍 297 • 💬 74 • ⏱️ 13:38 • 12h ago
+👁️ 9K • 👍 337 • 💬 90 • ⏱️ 13:38 • 13h ago
+
+---
+
+**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
+
+Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
+
+📺 TechLead
+
+👁️ 74K • 👍 2K • 💬 345 • ⏱️ 8:21 • 1d ago
 
 ---
 
@@ -310,7 +320,7 @@ China just pushed the AI race into a new league. ByteDance is reportedly trainin
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 140 • ⏱️ 15:28 • 1d ago
+👁️ 43K • 👍 1K • 💬 140 • ⏱️ 15:28 • 1d ago
 
 ---
 
@@ -320,7 +330,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 63K • 👍 9K • 💬 541 • ⏱️ 13:15 • 14h ago
+👁️ 66K • 👍 9K • 💬 554 • ⏱️ 13:15 • 15h ago
 
 ---
 
@@ -330,7 +340,7 @@ Artificial Intelligence has been used to design brand new viruses that are fully
 
 📺 BBC News
 
-👁️ 690K • 👍 9K • 💬 4K • ⏱️ 6:38 • 1d ago
+👁️ 732K • 👍 9K • 💬 4K • ⏱️ 6:38 • 1d ago
 
 ---
 
@@ -340,17 +350,27 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 334K • 👍 23K • 💬 836 • ⏱️ 1:36 • 1d ago
+👁️ 340K • 👍 24K • 💬 847 • ⏱️ 1:36 • 1d ago
 
 ---
 
-**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
+**[How to Detect AI Slop](https://www.youtube.com/watch?v=ORgKY9AlybA)**
 
-(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
+Everyone is missing how to really tell what's AI writing or not. Contrary to popular belief, the best 'tell' is not sentence constructions ...
 
-📺 All-In Podcast
+📺 languagejones
 
-👁️ 256K • 👍 5K • 💬 425 • ⏱️ 1:15:18 • 1d ago
+👁️ 122K • 👍 8K • 💬 2K • ⏱️ 17:13 • 1d ago
+
+---
+
+**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
+
+In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
+
+📺 Shawn Ryan Show
+
+👁️ 136K • 👍 3K • 💬 688 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -360,33 +380,17 @@ Join the Torch community at https://glennbeck.com/torch ▻ Click HERE to subscr
 
 📺 Glenn Beck
 
-👁️ 199K • 👍 5K • 💬 452 • ⏱️ 0:51 • 2d ago
+👁️ 200K • 👍 5K • 💬 452 • ⏱️ 0:51 • 2d ago
 
 ---
 
-**[AI is SPAWNCAMPING the next generation...](https://www.youtube.com/watch?v=irN38xaz3Og)**
+**[Google’s AI Brain Drain, SpaceX&#39;s Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI](https://www.youtube.com/watch?v=muRIXCDw-k0)**
 
-I stream on Twitch ( https://www.twitch.tv/luality ) most days, come watch me suffer daily! Or inflict suffering. Please.. Like.
+(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) ...
 
-📺 Luality
+📺 All-In Podcast
 
-👁️ 7K • 👍 700 • 💬 35 • ⏱️ 0:52 • 12h ago
-
----
-
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
-
-📺 Mark Tilbury
-
-👁️ 477K • 👍 13K • 💬 731 • ⏱️ 0:26 • 1d ago
-
----
-
-**[When AI becomes more expensive than people](https://www.youtube.com/watch?v=3JHfFMcAnO0)**
-
-📺 Christian Maldonado
-
-👁️ 155K • 👍 9K • 💬 145 • ⏱️ 1:03 • 2d ago
+👁️ 263K • 👍 5K • 💬 432 • ⏱️ 1:15:18 • 1d ago
 
 ---
 
@@ -402,7 +406,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 26,693 • ❤️ 3,144 • 2d ago
+⬇️ 35,295 • ❤️ 3,156 • 2d ago
 
 ---
 
@@ -414,7 +418,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 785,771 • ❤️ 2,872 • 8d ago
+⬇️ 868,576 • ❤️ 2,890 • 8d ago
 
 ---
 
@@ -424,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 3,943,176 • ❤️ 1,016 • 11h ago
+⬇️ 4,947,943 • ❤️ 1,028 • 12h ago
 
 ---
 
@@ -436,7 +440,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,388,105 • ❤️ 10,353 • 12d ago
+⬇️ 1,456,459 • ❤️ 10,361 • 12d ago
 
 ---
 
@@ -448,7 +452,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 499 • 12h ago
+⬇️ 0 • ❤️ 505 • 13h ago
 
 ---
 
@@ -460,7 +464,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,345,190 • ❤️ 1,774 • 5h ago
+⬇️ 2,390,692 • ❤️ 1,778 • 6h ago
 
 ---
 
@@ -472,7 +476,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 81,522 • ❤️ 424 • 1d ago
+⬇️ 85,651 • ❤️ 428 • 1d ago
 
 ---
 
@@ -484,7 +488,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 406 • 3d ago
+⬇️ 0 • ❤️ 411 • 3d ago
 
 ---
 
@@ -496,7 +500,7 @@ DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced ag
 
 `284.3B`
 
-⬇️ 175,093 • ❤️ 614 • 2d ago
+⬇️ 188,761 • ❤️ 617 • 2d ago
 
 ---
 
@@ -508,7 +512,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 896 • ❤️ 263 • 4d ago
+⬇️ 1,089 • ❤️ 267 • 4d ago
 
 ---
 
@@ -550,7 +554,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 87 • 💬 1 • ⭐ 512 • 5d ago
+▲ 87 • 💬 1 • ⭐ 547 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -567,19 +571,6 @@ We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion
 ▲ 486 • 💬 10 • ⭐ 8,254 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 83,487 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -605,6 +596,19 @@ Large language model (LLM) agents increasingly undertake long-horizon tasks that
 ▲ 161 • 💬 3 • ⭐ 411 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 83,503 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -657,17 +661,17 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.8k • 🔱 853 • 8h ago
+⭐ 7.9k • 🔱 857 • 9h ago
 
 ---
 
 **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)**
 
-AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
+AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.2k • 🔱 375 • 1d ago
+⭐ 4.3k • 🔱 377 • 37s ago
 
 ---
 
@@ -675,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.8k • 🔱 490 • 22h ago
+⭐ 3.8k • 🔱 492 • 23h ago
 
 ---
 
@@ -685,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 1h ago
+⭐ 2.6k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -695,7 +699,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 393 • 7h ago
+⭐ 2.3k • 🔱 394 • 8h ago
 
 ---
 
@@ -705,7 +709,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.1k • 🔱 165 • 5d ago
+⭐ 2.2k • 🔱 166 • 5d ago
 
 ---
 
@@ -715,7 +719,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.0k • 🔱 178 • 3d ago
+⭐ 2.0k • 🔱 179 • 3d ago
 
 ---
 
@@ -725,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 142 • 1h ago
+⭐ 2.0k • 🔱 143 • 19m ago
 
 ---
 
@@ -735,7 +739,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 233 • 10h ago
+⭐ 2.0k • 🔱 234 • 1h ago
 
 ---
 
@@ -745,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 245 • 1h ago
+⭐ 1.9k • 🔱 245 • 8m ago
 
 ---
 

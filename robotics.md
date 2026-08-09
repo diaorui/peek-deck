@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T08:42:54.632028+00:00'
+updated: '2026-08-09T09:39:19.855963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 08:42 UTC  
+**Last Updated:** August 09, 2026 at 09:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 **[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ I have lots of stuff to build with and a 3d printer but the issue is my pc it’
 
 ​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I have lots of stuff to build with and a 3d printer but the issue is my pc it’
 
 I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ I let 120 autoresearch agents discover a physics model for a robotic actuator, a
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -162,7 +162,7 @@ techxplore.com • 1d ago
 
 Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
 
-Futurism • 13h ago
+Futurism • 14h ago
 
 ---
 
@@ -192,7 +192,17 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 60K • 👍 935 • ⏱️ 17:44 • 2d ago
+👁️ 62K • 👍 971 • ⏱️ 17:44 • 2d ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 37K • 👍 537 • 💬 275 • ⏱️ 28:01 • 1d ago
 
 ---
 
@@ -206,63 +216,13 @@ After spending years and hundreds of millions of dollars, Johnson and Johnson ha
 
 ---
 
-**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
-
-The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
-
-📺 NBC News
-
-👁️ 34K • 👍 362 • 💬 413 • ⏱️ 1:36 • 4d ago
-
----
-
-**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
-
-This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
-
-📺 Y Combinator
-
-👁️ 9K • 👍 341 • 💬 14 • ⏱️ 1:24:13 • 18h ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 36K • 👍 515 • 💬 269 • ⏱️ 28:01 • 1d ago
-
----
-
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
-
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
-
-📺 China Fact Chasers
-
-👁️ 50K • 👍 3K • 💬 480 • ⏱️ 26:40 • 4d ago
-
----
-
-**[Centaur Robot Sparks MAJOR Questions After Shocking Chainsaw Pictures Unveiled](https://www.youtube.com/watch?v=MhnOQCJXums)**
-
-A Robotics startup in California sparks an internet frenzy after releasing pictures of their creation of a robot centaur meant to help ...
-
-📺 The Damage Report
-
-👁️ 25K • 👍 1K • 💬 327 • ⏱️ 8:30 • 6d ago
-
----
-
 **[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
 I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
 📺 Cyrus Janssen
 
-👁️ 153K • 👍 559 • 💬 97 • ⏱️ 40:27 • 2d ago
+👁️ 159K • 👍 564 • 💬 98 • ⏱️ 40:27 • 2d ago
 
 ---
 
@@ -276,11 +236,51 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 ---
 
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 50K • 👍 3K • 💬 481 • ⏱️ 26:40 • 4d ago
+
+---
+
+**[Why Does Atlas Have A Head? #askaroboticist #bostondynamics](https://www.youtube.com/watch?v=VmBS2N1FzmE)**
+
+Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...
+
+📺 Boston Dynamics
+
+👁️ 159K • 👍 10K • 💬 486 • ⏱️ 2:03 • 4d ago
+
+---
+
 **[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
 📺 Tyrecordslol
 
-👁️ 2.5M • 👍 113K • 💬 7K • ⏱️ 0:58 • 1d ago
+👁️ 2.5M • 👍 114K • 💬 7K • ⏱️ 0:58 • 1d ago
+
+---
+
+**[US Bans More Tech ! Robot Vacuums, Solar Inverters &amp; DJI Shadow Companies!](https://www.youtube.com/watch?v=eloIE5Vfr0o)**
+
+Download the FREE Upside App here https://yt.link/iOW4zhU and use code LonTv to get an extra $10 Bonus on your first ...
+
+📺 Lon.TV
+
+👁️ 49K • 👍 2K • 💬 430 • ⏱️ 9:59 • 3d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 121K • 👍 4K • 💬 221 • ⏱️ 47:03 • 3d ago
 
 ---
 
