@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T16:42:53.286553+00:00'
+updated: '2026-08-09T17:31:31.664983+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 16:42 UTC  
+**Last Updated:** August 09, 2026 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.3%  
 **7d:** +2.7%  
 **30d:** +2.2%  
-**90d:** -19.0%  
+**90d:** -18.9%  
 **1y:** -45.2%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-9h ago
+10h ago
 
 ---
 
@@ -101,19 +101,19 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-3h ago
+4h ago
 
 ---
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-48m ago
+1h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-3h ago
+4h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-10h ago
+11h ago
 
 ---
 
@@ -159,33 +159,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
+**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Bloomberg.com • 2d ago
-
----
-
-**[The analyst predicting Bitcoin will surge to $1 million](https://www.jpost.com/business-and-innovation/banking-and-finance/article-905000)**
-
-While the AI train burns billions and shows future data center lease commitments exceeding $1 trillion, some experts are convinced the ultimate winner will actually be the digital currency.
-
-The Jerusalem Post • 1h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
+**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html)**
 
-Institutions might start to win more trust from investors.
+Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/08/09/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
+**[🚨Saylor's gonna load up on bitcoin:native again](https://www.moomoo.com/community/feed/saylor-s-gonna-load-up-on-bitcoin-native-again-117066354524165)**
 
-In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
+@DustyBC Crypto 2879 Views|2 Likes
 
-The Motley Fool • 6h ago
+Moomoo • 1h ago
 
 ---
 
@@ -193,7 +185,29 @@ The Motley Fool • 6h ago
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 5h ago
+Forbes • 6h ago
+
+---
+
+**[1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/)**
+
+Within the next five years, Bitcoin could soar past the $1 million price level.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+
+Investing.com • 8h ago
+
+---
+
+**[Strategy (MSTR) vs BlackRock’s IBIT: Which Bitcoin Bet Has Held Up Better in 2026?](https://247wallst.com/investing/cryptocurrency/2026/08/09/strategy-mstr-vs-blackrocks-ibit-which-bitcoin-bet-has-held-up-better-in-2026/)**
+
+MSTR is down about 34% in 2026 while IBIT is down 26%. Here is why Strategy's leveraged Bitcoin bet lost more, and which asset to hold now.
+
+24/7 Wall St. • 4h ago
 
 ---
 
@@ -201,31 +215,15 @@ Forbes • 5h ago
 
 Bitcoin’s BIP-110-enforcing branch stalled at block 961,633 on Sunday after producing only two blocks, while the non-enforcing chain advanced to 961,721, widening the gap to 88 blocks.According to the BIP-110 monitor, updated at 10:19 am UTC, the branch’s latest block had been mined about 12 hours…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
-**[Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume](https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204)**
+**[Trump Media Pulls Back From Crypto Deals: Report](https://bitcoinmagazine.com/news/trump-media-pulls-back-from-crypto-deals)**
 
-Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.
+Trump Media wants to focus on other business ventures, according to an Axios report.
 
-The Block • 1d ago
-
----
-
-**[Current price of Bitcoin for Aug. 7, 2026](https://fortune.com/article/price-of-bitcoin-08-07-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
-
----
-
-**[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects](https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities)**
-
-A volunteer security effort says it has scanned 150 Bitcoin repositories and disclosed more than a dozen vulnerabilities.
-
-Decrypt • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -352,7 +350,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 464 • 💬 14 • ⏱️ 17:47 • 17h ago
+👁️ 9K • 👍 464 • 💬 14 • ⏱️ 17:47 • 18h ago
 
 ---
 

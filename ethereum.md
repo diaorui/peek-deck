@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T16:42:53.290829+00:00'
+updated: '2026-08-09T17:31:31.669376+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 16:42 UTC  
+**Last Updated:** August 09, 2026 at 17:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.07
+### $1,924.74
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** +3.6%  
-**30d:** +7.7%  
-**90d:** -15.3%  
-**1y:** -54.7%  
+**7d:** +3.4%  
+**30d:** +7.5%  
+**90d:** -15.4%  
+**1y:** -54.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -168,27 +168,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
+**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
 
-CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
+One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
 
-CryptoSlate • 1d ago
-
----
-
-**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
-
-The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
-
-The Block • 4d ago
-
----
-
-**[New Crypto Presale: Pepeto Races Past $10.59M And Ethereum Price Prediction Stretches to $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-races-past-10-59m-and-ethereum-price-prediction-stretches-to-10-000-1036431824)**
-
-DUBAI, United Arab Emirates, Aug.  08, 2026  (GLOBE NEWSWIRE) -- Ethereum based new crypto Pepeto has raced past $10.596 million raised, stages se...
-
-markets.businessinsider.com • 1d ago
+The Motley Fool • 12m ago
 
 ---
 
@@ -200,11 +184,27 @@ TradingView • 2d ago
 
 ---
 
+**[Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash](https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/)**
+
+Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
+
+CryptoSlate • 22h ago
+
+---
+
+**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
+
+The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
+
+The Block • 1d ago
+
+---
+
 **[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
 
 Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 395 • 💬 19 • ⏱️ 1:29 • 15h ago
+👁️ 6K • 👍 395 • 💬 19 • ⏱️ 1:29 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. Tha
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 242 • 👍 9 • 💬 1 • ⏱️ 1:25 • 22h ago
+👁️ 242 • 👍 9 • 💬 1 • ⏱️ 1:25 • 23h ago
 
 ---
 

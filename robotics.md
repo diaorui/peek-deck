@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T16:42:53.293163+00:00'
+updated: '2026-08-09T17:31:31.671690+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 16:42 UTC  
+**Last Updated:** August 09, 2026 at 17:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-21h ago
+22h ago
 
 ---
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 **[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-businessinsider.com • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -122,19 +122,19 @@ businessinsider.com • 7h ago
 
 On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-The Information • 1d ago
-
----
-
-**[Can Robots Save an Aging Japan?](https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html)**
-
-nytimes.com • 3d ago
+The Information • 2d ago
 
 ---
 
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
-USNI News • 2d ago
+USNI News • 3d ago
+
+---
+
+**[Can Robots Save an Aging Japan?](https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html)**
+
+The New York Times • 3d ago
 
 ---
 
@@ -152,19 +152,19 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Robot Dogs Suddenly Taking Jobs From Human Security Guards](https://futurism.com/robots-and-machines/robot-dogs-labor-security-guards-automation)**
+
+Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
+
+Futurism • 22h ago
+
+---
+
 **[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
 
 Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
 
 Princeton Engineering • 2d ago
-
----
-
-**[Robot Dogs Suddenly Taking Jobs From Human Security Guards](https://futurism.com/robots-and-machines/robot-dogs-labor-security-guards-automation)**
-
-Robot dogs are quickly becoming the more cost-effective option compared to human security guards, new reporting finds.
-
-Futurism • 21h ago
 
 ---
 
@@ -176,11 +176,11 @@ HII • 3d ago
 
 ---
 
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
 
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+Humans will get the AI models they deserve
 
-Global News • 1d ago
+The Register • 2d ago
 
 ---
 
