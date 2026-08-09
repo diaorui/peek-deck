@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-09T17:31:31.658862+00:00'
+updated: '2026-08-09T18:40:29.024892+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 09, 2026 at 17:31 UTC  
+**Last Updated:** August 09, 2026 at 18:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 6h ago
+
+---
+
+**[OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number](https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/)**
+
+codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
+
+1h ago
 
 ---
 
@@ -53,27 +61,11 @@ Source: https://openrouter.ai/rankings
 
 ---
 
-**[OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number](https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/)**
-
-codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
-
-5m ago
-
----
-
 **[is there any ai music tool that can recreate a garbage quality song into higher quality without altering the vocals or instruments](https://www.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/)**
 
 basically im asking for something that can make a carbon copy of the original, just in higher quality. i dont want it changing the vocals, melody, instruments, etc, literally just make the same recording sound cleaner/better i have a piece of lost media from circa 2003 so unfortunately the only recording i have is in absolutely horrible quality 😭 i was wondering if theres any ai that could somehow restore/recreate it without changing the actual song pls tell me if something like this exists !! Tysm
 
-55m ago
-
----
-
-**[Meta debuts first AI coding agent to take on Anthropic and OpenAI](https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/)**
-
-Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
-
-🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 12h ago
+2h ago
 
 ---
 
@@ -81,7 +73,39 @@ Meta released its first coding agent called Muse Code as the company ramps up it
 
 AI is no longer about what technology can do. The bigger question is what it should do, especially when it affects communities, vulnerable populations, accessibility, and public trust. Why Nonprofits Must Lead in AI explores that question through the perspective of a 25-year nonprofit leader and accessibility specialist, offering a clear-eyed look at both the promise and risks of AI. The message is simple: nonprofits cannot afford to sit on the sidelines. Ignoring AI creates operational, ethical, and strategic risks, but adopting it without principles can be equally dangerous. The goal isn’t technology for technology’s sake. It’s using AI to create meaningful impact without sacrificing the human connection at the heart of mission-driven work. This book moves beyond theory with real-world use cases, AI tools, prompts, templates, and practical implementation strategies for leaders ready to move from experimentation to action. It makes the case that ethical AI leadership must become part of business ethics and leadership training, not merely a technology conversation. For nonprofit executives, innovators, accessibility advocates, and anyone who believes technology should serve humanity, Why Nonprofits Must Lead in AI provides a roadmap for leading responsibly in an AI-driven world. AI will change the world. The question is whether we will make sure it changes it for the better. Available now on Amazon.
 
-1h ago
+2h ago
+
+---
+
+**[Meta debuts first AI coding agent to take on Anthropic and OpenAI](https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/)**
+
+Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.
+
+🔗 [CNBC](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) • 13h ago
+
+---
+
+**[What's an AI capability you thought was hype until you actually used it?](https://www.reddit.com/r/artificial/comments/1vjwvxi/whats_an_ai_capability_you_thought_was_hype_until/)**
+
+What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
+
+29m ago
+
+---
+
+**[AI agents are getting much better at doing tasks. I think verification is still the weak link.](https://www.reddit.com/r/artificial/comments/1vjwaba/ai_agents_are_getting_much_better_at_doing_tasks/)**
+
+I've been experimenting with a problem that keeps showing up as agents get better at using browsers and desktops: How does the agent actually know its work succeeded? A lot of current workflows eventually reduce verification to some version of: do the task → inspect the final state → decide whether it worked. That catches obvious failures. It misses a surprisingly annoying class of others. A checkout flow can show $NaN halfway through and recover before the final screenshot. A modal can cover a button for two seconds. A loading state can render something completely wrong and disappear. An automation can take the wrong path, recover later, and still end on the expected page. The final state says "success." The execution tells a different story. I've been working on an open-source experiment around treating the execution itself as evidence. Instead of only giving the agent the final screenshot, record the browser/window/desktop run, break it into meaningful moments, make those moments searchable, and let the agent check the run against the original criteria. The loop I've ended up with is basically: task → record → inspect → find failure → fix → record again → verify The part that became more interesting than I expected is memory. Once a recording has been processed, it doesn't need to become a giant video blob in the context window every time. The agent can retrieve a relevant moment later and get the timestamp and evidence behind it. So you can ask things like: "When did the checkout total first become invalid?" "Did the modal ever obscure the submit button?" "What changed between the failed run and the passing run?" without processing the entire recording again. I've been building this into an MIT-licensed project called Watch Skill. It also works with normal videos, streams and meeting recordings, but agent self-verification is the part I'm most interested in right now. Code is here for anyone who wants to inspect how I'm approaching it: https://github.com/oxbshw/watch-skill I'm curious what people think about the larger problem. As agents become more autonomous, is an end-state check enough for most work, or do we eventually need something closer to an execution trace that the agent can inspect and cite?
+
+52m ago
+
+---
+
+**[Is the war of the technology between giant nations?](https://www.reddit.com/r/artificial/comments/1vjw556/is_the_war_of_the_technology_between_giant_nations/)**
+
+Being a daily user of AI I use mainly the tools like Gemini, Claude, Chatgpt, perplexity and few others. But while I use Deepseek, Kimi and other Chinese models they're quite more efficient in terms of both the quality, reasoning and even coding and stuffs and mainly the cost. Might not be fit for in complex tasks. But for daily users like sm managers, content writers and all who are paying the heavy subscriptions might benefit them. And most of the general users still doesn't know about them. It's like the westerners and the capitalists who runs the world still selling us the propaganda about china and their tech and blah blah.
+
+57m ago
 
 ---
 
@@ -89,31 +113,7 @@ AI is no longer about what technology can do. The bigger question is what it sho
 
 A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, Emad Mostaque — just sat with a number that's hard to argue with: $2,000 in compute, and ten decade-old, previously-unsolved math problems came back with machine-checkable proofs. Not "AI is getting better at math" in the abstract. A Fields Medalist said he'd recommend one of the proofs for publication without hesitation. A cosmologist called it "a dark night for mathematics" — "the old gods are being slaughtered by the new machine gods." Then Emad closed it flat: "It's a bad time to be a pure mathematician." Here's what they're not saying yet. Back in 2013/2014, I was with M+W High Tech Projects, on a design-and-build project in Kulim, Kedah, Malaysia. Our M&E engineer wanted an opening cut straight through the middle of a reinforced concrete beam — right where the bending moment peaks. I caught him before he did it. Told him no. That's beyond madness — you don't sacrifice a beam's structural integrity for an M&E opening. Had him redirect the ducts instead. Structural safety came first. The engineering knowledge wasn't rare. The judgment — catching the mistake before it became permanent — was. Same pattern here. Ten unsolved proofs, correct on paper, for $2,000. The correctness was never the scarce part. Hmm — this actually pulls the same thread as a post I put up about the corporate ladder losing its entry-level rungs to AI. Different profession, same mechanism: whichever rung gets automated first isn't random, and the people still standing on it are the ones who saw it as a pattern instead of a headline. Drop your take — is judgment actually the thing that survives this, or is that just the story we tell ourselves until it's our turn?
 
-2h ago
-
----
-
-**[Why is there no “App Store” for independent AI agents yet?](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
-
-One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
-
 3h ago
-
----
-
-**[Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?](https://www.reddit.com/r/artificial/comments/1vjq4z0/reddit_is_rolling_out_ai_moderators_for_new/)**
-
-I’ve been posting about AI-related stuff for a while now and honestly, the more I see it being pushed everywhere, the more I think we need proper regulation around it. Not just “hey, we have AI now, let’s put it into everything”. And now Reddit is going down that road too. Like... seriously, wtf is going on? I get that moderation is a pain and AI can probably help with some of it. But this is always how it starts. First it’s there to “assist” people, then little by little it ends up making more and more decisions. Reddit is also probably one of the worst places to rely too much on AI moderation because so much of this site is sarcasm, jokes, arguments, dark humour, inside jokes, people taking things out of context, etc. How is an AI supposed to get all of that right? And what happens when it gets it wrong? You appeal to another AI? 😂 I’m not against AI at all. I use it and I think it can be really useful. I just don’t understand why the answer to everything suddenly seems to be “add AI”. Maybe we should figure out the rules and limits first before putting it everywhere. At this rate we’re going to end up with AI writing posts, AI moderating them, AI reviewing the appeals and humans just scrolling through the mess.
-
-3h ago
-
----
-
-**[So AI has now designed actual viruses that work...](https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/)**
-
-Just came across this and honestly this is pretty wild. Researchers used AI to design completely new viruses that don't exist in nature. They then actually made some of them in a lab, and 16 of the designs worked. Before anyone panics, these are bacteriophages, so they infect bacteria, not humans. The interesting part is that some of these AI-made viruses were able to kill E. coli, including bacteria that had become resistant to normal phages. So yeah, there could be a genuinely useful side to this, especially with antibiotic resistance becoming such a big problem. But at the same time... we now have AI systems capable of coming up with a complete virus genome, then humans can synthesize it and see if it works. That feels like a pretty big line to cross. Obviously this doesn't mean someone can just ask ChatGPT to make a deadly virus tomorrow. You still need labs, equipment, biological knowledge etc. But we've gone from AI generating text and images to designing proteins, genes, and now apparently functioning viruses. That's moving fast. I'm not really sure how I feel about it. On one hand this could lead to new treatments and better ways to fight resistant bacteria. On the other hand, I really hope the safety side of this is moving as fast as the technology.
-
-1d ago
 
 ---
 
@@ -125,7 +125,7 @@ Just came across this and honestly this is pretty wild. Researchers used AI to d
 
 The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-CNBC • 5h ago
+CNBC • 7h ago
 
 ---
 
@@ -133,21 +133,35 @@ CNBC • 5h ago
 
 San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-WSJ • 1h ago
+WSJ • 1d ago
 
 ---
 
-**[Go All AI, Y Combinator Head Urges](https://www.forbes.com/sites/joemckendrick/2026/08/09/go-all-ai-y-combinator-head-urges/)**
+**[An Infamous Attack Ad Just Got an AI Resurrection](https://www.motherjones.com/politics/2026/08/an-infamous-attack-ad-just-got-an-ai-resurrection/)**
 
-Entrepreneurs and professionals can employ AI to run on their own infrastructure, compounding their knowledge over time, and dramatically increase their ability to act on ideas and build businesses.
+A pro-Paxton Super PAC remade LBJ's "daisy girl" spot by swapping nuclear armageddon for anti-trans fearmongering.
 
-Forbes • 46m ago
+Mother Jones • 3m ago
+
+---
+
+**[AI Isn’t Plotting Against Us; It’s Cheating On Its Tests](https://www.forbes.com/sites/craigsmith/2026/08/09/ai-isnt-plotting-against-us-its-cheating-on-its-tests/)**
+
+A cluster of recent stories about rogue AI evading control may just be cases of running a task in a room with a bad lock.
+
+Forbes • 5m ago
+
+---
+
+**[AI Is Making Speed Obsolete. Here’s What Matters Now](https://www.inc.com/ethan-fixell/ai-is-making-speed-obsolete-heres-what-matters-now/91386294)**
+
+inc.com • 34m ago
 
 ---
 
@@ -155,7 +169,7 @@ Forbes • 46m ago
 
 A degree should distinguish what students can do independently from what they can accomplish with AI.
 
-The Washington Post • 28m ago
+The Washington Post • 40m ago
 
 ---
 
@@ -163,7 +177,7 @@ The Washington Post • 28m ago
 
 AI agents are only getting more powerful.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -177,23 +191,7 @@ CNBC • 1d ago
 
 **[5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661)**
 
-Investing.com • 8h ago
-
----
-
-**[AI isn’t the biggest cybersecurity problem. People are](https://www.cnn.com/2026/08/09/tech/ai-cybersecurity-people)**
-
-Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
-
-CNN • 7h ago
-
----
-
-**[As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris](https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe)**
-
-Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communities, says Guardian columnist John Harris
-
-The Guardian • 34m ago
+Investing.com • 9h ago
 
 ---
 
@@ -209,7 +207,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 532 • 💬 375 • 1d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 532 • 💬 375 • 2d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -217,7 +215,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 AI coding tools deli
 
-⬆️ 307 • 💬 263 • 1d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 307 • 💬 263 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -237,7 +235,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 167 • 💬 111 • 1d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 168 • 💬 111 • 1d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -246,6 +244,14 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 An artisanal, free range blog. GMO-free. Sincere always, expect for the rare occasion. No AI was used in the making of this site or its content.
 
 ⬆️ 146 • 💬 120 • 2d ago • [illegal.solutions](https://illegal.solutions/posts/xai_pollution)
+
+---
+
+**[Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://news.ycombinator.com/item?id=49229412)**
+
+SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
+
+⬆️ 83 • 💬 61 • 10h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -268,14 +274,6 @@ New Orleans is using AI to answer 911 calls instead of human dispatchers. What d
 
 ---
 
-**[Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://news.ycombinator.com/item?id=49229412)**
-
-SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
-
-⬆️ 77 • 💬 59 • 9h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
-
----
-
 **[Making an AI bid writer refuse to lie](https://news.ycombinator.com/item?id=49220378)**
 
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
@@ -288,7 +286,7 @@ A year of failure postmortems from building document AI for public tenders: phan
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 57 • 💬 48 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 61 • 💬 58 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -302,7 +300,7 @@ For over a year, Google has been running an AI called AlphaEvolve with a single 
 
 📺 There's An AI For That
 
-👁️ 13K • 👍 469 • 💬 111 • ⏱️ 13:38 • 20h ago
+👁️ 13K • 👍 469 • 💬 111 • ⏱️ 13:38 • 22h ago
 
 ---
 
@@ -312,7 +310,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 76K • 👍 10K • 💬 622 • ⏱️ 13:15 • 23h ago
+👁️ 76K • 👍 10K • 💬 622 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -322,7 +320,7 @@ AI Infrastructure Coalition's co-chair Garret Graves discusses the massive surge
 
 📺 Fox News Clips
 
-👁️ 4K • 👍 107 • 💬 50 • ⏱️ 5:02 • 16h ago
+👁️ 4K • 👍 107 • 💬 50 • ⏱️ 5:02 • 17h ago
 
 ---
 
@@ -352,7 +350,7 @@ The answer is yes... but probably not the ones you think. They are looking espec
 
 📺 DW News
 
-👁️ 5K • 👍 189 • 💬 22 • ⏱️ 1:04 • 7h ago
+👁️ 5K • 👍 189 • 💬 22 • ⏱️ 1:04 • 8h ago
 
 ---
 
@@ -406,7 +404,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,202 • 7h ago
+⬇️ 35,295 • ❤️ 3,202 • 8h ago
 
 ---
 
@@ -428,7 +426,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,049 • 6h ago
+⬇️ 4,947,943 • ❤️ 1,049 • 7h ago
 
 ---
 
@@ -452,7 +450,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 534 • 21h ago
+⬇️ 0 • ❤️ 534 • 22h ago
 
 ---
 
@@ -476,7 +474,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,795 • 14h ago
+⬇️ 2,390,692 • ❤️ 1,795 • 15h ago
 
 ---
 
@@ -661,7 +659,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 7.9k • 🔱 870 • 17h ago
+⭐ 7.9k • 🔱 870 • 18h ago
 
 ---
 
@@ -671,7 +669,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 381 • 7h ago
+⭐ 4.3k • 🔱 381 • 8h ago
 
 ---
 
@@ -689,7 +687,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.6k • 🔱 1.8k • 49m ago
+⭐ 2.6k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -699,7 +697,7 @@ An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr
 
 `TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
 
-⭐ 2.3k • 🔱 400 • 3h ago
+⭐ 2.3k • 🔱 400 • 4h ago
 
 ---
 
@@ -729,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 147 • 6h ago
+⭐ 2.0k • 🔱 147 • 7h ago
 
 ---
 
@@ -739,7 +737,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 235 • 9h ago
+⭐ 2.0k • 🔱 235 • 10h ago
 
 ---
 
@@ -749,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 246 • 52m ago
+⭐ 1.9k • 🔱 246 • 2h ago
 
 ---
 
