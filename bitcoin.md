@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T03:55:55.369085+00:00'
+updated: '2026-08-10T05:27:37.077163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 03:55 UTC  
+**Last Updated:** August 10, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.3%  
 **7d:** +1.4%  
 **30d:** +1.9%  
-**90d:** -18.1%  
+**90d:** -18.0%  
 **1y:** -45.3%  
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-12h ago
+13h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-14h ago
+15h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-14h ago
+16h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-14h ago
+16h ago
 
 ---
 
@@ -127,13 +127,13 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-21h ago
+22h ago
 
 ---
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-21h ago
+23h ago
 
 ---
 
@@ -153,15 +153,31 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 13h ago
+CoinDesk • 15h ago
 
 ---
 
-**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://247wallst.com/investing/2026/08/09/this-1-number-says-michael-saylors-bitcoin-sales-are-about-to-end/)**
+**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html)**
 
 Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-24/7 Wall St. • 11h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
+
+The billionaire says he made $15 billion for his company in 2025...
+
+Forbes • 17h ago
+
+---
+
+**[Michael Saylor Predicts Bitcoin Will Gain 30% Annually for 20 Years](https://www.benzinga.com/crypto/cryptocurrency/26/08/61063804/michael-saylor-predicts-bitcoin-will-gain-30-annually-for-20-years)**
+
+Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
+
+Benzinga • 14h ago
 
 ---
 
@@ -185,7 +201,7 @@ Futurism • 1d ago
 
 Institutions might start to win more trust from investors.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -197,29 +213,13 @@ Bloomberg.com • 2d ago
 
 **[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
 
-Investing.com • 18h ago
+Investing.com • 20h ago
 
 ---
 
 **[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Satoshi's Bitcoin Fortune Now Worth $71 Billion Amid Recent Selloff](https://www.tradingview.com/news/u_today:8aefed4c1094b:0-satoshi-s-bitcoin-fortune-now-worth-71-billion-amid-recent-selloff/)**
-
-Bitcoin is currently trading at $65,172, down 48.37% from its record highs. It has racked up losses for a significant portion of its holders, including its pseudonymous founder Satoshi Nakamoto.Satoshi's wallets, which have been untouched since 2010, hold about 1.096 million Bitcoin according to Ar…
-
-TradingView • 12h ago
-
----
-
-**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
-
-The billionaire says he made $15 billion for his company in 2025...
-
-Forbes • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal
 
 Try out Artifacts created by Claude users
 
-⬆️ 2 • 💬 0 • 4d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
+⬆️ 2 • 💬 0 • 5d ago • [claude.ai](https://claude.ai/code/artifact/4806cb5d-8582-460e-ab31-2a321f1b23cb)
 
 ---
 
@@ -328,7 +328,7 @@ Is the traditional 4-year Bitcoin cycle officially dead? We break down how insti
 
 📺 Crypto Vlog
 
-👁️ 8K • 💬 25 • ⏱️ 1:13 • 2d ago
+👁️ 8K • 💬 25 • ⏱️ 1:13 • 3d ago
 
 ---
 
@@ -408,7 +408,7 @@ Bitcoin #Crypto #Finance Rob Hadick discusses how institutional adoption is acce
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 326 • 💬 105 • ⏱️ 28:24 • 14h ago
+👁️ 8K • 👍 326 • 💬 105 • ⏱️ 28:24 • 16h ago
 
 ---
 
