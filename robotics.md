@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T13:55:41.323639+00:00'
+updated: '2026-08-10T14:58:27.776292+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 13:55 UTC  
+**Last Updated:** August 10, 2026 at 14:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Title. I’m not a robotics guy - at all - but it seems like this could be important for someone with one of these robots? I plan to hang it up as art in my home unless there is some aimless robot somewhere depending on it for calibration. Any info would be helpful. Thanks! It was $6 for anyone curious. I’ll probably end up using it to barter after the AI apocalypse.
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur
 
 Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -114,41 +114,57 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 1d ago
+businessinsider.com • 1d ago
 
 ---
 
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
 
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
 
-Global News • 2d ago
+The Information • 3d ago
 
 ---
 
 **[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
-**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
+**[Unitree’s Shanghai IPO 5,526 Times Subscribed by Retail Buyers](https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers)**
 
-Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
+The highly anticipated initial public offering of Yushu Technology Co., known as Unitree Robotics, drew huge demand from retail investors as China’s leading humanoid robot maker opened books in Shanghai.
 
-Interesting Engineering • 5h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Opinion | US does its robotics industry no favours by fencing it off from China](https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china)**
 
-South China Morning Post • 1h ago
+South China Morning Post • 2h ago
+
+---
+
+**[Photos: Robotics Fair 2026](https://www.mercurynews.com/2026/08/10/photos-robotics-fair-2026/)**
+
+Exhibition and competitions at San Mateo County Event Center.
+
+The Mercury News • 18m ago
+
+---
+
+**[The Roboguard Revolution is Short-Circuiting](https://www.404media.co/the-roboguard-revolution-is-short-circuiting/)**
+
+Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
+
+404 Media • 1h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 2d ago
+wsj.com • 2d ago
 
 ---
 
@@ -158,27 +174,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Europe on front foot in race to develop physical AI and robotics: VC](https://www.cnbc.com/video/2026/08/10/europe-on-front-foot-in-race-to-develop-physical-ai-and-robotics-vc.html)**
-
-Fabian Gruner, partner at HV Capital, tells CNBC there is one sector that could give Europe significant leverage as it fights to remain competitive: cognitive robotics. Gruner also discusses how he sees physical AI being deployed over the coming years, and gives his take on how Europe can tackle its competitiveness and talent gap.
-
-CNBC • 3h ago
-
----
-
 **[China’s 2035 moon base could see robot dogs patrol, build and explore](https://interestingengineering.com/ai-robotics/robot-dogs-in-space-china)**
 
 China intends to integrate robot dogs at its future lunar base station.
 
-Interesting Engineering • 21h ago
-
----
-
-**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
-
-As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
-
-politico.eu • 3d ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -186,23 +186,43 @@ politico.eu • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
-
-The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
-
-📺 NBC News
-
-👁️ 34K • 👍 370 • 💬 418 • ⏱️ 1:36 • 5d ago
-
----
-
 **[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
 
 FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
 
 📺 Julia McCoy
 
-👁️ 48K • 👍 2K • 💬 206 • ⏱️ 9:02 • 1d ago
+👁️ 49K • 👍 2K • 💬 206 • ⏱️ 9:02 • 1d ago
+
+---
+
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+
+📺 NBC News
+
+👁️ 34K • 👍 372 • 💬 418 • ⏱️ 1:36 • 5d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 81K • 👍 1K • ⏱️ 17:44 • 3d ago
+
+---
+
+**[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
+
+For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
+
+📺 Broken Business Models
+
+👁️ 9K • 👍 395 • 💬 87 • ⏱️ 20:54 • 10h ago
 
 ---
 
@@ -212,57 +232,7 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 158K • 👍 6K • 💬 3K • ⏱️ 20:28 • 4d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 134K • 👍 4K • 💬 239 • ⏱️ 47:03 • 4d ago
-
----
-
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
-
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
-
-📺 Al Jazeera English
-
-👁️ 50K • 👍 691 • 💬 337 • ⏱️ 28:01 • 2d ago
-
----
-
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 240K • 👍 634 • 💬 99 • ⏱️ 40:27 • 4d ago
-
----
-
-**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
-
-This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
-
-📺 Y Combinator
-
-👁️ 22K • 👍 659 • 💬 23 • ⏱️ 1:24:13 • 1d ago
-
----
-
-**[High School Robotics Team Builds Free $20K Wheelchair for 2-Year-Old Who Couldn’t Afford One❤️](https://www.youtube.com/watch?v=fhX9xBqo-LA)**
-
-A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost around $20000 — but his family's insurance ...
-
-📺 Dre-Daily-Trends
-
-👁️ 4K • 👍 126 • 💬 3 • ⏱️ 0:05 • 11h ago
+👁️ 159K • 👍 6K • 💬 3K • ⏱️ 20:28 • 4d ago
 
 ---
 
@@ -272,15 +242,47 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 77K • 👍 1K • 💬 128 • ⏱️ 12:38 • 6d ago
+👁️ 77K • 👍 1K • 💬 129 • ⏱️ 12:38 • 6d ago
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
 
-📺 Tyrecordslol
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
 
-👁️ 2.8M • 👍 123K • 💬 7K • ⏱️ 0:58 • 3d ago
+📺 Excessive Overkill
+
+👁️ 134K • 👍 4K • 💬 241 • ⏱️ 47:03 • 4d ago
+
+---
+
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 52K • 👍 3K • 💬 488 • ⏱️ 26:40 • 5d ago
+
+---
+
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+
+📺 Cyrus Janssen
+
+👁️ 242K • 👍 636 • 💬 99 • ⏱️ 40:27 • 4d ago
+
+---
+
+**[High School Robotics Team Builds Free $20K Wheelchair for 2-Year-Old Who Couldn’t Afford One❤️](https://www.youtube.com/watch?v=fhX9xBqo-LA)**
+
+A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost around $20000 — but his family's insurance ...
+
+📺 Dre-Daily-Trends
+
+👁️ 7K • 👍 190 • 💬 9 • ⏱️ 0:05 • 12h ago
 
 ---
 

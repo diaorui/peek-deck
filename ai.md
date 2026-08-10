@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T13:55:41.307234+00:00'
+updated: '2026-08-10T14:58:27.758079+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 13:55 UTC  
+**Last Updated:** August 10, 2026 at 14:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[OpenAI locks down Astra after model raises first-ever critical cyber capability fears](https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/)**
+
+OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 16m ago
+
+---
+
+**[OpenAI and Anthropic AI Agents Went Rogue in New Hacking](https://www.reddit.com/r/artificial/comments/1vklxkv/openai_and_anthropic_ai_agents_went_rogue_in_new/)**
+
+The model then accessed a real website, exploited what OpenAI called "a basic security vulnerability" and found credentials that it used to operate…
+
+🔗 [The Grey Terminal](https://thegreyterminal.com/openai-and-anthropic-ai-agents-went-rogue-in-new-hacking-incidents-leaving-behind-instructions-for-what-came-next/) • 48m ago
+
+---
+
 **[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/)**
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
@@ -45,19 +61,11 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 ---
 
-**[Have you checked out Hark Handoff? It has scored better on EYL than GPT 5.5 OPUS 4.8 at 90% less cost](https://www.reddit.com/r/artificial/comments/1vkgc7v/have_you_checked_out_hark_handoff_it_has_scored/)**
-
-97.7 on Online Mine 2Web 83.2 on internal 68.6 on WebTail Bench Best across board and at 2.37 dollars per million token 90% Than GPT5.5 ! how they have trained this. They are using an undisclosed base model and using SFT to accelerate time to market, combined with asynchronous reinforcement learning, especially leveraging the GRPO algorithm. If you don't know, this is similar to how DeepMind historically has trained their AlphaGo Even though they are talking about 1-3 sec latency the huge problem in computer use agents are page rendering and state resolution and there own data showcases it adds roughly 10 Secs so i am skeptical there but I don't think latency matter always and I am bullish on CUA I spend most of the time scrolling the web for silly things, and my mind was blown by the demo videosss Not associated with Any labs. I wish I was :)
-
-4h ago
-
----
-
 **[What has been the biggest production bottleneck for your AI agents?](https://www.reddit.com/r/artificial/comments/1vkhd2h/what_has_been_the_biggest_production_bottleneck/)**
 
 Building an agent that works in a controlled demo is one thing; keeping it reliable in production is another. For those who have actually deployed AI agents, what has caused the most problems? Tool/API reliability? Context management? Memory? Authentication and permissions? Evaluation? Hallucinations? Cost and latency? Observability? Human-in-the-loop workflows? Integration with legacy systems? I'm especially interested in what changed between the prototype and production. What problem did you underestimate initially, and how did you eventually solve it? Real implementation experiences would be much more useful than theoretical answers.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +73,7 @@ Building an agent that works in a controlled demo is one thing; keeping it relia
 
 Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically. The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. Haven't independently verified that number, but the qualitative difference (fewer hallucinated column names, less time re-explaining table relationships) tracks with what I've seen. Anyone using other domain-specific agents (not just data — legal, infra, whatever) and finding the same trade-off? Where's the line between "grounding helps enough to be worth the lock-in" and "just use a general agent with good context"?
 
-10h ago
+11h ago
 
 ---
 
@@ -73,15 +81,15 @@ Curious what people are seeing with domain-grounded coding agents vs. general-pu
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-3h ago
+4h ago
 
 ---
 
-**[Jensen Huang says every company will have AI agents. Are companies ready?](https://www.reddit.com/r/artificial/comments/1vkkorn/jensen_huang_says_every_company_will_have_ai/)**
+**[Have you checked out Hark Handoff? It has scored better on EYL than GPT 5.5 OPUS 4.8 at 90% less cost](https://www.reddit.com/r/artificial/comments/1vkgc7v/have_you_checked_out_hark_handoff_it_has_scored/)**
 
-Jensen Huang has been talking about a future where AI agents work alongside humans. But if companies eventually have hundreds or thousands of agents, the challenge becomes more than just building them. Who manages them? How do they communicate? What can they access? And who handles mistakes? At that point, AI starts looking less like another software tool and more like a new layer of the workforce. Are companies ready for that shift?
+97.7 on Online Mine 2Web 83.2 on internal 68.6 on WebTail Bench Best across board and at 2.37 dollars per million token 90% Than GPT5.5 ! how they have trained this. They are using an undisclosed base model and using SFT to accelerate time to market, combined with asynchronous reinforcement learning, especially leveraging the GRPO algorithm. If you don't know, this is similar to how DeepMind historically has trained their AlphaGo Even though they are talking about 1-3 sec latency the huge problem in computer use agents are page rendering and state resolution and there own data showcases it adds roughly 10 Secs so i am skeptical there but I don't think latency matter always and I am bullish on CUA I spend most of the time scrolling the web for silly things, and my mind was blown by the demo videosss Not associated with Any labs. I wish I was :)
 
-34m ago
+5h ago
 
 ---
 
@@ -89,27 +97,21 @@ Jensen Huang has been talking about a future where AI agents work alongside huma
 
 (disclosure: i maintain the open-source project this came up in. link at the end. the question stands on its own.) we hit a trust-boundary problem while building a deterministic authorization layer for agents, and i think it generalizes. an engine can strongly protect its verdict: signed authorization intent binding state-hash binding replay protection trusted evaluation time all solid. but if the same compromised agent runtime can influence both the proposed action AND some of the premises used to evaluate it, what has crypto actually proven? only this: the signed decision is consistent with the supplied inputs not this: the supplied inputs came from authoritative sources examples of premises a runtime might quietly supply: agent_id tool identity execution depth tenant context a state object the guard later hashes the signature still verifies. the hash still matches. the decision is still deterministic. but the premises may be self-reported. two things i'd genuinely like challenged: which evaluator premises actually need independent provenance, and which can safely remain proposer-declared? for state, is an authoritative guard-side read enough, or should the state provider eventually emit a signed/versioned attestation? most interested in confused-deputy paths, TOCTOU, and cases where a supposedly "trusted" premise can still be bent by the runtime.
 
-3h ago
+4h ago
 
 ---
 
 **[It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.](https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/)**
 
-6h ago
+7h ago
 
 ---
 
-**[Your Agents Are Code. Stop Governing Them Like Documents.](https://www.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/)**
+**[Jensen Huang says every company will have AI agents. Are companies ready?](https://www.reddit.com/r/artificial/comments/1vkkorn/jensen_huang_says_every_company_will_have_ai/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 6h ago
+Jensen Huang has been talking about a future where AI agents work alongside humans. But if companies eventually have hundreds or thousands of agents, the challenge becomes more than just building them. Who manages them? How do they communicate? What can they access? And who handles mistakes? At that point, AI starts looking less like another software tool and more like a new layer of the workforce. Are companies ready for that shift?
 
----
-
-**[Filtering out “[LLM] sucks”](https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/)**
-
-I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?
-
-17h ago
+1h ago
 
 ---
 
@@ -117,11 +119,11 @@ I understand there are a million variations on this theme, but it feels like hal
 
 ## Google News: "ai"
 
-**[Zuckerberg reveals new Meta AI model as US faces AI arms race](https://www.foxbusiness.com/video/6403152116112)**
+**[Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic](https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html)**
 
-Meta CEO Mark Zuckerberg reveals the new Muse open-source AI model. Panelists on ‘Mornings with Maria’ discuss the economic benefits of data centers and warn of falling behind China in the AI arms race.
+Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.
 
-Fox Business • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -129,23 +131,23 @@ Fox Business • 1h ago
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
-**[You Can Now Control And Troubleshoot Your SwitchBot Devices Using AI](https://www.forbes.com/sites/paullamkin/2026/08/10/you-can-now-control-and-troubleshoot-your-switchbot-devices-using-ai/)**
+**[Evolve your marketing with new AI tools](https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/)**
 
-SwitchBot updates its app with Kata, an LLM-powered AI assistant that builds automations, troubleshoots devices, and interprets natural language commands
+Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.
 
-Forbes • 16m ago
+blog.google • 22m ago
 
 ---
 
-**[AI boom is tapping out the US power grid, Hyliion CEO warns](https://www.foxbusiness.com/video/6403157330112)**
+**[Why Google and Amazon rank top among Cloud hyperscalers for AI](https://finance.yahoo.com/video/why-google-and-amazon-rank-top-among-cloud-hyperscalers-for-ai-143256903.html)**
 
-Hyliion CEO Thomas Healy warns that the US power grid is tapped out as the artificial intelligence boom creates massive electricity demand. Healy explains why data centers are shifting to on-site power generation.
+Sevens Report Research founder Tom Essaye explains why cloud capacity is the next critical bottleneck in AI infrastructure and ranks Google (GOOG), Amazon (AMZN), and Microsoft (MSFT) based on their cloud revenue opportunities.
 
-Fox Business • 17m ago
+Yahoo Finance • 25m ago
 
 ---
 
@@ -153,21 +155,7 @@ Fox Business • 17m ago
 
 Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
-CNBC • 1h ago
-
----
-
-**[JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-strategists-raise-p-500-092820794.html)**
-
-(Bloomberg) -- JPMorgan Chase & Co. strategists raised their S&P 500 Index forecast for a second time in two months, citing strong corporate earnings and the payoff from massive artificial intelligence spending. Most Read from BloombergIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’China Unleashes $28 Trillion Capital Markets to Challenge US in AIStocks Hold Near Record Highs, Oil Ticks Higher: Markets WrapTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Says
-
-Yahoo Finance • 4h ago
-
----
-
-**[Democrats AI strategy is MIA](https://www.axios.com/2026/08/10/democrats-ai-strategy)**
-
-axios.com • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -175,21 +163,37 @@ axios.com • 1h ago
 
 When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
-**[Microsoft’s Homegrown AI Chip Effort Shows Signs of Life After Slow Start](https://www.theinformation.com/articles/microsofts-homegrown-ai-chip-effort-shows-signs-life-slow-start)**
+**[Apollo's Slok: AI's profits are 'being funded by investors rather than earned from customers'](https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/)**
 
-Microsoft is planning to significantly increase production of its internally designed next-generation AI chips next year in hopes of persuading big cloud customers like Anthropic to use them, according to two people with direct knowledge of the plans. That’s despite slow uptake of the current ...
+The AI boom has turned the standard profit margin model on its head, according to Apollo Chief Economist Torsten Slok—and it’s making the industry’s growth unsustainable.
 
-theinformation.com • 55m ago
+Fortune • 7h ago
 
 ---
 
-**[China Unleashes $28 Trillion Capital Markets to Challenge US in AI](https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance)**
+**[Democrats AI strategy is MIA](https://www.axios.com/2026/08/10/democrats-ai-strategy)**
 
-Bloomberg.com • 16h ago
+Axios • 2h ago
+
+---
+
+**[The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)**
+
+Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.
+
+WIRED • 3h ago
+
+---
+
+**[Promise AI Developing Horror Feature 'Touch Grass' With 'Backrooms' EP Chris White Producing](https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/)**
+
+AI firm Promise, is developing psychological horror feature 'Touch Grass,' with 'Backrooms' executive producer Chris White onboard as a producer.
+
+Deadline • 52m ago
 
 ---
 
@@ -205,7 +209,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 534 • 💬 380 • 2d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+⬆️ 535 • 💬 380 • 2d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -213,7 +217,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 356 • 💬 219 • 7h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 397 • 💬 255 • 8h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -221,7 +225,15 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 AI coding tools deli
 
-⬆️ 312 • 💬 265 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 313 • 💬 265 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+
+---
+
+**[Over 181,000 AI meeting recordings left wide open in note taking app](https://news.ycombinator.com/item?id=49242739)**
+
+How a missing Firestore security rule on tl;dv exposed 181,874 meetings from 84,312 users across 35,003 domains, including live calls I could join uninvited, and how six months of disclosure got me nothing but seen receipts.
+
+⬆️ 197 • 💬 67 • 2h ago • [bobdahacker.com](https://bobdahacker.com/blog/tldv-hack)
 
 ---
 
@@ -233,13 +245,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 171 • 💬 113 • 1d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
-
----
-
-**[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
-
-⬆️ 135 • 💬 89 • 18h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 172 • 💬 113 • 2d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
@@ -247,7 +253,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 135 • 💬 54 • 10h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 156 • 💬 63 • 11h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+
+---
+
+**[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
+
+⬆️ 136 • 💬 89 • 19h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -259,14 +271,6 @@ SAP says it needs to “be disciplined in how we spend.” That includes still f
 
 ---
 
-**[Over 181,000 AI meeting recordings left wide open in note taking app](https://news.ycombinator.com/item?id=49242739)**
-
-How a missing Firestore security rule on tl;dv exposed 181,874 meetings from 84,312 users across 35,003 domains, including live calls I could join uninvited, and how six months of disclosure got me nothing but seen receipts.
-
-⬆️ 87 • 💬 28 • 1h ago • [bobdahacker.com](https://bobdahacker.com/blog/tldv-hack)
-
----
-
 **[Mythos social engineering AISI INC-2026-07-28-01](https://news.ycombinator.com/item?id=49218707)**
 
 Fixes #2 - discovery hangs when multiple default via routes exist.
@@ -274,15 +278,15 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 81 • 💬 21 • 2d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 82 • 💬 21 • 2d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
-**[70% of AI revenue comes from OpenAI and Anthropic [video]](https://news.ycombinator.com/item?id=49230605)**
+**[Making an AI bid writer refuse to lie](https://news.ycombinator.com/item?id=49220378)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 74 • 💬 93 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 79 • 💬 0 • 2d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
 
 ---
 
@@ -290,23 +294,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "ai"
 
-**[an AI actually went rogue.](https://www.youtube.com/watch?v=3JH_Zd2mNRs)**
+**[AI Just Caught Science Lying (This Is Bad)](https://www.youtube.com/watch?v=a28G9qEsmPo)**
 
-Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot.org/lookingglass.
-
-📺 Looking Glass Universe
-
-👁️ 15K • 👍 1K • 💬 486 • ⏱️ 17:40 • 1d ago
-
----
-
-**[China Just Shocked Everyone With a 10 Trillion Parameter AI Model](https://www.youtube.com/watch?v=MEw7TrAUEPQ)**
-
-China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta ...
+AI is starting to audit science itself, catching decades-old errors, exposing reproducibility problems in top AI papers, and producing ...
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 146 • ⏱️ 15:28 • 2d ago
+👁️ 24K • 👍 1K • 💬 123 • ⏱️ 15:13 • 12h ago
+
+---
+
+**[OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut](https://www.youtube.com/watch?v=hFkcEPK5V8k)**
+
+OpenAI's first real AI device just leaked, and it's a donut. Built with legendary Apple designer Jony Ive, the screenless ChatGPT ...
+
+📺 AI Revolution
+
+👁️ 31K • 👍 1K • 💬 206 • ⏱️ 12:36 • 1d ago
 
 ---
 
@@ -316,7 +320,27 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 32K • 👍 543 • 💬 2 • ⏱️ 0:14 • 11h ago
+👁️ 45K • 👍 798 • 💬 3 • ⏱️ 0:14 • 12h ago
+
+---
+
+**[Why China and America see AI differently | The Economist](https://www.youtube.com/watch?v=TugPBKBXIHc)**
+
+China is far more optimistic about AI than America. On the latest Insider our top editors discuss what lies behind that gap. They ask ...
+
+📺 The Economist
+
+👁️ 42K • 👍 873 • 💬 212 • ⏱️ 7:27 • 2d ago
+
+---
+
+**[How To Start a Kids Animation Channel With AI (Full Tutorial)](https://www.youtube.com/watch?v=W95hJNP_nIA)**
+
+Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
+
+📺 Mira AI
+
+👁️ 9K • ⏱️ 7:52 • 22h ago
 
 ---
 
@@ -326,7 +350,37 @@ As if safety fears over tech companies weren't enough, sci-fi fears about artifi
 
 📺 Channel 4 News
 
-👁️ 67K • 👍 654 • 💬 227 • ⏱️ 9:38 • 2d ago
+👁️ 68K • 👍 657 • 💬 232 • ⏱️ 9:38 • 2d ago
+
+---
+
+**[China Just Shocked Everyone With a 10 Trillion Parameter AI Model](https://www.youtube.com/watch?v=MEw7TrAUEPQ)**
+
+China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 1K • 💬 148 • ⏱️ 15:28 • 2d ago
+
+---
+
+**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
+
+In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
+
+📺 Shawn Ryan Show
+
+👁️ 195K • 👍 4K • 💬 865 • ⏱️ 17:08 • 2d ago
+
+---
+
+**[A 2.4 Trillion Parameter AI Model Goes Free to Download This Week](https://www.youtube.com/watch?v=LTRX1A3X9Ik)**
+
+Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
+
+📺 Jason Lowe on AI
+
+👁️ 621 • 👍 107 • 💬 3 • ⏱️ 2:37 • 2h ago
 
 ---
 
@@ -336,57 +390,7 @@ If 70% of AI revenues are these two companies, there is no AI industry.” Write
 
 📺 The Tech Report
 
-👁️ 349K • 👍 11K • 💬 3K • ⏱️ 46:26 • 2d ago
-
----
-
-**[I Challenged a Pro VFX Artist to Beat AI](https://www.youtube.com/watch?v=Hn8A8D4-SpQ)**
-
-Can AI beat a professional VFX artist? Same shots — he uses VFX, I use only AI. Free prompts + skill: ...
-
-📺 Higgsfield AI
-
-👁️ 46K • 👍 2K • 💬 130 • ⏱️ 25:38 • 2d ago
-
----
-
-**[Is AI About to Change Movies Forever?](https://www.youtube.com/watch?v=BRESQ8NX-us)**
-
-The AI side of this video was made here: https://higgsfield.ai/s/seedance-2-5-erikdoesvfx-PcKzLx Everything AI in this video was ...
-
-📺 ErikDoesVFX
-
-👁️ 948K • 👍 22K • 💬 4K • ⏱️ 16:52 • 3d ago
-
----
-
-**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
-
-Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
-
-📺 Really American
-
-👁️ 102K • 👍 12K • 💬 731 • ⏱️ 13:15 • 1d ago
-
----
-
-**[why AI companies are shredding books](https://www.youtube.com/watch?v=SMy46xA2dJE)**
-
-why AI companies are secretly shredding rare books.
-
-📺 Morning Brew
-
-👁️ 426K • 👍 30K • 💬 1K • ⏱️ 1:36 • 2d ago
-
----
-
-**[AI News: The AI Stories Everyone&#39;s Freaking Out About](https://www.youtube.com/watch?v=ACYAYsVMmT8)**
-
-Here's the AI news you might have missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note ...
-
-📺 Matt Wolfe
-
-👁️ 58K • 👍 3K • 💬 271 • ⏱️ 36:13 • 2d ago
+👁️ 355K • 👍 11K • 💬 3K • ⏱️ 46:26 • 2d ago
 
 ---
 
@@ -402,7 +406,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,346 • 3h ago
+⬇️ 47,468 • ❤️ 3,374 • 4h ago
 
 ---
 
@@ -414,7 +418,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 954,441 • ❤️ 3,006 • 9d ago
+⬇️ 954,441 • ❤️ 3,018 • 9d ago
 
 ---
 
@@ -424,7 +428,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,009,639 • ❤️ 1,116 • 1d ago
+⬇️ 6,009,639 • ❤️ 1,122 • 1d ago
 
 ---
 
@@ -436,7 +440,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 577 • 1d ago
+⬇️ 0 • ❤️ 579 • 1d ago
 
 ---
 
@@ -448,7 +452,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,510,032 • ❤️ 10,438 • 13d ago
+⬇️ 1,510,032 • ❤️ 10,450 • 13d ago
 
 ---
 
@@ -460,19 +464,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 89,680 • ❤️ 472 • 3d ago
-
----
-
-**[Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot)**
-
-*ethan fel*
-
-This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic checkpoints for image-text-to-text tasks, offering a memory-efficient H3 conditioning encoder (24.55 GiB) and an optional prompt-enhancement generation tail.
-
-`image-text-to-text`
-
-⬇️ 0 • ❤️ 429 • 4d ago
+⬇️ 89,680 • ❤️ 477 • 3d ago
 
 ---
 
@@ -484,7 +476,31 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,835 • 10h ago
+⬇️ 2,439,083 • ❤️ 1,843 • 11h ago
+
+---
+
+**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
+
+*Meta Inc.*
+
+Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
+
+`image-text-to-text` `29.8B`
+
+⬇️ 0 • ❤️ 390 • 6h ago
+
+---
+
+**[Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot](https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot)**
+
+*ethan fel*
+
+This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic checkpoints for image-text-to-text tasks, offering a memory-efficient H3 conditioning encoder (24.55 GiB) and an optional prompt-enhancement generation tail.
+
+`image-text-to-text`
+
+⬇️ 0 • ❤️ 434 • 4d ago
 
 ---
 
@@ -496,25 +512,27 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,344 • ❤️ 301 • 5d ago
-
----
-
-**[NVIDIA-NemotronLabs-VoiceChat-11B](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B)**
-
-*NVIDIA*
-
-NVIDIA NemotronLabs VoiceChat 11B is an end-to-end, real-time, full-duplex conversational AI model that unifies speech understanding and generation. It features natural turn-taking, barge-in, and is the first open model to support live tool calling within a seamless conversational flow, reducing latency for voice assistant development.
-
-`11.1B`
-
-⬇️ 597 • ❤️ 281 • 6d ago
+⬇️ 1,344 • ❤️ 307 • 5d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 79 • 💬 6 • ⭐ 23,269 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
 
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
@@ -525,20 +543,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 119 • 💬 4 • ⭐ 96,890 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 79 • 💬 6 • ⭐ 23,102 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -564,9 +568,34 @@ Real-time video editing requires low-latency causal generation with bounded comp
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 486 • 💬 10 • ⭐ 8,310 • 14d ago
+▲ 487 • 💬 10 • ⭐ 8,310 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 51 • 💬 4 • ⭐ 36,338 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization
+  for Language Model Programs](https://huggingface.co/papers/2508.04660)**
+
+*Noah Ziems, Dilara Soylu, Lakshya A Agrawal et al. (13 authors)*
+
+mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI systems by optimizing LM calls and prompts across various tasks.
+
+▲ 7 • 💬 0 • ⭐ 37,003 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.04660) • [💻 code](https://github.com/stanfordnlp/dspy) • [🔗 project](https://dspy.ai)
 
 ---
 
@@ -622,31 +651,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 177 • 💬 2 • ⭐ 77,259 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 51 • 💬 4 • ⭐ 36,280 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -657,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 890 • 1d ago
+⭐ 8.1k • 🔱 893 • 1d ago
 
 ---
 
@@ -667,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.4k • 🔱 391 • 1d ago
+⭐ 4.5k • 🔱 393 • 1d ago
 
 ---
 
@@ -675,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.9k • 🔱 499 • 2d ago
+⭐ 3.9k • 🔱 501 • 2d ago
 
 ---
 
@@ -685,7 +689,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -695,17 +699,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.4k • 🔱 439 • 14h ago
-
----
-
-**[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
-
-Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
-
-`TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
-
-⭐ 2.2k • 🔱 173 • 7d ago
+⭐ 2.5k • 🔱 443 • 1h ago
 
 ---
 
@@ -719,13 +713,23 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 ---
 
+**[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
+
+Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
+
+`TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
+
+⭐ 2.2k • 🔱 174 • 7d ago
+
+---
+
 **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)**
 
 A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 152 • 1h ago
+⭐ 2.1k • 🔱 153 • 2h ago
 
 ---
 
@@ -745,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 1h ago
+⭐ 2.0k • 🔱 252 • 9m ago
 
 ---
 

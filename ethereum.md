@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T13:55:41.320714+00:00'
+updated: '2026-08-10T14:58:27.773027+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 13:55 UTC  
+**Last Updated:** August 10, 2026 at 14:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +1.4%  
-**30d:** +5.0%  
-**90d:** -16.1%  
+**24h:** -1.7%  
+**7d:** +1.2%  
+**30d:** +4.8%  
+**90d:** -16.2%  
 **1y:** -55.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.87B
+**Market Cap:** $228.46B
 Rank #2
 
 **Circulating Supply:** 120,682,058 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.7%
 
 **All-Time Low:** $0.43
-+443489.6%
++436969.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-9h ago
+10h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 3d ago
 
 ---
 
@@ -152,14 +152,6 @@ TL;DR and quick context - I work at DeFi Saver, and we built a completely free t
 
 ## Google News: "ethereum"
 
-**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
-
-Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
-
-CoinMarketCap • 2d ago
-
----
-
 **[ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)**
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
@@ -172,15 +164,23 @@ CoinDesk • 3d ago
 
 Bitcoin opened at $64,848.91 on Monday, August 10, 2026, 0.1% lower than Sunday's opening price. As of 8:43 a.m. ET this morning, bitcoin rose to $64,935.75. Ethereum opened at $1,908.93, down 0.3% from Sunday's opening price. The price of ethereum moved up to $1,913.13 this morning.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Current price of Ethereum for August 10, 2026](https://fortune.com/article/price-of-ethereum-08-10-2026/)**
+**[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-Fortune • 2h ago
+Yahoo Finance • 46m ago
+
+---
+
+**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
+
+Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -188,13 +188,15 @@ Fortune • 2h ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 19h ago
+24/7 Wall St. • 21h ago
 
 ---
 
-**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
+**[Current price of Ethereum for August 10, 2026](https://fortune.com/article/price-of-ethereum-08-10-2026/)**
 
-Seeking Alpha • 55m ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -202,7 +204,13 @@ Seeking Alpha • 55m ago
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
+
+---
+
+**[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -210,7 +218,7 @@ markets.businessinsider.com • 6h ago
 
 Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
 
 ---
 
@@ -222,17 +230,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
-
-The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
-
-The Block • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
+
+GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 332 • 💬 27 • ⏱️ 6:34 • 2h ago
+
+---
 
 **[Is the Ethereum Bull Market Already Here](https://www.youtube.com/watch?v=eKMWhhBxn9E)**
 
@@ -240,25 +250,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 278 • 💬 8 • ⏱️ 7:37 • 1d ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 552 • 💬 22 • ⏱️ 1:29 • 1d ago
-
----
-
-**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
-
-This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 649 • 💬 107 • ⏱️ 33:45 • 2d ago
+👁️ 6K • 👍 281 • 💬 8 • ⏱️ 7:37 • 1d ago
 
 ---
 
@@ -268,7 +260,35 @@ Jesse Pollak joins us on CLARITY week to break down how Base is leading in tradi
 
 📺 The Rollup
 
-👁️ 3K • 👍 118 • 💬 7 • ⏱️ 25:29 • 16h ago
+👁️ 3K • 👍 126 • 💬 11 • ⏱️ 25:29 • 17h ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 10 Aug  ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=JVOwOrhZRm0)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 2K • 👍 345 • 59m ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 565 • 💬 26 • ⏱️ 1:29 • 1d ago
+
+---
+
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 651 • 💬 107 • ⏱️ 33:45 • 2d ago
 
 ---
 
@@ -278,7 +298,7 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 240 • 💬 32 • ⏱️ 17:48 • 16h ago
+👁️ 6K • 👍 245 • 💬 76 • ⏱️ 17:48 • 17h ago
 
 ---
 
@@ -288,17 +308,7 @@ Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and
 
 📺 Lark Davis
 
-👁️ 4K • 👍 125 • 💬 12 • ⏱️ 1:08 • 2d ago
-
----
-
-**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
-
-I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
-
-📺 Jerry Banfield Crypto Reviews
-
-👁️ 434 • 👍 13 • 💬 2 • ⏱️ 0:43 • 1d ago
+👁️ 4K • 👍 126 • 💬 12 • ⏱️ 1:08 • 2d ago
 
 ---
 
@@ -308,7 +318,7 @@ MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis vi
 
 📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
-👁️ 45 • 👍 2 • 💬 2 • ⏱️ 4:43 • 1d ago
+👁️ 46 • 👍 2 • 💬 2 • ⏱️ 4:43 • 1d ago
 
 ---
 
@@ -318,17 +328,7 @@ Bitcoin, Ethereum & Shiba Inu ka August 2026 Market Analysis. Is video mein BTC 
 
 📺 TODAY CRYPTO
 
-👁️ 273 • 👍 49 • 💬 5 • ⏱️ 12:08 • 7h ago
-
----
-
-**[⚠ Long-term Bitcoin vs Ethereum Trends](https://www.youtube.com/watch?v=qr__9lLNXtE)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 67 • 💬 6 • ⏱️ 9:50 • 3d ago
+👁️ 483 • 👍 58 • 💬 8 • ⏱️ 12:08 • 9h ago
 
 ---
 
