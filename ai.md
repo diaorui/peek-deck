@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T21:12:54.796001+00:00'
+updated: '2026-08-10T22:07:04.667708+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 21:12 UTC  
+**Last Updated:** August 10, 2026 at 22:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 7h ago
 
 ---
 
@@ -55,7 +55,7 @@ OpenAI tightened security around its upcoming Astra model after tests suggested 
 
 Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
 
-4h ago
+5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Building a Go backend for orchestrating AI agents (multi-tenant, each agent has 
 
 Research is outpacing regulation to govern artificial-intelligence-designed biology
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/) • 5m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/scientists-are-using-ai-to-design-new-viruses-should-they-be/) • 59m ago
 
 ---
 
@@ -71,7 +71,7 @@ Research is outpacing regulation to govern artificial-intelligence-designed biol
 
 ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Research is outpacing regulation to govern artificial-intelligence-designed biol
 
 BURLINGTON, Vt., Aug. 10 – Following recent and repeated public reporting about artificial intelligence (AI) technology breaking outside of human control and creating potentially dangerous viruses, Sen. Bernie Sanders (I-Vt.) today urged America’s largest AI companies — Anthropic, Meta and OpenAI — to immediately pause their development of Artificial Intelligence. “Almost every day, there is […]
 
-🔗 [Senator Bernie Sanders](https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/) • 22m ago
+🔗 [Senator Bernie Sanders](https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/) • 1h ago
 
 ---
 
@@ -87,7 +87,7 @@ BURLINGTON, Vt., Aug. 10 – Following recent and repeated public reporting abou
 
 Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick context: I've spent the last year+ building something in the "AI hallucina
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused wo
 
 **[As Voters Grow Anxious Over A.I., Trump Shrugs Off the Concern](https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 5h ago
 
 The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -137,19 +137,19 @@ CNBC • 2h ago
 
 Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
 **[Nvidia and Wall Street partner on $500B AI financing](https://www.axios.com/2026/08/10/nvidia-financing-ai-goldman-sachs-blackrock)**
 
-Axios • 23m ago
+Axios • 1h ago
 
 ---
 
 **[AI-Dominated Leveraged ETFs Are Rattling Markets](https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/)**
 
-Bloomberg.com • 12m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 12m ago
 
 Osaic chief market strategist Phil Blancato analyzes the S&P 500 and the market’s reaction to earnings season on ‘Making Money.’
 
-Fox Business • 29m ago
+Fox Business • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fox Business • 29m ago
 
 CEO Mark Zuckerberg argues personal superintelligence must be broadly distributed, warning that concentrated AI power threatens individual empowerment.
 
-Fox Business • 7h ago
+Fox Business • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fox Business • 7h ago
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 16h ago
 
 Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.
 
-WIRED • 9h ago
+WIRED • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ WIRED • 9h ago
 
 More than 100,000 artifacts stolen by Nazis have never been returned to their owners. Researchers are turning to artificial intelligence to help.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 23h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 590 • 💬 337 • 15h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 590 • 💬 337 • 16h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -209,7 +209,7 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 230 • 💬 287 • 7h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 230 • 💬 287 • 8h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
@@ -217,7 +217,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 187 • 💬 81 • 17h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 187 • 💬 81 • 18h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -243,7 +243,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 122 • 💬 139 • 6h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 122 • 💬 139 • 7h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -286,23 +286,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "ai"
 
-**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
+**[an AI actually went rogue.](https://www.youtube.com/watch?v=3JH_Zd2mNRs)**
 
-Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
+Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot.org/lookingglass.
 
-📺 Telugu stories world 
+📺 Looking Glass Universe
 
-👁️ 89K • 👍 1K • 💬 3 • ⏱️ 0:14 • 18h ago
+👁️ 20K • 👍 1K • 💬 571 • ⏱️ 17:40 • 1d ago
 
 ---
 
-**[WTF Is Happening To SpaceX?](https://www.youtube.com/watch?v=JOdT__l2JW0)**
+**[The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin](https://www.youtube.com/watch?v=g7AxxkywiFI)**
 
-Jarvis, Invest my life savings in SpaceX NOW. The God Emperor Musk Demands it... ---- Music Used in Order of Appearance: ...
+Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to ...
 
-📺 MonkeyExplains
+📺 The Diary Of A CEO
 
-👁️ 205K • 👍 11K • 💬 1K • ⏱️ 14:00 • 1d ago
+👁️ 361K • 👍 9K • 💬 1K • ⏱️ 1:53:06 • 15h ago
 
 ---
 
@@ -312,17 +312,17 @@ OpenAI's first real AI device just leaked, and it's a donut. Built with legendar
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 213 • ⏱️ 12:36 • 1d ago
+👁️ 34K • 👍 1K • 💬 213 • ⏱️ 12:36 • 1d ago
 
 ---
 
-**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
+**[How the Pentagon&#39;s use of AI accelerated Trump&#39;s war in Iran](https://www.youtube.com/watch?v=qzwqvq0l1nU)**
 
-Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
+Simon Marks is joined by defence expert Peter Apps to discuss Trump's contradictory messaging on US munitions and the ...
 
-📺 Really American
+📺 LBC
 
-👁️ 107K • 👍 12K • 💬 755 • ⏱️ 13:15 • 2d ago
+👁️ 165K • 👍 2K • 💬 483 • ⏱️ 7:03 • 11h ago
 
 ---
 
@@ -336,13 +336,13 @@ Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
 
 ---
 
-**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
+**[I Asked Grok AI To Predict The 2028 Election Map... JAW-DROPPING Results!](https://www.youtube.com/watch?v=delneY9k5Lw)**
 
-Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
+Kalshi: Use the link below to earn a bonus credit up to $500!* 》http://kalshi.com/r/ET *Pollsmax: See all the polling data and maps ...
 
-📺 Cole Hastings
+📺 Election Time
 
-👁️ 230K • 👍 9K • 💬 1K • ⏱️ 15:09 • 1d ago
+👁️ 180K • 👍 4K • 💬 1K • ⏱️ 17:20 • 1d ago
 
 ---
 
@@ -352,35 +352,37 @@ Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most 
 
 📺 Jason Lowe on AI
 
-👁️ 2K • 👍 255 • 💬 8 • ⏱️ 2:37 • 8h ago
+👁️ 3K • 👍 324 • 💬 10 • ⏱️ 2:37 • 9h ago
 
 ---
 
-**[China Just Shocked Everyone With a 10 Trillion Parameter AI Model](https://www.youtube.com/watch?v=MEw7TrAUEPQ)**
+**[WTF Is Happening To SpaceX?](https://www.youtube.com/watch?v=JOdT__l2JW0)**
 
-China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta ...
+Jarvis, Invest my life savings in SpaceX NOW. The God Emperor Musk Demands it... ---- Music Used in Order of Appearance: ...
 
-📺 AI Revolution
+📺 MonkeyExplains
 
-👁️ 48K • 👍 1K • 💬 148 • ⏱️ 15:28 • 2d ago
-
----
-
-**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
-
-In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
-
-📺 Shawn Ryan Show
-
-👁️ 202K • 👍 4K • 💬 882 • ⏱️ 17:08 • 2d ago
+👁️ 218K • 👍 11K • 💬 1K • ⏱️ 14:00 • 1d ago
 
 ---
 
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
+**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
 
-📺 Mark Tilbury
+Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
 
-👁️ 608K • 👍 16K • 💬 865 • ⏱️ 0:26 • 2d ago
+📺 Cole Hastings
+
+👁️ 254K • 👍 10K • 💬 1K • ⏱️ 15:09 • 1d ago
+
+---
+
+**[Green + Yellow Powder Mixing 💚💛 → Lime Green | Satisfying AI ASMR#shorts](https://www.youtube.com/watch?v=Vn1Bn1h3zUU)**
+
+Watch green and yellow pigment powders being physically mixed together in an ultra-realistic AI-generated ASMR color-mixing ...
+
+📺 Colours Mixture 
+
+👁️ 388K • 👍 2K • 💬 3 • ⏱️ 0:11 • 21h ago
 
 ---
 
@@ -396,7 +398,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,399 • 10h ago
+⬇️ 47,468 • ❤️ 3,419 • 11h ago
 
 ---
 
@@ -408,17 +410,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 954,441 • ❤️ 3,035 • 9d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
-
-*Comfy Org*
-
-MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
-
-⬇️ 6,009,639 • ❤️ 1,134 • 1d ago
+⬇️ 954,441 • ❤️ 3,047 • 9d ago
 
 ---
 
@@ -430,7 +422,17 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 586 • 12h ago
+⬇️ 0 • ❤️ 657 • 13h ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
+
+*Comfy Org*
+
+MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
+
+⬇️ 6,009,639 • ❤️ 1,141 • 1d ago
 
 ---
 
@@ -442,7 +444,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 593 • 2d ago
+⬇️ 0 • ❤️ 596 • 2d ago
 
 ---
 
@@ -454,7 +456,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,510,032 • ❤️ 10,460 • 14d ago
+⬇️ 1,510,032 • ❤️ 10,466 • 14d ago
 
 ---
 
@@ -466,7 +468,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 89,680 • ❤️ 483 • 3d ago
+⬇️ 89,680 • ❤️ 487 • 3d ago
 
 ---
 
@@ -478,7 +480,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,853 • 17h ago
+⬇️ 2,439,083 • ❤️ 1,857 • 18h ago
 
 ---
 
@@ -490,7 +492,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 437 • 5d ago
+⬇️ 0 • ❤️ 439 • 5d ago
 
 ---
 
@@ -502,7 +504,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,344 • ❤️ 307 • 6d ago
+⬇️ 1,344 • ❤️ 309 • 6d ago
 
 ---
 
@@ -547,6 +549,20 @@ Real-time video editing requires low-latency causal generation with bounded comp
 ▲ 90 • 💬 1 • ⭐ 699 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
+**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
+
+*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
+
+🏢 Alibaba AMAP CV Lab
+
+We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
+
+▲ 309 • 💬 5 • ⭐ 2,161 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
 ---
 
@@ -602,32 +618,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://huggingface.co/papers/2607.19191)**
-
-*Fan Jiang, Zhaoxu Sun, Mengchao Wang et al. (41 authors)*
-
-🏢 Alibaba AMAP CV Lab
-
-We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
-
-▲ 309 • 💬 5 • ⭐ 2,059 • 20d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
-
----
-
-**[LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](https://huggingface.co/papers/2608.01964)**
-
-*Ziyu Ma, Hailang Huang, Shun Zou et al. (8 authors)*
-
-Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.
-
-▲ 164 • 💬 3 • ⭐ 529 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.01964) • [💻 code](https://github.com/AMAP-ML/LongHorizon-Harness) • [🔗 project](https://lh-harness.pages.dev)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -641,6 +631,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 177 • 💬 2 • ⭐ 77,292 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -651,7 +654,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 896 • 1d ago
+⭐ 8.1k • 🔱 899 • 1d ago
 
 ---
 
@@ -669,7 +672,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.9k • 🔱 504 • 2d ago
+⭐ 3.9k • 🔱 505 • 2d ago
 
 ---
 
@@ -679,7 +682,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 56s ago
 
 ---
 
@@ -689,7 +692,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 448 • 5h ago
+⭐ 2.5k • 🔱 452 • 6h ago
 
 ---
 
@@ -719,7 +722,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 155 • 4h ago
+⭐ 2.1k • 🔱 155 • 5h ago
 
 ---
 
@@ -739,7 +742,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 1h ago
+⭐ 2.0k • 🔱 252 • 8m ago
 
 ---
 

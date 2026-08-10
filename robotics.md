@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T21:12:54.812334+00:00'
+updated: '2026-08-10T22:07:04.683877+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 21:12 UTC  
+**Last Updated:** August 10, 2026 at 22:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-6h ago
+7h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-6h ago
+7h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-4h ago
+5h ago
 
 ---
 
@@ -130,7 +130,7 @@ Global News • 2d ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 7h ago
+Supply Chain Dive • 8h ago
 
 ---
 
@@ -146,7 +146,7 @@ politico.eu • 4d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 8h ago
+404 Media • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ Knightscope and other robotics companies are rethinking automated security follo
 
 The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -170,13 +170,13 @@ Interesting Engineering • 13h ago
 
 Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
 
-news.cgtn.com • 14h ago
+news.cgtn.com • 15h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 2d ago
+WSJ • 3d ago
 
 ---
 
@@ -192,13 +192,43 @@ IEEE Spectrum • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+
+📺 NBC News
+
+👁️ 34K • 👍 375 • 💬 420 • ⏱️ 1:36 • 5d ago
+
+---
+
 **[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
 
 For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
 
 📺 Broken Business Models
 
-👁️ 11K • 👍 465 • 💬 98 • ⏱️ 20:54 • 16h ago
+👁️ 12K • 👍 485 • 💬 104 • ⏱️ 20:54 • 17h ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 85K • 👍 1K • ⏱️ 17:44 • 4d ago
+
+---
+
+**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
+
+Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
+
+📺 BBC News
+
+👁️ 50K • 👍 652 • 💬 144 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -208,7 +238,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 53K • 👍 723 • 💬 352 • ⏱️ 28:01 • 3d ago
+👁️ 53K • 👍 726 • 💬 356 • ⏱️ 28:01 • 3d ago
 
 ---
 
@@ -216,27 +246,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Tech Talkies
 
-👁️ 41K • 👍 517 • 💬 7 • ⏱️ 0:13 • 4d ago
-
----
-
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 242K • 👍 640 • 💬 99 • ⏱️ 40:27 • 4d ago
-
----
-
-**[High School Robotics Team Builds Free $20K Wheelchair for 2-Year-Old Who Couldn’t Afford One❤️](https://www.youtube.com/watch?v=fhX9xBqo-LA)**
-
-A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost around $20000 — but his family's insurance ...
-
-📺 Dre-Daily-Trends
-
-👁️ 11K • 👍 282 • 💬 9 • ⏱️ 0:05 • 19h ago
+👁️ 41K • 👍 520 • 💬 7 • ⏱️ 0:13 • 4d ago
 
 ---
 
@@ -246,17 +256,15 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 161K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
+👁️ 162K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
 
 ---
 
-**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+📺 Tyrecordslol
 
-📺 Y Combinator
-
-👁️ 26K • 👍 745 • 💬 24 • ⏱️ 1:24:13 • 2d ago
+👁️ 2.9M • 👍 126K • 💬 8K • ⏱️ 0:58 • 3d ago
 
 ---
 
@@ -266,27 +274,17 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 50K • 👍 2K • 💬 208 • ⏱️ 9:02 • 2d ago
+👁️ 50K • 👍 2K • 💬 212 • ⏱️ 9:02 • 2d ago
 
 ---
 
-**[The Floating Robot Built to Not Be Creepy](https://www.youtube.com/watch?v=EYsNn6V1q8k)**
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
 
-They built a floating robot to fix the one thing that makes robots creepy. It's called Cuddle-Fish, from Keio University with the MIT ...
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
 
-📺 Yury AI
+📺 China Fact Chasers
 
-👁️ 381 • 👍 7 • ⏱️ 0:34 • 2h ago
-
----
-
-**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
-
-Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
-
-📺 WOLF Financial
-
-👁️ 38K • 👍 981 • 💬 241 • ⏱️ 48:23 • 2d ago
+👁️ 52K • 👍 3K • 💬 489 • ⏱️ 26:40 • 6d ago
 
 ---
 

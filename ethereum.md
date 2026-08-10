@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T21:12:54.809447+00:00'
+updated: '2026-08-10T22:07:04.680995+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 21:12 UTC  
+**Last Updated:** August 10, 2026 at 22:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.41B
+**Market Cap:** $226.10B
 Rank #2
 
 **Circulating Supply:** 120,682,058 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.1%
 
 **All-Time Low:** $0.43
-+433145.0%
++432673.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-16h ago
+17h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinMarketCap • 2d ago
 
 Sharplink Inc (SBET) reports record revenue growth from staking and yield strategies, while navigating significant unrealized losses and impairments in its expanding ETH treasury.
 
-Yahoo! Finance Canada • 11m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo! Finance Canada • 11m ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 7h ago
 
 Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -196,13 +196,13 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ Seeking Alpha • 11h ago
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 13h ago
 
 Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 18h ago
 
 Robinhood Chain generated $3.6M in fees during its July debut, capturing 38% of all Ethereum L2 revenue and raising questions about Layer-1
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -240,7 +240,17 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 7K • 👍 482 • 💬 69 • ⏱️ 6:34 • 9h ago
+👁️ 8K • 👍 527 • 💬 56 • ⏱️ 6:34 • 10h ago
+
+---
+
+**[BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d2toAGMH9SM)**
+
+BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 521 • 👍 47 • 💬 17 • ⏱️ 17:44 • 34m ago
 
 ---
 
@@ -250,7 +260,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 98 • 💬 16 • ⏱️ 54:27 • 10h ago
+👁️ 3K • 👍 104 • 💬 29 • ⏱️ 54:27 • 11h ago
 
 ---
 
@@ -260,7 +270,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 157 • 💬 4 • ⏱️ 6:31 • 8h ago
+👁️ 2K • 👍 166 • 💬 4 • ⏱️ 6:31 • 9h ago
 
 ---
 
@@ -268,7 +278,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 584 • 💬 26 • ⏱️ 1:29 • 1d ago
+👁️ 11K • 👍 594 • 💬 26 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -278,37 +288,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 284 • 💬 8 • ⏱️ 7:37 • 1d ago
-
----
-
-**[Jesse Pollak: Why Base Will Make Ethereum Win Long-Term (Consumer Grade Scale)](https://www.youtube.com/watch?v=E3skTXfZ6_Q)**
-
-Jesse Pollak joins us on CLARITY week to break down how Base is leading in trading, onchain finance, and payments. He also ...
-
-📺 The Rollup
-
-👁️ 4K • 👍 138 • 💬 11 • ⏱️ 25:29 • 23h ago
-
----
-
-**[Bitcoin To $70K This Week? My Live ETH, SOL And NEAR Trades Explained](https://www.youtube.com/watch?v=bUEfz3gOvFw)**
-
-Sheldon breaks down whether Bitcoin is ready for the next move toward $70K and what could be driving the market higher.
-
-📺 Crypto Banter
-
-👁️ 5K • 👍 367 • 💬 11 • ⏱️ 17:27 • 11h ago
-
----
-
-**[BITCOIN: IT&#39;S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9JIhxX94oBY)**
-
-BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 252 • 💬 83 • ⏱️ 17:48 • 1d ago
+👁️ 6K • 👍 285 • 💬 8 • ⏱️ 7:37 • 1d ago
 
 ---
 
@@ -318,7 +298,27 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 655 • 💬 118 • ⏱️ 33:45 • 2d ago
+👁️ 6K • 👍 656 • 💬 118 • ⏱️ 33:45 • 2d ago
+
+---
+
+**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
+
+I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 510 • 👍 15 • 💬 2 • ⏱️ 0:43 • 1d ago
+
+---
+
+**[Jesse Pollak: Why Base Will Make Ethereum Win Long-Term (Consumer Grade Scale)](https://www.youtube.com/watch?v=E3skTXfZ6_Q)**
+
+Jesse Pollak joins us on CLARITY week to break down how Base is leading in trading, onchain finance, and payments. He also ...
+
+📺 The Rollup
+
+👁️ 4K • 👍 141 • 💬 11 • ⏱️ 25:29 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Is this it? Subscribe to my Newsletter - https://theweeklyinsight.substack.com/ 
 
 📺 Cryptoinsightuk
 
-👁️ 475 • 👍 56 • 💬 7 • ⏱️ 28:25 • 9h ago
+👁️ 546 • 👍 63 • 💬 7 • ⏱️ 28:25 • 10h ago
 
 ---
 
