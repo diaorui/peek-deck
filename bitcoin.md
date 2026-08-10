@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T17:25:19.670555+00:00'
+updated: '2026-08-10T18:13:27.253324+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 17:25 UTC  
+**Last Updated:** August 10, 2026 at 18:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 **[We should congratulate the Bipcoiners as they managed to fire the miners, and so far have kept their chain free from SPAM blocks for 38 hours in a row](https://www.reddit.com/r/Bitcoin/comments/1vki4ho/we_should_congratulate_the_bipcoiners_as_they/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold under the “Coin Cold Card” branding (coincoldcard.com was printed on the card). The public address was printed on the front. The private key and its QR code were printed on the back under a scratch-off security layer. Before the funds disappeared, I had never removed that layer, scanned the private-key QR code, or imported the private key into a computer or phone. On May 21, 2016, the wallet was emptied without my authorization: Victim public address: 1Bwo42o7eDakFgJ6srxjZnh3y5gTHUehyA Unauthorized transaction: efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc Amount sent: 4.71064406 BTC (plus a 0.0002 BTC fee) First receiving address: 1BTeq9DricViuNAoBMBWqCSUmGWappfwvZ Transaction link: https://www.walletexplorer.com/txid/efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc What makes this unusual is that the card contained a private key generated and printed before it reached me. An intact scratch layer could prevent later viewing, but it could not prevent the generator, printer, manufacturer, employee, or another party in the production chain from retaining a copy beforehand. My current hypothesis is therefore a production/supply-chain compromise: the private key may have been copied, stored, or generated predictably before the card was sold. This is a hypothesis, not a proven accusation against any particular person or company. The on-chain investigation shows that about 29 hours later my output was pooled with 15 other inputs. Several later descendant branches converged on an address historically announced by the operator of PocketRocketsCasino as a cold wallet. A related WalletExplorer cluster later transferred 1,496.33401461 BTC into another large treasury-like cluster. This does NOT prove that PocketRocketsCasino, BetKing, or any labeled service stole my BTC: the funds had already been mixed. It is included only as an investigative lead. I am looking for other people who bought or received the same “Coin Cold Card” product, especially around 2013–2016. If you had one, please reply with only non-secret information: - approximate purchase year and country; - where it was purchased; - whether the scratch layer appeared intact; - whether the wallet was later emptied without authorization; - a public Bitcoin address or transaction ID, only if you are comfortable sharing it. Never post or send your seed phrase, private key, or an unredacted photo of the back of the card. I will not pay anyone offering “recovery” services, and nobody should contact victims asking for keys or advance fees. I still have the physical card, photographs, the original transaction data, and a structured evidence report. I am trying to determine whether this was an isolated incident or part of a larger pattern affecting other cards.
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold unde
 
 Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
 
-2h ago
+3h ago
 
 ---
 
@@ -145,7 +145,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer.com/ This one do not even mentions that is owned by Coldcard or a Hardware Wallet vendor. https://bitcoinsecurity.org https://bitcoinsecurity.org/about This second one is more fucked up as for public in general looking for bitcoin self custody and security was apparently not related in any way with a Harware Wallet vendor. The footer and about show just a "Maintained by NVK." who knows how many users took that website as a "bitcoin security guide", when that website does not even disclose material connection as nkv Rodolfo Novak and a CEO of Coldcard Hardware Wallet, which interestingly enough is the only wallet that has all checklist as green and the only one recommended through the guides.... This goes way beyond the bug negligence that caused +100M losses and affected millions of Coldcard users, he has been doing very shady and misleading marketing....but who knows, that is for Canadian regulators to decide...
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer
 
 ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -171,13 +171,13 @@ CoinDesk • 1d ago
 
 **[Bitcoin Trading Takes Large Share of July Crypto Volume -- Market Talk](https://www.moomoo.com/news/post/74437103/bitcoin-trading-takes-large-share-of-july-crypto-volume-market)**
 
-Moomoo • 10m ago
+Moomoo • 58m ago
 
 ---
 
 **[Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile](https://www.bloomberg.com/news/articles/2026-08-10/strategy-sells-more-bitcoin-stock-to-bolster-cash-stockpile)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ finance.yahoo.com • 1h ago
 
 **[Bitcoin Fund Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg.com • 8h ago
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-fortune.com • 1h ago
+fortune.com • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ Forbes • 1d ago
 
 H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 5 • 💬 1 • 1h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 5 • 💬 1 • 2h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -326,7 +326,7 @@ Coinbase Chief Policy Officer Faryar Shirzad joins 'Mornings with Maria' to disc
 
 📺 Fox Business Clips
 
-👁️ 2K • 👍 102 • 💬 63 • ⏱️ 7:36 • 2h ago
+👁️ 2K • 👍 102 • 💬 63 • ⏱️ 7:36 • 3h ago
 
 ---
 
@@ -346,7 +346,7 @@ Sheldon breaks down whether Bitcoin is ready for the next move toward $70K and w
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 348 • 💬 10 • ⏱️ 17:27 • 7h ago
+👁️ 5K • 👍 348 • 💬 10 • ⏱️ 17:27 • 8h ago
 
 ---
 
@@ -356,7 +356,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 2K • 👍 140 • 💬 7 • ⏱️ 2:25 • 1h ago
+👁️ 2K • 👍 140 • 💬 7 • ⏱️ 2:25 • 2h ago
 
 ---
 
@@ -366,7 +366,7 @@ DISGUSTING DESTRUCTION OF CLARITY ACT AND CRYPTO BEING CELEBRATED NOW! In this e
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 504 • 💬 87 • ⏱️ 18:32 • 23h ago
+👁️ 8K • 👍 504 • 💬 87 • ⏱️ 18:32 • 1d ago
 
 ---
 
@@ -416,7 +416,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 400 • 💬 216 • ⏱️ 13:48 • 18h ago
+👁️ 6K • 👍 400 • 💬 216 • ⏱️ 13:48 • 19h ago
 
 ---
 
