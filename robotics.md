@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T19:30:52.829984+00:00'
+updated: '2026-08-10T20:10:51.759169+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 19:30 UTC  
+**Last Updated:** August 10, 2026 at 20:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-4h ago
+5h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-4h ago
+5h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-2h ago
+3h ago
 
 ---
 
@@ -130,13 +130,13 @@ The Information • 3d ago
 
 The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 16h ago
 
 Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 11h ago
 
 Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
 
-news.cgtn.com • 12h ago
+news.cgtn.com • 13h ago
 
 ---
 
@@ -160,7 +160,7 @@ news.cgtn.com • 12h ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 5h ago
+Supply Chain Dive • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ politico.eu • 4d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 6h ago
+404 Media • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost a
 
 📺 Dre-Daily-Trends
 
-👁️ 11K • 👍 282 • 💬 9 • ⏱️ 0:05 • 17h ago
+👁️ 11K • 👍 282 • 💬 9 • ⏱️ 0:05 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ They built a floating robot to fix the one thing that makes robots creepy. It's 
 
 📺 Yury AI
 
-👁️ 381 • 👍 7 • ⏱️ 0:34 • 30m ago
+👁️ 381 • 👍 7 • ⏱️ 0:34 • 1h ago
 
 ---
 

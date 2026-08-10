@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T19:30:52.819856+00:00'
+updated: '2026-08-10T20:10:51.751093+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 19:30 UTC  
+**Last Updated:** August 10, 2026 at 20:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Luke Dashjr is insane](https://www.reddit.com/r/Bitcoin/comments/1vkindj/luke_dashjr_is_insane/)**
+**[I feel defeated](https://www.reddit.com/r/Bitcoin/comments/1vkn70y/i_feel_defeated/)**
 
-The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
+After 4 years of savings, that I thought would be the way to buy a house in the future , all gone along with many others like me. I feel defeated not angry not sad just defeated....numb... I do not post to gather any sympathy, to be honest I don't know why I am posting, something I have never done before maybe it's somewhere I can vent out this pressure I don't know I haven't slept more than a few hours since it happened. 0.45 btc is not much for a lot! but it was my everything my own treasure my own accomplishment. I was so happy that half a btc was almost in reach. Life is not fair, wishing you all happy lives ahead with secure wallets and hope you never experience this feeling.
 
-7h ago
+5h ago
+
+---
+
+**[Bitcoin is 17 years old. Are we really still early?](https://www.reddit.com/r/Bitcoin/comments/1vkmivy/bitcoin_is_17_years_old_are_we_really_still_early/)**
+
+Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
+
+5h ago
 
 ---
 
@@ -99,53 +107,47 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 ---
 
+**[Luke Dashjr is insane](https://www.reddit.com/r/Bitcoin/comments/1vkindj/luke_dashjr_is_insane/)**
+
+The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
+
+8h ago
+
+---
+
+**[Completed 1 BTC!!](https://www.reddit.com/r/Bitcoin/comments/1vkn23g/completed_1_btc/)**
+
+After rigorous efforts spanning a long time, the subject matter happened & I'll HODL for decades. It's funny I actually completed it on the day of coldcard hack :) I live in a developing country: own a good house in city's prime area & a decent car. I've a nice job in a top 10 crypto exchange: now I'll be saving a few bucks for my marriage & traveling afterwards. What are suggestions? Should I put future money from my job to Nasdaq-100? This would be the funds that I could withdraw if required: BTC is untouchable.
+
+5h ago
+
+---
+
+**[Bitcoin’s 500-Day Rule Has History on Its Side - Will it Last?](https://www.reddit.com/r/Bitcoin/comments/1vktuas/bitcoins_500day_rule_has_history_on_its_side_will/)**
+
+🔗 [investing.com](https://www.investing.com/analysis/bitcoins-500day-rule-has-history-on-its-side--will-it-last-200685310) • 1h ago
+
+---
+
 **[I never scratched the private key, but 4.71 BTC vanished — did anyone else buy a “Coin Cold Card”?](https://www.reddit.com/r/Bitcoin/comments/1vk54gd/i_never_scratched_the_private_key_but_471_btc/)**
 
 In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold under the “Coin Cold Card” branding (coincoldcard.com was printed on the card). The public address was printed on the front. The private key and its QR code were printed on the back under a scratch-off security layer. Before the funds disappeared, I had never removed that layer, scanned the private-key QR code, or imported the private key into a computer or phone. On May 21, 2016, the wallet was emptied without my authorization: Victim public address: 1Bwo42o7eDakFgJ6srxjZnh3y5gTHUehyA Unauthorized transaction: efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc Amount sent: 4.71064406 BTC (plus a 0.0002 BTC fee) First receiving address: 1BTeq9DricViuNAoBMBWqCSUmGWappfwvZ Transaction link: https://www.walletexplorer.com/txid/efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc What makes this unusual is that the card contained a private key generated and printed before it reached me. An intact scratch layer could prevent later viewing, but it could not prevent the generator, printer, manufacturer, employee, or another party in the production chain from retaining a copy beforehand. My current hypothesis is therefore a production/supply-chain compromise: the private key may have been copied, stored, or generated predictably before the card was sold. This is a hypothesis, not a proven accusation against any particular person or company. The on-chain investigation shows that about 29 hours later my output was pooled with 15 other inputs. Several later descendant branches converged on an address historically announced by the operator of PocketRocketsCasino as a cold wallet. A related WalletExplorer cluster later transferred 1,496.33401461 BTC into another large treasury-like cluster. This does NOT prove that PocketRocketsCasino, BetKing, or any labeled service stole my BTC: the funds had already been mixed. It is included only as an investigative lead. I am looking for other people who bought or received the same “Coin Cold Card” product, especially around 2013–2016. If you had one, please reply with only non-secret information: - approximate purchase year and country; - where it was purchased; - whether the scratch layer appeared intact; - whether the wallet was later emptied without authorization; - a public Bitcoin address or transaction ID, only if you are comfortable sharing it. Never post or send your seed phrase, private key, or an unredacted photo of the back of the card. I will not pay anyone offering “recovery” services, and nobody should contact victims asking for keys or advance fees. I still have the physical card, photographs, the original transaction data, and a structured evidence report. I am trying to determine whether this was an isolated incident or part of a larger pattern affecting other cards.
 
-19h ago
+20h ago
 
 ---
 
-**[Bitcoin is 17 years old. Are we really still early?](https://www.reddit.com/r/Bitcoin/comments/1vkmivy/bitcoin_is_17_years_old_are_we_really_still_early/)**
+**[What's the point of running a node?](https://www.reddit.com/r/Bitcoin/comments/1vklt7k/whats_the_point_of_running_a_node/)**
 
-Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
+I've been running a bitcoin node out of my basement for a few years. At the beginning of this year, I upgraded the 1 TB drive to 2 TB when I realized the size had gotten over 900 GB. I'm not anything special. I don't have a wallet on there. I had just bought into the idea that running a node was an illustration of support for the network and was a contribution to decentralization. I'm definitely a 'non-economic' node. I've been observing the discourse over the past couple months with the BIP-110 debate and the conclusion / realization that pleb node runners have no influence on the network. I understand better the importance of PoW in making change and even having vote. So I genuinely ask (and not looking to start another BIP-110 debate) - what's the point of running a node at home? If it's not to feel good about myself because I validated my own transactions, aren't I just offering personal storage space out there for companies that want to store shit on chain? The monetary piece, that I care about, goes on without me and there are plenty of big, "economic" players to handle it.
 
-4h ago
+6h ago
 
 ---
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
 1d ago
-
----
-
-**[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
-
-1d ago
-
----
-
-**[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
-
-1d ago
-
----
-
-**[End of my journey. Please learn from me.](https://www.reddit.com/r/Bitcoin/comments/1vjq5uk/end_of_my_journey_please_learn_from_me/)**
-
-I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
-
-1d ago
-
----
-
-**[More on the Coldcard fraud: deceptive practice of Rodolfo Novak used to promote his product.](https://www.reddit.com/r/Bitcoin/comments/1vk6iiu/more_on_the_coldcard_fraud_deceptive_practice_of/)**
-
-Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer.com/ This one do not even mentions that is owned by Coldcard or a Hardware Wallet vendor. https://bitcoinsecurity.org https://bitcoinsecurity.org/about This second one is more fucked up as for public in general looking for bitcoin self custody and security was apparently not related in any way with a Harware Wallet vendor. The footer and about show just a "Maintained by NVK." who knows how many users took that website as a "bitcoin security guide", when that website does not even disclose material connection as nkv Rodolfo Novak and a CEO of Coldcard Hardware Wallet, which interestingly enough is the only wallet that has all checklist as green and the only one recommended through the guides.... This goes way beyond the bug negligence that caused +100M losses and affected millions of Coldcard users, he has been doing very shady and misleading marketing....but who knows, that is for Canadian regulators to decide...
-
-18h ago
 
 ---
 
@@ -157,7 +159,7 @@ Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -165,7 +167,7 @@ Fortune • 3h ago
 
 ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
@@ -173,13 +175,13 @@ Fox Business • 4h ago
 
 A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.
 
-Yahoo Finance • 17m ago
+Yahoo Finance • 57m ago
 
 ---
 
 **[Watch ETFs Offer 'Trusted Vehicle' for Bitcoin: Mitchnick](https://www.bloomberg.com/news/videos/2026-08-10/etfs-offer-trusted-vehicle-for-bitcoin-mitchnick-video)**
 
-bloomberg.com • 19h ago
+bloomberg.com • 20h ago
 
 ---
 
@@ -187,7 +189,7 @@ bloomberg.com • 19h ago
 
 The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,13 +197,13 @@ CoinDesk • 2h ago
 
 H100 paid for the deal with 790.5 million newly issued shares, and the company is now within striking distance of big BTC treasury players.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
 **[Bitcoin takes a hit after Strategy sells for a 4th straight week](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-soft-july-payrolls-fed-hike-trump-iran-war-nuclear-deal/card/bitcoin-takes-a-hit-after-strategy-sells-for-a-4th-straight-week-AlbzdhKbBdQD22vLpLzA?mod=mw_robin)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -262,7 +264,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 6 • 💬 1 • 3h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 6 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -324,7 +326,7 @@ Coinbase Chief Policy Officer Faryar Shirzad joins 'Mornings with Maria' to disc
 
 📺 Fox Business Clips
 
-👁️ 6K • 👍 217 • 💬 105 • ⏱️ 7:36 • 4h ago
+👁️ 6K • 👍 217 • 💬 105 • ⏱️ 7:36 • 5h ago
 
 ---
 
@@ -344,7 +346,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 186 • 💬 35 • ⏱️ 12:53 • 4h ago
+👁️ 3K • 👍 186 • 💬 35 • ⏱️ 12:53 • 5h ago
 
 ---
 
@@ -364,7 +366,7 @@ Bitcoin #Crypto #finance Bitcoin holds above $65K as investors return to ETFs ah
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 626 • 💬 221 • ⏱️ 1:03:03 • 3h ago
+👁️ 10K • 👍 626 • 💬 221 • ⏱️ 1:03:03 • 4h ago
 
 ---
 
@@ -374,7 +376,7 @@ Sheldon breaks down whether Bitcoin is ready for the next move toward $70K and w
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 367 • 💬 11 • ⏱️ 17:27 • 9h ago
+👁️ 5K • 👍 367 • 💬 11 • ⏱️ 17:27 • 10h ago
 
 ---
 
@@ -414,7 +416,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 411 • 💬 277 • ⏱️ 13:48 • 20h ago
+👁️ 6K • 👍 411 • 💬 277 • ⏱️ 13:48 • 21h ago
 
 ---
 
