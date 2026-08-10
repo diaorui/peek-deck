@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T12:08:18.663537+00:00'
+updated: '2026-08-10T13:55:41.307234+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 12:08 UTC  
+**Last Updated:** August 10, 2026 at 13:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 1d ago
 
 ---
 
@@ -49,43 +49,7 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 97.7 on Online Mine 2Web 83.2 on internal 68.6 on WebTail Bench Best across board and at 2.37 dollars per million token 90% Than GPT5.5 ! how they have trained this. They are using an undisclosed base model and using SFT to accelerate time to market, combined with asynchronous reinforcement learning, especially leveraging the GRPO algorithm. If you don't know, this is similar to how DeepMind historically has trained their AlphaGo Even though they are talking about 1-3 sec latency the huge problem in computer use agents are page rendering and state resolution and there own data showcases it adds roughly 10 Secs so i am skeptical there but I don't think latency matter always and I am bullish on CUA I spend most of the time scrolling the web for silly things, and my mind was blown by the demo videosss Not associated with Any labs. I wish I was :)
 
-2h ago
-
----
-
-**[It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.](https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/)**
-
 4h ago
-
----
-
-**[Domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code) — what are you seeing?](https://www.reddit.com/r/artificial/comments/1vk9f56/domaingrounded_coding_agents_vs_generalpurpose/)**
-
-Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically. The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. Haven't independently verified that number, but the qualitative difference (fewer hallucinated column names, less time re-explaining table relationships) tracks with what I've seen. Anyone using other domain-specific agents (not just data — legal, infra, whatever) and finding the same trade-off? Where's the line between "grounding helps enough to be worth the lock-in" and "just use a general agent with good context"?
-
-8h ago
-
----
-
-**[how do you all decide which of your AI agents actually get access to real stuff?](https://www.reddit.com/r/artificial/comments/1vkfrha/how_do_you_all_decide_which_of_your_ai_agents/)**
-
-ok so I have gone back and forth on this like three times now and still don't think I've actually landed on an answer. I have got a couple agents running for real, one drafts replies to stuff, one pokes through logs and flags weird things. those are fine, I don't really care if they mess up a little. but then I wanted to hook one up to actually touch billing data and immediately second-guessed myself, and honestly couldn't point to a real reason beyond "idk it feels risky." saw some stat floating around this week that basically everyone's fine letting agents act in prod now, like that debate is over, but almost nobody actually trusts an agent to close out an incident completely by itself without a human somewhere in the loop. that's basically me. I'm fine with agents doing stuff, I just don't have an actual process for deciding when it's ok to let one run vs when I need to be the one clicking approve. feels like this should be a solved problem by now but everyone I talk to seems to be making it up as they go too. how are you actually deciding this, is there a real process behind it or is it also just vibes
-
-2h ago
-
----
-
-**[Your Agents Are Code. Stop Governing Them Like Documents.](https://www.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/)**
-
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 4h ago
-
----
-
-**[What has crypto actually proven if the agent also supplied the premises?](https://www.reddit.com/r/artificial/comments/1vkheli/what_has_crypto_actually_proven_if_the_agent_also/)**
-
-(disclosure: i maintain the open-source project this came up in. link at the end. the question stands on its own.) we hit a trust-boundary problem while building a deterministic authorization layer for agents, and i think it generalizes. an engine can strongly protect its verdict: signed authorization intent binding state-hash binding replay protection trusted evaluation time all solid. but if the same compromised agent runtime can influence both the proposed action AND some of the premises used to evaluate it, what has crypto actually proven? only this: the signed decision is consistent with the supplied inputs not this: the supplied inputs came from authoritative sources examples of premises a runtime might quietly supply: agent_id tool identity execution depth tenant context a state object the guard later hashes the signature still verifies. the hash still matches. the decision is still deterministic. but the premises may be self-reported. two things i'd genuinely like challenged: which evaluator premises actually need independent provenance, and which can safely remain proposer-declared? for state, is an authoritative guard-side read enough, or should the state provider eventually emit a signed/versioned attestation? most interested in confused-deputy paths, TOCTOU, and cases where a supposedly "trusted" premise can still be bent by the runtime.
-
-1h ago
 
 ---
 
@@ -93,7 +57,15 @@ ok so I have gone back and forth on this like three times now and still don't th
 
 Building an agent that works in a controlled demo is one thing; keeping it reliable in production is another. For those who have actually deployed AI agents, what has caused the most problems? Tool/API reliability? Context management? Memory? Authentication and permissions? Evaluation? Hallucinations? Cost and latency? Observability? Human-in-the-loop workflows? Integration with legacy systems? I'm especially interested in what changed between the prototype and production. What problem did you underestimate initially, and how did you eventually solve it? Real implementation experiences would be much more useful than theoretical answers.
 
-1h ago
+3h ago
+
+---
+
+**[Domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code) — what are you seeing?](https://www.reddit.com/r/artificial/comments/1vk9f56/domaingrounded_coding_agents_vs_generalpurpose/)**
+
+Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically. The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. Haven't independently verified that number, but the qualitative difference (fewer hallucinated column names, less time re-explaining table relationships) tracks with what I've seen. Anyone using other domain-specific agents (not just data — legal, infra, whatever) and finding the same trade-off? Where's the line between "grounding helps enough to be worth the lock-in" and "just use a general agent with good context"?
+
+10h ago
 
 ---
 
@@ -101,15 +73,43 @@ Building an agent that works in a controlled demo is one thing; keeping it relia
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-1h ago
+3h ago
 
 ---
 
-**[Update on Research PSCLS](https://www.reddit.com/r/artificial/comments/1vkclr4/update_on_research_pscls/)**
+**[Jensen Huang says every company will have AI agents. Are companies ready?](https://www.reddit.com/r/artificial/comments/1vkkorn/jensen_huang_says_every_company_will_have_ai/)**
 
-I’m building Leo / PSCLS — an experimental system that learns relationships between sequences and updates its internal representations from experience. Here’s how its actual output changed as it saw more stories. 1K stories “Once upon a time to the store and said that there was a she bor and he lorander thing they were…” Basically nonsense. 3K stories “Once upon a time to the store and said that there was a she parted to see had a bided her tod and be bound aster…” Still broken, but the output is becoming more structured. 40K stories “Once upon a time, there was a big started to play with the should some too her mom and had a said, it was time. They happy and went to the park…” Now we’re getting recognizable story-like patterns, characters, actions and dialogue — although the grammar is still heavily broken. And the measured results improved too: 1K → 3K → 40K BpB: 2.678 → 2.641 → 2.334 Accuracy: 52.37% → 53.62% → 58.11% This is still an early experiment, not AGI. But watching the same system change its outputs as it learns more experience is pretty interesting. Next target: 250K → 500K → 1M stories.
+Jensen Huang has been talking about a future where AI agents work alongside humans. But if companies eventually have hundreds or thousands of agents, the challenge becomes more than just building them. Who manages them? How do they communicate? What can they access? And who handles mistakes? At that point, AI starts looking less like another software tool and more like a new layer of the workforce. Are companies ready for that shift?
+
+34m ago
+
+---
+
+**[What has crypto actually proven if the agent also supplied the premises?](https://www.reddit.com/r/artificial/comments/1vkheli/what_has_crypto_actually_proven_if_the_agent_also/)**
+
+(disclosure: i maintain the open-source project this came up in. link at the end. the question stands on its own.) we hit a trust-boundary problem while building a deterministic authorization layer for agents, and i think it generalizes. an engine can strongly protect its verdict: signed authorization intent binding state-hash binding replay protection trusted evaluation time all solid. but if the same compromised agent runtime can influence both the proposed action AND some of the premises used to evaluate it, what has crypto actually proven? only this: the signed decision is consistent with the supplied inputs not this: the supplied inputs came from authoritative sources examples of premises a runtime might quietly supply: agent_id tool identity execution depth tenant context a state object the guard later hashes the signature still verifies. the hash still matches. the decision is still deterministic. but the premises may be self-reported. two things i'd genuinely like challenged: which evaluator premises actually need independent provenance, and which can safely remain proposer-declared? for state, is an authoritative guard-side read enough, or should the state provider eventually emit a signed/versioned attestation? most interested in confused-deputy paths, TOCTOU, and cases where a supposedly "trusted" premise can still be bent by the runtime.
+
+3h ago
+
+---
+
+**[It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.](https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/)**
 
 6h ago
+
+---
+
+**[Your Agents Are Code. Stop Governing Them Like Documents.](https://www.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/)**
+
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 6h ago
+
+---
+
+**[Filtering out “[LLM] sucks”](https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/)**
+
+I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?
+
+17h ago
 
 ---
 
@@ -117,21 +117,11 @@ I’m building Leo / PSCLS — an experimental system that learns relationships 
 
 ## Google News: "ai"
 
-**[Five Things to Know About Mark Zuckerberg’s Big AI Essay](https://www.wsj.com/tech/ai/five-things-to-know-about-mark-zuckerbergs-big-ai-essay-4d3b5de1)**
+**[Zuckerberg reveals new Meta AI model as US faces AI arms race](https://www.foxbusiness.com/video/6403152116112)**
 
-WSJ • 2h ago
+Meta CEO Mark Zuckerberg reveals the new Muse open-source AI model. Panelists on ‘Mornings with Maria’ discuss the economic benefits of data centers and warn of falling behind China in the AI arms race.
 
----
-
-**[Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model](https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html)**
-
-The New York Times • 2h ago
-
----
-
-**[Mark Zuckerberg takes on the AI doomers in 6,500-word essay](https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b)**
-
-MarketWatch • 1h ago
+Fox Business • 1h ago
 
 ---
 
@@ -139,53 +129,67 @@ MarketWatch • 1h ago
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
-**[Peer review is overwhelmed—can it survive in the AI era?](https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/)**
+**[You Can Now Control And Troubleshoot Your SwitchBot Devices Using AI](https://www.forbes.com/sites/paullamkin/2026/08/10/you-can-now-control-and-troubleshoot-your-switchbot-devices-using-ai/)**
 
-As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.
+SwitchBot updates its app with Kata, an LLM-powered AI assistant that builds automations, troubleshoots devices, and interprets natural language commands
 
-Ars Technica • 1h ago
+Forbes • 16m ago
 
 ---
 
-**[Booz Allen CEO on Cyber Risks and the AI Arms Race](https://www.cnbc.com/video/2026/08/10/booz-allen-ceo-on-cyber-risks-and-the-ai-arms-race.html)**
+**[AI boom is tapping out the US power grid, Hyliion CEO warns](https://www.foxbusiness.com/video/6403157330112)**
 
-Morgan Brennan speaks exclusively with Booz Allen CEO Horacio Rozanski about identifying and containing growing cyber risks, and factoring in AI policy & regulation into a company's business model.
+Hyliion CEO Thomas Healy warns that the US power grid is tapped out as the artificial intelligence boom creates massive electricity demand. Healy explains why data centers are shifting to on-site power generation.
+
+Fox Business • 17m ago
+
+---
+
+**[Intel plans $15 billion stock offering as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
+
+Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
 CNBC • 1h ago
 
 ---
 
-**[Airbnb CEO: Why big companies are failing at AI](https://finance.yahoo.com/video/airbnb-ceo-why-big-companies-110000599.html)**
+**[JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-strategists-raise-p-500-092820794.html)**
 
-Airbnb CEO Brian Chesky tells Yahoo Finance Executive Editor Brian Sozzi his goal of becoming the most "AI-pilled CEO in the valley," and how forcing his executive team to overcome their fear of AI agents has completely transformed the company's workflow and shipping speed.
+(Bloomberg) -- JPMorgan Chase & Co. strategists raised their S&P 500 Index forecast for a second time in two months, citing strong corporate earnings and the payoff from massive artificial intelligence spending. Most Read from BloombergIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’China Unleashes $28 Trillion Capital Markets to Challenge US in AIStocks Hold Near Record Highs, Oil Ticks Higher: Markets WrapTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Says
 
-Yahoo Finance • 1h ago
-
----
-
-**[World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand](https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html)**
-
-TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.
-
-CNBC • 1h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong](https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters)**
+**[Democrats AI strategy is MIA](https://www.axios.com/2026/08/10/democrats-ai-strategy)**
 
-Bloomberg.com • 6h ago
+axios.com • 1h ago
 
 ---
 
-**[TSMC monthly sales jump 45% as AI chip demand stays strong (TSM:NYSE)](https://seekingalpha.com/news/4629700-tsmc-monthly-sales-jump-45-as-ai-chip-demand-stays-strong)**
+**[The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways)**
 
-TSMC reports 45% jump in July sales, showing strong AI chip demand.
+When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.
 
-Seeking Alpha • 5h ago
+NPR • 4h ago
+
+---
+
+**[Microsoft’s Homegrown AI Chip Effort Shows Signs of Life After Slow Start](https://www.theinformation.com/articles/microsofts-homegrown-ai-chip-effort-shows-signs-life-slow-start)**
+
+Microsoft is planning to significantly increase production of its internally designed next-generation AI chips next year in hopes of persuading big cloud customers like Anthropic to use them, according to two people with direct knowledge of the plans. That’s despite slow uptake of the current ...
+
+theinformation.com • 55m ago
+
+---
+
+**[China Unleashes $28 Trillion Capital Markets to Challenge US in AI](https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -201,15 +205,7 @@ The policy contrasts sharply with Oracle's internal practices. Co-founder Larry 
 
 Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
 
-⬆️ 534 • 💬 379 • 2d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-
----
-
-**[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
-
-AI coding tools deli
-
-⬆️ 311 • 💬 264 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 534 • 💬 380 • 2d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 
 ---
 
@@ -217,15 +213,15 @@ AI coding tools deli
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 255 • 💬 153 • 6h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 356 • 💬 219 • 7h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
-**[AI psychosis is the new leadership blind spot](https://news.ycombinator.com/item?id=49210077)**
+**[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
 
-Here's how to spot the disease—and what to do about it.
+AI coding tools deli
 
-⬆️ 174 • 💬 106 • 2d ago • [Fast Company](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+⬆️ 312 • 💬 265 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -237,13 +233,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 #AI #NoAI #NoLLM
 
-⬆️ 170 • 💬 113 • 1d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 171 • 💬 113 • 1d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 129 • 💬 85 • 16h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 135 • 💬 89 • 18h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -251,7 +247,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 105 • 💬 35 • 8h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 135 • 💬 54 • 10h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -259,7 +255,15 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 98 • 💬 69 • 1d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 99 • 💬 69 • 1d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+
+---
+
+**[Over 181,000 AI meeting recordings left wide open in note taking app](https://news.ycombinator.com/item?id=49242739)**
+
+How a missing Firestore security rule on tl;dv exposed 181,874 meetings from 84,312 users across 35,003 domains, including live calls I could join uninvited, and how six months of disclosure got me nothing but seen receipts.
+
+⬆️ 87 • 💬 28 • 1h ago • [bobdahacker.com](https://bobdahacker.com/blog/tldv-hack)
 
 ---
 
@@ -270,7 +274,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 81 • 💬 19 • 2d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+⬆️ 81 • 💬 21 • 2d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -278,7 +282,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 73 • 💬 92 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 74 • 💬 93 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -292,7 +296,7 @@ Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot
 
 📺 Looking Glass Universe
 
-👁️ 15K • 👍 1K • 💬 486 • ⏱️ 17:40 • 23h ago
+👁️ 15K • 👍 1K • 💬 486 • ⏱️ 17:40 • 1d ago
 
 ---
 
@@ -312,7 +316,7 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 32K • 👍 543 • 💬 2 • ⏱️ 0:14 • 9h ago
+👁️ 32K • 👍 543 • 💬 2 • ⏱️ 0:14 • 11h ago
 
 ---
 
@@ -352,7 +356,7 @@ The AI side of this video was made here: https://higgsfield.ai/s/seedance-2-5-er
 
 📺 ErikDoesVFX
 
-👁️ 948K • 👍 22K • 💬 4K • ⏱️ 16:52 • 2d ago
+👁️ 948K • 👍 22K • 💬 4K • ⏱️ 16:52 • 3d ago
 
 ---
 
@@ -398,7 +402,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,346 • 1h ago
+⬇️ 47,468 • ❤️ 3,346 • 3h ago
 
 ---
 
@@ -480,7 +484,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,835 • 8h ago
+⬇️ 2,439,083 • ❤️ 1,835 • 10h ago
 
 ---
 
@@ -681,7 +685,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -691,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.4k • 🔱 439 • 12h ago
+⭐ 2.4k • 🔱 439 • 14h ago
 
 ---
 
@@ -701,7 +705,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.2k • 🔱 173 • 6d ago
+⭐ 2.2k • 🔱 173 • 7d ago
 
 ---
 
@@ -721,7 +725,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 152 • 6m ago
+⭐ 2.1k • 🔱 152 • 1h ago
 
 ---
 
@@ -741,7 +745,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 2m ago
+⭐ 2.0k • 🔱 252 • 1h ago
 
 ---
 

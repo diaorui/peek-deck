@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T12:08:18.685862+00:00'
+updated: '2026-08-10T13:55:41.323639+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 12:08 UTC  
+**Last Updated:** August 10, 2026 at 13:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Title. I’m not a robotics guy - at all - but it seems like this could be important for someone with one of these robots? I plan to hang it up as art in my home unless there is some aimless robot somewhere depending on it for calibration. Any info would be helpful. Thanks! It was $6 for anyone curious. I’ll probably end up using it to barter after the AI apocalypse.
 
-21h ago
+23h ago
 
 ---
 
@@ -56,7 +56,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
 
-5h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur
 
 Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-5h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=53Z753-tVO4&feature=youtu.be) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=53Z753-tVO4&feature=youtu.be) • 1d ago
 
 ---
 
@@ -118,25 +118,31 @@ Business Insider • 1d ago
 
 ---
 
-**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
+**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
 
-On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
+Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
 
-theinformation.com • 2d ago
-
----
-
-**[What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
-
-Reuters • 9h ago
+Global News • 2d ago
 
 ---
 
-**[Europe on front foot in race to develop physical AI and robotics: VC](https://www.cnbc.com/video/2026/08/10/europe-on-front-foot-in-race-to-develop-physical-ai-and-robotics-vc.html)**
+**[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Fabian Gruner, partner at HV Capital, tells CNBC there is one sector that could give Europe significant leverage as it fights to remain competitive: cognitive robotics. Gruner also discusses how he sees physical AI being deployed over the coming years, and gives his take on how Europe can tackle its competitiveness and talent gap.
+Reuters • 11h ago
 
-CNBC • 1h ago
+---
+
+**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
+
+Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
+
+Interesting Engineering • 5h ago
+
+---
+
+**[Opinion | US does its robotics industry no favours by fencing it off from China](https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china)**
+
+South China Morning Post • 1h ago
 
 ---
 
@@ -152,11 +158,11 @@ Tech Xplore • 2d ago
 
 ---
 
-**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
+**[Europe on front foot in race to develop physical AI and robotics: VC](https://www.cnbc.com/video/2026/08/10/europe-on-front-foot-in-race-to-develop-physical-ai-and-robotics-vc.html)**
 
-As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
+Fabian Gruner, partner at HV Capital, tells CNBC there is one sector that could give Europe significant leverage as it fights to remain competitive: cognitive robotics. Gruner also discusses how he sees physical AI being deployed over the coming years, and gives his take on how Europe can tackle its competitiveness and talent gap.
 
-politico.eu • 3d ago
+CNBC • 3h ago
 
 ---
 
@@ -164,23 +170,15 @@ politico.eu • 3d ago
 
 China intends to integrate robot dogs at its future lunar base station.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 21h ago
 
 ---
 
-**[Robotic guitar player turns digital music into physical sound](https://newatlas.com/music/3d-printable-robot-megcell-pulse/)**
+**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
 
-I'm more intrigued by the premise behind this wild robotics project than the technology itself: "What if digital music could control a real instrument and become physical sound again?"
+As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
 
-New Atlas • 17h ago
-
----
-
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
-
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
-
-Global News • 2d ago
+politico.eu • 3d ago
 
 ---
 
@@ -264,7 +262,7 @@ A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost a
 
 📺 Dre-Daily-Trends
 
-👁️ 4K • 👍 126 • 💬 3 • ⏱️ 0:05 • 10h ago
+👁️ 4K • 👍 126 • 💬 3 • ⏱️ 0:05 • 11h ago
 
 ---
 
