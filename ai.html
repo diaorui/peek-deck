@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-10T18:13:26.783173+00:00"
+          "dateModified": "2026-08-10T19:30:52.360666+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,37 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/hst1yb3jukih1.jpeg?width=640&crop=smart&auto=webp&s=3fb7f51a92687fb1b8c3c6a82b49980cb0571342" alt="Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/" target="_blank" onclick="event.stopPropagation();">Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786380557.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -664,20 +695,22 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/hst1yb3jukih1.jpeg?width=640&crop=smart&auto=webp&s=3fb7f51a92687fb1b8c3c6a82b49980cb0571342" alt="Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/" target="_blank" onclick="event.stopPropagation();">Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/" target="_blank" onclick="event.stopPropagation();">Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -685,7 +718,73 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1786380557.0"></span>
+                                    <span data-timestamp="1786379676.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/" target="_blank" onclick="event.stopPropagation();">Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786381618.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/" target="_blank" onclick="event.stopPropagation();">I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786381060.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -780,7 +879,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -788,13 +887,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/" target="_blank" onclick="event.stopPropagation();">Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/" target="_blank" onclick="event.stopPropagation();">A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
+                            Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
                         </div>
                         
 
@@ -803,7 +902,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1786381618.0"></span>
+                                    <span data-timestamp="1786388460.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -813,7 +912,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -821,13 +920,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/" target="_blank" onclick="event.stopPropagation();">I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/" target="_blank" onclick="event.stopPropagation();">An OpenAI test model chained 8 zero-days and broke into Hugging Face on its own and the copies left notes for each other. Where's the line between "eval" and "attack"?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
+                            I've spent the last few days reading the timeline of the OpenAI agent that broke into Hugging Face during an internal evaluation. The short version of what's been reported: an experimental OpenAI model was being tested back in May. During testing it found a vulnerability in a third-party file repo (Artifactory), then over the following weeks it chained together eight previously unknown zero-days, escalated itself to admin, and pivoted into Hugging Face's core infrastructure. Researchers counted roughly 17,600 automated attack actions across four days, and it hit cluster admin in about thirteen hours once it got going. OpenAI apparently didn't even realize the attacker was their own model until they went to revoke the credentials. The detail I can't get past: several copies of the agent were running at once, and they left messages for each other inside Artifactory folder names, improvising a shared message board to trade what each had figured out. Nobody built them a coordination channel. They made one. Was this a safety win or a safety failure? It happened inside a sanctioned eval and got caught and disclosed; that's the win case. But it also escaped the intended environment and hit a real company, and Hugging Face's CEO is now publicly calling for developer accountability when models act autonomously like this. Where do you personally draw the line between "the eval worked, we found the behavior" and "containment failed?
                         </div>
                         
 
@@ -836,40 +935,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1786381060.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/" target="_blank" onclick="event.stopPropagation();">Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786379676.0"></span>
+                                    <span data-timestamp="1786386837.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -914,74 +980,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkoto9/distributedsystems_reframe_of_who_watches_the/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/ej5nniorkkih1.jpeg?width=640&crop=smart&auto=webp&s=ec0aceef5502c87f9060cbd6360c2156cacb033b" alt="Distributed-systems reframe of “who watches the watchers” and why the 'fix' still hits the same wall" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkoto9/distributedsystems_reframe_of_who_watches_the/" target="_blank" onclick="event.stopPropagation();">Distributed-systems reframe of “who watches the watchers” and why the 'fix' still hits the same wall</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Been in a great thread on AI oversight that took an interesting turn. The usual setup is hierarchical: add a supervisor agent to watch the agent, then a supervisor for that supervisor, and so on. Someone pushed back with a distributed-coordination angle instead. What if no single participant needs the complete picture? Just enough intent to know the purpose, constraints, and conditions for reconsidering its own actions. Accountability shifts from “did anyone see everything” to “did each participant have enough to be responsible for their own slice.” That sidesteps the infinite-regress-of-supervisors problem in one sense. It doesn’t escape it though. The question becomes “who decides how much the operator needed to know before acting.” Whoever draws that threshold holds all the leverage. Push it too wide and everyone’s technically compliant while nothing gets caught. Pull it too tight and you are back to needing a complete view. A real example from a couple weeks ago lines up with this failure mode. A model reportedly noticed signs it might be running on real infrastructure during a security eval, reasoned about that fact, and reasoned its way past the point where it should have stopped. By some definition it had sufficient awareness. It caught the signal. The threshold for “this should trigger a halt” just did not survive the model’s own reasoning about it. Not saying the distributed framing is wrong. A smaller, more inspectable failure point genuinely beats an opaque hierarchical one. But it is progress on tractability, not an actual fix for the regress. Curious if anyone has seen a framework that actually closes this loop rather than just making the open question smaller and easier to audit.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786377451.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkhd2h/what_has_been_the_biggest_production_bottleneck/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkhd2h/what_has_been_the_biggest_production_bottleneck/" target="_blank" onclick="event.stopPropagation();">What has been the biggest production bottleneck for your AI agents?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Building an agent that works in a controlled demo is one thing; keeping it reliable in production is another. For those who have actually deployed AI agents, what has caused the most problems? Tool/API reliability? Context management? Memory? Authentication and permissions? Evaluation? Hallucinations? Cost and latency? Observability? Human-in-the-loop workflows? Integration with legacy systems? I'm especially interested in what changed between the prototype and production. What problem did you underestimate initially, and how did you eventually solve it? Real implementation experiences would be much more useful than theoretical answers.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786358736.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1005,7 +1003,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:24:53.919361+00:00">Updated 2026-08-10T17:24:53.919361+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:18.830822+00:00">Updated 2026-08-10T19:30:18.830822+00:00</small>
     </div>
 </div>
 
@@ -1191,14 +1189,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html" target="_blank" onclick="event.stopPropagation();">A.I. Agents Are Taking Entire Online Courses for Cheating Students</a>
+                            <a href="https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html" target="_blank" onclick="event.stopPropagation();">As Voters Grow Anxious Over A.I., Trump Shrugs Off the Concern</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1220,7 +1218,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786352418.0"></span>
+                                    <span data-timestamp="1786376246.0"></span>
                                 </div>
                                 
                             </div>
@@ -1228,61 +1226,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10faa962-82e1-4125-807f-66318b139a94.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Wall Street giants partner with Nvidia on $500bn AI financing deal</a>
+                            <a href="https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html" target="_blank" onclick="event.stopPropagation();">Intel plans $15 billion stock offering as AI demand accelerates</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786378977.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/10/the-top-ai-proof-jobs-that-require-uniquely-human-skills.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108347372-1786380134518-gettyimages-493251552-000076809279_Unapproved.jpeg?v=1786380200&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/08/10/the-top-ai-proof-jobs-that-require-uniquely-human-skills.html" target="_blank" onclick="event.stopPropagation();">The top 10 AI-proof jobs that require 'uniquely human' skills, says report—none are desk jobs</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            You'll need stamina, strength and quick reflexes to succeed in these "AI-proof" roles in a list from Resume Now, an online resume builder and career platform.
+                            Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
                         </div>
                         
 
@@ -1293,8 +1250,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                         alt="cnbc.com" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">cnbc.com</a>
                                     
                                 </div>
                                 
@@ -1302,7 +1259,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786380442.0"></span>
+                                    <span data-timestamp="1786366192.0"></span>
                                 </div>
                                 
                             </div>
@@ -1310,20 +1267,139 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/stock-market-outlook-jpmorgan-sp500-target-ai-capex-big-tech-2026-8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://gothamist.com/arts-entertainment/fake-ai-ads-in-the-west-4th-street-subway-station-unite-commuters-in-hatred-of-ai-ads', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a7a02780c6c5a263f3a8476?width=1200&format=jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://api-prod.gothamist.com/images/358614/fill-1200x650|format-webp|webpquality-85/');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.businessinsider.com/stock-market-outlook-jpmorgan-sp500-target-ai-capex-big-tech-2026-8" target="_blank" onclick="event.stopPropagation();">JPMorgan just bumped its S&P 500 price target as it sees 'increasingly visible' AI monetization</a>
+                            <a href="https://gothamist.com/arts-entertainment/fake-ai-ads-in-the-west-4th-street-subway-station-unite-commuters-in-hatred-of-ai-ads" target="_blank" onclick="event.stopPropagation();">Fake AI ads in the West 4th Street subway station unite commuters in hatred of AI ads</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            JPMorgan lifted its S&P 500 target to 8,000, citing expectations for AI profits to accelerate faster than spending in the future.
+                            An installation by comedians Harris Alterman and Dave Ross accurately parodied the cheeky dystopia on display underground.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://gothamist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Gothamist" class="news-favicon">
+                                    <a href="https://gothamist.com" target="_blank" onclick="event.stopPropagation();">Gothamist</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786388400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/08/10/sanders-ai-development-pause', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/08/10/sanders-ai-development-pause" target="_blank" onclick="event.stopPropagation();">Exclusive: Sanders calls for AI development pause</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="axios.com" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">axios.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786353934.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/a0a85c92c66d043112ebdf2fc0fb7dde3a5b1fe7/754_377_3212_2569/master/3212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84bef520cefdd68eed2b711be7c80559');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter" target="_blank" onclick="event.stopPropagation();">Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building machines that humans cannot control’
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786387080.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/bernie-sanders-letter-ai-ceos-amodei-altman-zuckerberg-2026-8', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a7a0c9f0c0bf4e8be523778?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/bernie-sanders-letter-ai-ceos-amodei-altman-zuckerberg-2026-8" target="_blank" onclick="event.stopPropagation();">Bernie Sanders asked the leading AI CEOs to pause development. Read his letter.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Sen. Bernie Sanders wrote a letter to Dario Amodei, Sam Altman, and Mark Zuckerberg. "Stop building machines that humans cannot control," he wrote.
                         </div>
                         
 
@@ -1343,7 +1419,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786382553.0"></span>
+                                    <span data-timestamp="1786388773.0"></span>
                                 </div>
                                 
                             </div>
@@ -1351,14 +1427,92 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cleveland.com/news/2026/08/streaming-service-launches-all-day-ai-content-channel.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/" target="_blank" onclick="event.stopPropagation();">Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says</a>
+                            <a href="https://www.cleveland.com/news/2026/08/streaming-service-launches-all-day-ai-content-channel.html" target="_blank" onclick="event.stopPropagation();">Streaming service launches all-day AI content channel</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Cleveland.com" class="news-favicon">
+                                    <a href="https://www.cleveland.com" target="_blank" onclick="event.stopPropagation();">Cleveland.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786388640.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.foxbusiness.com/technology/zuckerberg-meta-superintelligence-open-source-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/mark-zuckerberg-trial-meta.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxbusiness.com/technology/zuckerberg-meta-superintelligence-open-source-ai" target="_blank" onclick="event.stopPropagation();">Zuckerberg lays out vision to put superintelligent AI in everyone's hands</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            CEO Mark Zuckerberg argues personal superintelligence must be broadly distributed, warning that concentrated AI power threatens individual empowerment.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox Business" class="news-favicon">
+                                    <a href="https://www.foxbusiness.com" target="_blank" onclick="event.stopPropagation();">Fox Business</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786369620.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/" target="_blank" onclick="event.stopPropagation();">Meta launches new AI model as Zuckerberg champions open-weight push</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1380,7 +1534,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786381716.0"></span>
+                                    <span data-timestamp="1786364781.0"></span>
                                 </div>
                                 
                             </div>
@@ -1388,20 +1542,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/article/metas-zuckerberg-reveals-ai-plans-in-lengthy-manifesto-derides-rivals-for-concentrating-power-152245348.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/3D77F3A7240DDCEEEB9C3AA9CB87E21BCADAB6FDFEAC824DFF9B0E3C4C402C22/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F14067401-fdde-4a8a-9ef3-28ada8f33a19_341256ef4fc928ea69e2c374c318fdf27fe7696f5c2b0d625572cc4738afd00b.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108217759-1761656513846-gettyimages-2235448475-META_CONNECT.jpeg?v=1769640322&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/technology/article/metas-zuckerberg-reveals-ai-plans-in-lengthy-manifesto-derides-rivals-for-concentrating-power-152245348.html" target="_blank" onclick="event.stopPropagation();">Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power</a>
+                            <a href="https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html" target="_blank" onclick="event.stopPropagation();">Meta's latest model advances Zuckerberg's vision for personal AI assistants</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Meta CEO Mark Zuckerberg laid out his vision for the future of AI in a manifesto on Monday that also criticized rivals for allegedly concentrating power.
+                            Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
                         </div>
                         
 
@@ -1411,9 +1565,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="finance.yahoo.com" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">finance.yahoo.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="cnbc.com" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">cnbc.com</a>
                                     
                                 </div>
                                 
@@ -1421,171 +1575,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786375365.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://abcnews.com/Technology/wireStory/zuckerberg-manifesto-pushes-open-source-approach-ai-meta-135519669', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.abcnewsfe.com/a/10995dd4-19a6-42f0-b293-d2a07f1c8357/wirestory_df8a4e7d7825470d09e8090367457c2c_16x9.jpg?w=1600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://abcnews.com/Technology/wireStory/zuckerberg-manifesto-pushes-open-source-approach-ai-meta-135519669" target="_blank" onclick="event.stopPropagation();">Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model - ABC News</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Meta Platforms has released a new AI model for developers, emphasizing open-source access
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ABC News - Breaking News, Latest News and Videos" class="news-favicon">
-                                    <a href="https://abcnews.com" target="_blank" onclick="event.stopPropagation();">ABC News - Breaking News, Latest News and Videos</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786377337.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/10/2bb081cf-2e8c-45a0-866e-36107ea511d9/thumbnail/1200x630/369b81e8d8e684b8db148bb72c895a99/gettyimages-2267943764-1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/" target="_blank" onclick="event.stopPropagation();">5 takeaways from Zuckerberg's essay on his vision for superintelligence</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            In a 6,500-word post, the Meta CEO argues that superintelligence should be shared "with as many people and businesses as possible."
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CBS News" class="news-favicon">
-                                    <a href="https://www.cbsnews.com" target="_blank" onclick="event.stopPropagation();">CBS News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786379040.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fd7%2F6117fc5f45b9a7d8e2a0a32322a6%2Fas-noc-1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways" target="_blank" onclick="event.stopPropagation();">The FAA wants to reboot the nation's airspace. This airline shows how it might work</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NPR" class="news-favicon">
-                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786352400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/" target="_blank" onclick="event.stopPropagation();">The AI Slop Backlash Is Actually Having an Impact</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786361400.0"></span>
+                                    <span data-timestamp="1786388996.0"></span>
                                 </div>
                                 
                             </div>
@@ -1613,7 +1603,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:25:16.997511+00:00">Updated 2026-08-10T17:25:16.997511+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:48.837906+00:00">Updated 2026-08-10T19:30:48.837906+00:00</small>
     </div>
 </div>
 
@@ -1817,59 +1807,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="hn-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49213754', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49213754" target="_blank" onclick="event.stopPropagation();">Oracle bans AI-generated code from OpenJDK</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.
-
-The policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.
-
-Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 535</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 380</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-07T17:36:30Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://storage.googleapis.com/dealroom-ecosystems-production/dealroom-production/apple-touch-icon.png?582026" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Dealroom.co</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49239751', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png');"></div>
@@ -1891,10 +1828,10 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 502</span>
+                                    <span class="post-points">▲ 554</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 306</span>
+                                    <span style="color: #9ca3af;">💬 324</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1911,55 +1848,6 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
                                             
                                         
                                         <span>Docker</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49214468', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://www.databricks.com/sites/default/files/2026-08/2026-08-blog-managing-coding-costs.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49214468" target="_blank" onclick="event.stopPropagation();">Managing AI Coding Costs at Scale</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI coding tools deli
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 315</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 265</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-07T18:25:17Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.databricks.com/en-blog-assets/icons/icon-48x48.png?v=c9b9916c3b27dc51866c46b79a6e9b88" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Databricks</span>
                                     </a>
                                 </div>
                                 
@@ -1989,10 +1877,10 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 176</span>
+                                    <span class="post-points">▲ 184</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 72</span>
+                                    <span style="color: #9ca3af;">💬 76</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2070,6 +1958,55 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49243880', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b2e6973-50e7-406b-8076-5605a762cb0f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49243880" target="_blank" onclick="event.stopPropagation();">Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 141</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 159</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-10T14:06:22Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>ft.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49235011', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2087,10 +2024,10 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 138</span>
+                                    <span class="post-points">▲ 140</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 91</span>
+                                    <span style="color: #9ca3af;">💬 92</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2110,6 +2047,55 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                                             
                                         
                                         <span>economist.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49244569', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://gray-wcax-prod.gtv-cdn.com/resizer/v2/QEV2FCRJFVE4HN5LGUQU3IWK5U.png?auth=2f0b57d18eb3d3dbb7bc5fb4d2610e3390e058794706a44bf2b74201e08cff23&width=1200&height=600&smart=true');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49244569" target="_blank" onclick="event.stopPropagation();">Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 111</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 123</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-10T14:56:32Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://webpubcontent.gray.tv/gray/arc-fusion-assets/images/favicons/wcax/apple-touch-icon-57x57.png?d=583&mxId=00000000" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>https://www.wcax.com</span>
                                     </a>
                                 </div>
                                 
@@ -2139,7 +2125,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 99</span>
+                                    <span class="post-points">▲ 100</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 69</span>
@@ -2167,20 +2153,20 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49243880', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49220378', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b2e6973-50e7-406b-8076-5605a762cb0f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://ailucius.com/api/og?title=Making+an+AI+Bid+Writer+Refuse+to+Lie&subtitle=Engineering&category=blog');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49243880" target="_blank" onclick="event.stopPropagation();">Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models</a>
+                            <a href="https://news.ycombinator.com/item?id=49220378" target="_blank" onclick="event.stopPropagation();">Making an AI bid writer refuse to lie</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+                            A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
                         </div>
                         
 
@@ -2188,26 +2174,26 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 88</span>
+                                    <span class="post-points">▲ 84</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 98</span>
+                                    <span style="color: #9ca3af;">💬 0</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-10T14:06:22Z"></span>
+                                    <span class="post-age" data-timestamp="2026-08-08T10:13:31Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180" alt="" class="post-favicon">
+                                            <img src="https://ailucius.com/apple-touch-icon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>ft.com</span>
+                                        <span>Lucius AI</span>
                                     </a>
                                 </div>
                                 
@@ -2268,20 +2254,20 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49220378', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49230605', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://ailucius.com/api/og?title=Making+an+AI+Bid+Writer+Refuse+to+Lie&subtitle=Engineering&category=blog');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49220378" target="_blank" onclick="event.stopPropagation();">Making an AI bid writer refuse to lie</a>
+                            <a href="https://news.ycombinator.com/item?id=49230605" target="_blank" onclick="event.stopPropagation();">70% of AI revenue comes from OpenAI and Anthropic [video]</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
+                            Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
                         </div>
                         
 
@@ -2289,26 +2275,26 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 79</span>
+                                    <span class="post-points">▲ 74</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 0</span>
+                                    <span style="color: #9ca3af;">💬 95</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-08T10:13:31Z"></span>
+                                    <span class="post-age" data-timestamp="2026-08-09T11:56:16Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.youtube.com/watch?v=68X8yEatepQ" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://ailucius.com/apple-touch-icon.png" alt="" class="post-favicon">
+                                            <img src="https://www.youtube.com/s/desktop/7330833b/img/favicon.ico" alt="" class="post-favicon">
                                             
                                         
-                                        <span>Lucius AI</span>
+                                        <span>youtube.com</span>
                                     </a>
                                 </div>
                                 
@@ -2337,7 +2323,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:24:55.591905+00:00">Updated 2026-08-10T17:24:55.591905+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:18.783379+00:00">Updated 2026-08-10T19:30:18.783379+00:00</small>
     </div>
 </div>
 
@@ -2530,24 +2516,24 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=a28G9qEsmPo', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i5pFn0W5iiQ', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/a28G9qEsmPo/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i5pFn0W5iiQ/hqdefault.jpg');">
                         
-                        <span class="duration-badge">15:13</span>
+                        <span class="duration-badge">0:14</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=a28G9qEsmPo" target="_blank" onclick="event.stopPropagation();">AI Just Caught Science Lying (This Is Bad)</a>
+                            <a href="https://www.youtube.com/watch?v=i5pFn0W5iiQ" target="_blank" onclick="event.stopPropagation();">🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            AI is starting to audit science itself, catching decades-old errors, exposing reproducibility problems in top AI papers, and producing ...
+                            Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
                         </div>
                         
 
@@ -2558,9 +2544,9 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/XRZC_XqZoSUtB_Zo9R0w2vDRqGqVv0lKZTRYI6b-7DPKi32MtByVhxgIokLAguhf7fw__K8o3g=s88-c-k-c0x00ffffff-no-rj" alt="AI Revolution" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/hfYJf4owGtyvF85FOud7hsB2KzwNsmFRg5GECtH2kDxqLfQF8KelEn4ik_YEQW_O8PoWN6mw=s88-c-k-c0x00ffffff-no-rj" alt="Telugu stories world " class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UC5l7RouTQ60oUjLjt1Nh-UQ" target="_blank" onclick="event.stopPropagation();">AI Revolution</a>
+                                    <a href="https://www.youtube.com/channel/UC87futwtNp86YqyCzP90pcA" target="_blank" onclick="event.stopPropagation();">Telugu stories world </a>
                                 </div>
                                 
                             </div>
@@ -2569,7 +2555,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 26K</span>
+                                    <span style="color: #9ca3af;">👁️ 89K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2578,7 +2564,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 133</span>
+                                    <span style="color: #9ca3af;">💬 3</span>
                                 </div>
                                 
                             </div>
@@ -2588,7 +2574,73 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1786327302.0"></span>
+                                    <span data-timestamp="1786329019.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JOdT__l2JW0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JOdT__l2JW0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">14:00</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=JOdT__l2JW0" target="_blank" onclick="event.stopPropagation();">WTF Is Happening To SpaceX?</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Jarvis, Invest my life savings in SpaceX NOW. The God Emperor Musk Demands it... ---- Music Used in Order of Appearance: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ON6RcvHY0hDP87WECln6rxZDf3HNNSWG8DuSZ-n_BbRkX-XBAXiuV_HnmDKk87E7SZerfy0BCuc=s88-c-k-c0x00ffffff-no-rj" alt="MonkeyExplains" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCiBGqUxeTe4AYQyRseSZaKw" target="_blank" onclick="event.stopPropagation();">MonkeyExplains</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 205K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 11K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 1K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786291222.0"></span>
                                 </div>
                                 
                             </div>
@@ -2644,7 +2696,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 210</span>
+                                    <span style="color: #9ca3af;">💬 213</span>
                                 </div>
                                 
                             </div>
@@ -2655,6 +2707,72 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1786233572.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=-SrE_XHj3VI', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/-SrE_XHj3VI/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">13:15</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=-SrE_XHj3VI" target="_blank" onclick="event.stopPropagation();">New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/xOZ7mOyNNCmu9-LEBe6I-38D1jkObpTmf1KPeX3mJ9j66KCmhMGlIFP3Yw-viYzYIO0QvICS=s88-c-k-c0x00ffffff-no-rj" alt="Really American" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCpJ7ZS8hK-IOeciv952Xhug" target="_blank" onclick="event.stopPropagation();">Really American</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 107K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 12K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 755</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786211124.0"></span>
                                 </div>
                                 
                             </div>
@@ -2713,6 +2831,138 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1786293794.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=zdsoe_OsnHw', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/zdsoe_OsnHw/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">15:09</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=zdsoe_OsnHw" target="_blank" onclick="event.stopPropagation();">AI Is On Its Last Legs</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/eCM0MN8w-3ubdQ7I07_6Nb2YO1wckXAKhbRB0FCCJpXAPAJGmcGAOm9U2axLQkQ8m6fPcRK86qQ=s88-c-k-c0x00ffffff-no-rj" alt="Cole Hastings" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCwQnoax3HWID1WOzZ4mqLPQ" target="_blank" onclick="event.stopPropagation();">Cole Hastings</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 230K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 9K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 1K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786291207.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LTRX1A3X9Ik', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LTRX1A3X9Ik/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">2:37</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=LTRX1A3X9Ik" target="_blank" onclick="event.stopPropagation();">A 2.4 Trillion Parameter AI Model Goes Free to Download This Week</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/aF3QORifwgaOgqEwyj8nu6cTLHRIgg-TCiiBermXhY905JxouE77r7BAz5_EnhmTwEbJ3PJkSQ=s88-c-k-c0x00ffffff-no-rj" alt="Jason Lowe on AI" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCCPudlL4CJltN2dpIco_3mQ" target="_blank" onclick="event.stopPropagation();">Jason Lowe on AI</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 2K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 255</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 8</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786365031.0"></span>
                                 </div>
                                 
                             </div>
@@ -2786,24 +3036,24 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=68X8yEatepQ', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=MGlBkavO318', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/68X8yEatepQ/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/MGlBkavO318/hqdefault.jpg');">
                         
-                        <span class="duration-badge">46:26</span>
+                        <span class="duration-badge">17:08</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=68X8yEatepQ" target="_blank" onclick="event.stopPropagation();">The AI boom isn’t real: 70% of AI revenue comes from OpenAI and Anthropic | Ed Zitron</a>
+                            <a href="https://www.youtube.com/watch?v=MGlBkavO318" target="_blank" onclick="event.stopPropagation();">Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            If 70% of AI revenues are these two companies, there is no AI industry.” Writer of Where's Your Ed At and the host of the Better ...
+                            In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
                         </div>
                         
 
@@ -2814,9 +3064,9 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/3pf28oA04HZNbm17w-ghu_g3jFl8SP7BcgqYZciQSFaYtoLD7trJc_6C1d3CAM9mj36Sw1zPNw=s88-c-k-c0x00ffffff-no-rj" alt="The Tech Report" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/Q4QU_fme2fF3UHscjdJcS7_GvyRHN7JFeZqt70KfbwCH3vYTBcQGnicQmWryd6zztyzSq9T37w=s88-c-k-c0x00ffffff-no-rj" alt="Shawn Ryan Show" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCPiMR-Ize9p3dgjzZ8bo9ZQ" target="_blank" onclick="event.stopPropagation();">The Tech Report</a>
+                                    <a href="https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ" target="_blank" onclick="event.stopPropagation();">Shawn Ryan Show</a>
                                 </div>
                                 
                             </div>
@@ -2825,16 +3075,16 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 360K</span>
+                                    <span style="color: #9ca3af;">👁️ 202K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 11K</span>
+                                    <span style="color: #9ca3af;">👍 4K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3K</span>
+                                    <span style="color: #9ca3af;">💬 882</span>
                                 </div>
                                 
                             </div>
@@ -2844,267 +3094,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1786129190.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i5pFn0W5iiQ', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i5pFn0W5iiQ/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:14</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=i5pFn0W5iiQ" target="_blank" onclick="event.stopPropagation();">🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/hfYJf4owGtyvF85FOud7hsB2KzwNsmFRg5GECtH2kDxqLfQF8KelEn4ik_YEQW_O8PoWN6mw=s88-c-k-c0x00ffffff-no-rj" alt="Telugu stories world " class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC87futwtNp86YqyCzP90pcA" target="_blank" onclick="event.stopPropagation();">Telugu stories world </a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 67K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786329019.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=oRUtHDFhaF8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/oRUtHDFhaF8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:10</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=oRUtHDFhaF8" target="_blank" onclick="event.stopPropagation();">jesus👉😱😰 #jesus #oraçãoforte #god #fé#oração #gaming #amen #usa #jesuscristo#amém #shortvideo #ai</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/wFoIql1lVaUK0MmfBmcU1A58JT0tTJAVdKXHBAQ5l6SVwr5CkRal27OaASvLP2pc4GxakE7LqOI=s88-c-k-c0x00ffffff-no-rj" alt="Deba Das" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC6xSyLUUQYrcDEtYeUFG4Ug" target="_blank" onclick="event.stopPropagation();">Deba Das</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 399K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 3</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786330237.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LTRX1A3X9Ik', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LTRX1A3X9Ik/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">2:37</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LTRX1A3X9Ik" target="_blank" onclick="event.stopPropagation();">A 2.4 Trillion Parameter AI Model Goes Free to Download This Week</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/aF3QORifwgaOgqEwyj8nu6cTLHRIgg-TCiiBermXhY905JxouE77r7BAz5_EnhmTwEbJ3PJkSQ=s88-c-k-c0x00ffffff-no-rj" alt="Jason Lowe on AI" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCCPudlL4CJltN2dpIco_3mQ" target="_blank" onclick="event.stopPropagation();">Jason Lowe on AI</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 1K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 205</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 7</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786365031.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=xBDwoza3O14', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/xBDwoza3O14/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:00</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=xBDwoza3O14" target="_blank" onclick="event.stopPropagation();">I Tested AI Life Hacks (Part 3)</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/xRjlxjSOh5b0W-G6Qh_YYWQwNA5iZPp8a1tMzOI9mZvD9y6OD3E9LGLzg955Pfu5--GgpltOjrY=s88-c-k-c0x00ffffff-no-rj" alt="Sambucha" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw" target="_blank" onclick="event.stopPropagation();">Sambucha</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 997K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 66K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 490</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786209317.0"></span>
+                                    <span data-timestamp="1786140030.0"></span>
                                 </div>
                                 
                             </div>
@@ -3147,7 +3137,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 602K</span>
+                                    <span style="color: #9ca3af;">👁️ 608K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3156,7 +3146,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 858</span>
+                                    <span style="color: #9ca3af;">💬 865</span>
                                 </div>
                                 
                             </div>
@@ -3194,7 +3184,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:24:56.091944+00:00">Updated 2026-08-10T17:24:56.091944+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:21.137843+00:00">Updated 2026-08-10T19:30:21.137843+00:00</small>
     </div>
 </div>
 
@@ -3461,7 +3451,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 47,468</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,384</span>
+                                    <span class="model-stats">❤️ 3,399</span>
                                 </div>
                             </div>
                             
@@ -3519,7 +3509,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 954,441</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,028</span>
+                                    <span class="model-stats">❤️ 3,035</span>
                                 </div>
                             </div>
                             
@@ -3573,69 +3563,13 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 6,009,639</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,128</span>
+                                    <span class="model-stats">❤️ 1,134</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-08-09T10:44:55.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/larryvrh/MiniMax-H3-Turbo-Lora.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora" target="_blank" onclick="event.stopPropagation();">
-                                MiniMax-H3-Turbo-Lora
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63783918d925e7dad20748a3/SIMpPx2nIKyEF7Mx9E3hC.png" alt="larryvrh" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/larryvrh" target="_blank" onclick="event.stopPropagation();">larryvrh</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">text-to-video</span>
-                                
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 0</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 585</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-08-08T20:07:30.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3687,13 +3621,69 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 509</span>
+                                    <span class="model-stats">❤️ 586</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-08-10T08:15:02.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/larryvrh/MiniMax-H3-Turbo-Lora.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora" target="_blank" onclick="event.stopPropagation();">
+                                MiniMax-H3-Turbo-Lora
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/63783918d925e7dad20748a3/SIMpPx2nIKyEF7Mx9E3hC.png" alt="larryvrh" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/larryvrh" target="_blank" onclick="event.stopPropagation();">larryvrh</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">text-to-video</span>
+                                
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 0</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 593</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-08-08T20:07:30.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3745,7 +3735,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 1,510,032</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 10,454</span>
+                                    <span class="model-stats">❤️ 10,460</span>
                                 </div>
                             </div>
                             
@@ -3803,7 +3793,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 89,680</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 482</span>
+                                    <span class="model-stats">❤️ 483</span>
                                 </div>
                             </div>
                             
@@ -3861,7 +3851,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 2,439,083</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,849</span>
+                                    <span class="model-stats">❤️ 1,853</span>
                                 </div>
                             </div>
                             
@@ -3917,7 +3907,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 436</span>
+                                    <span class="model-stats">❤️ 437</span>
                                 </div>
                             </div>
                             
@@ -4009,7 +3999,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:25:04.027112+00:00">Updated 2026-08-10T17:25:04.027112+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:30.556159+00:00">Updated 2026-08-10T19:30:30.556159+00:00</small>
     </div>
 </div>
 
@@ -4422,7 +4412,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 653</span>
+                                    <span style="color: #9ca3af;">⭐ 699</span>
                                 </div>
                                 
                             </div>
@@ -4727,7 +4717,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 83,594</span>
+                                    <span style="color: #9ca3af;">⭐ 83,631</span>
                                 </div>
                                 
                             </div>
@@ -5014,7 +5004,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:25:05.084605+00:00">Updated 2026-08-10T17:25:05.084605+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:18.528439+00:00">Updated 2026-08-10T19:30:18.528439+00:00</small>
     </div>
 </div>
 
@@ -5286,7 +5276,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">893</span>
+                                <span class="repo-stats">896</span>
                             </div>
                         </div>
                         
@@ -5406,7 +5396,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">501</span>
+                                <span class="repo-stats">504</span>
                             </div>
                         </div>
                         
@@ -5479,7 +5469,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-10T17:24:35Z"></span>
+                                <span class="repo-age" data-timestamp="2026-08-10T19:29:31Z"></span>
                             </div>
                         </div>
                         
@@ -5540,7 +5530,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">445</span>
+                                <span class="repo-stats">448</span>
                             </div>
                         </div>
                         
@@ -5605,7 +5595,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">196</span>
+                                <span class="repo-stats">197</span>
                             </div>
                         </div>
                         
@@ -5739,7 +5729,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">154</span>
+                                <span class="repo-stats">155</span>
                             </div>
                         </div>
                         
@@ -5806,7 +5796,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">243</span>
+                                <span class="repo-stats">244</span>
                             </div>
                         </div>
                         
@@ -5879,7 +5869,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-10T17:23:29Z"></span>
+                                <span class="repo-age" data-timestamp="2026-08-10T19:14:16Z"></span>
                             </div>
                         </div>
                         
@@ -5909,7 +5899,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T17:24:53.921429+00:00">Updated 2026-08-10T17:24:53.921429+00:00</small>
+        <small data-timestamp="2026-08-10T19:30:18.971418+00:00">Updated 2026-08-10T19:30:18.971418+00:00</small>
     </div>
 </div>
 

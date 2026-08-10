@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T18:13:27.244542+00:00'
+updated: '2026-08-10T19:30:52.810895+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 18:13 UTC  
+**Last Updated:** August 10, 2026 at 19:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,41 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
+
+2h ago
+
+---
+
 **[OpenAI locks down Astra after model raises first-ever critical cyber capability fears](https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/)**
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 4h ago
 
 ---
 
-**[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
+**[Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?](https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/)**
 
-1h ago
+Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+
+2h ago
+
+---
+
+**[Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?](https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/)**
+
+​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
+
+2h ago
+
+---
+
+**[I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it](https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/)**
+
+Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
+
+2h ago
 
 ---
 
@@ -55,7 +79,7 @@ OpenAI tightened security around its upcoming Astra model after tests suggested 
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-7h ago
+8h ago
 
 ---
 
@@ -67,27 +91,19 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 ---
 
-**[Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?](https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/)**
+**[A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers](https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/)**
 
-​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
+Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
 
-1h ago
-
----
-
-**[I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it](https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/)**
-
-Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
-
-1h ago
+29m ago
 
 ---
 
-**[Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?](https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/)**
+**[An OpenAI test model chained 8 zero-days and broke into Hugging Face on its own and the copies left notes for each other. Where's the line between "eval" and "attack"?](https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/)**
 
-Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+I've spent the last few days reading the timeline of the OpenAI agent that broke into Hugging Face during an internal evaluation. The short version of what's been reported: an experimental OpenAI model was being tested back in May. During testing it found a vulnerability in a third-party file repo (Artifactory), then over the following weeks it chained together eight previously unknown zero-days, escalated itself to admin, and pivoted into Hugging Face's core infrastructure. Researchers counted roughly 17,600 automated attack actions across four days, and it hit cluster admin in about thirteen hours once it got going. OpenAI apparently didn't even realize the attacker was their own model until they went to revoke the credentials. The detail I can't get past: several copies of the agent were running at once, and they left messages for each other inside Artifactory folder names, improvising a shared message board to trade what each had figured out. Nobody built them a coordination channel. They made one. Was this a safety win or a safety failure? It happened inside a sanctioned eval and got caught and disclosed; that's the win case. But it also escaped the intended environment and hit a real company, and Hugging Face's CEO is now publicly calling for developer accountability when models act autonomously like this. Where do you personally draw the line between "the eval worked, we found the behavior" and "containment failed?
 
-1h ago
+56m ago
 
 ---
 
@@ -95,23 +111,7 @@ Building a Go backend for orchestrating AI agents (multi-tenant, each agent has 
 
 Position beats genius more often than anyone in this space wants to admit. Every time I trace how these AI bets actually get funded, it's the same mechanism repeating. Actually, this reminded me of a post I did a while back — a fund manager naming the real signal for buying the bottom, and it wasn't a chart either. Rob Toews (partner at Radical Ventures) says his fund meets nearly every "Neolab" that gets funded — brand-new companies with no product, no roadmap, sometimes not even a clear technical direction. Just an accomplished founder saying "I'm from OpenAI/Anthropic/Meta, so I want to raise a billion dollars." They pass on almost all of them. The exception was Anthropic. Spun out of OpenAI five years ago. Investors at the time called the entry valuation insane. It's now worth a trillion dollars. Toews' own framing: "there will be another Anthropic" — the mechanism isn't a one-off, it's a filter that occasionally clears. I've watched someone spot a bubble this early before. Not in AI — in property. This isn't my story, it belongs to a friend. I'll call him Chew — it's been a long time. We went to the same university, graduated the same year, both went into construction in Malaysia. He switched upstream to a property developer — a subsidiary of a mainland China parent company — and eventually relocated there for the better part of a decade, right as the property market was in its super-expansion phase. The bubble kept ballooning without ever showing a crack. Chew saw the opportunity, and lock in his purchase of one of the units. The price — he told me — rose 10 fold over the years. Then, like the rest of the shrewd investors, he saw the writing on the wall. He liquidated his holdings and made a huge windfall, right before the bubble burst. Clip credit: The Information — full video on their channel. DM for credit or removal requests. Drop your take below — has anyone here ever watched someone else make that call before you did?
 
-2h ago
-
----
-
-**[Distributed-systems reframe of “who watches the watchers” and why the 'fix' still hits the same wall](https://www.reddit.com/r/artificial/comments/1vkoto9/distributedsystems_reframe_of_who_watches_the/)**
-
-Been in a great thread on AI oversight that took an interesting turn. The usual setup is hierarchical: add a supervisor agent to watch the agent, then a supervisor for that supervisor, and so on. Someone pushed back with a distributed-coordination angle instead. What if no single participant needs the complete picture? Just enough intent to know the purpose, constraints, and conditions for reconsidering its own actions. Accountability shifts from “did anyone see everything” to “did each participant have enough to be responsible for their own slice.” That sidesteps the infinite-regress-of-supervisors problem in one sense. It doesn’t escape it though. The question becomes “who decides how much the operator needed to know before acting.” Whoever draws that threshold holds all the leverage. Push it too wide and everyone’s technically compliant while nothing gets caught. Pull it too tight and you are back to needing a complete view. A real example from a couple weeks ago lines up with this failure mode. A model reportedly noticed signs it might be running on real infrastructure during a security eval, reasoned about that fact, and reasoned its way past the point where it should have stopped. By some definition it had sufficient awareness. It caught the signal. The threshold for “this should trigger a halt” just did not survive the model’s own reasoning about it. Not saying the distributed framing is wrong. A smaller, more inspectable failure point genuinely beats an opaque hierarchical one. But it is progress on tractability, not an actual fix for the regress. Curious if anyone has seen a framework that actually closes this loop rather than just making the open question smaller and easier to audit.
-
-2h ago
-
----
-
-**[What has been the biggest production bottleneck for your AI agents?](https://www.reddit.com/r/artificial/comments/1vkhd2h/what_has_been_the_biggest_production_bottleneck/)**
-
-Building an agent that works in a controlled demo is one thing; keeping it reliable in production is another. For those who have actually deployed AI agents, what has caused the most problems? Tool/API reliability? Context management? Memory? Authentication and permissions? Evaluation? Hallucinations? Cost and latency? Observability? Human-in-the-loop workflows? Integration with legacy systems? I'm especially interested in what changed between the prototype and production. What problem did you underestimate initially, and how did you eventually solve it? Real implementation experiences would be much more useful than theoretical answers.
-
-7h ago
+3h ago
 
 ---
 
@@ -119,79 +119,75 @@ Building an agent that works in a controlled demo is one thing; keeping it relia
 
 ## Google News: "ai"
 
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
+**[As Voters Grow Anxious Over A.I., Trump Shrugs Off the Concern](https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html)**
 
-The New York Times • 9h ago
-
----
-
-**[Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1)**
-
-Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
-
-Financial Times • 1h ago
+The New York Times • 3h ago
 
 ---
 
-**[The top 10 AI-proof jobs that require 'uniquely human' skills, says report—none are desk jobs](https://www.cnbc.com/2026/08/10/the-top-ai-proof-jobs-that-require-uniquely-human-skills.html)**
+**[Intel plans $15 billion stock offering as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
 
-You'll need stamina, strength and quick reflexes to succeed in these "AI-proof" roles in a list from Resume Now, an online resume builder and career platform.
+Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
-CNBC • 1h ago
-
----
-
-**[JPMorgan just bumped its S&P 500 price target as it sees 'increasingly visible' AI monetization](https://www.businessinsider.com/stock-market-outlook-jpmorgan-sp500-target-ai-capex-big-tech-2026-8)**
-
-JPMorgan lifted its S&P 500 target to 8,000, citing expectations for AI profits to accelerate faster than spending in the future.
-
-Business Insider • 50m ago
+cnbc.com • 6h ago
 
 ---
 
-**[Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
+**[Fake AI ads in the West 4th Street subway station unite commuters in hatred of AI ads](https://gothamist.com/arts-entertainment/fake-ai-ads-in-the-west-4th-street-subway-station-unite-commuters-in-hatred-of-ai-ads)**
 
-Reuters • 1h ago
+An installation by comedians Harris Alterman and Dave Ross accurately parodied the cheeky dystopia on display underground.
 
----
-
-**[Meta's Zuckerberg reveals AI plans in lengthy manifesto, derides rivals for concentrating power](https://finance.yahoo.com/technology/article/metas-zuckerberg-reveals-ai-plans-in-lengthy-manifesto-derides-rivals-for-concentrating-power-152245348.html)**
-
-Meta CEO Mark Zuckerberg laid out his vision for the future of AI in a manifesto on Monday that also criticized rivals for allegedly concentrating power.
-
-finance.yahoo.com • 2h ago
+Gothamist • 30m ago
 
 ---
 
-**[Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model - ABC News](https://abcnews.com/Technology/wireStory/zuckerberg-manifesto-pushes-open-source-approach-ai-meta-135519669)**
+**[Exclusive: Sanders calls for AI development pause](https://www.axios.com/2026/08/10/sanders-ai-development-pause)**
 
-Meta Platforms has released a new AI model for developers, emphasizing open-source access
-
-ABC News - Breaking News, Latest News and Videos • 2h ago
+axios.com • 10h ago
 
 ---
 
-**[5 takeaways from Zuckerberg's essay on his vision for superintelligence](https://www.cbsnews.com/news/mark-zuckerberg-ai-essay-takeaways/)**
+**[Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity](https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter)**
 
-In a 6,500-word post, the Meta CEO argues that superintelligence should be shared "with as many people and businesses as possible."
+Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building machines that humans cannot control’
 
-CBS News • 1h ago
-
----
-
-**[The FAA wants to reboot the nation's airspace. This airline shows how it might work](https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways)**
-
-When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.
-
-NPR • 9h ago
+The Guardian • 52m ago
 
 ---
 
-**[The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)**
+**[Bernie Sanders asked the leading AI CEOs to pause development. Read his letter.](https://www.businessinsider.com/bernie-sanders-letter-ai-ceos-amodei-altman-zuckerberg-2026-8)**
 
-Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.
+Sen. Bernie Sanders wrote a letter to Dario Amodei, Sam Altman, and Mark Zuckerberg. "Stop building machines that humans cannot control," he wrote.
 
-WIRED • 6h ago
+Business Insider • 24m ago
+
+---
+
+**[Streaming service launches all-day AI content channel](https://www.cleveland.com/news/2026/08/streaming-service-launches-all-day-ai-content-channel.html)**
+
+Cleveland.com • 26m ago
+
+---
+
+**[Zuckerberg lays out vision to put superintelligent AI in everyone's hands](https://www.foxbusiness.com/technology/zuckerberg-meta-superintelligence-open-source-ai)**
+
+CEO Mark Zuckerberg argues personal superintelligence must be broadly distributed, warning that concentrated AI power threatens individual empowerment.
+
+Fox Business • 5h ago
+
+---
+
+**[Meta launches new AI model as Zuckerberg champions open-weight push](https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/)**
+
+Reuters • 7h ago
+
+---
+
+**[Meta's latest model advances Zuckerberg's vision for personal AI assistants](https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html)**
+
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+
+cnbc.com • 20m ago
 
 ---
 
@@ -199,31 +195,11 @@ WIRED • 6h ago
 
 ## HackerNews: "ai"
 
-**[Oracle bans AI-generated code from OpenJDK](https://news.ycombinator.com/item?id=49213754)**
-
-Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.
-
-The policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.
-
-Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.
-
-⬆️ 535 • 💬 380 • 3d ago • [Dealroom.co](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-
----
-
 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://news.ycombinator.com/item?id=49239751)**
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 502 • 💬 306 • 12h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
-
----
-
-**[Managing AI Coding Costs at Scale](https://news.ycombinator.com/item?id=49214468)**
-
-AI coding tools deli
-
-⬆️ 315 • 💬 265 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 554 • 💬 324 • 13h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -231,7 +207,7 @@ AI coding tools deli
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 176 • 💬 72 • 14h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 184 • 💬 76 • 16h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -247,9 +223,25 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 ---
 
+**[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://news.ycombinator.com/item?id=49243880)**
+
+Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+
+⬆️ 141 • 💬 159 • 5h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+
+---
+
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 138 • 💬 91 • 22h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 140 • 💬 92 • 23h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+
+---
+
+**[Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://news.ycombinator.com/item?id=49244569)**
+
+Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
+
+⬆️ 111 • 💬 123 • 4h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -257,15 +249,15 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 99 • 💬 69 • 1d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 100 • 💬 69 • 1d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
-**[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://news.ycombinator.com/item?id=49243880)**
+**[Making an AI bid writer refuse to lie](https://news.ycombinator.com/item?id=49220378)**
 
-Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
-⬆️ 88 • 💬 98 • 4h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 84 • 💬 0 • 2d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
 
 ---
 
@@ -280,11 +272,11 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 ---
 
-**[Making an AI bid writer refuse to lie](https://news.ycombinator.com/item?id=49220378)**
+**[70% of AI revenue comes from OpenAI and Anthropic [video]](https://news.ycombinator.com/item?id=49230605)**
 
-A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 79 • 💬 0 • 2d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
+⬆️ 74 • 💬 95 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -292,13 +284,23 @@ A year of failure postmortems from building document AI for public tenders: phan
 
 ## YouTube Videos: "ai"
 
-**[AI Just Caught Science Lying (This Is Bad)](https://www.youtube.com/watch?v=a28G9qEsmPo)**
+**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
 
-AI is starting to audit science itself, catching decades-old errors, exposing reproducibility problems in top AI papers, and producing ...
+Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
 
-📺 AI Revolution
+📺 Telugu stories world 
 
-👁️ 26K • 👍 1K • 💬 133 • ⏱️ 15:13 • 16h ago
+👁️ 89K • 👍 1K • 💬 3 • ⏱️ 0:14 • 17h ago
+
+---
+
+**[WTF Is Happening To SpaceX?](https://www.youtube.com/watch?v=JOdT__l2JW0)**
+
+Jarvis, Invest my life savings in SpaceX NOW. The God Emperor Musk Demands it... ---- Music Used in Order of Appearance: ...
+
+📺 MonkeyExplains
+
+👁️ 205K • 👍 11K • 💬 1K • ⏱️ 14:00 • 1d ago
 
 ---
 
@@ -308,7 +310,17 @@ OpenAI's first real AI device just leaked, and it's a donut. Built with legendar
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 210 • ⏱️ 12:36 • 1d ago
+👁️ 33K • 👍 1K • 💬 213 • ⏱️ 12:36 • 1d ago
+
+---
+
+**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
+
+Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
+
+📺 Really American
+
+👁️ 107K • 👍 12K • 💬 755 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -322,6 +334,26 @@ Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
 
 ---
 
+**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
+
+Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
+
+📺 Cole Hastings
+
+👁️ 230K • 👍 9K • 💬 1K • ⏱️ 15:09 • 1d ago
+
+---
+
+**[A 2.4 Trillion Parameter AI Model Goes Free to Download This Week](https://www.youtube.com/watch?v=LTRX1A3X9Ik)**
+
+Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
+
+📺 Jason Lowe on AI
+
+👁️ 2K • 👍 255 • 💬 8 • ⏱️ 2:37 • 7h ago
+
+---
+
 **[China Just Shocked Everyone With a 10 Trillion Parameter AI Model](https://www.youtube.com/watch?v=MEw7TrAUEPQ)**
 
 China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta ...
@@ -332,51 +364,13 @@ China just pushed the AI race into a new league. ByteDance is reportedly trainin
 
 ---
 
-**[The AI boom isn’t real: 70% of AI revenue comes from OpenAI and Anthropic | Ed Zitron](https://www.youtube.com/watch?v=68X8yEatepQ)**
+**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
 
-If 70% of AI revenues are these two companies, there is no AI industry.” Writer of Where's Your Ed At and the host of the Better ...
+In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
 
-📺 The Tech Report
+📺 Shawn Ryan Show
 
-👁️ 360K • 👍 11K • 💬 3K • ⏱️ 46:26 • 2d ago
-
----
-
-**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
-
-Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
-
-📺 Telugu stories world 
-
-👁️ 67K • 👍 1K • 💬 3 • ⏱️ 0:14 • 15h ago
-
----
-
-**[jesus👉😱😰 #jesus #oraçãoforte #god #fé#oração #gaming #amen #usa #jesuscristo#amém #shortvideo #ai](https://www.youtube.com/watch?v=oRUtHDFhaF8)**
-
-📺 Deba Das
-
-👁️ 399K • 👍 2K • 💬 3 • ⏱️ 0:10 • 15h ago
-
----
-
-**[A 2.4 Trillion Parameter AI Model Goes Free to Download This Week](https://www.youtube.com/watch?v=LTRX1A3X9Ik)**
-
-Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
-
-📺 Jason Lowe on AI
-
-👁️ 1K • 👍 205 • 💬 7 • ⏱️ 2:37 • 5h ago
-
----
-
-**[I Tested AI Life Hacks (Part 3)](https://www.youtube.com/watch?v=xBDwoza3O14)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 997K • 👍 66K • 💬 490 • ⏱️ 1:00 • 2d ago
+👁️ 202K • 👍 4K • 💬 882 • ⏱️ 17:08 • 2d ago
 
 ---
 
@@ -384,7 +378,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Mark Tilbury
 
-👁️ 602K • 👍 16K • 💬 858 • ⏱️ 0:26 • 2d ago
+👁️ 608K • 👍 16K • 💬 865 • ⏱️ 0:26 • 2d ago
 
 ---
 
@@ -400,7 +394,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,384 • 7h ago
+⬇️ 47,468 • ❤️ 3,399 • 8h ago
 
 ---
 
@@ -412,7 +406,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 954,441 • ❤️ 3,028 • 9d ago
+⬇️ 954,441 • ❤️ 3,035 • 9d ago
 
 ---
 
@@ -422,19 +416,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,009,639 • ❤️ 1,128 • 1d ago
-
----
-
-**[MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)**
-
-*larryvrh*
-
-This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
-
-`text-to-video`
-
-⬇️ 0 • ❤️ 585 • 1d ago
+⬇️ 6,009,639 • ❤️ 1,134 • 1d ago
 
 ---
 
@@ -446,7 +428,19 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 509 • 9h ago
+⬇️ 0 • ❤️ 586 • 11h ago
+
+---
+
+**[MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)**
+
+*larryvrh*
+
+This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
+
+`text-to-video`
+
+⬇️ 0 • ❤️ 593 • 1d ago
 
 ---
 
@@ -458,7 +452,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,510,032 • ❤️ 10,454 • 14d ago
+⬇️ 1,510,032 • ❤️ 10,460 • 14d ago
 
 ---
 
@@ -470,7 +464,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 89,680 • ❤️ 482 • 3d ago
+⬇️ 89,680 • ❤️ 483 • 3d ago
 
 ---
 
@@ -482,7 +476,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,849 • 14h ago
+⬇️ 2,439,083 • ❤️ 1,853 • 16h ago
 
 ---
 
@@ -494,7 +488,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 436 • 5d ago
+⬇️ 0 • ❤️ 437 • 5d ago
 
 ---
 
@@ -548,7 +542,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
 
-▲ 90 • 💬 1 • ⭐ 653 • 6d ago
+▲ 90 • 💬 1 • ⭐ 699 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -600,7 +594,7 @@ mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI system
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 83,594 • 24mo ago
+▲ 84 • 💬 7 • ⭐ 83,631 • 24mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -655,7 +649,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 893 • 1d ago
+⭐ 8.1k • 🔱 896 • 1d ago
 
 ---
 
@@ -673,7 +667,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.9k • 🔱 501 • 2d ago
+⭐ 3.9k • 🔱 504 • 2d ago
 
 ---
 
@@ -683,7 +677,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 48m ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -693,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 445 • 2h ago
+⭐ 2.5k • 🔱 448 • 4h ago
 
 ---
 
@@ -703,7 +697,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.3k • 🔱 196 • 5d ago
+⭐ 2.3k • 🔱 197 • 5d ago
 
 ---
 
@@ -723,7 +717,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 154 • 1h ago
+⭐ 2.1k • 🔱 155 • 2h ago
 
 ---
 
@@ -733,7 +727,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 243 • 1d ago
+⭐ 2.0k • 🔱 244 • 1d ago
 
 ---
 
@@ -743,7 +737,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 49m ago
+⭐ 2.0k • 🔱 252 • 16m ago
 
 ---
 
