@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T09:58:27.055764+00:00'
+updated: '2026-08-10T11:14:25.581574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 09:58 UTC  
+**Last Updated:** August 10, 2026 at 11:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +2.5%  
-**30d:** +6.1%  
-**90d:** -15.1%  
+**24h:** -0.1%  
+**7d:** +2.4%  
+**30d:** +6.0%  
+**90d:** -15.2%  
 **1y:** -54.7%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-5h ago
+6h ago
 
 ---
 
@@ -160,19 +160,11 @@ CoinDesk • 3d ago
 
 ---
 
-**[Crypto News: Ethereum Based Pepeto Sells Out Another Crypto Presale Round in Record Time as Funding Tops $10.6 Million](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-sells-out-another-crypto-presale-round-in-record-time-as-funding-tops-10-6-million-1036434608)**
-
-DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
-
-markets.businessinsider.com • 2h ago
-
----
-
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,7 +172,15 @@ finance.yahoo.com • 2d ago
 
 Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
 
-CoinMarketCap • 1d ago
+CoinMarketCap • 2d ago
+
+---
+
+**[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound?source=feed_all_articles)**
+
+ETHT is a 2x daily leveraged Ethereum vehicle designed for short-term tactical exposure, not long-term ETH ownership. Read why ETHT is a Hold.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -188,7 +188,15 @@ CoinMarketCap • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 17h ago
+
+---
+
+**[Crypto News: Ethereum Based Pepeto Sells Out Another Crypto Presale Round in Record Time as Funding Tops $10.6 Million](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-sells-out-another-crypto-presale-round-in-record-time-as-funding-tops-10-6-million-1036434608)**
+
+DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -196,7 +204,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -220,15 +228,7 @@ The Block • 2d ago
 
 One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
 
-The Motley Fool • 15h ago
-
----
-
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
-
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
-
-TradingView • 2d ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -252,7 +252,7 @@ Looking for the best real world assets crypto to add to your watchlist? In this 
 
 📺 Crypto Nitro
 
-👁️ 8K • 💬 36 • ⏱️ 2:07 • 21h ago
+👁️ 8K • 💬 36 • ⏱️ 2:07 • 22h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 231 • 💬 30 • ⏱️ 17:48 • 12h ago
+👁️ 5K • 👍 231 • 💬 30 • ⏱️ 17:48 • 14h ago
 
 ---
 
@@ -290,7 +290,7 @@ I have serious concerns with Ethereum and I don't see how it works out over time
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 434 • 👍 13 • 💬 2 • ⏱️ 0:43 • 21h ago
+👁️ 434 • 👍 13 • 💬 2 • ⏱️ 0:43 • 23h ago
 
 ---
 
@@ -310,7 +310,7 @@ Jesse Pollak joins us on CLARITY week to break down how Base is leading in tradi
 
 📺 The Rollup
 
-👁️ 3K • 👍 110 • 💬 6 • ⏱️ 25:29 • 12h ago
+👁️ 3K • 👍 110 • 💬 6 • ⏱️ 25:29 • 13h ago
 
 ---
 
@@ -320,7 +320,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 232 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+👁️ 7K • 👍 232 • 💬 36 • ⏱️ 1:06:58 • 3d ago
 
 ---
 

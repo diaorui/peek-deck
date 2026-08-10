@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T09:58:27.050849+00:00'
+updated: '2026-08-10T11:14:25.576003+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 09:58 UTC  
+**Last Updated:** August 10, 2026 at 11:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,200.00
+### $65,057.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** +0.1%  
 **7d:** +1.4%  
 **30d:** +1.9%  
 **90d:** -18.1%  
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-18h ago
+19h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-20h ago
+21h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-20h ago
+22h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-20h ago
+21h ago
 
 ---
 
@@ -133,7 +133,7 @@ I started with daily investments early this year and before I realized I passed 
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -153,7 +153,7 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -161,43 +161,29 @@ CoinDesk • 19h ago
 
 Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 18h ago
+
+---
+
+**[Coldcard Hack Fallout: Where Bitcoin Custody Goes Next](https://www.forbes.com/sites/boazsobrado/2026/08/10/after-a-130-million-hack-bitcoin-asks-who-should-hold-the-keys/)**
+
+The Coldcard exploit has drained some $130 million. Onramp CEO Michael Tanguma says self-custody and ETFs share the same flaw: a single point of failure.
+
+Forbes • 29m ago
 
 ---
 
 **[Bitcoin Fund Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin Breaks $65K as Crucial U.S. CPI Report Puts $65,800 Breakout in Focus](https://bitcoinfoundation.org/news/bitcoin/bitcoin-breaks-65k-as-crucial-u-s-cpi-report-puts-65800-breakout-in-focus/)**
+**[Bitcoin Miners Demand Ousting of OCEAN Leadership After BIP-110 Fork Disaster](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-demand-ousting-ocean-095118577.html)**
 
-Bitcoin has reclaimed $65,000 ahead of a closely watched U.S. inflation report, with ETF inflows and improving momentum adding support.
+Bitcoin miners demand OCEAN leadership changes after the pool admitted redirecting user hashrate to the failed BIP-110 minority chain.
 
-Bitcoin Foundation • 29m ago
-
----
-
-**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
-
-Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
-
-finance.yahoo.com • 1d ago
-
----
-
-**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
-
-The billionaire says he made $15 billion for his company in 2025...
-
-Forbes • 22h ago
-
----
-
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
-
-Investing.com • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,21 +191,37 @@ Investing.com • 1d ago
 
 H100 Group AB ("H100" or the "Company") today announces the successful completion of its previously announced acquisition of NSD AS (formerly WR Start Up 594 AS) (the "Target Company"), which upon completion of a reorganization represents direct and indirect ownership of all shares in Moonshot AS a…
 
-TradingView • 3h ago
-
----
-
-**[Hackers Figure Out a Trick to Steal Bitcoin From Cold Wallets, Grab $110 Million](https://futurism.com/future-society/hackers-steal-innocent-people-bitcoin)**
-
-Hackers made away with more than $100 million worth of Bitcoin from thousands of secured "cold" wallets thanks to a glaring software bug.
-
-Futurism • 1d ago
+TradingView • 5h ago
 
 ---
 
 **[Bitcoin Stays Higher After Weak Jobs Data Dampen Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/bitcoin-stays-higher-after-weak-jobs-data-dampen-rate-rise-bets-fbqWBXgkBuiAoCf7TOFJ)**
 
-Barron's • 1h ago
+Barron's • 2h ago
+
+---
+
+**[1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/)**
+
+Within the next five years, Bitcoin could soar past the $1 million price level.
+
+The Motley Fool • 22h ago
+
+---
+
+**[Michael Saylor Predicts Bitcoin Will Gain 30% Annually for 20 Years](https://www.benzinga.com/crypto/cryptocurrency/26/08/61063804/michael-saylor-predicts-bitcoin-will-gain-30-annually-for-20-years)**
+
+Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
+
+Benzinga • 20h ago
+
+---
+
+**[Another Big Macro Week Is Here: 3 Events That Could Move Bitcoin](https://cryptopotato.com/another-big-macro-week-is-here-3-events-that-could-move-bitcoin/)**
+
+BTC and the crypto market are entering another potentially volatile trading week because of these factors.
+
+CryptoPotato • 5h ago
 
 ---
 
@@ -270,7 +272,7 @@ A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal
 
 Own BitcoinHome.com today. Secure checkout and guided transfer support. No hidden fees.
 
-⬆️ 2 • 💬 0 • 12m ago • [Spaceship](https://bitcoinhome.com)
+⬆️ 2 • 💬 0 • 1h ago • [Spaceship](https://bitcoinhome.com)
 
 ---
 
@@ -298,11 +300,13 @@ OBTC is a Bitcoin-derived lifecycle-money experiment. - organicbitcoin/obtcd
 
 ---
 
-**[Coldcard wallet RNG flaw likely linked to $88M Bitcoin theft](https://news.ycombinator.com/item?id=49154116)**
+**[Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39?](https://news.ycombinator.com/item?id=49207230)**
 
-A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.
+In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.
 
-⬆️ 2 • 💬 0 • 6d ago • [BleepingComputer](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+A firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a deterministic software PRNG, seeded only from the serial number
+
+⬆️ 1 • 💬 1 • 3d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
 
 ---
 
@@ -386,7 +390,7 @@ Like this analysis? Get daily premium coverage of the market's leading stocks: h
 
 📺 Wicked Stocks
 
-👁️ 2K • 👍 69 • 💬 6 • ⏱️ 3:23 • 17h ago
+👁️ 2K • 👍 69 • 💬 6 • ⏱️ 3:23 • 18h ago
 
 ---
 
@@ -396,7 +400,7 @@ BTC humiliates NewsNation host ON HER OWN SHOW Please order my new book, THE DAY
 
 📺 Brian Tyler Cohen
 
-👁️ 103K • 👍 7K • 💬 868 • ⏱️ 1:52 • 11h ago
+👁️ 103K • 👍 7K • 💬 868 • ⏱️ 1:52 • 12h ago
 
 ---
 
