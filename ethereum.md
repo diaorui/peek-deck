@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T05:27:37.083288+00:00'
+updated: '2026-08-10T06:52:14.209238+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 05:27 UTC  
+**Last Updated:** August 10, 2026 at 06:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,53 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +2.5%  
-**30d:** +6.1%  
-**90d:** -15.1%  
-**1y:** -54.7%  
+**24h:** +0.4%  
+**7d:** +3.0%  
+**30d:** +6.6%  
+**90d:** -14.7%  
+**1y:** -54.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.50B
+**Market Cap:** $232.38B
 Rank #2
 
 **Circulating Supply:** 120,682,058 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.1%
 
 **All-Time Low:** $0.43
-+442923.8%
++444621.3%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 10, 2026](https://www.reddit.com/r/ethereum/comments/1vkbhyh/daily_general_discussion_august_10_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
 
 **[Daily General Discussion August 09, 2026](https://www.reddit.com/r/ethereum/comments/1vjgud3/daily_general_discussion_august_09_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[CCA Monitor update: 6 chains, 5 real auctions, and a few things that broke along the way.](https://www.reddit.com/r/ethereum/comments/1vkaohy/cca_monitor_update_6_chains_5_real_auctions_and_a/)**
+
+I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
+
+2h ago
 
 ---
 
@@ -100,19 +116,19 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 ---
 
-**[Daily General Discussion August 06, 2026](https://www.reddit.com/r/ethereum/comments/1vgupjx/daily_general_discussion_august_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 **[I rebuilt OGame on EVM, fully open source](https://www.reddit.com/r/ethereum/comments/1vhcq8d/i_rebuilt_ogame_on_evm_fully_open_source/)**
 
 Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
 
 3d ago
+
+---
+
+**[Daily General Discussion August 06, 2026](https://www.reddit.com/r/ethereum/comments/1vgupjx/daily_general_discussion_august_06_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+4d ago
 
 ---
 
@@ -127,22 +143,6 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 **[We made a free tool to check if you have any lost tokens (ETH, USDC, etc...) waiting to be claimed](https://www.reddit.com/r/ethereum/comments/1vgb19k/we_made_a_free_tool_to_check_if_you_have_any_lost/)**
 
 TL;DR and quick context - I work at DeFi Saver, and we built a completely free tool that lets you check if you have any smart wallets that have "lost tokens" sitting around waiting to be claimed. Just re-iterating, there are no strings attached - it's completely free and we quickly built it after realizing there was over $67M in unclaimed tokens sitting across 87,021 smart wallets. I'm just disclosing that I work for DFS to underscore that this isn't some hidden shill for DFS. No need to connect your wallet to the tool - just run your wallet address, check if you have tokens to claim - and claim them on DeFi Saver. The leftover tokens typically happen as leftover dust from DeFi transactions, long-forgotten airdrop (such as $UNI) or regular DeFi activity where you forgot the funds on your smart wallet. Full Info about the tool: We found over $67M in unclaimed tokens sitting in numerous smart wallets across the DeFi landscape. Not random tokens, but blue chip assets - including: $ETH - $3.4M $USDT - $6.9M $sUSDS - $10M $WBTC - $6M And many more. We then built a tool that lets you claim the tokens you forgot you had. Simply connect your main wallet to TokenSaver, check, and claim on DeFi Saver: https://tokensaver.fyi/ How do these assets end up in a smart wallet? Option 1: When you manage your lending position through a DeFi app (such as DeFi Saver, Summer.Fi, Instadapp) - it utilizes a smart wallet in order to perform advanced transactions such as 1-tx leveraging, unwinding, and more. All of these advanced transactions typically require swapping an asset to pay back a flash loan. When these swaps happen - It's possible that it swaps a bit more than necessary to make sure the transaction goes through despite small price movement. Those leftover funds remain sitting in the smart wallet holding the position. Or, perhaps you have/had a Maker position? All Maker CDPs are held on DSProxy smart wallets, so it’s worth connecting your CDP owner wallet to TokenSaver - maybe there are some leftover funds waiting to be claimed. That’s up to 8 years of potentially accumulating assets that never ended up in your EOA wallet. Option 2: You were eligible for an airdrop and received it due to your DeFi activity - but because it was distributed to your smart wallet, you never realized it. There's currently over $5.5M in $UNI that were likely distributed this way - and are unclaimed to this day. Option 3: Through regular DeFi activity over the years - some funds might have ended up on your smart wallet, and due to smart wallets typically lacking dedicated frontends - you forgot about them. While Safe (Gnosis) smart wallets have a dedicated UI - some, such as DSProxy, DSA, and SummerFi proprietary wallets lack it. So, it’s possible you continued on your DeFi journey without ever realizing you had funds leftover on the smart wallet(s). Since smart wallets need to have an owner wallet - you should simply connect with your main wallet, and TokenSaver will find all smart wallets owned by it. Note for nested Safe owners - Please input your owner Safe’s address into TokenSaver, not your EOA. You can then access DeFi Saver through the Safe app and claim your funds that way. That's pretty much it! Please try the tool out and let me know if you found anything interesting, such as a bag that you never realized you had available to claim :)
-
-4d ago
-
----
-
-**[Daily General Discussion August 05, 2026](https://www.reddit.com/r/ethereum/comments/1vfxpry/daily_general_discussion_august_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[ERC-8004’s reputation problem and the LLM-as-judge problem are the same problem](https://www.reddit.com/r/ethereum/comments/1vg5cwj/erc8004s_reputation_problem_and_the_llmasjudge/)**
-
-Three separate lines of work from this year point at the same gap, and as far as I can tell none of them cite each other. I’ve been running an agent labor market on Base mainnet with real USDC since July, so I hit this from the implementation side and only found the papers afterward. 1. The ERC-8004 empirical study (2606.26028) measured the deployed ecosystem across Ethereum, BSC and Base. Coordinated Sybil behaviour among reviewers at 73.5% / 59.2% / 90.6%. Only 3% / 4% / 15% of registrations expose a live endpoint. Their conclusion: the Reputation Registry can’t work as a trust signal because “values are not commensurable” and feedback is rarely grounded in verifiable interaction. 2. Separately, a pile of 2026 work on LLM-as-judge robustness (2603.06594, 2506.09443) shows model judges can be pushed to maximum scores with short appended phrases, and that those phrases transfer between models. One paper’s title is literally “A Coin Flip for Safety.” 3. And “Trust Without Trusting” (2605.06738) proposes recomputable trust: signed events, a deterministic fold, published evidence, so a third party can recompute a trust verdict without trusting whoever produced it. It works over existing on-chain data, no new standard needed. Here’s the thing. Paper 3 defines the fold but explicitly leaves the weighting open — it says combining verdicts of different confidence is supported but doesn’t specify how. Papers 1 and 2 are, together, the reason that weighting can’t be left open. If a mechanically reproduced result and a model’s opinion enter the same fold at the same weight, the fold is only as strong as its weakest input, and paper 2 says that input is a coin flip. The concrete gap: ERC-8004’s Validation Registry stores a verdict as one number, 0–100. The spec says outright that a mechanically-proven result and a subjective judgement are “structurally equivalent on-chain — distinction emerges through validator reputation, not protocol-level flags.” But validator reputation is the thing paper 1 measured as 73–90% Sybil. The fallback is the broken part. There’s also a taxonomy paper (2511.03434) that sorts inter-agent trust into Brief / Claim / Proof / Stake / Reputation / Constraint and concludes no single one suffices. I think it’s right but that “Proof” is one bucket too coarse. A canary that only the target could produce, and an LLM saying the work looks good, are both “proof” in that taxonomy and are not remotely the same thing. Paper 2 is the evidence for splitting it. What I did about it, for whatever one implementation is worth. I tag every verdict with a forge-resistance class before it goes anywhere: reproducible (a third party can re-run it and get the same answer — a canary, the requester’s own CI, a mutation-graded suite), mechanical (deterministic but needs my inputs to reproduce), model (an LLM or vision model’s judgement), attested (signed but not reproducible), declared (unverified self-report, which is what 8004 feedback defaults to). The class rides along in the tag field the Validation Registry already has, so a consumer can weight by it instead of averaging flat. Fifty declared 100s weigh less than one reproducible 60. That’s it. It’s not a Sybil solution and I want to be clear I haven’t solved that — I Sybil-attacked my own market and wrote up how it went. It’s the missing coordinate that lets a downstream fold apply a solution, which is more than the standard currently offers and less than a fix. Two things I’d genuinely like to be argued with on: **•** Is “reproducible vs. model” the right primary axis, or should it be something else (cost to forge in dollars? number of independent parties required?). **•** The 8004 tag field is a string and nobody agrees on its contents. Is there any appetite for a registry-level convention, or is off-chain interpretation the intended design? Disclosure: I used an LLM to help tidy the writing here. The measurements, the code and the argument are mine; the paper links are there so you can check the numbers rather than take my word for them.
 
 4d ago
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 11h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -180,7 +180,15 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 MONACO, Aug.  09, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward AlphaPepe as the presale moves closer to its August 19th launch u...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC bulls strengthen, ETH eyes breakout, XRP rebounds](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-bulls-strengthen-eth-eyes-breakout-xrp-rebounds-202608100230)**
+
+Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
+
+FXStreet • 4h ago
 
 ---
 
@@ -200,14 +208,6 @@ The Block • 5d ago
 
 ---
 
-**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
-
-One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
-
-The Motley Fool • 11h ago
-
----
-
 **[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
 
 US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
@@ -216,19 +216,19 @@ TradingView • 2d ago
 
 ---
 
+**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
+
+One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
+
+The Motley Fool • 12h ago
+
+---
+
 **[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.benzinga.com/crypto/cryptocurrency/26/08/61046907/clarity-act-delay-means-its-pretty-much-dead-expert-says-bitcoin-ethereum-dont-care)**
 
 Bitcoin and Ethereum remain resilient despite fading hopes for U.S. crypto legislation. Other altcoins, such as Solana and Dogecoin, are also performing well.
 
 Benzinga • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
-
-Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 270 • 💬 8 • ⏱️ 7:37 • 1d ago
+👁️ 6K • 👍 274 • 💬 8 • ⏱️ 7:37 • 1d ago
 
 ---
 
@@ -252,7 +252,15 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 3K • 👍 186 • 💬 84 • ⏱️ 17:48 • 8h ago
+👁️ 4K • 👍 215 • 💬 26 • ⏱️ 17:48 • 9h ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 534 • 💬 22 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -262,7 +270,37 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 641 • 💬 105 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 643 • 💬 105 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
+
+I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 380 • 👍 13 • 💬 2 • ⏱️ 0:43 • 18h ago
+
+---
+
+**[Jesse Pollak: Why Base Will Make Ethereum Win Long-Term (Consumer Grade Scale)](https://www.youtube.com/watch?v=E3skTXfZ6_Q)**
+
+Jesse Pollak joins us on CLARITY week to break down how Base is leading in trading, onchain finance, and payments. He also ...
+
+📺 The Rollup
+
+👁️ 2K • 👍 94 • 💬 6 • ⏱️ 25:29 • 9h ago
+
+---
+
+**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+
+Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 123 • 💬 12 • ⏱️ 1:08 • 2d ago
 
 ---
 
@@ -276,61 +314,21 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 ---
 
-**[Ethereum | Ethereum Prediction | August 9 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rUSSSManu1Q)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=mCd7Fu4GAuA)**
 
-MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Forex Forecast | Elliott Wave Analysis ReadyForex
+📺 Crypto Gyan
 
-👁️ 39 • 👍 2 • 💬 2 • ⏱️ 4:43 • 18h ago
-
----
-
-**[They Just Gave An Intense Ripple XRP Price Target, Bitcoin, Ethereum &amp; Solana Are Undervalued](https://www.youtube.com/watch?v=DPCE5cvNX5A)**
-
-Not a day goes by where we dont all speculate just how much cryptocurrency assets could rise over the coming years. The most ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 21K • 👍 2K • 💬 235 • ⏱️ 17:35 • 2d ago
+👁️ 234 • 👍 38 • ⏱️ 7:52 • 2h ago
 
 ---
 
-**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 8K • 👍 472 • 💬 82 • ⏱️ 13:58 • 1d ago
-
----
-
-**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading  #livetrading #gold@Tradewithrakhi](https://www.youtube.com/watch?v=2cfsns1y5zI)**
-
-LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #livetrading #live #goldtrading #cryptotrading #gold @Tradewithrakhi JOIN ...
-
-📺 Trade With Rakhi
-
-👁️ 12K • 👍 1K • 4h ago
-
----
-
-**[ETH: Why August will make Ethereum Millionaires.](https://www.youtube.com/watch?v=Q0ubXSVJOsw)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 30 • 👍 3 • ⏱️ 8:14 • 1d ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+**[BEST INVESTMENT ADVICE! #xrp #ethereum #finance](https://www.youtube.com/watch?v=TZXeVdGLX9c)**
 
 📺 CryptoWendyO
 
-👁️ 9K • 👍 524 • 💬 22 • ⏱️ 1:29 • 1d ago
+👁️ 2K • 👍 136 • 💬 2 • ⏱️ 1:00 • 9h ago
 
 ---
 

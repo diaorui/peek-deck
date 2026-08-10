@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T05:27:37.086493+00:00'
+updated: '2026-08-10T06:52:14.212384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 05:27 UTC  
+**Last Updated:** August 10, 2026 at 06:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-18h ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
@@ -128,13 +128,13 @@ The Information • 2d ago
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 2d ago
+wsj.com • 2d ago
 
 ---
 
-**[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
+**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
 
-USNI News • 3d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -146,9 +146,19 @@ politico.eu • 3d ago
 
 ---
 
-**[Humanoids are as much a compute story as a robotics one](https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709)**
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
 
-Investing.com • 23h ago
+Humans will get the AI models they deserve
+
+theregister.com • 2d ago
+
+---
+
+**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
+
+Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -156,23 +166,13 @@ Investing.com • 23h ago
 
 China intends to integrate robot dogs at its future lunar base station.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 14h ago
 
 ---
 
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+**[Humanoids are as much a compute story as a robotics one](https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709)**
 
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
-
-Global News • 1d ago
-
----
-
-**[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
-
-HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
-
-HII • 3d ago
+Investing.com • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ HII • 3d ago
 
 Wang Xingxing, chairman and CEO of Unitree Robotics, the world's largest humanoid robot maker by shipments, has become China's first humanoid robot billionaire ahead of the company's Shanghai listing.
 
-VnExpress International • 21h ago
+VnExpress International • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 46K • 👍 2K • 💬 203 • ⏱️ 9:02 • 1d ago
+👁️ 47K • 👍 2K • 💬 204 • ⏱️ 9:02 • 1d ago
 
 ---
 
@@ -204,7 +204,17 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 34K • 👍 369 • 💬 416 • ⏱️ 1:36 • 5d ago
+👁️ 34K • 👍 369 • 💬 417 • ⏱️ 1:36 • 5d ago
+
+---
+
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+
+📺 FRAME
+
+👁️ 76K • 👍 1K • ⏱️ 17:44 • 3d ago
 
 ---
 
@@ -214,17 +224,7 @@ Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: ht
 
 📺 Excessive Overkill
 
-👁️ 132K • 👍 4K • 💬 237 • ⏱️ 47:03 • 4d ago
-
----
-
-**[AGIBOT A3 Ultra Robot Handles Jumps Like a Human](https://www.youtube.com/watch?v=wcdKAuyGVM8)**
-
-The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressive balance, controlled landings, and the ability ...
-
-📺 DPCcars
-
-👁️ 16K • 👍 285 • 💬 46 • ⏱️ 1:20 • 4d ago
+👁️ 133K • 👍 4K • 💬 237 • ⏱️ 47:03 • 4d ago
 
 ---
 
@@ -234,17 +234,17 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 217K • 👍 618 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 229K • 👍 632 • 💬 98 • ⏱️ 40:27 • 3d ago
 
 ---
 
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+**[AGIBOT A3 Ultra Robot Handles Jumps Like a Human](https://www.youtube.com/watch?v=wcdKAuyGVM8)**
 
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressive balance, controlled landings, and the ability ...
 
-📺 China Fact Chasers
+📺 DPCcars
 
-👁️ 51K • 👍 3K • 💬 483 • ⏱️ 26:40 • 5d ago
+👁️ 16K • 👍 286 • 💬 47 • ⏱️ 1:20 • 4d ago
 
 ---
 
@@ -252,7 +252,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 Tyrecordslol
 
-👁️ 2.7M • 👍 121K • 💬 7K • ⏱️ 0:58 • 2d ago
+👁️ 2.7M • 👍 122K • 💬 7K • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -262,7 +262,7 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 
 📺 WOLF Financial
 
-👁️ 34K • 👍 900 • 💬 214 • ⏱️ 48:23 • 1d ago
+👁️ 35K • 👍 917 • 💬 217 • ⏱️ 48:23 • 1d ago
 
 ---
 
@@ -272,17 +272,17 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 📺 Boston Dynamics
 
-👁️ 166K • 👍 11K • 💬 524 • ⏱️ 2:03 • 5d ago
+👁️ 167K • 👍 11K • 💬 527 • ⏱️ 2:03 • 5d ago
 
 ---
 
-**[Trump Administration Bans Chinese Humanoid Robots | The AI War Begins? | By Ankit Sir](https://www.youtube.com/watch?v=poNXL5lzuDg)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-https://youtu.be/5llFYp6KkSQ CJP vs Government | Dharmendra Pradhan Resignation That Changed the Political Game | By Ankit ...
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-📺 Apni Pathshala
+📺 Custom Adventurist
 
-👁️ 234K • 👍 15K • 💬 475 • ⏱️ 14:02 • 6d ago
+👁️ 37K • 👍 2K • 💬 177 • ⏱️ 1:02 • 3d ago
 
 ---
 
