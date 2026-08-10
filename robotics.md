@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T08:26:45.755367+00:00'
+updated: '2026-08-10T09:58:27.058346+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 08:26 UTC  
+**Last Updated:** August 10, 2026 at 09:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,63 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
+
+13h ago
+
+---
+
+**[Found this Boston Dynamics Spot robot calibration target at a thrift store — anyone know more about it?](https://www.reddit.com/r/robotics/comments/1vjqys3/found_this_boston_dynamics_spot_robot_calibration/)**
+
+Title. I’m not a robotics guy - at all - but it seems like this could be important for someone with one of these robots? I plan to hang it up as art in my home unless there is some aimless robot somewhere depending on it for calibration. Any info would be helpful. Thanks! It was $6 for anyone curious. I’ll probably end up using it to barter after the AI apocalypse.
+
+19h ago
+
+---
+
+**[I Made a Palm-Sized Three-Wheel Omnidirectional Robot](https://www.reddit.com/r/robotics/comments/1vjnv9g/i_made_a_palmsized_threewheel_omnidirectional/)**
+
+22h ago
+
+---
+
+**[Vision-based tactile sensing is becoming the default for high-precision robot fingertips — and the reason is structural, not hype](https://www.reddit.com/r/robotics/comments/1vkfnp9/visionbased_tactile_sensing_is_becoming_the/)**
+
+Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
+
+51m ago
+
+---
+
 **[Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.](https://www.reddit.com/r/robotics/comments/1vj4oym/built_a_realtime_underwater_image_processing/)**
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
 1d ago
+
+---
+
+**[À la recherche de passionnés pour concevoir des humanoïdes open-source et rivaliser avec Unitree](https://www.reddit.com/r/robotics/comments/1vkdbil/à_la_recherche_de_passionnés_pour_concevoir_des/)**
+
+Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
+
+3h ago
+
+---
+
+**[Looking for Indian teammates for JAXA Kibo-RPC 7 (Space Robotics)](https://www.reddit.com/r/robotics/comments/1vkd13v/looking_for_indian_teammates_for_jaxa_kiborpc_7/)**
+
+Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
+
+3h ago
+
+---
+
+**[🤖 Looking for teammates | Fully-Funded Project](https://www.reddit.com/r/robotics/comments/1vjmw7c/looking_for_teammates_fullyfunded_project/)**
+
+Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
+
+23h ago
 
 ---
 
@@ -46,63 +98,11 @@ This is a short clip from my latest underwater field test. The system is process
 
 ---
 
-**[He fell😭](https://www.reddit.com/r/robotics/comments/1viqcje/he_fell/)**
+**[Non-Physical Intelligence Has A Ceiling](https://www.reddit.com/r/robotics/comments/1vjt7c4/nonphysical_intelligence_has_a_ceiling/)**
 
-While I was teaching my Monkey robot to walk he fell which broke both his arms 😅 But it doesn't matter I had printed them and reattached If you have any advice to make it work you are welcome !!!
+Reasoning alone cannot predict the chaotic physical world. Without a sensory and motor interface to reality, non-physical AI will not deliver the scientific and technological breakthroughs we expect.
 
-2d ago
-
----
-
-**[Full cup of tea 🫖](https://www.reddit.com/r/robotics/comments/1vivqbm/full_cup_of_tea/)**
-
-1d ago
-
----
-
-**[🤖 Looking for teammates | Fully-Funded Project](https://www.reddit.com/r/robotics/comments/1vjmw7c/looking_for_teammates_fullyfunded_project/)**
-
-Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
-
-21h ago
-
----
-
-**[I’m trying to get better at robotics but my pc may be an issue](https://www.reddit.com/r/robotics/comments/1vjd8mk/im_trying_to_get_better_at_robotics_but_my_pc_may/)**
-
-I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
-
-1d ago
-
----
-
-**[How do you give a microgripper a sense of touch?](https://www.reddit.com/r/robotics/comments/1vir7vk/how_do_you_give_a_microgripper_a_sense_of_touch/)**
-
-​ Fabricated directly on the tip of an optical fiber using Two-Photon Polymerization, this monolithic 3D microgripper combines microscale manipulation with integrated force sensing. As it grasps microscopic objects, optical interferometry determines the forces acting on the gripper. The result is a compact microrobotic tool measuring no more than 100 um across, with potential applications in biomedical research and microsurgery. Watch the video to see the gripper in action.
-
-1d ago
-
----
-
-**[Designing & training a robot from start to finish for beginners](https://www.reddit.com/r/robotics/comments/1viroes/designing_training_a_robot_from_start_to_finish/)**
-
-I use Isaacsim & lab in this video, which I have an installation guide for on my channel, it can be installed easily. The video is aimed at beginners who want to just start training a robot quickly. It has been helpful for people so far so I thought I would share it here. Any issues (big or small) with any part of your project please feel free to message me here, on youtube or email.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=k6gZSa-QdJg) • 1d ago
-
----
-
-**[Active spine vs rigid (cheetah) experiment](https://www.reddit.com/r/robotics/comments/1vip6mk/active_spine_vs_rigid_cheetah_experiment/)**
-
-Does an active spine S-Cheetah actually improve quadruped locomotion, versus the rigid trunk that MIT settled on in Cheetah 3 and mini ? Will share the results later today.
-
-2d ago
-
----
-
-**[Servoválvula proporcional direccional 4/3 fluidos y aire para arduino, esp32, rp2040, microbit. Etc.](https://www.reddit.com/r/robotics/comments/1vj4j90/servoválvula_proporcional_direccional_43_fluidos/)**
-
-1d ago
+🔗 [chaotropy.substack.com](https://chaotropy.substack.com/p/non-physical-intelligence-has-a-ceiling) • 18h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -128,7 +128,7 @@ The Information • 2d ago
 
 **[What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 5h ago
+Reuters • 7h ago
 
 ---
 
@@ -142,13 +142,19 @@ Investing.com • 1d ago
 
 Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
 
-Interesting Engineering • 16m ago
+Interesting Engineering • 1h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-WSJ • 5h ago
+WSJ • 2d ago
+
+---
+
+**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -160,27 +166,19 @@ politico.eu • 3d ago
 
 ---
 
+**[Robotic guitar player turns digital music into physical sound](https://newatlas.com/music/3d-printable-robot-megcell-pulse/)**
+
+I'm more intrigued by the premise behind this wild robotics project than the technology itself: "What if digital music could control a real instrument and become physical sound again?"
+
+newatlas.com • 15h ago
+
+---
+
 **['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
 
 Humans will get the AI models they deserve
 
-theregister.com • 2d ago
-
----
-
-**[China’s 2035 moon base could see robot dogs patrol, build and explore](https://interestingengineering.com/ai-robotics/robot-dogs-in-space-china)**
-
-China intends to integrate robot dogs at its future lunar base station.
-
-Interesting Engineering • 15h ago
-
----
-
-**[Saint Agnes performs 1st spine surgery in Central Valley using Mako 4 robotic system](https://abc30.com/post/saint-agnes-performs-1st-spine-surgery-central-valley-using-mako-4-robotic-system/19642621/)**
-
-Saint Agnes Medical Center says it has become the first hospital in the Central Valley to perform spine surgery using the Mako 4.
-
-ABC30 Fresno • 10h ago
+The Register • 2d ago
 
 ---
 
@@ -194,7 +192,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 47K • 👍 2K • 💬 204 • ⏱️ 9:02 • 1d ago
+👁️ 48K • 👍 2K • 💬 204 • ⏱️ 9:02 • 1d ago
 
 ---
 
@@ -204,17 +202,17 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 34K • 👍 369 • 💬 417 • ⏱️ 1:36 • 5d ago
+👁️ 34K • 👍 370 • 💬 417 • ⏱️ 1:36 • 5d ago
 
 ---
 
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
+**[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
 
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
+For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
 
-📺 FRAME
+📺 Broken Business Models
 
-👁️ 76K • 👍 1K • ⏱️ 17:44 • 3d ago
+👁️ 5K • 👍 248 • 💬 53 • ⏱️ 20:54 • 5h ago
 
 ---
 
@@ -224,17 +222,7 @@ Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: ht
 
 📺 Excessive Overkill
 
-👁️ 133K • 👍 4K • 💬 237 • ⏱️ 47:03 • 4d ago
-
----
-
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 229K • 👍 632 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 133K • 👍 4K • 💬 239 • ⏱️ 47:03 • 4d ago
 
 ---
 
@@ -244,15 +232,27 @@ The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressi
 
 📺 DPCcars
 
-👁️ 16K • 👍 286 • 💬 47 • ⏱️ 1:20 • 4d ago
+👁️ 17K • 👍 288 • 💬 47 • ⏱️ 1:20 • 4d ago
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
-📺 Tyrecordslol
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
-👁️ 2.7M • 👍 122K • 💬 7K • ⏱️ 0:58 • 2d ago
+📺 Cyrus Janssen
+
+👁️ 240K • 👍 629 • 💬 98 • ⏱️ 40:27 • 3d ago
+
+---
+
+**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+
+Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 52K • 👍 3K • 💬 485 • ⏱️ 26:40 • 5d ago
 
 ---
 
@@ -262,7 +262,15 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 
 📺 WOLF Financial
 
-👁️ 35K • 👍 917 • 💬 217 • ⏱️ 48:23 • 1d ago
+👁️ 36K • 👍 929 • 💬 219 • ⏱️ 48:23 • 1d ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 2.8M • 👍 123K • 💬 7K • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -272,17 +280,7 @@ Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions a
 
 📺 Boston Dynamics
 
-👁️ 167K • 👍 11K • 💬 527 • ⏱️ 2:03 • 5d ago
-
----
-
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
-
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
-
-📺 Custom Adventurist
-
-👁️ 37K • 👍 2K • 💬 177 • ⏱️ 1:02 • 3d ago
+👁️ 168K • 👍 11K • 💬 532 • ⏱️ 2:03 • 5d ago
 
 ---
 

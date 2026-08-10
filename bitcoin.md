@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T08:26:45.745989+00:00'
+updated: '2026-08-10T09:58:27.050849+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 08:26 UTC  
+**Last Updated:** August 10, 2026 at 09:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,154.75
+### $65,200.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +1.9%  
-**30d:** +2.4%  
-**90d:** -17.7%  
-**1y:** -45.0%  
+**24h:** +0.0%  
+**7d:** +1.4%  
+**30d:** +1.9%  
+**90d:** -18.1%  
+**1y:** -45.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1308.40B
+**Market Cap:** $1302.76B
 Rank #1
 
-**Circulating Supply:** 20,068,225 BTC
+**Circulating Supply:** 20,068,275 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.3%
+-48.5%
 
 **All-Time Low:** $67.81
-+96048.1%
++95629.2%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-16h ago
+18h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-18h ago
+20h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-19h ago
+20h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ I started with daily investments early this year and before I realized I passed 
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -153,43 +153,37 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
-**[Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks](https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks)**
+**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://247wallst.com/investing/2026/08/09/this-1-number-says-michael-saylors-bitcoin-sales-are-about-to-end/)**
 
-Supporters of BIP-110 split off into a minority Bitcoin chain on Saturday, but it mined only two blocks in about eight hours before stalling.
+Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-Decrypt • 12h ago
-
----
-
-**[Bluebird Mining Ventures increases NAV as Bitcoin stream begins generating recurring income](https://uk.finance.yahoo.com/news/bluebird-mining-ventures-increases-nav-064912087.html)**
-
-Bluebird Mining Ventures (LSE:BMV) reported that its first Bitcoin streaming investment completed its first full month of operations in July, producing recurring revenue in line with management expectations. The performance provides an early demonstration of the company’s streaming model, which is designed to generate income without requiring upfront capital commitments.
-
-Yahoo Finance UK • 1h ago
+24/7 Wall St. • 17h ago
 
 ---
 
-**[H100 completes acquisition, increasing Bitcoin holdings to 3,506 Bitcoin](https://www.tradingview.com/news/modular_finance:b9fad478a075c:0-h100-completes-acquisition-increasing-bitcoin-holdings-to-3-506-bitcoin/)**
+**[Bitcoin Fund Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-H100 Group AB ("H100" or the "Company") today announces the successful completion of its previously announced acquisition of NSD AS (formerly WR Start Up 594 AS) (the "Target Company"), which upon completion of a reorganization represents direct and indirect ownership of all shares in Moonshot AS a…
-
-TradingView • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+**[Bitcoin Breaks $65K as Crucial U.S. CPI Report Puts $65,800 Breakout in Focus](https://bitcoinfoundation.org/news/bitcoin/bitcoin-breaks-65k-as-crucial-u-s-cpi-report-puts-65800-breakout-in-focus/)**
 
-Investing.com • 23h ago
+Bitcoin has reclaimed $65,000 ahead of a closely watched U.S. inflation report, with ETF inflows and improving momentum adding support.
+
+Bitcoin Foundation • 29m ago
 
 ---
 
-**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
+**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
 
-Bloomberg.com • 1d ago
+Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
+
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -197,7 +191,21 @@ Bloomberg.com • 1d ago
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 20h ago
+Forbes • 22h ago
+
+---
+
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+
+Investing.com • 1d ago
+
+---
+
+**[H100 completes acquisition, increasing Bitcoin holdings to 3,506 Bitcoin](https://www.tradingview.com/news/modular_finance:b9fad478a075c:0-h100-completes-acquisition-increasing-bitcoin-holdings-to-3-506-bitcoin/)**
+
+H100 Group AB ("H100" or the "Company") today announces the successful completion of its previously announced acquisition of NSD AS (formerly WR Start Up 594 AS) (the "Target Company"), which upon completion of a reorganization represents direct and indirect ownership of all shares in Moonshot AS a…
+
+TradingView • 3h ago
 
 ---
 
@@ -209,19 +217,9 @@ Futurism • 1d ago
 
 ---
 
-**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://247wallst.com/investing/2026/08/09/this-1-number-says-michael-saylors-bitcoin-sales-are-about-to-end/)**
+**[Bitcoin Stays Higher After Weak Jobs Data Dampen Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/bitcoin-stays-higher-after-weak-jobs-data-dampen-rate-rise-bets-fbqWBXgkBuiAoCf7TOFJ)**
 
-Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
-
-24/7 Wall St. • 15h ago
-
----
-
-**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/08/09/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
-
-In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
-
-fool.com • 21h ago
+Barron's • 1h ago
 
 ---
 
@@ -233,7 +231,7 @@ fool.com • 21h ago
 
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
-⬆️ 9 • 💬 4 • 4d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
+⬆️ 9 • 💬 4 • 5d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -265,6 +263,14 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal from individuals storing their own cryptocurrency
 
 ⬆️ 3 • 💬 0 • 5d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
+
+---
+
+**[Bitcoin Home](https://news.ycombinator.com/item?id=49241503)**
+
+Own BitcoinHome.com today. Secure checkout and guided transfer support. No hidden fees.
+
+⬆️ 2 • 💬 0 • 12m ago • [Spaceship](https://bitcoinhome.com)
 
 ---
 
@@ -300,16 +306,6 @@ A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal 
 
 ---
 
-**[Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39?](https://news.ycombinator.com/item?id=49207230)**
-
-In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.
-
-A firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a deterministic software PRNG, seeded only from the serial number
-
-⬆️ 1 • 💬 1 • 3d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -320,77 +316,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 75K • 👍 3K • 💬 78 • ⏱️ 47:31 • 1d ago
-
----
-
-**[Bitcoin FORKED Then $1 BILLION Flooded Into ETFs](https://www.youtube.com/watch?v=hxP7_BW8Fp8)**
-
-Bitcoin actually split into two competing chains, and for a few minutes its latest civil war stopped being theoretical. BIP-110 put ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 236 • ⏱️ 14:19 • 9h ago
-
----
-
-**[Bitcoin Just Flashed a RARE Signal](https://www.youtube.com/watch?v=McdNdrG2Tj4)**
-
-August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 9K • 👍 282 • 💬 39 • ⏱️ 1:21 • 16h ago
-
----
-
-**[Can BTC Finally Break Through? Bitcoin Price Forecast](https://www.youtube.com/watch?v=0Q84SnD4qEI)**
-
-Like this analysis? Get daily premium coverage of the market's leading stocks: https://www.wickedstocks.com Bitcoin is once again ...
-
-📺 Wicked Stocks
-
-👁️ 2K • 👍 66 • 💬 6 • ⏱️ 3:23 • 15h ago
-
----
-
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 9K • 👍 232 • 💬 10 • ⏱️ 1:20 • 1d ago
-
----
-
-**[EURUSD, Gold &amp; Bitcoin Setting Up a BIG Week | Weekly SMC Outlook](https://www.youtube.com/watch?v=LQz0WrSnt2s)**
-
-Gold, Silver, EURUSD, DXY, S&P 500, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
-
-📺 Justin Bennett
-
-👁️ 19K • 👍 1K • 💬 94 • ⏱️ 23:34 • 1d ago
-
----
-
-**[Bitcoin Live Trading: BTC Is At a Critical Point?! Watch These Levels! EP2086](https://www.youtube.com/watch?v=-J1d_-fWERk)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 5K • 👍 335 • 💬 23 • ⏱️ 2:00:50 • 1d ago
-
----
-
-**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
-
-Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
-
-📺 PragerU
-
-👁️ 50K • 👍 373 • 💬 29 • ⏱️ 8:07 • 2d ago
+👁️ 77K • 👍 3K • 💬 78 • ⏱️ 47:31 • 1d ago
 
 ---
 
@@ -400,17 +326,87 @@ BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain s
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 439 • ⏱️ 21:56 • 1d ago
+👁️ 34K • 👍 2K • 💬 440 • ⏱️ 21:56 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s BIP 110! Is Your Wealth About to Be DESTROYED?!](https://www.youtube.com/watch?v=KSV3o7ZvvXo)**
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
-Rustin talks about Bitcoin's BIP 110! Is Your Wealth About to Be DESTROYED?! Brought to you by Bitcoinwell.com a bitcoin-only ...
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:01 • 8h ago
+👁️ 9K • 👍 235 • 💬 10 • ⏱️ 1:20 • 1d ago
+
+---
+
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+
+📺 Natalie Brunell
+
+👁️ 39K • 👍 2K • 💬 442 • ⏱️ 1:09:52 • 2d ago
+
+---
+
+**[Is Bitcoin Dead?](https://www.youtube.com/watch?v=wvG4HDW6gVQ)**
+
+On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the stock market, Situational Awareness, leverage ...
+
+📺 The Compound
+
+👁️ 6K • 👍 141 • 💬 28 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+
+Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 206 • 💬 8 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[&quot;The Fed JUST QUIETLY Took Action! Bitcoin Will Explode MASSIVELY&quot;    Cathie Wood](https://www.youtube.com/watch?v=aTN016GxGgg)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 13K • 👍 568 • 💬 16 • ⏱️ 17:47 • 1d ago
+
+---
+
+**[Can BTC Finally Break Through? Bitcoin Price Forecast](https://www.youtube.com/watch?v=0Q84SnD4qEI)**
+
+Like this analysis? Get daily premium coverage of the market's leading stocks: https://www.wickedstocks.com Bitcoin is once again ...
+
+📺 Wicked Stocks
+
+👁️ 2K • 👍 69 • 💬 6 • ⏱️ 3:23 • 17h ago
+
+---
+
+**[BTC humiliates NewsNation host ON HER OWN SHOW](https://www.youtube.com/watch?v=B8M8XTVj4H4)**
+
+BTC humiliates NewsNation host ON HER OWN SHOW Please order my new book, THE DAY AFTER: ...
+
+📺 Brian Tyler Cohen
+
+👁️ 103K • 👍 7K • 💬 868 • ⏱️ 1:52 • 11h ago
+
+---
+
+**[Jobs Report Shocker, Market Surge, S&amp;P Nears Next Major Resistance, Bitcoin Breakout, Gold Surge](https://www.youtube.com/watch?v=Ha7A-BX9zME)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 68K • 👍 4K • 💬 141 • ⏱️ 18:43 • 2d ago
 
 ---
 
