@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T11:14:25.576003+00:00'
+updated: '2026-08-10T12:08:18.676471+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 11:14 UTC  
+**Last Updated:** August 10, 2026 at 12:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1302.76B
+**Market Cap:** $1307.20B
 Rank #1
 
-**Circulating Supply:** 20,068,275 BTC
+**Circulating Supply:** 20,068,325 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.5%
+-48.3%
 
 **All-Time Low:** $67.81
-+95629.2%
++95943.4%
 
 ---
 
@@ -77,21 +77,51 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
+**[I never scratched the private key, but 4.71 BTC vanished — did anyone else buy a “Coin Cold Card”?](https://www.reddit.com/r/Bitcoin/comments/1vk54gd/i_never_scratched_the_private_key_but_471_btc/)**
 
-19h ago
+In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold under the “Coin Cold Card” branding (coincoldcard.com was printed on the card). The public address was printed on the front. The private key and its QR code were printed on the back under a scratch-off security layer. Before the funds disappeared, I had never removed that layer, scanned the private-key QR code, or imported the private key into a computer or phone. On May 21, 2016, the wallet was emptied without my authorization: Victim public address: 1Bwo42o7eDakFgJ6srxjZnh3y5gTHUehyA Unauthorized transaction: efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc Amount sent: 4.71064406 BTC (plus a 0.0002 BTC fee) First receiving address: 1BTeq9DricViuNAoBMBWqCSUmGWappfwvZ Transaction link: https://www.walletexplorer.com/txid/efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc What makes this unusual is that the card contained a private key generated and printed before it reached me. An intact scratch layer could prevent later viewing, but it could not prevent the generator, printer, manufacturer, employee, or another party in the production chain from retaining a copy beforehand. My current hypothesis is therefore a production/supply-chain compromise: the private key may have been copied, stored, or generated predictably before the card was sold. This is a hypothesis, not a proven accusation against any particular person or company. The on-chain investigation shows that about 29 hours later my output was pooled with 15 other inputs. Several later descendant branches converged on an address historically announced by the operator of PocketRocketsCasino as a cold wallet. A related WalletExplorer cluster later transferred 1,496.33401461 BTC into another large treasury-like cluster. This does NOT prove that PocketRocketsCasino, BetKing, or any labeled service stole my BTC: the funds had already been mixed. It is included only as an investigative lead. I am looking for other people who bought or received the same “Coin Cold Card” product, especially around 2013–2016. If you had one, please reply with only non-secret information: - approximate purchase year and country; - where it was purchased; - whether the scratch layer appeared intact; - whether the wallet was later emptied without authorization; - a public Bitcoin address or transaction ID, only if you are comfortable sharing it. Never post or send your seed phrase, private key, or an unredacted photo of the back of the card. I will not pay anyone offering “recovery” services, and nobody should contact victims asking for keys or advance fees. I still have the physical card, photographs, the original transaction data, and a structured evidence report. I am trying to determine whether this was an isolated incident or part of a larger pattern affecting other cards.
+
+12h ago
 
 ---
 
-**[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
+**[BTC's currently in the setup that historically ran furthest](https://www.reddit.com/r/Bitcoin/comments/1vkhw7n/btcs_currently_in_the_setup_that_historically_ran/)**
 
-19h ago
+Every time Bitcoin's retested a prior all time high, RSI has bottomed out just as oversold as the actual bear market lows before turning back up, thats held across all four instances. What varies is whether price also swept the obvious lows underneath that zone first, and that detail seems to matter more than youd think. Two of the first three times it swept, those runs went further and lasted longer than the one time it didnt. The third sweep is the one happening right now, hasnt played out yet, so its not a confirmed data point, just the current setup lining up the same way the bigger runs did Not calling anything guaranteed here, and this ones still live. But if the pattern holds, historys saying this is the setup that tends to run further, not less.
+
+54m ago
+
+---
+
+**[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
+
+20h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-22h ago
+23h ago
+
+---
+
+**[Luke Dashjr is insane](https://www.reddit.com/r/Bitcoin/comments/1vkindj/luke_dashjr_is_insane/)**
+
+The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
+
+15m ago
+
+---
+
+**[We should congratulate the Bipcoiners as they managed to fire the miners, and so far have kept their chain free from SPAM blocks for 38 hours in a row](https://www.reddit.com/r/Bitcoin/comments/1vki4ho/we_should_congratulate_the_bipcoiners_as_they/)**
+
+42m ago
+
+---
+
+**[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
+
+20h ago
 
 ---
 
@@ -99,49 +129,23 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-21h ago
-
----
-
-**[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
-
 22h ago
 
 ---
 
-**[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
+**[More on the Coldcard fraud: deceptive practice of Rodolfo Novak used to promote his product.](https://www.reddit.com/r/Bitcoin/comments/1vk6iiu/more_on_the_coldcard_fraud_deceptive_practice_of/)**
 
-22h ago
+Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer.com/ This one do not even mentions that is owned by Coldcard or a Hardware Wallet vendor. https://bitcoinsecurity.org https://bitcoinsecurity.org/about This second one is more fucked up as for public in general looking for bitcoin self custody and security was apparently not related in any way with a Harware Wallet vendor. The footer and about show just a "Maintained by NVK." who knows how many users took that website as a "bitcoin security guide", when that website does not even disclose material connection as nkv Rodolfo Novak and a CEO of Coldcard Hardware Wallet, which interestingly enough is the only wallet that has all checklist as green and the only one recommended through the guides.... This goes way beyond the bug negligence that caused +100M losses and affected millions of Coldcard users, he has been doing very shady and misleading marketing....but who knows, that is for Canadian regulators to decide...
 
----
-
-**[BIP110 in a nutshell](https://www.reddit.com/r/Bitcoin/comments/1vjpnbg/bip110_in_a_nutshell/)**
-
-I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
-
-21h ago
+11h ago
 
 ---
 
-**[I finally own 1% of a Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjiurw/i_finally_own_1_of_a_bitcoin/)**
+**[Actually test your seed backup before adding passphrase/multisig. I’m glad I did.](https://www.reddit.com/r/Bitcoin/comments/1vk1akj/actually_test_your_seed_backup_before_adding/)**
 
-I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
-
-1d ago
-
----
-
-**[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
+So I had a bit of a wake up call today. With all the recent Coldcard drama, i started rethinking my own setup. I was planning to improve my custody a bit: add a strong BIP39 passphrase and eventually move toward a more robust multisig setup. Before doing anything i thought: Let me first check if my current seed backups are actually correct. I have multiple hardware wallets, each with its own seed. Two of them checked out fine. The third one did not. I ran the recovery check multiple times. Same result: incorrect seed.... This seed had been stamped into metal months ago. I was pretty sure I had checked it back then. I had evrything labeled, everything looked organized. Still the recovery check failed. Luckily i still had the PIN and access to the wallet, so I was able to move the funds to a wallet with a verified backup. But honestly, this scared the hell out of me. (Imagine the screen had failed or the hardware wallet itself) The lesson: A metal backup is not a tested backup. You can stamp words into steel, store them in a safe place, feel secure for months, and still have a useless backup if one word is wrong, swapped, unreadable, or copied incorrectly. Before adding a passphrase, before setting up multisig, before doing anything more complex, check the basics: - Run the official recovery check on your hardware wallet. - Verify the seed before sending serious funds. - Check your backup while the wallet still works. - Don’t assume “I wrote it down carefully” means it is recoverable. - Don’t wait until the device dies. I was lucky, i found the problem while I could still move the coins. If i had discovered this years from now after the device failed, this could have been a disaster. Not posting this for sympathy. Just a reminder: Test your backups. Then test them again. Especially before you start adding passphrases or multisig complexity.
 
 15h ago
-
----
-
-**[Rodolfo Novak, Coldcard scammer: "I will take it".](https://www.reddit.com/r/Bitcoin/comments/1vji2nz/rodolfo_novak_coldcard_scammer_i_will_take_it/)**
-
-"If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
-
-1d ago
 
 ---
 
@@ -153,7 +157,7 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -161,7 +165,7 @@ CoinDesk • 20h ago
 
 Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -169,13 +173,13 @@ Michael Saylor built his fortune and his reputation on a single promise: never s
 
 The Coldcard exploit has drained some $130 million. Onramp CEO Michael Tanguma says self-custody and ETFs share the same flaw: a single point of failure.
 
-Forbes • 29m ago
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin Fund Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -183,7 +187,7 @@ Bloomberg.com • 2h ago
 
 Bitcoin miners demand OCEAN leadership changes after the pool admitted redirecting user hashrate to the failed BIP-110 minority chain.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,13 +195,13 @@ Yahoo Finance • 1h ago
 
 H100 Group AB ("H100" or the "Company") today announces the successful completion of its previously announced acquisition of NSD AS (formerly WR Start Up 594 AS) (the "Target Company"), which upon completion of a reorganization represents direct and indirect ownership of all shares in Moonshot AS a…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
 **[Bitcoin Stays Higher After Weak Jobs Data Dampen Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/bitcoin-stays-higher-after-weak-jobs-data-dampen-rate-rise-bets-fbqWBXgkBuiAoCf7TOFJ)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -205,7 +209,7 @@ Barron's • 2h ago
 
 Within the next five years, Bitcoin could soar past the $1 million price level.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -213,7 +217,7 @@ The Motley Fool • 22h ago
 
 Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
@@ -221,7 +225,7 @@ Benzinga • 20h ago
 
 BTC and the crypto market are entering another potentially volatile trading week because of these factors.
 
-CryptoPotato • 5h ago
+CryptoPotato • 6h ago
 
 ---
 
@@ -256,7 +260,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 5d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -272,7 +276,7 @@ A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal
 
 Own BitcoinHome.com today. Secure checkout and guided transfer support. No hidden fees.
 
-⬆️ 2 • 💬 0 • 1h ago • [Spaceship](https://bitcoinhome.com)
+⬆️ 2 • 💬 0 • 2h ago • [Spaceship](https://bitcoinhome.com)
 
 ---
 
@@ -324,33 +328,33 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 ---
 
-**[BITCOIN JUST FORKED!! (Here&#39;s What&#39;s Happening)](https://www.youtube.com/watch?v=Cku7ECkr2qQ)**
-
-BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain splits and the possibility of a hard fork. Samson ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 2K • 💬 440 • ⏱️ 21:56 • 1d ago
-
----
-
 **[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
 Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 235 • 💬 10 • ⏱️ 1:20 • 1d ago
+👁️ 9K • 👍 236 • 💬 11 • ⏱️ 1:20 • 1d ago
 
 ---
 
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+**[EURUSD, Gold &amp; Bitcoin Setting Up a BIG Week | Weekly SMC Outlook](https://www.youtube.com/watch?v=LQz0WrSnt2s)**
 
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+Gold, Silver, EURUSD, DXY, S&P 500, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
 
-📺 Natalie Brunell
+📺 Justin Bennett
 
-👁️ 39K • 👍 2K • 💬 442 • ⏱️ 1:09:52 • 2d ago
+👁️ 20K • 👍 1K • 💬 95 • ⏱️ 23:34 • 2d ago
+
+---
+
+**[Bitcoin Breakout: The Best Setup I&#39;ve Seen In Months](https://www.youtube.com/watch?v=wUgd32fX8U4)**
+
+Take Control of Your Money and claim $5 in US Stablecoin (USA₮)! Download now at http://wallet.rumble.com/Verified and use ...
+
+📺 Gareth Soloway
+
+👁️ 60K • 👍 3K • 💬 241 • ⏱️ 9:45 • 2d ago
 
 ---
 
@@ -364,53 +368,53 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 ---
 
-**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+**[WHOA: BTC schools Trump’s attorney on live TV](https://www.youtube.com/watch?v=8NylDtqIxoc)**
 
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
-
-📺 Altcoin Daily
-
-👁️ 8K • 👍 206 • 💬 8 • ⏱️ 1:03 • 1d ago
-
----
-
-**[&quot;The Fed JUST QUIETLY Took Action! Bitcoin Will Explode MASSIVELY&quot;    Cathie Wood](https://www.youtube.com/watch?v=aTN016GxGgg)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 13K • 👍 568 • 💬 16 • ⏱️ 17:47 • 1d ago
-
----
-
-**[Can BTC Finally Break Through? Bitcoin Price Forecast](https://www.youtube.com/watch?v=0Q84SnD4qEI)**
-
-Like this analysis? Get daily premium coverage of the market's leading stocks: https://www.wickedstocks.com Bitcoin is once again ...
-
-📺 Wicked Stocks
-
-👁️ 2K • 👍 69 • 💬 6 • ⏱️ 3:23 • 18h ago
-
----
-
-**[BTC humiliates NewsNation host ON HER OWN SHOW](https://www.youtube.com/watch?v=B8M8XTVj4H4)**
-
-BTC humiliates NewsNation host ON HER OWN SHOW Please order my new book, THE DAY AFTER: ...
+WHOA: BTC schools Trump's attorney on live TV Please order my new book, THE DAY AFTER: ...
 
 📺 Brian Tyler Cohen
 
-👁️ 103K • 👍 7K • 💬 868 • ⏱️ 1:52 • 12h ago
+👁️ 61K • 👍 4K • 💬 179 • ⏱️ 1:56 • 14h ago
 
 ---
 
-**[Jobs Report Shocker, Market Surge, S&amp;P Nears Next Major Resistance, Bitcoin Breakout, Gold Surge](https://www.youtube.com/watch?v=Ha7A-BX9zME)**
+**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
 
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
 
-📺 Verified Investing
+📺 PragerU
 
-👁️ 68K • 👍 4K • 💬 141 • ⏱️ 18:43 • 2d ago
+👁️ 51K • 👍 375 • 💬 30 • ⏱️ 8:07 • 2d ago
+
+---
+
+**[THIS WEEK CHANGES EVERYTHING FOR BITCOIN...](https://www.youtube.com/watch?v=IdCBMD05Cho)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 443 • 💬 11 • ⏱️ 10:08 • 4h ago
+
+---
+
+**[BIG WEEK AHEAD FOR BITCOIN AND CRYPTO (top coins)](https://www.youtube.com/watch?v=nseMcGgFCS0)**
+
+Crypto Holder - Big news for Bitcoin, Ethereum, Sui, Bittensor, & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 21K • 👍 1K • 💬 83 • ⏱️ 9:04 • 14h ago
+
+---
+
+**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+
+BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+
+📺 Natalie Brunell
+
+👁️ 39K • 👍 2K • 💬 444 • ⏱️ 1:09:52 • 2d ago
 
 ---
 

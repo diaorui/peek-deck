@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T11:14:25.584577+00:00'
+updated: '2026-08-10T12:08:18.685862+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 11:14 UTC  
+**Last Updated:** August 10, 2026 at 12:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Title. I’m not a robotics guy - at all - but it seems like this could be important for someone with one of these robots? I plan to hang it up as art in my home unless there is some aimless robot somewhere depending on it for calibration. Any info would be helpful. Thanks! It was $6 for anyone curious. I’ll probably end up using it to barter after the AI apocalypse.
 
-20h ago
+21h ago
 
 ---
 
 **[I Made a Palm-Sized Three-Wheel Omnidirectional Robot](https://www.reddit.com/r/robotics/comments/1vjnv9g/i_made_a_palmsized_threewheel_omnidirectional/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
 
-4h ago
+5h ago
 
 ---
 
@@ -64,7 +64,7 @@ Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur
 
 Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=53Z753-tVO4&feature=youtu.be) • 22h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=53Z753-tVO4&feature=youtu.be) • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ theinformation.com • 2d ago
 
 **[What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -136,7 +136,7 @@ Reuters • 8h ago
 
 Fabian Gruner, partner at HV Capital, tells CNBC there is one sector that could give Europe significant leverage as it fights to remain competitive: cognitive robotics. Gruner also discusses how he sees physical AI being deployed over the coming years, and gives his take on how Europe can tackle its competitiveness and talent gap.
 
-CNBC • 46m ago
+CNBC • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ politico.eu • 3d ago
 
 China intends to integrate robot dogs at its future lunar base station.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -188,33 +188,33 @@ Global News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
-
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
-
-📺 Julia McCoy
-
-👁️ 48K • 👍 2K • 💬 204 • ⏱️ 9:02 • 1d ago
-
----
-
 **[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
 The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
 📺 NBC News
 
-👁️ 34K • 👍 370 • 💬 417 • ⏱️ 1:36 • 5d ago
+👁️ 34K • 👍 370 • 💬 418 • ⏱️ 1:36 • 5d ago
 
 ---
 
-**[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
 
-For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
 
-📺 Broken Business Models
+📺 Julia McCoy
 
-👁️ 5K • 👍 248 • 💬 53 • ⏱️ 20:54 • 6h ago
+👁️ 48K • 👍 2K • 💬 206 • ⏱️ 9:02 • 1d ago
+
+---
+
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+
+📺 Alpha Central
+
+👁️ 158K • 👍 6K • 💬 3K • ⏱️ 20:28 • 4d ago
 
 ---
 
@@ -224,17 +224,17 @@ Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: ht
 
 📺 Excessive Overkill
 
-👁️ 133K • 👍 4K • 💬 239 • ⏱️ 47:03 • 4d ago
+👁️ 134K • 👍 4K • 💬 239 • ⏱️ 47:03 • 4d ago
 
 ---
 
-**[AGIBOT A3 Ultra Robot Handles Jumps Like a Human](https://www.youtube.com/watch?v=wcdKAuyGVM8)**
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
 
-The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressive balance, controlled landings, and the ability ...
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
 
-📺 DPCcars
+📺 Al Jazeera English
 
-👁️ 17K • 👍 288 • 💬 47 • ⏱️ 1:20 • 4d ago
+👁️ 50K • 👍 691 • 💬 337 • ⏱️ 28:01 • 2d ago
 
 ---
 
@@ -244,27 +244,37 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 240K • 👍 629 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 240K • 👍 634 • 💬 99 • ⏱️ 40:27 • 4d ago
 
 ---
 
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
 
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
 
-📺 China Fact Chasers
+📺 Y Combinator
 
-👁️ 52K • 👍 3K • 💬 485 • ⏱️ 26:40 • 5d ago
+👁️ 22K • 👍 659 • 💬 23 • ⏱️ 1:24:13 • 1d ago
 
 ---
 
-**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
+**[High School Robotics Team Builds Free $20K Wheelchair for 2-Year-Old Who Couldn’t Afford One❤️](https://www.youtube.com/watch?v=fhX9xBqo-LA)**
 
-Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
+A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost around $20000 — but his family's insurance ...
 
-📺 WOLF Financial
+📺 Dre-Daily-Trends
 
-👁️ 36K • 👍 929 • 💬 219 • ⏱️ 48:23 • 1d ago
+👁️ 4K • 👍 126 • 💬 3 • ⏱️ 0:05 • 10h ago
+
+---
+
+**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
+
+China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
+
+📺 Synthetic Empire
+
+👁️ 77K • 👍 1K • 💬 128 • ⏱️ 12:38 • 6d ago
 
 ---
 
@@ -273,16 +283,6 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 📺 Tyrecordslol
 
 👁️ 2.8M • 👍 123K • 💬 7K • ⏱️ 0:58 • 3d ago
-
----
-
-**[Why Does Atlas Have A Head? #askaroboticist #bostondynamics](https://www.youtube.com/watch?v=VmBS2N1FzmE)**
-
-Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...
-
-📺 Boston Dynamics
-
-👁️ 168K • 👍 11K • 💬 532 • ⏱️ 2:03 • 5d ago
 
 ---
 

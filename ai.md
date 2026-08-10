@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T11:14:25.567765+00:00'
+updated: '2026-08-10T12:08:18.663537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 11:14 UTC  
+**Last Updated:** August 10, 2026 at 12:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 23h ago
 
 ---
 
@@ -49,13 +49,13 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 97.7 on Online Mine 2Web 83.2 on internal 68.6 on WebTail Bench Best across board and at 2.37 dollars per million token 90% Than GPT5.5 ! how they have trained this. They are using an undisclosed base model and using SFT to accelerate time to market, combined with asynchronous reinforcement learning, especially leveraging the GRPO algorithm. If you don't know, this is similar to how DeepMind historically has trained their AlphaGo Even though they are talking about 1-3 sec latency the huge problem in computer use agents are page rendering and state resolution and there own data showcases it adds roughly 10 Secs so i am skeptical there but I don't think latency matter always and I am bullish on CUA I spend most of the time scrolling the web for silly things, and my mind was blown by the demo videosss Not associated with Any labs. I wish I was :)
 
-1h ago
+2h ago
 
 ---
 
 **[It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.](https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -77,7 +77,7 @@ ok so I have gone back and forth on this like three times now and still don't th
 
 **[Your Agents Are Code. Stop Governing Them Like Documents.](https://www.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/)**
 
-🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 3h ago
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 4h ago
 
 ---
 
@@ -85,7 +85,7 @@ ok so I have gone back and forth on this like three times now and still don't th
 
 (disclosure: i maintain the open-source project this came up in. link at the end. the question stands on its own.) we hit a trust-boundary problem while building a deterministic authorization layer for agents, and i think it generalizes. an engine can strongly protect its verdict: signed authorization intent binding state-hash binding replay protection trusted evaluation time all solid. but if the same compromised agent runtime can influence both the proposed action AND some of the premises used to evaluate it, what has crypto actually proven? only this: the signed decision is consistent with the supplied inputs not this: the supplied inputs came from authoritative sources examples of premises a runtime might quietly supply: agent_id tool identity execution depth tenant context a state object the guard later hashes the signature still verifies. the hash still matches. the decision is still deterministic. but the premises may be self-reported. two things i'd genuinely like challenged: which evaluator premises actually need independent provenance, and which can safely remain proposer-declared? for state, is an authoritative guard-side read enough, or should the state provider eventually emit a signed/versioned attestation? most interested in confused-deputy paths, TOCTOU, and cases where a supposedly "trusted" premise can still be bent by the runtime.
 
-26m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ ok so I have gone back and forth on this like three times now and still don't th
 
 Building an agent that works in a controlled demo is one thing; keeping it reliable in production is another. For those who have actually deployed AI agents, what has caused the most problems? Tool/API reliability? Context management? Memory? Authentication and permissions? Evaluation? Hallucinations? Cost and latency? Observability? Human-in-the-loop workflows? Integration with legacy systems? I'm especially interested in what changed between the prototype and production. What problem did you underestimate initially, and how did you eventually solve it? Real implementation experiences would be much more useful than theoretical answers.
 
-28m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Building an agent that works in a controlled demo is one thing; keeping it relia
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-33m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a3
 
 I’m building Leo / PSCLS — an experimental system that learns relationships between sequences and updates its internal representations from experience. Here’s how its actual output changed as it saw more stories. 1K stories “Once upon a time to the store and said that there was a she bor and he lorander thing they were…” Basically nonsense. 3K stories “Once upon a time to the store and said that there was a she parted to see had a bided her tod and be bound aster…” Still broken, but the output is becoming more structured. 40K stories “Once upon a time, there was a big started to play with the should some too her mom and had a said, it was time. They happy and went to the park…” Now we’re getting recognizable story-like patterns, characters, actions and dialogue — although the grammar is still heavily broken. And the measured results improved too: 1K → 3K → 40K BpB: 2.678 → 2.641 → 2.334 Accuracy: 52.37% → 53.62% → 58.11% This is still an early experiment, not AGI. But watching the same system change its outputs as it learns more experience is pretty interesting. Next target: 250K → 500K → 1M stories.
 
-5h ago
+6h ago
 
 ---
 
@@ -119,19 +119,19 @@ I’m building Leo / PSCLS — an experimental system that learns relationships 
 
 **[Five Things to Know About Mark Zuckerberg’s Big AI Essay](https://www.wsj.com/tech/ai/five-things-to-know-about-mark-zuckerbergs-big-ai-essay-4d3b5de1)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
 **[Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model](https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Mark Zuckerberg takes on the AI doomers in 6,500-word essay](https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b)**
 
-MarketWatch • 32m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ MarketWatch • 32m ago
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 6h ago
 
 As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.
 
-Ars Technica • 13m ago
+Ars Technica • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Ars Technica • 13m ago
 
 Morgan Brennan speaks exclusively with Booz Allen CEO Horacio Rozanski about identifying and containing growing cyber risks, and factoring in AI policy & regulation into a company's business model.
 
-CNBC • 12m ago
+CNBC • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 12m ago
 
 Airbnb CEO Brian Chesky tells Yahoo Finance Executive Editor Brian Sozzi his goal of becoming the most "AI-pilled CEO in the valley," and how forcing his executive team to overcome their fear of AI agents has completely transformed the company's workflow and shipping speed.
 
-Yahoo Finance • 14m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 14m ago
 
 TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.
 
-CNBC • 44m ago
+CNBC • 1h ago
 
 ---
 
 **[TSMC Sales Rise 45% as Demand for AI Hardware Stays Strong](https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ AI coding tools deli
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 255 • 💬 153 • 5h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 255 • 💬 153 • 6h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -243,7 +243,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 129 • 💬 85 • 15h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 129 • 💬 85 • 16h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -251,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 105 • 💬 35 • 7h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 105 • 💬 35 • 8h ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -278,7 +278,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 73 • 💬 92 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 73 • 💬 92 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -292,37 +292,7 @@ Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot
 
 📺 Looking Glass Universe
 
-👁️ 15K • 👍 1K • 💬 471 • ⏱️ 17:40 • 22h ago
-
----
-
-**[The AI Singularity Is Here](https://www.youtube.com/watch?v=F75hfLE4a2k)**
-
-For over a year, Google has been running an AI called AlphaEvolve with a single mission: improve the company that built it.
-
-📺 There's An AI For That
-
-👁️ 23K • 👍 671 • 💬 144 • ⏱️ 13:38 • 1d ago
-
----
-
-**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
-
-Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
-
-📺 Telugu stories world 
-
-👁️ 8K • 👍 455 • 💬 1 • ⏱️ 0:14 • 8h ago
-
----
-
-**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
-
-Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
-
-📺 Cole Hastings
-
-👁️ 147K • 👍 6K • 💬 859 • ⏱️ 15:09 • 19h ago
+👁️ 15K • 👍 1K • 💬 486 • ⏱️ 17:40 • 23h ago
 
 ---
 
@@ -332,17 +302,57 @@ China just pushed the AI race into a new league. ByteDance is reportedly trainin
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 145 • ⏱️ 15:28 • 2d ago
+👁️ 47K • 👍 1K • 💬 146 • ⏱️ 15:28 • 2d ago
 
 ---
 
-**[How To Start a Kids Animation Channel With AI (Full Tutorial)](https://www.youtube.com/watch?v=W95hJNP_nIA)**
+**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
 
-Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
+Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
 
-📺 Mira AI
+📺 Telugu stories world 
 
-👁️ 8K • ⏱️ 7:52 • 18h ago
+👁️ 32K • 👍 543 • 💬 2 • ⏱️ 0:14 • 9h ago
+
+---
+
+**[How AI could be taking on a life of its own](https://www.youtube.com/watch?v=MhWxu_RI_uw)**
+
+As if safety fears over tech companies weren't enough, sci-fi fears about artificial intelligence became a stark reality. [Subscribe to ...
+
+📺 Channel 4 News
+
+👁️ 67K • 👍 654 • 💬 227 • ⏱️ 9:38 • 2d ago
+
+---
+
+**[The AI boom isn’t real: 70% of AI revenue comes from OpenAI and Anthropic | Ed Zitron](https://www.youtube.com/watch?v=68X8yEatepQ)**
+
+If 70% of AI revenues are these two companies, there is no AI industry.” Writer of Where's Your Ed At and the host of the Better ...
+
+📺 The Tech Report
+
+👁️ 349K • 👍 11K • 💬 3K • ⏱️ 46:26 • 2d ago
+
+---
+
+**[I Challenged a Pro VFX Artist to Beat AI](https://www.youtube.com/watch?v=Hn8A8D4-SpQ)**
+
+Can AI beat a professional VFX artist? Same shots — he uses VFX, I use only AI. Free prompts + skill: ...
+
+📺 Higgsfield AI
+
+👁️ 46K • 👍 2K • 💬 130 • ⏱️ 25:38 • 2d ago
+
+---
+
+**[Is AI About to Change Movies Forever?](https://www.youtube.com/watch?v=BRESQ8NX-us)**
+
+The AI side of this video was made here: https://higgsfield.ai/s/seedance-2-5-erikdoesvfx-PcKzLx Everything AI in this video was ...
+
+📺 ErikDoesVFX
+
+👁️ 948K • 👍 22K • 💬 4K • ⏱️ 16:52 • 2d ago
 
 ---
 
@@ -352,35 +362,27 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 100K • 👍 12K • 💬 724 • ⏱️ 13:15 • 1d ago
+👁️ 102K • 👍 12K • 💬 731 • ⏱️ 13:15 • 1d ago
 
 ---
 
-**[Can AI Make Nutella? 🍫](https://www.youtube.com/watch?v=o9yXTD3puI0)**
+**[why AI companies are shredding books](https://www.youtube.com/watch?v=SMy46xA2dJE)**
 
-shorts #cooking #lifehacks #recipe #testing Can AI make Nutella? I tested an AI-generated Nutella recipe to see if it actually works ...
+why AI companies are secretly shredding rare books.
 
-📺 Zane Holmes
+📺 Morning Brew
 
-👁️ 460K • 👍 9K • 💬 231 • ⏱️ 0:43 • 1d ago
-
----
-
-**[I Tested AI Life Hacks (Part 3)](https://www.youtube.com/watch?v=xBDwoza3O14)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 976K • 👍 64K • 💬 483 • ⏱️ 1:00 • 1d ago
+👁️ 426K • 👍 30K • 💬 1K • ⏱️ 1:36 • 2d ago
 
 ---
 
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
+**[AI News: The AI Stories Everyone&#39;s Freaking Out About](https://www.youtube.com/watch?v=ACYAYsVMmT8)**
 
-📺 Mark Tilbury
+Here's the AI news you might have missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note ...
 
-👁️ 574K • 👍 15K • 💬 812 • ⏱️ 0:26 • 2d ago
+📺 Matt Wolfe
+
+👁️ 58K • 👍 3K • 💬 271 • ⏱️ 36:13 • 2d ago
 
 ---
 
@@ -396,7 +398,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,332 • 1d ago
+⬇️ 47,468 • ❤️ 3,346 • 1h ago
 
 ---
 
@@ -408,7 +410,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 954,441 • ❤️ 2,993 • 9d ago
+⬇️ 954,441 • ❤️ 3,006 • 9d ago
 
 ---
 
@@ -418,7 +420,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,009,639 • ❤️ 1,107 • 1d ago
+⬇️ 6,009,639 • ❤️ 1,116 • 1d ago
 
 ---
 
@@ -430,7 +432,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 573 • 1d ago
+⬇️ 0 • ❤️ 577 • 1d ago
 
 ---
 
@@ -442,7 +444,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,510,032 • ❤️ 10,427 • 13d ago
+⬇️ 1,510,032 • ❤️ 10,438 • 13d ago
 
 ---
 
@@ -454,7 +456,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 89,680 • ❤️ 466 • 3d ago
+⬇️ 89,680 • ❤️ 472 • 3d ago
 
 ---
 
@@ -466,7 +468,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 426 • 4d ago
+⬇️ 0 • ❤️ 429 • 4d ago
 
 ---
 
@@ -478,7 +480,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,830 • 8h ago
+⬇️ 2,439,083 • ❤️ 1,835 • 8h ago
 
 ---
 
@@ -490,19 +492,19 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,344 • ❤️ 299 • 5d ago
+⬇️ 1,344 • ❤️ 301 • 5d ago
 
 ---
 
-**[Ling-3.0-flash](https://huggingface.co/inclusionAI/Ling-3.0-flash)**
+**[NVIDIA-NemotronLabs-VoiceChat-11B](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B)**
 
-*inclusionAI*
+*NVIDIA*
 
-Ling-3.0-flash is a 124B parameter native hybrid reasoning model with 5.1B active parameters, excelling in long-context efficiency and agentic workflows. It features a hybrid-linear architecture with KDA and sparse MoE, achieving remarkable speed and performance for production deployment in coding, research, and general reasoning tasks.
+NVIDIA NemotronLabs VoiceChat 11B is an end-to-end, real-time, full-duplex conversational AI model that unifies speech understanding and generation. It features natural turn-taking, barge-in, and is the first open model to support live tool calling within a seamless conversational flow, reducing latency for voice assistant development.
 
-`text-generation` `127.5B`
+`11.1B`
 
-⬇️ 5,261 • ❤️ 277 • 3d ago
+⬇️ 597 • ❤️ 281 • 6d ago
 
 ---
 
@@ -558,7 +560,7 @@ Real-time video editing requires low-latency causal generation with bounded comp
 
 We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
 
-▲ 486 • 💬 10 • ⭐ 8,287 • 14d ago
+▲ 486 • 💬 10 • ⭐ 8,310 • 14d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
@@ -585,7 +587,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
 
-▲ 309 • 💬 5 • ⭐ 2,059 • 19d ago
+▲ 309 • 💬 5 • ⭐ 2,059 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
@@ -651,7 +653,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 889 • 1d ago
+⭐ 8.1k • 🔱 890 • 1d ago
 
 ---
 
@@ -661,7 +663,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.4k • 🔱 389 • 1d ago
+⭐ 4.4k • 🔱 391 • 1d ago
 
 ---
 
@@ -669,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.9k • 🔱 498 • 2d ago
+⭐ 3.9k • 🔱 499 • 2d ago
 
 ---
 
@@ -679,7 +681,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -689,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.4k • 🔱 439 • 11h ago
+⭐ 2.4k • 🔱 439 • 12h ago
 
 ---
 
@@ -699,7 +701,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.2k • 🔱 172 • 6d ago
+⭐ 2.2k • 🔱 173 • 6d ago
 
 ---
 
@@ -709,7 +711,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.2k • 🔱 193 • 5d ago
+⭐ 2.2k • 🔱 195 • 5d ago
 
 ---
 
@@ -719,7 +721,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 152 • 2h ago
+⭐ 2.1k • 🔱 152 • 6m ago
 
 ---
 
@@ -729,7 +731,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 240 • 1d ago
+⭐ 2.0k • 🔱 241 • 1d ago
 
 ---
 
@@ -739,7 +741,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 251 • 1h ago
+⭐ 2.0k • 🔱 252 • 2m ago
 
 ---
 
