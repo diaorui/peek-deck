@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T06:52:14.209238+00:00'
+updated: '2026-08-10T08:26:45.752140+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 06:52 UTC  
+**Last Updated:** August 10, 2026 at 08:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,921.11
+### $1,926.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.3%  
 **7d:** +3.0%  
-**30d:** +6.6%  
+**30d:** +6.7%  
 **90d:** -14.7%  
 **1y:** -54.5%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-2h ago
+4h ago
 
 ---
 
@@ -156,7 +156,15 @@ TL;DR and quick context - I work at DeFi Saver, and we built a completely free t
 
 The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
+
+---
+
+**[Crypto News: Ethereum Based Pepeto Sells Out Another Crypto Presale Round in Record Time as Funding Tops $10.6 Million](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-sells-out-another-crypto-presale-round-in-record-time-as-funding-tops-10-6-million-1036434608)**
+
+DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -172,15 +180,7 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 12h ago
-
----
-
-**[Crypto News Today: AlphaPepe Presale Nears August Launch Reveal As Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-nears-august-launch-reveal-as-ethereum-price-prediction-eyes-10-000-1036432685)**
-
-MONACO, Aug.  09, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward AlphaPepe as the presale moves closer to its August 19th launch u...
-
-markets.businessinsider.com • 3h ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ markets.businessinsider.com • 3h ago
 
 Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -220,7 +220,7 @@ TradingView • 2d ago
 
 One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
 
-The Motley Fool • 12h ago
+fool.com • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 215 • 💬 26 • ⏱️ 17:48 • 9h ago
+👁️ 4K • 👍 215 • 💬 26 • ⏱️ 17:48 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ I have serious concerns with Ethereum and I don't see how it works out over time
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 380 • 👍 13 • 💬 2 • ⏱️ 0:43 • 18h ago
+👁️ 380 • 👍 13 • 💬 2 • ⏱️ 0:43 • 20h ago
 
 ---
 
@@ -290,7 +290,7 @@ Jesse Pollak joins us on CLARITY week to break down how Base is leading in tradi
 
 📺 The Rollup
 
-👁️ 2K • 👍 94 • 💬 6 • ⏱️ 25:29 • 9h ago
+👁️ 2K • 👍 94 • 💬 6 • ⏱️ 25:29 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 234 • 👍 38 • ⏱️ 7:52 • 2h ago
+👁️ 234 • 👍 38 • ⏱️ 7:52 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 136 • 💬 2 • ⏱️ 1:00 • 9h ago
+👁️ 2K • 👍 136 • 💬 2 • ⏱️ 1:00 • 11h ago
 
 ---
 

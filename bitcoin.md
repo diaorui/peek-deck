@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T06:52:14.203245+00:00'
+updated: '2026-08-10T08:26:45.745989+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 06:52 UTC  
+**Last Updated:** August 10, 2026 at 08:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.8%  
-**30d:** +2.3%  
+**24h:** +0.6%  
+**7d:** +1.9%  
+**30d:** +2.4%  
 **90d:** -17.7%  
-**1y:** -45.1%  
+**1y:** -45.0%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-15h ago
+16h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-17h ago
+18h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-17h ago
+19h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-17h ago
+19h ago
 
 ---
 
@@ -127,13 +127,13 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-23h ago
+1d ago
 
 ---
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -153,7 +153,7 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 16h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -161,23 +161,29 @@ CoinDesk • 16h ago
 
 Supporters of BIP-110 split off into a minority Bitcoin chain on Saturday, but it mined only two blocks in about eight hours before stalling.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[BTC, ETH price news: Bitcoin tops $65,000 with US inflation data due this week](https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week)**
+**[Bluebird Mining Ventures increases NAV as Bitcoin stream begins generating recurring income](https://uk.finance.yahoo.com/news/bluebird-mining-ventures-increases-nav-064912087.html)**
 
-Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.
+Bluebird Mining Ventures (LSE:BMV) reported that its first Bitcoin streaming investment completed its first full month of operations in July, producing recurring revenue in line with management expectations. The performance provides an early demonstration of the company’s streaming model, which is designed to generate income without requiring upfront capital commitments.
 
-CoinDesk • 2h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
+**[H100 completes acquisition, increasing Bitcoin holdings to 3,506 Bitcoin](https://www.tradingview.com/news/modular_finance:b9fad478a075c:0-h100-completes-acquisition-increasing-bitcoin-holdings-to-3-506-bitcoin/)**
 
-Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
+H100 Group AB ("H100" or the "Company") today announces the successful completion of its previously announced acquisition of NSD AS (formerly WR Start Up 594 AS) (the "Target Company"), which upon completion of a reorganization represents direct and indirect ownership of all shares in Moonshot AS a…
 
-Yahoo Finance • 1d ago
+TradingView • 2h ago
+
+---
+
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+
+Investing.com • 23h ago
 
 ---
 
@@ -187,9 +193,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
 
-Investing.com • 21h ago
+The billionaire says he made $15 billion for his company in 2025...
+
+Forbes • 20h ago
 
 ---
 
@@ -201,25 +209,19 @@ Futurism • 1d ago
 
 ---
 
-**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
-
-Institutions might start to win more trust from investors.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://247wallst.com/investing/2026/08/09/this-1-number-says-michael-saylors-bitcoin-sales-are-about-to-end/)**
 
 Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
 
-24/7 Wall St. • 14h ago
+24/7 Wall St. • 15h ago
+
+---
+
+**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/08/09/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
+
+In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
+
+fool.com • 21h ago
 
 ---
 
@@ -262,7 +264,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal from individuals storing their own cryptocurrency
 
-⬆️ 3 • 💬 0 • 4d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
+⬆️ 3 • 💬 0 • 5d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
 
 ---
 
@@ -304,7 +306,7 @@ In late July 2026, Coldcard, the open-source hardware wallet many consider the g
 
 A firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a deterministic software PRNG, seeded only from the serial number
 
-⬆️ 1 • 💬 1 • 2d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
+⬆️ 1 • 💬 1 • 3d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
 
 ---
 
@@ -328,7 +330,7 @@ Bitcoin actually split into two competing chains, and for a few minutes its late
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 236 • ⏱️ 14:19 • 8h ago
+👁️ 16K • 👍 1K • 💬 236 • ⏱️ 14:19 • 9h ago
 
 ---
 
@@ -338,7 +340,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 282 • 💬 39 • ⏱️ 1:21 • 14h ago
+👁️ 9K • 👍 282 • 💬 39 • ⏱️ 1:21 • 16h ago
 
 ---
 
@@ -348,7 +350,7 @@ Like this analysis? Get daily premium coverage of the market's leading stocks: h
 
 📺 Wicked Stocks
 
-👁️ 2K • 👍 66 • 💬 6 • ⏱️ 3:23 • 14h ago
+👁️ 2K • 👍 66 • 💬 6 • ⏱️ 3:23 • 15h ago
 
 ---
 
@@ -408,7 +410,7 @@ Rustin talks about Bitcoin's BIP 110! Is Your Wealth About to Be DESTROYED?! Bro
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:01 • 6h ago
+👁️ 1K • 👍 49 • 💬 6 • ⏱️ 1:01 • 8h ago
 
 ---
 

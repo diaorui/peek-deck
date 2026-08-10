@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T06:52:14.194676+00:00'
+updated: '2026-08-10T08:26:45.737213+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 06:52 UTC  
+**Last Updated:** August 10, 2026 at 08:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,19 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 19h ago
+
+---
+
+**[It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.](https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/)**
+
+1h ago
+
+---
+
+**[Your Agents Are Code. Stop Governing Them Like Documents.](https://www.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/)**
+
+🔗 [contextandchaos.substack.com](https://contextandchaos.substack.com/p/your-agents-are-code-stop-governing) • 1h ago
 
 ---
 
@@ -49,15 +61,7 @@ Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry
 
 Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically. The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. Haven't independently verified that number, but the qualitative difference (fewer hallucinated column names, less time re-explaining table relationships) tracks with what I've seen. Anyone using other domain-specific agents (not just data — legal, infra, whatever) and finding the same trade-off? Where's the line between "grounding helps enough to be worth the lock-in" and "just use a general agent with good context"?
 
-3h ago
-
----
-
-**[Update on Research PSCLS](https://www.reddit.com/r/artificial/comments/1vkclr4/update_on_research_pscls/)**
-
-I’m building Leo / PSCLS — an experimental system that learns relationships between sequences and updates its internal representations from experience. Here’s how its actual output changed as it saw more stories. 1K stories “Once upon a time to the store and said that there was a she bor and he lorander thing they were…” Basically nonsense. 3K stories “Once upon a time to the store and said that there was a she parted to see had a bided her tod and be bound aster…” Still broken, but the output is becoming more structured. 40K stories “Once upon a time, there was a big started to play with the should some too her mom and had a said, it was time. They happy and went to the park…” Now we’re getting recognizable story-like patterns, characters, actions and dialogue — although the grammar is still heavily broken. And the measured results improved too: 1K → 3K → 40K BpB: 2.678 → 2.641 → 2.334 Accuracy: 52.37% → 53.62% → 58.11% This is still an early experiment, not AGI. But watching the same system change its outputs as it learns more experience is pretty interesting. Next target: 250K → 500K → 1M stories.
-
-48m ago
+5h ago
 
 ---
 
@@ -65,7 +69,15 @@ I’m building Leo / PSCLS — an experimental system that learns relationships 
 
 I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?
 
-10h ago
+12h ago
+
+---
+
+**[Update on Research PSCLS](https://www.reddit.com/r/artificial/comments/1vkclr4/update_on_research_pscls/)**
+
+I’m building Leo / PSCLS — an experimental system that learns relationships between sequences and updates its internal representations from experience. Here’s how its actual output changed as it saw more stories. 1K stories “Once upon a time to the store and said that there was a she bor and he lorander thing they were…” Basically nonsense. 3K stories “Once upon a time to the store and said that there was a she parted to see had a bided her tod and be bound aster…” Still broken, but the output is becoming more structured. 40K stories “Once upon a time, there was a big started to play with the should some too her mom and had a said, it was time. They happy and went to the park…” Now we’re getting recognizable story-like patterns, characters, actions and dialogue — although the grammar is still heavily broken. And the measured results improved too: 1K → 3K → 40K BpB: 2.678 → 2.641 → 2.334 Accuracy: 52.37% → 53.62% → 58.11% This is still an early experiment, not AGI. But watching the same system change its outputs as it learns more experience is pretty interesting. Next target: 250K → 500K → 1M stories.
+
+2h ago
 
 ---
 
@@ -73,23 +85,7 @@ I understand there are a million variations on this theme, but it feels like hal
 
 As Canva struggles with rising AI bills, Atlassian told investors that Rovo AI usage will impact margins for FY27. But CEO Mike Cannon-Brookes maintains AI is the "best thing" to happen to Atlassian.
 
-🔗 [Forbes Australia](https://www.forbes.com.au/news/entrepreneurs/atlassian-ai-costs-margins-cannon-brookes/) • 6h ago
-
----
-
-**[OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number](https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/)**
-
-codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
-
-13h ago
-
----
-
-**[Scrape, small piece on dif of calculators vs generative programs](https://www.reddit.com/r/artificial/comments/1vk3cw4/scrape_small_piece_on_dif_of_calculators_vs/)**
-
-Try out Artifacts created by Claude users
-
-🔗 [Claude](https://claude.ai/public/artifacts/f7faf607-b435-4e6e-9b4a-4703e731a10e) • 8h ago
+🔗 [Forbes Australia](https://www.forbes.com.au/news/entrepreneurs/atlassian-ai-costs-margins-cannon-brookes/) • 8h ago
 
 ---
 
@@ -97,23 +93,23 @@ Try out Artifacts created by Claude users
 
 A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, Emad Mostaque — just sat with a number that's hard to argue with: $2,000 in compute, and ten decade-old, previously-unsolved math problems came back with machine-checkable proofs. Not "AI is getting better at math" in the abstract. A Fields Medalist said he'd recommend one of the proofs for publication without hesitation. A cosmologist called it "a dark night for mathematics" — "the old gods are being slaughtered by the new machine gods." Then Emad closed it flat: "It's a bad time to be a pure mathematician." Here's what they're not saying yet. Back in 2013/2014, I was with M+W High Tech Projects, on a design-and-build project in Kulim, Kedah, Malaysia. Our M&E engineer wanted an opening cut straight through the middle of a reinforced concrete beam — right where the bending moment peaks. I caught him before he did it. Told him no. That's beyond madness — you don't sacrifice a beam's structural integrity for an M&E opening. Had him redirect the ducts instead. Structural safety came first. The engineering knowledge wasn't rare. The judgment — catching the mistake before it became permanent — was. Same pattern here. Ten unsolved proofs, correct on paper, for $2,000. The correctness was never the scarce part. Hmm — this actually pulls the same thread as a post I put up about the corporate ladder losing its entry-level rungs to AI. Different profession, same mechanism: whichever rung gets automated first isn't random, and the people still standing on it are the ones who saw it as a pattern instead of a headline. Drop your take — is judgment actually the thing that survives this, or is that just the story we tell ourselves until it's our turn?
 
+17h ago
+
+---
+
+**[OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number](https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/)**
+
+codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
+
 15h ago
 
 ---
 
-**[Why is there no “App Store” for independent AI agents yet?](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
+**[Scrape, small piece on dif of calculators vs generative programs](https://www.reddit.com/r/artificial/comments/1vk3cw4/scrape_small_piece_on_dif_of_calculators_vs/)**
 
-One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
+Try out Artifacts created by Claude users
 
-16h ago
-
----
-
-**[is there any ai music tool that can recreate a garbage quality song into higher quality without altering the vocals or instruments](https://www.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/)**
-
-basically im asking for something that can make a carbon copy of the original, just in higher quality. i dont want it changing the vocals, melody, instruments, etc, literally just make the same recording sound cleaner/better i have a piece of lost media from circa 2003 so unfortunately the only recording i have is in absolutely horrible quality 😭 i was wondering if theres any ai that could somehow restore/recreate it without changing the actual song pls tell me if something like this exists !! Tysm
-
-14h ago
+🔗 [Claude](https://claude.ai/public/artifacts/f7faf607-b435-4e6e-9b4a-4703e731a10e) • 9h ago
 
 ---
 
@@ -121,39 +117,51 @@ basically im asking for something that can make a carbon copy of the original, j
 
 ## Google News: "ai"
 
-**[How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)**
+**[North Korean hacking group builds AI tools for cyberattacks, report says](https://www.reuters.com/legal/litigation/north-korean-hacking-group-builds-ai-tools-cyberattacks-report-says-2026-08-10/)**
 
-The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
-
-CNBC • 19h ago
+Reuters • 7h ago
 
 ---
 
 **[China Unleashes $28 Trillion Capital Markets to Challenge US in AI](https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 11h ago
 
 ---
 
 **[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
-**[TSMC monthly sales jump 45% as AI chip demand stays strong (TSM:NYSE)](https://seekingalpha.com/news/4629700-tsmc-monthly-sales-jump-45-as-ai-chip-demand-stays-strong)**
+**[Abandoned factories are being resurrected for the AI revolution](https://www.cnn.com/2026/08/10/business/video/ai-data-centers-abandoned-factory-white-fiber-creators)**
 
-TSMC reports 45% jump in July sales, showing strong AI chip demand.
+A textile plant in Madison, North Carolina, sat empty after 250 jobs vanished. Now it’s being rebuilt to run AI. WhiteFiber CEO Sam Tabar says sites like it are the AI race’s secret weapon: already built, already powered, ready in months.
 
-Seeking Alpha • 43m ago
+CNN • 42m ago
 
 ---
 
-**[Hollywood's open secret: It's battling AI, but already addicted to it](https://www.yahoo.com/entertainment/movies/articles/hollywoods-open-secret-battling-ai-061835998.html)**
+**[GitHub Code Quality Targets Maintainability as AI-Generated Code Increases](https://www.infoq.com/news/2026/08/github-code-quality/)**
 
-As performers protest over the use of artificial intelligence (AI) and studios sue in their war on the ever-expanding technology, the entertainment industry is deepening its dependence on it. Although...
+GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. The service combines CodeQL analysis with AI-assisted detection of maintainability and reliability problems, then uses Copilot Autofix to suggest changes for review in pull requests, according to an announcement from GitHub.
 
-Yahoo • 34m ago
+infoq.com • 26m ago
+
+---
+
+**[72% of Hong Kong professionals use AI weekly, double the global average: survey](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363518/72-hong-kong-professionals-use-ai-weekly-double-global-average-survey)**
+
+South China Morning Post • 16m ago
+
+---
+
+**[2 key checks on AI infrastructure and inflation: What to watch this week](https://finance.yahoo.com/markets/article/2-key-checks-on-ai-infrastructure-and-inflation-what-to-watch-this-week-100000678.html)**
+
+The stock market's first week after the Big Tech earnings extravaganza went about as well as any investor could have hoped.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -161,21 +169,15 @@ Yahoo • 34m ago
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-BBC • 1h ago
+BBC • 3h ago
 
 ---
 
-**[North Korean hacking group builds AI tools for cyberattacks, report says](https://www.reuters.com/legal/litigation/north-korean-hacking-group-builds-ai-tools-cyberattacks-report-says-2026-08-10/)**
+**[How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)**
 
-Reuters • 5h ago
+The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
----
-
-**[AI isn’t the biggest cybersecurity problem. People are](https://www.cnn.com/2026/08/09/tech/ai-cybersecurity-people)**
-
-Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
-
-CNN • 20h ago
+CNBC • 20h ago
 
 ---
 
@@ -184,14 +186,6 @@ CNN • 20h ago
 Li Linlin cried for days after losing her virtual boyfriend. She exchanged about 700,000 words with him over two years and never got to say goodbye when he was eliminated by ByteDance, the developer of TikTok.
 
 AP News • 1h ago
-
----
-
-**[Israeli AI startup Decart nearing $6 billion sale, Musk’s SpaceX circling](https://www.calcalistech.com/ctechnews/article/hjhzrluuml)**
-
-Exclusive: The three-year-old startup was close to a deal with Nvidia before a larger bid emerged, with SpaceX, Amazon and Nebius believed to be among those interested in acquiring the company.
-
-calcalistech.com • 3h ago
 
 ---
 
@@ -239,9 +233,17 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 ---
 
+**[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://news.ycombinator.com/item?id=49239751)**
+
+Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
+
+⬆️ 134 • 💬 84 • 2h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+
+---
+
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 109 • 💬 59 • 11h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 115 • 💬 72 • 12h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -249,7 +251,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 97 • 💬 69 • 22h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 97 • 💬 69 • 1d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -268,7 +270,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 72 • 💬 91 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 72 • 💬 92 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -277,12 +279,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 A year of failure postmortems from building document AI for public tenders: phantom partners, silent coverage collapses, broken truth-meters, and why the refusal became the product.
 
 ⬆️ 72 • 💬 0 • 1d ago • [Lucius AI](https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie)
-
----
-
-**[Switching to electric stoves can dramatically cut indoor air pollution (2025)](https://news.ycombinator.com/item?id=49230424)**
-
-⬆️ 63 • 💬 107 • 19h ago • [news.stanford.edu](https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric)
 
 ---
 
@@ -296,7 +292,7 @@ AI is starting to audit science itself, catching decades-old errors, exposing re
 
 📺 AI Revolution
 
-👁️ 11K • 👍 642 • 💬 86 • ⏱️ 15:13 • 4h ago
+👁️ 11K • 👍 642 • 💬 86 • ⏱️ 15:13 • 6h ago
 
 ---
 
@@ -316,7 +312,7 @@ Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and 
 
 📺 Cole Hastings
 
-👁️ 131K • 👍 5K • 💬 782 • ⏱️ 15:09 • 14h ago
+👁️ 131K • 👍 5K • 💬 782 • ⏱️ 15:09 • 16h ago
 
 ---
 
@@ -326,7 +322,7 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 4K • 👍 102 • 💬 1 • ⏱️ 0:14 • 4h ago
+👁️ 4K • 👍 102 • 💬 1 • ⏱️ 0:14 • 5h ago
 
 ---
 
@@ -386,7 +382,7 @@ shorts #cooking #lifehacks #recipe #testing Can AI make Nutella? I tested an AI-
 
 📺 Zane Holmes
 
-👁️ 431K • 👍 9K • 💬 229 • ⏱️ 0:43 • 20h ago
+👁️ 431K • 👍 9K • 💬 229 • ⏱️ 0:43 • 22h ago
 
 ---
 
@@ -402,7 +398,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,303 • 20h ago
+⬇️ 35,295 • ❤️ 3,303 • 22h ago
 
 ---
 
@@ -424,7 +420,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 4,947,943 • ❤️ 1,094 • 20h ago
+⬇️ 4,947,943 • ❤️ 1,094 • 21h ago
 
 ---
 
@@ -484,7 +480,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,817 • 3h ago
+⬇️ 2,390,692 • ❤️ 1,817 • 5h ago
 
 ---
 
@@ -666,7 +662,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.4k • 🔱 387 • 20h ago
+⭐ 4.4k • 🔱 387 • 22h ago
 
 ---
 
@@ -684,7 +680,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -694,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.4k • 🔱 433 • 7h ago
+⭐ 2.4k • 🔱 433 • 8h ago
 
 ---
 
@@ -724,7 +720,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 150 • 2h ago
+⭐ 2.0k • 🔱 150 • 4h ago
 
 ---
 
@@ -734,7 +730,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 239 • 23h ago
+⭐ 2.0k • 🔱 239 • 1d ago
 
 ---
 
@@ -744,7 +740,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 248 • 2m ago
+⭐ 2.0k • 🔱 248 • 1h ago
 
 ---
 
