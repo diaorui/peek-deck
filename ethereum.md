@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-09T23:31:21.123700+00:00'
+updated: '2026-08-10T01:49:24.901780+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 23:31 UTC  
+**Last Updated:** August 10, 2026 at 01:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,925.04
+### $1,913.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +2.7%  
-**30d:** +6.8%  
-**90d:** -16.0%  
-**1y:** -55.1%  
+**24h:** +0.2%  
+**7d:** +2.8%  
+**30d:** +6.4%  
+**90d:** -14.9%  
+**1y:** -54.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.74B
+**Market Cap:** $231.00B
 Rank #2
 
-**Circulating Supply:** 120,682,073 ETH
+**Circulating Supply:** 120,682,058 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.0%
+-61.3%
 
 **All-Time Low:** $0.43
-+445321.1%
++442011.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -172,37 +172,15 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 5h ago
+24/7 Wall St. • 7h ago
 
 ---
 
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
 
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
 
-TradingView • 1d ago
-
----
-
-**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
-
-The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
-
-The Block • 5d ago
-
----
-
-**[Ethereum price today: August 7, 2026](https://www.thestreet.com/crypto/investing/ethereum-price-today-august-7-2026)**
-
-thestreet.com • 2d ago
-
----
-
-**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
-
-Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
-
-Crypto Briefing • 11h ago
+TradingView • 2d ago
 
 ---
 
@@ -214,19 +192,43 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
-
-Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
-
-Yahoo Finance • 2d ago
-
----
-
 **[SharpLink CEO warns EIP-8363 could kill ETH’s biggest advantage over Bitcoin](https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186)**
 
 The "Tapered Issuance Burn" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.
 
 The Block • 2d ago
+
+---
+
+**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
+
+Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
+
+Crypto Briefing • 14h ago
+
+---
+
+**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
+
+Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
+
+Yahoo Finance • 3d ago
+
+---
+
+**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
+
+The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
+
+The Block • 5d ago
+
+---
+
+**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+
+US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+
+TradingView • 1d ago
 
 ---
 
@@ -240,7 +242,17 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 260 • 💬 5 • ⏱️ 7:37 • 21h ago
+👁️ 6K • 👍 266 • 💬 8 • ⏱️ 7:37 • 1d ago
+
+---
+
+**[BITCOIN: IT&#39;S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9JIhxX94oBY)**
+
+BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 160 • 💬 46 • ⏱️ 17:48 • 4h ago
 
 ---
 
@@ -248,7 +260,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 485 • 💬 20 • ⏱️ 1:29 • 22h ago
+👁️ 9K • 👍 515 • 💬 22 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -258,7 +270,17 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 631 • 💬 105 • ⏱️ 33:45 • 1d ago
+👁️ 6K • 👍 638 • 💬 105 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
+
+I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 342 • 👍 13 • 💬 2 • ⏱️ 0:43 • 13h ago
 
 ---
 
@@ -266,7 +288,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 CryptoWendyO
 
-👁️ 619 • 👍 58 • 💬 3 • ⏱️ 1:00 • 2h ago
+👁️ 1K • 👍 106 • 💬 2 • ⏱️ 1:00 • 4h ago
 
 ---
 
@@ -286,7 +308,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 229 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+👁️ 7K • 👍 230 • 💬 36 • ⏱️ 1:06:58 • 2d ago
+
+---
+
+**[Ethereum | Ethereum Prediction | August 9 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rUSSSManu1Q)**
+
+MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
+
+📺 Forex Forecast | Elliott Wave Analysis ReadyForex
+
+👁️ 41 • 👍 2 • 💬 2 • ⏱️ 4:43 • 15h ago
 
 ---
 
@@ -297,34 +329,6 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 📺 Money Rules - Investing Tips 
 
 👁️ 21K • 👍 2K • 💬 234 • ⏱️ 17:35 • 2d ago
-
----
-
-**[+251964615165 #amhara #eritrian #tigray  #wedding #ethiopia#gonder #ethereum @dwamharic](https://www.youtube.com/watch?v=RaMbBxWFuSY)**
-
-📺 ማሜ የባህል ልብስ
-
-👁️ 1K • 👍 16 • ⏱️ 0:16 • 4h ago
-
----
-
-**[📈 Bitcoin Beats Inflation by 6% a Year (Math Proves It)](https://www.youtube.com/watch?v=jnJ8d_KWu_U)**
-
-The US money supply grows at 6.8% a year. Bitcoin only adds 0.8% new supply. That gap is your minimum floor, and history says ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 273 • 👍 9 • 💬 1 • ⏱️ 1:25 • 1d ago
-
----
-
-**[Ethereum Price Analysis: Prepare for the Next Ethereum Move!](https://www.youtube.com/watch?v=NOr3qtBm_9U)**
-
-In this video, I provide a detailed Elliott Wave analysis for Ethereum to determine if the next phase of the bear market is imminent ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 237 • 💬 10 • ⏱️ 7:25 • 2d ago
 
 ---
 

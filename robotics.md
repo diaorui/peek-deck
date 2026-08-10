@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-09T23:31:21.125936+00:00'
+updated: '2026-08-10T01:49:24.904047+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 09, 2026 at 23:31 UTC  
+**Last Updated:** August 10, 2026 at 01:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-12h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-21h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 14h ago
+Business Insider • 16h ago
 
 ---
 
@@ -128,7 +128,7 @@ The Information • 2d ago
 
 **[Humanoids are as much a compute story as a robotics one](https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709)**
 
-Investing.com • 17h ago
+Investing.com • 19h ago
 
 ---
 
@@ -138,9 +138,17 @@ USNI News • 3d ago
 
 ---
 
-**[Can Robots Save an Aging Japan?](https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html)**
+**['Asimov was right' about rules for robots, says ex-US Cyber Director](https://www.theregister.com/security/2026/08/07/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director/5284397)**
 
-The New York Times • 3d ago
+Humans will get the AI models they deserve
+
+theregister.com • 2d ago
+
+---
+
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
+
+WSJ • 2d ago
 
 ---
 
@@ -152,25 +160,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
-
-WSJ • 2d ago
-
----
-
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
-
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
-
-Global News • 1d ago
-
----
-
 **[HII Signs Performance-based Production Agreements with Path Robotics and GrayMatter Robotics](https://www.hii.com/news/hii-signs-performance-based-production-agreements-with-path-robotics-and-graymatter-robotics)**
 
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
-hii.com • 3d ago
+HII • 3d ago
 
 ---
 
@@ -179,6 +173,14 @@ hii.com • 3d ago
 Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
 
 Princeton Engineering • 3d ago
+
+---
+
+**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+
+Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+
+Global News • 1d ago
 
 ---
 
@@ -192,7 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 42K • 👍 1K • 💬 198 • ⏱️ 9:02 • 1d ago
+👁️ 45K • 👍 2K • 💬 202 • ⏱️ 9:02 • 1d ago
 
 ---
 
@@ -202,17 +204,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 34K • 👍 369 • 💬 416 • ⏱️ 1:36 • 4d ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 72K • 👍 1K • ⏱️ 17:44 • 3d ago
+👁️ 34K • 👍 369 • 💬 416 • ⏱️ 1:36 • 5d ago
 
 ---
 
@@ -222,7 +214,37 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 152K • 👍 6K • 💬 2K • ⏱️ 20:28 • 4d ago
+👁️ 154K • 👍 6K • 💬 2K • ⏱️ 20:28 • 4d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 131K • 👍 4K • 💬 236 • ⏱️ 47:03 • 3d ago
+
+---
+
+**[AGIBOT A3 Ultra Robot Handles Jumps Like a Human](https://www.youtube.com/watch?v=wcdKAuyGVM8)**
+
+The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressive balance, controlled landings, and the ability ...
+
+📺 DPCcars
+
+👁️ 16K • 👍 285 • 💬 46 • ⏱️ 1:20 • 4d ago
+
+---
+
+**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+
+This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+
+📺 Y Combinator
+
+👁️ 17K • 👍 542 • 💬 19 • ⏱️ 1:24:13 • 1d ago
 
 ---
 
@@ -236,23 +258,13 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 ---
 
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
-📺 Excessive Overkill
+📺 Cyrus Janssen
 
-👁️ 129K • 👍 4K • 💬 234 • ⏱️ 47:03 • 3d ago
-
----
-
-**[It&#39;s Finally Happening.. Anthropic Destroying Books, Demonic Centaur Robot, AI CEOs Building Bunkers](https://www.youtube.com/watch?v=rqSbSJTSqlM)**
-
-Anthropic is destroying books, Demonic Centaur Robot, AI CEOs Building Bunkers and OPENAI's rouge ai agent. In todays video I ...
-
-📺 Sling and Stone
-
-👁️ 53K • 👍 3K • 💬 618 • ⏱️ 15:58 • 4d ago
+👁️ 211K • 👍 608 • 💬 98 • ⏱️ 40:27 • 3d ago
 
 ---
 
@@ -262,17 +274,7 @@ China's dating robot is going viral, but the real story isn't what the internet 
 
 📺 Synthetic Empire
 
-👁️ 70K • 👍 1K • 💬 120 • ⏱️ 12:38 • 6d ago
-
----
-
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
-
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
-
-📺 Cyrus Janssen
-
-👁️ 202K • 👍 601 • 💬 98 • ⏱️ 40:27 • 3d ago
+👁️ 72K • 👍 1K • 💬 122 • ⏱️ 12:38 • 6d ago
 
 ---
 
@@ -282,7 +284,7 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 
 📺 WOLF Financial
 
-👁️ 32K • 👍 855 • 💬 210 • ⏱️ 48:23 • 1d ago
+👁️ 33K • 👍 878 • 💬 211 • ⏱️ 48:23 • 1d ago
 
 ---
 

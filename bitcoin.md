@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-09T23:31:21.119528+00:00'
+updated: '2026-08-10T01:49:24.897581+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 09, 2026 at 23:31 UTC  
+**Last Updated:** August 10, 2026 at 01:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,080.95
+### $64,850.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.1%  
-**30d:** +1.6%  
-**90d:** -19.4%  
-**1y:** -45.5%  
+**24h:** +0.4%  
+**7d:** +1.6%  
+**30d:** +2.1%  
+**90d:** -17.9%  
+**1y:** -45.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1308.19B
+**Market Cap:** $1303.18B
 Rank #1
 
-**Circulating Supply:** 20,068,025 BTC
+**Circulating Supply:** 20,068,087 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.3%
+-48.5%
 
 **All-Time Low:** $67.81
-+96031.8%
++95670.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 31
+### 30
 **FEAR**
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-8h ago
+10h ago
 
 ---
 
 **[How to Invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vjonwt/how_to_invest_in_bitcoin/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -99,19 +99,19 @@ Rank #1
 
 I started accumulating back in 2020, saved heavily and convinced my wife after realising that Bitcoin is the greatest monetary system and store of value that we should go all in. Got up to 5 BTC at my peak in 2021, and that’s when greed kicked in. I saw everyone making huge gains, and my impatience got the better of me. I took half my stack and played alts, did OK, sold some for IRL purposes (house move, relocation, pay off debts). And then I decided to use the rest of my stack to try and buy low, sell high and then play more alts to increase my stack during the last 2-3 years, and well, without typing out the usual trading alts story, ended up losing the majority, and then at the start of this year my entire bag went to zero. Gone. My hopes. Dreams. Future plans. And all my fault, and I take full responsibility. I post this not for sympathy, I’m going through the grieving process still (sounds dramatic but that’s what it is), but I post this for other anons out there. Please don’t do what I did. Don’t chase the promise of higher gains. BTC is the only cryptocurrency with any value. If you have a stack, do not touch it. Don’t be tempted. Believe me, not only will you lose, but it hurts. For those that have continued to stack and not be tempted to play the casino, well done, you deserve every bit of fulfillment when it inevitably reaches those new ATHs. I might start a fresh stack, but honestly the last few years have taken a lot out of me. I have a home, a family, and good health, and so right now that’s what I need to take care of.
 
-9h ago
+12h ago
 
 ---
 
 **[Allow me to repost this](https://www.reddit.com/r/Bitcoin/comments/1vjpewy/allow_me_to_repost_this/)**
 
-10h ago
+12h ago
 
 ---
 
 **[The 3 rules of the crypto club](https://www.reddit.com/r/Bitcoin/comments/1vjp0q8/the_3_rules_of_the_crypto_club/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 I like Matthew Kratter, but this is just sad. Don't give up brother, stick to your LukeJr chain and don't ever download the dirty Blockchain ever again. All that buildup for months just to give up in hours is beyond pathetic.
 
-10h ago
+12h ago
 
 ---
 
@@ -127,13 +127,13 @@ I like Matthew Kratter, but this is just sad. Don't give up brother, stick to yo
 
 I started with daily investments early this year and before I realized I passed owning 1% of a Bitcoin. Big achievement for me... someone who has never invested in anything.
 
-16h ago
+18h ago
 
 ---
 
 **[Who is this guy and why does he think he is the CEO of Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vjzddk/who_is_this_guy_and_why_does_he_think_he_is_the/)**
 
-3h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ I started with daily investments early this year and before I realized I passed 
 
 "If quacks like a duck, then it probably is a duck." If Hardware Wallet vendors doing gross negligence do not get into the category of criminal fraud when they do not have certifications and code quality security and security in depth design, then anyone will just jump into space "selling lots of hardware" and doing exit by simply blaming "the hacker". If an idiot scumbag wallet vendor gets angry when you question his shit, now you know what could be the end result. ______ "The threat of a malicious manufacturer might seem small, but when it comes to companies that might go out of business in the next decade, the possibility of pulling an "exit scam" should not be discounted. The fact that this attack is virtually impossible to prove as a victim could provide additional motivation for malicious actors." (10 Nov 2022) https://blog.bitbox.swiss/en/how-almost-all-hardware-wallets-can-steal-your-seed/ https://gitlab.com/walletscrutiny/walletScrutinyCom/-/work_items/340 For the record. Bitbox, Coldcard, Trezor, Ledger, Bitkey, Jade. Central point applies to all the HWs, the fucking article is just to show the warnings there were out there, fucking do not trust neither on Bitbox or whatever shit even if they tell you they are ultra secure, etc, the focus point is make more aggressive accountability on Hardware Wallet vendors in general. Hardware Wallet manufacturing for commercial sale should be treated as a regulated, not something anyone (any idiot with an idea) can ship without independent security certification. Vendors handling other people's life savings should face defense in depth certification requirements, with real liability, including criminal liability for gross negligence when they don't meet them. Related articles regarding self-custody that need to be reexplored by Bitcoin community (tech oriented), Bitcoin needs to level up on self custody. https://www.turnkeylinux.org/blog/secure-bitcoin-transactions https://nakamotoinstitute.org/library/trusted-third-parties/ https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/
 
-17h ago
+19h ago
 
 ---
 
@@ -153,13 +153,31 @@ I started with daily investments early this year and before I realized I passed 
 
 Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
-**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
+**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html)**
 
-Bloomberg.com • 1d ago
+Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
+
+The billionaire says he made $15 billion for his company in 2025...
+
+Forbes • 14h ago
+
+---
+
+**[Michael Saylor Predicts Bitcoin Will Gain 30% Annually for 20 Years](https://www.benzinga.com/crypto/cryptocurrency/26/08/61063804/michael-saylor-predicts-bitcoin-will-gain-30-annually-for-20-years)**
+
+Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
+
+Benzinga • 11h ago
 
 ---
 
@@ -171,27 +189,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[This 1 Number Says Michael Saylor’s Bitcoin Sales Are About to End](https://finance.yahoo.com/markets/crypto/articles/1-number-says-michael-saylor-164113719.html)**
+**[A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar](https://www.bloomberg.com/news/articles/2026-08-08/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar)**
 
-Michael Saylor built his fortune and his reputation on a single promise: never sell bitcoin. Strategy has now broken that promise multiple times in quick succession, but one specific number buried in its preferred stock data reveals exactly when the selling stops.
-
-Yahoo Finance • 6h ago
-
----
-
-**[A Billionaire Made $15 Billion Using ChatGPT—Here's How](https://www.forbes.com/sites/digital-assets/2026/08/09/bitcoin-billionaire-claims-he-made-15-billion-using-chatgpt/)**
-
-The billionaire says he made $15 billion for his company in 2025...
-
-Forbes • 12h ago
-
----
-
-**[Michael Saylor Predicts Bitcoin Will Gain 30% Annually for 20 Years](https://www.benzinga.com/crypto/cryptocurrency/26/08/61063804/michael-saylor-predicts-bitcoin-will-gain-30-annually-for-20-years)**
-
-Summary: Strategy's Michael Saylor says AI helped with Bitcoin financing, advises not to compete with robots.
-
-Benzinga • 8h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -199,13 +199,7 @@ Benzinga • 8h ago
 
 Hackers made away with more than $100 million worth of Bitcoin from thousands of secured "cold" wallets thanks to a glaring software bug.
 
-futurism.com • 1d ago
-
----
-
-**[Hacked Bitcoin Wallet Maker Declines to Estimate Amount Lost](https://www.bloomberg.com/news/articles/2026-08-06/hacked-bitcoin-wallet-maker-declines-to-estimate-amount-lost)**
-
-Bloomberg.com • 2d ago
+Futurism • 1d ago
 
 ---
 
@@ -217,11 +211,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[1 Popular Cryptocurrency Cathie Wood's Ark Invest Sees Surging 1,823%](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-cathie-woods-ark-invest/)**
+**[Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)**
 
-Within the next five years, Bitcoin could soar past the $1 million price level.
+Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling
 
-The Motley Fool • 10h ago
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin slips below $65,000 as ETF inflows offset fork concerns](https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718)**
+
+Investing.com • 16h ago
 
 ---
 
@@ -314,13 +314,23 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN JUST FORKED!! (Here&#39;s What&#39;s Happening)](https://www.youtube.com/watch?v=Cku7ECkr2qQ)**
+**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
 
-BIP-110 goes live as Bitcoin faces an intense debate over nodes, miners, chain splits and the possibility of a hard fork. Samson ...
+Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 479 • ⏱️ 21:56 • 22h ago
+👁️ 9K • 👍 227 • 💬 10 • ⏱️ 1:20 • 1d ago
+
+---
+
+**[Bitcoin Cycle BROKEN? 2026 Price Prediction!](https://www.youtube.com/watch?v=MHOn5J_jd44)**
+
+Is the traditional 4-year Bitcoin cycle officially dead? We break down how institutional investors and Spot ETFs have permanently ...
+
+📺 Crypto Vlog
+
+👁️ 8K • 💬 25 • ⏱️ 1:13 • 2d ago
 
 ---
 
@@ -330,17 +340,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 69K • 👍 3K • 💬 79 • ⏱️ 47:31 • 1d ago
-
----
-
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
-
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 8K • 👍 218 • 💬 11 • ⏱️ 1:20 • 1d ago
+👁️ 72K • 👍 3K • 💬 78 • ⏱️ 47:31 • 1d ago
 
 ---
 
@@ -350,67 +350,67 @@ On episode 476, Michael Batnick and Ben Carlson discuss: a crazy month in the st
 
 📺 The Compound
 
-👁️ 6K • 👍 125 • 💬 27 • ⏱️ 1:18 • 1d ago
+👁️ 6K • 👍 135 • 💬 28 • ⏱️ 1:18 • 1d ago
 
 ---
 
-**[Bitcoin: Where in the Cycle Are We?](https://www.youtube.com/watch?v=CmGkfyot8qY)**
+**[Bitcoin Live Trading: BTC Is At a Critical Point?! Watch These Levels! EP2086](https://www.youtube.com/watch?v=-J1d_-fWERk)**
 
-Where in the Bitcoin cycle are we? Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
 
-📺 Benjamin Cowen
+📺 Crypto Lifer
 
-👁️ 142K • 👍 8K • 💬 465 • ⏱️ 24:00 • 2d ago
-
----
-
-**[&quot;The Fed JUST QUIETLY Took Action! Bitcoin Will Explode MASSIVELY&quot;    Cathie Wood](https://www.youtube.com/watch?v=aTN016GxGgg)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 521 • 💬 31 • ⏱️ 17:47 • 1d ago
+👁️ 5K • 👍 335 • 💬 23 • ⏱️ 2:00:50 • 23h ago
 
 ---
 
-**[Bitcoin&#39;s Next Stop is $250K](https://www.youtube.com/watch?v=0SkgsPMapps)**
+**[EURUSD, Gold &amp; Bitcoin Setting Up a BIG Week | Weekly SMC Outlook](https://www.youtube.com/watch?v=LQz0WrSnt2s)**
 
-Bitwise CIO Matt Hougan Reveals MASSIVE Crypto Prediction for bitcoin, ethereum, solana & MORE into 2027. Follow: ...
+Gold, Silver, EURUSD, DXY, S&P 500, Bitcoin and more. IC Markets Bonuses Up To $26k: ...
 
-📺 Altcoin Daily
+📺 Justin Bennett
 
-👁️ 7K • 👍 193 • 💬 8 • ⏱️ 1:03 • 1d ago
-
----
-
-**[AI Finds 5-Year-Old Bitcoin Vulnerability: $100M Stolen! #shorts](https://www.youtube.com/watch?v=NG46mGjTv2Q)**
-
-An AI model reportedly found a hidden 5-year-old vulnerability in Coldcard source code. In just 40 minutes, nearly 1000 Bitcoins ...
-
-📺 TWiT Tech Podcast Network
-
-👁️ 6K • 👍 163 • 💬 5 • ⏱️ 1:23 • 2d ago
+👁️ 19K • 👍 1K • 💬 94 • ⏱️ 23:34 • 1d ago
 
 ---
 
-**[Matt Kratter: Bitcoin Could Split into Two Chains](https://www.youtube.com/watch?v=m3gc3QXousg)**
+**[Bitcoin Crypto Heist, Professor Catches AI Cheats, Spokane Fire Arrest | The Wrap Up | PragerU](https://www.youtube.com/watch?v=CIkLE4aDoII)**
 
-Natalie Brunell and Matt Kratter discuss the escalating debate surrounding BIP 110 and full node sovereignty. Matt explains why ...
+Hackers drain $116 million from supposedly un-hackable Bitcoin wallets, and investigators still don't know who's responsible.
 
-📺 Natalie Brunell
+📺 PragerU
 
-👁️ 1K • 👍 23 • 💬 88 • ⏱️ 0:49 • 1d ago
+👁️ 44K • 👍 365 • 💬 29 • ⏱️ 8:07 • 2d ago
 
 ---
 
-**[Inside the Most Divisive Debate in Bitcoin Right Now](https://www.youtube.com/watch?v=txT754BEpJA)**
+**[Clarity Act Delayed (Shockingly Bitcoin Isn’t Crashing)](https://www.youtube.com/watch?v=4qhcwl9E8Gs)**
 
-BIP-110 has divided the Bitcoin community more than anything I've covered in years, and a lot of the argument has played out as ...
+BITUNIX TRADE THE TOP COINS (available everywhere) https://cryptolark.co/BITUNIX Join the Inner Circle for exclusive ...
 
-📺 Natalie Brunell
+📺 Lark Davis
 
-👁️ 38K • 👍 2K • 💬 439 • ⏱️ 1:09:52 • 2d ago
+👁️ 13K • 👍 512 • 💬 89 • ⏱️ 11:04 • 2d ago
+
+---
+
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
+
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 638 • 💬 105 • ⏱️ 33:45 • 1d ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=CImWwKQHvwE)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 DJ STAN | THE GOSPEL PLUG
+
+👁️ 5K • 👍 17 • 10h ago
 
 ---
 
