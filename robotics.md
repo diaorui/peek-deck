@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T14:58:27.776292+00:00'
+updated: '2026-08-10T16:04:44.492119+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 14:58 UTC  
+**Last Updated:** August 10, 2026 at 16:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,7 +56,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur
 
 Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -126,9 +126,17 @@ The Information • 3d ago
 
 ---
 
+**[Robot24.com Launches Global Robotics News Platform With Original Reporting, Business News and Correspondents on Every Continent](https://markets.businessinsider.com/news/stocks/robot24-com-launches-global-robotics-news-platform-with-original-reporting-business-news-and-correspondents-on-every-continent-1036436362)**
+
+Robot24.com has launched as a new global robotics news platform dedicated to covering the companies, machines, people and technologies shaping t...
+
+markets.businessinsider.com • 41m ago
+
+---
+
 **[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -136,21 +144,21 @@ Reuters • 12h ago
 
 The highly anticipated initial public offering of Yushu Technology Co., known as Unitree Robotics, drew huge demand from retail investors as China’s leading humanoid robot maker opened books in Shanghai.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Opinion | US does its robotics industry no favours by fencing it off from China](https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china)**
 
-South China Morning Post • 2h ago
+South China Morning Post • 3h ago
 
 ---
 
-**[Photos: Robotics Fair 2026](https://www.mercurynews.com/2026/08/10/photos-robotics-fair-2026/)**
+**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
 
-Exhibition and competitions at San Mateo County Event Center.
+As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
 
-The Mercury News • 18m ago
+politico.eu • 3d ago
 
 ---
 
@@ -158,27 +166,21 @@ The Mercury News • 18m ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 1h ago
+404 Media • 3h ago
 
 ---
 
 **[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
-**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
+**[Photos: Robotics Fair 2026](https://www.mercurynews.com/2026/08/10/photos-robotics-fair-2026/)**
 
-Tech Xplore • 2d ago
+Exhibition and competitions at San Mateo County Event Center.
 
----
-
-**[China’s 2035 moon base could see robot dogs patrol, build and explore](https://interestingengineering.com/ai-robotics/robot-dogs-in-space-china)**
-
-China intends to integrate robot dogs at its future lunar base station.
-
-Interesting Engineering • 22h ago
+mercurynews.com • 1h ago
 
 ---
 
@@ -192,7 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 49K • 👍 2K • 💬 206 • ⏱️ 9:02 • 1d ago
+👁️ 49K • 👍 2K • 💬 206 • ⏱️ 9:02 • 2d ago
 
 ---
 
@@ -222,7 +224,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Broken Business Models
 
-👁️ 9K • 👍 395 • 💬 87 • ⏱️ 20:54 • 10h ago
+👁️ 9K • 👍 395 • 💬 87 • ⏱️ 20:54 • 11h ago
 
 ---
 
@@ -232,7 +234,7 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 159K • 👍 6K • 💬 3K • ⏱️ 20:28 • 4d ago
+👁️ 159K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
 
 ---
 
@@ -262,7 +264,7 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 📺 China Fact Chasers
 
-👁️ 52K • 👍 3K • 💬 488 • ⏱️ 26:40 • 5d ago
+👁️ 52K • 👍 3K • 💬 488 • ⏱️ 26:40 • 6d ago
 
 ---
 
@@ -282,7 +284,7 @@ A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost a
 
 📺 Dre-Daily-Trends
 
-👁️ 7K • 👍 190 • 💬 9 • ⏱️ 0:05 • 12h ago
+👁️ 7K • 👍 190 • 💬 9 • ⏱️ 0:05 • 14h ago
 
 ---
 

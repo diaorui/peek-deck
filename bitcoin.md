@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T14:58:27.766912+00:00'
+updated: '2026-08-10T16:04:44.486701+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 14:58 UTC  
+**Last Updated:** August 10, 2026 at 16:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +0.8%  
-**30d:** +1.3%  
-**90d:** -18.5%  
-**1y:** -45.6%  
+**24h:** -1.3%  
+**7d:** +0.4%  
+**30d:** +0.9%  
+**90d:** -18.9%  
+**1y:** -45.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,13 @@ The guy is living in another world. These past weeks, I thought he was just a bi
 
 Every time Bitcoin's retested a prior all time high, RSI has bottomed out just as oversold as the actual bear market lows before turning back up, thats held across all four instances. What varies is whether price also swept the obvious lows underneath that zone first, and that detail seems to matter more than youd think. Two of the first three times it swept, those runs went further and lasted longer than the one time it didnt. The third sweep is the one happening right now, hasnt played out yet, so its not a confirmed data point, just the current setup lining up the same way the bigger runs did Not calling anything guaranteed here, and this ones still live. But if the pattern holds, historys saying this is the setup that tends to run further, not less.
 
-3h ago
+4h ago
 
 ---
 
 **[We should congratulate the Bipcoiners as they managed to fire the miners, and so far have kept their chain free from SPAM blocks for 38 hours in a row](https://www.reddit.com/r/Bitcoin/comments/1vki4ho/we_should_congratulate_the_bipcoiners_as_they/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold under the “Coin Cold Card” branding (coincoldcard.com was printed on the card). The public address was printed on the front. The private key and its QR code were printed on the back under a scratch-off security layer. Before the funds disappeared, I had never removed that layer, scanned the private-key QR code, or imported the private key into a computer or phone. On May 21, 2016, the wallet was emptied without my authorization: Victim public address: 1Bwo42o7eDakFgJ6srxjZnh3y5gTHUehyA Unauthorized transaction: efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc Amount sent: 4.71064406 BTC (plus a 0.0002 BTC fee) First receiving address: 1BTeq9DricViuNAoBMBWqCSUmGWappfwvZ Transaction link: https://www.walletexplorer.com/txid/efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc What makes this unusual is that the card contained a private key generated and printed before it reached me. An intact scratch layer could prevent later viewing, but it could not prevent the generator, printer, manufacturer, employee, or another party in the production chain from retaining a copy beforehand. My current hypothesis is therefore a production/supply-chain compromise: the private key may have been copied, stored, or generated predictably before the card was sold. This is a hypothesis, not a proven accusation against any particular person or company. The on-chain investigation shows that about 29 hours later my output was pooled with 15 other inputs. Several later descendant branches converged on an address historically announced by the operator of PocketRocketsCasino as a cold wallet. A related WalletExplorer cluster later transferred 1,496.33401461 BTC into another large treasury-like cluster. This does NOT prove that PocketRocketsCasino, BetKing, or any labeled service stole my BTC: the funds had already been mixed. It is included only as an investigative lead. I am looking for other people who bought or received the same “Coin Cold Card” product, especially around 2013–2016. If you had one, please reply with only non-secret information: - approximate purchase year and country; - where it was purchased; - whether the scratch layer appeared intact; - whether the wallet was later emptied without authorization; - a public Bitcoin address or transaction ID, only if you are comfortable sharing it. Never post or send your seed phrase, private key, or an unredacted photo of the back of the card. I will not pay anyone offering “recovery” services, and nobody should contact victims asking for keys or advance fees. I still have the physical card, photographs, the original transaction data, and a structured evidence report. I am trying to determine whether this was an isolated incident or part of a larger pattern affecting other cards.
 
-15h ago
+16h ago
 
 ---
 
@@ -111,13 +111,13 @@ In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold unde
 
 Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
 
-26m ago
+1h ago
 
 ---
 
 **[How the sub feels at this moment](https://www.reddit.com/r/Bitcoin/comments/1vjtf20/how_the_sub_feels_at_this_moment/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin has been around for 17 years now, and the ecosystem looks very different
 
 **[Wow](https://www.reddit.com/r/Bitcoin/comments/1vjsrr2/wow/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ I started accumulating back in 2020, saved heavily and convinced my wife after r
 
 Two Rodolfo Novak's websites (two of the many out there): https://airgapcomputer.com/ This one do not even mentions that is owned by Coldcard or a Hardware Wallet vendor. https://bitcoinsecurity.org https://bitcoinsecurity.org/about This second one is more fucked up as for public in general looking for bitcoin self custody and security was apparently not related in any way with a Harware Wallet vendor. The footer and about show just a "Maintained by NVK." who knows how many users took that website as a "bitcoin security guide", when that website does not even disclose material connection as nkv Rodolfo Novak and a CEO of Coldcard Hardware Wallet, which interestingly enough is the only wallet that has all checklist as green and the only one recommended through the guides.... This goes way beyond the bug negligence that caused +100M losses and affected millions of Coldcard users, he has been doing very shady and misleading marketing....but who knows, that is for Canadian regulators to decide...
 
-14h ago
+15h ago
 
 ---
 
@@ -165,7 +165,31 @@ CoinDesk • 1d ago
 
 (Bloomberg) -- Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve. Most Read from BloombergChina Unleashes $28 Trillion Capital Markets to Challenge US in AIIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’Stocks Waver Near Record Highs, Crude Oil Advances: Markets WrapTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Says Hormuz Deal Close But Its Condi
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Exclusive: Marex plans to accept Bitcoin, Ethereum as initial margin this year](https://uk.finance.yahoo.com/news/exclusive-marex-plans-accept-bitcoin-153057893.html)**
+
+Investing.com -- Marex Group (NASDAQ: MRX) plans to begin accepting Bitcoin and Ethereum as initial margin collateral for derivatives later this year, extending its stablecoin program announced last month, Investing.com has learned.
+
+Yahoo Finance UK • 33m ago
+
+---
+
+**[JUST IN: Bitcoin is bouncing off the 200 weekly moving average, which historically has been a great buying opportunity 👀 Bullish! 🚀](https://www.moomoo.com/community/feed/just-in-bitcoin-is-bouncing-off-the-200-weekly-moving-117071763931541)**
+
+@Bitcoin Magazine 5015 Views|3 Likes
+
+Moomoo • 1h ago
+
+---
+
+**[BTC USD Price Prediction: Can Bitcoin Hold $64,000 Before Wednesday’s CPI Data Drop?](https://finance.yahoo.com/markets/crypto/articles/btc-usd-price-prediction-bitcoin-150447511.html)**
+
+BTC USD is trading at $64,950, up a modest +0.2% on the day, after briefly punching through $65,400 in early August 10 trading. That’s not a breakout yet, as it’s already lost the $65,000 level. The bigger question is whether Wednesday’s inflation print turns this into a real move or ...
+
+Yahoo Finance • 59m ago
 
 ---
 
@@ -173,31 +197,13 @@ Yahoo Finance • 1h ago
 
 ProCap Financial Chairman and CEO Anthony Pompliano joins Stuart Varney to discuss Bitcoin's long-term potential. Pompliano argues that currency devaluation and constant money printing in Washington D.C. will drive Bitcoin higher.
 
-Fox Business • 22m ago
+Fox Business • 1h ago
 
 ---
 
-**[Strategy Raises Dollar Reserve to $4.65B, Sells Bitcoin to Repurchase STRC Shares](https://www.citybiz.co/article/886538/strategy-raises-dollar-reserve-to-4-65b-sells-bitcoin-to-repurchase-strc-shares/)**
+**[Bitcoin Fund Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Strategy Inc. (Nasdaq: MSTR) increased its U.S. dollar reserve by $650 million and sold approximately $109 million of Bitcoin to... Read More
-
-citybiz • 41m ago
-
----
-
-**[Michael Saylor Reveals Why Strategy Sold Bitcoin Near $60K Despite Its Buy and Hold Strategy](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-why-strategy-142207702.html)**
-
-Michael Saylor says Strategy needed to prove it could sell Bitcoin without crashing the market or undermining its treasury model. Strategy sold 1,638 BTC for ...
-
-Yahoo Finance • 36m ago
-
----
-
-**[How Bitcoin Is Reshaping Corporate Treasury Strategies](https://www.commercialappeal.com/story/special/contributor-content/2026/08/10/how-bitcoin-is-reshaping-corporate-treasury-strategies/91235375007/)**
-
-For many teams, watching the Bitcoin to USD market has become one way to track how this asset behaves in real time.
-
-The Commercial Appeal • 1h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -205,15 +211,15 @@ The Commercial Appeal • 1h ago
 
 The billionaire says he made $15 billion for his company in 2025...
 
-Forbes • 3h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin ETFs Enjoy Stronger Inflows Following Crypto Hack](https://www.pymnts.com/cryptocurrency/2026/bitcoin-etfs-enjoy-stronger-inflows-following-crypto-hack/)**
+**[How Bitcoin Is Reshaping Corporate Treasury Strategies](https://www.commercialappeal.com/story/special/contributor-content/2026/08/10/how-bitcoin-is-reshaping-corporate-treasury-strategies/91235375007/)**
 
-Bitcoin exchange-traded funds (ETFs) are reportedly seeking stronger inflows following a recent crypto hack. The U.S.-listed ETFs, which provide investors
+For many teams, watching the Bitcoin to USD market has become one way to track how this asset behaves in real time.
 
-PYMNTS.com • 52m ago
+The Commercial Appeal • 3h ago
 
 ---
 
@@ -221,15 +227,7 @@ PYMNTS.com • 52m ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 3h ago
-
----
-
-**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/08/09/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
-
-In 2026, getting exposure to the crypto market starts and ends with Bitcoin.
-
-The Motley Fool • 1d ago
+Fortune • 4h ago
 
 ---
 
@@ -310,11 +308,11 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 ---
 
-**[Mining Bitcoin with 2013 USB sticks, a Jalapeño and my phone (pure Python)](https://news.ycombinator.com/item?id=49211160)**
+**[Controversial Bitcoin fork BIP-110 mines two blocks, then stops](https://news.ycombinator.com/item?id=49245272)**
 
-Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone browser - pure Python, retro CRT dashboard - 03012009BTC/miners-bitcoin-lottery
+The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
+⬆️ 1 • 💬 0 • 14m ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -328,7 +326,7 @@ August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Alt
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 329 • 💬 48 • ⏱️ 1:21 • 22h ago
+👁️ 11K • 👍 329 • 💬 48 • ⏱️ 1:21 • 1d ago
 
 ---
 
@@ -338,7 +336,7 @@ Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (un
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 242 • 💬 11 • ⏱️ 1:20 • 1d ago
+👁️ 10K • 👍 242 • 💬 11 • ⏱️ 1:20 • 2d ago
 
 ---
 
@@ -378,7 +376,7 @@ WHOA: BTC schools Trump's attorney on live TV Please order my new book, THE DAY 
 
 📺 Brian Tyler Cohen
 
-👁️ 77K • 👍 5K • 💬 219 • ⏱️ 1:56 • 17h ago
+👁️ 77K • 👍 5K • 💬 219 • ⏱️ 1:56 • 18h ago
 
 ---
 
