@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T20:10:51.759169+00:00'
+updated: '2026-08-10T21:12:54.812334+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 20:10 UTC  
+**Last Updated:** August 10, 2026 at 21:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-5h ago
+6h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-5h ago
+6h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-3h ago
+4h ago
 
 ---
 
@@ -118,41 +118,11 @@ Business Insider • 1d ago
 
 ---
 
-**[Why U.S. Robotics Startups Are Stuffing Parts From China in Luggage](https://www.theinformation.com/articles/u-s-robotics-startups-stuffing-parts-china-luggage)**
+**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
 
-On a muggy morning in April, a venture capitalist from San Francisco arrived in China’s southern tech hub of Shenzhen with a long shopping list. His friends at U.S. robotic startups had asked him to bring back humanoids and various robotic components from China. He headed to Shenzhen’s ...
+Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
 
-The Information • 3d ago
-
----
-
-**[Humanoid Robotics Are Blurring The Line Between Humans And Machines](https://www.forbes.com/sites/chuckbrooks/2026/08/10/humanoid-robotics-are-blurring-the-line-between-humans-and-machines/)**
-
-The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
-
-Forbes • 2h ago
-
----
-
-**[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
-
-Reuters • 17h ago
-
----
-
-**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
-
-Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
-
-Interesting Engineering • 12h ago
-
----
-
-**[Unitree Robotics opens IPO subscription, set to become China's first humanoid robot stock](https://news.cgtn.com/news/2026-08-10/Unitree-Robotics-opens-IPO-subscription-a-milestone-for-industry-1PuxbxhJhks/p.html)**
-
-Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
-
-news.cgtn.com • 13h ago
+Global News • 2d ago
 
 ---
 
@@ -160,7 +130,7 @@ news.cgtn.com • 13h ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 6h ago
+Supply Chain Dive • 7h ago
 
 ---
 
@@ -176,7 +146,37 @@ politico.eu • 4d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 7h ago
+404 Media • 8h ago
+
+---
+
+**[Humanoid Robotics Are Blurring The Line Between Humans And Machines](https://www.forbes.com/sites/chuckbrooks/2026/08/10/humanoid-robotics-are-blurring-the-line-between-humans-and-machines/)**
+
+The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
+
+Forbes • 3h ago
+
+---
+
+**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
+
+Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
+
+Interesting Engineering • 13h ago
+
+---
+
+**[Unitree Robotics opens IPO subscription, set to become China's first humanoid robot stock](https://news.cgtn.com/news/2026-08-10/Unitree-Robotics-opens-IPO-subscription-a-milestone-for-industry-1PuxbxhJhks/p.html)**
+
+Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
+
+news.cgtn.com • 14h ago
+
+---
+
+**[Wonder Takes a Gamble on Robots, Drones and AI-Generated Menus](https://www.wsj.com/business/wonder-takes-a-gamble-on-robots-drones-and-ai-generated-menus-8f26bea6)**
+
+WSJ • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Broken Business Models
 
-👁️ 11K • 👍 465 • 💬 98 • ⏱️ 20:54 • 15h ago
+👁️ 11K • 👍 465 • 💬 98 • ⏱️ 20:54 • 16h ago
 
 ---
 
@@ -236,7 +236,7 @@ A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost a
 
 📺 Dre-Daily-Trends
 
-👁️ 11K • 👍 282 • 💬 9 • ⏱️ 0:05 • 18h ago
+👁️ 11K • 👍 282 • 💬 9 • ⏱️ 0:05 • 19h ago
 
 ---
 
@@ -276,7 +276,7 @@ They built a floating robot to fix the one thing that makes robots creepy. It's 
 
 📺 Yury AI
 
-👁️ 381 • 👍 7 • ⏱️ 0:34 • 1h ago
+👁️ 381 • 👍 7 • ⏱️ 0:34 • 2h ago
 
 ---
 
