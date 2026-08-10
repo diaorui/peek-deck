@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T22:07:04.683877+00:00'
+updated: '2026-08-10T23:08:14.990084+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 22:07 UTC  
+**Last Updated:** August 10, 2026 at 23:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-7h ago
+8h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-7h ago
+8h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -78,7 +78,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-5h ago
+6h ago
 
 ---
 
@@ -130,7 +130,7 @@ Global News • 2d ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 8h ago
+Supply Chain Dive • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ politico.eu • 4d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 9h ago
+404 Media • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Knightscope and other robotics companies are rethinking automated security follo
 
 The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Forbes • 4h ago
 
 Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Interesting Engineering • 13h ago
 
 Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
 
-news.cgtn.com • 15h ago
+news.cgtn.com • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Broken Business Models
 
-👁️ 12K • 👍 485 • 💬 104 • ⏱️ 20:54 • 17h ago
+👁️ 12K • 👍 485 • 💬 104 • ⏱️ 20:54 • 18h ago
 
 ---
 
