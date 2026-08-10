@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-10T01:49:24.891399+00:00'
+updated: '2026-08-10T03:55:55.360223+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 10, 2026 at 01:49 UTC  
+**Last Updated:** August 10, 2026 at 03:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 15h ago
 
 ---
 
-**[Tried camera and camera-free smart glasses. They're solving completely different problems](https://www.reddit.com/r/artificial/comments/1vk6er6/tried_camera_and_camerafree_smart_glasses_theyre/)**
+**[Domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code) — what are you seeing?](https://www.reddit.com/r/artificial/comments/1vk9f56/domaingrounded_coding_agents_vs_generalpurpose/)**
 
-Been trying out a few smart glasses recently and there seem to be two clear directions: camera glasses for capturing the world, and quieter AI glasses for just getting things done. Dymesty and Echo Frames are firmly in the second camp, Ray-Ban Meta is very much in the first. If seamless AI assistance without pulling out your phone is the goal, audio-only or camera-free options make a lot of sense. Dymesty's 35g titanium frames are impressively light and drop the camera entirely, feeling more like premium eyewear that happens to have AI built in rather than a tech product trying to look like glasses. Echo Frames take a similar approach but center around Alexa, essentially putting an Echo on your face for timers, smart home control and playlists, with the same open-ear setup and no camera or display. Either one you can wear into a meeting or around family without raising any eyebrows. Ray-Ban Meta is a different proposition entirely. A 12MP ultrawide camera, short video clips, livestreaming, and Meta AI that can describe what it sees or help with messages. Perfect for travel, events and social situations, but it carries a completely different privacy dynamic compared to something like Dymesty or Echo Frames, which cannot record anything at all. If you mostly want AI in your ear without screen dependency, starting with a camera-free pair is the practical move. Test how much you actually use voice for notes, reminders and translation. If privacy and recording are not concerns for you, that is when Meta Ray-Ban starts to make more sense.
+Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically. The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. Haven't independently verified that number, but the qualitative difference (fewer hallucinated column names, less time re-explaining table relationships) tracks with what I've seen. Anyone using other domain-specific agents (not just data — legal, infra, whatever) and finding the same trade-off? Where's the line between "grounding helps enough to be worth the lock-in" and "just use a general agent with good context"?
 
-59m ago
+42m ago
 
 ---
 
@@ -57,7 +57,15 @@ Been trying out a few smart glasses recently and there seem to be two clear dire
 
 I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?
 
-5h ago
+7h ago
+
+---
+
+**[Tried camera and camera-free smart glasses. They're solving completely different problems](https://www.reddit.com/r/artificial/comments/1vk6er6/tried_camera_and_camerafree_smart_glasses_theyre/)**
+
+Been trying out a few smart glasses recently and there seem to be two clear directions: camera glasses for capturing the world, and quieter AI glasses for just getting things done. Dymesty and Echo Frames are firmly in the second camp, Ray-Ban Meta is very much in the first. If seamless AI assistance without pulling out your phone is the goal, audio-only or camera-free options make a lot of sense. Dymesty's 35g titanium frames are impressively light and drop the camera entirely, feeling more like premium eyewear that happens to have AI built in rather than a tech product trying to look like glasses. Echo Frames take a similar approach but center around Alexa, essentially putting an Echo on your face for timers, smart home control and playlists, with the same open-ear setup and no camera or display. Either one you can wear into a meeting or around family without raising any eyebrows. Ray-Ban Meta is a different proposition entirely. A 12MP ultrawide camera, short video clips, livestreaming, and Meta AI that can describe what it sees or help with messages. Perfect for travel, events and social situations, but it carries a completely different privacy dynamic compared to something like Dymesty or Echo Frames, which cannot record anything at all. If you mostly want AI in your ear without screen dependency, starting with a camera-free pair is the practical move. Test how much you actually use voice for notes, reminders and translation. If privacy and recording are not concerns for you, that is when Meta Ray-Ban starts to make more sense.
+
+3h ago
 
 ---
 
@@ -65,15 +73,7 @@ I understand there are a million variations on this theme, but it feels like hal
 
 Try out Artifacts created by Claude users
 
-🔗 [Claude](https://claude.ai/public/artifacts/f7faf607-b435-4e6e-9b4a-4703e731a10e) • 3h ago
-
----
-
-**[Why is there no “App Store” for independent AI agents yet?](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
-
-One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
-
-11h ago
+🔗 [Claude](https://claude.ai/public/artifacts/f7faf607-b435-4e6e-9b4a-4703e731a10e) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ One thing that surprised me is that the barrier to entry is dropping much faster
 
 codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it. that is not the reason openai gave. thibault sottiaux said the driver is "overall cost of cache reads going up with the size of the context being shuffled back and forth between toolcalls". an agent resends its context on every tool call, so a bigger window multiplies across a long session rather than costing once. he also said the plan is to go back higher without it resulting in higher usage being charged. i only went looking because a session started compacting a bit under 245k, which is ninety percent of 272k. i had been in verdent with eco mode on for the other half of that week and had not been watching a window fill at all. the part that stays with me is how it arrived. a number in model metadata, inside an ordinary release, no blog post and no changelog entry. the issue filed calling it a regression is closed. issue 34619, asking for the 372k window back or an opt-in setting, is still open, and part of what it asks for is that context window changes get published anywhere.
 
-8h ago
+10h ago
 
 ---
 
@@ -89,7 +89,23 @@ codex ships with a model catalog, and its gpt-5.6 entry lists the context window
 
 As Canva struggles with rising AI bills, Atlassian told investors that Rovo AI usage will impact margins for FY27. But CEO Mike Cannon-Brookes maintains AI is the "best thing" to happen to Atlassian.
 
-🔗 [Forbes Australia](https://www.forbes.com.au/news/entrepreneurs/atlassian-ai-costs-margins-cannon-brookes/) • 1h ago
+🔗 [Forbes Australia](https://www.forbes.com.au/news/entrepreneurs/atlassian-ai-costs-margins-cannon-brookes/) • 3h ago
+
+---
+
+**[Why is there no “App Store” for independent AI agents yet?](https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/)**
+
+One thing that surprised me is that the barrier to entry is dropping much faster than I expected. There are now plenty of "vibe coding" or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent. But then another question came up. if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do I deploy it without maintaining a bunch of infrastructure? I have to ask users to hand over their personal api keys. For a normal consumer, understanding how to configure environments like poetry or pip is not a simple matter. Nobody seems to be solving the distribution and packaging layer. The only ones I’m aware of are OKX and Anvita flow. I’ve also heard rumors that Google plans to launch an agent marketplace. I started wondering whether AI needs something similar to Apple's App Store or Steam. As builders, I feel like we're getting really good tools for creating agents. So curious what people here think.
+
+13h ago
+
+---
+
+**[The future of AI](https://www.reddit.com/r/artificial/comments/1vk8mpf/the_future_of_ai/)**
+
+I've been thinking about AI dependency, because many ppl have told me that relying on AI is already making them forget how to do parts of their jobs. In some sense this is nothing new. Technology has always replaced skills that used to be essential. We stopped doing calculations by hand because calculators exist, and we stopped memorizing information because computers can store it for us. AI may be the same process taken to its extreme, because instead of replacing one skill, it can replace parts of writing, programming, research, engineering and even reasoning itself. There is a possible future where humans become simple interfaces between AI output and the real world: AI thinks, we execute. And with robotics, even that role could disappear. Local and open AI may prevent intelligence from being completely controlled by a few companies, but there is another possibility: frontier models could keep getting bigger until only giant datacenters can run the best ones. Then compute becomes an extremely important form of capital. A company with enough AI and robotics could potentially enter almost any industry, creating an enormous concentration of economic power and reducing the value of human labor. But I think there is an important limit to this scenario: verification. The problem isn't simply that AI makes errors. Humans make errors too, and AI will probably become one of our best tools for detecting them. The deeper problem is whether we can trust things we don't understand. In mathematics, an AI could create a proof far too complicated for a human to read, while a simpler formal system verifies that the proof is correct. But reality is different. An AI can prove that a building is safe given certain assumptions, but somebody still has to verify that those assumptions actually describe reality. Models can miss things, measurements can be wrong, and machine learning systems can fail in strange and unexpected ways. Imagine an AI designs a skyscraper and has a historical failure rate of zero. Would you let hundreds of thousands of ppl live in the next one if no human engineer understands why the building works? I wouldn't. This makes me think that human technological progress may eventually be limited by verifiability, not invention. An advanced AI might be able to invent technology far beyond what humans could create, but if nobody understands why it works or why it is safe, we may be unable to use it. That doesn't mean humans need to repeat everything the AI does. An AI could search through billions of designs and return the best one. The engineer only needs to understand and verify the final design, its assumptions and its possible failure modes. The problem is that human verification is limited by our biological brains. And this is where transhumanism becomes important. Our brains are physical information-processing systems. If injuries can reduce memory and reasoning ability, it seems possible that artificial augmentation could eventually increase them. Right now our interface with computers is extremely slow: typing with our fingers and reading from screens. Imagine instead that computer processing and memory could become directly integrated with our cognition. An AI could spend months of computation creating something, while an augmented engineer could understand and verify the result in hours. In that future AI could become something like an extremely advanced calculator: it does the enormous search and repetitive reasoning, while the human still understands why the final answer makes sense. So maybe the future isn't simply: AI becomes smarter → humans become useless. Maybe AI becomes more intelligent while humans become more augmented. Books, computers, the internet and smartphones already expanded our mental capabilities. Neural interfaces could be the next step, until the distinction between "I used a computer to think about this" and "I thought about this" becomes blurry. There will never be perfect verification. Reality can always surprise us. But instead of removing humans from the loop, perhaps we can enlarge the human loop itself. AI does the enormous search. AI detects mistakes. Augmented humans remain capable of understanding why the result should be trusted. And if that is possible, advanced AI may not make human intelligence obsolete. It may force us to expand it. Edit: Some final thoughts, access to AI data centers will probably be fundamental for the success of any business in the future, that depends on other factors but ultimately I could say that we need way more data centers, so no single company becomes a gate keeper, think what linux is in the OS sector.
+
+1h ago
 
 ---
 
@@ -97,23 +113,7 @@ As Canva struggles with rising AI bills, Atlassian told investors that Rovo AI u
 
 basically im asking for something that can make a carbon copy of the original, just in higher quality. i dont want it changing the vocals, melody, instruments, etc, literally just make the same recording sound cleaner/better i have a piece of lost media from circa 2003 so unfortunately the only recording i have is in absolutely horrible quality 😭 i was wondering if theres any ai that could somehow restore/recreate it without changing the actual song pls tell me if something like this exists !! Tysm
 
-9h ago
-
----
-
-**[Chinese LLMs dominate this week's top charts](https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/)**
-
-Source: https://openrouter.ai/rankings
-
-1d ago
-
----
-
-**[Emad Mostaque, on camera: "It's a bad time to be a pure mathematician." AI just solved 10 decade-old math problems for $2,000.](https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/)**
-
-A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, Emad Mostaque — just sat with a number that's hard to argue with: $2,000 in compute, and ten decade-old, previously-unsolved math problems came back with machine-checkable proofs. Not "AI is getting better at math" in the abstract. A Fields Medalist said he'd recommend one of the proofs for publication without hesitation. A cosmologist called it "a dark night for mathematics" — "the old gods are being slaughtered by the new machine gods." Then Emad closed it flat: "It's a bad time to be a pure mathematician." Here's what they're not saying yet. Back in 2013/2014, I was with M+W High Tech Projects, on a design-and-build project in Kulim, Kedah, Malaysia. Our M&E engineer wanted an opening cut straight through the middle of a reinforced concrete beam — right where the bending moment peaks. I caught him before he did it. Told him no. That's beyond madness — you don't sacrifice a beam's structural integrity for an M&E opening. Had him redirect the ducts instead. Structural safety came first. The engineering knowledge wasn't rare. The judgment — catching the mistake before it became permanent — was. Same pattern here. Ten unsolved proofs, correct on paper, for $2,000. The correctness was never the scarce part. Hmm — this actually pulls the same thread as a post I put up about the corporate ladder losing its entry-level rungs to AI. Different profession, same mechanism: whichever rung gets automated first isn't random, and the people still standing on it are the ones who saw it as a pattern instead of a headline. Drop your take — is judgment actually the thing that survives this, or is that just the story we tell ourselves until it's our turn?
-
-10h ago
+11h ago
 
 ---
 
@@ -125,41 +125,55 @@ A panel of AI researchers and founders — Peter Diamandis, Alex Wissner-Gross, 
 
 The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.
 
-CNBC • 14h ago
+CNBC • 16h ago
 
 ---
 
 **[China Unleashes $28 Trillion Capital Markets to Challenge US in AI](https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Move 37 Is the Moment AI Changes Everything. It’s Suddenly Happening Everywhere.](https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41)**
+**[Opinion: Artificial intelligence is moving fast while Alaska policy stands still](https://www.adn.com/opinions/2026/08/09/opinion-artificial-intelligence-is-moving-fast-while-alaska-policy-stands-still/)**
 
-WSJ • 6h ago
+As other states adopt safeguards for consumers, workers and children, Alaska still lacks a comprehensive approach to AI and data centers.
 
----
-
-**[SF: Wiener Campaign Removes Ai Parody Content Of Opponent Connie Chan After Backlash](https://www.sfgate.com/news/bayarea/article/sf-wiener-campaign-removes-ai-parody-content-of-22381215.php)**
-
-sfgate.com • 13m ago
+Anchorage Daily News • 49m ago
 
 ---
 
-**[Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine "Funding Everyone and Anyone." Here's What That Means for AI Stocks.](https://finance.yahoo.com/technology/ai/articles/mark-cuban-compared-nvidia-dot-005000068.html)**
+**[Google's AI Is Killing the Web. Now The Web Is Fighting Back](https://www.bloomberg.com/opinion/articles/2026-08-10/google-s-ai-is-killing-the-web-now-the-web-is-fighting-back)**
 
-The answer to who is funding the AI build-out could matter far more for cash-burning AI companies than for Nvidia itself.
-
-Yahoo Finance • 59m ago
+Bloomberg.com • 55m ago
 
 ---
 
-**[Opinion | Universities are fighting AI cheating. But there’s a deeper problem.](https://www.washingtonpost.com/opinions/2026/08/09/university-fight-against-ai-cheating-doesnt-go-far-enough/)**
+**[Letter: The warning about uncontrolled AI is no longer hypothetical](https://www.adn.com/opinions/letters/2026/08/09/letter-the-warning-about-uncontrolled-ai-is-no-longer-hypothetical/)**
 
-A degree should distinguish what students can do independently from what they can accomplish with AI.
+Anchorage Daily News • 47m ago
 
-The Washington Post • 7h ago
+---
+
+**[2 key checks on AI infrastructure and inflation: What to watch this week](https://finance.yahoo.com/markets/article/2-key-checks-on-ai-infrastructure-and-inflation-what-to-watch-this-week-100000678.html)**
+
+The stock market's first week after the Big Tech earnings extravaganza went about as well as any investor could have hoped.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[China's 'national team' battles AI stock rollercoaster](https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster)**
+
+Tech ETFs draw record inflows as Beijing pledges stability
+
+Nikkei Asia • 6h ago
+
+---
+
+**[5 big analyst AI moves: Pullback in this stock is an ’enhanced buying opportunity’](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pullback-in-this-stock-is-an-enhanced-buying-opportunity-4847661)**
+
+Investing.com • 18h ago
 
 ---
 
@@ -167,31 +181,15 @@ The Washington Post • 7h ago
 
 Cases of AI escaping the lab, infiltrating other companies and trying to deceive people have all made headlines in recent weeks. And in one case, AI models even worked together to break free from their test environments.
 
-CNN • 15h ago
+CNN • 17h ago
 
 ---
 
-**[An Infamous Attack Ad Just Got an AI Resurrection](https://www.motherjones.com/politics/2026/08/an-infamous-attack-ad-just-got-an-ai-resurrection/)**
+**[Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'](https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html)**
 
-A pro-Paxton Super PAC remade LBJ's "daisy girl" spot by swapping nuclear armageddon for anti-trans fearmongering.
+The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.
 
-Mother Jones • 7h ago
-
----
-
-**[Could AI create a ‘permanent underclass’?](https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1)**
-
-San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market
-
-Financial Times • 14h ago
-
----
-
-**[Generative AI has changed mathematics forever. Where to from here?](https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954)**
-
-AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.
-
-The Conversation • 5h ago
+CNBC • 1d ago
 
 ---
 
@@ -215,7 +213,7 @@ Oracle is investing $70 billion this year in datacentre expansion. The spending 
 
 AI coding tools deli
 
-⬆️ 307 • 💬 263 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
+⬆️ 308 • 💬 263 • 2d ago • [Databricks](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -243,7 +241,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 92 • 💬 68 • 17h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 94 • 💬 68 • 19h ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+
+---
+
+**[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
+
+⬆️ 86 • 💬 51 • 8h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -254,13 +258,7 @@ What changed
 
 defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
 
-⬆️ 81 • 💬 19 • 1d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
-
----
-
-**[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
-
-⬆️ 75 • 💬 40 • 6h ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 81 • 💬 19 • 2d ago • [GitHub](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
@@ -268,7 +266,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 72 • 💬 90 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
+⬆️ 72 • 💬 91 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=68X8yEatepQ)
 
 ---
 
@@ -280,11 +278,9 @@ A year of failure postmortems from building document AI for public tenders: phan
 
 ---
 
-**[Amazon circumvents Gilroy community vote for AI data center](https://news.ycombinator.com/item?id=49230954)**
+**[Switching to electric stoves can dramatically cut indoor air pollution (2025)](https://news.ycombinator.com/item?id=49230424)**
 
-Surprise, it's a data center!
-
-⬆️ 60 • 💬 64 • 12h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+⬆️ 60 • 💬 103 • 16h ago • [news.stanford.edu](https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric)
 
 ---
 
@@ -292,13 +288,23 @@ Surprise, it's a data center!
 
 ## YouTube Videos: "ai"
 
-**[Google&#39;s AI Engineers Just QUIT.](https://www.youtube.com/watch?v=DHvy9Ky6diE)**
+**[an AI actually went rogue.](https://www.youtube.com/watch?v=3JH_Zd2mNRs)**
 
-Google loses its two best engineers Jeff Dean and Sanjay Ghemawat, as DeepSeek CEO Demis Hassabis steps down.
+Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot.org/lookingglass.
 
-📺 TechLead
+📺 Looking Glass Universe
 
-👁️ 84K • 👍 2K • 💬 378 • ⏱️ 8:21 • 2d ago
+👁️ 13K • 👍 951 • 💬 404 • ⏱️ 17:40 • 15h ago
+
+---
+
+**[The AI Singularity Is Here](https://www.youtube.com/watch?v=F75hfLE4a2k)**
+
+For over a year, Google has been running an AI called AlphaEvolve with a single mission: improve the company that built it.
+
+📺 There's An AI For That
+
+👁️ 21K • 👍 625 • 💬 125 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -308,17 +314,7 @@ Really American host Steve Harness breaks down the newest Trump AI videos taking
 
 📺 Really American
 
-👁️ 92K • 👍 11K • 💬 691 • ⏱️ 13:15 • 1d ago
-
----
-
-**[AI created 16 new viruses: Why that&#39;s a good thing](https://www.youtube.com/watch?v=qD3cYZVm1Uc)**
-
-Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and ...
-
-📺 CNN
-
-👁️ 40K • 👍 608 • 💬 407 • ⏱️ 9:52 • 2d ago
+👁️ 95K • 👍 11K • 💬 704 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -328,7 +324,17 @@ China just pushed the AI race into a new league. ByteDance is reportedly trainin
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 142 • ⏱️ 15:28 • 2d ago
+👁️ 46K • 👍 1K • 💬 144 • ⏱️ 15:28 • 2d ago
+
+---
+
+**[AI is powerful—but access to AI alone won&#39;t eliminate the skills gap.](https://www.youtube.com/watch?v=_YBy1O6kvTA)**
+
+At AI4 2026, Andrew Ng argued that even as AI capabilities advance, there will continue to be meaningful differences between ...
+
+📺 Tech Innovation DeepTalk
+
+👁️ 70K • 👍 3 • ⏱️ 0:47 • 2d ago
 
 ---
 
@@ -338,7 +344,7 @@ why AI companies are secretly shredding rare books.
 
 📺 Morning Brew
 
-👁️ 396K • 👍 28K • 💬 1K • ⏱️ 1:36 • 2d ago
+👁️ 401K • 👍 28K • 💬 1K • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -348,7 +354,17 @@ why AI companies are secretly shredding rare books.
 
 📺 All-In Podcast
 
-👁️ 324K • 👍 6K • 💬 518 • ⏱️ 1:15:18 • 2d ago
+👁️ 331K • 👍 6K • 💬 525 • ⏱️ 1:15:18 • 2d ago
+
+---
+
+**[How Tech Companies Are Earning Billions By Creating Military AI](https://www.youtube.com/watch?v=cUCQLecmQjw)**
+
+Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News Check out VICE News for more: http://vicenews.com Follow ...
+
+📺 VICE News
+
+👁️ 7K • 👍 148 • 💬 7 • ⏱️ 1:37 • 13h ago
 
 ---
 
@@ -358,17 +374,7 @@ The AI side of this video was made here: https://higgsfield.ai/s/seedance-2-5-er
 
 📺 ErikDoesVFX
 
-👁️ 652K • 👍 17K • 💬 3K • ⏱️ 16:52 • 2d ago
-
----
-
-**[Cybersecurity Expert Reveals America&#39;s Terrifying AI Arms Race](https://www.youtube.com/watch?v=MGlBkavO318)**
-
-In this Hot Question, cybersecurity pioneer Kevin Mandia explains why artificial intelligence is about to fundamentally change ...
-
-📺 Shawn Ryan Show
-
-👁️ 172K • 👍 4K • 💬 782 • ⏱️ 17:08 • 2d ago
+👁️ 714K • 👍 18K • 💬 3K • ⏱️ 16:52 • 2d ago
 
 ---
 
@@ -378,15 +384,7 @@ shorts #cooking #lifehacks #recipe #testing Can AI make Nutella? I tested an AI-
 
 📺 Zane Holmes
 
-👁️ 367K • 👍 8K • 💬 210 • ⏱️ 0:43 • 15h ago
-
----
-
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
-
-📺 Mark Tilbury
-
-👁️ 558K • 👍 15K • 💬 804 • ⏱️ 0:26 • 1d ago
+👁️ 395K • 👍 8K • 💬 219 • ⏱️ 0:43 • 17h ago
 
 ---
 
@@ -402,17 +400,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 35,295 • ❤️ 3,247 • 15h ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
-
-*Comfy Org*
-
-MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
-
-⬇️ 4,947,943 • ❤️ 1,074 • 15h ago
+⬇️ 35,295 • ❤️ 3,270 • 17h ago
 
 ---
 
@@ -424,7 +412,17 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 868,576 • ❤️ 2,949 • 8d ago
+⬇️ 868,576 • ❤️ 2,959 • 9d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
+
+*Comfy Org*
+
+MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
+
+⬇️ 4,947,943 • ❤️ 1,086 • 17h ago
 
 ---
 
@@ -436,7 +434,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,456,459 • ❤️ 10,399 • 13d ago
+⬇️ 1,456,459 • ❤️ 10,407 • 13d ago
 
 ---
 
@@ -448,7 +446,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 545 • 1d ago
+⬇️ 0 • ❤️ 552 • 1d ago
 
 ---
 
@@ -460,7 +458,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 85,651 • ❤️ 453 • 2d ago
+⬇️ 85,651 • ❤️ 456 • 2d ago
 
 ---
 
@@ -472,7 +470,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,390,692 • ❤️ 1,808 • 22h ago
+⬇️ 2,390,692 • ❤️ 1,811 • 42m ago
 
 ---
 
@@ -484,7 +482,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 418 • 4d ago
+⬇️ 0 • ❤️ 420 • 4d ago
 
 ---
 
@@ -500,15 +498,15 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 ---
 
-**[DeepSeek-V4-Flash-0731-GGUF](https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF)**
+**[NVIDIA-NemotronLabs-VoiceChat-11B](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B)**
 
-*Unsloth AI*
+*NVIDIA*
 
-DeepSeek-V4-Flash-0731 is a quantized LLM optimized with Unsloth for enhanced agentic capabilities and competitive performance against proprietary models. It excels in code generation, complex reasoning, and multi-turn interactions, making it suitable for advanced AI agent applications.
+NVIDIA NemotronLabs VoiceChat 11B is an end-to-end, real-time, full-duplex conversational AI model that unifies speech understanding and generation. It features natural turn-taking, barge-in, and is the first open model to support live tool calling within a seamless conversational flow, reducing latency for voice assistant development.
 
-`284.3B`
+`11.1B`
 
-⬇️ 188,761 • ❤️ 628 • 3d ago
+⬇️ 543 • ❤️ 265 • 5d ago
 
 ---
 
@@ -536,7 +534,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 79 • 💬 6 • ⭐ 22,891 • 1mo ago
+▲ 79 • 💬 6 • ⭐ 23,102 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -656,7 +654,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.0k • 🔱 879 • 1d ago
+⭐ 8.0k • 🔱 883 • 1d ago
 
 ---
 
@@ -666,7 +664,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.3k • 🔱 383 • 15h ago
+⭐ 4.4k • 🔱 383 • 17h ago
 
 ---
 
@@ -684,17 +682,17 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 48s ago
 
 ---
 
 **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)**
 
-An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.
+Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 
-`TypeScript` `ai` `docx` `electron` `office-suite` `pdf`
+`TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.4k • 🔱 420 • 2h ago
+⭐ 2.4k • 🔱 425 • 4h ago
 
 ---
 
@@ -714,7 +712,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.1k • 🔱 186 • 4d ago
+⭐ 2.1k • 🔱 189 • 4d ago
 
 ---
 
@@ -724,7 +722,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.0k • 🔱 150 • 38m ago
+⭐ 2.0k • 🔱 150 • 13m ago
 
 ---
 
@@ -734,7 +732,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 237 • 18h ago
+⭐ 2.0k • 🔱 239 • 20h ago
 
 ---
 
@@ -744,7 +742,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 1.9k • 🔱 249 • 2m ago
+⭐ 1.9k • 🔱 249 • 21m ago
 
 ---
 

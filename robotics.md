@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T01:49:24.904047+00:00'
+updated: '2026-08-10T03:55:55.378469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 01:49 UTC  
+**Last Updated:** August 10, 2026 at 03:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 **[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ While I was teaching my Monkey robot to walk he fell which broke both his arms �
 
 Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
 
-14h ago
+16h ago
 
 ---
 
@@ -72,7 +72,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 I have lots of stuff to build with and a 3d printer but the issue is my pc it’s an original Alienware area 51 3 it works well it has a 1080 ti and 56 gb ram as well as a threadripper and I want to run simulations and ai training on it is that even possible with my hardware?
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Does an active spine S-Cheetah actually improve quadruped locomotion, versus the
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 16h ago
+Business Insider • 18h ago
 
 ---
 
@@ -126,15 +126,17 @@ The Information • 2d ago
 
 ---
 
-**[Humanoids are as much a compute story as a robotics one](https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709)**
-
-Investing.com • 19h ago
-
----
-
 **[Marine Corps Establishes Robotics Integration Group, Experiments with Drones in Field Operations](https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations)**
 
 USNI News • 3d ago
+
+---
+
+**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
+
+As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
+
+politico.eu • 3d ago
 
 ---
 
@@ -142,7 +144,7 @@ USNI News • 3d ago
 
 Humans will get the AI models they deserve
 
-theregister.com • 2d ago
+The Register • 2d ago
 
 ---
 
@@ -152,11 +154,17 @@ WSJ • 2d ago
 
 ---
 
-**[Serve Robotics Q2 Earnings Call Highlights](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-q2-earnings-call-120354574.html)**
+**[China’s 2035 moon base could see robot dogs patrol, build and explore](https://interestingengineering.com/ai-robotics/robot-dogs-in-space-china)**
 
-Serve Robotics (NASDAQ:SERV) reported second-quarter revenue growth but sharply reduced its full-year outlook after delivery volume through Uber declined for the first time in 17 quarters, prompting the company to reassess the future of the partnership and redirect resources toward other channels.
+China intends to integrate robot dogs at its future lunar base station.
 
-Yahoo Finance • 2d ago
+Interesting Engineering • 11h ago
+
+---
+
+**[Humanoids are as much a compute story as a robotics one](https://www.investing.com/news/economy-news/humanoids-are-as-much-a-compute-story-as-a-robotics-one-4847709)**
+
+Investing.com • 21h ago
 
 ---
 
@@ -168,19 +176,11 @@ HII • 3d ago
 
 ---
 
-**[New system makes building robots a snap](https://engineering.princeton.edu/news/2026/08/06/new-system-makes-building-robots-snap)**
+**[World's largest humanoid robot maker Unitree's founder becomes billionaire ahead of IPO](https://e.vnexpress.net/news/tech/personalities/world-s-largest-humanoid-robot-maker-unitree-s-founder-becomes-billionaire-ahead-of-ipo-5107043.html)**
 
-Engineers found that the hinge that keeps a ketchup cap open also explains how curved, folded shells can hold multiple stable shapes, a discovery that led them to build a robot that shifts shape and motion using magnets alone, no motors required.
+Wang Xingxing, chairman and CEO of Unitree Robotics, the world's largest humanoid robot maker by shipments, has become China's first humanoid robot billionaire ahead of the company's Shanghai listing.
 
-Princeton Engineering • 3d ago
-
----
-
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
-
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
-
-Global News • 1d ago
+e.vnexpress.net • 19h ago
 
 ---
 
@@ -194,7 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 2K • 💬 202 • ⏱️ 9:02 • 1d ago
+👁️ 46K • 👍 2K • 💬 203 • ⏱️ 9:02 • 1d ago
 
 ---
 
@@ -208,23 +208,13 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 ---
 
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
-
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
-
-📺 Alpha Central
-
-👁️ 154K • 👍 6K • 💬 2K • ⏱️ 20:28 • 4d ago
-
----
-
 **[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
 
 Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
 
 📺 Excessive Overkill
 
-👁️ 131K • 👍 4K • 💬 236 • ⏱️ 47:03 • 3d ago
+👁️ 132K • 👍 4K • 💬 237 • ⏱️ 47:03 • 4d ago
 
 ---
 
@@ -238,13 +228,13 @@ The AGIBOT A3 Ultra is pushing humanoid robotics to the next level with impressi
 
 ---
 
-**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
 
-This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
 
-📺 Y Combinator
+📺 Cyrus Janssen
 
-👁️ 17K • 👍 542 • 💬 19 • ⏱️ 1:24:13 • 1d ago
+👁️ 217K • 👍 618 • 💬 98 • ⏱️ 40:27 • 3d ago
 
 ---
 
@@ -258,23 +248,11 @@ Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support th
 
 ---
 
-**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+📺 Tyrecordslol
 
-📺 Cyrus Janssen
-
-👁️ 211K • 👍 608 • 💬 98 • ⏱️ 40:27 • 3d ago
-
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 72K • 👍 1K • 💬 122 • ⏱️ 12:38 • 6d ago
+👁️ 2.7M • 👍 121K • 💬 7K • ⏱️ 0:58 • 2d ago
 
 ---
 
@@ -284,7 +262,27 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 
 📺 WOLF Financial
 
-👁️ 33K • 👍 878 • 💬 211 • ⏱️ 48:23 • 1d ago
+👁️ 34K • 👍 900 • 💬 214 • ⏱️ 48:23 • 1d ago
+
+---
+
+**[Why Does Atlas Have A Head? #askaroboticist #bostondynamics](https://www.youtube.com/watch?v=VmBS2N1FzmE)**
+
+Taylor Frey-Baker, a mechanical engineer at Boston Dynamics, answers questions about why the current iteration of Atlas has a ...
+
+📺 Boston Dynamics
+
+👁️ 166K • 👍 11K • 💬 524 • ⏱️ 2:03 • 5d ago
+
+---
+
+**[Trump Administration Bans Chinese Humanoid Robots | The AI War Begins? | By Ankit Sir](https://www.youtube.com/watch?v=poNXL5lzuDg)**
+
+https://youtu.be/5llFYp6KkSQ CJP vs Government | Dharmendra Pradhan Resignation That Changed the Political Game | By Ankit ...
+
+📺 Apni Pathshala
+
+👁️ 234K • 👍 15K • 💬 475 • ⏱️ 14:02 • 6d ago
 
 ---
 

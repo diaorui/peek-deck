@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T01:49:24.901780+00:00'
+updated: '2026-08-10T03:55:55.375211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 01:49 UTC  
+**Last Updated:** August 10, 2026 at 03:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,913.89
+### $1,921.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +2.8%  
-**30d:** +6.4%  
-**90d:** -14.9%  
+**24h:** +0.3%  
+**7d:** +2.7%  
+**30d:** +6.3%  
+**90d:** -15.0%  
 **1y:** -54.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.00B
+**Market Cap:** $231.50B
 Rank #2
 
 **Circulating Supply:** 120,682,058 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+442011.5%
++442923.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -160,6 +160,14 @@ CoinDesk • 2d ago
 
 ---
 
+**[Crypto News Today: AlphaPepe Presale Nears August Launch Reveal As Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-nears-august-launch-reveal-as-ethereum-price-prediction-eyes-10-000-1036432685)**
+
+MONACO, Aug.  09, 2026  (GLOBE NEWSWIRE) -- Crypto news today is shifting toward AlphaPepe as the presale moves closer to its August 19th launch u...
+
+markets.businessinsider.com • 14m ago
+
+---
+
 **[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
 
 Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
@@ -172,23 +180,15 @@ Yahoo Finance • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 10h ago
 
 ---
 
-**[CLARITY Act Delay Means It's 'Pretty Much Dead,' Expert Says: Bitcoin, Ethereum Don't Care](https://www.tradingview.com/news/benzinga:5e0f098df094b:0-clarity-act-delay-means-it-s-pretty-much-dead-expert-says-bitcoin-ethereum-don-t-care/)**
+**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
 
-Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) are showing surprising resilience despite fading hopes for near-term U.S. crypto legislation.Crypto Shrugs Off ClarityIn a Schwab Network interview on Aug. 6, Charles Schwab equity research director Adam Lynch noted that the CLARITY Act is "pretty mu…
+US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
 
-TradingView • 2d ago
-
----
-
-**[Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash](https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/)**
-
-Bitcoin and Ethereum ETFs attracted nearly $1.1 billion this week, their strongest combined inflows since April, with BlackRock taking most of the cash.
-
-CryptoSlate • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -200,35 +200,35 @@ The Block • 2d ago
 
 ---
 
-**[Robinhood unlikely to launch its own token as Ethereum already powers its new chain](https://cryptobriefing.com/robinhood-unlikely-launch-token/)**
+**[Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying](https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/)**
 
-Robinhood Chain uses ETH as its sole gas token on its new Arbitrum-based Layer-2, making a proprietary Robinhood token unnecessary, analysts say.
+CryptoRank data shows the same DCA strategy produced radically different outcomes across Bitcoin, Ethereum, XRP, Solana, Cardano and TRX.
 
-Crypto Briefing • 14h ago
-
----
-
-**[Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader](https://finance.yahoo.com/markets/stocks/articles/tom-lee-sees-p-500-234300425.html)**
-
-Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.
-
-Yahoo Finance • 3d ago
+CryptoSlate • 1d ago
 
 ---
 
-**[BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October](https://www.theblock.co/news/markets/2026-08-04-blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october-410663)**
+**[1 Popular Cryptocurrency to Buy Before Its Next Massive Rally, According to 1 Wall Street Bull](https://www.fool.com/investing/2026/08/09/1-popular-cryptocurrency-to-buy-before-its-next-ma/)**
 
-The split will consolidate every three ETHA shares into one, increasing the fund’s per-share net asset value.
+One bullish scenario calls for Ethereum to hit a price of $250,000. But just how likely is that?
 
-The Block • 5d ago
+The Motley Fool • 9h ago
 
 ---
 
-**[Bitcoin ETF pulls in $102M as Ethereum ETF adds $50M, while Solana and XRP sit idle](https://www.tradingview.com/news/cryptobriefing:a3219d691094b:0-bitcoin-etf-pulls-in-102m-as-ethereum-etf-adds-50m-while-solana-and-xrp-sit-idle/)**
+**[Bitcoin, Ethereum, Dogecoin Hold Unchanged on Friday but XRP Dips 2%](https://www.benzinga.com/crypto/cryptocurrency/26/08/61054531/bitcoi-ethereum-dogecoin-hold-unchanged-on-friday-but-xrp-dips-2)**
 
-US spot Bitcoin ETFs attracted roughly $102 million in net inflows on August 7, while their Ethereum counterparts pulled in about $50 million on the same day. Solana and XRP ETFs, meanwhile, recorded exactly zero net change.The Bitcoin figure is notable not just on its own but as part of a broader…
+Bitcoin remains stable despite Senate delaying CLARITY Act until September, with notable inflows from spot ETFs. Sen. Lummis refuses to give up on the legislation and says &quot;fight is far from over.&quot;
 
-TradingView • 1d ago
+Benzinga • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)**
+
+Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 266 • 💬 8 • ⏱️ 7:37 • 1d ago
+👁️ 6K • 👍 270 • 💬 8 • ⏱️ 7:37 • 1d ago
 
 ---
 
@@ -252,15 +252,7 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 2K • 👍 160 • 💬 46 • ⏱️ 17:48 • 4h ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
-
-📺 CryptoWendyO
-
-👁️ 9K • 👍 515 • 💬 22 • ⏱️ 1:29 • 1d ago
+👁️ 3K • 👍 186 • 💬 84 • ⏱️ 17:48 • 6h ago
 
 ---
 
@@ -270,35 +262,7 @@ This one is going to shock a lot of people within the cryptocurrency market. As 
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 638 • 💬 105 • ⏱️ 33:45 • 1d ago
-
----
-
-**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
-
-I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
-
-📺 Jerry Banfield Crypto Reviews
-
-👁️ 342 • 👍 13 • 💬 2 • ⏱️ 0:43 • 13h ago
-
----
-
-**[BEST INVESTMENT ADVICE! #xrp #ethereum #finance](https://www.youtube.com/watch?v=TZXeVdGLX9c)**
-
-📺 CryptoWendyO
-
-👁️ 1K • 👍 106 • 💬 2 • ⏱️ 1:00 • 4h ago
-
----
-
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
-
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
-
-📺 Lark Davis
-
-👁️ 3K • 👍 119 • 💬 12 • ⏱️ 1:08 • 2d ago
+👁️ 6K • 👍 641 • 💬 105 • ⏱️ 33:45 • 1d ago
 
 ---
 
@@ -318,7 +282,7 @@ MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis vi
 
 📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
-👁️ 41 • 👍 2 • 💬 2 • ⏱️ 4:43 • 15h ago
+👁️ 39 • 👍 2 • 💬 2 • ⏱️ 4:43 • 17h ago
 
 ---
 
@@ -328,7 +292,45 @@ Not a day goes by where we dont all speculate just how much cryptocurrency asset
 
 📺 Money Rules - Investing Tips 
 
-👁️ 21K • 👍 2K • 💬 234 • ⏱️ 17:35 • 2d ago
+👁️ 21K • 👍 2K • 💬 235 • ⏱️ 17:35 • 2d ago
+
+---
+
+**[BITCOIN: It’s Finally Happening! (target hit) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=AN8fDKW4n38)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 8K • 👍 472 • 💬 82 • ⏱️ 13:58 • 1d ago
+
+---
+
+**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading  #livetrading #gold@Tradewithrakhi](https://www.youtube.com/watch?v=2cfsns1y5zI)**
+
+LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #livetrading #live #goldtrading #cryptotrading #gold @Tradewithrakhi JOIN ...
+
+📺 Trade With Rakhi
+
+👁️ 12K • 👍 1K • 3h ago
+
+---
+
+**[ETH: Why August will make Ethereum Millionaires.](https://www.youtube.com/watch?v=Q0ubXSVJOsw)**
+
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+
+📺 Altcoin Doctor
+
+👁️ 30 • 👍 3 • ⏱️ 8:14 • 22h ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 9K • 👍 524 • 💬 22 • ⏱️ 1:29 • 1d ago
 
 ---
 
