@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T16:04:44.490264+00:00'
+updated: '2026-08-10T17:25:19.676341+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 16:04 UTC  
+**Last Updated:** August 10, 2026 at 17:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +0.4%  
-**30d:** +3.9%  
-**90d:** -16.9%  
-**1y:** -55.6%  
+**24h:** -2.5%  
+**7d:** +0.2%  
+**30d:** +3.8%  
+**90d:** -17.0%  
+**1y:** -55.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.46B
+**Market Cap:** $225.91B
 Rank #2
 
 **Circulating Supply:** 120,682,058 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-62.2%
 
 **All-Time Low:** $0.43
-+436969.7%
++432198.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-11h ago
+13h ago
 
 ---
 
@@ -168,27 +168,25 @@ CoinDesk • 3d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, August 10, 2026: BTC breaking past $65,000 yet again](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-10-2026-btc-breaking-past-65000-yet-again-125722282.html)**
+**[Bitmine Buys Another 7,391 Ethereum And Increases Staked Position](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-another-7-391-152200064.html)**
 
-Bitcoin opened at $64,848.91 on Monday, August 10, 2026, 0.1% lower than Sunday's opening price. As of 8:43 a.m. ET this morning, bitcoin rose to $64,935.75. Ethereum opened at $1,908.93, down 0.3% from Sunday's opening price. The price of ethereum moved up to $1,913.13 this morning.
+Bitmine Immersion Technologies (NYSE: $BMNR) bought more Ethereum (CRYPTO: $ETH) over the past week and continued t...
 
-Yahoo Finance • 3h ago
+finance.yahoo.com • 2h ago
 
 ---
 
-**[Exclusive: Marex plans to accept Bitcoin, Ethereum as initial margin this year](https://uk.finance.yahoo.com/news/exclusive-marex-plans-accept-bitcoin-153057893.html)**
+**[Ethereum Slides 2.3% -- Crypto Mover](https://www.moomoo.com/news/post/74433589/ethereum-slides-2-3-crypto-mover)**
+
+Moomoo • 2h ago
+
+---
+
+**[Exclusive: Marex plans to accept Bitcoin, Ethereum as initial margin this year](https://finance.yahoo.com/markets/crypto/articles/exclusive-marex-plans-accept-bitcoin-153057893.html)**
 
 Investing.com -- Marex Group (NASDAQ: MRX) plans to begin accepting Bitcoin and Ethereum as initial margin collateral for derivatives later this year, extending its stablecoin program announced last month, Investing.com has learned.
 
-Yahoo Finance UK • 33m ago
-
----
-
-**[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
-
-Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
-
-Yahoo Finance • 1h ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -196,7 +194,7 @@ Yahoo Finance • 1h ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -204,7 +202,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+fortune.com • 5h ago
 
 ---
 
@@ -212,13 +210,13 @@ Fortune • 4h ago
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -226,7 +224,7 @@ Seeking Alpha • 6h ago
 
 Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -240,7 +238,17 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 3K • 👍 332 • 💬 27 • ⏱️ 6:34 • 4h ago
+👁️ 5K • 👍 438 • 💬 42 • ⏱️ 6:34 • 5h ago
+
+---
+
+**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
+
+📺 Bankless
+
+👁️ 2K • 👍 90 • 💬 13 • ⏱️ 54:27 • 6h ago
 
 ---
 
@@ -250,7 +258,15 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 281 • 💬 8 • ⏱️ 7:37 • 1d ago
+👁️ 6K • 👍 284 • 💬 8 • ⏱️ 7:37 • 1d ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 10K • 👍 577 • 💬 26 • ⏱️ 1:29 • 1d ago
 
 ---
 
@@ -260,35 +276,17 @@ Jesse Pollak joins us on CLARITY week to break down how Base is leading in tradi
 
 📺 The Rollup
 
-👁️ 3K • 👍 126 • 💬 11 • ⏱️ 25:29 • 18h ago
+👁️ 4K • 👍 136 • 💬 11 • ⏱️ 25:29 • 19h ago
 
 ---
 
-**[Live Crypto &amp; Gold Psychological Trading 10 Aug  ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=JVOwOrhZRm0)**
+**[Bitcoin To $70K This Week? My Live ETH, SOL And NEAR Trades Explained](https://www.youtube.com/watch?v=bUEfz3gOvFw)**
 
-TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+Sheldon breaks down whether Bitcoin is ready for the next move toward $70K and what could be driving the market higher.
 
-📺 Vibe With Sahil
+📺 Crypto Banter
 
-👁️ 2K • 👍 345 • 2h ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
-
-📺 CryptoWendyO
-
-👁️ 10K • 👍 565 • 💬 26 • ⏱️ 1:29 • 1d ago
-
----
-
-**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
-
-This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 651 • 💬 107 • ⏱️ 33:45 • 2d ago
+👁️ 5K • 👍 348 • 💬 10 • ⏱️ 17:27 • 7h ago
 
 ---
 
@@ -298,37 +296,37 @@ BITCOIN: IT'S HAPPENING AGAIN (Liquidations Coming)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 76 • ⏱️ 17:48 • 18h ago
+👁️ 6K • 👍 251 • 💬 38 • ⏱️ 17:48 • 20h ago
 
 ---
 
-**[Ethereum Just Got A Security Upgrade That Could Make It Unstoppable](https://www.youtube.com/watch?v=JBPD6P3WMlY)**
+**[📈 ETH Supply Shrinks While Dollar Grows 6.8%](https://www.youtube.com/watch?v=Ak6naqsVZ0A)**
 
-Lean Ethereum introduces native recursive STARKs, post quantum cryptography, and a state redesign targeting 10x fee reduction ...
+Ethereum is quietly becoming one of the scarcest assets on the planet. The math between a shrinking supply and an expanding ...
 
-📺 Lark Davis
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 126 • 💬 12 • ⏱️ 1:08 • 3d ago
-
----
-
-**[Ethereum | Ethereum Prediction | August 9 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rUSSSManu1Q)**
-
-MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
-
-📺 Forex Forecast | Elliott Wave Analysis ReadyForex
-
-👁️ 46 • 👍 2 • 💬 2 • ⏱️ 4:43 • 1d ago
+👁️ 40 • 💬 1 • ⏱️ 1:23 • 54m ago
 
 ---
 
-**[BTC, ETH &amp; Shiba Inu | August 2026 Market Analysis](https://www.youtube.com/watch?v=ZZh7VZu4Kqc)**
+**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
 
-Bitcoin, Ethereum & Shiba Inu ka August 2026 Market Analysis. Is video mein BTC ke 1D aur 4H charts ko dekhkar important ...
+This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
 
-📺 TODAY CRYPTO
+📺 The Modern Investor
 
-👁️ 483 • 👍 58 • 💬 8 • ⏱️ 12:08 • 10h ago
+👁️ 6K • 👍 653 • 💬 107 • ⏱️ 33:45 • 2d ago
+
+---
+
+**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
+
+I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 493 • 👍 14 • 💬 2 • ⏱️ 0:43 • 1d ago
 
 ---
 

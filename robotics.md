@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-10T16:04:44.492119+00:00'
+updated: '2026-08-10T17:25:19.679617+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 10, 2026 at 16:04 UTC  
+**Last Updated:** August 10, 2026 at 17:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,29 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-19h ago
+20h ago
+
+---
+
+**[How do I find an SFI rotary encoder accurate to more than 0.5 degrees?](https://www.reddit.com/r/robotics/comments/1vkmy2u/how_do_i_find_an_sfi_rotary_encoder_accurate_to/)**
+
+Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
+
+2h ago
+
+---
+
+**[How do I find an SFI rotary encoder accurate to more than 0.5 degrees?](https://www.reddit.com/r/robotics/comments/1vkmwpb/how_do_i_find_an_sfi_rotary_encoder_accurate_to/)**
+
+Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
+
+2h ago
+
+---
+
+**[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
+
+1h ago
 
 ---
 
@@ -52,19 +74,11 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 ---
 
-**[À la recherche de passionnés pour concevoir des humanoïdes open-source et rivaliser avec Unitree](https://www.reddit.com/r/robotics/comments/1vkdbil/à_la_recherche_de_passionnés_pour_concevoir_des/)**
+**[Looking for Indian teammates for JAXA Kibo-RPC 7 (Space Robotics)](https://www.reddit.com/r/robotics/comments/1vkd13v/looking_for_indian_teammates_for_jaxa_kiborpc_7/)**
 
-Salut à tous ! Je m’appelle Sébastien, et je suis en train de travailler sur un projet d’humanoïde open-source inspiré du concept InMoov v1.2 (avec des modifications pour la tête). Mon objectif est de créer un robot autonome, évolutif et performant, capable de rivaliser avec des modèles comme ceux de Unitree (ex : H1, G1). Ce que je cherche : ✅ Des passionnés (débutants ou expérimentés) pour : Co-concevoir des pièces mécaniques/électroniques. Partager des idées sur l’IA embarquée (mouvement, vision, apprentissage). Tester et itérer ensemble sur des prototypes. Documenter le projet pour une communauté open-source. ✅ Des retours d’expérience sur : Les défis rencontrés avec des humanoïdes (équilibre, puissance, coût). Des alternatives aux composants chers (ex : moteurs, actionneurs). Des astuces pour optimiser l’autonomie et la mobilité. Pourquoi ce projet ? Je veux prouver qu’avec une communauté collaborative, on peut créer un humanoïde abordable, modulaire et performant — sans dépendre des solutions propriétaires comme Unitree.
+Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-9h ago
-
----
-
-**[Vision-based tactile sensing is becoming the default for high-precision robot fingertips — and the reason is structural, not hype](https://www.reddit.com/r/robotics/comments/1vkfnp9/visionbased_tactile_sensing_is_becoming_the/)**
-
-Vision-based tactile sensing is quietly taking over the dexterous fingertip. Here's the mechanism, not the hype. Spent the last week going through the UMI tactile-skin stack (DM-Tac W, XTac UMI G1) and the trend that stood out is structural, not marketing. VBTS puts a camera behind a deformable gel and reads contact as an image. The key second-order effect is that the output is an image. So you inherit the existing vision pipeline, encoder architectures and embodied VLMs, instead of bootstrapping a tactile model. That is the actual reason it's becoming the default for high-precision fingertips. Lower integration and training cost, by reusing solved infrastructure. Concrete specs from the UMI ecosystem: DM-Tac W: roughly 40k sensing units per cm² (supplier figure) XTac UMI G1: tri-color light, 5ms time-sync, 3mm localization, LeRobot and MCAP compatible Hard limit I kept hitting: resistive and capacitive routes are cheap for large-area coverage but can't match VBTS on texture or slip perception. Hybrid deployment, VBTS on the precision fingertip and low-cost routes for the rest, is the realistic path for now. Open question for the sub: does VBTS consolidate the fingertip, or does multimodal fusion (spectroscopy, triboelectric, ultrasound) overtake it first?
-
-6h ago
+10h ago
 
 ---
 
@@ -76,11 +90,11 @@ This is a short clip from my latest underwater field test. The system is process
 
 ---
 
-**[Looking for Indian teammates for JAXA Kibo-RPC 7 (Space Robotics)](https://www.reddit.com/r/robotics/comments/1vkd13v/looking_for_indian_teammates_for_jaxa_kiborpc_7/)**
+**[The liberal agenda has gotten to my robot dog !](https://www.reddit.com/r/robotics/comments/1vkqn8h/the_liberal_agenda_has_gotten_to_my_robot_dog/)**
 
-Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
+I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-9h ago
+23m ago
 
 ---
 
@@ -92,20 +106,6 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 ---
 
-**[So now my Ortomi robot can choose random expressions for now it has only 2.](https://www.reddit.com/r/robotics/comments/1vjk0zc/so_now_my_ortomi_robot_can_choose_random/)**
-
-1d ago
-
----
-
-**[Unitree Robotics IPO Roadshow](https://www.reddit.com/r/robotics/comments/1vjp20n/unitree_robotics_ipo_roadshow/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=53Z753-tVO4&feature=youtu.be) • 1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-businessinsider.com • 1d ago
+Business Insider • 1d ago
 
 ---
 
@@ -126,31 +126,31 @@ The Information • 3d ago
 
 ---
 
-**[Robot24.com Launches Global Robotics News Platform With Original Reporting, Business News and Correspondents on Every Continent](https://markets.businessinsider.com/news/stocks/robot24-com-launches-global-robotics-news-platform-with-original-reporting-business-news-and-correspondents-on-every-continent-1036436362)**
+**[Tuurny and aRobotics Announce Joint Venture to Manufacture Autonomous Chip-Harvesting Robotic Systems](https://markets.businessinsider.com/news/stocks/tuurny-and-arobotics-announce-joint-venture-to-manufacture-autonomous-chip-harvesting-robotic-systems-1036436614)**
 
-Robot24.com has launched as a new global robotics news platform dedicated to covering the companies, machines, people and technologies shaping t...
+Ossining, NY, Aug.  10, 2026  (GLOBE NEWSWIRE) -- With global supply chains fracturing and foreign adversaries tightening restrictions on rare ear...
 
-markets.businessinsider.com • 41m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
 **[Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?](https://www.reuters.com/world/asia-pacific/what-is-unitree-why-are-chinas-humanoid-robot-makers-racing-list-2026-08-10/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
-**[Unitree’s Shanghai IPO 5,526 Times Subscribed by Retail Buyers](https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers)**
+**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
 
-The highly anticipated initial public offering of Yushu Technology Co., known as Unitree Robotics, drew huge demand from retail investors as China’s leading humanoid robot maker opened books in Shanghai.
+Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
 
-Bloomberg.com • 4h ago
+Interesting Engineering • 9h ago
 
 ---
 
 **[Opinion | US does its robotics industry no favours by fencing it off from China](https://www.scmp.com/opinion/world-opinion/article/3363437/us-does-its-robotics-industry-no-favours-fencing-it-china)**
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -166,7 +166,7 @@ politico.eu • 3d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 3h ago
+404 Media • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ WSJ • 2d ago
 
 Exhibition and competitions at San Mateo County Event Center.
 
-mercurynews.com • 1h ago
+The Mercury News • 2h ago
 
 ---
 
@@ -188,33 +188,13 @@ mercurynews.com • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
-
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
-
-📺 Julia McCoy
-
-👁️ 49K • 👍 2K • 💬 206 • ⏱️ 9:02 • 2d ago
-
----
-
 **[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
 The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
 📺 NBC News
 
-👁️ 34K • 👍 372 • 💬 418 • ⏱️ 1:36 • 5d ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 81K • 👍 1K • ⏱️ 17:44 • 3d ago
+👁️ 34K • 👍 373 • 💬 420 • ⏱️ 1:36 • 5d ago
 
 ---
 
@@ -224,47 +204,35 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Broken Business Models
 
-👁️ 9K • 👍 395 • 💬 87 • ⏱️ 20:54 • 11h ago
+👁️ 11K • 👍 437 • 💬 94 • ⏱️ 20:54 • 12h ago
 
 ---
 
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
 
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
 
-📺 Alpha Central
+📺 Julia McCoy
 
-👁️ 159K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
-
----
-
-**[China’s Dating Robot Is Going Viral And Nobody Saw It Coming](https://www.youtube.com/watch?v=XuBbA2OyqB0)**
-
-China's dating robot is going viral, but the real story isn't what the internet thinks. UBTech's U-1 companion robot generated more ...
-
-📺 Synthetic Empire
-
-👁️ 77K • 👍 1K • 💬 129 • ⏱️ 12:38 • 6d ago
+👁️ 49K • 👍 2K • 💬 208 • ⏱️ 9:02 • 2d ago
 
 ---
 
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
 
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
 
-📺 Excessive Overkill
+📺 FRAME
 
-👁️ 134K • 👍 4K • 💬 241 • ⏱️ 47:03 • 4d ago
+👁️ 83K • 👍 1K • ⏱️ 17:44 • 3d ago
 
 ---
 
-**[We&#39;re Sick of China&#39;s Robot Lie!](https://www.youtube.com/watch?v=k9rLOWN8-6Q)**
+**[ESP32 Desk buddy tank #arduino #3dprinting #iot #robot #raspberrypi #deskbuddy #ai #thingverse](https://www.youtube.com/watch?v=MG1dYQNCNN8)**
 
-Watch the full show here: https://www.youtube.com/watch?v=uDm2A5eUolc Support the show here ...
+📺 Tech Talkies
 
-📺 China Fact Chasers
-
-👁️ 52K • 👍 3K • 💬 488 • ⏱️ 26:40 • 6d ago
+👁️ 41K • 👍 512 • 💬 7 • ⏱️ 0:13 • 3d ago
 
 ---
 
@@ -274,7 +242,7 @@ I traveled to Silicon Valley to visit Knightscope, an American company who is us
 
 📺 Cyrus Janssen
 
-👁️ 242K • 👍 636 • 💬 99 • ⏱️ 40:27 • 4d ago
+👁️ 242K • 👍 637 • 💬 99 • ⏱️ 40:27 • 4d ago
 
 ---
 
@@ -284,7 +252,37 @@ A 2-year-old boy in Farmington, Minnesota, needed a power wheelchair that cost a
 
 📺 Dre-Daily-Trends
 
-👁️ 7K • 👍 190 • 💬 9 • ⏱️ 0:05 • 14h ago
+👁️ 9K • 👍 253 • 💬 9 • ⏱️ 0:05 • 15h ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 52K • 👍 713 • 💬 347 • ⏱️ 28:01 • 2d ago
+
+---
+
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+
+📺 Alpha Central
+
+👁️ 160K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
+
+---
+
+**[Why Robotics Still Isn&#39;t Solved - But Could Be Soon | YC Paper Club](https://www.youtube.com/watch?v=myDCd0hNqQU)**
+
+This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just ...
+
+📺 Y Combinator
+
+👁️ 25K • 👍 723 • 💬 25 • ⏱️ 1:24:13 • 2d ago
 
 ---
 
