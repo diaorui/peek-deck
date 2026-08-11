@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T07:07:45.887832+00:00'
+updated: '2026-08-11T08:30:44.946631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 07:07 UTC  
+**Last Updated:** August 11, 2026 at 08:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-16h ago
+17h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-16h ago
+17h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-14h ago
+15h ago
 
 ---
 
@@ -114,7 +114,23 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
+
+---
+
+**[Are Unitree's humanoid robots worth the hype, or do investors just want in on the sector?](https://www.cnbc.com/video/2026/08/11/humanoid-robots-unitree-ipo-frenzy-hao-hong.html)**
+
+Hao Hong of Lotus Asset Management says the extreme 8,000x oversubscription in Unitree Robotics reflects a lack of quality investment opportunities in China’s high-tech manufacturing sector. He noted that current humanoid robot models are mostly used for amusement rather than performing real work – comparing them to robotic arms, which have seen widespread deployment in Chinese factories.
+
+CNBC • 2h ago
+
+---
+
+**[China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert](https://www.globaltimes.cn/page/202608/1367923.shtml)**
+
+China's cutting-edge industrial upgrade witnessed two major landmarks on Monday, marking the country's full-fledged global lead in humanoid robotics and further solidifying the rise of its
+
+Global Times • 16h ago
 
 ---
 
@@ -126,33 +142,19 @@ Business Insider • 1d ago
 
 ---
 
-**[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
-
-The New York Times • 4d ago
-
----
-
-**[Are Unitree's humanoid robots worth the hype, or do investors just want in on the sector?](https://www.cnbc.com/video/2026/08/11/humanoid-robots-unitree-ipo-frenzy-hao-hong.html)**
-
-Hao Hong of Lotus Asset Management says the extreme 8,000x oversubscription in Unitree Robotics reflects a lack of quality investment opportunities in China’s high-tech manufacturing sector. He noted that current humanoid robot models are mostly used for amusement rather than performing real work – comparing them to robotic arms, which have seen widespread deployment in Chinese factories.
-
-CNBC • 59m ago
-
----
-
-**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
-
-Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
-
-Interesting Engineering • 22h ago
-
----
-
 **[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
 
 During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
+
+FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
+
+Supply Chain Dive • 18h ago
 
 ---
 
@@ -162,15 +164,13 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-theinformation.com • 6h ago
+The Information • 7h ago
 
 ---
 
-**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
+**[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
 
-FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
-
-supplychaindive.com • 17h ago
+Nature • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ IEEE Spectrum • 3d ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 18h ago
+404 Media • 19h ago
 
 ---
 
@@ -194,13 +194,13 @@ Knightscope and other robotics companies are rethinking automated security follo
 
 ## YouTube Videos: "robotics"
 
-**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
-Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
-📺 BBC News
+📺 NBC News
 
-👁️ 52K • 👍 664 • 💬 150 • ⏱️ 3:45 • 1d ago
+👁️ 35K • 👍 381 • 💬 421 • ⏱️ 1:36 • 6d ago
 
 ---
 
@@ -210,7 +210,25 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 52K • 👍 2K • 💬 213 • ⏱️ 9:02 • 2d ago
+👁️ 53K • 👍 2K • 💬 213 • ⏱️ 9:02 • 2d ago
+
+---
+
+**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+
+📺 Ben Esherick
+
+👁️ 468K • 👍 24K • 💬 667 • ⏱️ 0:35 • 4d ago
+
+---
+
+**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
+
+Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
+
+📺 BBC News
+
+👁️ 52K • 👍 669 • 💬 155 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -220,27 +238,47 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 56K • 👍 748 • 💬 373 • ⏱️ 28:01 • 3d ago
+👁️ 57K • 👍 760 • 💬 380 • ⏱️ 28:01 • 3d ago
 
 ---
 
-**[Popular Girl Only Has ROBOT FRIENDS | Dhar Mann Studios](https://www.youtube.com/watch?v=GonfnLQqW98)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next series YOU want us to create: ...
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-📺 Dhar Mann Studios
+📺 Custom Adventurist
 
-👁️ 1.7M • 👍 23K • 💬 2K • ⏱️ 24:28 • 3d ago
+👁️ 41K • 👍 2K • 💬 187 • ⏱️ 1:02 • 4d ago
 
 ---
 
-**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
 
-Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
 
-📺 WOLF Financial
+📺 FRAME
 
-👁️ 39K • 👍 1K • 💬 244 • ⏱️ 48:23 • 2d ago
+👁️ 88K • 👍 1K • ⏱️ 17:44 • 4d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 138K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
+
+---
+
+**[Can America Actually Compete With China in Robotics?](https://www.youtube.com/watch?v=RlnJ4IGWrrc)**
+
+I traveled to Silicon Valley to visit Knightscope, an American company who is using robotics and AI to build the nation's first ...
+
+📺 Cyrus Janssen
+
+👁️ 243K • 👍 647 • 💬 99 • ⏱️ 40:27 • 4d ago
 
 ---
 
@@ -249,44 +287,6 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 📺 Tyrecordslol
 
 👁️ 3.0M • 👍 129K • 💬 8K • ⏱️ 0:58 • 3d ago
-
----
-
-**[UGV Hauls Trailer Near Frontline #shorts](https://www.youtube.com/watch?v=lyxqpTkgaVw)**
-
-A Ukrainian unmanned ground vehicle (UGV) is seen moving along a road while towing an additional trailer. Such robotic ...
-
-📺 Defense Hawks
-
-👁️ 32K • 💬 1 • ⏱️ 0:16 • 1d ago
-
----
-
-**[I tried ULTIMATE RAVEN so you don’t have to... War Robots](https://www.youtube.com/watch?v=AFiBfZdHqwk)**
-
-War Robots Gameplay: NEW Ultimate Raven will be insane! My other new YT Channel: https://www.youtube.com/@ManniRAID ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 552 • 💬 110 • ⏱️ 13:49 • 2d ago
-
----
-
-**[I’m Buying an Iron Man Robot](https://www.youtube.com/watch?v=G3P9bFqAzMs)**
-
-📺 Kyle Krueger
-
-👁️ 213K • 👍 22K • 💬 425 • ⏱️ 1:01 • 5h ago
-
----
-
-**[Robot Vacuum Dal Girte Hi Kitchen Mein Hungama! 😂 #trending # #funny #comedy #viral #robotvacuum](https://www.youtube.com/watch?v=1Xso2BEaIUI)**
-
-Dal girte hi robot vacuum safai karne aaya, lekin dal ko poori kitchen mein phaila diya! Ammi Ji, Bahu aur Imran ka reaction ...
-
-📺 TOONBLOOMS
-
-👁️ 6K • 👍 595 • ⏱️ 0:21 • 3h ago
 
 ---
 

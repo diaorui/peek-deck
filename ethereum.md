@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T07:07:45.884517+00:00'
+updated: '2026-08-11T08:30:44.943352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 07:07 UTC  
+**Last Updated:** August 11, 2026 at 08:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -1.8%  
-**30d:** +5.5%  
-**90d:** -17.9%  
-**1y:** -59.2%  
+**24h:** -2.0%  
+**7d:** -1.6%  
+**30d:** +5.7%  
+**90d:** -17.8%  
+**1y:** -59.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.90B
+**Market Cap:** $226.36B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.1%
 
 **All-Time Low:** $0.43
-+432225.8%
++433096.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-19h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 9h ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -188,23 +188,15 @@ CoinDesk • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 21h ago
 
 ---
 
-**[Ethereum controls 43% of tokenized treasuries – Can rivals catch up?](https://ambcrypto.com/ethereum-controls-43-of-tokenized-treasuries-can-rivals-catch-up/)**
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
 
-Tokenized liquidity is spreading across blockchains, but Ethereum continues to dominate markets across several financial segments.
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
 
-AMBCrypto • 9h ago
-
----
-
-**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
-
-Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
-
-CoinMarketCap • 2d ago
+Benzinga • 13h ago
 
 ---
 
@@ -220,13 +212,21 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC bulls strengthen, ETH eyes breakout, XRP rebounds](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-bulls-strengthen-eth-eyes-breakout-xrp-rebounds-202608100230)**
+
+Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
+
+FXStreet • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 11K • 👍 584 • 💬 86 • ⏱️ 6:34 • 19h ago
+👁️ 11K • 👍 594 • 💬 89 • ⏱️ 6:34 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 122 • 💬 51 • ⏱️ 54:27 • 20h ago
+👁️ 4K • 👍 127 • 💬 51 • ⏱️ 54:27 • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 593 • 💬 88 • ⏱️ 55:35 • 1d ago
+👁️ 7K • 👍 594 • 💬 88 • ⏱️ 55:35 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 176 • 💬 4 • ⏱️ 6:31 • 18h ago
+👁️ 3K • 👍 182 • 💬 4 • ⏱️ 6:31 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 628 • 💬 28 • ⏱️ 1:29 • 2d ago
+👁️ 12K • 👍 635 • 💬 28 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 228 • 💬 100 • ⏱️ 17:44 • 9h ago
+👁️ 5K • 👍 254 • 💬 45 • ⏱️ 17:44 • 10h ago
 
 ---
 
@@ -308,7 +308,17 @@ CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The
 
 📺 The Coin Daily
 
-👁️ 1K • ⏱️ 5:58 • 14h ago
+👁️ 2K • ⏱️ 5:58 • 15h ago
+
+---
+
+**[Bitcoin&#39;s 200-Week Indicator: MASSIVE Buy Opportunity Revealed! #shorts](https://www.youtube.com/watch?v=C74YloRR-Iw)**
+
+The 200-week moving average has historically signaled major buying opportunities in crypto. Bitcoin and ETH are key vehicles for ...
+
+📺 CryptoLabs Research | Defi Income & Investing
+
+👁️ 315 • 👍 5 • 💬 1 • ⏱️ 0:49 • 7h ago
 
 ---
 
@@ -318,17 +328,7 @@ I have serious concerns with Ethereum and I don't see how it works out over time
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 522 • 👍 16 • 💬 2 • ⏱️ 0:43 • 1d ago
-
----
-
-**[📈 ETH Supply Shrinks While Dollar Grows 6.8%](https://www.youtube.com/watch?v=Ak6naqsVZ0A)**
-
-Ethereum is quietly becoming one of the scarcest assets on the planet. The math between a shrinking supply and an expanding ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 261 • 👍 6 • 💬 1 • ⏱️ 1:23 • 14h ago
+👁️ 530 • 👍 16 • 💬 2 • ⏱️ 0:43 • 1d ago
 
 ---
 
