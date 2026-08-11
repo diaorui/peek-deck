@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-10T23:08:14.986846+00:00'
+updated: '2026-08-11T00:01:11.990858+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 23:08 UTC  
+**Last Updated:** August 11, 2026 at 00:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-18h ago
+19h ago
 
 ---
 
@@ -160,19 +160,17 @@ CoinMarketCap • 2d ago
 
 ---
 
-**[Sharplink Inc (SBET) (Q2 2026) Earnings Call Highlights: Ethereum Treasury Strategy Drives ...](https://ca.finance.yahoo.com/news/sharplink-inc-sbet-q2-2026-210058805.html)**
+**[Sharplink Inc (SBET) (Q2 2026) Earnings Call Highlights: Ethereum Treasury Strategy Drives ...](https://finance.yahoo.com/markets/crypto/articles/sharplink-inc-sbet-q2-2026-210058805.html)**
 
 Sharplink Inc (SBET) reports record revenue growth from staking and yield strategies, while navigating significant unrealized losses and impairments in its expanding ETH treasury.
 
-Yahoo! Finance Canada • 2h ago
+finance.yahoo.com • 3h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+**[Ethereum Lost 2.15% to $1878.07 -- Data Talk](https://www.moomoo.com/news/post/74446646/ethereum-lost-2-15-to-1878-07-data-talk)**
 
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-CoinDesk • 9h ago
+Moomoo • 2h ago
 
 ---
 
@@ -180,7 +178,15 @@ CoinDesk • 9h ago
 
 Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.
 
-The Block • 9h ago
+The Block • 10h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -196,13 +202,13 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -210,23 +216,15 @@ Seeking Alpha • 13h ago
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC bulls strengthen, ETH eyes breakout, XRP rebounds](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-bulls-strengthen-eth-eyes-breakout-xrp-rebounds-202608100230)**
+**[Ethereum controls 43% of tokenized treasuries – Can rivals catch up?](https://ambcrypto.com/ethereum-controls-43-of-tokenized-treasuries-can-rivals-catch-up/)**
 
-Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
+Tokenized liquidity is spreading across blockchains, but Ethereum continues to dominate markets across several financial segments.
 
-FXStreet • 20h ago
-
----
-
-**[Robinhood Chain tops Ethereum L2 revenue with $3.6M in first month](https://cryptobriefing.com/robinhood-chain-tops-l2-revenue-july/)**
-
-Robinhood Chain generated $3.6M in fees during its July debut, capturing 38% of all Ethereum L2 revenue and raising questions about Layer-1
-
-Crypto Briefing • 3h ago
+AMBCrypto • 2h ago
 
 ---
 
@@ -240,7 +238,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 8K • 👍 527 • 💬 56 • ⏱️ 6:34 • 11h ago
+👁️ 8K • 👍 527 • 💬 56 • ⏱️ 6:34 • 12h ago
 
 ---
 
@@ -250,7 +248,7 @@ BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 521 • 👍 47 • 💬 17 • ⏱️ 17:44 • 1h ago
+👁️ 521 • 👍 47 • 💬 17 • ⏱️ 17:44 • 2h ago
 
 ---
 
@@ -260,7 +258,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 104 • 💬 29 • ⏱️ 54:27 • 12h ago
+👁️ 3K • 👍 104 • 💬 29 • ⏱️ 54:27 • 13h ago
 
 ---
 
@@ -270,7 +268,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 4 • ⏱️ 6:31 • 10h ago
+👁️ 2K • 👍 166 • 💬 4 • ⏱️ 6:31 • 11h ago
 
 ---
 
@@ -328,7 +326,7 @@ Is this it? Subscribe to my Newsletter - https://theweeklyinsight.substack.com/ 
 
 📺 Cryptoinsightuk
 
-👁️ 546 • 👍 63 • 💬 7 • ⏱️ 28:25 • 11h ago
+👁️ 546 • 👍 63 • 💬 7 • ⏱️ 28:25 • 12h ago
 
 ---
 

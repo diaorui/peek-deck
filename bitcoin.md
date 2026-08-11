@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-10T23:08:14.980741+00:00'
+updated: '2026-08-11T00:01:11.984439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 10, 2026 at 23:08 UTC  
+**Last Updated:** August 11, 2026 at 00:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,15 @@ Rank #1
 
 After 4 years of savings, that I thought would be the way to buy a house in the future , all gone along with many others like me. I feel defeated not angry not sad just defeated....numb... I do not post to gather any sympathy, to be honest I don't know why I am posting, something I have never done before maybe it's somewhere I can vent out this pressure I don't know I haven't slept more than a few hours since it happened. 0.45 btc is not much for a lot! but it was my everything my own treasure my own accomplishment. I was so happy that half a btc was almost in reach. Life is not fair, wishing you all happy lives ahead with secure wallets and hope you never experience this feeling.
 
-8h ago
+9h ago
+
+---
+
+**[If Rodolfo Novak spent 1/100th of the time he spent talking shit on X on reviewing his code we would still have our coins](https://www.reddit.com/r/Bitcoin/comments/1vkywj4/if_rodolfo_novak_spent_1100th_of_the_time_he/)**
+
+Totally dishonorable and cowardice behavior from him over the past week along with the CTO, Peter Gray (who introduced the bug). $100 million missing and they have done nothing but gone silent. And then coinkite comes out with some statement about "earning back our trust". Go fuck yourselves, the rest of your life should be nothing but devoted to helping out the people who lost their savings due to your faulty product. Imagine a civil engineer's bridge collapsing and them just shrugging their shoulders, "sorry about that". There are thousands of lives ruined due to their negligence. And all they can say is "we're going to have to do a lot to earn your trust"? Talked shit nonstop on twitter, but when Rodolfo's and Peter's backs are actually against the wall they've proved to be incredible incompetent and dishonorable cowards. I lost .7 BTC, hopefully I can earn that back in my life. Rodolfo Novak and Peter Gray have lost all honor and that's never returning.
+
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ After 4 years of savings, that I thought would be the way to buy a house in the 
 
 Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
 
-8h ago
+9h ago
 
 ---
 
@@ -97,19 +105,19 @@ Bitcoin has been around for 17 years now, and the ecosystem looks very different
 
 Every time Bitcoin's retested a prior all time high, RSI has bottomed out just as oversold as the actual bear market lows before turning back up, thats held across all four instances. What varies is whether price also swept the obvious lows underneath that zone first, and that detail seems to matter more than youd think. Two of the first three times it swept, those runs went further and lasted longer than the one time it didnt. The third sweep is the one happening right now, hasnt played out yet, so its not a confirmed data point, just the current setup lining up the same way the bigger runs did Not calling anything guaranteed here, and this ones still live. But if the pattern holds, historys saying this is the setup that tends to run further, not less.
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin’s 500-Day Rule Has History on Its Side - Will it Last?](https://www.reddit.com/r/Bitcoin/comments/1vktuas/bitcoins_500day_rule_has_history_on_its_side_will/)**
 
-🔗 [investing.com](https://www.investing.com/analysis/bitcoins-500day-rule-has-history-on-its-side--will-it-last-200685310) • 4h ago
+🔗 [investing.com](https://www.investing.com/analysis/bitcoins-500day-rule-has-history-on-its-side--will-it-last-200685310) • 5h ago
 
 ---
 
 **[We should congratulate the Bipcoiners as they managed to fire the miners, and so far have kept their chain free from SPAM blocks for 38 hours in a row](https://www.reddit.com/r/Bitcoin/comments/1vki4ho/we_should_congratulate_the_bipcoiners_as_they/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -117,21 +125,19 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 The guy is living in another world. These past weeks, I thought he was just a bitcoin purist who deeply wanted BIP110 to succeed ... Turns out he is a very peculiar person
 
-11h ago
+12h ago
+
+---
+
+**[Luke and Mechanic both out at Ocean (Bitcoin mining pool operator).](https://www.reddit.com/r/Bitcoin/comments/1vl0j1a/luke_and_mechanic_both_out_at_ocean_bitcoin/)**
+
+48m ago
 
 ---
 
 **[Completed 1 BTC!!](https://www.reddit.com/r/Bitcoin/comments/1vkn23g/completed_1_btc/)**
 
 After rigorous efforts spanning a long time, the subject matter happened & I'll HODL for decades. It's funny I actually completed it on the day of coldcard hack :) I live in a developing country: own a good house in city's prime area & a decent car. I've a nice job in a top 10 crypto exchange: now I'll be saving a few bucks for my marriage & traveling afterwards. What are suggestions? Should I put future money from my job to Nasdaq-100? This would be the funds that I could withdraw if required: BTC is untouchable.
-
-8h ago
-
----
-
-**[What's the point of running a node?](https://www.reddit.com/r/Bitcoin/comments/1vklt7k/whats_the_point_of_running_a_node/)**
-
-I've been running a bitcoin node out of my basement for a few years. At the beginning of this year, I upgraded the 1 TB drive to 2 TB when I realized the size had gotten over 900 GB. I'm not anything special. I don't have a wallet on there. I had just bought into the idea that running a node was an illustration of support for the network and was a contribution to decentralization. I'm definitely a 'non-economic' node. I've been observing the discourse over the past couple months with the BIP-110 debate and the conclusion / realization that pleb node runners have no influence on the network. I understand better the importance of PoW in making change and even having vote. So I genuinely ask (and not looking to start another BIP-110 debate) - what's the point of running a node at home? If it's not to feel good about myself because I validated my own transactions, aren't I just offering personal storage space out there for companies that want to store shit on chain? The monetary piece, that I care about, goes on without me and there are plenty of big, "economic" players to handle it.
 
 9h ago
 
@@ -141,15 +147,7 @@ I've been running a bitcoin node out of my basement for a few years. At the begi
 
 I just find it so fucking weird that after this whole hacking event cold card isn’t being held responsible to reimburse people. I mean you sell a product on the promise that it’s secure and it’s really not that sounds like fraud to me. The people that got hacked should come together and get lawyers and sue them. I’m not sure how this all works or if they are legally held responsible for a hack, but it seems like they should be, but it’s still gray area I guess
 
-3h ago
-
----
-
-**[I never scratched the private key, but 4.71 BTC vanished — did anyone else buy a “Coin Cold Card”?](https://www.reddit.com/r/Bitcoin/comments/1vk54gd/i_never_scratched_the_private_key_but_471_btc/)**
-
-In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold under the “Coin Cold Card” branding (coincoldcard.com was printed on the card). The public address was printed on the front. The private key and its QR code were printed on the back under a scratch-off security layer. Before the funds disappeared, I had never removed that layer, scanned the private-key QR code, or imported the private key into a computer or phone. On May 21, 2016, the wallet was emptied without my authorization: Victim public address: 1Bwo42o7eDakFgJ6srxjZnh3y5gTHUehyA Unauthorized transaction: efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc Amount sent: 4.71064406 BTC (plus a 0.0002 BTC fee) First receiving address: 1BTeq9DricViuNAoBMBWqCSUmGWappfwvZ Transaction link: https://www.walletexplorer.com/txid/efc57c1e6640e8d28e137924eaf1c19c23ac34b1779dde1ecc899f5a17334dbc What makes this unusual is that the card contained a private key generated and printed before it reached me. An intact scratch layer could prevent later viewing, but it could not prevent the generator, printer, manufacturer, employee, or another party in the production chain from retaining a copy beforehand. My current hypothesis is therefore a production/supply-chain compromise: the private key may have been copied, stored, or generated predictably before the card was sold. This is a hypothesis, not a proven accusation against any particular person or company. The on-chain investigation shows that about 29 hours later my output was pooled with 15 other inputs. Several later descendant branches converged on an address historically announced by the operator of PocketRocketsCasino as a cold wallet. A related WalletExplorer cluster later transferred 1,496.33401461 BTC into another large treasury-like cluster. This does NOT prove that PocketRocketsCasino, BetKing, or any labeled service stole my BTC: the funds had already been mixed. It is included only as an investigative lead. I am looking for other people who bought or received the same “Coin Cold Card” product, especially around 2013–2016. If you had one, please reply with only non-secret information: - approximate purchase year and country; - where it was purchased; - whether the scratch layer appeared intact; - whether the wallet was later emptied without authorization; - a public Bitcoin address or transaction ID, only if you are comfortable sharing it. Never post or send your seed phrase, private key, or an unredacted photo of the back of the card. I will not pay anyone offering “recovery” services, and nobody should contact victims asking for keys or advance fees. I still have the physical card, photographs, the original transaction data, and a structured evidence report. I am trying to determine whether this was an isolated incident or part of a larger pattern affecting other cards.
-
-23h ago
+4h ago
 
 ---
 
@@ -157,25 +155,41 @@ In 2016 I was using a pre-generated physical Bitcoin paper-wallet card sold unde
 
 ## Google News: "bitcoin"
 
+**[Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile](https://finance.yahoo.com/markets/crypto/articles/strategy-sells-more-bitcoin-stock-130243461.html)**
+
+(Bloomberg) -- Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve. Most Read from BloombergChina Unleashes $28 Trillion Capital Markets to Challenge US in AIIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’Stocks Waver Near Record Highs, Crude Oil Advances: Markets WrapTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Says Hormuz Deal Close But Its Condi
+
+finance.yahoo.com • 10h ago
+
+---
+
 **[BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold](https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333)**
 
 "That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
-**[Strategy (MSTR) Unveils $15 Billion Bitcoin Backed Preferred Stock Plan](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-unveils-15-billion-130721771.html)**
+**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
 
-Strategy Inc. (NasdaqGS:MSTR) announced a US$15b capital raise through a Bitcoin backed preferred stock structure designed using AI. The company plans to use the proceeds to run a capital flywheel that targets higher Bitcoin ownership and equity value. Strategy Inc. also reported Bitcoin sales as part of a broader effort to adjust its crypto exposure while reshaping its capital structure. For readers tracking how listed companies are tying their business models to digital assets, this is...
+ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
 
-Yahoo Finance • 2d ago
+Fox Business • 9h ago
 
 ---
 
-**[Watch ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026](https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video)**
+**[Live updates: Bitcoin drops to $64,000 as Strategy reports 1,690 BTC sale](https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall)**
 
-Bloomberg.com • 2h ago
+The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
+
+Bloomberg.com • 7h ago
 
 ---
 
@@ -183,7 +197,7 @@ Bloomberg.com • 2h ago
 
 Institutions might start to win more trust from investors.
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -195,35 +209,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[What Bitcoin’s Price Movements Suggest About the Market](https://www.delawareonline.com/story/special/contributor-content/2026/08/10/what-bitcoins-price-movements-suggest-about-the-market/91235283007/)**
+
+Although comparisons with earlier cycles may provide context, Bitcoin remains volatile, and its recovery pattern can vary considerably.
+
+The News Journal • 10h ago
+
+---
+
 **[Bitcoin Traders Highlight Macro Factors While Gauging Outlook](https://www.forbes.com/sites/digital-assets/2026/08/10/bitcoin-traders-highlight-macro-factors-while-gauging-outlook/)**
 
 Bitcoin traders focused in on macro factors when describing their outlook of where the digital currency will go next as it traded within a relatively narrow range.
 
-Forbes • 2h ago
-
----
-
-**[Another Bitcoin miner pivots to AI after a brutal quarter](https://finance.yahoo.com/markets/crypto/articles/another-bitcoin-miner-pivots-ai-205005042.html)**
-
-Keel Infrastructure (Nasdaq: KEEL), formerly known as Bitcoin miner Bitfarms, reported another loss-making quarter as it completes its exit from Bitcoin mining and redirects its infrastructure toward AI and high-performance computing (HPC). The company reported a $64 million loss from continuing ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
-
-ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
-
-Fox Business • 8h ago
-
----
-
-**[Live updates: Bitcoin drops to $64,000 as Strategy reports 1,690 BTC sale](https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall)**
-
-The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.
-
-CoinDesk • 4h ago
+Forbes • 3h ago
 
 ---
 
@@ -251,7 +249,7 @@ Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 8 • 💬 1 • 7h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 8 • 💬 1 • 8h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -308,7 +306,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -330,7 +328,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 4K • 💬 249 • ⏱️ 8:04 • 7h ago
+👁️ 45K • 👍 4K • 💬 249 • ⏱️ 8:04 • 8h ago
 
 ---
 
@@ -350,7 +348,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 218 • 💬 20 • ⏱️ 12:53 • 7h ago
+👁️ 4K • 👍 218 • 💬 20 • ⏱️ 12:53 • 8h ago
 
 ---
 
@@ -380,7 +378,7 @@ Coinbase Chief Policy Officer Faryar Shirzad joins 'Mornings with Maria' to disc
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 288 • 💬 204 • ⏱️ 7:36 • 8h ago
+👁️ 13K • 👍 288 • 💬 204 • ⏱️ 7:36 • 9h ago
 
 ---
 
@@ -410,7 +408,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 9K • 👍 450 • 💬 49 • ⏱️ 14:01 • 9h ago
+👁️ 9K • 👍 450 • 💬 49 • ⏱️ 14:01 • 10h ago
 
 ---
 
