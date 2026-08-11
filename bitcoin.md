@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-11T05:35:22.334045+00:00'
+updated: '2026-08-11T07:07:45.878225+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 05:35 UTC  
+**Last Updated:** August 11, 2026 at 07:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
+**24h:** -1.9%  
 **7d:** -1.0%  
 **30d:** +2.7%  
-**90d:** -21.1%  
+**90d:** -21.0%  
 **1y:** -46.8%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I am so tired of living for Bitcoin. Any suggestions
 
-5h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am so tired of living for Bitcoin. Any suggestions
 
 After 4 years of savings, that I thought would be the way to buy a house in the future , all gone along with many others like me. I feel defeated not angry not sad just defeated....numb... I do not post to gather any sympathy, to be honest I don't know why I am posting, something I have never done before maybe it's somewhere I can vent out this pressure I don't know I haven't slept more than a few hours since it happened. 0.45 btc is not much for a lot! but it was my everything my own treasure my own accomplishment. I was so happy that half a btc was almost in reach. Life is not fair, wishing you all happy lives ahead with secure wallets and hope you never experience this feeling.
 
-14h ago
+16h ago
 
 ---
 
@@ -97,13 +97,13 @@ After 4 years of savings, that I thought would be the way to buy a house in the 
 
 Totally dishonorable and cowardice behavior from him over the past week along with the CTO, Peter Gray (who introduced the bug). $100 million missing and they have done nothing but gone silent. And then coinkite comes out with some statement about "earning back our trust". Go fuck yourselves, the rest of your life should be nothing but devoted to helping out the people who lost their savings due to your faulty product. Imagine a civil engineer's bridge collapsing and them just shrugging their shoulders, "sorry about that". There are thousands of lives ruined due to their negligence. And all they can say is "we're going to have to do a lot to earn your trust"? Talked shit nonstop on twitter, but when Rodolfo's and Peter's backs are actually against the wall they've proved to be incredible incompetent and dishonorable cowards. I lost .7 BTC, hopefully I can earn that back in my life. Rodolfo Novak and Peter Gray have lost all honor and that's never returning.
 
-7h ago
+9h ago
 
 ---
 
 **[Luke and Mechanic both out at Ocean (Bitcoin mining pool operator).](https://www.reddit.com/r/Bitcoin/comments/1vl0j1a/luke_and_mechanic_both_out_at_ocean_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Totally dishonorable and cowardice behavior from him over the past week along wi
 
 Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
 
-15h ago
+16h ago
 
 ---
 
@@ -119,13 +119,13 @@ Bitcoin has been around for 17 years now, and the ecosystem looks very different
 
 I'm still relatively new to stacking BTC and just thought I should ask how secure my Trezor wallet is. I don't have a lot of knowledge in this space and would appreciate some insights. Thanks!
 
-13m ago
+1h ago
 
 ---
 
 **[Bitcoin’s 500-Day Rule Has History on Its Side - Will it Last?](https://www.reddit.com/r/Bitcoin/comments/1vktuas/bitcoins_500day_rule_has_history_on_its_side_will/)**
 
-🔗 [investing.com](https://www.investing.com/analysis/bitcoins-500day-rule-has-history-on-its-side--will-it-last-200685310) • 10h ago
+🔗 [investing.com](https://www.investing.com/analysis/bitcoins-500day-rule-has-history-on-its-side--will-it-last-200685310) • 12h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm still relatively new to stacking BTC and just thought I should ask how secur
 
 I just find it so fucking weird that after this whole hacking event cold card isn’t being held responsible to reimburse people. I mean you sell a product on the promise that it’s secure and it’s really not that sounds like fraud to me. The people that got hacked should come together and get lawyers and sue them. I’m not sure how this all works or if they are legally held responsible for a hack, but it seems like they should be, but it’s still gray area I guess
 
-9h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ I just find it so fucking weird that after this whole hacking event cold card is
 
 Every time Bitcoin's retested a prior all time high, RSI has bottomed out just as oversold as the actual bear market lows before turning back up, thats held across all four instances. What varies is whether price also swept the obvious lows underneath that zone first, and that detail seems to matter more than youd think. Two of the first three times it swept, those runs went further and lasted longer than the one time it didnt. The third sweep is the one happening right now, hasnt played out yet, so its not a confirmed data point, just the current setup lining up the same way the bigger runs did Not calling anything guaranteed here, and this ones still live. But if the pattern holds, historys saying this is the setup that tends to run further, not less.
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ Every time Bitcoin's retested a prior all time high, RSI has bottomed out just a
 
 Rodolfo novak (rnvk) was for many years using in this bitcoin community its shady practice. No user following the guide he shared was aware it was from a wallet vendor (himself) and all the "comparisons" "our suggestions" Last screenshots regarding user research dates back from 11 years ago. All scrutinity and red flags that were there all these years take a different tone and more eyes warching when that device caused losses of more than 115M in losses. Many of those users never knew they were being "redirected" to follow a deceptive guide that was Coldcard's CEO website, they choose coldcard over other hardware wallets, when a consumer would have take into account other things like external audit certifications to decide, and yet the "guide" was stating things like: ____ "Our Recommendation COLDCARD meets all seven criteria, is Bitcoin- only, and has been battle-tested since 2018" ____ So, it was Rodolfo Novak recommending himself the Coldcard.... IT IS TRULLY FUCKED UP the thing....And many of that "reputation" was build in a very deceptive way
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Rodolfo novak (rnvk) was for many years using in this bitcoin community its shad
 
 The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,53 +169,21 @@ CoinDesk • 8h ago
 
 "That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
-**[Arthur Hayes Says Fed’s Japan Yen Plan Will Pump Bitcoin](https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-says-fed-japan-032432891.html)**
+**[Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile](https://finance.yahoo.com/markets/crypto/articles/strategy-sells-more-bitcoin-stock-130243461.html)**
 
-In a recent newsletter, Hayes explains how a Fed plan to defend the yen could send new liquidity into the Bitcoin price.
+(Bloomberg) -- Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve. Most Read from BloombergChina Unleashes $28 Trillion Capital Markets to Challenge US in AIIran Shakes Up Security Team After Saying Oman Deal ‘Very Close’Stocks Waver Near Record Highs, Crude Oil Advances: Markets WrapTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Says Hormuz Deal Close But Its Condi
 
-Yahoo Finance • 2h ago
-
----
-
-**[MSTR Sells Bitcoin Worth $108.6M: Peter Schiff Says Saylor Has Given Up On ‘Digital Credit’](https://finance.yahoo.com/markets/crypto/articles/mstr-sells-bitcoin-worth-108-043744045.html)**
-
-Strategy now holds 840,447 Bitcoin for an aggregate purchase price of approximately $63.36 billion, the company said in a regulatory filing.
-
-Yahoo Finance • 58m ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Bloomberg.com • 12h ago
-
----
-
-**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
-
-Institutions might start to win more trust from investors.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Morning Minute: Bitcoin ETFs See Biggest Inflows Since May](https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may)**
-
-And the ETH inflows were even bigger, when factoring in market cap.
-
-Decrypt • 17h ago
-
----
-
-**[Michael Saylor Reveals Why Strategy Sold Bitcoin Near $60K Despite Its Buy and Hold Strategy](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-reveals-why-strategy-142207702.html)**
-
-Michael Saylor says Strategy needed to prove it could sell Bitcoin without crashing the market or undermining its treasury model. Strategy sold 1,638 BTC for ...
-
-Yahoo Finance • 15h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -223,13 +191,41 @@ Yahoo Finance • 15h ago
 
 ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
 
-foxbusiness.com • 15h ago
+foxbusiness.com • 16h ago
 
 ---
 
 **[Bitcoin falls below $65k as rising oil prices dents sentiment for risky assets](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-65k-with-us-inflation-iran-risks-in-focus-4847903)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
+
+---
+
+**[Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years](https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years)**
+
+A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.
+
+Decrypt • 11h ago
+
+---
+
+**[BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit](https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty)**
+
+The open-source payment processor is funding a recovery bounty worth 10% of any funds returned, capped at 3 Bitcoins, and says it will prioritize security patches over new features indefinitely.
+
+bitcoinmagazine.com • 10h ago
+
+---
+
+**[Bad news for the economy just became great news for Bitcoin](https://www.thestreet.com/crypto/markets/bad-news-for-the-economy-just-became-great-news-for-bitcoin)**
+
+thestreet.com • 11h ago
+
+---
+
+**[Bitcoin Whale Selling Ends as Rate-Hike Bets Fade](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/rate-hike-bets-fade-bitcoin-whale-selling-ends/)**
+
+ETF Database • 9h ago
 
 ---
 
@@ -241,7 +237,7 @@ Investing.com • 8h ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 13h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 15h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -284,14 +280,6 @@ Try out Artifacts created by Claude users
 
 ---
 
-**[Bitcoin owners rocked by $116M hack: What we know about the Coldcard exploit](https://news.ycombinator.com/item?id=49164690)**
-
-The hack, which has drained 1,816 Bitcoin across 5,200 addresses, is devastating because it affected hyper-secure cold storage wallets.
-
-⬆️ 2 • 💬 0 • 6d ago • [Fortune](https://fortune.com/2026/08/03/bitcoin-owners-116-million-hack-coldcard-coinkite-exploit/)
-
----
-
 **[Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39?](https://news.ycombinator.com/item?id=49207230)**
 
 In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.
@@ -306,7 +294,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 8h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 9h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -315,6 +303,14 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone browser - pure Python, retro CRT dashboard - 03012009BTC/miners-bitcoin-lottery
 
 ⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
+
+---
+
+**[Notice of ICANN .bitcoin TLD community application](https://news.ycombinator.com/item?id=49188412)**
+
+Notice of ICANN .bitcoin TLD community application
+
+⬆️ 1 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/wiz/status/2085029140453830725)
 
 ---
 
@@ -328,7 +324,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 80K • 👍 5K • 💬 289 • ⏱️ 8:04 • 13h ago
+👁️ 80K • 👍 5K • 💬 289 • ⏱️ 8:04 • 15h ago
 
 ---
 
@@ -338,7 +334,7 @@ Thanks to Coinbase for sponsoring this video. Activate your rewards below: ▻ C
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 426 • 💬 244 • ⏱️ 15:47 • 12h ago
+👁️ 6K • 👍 426 • 💬 244 • ⏱️ 15:47 • 14h ago
 
 ---
 
@@ -348,7 +344,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 8K • 👍 323 • 💬 29 • ⏱️ 2:25 • 13h ago
+👁️ 8K • 👍 323 • 💬 29 • ⏱️ 2:25 • 15h ago
 
 ---
 
@@ -358,7 +354,7 @@ How much Bitcoin do you actually need to retire? Not one coin. Not 0.01. The rea
 
 📺 Trey Sellers
 
-👁️ 5K • 👍 190 • 💬 118 • ⏱️ 14:23 • 16h ago
+👁️ 5K • 👍 190 • 💬 118 • ⏱️ 14:23 • 18h ago
 
 ---
 
@@ -368,7 +364,7 @@ The only bet in Bitcoin is that Washington never stops printing money. That's no
 
 📺 Anthony Pompliano
 
-👁️ 6K • 👍 155 • 💬 82 • ⏱️ 0:50 • 10h ago
+👁️ 6K • 👍 155 • 💬 82 • ⏱️ 0:50 • 11h ago
 
 ---
 
@@ -386,7 +382,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Khuncoin
 
-👁️ 10K • 👍 181 • 💬 11 • ⏱️ 0:14 • 18h ago
+👁️ 10K • 👍 181 • 💬 11 • ⏱️ 0:14 • 19h ago
 
 ---
 
@@ -396,7 +392,7 @@ Dante talks about Bitcoin's Civil War Reveals Its Greatest Strength? Brought to 
 
 📺 Simply Bitcoin
 
-👁️ 407 • 👍 33 • 💬 16 • ⏱️ 1:09 • 5h ago
+👁️ 407 • 👍 33 • 💬 16 • ⏱️ 1:09 • 7h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T05:35:22.344268+00:00'
+updated: '2026-08-11T07:07:45.887832+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 05:35 UTC  
+**Last Updated:** August 11, 2026 at 07:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-14h ago
+16h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-14h ago
+16h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-12h ago
+14h ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -126,11 +126,33 @@ Business Insider • 1d ago
 
 ---
 
+**[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+
+The New York Times • 4d ago
+
+---
+
+**[Are Unitree's humanoid robots worth the hype, or do investors just want in on the sector?](https://www.cnbc.com/video/2026/08/11/humanoid-robots-unitree-ipo-frenzy-hao-hong.html)**
+
+Hao Hong of Lotus Asset Management says the extreme 8,000x oversubscription in Unitree Robotics reflects a lack of quality investment opportunities in China’s high-tech manufacturing sector. He noted that current humanoid robot models are mostly used for amusement rather than performing real work – comparing them to robotic arms, which have seen widespread deployment in Chinese factories.
+
+CNBC • 59m ago
+
+---
+
+**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
+
+Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
+
+Interesting Engineering • 22h ago
+
+---
+
 **[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
 
 During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -140,7 +162,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 4h ago
+theinformation.com • 6h ago
 
 ---
 
@@ -148,7 +170,15 @@ The Information • 4h ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 15h ago
+supplychaindive.com • 17h ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -156,39 +186,7 @@ Supply Chain Dive • 15h ago
 
 Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
 
-404 Media • 16h ago
-
----
-
-**[China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert](https://www.globaltimes.cn/page/202608/1367923.shtml)**
-
-China's cutting-edge industrial upgrade witnessed two major landmarks on Monday, marking the country's full-fledged global lead in humanoid robotics and further solidifying the rise of its
-
-Global Times • 13h ago
-
----
-
-**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
-
-As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
-
-politico.eu • 4d ago
-
----
-
-**[Facing Ban, US Seller of Chinese Robots Makes Domestic Manufacturing Push](https://www.pcmag.com/news/facing-ban-us-seller-of-chinese-robots-makes-domestic-manufacturing-push)**
-
-RoboStore has been a major seller of humanoid robots from Chinese vendor Unitree, but last month, the US banned new foreign-made advanced robots.
-
-PCMag • 14h ago
-
----
-
-**[KOID: Holding An AI CapEx Fund Sold As Humanoid Robotics (NASDAQ:KOID)](https://seekingalpha.com/article/4933955-koid-holding-an-ai-capex-fund-sold-as-humanoid-robotics)**
-
-The KraneShares Global Humanoid Robotics and Physical AI Index ETF is rated a hold due to valuation and thematic misalignment. Learn more about the KOID ETF here.
-
-Seeking Alpha • 18h ago
+404 Media • 18h ago
 
 ---
 
@@ -278,7 +276,7 @@ War Robots Gameplay: NEW Ultimate Raven will be insane! My other new YT Channel:
 
 📺 Kyle Krueger
 
-👁️ 213K • 👍 22K • 💬 425 • ⏱️ 1:01 • 4h ago
+👁️ 213K • 👍 22K • 💬 425 • ⏱️ 1:01 • 5h ago
 
 ---
 
@@ -288,7 +286,7 @@ Dal girte hi robot vacuum safai karne aaya, lekin dal ko poori kitchen mein phai
 
 📺 TOONBLOOMS
 
-👁️ 6K • 👍 595 • ⏱️ 0:21 • 2h ago
+👁️ 6K • 👍 595 • ⏱️ 0:21 • 3h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T05:35:22.340109+00:00'
+updated: '2026-08-11T07:07:45.884517+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 05:35 UTC  
+**Last Updated:** August 11, 2026 at 07:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** -2.7%  
 **7d:** -1.8%  
-**30d:** +5.6%  
+**30d:** +5.5%  
 **90d:** -17.9%  
 **1y:** -59.2%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-17h ago
+19h ago
 
 ---
 
@@ -152,19 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI](https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai)**
+
+The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
+
+Decrypt • 9h ago
+
+---
+
 **[Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298)**
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 13h ago
-
----
-
-**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
-
-Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
-
-CoinMarketCap • 2d ago
+The Block • 14h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 15h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -196,7 +196,15 @@ Fortune • 18h ago
 
 Tokenized liquidity is spreading across blockchains, but Ethereum continues to dominate markets across several financial segments.
 
-AMBCrypto • 7h ago
+AMBCrypto • 9h ago
+
+---
+
+**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
+
+Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -212,21 +220,13 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 19h ago
-
----
-
-**[Rating Ethereum, Solana, XRP: Prominent Trader Says One's a 'Hold' and One's a 'Beta Bet'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61076277/rating-ethereum-solana-xrp-prominent-trader-says-ones-a-hold-and-ones-a-beta-bet)**
-
-ETH, SOL, and XRP may dominate altcoin conversations, but have different risk-reward profiles.
-
-benzinga.com • 15h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 11K • 👍 584 • 💬 86 • ⏱️ 6:34 • 17h ago
+👁️ 11K • 👍 584 • 💬 86 • ⏱️ 6:34 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 122 • 💬 51 • ⏱️ 54:27 • 19h ago
+👁️ 3K • 👍 122 • 💬 51 • ⏱️ 54:27 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 176 • 💬 4 • ⏱️ 6:31 • 17h ago
+👁️ 3K • 👍 176 • 💬 4 • ⏱️ 6:31 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 228 • 💬 100 • ⏱️ 17:44 • 8h ago
+👁️ 4K • 👍 228 • 💬 100 • ⏱️ 17:44 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The
 
 📺 The Coin Daily
 
-👁️ 1K • ⏱️ 5:58 • 12h ago
+👁️ 1K • ⏱️ 5:58 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum is quietly becoming one of the scarcest assets on the planet. The math 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 261 • 👍 6 • 💬 1 • ⏱️ 1:23 • 13h ago
+👁️ 261 • 👍 6 • 💬 1 • ⏱️ 1:23 • 14h ago
 
 ---
 
