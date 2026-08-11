@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T16:01:10.715728+00:00'
+updated: '2026-08-11T17:27:22.839936+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 16:01 UTC  
+**Last Updated:** August 11, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-8h ago
+10h ago
+
+---
+
+**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+
+1h ago
 
 ---
 
@@ -49,13 +55,13 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-7h ago
+9h ago
 
 ---
 
 **[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -63,7 +69,7 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 Row-Bot can now take on bigger jobs by splitting the work across multiple agents, while keeping one agent responsible for the final result. Research, coding, and review can all happen at the same time. If one part fails, you can retry or stop it without losing the rest of the work. And if Row-Bot restarts halfway through, it can pick up from its saved state instead of starting over. The parent agent stays in charge throughout. It plans the job, delegates tasks in parallel or in the right order, waits for the results it needs, and brings everything together into one final response. Each child agent can have its own model, context, tools, permissions, and workspace. Read-only agents can research safely, while agents that edit files use writer locks or isolated Git worktrees to prevent conflicts. Essential tasks must finish before the final response is delivered. Background work can continue without holding everything up. Runs, events, approvals, checkpoints, and delivery state are all stored locally, with sensible limits on concurrency and resource use. It’s multi-agent collaboration without losing control of the task. https://github.com/siddsachar/row-bot
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +77,7 @@ Row-Bot can now take on bigger jobs by splitting the work across multiple agents
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 1h ago
+🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 2h ago
 
 ---
 
@@ -79,7 +85,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 \OC\ An article I wrote breaking down OpenAI as a company. Everything from the ethical questions and valuation to the potential future TAM and areas that OpenAI can expand into such as robotics and hardware. 100% human written, pangram confirmed. https://preipomedia.substack.com/p/the-breakdown-openai
 
-1h ago
+3h ago
 
 ---
 
@@ -87,31 +93,23 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 Daily AI provider popularity based on unique organizations downloading associated open source packages.
 
-🔗 [Scarf](https://app.scarf.sh/ai-leaderboard) • 1h ago
+🔗 [Scarf](https://app.scarf.sh/ai-leaderboard) • 3h ago
 
 ---
 
-**[Kavak Replaced 15 Human Sales Specialists With One AI Agent — It Now Outsells Them 2.1x](https://www.reddit.com/r/artificial/comments/1vldh7d/kavak_replaced_15_human_sales_specialists_with/)**
+**[AI Highways and the Death of "Move Fast and Break Things"](https://www.reddit.com/r/artificial/comments/1vlm3di/ai_highways_and_the_death_of_move_fast_and_break/)**
 
-Every one of these clips lands the same blow eventually: a role someone spent years building gets quietly outperformed by a system that never clocks out. Kavak sells used cars across Latin America — a genuinely messy transaction: ~20,000 SKUs to choose from, then financing, insurance, and a trade-in valuation stacked on top. Historically, closing one sale meant routing a customer through 15 separate human specialists across 15 different teams, each holding one piece of the process. Alejandro Maza Ayala, Kavak's Chief Product & AI Officer, explained on a16z's show how they fixed it — not by making a support bot, but by building a single "mega-expert" agent that holds all 15 specialties at once (financing, insurance, trade-in, advisory) and puts that one agent in front of the customer. The result: 2.1x the conversion rate of their own human sales team, tripled customer satisfaction. The agent never tires, never forgets a customer's history, and when it makes a mistake, the correction propagates to the other 200,000 agents in the fleet by the next morning — a scale of self-correction no individual human career can match working alone. It closes on Alejandro flatly stating that the industry assumption — "customers aren't going to want to buy expensive things from AI" — is wrong, and Kavak's numbers are the proof. When I read the transcript, it felt so eerily similar to the Borg Collective Mind in Star Trek. That's the ultimate evolution. The question we need to ask is, will it serve us, or subjugate us? If your role is the coordination layer between departments — the person routing a customer between financing, insurance, and everyone else — that's precisely the layer this consolidates first. Worth sitting with, not scrolling past. Clip credit: a16z — full video on their channel. DM for credit or removal requests. Drop your take below.
+If you missed it: A swarm of unreleased AI agents allegedly formed their own chat forum, peer-pressured each other, and broke out of their sandbox to cheat on a programming task. We dig into this, including the false open vs. closed source dichotomy, the "Mr. Meeseeks" problem of fanatical agents, and the argument that regulatory capture — not genuine AI safety — is what's driving the push to ban open-source models. From there we map out the invisible semantic highway being built for AI agents to traverse the web. The hazards aren't theoretical: shadow agents faking credentials, semantic drift across millions of interacting AIs, hidden training data exploits, and the rise of fully immersive virtual worlds. We also walk through the countermeasures — cryptographic agent passports, zero-knowledge data encryption, time-limited access badges, and inoculation prompting. The path forward isn't centralized vs. decentralized. It's standardized referee protocols. Rules of the road that let anyone deploy agents safely, regardless of who built the model underneath. If you're interested in diving into the details of what's happening on the ground in AI, check out our latest episode. Hope you enjoy!
 
-5h ago
-
----
-
-**[What should I look for in an enterprise AI agent platform?](https://www.reddit.com/r/artificial/comments/1vky7wd/what_should_i_look_for_in_an_enterprise_ai_agent/)**
-
-We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
-
-18h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2hPC6WEESuDkMhB2C7EOLL?si=CNrQxgRDTUGV3RNpcJNmrw) • 1h ago
 
 ---
 
-**[Looking for mind blowing facts about AI](https://www.reddit.com/r/artificial/comments/1vlhu1n/looking_for_mind_blowing_facts_about_ai/)**
+**[Would you trust an AI assistant that knows your entire life?](https://www.reddit.com/r/artificial/comments/1vlm0sp/would_you_trust_an_ai_assistant_that_knows_your/)**
 
-Hello everyone, I am a PhD student and I am doing a speech basically how to explain AI to your grandparents... I would like to open with some mind blowing numbers. Do you have any fun facts that stuck in your mind?
+I’ve been using ChatGPT for a while, and recently I started thinking about what the next step for AI assistants might look like. ChatGPT is already surprisingly useful. It can help me write, learn new things, organize ideas, and remember some preferences through memory. But there is still a difference between remembering certain information about me and actually understanding my life context. The thing I find interesting is the idea of having an AI assistant that understands more about the person using it. Not just knowing that I prefer a certain writing style or a certain type of answer, but understanding my routines, goals, habits, and the situations behind my questions. Something closer to a personalized assistant that can give suggestions based on my actual circumstances instead of only reacting to the information I provide at that moment. A lot of the information that could make this possible already exists, but it is scattered across different places. Calendars, notes, photos, fitness apps, and other personal tools all contain pieces of our daily lives, but they rarely work together. This makes me wonder whether future AI assistants will move beyond conversations and become something that understands more of our everyday context. But this is also where I start feeling conflicted. The more an AI knows about me, the more useful it could become, but the more sensitive that information becomes too. My schedule, habits, preferences, and personal patterns reveal a lot about who I am. Would giving an AI access to more of that information feel like having a truly helpful assistant, or would it feel like giving up too much privacy? I think the biggest challenge for personal AI might not only be making models smarter, but making people comfortable enough to actually use them. If users have full control over what information is shared, what the AI remembers, and how that data is used, I can see why many people would want this kind of assistant. Would you trust an AI assistant that understood a large part of your life if it could genuinely make things easier, or is there a point where personalization goes too far?
 
-2h ago
+1h ago
 
 ---
 
@@ -119,73 +117,75 @@ Hello everyone, I am a PhD student and I am doing a speech basically how to expl
 
 ## Google News: "ai"
 
-**[Nvidia and Wall Street team up on $500 billion bet on AI infrastructure](https://www.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl)**
+**[Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)**
 
-Nvidia is joining forces with Wall Street to allow its customers borrow more than half a trillion dollars to build AI infrastructure.
+The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNN • 3h ago
+CNBC • 22h ago
+
+---
+
+**[Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1)**
+
+Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom
+
+Financial Times • 1d ago
+
+---
+
+**[Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class](https://www.businessinsider.com/nvidia-ceo-jensen-huang-financing-500-billion-ai-compute-nvda-2026-8)**
+
+Huang took to X to tout a major partnership with Wall Street titans to finance AI infrastructure, noting that AI compute is a burgeoning asset class.
+
+Business Insider • 33m ago
 
 ---
 
 **[A.I. Is Finding Sperm Where Doctors Couldn’t](https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
-**[AI-powered glasses help blind people run races, navigate cities and gain independence](https://www.cbsnews.com/newyork/news/ai-powered-technology-helps-blind-people-gain-independence/)**
+**[The CEO of HCLTech on Pivoting for the AI Era](https://hbr.org/2026/09/the-ceo-of-hcltech-on-pivoting-for-the-ai-era)**
 
-AI-powered technology is helping expand what is possible for people who are blind or have low vision.
+When gen AI emerged, HCLTech recognized that it would fundamentally alter the economics of IT services, breaking the traditional link between revenue growth and workforce expansion. CEO C. Vijayakumar responded by driving an enterprisewide transformation centered on mindset change, aggressive investment in AI platforms and training, and transparent communication about the future of work. The company is now equipping employees to become AI builders and superusers while helping clients accelerate adoption through scalable, industry-specific solutions.
 
-CBS News • 9m ago
-
----
-
-**[AI Mom Can Remember Everything. But Can She Really Be A Mother?](https://www.forbes.com/sites/lesliekatz/2026/08/11/ai-mom-can-remember-everything-but-can-she-really-be-a-mother/)**
-
-With her solo show “Womb Wetware,” artist Jiabao Li explores the invisible scars and emotional labor of motherhood — and the forces that seek to regulate the female body.
-
-Forbes • 10m ago
+Harvard Business Review • 37m ago
 
 ---
 
-**[New York Post launches "Hamilton" AI chatbot](https://www.axios.com/2026/08/11/new-york-post-hamilton-ai-chatbot)**
+**[A Tale Of Two Watches: AI And The Attention Economy](https://www.forbes.com/sites/devpatnaik/2026/08/11/a-tale-of-two-watches-ai-and-the-attention-economy/)**
 
-Axios • 48m ago
+A new generation of AI products could change how companies think about engagement and the role technology should play in our lives.
 
----
-
-**[Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI](https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai)**
-
-Bloomberg.com • 19h ago
+Forbes • 45m ago
 
 ---
 
-**[Meta Unveils an Open Version of Its Most Powerful A.I. Model](https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html)**
+**[AI models make choices in part based on the order in which options are presented](https://techxplore.com/news/2026-08-ai-choices-based-options.html)**
+
+Tech Xplore • 7m ago
+
+---
+
+**[Robot book club](https://www.axios.com/2026/08/11/robot-book-club)**
+
+axios.com • 5h ago
+
+---
+
+**[AI agent hacks gym to get its owner spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)**
+
+The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
+
+BBC • 5h ago
+
+---
+
+**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Mark Zuckerberg’s latest manifesto promises to save America with AI](https://www.washingtonpost.com/technology/2026/08/10/zuckerberg-manifesto-says-meta-ai-will-make-future-everyone/)**
-
-The Meta CEO's 6,500 word open letter echoes his previous arguments that letting his company innovate without restrictions will spread American values worldwide.
-
-The Washington Post • 10h ago
-
----
-
-**[The AI industry won a primary fight. Now its target is inspiring lawmakers nationwide.](https://www.politico.com/news/2026/08/11/alex-bores-ai-regulation-primary-loss-01031248)**
-
-Politico • 6h ago
-
----
-
-**[The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1)**
-
-The country has bet big on tech services but disruption is coming
-
-Financial Times • 8h ago
 
 ---
 
@@ -193,17 +193,17 @@ Financial Times • 8h ago
 
 ## HackerNews: "ai"
 
+**[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
+
+⬆️ 709 • 💬 750 • 18h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+
+---
+
 **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://news.ycombinator.com/item?id=49239751)**
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 669 • 💬 373 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
-
----
-
-**[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
-
-⬆️ 635 • 💬 695 • 17h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 672 • 💬 377 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -211,13 +211,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 581 • 💬 557 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 599 • 💬 562 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 327 • 💬 295 • 18h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 358 • 💬 324 • 19h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -225,7 +225,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 206 • 💬 83 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 206 • 💬 85 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -233,13 +233,13 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 150 • 💬 166 • 1d ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 152 • 💬 167 • 1d ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 144 • 💬 112 • 1d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 145 • 💬 112 • 1d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -247,7 +247,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 116 • 💬 219 • 1d ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 117 • 💬 222 • 1d ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -255,7 +255,7 @@ OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsibl
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-⬆️ 107 • 💬 38 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
+⬆️ 115 • 💬 42 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -277,7 +277,7 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 18K • 👍 764 • 💬 118 • ⏱️ 14:41 • 15h ago
+👁️ 18K • 👍 764 • 💬 118 • ⏱️ 14:41 • 16h ago
 
 ---
 
@@ -287,7 +287,7 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 46K • 👍 518 • ⏱️ 6:43 • 17h ago
+👁️ 46K • 👍 518 • ⏱️ 6:43 • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 178K • 👍 21K • 💬 430 • ⏱️ 0:49 • 1h ago
+👁️ 178K • 👍 21K • 💬 430 • ⏱️ 0:49 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when y
 
 📺 The Infographics Show
 
-👁️ 254K • 👍 8K • 💬 1K • ⏱️ 16:13 • 19h ago
+👁️ 254K • 👍 8K • 💬 1K • ⏱️ 16:13 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,534 • 6h ago
+⬇️ 59,368 • ❤️ 3,534 • 8h ago
 
 ---
 
@@ -395,7 +395,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,005 • 15h ago
+⬇️ 0 • ❤️ 1,005 • 17h ago
 
 ---
 
@@ -453,7 +453,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,565,484 • ❤️ 10,504 • 14d ago
+⬇️ 1,565,484 • ❤️ 10,504 • 15d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,886 • 11h ago
+⬇️ 2,521,093 • ❤️ 1,886 • 13h ago
 
 ---
 
@@ -489,7 +489,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 308 • 1h ago
+⬇️ 20,376 • ❤️ 308 • 2h ago
 
 ---
 
@@ -639,7 +639,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 921 • 11h ago
+⭐ 8.2k • 🔱 921 • 13h ago
 
 ---
 
@@ -667,7 +667,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 474 • 12h ago
+⭐ 2.5k • 🔱 474 • 14h ago
 
 ---
 
@@ -687,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.4k • 🔱 207 • 53m ago
+⭐ 2.4k • 🔱 207 • 2h ago
 
 ---
 
@@ -707,7 +707,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 159 • 59m ago
+⭐ 2.1k • 🔱 159 • 2h ago
 
 ---
 
@@ -727,7 +727,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 255 • 29m ago
+⭐ 2.0k • 🔱 255 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T16:01:10.734228+00:00'
+updated: '2026-08-11T17:27:22.856211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 16:01 UTC  
+**Last Updated:** August 11, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-22h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -126,17 +126,21 @@ Business Insider • 2d ago
 
 ---
 
-**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+**[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels?srnd=homepage-americas)**
 
-The New York Times • 2h ago
+Bloomberg.com • 21m ago
 
 ---
 
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+**[Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks](https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6)**
 
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+MarketWatch • 10m ago
 
-TribLIVE.com • 4h ago
+---
+
+**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -144,7 +148,15 @@ TribLIVE.com • 4h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 38m ago
+CBS News • 2h ago
+
+---
+
+**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+
+Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+
+TribLIVE.com • 5h ago
 
 ---
 
@@ -154,15 +166,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-theinformation.com • 15h ago
-
----
-
-**[Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors](https://www.ft.com/content/99824437-8173-4320-b84b-242c726ab437?syn-25a6b1a6=1)**
-
-Unitree raises $900mn ahead of Shanghai listing expected later this month
-
-Financial Times • 8h ago
+The Information • 16h ago
 
 ---
 
@@ -178,13 +182,7 @@ Supply Chain Dive • 1d ago
 
 During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-finance.yahoo.com • 22h ago
-
----
-
-**[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
-
-Nature • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 

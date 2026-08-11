@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T16:01:10.730943+00:00'
+updated: '2026-08-11T17:27:22.853301+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 16:01 UTC  
+**Last Updated:** August 11, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,863.12
+### $1,866.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.4%  
-**30d:** +4.8%  
-**90d:** -18.4%  
+**24h:** -0.3%  
+**7d:** -2.2%  
+**30d:** +5.1%  
+**90d:** -18.2%  
 **1y:** -59.4%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-20h ago
+21h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -168,14 +168,6 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html)**
-
-Bitcoin opened at $63,912.50 on Tuesday, August 11, 2026, down 1.4% from Monday's opening price. As of 8:32 a.m. ET, the price of bitcoin moved up to $64,282.28. Ethereum opened at $1,871.33, down 2% from Monday's opening. The price of ethereum moved higher this morning to $1,888.83 as of 8:32 a.m. ET.
-
-finance.yahoo.com • 3h ago
-
----
-
 **[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
@@ -184,17 +176,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.81 Million Tokens, and Total Crypto and Total Cash Holdings of $11.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-81-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-6-billion-302846858.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+
+PR Newswire • 1d ago
+
+---
+
 **[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
 
-Seeking Alpha • 1d ago
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
+
+Benzinga • 22h ago
 
 ---
 
@@ -202,7 +204,7 @@ Seeking Alpha • 1d ago
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-Infosecurity Magazine • 1h ago
+Infosecurity Magazine • 2h ago
 
 ---
 
@@ -210,7 +212,7 @@ Infosecurity Magazine • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -218,15 +220,15 @@ Fortune • 5h ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 23h ago
+theblock.co • 1d ago
 
 ---
 
-**[Crypto News: Pepeto Presale Advances Toward Binance as the Ethereum Price Prediction Targets $6,731](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-advances-toward-binance-as-the-ethereum-price-prediction-targets-6-731-1036440956)**
+**['Everything Except Bitcoin Is Dead'? No, Watch ETH and SOL, Industry Veterans Say](https://www.tradingview.com/news/benzinga:803e6f560094b:0-everything-except-bitcoin-is-dead-no-watch-eth-and-sol-industry-veterans-say/)**
 
-DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
+Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
 
-markets.businessinsider.com • 1h ago
+TradingView • 20h ago
 
 ---
 
@@ -260,7 +262,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 2K • 👍 779 • 1h ago
+👁️ 2K • 👍 779 • 3h ago
 
 ---
 
@@ -270,7 +272,7 @@ Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, 
 
 📺 ilme aalim
 
-👁️ 2K • 👍 111 • 💬 6 • ⏱️ 7:44 • 7h ago
+👁️ 2K • 👍 111 • 💬 6 • ⏱️ 7:44 • 8h ago
 
 ---
 
@@ -318,7 +320,7 @@ Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! Accord
 
 📺 ilme aalim
 
-👁️ 629 • 👍 52 • 💬 5 • ⏱️ 2:45 • 3h ago
+👁️ 629 • 👍 52 • 💬 5 • ⏱️ 2:45 • 5h ago
 
 ---
 
@@ -328,7 +330,7 @@ Captain Dylan here breaking down why this Bitcoin move is a massive trap. With t
 
 📺 Chart Hackers
 
-👁️ 814 • 👍 108 • 1h ago
+👁️ 814 • 👍 108 • 3h ago
 
 ---
 
