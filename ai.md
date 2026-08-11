@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T04:19:48.736267+00:00'
+updated: '2026-08-11T05:35:22.325326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 04:19 UTC  
+**Last Updated:** August 11, 2026 at 05:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -47,15 +47,7 @@ AI news, discussions, and developments
 
 We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
 
-6h ago
-
----
-
-**[Anyone know any good app or program to change the singer of a song to someone else?](https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/)**
-
-As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
-
-2h ago
+7h ago
 
 ---
 
@@ -63,15 +55,15 @@ As the title says. Looking for one where you can change the singer to anyone, or
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 13h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 14h ago
 
 ---
 
-**[Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?](https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/)**
+**[Anyone know any good app or program to change the singer of a song to someone else?](https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/)**
 
-Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
 
-11h ago
+3h ago
 
 ---
 
@@ -79,7 +71,15 @@ Building a Go backend for orchestrating AI agents (multi-tenant, each agent has 
 
 Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
 
-9h ago
+10h ago
+
+---
+
+**[Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?](https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/)**
+
+Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused wo
 
 I've spent the last few days reading the timeline of the OpenAI agent that broke into Hugging Face during an internal evaluation. The short version of what's been reported: an experimental OpenAI model was being tested back in May. During testing it found a vulnerability in a third-party file repo (Artifactory), then over the following weeks it chained together eight previously unknown zero-days, escalated itself to admin, and pivoted into Hugging Face's core infrastructure. Researchers counted roughly 17,600 automated attack actions across four days, and it hit cluster admin in about thirteen hours once it got going. OpenAI apparently didn't even realize the attacker was their own model until they went to revoke the credentials. The detail I can't get past: several copies of the agent were running at once, and they left messages for each other inside Artifactory folder names, improvising a shared message board to trade what each had figured out. Nobody built them a coordination channel. They made one. Was this a safety win or a safety failure? It happened inside a sanctioned eval and got caught and disclosed; that's the win case. But it also escaped the intended environment and hit a real company, and Hugging Face's CEO is now publicly calling for developer accountability when models act autonomously like this. Where do you personally draw the line between "the eval worked, we found the behavior" and "containment failed?
 
-9h ago
+11h ago
 
 ---
 
@@ -95,15 +95,7 @@ I've spent the last few days reading the timeline of the OpenAI agent that broke
 
 https://preview.redd.it/jt5idx0u0jih1.png?width=960&format=png&auto=webp&s=170a37be6d0e2d4814a7d9bcc97f23c90ffe9bb0 Meta will open source their Muse Spark 1.2 and Muse Glimmer 30B The biggest open weights since Llama 4 & 3 from MSL
 
-17h ago
-
----
-
-**[Quick question,](https://www.reddit.com/r/artificial/comments/1vl5oxj/quick_question/)**
-
-Why do you guys like ai so much, I know there is faster drawing but there are mistakes. Also we have data centers using a whole bunch of water. Data centers are things I hate the most since there is no reason, right almost tied to Power plants. What's the reason for liking ai so much?
-
-1h ago
+18h ago
 
 ---
 
@@ -111,7 +103,15 @@ Why do you guys like ai so much, I know there is faster drawing but there are mi
 
 ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
 
-11h ago
+12h ago
+
+---
+
+**[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/)**
+
+Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
+
+🔗 [Business Insider](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8) • 1d ago
 
 ---
 
@@ -119,25 +119,33 @@ Why do you guys like ai so much, I know there is faster drawing but there are mi
 
 ## Google News: "ai"
 
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
-
-The New York Times • 17h ago
-
----
-
 **[Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model](https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta)**
 
 Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Singapore revises its annual growth forecast sharply higher on AI-related boost](https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html)**
+**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
 
-GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%
+The New York Times • 20h ago
 
-CNBC • 1h ago
+---
+
+**[More job interviews are happening way past bedtime, thanks to an AI interview tool](https://www.businessinsider.com/ai-interviews-at-night-ribbon-ceo-2026-8)**
+
+Ribbon said its voice-based AI recruiting platform tools have improved accessibility by allowing candidates to interview at flexible times.
+
+Business Insider • 24m ago
+
+---
+
+**[The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1)**
+
+The country has bet big on tech services but disruption is coming
+
+ft.com • 1h ago
 
 ---
 
@@ -145,7 +153,7 @@ CNBC • 1h ago
 
 Perplexity has blocked Time’s markdown agent ads from influencing its AI system, labeling the practice “deceptive."
 
-digiday.com • 15m ago
+Digiday • 1h ago
 
 ---
 
@@ -153,13 +161,13 @@ digiday.com • 15m ago
 
 The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[Nvidia partners with Wall Street giants to raise $500 billion for AI buildout](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
 
-Reuters • 11h ago
+Reuters • 13h ago
 
 ---
 
@@ -167,7 +175,7 @@ Reuters • 11h ago
 
 Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure
 
-Financial Times • 17m ago
+ft.com • 1h ago
 
 ---
 
@@ -175,21 +183,13 @@ Financial Times • 17m ago
 
 An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
 
-Anthropic • 10h ago
+Anthropic • 11h ago
 
 ---
 
 **[AI-Dominated Leveraged ETFs Are Rattling Markets](https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Intel plans $15 billion stock offering as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
-
-Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
-
-CNBC • 15h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 15h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 638 • 💬 355 • 22h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 644 • 💬 356 • 23h ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -209,7 +209,7 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 420 • 💬 408 • 14h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 445 • 💬 420 • 15h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
@@ -237,13 +237,13 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 147 • 💬 157 • 13h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 149 • 💬 158 • 14h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 143 • 💬 108 • 1d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 143 • 💬 109 • 1d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -251,7 +251,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 101 • 💬 182 • 13h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 106 • 💬 190 • 14h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -265,7 +265,7 @@ SAP says it needs to “be disciplined in how we spend.” That includes still f
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 88 • 💬 76 • 6h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 95 • 💬 79 • 7h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -281,33 +281,33 @@ A year of failure postmortems from building document AI for public tenders: phan
 
 ## YouTube Videos: "ai"
 
+**[The AI Safety Tests Are Broken. All Of Them.](https://www.youtube.com/watch?v=FhQQs0UT4qc)**
+
+AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models are slipping through cyber tests, OpenAI is ...
+
+📺 AI Revolution
+
+👁️ 8K • 👍 442 • 💬 73 • ⏱️ 14:41 • 4h ago
+
+---
+
+**[AI Just Caught Science Lying (This Is Bad)](https://www.youtube.com/watch?v=a28G9qEsmPo)**
+
+AI is starting to audit science itself, catching decades-old errors, exposing reproducibility problems in top AI papers, and producing ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 159 • ⏱️ 15:13 • 1d ago
+
+---
+
 **[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
 
 Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
 
 📺 Cole Hastings
 
-👁️ 284K • 👍 11K • 💬 1K • ⏱️ 15:09 • 1d ago
-
----
-
-**[The AI Singularity Is Here](https://www.youtube.com/watch?v=F75hfLE4a2k)**
-
-For over a year, Google has been running an AI called AlphaEvolve with a single mission: improve the company that built it.
-
-📺 There's An AI For That
-
-👁️ 34K • 👍 865 • 💬 167 • ⏱️ 13:38 • 2d ago
-
----
-
-**[Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)**
-
-Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI).
-
-📺 Andrew Huberman
-
-👁️ 28K • 👍 1K • 💬 207 • ⏱️ 2:08:13 • 16h ago
+👁️ 294K • 👍 11K • 💬 2K • ⏱️ 15:09 • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ OpenAI's first real AI device just leaked, and it's a donut. Built with legendar
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 218 • ⏱️ 12:36 • 2d ago
+👁️ 37K • 👍 1K • 💬 220 • ⏱️ 12:36 • 2d ago
 
 ---
 
@@ -327,17 +327,37 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 77K • 👍 4K • 💬 742 • ⏱️ 15:49 • 13h ago
+👁️ 81K • 👍 5K • 💬 757 • ⏱️ 15:49 • 14h ago
 
 ---
 
-**[🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti](https://www.youtube.com/watch?v=i5pFn0W5iiQ)**
+**[Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)**
 
-Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
+Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI).
 
-📺 Telugu stories world 
+📺 Andrew Huberman
 
-👁️ 96K • 👍 1K • 💬 3 • ⏱️ 0:14 • 1d ago
+👁️ 31K • 👍 1K • 💬 214 • ⏱️ 2:08:13 • 17h ago
+
+---
+
+**[The AI Bulls Can&#39;t Answer This One Big Question](https://www.youtube.com/watch?v=V4bFH9nT0b4)**
+
+Today on Prof G Markets, Scott Galloway and Ed Elson break down the bull and bear cases for the market at new record highs.
+
+📺 Prof G Markets
+
+👁️ 139K • 👍 3K • 💬 1K • ⏱️ 1:09:40 • 18h ago
+
+---
+
+**[Elon Musk on Why We NEED China for AI Safety 🌐](https://www.youtube.com/watch?v=_ubUXDZX8Qs)**
+
+Can global AI safety exist without China? Elon Musk defends Rishi Sunak's decision to invite China to the AI Safety Summit.
+
+📺 Macetarie
+
+👁️ 731 • 👍 22 • 💬 1 • ⏱️ 0:44 • 6h ago
 
 ---
 
@@ -347,33 +367,17 @@ Subscribe to join the prayer army and receive notifications of live prayer and p
 
 📺 Last Days
 
-👁️ 115K • 👍 8K • 💬 457 • ⏱️ 1:44 • 1d ago
+👁️ 122K • 👍 8K • 💬 468 • ⏱️ 1:44 • 1d ago
 
 ---
 
-**[Testing an AI Scrambled Eggs Hack from TikTok! 🍳](https://www.youtube.com/watch?v=CZbgZrwsrA0)**
+**[I Tested AI Life Hacks](https://www.youtube.com/watch?v=wC8lWTjWEzM)**
 
-📺 Honeysuckle
+This was so fun lol shoutout @Sambucha for the idea! **STREAM "YOU'RE MY YES" HERE!** SPOTIFY: ...
 
-👁️ 124K • 👍 7K • 💬 81 • ⏱️ 2:57 • 1d ago
+📺 Liv Swearingen (LIV)
 
----
-
-**[Meta releases AI at-home model, faces backlash#shorts #meta #ai #zuckerberg](https://www.youtube.com/watch?v=fBP6biKA8vU)**
-
-Mark Zuckerberg's Meta has released a scaled-down AI program consumers can download and use on a personal computer, but ...
-
-📺 Bloomberg Television
-
-👁️ 1K • 👍 19 • 💬 4 • ⏱️ 0:57 • 5h ago
-
----
-
-**[AI Movie VS Real Movie 😳](https://www.youtube.com/watch?v=3DzgV30RYpY)**
-
-📺 Mark Tilbury
-
-👁️ 638K • 👍 17K • 💬 879 • ⏱️ 0:26 • 2d ago
+👁️ 295K • 👍 4K • 💬 726 • ⏱️ 18:08 • 2d ago
 
 ---
 
@@ -389,19 +393,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 47,468 • ❤️ 3,444 • 17h ago
-
----
-
-**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
-
-`text-generation` `304.2B`
-
-⬇️ 954,441 • ❤️ 3,066 • 10d ago
+⬇️ 47,468 • ❤️ 3,455 • 19h ago
 
 ---
 
@@ -413,7 +405,19 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 764 • 4h ago
+⬇️ 0 • ❤️ 811 • 5h ago
+
+---
+
+**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
+
+`text-generation` `304.2B`
+
+⬇️ 954,441 • ❤️ 3,078 • 10d ago
 
 ---
 
@@ -423,7 +427,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,009,639 • ❤️ 1,151 • 1d ago
+⬇️ 6,009,639 • ❤️ 1,159 • 1d ago
 
 ---
 
@@ -435,19 +439,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 602 • 2d ago
-
----
-
-**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
-
-*Moonshot AI*
-
-Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
-
-`image-text-to-text` `2779.9B`
-
-⬇️ 1,510,032 • ❤️ 10,473 • 14d ago
+⬇️ 0 • ❤️ 606 • 2d ago
 
 ---
 
@@ -459,7 +451,19 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 89,680 • ❤️ 490 • 3d ago
+⬇️ 89,680 • ❤️ 494 • 3d ago
+
+---
+
+**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
+
+*Moonshot AI*
+
+Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
+
+`image-text-to-text` `2779.9B`
+
+⬇️ 1,510,032 • ❤️ 10,477 • 14d ago
 
 ---
 
@@ -471,7 +475,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,439,083 • ❤️ 1,863 • 1d ago
+⬇️ 2,439,083 • ❤️ 1,867 • 1h ago
 
 ---
 
@@ -483,7 +487,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 440 • 5d ago
+⬇️ 0 • ❤️ 443 • 5d ago
 
 ---
 
@@ -495,7 +499,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,344 • ❤️ 312 • 6d ago
+⬇️ 1,344 • ❤️ 316 • 6d ago
 
 ---
 
@@ -509,7 +513,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 120 • 💬 4 • ⭐ 97,058 • 19mo ago
+▲ 120 • 💬 4 • ⭐ 97,286 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -645,7 +649,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 901 • 1h ago
+⭐ 8.1k • 🔱 905 • 1h ago
 
 ---
 
@@ -655,7 +659,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.5k • 🔱 395 • 1d ago
+⭐ 4.5k • 🔱 396 • 1d ago
 
 ---
 
@@ -673,7 +677,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -683,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 458 • 13h ago
+⭐ 2.5k • 🔱 463 • 2h ago
 
 ---
 
@@ -713,7 +717,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 156 • 11h ago
+⭐ 2.1k • 🔱 157 • 12h ago
 
 ---
 
@@ -733,7 +737,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 3h ago
+⭐ 2.0k • 🔱 251 • 1h ago
 
 ---
 

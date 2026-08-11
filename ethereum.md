@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T04:19:48.748151+00:00'
+updated: '2026-08-11T05:35:22.340109+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 04:19 UTC  
+**Last Updated:** August 11, 2026 at 05:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -1.5%  
-**30d:** +5.8%  
-**90d:** -17.6%  
-**1y:** -59.1%  
+**24h:** -2.7%  
+**7d:** -1.8%  
+**30d:** +5.6%  
+**90d:** -17.9%  
+**1y:** -59.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.41B
+**Market Cap:** $225.90B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.2%
 
 **All-Time Low:** $0.43
-+433156.6%
++432225.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -104,7 +104,7 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Solidity 0.8.36 adds Amsterdam EVM support. Sourcify passes 42M+ verified contracts. Foundry adds symbolic testing.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-july-2026-update) • 4d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-july-2026-update) • 5d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 16h ago
 
 Tokenized liquidity is spreading across blockchains, but Ethereum continues to dominate markets across several financial segments.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -212,21 +212,21 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 DUBAI, United Arab Emirates, Aug.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto, an Ethereum based project, is taking the spotlights in latest crypto news...
 
-markets.businessinsider.com • 21h ago
-
----
-
-**[Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI](https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai)**
-
-The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
-
-Decrypt • 6h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
 **[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
+
+---
+
+**[Rating Ethereum, Solana, XRP: Prominent Trader Says One's a 'Hold' and One's a 'Beta Bet'](https://www.benzinga.com/crypto/cryptocurrency/26/08/61076277/rating-ethereum-solana-xrp-prominent-trader-says-ones-a-hold-and-ones-a-beta-bet)**
+
+ETH, SOL, and XRP may dominate altcoin conversations, but have different risk-reward profiles.
+
+benzinga.com • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 10K • 👍 566 • 💬 84 • ⏱️ 6:34 • 16h ago
+👁️ 11K • 👍 584 • 💬 86 • ⏱️ 6:34 • 17h ago
 
 ---
 
@@ -250,7 +250,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 119 • 💬 50 • ⏱️ 54:27 • 17h ago
+👁️ 3K • 👍 122 • 💬 51 • ⏱️ 54:27 • 19h ago
+
+---
+
+**[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
+
+Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 7K • 👍 593 • 💬 88 • ⏱️ 55:35 • 1d ago
 
 ---
 
@@ -260,17 +270,15 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 4 • ⏱️ 6:31 • 15h ago
+👁️ 3K • 👍 176 • 💬 4 • ⏱️ 6:31 • 17h ago
 
 ---
 
-**[BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d2toAGMH9SM)**
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
 
-BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+📺 CryptoWendyO
 
-📺 Crypto World
-
-👁️ 3K • 👍 191 • 💬 103 • ⏱️ 17:44 • 6h ago
+👁️ 12K • 👍 628 • 💬 28 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -280,25 +288,17 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 285 • 💬 8 • ⏱️ 7:37 • 2d ago
+👁️ 6K • 👍 286 • 💬 8 • ⏱️ 7:37 • 2d ago
 
 ---
 
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+**[BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d2toAGMH9SM)**
 
-📺 CryptoWendyO
+BITCOIN DUMP: WARNING SIGNAL CONFIRMED (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-👁️ 11K • 👍 615 • 💬 28 • ⏱️ 1:29 • 2d ago
+📺 Crypto World
 
----
-
-**[The Unthinkable Has Happened To Bitcoin &amp; Solana This Could Be Time For XRP &amp; Ethereum To Shine](https://www.youtube.com/watch?v=ol2fQMclVuY)**
-
-This one is going to shock a lot of people within the cryptocurrency market. As more and more time goes on... it just becomes ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 660 • 💬 118 • ⏱️ 33:45 • 2d ago
+👁️ 4K • 👍 228 • 💬 100 • ⏱️ 17:44 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The
 
 📺 The Coin Daily
 
-👁️ 647 • ⏱️ 5:58 • 11h ago
+👁️ 1K • ⏱️ 5:58 • 12h ago
 
 ---
 
@@ -318,17 +318,17 @@ I have serious concerns with Ethereum and I don't see how it works out over time
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 515 • 👍 16 • 💬 2 • ⏱️ 0:43 • 1d ago
+👁️ 522 • 👍 16 • 💬 2 • ⏱️ 0:43 • 1d ago
 
 ---
 
-**[Jesse Pollak: Why Base Will Make Ethereum Win Long-Term (Consumer Grade Scale)](https://www.youtube.com/watch?v=E3skTXfZ6_Q)**
+**[📈 ETH Supply Shrinks While Dollar Grows 6.8%](https://www.youtube.com/watch?v=Ak6naqsVZ0A)**
 
-Jesse Pollak joins us on CLARITY week to break down how Base is leading in trading, onchain finance, and payments. He also ...
+Ethereum is quietly becoming one of the scarcest assets on the planet. The math between a shrinking supply and an expanding ...
 
-📺 The Rollup
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 147 • 💬 11 • ⏱️ 25:29 • 1d ago
+👁️ 261 • 👍 6 • 💬 1 • ⏱️ 1:23 • 13h ago
 
 ---
 
