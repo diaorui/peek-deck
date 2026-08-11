@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T09:34:25.277469+00:00'
+updated: '2026-08-11T10:50:50.266935+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 09:34 UTC  
+**Last Updated:** August 11, 2026 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-2h ago
+3h ago
 
 ---
 
 **[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -55,7 +55,15 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-1h ago
+2h ago
+
+---
+
+**[List of 160+ AI Startups with Funding and Category](https://www.reddit.com/r/artificial/comments/1vldaia/list_of_160_ai_startups_with_funding_and_category/)**
+
+AI companies to Apply To: A Curated List of 160+ Funded AI-First Startups for Software Engineers job-hunting in 2026. - vinitshahdeo/awesome-ai-startups-hiring
+
+🔗 [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) • 43m ago
 
 ---
 
@@ -63,7 +71,7 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
 
-11h ago
+13h ago
 
 ---
 
@@ -71,13 +79,29 @@ We’re comparing a few options for a large contact center the main goal is to a
 
 ​ Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
 
-2h ago
+3h ago
 
 ---
 
-**[The next big AI use case may be family coordination](https://www.reddit.com/r/artificial/comments/1vlbh6p/the_next_big_ai_use_case_may_be_family/)**
+**[Kavak Replaced 15 Human Sales Specialists With One AI Agent — It Now Outsells Them 2.1x](https://www.reddit.com/r/artificial/comments/1vldh7d/kavak_replaced_15_human_sales_specialists_with/)**
 
-I saw the beta announcement for Norton Family Assistant, and the idea stuck with me. Most AI assistants are still built around one person and their own tasks. Family life does not really work that way. The useful information is usually split across different inboxes, calendars, chats, and people who each remember a different part of the plan. I had already seen this in a health context through Theta Wellness's Care Circle. I use it to help organize my dad's health records. His information stays under his profile, so I can work from his health history without mixing it into mine. That sounds small until you are helping someone else keep track of their records. That made me think family coordination may be a category of its own. The same setup could make sense for school updates or travel plans, where several people need the same plan but still have their own accounts. I already have plenty of apps for managing my own to do list. Keeping a whole family on the same page feels like the more interesting problem.
+Every one of these clips lands the same blow eventually: a role someone spent years building gets quietly outperformed by a system that never clocks out. Kavak sells used cars across Latin America — a genuinely messy transaction: ~20,000 SKUs to choose from, then financing, insurance, and a trade-in valuation stacked on top. Historically, closing one sale meant routing a customer through 15 separate human specialists across 15 different teams, each holding one piece of the process. Alejandro Maza Ayala, Kavak's Chief Product & AI Officer, explained on a16z's show how they fixed it — not by making a support bot, but by building a single "mega-expert" agent that holds all 15 specialties at once (financing, insurance, trade-in, advisory) and puts that one agent in front of the customer. The result: 2.1x the conversion rate of their own human sales team, tripled customer satisfaction. The agent never tires, never forgets a customer's history, and when it makes a mistake, the correction propagates to the other 200,000 agents in the fleet by the next morning — a scale of self-correction no individual human career can match working alone. It closes on Alejandro flatly stating that the industry assumption — "customers aren't going to want to buy expensive things from AI" — is wrong, and Kavak's numbers are the proof. When I read the transcript, it felt so eerily similar to the Borg Collective Mind in Star Trek. That's the ultimate evolution. The question we need to ask is, will it serve us, or subjugate us? If your role is the coordination layer between departments — the person routing a customer between financing, insurance, and everyone else — that's precisely the layer this consolidates first. Worth sitting with, not scrolling past. Clip credit: a16z — full video on their channel. DM for credit or removal requests. Drop your take below.
+
+32m ago
+
+---
+
+**[Practically speaking, how easily can smart glasses REALLY identify people on the street?](https://www.reddit.com/r/artificial/comments/1vlcpn1/practically_speaking_how_easily_can_smart_glasses/)**
+
+With all the talk about smart glasses in the news at the moment, im quite confused about just how identifiable faces are using AI. For example, if someone walks down the street and photographs/films me, how easily it it for them to use AI to work out who I am? And what if they photograph me, save it and then use more advanced tools on it later outside of whatever software the glasses use? I have private social media accounts but do have photos of myself on some work-related websites and platforms, so maybe AI could use some smart facial recognition to map it to those images and work out who I am? Thanks
+
+1h ago
+
+---
+
+**[Made an AI Wizard that interviews you before generating anything — curious what people think of the approach](https://www.reddit.com/r/artificial/comments/1vlce62/made_an_ai_wizard_that_interviews_you_before/)**
+
+Most AI tools give you a text box. You write something, it generates something, and you spend the rest of the time trying to get it to understand what you actually meant. AI Wizard does it differently. You pick a workflow — website, app, pitch deck, logo, API, etc. — and it asks you a short series of adaptive questions before generating anything. Each answer narrows the next question. By the end, it has enough context to produce something genuinely useful. It's free. I'm absorbing the API costs myself for now. My country isn't listed on Stripe or PayPal, so I can't take traditional payments — there's a Binance link if anyone wants to chip in, but no pressure at all. Would love honest feedback — does the interview feel like a better UX, or is it just extra steps? 🔗 https://aiwizard-a.vercel.app/
 
 1h ago
 
@@ -87,31 +111,7 @@ I saw the beta announcement for Norton Family Assistant, and the idea stuck with
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 18h ago
-
----
-
-**[Anyone know any good app or program to change the singer of a song to someone else?](https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/)**
-
-As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
-
-7h ago
-
----
-
-**[A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers](https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/)**
-
-Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
-
-14h ago
-
----
-
-**[Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?](https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/)**
-
-Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
-
-16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 20h ago
 
 ---
 
@@ -119,53 +119,39 @@ Building a Go backend for orchestrating AI agents (multi-tenant, each agent has 
 
 ## Google News: "ai"
 
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
+**[AI Is Dead. Organoids Are Alive](https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/)**
 
-The New York Times • 1d ago
+Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.
 
----
-
-**[Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)**
-
-The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
-
-CNBC • 14h ago
+WIRED • 50m ago
 
 ---
 
-**[Nvidia partners with Wall Street giants to raise $500 billion for AI buildout](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
+**[Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
 
-Reuters • 17h ago
+Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
----
-
-**[How Nvidia's $500B financing deal will entrench its AI dominance](https://www.cnbc.com/video/2026/08/11/how-nvidias-500b-financing-deal-will-entrench-its-ai-dominance.html)**
-
-Nvidia has partnered with six of the world’s largest asset managers to source more than $500 billion in third-party financing for AI infrastructure. The Wall Street heavyweights involved include Apollo, Blackstone, Brookfield, BlackRock, KKR and Goldman Sachs. CNBC’s Arjun Kharpal joins 'Squawk Box Europe' to discuss what the funding push could mean for Nvidia’s dominance in AI, the global rollout of data centers and growing concerns around circular financing.
-
-CNBC • 1h ago
+CNBC • 22h ago
 
 ---
 
-**[AI could help unlock more oil — and emissions](https://www.axios.com/2026/08/11/ai-oil-gas-emissions-increase)**
+**[Washington homebuyers get a new AI-powered search tool](https://www.axios.com/local/washington-dc/2026/08/11/real-estate-ai-search-tool-house-me)**
 
-Axios • 29m ago
-
----
-
-**[AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia](https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/)**
-
-Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.
-
-WIRED • 34m ago
+Axios • 21m ago
 
 ---
 
-**[China bets on AI weather forecasting as extreme weather intensifies](https://www.nbcnews.com/world/china/china-bets-ai-weather-forecasting-extreme-weather-intensifies-rcna591874)**
+**[A.I. Offers Hope for Men With Infertility, Spotting ‘Hidden’ Sperm](https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html)**
 
-Chinese-developed systems are among a handful of AI forecasting models that researchers say can generate forecasts much faster than conventional systems while matching or surpassing them on some measures of accuracy.
+The New York Times • 1h ago
 
-nbcnews.com • 33m ago
+---
+
+**[Brad Pitt backs certain use of AI in Hollywood: 'It’s going to help these mid-budget films get made'](https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-backs-certain-ai-100949457.html)**
+
+Brad Pitt has shared that when it comes to making expensive visual effects more affordable, AI could help more modestly budgeted productions get off the ground.View on euronews
+
+Yahoo • 41m ago
 
 ---
 
@@ -173,7 +159,7 @@ nbcnews.com • 33m ago
 
 An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
 
-Anthropic • 15h ago
+Anthropic • 16h ago
 
 ---
 
@@ -181,15 +167,29 @@ Anthropic • 15h ago
 
 The country has bet big on tech services but disruption is coming
 
-Financial Times • 5h ago
+Financial Times • 2h ago
 
 ---
 
-**[Intel plans $15 billion stock offering as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
+**[Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)**
 
-Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
+The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 20h ago
+CNBC • 15h ago
+
+---
+
+**[Nvidia partners with Wall Street giants to raise $500 billion for AI buildout](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
+
+Reuters • 18h ago
+
+---
+
+**[AM Markets Need to Know: Nvidia's $500B AI push, Burry bets, and more (SP500:)](https://seekingalpha.com/news/4630513-am-markets-need-to-know-nvidias-500b-ai-push-burry-bets-and-more)**
+
+Track 5 key investor headlines: Nvidia’s $500B AI financing push, Burry vs Palantir, Germany gas risks, FDA GRAS rule, and HSBC equity view—read now.
+
+Seeking Alpha • 38m ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 20h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 651 • 💬 364 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 655 • 💬 366 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -209,13 +209,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 500 • 💬 460 • 19h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 515 • 💬 475 • 20h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 282 • 💬 272 • 10h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 328 • 💬 341 • 12h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -229,7 +229,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 174 • 💬 126 • 11h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 190 • 💬 152 • 13h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -249,7 +249,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 149 • 💬 163 • 18h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 149 • 💬 164 • 19h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -263,7 +263,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 108 • 💬 199 • 18h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 109 • 💬 199 • 20h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -285,7 +285,7 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 12K • 👍 570 • 💬 89 • ⏱️ 14:41 • 8h ago
+👁️ 14K • 👍 633 • 💬 96 • ⏱️ 14:41 • 10h ago
 
 ---
 
@@ -299,23 +299,23 @@ AI is starting to audit science itself, catching decades-old errors, exposing re
 
 ---
 
-**[‘We’re giving PSYCHOPATHS NUKES!’ - Experts on rogue AI hacks](https://www.youtube.com/watch?v=bwuRmNZ68Tc)**
-
-AI is increasingly being used to find vulnerabilities, exploit networks and carry out cyberattacks - but how autonomous are these ...
-
-📺 Channel 4 News
-
-👁️ 22K • 👍 514 • 💬 222 • ⏱️ 32:40 • 16h ago
-
----
-
 **[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
 
 Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
 
 📺 Cole Hastings
 
-👁️ 304K • 👍 11K • 💬 2K • ⏱️ 15:09 • 1d ago
+👁️ 311K • 👍 12K • 💬 2K • ⏱️ 15:09 • 1d ago
+
+---
+
+**[What Meta&#39;s new open-source AI model means for the future of artificial intelligence](https://www.youtube.com/watch?v=SWtcb-K63pI)**
+
+Meta, the company behind Facebook and Instagram, has released a free artificial intelligence tool. The release was accompanied ...
+
+📺 PBS NewsHour
+
+👁️ 38K • 👍 449 • ⏱️ 6:43 • 12h ago
 
 ---
 
@@ -325,37 +325,7 @@ OpenAI's first real AI device just leaked, and it's a donut. Built with legendar
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 220 • ⏱️ 12:36 • 2d ago
-
----
-
-**[Elon Musk on Why We NEED China for AI Safety 🌐](https://www.youtube.com/watch?v=_ubUXDZX8Qs)**
-
-Can global AI safety exist without China? Elon Musk defends Rishi Sunak's decision to invite China to the AI Safety Summit.
-
-📺 Macetarie
-
-👁️ 923 • 👍 37 • 💬 1 • ⏱️ 0:44 • 10h ago
-
----
-
-**[Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)**
-
-Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI).
-
-📺 Andrew Huberman
-
-👁️ 34K • 👍 1K • 💬 228 • ⏱️ 2:08:13 • 21h ago
-
----
-
-**[The AI Economy Is DEAD. 6 Billion Images Now POISONED.](https://www.youtube.com/watch?v=zF-mbwc5Mmw)**
-
-Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when you sign up to Proton VPN 2-year plan AI ...
-
-📺 The Infographics Show
-
-👁️ 199K • 👍 6K • 💬 1K • ⏱️ 16:13 • 13h ago
+👁️ 37K • 👍 1K • 💬 222 • ⏱️ 12:36 • 2d ago
 
 ---
 
@@ -365,7 +335,27 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 125K • 👍 1K • 💬 3 • ⏱️ 0:14 • 1d ago
+👁️ 130K • 👍 1K • 💬 3 • ⏱️ 0:14 • 1d ago
+
+---
+
+**[5 Best Practices for Building AI Agent Skills](https://www.youtube.com/watch?v=qYNs80FKIVc)**
+
+Learn more about 2026 Guide to AI Agents here → https://ibm.biz/~e7fElYU4A Building AI agent skills is easier than it looks.
+
+📺 IBM Technology
+
+👁️ 17K • 👍 854 • 💬 62 • ⏱️ 13:22 • 23h ago
+
+---
+
+**[The AI Economy Is DEAD. 6 Billion Images Now POISONED.](https://www.youtube.com/watch?v=zF-mbwc5Mmw)**
+
+Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when you sign up to Proton VPN 2-year plan AI ...
+
+📺 The Infographics Show
+
+👁️ 217K • 👍 7K • 💬 1K • ⏱️ 16:13 • 14h ago
 
 ---
 
@@ -375,7 +365,17 @@ Subscribe to join the prayer army and receive notifications of live prayer and p
 
 📺 Last Days
 
-👁️ 126K • 👍 8K • 💬 478 • ⏱️ 1:44 • 1d ago
+👁️ 129K • 👍 9K • 💬 483 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[China’s AI Push Reshapes Its Economic Future](https://www.youtube.com/watch?v=mM6J--ndDJI)**
+
+New Yorker staff writer Evan Osnos is on Bloomberg This Weekend and says China is taking a practical approach to AI, rapidly ...
+
+📺 Bloomberg Television
+
+👁️ 17K • 👍 260 • 💬 84 • ⏱️ 9:15 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,475 • 23h ago
+⬇️ 59,368 • ❤️ 3,497 • 1h ago
 
 ---
 
@@ -403,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 877 • 9h ago
+⬇️ 0 • ❤️ 920 • 10h ago
 
 ---
 
@@ -415,17 +415,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,048,685 • ❤️ 3,095 • 10d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
-
-*Comfy Org*
-
-MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
-
-⬇️ 6,798,796 • ❤️ 1,171 • 1d ago
+⬇️ 1,048,685 • ❤️ 3,107 • 10d ago
 
 ---
 
@@ -437,7 +427,17 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 611 • 2d ago
+⬇️ 0 • ❤️ 616 • 2d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
+
+*Comfy Org*
+
+MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
+
+⬇️ 6,798,796 • ❤️ 1,179 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 93,668 • ❤️ 504 • 3d ago
+⬇️ 93,668 • ❤️ 512 • 4d ago
 
 ---
 
@@ -461,7 +461,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,565,484 • ❤️ 10,488 • 14d ago
+⬇️ 1,565,484 • ❤️ 10,494 • 14d ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,873 • 5h ago
+⬇️ 2,521,093 • ❤️ 1,877 • 6h ago
 
 ---
 
@@ -485,7 +485,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 1,344 • ❤️ 321 • 6d ago
+⬇️ 2,049 • ❤️ 322 • 6d ago
 
 ---
 
@@ -497,7 +497,7 @@ This ComfyUI model provides INT8 ConvRot quantized Qwen3-VL-32B-Ultra-Heretic ch
 
 `image-text-to-text`
 
-⬇️ 0 • ❤️ 446 • 5d ago
+⬇️ 0 • ❤️ 449 • 5d ago
 
 ---
 
@@ -523,7 +523,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 🏢 MatrAIx
 
-Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity and interactive behavior. We therefore introduce MatrAIx, a population-scale simulated-user evaluation infrastructure for testing AI systems and digital products with heterogeneous users. MatrAIx has three core components: First, Persona 8B contains 8.3 billion persona records represented by 1,290 categorical dimensions. Records are either sampled from a dependency graph that preserves correlated attributes or derived from human-authored profiles. We release a quality-filtered coreset of approximately 1 million personas, comprising 599,847 human-grounded and 400,000 synthetic records. Second, the MatrAIx Playground provides four environments in which diverse users evaluate and interact with digital products: Survey, AI Chatbot, Web, and App. Third, MatrAIx provides 1,010 application tasks spanning more than 25 domains, including Commerce, Software, Finance, and Healthcare. We conducted 18,189 evaluation trials across eight representative tasks. Persona agents were powered by three LLMs: Claude Opus 4.8, GPT 5.5, and Claude Haiku 4.5. The resulting feedback captures how decisions and preferences vary across persona backgrounds, including hesitation after a price increase, willingness to continue after an AI assistant fails, and latency tolerance. We conducted two main validation studies: First, a 400-trial controlled study evaluated persona adherence across ten behavioral attributes and all four environments. The declared behavior was expressed or correctly suppressed in 366 trials (91.5%). Second, human and LLM judges evaluated the extraction quality of human-grounded personas. Overall, MatrAIx provides an end-to-end infrastructure for evaluating AI systems and digital products with diverse simulated human users.
+MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
 ▲ 22 • 💬 2 • ⭐ 623 • 7d ago
 
@@ -551,7 +551,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 🏢 jingdong
 
-Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.
+JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
 ▲ 90 • 💬 1 • ⭐ 761 • 7d ago
 
@@ -577,7 +577,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 🏢 Alibaba AMAP CV Lab
 
-We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.
+ABot-World-0 is a real-time action-conditioned video world model that uses progressive distillation, long-horizon alignment, and a co-designed streaming stack to enable efficient, long-horizon interactive world generation.
 
 ▲ 310 • 💬 5 • ⭐ 2,187 • 20d ago
 
@@ -595,20 +595,6 @@ mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI system
 ▲ 7 • 💬 0 • ⭐ 37,041 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.04660) • [💻 code](https://github.com/stanfordnlp/dspy) • [🔗 project](https://dspy.ai)
-
----
-
-**[Kimi K3: Open Frontier Intelligence](https://huggingface.co/papers/2607.24653)**
-
-*Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)*
-
-🏢 Moonshot AI
-
-We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
-
-▲ 488 • 💬 10 • ⭐ 8,330 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2607.24653) • [💻 code](https://github.com/MoonshotAI/Kimi-K3) • [🔗 project](https://www.kimi.com/blog/kimi-k3)
 
 ---
 
@@ -638,6 +624,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 177 • 💬 2 • ⭐ 77,331 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +647,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 909 • 5h ago
+⭐ 8.2k • 🔱 915 • 6h ago
 
 ---
 
@@ -658,7 +657,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.6k • 🔱 401 • 1d ago
+⭐ 4.6k • 🔱 403 • 2d ago
 
 ---
 
@@ -666,7 +665,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 3.9k • 🔱 505 • 2d ago
+⭐ 3.9k • 🔱 505 • 3d ago
 
 ---
 
@@ -676,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -686,7 +685,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 467 • 6h ago
+⭐ 2.5k • 🔱 472 • 7h ago
 
 ---
 
@@ -696,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.4k • 🔱 203 • 5d ago
+⭐ 2.4k • 🔱 205 • 6d ago
 
 ---
 
@@ -716,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 158 • 3h ago
+⭐ 2.1k • 🔱 158 • 2h ago
 
 ---
 
@@ -736,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 1h ago
+⭐ 2.0k • 🔱 253 • 1m ago
 
 ---
 
