@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T19:35:04.575643+00:00'
+updated: '2026-08-11T20:43:49.643928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 19:35 UTC  
+**Last Updated:** August 11, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -126,17 +126,25 @@ Business Insider • 2d ago
 
 ---
 
-**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+**[Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)**
 
-The New York Times • 5h ago
+The divesture comes comes as the two once-tight companies have started to diverge on the business side.
+
+TechCrunch • 41m ago
 
 ---
 
-**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
+**[Alloy Robotics Raises $8 Million To Help Stop Robots Failing](https://www.forbes.com/sites/davidprosser/2026/08/11/alloy-robotics-raises-8-million-to-help-stop-robots-failing/)**
 
-Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
+The start-up is keen to capitalize on the rapid growth of the robotics market with a data platform that enables engineers to identify faults more quickly
 
-CBS News • 4h ago
+Forbes • 42m ago
+
+---
+
+**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+
+nytimes.com • 6h ago
 
 ---
 
@@ -144,7 +152,15 @@ CBS News • 4h ago
 
 Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
+
+---
+
+**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
+
+Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
+
+CBS News • 5h ago
 
 ---
 
@@ -154,7 +170,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 18h ago
+The Information • 20h ago
 
 ---
 
@@ -162,7 +178,7 @@ The Information • 18h ago
 
 A new open world model from LTX shows how open-weights models can be used and customized by anyone.
 
-cnet.com • 6h ago
+cnet.com • 7h ago
 
 ---
 
@@ -170,23 +186,7 @@ cnet.com • 6h ago
 
 The Hangzhou-based humanoid robot maker is set to become the first onshore-listed humanoid robot company in mainland China
 
-qz.com • 1h ago
-
----
-
-**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
-
-FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
-
-Supply Chain Dive • 1d ago
-
----
-
-**[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
-
-During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
-
-Yahoo Finance • 1d ago
+qz.com • 2h ago
 
 ---
 
@@ -194,33 +194,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
 
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
 
-📺 KhanFlicks
+📺 Fox Business Clips
 
-👁️ 5K • 💬 15 • ⏱️ 8:34 • 3h ago
-
----
-
-**[I Found the COOLEST Machines at AMTEX Expo India](https://www.youtube.com/watch?v=7FJr7RQLWs0)**
-
-POV: You visit an industrial expo and leave with a wishlist bigger than your salary. #AMTEXExpo #EngineeringIndia ...
-
-📺 Arnov Does Tech
-
-👁️ 255 • 👍 8 • 💬 2 • ⏱️ 0:46 • 1h ago
-
----
-
-**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
-
-Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
-
-📺 BBC News
-
-👁️ 54K • 👍 680 • 💬 169 • ⏱️ 3:45 • 2d ago
+👁️ 6K • 👍 177 • 💬 43 • ⏱️ 7:05 • 4h ago
 
 ---
 
@@ -234,31 +214,59 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 ---
 
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+
+📺 KhanFlicks
+
+👁️ 7K • 💬 35 • ⏱️ 8:34 • 4h ago
+
+---
+
+**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+
+📺 Ben Esherick
+
+👁️ 553K • 👍 27K • 💬 733 • ⏱️ 0:35 • 4d ago
+
+---
+
+**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
+
+Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
+
+📺 BBC News
+
+👁️ 54K • 👍 681 • 💬 169 • ⏱️ 3:45 • 2d ago
+
+---
+
 **[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
 
 FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
 
 📺 Julia McCoy
 
-👁️ 55K • 👍 2K • 💬 223 • ⏱️ 9:02 • 3d ago
+👁️ 55K • 👍 2K • 💬 226 • ⏱️ 9:02 • 3d ago
 
 ---
 
-**[Japan’s Handmade Robot Wolf 😮](https://www.youtube.com/watch?v=Cw8jn7MaD6g)**
+**[I Found the COOLEST Machines at AMTEX Expo India](https://www.youtube.com/watch?v=7FJr7RQLWs0)**
 
-📺 Zack D. Films
+POV: You visit an industrial expo and leave with a wishlist bigger than your salary. #AMTEXExpo #EngineeringIndia ...
 
-👁️ 1.4M • 👍 84K • 💬 900 • ⏱️ 0:37 • 7h ago
+📺 Arnov Does Tech
+
+👁️ 569 • 👍 17 • 💬 2 • ⏱️ 0:46 • 2h ago
 
 ---
 
-**[Popular Girl Only Has ROBOT FRIENDS | Dhar Mann Studios](https://www.youtube.com/watch?v=GonfnLQqW98)**
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
-Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next series YOU want us to create: ...
+📺 Tyrecordslol
 
-📺 Dhar Mann Studios
-
-👁️ 1.7M • 👍 23K • 💬 2K • ⏱️ 24:28 • 3d ago
+👁️ 3.1M • 👍 133K • 💬 8K • ⏱️ 0:58 • 4d ago
 
 ---
 
@@ -268,17 +276,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 59K • 👍 782 • 💬 401 • ⏱️ 28:01 • 4d ago
-
----
-
-**[NEW Scorpion Robot FANG doesn’t work right … War Robots](https://www.youtube.com/watch?v=cJVoWD9PVfA)**
-
-War Robots Gameplay: NEW Robot Scorpion not working right in WR. My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 422 • 💬 100 • ⏱️ 13:10 • 1d ago
+👁️ 60K • 👍 789 • 💬 402 • ⏱️ 28:01 • 4d ago
 
 ---
 
@@ -288,7 +286,7 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 92K • 👍 1K • ⏱️ 17:44 • 4d ago
+👁️ 93K • 👍 1K • ⏱️ 17:44 • 4d ago
 
 ---
 

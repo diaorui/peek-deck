@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T19:35:04.573418+00:00'
+updated: '2026-08-11T20:43:49.640652+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 19:35 UTC  
+**Last Updated:** August 11, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.9%  
-**30d:** +5.4%  
-**90d:** -18.0%  
-**1y:** -59.2%  
+**24h:** +0.5%  
+**7d:** -1.3%  
+**30d:** +6.1%  
+**90d:** -17.5%  
+**1y:** -59.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.91B
+**Market Cap:** $226.77B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.3%
+-62.0%
 
 **All-Time Low:** $0.43
-+430410.5%
++433893.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2h ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-247wallst.com • 2d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -208,19 +208,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
-
-BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
-
-Benzinga • 1d ago
-
----
-
 **[Six npm Packages Read C2 Addresses From Ethereum Wallet](https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/)**
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-Infosecurity Magazine • 4h ago
+infosecurity-magazine.com • 5h ago
 
 ---
 
@@ -228,7 +220,15 @@ Infosecurity Magazine • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 9h ago
+Fortune • 10h ago
+
+---
+
+**['Everything Except Bitcoin Is Dead'? No, Watch ETH and SOL, Industry Veterans Say](https://www.tradingview.com/news/benzinga:803e6f560094b:0-everything-except-bitcoin-is-dead-no-watch-eth-and-sol-industry-veterans-say/)**
+
+Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
+
+TradingView • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 13K • 👍 626 • 💬 93 • ⏱️ 6:34 • 1d ago
+👁️ 13K • 👍 628 • 💬 93 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -252,7 +252,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 138 • 💬 58 • ⏱️ 54:27 • 1d ago
+👁️ 4K • 👍 140 • 💬 60 • ⏱️ 54:27 • 1d ago
+
+---
+
+**[📈 Saylor Sold. Now Ethereum Flips Bitcoin.](https://www.youtube.com/watch?v=T6hJPf1-FSw)**
+
+Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past BTC through ETFs, and the crypto market may ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 1h ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 11h ago
 
 ---
 
@@ -263,44 +283,6 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 📺 Aaron Dishner aka Moonin Papa
 
 👁️ 8K • 👍 596 • 💬 88 • ⏱️ 55:35 • 1d ago
-
----
-
-**[🚨Crypto Panic vs. On Chain, AI Eating Everything + Mem Supercycle 🧠💡](https://www.youtube.com/watch?v=f9BnkdEslZE)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 917 • 👍 143 • 1h ago
-
----
-
-**[Something Big Is Happening In Crypto &amp; People Are Starting To Realize Bitcoin &amp; Ethereum Are Growing](https://www.youtube.com/watch?v=0R4tJ8BYs4U)**
-
-Everyone out there knows that the richest people on this planet have vowed to purchase as much Bitcoin, XRP and Ethereum as ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 621 • 💬 50 • ⏱️ 32:44 • 2d ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 2K • 👍 130 • 💬 6 • ⏱️ 7:44 • 10h ago
-
----
-
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
-
-📺 CryptoWendyO
-
-👁️ 13K • 👍 657 • 💬 35 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -320,17 +302,35 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:31 • 1d ago
+👁️ 3K • 👍 194 • 💬 6 • ⏱️ 6:31 • 1d ago
 
 ---
 
-**[Toobit Trade Setups for BTC, ETH, Gold, CRV and ICP](https://www.youtube.com/watch?v=RUeC0x_0LE8)**
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
 
-In this episode of Coin Bureau Trading, Aaron Dishner from The Better Traders breaks down why Bitcoin's Monday pullback likely ...
+📺 CryptoWendyO
 
-📺 Coin Bureau Trading
+👁️ 13K • 👍 661 • 💬 35 • ⏱️ 1:29 • 2d ago
 
-👁️ 3K • 👍 304 • 💬 10 • ⏱️ 24:14 • 13h ago
+---
+
+**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
+
+Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+
+📺 Your Crypto Crew
+
+👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 6h ago
+
+---
+
+**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
+
+CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
+
+📺 The Coin Daily
+
+👁️ 5K • ⏱️ 5:58 • 1d ago
 
 ---
 
