@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T18:26:23.379946+00:00'
+updated: '2026-08-11T19:35:04.575643+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 18:26 UTC  
+**Last Updated:** August 11, 2026 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form 
 
 This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
 
-2d ago
+3d ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -126,21 +126,9 @@ Business Insider • 2d ago
 
 ---
 
-**[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels?srnd=homepage-americas)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks](https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6)**
-
-MarketWatch • 1h ago
-
----
-
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -148,15 +136,15 @@ The New York Times • 4h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+**[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels)**
 
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-TribLIVE.com • 6h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -166,7 +154,23 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 17h ago
+The Information • 18h ago
+
+---
+
+**[This New Open-Weight AI Model Is Built for Video and Robots](https://www.cnet.com/tech/services-and-software/ltx-2-5-ai-open-weights-video-robotics-news/)**
+
+A new open world model from LTX shows how open-weights models can be used and customized by anyone.
+
+cnet.com • 6h ago
+
+---
+
+**[Unitree Robotics IPO oversubscribed 8,000 times in Shanghai](https://qz.com/unitree-robotics-ipo-oversubscribed-shanghai-081126)**
+
+The Hangzhou-based humanoid robot maker is set to become the first onshore-listed humanoid robot company in mainland China
+
+qz.com • 1h ago
 
 ---
 
@@ -196,7 +200,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 5K • 💬 15 • ⏱️ 8:34 • 2h ago
+👁️ 5K • 💬 15 • ⏱️ 8:34 • 3h ago
 
 ---
 
@@ -206,7 +210,7 @@ POV: You visit an industrial expo and leave with a wishlist bigger than your sal
 
 📺 Arnov Does Tech
 
-👁️ 255 • 👍 8 • 💬 2 • ⏱️ 0:46 • 27m ago
+👁️ 255 • 👍 8 • 💬 2 • ⏱️ 0:46 • 1h ago
 
 ---
 
@@ -244,7 +248,7 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Zack D. Films
 
-👁️ 1.4M • 👍 84K • 💬 900 • ⏱️ 0:37 • 5h ago
+👁️ 1.4M • 👍 84K • 💬 900 • ⏱️ 0:37 • 7h ago
 
 ---
 
@@ -264,7 +268,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 59K • 👍 782 • 💬 401 • ⏱️ 28:01 • 3d ago
+👁️ 59K • 👍 782 • 💬 401 • ⏱️ 28:01 • 4d ago
 
 ---
 
