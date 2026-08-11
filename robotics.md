@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T08:30:44.946631+00:00'
+updated: '2026-08-11T09:34:25.295259+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 08:30 UTC  
+**Last Updated:** August 11, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-17h ago
+18h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-17h ago
+18h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-15h ago
+16h ago
 
 ---
 
@@ -110,35 +110,35 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 ## Google News: "robotics"
 
-**[Humanoid robots trained on 1M hours of human video achieve up to 90% task success](https://interestingengineering.com/ai-robotics/dyna-robotics-dyna-2-human-video-robot-training)**
-
-Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
-
-Interesting Engineering • 10h ago
-
----
-
-**[Are Unitree's humanoid robots worth the hype, or do investors just want in on the sector?](https://www.cnbc.com/video/2026/08/11/humanoid-robots-unitree-ipo-frenzy-hao-hong.html)**
-
-Hao Hong of Lotus Asset Management says the extreme 8,000x oversubscription in Unitree Robotics reflects a lack of quality investment opportunities in China’s high-tech manufacturing sector. He noted that current humanoid robot models are mostly used for amusement rather than performing real work – comparing them to robotic arms, which have seen widespread deployment in Chinese factories.
-
-CNBC • 2h ago
-
----
-
-**[China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert](https://www.globaltimes.cn/page/202608/1367923.shtml)**
-
-China's cutting-edge industrial upgrade witnessed two major landmarks on Monday, marking the country's full-fledged global lead in humanoid robotics and further solidifying the rise of its
-
-Global Times • 16h ago
-
----
-
 **[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
+
+---
+
+**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+
+Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+
+Global News • 2d ago
+
+---
+
+**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+
+Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+
+TribLIVE.com • 32m ago
+
+---
+
+**[Animaquina: Controlling Industrial Robots Inside Blender](https://80.lv/articles/animaquina-controlling-industrial-robots-inside-blender)**
+
+We spoke to Luis Pacheco about the story behind Animaquina, from early experiments rigging robots with Blender's Python API to its real-world applications and how Geometry Nodes became the technical core of the project.
+
+80 Level • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Business Insider • 1d ago
 
 During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -154,7 +154,13 @@ Yahoo Finance • 15h ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 18h ago
+Supply Chain Dive • 19h ago
+
+---
+
+**[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
+
+nature.com • 16h ago
 
 ---
 
@@ -164,13 +170,15 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 7h ago
+The Information • 8h ago
 
 ---
 
-**[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
+**[Copy-paste no more: Anthropic puts invisible watermarks on Claude text under EU rules](https://interestingengineering.com/ai-robotics/anthropic-claude-text-invisible-watermarks)**
 
-Nature • 15h ago
+New Claude models will embed invisible machine-readable watermarks under Anthropic's plans for complying with EU AI Act transparency rules.
+
+Interesting Engineering • 9h ago
 
 ---
 
@@ -179,14 +187,6 @@ Nature • 15h ago
 This system is getting the automated circular economy rolling
 
 IEEE Spectrum • 3d ago
-
----
-
-**[The Roboguard Revolution is Short-Circuiting](https://www.404media.co/the-roboguard-revolution-is-short-circuiting/)**
-
-Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
-
-404 Media • 19h ago
 
 ---
 

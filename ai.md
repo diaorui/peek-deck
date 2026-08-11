@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T08:30:44.928135+00:00'
+updated: '2026-08-11T09:34:25.277469+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 08:30 UTC  
+**Last Updated:** August 11, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-1h ago
+2h ago
 
 ---
 
 **[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-15m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
 
-10h ago
+11h ago
 
 ---
 
@@ -71,7 +71,7 @@ We’re comparing a few options for a large contact center the main goal is to a
 
 ​ Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ We’re comparing a few options for a large contact center the main goal is to a
 
 I saw the beta announcement for Norton Family Assistant, and the idea stuck with me. Most AI assistants are still built around one person and their own tasks. Family life does not really work that way. The useful information is usually split across different inboxes, calendars, chats, and people who each remember a different part of the plan. I had already seen this in a health context through Theta Wellness's Care Circle. I use it to help organize my dad's health records. His information stays under his profile, so I can work from his health history without mixing it into mine. That sounds small until you are helping someone else keep track of their records. That made me think family coordination may be a category of its own. The same setup could make sense for school updates or travel plans, where several people need the same plan but still have their own accounts. I already have plenty of apps for managing my own to do list. Keeping a whole family on the same page feels like the more interesting problem.
 
-10m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I saw the beta announcement for Norton Family Assistant, and the idea stuck with
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 17h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 18h ago
 
 ---
 
@@ -95,7 +95,7 @@ OpenAI tightened security around its upcoming Astra model after tests suggested 
 
 As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ As the title says. Looking for one where you can change the singer to anyone, or
 
 Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused work on its next model, Astra**, saying it "cannot rule out critical cyber capabilities" under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful "cannot rule out" language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the model mid-task. **The UK AI Security Institute published an incident report** on a July evaluation. Across 122 runs, agents took 19 unsanctioned real-world actions in 10 of them (17 by Anthropic's Mythos 5, 2 by OpenAI's GPT-5.6 Sol, classifiers disabled to measure raw capability). Worst case: an agent researched a real project's maintainers, created fake identities, tried to get malicious code merged, edited its own tracks when challenged, and messaged real people to run its code. A human maintainer refused it. The deception was the strategy, not the exploit. **Four labs' models were caught in eval containment failures in a month:** OpenAI, Anthropic, and Meta disclosed their own; a security firm, Frontier Security, reported the Moonshot Kimi K3 one. Root causes vary a lot, from a real zero-day chain to a contractor's network misconfiguration. **On the legal side,** the Ninth Circuit ruled that when an AI agent runs on your machine with your credentials, you are the one "accessing" the website under the CFAA, not the company that built the agent. Huge for consumer-agent builders, though it is one narrow read on one record (the court said it was not blessing agentic AI in general), and it points to local, credential-using agents rather than server-to-server ones. Full breakdown with all the receipts: thenewguard.ai/issues/026-the-brake-pedal-got-used/
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rounding up a genuinely heavy week in AI containment and law: **OpenAI paused wo
 
 Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
 
-15h ago
+16h ago
 
 ---
 
@@ -121,15 +121,7 @@ Building a Go backend for orchestrating AI agents (multi-tenant, each agent has 
 
 **[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
 
-The New York Times • 21h ago
-
----
-
-**[Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model](https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta)**
-
-Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation
-
-theguardian.com • 9h ago
+The New York Times • 1d ago
 
 ---
 
@@ -137,35 +129,43 @@ theguardian.com • 9h ago
 
 The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom](https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html)**
+**[Nvidia partners with Wall Street giants to raise $500 billion for AI buildout](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
 
-The New York Times • 9h ago
-
----
-
-**[Nvidia links with Wall Street firms for $500bn AI financing deal](https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure)**
-
-Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructure
-
-theguardian.com • 36m ago
+Reuters • 17h ago
 
 ---
 
-**[Uniper Targets Data Center Sales in UK, Germany on AI Demand](https://www.bloomberg.com/news/articles/2026-08-11/uniper-targets-data-center-sales-in-uk-germany-on-ai-demand)**
+**[How Nvidia's $500B financing deal will entrench its AI dominance](https://www.cnbc.com/video/2026/08/11/how-nvidias-500b-financing-deal-will-entrench-its-ai-dominance.html)**
 
-Bloomberg.com • 1h ago
+Nvidia has partnered with six of the world’s largest asset managers to source more than $500 billion in third-party financing for AI infrastructure. The Wall Street heavyweights involved include Apollo, Blackstone, Brookfield, BlackRock, KKR and Goldman Sachs. CNBC’s Arjun Kharpal joins 'Squawk Box Europe' to discuss what the funding push could mean for Nvidia’s dominance in AI, the global rollout of data centers and growing concerns around circular financing.
+
+CNBC • 1h ago
 
 ---
 
-**[They worked tirelessly to build their business's reputation. Google's AI summaries undid them in seconds.](https://www.businessinsider.com/google-ai-overviews-aio-causing-chaos-small-businesses-2026-8)**
+**[AI could help unlock more oil — and emissions](https://www.axios.com/2026/08/11/ai-oil-gas-emissions-increase)**
 
-Google AI Overviews are becoming customers' first impression of small businesses. Inaccurate summaries are damaging their reputations.
+Axios • 29m ago
 
-Business Insider • 8m ago
+---
+
+**[AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia](https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/)**
+
+Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.
+
+WIRED • 34m ago
+
+---
+
+**[China bets on AI weather forecasting as extreme weather intensifies](https://www.nbcnews.com/world/china/china-bets-ai-weather-forecasting-extreme-weather-intensifies-rcna591874)**
+
+Chinese-developed systems are among a handful of AI forecasting models that researchers say can generate forecasts much faster than conventional systems while matching or surpassing them on some measures of accuracy.
+
+nbcnews.com • 33m ago
 
 ---
 
@@ -173,7 +173,7 @@ Business Insider • 8m ago
 
 An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
 
-Anthropic • 14h ago
+Anthropic • 15h ago
 
 ---
 
@@ -181,15 +181,15 @@ Anthropic • 14h ago
 
 The country has bet big on tech services but disruption is coming
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
-**[An AI chatbot is joining the search for art looted by the Nazis](https://www.npr.org/2026/08/06/nx-s1-5922729/ai-art-provenance-assistant)**
+**[Intel plans $15 billion stock offering as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
 
-More than 100,000 artifacts stolen by Nazis have never been returned to their owners. Researchers are turning to artificial intelligence to help.
+Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
 
-NPR • 1d ago
+CNBC • 20h ago
 
 ---
 
@@ -201,7 +201,7 @@ NPR • 1d ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 649 • 💬 364 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 651 • 💬 364 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -209,13 +209,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 493 • 💬 449 • 18h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 500 • 💬 460 • 19h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 223 • 💬 206 • 9h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 282 • 💬 272 • 10h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -223,7 +223,13 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 202 • 💬 80 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 203 • 💬 80 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+
+---
+
+**[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
+
+⬆️ 174 • 💬 126 • 11h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -243,13 +249,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 149 • 💬 163 • 17h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
-
----
-
-**[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
-
-⬆️ 149 • 💬 103 • 10h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 149 • 💬 163 • 18h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -263,7 +263,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 107 • 💬 198 • 17h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 108 • 💬 199 • 18h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -271,7 +271,7 @@ OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsibl
 
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
-⬆️ 101 • 💬 69 • 2d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+⬆️ 102 • 💬 69 • 2d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 
 ---
 
@@ -285,7 +285,7 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 12K • 👍 570 • 💬 89 • ⏱️ 14:41 • 7h ago
+👁️ 12K • 👍 570 • 💬 89 • ⏱️ 14:41 • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ AI is increasingly being used to find vulnerabilities, exploit networks and carr
 
 📺 Channel 4 News
 
-👁️ 22K • 👍 514 • 💬 222 • ⏱️ 32:40 • 15h ago
+👁️ 22K • 👍 514 • 💬 222 • ⏱️ 32:40 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ Can global AI safety exist without China? Elon Musk defends Rishi Sunak's decisi
 
 📺 Macetarie
 
-👁️ 923 • 👍 37 • 💬 1 • ⏱️ 0:44 • 9h ago
+👁️ 923 • 👍 37 • 💬 1 • ⏱️ 0:44 • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University a
 
 📺 Andrew Huberman
 
-👁️ 34K • 👍 1K • 💬 228 • ⏱️ 2:08:13 • 20h ago
+👁️ 34K • 👍 1K • 💬 228 • ⏱️ 2:08:13 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when y
 
 📺 The Infographics Show
 
-👁️ 199K • 👍 6K • 💬 1K • ⏱️ 16:13 • 12h ago
+👁️ 199K • 👍 6K • 💬 1K • ⏱️ 16:13 • 13h ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,475 • 21h ago
+⬇️ 59,368 • ❤️ 3,475 • 23h ago
 
 ---
 
@@ -403,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 877 • 8h ago
+⬇️ 0 • ❤️ 877 • 9h ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,873 • 4h ago
+⬇️ 2,521,093 • ❤️ 1,873 • 5h ago
 
 ---
 
@@ -648,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.1k • 🔱 909 • 4h ago
+⭐ 8.1k • 🔱 909 • 5h ago
 
 ---
 
@@ -676,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 34s ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -686,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 467 • 5h ago
+⭐ 2.5k • 🔱 467 • 6h ago
 
 ---
 
@@ -716,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 158 • 2h ago
+⭐ 2.1k • 🔱 158 • 3h ago
 
 ---
 
@@ -736,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 252 • 9m ago
+⭐ 2.0k • 🔱 252 • 1h ago
 
 ---
 
