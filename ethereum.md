@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T21:48:13.674218+00:00'
+updated: '2026-08-11T22:41:15.139648+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 21:48 UTC  
+**Last Updated:** August 11, 2026 at 22:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -170,7 +170,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 **[Ethereum Gained 0.13% to $1880.49 -- Data Talk](https://www.moomoo.com/news/post/74514789/ethereum-gained-0-13-to-1880-49-data-talk)**
 
-Moomoo • 33m ago
+Moomoo • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ Benzinga • 1d ago
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-Infosecurity Magazine • 6h ago
+Infosecurity Magazine • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 2h ago
+👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, 
 
 📺 ilme aalim
 
-👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 12h ago
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 13h ago
 
 ---
 
@@ -318,7 +318,7 @@ Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Us
 
 📺 Your Crypto Crew
 
-👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 7h ago
+👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 8h ago
 
 ---
 
