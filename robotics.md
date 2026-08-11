@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T22:41:15.142874+00:00'
+updated: '2026-08-11T23:40:10.265375+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 22:41 UTC  
+**Last Updated:** August 11, 2026 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is an article that talks about how data is shockingly getting stolen in home spaces, and how important is to own our devices. It explains how to root a Vacuum Cleaner Robot, not just plain tutorial, but showing the politics of it at the same time. TLDR: Your smart home devices are photographing, recording, and selling you. Not hypothetically. Roomba leaked toilet photos, Ecovacs got hacked from a park bench, Vizio was fined for scanning screens 500 times a second, and 30,000 Amazon employees could listen to your Alexa recordings. "Nothing to hide" isn't the point; you close the window before getting dressed. I rooted my vacuum robot with Valetudo, a breakout PCB, and a Debian live USB. Same robot, same features, zero data leaving my house. Tutorial at the end. https://postcapitalistrobots.substack.com/p/i-dont-have-anything-to-hide-said
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is an article that talks about how data is shockingly getting stolen in hom
 
 We recently explored integrating marker-free robot localisation into a collision-aware admittance controller. roboreg estimates the poses of both robots. OpTaS constructs and continuously solves the admittance task subject to spherical collision constraints (visualised as red spheres in RViz). It can't really be "felt" by watching the video, but sliding along these virtual spheres creates quite the surreal sensation. roboreg: github.com/lbr-stack/roboreg OpTaS: github.com/cmower/optas
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ We recently explored integrating marker-free robot localisation into a collision
 
 Most stacks work around this with interpolation and manual tuning, then spend months chasing an estimator problem that is really a clock problem underneath. We ran into same thing building sensor nodes for edge VSLAM. Current firmware still leans on external clock to keep camera and IMU aligned. Next revision removes that dependency, each unit disciplines its own clock on the bus instead of trusting one outside reference. Two units in the test setup below, same mechanism scales to more nodes on one bus.
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ Most stacks work around this with interpolation and manual tuning, then spend mo
 
 Everyday I will share a video with you untill I finish this smart IRONMAN project! Tell me your opinion which color to choose?
 
-9h ago
+10h ago
 
 ---
 
@@ -76,13 +76,13 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-1h ago
+2h ago
 
 ---
 
 **[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hey everyone - I'm getting into the robotic space so any researchers can help me
 
 npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
 
-7h ago
+8h ago
 
 ---
 
 **[UPDATE: We ran the official HumanCLAW benchmark on our Causal Foundation Model (SONNY I). It hit a 98.0% success rate, crushing Google Gemini's 16.8%. Here is how the open-source core enabled it.](https://www.reddit.com/r/robotics/comments/1vlgnm7/update_we_ran_the_official_humanclaw_benchmark_on/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -114,15 +114,7 @@ Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to impro
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 8h ago
-
----
-
-**[Humanoid robots trained on 1M hours of human video achieve up to 90% task success](https://interestingengineering.com/ai-robotics/dyna-robotics-dyna-2-human-video-robot-training)**
-
-Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
-
-Interesting Engineering • 1d ago
+The New York Times • 9h ago
 
 ---
 
@@ -130,7 +122,21 @@ Interesting Engineering • 1d ago
 
 Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
+
+Bloomberg.com • 40m ago
+
+---
+
+**['A huge win': Utah State University, technical colleges partner to bolster robotics workforce](https://www.ksl.com/article/51608468/a-huge-win-utah-state-university-technical-colleges-partner-to-bolster-robotics-workforce)**
+
+Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
+
+KSL.com • 2h ago
 
 ---
 
@@ -138,7 +144,15 @@ Bloomberg.com • 5h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 7h ago
+CBS News • 8h ago
+
+---
+
+**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+
+Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+
+TribLIVE.com • 12h ago
 
 ---
 
@@ -148,7 +162,15 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 22h ago
+theinformation.com • 22h ago
+
+---
+
+**[Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)**
+
+The divesture comes comes as the two once-tight companies have started to diverge on the business side.
+
+TechCrunch • 3h ago
 
 ---
 
@@ -156,23 +178,7 @@ The Information • 22h ago
 
 A new open world model from LTX shows how open-weights models can be used and customized by anyone.
 
-CNET • 9h ago
-
----
-
-**[Alloy Robotics Raises $8 Million To Help Stop Robots Failing](https://www.forbes.com/sites/davidprosser/2026/08/11/alloy-robotics-raises-8-million-to-help-stop-robots-failing/)**
-
-The start-up is keen to capitalize on the rapid growth of the robotics market with a data platform that enables engineers to identify faults more quickly
-
-forbes.com • 2h ago
-
----
-
-**[Unitree Robotics IPO oversubscribed 8,000 times in Shanghai](https://qz.com/unitree-robotics-ipo-oversubscribed-shanghai-081126)**
-
-The Hangzhou-based humanoid robot maker is set to become the first onshore-listed humanoid robot company in mainland China
-
-qz.com • 4h ago
+cnet.com • 10h ago
 
 ---
 
@@ -181,14 +187,6 @@ qz.com • 4h ago
 As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
 
 politico.eu • 5d ago
-
----
-
-**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
-
-FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
-
-Supply Chain Dive • 1d ago
 
 ---
 
@@ -202,7 +200,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 6K • 👍 177 • 💬 43 • ⏱️ 7:05 • 6h ago
+👁️ 11K • 👍 228 • 💬 47 • ⏱️ 7:05 • 7h ago
 
 ---
 
@@ -222,7 +220,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 7K • 💬 35 • ⏱️ 8:34 • 6h ago
+👁️ 13K • 💬 35 • ⏱️ 8:34 • 7h ago
 
 ---
 
@@ -230,17 +228,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 Ben Esherick
 
-👁️ 553K • 👍 27K • 💬 733 • ⏱️ 0:35 • 4d ago
-
----
-
-**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
-
-Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
-
-📺 BBC News
-
-👁️ 54K • 👍 681 • 💬 169 • ⏱️ 3:45 • 2d ago
+👁️ 576K • 👍 28K • 💬 746 • ⏱️ 0:35 • 4d ago
 
 ---
 
@@ -250,7 +238,27 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 55K • 👍 2K • 💬 226 • ⏱️ 9:02 • 3d ago
+👁️ 56K • 👍 2K • 💬 229 • ⏱️ 9:02 • 3d ago
+
+---
+
+**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
+
+Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
+
+📺 BBC News
+
+👁️ 54K • 👍 682 • 💬 169 • ⏱️ 3:45 • 2d ago
+
+---
+
+**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
+
+This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
+
+📺 Cleo Abram
+
+👁️ 394K • 👍 28K • 💬 398 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -260,7 +268,7 @@ POV: You visit an industrial expo and leave with a wishlist bigger than your sal
 
 📺 Arnov Does Tech
 
-👁️ 569 • 👍 17 • 💬 2 • ⏱️ 0:46 • 4h ago
+👁️ 905 • 👍 21 • 💬 2 • ⏱️ 0:46 • 5h ago
 
 ---
 
@@ -268,27 +276,17 @@ POV: You visit an industrial expo and leave with a wishlist bigger than your sal
 
 📺 Tyrecordslol
 
-👁️ 3.1M • 👍 133K • 💬 8K • ⏱️ 0:58 • 4d ago
+👁️ 3.2M • 👍 134K • 💬 8K • ⏱️ 0:58 • 4d ago
 
 ---
 
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
 
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
 
-📺 Al Jazeera English
+📺 Alpha Central
 
-👁️ 60K • 👍 789 • 💬 402 • ⏱️ 28:01 • 4d ago
-
----
-
-**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
-
-On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
-
-📺 FRAME
-
-👁️ 93K • 👍 1K • ⏱️ 17:44 • 5d ago
+👁️ 168K • 👍 6K • 💬 3K • ⏱️ 20:28 • 6d ago
 
 ---
 

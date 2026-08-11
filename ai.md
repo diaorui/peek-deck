@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T22:41:15.124810+00:00'
+updated: '2026-08-11T23:40:10.246745+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 22:41 UTC  
+**Last Updated:** August 11, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-15h ago
+16h ago
+
+---
+
+**[Outsourced my thinking and cognitive debt gives me anxiety](https://www.reddit.com/r/artificial/comments/1vlwvpk/outsourced_my_thinking_and_cognitive_debt_gives/)**
+
+I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
+
+41m ago
 
 ---
 
 **[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -55,7 +63,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-14h ago
+15h ago
 
 ---
 
@@ -65,17 +73,11 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 ---
 
-**[AI Agents Are Not People. Here’s the Math.](https://www.reddit.com/r/artificial/comments/1vlud9g/ai_agents_are_not_people_heres_the_math/)**
-
-🔗 [remybuilds.substack.com](https://remybuilds.substack.com/p/ai-agents-are-not-people-heres-the) • 1h ago
-
----
-
 **[Open-source tool that maps what concepts an LLM has learned into browsable tree structures using hyperbolic geometry](https://www.reddit.com/r/artificial/comments/1vlqi6s/opensource_tool_that_maps_what_concepts_an_llm/)**
 
 I built HyperSAE, an open-source interpretability tool that extracts what an LLM "knows" and organizes it into tree-shaped concept maps. The idea: LLMs learn concepts hierarchically. "Programming" contains "Python" contains "list comprehensions." But current interpretability tools dump everything into a flat, unstructured list of thousands of features with no organization. HyperSAE uses a branch of geometry where space expands exponentially (like tree branches do), so the extracted features naturally self-organize into parent-child hierarchies. You can browse what the model learned as a navigable tree instead of scanning a flat feature list. Tested on Google's Gemma-2-2B model. Captures 99.8% of the model's learned features (compared to 96.2% with standard tools). It's a Python library: pip install hypersae GitHub: https://github.com/vishal-dehurdle/hypersae Paper with interactive demos: https://vishalvermalabs.com/papers/empirical-validation-hypersae-poincare-geometry/
 
-3h ago
+4h ago
 
 ---
 
@@ -83,15 +85,7 @@ I built HyperSAE, an open-source interpretability tool that extracts what an LLM
 
 I’ve just been setting my model to use max/xhigh reasoning levels, but now I’m wondering how wise that is. I definitely see that it uses up a lot more tokens. Like I see it go over the exact same line of reasoning 3 or 4 time. Setting that aside, I’m wondering if that necessarily leads to better results. Does max/xhigh always lead to better results, or is it mostly a factor of cost?
 
-3h ago
-
----
-
-**[I got a lot of questions on how updated agent orchestration works in Row-Bot. Here is the architecture.](https://www.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/)**
-
-Row-Bot can now take on bigger jobs by splitting the work across multiple agents, while keeping one agent responsible for the final result. Research, coding, and review can all happen at the same time. If one part fails, you can retry or stop it without losing the rest of the work. And if Row-Bot restarts halfway through, it can pick up from its saved state instead of starting over. The parent agent stays in charge throughout. It plans the job, delegates tasks in parallel or in the right order, waits for the results it needs, and brings everything together into one final response. Each child agent can have its own model, context, tools, permissions, and workspace. Read-only agents can research safely, while agents that edit files use writer locks or isolated Git worktrees to prevent conflicts. Essential tasks must finish before the final response is delivered. Background work can continue without holding everything up. Runs, events, approvals, checkpoints, and delivery state are all stored locally, with sensible limits on concurrency and resource use. It’s multi-agent collaboration without losing control of the task. https://github.com/siddsachar/row-bot
-
-11h ago
+4h ago
 
 ---
 
@@ -99,7 +93,7 @@ Row-Bot can now take on bigger jobs by splitting the work across multiple agents
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 8h ago
+🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 9h ago
 
 ---
 
@@ -107,7 +101,15 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 \OC\ An article I wrote breaking down OpenAI as a company. Everything from the ethical questions and valuation to the potential future TAM and areas that OpenAI can expand into such as robotics and hardware. 100% human written, pangram confirmed. https://preipomedia.substack.com/p/the-breakdown-openai
 
-8h ago
+9h ago
+
+---
+
+**[Open Source AI Popularity Leaderboard](https://www.reddit.com/r/artificial/comments/1vlie3h/open_source_ai_popularity_leaderboard/)**
+
+Daily AI provider popularity based on unique organizations downloading associated open source packages.
+
+🔗 [Scarf](https://app.scarf.sh/ai-leaderboard) • 9h ago
 
 ---
 
@@ -115,41 +117,47 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 ## Google News: "ai"
 
-**[Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)**
-
-The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
-
-CNBC • 1d ago
-
----
-
-**[Nvidia and Wall Street team up on $500 billion bet on AI infrastructure](https://www.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl)**
-
-Nvidia is joining forces with Wall Street to allow its customers borrow more than half a trillion dollars to build AI infrastructure.
-
-CNN • 10h ago
-
----
-
 **[Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html)**
 
 Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?
 
-CNBC • 1h ago
+cnbc.com • 2h ago
 
 ---
 
-**[Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)**
+**[Nvidia gets $500bn from Wall Street giants to develop AI projects](https://www.bbc.com/news/articles/c78gr0jv0mdo)**
 
-As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
+The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.
 
-developers.googleblog.com • 6h ago
+BBC • 14h ago
 
 ---
 
-**[CoreWeave’s stock soars as earnings show major AI momentum](https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede)**
+**[Nvidia Just Recruited Wall Street to Help Fund $500 Billion in AI Infrastructure. Here’s the Catch.](https://finance.yahoo.com/technology/ai/articles/nvidia-just-recruited-wall-street-224201988.html)**
 
-MarketWatch • 1h ago
+Nvidia just lined up Wall Street's biggest names to funnel $500 billion into AI data centers. It sounds bullish -- but dig deeper, and this deal may reveal more about the sustainability of the AI boom than Jensen Huang would hope.
+
+Yahoo Finance • 58m ago
+
+---
+
+**[AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)**
+
+The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
+
+BBC • 11h ago
+
+---
+
+**[Global Investors Favor Taiwan Over Korea Stocks After AI Selloff](https://www.bloomberg.com/news/articles/2026-08-11/global-investors-favor-taiwan-over-korea-stocks-after-ai-selloff)**
+
+Bloomberg.com • 40m ago
+
+---
+
+**[AI-assisted grant proposals may win more often—while narrowing research ideas](https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html)**
+
+phys.org • 20m ago
 
 ---
 
@@ -157,7 +165,7 @@ MarketWatch • 1h ago
 
 Anthropic isn’t the only AI company doing this—but it’s getting the most pushback.
 
-forbes.com • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -165,29 +173,23 @@ forbes.com • 4h ago
 
 Anthropic will extend support for watermarking AI generations for older models as well.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
-**[Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files](https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/)**
+**[Claude's watermarking poses the question: Are you willing to proudly own that you write with AI?](https://www.businessinsider.com/claude-watermarking-ai-writing-unmasking-2026-8)**
 
-Anthropic joins a growing list of companies letting customers know if they're consuming AI content.
+The rise of AI watermarking makes me wonder: aside from students and creative writers, how much do people care if their AI use is outed?
 
-CNET • 1h ago
-
----
-
-**[AI is feeding on old, rotten content – here’s why that matters for telco churn](https://www.fiercewireless.com/cloud/ai-feeding-old-rotten-content-heres-why-matters-telco-churn)**
-
-AI is dredging up telcos’ stale content — and customers are paying the price
-
-Fierce Network • 1h ago
+Business Insider • 1h ago
 
 ---
 
-**[Robot book club](https://www.axios.com/2026/08/11/robot-book-club)**
+**[NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)**
 
-Axios • 10h ago
+The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.
+
+NVIDIA Blog • 10h ago
 
 ---
 
@@ -197,7 +199,7 @@ Axios • 10h ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 846 • 💬 845 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 860 • 💬 862 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -205,7 +207,7 @@ Axios • 10h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 678 • 💬 386 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 678 • 💬 388 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -213,13 +215,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 622 • 💬 586 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 626 • 💬 591 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 407 • 💬 381 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 415 • 💬 386 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -235,7 +237,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 195 • 💬 246 • 5h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 204 • 💬 259 • 6h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -249,7 +251,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
-⬆️ 145 • 💬 114 • 2d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+⬆️ 145 • 💬 116 • 2d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -257,7 +259,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-⬆️ 124 • 💬 48 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
+⬆️ 126 • 💬 48 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -265,7 +267,7 @@ Tech companies are not modelling their own claims of the technology giving peopl
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 121 • 💬 228 • 1d ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 121 • 💬 229 • 1d ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -273,33 +275,13 @@ OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsibl
 
 ## YouTube Videos: "ai"
 
-**[The AI Safety Tests Are Broken. All Of Them.](https://www.youtube.com/watch?v=FhQQs0UT4qc)**
+**[How to Remove Objects from Video with AI](https://www.youtube.com/watch?v=_gQRGbNeX1E)**
 
-AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models are slipping through cyber tests, OpenAI is ...
+Remove the Objects from Your Own Videos with Higgsfield https://roboverse-ai.com/Higgsfield In this video, I use Seedance ...
 
-📺 AI Revolution
+📺 Roboverse
 
-👁️ 21K • 👍 851 • 💬 129 • ⏱️ 14:41 • 21h ago
-
----
-
-**[‘We’re giving PSYCHOPATHS NUKES!’ - Experts on rogue AI hacks](https://www.youtube.com/watch?v=bwuRmNZ68Tc)**
-
-AI is increasingly being used to find vulnerabilities, exploit networks and carry out cyberattacks - but how autonomous are these ...
-
-📺 Channel 4 News
-
-👁️ 38K • 👍 778 • 💬 337 • ⏱️ 32:40 • 1d ago
-
----
-
-**[AI Just Caught Science Lying (This Is Bad)](https://www.youtube.com/watch?v=a28G9qEsmPo)**
-
-AI is starting to audit science itself, catching decades-old errors, exposing reproducibility problems in top AI papers, and producing ...
-
-📺 AI Revolution
-
-👁️ 36K • 👍 1K • 💬 162 • ⏱️ 15:13 • 1d ago
+👁️ 9K • 💬 5 • ⏱️ 9:13 • 9h ago
 
 ---
 
@@ -309,17 +291,37 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 51K • 👍 568 • ⏱️ 6:43 • 1d ago
+👁️ 55K • 👍 595 • ⏱️ 6:43 • 1d ago
 
 ---
 
-**[EVERYTHING Combined in this AI NAS](https://www.youtube.com/watch?v=Xn5FLn6J2cs)**
+**[The AI Safety Tests Are Broken. All Of Them.](https://www.youtube.com/watch?v=FhQQs0UT4qc)**
 
-We review the Minisforum N5 Max, a 64GB AMD Strix Halo system that combines 10GbE, a 5-bay NAS, and more into a single ...
+AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models are slipping through cyber tests, OpenAI is ...
 
-📺 ServeTheHome
+📺 AI Revolution
 
-👁️ 2K • 👍 160 • 💬 27 • ⏱️ 20:01 • 5h ago
+👁️ 23K • 👍 879 • 💬 136 • ⏱️ 14:41 • 22h ago
+
+---
+
+**[‘We’re giving PSYCHOPATHS NUKES!’ - Experts on rogue AI hacks](https://www.youtube.com/watch?v=bwuRmNZ68Tc)**
+
+AI is increasingly being used to find vulnerabilities, exploit networks and carry out cyberattacks - but how autonomous are these ...
+
+📺 Channel 4 News
+
+👁️ 43K • 👍 837 • 💬 366 • ⏱️ 32:40 • 1d ago
+
+---
+
+**[AI goes on a hacking spree | The Global Story](https://www.youtube.com/watch?v=vNV0v11Era4)**
+
+In the last few weeks, three separate tech companies - OpenAI, Anthropic, and Meta - have all disclosed that their AI models went ...
+
+📺 BBC News
+
+👁️ 105K • 👍 2K • 💬 495 • ⏱️ 24:32 • 1d ago
 
 ---
 
@@ -339,15 +341,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 523K • 👍 57K • 💬 833 • ⏱️ 0:49 • 8h ago
-
----
-
-**[jesus👉😱😰 #jesus #oraçãoforte #god #fé#oração #gaming #amen #usa #jesuscristo#amém #shortvideo #ai](https://www.youtube.com/watch?v=oRUtHDFhaF8)**
-
-📺 Deba Das
-
-👁️ 575K • 👍 3K • 💬 4 • ⏱️ 0:10 • 1d ago
+👁️ 808K • 👍 68K • 💬 953 • ⏱️ 0:49 • 9h ago
 
 ---
 
@@ -357,17 +351,27 @@ Check out "The Book" here for 10% off: https://mdsh.io/tgzm24obx3 (Use code: BRE
 
 📺 Brendan Dell 
 
-👁️ 53K • 👍 3K • 💬 862 • ⏱️ 24:21 • 2d ago
+👁️ 54K • 👍 3K • 💬 869 • ⏱️ 24:21 • 2d ago
 
 ---
 
-**[How To Start a Kids Animation Channel With AI (Full Tutorial)](https://www.youtube.com/watch?v=W95hJNP_nIA)**
+**[Kara Swisher Will Not Be Buying This New AI Device](https://www.youtube.com/watch?v=KLn-LIg8Vbk)**
 
-Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
+Everything I've read about this device so far makes me feel like it's Alexa.” Kara Swisher and guest co-hosts Casey Newton and ...
 
-📺 Mira AI
+📺 Pivot with Kara Swisher and Scott Galloway
 
-👁️ 11K • ⏱️ 7:52 • 2d ago
+👁️ 2K • 👍 149 • 💬 8 • ⏱️ 1:04 • 5h ago
+
+---
+
+**[OpenAI’s Controversial AI Device Just Leaked… And It’s Literally a Donut](https://www.youtube.com/watch?v=hFkcEPK5V8k)**
+
+OpenAI's first real AI device just leaked, and it's a donut. Built with legendary Apple designer Jony Ive, the screenless ChatGPT ...
+
+📺 AI Revolution
+
+👁️ 39K • 👍 1K • 💬 226 • ⏱️ 12:36 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,553 • 13h ago
+⬇️ 59,368 • ❤️ 3,566 • 14h ago
 
 ---
 
@@ -395,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,060 • 3h ago
+⬇️ 0 • ❤️ 1,084 • 4h ago
 
 ---
 
@@ -407,7 +411,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,048,685 • ❤️ 3,137 • 10d ago
+⬇️ 1,048,685 • ❤️ 3,148 • 10d ago
 
 ---
 
@@ -419,7 +423,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 644 • 3d ago
+⬇️ 0 • ❤️ 648 • 3d ago
 
 ---
 
@@ -429,19 +433,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,798,796 • ❤️ 1,210 • 2d ago
-
----
-
-**[LFM2.5-2.6B](https://huggingface.co/LiquidAI/LFM2.5-2.6B)**
-
-*Liquid AI*
-
-LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device deployment and agentic workloads, featuring a 128K context window and efficient inference (220 tok/s on M5 Max). It excels at tool use and instruction following, making it ideal for RAG and long-context tasks.
-
-`text-generation` `2.7B`
-
-⬇️ 93,668 • ❤️ 543 • 4d ago
+⬇️ 6,798,796 • ❤️ 1,211 • 2d ago
 
 ---
 
@@ -453,7 +445,19 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,565,484 • ❤️ 10,522 • 15d ago
+⬇️ 1,565,484 • ❤️ 10,525 • 15d ago
+
+---
+
+**[LFM2.5-2.6B](https://huggingface.co/LiquidAI/LFM2.5-2.6B)**
+
+*Liquid AI*
+
+LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device deployment and agentic workloads, featuring a 128K context window and efficient inference (220 tok/s on M5 Max). It excels at tool use and instruction following, making it ideal for RAG and long-context tasks.
+
+`text-generation` `2.7B`
+
+⬇️ 93,668 • ❤️ 549 • 4d ago
 
 ---
 
@@ -465,19 +469,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,892 • 18h ago
-
----
-
-**[maple-preview](https://huggingface.co/deepgrove/maple-preview)**
-
-*deepgrove*
-
-Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performance for its weight class, competitive with larger models. It excels at complex reasoning tasks like IMO-level problems and offers high inference speeds (200+ tokens/sec on Mac mini M4) with a 131,072 token context window, making it ideal for efficient on-device deployment.
-
-`text-generation` `20.2B`
-
-⬇️ 2,049 • ❤️ 330 • 7d ago
+⬇️ 2,521,093 • ❤️ 1,894 • 19h ago
 
 ---
 
@@ -489,13 +481,39 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 326 • 8h ago
+⬇️ 20,376 • ❤️ 335 • 9h ago
+
+---
+
+**[maple-preview](https://huggingface.co/deepgrove/maple-preview)**
+
+*deepgrove*
+
+Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performance for its weight class, competitive with larger models. It excels at complex reasoning tasks like IMO-level problems and offers high inference speeds (200+ tokens/sec on Mac mini M4) with a 131,072 token context window, making it ideal for efficient on-device deployment.
+
+`text-generation` `20.2B`
+
+⬇️ 2,049 • ❤️ 331 • 7d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
+
+*Björn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)*
+
+🏢 Pathway
+
+A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
+
+▲ 241 • 💬 1 • ⭐ 681 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+---
 
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
@@ -517,7 +535,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 25 • 💬 2 • ⭐ 740 • 8d ago
+▲ 27 • 💬 2 • ⭐ 740 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -543,7 +561,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 52 • 💬 4 • ⭐ 36,567 • 12mo ago
+▲ 52 • 💬 4 • ⭐ 36,650 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -597,7 +615,7 @@ ABot-World-0 is a real-time action-conditioned video world model that uses progr
 
 mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI systems by optimizing LM calls and prompts across various tasks.
 
-▲ 7 • 💬 0 • ⭐ 37,085 • 12mo ago
+▲ 7 • 💬 0 • ⭐ 37,118 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.04660) • [💻 code](https://github.com/stanfordnlp/dspy) • [🔗 project](https://dspy.ai)
 
@@ -616,19 +634,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 177 • 💬 2 • ⭐ 77,370 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +644,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 932 • 3h ago
+⭐ 8.2k • 🔱 936 • 41m ago
 
 ---
 
@@ -649,7 +654,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.6k • 🔱 406 • 2d ago
+⭐ 4.7k • 🔱 407 • 2d ago
 
 ---
 
@@ -667,7 +672,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 46s ago
 
 ---
 
@@ -677,7 +682,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.6k • 🔱 478 • 19h ago
+⭐ 2.6k • 🔱 478 • 20h ago
 
 ---
 
@@ -687,7 +692,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.4k • 🔱 207 • 7h ago
+⭐ 2.4k • 🔱 207 • 8h ago
 
 ---
 
@@ -697,7 +702,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 176 • 3h ago
+⭐ 2.3k • 🔱 176 • 4h ago
 
 ---
 
@@ -707,7 +712,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 159 • 5h ago
+⭐ 2.1k • 🔱 159 • 6h ago
 
 ---
 
@@ -717,7 +722,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 245 • 2d ago
+⭐ 2.0k • 🔱 246 • 2d ago
 
 ---
 
@@ -727,7 +732,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 255 • 5h ago
+⭐ 2.0k • 🔱 255 • 56m ago
 
 ---
 

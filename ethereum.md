@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T22:41:15.139648+00:00'
+updated: '2026-08-11T23:40:10.262050+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 22:41 UTC  
+**Last Updated:** August 11, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,870.48
+### $1,884.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.5%  
 **7d:** -1.3%  
 **30d:** +6.0%  
 **90d:** -17.5%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.77B
+**Market Cap:** $226.98B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433893.3%
++434352.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 **[Ethereum Gained 0.13% to $1880.49 -- Data Talk](https://www.moomoo.com/news/post/74514789/ethereum-gained-0-13-to-1880-49-data-talk)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -190,19 +190,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
-
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-CoinDesk • 1d ago
-
----
-
 **[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -218,15 +218,15 @@ Benzinga • 1d ago
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-Infosecurity Magazine • 7h ago
+infosecurity-magazine.com • 8h ago
 
 ---
 
-**['Everything Except Bitcoin Is Dead'? No, Watch ETH and SOL, Industry Veterans Say](https://www.tradingview.com/news/benzinga:803e6f560094b:0-everything-except-bitcoin-is-dead-no-watch-eth-and-sol-industry-veterans-say/)**
+**[Crypto News: Pepeto Presale Advances Toward Binance as the Ethereum Price Prediction Targets $6,731](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-advances-toward-binance-as-the-ethereum-price-prediction-targets-6-731-1036440956)**
 
-Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
+DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-tradingview.com • 1d ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -240,17 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 13K • 👍 628 • 💬 93 • ⏱️ 6:34 • 1d ago
-
----
-
-**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
-
-📺 Bankless
-
-👁️ 4K • 👍 140 • 💬 60 • ⏱️ 54:27 • 1d ago
+👁️ 13K • 👍 633 • 💬 93 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -260,17 +250,17 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 3h ago
+👁️ 240 • 👍 14 • 💬 2 • ⏱️ 1:18 • 4h ago
 
 ---
 
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
 
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
 
-📺 ilme aalim
+📺 Bankless
 
-👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 13h ago
+👁️ 4K • 👍 140 • 💬 62 • ⏱️ 54:27 • 1d ago
 
 ---
 
@@ -280,7 +270,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 596 • 💬 88 • ⏱️ 55:35 • 1d ago
+👁️ 8K • 👍 597 • 💬 89 • ⏱️ 55:35 • 1d ago
 
 ---
 
@@ -294,6 +284,34 @@ In this video I break down the current Ethereum price action to determine if we 
 
 ---
 
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 13K • 👍 670 • 💬 35 • ⏱️ 1:29 • 2d ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 3K • 👍 143 • 💬 6 • ⏱️ 7:44 • 14h ago
+
+---
+
+**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
+
+Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+
+📺 Your Crypto Crew
+
+👁️ 567 • 👍 88 • 💬 17 • ⏱️ 11:41 • 9h ago
+
+---
+
 **[Ethereum: Will this support zone hold or fail?](https://www.youtube.com/watch?v=FCYdxhDLbgM)**
 
 In this video I break down the current Ethereum price action and provide a clear technical outlook on the ETH chart. We analyze ...
@@ -304,31 +322,13 @@ In this video I break down the current Ethereum price action and provide a clear
 
 ---
 
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+**[Ethereum | Ethereum Prediction | August 9 2026 | Ethereum Price Prediction | Ethereum Analysis Today](https://www.youtube.com/watch?v=rUSSSManu1Q)**
 
-📺 CryptoWendyO
+MEMBERS ONLY VIDEOS (Early Access) Get all 7 of today's Elliott Wave analysis videos immediately, not just the 2 that become ...
 
-👁️ 13K • 👍 661 • 💬 35 • ⏱️ 1:29 • 2d ago
+📺 Forex Forecast | Elliott Wave Analysis ReadyForex
 
----
-
-**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
-
-Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
-
-📺 Your Crypto Crew
-
-👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 8h ago
-
----
-
-**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
-
-CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
-
-📺 The Coin Daily
-
-👁️ 5K • ⏱️ 5:58 • 1d ago
+👁️ 53 • 👍 2 • 💬 2 • ⏱️ 4:43 • 2d ago
 
 ---
 
