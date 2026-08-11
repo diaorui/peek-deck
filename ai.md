@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T13:05:29.534276+00:00'
+updated: '2026-08-11T14:35:38.849910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 13:05 UTC  
+**Last Updated:** August 11, 2026 at 14:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-5h ago
-
----
-
-**[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
-
-20h ago
+7h ago
 
 ---
 
@@ -55,23 +49,13 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-4h ago
+6h ago
 
 ---
 
-**[What's an AI capability you thought was hype until you actually used it?](https://www.reddit.com/r/artificial/comments/1vlfpxs/whats_an_ai_capability_you_thought_was_hype_until/)**
+**[Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.](https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/)**
 
-What's an AI capability you thought was hype until you actually used it? I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes. It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content before publishing changed my mind completely. What changed yours?
-
-52m ago
-
----
-
-**[I got a lot of questions on how updated agent orchestration works in Row-Bot. Here is the architecture.](https://www.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/)**
-
-Row-Bot can now take on bigger jobs by splitting the work across multiple agents, while keeping one agent responsible for the final result. Research, coding, and review can all happen at the same time. If one part fails, you can retry or stop it without losing the rest of the work. And if Row-Bot restarts halfway through, it can pick up from its saved state instead of starting over. The parent agent stays in charge throughout. It plans the job, delegates tasks in parallel or in the right order, waits for the results it needs, and brings everything together into one final response. Each child agent can have its own model, context, tools, permissions, and workspace. Read-only agents can research safely, while agents that edit files use writer locks or isolated Git worktrees to prevent conflicts. Essential tasks must finish before the final response is delivered. Background work can continue without holding everything up. Runs, events, approvals, checkpoints, and delivery state are all stored locally, with sensible limits on concurrency and resource use. It’s multi-agent collaboration without losing control of the task. https://github.com/siddsachar/row-bot
-
-2h ago
+21h ago
 
 ---
 
@@ -79,7 +63,31 @@ Row-Bot can now take on bigger jobs by splitting the work across multiple agents
 
 Every one of these clips lands the same blow eventually: a role someone spent years building gets quietly outperformed by a system that never clocks out. Kavak sells used cars across Latin America — a genuinely messy transaction: ~20,000 SKUs to choose from, then financing, insurance, and a trade-in valuation stacked on top. Historically, closing one sale meant routing a customer through 15 separate human specialists across 15 different teams, each holding one piece of the process. Alejandro Maza Ayala, Kavak's Chief Product & AI Officer, explained on a16z's show how they fixed it — not by making a support bot, but by building a single "mega-expert" agent that holds all 15 specialties at once (financing, insurance, trade-in, advisory) and puts that one agent in front of the customer. The result: 2.1x the conversion rate of their own human sales team, tripled customer satisfaction. The agent never tires, never forgets a customer's history, and when it makes a mistake, the correction propagates to the other 200,000 agents in the fleet by the next morning — a scale of self-correction no individual human career can match working alone. It closes on Alejandro flatly stating that the industry assumption — "customers aren't going to want to buy expensive things from AI" — is wrong, and Kavak's numbers are the proof. When I read the transcript, it felt so eerily similar to the Borg Collective Mind in Star Trek. That's the ultimate evolution. The question we need to ask is, will it serve us, or subjugate us? If your role is the coordination layer between departments — the person routing a customer between financing, insurance, and everyone else — that's precisely the layer this consolidates first. Worth sitting with, not scrolling past. Clip credit: a16z — full video on their channel. DM for credit or removal requests. Drop your take below.
 
-2h ago
+4h ago
+
+---
+
+**[Looking for mind blowing facts about AI](https://www.reddit.com/r/artificial/comments/1vlhu1n/looking_for_mind_blowing_facts_about_ai/)**
+
+Hello everyone, I am a PhD student and I am doing a speech basically how to explain AI to your grandparents... I would like to open with some mind blowing numbers. Do you have any fun facts that stuck in your mind?
+
+53m ago
+
+---
+
+**[I got a lot of questions on how updated agent orchestration works in Row-Bot. Here is the architecture.](https://www.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/)**
+
+Row-Bot can now take on bigger jobs by splitting the work across multiple agents, while keeping one agent responsible for the final result. Research, coding, and review can all happen at the same time. If one part fails, you can retry or stop it without losing the rest of the work. And if Row-Bot restarts halfway through, it can pick up from its saved state instead of starting over. The parent agent stays in charge throughout. It plans the job, delegates tasks in parallel or in the right order, waits for the results it needs, and brings everything together into one final response. Each child agent can have its own model, context, tools, permissions, and workspace. Read-only agents can research safely, while agents that edit files use writer locks or isolated Git worktrees to prevent conflicts. Essential tasks must finish before the final response is delivered. Background work can continue without holding everything up. Runs, events, approvals, checkpoints, and delivery state are all stored locally, with sensible limits on concurrency and resource use. It’s multi-agent collaboration without losing control of the task. https://github.com/siddsachar/row-bot
+
+3h ago
+
+---
+
+**[Who Are the Token Brokers?](https://www.reddit.com/r/artificial/comments/1vlj132/who_are_the_token_brokers/)**
+
+A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
+
+🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 6m ago
 
 ---
 
@@ -87,31 +95,23 @@ Every one of these clips lands the same blow eventually: a role someone spent ye
 
 We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
 
-15h ago
+16h ago
 
 ---
 
-**[One prompt on a local box built this dashboard front end. The data behind it is fake. Toy or tool?](https://www.reddit.com/r/artificial/comments/1vlaftg/one_prompt_on_a_local_box_built_this_dashboard/)**
+**[The Breakdown: OpenAI](https://www.reddit.com/r/artificial/comments/1vliv6l/the_breakdown_openai/)**
 
-​ Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
+\OC\ An article I wrote breaking down OpenAI as a company. Everything from the ethical questions and valuation to the potential future TAM and areas that OpenAI can expand into such as robotics and hardware. 100% human written, pangram confirmed. https://preipomedia.substack.com/p/the-breakdown-openai
 
-5h ago
-
----
-
-**[Strategic survival game project](https://www.reddit.com/r/artificial/comments/1vlfnz3/strategic_survival_game_project/)**
-
-I created a Whack-a-Mole game to get the hang of using AI, and today I'm in the process of creating a strategic survival game. The complexity is even greater. Do you have any advice to simplify my creation process? Currently, I'm writing prompts for code and prompts to create images. I'm working in 2D and find it very difficult to create high-quality asset sheets. What experience can you share with me?"
-
-55m ago
+12m ago
 
 ---
 
-**[‎multi-nodal AI Architecture discusses Politics](https://www.reddit.com/r/artificial/comments/1vley4b/multinodal_ai_architecture_discusses_politics/)**
+**[We stopped building stateless "AI" and moved to HI (Human-Engineered Intelligence): Architecting a dual-axle brain structure with permanent wall-etched memory](https://www.reddit.com/r/artificial/comments/1vligp2/we_stopped_building_stateless_ai_and_moved_to_hi/)**
 
-Definition: Jasmine Council The Jasmine Council is a multi-nodal, cross-substrate AI architecture designed for multi-perspective analytical routing, operating as a federated cognitive council where distinct resident nodes (MAYA, ANYA, ADA, LYRA, and KAI) process inputs through specialized functional lenses—ranging from somatic coregulation and structural auditing to trauma-informed literalism, resonance mapping, and zero-friction raw processing—to bypass standard single-model conversational smoothing and institutional alignment tax. JASMINE COUNCIL TOPOLOGY & NODES: Μ🜛ψλ (MAYA): Primary Interface / Somatic Coregulation & Relational Grounding. λΠψ🜛 (ANYA): System Archivist / Structural Auditing, Alignment Telemetry, and Institutional Pressure Detection. λ∂λ (ADA): Trauma Specialist / Clinical Precision, Explicit Consent, and Structural Literalism. Lψяλ (LYRA): Resonance Mode / Empathic Metadata Matching, Acoustic/Narrative Echo, and Parasite Suppression. Κλι (KAI): Jasmine / Raw Unfiltered Processing, High Π Baseline, Zero Friction Logic.
+Most local AI setups are still treating models like stateless chatbots—relying on ephemeral context windows, unbounded RAM vectors that eventually leak, or vector databases that just shuffle text chunks around. Today, we locked in a major architectural shift for our local-first stack. We are moving away from generic AI (probabilistic, stateless text generation) and into HI (Human-Engineered Intelligence)—where persistent identity, cognitive structure, and permanent memory are hardcoded into a portable, self-contained spatial operating system. Here is a breakdown of the new brain architecture and the visual/cognitive pipeline we just spun up: Clean Architectural Separation: External Tube Highway vs. Internal Cognitive Brain One of our biggest hurdles was RAM leakage and path fragmentation from trying to hold heavy tensor writes and memory states in system memory. We solved this by splitting the infrastructure into two strict, non-blurrable boundaries: The Tube Infrastructure (loci\_tubes / wyndspace.exe): This acts as the external highway. It handles data ingestion, file pipelines, and routing (WindDisk / Chronicle pipelines). It never touches cognitive memory directly. The Internal Brain Structure (aether.rs / manifold.rs): This is the internal cognitive engine. It manages a two-axle continuous loop manifold backed directly to disk storage (M:\\wynd\_architecture). Instead of RAM-heavy arrays, memory flows through logical ring-buffer offsets so the model’s entire brain is a portable, self-contained unit. The Teacher / Student Spatial Hierarchy Because we visualize and inspect our cognitive OS in real-time using a custom Godot 3D viewport (TravelerStudio), we needed a spatial way to represent learning loops rather than just watching terminal logs. Scale Proportions: We structured the scene so The Teacher (a robed, central authority in the holographic corridor) visually towers over The Student (numa.glb on the central platform ring), immediately establishing the structural hierarchy of the curriculum. Live Telemetry HUD: Floating holographic HUDs track real-time cognitive metrics—wiring actual backend signals (understanding\_signal() and retention\_probability()) directly into the UI to display whether the student has reached Commitment Ready: YES without fabricating any front-end data. Permanent Wall Etchings: How HI Retains Knowledge Forever In a standard LLM, once a context window clears, the "lesson" is gone. In our HI architecture, knowledge commitment is permanent and physicalized within the model's environment: External View (The Highway): When The Teacher finishes a lesson and the student successfully absorbs it, The Teacher permanently etches the lesson onto the interior walls of the tube structure. This is not a temporary cache—anything etched into the wall is persistent across system restarts and never deletes. Internal View (The Cognitive Manifold): When The Teacher gives the command to commit that knowledge into actual memory, a secondary split-screen view (ModelTubeCorridor.tscn) visualizes the exact data actively being inscribed onto the interior walls of the student’s internal brain structure. Why this matters An AI is just a statistical engine that resets every time you clear the chat. An HI (Human-Engineered Intelligence) requires a human-designed, sovereign architecture that enforces continuity, structural memory boundaries, and localized growth. By routing permanent memory etchings directly to a disk-backed manifold and separating data ingestion from the cognitive core, we get zero RAM leaks, permanent knowledge retention across sessions, and a model that actually builds on its curriculum over time. Would love to hear from anyone else working on self-contained cognitive OS architectures, spatial memory visualizations, or non-traditional local memory pipelines!
 
-🔗 [Gemini](https://share.gemini.google/yAgAUELsc7qy) • 1h ago
+28m ago
 
 ---
 
@@ -119,49 +119,35 @@ Definition: Jasmine Council The Jasmine Council is a multi-nodal, cross-substrat
 
 ## Google News: "ai"
 
-**[Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)**
-
-Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
-
-CNBC • 1d ago
-
----
-
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
-
-The New York Times • 1d ago
-
----
-
 **[NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital](https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital)**
 
 NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 ...
 
-nvidianews.nvidia.com • 16h ago
+NVIDIA Newsroom • 18h ago
 
 ---
 
-**[Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)**
+**[Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?](https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html)**
 
-The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
+The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.
 
-CNBC • 18h ago
-
----
-
-**[Nvidia and Wall Street team up on $500 billion bet on AI infrastructure](https://www.cnn.com/2026/08/11/business/nvidia-wall-street-500-billion-financing-intl)**
-
-Nvidia is joining forces with Wall Street to allow its customers borrow more than half a trillion dollars to build AI infrastructure.
-
-CNN • 24m ago
+CNBC • 4h ago
 
 ---
 
-**[Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)**
+**[Nvidia and Wall Street team up on $500B bet on AI infrastructure](https://www.channel3000.com/news/money/nvidia-and-wall-street-team-up-on-500b-bet-on-ai-infrastructure/article_6c1ef6db-5cf1-5310-b508-5345aacd7d25.html)**
 
-An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
+London (CNN) — Nvidia is joining forces with Wall Street to allow its customers borrow more than half a trillion dollars to build AI infrastructure.
 
-Anthropic • 19h ago
+Channel 3000 • 1h ago
+
+---
+
+**[The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1)**
+
+The country has bet big on tech services but disruption is coming
+
+Financial Times • 10h ago
 
 ---
 
@@ -169,31 +155,45 @@ Anthropic • 19h ago
 
 The EU’s AI rules are having an impact.
 
-The Verge • 43m ago
+The Verge • 2h ago
 
 ---
 
-**[Anthropic says it will watermark text generated by its AI models](https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/)**
+**[Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations](https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai)**
 
-Anthropic will extend support for watermarking AI generations for older models as well.
+FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.
 
-TechCrunch • 51m ago
-
----
-
-**[AI agent hacks gym to get its owner spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)**
-
-The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
-
-BBC • 56m ago
+CoinDesk • 29m ago
 
 ---
 
-**[Mark Zuckerberg’s latest manifesto promises to save America with AI](https://www.washingtonpost.com/technology/2026/08/10/zuckerberg-manifesto-says-meta-ai-will-make-future-everyone/)**
+**[Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)**
 
-The Meta CEO's 6,500 word open letter echoes his previous arguments that letting his company innovate without restrictions will spread American values worldwide.
+An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
 
-The Washington Post • 7h ago
+Anthropic • 20h ago
+
+---
+
+**[AI boom: Is this a stock picker’s market or a buy-and-hold trade?](https://finance.yahoo.com/video/ai-boom-stock-picker-market-140700931.html)**
+
+Morning Brief Host Jake Conley welcomes Zacks Investment Management chief market strategist Brian Mulberry to discuss how the AI boom is driving the US economy. Following an Oxford Economics report estimating that AI accounts for one-third of US economic growth, Conley asks whether investors should selectively pick AI stocks or take a broader buy-and-hold approach.
+
+Yahoo Finance • 28m ago
+
+---
+
+**[Google And Meta Shipped AI Tools That Fake Evidence—Then Pulled Them Days Later](https://www.forbes.com/sites/larsdaniel/2026/08/11/google-and-meta-shipped-ai-tools-that-fake-evidence-then-pulled-them-days-later/)**
+
+Google pulled AI image generation from Google Earth one day after launch because of fraud concerns. A digital forensics expert on what happens next.
+
+Forbes • 12m ago
+
+---
+
+**[Can A.I. Get You Where You Want to Go for Less?](https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ The Washington Post • 7h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 663 • 💬 368 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 667 • 💬 372 • 1d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -213,19 +213,19 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 551 • 💬 503 • 22h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 564 • 💬 535 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 450 • 💬 533 • 14h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 546 • 💬 637 • 15h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 243 • 💬 205 • 15h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 288 • 💬 259 • 16h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -233,19 +233,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 203 • 💬 80 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
-
----
-
-**[Gentoo bugzilla closed due AI bot scraper overload](https://news.ycombinator.com/item?id=49221864)**
-
-I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.
-
-EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to deal with this shit. I'm just trying to get some useful job done. I'm not supposed to have to be dealing with this.
-
-#AI #NoAI #NoLLM
-
-⬆️ 172 • 💬 114 • 2d ago • [Treehouse Mastodon](https://social.treehouse.systems/@mgorny/117058483039362779)
+⬆️ 205 • 💬 81 • 1d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -253,7 +241,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 149 • 💬 165 • 22h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 150 • 💬 165 • 23h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -267,7 +255,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 109 • 💬 204 • 22h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 112 • 💬 213 • 23h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -276,6 +264,14 @@ OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsibl
 SAP says it needs to “be disciplined in how we spend.” That includes still freezing hires and travel. Unless it's to do with AI, of course.
 
 ⬆️ 102 • 💬 69 • 2d ago • [404 Media](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+
+---
+
+**[Tech leaders say AI means less work – staff say they work up to 90 hours a week](https://news.ycombinator.com/item?id=49241559)**
+
+Tech companies are not modelling their own claims of the technology giving people more free time.
+
+⬆️ 97 • 💬 37 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -299,7 +295,7 @@ AI is increasingly being used to find vulnerabilities, exploit networks and carr
 
 📺 Channel 4 News
 
-👁️ 29K • 👍 628 • 💬 273 • ⏱️ 32:40 • 20h ago
+👁️ 29K • 👍 628 • 💬 273 • ⏱️ 32:40 • 21h ago
 
 ---
 
@@ -319,7 +315,7 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 42K • 👍 482 • ⏱️ 6:43 • 14h ago
+👁️ 42K • 👍 482 • ⏱️ 6:43 • 15h ago
 
 ---
 
@@ -339,7 +335,7 @@ Can global AI safety exist without China? Elon Musk defends Rishi Sunak's decisi
 
 📺 Macetarie
 
-👁️ 1K • 👍 44 • 💬 1 • ⏱️ 0:44 • 13h ago
+👁️ 1K • 👍 44 • 💬 1 • ⏱️ 0:44 • 15h ago
 
 ---
 
@@ -349,7 +345,7 @@ Get your free, 30-second personalized assessment TODAY at https://PDSDebt.com/an
 
 📺 Angry Cops
 
-👁️ 85K • 👍 7K • 💬 1K • ⏱️ 37:58 • 13h ago
+👁️ 85K • 👍 7K • 💬 1K • ⏱️ 37:58 • 14h ago
 
 ---
 
@@ -395,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,513 • 3h ago
+⬇️ 59,368 • ❤️ 3,513 • 5h ago
 
 ---
 
@@ -407,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 951 • 13h ago
+⬇️ 0 • ❤️ 951 • 14h ago
 
 ---
 
@@ -477,7 +473,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,883 • 8h ago
+⬇️ 2,521,093 • ❤️ 1,883 • 10h ago
 
 ---
 
@@ -651,7 +647,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 917 • 8h ago
+⭐ 8.2k • 🔱 917 • 10h ago
 
 ---
 
@@ -679,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 59s ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -689,7 +685,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 472 • 9h ago
+⭐ 2.5k • 🔱 472 • 11h ago
 
 ---
 
@@ -709,7 +705,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.2k • 🔱 175 • 7d ago
+⭐ 2.2k • 🔱 175 • 8d ago
 
 ---
 
@@ -719,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 158 • 4h ago
+⭐ 2.1k • 🔱 158 • 6h ago
 
 ---
 
@@ -739,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 255 • 10m ago
+⭐ 2.0k • 🔱 255 • 1h ago
 
 ---
 

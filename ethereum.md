@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T13:05:29.550017+00:00'
+updated: '2026-08-11T14:35:38.864916+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 13:05 UTC  
+**Last Updated:** August 11, 2026 at 14:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.1%  
-**30d:** +6.3%  
-**90d:** -17.3%  
-**1y:** -58.9%  
+**24h:** +0.1%  
+**7d:** -1.5%  
+**30d:** +5.8%  
+**90d:** -17.7%  
+**1y:** -59.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-17h ago
+18h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -172,7 +172,15 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Bitcoin opened at $63,912.50 on Tuesday, August 11, 2026, down 1.4% from Monday's opening price. As of 8:32 a.m. ET, the price of bitcoin moved up to $64,282.28. Ethereum opened at $1,871.33, down 2% from Monday's opening. The price of ethereum moved higher this morning to $1,888.83 as of 8:32 a.m. ET.
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[GRND Stock Has Soared 250% Since Its 2022 IPO Crash, Leaving Starbucks, Target and Ethereum Behind](https://finance.yahoo.com/markets/stocks/articles/grnd-stock-soared-250-since-110149092.html)**
+
+Grindr Inc. (NYSE:GRND) has staged a stunning Wall Street turnaround, soaring 251.62% from its 2022 post-IPO trough to dramatically outperform mainstream retail titans Starbucks Corp. (NASDAQ:SBUX) and Target Corp. (NYSE:TGT), as well as crypto heavyweight Ethereum (CRYPTO: ETH). A Remarkable Market Comeback After making its public trading debut in late 2022, the dating platform’s shares plunged to a low of $4.65 on Dec. 30, 2022. As noted in financial market commentary by automated trading serv
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,21 +188,15 @@ Yahoo Finance • 19m ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
+**[Current price of Ethereum for Aug. 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
-
----
-
-**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
-
-Seeking Alpha • 1d ago
+Fortune • 4h ago
 
 ---
 
@@ -202,7 +204,7 @@ Seeking Alpha • 1d ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -210,7 +212,7 @@ The Block • 20h ago
 
 Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
 
-tradingview.com • 15h ago
+TradingView • 17h ago
 
 ---
 
@@ -218,15 +220,13 @@ tradingview.com • 15h ago
 
 Leading cryptocurrencies traded in red alongside stocks on Monday, August 10, as uncertainty on Iran negotiations kept risk appetite in check.
 
-Benzinga • 11h ago
+Benzinga • 12h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC bulls strengthen, ETH eyes breakout, XRP rebounds](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-bulls-strengthen-eth-eyes-breakout-xrp-rebounds-202608100230)**
+**[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
 
-Bitcoin (BTC) and Ethereum (ETH) show signs of strength as bulls defend key support on Monday after gaining 2% and 1.3% in the previous week. Meanwhile, Ripple (XRP) recovers mildly at the start of the week on Monday after sliding over 5% last week.
-
-FXStreet • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! Accord
 
 📺 ilme aalim
 
-👁️ 251 • 👍 15 • 💬 2 • ⏱️ 2:45 • 50m ago
+👁️ 251 • 👍 15 • 💬 2 • ⏱️ 2:45 • 2h ago
 
 ---
 
@@ -308,7 +308,7 @@ CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The
 
 📺 The Coin Daily
 
-👁️ 3K • ⏱️ 5:58 • 20h ago
+👁️ 3K • ⏱️ 5:58 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ The 200-week moving average has historically signaled major buying opportunities
 
 📺 CryptoLabs Research | Defi Income & Investing
 
-👁️ 445 • 👍 6 • 💬 1 • ⏱️ 0:49 • 12h ago
+👁️ 445 • 👍 6 • 💬 1 • ⏱️ 0:49 • 13h ago
 
 ---
 
