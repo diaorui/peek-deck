@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T11:42:52.186052+00:00'
+updated: '2026-08-11T13:05:29.553708+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 11:42 UTC  
+**Last Updated:** August 11, 2026 at 13:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-20h ago
+22h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-20h ago
+22h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -70,7 +70,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 **[I Made a Palm-Sized Three-Wheel Omnidirectional Robot](https://www.reddit.com/r/robotics/comments/1vjnv9g/i_made_a_palmsized_threewheel_omnidirectional/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-18h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 13h ago
+interestingengineering.com • 15h ago
 
 ---
 
@@ -126,11 +126,25 @@ Business Insider • 2d ago
 
 ---
 
-**[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
+**[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 
-During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
+The New York Times • 4d ago
 
-Yahoo Finance • 18h ago
+---
+
+**[Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors](https://www.ft.com/content/99824437-8173-4320-b84b-242c726ab437?syn-25a6b1a6=1)**
+
+Unitree raises $900mn ahead of Shanghai listing expected later this month
+
+Financial Times • 5h ago
+
+---
+
+**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
+
+Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
+
+interestingengineering.com • 1d ago
 
 ---
 
@@ -138,23 +152,21 @@ Yahoo Finance • 18h ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 21h ago
+Supply Chain Dive • 23h ago
+
+---
+
+**[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
+
+During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
+
+Yahoo Finance • 19h ago
 
 ---
 
 **[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
 
-nature.com • 18h ago
-
----
-
-**[Exclusive: Former OpenAI Robotics Lead Joins Anthropic](https://www.theinformation.com/briefings/exclusive-former-openai-robotics-lead-joins-anthropic)**
-
-Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined Anthropic as a member of technical staff working on research, according to her LinkedIn. 
-
- Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
-
-The Information • 11h ago
+nature.com • 20h ago
 
 ---
 
@@ -166,27 +178,13 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+**[Exclusive: Former OpenAI Robotics Lead Joins Anthropic](https://www.theinformation.com/briefings/exclusive-former-openai-robotics-lead-joins-anthropic)**
 
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined Anthropic as a member of technical staff working on research, according to her LinkedIn. 
 
-TribLIVE.com • 2h ago
+ Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
----
-
-**[The Roboguard Revolution is Short-Circuiting](https://www.404media.co/the-roboguard-revolution-is-short-circuiting/)**
-
-Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
-
-404 Media • 22h ago
-
----
-
-**[China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert](https://www.globaltimes.cn/page/202608/1367923.shtml)**
-
-China's cutting-edge industrial upgrade witnessed two major landmarks on Monday, marking the country's full-fledged global lead in humanoid robotics and further solidifying the rise of its
-
-Global Times • 19h ago
+The Information • 12h ago
 
 ---
 
@@ -208,7 +206,7 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 Ben Esherick
 
-👁️ 487K • 👍 25K • 💬 675 • ⏱️ 0:35 • 4d ago
+👁️ 499K • 👍 25K • 💬 692 • ⏱️ 0:35 • 4d ago
 
 ---
 
@@ -218,7 +216,7 @@ Every time you order clothes, groceries or household essentials online, there's 
 
 📺 BBC News
 
-👁️ 53K • 👍 673 • 💬 156 • ⏱️ 3:45 • 1d ago
+👁️ 53K • 👍 676 • 💬 164 • ⏱️ 3:45 • 1d ago
 
 ---
 
@@ -228,7 +226,27 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 58K • 👍 763 • 💬 384 • ⏱️ 28:01 • 3d ago
+👁️ 58K • 👍 766 • 💬 390 • ⏱️ 28:01 • 3d ago
+
+---
+
+**[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
+
+For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
+
+📺 Broken Business Models
+
+👁️ 15K • 👍 546 • 💬 122 • ⏱️ 20:54 • 1d ago
+
+---
+
+**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
+
+Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
+
+📺 WOLF Financial
+
+👁️ 40K • 👍 1K • 💬 245 • ⏱️ 48:23 • 3d ago
 
 ---
 
@@ -238,17 +256,7 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 165K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
-
----
-
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
-
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
-
-📺 Custom Adventurist
-
-👁️ 41K • 👍 2K • 💬 187 • ⏱️ 1:02 • 4d ago
+👁️ 166K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
 
 ---
 
@@ -262,31 +270,21 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 ---
 
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+
+📺 Custom Adventurist
+
+👁️ 42K • 👍 2K • 💬 190 • ⏱️ 1:02 • 4d ago
+
+---
+
 **[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
 📺 Tyrecordslol
 
-👁️ 3.0M • 👍 130K • 💬 8K • ⏱️ 0:58 • 4d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 138K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
-
----
-
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
-
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
-
-📺 Julia McCoy
-
-👁️ 54K • 👍 2K • 💬 215 • ⏱️ 9:02 • 2d ago
+👁️ 3.1M • 👍 130K • 💬 8K • ⏱️ 0:58 • 4d ago
 
 ---
 

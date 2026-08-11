@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T11:42:52.182768+00:00'
+updated: '2026-08-11T13:05:29.550017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 11:42 UTC  
+**Last Updated:** August 11, 2026 at 13:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
+**24h:** -0.2%  
 **7d:** -1.1%  
-**30d:** +6.2%  
+**30d:** +6.3%  
 **90d:** -17.3%  
 **1y:** -58.9%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.47B
+**Market Cap:** $227.86B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-61.8%
 
 **All-Time Low:** $0.43
-+435232.9%
++436022.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-15h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-23h ago
+1d ago
 
 ---
 
@@ -156,15 +156,23 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
-**[Ethereum, Solana, Avalanche Are Booming, so Why Are Prices Down 50%?](https://coinmarketcap.com/academy/article/ethereum-solana-avalanche-booming-eth-sol-avax-tokens-down)**
+**[Which Crypto Do AI Models Say to Buy Right Now: Bitcoin, Ethereum, or XRP?](https://247wallst.com/investing/cryptocurrency/2026/08/09/which-crypto-do-ai-models-say-to-buy-right-now-bitcoin-ethereum-or-xrp/)**
 
-Ethereum, Solana, and Avalanche usage is rising as fees fall. So why are ETH, SOL, and AVAX still down, and which metrics matter?
+We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-CoinMarketCap • 3d ago
+24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html)**
+
+Bitcoin opened at $63,912.50 on Tuesday, August 11, 2026, down 1.4% from Monday's opening price. As of 8:32 a.m. ET, the price of bitcoin moved up to $64,282.28. Ethereum opened at $1,871.33, down 2% from Monday's opening. The price of ethereum moved higher this morning to $1,888.83 as of 8:32 a.m. ET.
+
+Yahoo Finance • 19m ago
 
 ---
 
@@ -172,15 +180,21 @@ CoinMarketCap • 3d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-face-clarity-091738695.html)**
+**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
 
-Four leading AI models expect the passage of the CLARITY Act to be broadly bullish for the crypto market. XRP has the greatest potential percentage ...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 3d ago
+Fortune • 1h ago
+
+---
+
+**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -188,7 +202,7 @@ Yahoo Finance • 3d ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -196,29 +210,15 @@ The Block • 19h ago
 
 Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
 
-TradingView • 14h ago
+tradingview.com • 15h ago
 
 ---
 
-**[Current price of Ethereum for August 10, 2026](https://fortune.com/article/price-of-ethereum-08-10-2026/)**
+**[Bitcoin, Ethereum, XRP Dip, but Dogecoin Gains as US-Iran Tensions Persist: Analyst Says 'Next Sell-Off S](https://www.benzinga.com/crypto/cryptocurrency/26/08/61098521/bitcoin-ethereum-xrp-dogecoin-us-iran-tensions-next-selloff-btc)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Leading cryptocurrencies traded in red alongside stocks on Monday, August 10, as uncertainty on Iran negotiations kept risk appetite in check.
 
-Fortune • 1d ago
-
----
-
-**[Standard Chartered Targets LINK At $200, Joining Hyperbullish Bitcoin, Ethereum Calls](https://www.benzinga.com/crypto/cryptocurrency/26/08/61073855/standard-chartered-targets-link-at-200-joining-hyperbullish-bitcoin-ethereum-calls)**
-
-Chainlink gets a $200 target from Standard Chartered as tokenization and DeFi growth could drive LINK fees 25-fold by 2030.
-
-Benzinga • 22h ago
-
----
-
-**[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
-
-Seeking Alpha • 1d ago
+Benzinga • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 12K • 👍 605 • 💬 91 • ⏱️ 6:34 • 23h ago
+👁️ 12K • 👍 614 • 💬 92 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 129 • 💬 51 • ⏱️ 54:27 • 1d ago
+👁️ 4K • 👍 132 • 💬 57 • ⏱️ 54:27 • 1d ago
 
 ---
 
@@ -260,7 +260,15 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 7K • 👍 595 • 💬 108 • ⏱️ 55:35 • 1d ago
+👁️ 8K • 👍 595 • 💬 88 • ⏱️ 55:35 • 1d ago
+
+---
+
+**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+
+📺 CryptoWendyO
+
+👁️ 12K • 👍 644 • 💬 29 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -270,25 +278,17 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 186 • 💬 5 • ⏱️ 6:31 • 23h ago
+👁️ 3K • 👍 188 • 💬 5 • ⏱️ 6:31 • 1d ago
 
 ---
 
-**[THESE CRYPTOS COULD GO TO ZERO. BE CAREFUL IF YOU ARE HOLDING! #ethereum #xrp #crypto](https://www.youtube.com/watch?v=_lo2Njd0hNk)**
+**[💡 The Unbelievable Quantum Bull Thesis That Changes Crypto Forever! 🟢](https://www.youtube.com/watch?v=Z2boJ4DfHUM)**
 
-📺 CryptoWendyO
+Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! According to CoinTelegraph reports citing Quant ...
 
-👁️ 12K • 👍 637 • 💬 28 • ⏱️ 1:29 • 2d ago
+📺 ilme aalim
 
----
-
-**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
-
-CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
-
-📺 The Coin Daily
-
-👁️ 2K • ⏱️ 5:58 • 18h ago
+👁️ 251 • 👍 15 • 💬 2 • ⏱️ 2:45 • 50m ago
 
 ---
 
@@ -302,13 +302,23 @@ In this video I break down the current Ethereum price action to determine if we 
 
 ---
 
+**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
+
+CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
+
+📺 The Coin Daily
+
+👁️ 3K • ⏱️ 5:58 • 20h ago
+
+---
+
 **[Bitcoin&#39;s 200-Week Indicator: MASSIVE Buy Opportunity Revealed! #shorts](https://www.youtube.com/watch?v=C74YloRR-Iw)**
 
 The 200-week moving average has historically signaled major buying opportunities in crypto. Bitcoin and ETH are key vehicles for ...
 
 📺 CryptoLabs Research | Defi Income & Investing
 
-👁️ 411 • 👍 6 • 💬 1 • ⏱️ 0:49 • 10h ago
+👁️ 445 • 👍 6 • 💬 1 • ⏱️ 0:49 • 12h ago
 
 ---
 
@@ -318,17 +328,7 @@ I have serious concerns with Ethereum and I don't see how it works out over time
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 530 • 👍 16 • 💬 2 • ⏱️ 0:43 • 1d ago
-
----
-
-**[📈 ETH Supply Shrinks While Dollar Grows 6.8%](https://www.youtube.com/watch?v=Ak6naqsVZ0A)**
-
-Ethereum is quietly becoming one of the scarcest assets on the planet. The math between a shrinking supply and an expanding ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 330 • 👍 9 • 💬 1 • ⏱️ 1:23 • 19h ago
+👁️ 541 • 👍 16 • 💬 2 • ⏱️ 0:43 • 2d ago
 
 ---
 
