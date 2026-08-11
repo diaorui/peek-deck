@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-11T00:01:11.480882+00:00"
+          "dateModified": "2026-08-11T02:36:46.739582+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -728,6 +728,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/" target="_blank" onclick="event.stopPropagation();">Anyone know any good app or program to change the singer of a song to someone else?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786414535.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -794,72 +827,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/" target="_blank" onclick="event.stopPropagation();">Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786381618.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/" target="_blank" onclick="event.stopPropagation();">I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Quick context: I've spent the last year+ building something in the "AI hallucination" space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism. The problem I'm trying to solve: AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's confidently wrong sometimes, and in finance a confidently wrong number in a report or a covenant calculation isn't a minor bug, it's a real liability. What I built: A separate, deterministic verification layer (not another AI model) that sits behind the AI output. It: Extracts the actual source values from the underlying documents (PDFs, XLSX, DOCX) Independently recalculates the claimed number using exact rules/formulas, not vibes Compares the AI's claim against the recalculated value Flags mismatches with a full audit trail — what evidence was used, what rule was applied, where they diverged So instead of "trust the AI's math," it's "here's proof the math is right, or here's exactly where it's wrong and why." Where it stands right now: Working end-to-end on core financial ratios (net leverage, and a few others) Full evidence-to-conclusion traceability (nothing is asserted without a pointer back to source data) Not yet: broad rule coverage, tolerance-based matching (right now it's strict exact-match, which I know will cause false positives on rounding — actively working on this) What I'm NOT asking for: Money, beta signups, "check out my landing page." I genuinely want this torn apart before I put more time into the wrong thing. What I actually want to know: If you work in finance/accounting/audit/compliance — does "AI drafts it, a deterministic engine proves it" sound like something you'd actually want, or is this solving a problem nobody has? If you've built anything adjacent (fact-checking pipelines, agent guardrails, financial data extraction) — what broke when you tried something similar? What am I not seeing yet? Anyone dealt with the "AI + audit trail" requirement from a compliance angle — what would actually satisfy an auditor or regulator here, versus what sounds good but isn't enough? Happy to answer anything about how it works under the hood. Not trying to be cagey, just trying to keep this post from turning into a spec doc.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786381060.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkhaf7/meta_will_open_source_their_muse_spark_12_and/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -886,6 +853,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1786358476.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/" target="_blank" onclick="event.stopPropagation();">Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            ​Hey everyone! ​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo. ​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very "AI-generated": plastic-perfect skin, unnatural hair, and no raw texture. ​I’m really just looking for a method that gets me that true, unedited photographic look (visible skin texture, fabric wrinkles, natural lighting). I'm not locked into Krea.ai or even the trained model approach—I'm open to any tool or technique (local Stable Diffusion, Inpainting, etc.) that can achieve this realism with a specific face. ​What do you recommend? Are there prompt tricks on Krea for this, or should I be looking at other platforms? ​Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786381618.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1001,7 +1001,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T23:06:28.362644+00:00">Updated 2026-08-10T23:06:28.362644+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:01.827393+00:00">Updated 2026-08-11T02:35:01.827393+00:00</small>
     </div>
 </div>
 
@@ -1826,10 +1826,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 615</span>
+                                    <span class="post-points">▲ 629</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 344</span>
+                                    <span style="color: #9ca3af;">💬 350</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1875,10 +1875,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 304</span>
+                                    <span class="post-points">▲ 389</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 341</span>
+                                    <span style="color: #9ca3af;">💬 390</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1924,7 +1924,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 188</span>
+                                    <span class="post-points">▲ 190</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 81</span>
@@ -1980,7 +1980,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                                     <span class="post-points">▲ 172</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 113</span>
+                                    <span style="color: #9ca3af;">💬 114</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1997,54 +1997,6 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                                             
                                         
                                         <span>Treehouse Mastodon</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49235011', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49235011" target="_blank" onclick="event.stopPropagation();">The tragedy of the commons, AI edition</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 143</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 104</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-09T19:43:52Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>economist.com</span>
                                     </a>
                                 </div>
                                 
@@ -2074,10 +2026,10 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 131</span>
+                                    <span class="post-points">▲ 144</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 149</span>
+                                    <span style="color: #9ca3af;">💬 154</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2094,6 +2046,54 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                                             
                                         
                                         <span>https://www.wcax.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49235011', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49235011" target="_blank" onclick="event.stopPropagation();">The tragedy of the commons, AI edition</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 143</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 108</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-09T19:43:52Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>economist.com</span>
                                     </a>
                                 </div>
                                 
@@ -2143,6 +2143,55 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                                             
                                         
                                         <span>404 Media</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49244308', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49244308" target="_blank" onclick="event.stopPropagation();">Letter to Governor Abbott on responsible AI infrastructure in Texas</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 95</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 175</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-10T14:38:20Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://openai.com/index/responsible-ai-infrastructure-texas/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://openai.com/apple-icon.png?apple-icon.07gg71mkjj694.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>OpenAI</span>
                                     </a>
                                 </div>
                                 
@@ -2252,55 +2301,6 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49244308', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49244308" target="_blank" onclick="event.stopPropagation();">Letter to Governor Abbott on responsible AI infrastructure in Texas</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 78</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 146</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-10T14:38:20Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://openai.com/index/responsible-ai-infrastructure-texas/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://openai.com/apple-icon.png?apple-icon.07gg71mkjj694.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>OpenAI</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2321,7 +2321,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T23:06:29.546208+00:00">Updated 2026-08-10T23:06:29.546208+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:01.743165+00:00">Updated 2026-08-11T02:35:01.743165+00:00</small>
     </div>
 </div>
 
@@ -2514,24 +2514,24 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=3JH_Zd2mNRs', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=zdsoe_OsnHw', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/3JH_Zd2mNRs/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/zdsoe_OsnHw/hqdefault.jpg');">
                         
-                        <span class="duration-badge">17:40</span>
+                        <span class="duration-badge">15:09</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank" onclick="event.stopPropagation();">an AI actually went rogue.</a>
+                            <a href="https://www.youtube.com/watch?v=zdsoe_OsnHw" target="_blank" onclick="event.stopPropagation();">AI Is On Its Last Legs</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Check out BlueDot Impact's free 2 hour Future of AI course here: https://bluedot.org/lookingglass.
+                            Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
                         </div>
                         
 
@@ -2542,9 +2542,9 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nEWHEffgnq0cuPXVEyb2OjGZFKnkMrvs7_VHdI033KR9U=s88-c-k-c0x00ffffff-no-rj" alt="Looking Glass Universe" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/eCM0MN8w-3ubdQ7I07_6Nb2YO1wckXAKhbRB0FCCJpXAPAJGmcGAOm9U2axLQkQ8m6fPcRK86qQ=s88-c-k-c0x00ffffff-no-rj" alt="Cole Hastings" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA" target="_blank" onclick="event.stopPropagation();">Looking Glass Universe</a>
+                                    <a href="https://www.youtube.com/channel/UCwQnoax3HWID1WOzZ4mqLPQ" target="_blank" onclick="event.stopPropagation();">Cole Hastings</a>
                                 </div>
                                 
                             </div>
@@ -2553,77 +2553,11 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 20K</span>
+                                    <span style="color: #9ca3af;">👁️ 284K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 571</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786280013.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=g7AxxkywiFI', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/g7AxxkywiFI/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:53:06</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=g7AxxkywiFI" target="_blank" onclick="event.stopPropagation();">The Quitting Expert: Quit NOW Before AI Makes The Choice For You, This Is a Superpower! | Seth Godin</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Bestselling author Seth Godin reveals why perfectionism is keeping you stuck, the hidden psychology behind success, when to ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/JHCZDz37bsTmwoE1o4LEodF5vhsHfk29kCEauDTFr27-7hHXsHHvvWGzcG77v32ERrkpfInkGQ=s88-c-k-c0x00ffffff-no-rj" alt="The Diary Of A CEO" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw" target="_blank" onclick="event.stopPropagation();">The Diary Of A CEO</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 361K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 9K</span>
+                                    <span style="color: #9ca3af;">👍 11K</span>
                                 </div>
                                 
                                 
@@ -2638,7 +2572,139 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1786345212.0"></span>
+                                    <span data-timestamp="1786291207.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=F75hfLE4a2k', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/F75hfLE4a2k/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">13:38</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=F75hfLE4a2k" target="_blank" onclick="event.stopPropagation();">The AI Singularity Is Here</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            For over a year, Google has been running an AI called AlphaEvolve with a single mission: improve the company that built it.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/1-RKywtuL05KuyJQs1NAOWDO4wEho4_j450rO6ssQZoQSmeUTPqHmfCWeyGL9AszcDPLve1ueA=s88-c-k-c0x00ffffff-no-rj" alt="There's An AI For That" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCHCCGSnjLpHwL2bv-d4yz7g" target="_blank" onclick="event.stopPropagation();">There's An AI For That</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 34K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 865</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 167</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786221123.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=N5AQFYtqx8Q', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">2:08:13</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=N5AQFYtqx8Q" target="_blank" onclick="event.stopPropagation();">Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI).
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Y8lhyl8aHY42phxwoAwUqwLGDp-z8nmtj3Z7_JB-Oh4yIZ1OFYb-MlJRuz_oygqsYQU-VgGqiOM=s88-c-k-c0x00ffffff-no-rj" alt="Andrew Huberman" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg" target="_blank" onclick="event.stopPropagation();">Andrew Huberman</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 28K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 207</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786363230.0"></span>
                                 </div>
                                 
                             </div>
@@ -2685,7 +2751,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 34K</span>
+                                    <span style="color: #9ca3af;">👁️ 36K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2694,7 +2760,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 213</span>
+                                    <span style="color: #9ca3af;">💬 218</span>
                                 </div>
                                 
                             </div>
@@ -2712,24 +2778,24 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qzwqvq0l1nU', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=T7iGs8EtL3w', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qzwqvq0l1nU/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/T7iGs8EtL3w/hqdefault.jpg');">
                         
-                        <span class="duration-badge">7:03</span>
+                        <span class="duration-badge">15:49</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=qzwqvq0l1nU" target="_blank" onclick="event.stopPropagation();">How the Pentagon&#39;s use of AI accelerated Trump&#39;s war in Iran</a>
+                            <a href="https://www.youtube.com/watch?v=T7iGs8EtL3w" target="_blank" onclick="event.stopPropagation();">The Trump AI bailout just got worse</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Simon Marks is joined by defence expert Peter Apps to discuss Trump's contradictory messaging on US munitions and the ...
+                            I explain the news, you stay sane. ✓ Support independent news ...
                         </div>
                         
 
@@ -2740,9 +2806,9 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/lpwwyNcTDyHa_l8glu-RLPEEIm0aUwg5yU8W_eb2CAfiMrik8nZX-DoXQfUOUufMK2q0qKO8vg=s88-c-k-c0x00ffffff-no-rj" alt="LBC" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/vm9aiDqf2v7LiVQXLC4f_fUTY3jj-zeFL1cLQRoW5iF6RPazl5EbWdt_3hSQQYY87j0FjpAeAw=s88-c-k-c0x00ffffff-no-rj" alt="Chris Norlund" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCb1Ti1WKPauPpXkYKVHNpsw" target="_blank" onclick="event.stopPropagation();">LBC</a>
+                                    <a href="https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw" target="_blank" onclick="event.stopPropagation();">Chris Norlund</a>
                                 </div>
                                 
                             </div>
@@ -2751,131 +2817,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 165K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 483</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786359623.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=W95hJNP_nIA', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/W95hJNP_nIA/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">7:52</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=W95hJNP_nIA" target="_blank" onclick="event.stopPropagation();">How To Start a Kids Animation Channel With AI (Full Tutorial)</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/Nd_DrX5Cy2L8LgifUi4i1zb38SdXUa64RNNTiEdBYXq2YAv8cSIbtYRJTJ1vijF8WdTxHqNW=s88-c-k-c0x00ffffff-no-rj" alt="Mira AI" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCLmBFlpNOjLxpFEV5_Ax0mg" target="_blank" onclick="event.stopPropagation();">Mira AI</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 9K</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786293794.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=delneY9k5Lw', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/delneY9k5Lw/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">17:20</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=delneY9k5Lw" target="_blank" onclick="event.stopPropagation();">I Asked Grok AI To Predict The 2028 Election Map... JAW-DROPPING Results!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Kalshi: Use the link below to earn a bonus credit up to $500!* 》http://kalshi.com/r/ET *Pollsmax: See all the polling data and maps ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/v4ogi_5YLueABxLxfaqA_Sjaen6L9VCJUhjkKhiWbnBINYQGljSw-GLnAnKkb0PqM_87dXSQ=s88-c-k-c0x00ffffff-no-rj" alt="Election Time" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC4bC-T3iypwMjLd-teG-sgQ" target="_blank" onclick="event.stopPropagation();">Election Time</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 180K</span>
+                                    <span style="color: #9ca3af;">👁️ 77K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2884,7 +2826,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
+                                    <span style="color: #9ca3af;">💬 742</span>
                                 </div>
                                 
                             </div>
@@ -2894,7 +2836,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1786302003.0"></span>
+                                    <span data-timestamp="1786373177.0"></span>
                                 </div>
                                 
                             </div>
@@ -2902,24 +2844,24 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LTRX1A3X9Ik', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i5pFn0W5iiQ', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LTRX1A3X9Ik/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i5pFn0W5iiQ/hqdefault.jpg');">
                         
-                        <span class="duration-badge">2:37</span>
+                        <span class="duration-badge">0:14</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LTRX1A3X9Ik" target="_blank" onclick="event.stopPropagation();">A 2.4 Trillion Parameter AI Model Goes Free to Download This Week</a>
+                            <a href="https://www.youtube.com/watch?v=i5pFn0W5iiQ" target="_blank" onclick="event.stopPropagation();">🔥🙏lord shiva tranformation🙏 #lordshiva #ai #ytviral #ytshorts #Devotional #bhakti</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Date: August 10, 2026 SOURCES Alibaba Unveils Qwen3.8-Max: Its Largest and Most Capable Flagship Model to Date ...
+                            Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Mahakal #Bholenath ...
                         </div>
                         
 
@@ -2930,9 +2872,9 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/aF3QORifwgaOgqEwyj8nu6cTLHRIgg-TCiiBermXhY905JxouE77r7BAz5_EnhmTwEbJ3PJkSQ=s88-c-k-c0x00ffffff-no-rj" alt="Jason Lowe on AI" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/hfYJf4owGtyvF85FOud7hsB2KzwNsmFRg5GECtH2kDxqLfQF8KelEn4ik_YEQW_O8PoWN6mw=s88-c-k-c0x00ffffff-no-rj" alt="Telugu stories world " class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCCPudlL4CJltN2dpIco_3mQ" target="_blank" onclick="event.stopPropagation();">Jason Lowe on AI</a>
+                                    <a href="https://www.youtube.com/channel/UC87futwtNp86YqyCzP90pcA" target="_blank" onclick="event.stopPropagation();">Telugu stories world </a>
                                 </div>
                                 
                             </div>
@@ -2941,209 +2883,11 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                    <span style="color: #9ca3af;">👁️ 96K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 324</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 10</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786365031.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JOdT__l2JW0', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JOdT__l2JW0/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">14:00</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=JOdT__l2JW0" target="_blank" onclick="event.stopPropagation();">WTF Is Happening To SpaceX?</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Jarvis, Invest my life savings in SpaceX NOW. The God Emperor Musk Demands it... ---- Music Used in Order of Appearance: ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ON6RcvHY0hDP87WECln6rxZDf3HNNSWG8DuSZ-n_BbRkX-XBAXiuV_HnmDKk87E7SZerfy0BCuc=s88-c-k-c0x00ffffff-no-rj" alt="MonkeyExplains" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCiBGqUxeTe4AYQyRseSZaKw" target="_blank" onclick="event.stopPropagation();">MonkeyExplains</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 218K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 11K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786291222.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=zdsoe_OsnHw', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/zdsoe_OsnHw/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">15:09</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=zdsoe_OsnHw" target="_blank" onclick="event.stopPropagation();">AI Is On Its Last Legs</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/eCM0MN8w-3ubdQ7I07_6Nb2YO1wckXAKhbRB0FCCJpXAPAJGmcGAOm9U2axLQkQ8m6fPcRK86qQ=s88-c-k-c0x00ffffff-no-rj" alt="Cole Hastings" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCwQnoax3HWID1WOzZ4mqLPQ" target="_blank" onclick="event.stopPropagation();">Cole Hastings</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 254K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 10K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1786291207.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=Vn1Bn1h3zUU', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/Vn1Bn1h3zUU/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:11</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=Vn1Bn1h3zUU" target="_blank" onclick="event.stopPropagation();">Green + Yellow Powder Mixing 💚💛 → Lime Green | Satisfying AI ASMR#shorts</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Watch green and yellow pigment powders being physically mixed together in an ultra-realistic AI-generated ASMR color-mixing ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/UC64w5BX0Me3k56bvWNFjw4-YN_vDMLAj_niRt9etFG_z6OKOkqlmI2JkgxRonpqNwIOlHvp=s88-c-k-c0x00ffffff-no-rj" alt="Colours Mixture " class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCkT75_vf9hVgfy1CeWlGpbA" target="_blank" onclick="event.stopPropagation();">Colours Mixture </a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 388K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
+                                    <span style="color: #9ca3af;">👍 1K</span>
                                 </div>
                                 
                                 
@@ -3158,7 +2902,263 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1786323983.0"></span>
+                                    <span data-timestamp="1786329019.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pAKesyclpM8', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pAKesyclpM8/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:44</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=pAKesyclpM8" target="_blank" onclick="event.stopPropagation();">Ai Generates a New virus</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Subscribe to join the prayer army and receive notifications of live prayer and prophecy: ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Z6wdwxTTsScgfkPwYQIVL3Q1zvBS148UW5qT9KEPC39db5vaUzUsMEgOwpekZe-JMnMg5Pwq1g=s88-c-k-c0x00ffffff-no-rj" alt="Last Days" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCBqj7_4xib9pKATW4394PmQ" target="_blank" onclick="event.stopPropagation();">Last Days</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 115K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 8K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 457</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786332961.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=CZbgZrwsrA0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/CZbgZrwsrA0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">2:57</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=CZbgZrwsrA0" target="_blank" onclick="event.stopPropagation();">Testing an AI Scrambled Eggs Hack from TikTok! 🍳</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_mGU1Vm3sxAjWowzKRuSA_D5S5PrO_Pk15W1YFKir7hZgc=s88-c-k-c0x00ffffff-no-rj" alt="Honeysuckle" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCwsa-MpLNx4pnsM1PiQwhyQ" target="_blank" onclick="event.stopPropagation();">Honeysuckle</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 124K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 7K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 81</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786295829.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=fBP6biKA8vU', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/fBP6biKA8vU/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:57</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=fBP6biKA8vU" target="_blank" onclick="event.stopPropagation();">Meta releases AI at-home model, faces backlash#shorts #meta #ai #zuckerberg</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Mark Zuckerberg's Meta has released a scaled-down AI program consumers can download and use on a personal computer, but ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s88-c-k-c0x00ffffff-no-rj" alt="Bloomberg Television" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg" target="_blank" onclick="event.stopPropagation();">Bloomberg Television</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 1K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 19</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 4</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786402791.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=3DzgV30RYpY', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/3DzgV30RYpY/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:26</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=3DzgV30RYpY" target="_blank" onclick="event.stopPropagation();">AI Movie VS Real Movie 😳</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/BPc4IMSLYl66XoO5Ueb4N3Tcd1xYLAISjMEHVdJaPV-QeXpeROududxDnsGLqKuQxKpUnXcGZw=s88-c-k-c0x00ffffff-no-rj" alt="Mark Tilbury" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA" target="_blank" onclick="event.stopPropagation();">Mark Tilbury</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 638K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 17K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 879</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1786177086.0"></span>
                                 </div>
                                 
                             </div>
@@ -3186,7 +3186,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T22:07:02.325696+00:00">Updated 2026-08-10T22:07:02.325696+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:03.965942+00:00">Updated 2026-08-11T02:35:03.965942+00:00</small>
     </div>
 </div>
 
@@ -3453,7 +3453,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 47,468</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,419</span>
+                                    <span class="model-stats">❤️ 3,444</span>
                                 </div>
                             </div>
                             
@@ -3511,7 +3511,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 954,441</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,047</span>
+                                    <span class="model-stats">❤️ 3,066</span>
                                 </div>
                             </div>
                             
@@ -3569,13 +3569,13 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 657</span>
+                                    <span class="model-stats">❤️ 764</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-08-10T08:15:02.000Z"></span>
+                                    <span class="model-age" data-timestamp="2026-08-11T00:03:43.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3623,7 +3623,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 6,009,639</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,141</span>
+                                    <span class="model-stats">❤️ 1,151</span>
                                 </div>
                             </div>
                             
@@ -3679,7 +3679,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 596</span>
+                                    <span class="model-stats">❤️ 602</span>
                                 </div>
                             </div>
                             
@@ -3737,7 +3737,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 1,510,032</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 10,466</span>
+                                    <span class="model-stats">❤️ 10,473</span>
                                 </div>
                             </div>
                             
@@ -3795,7 +3795,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 89,680</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 487</span>
+                                    <span class="model-stats">❤️ 490</span>
                                 </div>
                             </div>
                             
@@ -3853,7 +3853,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 2,439,083</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,857</span>
+                                    <span class="model-stats">❤️ 1,863</span>
                                 </div>
                             </div>
                             
@@ -3909,7 +3909,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 0</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 439</span>
+                                    <span class="model-stats">❤️ 440</span>
                                 </div>
                             </div>
                             
@@ -3967,7 +3967,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                     <span class="model-stats">⬇️ 1,344</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 309</span>
+                                    <span class="model-stats">❤️ 312</span>
                                 </div>
                             </div>
                             
@@ -4001,7 +4001,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T22:07:00.265643+00:00">Updated 2026-08-10T22:07:00.265643+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:12.305830+00:00">Updated 2026-08-11T02:35:12.305830+00:00</small>
     </div>
 </div>
 
@@ -4249,7 +4249,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 119</span>
+                                    <span class="paper-stats">▲ 120</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 4</span>
@@ -4335,7 +4335,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 23,269</span>
+                                    <span style="color: #9ca3af;">⭐ 23,365</span>
                                 </div>
                                 
                             </div>
@@ -4486,7 +4486,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 309</span>
+                                    <span class="paper-stats">▲ 310</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 5</span>
@@ -4532,92 +4532,6 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2607.24653', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2607.24653.png');" ></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2607.24653" target="_blank" onclick="event.stopPropagation();">Kimi K3: Open Frontier Intelligence</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg" alt="Moonshot AI"
-                                class="org-avatar">
-                            
-                            <a href="https://huggingface.co/moonshotai" target="_blank"
-                                onclick="event.stopPropagation();">
-                                Moonshot AI
-                            </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 487</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 10</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 8,310</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2607.24653" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🎓 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/MoonshotAI/Kimi-K3" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2026-07-26T20:00:00.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2508.02739', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.02739.png');" ></div>
@@ -4649,14 +4563,14 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 51</span>
+                                    <span class="paper-stats">▲ 52</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 4</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 36,338</span>
+                                    <span style="color: #9ca3af;">⭐ 36,420</span>
                                 </div>
                                 
                             </div>
@@ -4727,7 +4641,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 37,003</span>
+                                    <span style="color: #9ca3af;">⭐ 37,041</span>
                                 </div>
                                 
                             </div>
@@ -4830,6 +4744,92 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
                                     <span class="paper-age" data-timestamp="2024-07-23T13:50:43.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2607.24653', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2607.24653.png');" ></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="https://huggingface.co/papers/2607.24653" target="_blank" onclick="event.stopPropagation();">Kimi K3: Open Frontier Intelligence</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            Kimi Team, Tongtong Bai, Yifan Bai et al. (402 authors)
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg" alt="Moonshot AI"
+                                class="org-avatar">
+                            
+                            <a href="https://huggingface.co/moonshotai" target="_blank"
+                                onclick="event.stopPropagation();">
+                                Moonshot AI
+                            </a>
+                            
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        
+                        <div class="paper-summary">
+                            We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.
+                        </div>
+                        
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ 487</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 10</span>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ 8,330</span>
+                                </div>
+                                
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="https://arxiv.org/abs/2607.24653" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://github.com/MoonshotAI/Kimi-K3" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="2026-07-26T20:00:00.000Z"></span>
                                 </div>
                             </div>
                             
@@ -5007,7 +5007,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T22:07:01.323503+00:00">Updated 2026-08-10T22:07:01.323503+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:13.417684+00:00">Updated 2026-08-11T02:35:13.417684+00:00</small>
     </div>
 </div>
 
@@ -5221,7 +5221,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
 <div class="widget widget-github-repos">
     <div class="widget-header">
-        <h3><a href="https://github.com/search?q=ai%20created%3A%3E2026-07-11&type=repositories&s=stars&o=desc" target="_blank" style="color: inherit; text-decoration: none;">GitHub Repos</a></h3>
+        <h3><a href="https://github.com/search?q=ai%20created%3A%3E2026-07-12&type=repositories&s=stars&o=desc" target="_blank" style="color: inherit; text-decoration: none;">GitHub Repos</a></h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
             "ai" · Last 30 days
         </div>
@@ -5279,13 +5279,13 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">899</span>
+                                <span class="repo-stats">901</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-08T23:51:41Z"></span>
+                                <span class="repo-age" data-timestamp="2026-08-11T02:34:51Z"></span>
                             </div>
                         </div>
                         
@@ -5346,7 +5346,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">394</span>
+                                <span class="repo-stats">395</span>
                             </div>
                         </div>
                         
@@ -5472,7 +5472,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-10T22:06:08Z"></span>
+                                <span class="repo-age" data-timestamp="2026-08-11T02:34:00Z"></span>
                             </div>
                         </div>
                         
@@ -5533,7 +5533,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">452</span>
+                                <span class="repo-stats">458</span>
                             </div>
                         </div>
                         
@@ -5598,7 +5598,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">197</span>
+                                <span class="repo-stats">200</span>
                             </div>
                         </div>
                         
@@ -5665,7 +5665,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">174</span>
+                                <span class="repo-stats">175</span>
                             </div>
                         </div>
                         
@@ -5732,7 +5732,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">155</span>
+                                <span class="repo-stats">156</span>
                             </div>
                         </div>
                         
@@ -5872,7 +5872,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-08-10T21:58:32Z"></span>
+                                <span class="repo-age" data-timestamp="2026-08-11T00:33:17Z"></span>
                             </div>
                         </div>
                         
@@ -5883,7 +5883,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(35, 134, 54, 0.05); border-color: #238636; width: 280px;"
-                     onclick="window.open('https://github.com/search?q=ai%20created%3A%3E2026-07-11&type=repositories&s=stars&o=desc', '_blank')">
+                     onclick="window.open('https://github.com/search?q=ai%20created%3A%3E2026-07-12&type=repositories&s=stars&o=desc', '_blank')">
                     <div style="text-align: center;">
                         <svg height="48" width="48" viewBox="0 0 16 16" style="margin-bottom: 8px; fill: #238636;">
                             <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
@@ -5902,7 +5902,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-10T22:06:49.723141+00:00">Updated 2026-08-10T22:06:49.723141+00:00</small>
+        <small data-timestamp="2026-08-11T02:35:02.000541+00:00">Updated 2026-08-11T02:35:02.000541+00:00</small>
     </div>
 </div>
 
