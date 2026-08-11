@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T10:50:50.266935+00:00'
+updated: '2026-08-11T11:42:52.168088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 10:50 UTC  
+**Last Updated:** August 11, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-3h ago
+4h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 AI companies to Apply To: A Curated List of 160+ Funded AI-First Startups for Software Engineers job-hunting in 2026. - vinitshahdeo/awesome-ai-startups-hiring
 
-🔗 [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) • 43m ago
+🔗 [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ AI companies to Apply To: A Curated List of 160+ Funded AI-First Startups for So
 
 We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work. I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.
 
-13h ago
+14h ago
 
 ---
 
@@ -79,7 +79,7 @@ We’re comparing a few options for a large contact center the main goal is to a
 
 ​ Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ We’re comparing a few options for a large contact center the main goal is to a
 
 Every one of these clips lands the same blow eventually: a role someone spent years building gets quietly outperformed by a system that never clocks out. Kavak sells used cars across Latin America — a genuinely messy transaction: ~20,000 SKUs to choose from, then financing, insurance, and a trade-in valuation stacked on top. Historically, closing one sale meant routing a customer through 15 separate human specialists across 15 different teams, each holding one piece of the process. Alejandro Maza Ayala, Kavak's Chief Product & AI Officer, explained on a16z's show how they fixed it — not by making a support bot, but by building a single "mega-expert" agent that holds all 15 specialties at once (financing, insurance, trade-in, advisory) and puts that one agent in front of the customer. The result: 2.1x the conversion rate of their own human sales team, tripled customer satisfaction. The agent never tires, never forgets a customer's history, and when it makes a mistake, the correction propagates to the other 200,000 agents in the fleet by the next morning — a scale of self-correction no individual human career can match working alone. It closes on Alejandro flatly stating that the industry assumption — "customers aren't going to want to buy expensive things from AI" — is wrong, and Kavak's numbers are the proof. When I read the transcript, it felt so eerily similar to the Borg Collective Mind in Star Trek. That's the ultimate evolution. The question we need to ask is, will it serve us, or subjugate us? If your role is the coordination layer between departments — the person routing a customer between financing, insurance, and everyone else — that's precisely the layer this consolidates first. Worth sitting with, not scrolling past. Clip credit: a16z — full video on their channel. DM for credit or removal requests. Drop your take below.
 
-32m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Every one of these clips lands the same blow eventually: a role someone spent ye
 
 With all the talk about smart glasses in the news at the moment, im quite confused about just how identifiable faces are using AI. For example, if someone walks down the street and photographs/films me, how easily it it for them to use AI to work out who I am? And what if they photograph me, save it and then use more advanced tools on it later outside of whatever software the glasses use? I have private social media accounts but do have photos of myself on some work-related websites and platforms, so maybe AI could use some smart facial recognition to map it to those images and work out who I am? Thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ With all the talk about smart glasses in the news at the moment, im quite confus
 
 Most AI tools give you a text box. You write something, it generates something, and you spend the rest of the time trying to get it to understand what you actually meant. AI Wizard does it differently. You pick a workflow — website, app, pitch deck, logo, API, etc. — and it asks you a short series of adaptive questions before generating anything. Each answer narrows the next question. By the end, it has enough context to produce something genuinely useful. It's free. I'm absorbing the API costs myself for now. My country isn't listed on Stripe or PayPal, so I can't take traditional payments — there's a Binance link if anyone wants to chip in, but no pressure at all. Would love honest feedback — does the interview feel like a better UX, or is it just extra steps? 🔗 https://aiwizard-a.vercel.app/
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Most AI tools give you a text box. You write something, it generates something, 
 
 OpenAI tightened security around its upcoming Astra model after tests suggested it could reach critical cybersecurity capabilities.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 20h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-locks-down-astra-after-model-raises-first-ever-critical-cyber-capability-fears) • 21h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI tightened security around its upcoming Astra model after tests suggested 
 
 Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.
 
-WIRED • 50m ago
+WIRED • 1h ago
 
 ---
 
@@ -137,13 +137,13 @@ CNBC • 22h ago
 
 **[Washington homebuyers get a new AI-powered search tool](https://www.axios.com/local/washington-dc/2026/08/11/real-estate-ai-search-tool-house-me)**
 
-Axios • 21m ago
+Axios • 1h ago
 
 ---
 
 **[A.I. Offers Hope for Men With Infertility, Spotting ‘Hidden’ Sperm](https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1h ago
 
 Brad Pitt has shared that when it comes to making expensive visual effects more affordable, AI could help more modestly budgeted productions get off the ground.View on euronews
 
-Yahoo • 41m ago
+Yahoo • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo • 41m ago
 
 An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
 
-Anthropic • 16h ago
+Anthropic • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Anthropic • 16h ago
 
 The country has bet big on tech services but disruption is coming
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -175,13 +175,13 @@ Financial Times • 2h ago
 
 The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[Nvidia partners with Wall Street giants to raise $500 billion for AI buildout](https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -189,7 +189,7 @@ Reuters • 18h ago
 
 Track 5 key investor headlines: Nvidia’s $500B AI financing push, Burry vs Palantir, Germany gas risks, FDA GRAS rule, and HSBC equity view—read now.
 
-Seeking Alpha • 38m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -209,13 +209,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 515 • 💬 475 • 20h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 515 • 💬 475 • 21h ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 328 • 💬 341 • 12h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 328 • 💬 341 • 13h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -229,7 +229,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 190 • 💬 152 • 13h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 190 • 💬 152 • 14h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -249,7 +249,7 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
 
 Kinney Drugs is scaling back its AI assistant after customers reported incoherent calls, wrong dosages, and missed prescription notifications.
 
-⬆️ 149 • 💬 164 • 19h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+⬆️ 149 • 💬 164 • 20h ago • [https://www.wcax.com](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
 
 ---
 
@@ -263,7 +263,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
-⬆️ 109 • 💬 199 • 20h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
+⬆️ 109 • 💬 199 • 21h ago • [OpenAI](https://openai.com/index/responsible-ai-infrastructure-texas/)
 
 ---
 
@@ -315,7 +315,7 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 38K • 👍 449 • ⏱️ 6:43 • 12h ago
+👁️ 38K • 👍 449 • ⏱️ 6:43 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ Learn more about 2026 Guide to AI Agents here → https://ibm.biz/~e7fElYU4A Bui
 
 📺 IBM Technology
 
-👁️ 17K • 👍 854 • 💬 62 • ⏱️ 13:22 • 23h ago
+👁️ 17K • 👍 854 • 💬 62 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when y
 
 📺 The Infographics Show
 
-👁️ 217K • 👍 7K • 💬 1K • ⏱️ 16:13 • 14h ago
+👁️ 217K • 👍 7K • 💬 1K • ⏱️ 16:13 • 15h ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,497 • 1h ago
+⬇️ 59,368 • ❤️ 3,497 • 2h ago
 
 ---
 
@@ -403,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 920 • 10h ago
+⬇️ 0 • ❤️ 920 • 11h ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,877 • 6h ago
+⬇️ 2,521,093 • ❤️ 1,877 • 7h ago
 
 ---
 
@@ -579,7 +579,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ABot-World-0 is a real-time action-conditioned video world model that uses progressive distillation, long-horizon alignment, and a co-designed streaming stack to enable efficient, long-horizon interactive world generation.
 
-▲ 310 • 💬 5 • ⭐ 2,187 • 20d ago
+▲ 310 • 💬 5 • ⭐ 2,187 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2607.19191) • [💻 code](https://github.com/amap-cvlab/ABot-World) • [🔗 project](https://abot-world.amap.com/)
 
@@ -647,7 +647,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 915 • 6h ago
+⭐ 8.2k • 🔱 915 • 7h ago
 
 ---
 
@@ -675,7 +675,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 53m ago
 
 ---
 
@@ -685,7 +685,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 472 • 7h ago
+⭐ 2.5k • 🔱 472 • 8h ago
 
 ---
 
@@ -715,7 +715,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 158 • 2h ago
+⭐ 2.1k • 🔱 158 • 3h ago
 
 ---
 
@@ -735,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 253 • 1m ago
+⭐ 2.0k • 🔱 253 • 53m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-11T10:50:50.277111+00:00'
+updated: '2026-08-11T11:42:52.176716+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 10:50 UTC  
+**Last Updated:** August 11, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I am so tired of living for Bitcoin. Any suggestions
 
-10h ago
+11h ago
 
 ---
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am so tired of living for Bitcoin. Any suggestions
 
 After 4 years of savings, that I thought would be the way to buy a house in the future , all gone along with many others like me. I feel defeated not angry not sad just defeated....numb... I do not post to gather any sympathy, to be honest I don't know why I am posting, something I have never done before maybe it's somewhere I can vent out this pressure I don't know I haven't slept more than a few hours since it happened. 0.45 btc is not much for a lot! but it was my everything my own treasure my own accomplishment. I was so happy that half a btc was almost in reach. Life is not fair, wishing you all happy lives ahead with secure wallets and hope you never experience this feeling.
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ After 4 years of savings, that I thought would be the way to buy a house in the 
 
 Totally dishonorable and cowardice behavior from him over the past week along with the CTO, Peter Gray (who introduced the bug). $100 million missing and they have done nothing but gone silent. And then coinkite comes out with some statement about "earning back our trust". Go fuck yourselves, the rest of your life should be nothing but devoted to helping out the people who lost their savings due to your faulty product. Imagine a civil engineer's bridge collapsing and them just shrugging their shoulders, "sorry about that". There are thousands of lives ruined due to their negligence. And all they can say is "we're going to have to do a lot to earn your trust"? Talked shit nonstop on twitter, but when Rodolfo's and Peter's backs are actually against the wall they've proved to be incredible incompetent and dishonorable cowards. I lost .7 BTC, hopefully I can earn that back in my life. Rodolfo Novak and Peter Gray have lost all honor and that's never returning.
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledg
 
 **[Luke and Mechanic both out at Ocean (Bitcoin mining pool operator).](https://www.reddit.com/r/Bitcoin/comments/1vl0j1a/luke_and_mechanic_both_out_at_ocean_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledg
 
 The BIP-110 fork died after two blocks. Backers now target September 1 for a proof-of-work change and breakaway coin.
 
-🔗 [BeInCrypto](https://beincrypto.com/bip-110-fork-breakaway-coin-september/) • 3h ago
+🔗 [BeInCrypto](https://beincrypto.com/bip-110-fork-breakaway-coin-september/) • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The BIP-110 fork died after two blocks. Backers now target September 1 for a pro
 
 I'm still relatively new to stacking BTC and just thought I should ask how secure my Trezor wallet is. I don't have a lot of knowledge in this space and would appreciate some insights. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ I'm still relatively new to stacking BTC and just thought I should ask how secur
 
 Bitcoin has been around for 17 years now, and the ecosystem looks very different from where it started. At what point do we stop calling ourselves early? Or do you think Bitcoin is still in its early stages despite everything that's happened so far?
 
-20h ago
+21h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 6h ago
 
 "That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 15h ago
 
 Ben Gagnon, CEO of Keel Infrastructure, said the company is exiting Bitcoin mining to convert its power assets into AI infrastructure, targeting more predictable revenue and growth.
 
-CNBC • 6m ago
+CNBC • 58m ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 6m ago
 
 The Senate passed a short-term funding measure by a 90-6 vote, reducing the immediate odds of a US government shutdown and removing one macro overhang for risk assets heading into the fall. Bitcoin is just about managing to hold onto $64,000, with Government shutdown odds increasing.The bill funds federal agencies ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin Core developer and BIP Editor Mark “Murch” Erhardt formally called for Luke Dashjr removal from the Bitcoin Improvement Proposal (BIP) editorial team on Aug. 9, escalating a dispute over Dashjr’s handling of BIP110 and the proposal’s recent chain split. The motion, posted to the Bitcoin Development Mailing List and ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-bloomberg.com • 17h ago
+bloomberg.com • 18h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1d ago
 
 And the ETH inflows were even bigger, when factoring in market cap.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -221,13 +221,13 @@ Decrypt • 22h ago
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
 **[Bitcoin Falls as U.S.-Iran Impasse Hits Risk Sentiment](https://www.barrons.com/livecoverage/stock-market-news-today-081126/card/bitcoin-falls-as-u-s-iran-impasse-hits-risk-sentiment-lp62Zu4yXNAkZf2agKAf?modCode=hp_LEDE_C_LC_1)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ has reportedly lost $100 million US worth of bitcoin as a result of the hack.
 
 **[Hackers Hit Bitcoin's Safest Hiding Place in Ongoing Attack](https://news.ycombinator.com/item?id=49167125)**
 
-⬆️ 4 • 💬 1 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
+⬆️ 4 • 💬 1 • 7d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack)
 
 ---
 
@@ -296,7 +296,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 13h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 14h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -326,7 +326,7 @@ The 10-day bullish divergence + MACD cross has marked every Bitcoin macro low �
 
 📺 Krown
 
-👁️ 335 • 👍 30 • 💬 5 • ⏱️ 1:02 • 50m ago
+👁️ 335 • 👍 30 • 💬 5 • ⏱️ 1:02 • 1h ago
 
 ---
 
@@ -336,7 +336,7 @@ Thanks to Coinbase for sponsoring this video. Activate your rewards below: ▻ C
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 453 • 💬 167 • ⏱️ 15:47 • 17h ago
+👁️ 7K • 👍 453 • 💬 167 • ⏱️ 15:47 • 18h ago
 
 ---
 
@@ -346,7 +346,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 9K • 👍 340 • 💬 11 • ⏱️ 2:25 • 18h ago
+👁️ 9K • 👍 340 • 💬 11 • ⏱️ 2:25 • 19h ago
 
 ---
 
@@ -356,7 +356,7 @@ The only bet in Bitcoin is that Washington never stops printing money. That's no
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 185 • 💬 30 • ⏱️ 0:50 • 15h ago
+👁️ 9K • 👍 185 • 💬 30 • ⏱️ 0:50 • 16h ago
 
 ---
 
@@ -364,7 +364,7 @@ The only bet in Bitcoin is that Washington never stops printing money. That's no
 
 📺 Khuncoin
 
-👁️ 12K • 👍 210 • 💬 6 • ⏱️ 0:14 • 23h ago
+👁️ 12K • 👍 210 • 💬 6 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -374,7 +374,7 @@ How much Bitcoin do you actually need to retire? Not one coin. Not 0.01. The rea
 
 📺 Trey Sellers
 
-👁️ 6K • 👍 215 • 💬 87 • ⏱️ 14:23 • 21h ago
+👁️ 6K • 👍 215 • 💬 87 • ⏱️ 14:23 • 22h ago
 
 ---
 
@@ -394,7 +394,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 95K • 👍 6K • 💬 300 • ⏱️ 8:04 • 19h ago
+👁️ 95K • 👍 6K • 💬 300 • ⏱️ 8:04 • 20h ago
 
 ---
 
@@ -402,7 +402,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 254 • 💬 4 • ⏱️ 2:12 • 9h ago
+👁️ 3K • 👍 254 • 💬 4 • ⏱️ 2:12 • 10h ago
 
 ---
 
