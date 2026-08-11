@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T02:36:47.214760+00:00'
+updated: '2026-08-11T04:19:48.750745+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 02:36 UTC  
+**Last Updated:** August 11, 2026 at 04:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-11h ago
+13h ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-11h ago
+13h ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Title. I’m not a robotics guy - at all - but it seems like this could be impor
 
 Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-9h ago
+11h ago
 
 ---
 
@@ -110,6 +110,30 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 ## Google News: "robotics"
 
+**[China takes 97% of H1 global humanoid robot shipments; supply chains, vast market drive rapid scale-up, intl reach: expert](https://www.globaltimes.cn/page/202608/1367923.shtml)**
+
+China's cutting-edge industrial upgrade witnessed two major landmarks on Monday, marking the country's full-fledged global lead in humanoid robotics and further solidifying the rise of its
+
+Global Times • 12h ago
+
+---
+
+**[Humanoid robots trained on 1M hours of human video achieve up to 90% task success](https://interestingengineering.com/ai-robotics/dyna-robotics-dyna-2-human-video-robot-training)**
+
+Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
+
+Interesting Engineering • 6h ago
+
+---
+
+**[Unitree Robotics opens IPO subscription, set to become China's first humanoid robot stock](https://news.cgtn.com/news/2026-08-10/Unitree-Robotics-opens-IPO-subscription-a-milestone-for-industry-1PuxbxhJhks/p.html)**
+
+Unitree Robotics, one of China's leading robotics companies, officially launched its subscription process for a listing on the Shanghai Stock Exchange's STAR Market on Monday.
+
+news.cgtn.com • 21h ago
+
+---
+
 **[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
 
 Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
@@ -118,11 +142,21 @@ Business Insider • 1d ago
 
 ---
 
-**[Canadian robotics companies caught up in U.S. ban on foreign-made bots](https://globalnews.ca/news/12013745/canadian-robotics-us-ban/)**
+**[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
 
-Canadian robotics companies are warning they’re being swept up in a U.S. crackdown on foreign-made robots, as new restrictions threaten to shut them out of their largest market.
+During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-Global News • 2d ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Exclusive: Former OpenAI Robotics Lead Joins Anthropic](https://www.theinformation.com/briefings/exclusive-former-openai-robotics-lead-joins-anthropic)**
+
+Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined Anthropic as a member of technical staff working on research, according to her LinkedIn. 
+
+ Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
+
+theinformation.com • 3h ago
 
 ---
 
@@ -130,7 +164,15 @@ Global News • 2d ago
 
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-Supply Chain Dive • 12h ago
+Supply Chain Dive • 14h ago
+
+---
+
+**[The Roboguard Revolution is Short-Circuiting](https://www.404media.co/the-roboguard-revolution-is-short-circuiting/)**
+
+Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
+
+404media.co • 15h ago
 
 ---
 
@@ -142,49 +184,11 @@ politico.eu • 4d ago
 
 ---
 
-**[The Roboguard Revolution is Short-Circuiting](https://www.404media.co/the-roboguard-revolution-is-short-circuiting/)**
+**[Facing Ban, US Seller of Chinese Robots Makes Domestic Manufacturing Push](https://www.pcmag.com/news/facing-ban-us-seller-of-chinese-robots-makes-domestic-manufacturing-push)**
 
-Knightscope and other robotics companies are rethinking automated security following canceled contracts. One pivot? Human guards.
+RoboStore has been a major seller of humanoid robots from Chinese vendor Unitree, but last month, the US banned new foreign-made advanced robots.
 
-404 Media • 13h ago
-
----
-
-**[Unitree’s $900M IPO puts China’s growing robot industry in spotlight](https://interestingengineering.com/ai-robotics/china-unitree-ipo-humanoid-robot)**
-
-Unitree opens its Shanghai IPO, seeking $900 million as China’s robotics industry accelerates toward commercial adoption.
-
-Interesting Engineering • 18h ago
-
----
-
-**[How this robotics company is helping HII to build US Navy ships: CEO explains](https://finance.yahoo.com/video/robotics-company-helping-hii-build-211301350.html)**
-
-GrayMatter Robotics CEO and co-founder Ariyan Kabir discusses the company's deal with Huntington Ingalls Industries (HII) for delivering US Navy-grade ship production.
-
-finance.yahoo.com • 5h ago
-
----
-
-**[Negative imaginary theory moves from math niche to robots, aircraft and nanodevices](https://techxplore.com/news/2026-08-negative-imaginary-theory-math-niche.html)**
-
-Tech Xplore • 3d ago
-
----
-
-**[Humanoid Robotics Are Blurring The Line Between Humans And Machines](https://www.forbes.com/sites/chuckbrooks/2026/08/10/humanoid-robotics-are-blurring-the-line-between-humans-and-machines/)**
-
-The convergence of AI with robotics, biotechnology, neuromorphic computing, and brain-computer interfaces is accelerating innovation, ushering in a "cyborg horizon."
-
-Forbes • 8h ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-IEEE Spectrum • 2d ago
+PCMag • 13h ago
 
 ---
 
@@ -256,7 +260,7 @@ Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: ht
 
 📺 Excessive Overkill
 
-👁️ 137K • 👍 5K • 💬 242 • ⏱️ 47:03 • 4d ago
+👁️ 137K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
 
 ---
 

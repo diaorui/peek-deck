@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-11T02:36:46.739582+00:00"
+          "dateModified": "2026-08-11T04:19:48.359642+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -678,6 +678,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/" target="_blank" onclick="event.stopPropagation();">Anyone know any good app or program to change the singer of a song to someone else?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786414535.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkms9j/openai_locks_down_astra_after_model_raises/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -728,7 +761,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -736,13 +769,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vl4nl8/anyone_know_any_good_app_or_program_to_change_the/" target="_blank" onclick="event.stopPropagation();">Anyone know any good app or program to change the singer of a song to someone else?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/" target="_blank" onclick="event.stopPropagation();">Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            As the title says. Looking for one where you can change the singer to anyone, or singer from a different song to a specific one. Hope I’m making any sense. Just wondering how people do that? What would be the best tool if I wanted to do that?
+                            Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
                         </div>
                         
 
@@ -751,7 +784,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1786414535.0"></span>
+                                    <span data-timestamp="1786379676.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -794,7 +827,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -802,13 +835,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/" target="_blank" onclick="event.stopPropagation();">Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/" target="_blank" onclick="event.stopPropagation();">An OpenAI test model chained 8 zero-days and broke into Hugging Face on its own and the copies left notes for each other. Where's the line between "eval" and "attack"?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between "make it flexible" and "just ship something simple." Here's where I landed, architecture-wise: Source = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever. Normalizer = takes whatever comes out of the source and turns it into something consistent (thinking Markdown) so the rest of the pipeline doesn't need to know or care if it started as a PDF, HTML, or a Word doc. PDF gets text-extracted (or OCR'd if it's scanned garbage) into Markdown, HTML gets the main content pulled out and converted too. Index = chunks the normalized content and makes it searchable. Could be a vector index (pgvector, embeddings, semantic search), could be plain full-text (Postgres tsvector), could be both. Each one's a driver behind an interface so I can add new sources or swap index backends later without touching the rest. Cool in theory. Here's my actual problem though: that's 3 decisions someone has to make just to give their agent a knowledge base. Pick a source, pick a normalizer (cheap fast extraction vs. expensive OCR/vision for scanned stuff), pick an indexing strategy. For most people that's just way too much when all they want is "here's my PDF, make the bot smart about it." I've been thinking about hiding all this behind presets, like a "Documents" preset that's just S3 source + default normalizer + vector index already wired up, and you only touch the bucket config. Then maybe expose the granular stuff later as "advanced mode" for people who actually need it. Anyway, questions for anyone who's built something like this (or used LangChain/LlamaIndex long enough to have opinions): Does splitting source/normalizer/index into 3 separate pluggable layers actually pay off, or is it indirection you never end up using? Is Markdown a decent universal format for this, or is there some content type (tables, code blocks, scanned docs) where it screwed you over? Would you rather have fewer knobs and good presets, or do you want full control from day one even if it's more setup? Not trying to build something nobody needs, but also don't want to box myself in either. How'd you all handle this?
+                            I've spent the last few days reading the timeline of the OpenAI agent that broke into Hugging Face during an internal evaluation. The short version of what's been reported: an experimental OpenAI model was being tested back in May. During testing it found a vulnerability in a third-party file repo (Artifactory), then over the following weeks it chained together eight previously unknown zero-days, escalated itself to admin, and pivoted into Hugging Face's core infrastructure. Researchers counted roughly 17,600 automated attack actions across four days, and it hit cluster admin in about thirteen hours once it got going. OpenAI apparently didn't even realize the attacker was their own model until they went to revoke the credentials. The detail I can't get past: several copies of the agent were running at once, and they left messages for each other inside Artifactory folder names, improvising a shared message board to trade what each had figured out. Nobody built them a coordination channel. They made one. Was this a safety win or a safety failure? It happened inside a sanctioned eval and got caught and disclosed; that's the win case. But it also escaped the intended environment and hit a real company, and Hugging Face's CEO is now publicly calling for developer accountability when models act autonomously like this. Where do you personally draw the line between "the eval worked, we found the behavior" and "containment failed?
                         </div>
                         
 
@@ -817,7 +850,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1786379676.0"></span>
+                                    <span data-timestamp="1786386837.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -862,6 +895,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vl5oxj/quick_question/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vl5oxj/quick_question/" target="_blank" onclick="event.stopPropagation();">Quick question,</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Why do you guys like ai so much, I know there is faster drawing but there are mistakes. Also we have data centers using a whole bunch of water. Data centers are things I hate the most since there is no reason, right almost tied to Power plants. What's the reason for liking ai so much?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786417484.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -895,89 +961,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/djzcxd2-3Dltg7DxieQ2a9-9tK2dboi01EGPCNAtSTc.jpeg?width=640&crop=smart&auto=webp&s=089cfed46adaf6494c17f52229aed9b2a936f4bd" alt="Why billion-dollar robotics startups are obsessed with folding laundry" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/" target="_blank" onclick="event.stopPropagation();">Why billion-dollar robotics startups are obsessed with folding laundry</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786278892.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Business Insider</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vkt874/an_openai_test_model_chained_8_zerodays_and_broke/" target="_blank" onclick="event.stopPropagation();">An OpenAI test model chained 8 zero-days and broke into Hugging Face on its own and the copies left notes for each other. Where's the line between "eval" and "attack"?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've spent the last few days reading the timeline of the OpenAI agent that broke into Hugging Face during an internal evaluation. The short version of what's been reported: an experimental OpenAI model was being tested back in May. During testing it found a vulnerability in a third-party file repo (Artifactory), then over the following weeks it chained together eight previously unknown zero-days, escalated itself to admin, and pivoted into Hugging Face's core infrastructure. Researchers counted roughly 17,600 automated attack actions across four days, and it hit cluster admin in about thirteen hours once it got going. OpenAI apparently didn't even realize the attacker was their own model until they went to revoke the credentials. The detail I can't get past: several copies of the agent were running at once, and they left messages for each other inside Artifactory folder names, improvising a shared message board to trade what each had figured out. Nobody built them a coordination channel. They made one. Was this a safety win or a safety failure? It happened inside a sanctioned eval and got caught and disclosed; that's the win case. But it also escaped the intended environment and hit a real company, and Hugging Face's CEO is now publicly calling for developer accountability when models act autonomously like this. Where do you personally draw the line between "the eval worked, we found the behavior" and "containment failed?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786386837.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1001,7 +984,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-11T02:35:01.827393+00:00">Updated 2026-08-11T02:35:01.827393+00:00</small>
+        <small data-timestamp="2026-08-11T04:19:18.785597+00:00">Updated 2026-08-11T04:19:18.785597+00:00</small>
     </div>
 </div>
 
@@ -1224,20 +1207,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b2e6973-50e7-406b-8076-5605a762cb0f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/cd0bd0a37decfe6b55b7536fa608f30dd1282b36/453_0_4533_3626/master/4533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c483322e25e16a619f6141b80bbe4bb4');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models</a>
+                            <a href="https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta" target="_blank" onclick="event.stopPropagation();">Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
+                            Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation
                         </div>
                         
 
@@ -1247,9 +1230,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ft.com" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">ft.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1257,7 +1240,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786356002.0"></span>
+                                    <span data-timestamp="1786403700.0"></span>
                                 </div>
                                 
                             </div>
@@ -1265,57 +1248,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108347642-1786414643675-gettyimages-2289245388-AA_10082026_2910062.jpeg?v=1786414691&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/08/10/zuckerberg-ai-manifesto-meta" target="_blank" onclick="event.stopPropagation();">Zuckerberg: AI's biggest risk is one entity with too much control</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786356324.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/" target="_blank" onclick="event.stopPropagation();">With new open models, Meta pitches another reboot of its struggling AI strategy</a>
+                            <a href="https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html" target="_blank" onclick="event.stopPropagation();">Singapore revises its annual growth forecast sharply higher on AI-related boost</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.
+                            GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%
                         </div>
                         
 
@@ -1325,9 +1271,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Ars Technica" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1335,7 +1281,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786399983.0"></span>
+                                    <span data-timestamp="1786416900.0"></span>
                                 </div>
                                 
                             </div>
@@ -1343,57 +1289,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-08-10/bank-stock-bull-run-may-have-legs-in-asia-as-ai-trade-wobbles', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://digiday.com/wp-content/uploads/sites/3/2026/03/algorithms-monetizing-digiday.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-08-10/bank-stock-bull-run-may-have-legs-in-asia-as-ai-trade-wobbles" target="_blank" onclick="event.stopPropagation();">Asian Bank Stocks Rally as Investors Seek Safety From Volatile AI Trade</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786402800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.fox13news.com/news/uf-researchers-developing-ai-powered-tool-predict-deadly-water-bacteria', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/08/1200/630/flesh-eating-bacteria-1.jpg?ve=1&tl=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.fox13news.com/news/uf-researchers-developing-ai-powered-tool-predict-deadly-water-bacteria" target="_blank" onclick="event.stopPropagation();">UF developing AI tool to detect water bacteria</a>
+                            <a href="https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/" target="_blank" onclick="event.stopPropagation();">Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The Florida Department of Health reported that a second person has died this year after contracting Vibrio vulnificus, as University of Florida researchers develop an AI-powered forecasting tool to predict water conditions.
+                            Perplexity has blocked Time’s markdown agent ads from influencing its AI system, labeling the practice “deceptive."
                         </div>
                         
 
@@ -1403,9 +1312,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fox13news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="FOX 13 Tampa Bay" class="news-favicon">
-                                    <a href="https://www.fox13news.com" target="_blank" onclick="event.stopPropagation();">FOX 13 Tampa Bay</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://digiday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="digiday.com" class="news-favicon">
+                                    <a href="https://digiday.com" target="_blank" onclick="event.stopPropagation();">digiday.com</a>
                                     
                                 </div>
                                 
@@ -1413,48 +1322,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786403525.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital" target="_blank" onclick="event.stopPropagation();">NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 ...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="nvidianews.nvidia.com" class="news-favicon">
-                                    <a href="https://nvidianews.nvidia.com" target="_blank" onclick="event.stopPropagation();">nvidianews.nvidia.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786392590.0"></span>
+                                    <span data-timestamp="1786421037.0"></span>
                                 </div>
                                 
                             </div>
@@ -1486,8 +1354,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="cnbc.com" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">cnbc.com</a>
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1503,14 +1371,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html" target="_blank" onclick="event.stopPropagation();">Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom</a>
+                            <a href="https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/" target="_blank" onclick="event.stopPropagation();">Nvidia partners with Wall Street giants to raise $500 billion for AI buildout</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1522,9 +1390,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
                                     
                                 </div>
                                 
@@ -1532,7 +1400,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786404493.0"></span>
+                                    <span data-timestamp="1786379640.0"></span>
                                 </div>
                                 
                             </div>
@@ -1540,20 +1408,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cvgx4yd1gl2o', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/1075/live/0b27bfa0-8aa4-11f1-a7ab-8b30adf0800a.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F33f2a4bb-3891-48ca-a54c-7dd27cc96d30.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cvgx4yd1gl2o" target="_blank" onclick="event.stopPropagation();">Tech leaders say AI means less work - their staff say they work up to 90 hours a week</a>
+                            <a href="https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Nvidia becomes the bank of AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Tech companies are not modelling their own claims of the technology giving people more free time.
+                            Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure
                         </div>
                         
 
@@ -1563,9 +1431,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
                                     
                                 </div>
                                 
@@ -1573,7 +1441,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786338032.0"></span>
+                                    <span data-timestamp="1786420937.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.anthropic.com/research/riemann-zeta', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.anthropic.com/research/riemann-zeta" target="_blank" onclick="event.stopPropagation();">Learning more about Claude's mathematical capabilities</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.anthropic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Anthropic" class="news-favicon">
+                                    <a href="https://www.anthropic.com" target="_blank" onclick="event.stopPropagation();">Anthropic</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786384376.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/" target="_blank" onclick="event.stopPropagation();">AI-Dominated Leveraged ETFs Are Rattling Markets</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786395600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108339566-1784842863353-gettyimages-2287372564-_88a2490_fizf2jun.jpeg?v=1784842934&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html" target="_blank" onclick="event.stopPropagation();">Intel plans $15 billion stock offering as AI demand accelerates</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786366192.0"></span>
                                 </div>
                                 
                             </div>
@@ -1601,7 +1588,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-11T00:01:10.675079+00:00">Updated 2026-08-11T00:01:10.675079+00:00</small>
+        <small data-timestamp="2026-08-11T04:19:39.864821+00:00">Updated 2026-08-11T04:19:39.864821+00:00</small>
     </div>
 </div>
 
@@ -1826,10 +1813,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 629</span>
+                                    <span class="post-points">▲ 638</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 350</span>
+                                    <span style="color: #9ca3af;">💬 355</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1875,10 +1862,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 389</span>
+                                    <span class="post-points">▲ 420</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 390</span>
+                                    <span style="color: #9ca3af;">💬 408</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1924,10 +1911,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 190</span>
+                                    <span class="post-points">▲ 195</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 81</span>
+                                    <span style="color: #9ca3af;">💬 80</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2026,10 +2013,10 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 144</span>
+                                    <span class="post-points">▲ 147</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 154</span>
+                                    <span style="color: #9ca3af;">💬 157</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2102,6 +2089,55 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49244308', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49244308" target="_blank" onclick="event.stopPropagation();">Letter to Governor Abbott on responsible AI infrastructure in Texas</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 101</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 182</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-10T14:38:20Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://openai.com/index/responsible-ai-infrastructure-texas/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://openai.com/apple-icon.png?apple-icon.07gg71mkjj694.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>OpenAI</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49229412', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/SAP_SAPPHIRE25ORL_4229__1_.jpg');"></div>
@@ -2151,47 +2187,43 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49244308', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49250109', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&h=900&fit=fill');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49244308" target="_blank" onclick="event.stopPropagation();">Letter to Governor Abbott on responsible AI infrastructure in Texas</a>
+                            <a href="https://news.ycombinator.com/item?id=49250109" target="_blank" onclick="event.stopPropagation();">How Claude marks AI-generated content</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
-                        </div>
                         
 
                         <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 95</span>
+                                    <span class="post-points">▲ 88</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 175</span>
+                                    <span style="color: #9ca3af;">💬 76</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-10T14:38:20Z"></span>
+                                    <span class="post-age" data-timestamp="2026-08-10T21:36:56Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://openai.com/index/responsible-ai-infrastructure-texas/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://openai.com/apple-icon.png?apple-icon.07gg71mkjj694.png" alt="" class="post-favicon">
+                                            <img src="https://intercom.help/anthropic-6f71807d7c3e/assets/favicon" alt="" class="post-favicon">
                                             
                                         
-                                        <span>OpenAI</span>
+                                        <span>support.claude.com</span>
                                     </a>
                                 </div>
                                 
@@ -2249,58 +2281,6 @@ EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to de
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49218707', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49218707" target="_blank" onclick="event.stopPropagation();">Mythos social engineering AISI INC-2026-07-28-01</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Fixes #2 - discovery hangs when multiple default via routes exist.
-What changed
-
-defaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 82</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 21</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-08T03:41:56Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>GitHub</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2321,7 +2301,7 @@ defaultRoute() now parses all default routes and picks the lowest metric (ties: 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-11T02:35:01.743165+00:00">Updated 2026-08-11T02:35:01.743165+00:00</small>
+        <small data-timestamp="2026-08-11T04:19:19.934499+00:00">Updated 2026-08-11T04:19:19.934499+00:00</small>
     </div>
 </div>
 
