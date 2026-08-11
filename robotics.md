@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T17:27:22.856211+00:00'
+updated: '2026-08-11T18:26:23.379946+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 17:27 UTC  
+**Last Updated:** August 11, 2026 at 18:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -128,19 +128,19 @@ Business Insider • 2d ago
 
 **[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels?srnd=homepage-americas)**
 
-Bloomberg.com • 21m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks](https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6)**
 
-MarketWatch • 10m ago
+MarketWatch • 1h ago
 
 ---
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -148,7 +148,7 @@ The New York Times • 3h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
@@ -156,7 +156,7 @@ CBS News • 2h ago
 
 Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
 
-TribLIVE.com • 5h ago
+TribLIVE.com • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 16h ago
+The Information • 17h ago
 
 ---
 
@@ -190,23 +190,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
 
-The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
 
-📺 NBC News
+📺 KhanFlicks
 
-👁️ 35K • 👍 385 • 💬 426 • ⏱️ 1:36 • 6d ago
+👁️ 5K • 💬 15 • ⏱️ 8:34 • 2h ago
 
 ---
 
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
+**[I Found the COOLEST Machines at AMTEX Expo India](https://www.youtube.com/watch?v=7FJr7RQLWs0)**
 
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
+POV: You visit an industrial expo and leave with a wishlist bigger than your salary. #AMTEXExpo #EngineeringIndia ...
 
-📺 Julia McCoy
+📺 Arnov Does Tech
 
-👁️ 54K • 👍 2K • 💬 220 • ⏱️ 9:02 • 3d ago
+👁️ 255 • 👍 8 • 💬 2 • ⏱️ 0:46 • 27m ago
 
 ---
 
@@ -216,15 +216,45 @@ Every time you order clothes, groceries or household essentials online, there's 
 
 📺 BBC News
 
-👁️ 53K • 👍 677 • 💬 169 • ⏱️ 3:45 • 2d ago
+👁️ 54K • 👍 680 • 💬 169 • ⏱️ 3:45 • 2d ago
 
 ---
 
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
 
-📺 Ben Esherick
+The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
 
-👁️ 522K • 👍 26K • 💬 701 • ⏱️ 0:35 • 4d ago
+📺 NBC News
+
+👁️ 35K • 👍 386 • 💬 426 • ⏱️ 1:36 • 6d ago
+
+---
+
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
+
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
+
+📺 Julia McCoy
+
+👁️ 55K • 👍 2K • 💬 223 • ⏱️ 9:02 • 3d ago
+
+---
+
+**[Japan’s Handmade Robot Wolf 😮](https://www.youtube.com/watch?v=Cw8jn7MaD6g)**
+
+📺 Zack D. Films
+
+👁️ 1.4M • 👍 84K • 💬 900 • ⏱️ 0:37 • 5h ago
+
+---
+
+**[Popular Girl Only Has ROBOT FRIENDS | Dhar Mann Studios](https://www.youtube.com/watch?v=GonfnLQqW98)**
+
+Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next series YOU want us to create: ...
+
+📺 Dhar Mann Studios
+
+👁️ 1.7M • 👍 23K • 💬 2K • ⏱️ 24:28 • 3d ago
 
 ---
 
@@ -234,17 +264,17 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 59K • 👍 776 • 💬 397 • ⏱️ 28:01 • 3d ago
+👁️ 59K • 👍 782 • 💬 401 • ⏱️ 28:01 • 3d ago
 
 ---
 
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
+**[NEW Scorpion Robot FANG doesn’t work right … War Robots](https://www.youtube.com/watch?v=cJVoWD9PVfA)**
 
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
+War Robots Gameplay: NEW Robot Scorpion not working right in WR. My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Alpha Central
+📺 Manni-Gaming
 
-👁️ 166K • 👍 6K • 💬 3K • ⏱️ 20:28 • 6d ago
+👁️ 10K • 👍 422 • 💬 100 • ⏱️ 13:10 • 1d ago
 
 ---
 
@@ -255,34 +285,6 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 📺 FRAME
 
 👁️ 92K • 👍 1K • ⏱️ 17:44 • 4d ago
-
----
-
-**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
-
-Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
-
-📺 Excessive Overkill
-
-👁️ 138K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 3.1M • 👍 131K • 💬 8K • ⏱️ 0:58 • 4d ago
-
----
-
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
-
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
-
-📺 Custom Adventurist
-
-👁️ 42K • 👍 2K • 💬 191 • ⏱️ 1:02 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T17:27:22.853301+00:00'
+updated: '2026-08-11T18:26:23.377006+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 17:27 UTC  
+**Last Updated:** August 11, 2026 at 18:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.32B
+**Market Cap:** $224.91B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.3%
 
 **All-Time Low:** $0.43
-+429586.0%
++430410.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 19h ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 1d ago
 
 BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
 
-Benzinga • 22h ago
+Benzinga • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ Benzinga • 22h ago
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-Infosecurity Magazine • 2h ago
+Infosecurity Magazine • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ Infosecurity Magazine • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ theblock.co • 1d ago
 
 Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 12K • 👍 622 • 💬 92 • ⏱️ 6:34 • 1d ago
+👁️ 13K • 👍 626 • 💬 93 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -252,27 +252,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 137 • 💬 57 • ⏱️ 54:27 • 1d ago
-
----
-
-**[Live ETH and BTC Trade | XAU Live Trading | Gold live trading | Gold will Crash](https://www.youtube.com/watch?v=yxsittO8JK0)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 2K • 👍 779 • 3h ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 2K • 👍 111 • 💬 6 • ⏱️ 7:44 • 8h ago
+👁️ 4K • 👍 138 • 💬 58 • ⏱️ 54:27 • 1d ago
 
 ---
 
@@ -282,7 +262,37 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 595 • 💬 88 • ⏱️ 55:35 • 1d ago
+👁️ 8K • 👍 596 • 💬 88 • ⏱️ 55:35 • 1d ago
+
+---
+
+**[🚨Crypto Panic vs. On Chain, AI Eating Everything + Mem Supercycle 🧠💡](https://www.youtube.com/watch?v=f9BnkdEslZE)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 917 • 👍 143 • 29m ago
+
+---
+
+**[Something Big Is Happening In Crypto &amp; People Are Starting To Realize Bitcoin &amp; Ethereum Are Growing](https://www.youtube.com/watch?v=0R4tJ8BYs4U)**
+
+Everyone out there knows that the richest people on this planet have vowed to purchase as much Bitcoin, XRP and Ethereum as ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 621 • 💬 50 • ⏱️ 32:44 • 2d ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 2K • 👍 130 • 💬 6 • ⏱️ 7:44 • 9h ago
 
 ---
 
@@ -290,7 +300,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 CryptoWendyO
 
-👁️ 13K • 👍 651 • 💬 35 • ⏱️ 1:29 • 2d ago
+👁️ 13K • 👍 657 • 💬 35 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -300,7 +310,7 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 287 • 💬 5 • ⏱️ 7:37 • 2d ago
+👁️ 7K • 👍 286 • 💬 5 • ⏱️ 7:37 • 2d ago
 
 ---
 
@@ -310,27 +320,17 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 4 • ⏱️ 6:31 • 1d ago
+👁️ 3K • 👍 191 • 💬 6 • ⏱️ 6:31 • 1d ago
 
 ---
 
-**[💡 The Unbelievable Quantum Bull Thesis That Changes Crypto Forever! 🟢](https://www.youtube.com/watch?v=Z2boJ4DfHUM)**
+**[Toobit Trade Setups for BTC, ETH, Gold, CRV and ICP](https://www.youtube.com/watch?v=RUeC0x_0LE8)**
 
-Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! According to CoinTelegraph reports citing Quant ...
+In this episode of Coin Bureau Trading, Aaron Dishner from The Better Traders breaks down why Bitcoin's Monday pullback likely ...
 
-📺 ilme aalim
+📺 Coin Bureau Trading
 
-👁️ 629 • 👍 52 • 💬 5 • ⏱️ 2:45 • 5h ago
-
----
-
-**[CRYPTO LIVE TRADING: Don&#39;t Even Think About Longing Bitcoin Before This Level](https://www.youtube.com/watch?v=qdZZFZjgaZY)**
-
-Captain Dylan here breaking down why this Bitcoin move is a massive trap. With the upcoming CPI report, people are derisking as ...
-
-📺 Chart Hackers
-
-👁️ 814 • 👍 108 • 3h ago
+👁️ 3K • 👍 304 • 💬 10 • ⏱️ 24:14 • 11h ago
 
 ---
 

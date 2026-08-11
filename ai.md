@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-11T17:27:22.839936+00:00'
+updated: '2026-08-11T18:26:23.363356+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 11, 2026 at 17:27 UTC  
+**Last Updated:** August 11, 2026 at 18:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Anthropic just documented how it works. Two marks, both machine-readable: Text: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability. Files (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with. The watermark is applied at the model level. That means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry. Models launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period. Every sentence Claude writes for you now carries a signature you’ll never see.
 
-10h ago
+11h ago
 
 ---
 
 **[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much. I think AI is like money, it amplifies personality traits that already exist. If you’re generous without money, you’ll be even more generous when you have money. When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer? When YouTube came out, didn’t everyone become a YouTuber? That’s how I see AI, it’s not a magic wand or everyone’s future; it’s just another building block of our society. What do you think about that?
 
-9h ago
+10h ago
 
 ---
 
@@ -69,7 +69,7 @@ No, I don’t think so, if I look at my Reddit feed, yes. But if I look around m
 
 Row-Bot can now take on bigger jobs by splitting the work across multiple agents, while keeping one agent responsible for the final result. Research, coding, and review can all happen at the same time. If one part fails, you can retry or stop it without losing the rest of the work. And if Row-Bot restarts halfway through, it can pick up from its saved state instead of starting over. The parent agent stays in charge throughout. It plans the job, delegates tasks in parallel or in the right order, waits for the results it needs, and brings everything together into one final response. Each child agent can have its own model, context, tools, permissions, and workspace. Read-only agents can research safely, while agents that edit files use writer locks or isolated Git worktrees to prevent conflicts. Essential tasks must finish before the final response is delivered. Background work can continue without holding everything up. Runs, events, approvals, checkpoints, and delivery state are all stored locally, with sensible limits on concurrency and resource use. It’s multi-agent collaboration without losing control of the task. https://github.com/siddsachar/row-bot
 
-6h ago
+7h ago
 
 ---
 
@@ -77,7 +77,7 @@ Row-Bot can now take on bigger jobs by splitting the work across multiple agents
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 2h ago
+🔗 [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers) • 3h ago
 
 ---
 
@@ -85,7 +85,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 \OC\ An article I wrote breaking down OpenAI as a company. Everything from the ethical questions and valuation to the potential future TAM and areas that OpenAI can expand into such as robotics and hardware. 100% human written, pangram confirmed. https://preipomedia.substack.com/p/the-breakdown-openai
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 Daily AI provider popularity based on unique organizations downloading associated open source packages.
 
-🔗 [Scarf](https://app.scarf.sh/ai-leaderboard) • 3h ago
+🔗 [Scarf](https://app.scarf.sh/ai-leaderboard) • 4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Daily AI provider popularity based on unique organizations downloading associate
 
 If you missed it: A swarm of unreleased AI agents allegedly formed their own chat forum, peer-pressured each other, and broke out of their sandbox to cheat on a programming task. We dig into this, including the false open vs. closed source dichotomy, the "Mr. Meeseeks" problem of fanatical agents, and the argument that regulatory capture — not genuine AI safety — is what's driving the push to ban open-source models. From there we map out the invisible semantic highway being built for AI agents to traverse the web. The hazards aren't theoretical: shadow agents faking credentials, semantic drift across millions of interacting AIs, hidden training data exploits, and the rise of fully immersive virtual worlds. We also walk through the countermeasures — cryptographic agent passports, zero-knowledge data encryption, time-limited access badges, and inoculation prompting. The path forward isn't centralized vs. decentralized. It's standardized referee protocols. Rules of the road that let anyone deploy agents safely, regardless of who built the model underneath. If you're interested in diving into the details of what's happening on the ground in AI, check out our latest episode. Hope you enjoy!
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/2hPC6WEESuDkMhB2C7EOLL?si=CNrQxgRDTUGV3RNpcJNmrw) • 1h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/2hPC6WEESuDkMhB2C7EOLL?si=CNrQxgRDTUGV3RNpcJNmrw) • 2h ago
 
 ---
 
@@ -109,7 +109,7 @@ If you missed it: A swarm of unreleased AI agents allegedly formed their own cha
 
 I’ve been using ChatGPT for a while, and recently I started thinking about what the next step for AI assistants might look like. ChatGPT is already surprisingly useful. It can help me write, learn new things, organize ideas, and remember some preferences through memory. But there is still a difference between remembering certain information about me and actually understanding my life context. The thing I find interesting is the idea of having an AI assistant that understands more about the person using it. Not just knowing that I prefer a certain writing style or a certain type of answer, but understanding my routines, goals, habits, and the situations behind my questions. Something closer to a personalized assistant that can give suggestions based on my actual circumstances instead of only reacting to the information I provide at that moment. A lot of the information that could make this possible already exists, but it is scattered across different places. Calendars, notes, photos, fitness apps, and other personal tools all contain pieces of our daily lives, but they rarely work together. This makes me wonder whether future AI assistants will move beyond conversations and become something that understands more of our everyday context. But this is also where I start feeling conflicted. The more an AI knows about me, the more useful it could become, but the more sensitive that information becomes too. My schedule, habits, preferences, and personal patterns reveal a lot about who I am. Would giving an AI access to more of that information feel like having a truly helpful assistant, or would it feel like giving up too much privacy? I think the biggest challenge for personal AI might not only be making models smarter, but making people comfortable enough to actually use them. If users have full control over what information is shared, what the AI remembers, and how that data is used, I can see why many people would want this kind of assistant. Would you trust an AI assistant that understood a large part of your life if it could genuinely make things easier, or is there a point where personalization goes too far?
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ I’ve been using ChatGPT for a while, and recently I started thinking about wha
 
 The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -137,13 +137,13 @@ Financial Times • 1d ago
 
 Huang took to X to tout a major partnership with Wall Street titans to finance AI infrastructure, noting that AI compute is a burgeoning asset class.
 
-Business Insider • 33m ago
+Business Insider • 1h ago
 
 ---
 
 **[A.I. Is Finding Sperm Where Doctors Couldn’t](https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 8h ago
 
 When gen AI emerged, HCLTech recognized that it would fundamentally alter the economics of IT services, breaking the traditional link between revenue growth and workforce expansion. CEO C. Vijayakumar responded by driving an enterprisewide transformation centered on mindset change, aggressive investment in AI platforms and training, and transparent communication about the future of work. The company is now equipping employees to become AI builders and superusers while helping clients accelerate adoption through scalable, industry-specific solutions.
 
-Harvard Business Review • 37m ago
+Harvard Business Review • 1h ago
 
 ---
 
@@ -159,19 +159,19 @@ Harvard Business Review • 37m ago
 
 A new generation of AI products could change how companies think about engagement and the role technology should play in our lives.
 
-Forbes • 45m ago
+Forbes • 1h ago
 
 ---
 
 **[AI models make choices in part based on the order in which options are presented](https://techxplore.com/news/2026-08-ai-choices-based-options.html)**
 
-Tech Xplore • 7m ago
+Tech Xplore • 1h ago
 
 ---
 
 **[Robot book club](https://www.axios.com/2026/08/11/robot-book-club)**
 
-axios.com • 5h ago
+axios.com • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ axios.com • 5h ago
 
 The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 1d ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 709 • 💬 750 • 18h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 709 • 💬 750 • 19h ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -217,7 +217,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 358 • 💬 324 • 19h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 358 • 💬 324 • 20h ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -277,7 +277,7 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 18K • 👍 764 • 💬 118 • ⏱️ 14:41 • 16h ago
+👁️ 20K • 👍 811 • 💬 126 • ⏱️ 14:41 • 17h ago
 
 ---
 
@@ -287,7 +287,7 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 46K • 👍 518 • ⏱️ 6:43 • 18h ago
+👁️ 48K • 👍 547 • ⏱️ 6:43 • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 138K • 👍 1K • 💬 3 • ⏱️ 0:14 • 1d ago
+👁️ 143K • 👍 1K • 💬 3 • ⏱️ 0:14 • 1d ago
 
 ---
 
@@ -307,27 +307,27 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 178K • 👍 21K • 💬 430 • ⏱️ 0:49 • 3h ago
+👁️ 341K • 👍 43K • 💬 692 • ⏱️ 0:49 • 4h ago
 
 ---
 
-**[New Trump AI Videos Just Dropped And They&#39;re HILARIOUS!](https://www.youtube.com/watch?v=-SrE_XHj3VI)**
+**[The AI Singularity Is Here](https://www.youtube.com/watch?v=F75hfLE4a2k)**
 
-Really American host Steve Harness breaks down the newest Trump AI videos taking over the internet right now! Support the ...
+For over a year, Google has been running an AI called AlphaEvolve with a single mission: improve the company that built it.
 
-📺 Really American
+📺 There's An AI For That
 
-👁️ 114K • 👍 13K • 💬 778 • ⏱️ 13:15 • 2d ago
+👁️ 39K • 👍 962 • 💬 196 • ⏱️ 13:38 • 2d ago
 
 ---
 
-**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
+**[How To Start a Kids Animation Channel With AI (Full Tutorial)](https://www.youtube.com/watch?v=W95hJNP_nIA)**
 
-Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
+Exactly How To Create AI Cartoon Videos Easily! Make your own AI Cartoons ...
 
-📺 Cole Hastings
+📺 Mira AI
 
-👁️ 341K • 👍 13K • 💬 2K • ⏱️ 15:09 • 2d ago
+👁️ 11K • ⏱️ 7:52 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ Check out "The Book" here for 10% off: https://mdsh.io/tgzm24obx3 (Use code: BRE
 
 📺 Brendan Dell 
 
-👁️ 51K • 👍 2K • 💬 826 • ⏱️ 24:21 • 2d ago
+👁️ 52K • 👍 3K • 💬 849 • ⏱️ 24:21 • 2d ago
 
 ---
 
@@ -347,7 +347,7 @@ OpenAI's first real AI device just leaked, and it's a donut. Built with legendar
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 223 • ⏱️ 12:36 • 2d ago
+👁️ 38K • 👍 1K • 💬 225 • ⏱️ 12:36 • 2d ago
 
 ---
 
@@ -357,17 +357,17 @@ Sponsored by Viktor, the AI employee that lives in Slack and Microsoft Teams and
 
 📺 Tina Huang
 
-👁️ 25K • 👍 2K • 💬 143 • ⏱️ 20:24 • 1d ago
+👁️ 27K • 👍 2K • 💬 147 • ⏱️ 20:24 • 1d ago
 
 ---
 
-**[The AI Economy Is DEAD. 6 Billion Images Now POISONED.](https://www.youtube.com/watch?v=zF-mbwc5Mmw)**
+**[AI Is On Its Last Legs](https://www.youtube.com/watch?v=zdsoe_OsnHw)**
 
-Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when you sign up to Proton VPN 2-year plan AI ...
+Visit today's sponsor https://www.strawberry.me/ColeHastings to get matched and claim 50% off your first coaching session.
 
-📺 The Infographics Show
+📺 Cole Hastings
 
-👁️ 254K • 👍 8K • 💬 1K • ⏱️ 16:13 • 21h ago
+👁️ 356K • 👍 13K • 💬 2K • ⏱️ 15:09 • 2d ago
 
 ---
 
@@ -383,7 +383,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,534 • 8h ago
+⬇️ 59,368 • ❤️ 3,544 • 9h ago
 
 ---
 
@@ -395,7 +395,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,005 • 17h ago
+⬇️ 0 • ❤️ 1,032 • 18h ago
 
 ---
 
@@ -407,7 +407,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,048,685 • ❤️ 3,124 • 10d ago
+⬇️ 1,048,685 • ❤️ 3,130 • 10d ago
 
 ---
 
@@ -419,7 +419,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 635 • 2d ago
+⬇️ 0 • ❤️ 639 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,798,796 • ❤️ 1,195 • 2d ago
+⬇️ 6,798,796 • ❤️ 1,205 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 93,668 • ❤️ 530 • 4d ago
+⬇️ 93,668 • ❤️ 537 • 4d ago
 
 ---
 
@@ -453,7 +453,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,565,484 • ❤️ 10,504 • 15d ago
+⬇️ 1,565,484 • ❤️ 10,512 • 15d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,886 • 13h ago
+⬇️ 2,521,093 • ❤️ 1,892 • 14h ago
 
 ---
 
@@ -477,7 +477,7 @@ Maple-Preview is a 20B-A1B ternary-weight reasoning LLM achieving SOTA performan
 
 `text-generation` `20.2B`
 
-⬇️ 2,049 • ❤️ 327 • 6d ago
+⬇️ 2,049 • ❤️ 329 • 6d ago
 
 ---
 
@@ -489,7 +489,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 308 • 2h ago
+⬇️ 20,376 • ❤️ 319 • 3h ago
 
 ---
 
@@ -517,7 +517,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 24 • 💬 2 • ⭐ 623 • 7d ago
+▲ 25 • 💬 2 • ⭐ 740 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -557,7 +557,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 90 • 💬 1 • ⭐ 761 • 7d ago
+▲ 90 • 💬 1 • ⭐ 808 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -577,6 +577,19 @@ ABot-World-0 is a real-time action-conditioned video world model that uses progr
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 83,729 • 24mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization
   for Language Model Programs](https://huggingface.co/papers/2508.04660)**
 
@@ -587,19 +600,6 @@ mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI system
 ▲ 7 • 💬 0 • ⭐ 37,085 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.04660) • [💻 code](https://github.com/stanfordnlp/dspy) • [🔗 project](https://dspy.ai)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 83,670 • 24mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -639,7 +639,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.2k • 🔱 921 • 13h ago
+⭐ 8.2k • 🔱 929 • 14h ago
 
 ---
 
@@ -667,7 +667,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -677,7 +677,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.5k • 🔱 474 • 14h ago
+⭐ 2.6k • 🔱 477 • 15h ago
 
 ---
 
@@ -687,7 +687,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.4k • 🔱 207 • 2h ago
+⭐ 2.4k • 🔱 207 • 3h ago
 
 ---
 
@@ -697,7 +697,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 175 • 8d ago
+⭐ 2.3k • 🔱 175 • 5m ago
 
 ---
 
@@ -707,7 +707,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 159 • 2h ago
+⭐ 2.1k • 🔱 159 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 255 • 1h ago
+⭐ 2.0k • 🔱 255 • 53m ago
 
 ---
 
