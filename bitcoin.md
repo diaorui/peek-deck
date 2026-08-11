@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-11T14:35:38.858691+00:00'
+updated: '2026-08-11T16:01:10.724676+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 14:35 UTC  
+**Last Updated:** August 11, 2026 at 16:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,180.00
+### $63,572.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -1.0%  
-**30d:** +2.7%  
-**90d:** -21.0%  
-**1y:** -46.8%  
+**24h:** -0.5%  
+**7d:** -1.6%  
+**30d:** +2.1%  
+**90d:** -21.5%  
+**1y:** -47.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.41B
+**Market Cap:** $1274.34B
 Rank #1
 
-**Circulating Supply:** 20,068,746 BTC
+**Circulating Supply:** 20,068,790 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.6%
 
 **All-Time Low:** $67.81
-+94720.8%
++93542.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I am so tired of living for Bitcoin. Any suggestions
 
-14h ago
+16h ago
 
 ---
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am so tired of living for Bitcoin. Any suggestions
 
 After 4 years of savings, that I thought would be the way to buy a house in the future , all gone along with many others like me. I feel defeated not angry not sad just defeated....numb... I do not post to gather any sympathy, to be honest I don't know why I am posting, something I have never done before maybe it's somewhere I can vent out this pressure I don't know I haven't slept more than a few hours since it happened. 0.45 btc is not much for a lot! but it was my everything my own treasure my own accomplishment. I was so happy that half a btc was almost in reach. Life is not fair, wishing you all happy lives ahead with secure wallets and hope you never experience this feeling.
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ After 4 years of savings, that I thought would be the way to buy a house in the 
 
 Totally dishonorable and cowardice behavior from him over the past week along with the CTO, Peter Gray (who introduced the bug). $100 million missing and they have done nothing but gone silent. And then coinkite comes out with some statement about "earning back our trust". Go fuck yourselves, the rest of your life should be nothing but devoted to helping out the people who lost their savings due to your faulty product. Imagine a civil engineer's bridge collapsing and them just shrugging their shoulders, "sorry about that". There are thousands of lives ruined due to their negligence. And all they can say is "we're going to have to do a lot to earn your trust"? Talked shit nonstop on twitter, but when Rodolfo's and Peter's backs are actually against the wall they've proved to be incredible incompetent and dishonorable cowards. I lost .7 BTC, hopefully I can earn that back in my life. Rodolfo Novak and Peter Gray have lost all honor and that's never returning.
 
-16h ago
+17h ago
 
 ---
 
@@ -117,13 +117,13 @@ Totally dishonorable and cowardice behavior from him over the past week along wi
 
 I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledger Nano S, and it served me well. Just about when I was running out of storage on the Nano S, the Nano S Plus was released, which I used happily up until recently. I run my own node and mempool, and I've been using a multisig wallet set up with my Ledgers. During the Amazon Prime Day sale last June, I picked up a Trezor Safe 3 and a Blockstream Jade, and upgraded my multisig setup using hardware from different vendors. Then came the recent Coldcard drama... which inspired me to build my own seed generator using dice roll. I knew that SeedSigner could generate a seed from D6 dice rolls, so I tried building one with a Raspberry Pi I had lying around. Unfortunately, I didn't have the right screen for it, so that plan fell through. After giving it some thought, I realized I could just use the Python feature on my Casio calculator to build one. I coded it up, and it actually works perfectly! ^^
 
-5h ago
+7h ago
 
 ---
 
 **[Luke and Mechanic both out at Ocean (Bitcoin mining pool operator).](https://www.reddit.com/r/Bitcoin/comments/1vl0j1a/luke_and_mechanic_both_out_at_ocean_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledg
 
 The BIP-110 fork died after two blocks. Backers now target September 1 for a proof-of-work change and breakaway coin.
 
-🔗 [BeInCrypto](https://beincrypto.com/bip-110-fork-breakaway-coin-september/) • 7h ago
+🔗 [BeInCrypto](https://beincrypto.com/bip-110-fork-breakaway-coin-september/) • 8h ago
 
 ---
 
@@ -139,7 +139,7 @@ The BIP-110 fork died after two blocks. Backers now target September 1 for a pro
 
 I'm still relatively new to stacking BTC and just thought I should ask how secure my Trezor wallet is. I don't have a lot of knowledge in this space and would appreciate some insights. Thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -155,11 +155,11 @@ Bitcoin has been around for 17 years now, and the ecosystem looks very different
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's 'strongest hands' are back, on-chain data show](https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show)**
+**[XRP, ETH price news: Ripple-linked token leads drop as traders eye $70,000 bitcoin](https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next)**
 
-Bitcoin wallets with over 10,000 BTC has reached a 6-month high of 90 as larger holders accumulate and retail sells amid Coldcard hacks and regulatory delays.
+Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -167,53 +167,37 @@ CoinDesk • 10h ago
 
 "That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Riot Platforms stock surges on $9.1 billion data center deal with Anthropic](https://finance.yahoo.com/markets/article/riot-platforms-stock-surges-on-91-billion-data-center-deal-with-anthropic-132120194.html)**
+**[Hedge Fund Bitcoin Shorts Shrink 50% as Large CME Traders Turn Net Long: Is $100K Next?](https://finance.yahoo.com/markets/crypto/articles/hedge-fund-bitcoin-shorts-shrink-143449026.html)**
 
-The bitcoin mining company, which has pivoted toward selling data center capacity, signed a deal with a major AI developer, widely reported to be Anthropic, in a transaction valued at $9.1 billion.
+CryptoQuant CEO Ki Young Ju corrected his earlier claim that hedge funds had flipped net long, saying CFTC Total Reportables, not leveraged funds, are modestly ...
 
-Yahoo Finance • 34m ago
-
----
-
-**[Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations](https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai)**
-
-FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.
-
-CoinDesk • 29m ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html)**
+**[Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges](https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html)**
 
-Bitcoin opened at $63,912.50 on Tuesday, August 11, 2026, down 1.4% from Monday's opening price. As of 8:32 a.m. ET, the price of bitcoin moved up to $64,282.28. Ethereum opened at $1,871.33, down 2% from Monday's opening. The price of ethereum moved higher this morning to $1,888.83 as of 8:32 a.m. ET.
+Russia’s central bank has proposed allowing Bitcoin (CRYPTO: $BTC), Ethereum (CRYPTO: $ETH), and Tether (CRYP...
 
-Yahoo Finance • 1h ago
+finance.yahoo.com • 1h ago
+
+---
+
+**[Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far](https://finance.yahoo.com/markets/crypto/articles/why-strategy-selling-bitcoin-much-144611565.html)**
+
+The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
+
+finance.yahoo.com • 1h ago
 
 ---
 
 **[Bitcoin Inflows Hit Four-Month High as Hack Rattles Holders](https://www.bloomberg.com/news/articles/2026-08-10/bitcoin-btc-etf-inflows-hit-850-million-after-coldcard-wallet-hack)**
 
-Bloomberg.com • 21h ago
-
----
-
-**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
-
-Institutions might start to win more trust from investors.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin (BTC) price news: What next after $853 million in weekly ETF inflows?](https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk)**
-
-Bitcoin ETFs saw $853 million in weekly net inflows, the largest since April, led by BlackRock’s IBIT, signaling a possible return of institutional demand.
-
-CoinDesk • 2d ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -221,13 +205,29 @@ CoinDesk • 2d ago
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[Trump Media Earnings Show Huge Loss as DJT Bitcoin Bets Backfire](https://www.barrons.com/articles/trump-media-earnings-djt-stock-price-e92ce5fc)**
+**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
 
-Barron's • 2h ago
+ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
+
+Fox Business • 1d ago
+
+---
+
+**[Trump Media Earnings Reveal Huge Loss as DJT Bitcoin Bets Backfire](https://www.barrons.com/articles/trump-media-earnings-djt-stock-price-e92ce5fc)**
+
+Barron's • 1h ago
+
+---
+
+**[CEO Keel Infrastructure: AI offers a much bigger opportunity than Bitcoin](https://www.cnbc.com/video/2026/08/11/ceo-keel-infrastructure-ai-offers-a-much-bigger-opportunity-than-bitcoin.html)**
+
+Ben Gagnon, CEO of Keel Infrastructure, said the company is exiting Bitcoin mining to convert its power assets into AI infrastructure, targeting more predictable revenue and growth.
+
+CNBC • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ Barron's • 2h ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 22h ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -290,7 +290,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 17h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 18h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -298,7 +298,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone browser - pure Python, retro CRT dashboard - 03012009BTC/miners-bitcoin-lottery
 
-⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
+⬆️ 1 • 💬 0 • 4d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
 
 ---
 
@@ -326,7 +326,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 6K • 💬 320 • ⏱️ 8:04 • 22h ago
+👁️ 107K • 👍 6K • 💬 322 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -336,37 +336,7 @@ Thanks to Coinbase for sponsoring this video. Activate your rewards below: ▻ C
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 458 • 💬 179 • ⏱️ 15:47 • 21h ago
-
----
-
-**[Bitcoin Whales Sell $1.7 Billion📉Macro Fears Surge as Countries Rush to GOLD🔥](https://www.youtube.com/watch?v=d_qQzFZUOB4)**
-
-Michael Saylor's Strategy sold $108 million in Bitcoin this week and MARA dumped a staggering $1.6 billion — right as macro ...
-
-📺 Paul Barron Network
-
-👁️ 34K • 👍 1K • 💬 121 • ⏱️ 15:21 • 19h ago
-
----
-
-**[Give Me 14 Minutes and You&#39;ll Finally Know How Much Bitcoin You Need To Retire](https://www.youtube.com/watch?v=rbxsWA3ysh8)**
-
-How much Bitcoin do you actually need to retire? Not one coin. Not 0.01. The real number for your life, built from four inputs you ...
-
-📺 Trey Sellers
-
-👁️ 6K • 👍 235 • 💬 115 • ⏱️ 14:23 • 1d ago
-
----
-
-**[Bitcoin Is Setting Up For A BREAKOUT - $853m Just Flooded Into ETFs](https://www.youtube.com/watch?v=zwrurY991TI)**
-
-Bitcoin #Crypto #finance Bitcoin holds above $65K as investors return to ETFs ahead of a major week of inflation data. We cover ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 845 • 💬 271 • ⏱️ 1:03:03 • 22h ago
+👁️ 8K • 👍 469 • 💬 187 • ⏱️ 15:47 • 23h ago
 
 ---
 
@@ -376,27 +346,57 @@ The only bet in Bitcoin is that Washington never stops printing money. That's no
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 205 • 💬 31 • ⏱️ 0:50 • 19h ago
+👁️ 11K • 👍 230 • 💬 35 • ⏱️ 0:50 • 20h ago
 
 ---
 
-**[Bitcoin Volatility Hasn&#39;t Been This Low Since September. A Big Move Is Loading.](https://www.youtube.com/watch?v=za6NlaSOTIk)**
+**[Why Bitcoin is Silently Breaking Out! (Key Signals)](https://www.youtube.com/watch?v=cMn-64eAuwY)**
 
-Bitcoin volatility just collapsed to its lowest level since September — and 10 days into the worst month of the year, the seasonal ...
+Ran breaks down why Bitcoin may be quietly entering a new phase, with signs of a silent breakout building beneath the surface.
 
-📺 Krown
+📺 Crypto Banter
 
-👁️ 6K • 👍 358 • 💬 45 • ⏱️ 1:51:03 • 19h ago
+👁️ 14K • 👍 833 • 💬 43 • ⏱️ 18:10 • 1d ago
 
 ---
 
-**[Bitcoin To $50k If This Happens](https://www.youtube.com/watch?v=iyxMJJMSYZ8)**
+**[Bitcoin Just Flashed a RARE Signal](https://www.youtube.com/watch?v=McdNdrG2Tj4)**
 
-Crypto Holder - Congress Just Made Their Position Crystal Clear Trade Stocks (unlock $100k): ...
+August Could Send Crypto to NEW HIGHS!! (Explained in 10 minutes) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 271 • 💬 13 • ⏱️ 1:20 • 2d ago
+👁️ 15K • 👍 396 • 💬 41 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[A HURRICANE is about To Hit Crypto.. (HUGE NEWS)](https://www.youtube.com/watch?v=sGhG1DEXW0Y)**
+
+MASSIVE: A HURRICANE is about To Hit Crypto! 🌪️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 32K • 👍 2K • 💬 101 • ⏱️ 9:23 • 16h ago
+
+---
+
+**[BITCOIN IS BEING ATTACKED](https://www.youtube.com/watch?v=_OD0wJ6pCBg)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 254 • 💬 26 • ⏱️ 12:53 • 1d ago
+
+---
+
+**[Bitcoin Captured? The Battle That Changes Everything!](https://www.youtube.com/watch?v=8g_rqh1dF3U)**
+
+Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin fork may have proven the opposite of corporate capture: ...
+
+📺 Simply Bitcoin
+
+👁️ 18K • 👍 1K • 💬 239 • ⏱️ 20:00 • 18h ago
 
 ---
 
@@ -406,17 +406,17 @@ The 10-day bullish divergence + MACD cross has marked every Bitcoin macro low �
 
 📺 Krown
 
-👁️ 740 • 👍 61 • 💬 8 • ⏱️ 1:02 • 4h ago
+👁️ 1K • 👍 81 • 💬 12 • ⏱️ 1:02 • 6h ago
 
 ---
 
-**[Bitcoin FORKED Then $1 BILLION Flooded Into ETFs](https://www.youtube.com/watch?v=hxP7_BW8Fp8)**
+**[Bitcoin Is Setting Up For A BREAKOUT - $853m Just Flooded Into ETFs](https://www.youtube.com/watch?v=zwrurY991TI)**
 
-Bitcoin actually split into two competing chains, and for a few minutes its latest civil war stopped being theoretical. BIP-110 put ...
+Bitcoin #Crypto #finance Bitcoin holds above $65K as investors return to ETFs ahead of a major week of inflation data. We cover ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 2K • 💬 328 • ⏱️ 14:19 • 1d ago
+👁️ 18K • 👍 958 • 💬 310 • ⏱️ 1:03:03 • 23h ago
 
 ---
 

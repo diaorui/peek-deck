@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T14:35:38.868175+00:00'
+updated: '2026-08-11T16:01:10.734228+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 14:35 UTC  
+**Last Updated:** August 11, 2026 at 16:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
 
-23h ago
+1d ago
 
 ---
 
@@ -50,13 +50,13 @@ Been browsing digikey but not sure if those even exist. I want to improve a forw
 
 Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
 
-23h ago
+1d ago
 
 ---
 
 **[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ This is a short clip from my latest underwater field test. The system is process
 
 I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -128,7 +128,33 @@ Business Insider • 2d ago
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 50m ago
+The New York Times • 2h ago
+
+---
+
+**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+
+Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+
+TribLIVE.com • 4h ago
+
+---
+
+**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
+
+Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
+
+CBS News • 38m ago
+
+---
+
+**[Exclusive: Former OpenAI Robotics Lead Joins Anthropic](https://www.theinformation.com/briefings/exclusive-former-openai-robotics-lead-joins-anthropic)**
+
+Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined Anthropic as a member of technical staff working on research, according to her LinkedIn. 
+
+ Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
+
+theinformation.com • 15h ago
 
 ---
 
@@ -136,7 +162,7 @@ The New York Times • 50m ago
 
 Unitree raises $900mn ahead of Shanghai listing expected later this month
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -148,43 +174,17 @@ Supply Chain Dive • 1d ago
 
 ---
 
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
-
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
-
-TribLIVE.com • 3h ago
-
----
-
 **[Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html)**
 
 During the August 6 episode of Mad Money, Jim Cramer focused on the shifting trajectory of Akamai Technologies, Inc. (NASDAQ:AKAM), as he said: Look at this incredible move in the stock of Akamai Technologies. Over the past few years, this company’s evolved from a simple content delivery network- I used to call it the fast […]
 
-Yahoo Finance • 21h ago
+finance.yahoo.com • 22h ago
 
 ---
 
 **[Impact-resistant, autonomous robots inspired by tensegrity architecture](https://www.nature.com/articles/s42256-026-01280-2)**
 
-Nature • 21h ago
-
----
-
-**[Exclusive: Former OpenAI Robotics Lead Joins Anthropic](https://www.theinformation.com/briefings/exclusive-former-openai-robotics-lead-joins-anthropic)**
-
-Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined Anthropic as a member of technical staff working on research, according to her LinkedIn. 
-
- Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
-
-The Information • 13h ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-IEEE Spectrum • 3d ago
+Nature • 23h ago
 
 ---
 
@@ -198,15 +198,17 @@ The FCC won't allow many new foreign made robotic devices, a lot of them coming 
 
 📺 NBC News
 
-👁️ 35K • 👍 383 • 💬 423 • ⏱️ 1:36 • 6d ago
+👁️ 35K • 👍 385 • 💬 426 • ⏱️ 1:36 • 6d ago
 
 ---
 
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
 
-📺 Ben Esherick
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
 
-👁️ 499K • 👍 25K • 💬 692 • ⏱️ 0:35 • 4d ago
+📺 Julia McCoy
+
+👁️ 54K • 👍 2K • 💬 220 • ⏱️ 9:02 • 3d ago
 
 ---
 
@@ -216,7 +218,15 @@ Every time you order clothes, groceries or household essentials online, there's 
 
 📺 BBC News
 
-👁️ 53K • 👍 676 • 💬 164 • ⏱️ 3:45 • 2d ago
+👁️ 53K • 👍 677 • 💬 169 • ⏱️ 3:45 • 2d ago
+
+---
+
+**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+
+📺 Ben Esherick
+
+👁️ 522K • 👍 26K • 💬 701 • ⏱️ 0:35 • 4d ago
 
 ---
 
@@ -226,27 +236,7 @@ Humanoid robots are no longer a laboratory experiment; they are a growing market
 
 📺 Al Jazeera English
 
-👁️ 58K • 👍 766 • 💬 390 • ⏱️ 28:01 • 3d ago
-
----
-
-**[Serve Robotics Faces Disaster As Uber Partnership Fails $SERV](https://www.youtube.com/watch?v=MW0AD8OGo1A)**
-
-For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use code ...
-
-📺 Broken Business Models
-
-👁️ 15K • 👍 546 • 💬 122 • ⏱️ 20:54 • 1d ago
-
----
-
-**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
-
-Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
-
-📺 WOLF Financial
-
-👁️ 40K • 👍 1K • 💬 245 • ⏱️ 48:23 • 3d ago
+👁️ 59K • 👍 776 • 💬 397 • ⏱️ 28:01 • 3d ago
 
 ---
 
@@ -256,7 +246,7 @@ AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack
 
 📺 Alpha Central
 
-👁️ 166K • 👍 6K • 💬 3K • ⏱️ 20:28 • 5d ago
+👁️ 166K • 👍 6K • 💬 3K • ⏱️ 20:28 • 6d ago
 
 ---
 
@@ -266,7 +256,25 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 90K • 👍 1K • ⏱️ 17:44 • 4d ago
+👁️ 92K • 👍 1K • ⏱️ 17:44 • 4d ago
+
+---
+
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
+
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
+
+📺 Excessive Overkill
+
+👁️ 138K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 3.1M • 👍 131K • 💬 8K • ⏱️ 0:58 • 4d ago
 
 ---
 
@@ -276,15 +284,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 42K • 👍 2K • 💬 190 • ⏱️ 1:02 • 4d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 3.1M • 👍 130K • 💬 8K • ⏱️ 0:58 • 4d ago
+👁️ 42K • 👍 2K • 💬 191 • ⏱️ 1:02 • 4d ago
 
 ---
 

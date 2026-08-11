@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T14:35:38.864916+00:00'
+updated: '2026-08-11T16:01:10.730943+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 14:35 UTC  
+**Last Updated:** August 11, 2026 at 16:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,881.07
+### $1,863.12
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.5%  
-**30d:** +5.8%  
-**90d:** -17.7%  
-**1y:** -59.1%  
+**24h:** -0.7%  
+**7d:** -2.4%  
+**30d:** +4.8%  
+**90d:** -18.4%  
+**1y:** -59.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.86B
+**Market Cap:** $224.32B
 Rank #2
 
 **Circulating Supply:** 120,682,036 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-62.4%
 
 **All-Time Low:** $0.43
-+436022.8%
++429586.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-18h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 The updated roadmap for Ethereum puts quantum resistance, privacy and AI-assisted formal verification at the center of technical ambitions.
 
-Decrypt • 16h ago
+Decrypt • 18h ago
 
 ---
 
@@ -172,15 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Bitcoin opened at $63,912.50 on Tuesday, August 11, 2026, down 1.4% from Monday's opening price. As of 8:32 a.m. ET, the price of bitcoin moved up to $64,282.28. Ethereum opened at $1,871.33, down 2% from Monday's opening. The price of ethereum moved higher this morning to $1,888.83 as of 8:32 a.m. ET.
 
-Yahoo Finance • 1h ago
-
----
-
-**[GRND Stock Has Soared 250% Since Its 2022 IPO Crash, Leaving Starbucks, Target and Ethereum Behind](https://finance.yahoo.com/markets/stocks/articles/grnd-stock-soared-250-since-110149092.html)**
-
-Grindr Inc. (NYSE:GRND) has staged a stunning Wall Street turnaround, soaring 251.62% from its 2022 post-IPO trough to dramatically outperform mainstream retail titans Starbucks Corp. (NASDAQ:SBUX) and Target Corp. (NYSE:TGT), as well as crypto heavyweight Ethereum (CRYPTO: ETH). A Remarkable Market Comeback After making its public trading debut in late 2022, the dating platform’s shares plunged to a low of $4.65 on Dec. 30, 2022. As noted in financial market commentary by automated trading serv
-
-Yahoo Finance • 3h ago
+finance.yahoo.com • 3h ago
 
 ---
 
@@ -192,11 +184,33 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for Aug. 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
+**[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
+
+Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
+
+finance.yahoo.com • 1d ago
+
+---
+
+**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Six npm Packages Read C2 Addresses From Ethereum Wallet](https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/)**
+
+Six npm packages queried an Ethereum wallet to locate C2 infrastructure
+
+Infosecurity Magazine • 1h ago
+
+---
+
+**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -204,29 +218,15 @@ Fortune • 4h ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
-**['Everything Except Bitcoin Is Dead'? No, Watch ETH and SOL, Industry Veterans Say](https://www.tradingview.com/news/benzinga:803e6f560094b:0-everything-except-bitcoin-is-dead-no-watch-eth-and-sol-industry-veterans-say/)**
+**[Crypto News: Pepeto Presale Advances Toward Binance as the Ethereum Price Prediction Targets $6,731](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-advances-toward-binance-as-the-ethereum-price-prediction-targets-6-731-1036440956)**
 
-Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
+DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-TradingView • 17h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Dip, but Dogecoin Gains as US-Iran Tensions Persist: Analyst Says 'Next Sell-Off S](https://www.benzinga.com/crypto/cryptocurrency/26/08/61098521/bitcoin-ethereum-xrp-dogecoin-us-iran-tensions-next-selloff-btc)**
-
-Leading cryptocurrencies traded in red alongside stocks on Monday, August 10, as uncertainty on Iran negotiations kept risk appetite in check.
-
-Benzinga • 12h ago
-
----
-
-**[ProShares Ultra Ether ETF: Ethereum Needs A Trend, Not Just A Rebound (NYSEARCA:ETHT)](https://seekingalpha.com/article/4933942-proshares-ultra-ether-etf-ethereum-needs-a-trend-not-just-a-rebound)**
-
-Seeking Alpha • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 12K • 👍 614 • 💬 92 • ⏱️ 6:34 • 1d ago
+👁️ 12K • 👍 622 • 💬 92 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -250,7 +250,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 132 • 💬 57 • ⏱️ 54:27 • 1d ago
+👁️ 4K • 👍 137 • 💬 57 • ⏱️ 54:27 • 1d ago
+
+---
+
+**[Live ETH and BTC Trade | XAU Live Trading | Gold live trading | Gold will Crash](https://www.youtube.com/watch?v=yxsittO8JK0)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 2K • 👍 779 • 1h ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 2K • 👍 111 • 💬 6 • ⏱️ 7:44 • 7h ago
 
 ---
 
@@ -268,27 +288,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 CryptoWendyO
 
-👁️ 12K • 👍 644 • 💬 29 • ⏱️ 1:29 • 2d ago
-
----
-
-**[Ethereum: Will this support zone hold or fail?](https://www.youtube.com/watch?v=FCYdxhDLbgM)**
-
-In this video I break down the current Ethereum price action and provide a clear technical outlook on the ETH chart. We analyze ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 188 • 💬 5 • ⏱️ 6:31 • 1d ago
-
----
-
-**[💡 The Unbelievable Quantum Bull Thesis That Changes Crypto Forever! 🟢](https://www.youtube.com/watch?v=Z2boJ4DfHUM)**
-
-Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! According to CoinTelegraph reports citing Quant ...
-
-📺 ilme aalim
-
-👁️ 251 • 👍 15 • 💬 2 • ⏱️ 2:45 • 2h ago
+👁️ 13K • 👍 651 • 💬 35 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -298,37 +298,37 @@ In this video I break down the current Ethereum price action to determine if we 
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 286 • 💬 8 • ⏱️ 7:37 • 2d ago
+👁️ 7K • 👍 287 • 💬 5 • ⏱️ 7:37 • 2d ago
 
 ---
 
-**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
+**[Ethereum: Will this support zone hold or fail?](https://www.youtube.com/watch?v=FCYdxhDLbgM)**
 
-CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
+In this video I break down the current Ethereum price action and provide a clear technical outlook on the ETH chart. We analyze ...
 
-📺 The Coin Daily
+📺 More Crypto Online
 
-👁️ 3K • ⏱️ 5:58 • 21h ago
-
----
-
-**[Bitcoin&#39;s 200-Week Indicator: MASSIVE Buy Opportunity Revealed! #shorts](https://www.youtube.com/watch?v=C74YloRR-Iw)**
-
-The 200-week moving average has historically signaled major buying opportunities in crypto. Bitcoin and ETH are key vehicles for ...
-
-📺 CryptoLabs Research | Defi Income & Investing
-
-👁️ 445 • 👍 6 • 💬 1 • ⏱️ 0:49 • 13h ago
+👁️ 3K • 👍 191 • 💬 4 • ⏱️ 6:31 • 1d ago
 
 ---
 
-**[Ethereum ETH: Big Problems, No Solutions](https://www.youtube.com/watch?v=oIzNeKieY7w)**
+**[💡 The Unbelievable Quantum Bull Thesis That Changes Crypto Forever! 🟢](https://www.youtube.com/watch?v=Z2boJ4DfHUM)**
 
-I have serious concerns with Ethereum and I don't see how it works out over time — join the Family with me to talk through the big ...
+Why Quantum Computing Might Be The Ultimate Bullish Catalyst For Bitcoin! According to CoinTelegraph reports citing Quant ...
 
-📺 Jerry Banfield Crypto Reviews
+📺 ilme aalim
 
-👁️ 541 • 👍 16 • 💬 2 • ⏱️ 0:43 • 2d ago
+👁️ 629 • 👍 52 • 💬 5 • ⏱️ 2:45 • 3h ago
+
+---
+
+**[CRYPTO LIVE TRADING: Don&#39;t Even Think About Longing Bitcoin Before This Level](https://www.youtube.com/watch?v=qdZZFZjgaZY)**
+
+Captain Dylan here breaking down why this Bitcoin move is a massive trap. With the upcoming CPI report, people are derisking as ...
+
+📺 Chart Hackers
+
+👁️ 814 • 👍 108 • 1h ago
 
 ---
 
