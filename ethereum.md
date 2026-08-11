@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-11T20:43:49.640652+00:00'
+updated: '2026-08-11T21:48:13.674218+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 11, 2026 at 20:43 UTC  
+**Last Updated:** August 11, 2026 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** -1.3%  
-**30d:** +6.1%  
+**30d:** +6.0%  
 **90d:** -17.5%  
 **1y:** -59.0%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -168,11 +168,9 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 ---
 
-**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://finance.yahoo.com/markets/crypto/articles/russia-approves-trading-bitcoin-ethereum-172654581.html)**
+**[Ethereum Gained 0.13% to $1880.49 -- Data Talk](https://www.moomoo.com/news/post/74514789/ethereum-gained-0-13-to-1880-49-data-talk)**
 
-Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
-
-Yahoo Finance • 3h ago
+Moomoo • 33m ago
 
 ---
 
@@ -208,19 +206,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
+
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
+
+Benzinga • 1d ago
+
+---
+
 **[Six npm Packages Read C2 Addresses From Ethereum Wallet](https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/)**
 
 Six npm packages queried an Ethereum wallet to locate C2 infrastructure
 
-infosecurity-magazine.com • 5h ago
-
----
-
-**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
+Infosecurity Magazine • 6h ago
 
 ---
 
@@ -228,7 +226,7 @@ Fortune • 10h ago
 
 Crypto industry veterans are skeptical of a revival for altcoins but argue that Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) remain among the few assets with compelling long-term cases.Is Everything Except Bitcoin Dead?Speaking with Milk Road, Electric Capital co-founder Avichal Garg pushed back…
 
-TradingView • 23h ago
+tradingview.com • 1d ago
 
 ---
 
@@ -262,7 +260,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 1h ago
+👁️ 104 • 👍 5 • 💬 2 • ⏱️ 1:18 • 2h ago
 
 ---
 
@@ -272,7 +270,7 @@ Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, 
 
 📺 ilme aalim
 
-👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 11h ago
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 7:44 • 12h ago
 
 ---
 
@@ -320,7 +318,7 @@ Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Us
 
 📺 Your Crypto Crew
 
-👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 6h ago
+👁️ 384 • 👍 67 • 💬 3 • ⏱️ 11:41 • 7h ago
 
 ---
 

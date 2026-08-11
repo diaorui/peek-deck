@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T20:43:49.643928+00:00'
+updated: '2026-08-11T21:48:13.676526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 20:43 UTC  
+**Last Updated:** August 11, 2026 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,77 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Real-Time Underwater Image Processing System | Adaptive Sea-Thru extended version.](https://www.reddit.com/r/robotics/comments/1vk0bt4/realtime_underwater_image_processing_system/)**
+**["I Don't Have Anything to Hide", Said the Dude Photographed on the Toilet](https://www.reddit.com/r/robotics/comments/1vlefa1/i_dont_have_anything_to_hide_said_the_dude/)**
 
-2d ago
+This is an article that talks about how data is shockingly getting stolen in home spaces, and how important is to own our devices. It explains how to root a Vacuum Cleaner Robot, not just plain tutorial, but showing the politics of it at the same time. TLDR: Your smart home devices are photographing, recording, and selling you. Not hypothetically. Roomba leaked toilet photos, Ecovacs got hacked from a park bench, Vizio was fined for scanning screens 500 times a second, and 30,000 Amazon employees could listen to your Alexa recordings. "Nothing to hide" isn't the point; you close the window before getting dressed. I rooted my vacuum robot with Valetudo, a breakout PCB, and a Debian live USB. Same robot, same features, zero data leaving my house. Tutorial at the end. https://postcapitalistrobots.substack.com/p/i-dont-have-anything-to-hide-said
+
+10h ago
 
 ---
 
-**[How do I find an SFI rotary encoder accurate to more than 0.5 degrees?](https://www.reddit.com/r/robotics/comments/1vkmy2u/how_do_i_find_an_sfi_rotary_encoder_accurate_to/)**
+**[Collision-avoidant admittance control via marker-free localisation](https://www.reddit.com/r/robotics/comments/1vld63g/collisionavoidant_admittance_control_via/)**
 
-Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now. This article claims that this AS5048 chip is accurate to 0.05 degrees, but I cannot find reference to it in the datasheet. The best choice I've found so far with 16 angle bits and +-0.5 degrees nominal accuracy.
+We recently explored integrating marker-free robot localisation into a collision-aware admittance controller. roboreg estimates the poses of both robots. OpTaS constructs and continuously solves the admittance task subject to spherical collision constraints (visualised as red spheres in RViz). It can't really be "felt" by watching the video, but sliding along these virtual spheres creates quite the surreal sensation. roboreg: github.com/lbr-stack/roboreg OpTaS: github.com/cmower/optas
+
+11h ago
+
+---
+
+**[A camera and an IMU that disagree by a millisecond are describing two different robots](https://www.reddit.com/r/robotics/comments/1vli3a7/a_camera_and_an_imu_that_disagree_by_a/)**
+
+Most stacks work around this with interpolation and manual tuning, then spend months chasing an estimator problem that is really a clock problem underneath. We ran into same thing building sensor nodes for edge VSLAM. Current firmware still leans on external clock to keep camera and IMU aligned. Next revision removes that dependency, each unit disciplines its own clock on the bus instead of trusting one outside reference. Two units in the test setup below, same mechanism scales to more nodes on one bus.
+
+7h ago
+
+---
+
+**[Day one of JARVIS Smart helmet!](https://www.reddit.com/r/robotics/comments/1vlh7ma/day_one_of_jarvis_smart_helmet/)**
+
+Everyday I will share a video with you untill I finish this smart IRONMAN project! Tell me your opinion which color to choose?
+
+8h ago
+
+---
+
+**[Full demo of my latest build.](https://www.reddit.com/r/robotics/comments/1vkx8ya/full_demo_of_my_latest_build/)**
+
+Not for hire. I just like making stuff This build is being donated to a local makeshop that I am a part of for their presentation at a local robotics convention.
 
 1d ago
 
 ---
 
-**[How do I find an SFI rotary encoder accurate to more than 0.5 degrees?](https://www.reddit.com/r/robotics/comments/1vkmwpb/how_do_i_find_an_sfi_rotary_encoder_accurate_to/)**
+**[Egocentric Date vs UMI Data vs Teleops Data](https://www.reddit.com/r/robotics/comments/1vlujs3/egocentric_date_vs_umi_data_vs_teleops_data/)**
 
-Been browsing digikey but not sure if those even exist. I want to improve a forward kinematics implementation and this seems like the best approach, I've gotten +- 2mm at 2x0.3m link lengths, so I suspect it's the sensor accuracy that is the limiting factor right now.
+Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-1d ago
-
----
-
-**[I run a cobot business based out of NYC (UFactory's US office) - AMA](https://www.reddit.com/r/robotics/comments/1vkotj8/i_run_a_cobot_business_based_out_of_nyc_ufactorys/)**
-
-1d ago
+22m ago
 
 ---
 
-**[Found this Boston Dynamics Spot robot calibration target at a thrift store — anyone know more about it?](https://www.reddit.com/r/robotics/comments/1vjqys3/found_this_boston_dynamics_spot_robot_calibration/)**
+**[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-Title. I’m not a robotics guy - at all - but it seems like this could be important for someone with one of these robots? I plan to hang it up as art in my home unless there is some aimless robot somewhere depending on it for calibration. Any info would be helpful. Thanks! It was $6 for anyone curious. I’ll probably end up using it to barter after the AI apocalypse.
-
-2d ago
+3h ago
 
 ---
 
-**[I Made a Palm-Sized Three-Wheel Omnidirectional Robot](https://www.reddit.com/r/robotics/comments/1vjnv9g/i_made_a_palmsized_threewheel_omnidirectional/)**
+**[ROS2 motor controllers supporting Raspberry Pi, Jetson, and Intel/ARM + Arduino added to AgenticROS](https://www.reddit.com/r/robotics/comments/1vlkvjx/ros2_motor_controllers_supporting_raspberry_pi/)**
 
-2d ago
+npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
 
----
-
-**[Looking for Indian teammates for JAXA Kibo-RPC 7 (Space Robotics)](https://www.reddit.com/r/robotics/comments/1vkd13v/looking_for_indian_teammates_for_jaxa_kiborpc_7/)**
-
-Hi everyone! I'm a 3rd-year Physics student from India, and I'm looking to form a team for the 7th JAXA Kibo Robot Programming Challenge (Kibo-RPC) through the UNOOSA International Slot. The competition involves programming free-flying robots in the ISS, so I'm looking for people interested in space robotics, control, computer vision, and programming. A little about me: Physics major + Computer Science minor Python, numerical simulation and data analysis Interested in spacecraft GNC, control systems and autonomous navigation. I'm looking for 2-4 other Indian students who are genuinely interested in working on the competition and have experience with C++, robotics/ROS, computer vision, path planning, control systems, or algorithms would be especially useful. You don't need to be an expert — I'm mainly looking for people who are motivated and willing to work consistently as a team. If you're interested, DM me with your university, year, technical skills, and any relevant projects/competitions you've done. Thanks!
-
-1d ago
+6h ago
 
 ---
 
-**[Built a Real-Time Underwater Image Processing System – 4K 60FPS Part2.](https://www.reddit.com/r/robotics/comments/1vj4oym/built_a_realtime_underwater_image_processing/)**
+**[UPDATE: We ran the official HumanCLAW benchmark on our Causal Foundation Model (SONNY I). It hit a 98.0% success rate, crushing Google Gemini's 16.8%. Here is how the open-source core enabled it.](https://www.reddit.com/r/robotics/comments/1vlgnm7/update_we_ran_the_official_humanclaw_benchmark_on/)**
 
-This is a short clip from my latest underwater field test. The system is processing the video in real time while the ROV is actually moving underwater this isn't an offline post-processing demo. The pipeline currently runs with: 🎥 4K / 60 FPS ⚡ Real-time image processing 🧠 NVIDIA CUDA acceleration 🌊 Custom Adaptive Sea-Thru Engine based on a mathematical model 📡 Live HUD & telemetry 🚀 FIFISH V-EVO The video was captured during a real field test, with the processing running live on a laptop. I'm still developing the system, but the results are starting to get very interesting. I'd genuinely like to hear what you think especially from people working with ROVs, underwater imaging or computer vision. Full 4K video: https://youtu.be/cfC1NCoADgk
-
-3d ago
+8h ago
 
 ---
 
-**[The liberal agenda has gotten to my robot dog !](https://www.reddit.com/r/robotics/comments/1vkqn8h/the_liberal_agenda_has_gotten_to_my_robot_dog/)**
+**[Dyna Robotics trains DYNA-2 on more than 1 million hours of human video](https://www.reddit.com/r/robotics/comments/1vksawv/dyna_robotics_trains_dyna2_on_more_than_1_million/)**
 
-I have been running different experiments with reinforcement learning lately, this one was suppose to solve a real problem with my real robot, climbing onto ramps, it did produce a successful result but the gait is a bit more peculiar than I anticipated :) Since building my actual robot and getting it to walk, I have been working on a lot of different machine learning techniques in simulations to improve its performance, I often share the scripts with my videos on youtube so if you are interested in experimenting with simulations, take a peak at my channel, youtube.com/printedrobotics
+Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to improve robot manipulation, though its scaling results remain internally reported.
 
-1d ago
-
----
-
-**[🤖 Looking for teammates | Fully-Funded Project](https://www.reddit.com/r/robotics/comments/1vjmw7c/looking_for_teammates_fullyfunded_project/)**
-
-Looking for people interested in joining an autonomous robotics project We’re currently building an autonomous ground robot. We’re looking for people interested in contributing to areas like: ROS2 / SLAM / autonomous navigation Embedded systems & motor control Computer vision / AI Electronics The project is currently in the design and prototyping stage, with plans to build and test the actual robot. If you’re genuinely interested in working on robotics hands-on, DM me with your background/skills and what area you’d like to contribute to.
-
-2d ago
+🔗 [RuntimeWire](https://runtimewire.com/article/dyna-robotics-dyna-2-human-video-robotics-scaling-law) • 1d ago
 
 ---
 
@@ -110,41 +112,17 @@ Looking for people interested in joining an autonomous robotics project We’re 
 
 ## Google News: "robotics"
 
+**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+
+The New York Times • 8h ago
+
+---
+
 **[Humanoid robots trained on 1M hours of human video achieve up to 90% task success](https://interestingengineering.com/ai-robotics/dyna-robotics-dyna-2-human-video-robot-training)**
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-Interesting Engineering • 22h ago
-
----
-
-**[Why billion-dollar robotics startups are obsessed with folding laundry](https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8)**
-
-Sunday Robotics, Weave, and 1X are all starting with the same core task: laundry. Here's why it has become their favorite gateway into the home.
-
-Business Insider • 2d ago
-
----
-
-**[Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)**
-
-The divesture comes comes as the two once-tight companies have started to diverge on the business side.
-
-TechCrunch • 41m ago
-
----
-
-**[Alloy Robotics Raises $8 Million To Help Stop Robots Failing](https://www.forbes.com/sites/davidprosser/2026/08/11/alloy-robotics-raises-8-million-to-help-stop-robots-failing/)**
-
-The start-up is keen to capitalize on the rapid growth of the robotics market with a data platform that enables engineers to identify faults more quickly
-
-Forbes • 42m ago
-
----
-
-**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
-
-nytimes.com • 6h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -152,7 +130,7 @@ nytimes.com • 6h ago
 
 Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -160,7 +138,7 @@ Bloomberg.com • 3h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 5h ago
+CBS News • 6h ago
 
 ---
 
@@ -170,7 +148,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-The Information • 20h ago
+The Information • 21h ago
 
 ---
 
@@ -178,7 +156,15 @@ The Information • 20h ago
 
 A new open world model from LTX shows how open-weights models can be used and customized by anyone.
 
-cnet.com • 7h ago
+CNET • 8h ago
+
+---
+
+**[Alloy Robotics Raises $8 Million To Help Stop Robots Failing](https://www.forbes.com/sites/davidprosser/2026/08/11/alloy-robotics-raises-8-million-to-help-stop-robots-failing/)**
+
+The start-up is keen to capitalize on the rapid growth of the robotics market with a data platform that enables engineers to identify faults more quickly
+
+forbes.com • 1h ago
 
 ---
 
@@ -186,7 +172,23 @@ cnet.com • 7h ago
 
 The Hangzhou-based humanoid robot maker is set to become the first onshore-listed humanoid robot company in mainland China
 
-qz.com • 2h ago
+qz.com • 3h ago
+
+---
+
+**[The North Sea is full of robots](https://www.politico.eu/article/north-sea-oil-gas-robots-ai-technology-drilling-future/)**
+
+As Andy Burnham mulls the future of oil and gas drilling, developers hope robotics will help them survive.
+
+politico.eu • 5d ago
+
+---
+
+**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
+
+FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
+
+Supply Chain Dive • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 6K • 👍 177 • 💬 43 • ⏱️ 7:05 • 4h ago
+👁️ 6K • 👍 177 • 💬 43 • ⏱️ 7:05 • 5h ago
 
 ---
 
@@ -220,7 +222,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 7K • 💬 35 • ⏱️ 8:34 • 4h ago
+👁️ 7K • 💬 35 • ⏱️ 8:34 • 5h ago
 
 ---
 
@@ -258,7 +260,7 @@ POV: You visit an industrial expo and leave with a wishlist bigger than your sal
 
 📺 Arnov Does Tech
 
-👁️ 569 • 👍 17 • 💬 2 • ⏱️ 0:46 • 2h ago
+👁️ 569 • 👍 17 • 💬 2 • ⏱️ 0:46 • 3h ago
 
 ---
 
@@ -286,7 +288,7 @@ On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witn
 
 📺 FRAME
 
-👁️ 93K • 👍 1K • ⏱️ 17:44 • 4d ago
+👁️ 93K • 👍 1K • ⏱️ 17:44 • 5d ago
 
 ---
 
