@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-11T23:40:10.265375+00:00'
+updated: '2026-08-12T01:58:07.566517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 11, 2026 at 23:40 UTC  
+**Last Updated:** August 12, 2026 at 01:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is an article that talks about how data is shockingly getting stolen in home spaces, and how important is to own our devices. It explains how to root a Vacuum Cleaner Robot, not just plain tutorial, but showing the politics of it at the same time. TLDR: Your smart home devices are photographing, recording, and selling you. Not hypothetically. Roomba leaked toilet photos, Ecovacs got hacked from a park bench, Vizio was fined for scanning screens 500 times a second, and 30,000 Amazon employees could listen to your Alexa recordings. "Nothing to hide" isn't the point; you close the window before getting dressed. I rooted my vacuum robot with Valetudo, a breakout PCB, and a Debian live USB. Same robot, same features, zero data leaving my house. Tutorial at the end. https://postcapitalistrobots.substack.com/p/i-dont-have-anything-to-hide-said
 
-12h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is an article that talks about how data is shockingly getting stolen in hom
 
 We recently explored integrating marker-free robot localisation into a collision-aware admittance controller. roboreg estimates the poses of both robots. OpTaS constructs and continuously solves the admittance task subject to spherical collision constraints (visualised as red spheres in RViz). It can't really be "felt" by watching the video, but sliding along these virtual spheres creates quite the surreal sensation. roboreg: github.com/lbr-stack/roboreg OpTaS: github.com/cmower/optas
 
-13h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ We recently explored integrating marker-free robot localisation into a collision
 
 Most stacks work around this with interpolation and manual tuning, then spend months chasing an estimator problem that is really a clock problem underneath. We ran into same thing building sensor nodes for edge VSLAM. Current firmware still leans on external clock to keep camera and IMU aligned. Next revision removes that dependency, each unit disciplines its own clock on the bus instead of trusting one outside reference. Two units in the test setup below, same mechanism scales to more nodes on one bus.
 
-9h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ Most stacks work around this with interpolation and manual tuning, then spend mo
 
 Everyday I will share a video with you untill I finish this smart IRONMAN project! Tell me your opinion which color to choose?
 
-10h ago
+12h ago
 
 ---
 
@@ -76,13 +76,13 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-2h ago
+4h ago
 
 ---
 
 **[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hey everyone - I'm getting into the robotic space so any researchers can help me
 
 npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
 
-8h ago
+10h ago
 
 ---
 
 **[UPDATE: We ran the official HumanCLAW benchmark on our Causal Foundation Model (SONNY I). It hit a 98.0% success rate, crushing Google Gemini's 16.8%. Here is how the open-source core enabled it.](https://www.reddit.com/r/robotics/comments/1vlgnm7/update_we_ran_the_official_humanclaw_benchmark_on/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -114,7 +114,7 @@ Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to impro
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 9h ago
+The New York Times • 12h ago
 
 ---
 
@@ -122,13 +122,7 @@ The New York Times • 9h ago
 
 Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-Bloomberg.com • 6h ago
-
----
-
-**[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
-
-Bloomberg.com • 40m ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -136,7 +130,29 @@ Bloomberg.com • 40m ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL.com • 2h ago
+KSL.com • 4h ago
+
+---
+
+**[China’s Robots Know Kung Fu and Can Scale Walls. Can They Woo Investors?](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+
+The New York Times • 5d ago
+
+---
+
+**[Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors](https://www.ft.com/content/99824437-8173-4320-b84b-242c726ab437?syn-25a6b1a6=1)**
+
+Unitree raises $900mn ahead of Shanghai listing expected later this month
+
+Financial Times • 18h ago
+
+---
+
+**[Robotics Stocks Rally as Unitree’s 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus](https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html)**
+
+A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -144,15 +160,7 @@ KSL.com • 2h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 8h ago
-
----
-
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
-
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
-
-TribLIVE.com • 12h ago
+CBS News • 10h ago
 
 ---
 
@@ -162,7 +170,7 @@ Caitlin Kalinowski, who previously led OpenAI’s robotics effort, has joined An
 
  Kalinowski’s move is the latest sign of Anthropic’s interest in robotics. Anthropic last month  released new research  on using Claude to control robots. Anthropic’s robotics division is headed up by Jan Leike, who previously led
 
-theinformation.com • 22h ago
+The Information • 1d ago
 
 ---
 
@@ -170,15 +178,7 @@ theinformation.com • 22h ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 3h ago
-
----
-
-**[This New Open-Weight AI Model Is Built for Video and Robots](https://www.cnet.com/tech/services-and-software/ltx-2-5-ai-open-weights-video-robotics-news/)**
-
-A new open world model from LTX shows how open-weights models can be used and customized by anyone.
-
-cnet.com • 10h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -200,35 +200,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 11K • 👍 228 • 💬 47 • ⏱️ 7:05 • 7h ago
-
----
-
-**[U.S. bans many new foreign made robots](https://www.youtube.com/watch?v=hLQTewWAaeQ)**
-
-The FCC won't allow many new foreign made robotic devices, a lot of them coming from China, to be sold in the U.S., citing ...
-
-📺 NBC News
-
-👁️ 35K • 👍 386 • 💬 426 • ⏱️ 1:36 • 6d ago
-
----
-
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
-
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
-
-📺 KhanFlicks
-
-👁️ 13K • 💬 35 • ⏱️ 8:34 • 7h ago
-
----
-
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
-
-📺 Ben Esherick
-
-👁️ 576K • 👍 28K • 💬 746 • ⏱️ 0:35 • 4d ago
+👁️ 13K • 👍 271 • 💬 52 • ⏱️ 7:05 • 9h ago
 
 ---
 
@@ -238,7 +210,55 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 📺 Julia McCoy
 
-👁️ 56K • 👍 2K • 💬 229 • ⏱️ 9:02 • 3d ago
+👁️ 57K • 👍 2K • 💬 232 • ⏱️ 9:02 • 3d ago
+
+---
+
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+
+📺 KhanFlicks
+
+👁️ 15K • 💬 35 • ⏱️ 8:34 • 10h ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 3.2M • 👍 134K • 💬 8K • ⏱️ 0:58 • 4d ago
+
+---
+
+**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
+
+This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
+
+📺 Cleo Abram
+
+👁️ 467K • 👍 31K • 💬 435 • ⏱️ 0:32 • 12h ago
+
+---
+
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+
+📺 Custom Adventurist
+
+👁️ 44K • 👍 2K • 💬 205 • ⏱️ 1:02 • 5d ago
+
+---
+
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 61K • 👍 801 • 💬 405 • ⏱️ 28:01 • 4d ago
 
 ---
 
@@ -252,41 +272,23 @@ Every time you order clothes, groceries or household essentials online, there's 
 
 ---
 
-**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
+**[Inside BMW&#39;s Super Advanced US Factory Where Robots Build Cars](https://www.youtube.com/watch?v=xL9ZCbMvbjE)**
 
-This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
+On this feature on FRAME, we take you inside BMW Group Plant Spartanburg to witness the next generation of industrial ...
 
-📺 Cleo Abram
+📺 FRAME
 
-👁️ 394K • 👍 28K • 💬 398 • ⏱️ 0:32 • 9h ago
-
----
-
-**[I Found the COOLEST Machines at AMTEX Expo India](https://www.youtube.com/watch?v=7FJr7RQLWs0)**
-
-POV: You visit an industrial expo and leave with a wishlist bigger than your salary. #AMTEXExpo #EngineeringIndia ...
-
-📺 Arnov Does Tech
-
-👁️ 905 • 👍 21 • 💬 2 • ⏱️ 0:46 • 5h ago
+👁️ 94K • 👍 1K • ⏱️ 17:44 • 5d ago
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[How I Get Industrial Robots for so Cheap](https://www.youtube.com/watch?v=w7vHXba9RLo)**
 
-📺 Tyrecordslol
+Use code PCBWay-ExcessiveOverkill10 to get $10 off orders over $30 at PCBWay: https://member.pcbway.com/Member/coupon ...
 
-👁️ 3.2M • 👍 134K • 💬 8K • ⏱️ 0:58 • 4d ago
+📺 Excessive Overkill
 
----
-
-**[AI ROBOT DOLLS Are On The Market In China And Women Are PISSED...](https://www.youtube.com/watch?v=lp4NTxKYUQs)**
-
-AI ROBOT DOLLS Are On The Market In China And Women Are PISSED... Hosted by Jack an ex-professional Rugby player ...
-
-📺 Alpha Central
-
-👁️ 168K • 👍 6K • 💬 3K • ⏱️ 20:28 • 6d ago
+👁️ 139K • 👍 5K • 💬 242 • ⏱️ 47:03 • 5d ago
 
 ---
 
