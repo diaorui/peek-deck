@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T05:55:07.792913+00:00'
+updated: '2026-08-12T07:24:42.757105+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 05:55 UTC  
+**Last Updated:** August 12, 2026 at 07:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.7%  
-**30d:** -1.8%  
-**90d:** -19.3%  
-**1y:** -48.1%  
+**24h:** -0.6%  
+**7d:** -0.9%  
+**30d:** -2.0%  
+**90d:** -19.4%  
+**1y:** -48.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1279.23B
+**Market Cap:** $1277.96B
 Rank #1
 
-**Circulating Supply:** 20,068,981 BTC
+**Circulating Supply:** 20,069,043 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.5%
 
 **All-Time Low:** $67.81
-+93899.4%
++93803.6%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
 
-22h ago
+23h ago
 
 ---
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -105,31 +105,31 @@ Rank #1
 
 Last year I bought Bitcoin at $120K when everyone was saying it was heading to $200K. Well, shortly after it hit $126K and then crashed. Has this happened to anyone else — buying near a top in a previous cycle? What did you do? I'm buying the dip.
 
-4h ago
+6h ago
 
 ---
 
 **[The guy you convinced to buy bitcoin at $126K and you with a cost basis of $10K](https://www.reddit.com/r/Bitcoin/comments/1vlf7ap/the_guy_you_convinced_to_buy_bitcoin_at_126k_and/)**
 
-18h ago
+19h ago
 
 ---
 
 **[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
 
-3h ago
+5h ago
 
 ---
 
 **[How corporations like McDonalds benefit from our rigged theft-based monetary system](https://www.reddit.com/r/Bitcoin/comments/1vlv7pk/how_corporations_like_mcdonalds_benefit_from_our/)**
 
-8h ago
+9h ago
 
 ---
 
 **[If there’s ever a button to smash, this would be the one.](https://www.reddit.com/r/Bitcoin/comments/1vlldnl/if_theres_ever_a_button_to_smash_this_would_be/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Last year I bought Bitcoin at $120K when everyone was saying it was heading to $
 
 Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 10h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 11h ago
 
 ---
 
@@ -149,13 +149,7 @@ Public companies are increasingly borrowing against their bitcoin holdings to fu
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 12h ago
-
----
-
-**[Why Anthropic’s $9 Billion Deal With Riot Is a Watershed Moment for Bitcoin Miners](https://www.barrons.com/articles/anthropic-riot-platforms-deal-ai-bitcoin-f59f7a15)**
-
-barrons.com • 10h ago
+CNBC • 13h ago
 
 ---
 
@@ -167,7 +161,15 @@ On today's episode, Melker discusses the Riot Platforms (RIOT), a bitcoin mining
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value](https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435)**
+
+In May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bullish on mining economics."
+
+The Block • 15h ago
 
 ---
 
@@ -175,53 +177,51 @@ Yahoo Finance • 13h ago
 
 Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitwise CIO Says Bitcoin May Be Near Crypto Winter’s Bottom](https://finance.yahoo.com/markets/crypto/articles/bitwise-cio-says-bitcoin-may-043619546.html)**
+**[Live Updates: Bitcoin at $63,600 as Japan's Metaplanet Moves 3,881 BTC Between Wallets](https://www.moomoo.com/news/post/74540520/live-updates-bitcoin-at-63600-as-japan-s-metaplanet-moves)**
 
-Bitwise CIO Matt Hougan says Bitcoin may be nearing the bottom of this crypto winter as it has not flinched in the face of bad news.
-
-Yahoo Finance • 1h ago
+Moomoo • 15m ago
 
 ---
 
-**[Here's What Bitcoin and Ether Traders Are Doing Ahead of the Binary U.S. CPI Print](https://www.moomoo.com/news/post/74534999/here-s-what-bitcoin-and-ether-traders-are-doing-ahead)**
+**[CPI Inflation Day: Where the money’s flowing in bitcoin and ether markets](https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print)**
 
-Moomoo • 24m ago
+Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.
 
----
-
-**[Coinbase CEO Brian Armstrong Says ‘Crypto Doesn’t Get Enough Credit’ for Unlocking Global Financial Access With Stablecoins, DeFi and Bitcoin](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-033105380.html)**
-
-Coinbase Global Inc. CEO Brian Armstrong argued that crypto has already expanded financial access globally by bringing dollar-based payments, decentralized credit, stock exposure and an alternative store of wealth to people outside traditional financial systems. Armstrong Highlights Crypto’s Financial Access...
-
-Yahoo Finance • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far](https://finance.yahoo.com/markets/crypto/articles/why-strategy-selling-bitcoin-much-144611565.html)**
+**[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data -- Market Talk](https://www.moomoo.com/news/post/74539566/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data)**
 
-The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
-
-Yahoo Finance • 15h ago
+Moomoo • 28m ago
 
 ---
 
-**[Bitcoin slips toward $64,000 as traders await Wednesday's inflation test](https://www.theblock.co/news/markets/2026-08-11-bitcoin-slips-toward-64000-as-traders-await-wednesdays-inflation-test-411418)**
+**[Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus](https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/)**
 
-Bitcoin eased toward $64,000 before Wednesday's US CPI report, with analysts split on whether the stall breaks higher or reverses.
+The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-The Block • 15h ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
+**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
 
-ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
+Institutions might start to win more trust from investors.
 
-Fox Business • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[BlackRock reveals what Bitcoin investors feel right now](https://www.aol.com/articles/blackrock-reveals-bitcoin-investors-feel-070000000.html)**
+
+BlackRock's head of digital assets, Robert Mitchnick, talks about sentiment prevalent among Bitcoin investors.
+
+AOL.com • 20h ago
 
 ---
 
@@ -242,14 +242,6 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
 
 ⬆️ 9 • 💬 4 • 6d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
-
----
-
-**[After $140M hack, Bitcoin users 'soul-searching' over self-custody](https://news.ycombinator.com/item?id=49179540)**
-
-A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal from individuals storing their own cryptocurrency
-
-⬆️ 3 • 💬 0 • 6d ago • [The Globe and Mail](https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/)
 
 ---
 
@@ -307,27 +299,35 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 ---
 
+**[Show HN: Kernelspace- interactive course on systems programming for LLM Serving](https://news.ycombinator.com/item?id=49266750)**
+
+From cache lines to continuous batching. The interactive course for backend engineers. No prior systems knowledge required.
+
+⬆️ 2 • 💬 0 • 6h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Is Bitcoin STILL a Good Investment?](https://www.youtube.com/watch?v=Z-brrIFyjNo)**
+**[Bitcoin Subject To MASF Attacks](https://www.youtube.com/watch?v=bpwOzcFtOIM)**
 
-The only bet in Bitcoin is that Washington never stops printing money. That's not a risky bet. That's the safest one on the board.
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin is now subject to MASF ...
 
-📺 Anthony Pompliano
+📺 Bitcoin University
 
-👁️ 16K • 👍 293 • 💬 42 • ⏱️ 0:50 • 1d ago
+👁️ 9K • 👍 1K • 💬 787 • ⏱️ 9:58 • 10h ago
 
 ---
 
-**[This Ends Every Bitcoin Bear Market](https://www.youtube.com/watch?v=1lHFaniXiw0)**
+**[Bitcoin’s On A Knifes Edge BUT There May Be One Last Squeeze Today!](https://www.youtube.com/watch?v=dhUgAjmb7uM)**
 
-GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 The Korean market dropped 45%. AI stocks got cut in half.
+In today's video, Kyledoops outlines the importance of price action being at a very pivotal point whilst there is always a high impact ...
 
-📺 Lark Davis
+📺 Crypto Banter
 
-👁️ 13K • 👍 628 • 💬 85 • ⏱️ 7:38 • 17h ago
+👁️ 989 • 👍 134 • 2h ago
 
 ---
 
@@ -341,43 +341,23 @@ MASSIVE: A HURRICANE is about To Hit Crypto! 🌪️ ⭐ Follow Altcoin Daily on
 
 ---
 
-**[This Week Could Decide Bitcoin&#39;s Direction](https://www.youtube.com/watch?v=8rb0sPhh6K0)**
+**[BTC CRASH in Progress: Bitcoin Already Started the August CRASH &amp; is Going Much Lower Than You Think](https://www.youtube.com/watch?v=oC-Ix7jFkzw)**
 
-Bitcoin is entering a tight compression phase, and the next breakout could be closer than most traders expect. Sheldon breaks ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Crypto Banter
+📺 Doctor of Pump & Dump
 
-👁️ 7K • 👍 362 • 💬 18 • ⏱️ 12:44 • 19h ago
-
----
-
-**[Bitcoin: It&#39;s Almost Crunch Time](https://www.youtube.com/watch?v=zsnxQO7tC9M)**
-
-Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time. Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 125K • 👍 7K • 💬 361 • ⏱️ 8:04 • 1d ago
+👁️ 4K • 👍 345 • ⏱️ 26:42 • 11h ago
 
 ---
 
-**[Alex Thorn: &quot;Move Your Bitcoin Right Now or It Will Be Stolen&quot;](https://www.youtube.com/watch?v=-syE3RdrTdQ)**
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
 
-Over $112 million in Bitcoin has been affected by the Coldcard vulnerability, and Galaxy's Alex Thorn warns that the hack isn't ...
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
 
-📺 Natalie Brunell
+📺 Gareth Soloway
 
-👁️ 380 • 👍 9 • 💬 30 • ⏱️ 0:49 • 5h ago
-
----
-
-**[Saylor Is Now A Forced Bitcoin Seller And Institutions Just Bought His Entire Sale 8 Times Over!](https://www.youtube.com/watch?v=6SSeGYa6fk0)**
-
-Thanks to Coinbase for sponsoring this video. Activate your rewards below: ▻ COINBASE Get up to 250 USDC in rewards ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 479 • 💬 243 • ⏱️ 15:47 • 1d ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 12h ago
 
 ---
 
@@ -387,27 +367,47 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 263 • ⏱️ 20:00 • 1d ago
+👁️ 21K • 👍 2K • 💬 276 • ⏱️ 20:00 • 1d ago
 
 ---
 
-**[Why Bitcoin is Silently Breaking Out! (Key Signals)](https://www.youtube.com/watch?v=cMn-64eAuwY)**
+**[Cycle Signal Triggers as Bitcoin Price Chart ABC&#39;s with XRP On-Chain Hitting 42.4 Billion at $1.00](https://www.youtube.com/watch?v=U5postwKrF8)**
 
-Ran breaks down why Bitcoin may be quietly entering a new phase, with signs of a silent breakout building beneath the surface.
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
 
-📺 Crypto Banter
+📺 Blockchain Backer
 
-👁️ 14K • 👍 854 • 💬 43 • ⏱️ 18:10 • 1d ago
+👁️ 30K • 👍 3K • 💬 3 • ⏱️ 19:18 • 20h ago
 
 ---
 
-**[Bitcoin&#39;s Slide: Structural Slump or Crypto Winter? | Presented by CME Group](https://www.youtube.com/watch?v=zTHXc7YYpp4)**
+**[New Lows Coming For Crypto ??](https://www.youtube.com/watch?v=UcAX4VpRTfg)**
 
-Bitcoin has lost half its value since its October peak as higher yields, tighter financial conditions and competition from AI weigh on ...
+New Lows Coming For Crypto ?? Stocks repeating DAX rally Metals at inflection point TA & Live Trades Get the CF Cycle trading ...
 
-📺 Bloomberg News
+📺 Camel Finance
 
-👁️ 19K • 👍 10 • ⏱️ 1:35 • 1d ago
+👁️ 9K • 👍 587 • 💬 95 • ⏱️ 12:02 • 21h ago
+
+---
+
+**[🚨 ¿ESTOY EQUIVOCADO CON BITCOIN? y este se desplomara a 60K como todo mundo dice?](https://www.youtube.com/watch?v=pLaPCpw8DuQ)**
+
+Estoy equivocado con Bitcoin? El precio se está debilitando y cada vez más traders hablan de una posible caída hacia los 60K.
+
+📺 BITLOBO TRADING
+
+👁️ 4K • 👍 771 • 💬 7 • ⏱️ 47:41 • 13h ago
+
+---
+
+**[When to Start Accumulating Bitcoin Again](https://www.youtube.com/watch?v=MHJdFZ-ZGqo)**
+
+David Duong on when he thinks Bitcoin buyers come back David's read is that the market is in the summer doldrums, with liquidity ...
+
+📺 The Wolf Of All Streets
+
+👁️ 570 • 👍 4 • ⏱️ 0:32 • 3h ago
 
 ---
 

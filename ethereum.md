@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T05:55:07.799148+00:00'
+updated: '2026-08-12T07:24:42.762432+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 05:55 UTC  
+**Last Updated:** August 12, 2026 at 07:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,884.52
+### $1,891.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.6%  
 **7d:** -0.7%  
-**30d:** +0.0%  
+**30d:** -0.1%  
 **90d:** -15.0%  
 **1y:** -60.2%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.43B
+**Market Cap:** $227.91B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-61.8%
 
 **All-Time Low:** $0.43
-+435149.7%
++436071.3%
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -192,6 +192,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+
+Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
+
+Benzinga • 19h ago
+
+---
+
 **[Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298)**
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
@@ -200,19 +208,11 @@ The Block • 1d ago
 
 ---
 
-**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
-
-Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
-
-Benzinga • 18h ago
-
----
-
 **[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 19h ago
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 5h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ AMBCrypto • 5h ago
 
 DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 13K • 👍 637 • 💬 94 • ⏱️ 6:34 • 1d ago
+👁️ 13K • 👍 640 • 💬 94 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -256,43 +256,23 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 ---
 
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+
+📺 Gareth Soloway
+
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 12h ago
+
+---
+
 **[📈 Saylor Sold. Now Ethereum Flips Bitcoin.](https://www.youtube.com/watch?v=T6hJPf1-FSw)**
 
 Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past BTC through ETFs, and the crypto market may ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 383 • 👍 20 • 💬 2 • ⏱️ 1:18 • 10h ago
-
----
-
-**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
-
-Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
-
-📺 Your Crypto Crew
-
-👁️ 729 • 👍 103 • 💬 18 • ⏱️ 11:41 • 15h ago
-
----
-
-**[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
-
-Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 3K • 👍 148 • 💬 25 • ⏱️ 7:44 • 21h ago
+👁️ 482 • 👍 24 • 💬 2 • ⏱️ 1:18 • 11h ago
 
 ---
 
@@ -306,33 +286,53 @@ In this video I break down the current Ethereum price action and provide a clear
 
 ---
 
-**[Ethereum Price Prediction: These Next Moves Could Make or Break ETH](https://www.youtube.com/watch?v=V_kqWnw4tVE)**
+**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
 
-Ethereum (ETH) faces a critical moment near the $1950 resistance zone as thin trading volumes and fading market momentum ...
+Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
 
-📺 FXEmpire
+📺 Your Crypto Crew
 
-👁️ 102 • ⏱️ 4:53 • 1d ago
-
----
-
-**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading  #livetrading #gold@Tradewithrakhi](https://www.youtube.com/watch?v=0dwnYyx2g78)**
-
-LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #livetrading #live #goldtrading #cryptotrading #gold @Tradewithrakhi JOIN ...
-
-📺 Trade With Rakhi
-
-👁️ 11K • 👍 1K • 5h ago
+👁️ 831 • 👍 109 • 💬 18 • ⏱️ 11:41 • 17h ago
 
 ---
 
-**[Bitcoin&#39;s 200-Week Indicator: MASSIVE Buy Opportunity Revealed! #shorts](https://www.youtube.com/watch?v=C74YloRR-Iw)**
+**[Ethereum Is Changing Forever    Institutions Were Hiding This! 🤫](https://www.youtube.com/watch?v=N-ezYzRirB8)**
 
-The 200-week moving average has historically signaled major buying opportunities in crypto. Bitcoin and ETH are key vehicles for ...
+Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native mainnet privacy to attract institutional ...
 
-📺 CryptoLabs Research | Defi Income & Investing
+📺 ilme aalim
 
-👁️ 592 • 👍 8 • 💬 2 • ⏱️ 0:49 • 1d ago
+👁️ 274 • 👍 20 • 💬 34 • ⏱️ 2:08 • 2h ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 3K • 👍 155 • 💬 35 • ⏱️ 7:44 • 22h ago
+
+---
+
+**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
+
+CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
+
+📺 The Coin Daily
+
+👁️ 5K • ⏱️ 5:58 • 1d ago
+
+---
+
+**[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
+
+Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
+
+📺 Aaron Dishner aka Moonin Papa
+
+👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
 
 ---
 
