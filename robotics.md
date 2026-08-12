@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T18:28:43.542731+00:00'
+updated: '2026-08-12T19:40:36.124691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 18:28 UTC  
+**Last Updated:** August 12, 2026 at 19:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-21h ago
+22h ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 1d ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-techcrunch.com • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -130,43 +130,19 @@ techcrunch.com • 22h ago
 
 A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 12h ago
+nature.com • 14h ago
 
 ---
 
 **[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
 
-Bloomberg.com • 19h ago
-
----
-
-**['A huge win': Utah State University, technical colleges partner to bolster robotics workforce](https://www.ksl.com/article/51608468/a-huge-win-utah-state-university-technical-colleges-partner-to-bolster-robotics-workforce)**
-
-Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
-
-KSL.com • 21h ago
-
----
-
-**[AMD’s Ryzen AI X100 Takes On GPU-Centric AI](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/)**
-
-AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
-
-EE Times • 1d ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-IEEE Spectrum • 2d ago
+bloomberg.com • 20h ago
 
 ---
 
@@ -174,7 +150,23 @@ IEEE Spectrum • 2d ago
 
 As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
 
-calcalistech.com • 11h ago
+calcalistech.com • 12h ago
+
+---
+
+**['A huge win': Utah State University, technical colleges partner to bolster robotics workforce](https://www.ksl.com/article/51608468/a-huge-win-utah-state-university-technical-colleges-partner-to-bolster-robotics-workforce)**
+
+Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
+
+KSL News • 22h ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+spectrum.ieee.org • 2d ago
 
 ---
 
@@ -183,6 +175,14 @@ calcalistech.com • 11h ago
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
 CBS News • 1d ago
+
+---
+
+**[AMD’s Ryzen AI X100 Takes On GPU-Centric AI](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/)**
+
+AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
+
+EE Times • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 674K • 👍 19K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 701K • 👍 19K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 26K • 👍 277 • 💬 74 • ⏱️ 3:48 • 1d ago
+👁️ 27K • 👍 286 • 💬 79 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -216,7 +216,15 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 24K • 👍 417 • 💬 89 • ⏱️ 7:05 • 1d ago
+👁️ 27K • 👍 441 • 💬 95 • ⏱️ 7:05 • 1d ago
+
+---
+
+**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
+
+📺 Ben Esherick
+
+👁️ 620K • 👍 29K • 💬 767 • ⏱️ 0:35 • 5d ago
 
 ---
 
@@ -226,15 +234,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Cleo Abram
 
-👁️ 849K • 👍 46K • 💬 606 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
-
-📺 Ben Esherick
-
-👁️ 616K • 👍 29K • 💬 767 • ⏱️ 0:35 • 5d ago
+👁️ 887K • 👍 47K • 💬 616 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -242,17 +242,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Tech Talkies
 
-👁️ 44K • 👍 554 • 💬 7 • ⏱️ 0:13 • 6d ago
-
----
-
-**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
-
-In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
-
-📺 freeCodeCamp.org
-
-👁️ 25K • 👍 1K • 💬 39 • ⏱️ 6:49:12 • 1d ago
+👁️ 45K • 👍 556 • 💬 7 • ⏱️ 0:13 • 6d ago
 
 ---
 
@@ -276,11 +266,21 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 ---
 
+**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+
+Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+
+📺 Al Jazeera English
+
+👁️ 64K • 👍 836 • 💬 428 • ⏱️ 28:01 • 5d ago
+
+---
+
 **[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
 
 📺 Tyrecordslol
 
-👁️ 3.3M • 👍 137K • 💬 8K • ⏱️ 0:58 • 5d ago
+👁️ 3.4M • 👍 137K • 💬 8K • ⏱️ 0:58 • 5d ago
 
 ---
 
