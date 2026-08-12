@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T16:25:45.570081+00:00'
+updated: '2026-08-12T17:29:02.463111+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 16:25 UTC  
+**Last Updated:** August 12, 2026 at 17:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** -0.4%  
-**30d:** +0.2%  
-**90d:** -14.8%  
-**1y:** -60.1%  
+**24h:** +1.1%  
+**7d:** -0.9%  
+**30d:** -0.3%  
+**90d:** -15.2%  
+**1y:** -60.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.52B
+**Market Cap:** $227.53B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435323.0%
++435232.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 22h ago
+Decrypt • 1d ago
 
 ---
 
@@ -165,14 +165,6 @@ Decrypt • 22h ago
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
 24/7 Wall St. • 2d ago
-
----
-
-**[Fidelity Adds Staking Payments To Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/fidelity-adds-staking-payments-ethereum-132400615.html)**
-
-Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -208,19 +200,19 @@ The Block • 2d ago
 
 ---
 
+**[Fidelity Adds Staking Payments To Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/fidelity-adds-staking-payments-ethereum-132400615.html)**
+
+Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
-
----
-
-**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
-
-BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
-
-benzinga.com • 1d ago
+Fortune • 6h ago
 
 ---
 
@@ -228,13 +220,71 @@ benzinga.com • 1d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
+
+---
+
+**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+
+Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
+
+Benzinga • 1d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
+
+Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 171 • 💬 26 • ⏱️ 1:01:54 • 1h ago
+
+---
+
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+
+📺 The Modern Investor
+
+👁️ 3K • 👍 494 • 💬 97 • ⏱️ 30:14 • 8h ago
+
+---
+
+**[Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait...](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 291 • 👍 38 • 💬 55 • ⏱️ 11:59 • 20m ago
+
+---
+
+**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
+
+📺 Bankless
+
+👁️ 5K • 👍 150 • 💬 64 • ⏱️ 54:27 • 2d ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 135 • 💬 4 • ⏱️ 7:07 • 3h ago
+
+---
 
 **[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
 
@@ -252,27 +302,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 399 • 💬 280 • ⏱️ 19:05 • 16h ago
-
----
-
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
-
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 438 • 💬 112 • ⏱️ 30:14 • 7h ago
-
----
-
-**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
-
-📺 Bankless
-
-👁️ 5K • 👍 149 • 💬 62 • ⏱️ 54:27 • 2d ago
+👁️ 6K • 👍 414 • 💬 273 • ⏱️ 19:05 • 17h ago
 
 ---
 
@@ -282,57 +312,27 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 151 • ⏱️ 10:20 • 21h ago
+👁️ 45K • 👍 3K • 💬 151 • ⏱️ 10:20 • 22h ago
 
 ---
 
-**[Live Crypto &amp; Gold Psychological Trading 12 Aug  ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=EObCe1JzwFo)**
+**[🔴 LIVE Crypto and Futures Analysis | BTC, ETH, NQ, ES &amp; Alt Coins](https://www.youtube.com/watch?v=wZ3YkxKBEuU)**
 
-TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum, Futures and Alt coins using market ...
 
-📺 Vibe With Sahil
+📺 Chart Champions
 
-👁️ 2K • 👍 271 • 2h ago
-
----
-
-**[📈 Saylor Sold. Now Ethereum Flips Bitcoin.](https://www.youtube.com/watch?v=T6hJPf1-FSw)**
-
-Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past BTC through ETFs, and the crypto market may ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 680 • 👍 28 • 💬 2 • ⏱️ 1:18 • 20h ago
+👁️ 2K • 👍 202 • 💬 2 • ⏱️ 1:13:35 • 2h ago
 
 ---
 
-**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
+**[Russia Approves Crypto Trading: Bitcoin, Ethereum, USDT Allowed #shorts](https://www.youtube.com/watch?v=g9FOb0uU3yU)**
 
-Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+Russia's central bank is now allowing ordinary investors to trade Bitcoin, Ethereum, and USDT on public markets. This move ...
 
-📺 Your Crypto Crew
+📺 Crypto 101
 
-👁️ 997 • 👍 118 • 💬 18 • ⏱️ 11:41 • 1d ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 4K • 👍 168 • 💬 8 • ⏱️ 7:44 • 1d ago
-
----
-
-**[Ethereum: Will this support zone hold or fail?](https://www.youtube.com/watch?v=FCYdxhDLbgM)**
-
-In this video I break down the current Ethereum price action and provide a clear technical outlook on the ETH chart. We analyze ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 196 • 💬 6 • ⏱️ 6:31 • 2d ago
+👁️ 4 • ⏱️ 1:11 • 17m ago
 
 ---
 
