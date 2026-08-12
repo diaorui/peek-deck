@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T15:01:04.886148+00:00'
+updated: '2026-08-12T16:25:45.564715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 15:01 UTC  
+**Last Updated:** August 12, 2026 at 16:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,617.08
+### $63,432.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.5%  
-**30d:** -2.6%  
-**90d:** -19.9%  
-**1y:** -48.6%  
+**24h:** -0.1%  
+**7d:** -1.2%  
+**30d:** -2.3%  
+**90d:** -19.7%  
+**1y:** -48.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,13 @@ Rank #1
 
 On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
 
-8h ago
+9h ago
+
+---
+
+**[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
+
+2h ago
 
 ---
 
@@ -95,19 +101,13 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 ARE WE FRICKIN LATE NOW?!
 
-6h ago
+7h ago
 
 ---
 
 **[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
 
-4h ago
-
----
-
-**[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
-
-1h ago
+6h ago
 
 ---
 
@@ -125,15 +125,15 @@ ARE WE FRICKIN LATE NOW?!
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-17h ago
+18h ago
 
 ---
 
-**[Bought Bitcoin almost at the top](https://www.reddit.com/r/Bitcoin/comments/1vlzsj9/bought_bitcoin_almost_at_the_top/)**
+**[Did we spam bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vmh02q/did_we_spam_bitcoin/)**
 
-Last year I bought Bitcoin at $120K when everyone was saying it was heading to $200K. Well, shortly after it hit $126K and then crashed. Has this happened to anyone else — buying near a top in a previous cycle? What did you do? I'm buying the dip.
+Braiins Pool has been mining blocks since 2010. Every once in a while we've used one to mark something worth remembering. That isn't new. Satoshi did it in block 0: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks." And we've done it a few times since: 668,634 · Clubhouse 31/Jan/2021 I am a supporter of Bitcoin ... Elon Musk 671,176 · 18/Feb/2021 NASA Perseverance and Ingenuity landed on Mars 686,604 · Diario El Salvador 6/Jun/2021 Bitcoin tendra validez legal 785,389 · This block was mined by a zero emission bitcoin mining computer. 824,131 · Happy 15th birthday, Bitcoin! Then our CMO, Kristian, made one personal. 883,395 · Will you be my queen, Summer? Her answer: 885,166 · 883,395 - YES Congratulations, Kristian and Summer. Block 883,395 will always be one of our favorites 🧡
 
-13h ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Last year I bought Bitcoin at $120K when everyone was saying it was heading to $
 
 Under the current Chinese system and the prevailing rules governing society, young people are neither cherished nor protected. Faced with the reality of an aging society, China resembles a profligate *nouveau riche* figure destined for a short life. Of course, complaining too much is futile. Even if I vent endlessly or spend all my time on YouTube and Reddit—engaging with or observing forums that oppose the Chinese Communist Party and its system—nothing actually changes; I am left with nothing but inner resentment and loathing. The reality is that even though I see the flaws in this system, I lack the power or agency within Chinese society to influence it or effect change. Under such a tightly controlled regime, expressing genuine dissatisfaction or dissent—even simply speaking the truth—invites punishment, let alone resorting to violence or bloodshed. Another crucial point is that, genetically speaking, the majority of East Asians are cowardly and prone to merely scraping by. This brings me back to why I first got into Bitcoin. It wasn't because I was fixated on the price or hoped to become an overnight millionaire and squander the fortune; rather, I wanted to see the collapse of the CCP-controlled financial system—represented by the RMB—or at least find a way to escape the Party's grip and the constraints imposed by the RMB-based economic order. I first encountered Bitcoin during the pandemic lockdowns. I saw wealthy individuals decisively sell off real estate assets accumulated during the bubble in China's Tier-1 cities and convert the proceeds into Bitcoin. This allowed them to bypass foreign exchange controls, transfer their wealth to Canada or the US, and reinvent themselves as members of the local middle class. I suppose my interest stemmed from my bearish outlook on China's future. China is destined to become a distorted society—a place of massive resource misallocation—that will inevitably collapse under its own imbalances. It will have to transition to a different state and pay the price for its errors; that is an immutable law of nature. As China’s economy and society fall into ruin, what value will remain in RMB-denominated assets or resources? The air, water, and soil are all polluted. Every second spent on this land brings only a sense of disgust and contamination; why would anyone spend money here? What of value is left? The people here are aging, barbaric, and uncivilized. Money is essentially a form of debt: you expend your time and labor, and the other party pays you a sum that serves as an IOU—meaning that, based on this money, you can later demand repayment in the form of services. Since China is effectively an aging entity—a society where a mass of elderly people owes you money—what can that money actually buy you from them? How can the currency of a society composed of a barbaric, low-quality population possibly hold any value? Of course, I am not deliberately insulting the Chinese people here; I am simply stating that "good people" cannot exist within this system. In a distorted system—specifically the one controlled by the Communist Party—where responsibility and power are mismatched, the most evil or corrupt individuals gain access to the most resources and opportunities. Consequently, there is no incentive for anyone to be a good person; doing so would only lead to the depletion of one's resources and the assumption of limitless liability, ultimately resulting in one's physical destruction. Thus, there is no doubt that China—whether now or in the future—is a nation defined by moral decay and a low-quality population. Ultimately, I believe the RMB will suffer the same fate as the Soviet ruble: economic collapse will wipe out people's wealth, rendering their years of hard work and labor futile. Because money represents a debt, the original counterparties—those who "owed" the value represented by the money—will no longer exist; they will have been replaced by a group of aging, physically incapacitated, barbaric, and amoral individuals who are left holding the bag. A young person might work hard for thirty or forty years, only to find that by the time they wish to redeem their earnings, the original debtors are gone. It is akin to a failed investment: holding RMB assets—essentially holding IOUs denominated in RMB—will yield no actual payout. This is precisely why I am firmly bullish on Bitcoin; given China's strict foreign exchange controls—which make it extremely difficult to acquire foreign assets like US dollars or overseas stocks—Bitcoin stands out as the best possible choice. Source: http://youtube.com/post/Ugkx1CIVcadSQ6bp5FaHrqhh3dhEunm_-x_g?si=M-YBWTonsEV3FaV3
 
-6h ago
+8h ago
 
 ---
 
@@ -149,35 +149,31 @@ Under the current Chinese system and the prevailing rules governing society, you
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin stays above $64,000 after in-line July inflation report](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
-
-Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
-
-coindesk.com • 1h ago
-
----
-
 **[Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure](https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html)**
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
-**[Where Will Bitcoin Be in 2030?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-2030-120800584.html)**
+**[Why bitcoin miners are abandoning bitcoin for AI](https://finance.yahoo.com/video/why-bitcoin-miners-abandoning-bitcoin-164300334.html)**
 
-History says that this cryptocurrency follows a four-year cycle.
+On today's episode, Melker discusses the Riot Platforms (RIOT), a bitcoin mining company that is ditching bitcoin (BTC-USD) mining to pursue the potentially more lucrative artificial intelligence market through a reported $9 billion deal with Anthropic (ANTH.PVT).
 
-Yahoo Finance • 2h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 23h ago
 
 ---
 
-**[JUST IN: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks.](https://www.moomoo.com/community/feed/just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-117082494534037)**
+**[AI Hyperscalers Are Pricing Bitcoin Miners Off The Grid— Here's Why Its A Massive Win-Win](https://bitcoinmagazine.com/bitcoin-for-corporations/ai-hyperscalers-are-pricing-bitcoin-miners-off-the-grid-heres-why-its-a-massive-win-win)**
 
-@Bitcoin Magazine 6227 Views
+AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
 
-Moomoo • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -185,7 +181,29 @@ Moomoo • 2h ago
 
 Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
 
-coindesk.com • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Crypto News: Pepeto Announces $10.626M Raised While the Bitcoin Price Prediction Targets $126,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-10-626m-raised-while-the-bitcoin-price-prediction-targets-126-000-1036448134)**
+
+Dubai, UAE, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Pepeto has passed the $10.626M mark while the market is looking for the best crypto to buy now, an...
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Congress Pushes Odds of a Government Shutdown to December as Bitcoin Watches](https://finance.yahoo.com/markets/crypto/articles/congress-pushes-odds-government-shutdown-142944225.html)**
+
+The House passed a stopgap funding bill 220-205 on July 21, moving its proposed government-funding deadline from September 30 to December 4 and placing it after the midterms. This has led to the odds of a Government shutdown happening across all predition markets.But that is no longer the full picture: ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Sentiment Towards Bitcoin Warming as Odds of September Hike Ease -- Market Talk](https://www.moomoo.com/news/post/74569870/sentiment-towards-bitcoin-warming-as-odds-of-september-hike-ease)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -197,33 +215,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin muted at $64k as Iran hopes dither; CPI awaited](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755)**
+**[Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus](https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/)**
 
-Investing.com • 8h ago
+The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
----
-
-**[Cathie Wood Calls Bitcoin 'Critical' Financial Infrastructure: 'Those Securing It Should Have Trusted Acc](https://www.benzinga.com/crypto/cryptocurrency/26/08/61133395/cathie-wood-bitcoin-critical-financial-infrastructure-ai-models)**
-
-Veteran investor Cathie Wood voiced her support on Tuesday, August 11, for Bitcoin Policy's open letter, which urges AI labs to aid &quot;open-source defenders.&quot;
-
-Benzinga • 7h ago
+Fortune • 2d ago
 
 ---
 
-**[Bitcoin market in 'hibernation' as perp trading activity sinks to three-year low ahead of US CPI release: K33](https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545)**
+**[Long-Term Bitcoin Bulls Should Treat Strategy as What It Is](https://247wallst.com/investing/2026/08/11/long-term-bitcoin-bulls-should-treat-strategy-as-what-it-is/)**
 
-Elevated open interest leaves the market exposed to sharper liquidation-driven moves, K33 said, as traders await Wednesday's U.S. CPI report.
+Strategy holds nearly a million Bitcoin while trading at a fraction of last year's price, and the question dividing Wall Street is whether the capital-markets engine that makes it compelling is the same one that could eventually break it.
 
-The Block • 4h ago
-
----
-
-**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
-
-ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
-
-foxbusiness.com • 2d ago
+24/7 Wall St. • 23h ago
 
 ---
 
@@ -235,7 +239,7 @@ foxbusiness.com • 2d ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 2d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -291,7 +295,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 133 • ⏱️ 11:09 • 16h ago
+👁️ 31K • 👍 2K • 💬 133 • ⏱️ 11:09 • 17h ago
 
 ---
 
@@ -301,7 +305,7 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 988 • 💬 138 • ⏱️ 14:49 • 16h ago
+👁️ 14K • 👍 988 • 💬 138 • ⏱️ 14:49 • 17h ago
 
 ---
 
@@ -311,7 +315,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 136K • 👍 7K • 💬 364 • ⏱️ 8:04 • 1d ago
+👁️ 136K • 👍 7K • 💬 364 • ⏱️ 8:04 • 2d ago
 
 ---
 
@@ -321,7 +325,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 11K • 👍 1K • 💬 859 • ⏱️ 9:58 • 17h ago
+👁️ 11K • 👍 1K • 💬 859 • ⏱️ 9:58 • 19h ago
 
 ---
 
@@ -331,7 +335,7 @@ Hurley talks about Bitcoin's Unstoppable Strength! Defying Governments & Banks! 
 
 📺 Simply Bitcoin
 
-👁️ 671 • 👍 35 • 💬 26 • ⏱️ 0:29 • 5h ago
+👁️ 671 • 👍 35 • 💬 26 • ⏱️ 0:29 • 6h ago
 
 ---
 
@@ -351,7 +355,7 @@ Russias NEW Bitcoin SEIZURE LAW is going into effect in 19 days, but no one is t
 
 📺 Luke Mikic
 
-👁️ 5K • 👍 374 • 💬 55 • ⏱️ 39:55 • 15h ago
+👁️ 5K • 👍 374 • 💬 55 • ⏱️ 39:55 • 17h ago
 
 ---
 
@@ -361,7 +365,7 @@ WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.bt
 
 📺 Crypto Lifer
 
-👁️ 1K • 👍 244 • 2h ago
+👁️ 1K • 👍 244 • 3h ago
 
 ---
 
@@ -371,7 +375,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 387 • ⏱️ 26:42 • 19h ago
+👁️ 4K • 👍 387 • ⏱️ 26:42 • 20h ago
 
 ---
 

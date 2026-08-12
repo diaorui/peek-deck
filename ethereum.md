@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T15:01:04.892445+00:00'
+updated: '2026-08-12T16:25:45.570081+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 15:01 UTC  
+**Last Updated:** August 12, 2026 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -1.0%  
-**30d:** -0.3%  
-**90d:** -15.3%  
-**1y:** -60.3%  
+**24h:** +1.7%  
+**7d:** -0.4%  
+**30d:** +0.2%  
+**90d:** -14.8%  
+**1y:** -60.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -172,21 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum Rises 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74565894/ethereum-rises-2-1-crypto-mover)**
-
-Moomoo • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html)**
-
-Bitcoin opened at $63,547.05 on Wednesday, August 12, 2026, 0.6% lower than Tuesday's opening price. The price of bitcoin moved up to $64,194 by 8:00 a.m. ET. Ethereum opened at $1,881.10 on Wednesday, up 0.5% from Tuesday's opening price. Ethereum moved higher this morning to $1,915.50 as of 8:00 a.m. ET.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -194,7 +180,7 @@ Yahoo Finance • 2h ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-coindesk.com • 2d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -218,7 +204,23 @@ Yahoo Finance • 2d ago
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-The Block • 1d ago
+The Block • 2d ago
+
+---
+
+**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
+
+---
+
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
+
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
+
+benzinga.com • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ The Block • 1d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -250,7 +252,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 399 • 💬 280 • ⏱️ 19:05 • 15h ago
+👁️ 5K • 👍 399 • 💬 280 • ⏱️ 19:05 • 16h ago
 
 ---
 
@@ -260,7 +262,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 438 • 💬 112 • ⏱️ 30:14 • 5h ago
+👁️ 2K • 👍 438 • 💬 112 • ⏱️ 30:14 • 7h ago
 
 ---
 
@@ -280,7 +282,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 43K • 👍 3K • 💬 151 • ⏱️ 10:20 • 20h ago
+👁️ 43K • 👍 3K • 💬 151 • ⏱️ 10:20 • 21h ago
 
 ---
 
@@ -290,7 +292,7 @@ TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exch
 
 📺 Vibe With Sahil
 
-👁️ 2K • 👍 271 • 54m ago
+👁️ 2K • 👍 271 • 2h ago
 
 ---
 
@@ -300,7 +302,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 680 • 👍 28 • 💬 2 • ⏱️ 1:18 • 19h ago
+👁️ 680 • 👍 28 • 💬 2 • ⏱️ 1:18 • 20h ago
 
 ---
 

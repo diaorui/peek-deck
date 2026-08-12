@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T15:01:04.895733+00:00'
+updated: '2026-08-12T16:25:45.572942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 15:01 UTC  
+**Last Updated:** August 12, 2026 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-17h ago
+19h ago
 
 ---
 
 **[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hey everyone - I'm getting into the robotic space so any researchers can help me
 
 npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
 
-23h ago
+1d ago
 
 ---
 
@@ -122,7 +122,13 @@ The New York Times • 1d ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 18h ago
+TechCrunch • 20h ago
+
+---
+
+**[Butterfly-inspired ceramic microscrolls unroll with magnets to power tiny robots](https://techxplore.com/news/2026-08-butterfly-ceramic-microscrolls-unroll-magnets.html)**
+
+Tech Xplore • 1h ago
 
 ---
 
@@ -130,13 +136,19 @@ TechCrunch • 18h ago
 
 A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
 
-bloomberg.com • 16h ago
+bloomberg.com • 17h ago
+
+---
+
+**[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
+
+Nature • 10h ago
 
 ---
 
@@ -152,7 +164,7 @@ IEEE Spectrum • 1d ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL.com • 17h ago
+KSL.com • 19h ago
 
 ---
 
@@ -160,15 +172,7 @@ KSL.com • 17h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 23h ago
-
----
-
-**[Employment immunity: the quiet revolution of robotics and physical AI](https://www.calcalistech.com/ctechnews/article/h16rzjt8gl)**
-
-As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
-
-calcalistech.com • 7h ago
+CBS News • 1d ago
 
 ---
 
@@ -177,14 +181,6 @@ calcalistech.com • 7h ago
 FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
 Supply Chain Dive • 2d ago
-
----
-
-**[This New Open-Weight AI Model Is Built for Video and Robots](https://www.cnet.com/tech/services-and-software/ltx-2-5-ai-open-weights-video-robotics-news/)**
-
-A new open world model from LTX shows how open-weights models can be used and customized by anyone.
-
-cnet.com • 1d ago
 
 ---
 
@@ -198,7 +194,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 640K • 👍 18K • 💬 2K • ⏱️ 7:02 • 22h ago
+👁️ 640K • 👍 18K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -208,7 +204,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 24K • 👍 257 • 💬 73 • ⏱️ 3:48 • 22h ago
+👁️ 24K • 👍 257 • 💬 73 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -218,7 +214,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 22K • 👍 385 • 💬 82 • ⏱️ 7:05 • 23h ago
+👁️ 22K • 👍 385 • 💬 82 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -236,7 +232,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 26K • 💬 57 • ⏱️ 8:34 • 23h ago
+👁️ 26K • 💬 57 • ⏱️ 8:34 • 1d ago
 
 ---
 
