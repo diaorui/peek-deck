@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T07:24:42.757105+00:00'
+updated: '2026-08-12T08:47:32.272006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 07:24 UTC  
+**Last Updated:** August 12, 2026 at 08:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,559.56
+### $63,778.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -0.9%  
-**30d:** -2.0%  
+**24h:** -0.8%  
+**7d:** -0.8%  
+**30d:** -1.9%  
 **90d:** -19.4%  
 **1y:** -48.2%  
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
 
-23h ago
+1d ago
 
 ---
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -105,31 +105,31 @@ Rank #1
 
 Last year I bought Bitcoin at $120K when everyone was saying it was heading to $200K. Well, shortly after it hit $126K and then crashed. Has this happened to anyone else — buying near a top in a previous cycle? What did you do? I'm buying the dip.
 
-6h ago
+7h ago
 
 ---
 
 **[The guy you convinced to buy bitcoin at $126K and you with a cost basis of $10K](https://www.reddit.com/r/Bitcoin/comments/1vlf7ap/the_guy_you_convinced_to_buy_bitcoin_at_126k_and/)**
 
-19h ago
+20h ago
 
 ---
 
 **[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
 
-5h ago
+6h ago
 
 ---
 
 **[How corporations like McDonalds benefit from our rigged theft-based monetary system](https://www.reddit.com/r/Bitcoin/comments/1vlv7pk/how_corporations_like_mcdonalds_benefit_from_our/)**
 
-9h ago
+10h ago
 
 ---
 
 **[If there’s ever a button to smash, this would be the one.](https://www.reddit.com/r/Bitcoin/comments/1vlldnl/if_theres_ever_a_button_to_smash_this_would_be/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Last year I bought Bitcoin at $120K when everyone was saying it was heading to $
 
 Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 11h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 13h ago
 
 ---
 
@@ -149,27 +149,7 @@ Public companies are increasingly borrowing against their bitcoin holdings to fu
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 13h ago
-
----
-
-**[Why bitcoin miners are abandoning bitcoin for AI](https://finance.yahoo.com/video/why-bitcoin-miners-abandoning-bitcoin-164300334.html)**
-
-On today's episode, Melker discusses the Riot Platforms (RIOT), a bitcoin mining company that is ditching bitcoin (BTC-USD) mining to pursue the potentially more lucrative artificial intelligence market through a reported $9 billion deal with Anthropic (ANTH.PVT).
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 14h ago
-
----
-
-**[From bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value](https://www.theblock.co/news/business/2026-08-11-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-greater-value-411435)**
-
-In May 2025, Keel's CEO said firm's bitcoin business was “strong” and said company remained “bullish on mining economics."
-
-The Block • 15h ago
+CNBC • 15h ago
 
 ---
 
@@ -177,27 +157,33 @@ The Block • 15h ago
 
 Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
 **[Live Updates: Bitcoin at $63,600 as Japan's Metaplanet Moves 3,881 BTC Between Wallets](https://www.moomoo.com/news/post/74540520/live-updates-bitcoin-at-63600-as-japan-s-metaplanet-moves)**
 
-Moomoo • 15m ago
-
----
-
-**[CPI Inflation Day: Where the money’s flowing in bitcoin and ether markets](https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print)**
-
-Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.
-
-CoinDesk • 1h ago
+Moomoo • 1h ago
 
 ---
 
 **[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data -- Market Talk](https://www.moomoo.com/news/post/74539566/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data)**
 
-Moomoo • 28m ago
+Moomoo • 1h ago
+
+---
+
+**[On the Eve of CPI: Bitcoin Options Tug-of-War and On-Chain Accumulation Signals](https://www.moomoo.com/news/post/74544073/on-the-eve-of-cpi-bitcoin-options-tug-of-war)**
+
+Moomoo • 40m ago
+
+---
+
+**[Trump Media Expands Bitcoin Holdings to $900 Million While Reporting H1 Unrealized Losses — What to Know About Truth Social Owner's BTC Stash](https://finance.yahoo.com/markets/crypto/articles/trump-media-expands-bitcoin-holdings-032108738.html)**
+
+Trump Media & Technology Group Corp. (NASDAQ:DJT) reported Monday that it held more than $900 million worth of Bitcoin (CRYPTO: BTC) at the end of July. ‘Exciting’ Unlock For Square Sellers The disclosure appeared in the "Subsequent Events" section of Trump Media’s earnings report. The company behind Truth Social held 9,477.16 BTC on its balance sheet as of June 30, valued at $557.094 million—down 33% from the amount reported for the six months ended Dec. 31, 2025. Overall, the company recorded
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -205,23 +191,31 @@ Moomoo • 28m ago
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-Fortune • 1d ago
+fortune.com • 1d ago
 
 ---
 
-**[After a $130 Million Hack of Coldcard, Money Is Flowing Into Bitcoin ETFs. Here's the Best Bitcoin ETF to Buy Right Now.](https://finance.yahoo.com/markets/crypto/articles/130-million-hack-coldcard-money-151200491.html)**
+**[BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit](https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit)**
 
-Institutions might start to win more trust from investors.
+The reward aims to recover Bitcoin stolen as a result of BTCPay exploit after attackers gained access to connected LND wallets.
 
-Yahoo Finance • 2d ago
+Decrypt • 11h ago
 
 ---
 
-**[BlackRock reveals what Bitcoin investors feel right now](https://www.aol.com/articles/blackrock-reveals-bitcoin-investors-feel-070000000.html)**
+**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
 
-BlackRock's head of digital assets, Robert Mitchnick, talks about sentiment prevalent among Bitcoin investors.
+ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
 
-AOL.com • 20h ago
+Fox Business • 1d ago
+
+---
+
+**[Bank Of Russia Approves Bitcoin Trading For Retail Investors](https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading)**
+
+Russia is moving ahead with regulating the Bitcoin and wider digital asset space.
+
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -251,7 +245,7 @@ In late July 2026, Coldcard, the open-source hardware wallet many consider the g
 
 A firmware integration error from March 2021 had silently replaced the device's hardware random number generator with a deterministic software PRNG, seeded only from the serial number
 
-⬆️ 1 • 💬 1 • 4d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
+⬆️ 1 • 💬 1 • 5d ago • [Tech blog](https://grigio.org/is-you-bitcoin-seed-safe-after-coldcard-accident-what-about-iancoleman-bip39/)
 
 ---
 
@@ -303,7 +297,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 From cache lines to continuous batching. The interactive course for backend engineers. No prior systems knowledge required.
 
-⬆️ 2 • 💬 0 • 6h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
+⬆️ 2 • 💬 0 • 7h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
 
 ---
 
@@ -317,7 +311,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 9K • 👍 1K • 💬 787 • ⏱️ 9:58 • 10h ago
+👁️ 9K • 👍 1K • 💬 787 • ⏱️ 9:58 • 11h ago
 
 ---
 
@@ -327,7 +321,7 @@ In today's video, Kyledoops outlines the importance of price action being at a v
 
 📺 Crypto Banter
 
-👁️ 989 • 👍 134 • 2h ago
+👁️ 989 • 👍 134 • 3h ago
 
 ---
 
@@ -347,7 +341,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 345 • ⏱️ 26:42 • 11h ago
+👁️ 4K • 👍 345 • ⏱️ 26:42 • 13h ago
 
 ---
 
@@ -357,7 +351,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 12h ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 14h ago
 
 ---
 
@@ -377,7 +371,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 30K • 👍 3K • 💬 3 • ⏱️ 19:18 • 20h ago
+👁️ 30K • 👍 3K • 💬 3 • ⏱️ 19:18 • 21h ago
 
 ---
 
@@ -387,7 +381,7 @@ New Lows Coming For Crypto ?? Stocks repeating DAX rally Metals at inflection po
 
 📺 Camel Finance
 
-👁️ 9K • 👍 587 • 💬 95 • ⏱️ 12:02 • 21h ago
+👁️ 9K • 👍 587 • 💬 95 • ⏱️ 12:02 • 23h ago
 
 ---
 
@@ -397,7 +391,7 @@ Estoy equivocado con Bitcoin? El precio se está debilitando y cada vez más tra
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 771 • 💬 7 • ⏱️ 47:41 • 13h ago
+👁️ 4K • 👍 771 • 💬 7 • ⏱️ 47:41 • 15h ago
 
 ---
 
@@ -407,7 +401,7 @@ David Duong on when he thinks Bitcoin buyers come back David's read is that the 
 
 📺 The Wolf Of All Streets
 
-👁️ 570 • 👍 4 • ⏱️ 0:32 • 3h ago
+👁️ 570 • 👍 4 • ⏱️ 0:32 • 4h ago
 
 ---
 

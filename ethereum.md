@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T07:24:42.762432+00:00'
+updated: '2026-08-12T08:47:32.279010+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 07:24 UTC  
+**Last Updated:** August 12, 2026 at 08:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.3%  
 **7d:** -0.7%  
-**30d:** -0.1%  
+**30d:** -0.0%  
 **90d:** -15.0%  
 **1y:** -60.2%  
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
@@ -192,11 +192,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
 
-Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
 
-Benzinga • 19h ago
+Benzinga • 1d ago
 
 ---
 
@@ -208,19 +208,19 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
 **[Ethereum staking hits record high – Will EIP-8363 slow ETH issuance?](https://ambcrypto.com/ethereum-staking-hits-record-high-will-eip-8363-slow-eth-issuance/)**
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
+
+---
+
+**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ AMBCrypto • 7h ago
 
 DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 12h ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 482 • 👍 24 • 💬 2 • ⏱️ 1:18 • 11h ago
+👁️ 482 • 👍 24 • 💬 2 • ⏱️ 1:18 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Us
 
 📺 Your Crypto Crew
 
-👁️ 831 • 👍 109 • 💬 18 • ⏱️ 11:41 • 17h ago
+👁️ 831 • 👍 109 • 💬 18 • ⏱️ 11:41 • 18h ago
 
 ---
 
@@ -302,7 +302,7 @@ Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native m
 
 📺 ilme aalim
 
-👁️ 274 • 👍 20 • 💬 34 • ⏱️ 2:08 • 2h ago
+👁️ 274 • 👍 20 • 💬 34 • ⏱️ 2:08 • 4h ago
 
 ---
 
@@ -312,7 +312,7 @@ Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, 
 
 📺 ilme aalim
 
-👁️ 3K • 👍 155 • 💬 35 • ⏱️ 7:44 • 22h ago
+👁️ 3K • 👍 155 • 💬 35 • ⏱️ 7:44 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-12T07:24:42.749120+00:00'
+updated: '2026-08-12T08:47:32.263030+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 12, 2026 at 07:24 UTC  
+**Last Updated:** August 12, 2026 at 08:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
 
-8h ago
-
----
-
-**[Challenge * can updated AI video generators still make the nightmare fuel vids of the earlier generations?](https://www.reddit.com/r/artificial/comments/1vm48x4/challenge_can_updated_ai_video_generators_still/)**
-
-Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
-
-2h ago
+9h ago
 
 ---
 
@@ -65,7 +57,21 @@ Just curious if it can purposely make those old body morphing videos that were d
 
 We have all seen deepfakes of famous people and leaders but I never really thought about what it could mean for everyday people until recently. A month ago someone tried to create a video of one of my coworkers. It was very scary for everyone involved because we didn't realize how easily people could believe it was real. This situation made a few of us start looking into deepfakes seriously and trying to understand what can actually be done to deal with them. It made me wonder if something like face recognition could also be useful in finding out if a video has been changed. While looking into this I also found some tools like DeepFace, Reality Defender, Pindrop Pulse and others that are working on identifying AI-generated or altered content. From what I know these tools are mainly used for identifying and checking faces. So now I am a bit confused about what works best. If anyone here works with this kind of technology or knows more, about it I would really like to learn how this works and what you think is the way to stay ahead as deepfakes become more advanced.
 
-58m ago
+2h ago
+
+---
+
+**[Challenge * can updated AI video generators still make the nightmare fuel vids of the earlier generations?](https://www.reddit.com/r/artificial/comments/1vm48x4/challenge_can_updated_ai_video_generators_still/)**
+
+Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
+
+4h ago
+
+---
+
+**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+
+16h ago
 
 ---
 
@@ -73,13 +79,15 @@ We have all seen deepfakes of famous people and leaders but I never really thoug
 
 Meta’s Muse Spark 1.1 update moves Meta AI beyond answering questions toward carrying out ongoing tasks. According to Meta, it can now connect with email and calendar apps, conduct web research, produce slide decks, and deliver recurring outputs such as daily briefings or weekly plans. Users can also redirect its work while a report or presentation is being generated. The rollout began in selected markets through the Meta AI app and meta.ai, with additional countries and WhatsApp support planned. The interesting part isn’t another benchmark claim—it’s the shift from one-off conversations to persistent, cross-app activity. That makes permission controls, audit trails, error recovery, and easy revocation increasingly important. For people who have received the rollout: does it clearly show what information each task can access and what actions it may take? Official announcement: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/
 
-2h ago
+4h ago
 
 ---
 
-**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+**[Claude Code Orchestrator on Terminal-Bench: Same model, same tasks - Opus refused only when the work was delegated](https://www.reddit.com/r/artificial/comments/1vm7a6t/claude_code_orchestrator_on_terminalbench_same/)**
 
-15h ago
+Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.
+
+🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Meta’s Muse Spark 1.1 update moves Meta AI beyond answering questions toward c
 
 The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems. This brings up a question for businesses using AI that creates content and AI helpers. Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it? Do having clearer rules make leaders feel better about allowing AI to be used? For people who work with AI in companies: Have the rules stopped things from moving, helped as a good guide, or just been extra paperwork so far? What part of managing AI do you think companies are not paying attention to?
 
-57m ago
+2h ago
 
 ---
 
@@ -95,7 +103,7 @@ The new rules from the EU about making AI more open and clear have started to be
 
 ​
 
-🔗 [climatexai.substack.com](https://climatexai.substack.com/p/notes-from-the-other-existential) • 1h ago
+🔗 [climatexai.substack.com](https://climatexai.substack.com/p/notes-from-the-other-existential) • 3h ago
 
 ---
 
@@ -103,15 +111,7 @@ The new rules from the EU about making AI more open and clear have started to be
 
 Since the rise of AI technology is growing day by day and AI agents are increasing in the same way with the evolution of tech and user's requirements. And one thing that I keep wondering about is this really solving the problems or creating more problems? As many people have became the victim of AI scams. Is there any solutions that can actually verify who's behind that AI agents or do we even need to verify who's behind the AI agents like actual human or bot?
 
-1h ago
-
----
-
-**[Stealing Reasoning Traces from Proprietary LLM APIs](https://www.reddit.com/r/artificial/comments/1vm4i7d/stealing_reasoning_traces_from_proprietary_llm/)**
-
-Proprietary reasoning can be recovered from its encrypted traces. Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext, without ever attacking the stronger model directly or triggering its anti-distillation safeguards.
-
-🔗 [stolen-thoughts.com](https://stolen-thoughts.com) • 2h ago
+3h ago
 
 ---
 
@@ -123,7 +123,7 @@ Proprietary reasoning can be recovered from its encrypted traces. Anthropic, Ope
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-blog.google • 15h ago
+blog.google • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 15h ago
 
 The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -139,43 +139,7 @@ CNBC • 21h ago
 
 Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?
 
-CNBC • 10h ago
-
----
-
-**[Nvidia’s Show of Financial Force Soothes Jittery Credit Markets](https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets)**
-
-Six of the biggest names in finance are helping Nvidia Corp. ease some of the investor anxiety that’s been building for weeks over its swelling commitments to backstop the artificial intelligence boom.
-
-Bloomberg.com • 5h ago
-
----
-
-**[Nvidia Partner Hon Hai’s Profit Beats on Sustained AI Spending](https://www.bloomberg.com/news/articles/2026-08-12/nvidia-partner-hon-hai-s-profit-beats-on-sustained-ai-spending)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Tesco’s AI Agents Could Soon Do Your Shopping For You](https://www.forbes.com/sites/bernardmarr/2026/08/12/tescos-ai-agents-could-soon-do-your-shopping-for-you/)**
-
-Tesco is using AI agents, decades of Clubcard data and new partnerships with Adobe and Mistral to rethink how it serves customers and runs its business.
-
-Forbes • 1h ago
-
----
-
-**[Cerebras Set to Report Earnings as AI Chips Enter a New Era](https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486)**
-
-Barron's • 54m ago
-
----
-
-**[Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)**
-
-Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
-
-X.ai • 14h ago
+CNBC • 11h ago
 
 ---
 
@@ -183,13 +147,53 @@ X.ai • 14h ago
 
 The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.
 
-NVIDIA Blog • 18h ago
+NVIDIA Blog • 19h ago
 
 ---
 
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
+**[Donald Trump’s Secret Catering-Truck Transfer Gets an AI Action-Movie Makeover](https://www.yahoo.com/news/politics/articles/donald-trump-secret-catering-truck-071937806.html)**
 
-The New York Times • 1d ago
+A bizarre AI clip has turned a real presidential security operation into something resembling a Hollywood spy thriller. The video imagines Donald Trump escaping an Iranian assassination threat with dr...
+
+Yahoo • 1h ago
+
+---
+
+**[Ex-Alibaba AI Architect Wins Tencent, HSG Backing for New Lab](https://www.bloomberg.com/news/articles/2026-08-12/ex-alibaba-ai-architect-wins-tencent-hsg-backing-for-new-lab)**
+
+bloomberg.com • 1h ago
+
+---
+
+**[Taiwan’s Foxconn reports 35 percent rise in profit on AI demand](https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand)**
+
+World's largest contract electronics maker forecasts strong growth in 2026 amid AI boom.
+
+aljazeera.com • 43m ago
+
+---
+
+**[Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)**
+
+Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
+
+X.ai • 15h ago
+
+---
+
+**[AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)**
+
+The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
+
+BBC • 20h ago
+
+---
+
+**[Claude Users Can’t Opt Out Of New Watermarks—Here’s What We Know](https://www.forbes.com/sites/maryroeloffs/2026/08/11/claude-will-put-invisible-watermarks-on-ai-text-and-images-and-the-internet-isnt-happy/)**
+
+Anthropic isn’t the only AI company doing this—but it’s getting the most pushback.
+
+Forbes • 14h ago
 
 ---
 
@@ -199,7 +203,7 @@ The New York Times • 1d ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 893 • 💬 902 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 898 • 💬 906 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -215,13 +219,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 633 • 💬 596 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 634 • 💬 598 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 431 • 💬 395 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 433 • 💬 395 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -229,7 +233,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 342 • 💬 402 • 14h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 365 • 💬 415 • 15h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -237,7 +241,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 208 • 💬 86 • 2d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 210 • 💬 87 • 2d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -245,7 +249,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 169 • 💬 36 • 5h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 175 • 💬 39 • 6h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
@@ -267,7 +271,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-⬆️ 135 • 💬 50 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
+⬆️ 137 • 💬 50 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -281,7 +285,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 325K • 👍 9K • 💬 2K • ⏱️ 25:41 • 11h ago
+👁️ 325K • 👍 9K • 💬 2K • ⏱️ 25:41 • 12h ago
 
 ---
 
@@ -311,7 +315,7 @@ See you in Seattle, Portland, Boston, & Philadelphia! https://CrashingOutTour.co
 
 📺 Philip DeFranco
 
-👁️ 311K • 👍 14K • 💬 2K • ⏱️ 28:21 • 9h ago
+👁️ 311K • 👍 14K • 💬 2K • ⏱️ 28:21 • 11h ago
 
 ---
 
@@ -331,7 +335,7 @@ The Government™ made an ad about Ai Data Centres, and it's surprisingly honest
 
 📺 thejuicemedia
 
-👁️ 97K • 👍 16K • 💬 1K • ⏱️ 3:15 • 21h ago
+👁️ 97K • 👍 16K • 💬 1K • ⏱️ 3:15 • 22h ago
 
 ---
 
@@ -351,7 +355,7 @@ Advisor to President Donald Trump David Sacks argues America is leading China in
 
 📺 Fox Business
 
-👁️ 12K • 👍 236 • 💬 151 • ⏱️ 6:10 • 21h ago
+👁️ 12K • 👍 236 • 💬 151 • ⏱️ 6:10 • 22h ago
 
 ---
 
@@ -371,7 +375,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 1.1M • 👍 79K • 💬 1K • ⏱️ 0:49 • 17h ago
+👁️ 1.1M • 👍 79K • 💬 1K • ⏱️ 0:49 • 18h ago
 
 ---
 
@@ -387,7 +391,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,625 • 22h ago
+⬇️ 59,368 • ❤️ 3,625 • 23h ago
 
 ---
 
@@ -399,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,145 • 12h ago
+⬇️ 0 • ❤️ 1,145 • 13h ago
 
 ---
 
@@ -469,7 +473,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 363 • 3h ago
+⬇️ 20,376 • ❤️ 363 • 5h ago
 
 ---
 
@@ -493,7 +497,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 335 • 1h ago
+⬇️ 39 • ❤️ 335 • 2h ago
 
 ---
 
@@ -644,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 945 • 5h ago
+⭐ 8.3k • 🔱 945 • 7h ago
 
 ---
 
@@ -654,7 +658,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.7k • 🔱 414 • 2h ago
+⭐ 4.7k • 🔱 414 • 3h ago
 
 ---
 
@@ -672,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -682,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.6k • 🔱 487 • 6h ago
+⭐ 2.6k • 🔱 487 • 8h ago
 
 ---
 
@@ -692,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.5k • 🔱 210 • 16h ago
+⭐ 2.5k • 🔱 210 • 17h ago
 
 ---
 
@@ -702,7 +706,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 176 • 12h ago
+⭐ 2.3k • 🔱 176 • 13h ago
 
 ---
 
@@ -712,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 160 • 2h ago
+⭐ 2.1k • 🔱 160 • 3h ago
 
 ---
 
@@ -722,7 +726,7 @@ Think with AI beyond the chat box. A shared canvas for handwriting, equations, d
 
 `JavaScript` `ai` `canvas` `claude` `codex` `education`
 
-⭐ 2.0k • 🔱 246 • 2d ago
+⭐ 2.0k • 🔱 246 • 3d ago
 
 ---
 
@@ -732,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 256 • 4m ago
+⭐ 2.0k • 🔱 256 • 1h ago
 
 ---
 
