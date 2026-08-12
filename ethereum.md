@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T20:44:26.033020+00:00'
+updated: '2026-08-12T21:45:02.127894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 20:44 UTC  
+**Last Updated:** August 12, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -0.9%  
-**30d:** -0.2%  
-**90d:** -15.2%  
-**1y:** -60.3%  
+**24h:** -0.0%  
+**7d:** -1.1%  
+**30d:** -0.5%  
+**90d:** -15.4%  
+**1y:** -60.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.16B
+**Market Cap:** $226.76B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.0%
 
 **All-Time Low:** $0.43
-+434641.6%
++433978.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -168,11 +168,11 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 ---
 
-**[Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors](https://finance.yahoo.com/markets/crypto/articles/fidelity-files-let-ethereum-etf-171343758.html)**
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
 
-The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -208,6 +208,14 @@ The Block • 2d ago
 
 ---
 
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
+
+Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+
+The Motley Fool • 10h ago
+
+---
+
 **[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
@@ -216,19 +224,11 @@ Fortune • 9h ago
 
 ---
 
-**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
+**[Fidelity plans Ethereum ETF staking—but cash payouts could reduce ETH exposure](https://ambcrypto.com/fidelity-plans-ethereum-etf-staking-but-cash-payouts-could-reduce-eth-exposure/)**
 
-Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
+FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
 
-benzinga.com • 1d ago
-
----
-
-**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
-
-Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
-
-fool.com • 9h ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -236,33 +236,13 @@ fool.com • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 1K • 👍 183 • 💬 81 • ⏱️ 11:59 • 3h ago
-
----
-
 **[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
 
 Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 200 • 💬 16 • ⏱️ 1:01:54 • 5h ago
-
----
-
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
-
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 522 • 💬 107 • ⏱️ 30:14 • 11h ago
+👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 6h ago
 
 ---
 
@@ -272,7 +252,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 8 • ⏱️ 7:07 • 6h ago
+👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 7h ago
 
 ---
 
@@ -286,13 +266,13 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 ---
 
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 AllinCrypto
+📺 The Modern Investor
 
-👁️ 1K • 👍 169 • 💬 105 • ⏱️ 13:27 • 3h ago
+👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 12h ago
 
 ---
 
@@ -302,7 +282,17 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 14K • 👍 651 • 💬 95 • ⏱️ 6:34 • 2d ago
+👁️ 14K • 👍 651 • 💬 86 • ⏱️ 6:34 • 2d ago
+
+---
+
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+
+📺 AllinCrypto
+
+👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 4h ago
 
 ---
 
@@ -312,7 +302,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 425 • 💬 285 • ⏱️ 19:05 • 21h ago
+👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 22h ago
 
 ---
 
@@ -326,13 +316,23 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 ---
 
-**[Ethereum: Will this support zone hold or fail?](https://www.youtube.com/watch?v=FCYdxhDLbgM)**
+**[🔴 LIVE Crypto and Futures Analysis | BTC, ETH, NQ, ES &amp; Alt Coins](https://www.youtube.com/watch?v=wZ3YkxKBEuU)**
 
-In this video I break down the current Ethereum price action and provide a clear technical outlook on the ETH chart. We analyze ...
+Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum, Futures and Alt coins using market ...
 
-📺 More Crypto Online
+📺 Chart Champions
 
-👁️ 3K • 👍 197 • 💬 6 • ⏱️ 6:31 • 2d ago
+👁️ 4K • 👍 223 • 💬 2 • ⏱️ 1:13:35 • 7h ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 4K • 👍 179 • 💬 8 • ⏱️ 7:44 • 1d ago
 
 ---
 

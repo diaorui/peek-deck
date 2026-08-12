@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T20:44:26.026709+00:00'
+updated: '2026-08-12T21:45:02.122755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 20:44 UTC  
+**Last Updated:** August 12, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,403.55
+### $63,562.06
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.62B
+**Market Cap:** $1273.16B
 Rank #1
 
-**Circulating Supply:** 20,069,271 BTC
+**Circulating Supply:** 20,069,312 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.8%
+-49.7%
 
 **All-Time Low:** $67.81
-+93271.2%
++93455.5%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
 
-14h ago
+15h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-16h ago
+17h ago
 
 ---
 
 **[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -101,13 +101,13 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 ARE WE FRICKIN LATE NOW?!
 
-11h ago
+12h ago
 
 ---
 
 **[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +115,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 22m ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 1h ago
 
 ---
 
@@ -123,13 +123,13 @@ Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premie
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 4h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 5h ago
 
 ---
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft
 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-CoinDesk • 58m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 58m ago
 
 Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 1d ago
 
 Riot's Anthropic lease lifted miner stocks, but the sell-down funding it hints at a new source of Bitcoin sell pressure.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 19h ago
 
 AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -205,21 +205,21 @@ Kraken is rolling out 20x leverage on bitcoin (BTC-USD). Scott Melker breaks dow
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Seen as Directionless Without Fresh Catalyst -- Market Talk](https://www.moomoo.com/news/post/74580220/bitcoin-seen-as-directionless-without-fresh-catalyst-market-talk)**
+**[CoinDesk Bitcoin Price Index Lost 0.20% to $63346.49 -- Data Talk](https://www.moomoo.com/news/post/74583901/coindesk-bitcoin-price-index-lost-0-20-to-63346-49)**
 
-Moomoo • 2h ago
+Moomoo • 1h ago
 
 ---
 
-**[Michael Saylor tells investors when Strategy's Bitcoin no longer covers its debt](https://sg.finance.yahoo.com/news/michael-saylor-tells-investors-strategys-184943162.html)**
+**[Mysterious Bitcoin wallet wakes after 12 years with near 8,000% profit](https://finance.yahoo.com/markets/crypto/articles/mysterious-bitcoin-wallet-wakes-12-192013074.html)**
 
-Strategy (Nasdaq: MSTR) has launched a public tool that shows investors exactly how well its Bitcoin holdings cover the money it owes, a move toward greater transparency about the risks on its balance sheet. Executive chairman Michael Saylor announced the Bitcoin Credit Model on Aug. 12. Strategy ...
+Bitcoin's early investors are waking up. Several wallets that had been dormant for more than 12 years have suddenly moved millions of dollars worth of BTC, turning what were once modest holdings into life-changing gains. Galaxy Research flagged the activity on X, drawing fresh attention to early ...
 
-sg.finance.yahoo.com • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ sg.finance.yahoo.com • 1h ago
 
 Neos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -257,7 +257,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -287,7 +287,17 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 136 • ⏱️ 11:09 • 22h ago
+👁️ 36K • 👍 2K • 💬 138 • ⏱️ 11:09 • 23h ago
+
+---
+
+**[The Fed Is About To Do The Unthinkable (Extremely Bullish For Bitcoin)](https://www.youtube.com/watch?v=PtUgjTb-1no)**
+
+LIVE – Saylor's Strategy just sold Bitcoin to fund a stablecoin bridge — and the community backlash is only the start.
+
+📺 BTC Sessions
+
+👁️ 926 • 👍 64 • 1h ago
 
 ---
 
@@ -297,17 +307,7 @@ BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref
 
 📺 Jayson Casper
 
-👁️ 2K • 👍 174 • 💬 72 • ⏱️ 6:36 • 6h ago
-
----
-
-**[Bitcoin: It&#39;s Almost Crunch Time](https://www.youtube.com/watch?v=zsnxQO7tC9M)**
-
-Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time. Come to the 1st ITC Conference: ...
-
-📺 Benjamin Cowen
-
-👁️ 140K • 👍 7K • 💬 368 • ⏱️ 8:04 • 2d ago
+👁️ 2K • 👍 196 • 💬 62 • ⏱️ 6:36 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 161 • ⏱️ 14:49 • 21h ago
+👁️ 17K • 👍 1K • 💬 142 • ⏱️ 14:49 • 22h ago
 
 ---
 
@@ -337,17 +337,17 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 12K • 👍 1K • 💬 874 • ⏱️ 9:58 • 23h ago
+👁️ 13K • 👍 1K • 💬 829 • ⏱️ 9:58 • 1d ago
 
 ---
 
-**[BTC CRASH in Progress: Bitcoin Already Started the August CRASH &amp; is Going Much Lower Than You Think](https://www.youtube.com/watch?v=oC-Ix7jFkzw)**
+**[Bitcoin: It&#39;s Almost Crunch Time](https://www.youtube.com/watch?v=zsnxQO7tC9M)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time. Come to the 1st ITC Conference: ...
 
-📺 Doctor of Pump & Dump
+📺 Benjamin Cowen
 
-👁️ 5K • 👍 398 • ⏱️ 26:42 • 1d ago
+👁️ 142K • 👍 7K • 💬 368 • ⏱️ 8:04 • 2d ago
 
 ---
 
@@ -357,17 +357,7 @@ Russias NEW Bitcoin SEIZURE LAW is going into effect in 19 days, but no one is t
 
 📺 Luke Mikic
 
-👁️ 6K • 👍 390 • 💬 59 • ⏱️ 39:55 • 21h ago
-
----
-
-**[Bitcoin&#39;s Unstoppable Strength! Defying Governments &amp; Banks!](https://www.youtube.com/watch?v=FWaXjtXbd3g)**
-
-Hurley talks about Bitcoin's Unstoppable Strength! Defying Governments & Banks! Brought to you by Bitcoinwell.com a ...
-
-📺 Simply Bitcoin
-
-👁️ 1K • 👍 40 • 💬 4 • ⏱️ 0:29 • 10h ago
+👁️ 6K • 👍 396 • 💬 62 • ⏱️ 39:55 • 22h ago
 
 ---
 
@@ -377,7 +367,15 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 280 • ⏱️ 20:00 • 1d ago
+👁️ 23K • 👍 2K • 💬 281 • ⏱️ 20:00 • 1d ago
+
+---
+
+**[sorry Bitcoin](https://www.youtube.com/watch?v=_li0GeO38cQ)**
+
+📺 Tyler S
+
+👁️ 5K • 👍 151 • 💬 22 • ⏱️ 0:27 • 6h ago
 
 ---
 

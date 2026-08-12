@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T20:44:26.036340+00:00'
+updated: '2026-08-12T21:45:02.130506+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 20:44 UTC  
+**Last Updated:** August 12, 2026 at 21:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Everyday I will share a video with you untill I finish this smart IRONMAN projec
 
 Not for hire. I just like making stuff This build is being donated to a local makeshop that I am a part of for their presentation at a local robotics convention.
 
-1d ago
+2d ago
 
 ---
 
@@ -76,7 +76,7 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to impro
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 1d ago
+nytimes.com • 1d ago
 
 ---
 
@@ -123,6 +123,22 @@ The New York Times • 1d ago
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
 TechCrunch • 1d ago
+
+---
+
+**[Workers Are Teaching AI-Powered Robots to Take Over Their Jobs](https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them)**
+
+Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
+
+Bloomberg.com • 44m ago
+
+---
+
+**[FCC robot ban: Can you still purchase new products?](https://mashable.com/tech/fcc-bans-robots-vacuums-what-to-know)**
+
+Expect more banned products in the future, experts warn.
+
+Mashable • 1h ago
 
 ---
 
@@ -136,21 +152,7 @@ Yahoo Finance • 1d ago
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 15h ago
-
----
-
-**[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
-
-Bloomberg.com • 21h ago
-
----
-
-**[Employment immunity: the quiet revolution of robotics and physical AI](https://www.calcalistech.com/ctechnews/article/h16rzjt8gl)**
-
-As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
-
-calcalistech.com • 13h ago
+Nature • 16h ago
 
 ---
 
@@ -158,23 +160,7 @@ calcalistech.com • 13h ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL News • 23h ago
-
----
-
-**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
-
-Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
-
-CBS News • 1d ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-spectrum.ieee.org • 2d ago
+ksl.com • 1d ago
 
 ---
 
@@ -183,6 +169,22 @@ spectrum.ieee.org • 2d ago
 AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
 
 EE Times • 1d ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Employment immunity: the quiet revolution of robotics and physical AI](https://www.calcalistech.com/ctechnews/article/h16rzjt8gl)**
+
+As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
+
+calcalistech.com • 14h ago
 
 ---
 
@@ -196,7 +198,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 701K • 👍 19K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 722K • 👍 19K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -206,7 +208,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 27K • 👍 286 • 💬 79 • ⏱️ 3:48 • 1d ago
+👁️ 28K • 👍 300 • 💬 80 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 27K • 👍 441 • 💬 95 • ⏱️ 7:05 • 1d ago
+👁️ 29K • 👍 464 • 💬 98 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -224,7 +226,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Ben Esherick
 
-👁️ 620K • 👍 29K • 💬 767 • ⏱️ 0:35 • 5d ago
+👁️ 622K • 👍 29K • 💬 767 • ⏱️ 0:35 • 5d ago
 
 ---
 
@@ -234,25 +236,27 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Cleo Abram
 
-👁️ 887K • 👍 47K • 💬 616 • ⏱️ 0:32 • 1d ago
+👁️ 913K • 👍 48K • 💬 631 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[ESP32 Desk buddy tank #arduino #3dprinting #iot #robot #raspberrypi #deskbuddy #ai #thingverse](https://www.youtube.com/watch?v=MG1dYQNCNN8)**
+**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
 
-📺 Tech Talkies
+The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
 
-👁️ 45K • 👍 556 • 💬 7 • ⏱️ 0:13 • 6d ago
+📺 Custom Adventurist
+
+👁️ 48K • 👍 3K • 💬 210 • ⏱️ 1:02 • 5d ago
 
 ---
 
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
 
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
 
 📺 KhanFlicks
 
-👁️ 27K • 💬 57 • ⏱️ 8:34 • 1d ago
+👁️ 11K • 👍 39 • 💬 30 • ⏱️ 6:44 • 6d ago
 
 ---
 
@@ -266,21 +270,23 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 ---
 
-**[Can the US slow China’s robotics and tech rise? | Counting the Cost](https://www.youtube.com/watch?v=BzhNklZQTTI)**
+**[Robotics Is The Next Big Investment Wave.  I Study  The &quot;Picks And Shovels&quot;, (The Compnent Makers).](https://www.youtube.com/watch?v=GNXsEwob46s)**
 
-Humanoid robots are no longer a laboratory experiment; they are a growing market. Morgan Stanley estimates it could hit $5 ...
+The stocks mentioned are shown in this video and are contained in the first comment below. Nothing in this video is advice or a ...
 
-📺 Al Jazeera English
+📺 Clive Thompson
 
-👁️ 64K • 👍 836 • 💬 428 • ⏱️ 28:01 • 5d ago
+👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 9h ago
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
 
-📺 Tyrecordslol
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
 
-👁️ 3.4M • 👍 137K • 💬 8K • ⏱️ 0:58 • 5d ago
+📺 KhanFlicks
+
+👁️ 27K • 💬 57 • ⏱️ 8:34 • 1d ago
 
 ---
 
