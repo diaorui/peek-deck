@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T19:40:36.121426+00:00'
+updated: '2026-08-12T20:44:26.033020+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 19:40 UTC  
+**Last Updated:** August 12, 2026 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.2%  
-**7d:** -1.0%  
-**30d:** -0.3%  
-**90d:** -15.3%  
+**7d:** -0.9%  
+**30d:** -0.2%  
+**90d:** -15.2%  
 **1y:** -60.3%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
 
-1d ago
+2d ago
 
 ---
 
@@ -172,7 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 8h ago
 
 Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
 
-Benzinga • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Benzinga • 1d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-fool.com • 8h ago
+fool.com • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 183 • 💬 81 • ⏱️ 11:59 • 2h ago
+👁️ 1K • 👍 183 • 💬 81 • ⏱️ 11:59 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 200 • 💬 16 • ⏱️ 1:01:54 • 4h ago
+👁️ 2K • 👍 200 • 💬 16 • ⏱️ 1:01:54 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 522 • 💬 107 • ⏱️ 30:14 • 10h ago
+👁️ 4K • 👍 522 • 💬 107 • ⏱️ 30:14 • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 8 • ⏱️ 7:07 • 5h ago
+👁️ 2K • 👍 162 • 💬 8 • ⏱️ 7:07 • 6h ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 1K • 👍 169 • 💬 105 • ⏱️ 13:27 • 2h ago
+👁️ 1K • 👍 169 • 💬 105 • ⏱️ 13:27 • 3h ago
 
 ---
 
@@ -312,7 +312,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 425 • 💬 285 • ⏱️ 19:05 • 20h ago
+👁️ 6K • 👍 425 • 💬 285 • ⏱️ 19:05 • 21h ago
 
 ---
 

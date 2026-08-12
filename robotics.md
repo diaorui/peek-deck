@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T19:40:36.124691+00:00'
+updated: '2026-08-12T20:44:26.036340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 19:40 UTC  
+**Last Updated:** August 12, 2026 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 1d ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -136,13 +136,13 @@ Yahoo Finance • 1d ago
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-nature.com • 14h ago
+Nature • 15h ago
 
 ---
 
 **[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
 
-bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ bloomberg.com • 20h ago
 
 As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
 
-calcalistech.com • 12h ago
+calcalistech.com • 13h ago
 
 ---
 
@@ -158,15 +158,7 @@ calcalistech.com • 12h ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL News • 22h ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-spectrum.ieee.org • 2d ago
+KSL News • 23h ago
 
 ---
 
@@ -175,6 +167,14 @@ spectrum.ieee.org • 2d ago
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
 CBS News • 1d ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+spectrum.ieee.org • 2d ago
 
 ---
 
