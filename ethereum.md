@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T22:40:44.074118+00:00'
+updated: '2026-08-12T23:40:59.447449+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 22:40 UTC  
+**Last Updated:** August 12, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.88
+### $1,882.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -1.1%  
-**30d:** -0.5%  
-**90d:** -15.4%  
+**24h:** -0.2%  
+**7d:** -1.3%  
+**30d:** -0.6%  
+**90d:** -15.5%  
 **1y:** -60.4%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -168,11 +168,11 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 ---
 
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-Yahoo Finance • 9h ago
+The Block • 4h ago
 
 ---
 
@@ -196,15 +196,15 @@ PR Newswire • 2d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
-**[Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298)**
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
 
-Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-The Block • 2d ago
+finance.yahoo.com • 10h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Block • 2d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -220,15 +220,15 @@ The Motley Fool • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 12h ago
 
 ---
 
-**[Fidelity plans Ethereum ETF staking—but cash payouts could reduce ETH exposure](https://ambcrypto.com/fidelity-plans-ethereum-etf-staking-but-cash-payouts-could-reduce-eth-exposure/)**
+**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
 
-FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
+Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
 
-AMBCrypto • 7h ago
+Benzinga • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 7h ago
+👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 8h ago
+👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 13h ago
+👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 14h ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 5h ago
+👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 6h ago
 
 ---
 
@@ -302,7 +302,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 23h ago
+👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 4K • 👍 223 • 💬 2 • ⏱️ 1:13:35 • 7h ago
+👁️ 4K • 👍 223 • 💬 2 • ⏱️ 1:13:35 • 8h ago
 
 ---
 

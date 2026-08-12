@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T22:40:44.077283+00:00'
+updated: '2026-08-12T23:40:59.450735+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 22:40 UTC  
+**Last Updated:** August 12, 2026 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,15 +114,23 @@ Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to impro
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-nytimes.com • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)**
+**[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels)**
 
-The divesture comes comes as the two once-tight companies have started to diverge on the business side.
+Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-TechCrunch • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.](https://finance.yahoo.com/markets/stocks/articles/latest-robotics-ipo-8000x-oversubscribed-225120337.html)**
+
+A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
+
+finance.yahoo.com • 49m ago
 
 ---
 
@@ -130,29 +138,45 @@ TechCrunch • 1d ago
 
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[FCC robot ban: Can you still purchase new products?](https://mashable.com/tech/fcc-bans-robots-vacuums-what-to-know)**
+**[San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use](https://www.kqed.org/news/12094873/san-mateo-county-could-be-first-to-regulate-humanoid-robots-for-commercial-use)**
 
-Expect more banned products in the future, experts warn.
+Researchers say that humanoid robots have a long way to go before they are officially ready for work.
 
-Mashable • 2h ago
+KQED • 9h ago
 
 ---
 
-**[Robotics Stocks Rally as Unitree’s 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus](https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html)**
+**[Canadian-based robotics company opens 1st U.S. facility in Lexington, bringing 111 jobs](https://www.lex18.com/news/covering-kentucky/canadian-based-robotics-company-opens-1st-u-s-facility-in-lexington-bringing-111-jobs)**
 
-A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
+A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
 
-Yahoo Finance • 1d ago
+LEX 18 News • 7h ago
 
 ---
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 17h ago
+Nature • 18h ago
+
+---
+
+**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
+
+Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
+
+TribLIVE.com • 1d ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+spectrum.ieee.org • 2d ago
 
 ---
 
@@ -161,30 +185,6 @@ Nature • 17h ago
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
 ksl.com • 1d ago
-
----
-
-**[AMD’s Ryzen AI X100 Takes On GPU-Centric AI](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/)**
-
-AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
-
-EE Times • 1d ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Employment immunity: the quiet revolution of robotics and physical AI](https://www.calcalistech.com/ctechnews/article/h16rzjt8gl)**
-
-As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
-
-calcalistech.com • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ The stocks mentioned are shown in this video and are contained in the first comm
 
 📺 Clive Thompson
 
-👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 10h ago
+👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 11h ago
 
 ---
 
