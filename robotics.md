@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T21:45:02.130506+00:00'
+updated: '2026-08-12T22:40:44.077283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 21:45 UTC  
+**Last Updated:** August 12, 2026 at 22:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,7 +130,7 @@ TechCrunch • 1d ago
 
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
-Bloomberg.com • 44m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ Bloomberg.com • 44m ago
 
 Expect more banned products in the future, experts warn.
 
-Mashable • 1h ago
+Mashable • 2h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 1d ago
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 16h ago
+Nature • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ IEEE Spectrum • 2d ago
 
 As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
 
-calcalistech.com • 14h ago
+calcalistech.com • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ Can you really control a humanoid robot using virtual reality? In this video, I 
 
 📺 KhanFlicks
 
-👁️ 11K • 👍 39 • 💬 30 • ⏱️ 6:44 • 6d ago
+👁️ 11K • 👍 39 • 💬 30 • ⏱️ 6:44 • 7d ago
 
 ---
 
@@ -276,7 +276,7 @@ The stocks mentioned are shown in this video and are contained in the first comm
 
 📺 Clive Thompson
 
-👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 9h ago
+👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 10h ago
 
 ---
 

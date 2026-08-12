@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T21:45:02.122755+00:00'
+updated: '2026-08-12T22:40:44.068019+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 21:45 UTC  
+**Last Updated:** August 12, 2026 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
 
-15h ago
+16h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -97,25 +97,33 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 ---
 
+**[Taiwan Lawmaker Puts Bitcoin Reserve Odds at 80% in Five Years](https://www.reddit.com/r/Bitcoin/comments/1vmphfm/taiwan_lawmaker_puts_bitcoin_reserve_odds_at_80/)**
+
+Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
+
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 2h ago
+
+---
+
 **[One redditors asked that is too late to start invest into BTC, 15 years ago...](https://www.reddit.com/r/Bitcoin/comments/1vm8loe/one_redditors_asked_that_is_too_late_to_start/)**
 
 ARE WE FRICKIN LATE NOW?!
 
-12h ago
+13h ago
 
 ---
 
 **[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
 
-11h ago
+12h ago
 
 ---
 
-**[Taiwan Lawmaker Puts Bitcoin Reserve Odds at 80% in Five Years](https://www.reddit.com/r/Bitcoin/comments/1vmphfm/taiwan_lawmaker_puts_bitcoin_reserve_odds_at_80/)**
+**[1 seed + strong passphrase vs 2/3 multisig](https://www.reddit.com/r/Bitcoin/comments/1vmk0bb/1_seed_strong_passphrase_vs_23_multisig/)**
 
-Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
+What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 1h ago
+5h ago
 
 ---
 
@@ -123,25 +131,19 @@ Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premie
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 5h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 6h ago
 
 ---
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-23h ago
-
----
-
-**[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
-
 1d ago
 
 ---
 
-**[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
+**[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
 
-1d ago
+20h ago
 
 ---
 
@@ -153,7 +155,7 @@ Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft
 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -161,7 +163,7 @@ CoinDesk • 1h ago
 
 Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -185,7 +187,7 @@ CNBC • 1d ago
 
 Riot's Anthropic lease lifted miner stocks, but the sell-down funding it hints at a new source of Bitcoin sell pressure.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -193,7 +195,7 @@ Yahoo Finance • 20h ago
 
 AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -205,13 +207,13 @@ Kraken is rolling out 20x leverage on bitcoin (BTC-USD). Scott Melker breaks dow
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[CoinDesk Bitcoin Price Index Lost 0.20% to $63346.49 -- Data Talk](https://www.moomoo.com/news/post/74583901/coindesk-bitcoin-price-index-lost-0-20-to-63346-49)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -219,7 +221,7 @@ Moomoo • 1h ago
 
 Bitcoin's early investors are waking up. Several wallets that had been dormant for more than 12 years have suddenly moved millions of dollars worth of BTC, turning what were once modest holdings into life-changing gains. Galaxy Research flagged the activity on X, drawing fresh attention to early ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -227,7 +229,7 @@ Yahoo Finance • 2h ago
 
 Neos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -287,7 +289,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 138 • ⏱️ 11:09 • 23h ago
+👁️ 36K • 👍 2K • 💬 138 • ⏱️ 11:09 • 1d ago
 
 ---
 
@@ -297,7 +299,7 @@ LIVE – Saylor's Strategy just sold Bitcoin to fund a stablecoin bridge — and
 
 📺 BTC Sessions
 
-👁️ 926 • 👍 64 • 1h ago
+👁️ 926 • 👍 64 • 2h ago
 
 ---
 
@@ -307,7 +309,7 @@ BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref
 
 📺 Jayson Casper
 
-👁️ 2K • 👍 196 • 💬 62 • ⏱️ 6:36 • 7h ago
+👁️ 2K • 👍 196 • 💬 62 • ⏱️ 6:36 • 8h ago
 
 ---
 
@@ -317,7 +319,7 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 142 • ⏱️ 14:49 • 22h ago
+👁️ 17K • 👍 1K • 💬 142 • ⏱️ 14:49 • 23h ago
 
 ---
 
@@ -357,7 +359,7 @@ Russias NEW Bitcoin SEIZURE LAW is going into effect in 19 days, but no one is t
 
 📺 Luke Mikic
 
-👁️ 6K • 👍 396 • 💬 62 • ⏱️ 39:55 • 22h ago
+👁️ 6K • 👍 396 • 💬 62 • ⏱️ 39:55 • 23h ago
 
 ---
 
@@ -367,7 +369,7 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 281 • ⏱️ 20:00 • 1d ago
+👁️ 23K • 👍 2K • 💬 281 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Tyler S
 
-👁️ 5K • 👍 151 • 💬 22 • ⏱️ 0:27 • 6h ago
+👁️ 5K • 👍 151 • 💬 22 • ⏱️ 0:27 • 7h ago
 
 ---
 

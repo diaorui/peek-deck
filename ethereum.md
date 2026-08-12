@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T21:45:02.127894+00:00'
+updated: '2026-08-12T22:40:44.074118+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 21:45 UTC  
+**Last Updated:** August 12, 2026 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -172,7 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Block • 2d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Motley Fool • 10h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -228,7 +228,7 @@ Fortune • 9h ago
 
 FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 6h ago
+👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 7h ago
+👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 8h ago
 
 ---
 
@@ -272,7 +272,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 12h ago
+👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 4h ago
+👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 5h ago
 
 ---
 
@@ -302,7 +302,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 22h ago
+👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 23h ago
 
 ---
 
