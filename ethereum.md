@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T08:47:32.279010+00:00'
+updated: '2026-08-12T10:05:09.297368+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 08:47 UTC  
+**Last Updated:** August 12, 2026 at 10:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,891.32
+### $1,912.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -0.7%  
-**30d:** -0.0%  
-**90d:** -15.0%  
-**1y:** -60.2%  
+**24h:** +1.0%  
+**7d:** +0.4%  
+**30d:** +1.1%  
+**90d:** -14.1%  
+**1y:** -59.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.91B
+**Market Cap:** $229.95B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.5%
 
 **All-Time Low:** $0.43
-+436071.3%
++439992.9%
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -192,14 +192,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
-
-BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
-
-Benzinga • 1d ago
-
----
-
 **[Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap](https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298)**
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
@@ -208,11 +200,19 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
+
+BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
+
+Benzinga • 1d ago
+
+---
+
 **[Ethereum staking hits record high – Will EIP-8363 slow ETH issuance?](https://ambcrypto.com/ethereum-staking-hits-record-high-will-eip-8363-slow-eth-issuance/)**
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 8h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ AMBCrypto • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -228,7 +228,7 @@ fortune.com • 22h ago
 
 DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -236,13 +236,23 @@ markets.businessinsider.com • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+
+📺 Gareth Soloway
+
+👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 15h ago
+
+---
+
 **[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
 
 GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
 
 📺 Lark Davis
 
-👁️ 13K • 👍 640 • 💬 94 • ⏱️ 6:34 • 1d ago
+👁️ 14K • 👍 642 • 💬 94 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -252,17 +262,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 144 • 💬 62 • ⏱️ 54:27 • 1d ago
+👁️ 5K • 👍 145 • 💬 62 • ⏱️ 54:27 • 1d ago
 
 ---
 
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 Gareth Soloway
+📺 The Modern Investor
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 14h ago
+👁️ 361 • 👍 85 • 💬 48 • ⏱️ 30:14 • 44m ago
 
 ---
 
@@ -272,7 +282,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 482 • 👍 24 • 💬 2 • ⏱️ 1:18 • 13h ago
+👁️ 606 • 👍 26 • 💬 2 • ⏱️ 1:18 • 14h ago
 
 ---
 
@@ -286,43 +296,13 @@ In this video I break down the current Ethereum price action and provide a clear
 
 ---
 
-**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
-
-Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
-
-📺 Your Crypto Crew
-
-👁️ 831 • 👍 109 • 💬 18 • ⏱️ 11:41 • 18h ago
-
----
-
 **[Ethereum Is Changing Forever    Institutions Were Hiding This! 🤫](https://www.youtube.com/watch?v=N-ezYzRirB8)**
 
 Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native mainnet privacy to attract institutional ...
 
 📺 ilme aalim
 
-👁️ 274 • 👍 20 • 💬 34 • ⏱️ 2:08 • 4h ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 3K • 👍 155 • 💬 35 • ⏱️ 7:44 • 23h ago
-
----
-
-**[CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product](https://www.youtube.com/watch?v=38SenhMRpk8)**
-
-CLARITY Act delay, Ethereum roadmap update and Solstice Finance STRC product The CLARITY Act's vote moves to after the ...
-
-📺 The Coin Daily
-
-👁️ 5K • ⏱️ 5:58 • 1d ago
+👁️ 411 • 👍 29 • 💬 32 • ⏱️ 2:08 • 5h ago
 
 ---
 
@@ -333,6 +313,26 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 📺 Aaron Dishner aka Moonin Papa
 
 👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
+
+---
+
+**[이더리움 여기 돌파하면 다시 상승 출발입니다](https://www.youtube.com/watch?v=QgmD9ETDGOk)**
+
+오늘 이더리움 시황과 단타 관점을 정리한 영상입니다. 이번 영상에서는 - 이더리움 현재 방향성 - 오늘 진입 타점 - 주요 지지·저항 구간 ...
+
+📺 트레이더 세윤TV
+
+👁️ 977 • 👍 4 • 💬 1 • ⏱️ 0:57 • 3h ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 3K • 👍 156 • 💬 26 • ⏱️ 7:44 • 1d ago
 
 ---
 

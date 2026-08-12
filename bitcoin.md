@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T08:47:32.272006+00:00'
+updated: '2026-08-12T10:05:09.292001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 08:47 UTC  
+**Last Updated:** August 12, 2026 at 10:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,778.95
+### $63,990.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -0.8%  
-**30d:** -1.9%  
-**90d:** -19.4%  
-**1y:** -48.2%  
+**24h:** -0.3%  
+**7d:** -0.2%  
+**30d:** -1.3%  
+**90d:** -18.9%  
+**1y:** -47.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1277.96B
+**Market Cap:** $1286.11B
 Rank #1
 
-**Circulating Supply:** 20,069,043 BTC
+**Circulating Supply:** 20,069,087 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.2%
 
 **All-Time Low:** $67.81
-+93803.6%
++94428.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-10h ago
+12h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -105,31 +105,31 @@ Rank #1
 
 Last year I bought Bitcoin at $120K when everyone was saying it was heading to $200K. Well, shortly after it hit $126K and then crashed. Has this happened to anyone else — buying near a top in a previous cycle? What did you do? I'm buying the dip.
 
-7h ago
+9h ago
 
 ---
 
 **[The guy you convinced to buy bitcoin at $126K and you with a cost basis of $10K](https://www.reddit.com/r/Bitcoin/comments/1vlf7ap/the_guy_you_convinced_to_buy_bitcoin_at_126k_and/)**
 
-20h ago
+22h ago
 
 ---
 
 **[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
 
-6h ago
+7h ago
 
 ---
 
 **[How corporations like McDonalds benefit from our rigged theft-based monetary system](https://www.reddit.com/r/Bitcoin/comments/1vlv7pk/how_corporations_like_mcdonalds_benefit_from_our/)**
 
-10h ago
+12h ago
 
 ---
 
 **[If there’s ever a button to smash, this would be the one.](https://www.reddit.com/r/Bitcoin/comments/1vlldnl/if_theres_ever_a_button_to_smash_this_would_be/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -137,7 +137,7 @@ Last year I bought Bitcoin at $120K when everyone was saying it was heading to $
 
 Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 13h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Public companies are increasingly borrowing against their bitcoin holdings to fu
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -157,33 +157,43 @@ CNBC • 15h ago
 
 Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Live Updates: Bitcoin at $63,600 as Japan's Metaplanet Moves 3,881 BTC Between Wallets](https://www.moomoo.com/news/post/74540520/live-updates-bitcoin-at-63600-as-japan-s-metaplanet-moves)**
+**[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data](https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data-cSU6m9nHd1C5hwt1mxFU?modCode=hp_LEDE_C_LC_1)**
 
-Moomoo • 1h ago
+Barron's • 8m ago
 
 ---
 
-**[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data -- Market Talk](https://www.moomoo.com/news/post/74539566/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data)**
+**[Bitcoin Price Risks Deeper Drop as $174M in Long Positioning Disappears: Analyst](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-risks-deeper-drop-083722296.html)**
 
-Moomoo • 1h ago
+Bitcoin’s cumulative Longs & Shorts Delta has fallen from more than $400 million to $226 million, a decline of roughly 44%, according to analyst Ardi. ...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[On the Eve of CPI: Bitcoin Options Tug-of-War and On-Chain Accumulation Signals](https://www.moomoo.com/news/post/74544073/on-the-eve-of-cpi-bitcoin-options-tug-of-war)**
 
-Moomoo • 40m ago
+Moomoo • 1h ago
 
 ---
 
-**[Trump Media Expands Bitcoin Holdings to $900 Million While Reporting H1 Unrealized Losses — What to Know About Truth Social Owner's BTC Stash](https://finance.yahoo.com/markets/crypto/articles/trump-media-expands-bitcoin-holdings-032108738.html)**
+**[Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far](https://finance.yahoo.com/markets/crypto/articles/why-strategy-selling-bitcoin-much-144611565.html)**
 
-Trump Media & Technology Group Corp. (NASDAQ:DJT) reported Monday that it held more than $900 million worth of Bitcoin (CRYPTO: BTC) at the end of July. ‘Exciting’ Unlock For Square Sellers The disclosure appeared in the "Subsequent Events" section of Trump Media’s earnings report. The company behind Truth Social held 9,477.16 BTC on its balance sheet as of June 30, valued at $557.094 million—down 33% from the amount reported for the six months ended Dec. 31, 2025. Overall, the company recorded
+The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares](https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares)**
+
+The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC
+
+CoinDesk • 1d ago
 
 ---
 
@@ -191,7 +201,7 @@ Yahoo Finance • 1d ago
 
 The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
 
-fortune.com • 1d ago
+Fortune • 1d ago
 
 ---
 
@@ -199,23 +209,15 @@ fortune.com • 1d ago
 
 The reward aims to recover Bitcoin stolen as a result of BTCPay exploit after attackers gained access to connected LND wallets.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
+**[Long-Term Bitcoin Bulls Should Treat Strategy as What It Is](https://247wallst.com/investing/2026/08/11/long-term-bitcoin-bulls-should-treat-strategy-as-what-it-is/)**
 
-ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
+Strategy holds nearly a million Bitcoin while trading at a fraction of last year's price, and the question dividing Wall Street is whether the capital-markets engine that makes it compelling is the same one that could eventually break it.
 
-Fox Business • 1d ago
-
----
-
-**[Bank Of Russia Approves Bitcoin Trading For Retail Investors](https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading)**
-
-Russia is moving ahead with regulating the Bitcoin and wider digital asset space.
-
-Bitcoin Magazine • 16h ago
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -228,14 +230,6 @@ Bitcoin Magazine • 16h ago
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
 ⬆️ 10 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
-
----
-
-**[Bitcoin BIP110 mandatory activation this Saturday, how game theory will unfold?](https://news.ycombinator.com/item?id=49180531)**
-
-Where do I stand on BIP-110 and the "spam war"? Discover why I believe this is a strategy of tension, the game theory behind this consensus battle, and why running a node and holding your own keys remains Bitcoin’s ultimate defense against corporate capture.
-
-⬆️ 9 • 💬 4 • 6d ago • [simondixon.com](https://www.simondixon.com/blog/bip-110-the-spam-war-and-the-battle-nobody-wants-to-name-where-i-stand-simon-dixon)
 
 ---
 
@@ -297,7 +291,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 From cache lines to continuous batching. The interactive course for backend engineers. No prior systems knowledge required.
 
-⬆️ 2 • 💬 0 • 7h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
+⬆️ 2 • 💬 0 • 8h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
 
 ---
 
@@ -305,23 +299,23 @@ From cache lines to continuous batching. The interactive course for backend engi
 
 ## YouTube Videos: "bitcoin"
 
+**[OMG... Did Anthropic Just Kill Bitcoin?](https://www.youtube.com/watch?v=0GwW7IwnAfA)**
+
+Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 27K • 👍 1K • 💬 90 • ⏱️ 11:09 • 11h ago
+
+---
+
 **[Bitcoin Subject To MASF Attacks](https://www.youtube.com/watch?v=bpwOzcFtOIM)**
 
 Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin is now subject to MASF ...
 
 📺 Bitcoin University
 
-👁️ 9K • 👍 1K • 💬 787 • ⏱️ 9:58 • 11h ago
-
----
-
-**[Bitcoin’s On A Knifes Edge BUT There May Be One Last Squeeze Today!](https://www.youtube.com/watch?v=dhUgAjmb7uM)**
-
-In today's video, Kyledoops outlines the importance of price action being at a very pivotal point whilst there is always a high impact ...
-
-📺 Crypto Banter
-
-👁️ 989 • 👍 134 • 3h ago
+👁️ 10K • 👍 1K • 💬 839 • ⏱️ 9:58 • 13h ago
 
 ---
 
@@ -331,7 +325,7 @@ MASSIVE: A HURRICANE is about To Hit Crypto! 🌪️ ⭐ Follow Altcoin Daily on
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 135 • ⏱️ 9:23 • 1d ago
+👁️ 41K • 👍 2K • 💬 135 • ⏱️ 9:23 • 1d ago
 
 ---
 
@@ -341,17 +335,17 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 345 • ⏱️ 26:42 • 13h ago
+👁️ 4K • 👍 364 • ⏱️ 26:42 • 14h ago
 
 ---
 
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+**[Why Bitcoin Miners Can&#39;t Make Money Anymore](https://www.youtube.com/watch?v=fG6exC0nNI4)**
 
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+After depreciation it costs $90000 to mine a single Bitcoin, and Bitcoin isn't trading at $90000 At first the miner pivot to AI looked ...
 
-📺 Gareth Soloway
+📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 10:20 • 14h ago
+👁️ 648 • 👍 7 • ⏱️ 0:50 • 3h ago
 
 ---
 
@@ -361,7 +355,17 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 276 • ⏱️ 20:00 • 1d ago
+👁️ 22K • 👍 2K • 💬 276 • ⏱️ 20:00 • 1d ago
+
+---
+
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+
+📺 Gareth Soloway
+
+👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 15h ago
 
 ---
 
@@ -371,27 +375,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 30K • 👍 3K • 💬 3 • ⏱️ 19:18 • 21h ago
-
----
-
-**[New Lows Coming For Crypto ??](https://www.youtube.com/watch?v=UcAX4VpRTfg)**
-
-New Lows Coming For Crypto ?? Stocks repeating DAX rally Metals at inflection point TA & Live Trades Get the CF Cycle trading ...
-
-📺 Camel Finance
-
-👁️ 9K • 👍 587 • 💬 95 • ⏱️ 12:02 • 23h ago
-
----
-
-**[🚨 ¿ESTOY EQUIVOCADO CON BITCOIN? y este se desplomara a 60K como todo mundo dice?](https://www.youtube.com/watch?v=pLaPCpw8DuQ)**
-
-Estoy equivocado con Bitcoin? El precio se está debilitando y cada vez más traders hablan de una posible caída hacia los 60K.
-
-📺 BITLOBO TRADING
-
-👁️ 4K • 👍 771 • 💬 7 • ⏱️ 47:41 • 15h ago
+👁️ 31K • 👍 3K • 💬 3 • ⏱️ 19:18 • 22h ago
 
 ---
 
@@ -401,7 +385,17 @@ David Duong on when he thinks Bitcoin buyers come back David's read is that the 
 
 📺 The Wolf Of All Streets
 
-👁️ 570 • 👍 4 • ⏱️ 0:32 • 4h ago
+👁️ 852 • 👍 8 • ⏱️ 0:32 • 5h ago
+
+---
+
+**[🚨 ¿ESTOY EQUIVOCADO CON BITCOIN? y este se desplomara a 60K como todo mundo dice?](https://www.youtube.com/watch?v=pLaPCpw8DuQ)**
+
+Estoy equivocado con Bitcoin? El precio se está debilitando y cada vez más traders hablan de una posible caída hacia los 60K.
+
+📺 BITLOBO TRADING
+
+👁️ 4K • 👍 773 • 💬 7 • ⏱️ 47:41 • 16h ago
 
 ---
 
