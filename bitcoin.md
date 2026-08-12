@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T01:58:07.556691+00:00'
+updated: '2026-08-12T04:12:55.061827+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 01:58 UTC  
+**Last Updated:** August 12, 2026 at 04:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -0.7%  
-**30d:** -1.8%  
-**90d:** -19.3%  
-**1y:** -48.1%  
+**24h:** -0.4%  
+**7d:** -0.8%  
+**30d:** -1.9%  
+**90d:** -19.4%  
+**1y:** -48.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1280.15B
+**Market Cap:** $1279.23B
 Rank #1
 
-**Circulating Supply:** 20,068,946 BTC
+**Circulating Supply:** 20,068,981 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -49.4%
 
 **All-Time Low:** $67.81
-+93962.8%
++93899.4%
 
 ---
 
@@ -79,37 +79,37 @@ Rank #1
 
 **[The guy you convinced to buy bitcoin at $126K and you with a cost basis of $10K](https://www.reddit.com/r/Bitcoin/comments/1vlf7ap/the_guy_you_convinced_to_buy_bitcoin_at_126k_and/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Whatever Bitcoin does next, I’ve already predicted it!](https://www.reddit.com/r/Bitcoin/comments/1vlarqf/whatever_bitcoin_does_next_ive_already_predicted/)**
 
-18h ago
+20h ago
 
 ---
 
 **[My brain at 2 AM:](https://www.reddit.com/r/Bitcoin/comments/1vlcecm/my_brain_at_2_am/)**
 
-16h ago
+18h ago
 
 ---
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-4h ago
+6h ago
 
 ---
 
 **[How corporations like McDonalds benefit from our rigged theft-based monetary system](https://www.reddit.com/r/Bitcoin/comments/1vlv7pk/how_corporations_like_mcdonalds_benefit_from_our/)**
 
-4h ago
+6h ago
 
 ---
 
 **[If there’s ever a button to smash, this would be the one.](https://www.reddit.com/r/Bitcoin/comments/1vlldnl/if_theres_ever_a_button_to_smash_this_would_be/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Well, that’s what I wanna learn more about. What are the best wallets out there these days? How to get maximum security? Explain like I’m dumb, which I am lately. They promised us freedom, in fact they take it all away lately.
 
-13h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Well, that’s what I wanna learn more about. What are the best wallets out ther
 
 The company published a note claiming they destroyed all their inventory (devices affected by the bug). Why? Why couldn’t they just reflash them with the fixed firmware? I can’t stop thinking there is something else to it. Should users of coldcard devices be concerned? They are being asked to upgrade firmware and be at peace of mind. Why didn’t Coinkite do 5he same? Could there be more we are not being told and involves a hardware-level bug?
 
-🔗 [COINKITE Blog](https://blog.coinkite.com/update-sunday/) • 16h ago
+🔗 [COINKITE Blog](https://blog.coinkite.com/update-sunday/) • 18h ago
 
 ---
 
@@ -133,7 +133,7 @@ The company published a note claiming they destroyed all their inventory (device
 
 I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledger Nano S, and it served me well. Just about when I was running out of storage on the Nano S, the Nano S Plus was released, which I used happily up until recently. I run my own node and mempool, and I've been using a multisig wallet set up with my Ledgers. During the Amazon Prime Day sale last June, I picked up a Trezor Safe 3 and a Blockstream Jade, and upgraded my multisig setup using hardware from different vendors. Then came the recent Coldcard drama... which inspired me to build my own seed generator using dice roll. I knew that SeedSigner could generate a seed from D6 dice rolls, so I tried building one with a Raspberry Pi I had lying around. Unfortunately, I didn't have the right screen for it, so that plan fell through. After giving it some thought, I realized I could just use the Python feature on my Casio calculator to build one. I coded it up, and it actually works perfectly! ^^ P.S. This program was built using the MicroPython built into modern Casio graphing calculators. Instead of using any built-in dice tool on the calculator, you roll actual physical dice 99+ times and sequentially input the results via the keypad. The program then performs a SHA-256 operation, handles checksum padding and 11-bit slicing according to BIP39 standards, and generates a 24-word mnemonic. Since MicroPython is stripped down to the bare essentials and lacks a built-in hashlib, I actually had to implement the SHA-256 algorithm from scratch. This program brings the physical dice-based entropy generation found in devices like Coldcard, SeedSigner, and Keystone Pro right onto a graphing calculator! p.s.2 A site someone told me about recently was helpful. https://hashexplained.com/entropy Source for casio calc. dice.py - This is a pretty sloppy/clunky piece of code that I'm kind of embarrassed to share, but I'm posting it because some people asked for it. - Caution: This program does not check the number of input dice. It will run even if you enter 99 or fewer dice, and will generate a mnemonic even if you roll a die just once. When passed through the sha256 function, it outputs 256-bit data, which is then used to create the mnemonic. I wanted to see why a seed is generated without any issues even when low-entropy data is inputted. Please be careful when using it in practice. --------------------------------------------------------------------------- # --- [Casio File-less BIP39 (Ultimate)] --- _K = ( 0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5, 0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174, 0xe49b69c1, 0xefbe4786, 0x0fc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da, 0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967, 0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13, 0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85, 0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070, 0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3, 0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2 ) class PureSHA256: def __init__(self, data=None): self.h = [0x6a09e667, 0xbb67ae85, 0x3c6ef372, 0xa54ff53a, 0x510e527f, 0x9b05688c, 0x1f83d9ab, 0x5be0cd19] self.data = [] self.bytes_processed = 0 if data: self.update(data) def _rotr(self, x, n): return ((x >> n) | (x << (32 - n))) & 0xFFFFFFFF def update(self, data): self.data.extend(data) while len(self.data) >= 64: self._process_chunk(self.data[:64]) self.data = self.data[64:] self.bytes_processed += 64 def _process_chunk(self, chunk): w = [0] * 64 for i in range(16): idx = i * 4 w[i] = (chunk[idx] << 24) | (chunk[idx+1] << 16) | (chunk[idx+2] << 8) | chunk[idx+3] for i in range(16, 64): s0 = self._rotr(w[i-15], 7) ^ self._rotr(w[i-15], 18) ^ (w[i-15] >> 3) s1 = self._rotr(w[i-2], 17) ^ self._rotr(w[i-2], 19) ^ (w[i-2] >> 10) w[i] = (w[i-16] + s0 + w[i-7] + s1) & 0xFFFFFFFF a, b, c, d, e, f, g, h = self.h for i in range(64): S1 = self._rotr(e, 6) ^ self._rotr(e, 11) ^ self._rotr(e, 25) ch = (e & f) ^ ((~e) & g) temp1 = (h + S1 + ch + _K[i] + w[i]) & 0xFFFFFFFF S0 = self._rotr(a, 2) ^ self._rotr(a, 13) ^ self._rotr(a, 22) maj = (a & b) ^ (a & c) ^ (b & c) temp2 = (S0 + maj) & 0xFFFFFFFF h, g, f = g, f, e e = (d + temp1) & 0xFFFFFFFF d, c, b = c, b, a a = (temp1 + temp2) & 0xFFFFFFFF self.h = [(x + y) & 0xFFFFFFFF for x, y in zip(self.h, [a, b, c, d, e, f, g, h])] def digest(self): length = (self.bytes_processed + len(self.data)) * 8 self.data.append(0x80) while (len(self.data) % 64) != 56: self.data.append(0x00) for i in range(7, -1, -1): self.data.append((length >> (i * 8)) & 0xFF) self._process_chunk(self.data) out = [] for val in self.h: out.append((val >> 24) & 0xFF) out.append((val >> 16) & 0xFF) out.append((val >> 8) & 0xFF) out.append(val & 0xFF) return out # 동적 생성된 128개의 청크 튜플 삽입 W = ( "abandon ability able about above absent absorb abstract absurd abuse access accident account accuse achieve acid", "acoustic acquire across act action actor actress actual adapt add addict address adjust admit adult advance", "advice aerobic affair afford afraid again age agent agree ahead aim air airport aisle alarm album", "alcohol alert alien all alley allow almost alone alpha already also alter always amateur amazing among", "amount amused analyst anchor ancient anger angle angry animal ankle announce annual another answer antenna antique", "anxiety any apart apology appear apple approve april arch arctic area arena argue arm armed armor", "army around arrange arrest arrive arrow art artefact artist artwork ask aspect assault asset assist assume", "asthma athlete atom attack attend attitude attract auction audit august aunt author auto autumn average avocado", "avoid awake aware away awesome awful awkward axis baby bachelor bacon badge bag balance balcony ball", "bamboo banana banner bar barely bargain barrel base basic basket battle beach bean beauty because become", "beef before begin behave behind believe below belt bench benefit best betray better between beyond bicycle", "bid bike bind biology bird birth bitter black blade blame blanket blast bleak bless blind blood", "blossom blouse blue blur blush board boat body boil bomb bone bonus book boost border boring", "borrow boss bottom bounce box boy bracket brain brand brass brave bread breeze brick bridge brief", "bright bring brisk broccoli broken bronze broom brother brown brush bubble buddy budget buffalo build bulb", "bulk bullet bundle bunker burden burger burst bus business busy butter buyer buzz cabbage cabin cable", "cactus cage cake call calm camera camp can canal cancel candy cannon canoe canvas canyon capable", "capital captain car carbon card cargo carpet carry cart case cash casino castle casual cat catalog", "catch category cattle caught cause caution cave ceiling celery cement census century cereal certain chair chalk", "champion change chaos chapter charge chase chat cheap check cheese chef cherry chest chicken chief child", "chimney choice choose chronic chuckle chunk churn cigar cinnamon circle citizen city civil claim clap clarify", "claw clay clean clerk clever click client cliff climb clinic clip clock clog close cloth cloud", "clown club clump cluster clutch coach coast coconut code coffee coil coin collect color column combine", "come comfort comic common company concert conduct confirm congress connect consider control convince cook cool copper", "copy coral core corn correct cost cotton couch country couple course cousin cover coyote crack cradle", "craft cram crane crash crater crawl crazy cream credit creek crew cricket crime crisp critic crop", "cross crouch crowd crucial cruel cruise crumble crunch crush cry crystal cube culture cup cupboard curious", "current curtain curve cushion custom cute cycle dad damage damp dance danger daring dash daughter dawn", "day deal debate debris decade december decide decline decorate decrease deer defense define defy degree delay", "deliver demand demise denial dentist deny depart depend deposit depth deputy derive describe desert design desk", "despair destroy detail detect develop device devote diagram dial diamond diary dice diesel diet differ digital", "dignity dilemma dinner dinosaur direct dirt disagree discover disease dish dismiss disorder display distance divert divide", "divorce dizzy doctor document dog doll dolphin domain donate donkey donor door dose double dove draft", "dragon drama drastic draw dream dress drift drill drink drip drive drop drum dry duck dumb", "dune during dust dutch duty dwarf dynamic eager eagle early earn earth easily east easy echo", "ecology economy edge edit educate effort egg eight either elbow elder electric elegant element elephant elevator", "elite else embark embody embrace emerge emotion employ empower empty enable enact end endless endorse enemy", "energy enforce engage engine enhance enjoy enlist enough enrich enroll ensure enter entire entry envelope episode", "equal equip era erase erode erosion error erupt escape essay essence estate eternal ethics evidence evil", "evoke evolve exact example excess exchange excite exclude excuse execute exercise exhaust exhibit exile exist exit", "exotic expand expect expire explain expose express extend extra eye eyebrow fabric face faculty fade faint", "faith fall false fame family famous fan fancy fantasy farm fashion fat fatal father fatigue fault", "favorite feature february federal fee feed feel female fence festival fetch fever few fiber fiction field", "figure file film filter final find fine finger finish fire firm first fiscal fish fit fitness", "fix flag flame flash flat flavor flee flight flip float flock floor flower fluid flush fly", "foam focus fog foil fold follow food foot force forest forget fork fortune forum forward fossil", "foster found fox fragile frame frequent fresh friend fringe frog front frost frown frozen fruit fuel", "fun funny furnace fury future gadget gain galaxy gallery game gap garage garbage garden garlic garment", "gas gasp gate gather gauge gaze general genius genre gentle genuine gesture ghost giant gift giggle", "ginger giraffe girl give glad glance glare glass glide glimpse globe gloom glory glove glow glue", "goat goddess gold good goose gorilla gospel gossip govern gown grab grace grain grant grape grass", "gravity great green grid grief grit grocery group grow grunt guard guess guide guilt guitar gun", "gym habit hair half hammer hamster hand happy harbor hard harsh harvest hat have hawk hazard", "head health heart heavy hedgehog height hello helmet help hen hero hidden high hill hint hip", "hire history hobby hockey hold hole holiday hollow home honey hood hope horn horror horse hospital", "host hotel hour hover hub huge human humble humor hundred hungry hunt hurdle hurry hurt husband", "hybrid ice icon idea identify idle ignore ill illegal illness image imitate immense immune impact impose", "improve impulse inch include income increase index indicate indoor industry infant inflict inform inhale inherit initial", "inject injury inmate inner innocent input inquiry insane insect inside inspire install intact interest into invest", "invite involve iron island isolate issue item ivory jacket jaguar jar jazz jealous jeans jelly jewel", "job join joke journey joy judge juice jump jungle junior junk just kangaroo keen keep ketchup", "key kick kid kidney kind kingdom kiss kit kitchen kite kitten kiwi knee knife knock know", "lab label labor ladder lady lake lamp language laptop large later latin laugh laundry lava law", "lawn lawsuit layer lazy leader leaf learn leave lecture left leg legal legend leisure lemon lend", "length lens leopard lesson letter level liar liberty library license life lift light like limb limit", "link lion liquid list little live lizard load loan lobster local lock logic lonely long loop", "lottery loud lounge love loyal lucky luggage lumber lunar lunch luxury lyrics machine mad magic magnet", "maid mail main major make mammal man manage mandate mango mansion manual maple marble march margin", "marine market marriage mask mass master match material math matrix matter maximum maze meadow mean measure", "meat mechanic medal media melody melt member memory mention menu mercy merge merit merry mesh message", "metal method middle midnight milk million mimic mind minimum minor minute miracle mirror misery miss mistake", "mix mixed mixture mobile model modify mom moment monitor monkey monster month moon moral more morning", "mosquito mother motion motor mountain mouse move movie much muffin mule multiply muscle museum mushroom music", "must mutual myself mystery myth naive name napkin narrow nasty nation nature near neck need negative", "neglect neither nephew nerve nest net network neutral never news next nice night noble noise nominee", "noodle normal north nose notable note nothing notice novel now nuclear number nurse nut oak obey", "object oblige obscure observe obtain obvious occur ocean october odor off offer office often oil okay", "old olive olympic omit once one onion online only open opera opinion oppose option orange orbit", "orchard order ordinary organ orient original orphan ostrich other outdoor outer output outside oval oven over", "own owner oxygen oyster ozone pact paddle page pair palace palm panda panel panic panther paper", "parade parent park parrot party pass patch path patient patrol pattern pause pave payment peace peanut", "pear peasant pelican pen penalty pencil people pepper perfect permit person pet phone photo phrase physical", "piano picnic picture piece pig pigeon pill pilot pink pioneer pipe pistol pitch pizza place planet", "plastic plate play please pledge pluck plug plunge poem poet point polar pole police pond pony", "pool popular portion position possible post potato pottery poverty powder power practice praise predict prefer prepare", "present pretty prevent price pride primary print priority prison private prize problem process produce profit program", "project promote proof property prosper protect proud provide public pudding pull pulp pulse pumpkin punch pupil", "puppy purchase purity purpose purse push put puzzle pyramid quality quantum quarter question quick quit quiz", "quote rabbit raccoon race rack radar radio rail rain raise rally ramp ranch random range rapid", "rare rate rather raven raw razor ready real reason rebel rebuild recall receive recipe record recycle", "reduce reflect reform refuse region regret regular reject relax release relief rely remain remember remind remove", "render renew rent reopen repair repeat replace report require rescue resemble resist resource response result retire", "retreat return reunion reveal review reward rhythm rib ribbon rice rich ride ridge rifle right rigid", "ring riot ripple risk ritual rival river road roast robot robust rocket romance roof rookie room", "rose rotate rough round route royal rubber rude rug rule run runway rural sad saddle sadness", "safe sail salad salmon salon salt salute same sample sand satisfy satoshi sauce sausage save say", "scale scan scare scatter scene scheme school science scissors scorpion scout scrap screen script scrub sea", "search season seat second secret section security seed seek segment select sell seminar senior sense sentence", "series service session settle setup seven shadow shaft shallow share shed shell sheriff shield shift shine", "ship shiver shock shoe shoot shop short shoulder shove shrimp shrug shuffle shy sibling sick side", "siege sight sign silent silk silly silver similar simple since sing siren sister situate six size", "skate sketch ski skill skin skirt skull slab slam sleep slender slice slide slight slim slogan", "slot slow slush small smart smile smoke smooth snack snake snap sniff snow soap soccer social", "sock soda soft solar soldier solid solution solve someone song soon sorry sort soul sound soup", "source south space spare spatial spawn speak special speed spell spend sphere spice spider spike spin", "spirit split spoil sponsor spoon sport spot spray spread spring spy square squeeze squirrel stable stadium", "staff stage stairs stamp stand start state stay steak steel stem step stereo stick still sting", "stock stomach stone stool story stove strategy street strike strong struggle student stuff stumble style subject", "submit subway success such sudden suffer sugar suggest suit summer sun sunny sunset super supply supreme", "sure surface surge surprise surround survey suspect sustain swallow swamp swap swarm swear sweet swift swim", "swing switch sword symbol symptom syrup system table tackle tag tail talent talk tank tape target", "task taste tattoo taxi teach team tell ten tenant tennis tent term test text thank that", "theme then theory there they thing this thought three thrive throw thumb thunder ticket tide tiger", "tilt timber time tiny tip tired tissue title toast tobacco today toddler toe together toilet token", "tomato tomorrow tone tongue tonight tool tooth top topic topple torch tornado tortoise toss total tourist", "toward tower town toy track trade traffic tragic train transfer trap trash travel tray treat tree", "trend trial tribe trick trigger trim trip trophy trouble truck true truly trumpet trust truth try", "tube tuition tumble tuna tunnel turkey turn turtle twelve twenty twice twin twist two type typical", "ugly umbrella unable unaware uncle uncover under undo unfair unfold unhappy uniform unique unit universe unknown", "unlock until unusual unveil update upgrade uphold upon upper upset urban urge usage use used useful", "useless usual utility vacant vacuum vague valid valley valve van vanish vapor various vast vault vehicle", "velvet vendor venture venue verb verify version very vessel veteran viable vibrant vicious victory video view", "village vintage violin virtual virus visa visit visual vital vivid vocal voice void volcano volume vote", "voyage wage wagon wait walk wall walnut want warfare warm warrior wash wasp waste water wave", "way wealth weapon wear weasel weather web wedding weekend weird welcome west wet whale what wheat", "wheel when where whip whisper wide width wife wild will win window wine wing wink winner", "winter wire wisdom wise wish witness wolf woman wonder wood wool word work world worry worth", "wrap wreck wrestle wrist write wrong yard year yellow you young youth zebra zero zone zoo" ) def get_word(index): chunk_idx = index // 16 word_idx = index % 16 s = W[chunk_idx] start = 0 for _ in range(word_idx): start = s.find(" ", start) + 1 end = s.find(" ", start) if end == -1: return s[start:] return s[start:end] def main(): print("=== BIP39 Dice Seed ===") print("Enter dice (1-6)") print("99 rolls rec.") dice_input = input("> ") for char in dice_input: if char not in "123456": print("Invalid input!") input("[Press EXE]") return print("\nGenerating...\n") dice_bytes = [] for char in dice_input: dice_bytes.append(ord(char)) entropy_hash = PureSHA256(dice_bytes) entropy_bytes = entropy_hash.digest() checksum_hash = PureSHA256(entropy_bytes) checksum_byte = checksum_hash.digest()[0] val = 0 for b in entropy_bytes: val = (val << 8) | b val = (val << 8) | checksum_byte words = [] for i in range(24): shift = (23 - i) * 11 index = (val >> shift) & 0x7FF words.append(get_word(index)) # 카시오 화면(가로 21자)에 맞춘 2열 배치 포맷 for i in range(0, 12, 2): print("%02d:%-7s %02d:%-7s" % (i+1, words[i][:7], i+2, words[i+1][:7])) input("[EXE for 13~24]") for i in range(12, 24, 2): print("%02d:%-7s %02d:%-7s" % (i+1, words[i][:7], i+2, words[i+1][:7])) print("-" * 15) print("DONE! PRESS RESTART") input("[Press EXE]") main()
 
-17h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ I've been into Bitcoin for about 9 years now. In my second year, I bought a Ledg
 
 Hey everyone, curious to hear people's real-world experiences with this. When traveling internationally, most countries require you to declare if you're carrying over $10k in cash or monetary instruments. Crypto creates a weird gray area for border control. Technically, carrying a hardware wallet isn't carrying money across the border. The funds reside on the blockchain, not on the device. It's fundamentally no different than carrying a phone with a banking app or a bank token device. That said, border control and immigration agents usually stick strictly to their playbook, and many might not understand or care about how the blockchain works if they inspect your bags. For those who travel often with hardware wallets: Have you ever been asked about your wallet by border agents? How do you handle declarations or questions if custom officials bring it up? What seems to be the broadly accepted or safest approach when crossing borders? Would love to hear how you guys approach this in practice!
 
-11h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hey everyone, curious to hear people's real-world experiences with this. When tr
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
@@ -161,17 +161,11 @@ CNBC • 8h ago
 
 Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Dormant Bitcoin Awakens After 12 Years: The On-Chain Truth Behind an 8,000% Return](https://www.moomoo.com/news/post/74519573/dormant-bitcoin-awakens-after-12-years-the-on-chain-truth)**
-
-Moomoo • 1h ago
-
----
-
-**[The UK ranks third globally in Bitcoin adoption, with 60,000 seized coins unlikely to enter reserves.](https://www.moomoo.com/news/post/74519415/the-uk-ranks-third-globally-in-bitcoin-adoption-with-60000)**
+**[Bitcoin Edges Higher; U.S. CPI Awaited -- Market Talk](https://www.moomoo.com/news/post/74529916/bitcoin-edges-higher-us-cpi-awaited-market-talk)**
 
 Moomoo • 1h ago
 
@@ -181,7 +175,7 @@ Moomoo • 1h ago
 
 The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -199,27 +193,33 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[It’s Going ‘Significantly Higher’—BlackRock Just Quietly Called The Bitcoin Price Bottom](https://www.forbes.com/sites/digital-assets/2026/08/11/its-going-significantly-higher-blackrock-just-quietly-called-the-bitcoin-price-bottom/)**
+**[Benchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook](https://www.theblock.co/news/business/2026-08-11-benchmark-sees-over-150-upside-for-bitdeer-on-bitcoin-mining-ai-outlook-411424)**
 
-BlackRock has revealed it's seen a flip in sentiment, forecasting the bitcoin price is heading “significantly higher"...
+Benchmark sees over 150% upside for Bitdeer as bitcoin mining operations fund its $4.7 billion AI data-center buildout.
 
-Forbes • 13h ago
-
----
-
-**[BlackRock reveals what Bitcoin investors feel right now](https://sg.finance.yahoo.com/news/blackrock-reveals-bitcoin-investors-feel-100000592.html)**
-
-BlackRock's head of digital assets, Robert Mitchnick, appeared for an interview on Bloomberg on Aug. 10 in which he shared strong words on the sentiment prevalent among Bitcoin investors right now. BlackRock launched iShares Bitcoin Trust (IBIT), its spot Bitcoin exchange-traded fund ...
-
-Yahoo Finance Singapore • 15h ago
+The Block • 13h ago
 
 ---
 
-**[BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold](https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333)**
+**[Elon Musk's AI warning about the dollar is starting to come true](https://www.thestreet.com/crypto/markets/elon-musks-ai-warning-about-the-dollar-is-starting-to-come-true)**
 
-"That decoupling is healthy because it’s part of the thesis for a lot of people around bitcoin as a diversifier," says BlackRock.
+thestreet.com • 8h ago
 
-theblock.co • 1d ago
+---
+
+**[Long-Term Bitcoin Bulls Should Treat Strategy as What It Is](https://247wallst.com/investing/2026/08/11/long-term-bitcoin-bulls-should-treat-strategy-as-what-it-is/)**
+
+Strategy holds nearly a million Bitcoin while trading at a fraction of last year's price, and the question dividing Wall Street is whether the capital-markets engine that makes it compelling is the same one that could eventually break it.
+
+24/7 Wall St. • 11h ago
+
+---
+
+**[Bitcoin could soar despite massive selloff as expert reveals what will drive crypto higher](https://www.foxbusiness.com/video/6403157081112)**
+
+ProCap Financial Chairman and CEO Anthony Pompliano joins 'Varney & Co.' to discuss Bitcoin's long-term growth potential, government money printing and his new AI financial platform, Silvia.
+
+Fox Business • 1d ago
 
 ---
 
@@ -317,7 +317,17 @@ The only bet in Bitcoin is that Washington never stops printing money. That's no
 
 📺 Anthony Pompliano
 
-👁️ 15K • 👍 289 • 💬 42 • ⏱️ 0:50 • 1d ago
+👁️ 16K • 👍 293 • 💬 42 • ⏱️ 0:50 • 1d ago
+
+---
+
+**[This Ends Every Bitcoin Bear Market](https://www.youtube.com/watch?v=1lHFaniXiw0)**
+
+GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 The Korean market dropped 45%. AI stocks got cut in half.
+
+📺 Lark Davis
+
+👁️ 13K • 👍 628 • 💬 85 • ⏱️ 7:38 • 16h ago
 
 ---
 
@@ -327,7 +337,7 @@ MASSIVE: A HURRICANE is about To Hit Crypto! 🌪️ ⭐ Follow Altcoin Daily on
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 134 • ⏱️ 9:23 • 1d ago
+👁️ 40K • 👍 2K • 💬 135 • ⏱️ 9:23 • 1d ago
 
 ---
 
@@ -337,7 +347,7 @@ Bitcoin is entering a tight compression phase, and the next breakout could be cl
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 358 • 💬 18 • ⏱️ 12:44 • 15h ago
+👁️ 7K • 👍 362 • 💬 18 • ⏱️ 12:44 • 18h ago
 
 ---
 
@@ -347,7 +357,7 @@ Let's talk about where Bitcoin is in the cycle, and why it's almost crunch time.
 
 📺 Benjamin Cowen
 
-👁️ 123K • 👍 7K • 💬 356 • ⏱️ 8:04 • 1d ago
+👁️ 125K • 👍 7K • 💬 361 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -357,7 +367,7 @@ Over $112 million in Bitcoin has been affected by the Coldcard vulnerability, an
 
 📺 Natalie Brunell
 
-👁️ 227 • 👍 5 • ⏱️ 0:49 • 1h ago
+👁️ 380 • 👍 9 • 💬 30 • ⏱️ 0:49 • 4h ago
 
 ---
 
@@ -367,7 +377,7 @@ Thanks to Coinbase for sponsoring this video. Activate your rewards below: ▻ C
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 479 • 💬 241 • ⏱️ 15:47 • 1d ago
+👁️ 9K • 👍 479 • 💬 243 • ⏱️ 15:47 • 1d ago
 
 ---
 
@@ -377,7 +387,7 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 261 • ⏱️ 20:00 • 1d ago
+👁️ 21K • 👍 2K • 💬 263 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -387,7 +397,7 @@ Ran breaks down why Bitcoin may be quietly entering a new phase, with signs of a
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 851 • 💬 43 • ⏱️ 18:10 • 1d ago
+👁️ 14K • 👍 854 • 💬 43 • ⏱️ 18:10 • 1d ago
 
 ---
 
@@ -398,16 +408,6 @@ Bitcoin has lost half its value since its October peak as higher yields, tighter
 📺 Bloomberg News
 
 👁️ 19K • 👍 10 • ⏱️ 1:35 • 1d ago
-
----
-
-**[Bitcoin FORKED Then $1 BILLION Flooded Into ETFs](https://www.youtube.com/watch?v=hxP7_BW8Fp8)**
-
-Bitcoin actually split into two competing chains, and for a few minutes its latest civil war stopped being theoretical. BIP-110 put ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 336 • ⏱️ 14:19 • 2d ago
 
 ---
 

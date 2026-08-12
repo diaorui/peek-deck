@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T01:58:07.563114+00:00'
+updated: '2026-08-12T04:12:55.068057+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 01:58 UTC  
+**Last Updated:** August 12, 2026 at 04:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,882.18
+### $1,884.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
+**24h:** +0.5%  
 **7d:** -0.9%  
 **30d:** -0.3%  
 **90d:** -15.2%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.30B
+**Market Cap:** $227.43B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+434844.9%
++435149.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 8h ago
+Decrypt • 10h ago
 
 ---
 
@@ -172,7 +172,15 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Buterin previously said the upgrades included in Lean Ethereum will form the protocol's “third major iteration.”
 
-theblock.co • 1d ago
+The Block • 1d ago
+
+---
+
+**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+
+Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
+
+Benzinga • 16h ago
 
 ---
 
@@ -192,19 +200,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+**[Bitmine Ethereum holdings reach 5.81M as crypto stash hits $11.6B](https://seekingalpha.com/news/4629887-bitmine-ethereum-holdings-reach-581m-as-crypto-stash-hits-116b)**
 
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-CoinDesk • 1d ago
-
----
-
-**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
-
-Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
-
-Benzinga • 14h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -212,7 +210,7 @@ Benzinga • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 17h ago
 
 ---
 
@@ -220,7 +218,7 @@ Fortune • 15h ago
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 1h ago
+AMBCrypto • 4h ago
 
 ---
 
@@ -228,7 +226,7 @@ AMBCrypto • 1h ago
 
 DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -236,23 +234,13 @@ markets.businessinsider.com • 11h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
-
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
-
-📺 Gareth Soloway
-
-👁️ 23K • 👍 2K • 💬 173 • ⏱️ 10:20 • 7h ago
-
----
-
 **[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
 
 GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
 
 📺 Lark Davis
 
-👁️ 13K • 👍 635 • 💬 93 • ⏱️ 6:34 • 1d ago
+👁️ 13K • 👍 637 • 💬 94 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -262,7 +250,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 142 • 💬 62 • ⏱️ 54:27 • 1d ago
+👁️ 4K • 👍 144 • 💬 62 • ⏱️ 54:27 • 1d ago
 
 ---
 
@@ -272,7 +260,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 311 • 👍 14 • 💬 2 • ⏱️ 1:18 • 6h ago
+👁️ 383 • 👍 20 • 💬 2 • ⏱️ 1:18 • 8h ago
 
 ---
 
@@ -282,7 +270,7 @@ Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Us
 
 📺 Your Crypto Crew
 
-👁️ 662 • 👍 95 • 💬 18 • ⏱️ 11:41 • 11h ago
+👁️ 729 • 👍 103 • 💬 18 • ⏱️ 11:41 • 14h ago
 
 ---
 
@@ -292,7 +280,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 Aaron Dishner aka Moonin Papa
 
-👁️ 8K • 👍 597 • 💬 89 • ⏱️ 55:35 • 1d ago
+👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
 
 ---
 
@@ -302,7 +290,7 @@ Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, 
 
 📺 ilme aalim
 
-👁️ 3K • 👍 147 • 💬 6 • ⏱️ 7:44 • 17h ago
+👁️ 3K • 👍 148 • 💬 25 • ⏱️ 7:44 • 19h ago
 
 ---
 
@@ -312,7 +300,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 6 • ⏱️ 6:31 • 1d ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 6:31 • 1d ago
 
 ---
 
@@ -322,7 +310,17 @@ Ethereum (ETH) faces a critical moment near the $1950 resistance zone as thin tr
 
 📺 FXEmpire
 
-👁️ 101 • ⏱️ 4:53 • 1d ago
+👁️ 102 • ⏱️ 4:53 • 1d ago
+
+---
+
+**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading  #livetrading #gold@Tradewithrakhi](https://www.youtube.com/watch?v=0dwnYyx2g78)**
+
+LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #livetrading #live #goldtrading #cryptotrading #gold @Tradewithrakhi JOIN ...
+
+📺 Trade With Rakhi
+
+👁️ 11K • 👍 1K • 3h ago
 
 ---
 
