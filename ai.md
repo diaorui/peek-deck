@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-12T12:10:11.222810+00:00'
+updated: '2026-08-12T13:57:21.824911+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 12, 2026 at 12:10 UTC  
+**Last Updated:** August 12, 2026 at 13:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[This technology is a little creepy tbh](https://www.reddit.com/r/artificial/comments/1vmb5ig/this_technology_is_a_little_creepy_tbh/)**
+
+Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
+
+2h ago
+
+---
+
 **[Outsourced my thinking and cognitive debt gives me anxiety](https://www.reddit.com/r/artificial/comments/1vlwvpk/outsourced_my_thinking_and_cognitive_debt_gives/)**
 
 I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
 
-13h ago
+14h ago
 
 ---
 
@@ -53,27 +61,11 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 ---
 
-**[Intel LLM-Scaler ready with Muse Glimmer support, other LLMs & features](https://www.reddit.com/r/artificial/comments/1vmaplb/intel_llmscaler_ready_with_muse_glimmer_support/)**
+**[10 AI automation ideas you can build today with no code: the 3 that actually saved me time](https://www.reddit.com/r/artificial/comments/1vmck3c/10_ai_automation_ideas_you_can_build_today_with/)**
 
-Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack
+Everyone posts "10 AI automations" lists, but most of them are fake. Here are 3 from the list I actually run, all no-code, all free: 1. **Email triage bot**: a webhook that reads your inbox, summarizes non-urgent mail into one daily Discord digest, and only pages you for urgent stuff. Killed my morning inbox anxiety. 2. **Self-healing webhook**: the boring one that matters most: a watchdog that checks your automation is alive every 5 minutes and rebuilds it if it dies. My bot quietly fixed its own broken integration while I was on a trip. 3. **RSS to LLM digest**: feed 7 news sources in, get one clean 3-paragraph daily summary out. I haven't manually scrolled AI news in weeks. The pattern that makes all three work: **webhook in, LLM decision, deliver where you already live (Discord/Telegram)**. No new apps to check, no dashboards. What's the one automation you'd build first if you had a free afternoon?
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 1h ago
-
----
-
-**[Challenge * can updated AI video generators still make the nightmare fuel vids of the earlier generations?](https://www.reddit.com/r/artificial/comments/1vm48x4/challenge_can_updated_ai_video_generators_still/)**
-
-Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
-
-7h ago
-
----
-
-**[What could actually help with the deepfake problem?](https://www.reddit.com/r/artificial/comments/1vm660f/what_could_actually_help_with_the_deepfake_problem/)**
-
-We have all seen deepfakes of famous people and leaders but I never really thought about what it could mean for everyday people until recently. A month ago someone tried to create a video of one of my coworkers. It was very scary for everyone involved because we didn't realize how easily people could believe it was real. This situation made a few of us start looking into deepfakes seriously and trying to understand what can actually be done to deal with them. It made me wonder if something like face recognition could also be useful in finding out if a video has been changed. While looking into this I also found some tools like DeepFace, Reality Defender, Pindrop Pulse and others that are working on identifying AI-generated or altered content. From what I know these tools are mainly used for identifying and checking faces. So now I am a bit confused about what works best. If anyone here works with this kind of technology or knows more, about it I would really like to learn how this works and what you think is the way to stay ahead as deepfakes become more advanced.
-
-5h ago
+1h ago
 
 ---
 
@@ -81,37 +73,47 @@ We have all seen deepfakes of famous people and leaders but I never really thoug
 
 Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.
 
-🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 4h ago
+🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 6h ago
 
 ---
 
-**[OpenAI Presence packages policies, evaluations and human escalation around enterprise AI agents](https://www.reddit.com/r/artificial/comments/1vm9bwk/openai_presence_packages_policies_evaluations_and/)**
+**[Intel LLM-Scaler ready with Muse Glimmer support, other LLMs & features](https://www.reddit.com/r/artificial/comments/1vmaplb/intel_llmscaler_ready_with_muse_glimmer_support/)**
 
-OpenAI has introduced Presence, an enterprise product for deploying voice and chat agents across workflows such as billing support, insurance claims and employee IT requests. The notable part is less the underlying model and more the operational layer. Each agent is scoped to a specific job and receives only the knowledge and system access required for it. Organizations define approved actions, policies and escalation conditions, while simulations and evaluations test behavior before deployment. After launch, production sessions and escalations can reveal gaps. Codex can propose changes, but teams test and approve them before a controlled rollout. Presence is currently limited to eligible enterprise customers and isn't self-service. OpenAI reports that its own phone-support deployment resolves 75% of inbound issues without human assistance, although that is a vendor-reported result rather than an independent evaluation. For production agents, which evidence would you consider essential: audit logs, reproducible evaluations, approval records, incident reports, or something else? Source: https://openai.com/index/introducing-openai-presence/
+Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack
 
-2h ago
-
----
-
-**[This technology is a little creepy tbh](https://www.reddit.com/r/artificial/comments/1vmb5ig/this_technology_is_a_little_creepy_tbh/)**
-
-Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
-
-57m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 3h ago
 
 ---
 
-**[Are AI transparency rules going to slow enterprise AI adoption—or make it safer to scale?](https://www.reddit.com/r/artificial/comments/1vm66ca/are_ai_transparency_rules_going_to_slow/)**
+**[Did anyone catch this? Nvidia put together a $500B financing deal with Wall Street to help fund AI infrastructure where they are not putting up their own money](https://www.reddit.com/r/artificial/comments/1vmeshn/did_anyone_catch_this_nvidia_put_together_a_500b/)**
 
-The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems. This brings up a question for businesses using AI that creates content and AI helpers. Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it? Do having clearer rules make leaders feel better about allowing AI to be used? For people who work with AI in companies: Have the rules stopped things from moving, helped as a good guide, or just been extra paperwork so far? What part of managing AI do you think companies are not paying attention to?
+It dropped yesterday tho that Nvidia teamed up with some major Wall Street firms on a $500 billion financing deal that connects AI companies directly with institutional capital, so they don't have to front the massive upfront costs of chips, buildings, power, and cooling themselves The six companies that Jensen chose are Apollo Global Management, BlackRock, Blackstone, Brookfield Asset Management, Goldman Sachs, and KKR According to Morgan Stanley they think that hyperscalers could spend $3.5 trillion between 2026-2028, with the total AI infra buildout maybe topping $8 trillion The part getting side-eyed though is that Nvidia's now helping finance the same companies that buy its hardware, which has people worried about circular financing again lol
 
-5h ago
+4m ago
 
 ---
 
-**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+**[Challenge * can updated AI video generators still make the nightmare fuel vids of the earlier generations?](https://www.reddit.com/r/artificial/comments/1vm48x4/challenge_can_updated_ai_video_generators_still/)**
 
-19h ago
+Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
+
+9h ago
+
+---
+
+**[Warning fear mongering hack writer - 311 in New Orleans using AI to answer calls.](https://www.reddit.com/r/artificial/comments/1vmcchp/warning_fear_mongering_hack_writer_311_in_new/)**
+
+I'm not a huge fan of AI in between myself and a human, but for 311 calls (Hack writer Joe Wilkins states 911) I think would be ok. https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation?utm_source=beehiiv&utm_medium=email&utm_campaign=futurism-newsletter
+
+1h ago
+
+---
+
+**[Warning fear mongering hack writer - 311 in New Orleans using AI to answer calls.](https://www.reddit.com/r/artificial/comments/1vmc9tw/warning_fear_mongering_hack_writer_311_in_new/)**
+
+I'm not a huge fan of AI in between myself and a human, but for 311 calls (Hack writer Joe Wilkins states 911) I think would be ok.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation?utm_source=beehiiv&utm_medium=email&utm_campaign=futurism-newsletter) • 1h ago
 
 ---
 
@@ -119,71 +121,11 @@ The new rules from the EU about making AI more open and clear have started to be
 
 ## Google News: "ai"
 
-**[NIMBYism Could Save AI From a Bust Like the Dot-Com Era](https://www.bloomberg.com/opinion/articles/2026-08-12/nimbyism-could-save-ai-from-a-bust-like-the-dot-com-era)**
+**[Google’s new AI boss inherits a race to catch OpenAI and Anthropic](https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html)**
 
-Bloomberg.com • 1h ago
+Koray Kavukcuoglu is taking charge of Google DeepMind as it tries to keep Gemini competitive with OpenAI and Anthropic.
 
----
-
-**[Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)**
-
-Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.
-
-wired.com • 1h ago
-
----
-
-**[Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)**
-
-As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
-
-blog.google • 19h ago
-
----
-
-**[The currency of the AI age](https://www.axios.com/2026/08/12/ai-futures-compute-cme)**
-
-Axios • 58m ago
-
----
-
-**[AI’s costly buildout complicates the Fed’s inflation fight](https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html)**
-
-Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.
-
-CNBC • 1h ago
-
----
-
-**[AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)**
-
-Blacksmith says revenue has grown more than tenfold over the past year.
-
-TechCrunch • 1h ago
-
----
-
-**[Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)**
-
-Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
-
-X.ai • 19h ago
-
----
-
-**[AI was supposed to destroy jobs. Where’s the carnage?](https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction)**
-
-The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come.
-
-The Guardian • 2h ago
-
----
-
-**[AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)**
-
-The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
-
-BBC • 1d ago
+CNBC • 8h ago
 
 ---
 
@@ -191,7 +133,67 @@ BBC • 1d ago
 
 Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
 
-NPR • 3h ago
+NPR • 4h ago
+
+---
+
+**[Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)**
+
+As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
+
+blog.google • 21h ago
+
+---
+
+**[AI campaign ads put Oregon's deepfake law to the test](https://www.axios.com/local/portland/2026/08/12/oregon-ai-deepfake-election-law)**
+
+Axios • 31m ago
+
+---
+
+**[Douglas County School District embraces AI in teaching and learning](https://www.cbsnews.com/colorado/video/douglas-county-school-district-embraces-ai-in-teaching-and-learning/)**
+
+The Douglas County School District is planning to embrace AI in teaching and learning while concentrating on the responsible use of the technology.
+
+CBS News • 20m ago
+
+---
+
+**[Google DeepMind chief AI officer Lila Ibrahim detasseled corn in Indiana for $1 an hour](https://fortune.com/2026/08/12/she-detasseled-corn-for-1-an-hour-at-14-now-shes-google-deepminds-chief-ai-exec-and-says-being-an-immigrants-daughter-made-her-a-natural-first/)**
+
+Google DeepMind’s Lila Ibrahim had no AI pedigree—she started out with a $1 cornfield job, immigrant parents, and a habit of taking risks others missed.
+
+Fortune • 22m ago
+
+---
+
+**[AI was supposed to destroy jobs. Where’s the carnage?](https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction)**
+
+The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come.
+
+The Guardian • 1h ago
+
+---
+
+**[Introducing Grok Bot](https://x.ai/news/introducing-grok-bot)**
+
+Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
+
+x.ai • 20h ago
+
+---
+
+**[Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)**
+
+Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.
+
+WIRED • 3h ago
+
+---
+
+**[AI Looms Over Software Companies — and the Investors Who Piled Into Them](https://www.bloomberg.com/graphics/2026-ai-private-equity-software/)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -201,7 +203,7 @@ NPR • 3h ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 905 • 💬 914 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 911 • 💬 941 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -209,7 +211,7 @@ NPR • 3h ago
 
 Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
 
-⬆️ 684 • 💬 392 • 2d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 685 • 💬 392 • 2d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -223,7 +225,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 434 • 💬 396 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 438 • 💬 400 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -231,7 +233,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 391 • 💬 447 • 19h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 398 • 💬 463 • 21h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -239,7 +241,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 Step into the interrogation room. Interview AI suspects with your own voice, catch their lies, and accuse the killer to their face. Solve the murder at Blackwood Manor — if you can.
 
-⬆️ 210 • 💬 87 • 2d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
+⬆️ 210 • 💬 88 • 2d ago • [WhoDunnitAI](https://www.whodunnitai.com/)
 
 ---
 
@@ -247,7 +249,15 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 182 • 💬 39 • 10h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 185 • 💬 44 • 11h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+
+---
+
+**[US hires over 2k video gamers as air traffic controllers](https://news.ycombinator.com/item?id=49265879)**
+
+Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
+
+⬆️ 156 • 💬 122 • 14h ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -262,14 +272,6 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 **[The tragedy of the commons, AI edition](https://news.ycombinator.com/item?id=49235011)**
 
 ⬆️ 145 • 💬 117 • 2d ago • [economist.com](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
-
----
-
-**[Tech leaders say AI means less work – staff say they work up to 90 hours a week](https://news.ycombinator.com/item?id=49241559)**
-
-Tech companies are not modelling their own claims of the technology giving people more free time.
-
-⬆️ 139 • 💬 52 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -293,7 +295,7 @@ Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up 
 
 📺 Breaking Points
 
-👁️ 148K • 👍 4K • 💬 544 • ⏱️ 13:12 • 17h ago
+👁️ 148K • 👍 4K • 💬 544 • ⏱️ 13:12 • 18h ago
 
 ---
 
@@ -303,7 +305,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 419K • 👍 10K • 💬 2K • ⏱️ 25:41 • 15h ago
+👁️ 419K • 👍 10K • 💬 2K • ⏱️ 25:41 • 17h ago
 
 ---
 
@@ -333,7 +335,7 @@ See you in Seattle, Portland, Boston, & Philadelphia! https://CrashingOutTour.co
 
 📺 Philip DeFranco
 
-👁️ 368K • 👍 16K • 💬 2K • ⏱️ 28:21 • 14h ago
+👁️ 368K • 👍 16K • 💬 2K • ⏱️ 28:21 • 16h ago
 
 ---
 
@@ -353,7 +355,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 1.1M • 👍 83K • 💬 1K • ⏱️ 0:49 • 21h ago
+👁️ 1.1M • 👍 83K • 💬 1K • ⏱️ 0:49 • 23h ago
 
 ---
 
@@ -373,7 +375,7 @@ Subscribe to Pivot! https://www.youtube.com/@pivot?sub_confirmation=1 As Scott-F
 
 📺 Pivot with Kara Swisher and Scott Galloway
 
-👁️ 59K • 👍 2K • 💬 303 • ⏱️ 56:28 • 23h ago
+👁️ 59K • 👍 2K • 💬 303 • ⏱️ 56:28 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,179 • 16h ago
+⬇️ 0 • ❤️ 1,179 • 18h ago
 
 ---
 
@@ -447,7 +449,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 421 • 5h ago
+⬇️ 39 • ❤️ 421 • 7h ago
 
 ---
 
@@ -459,7 +461,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 383 • 8h ago
+⬇️ 20,376 • ❤️ 383 • 10h ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,928 • 3h ago
+⬇️ 2,521,093 • ❤️ 1,928 • 5h ago
 
 ---
 
@@ -604,7 +606,7 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 83,752 • 24mo ago
+▲ 84 • 💬 7 • ⭐ 83,752 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -646,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 948 • 4h ago
+⭐ 8.3k • 🔱 948 • 6h ago
 
 ---
 
@@ -656,7 +658,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.8k • 🔱 415 • 7h ago
+⭐ 4.8k • 🔱 415 • 9h ago
 
 ---
 
@@ -674,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -684,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.6k • 🔱 489 • 11h ago
+⭐ 2.6k • 🔱 489 • 13h ago
 
 ---
 
@@ -694,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.5k • 🔱 211 • 21h ago
+⭐ 2.5k • 🔱 211 • 22h ago
 
 ---
 
@@ -704,7 +706,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 176 • 16h ago
+⭐ 2.3k • 🔱 176 • 18h ago
 
 ---
 
@@ -714,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 162 • 2h ago
+⭐ 2.1k • 🔱 162 • 4h ago
 
 ---
 
@@ -734,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 257 • 6m ago
+⭐ 2.0k • 🔱 257 • 1h ago
 
 ---
 

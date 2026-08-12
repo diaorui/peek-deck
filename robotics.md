@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T12:10:11.240609+00:00'
+updated: '2026-08-12T13:57:21.843504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 12:10 UTC  
+**Last Updated:** August 12, 2026 at 13:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ We recently explored integrating marker-free robot localisation into a collision
 
 Most stacks work around this with interpolation and manual tuning, then spend months chasing an estimator problem that is really a clock problem underneath. We ran into same thing building sensor nodes for edge VSLAM. Current firmware still leans on external clock to keep camera and IMU aligned. Next revision removes that dependency, each unit disciplines its own clock on the bus instead of trusting one outside reference. Two units in the test setup below, same mechanism scales to more nodes on one bus.
 
-22h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Most stacks work around this with interpolation and manual tuning, then spend mo
 
 Everyday I will share a video with you untill I finish this smart IRONMAN project! Tell me your opinion which color to choose?
 
-22h ago
+1d ago
 
 ---
 
@@ -76,13 +76,13 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-14h ago
+16h ago
 
 ---
 
 **[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hey everyone - I'm getting into the robotic space so any researchers can help me
 
 npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
 
-20h ago
+22h ago
 
 ---
 
 **[UPDATE: We ran the official HumanCLAW benchmark on our Causal Foundation Model (SONNY I). It hit a 98.0% success rate, crushing Google Gemini's 16.8%. Here is how the open-source core enabled it.](https://www.reddit.com/r/robotics/comments/1vlgnm7/update_we_ran_the_official_humanclaw_benchmark_on/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to impro
 
 **[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
 
-The New York Times • 22h ago
+nytimes.com • 1d ago
 
 ---
 
@@ -122,13 +122,13 @@ The New York Times • 22h ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
 **[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -136,23 +136,15 @@ Bloomberg.com • 13h ago
 
 A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
 
-Yahoo Finance • 17h ago
+finance.yahoo.com • 19h ago
 
 ---
 
-**[Are Unitree's humanoid robots worth the hype, or do investors just want in on the sector?](https://www.cnbc.com/video/2026/08/11/humanoid-robots-unitree-ipo-frenzy-hao-hong.html)**
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
 
-Hao Hong of Lotus Asset Management says the extreme 8,000x oversubscription in Unitree Robotics reflects a lack of quality investment opportunities in China’s high-tech manufacturing sector. He noted that current humanoid robot models are mostly used for amusement rather than performing real work – comparing them to robotic arms, which have seen widespread deployment in Chinese factories.
+This system is getting the automated circular economy rolling
 
-CNBC • 1d ago
-
----
-
-**[A Red-Hot Robotics IPO Is 8,000 Times Oversubscribed. SpaceX Drew 4X Demand.](https://247wallst.com/investing/2026/08/11/a-red-hot-robotics-ipo-is-8000-times-oversubscribed-spacex-drew-4x-demand/)**
-
-Investor demand for humanoid robots just shattered records that SpaceX, Snowflake, and Facebook never came close to touching. Here are the five publicly traded robotics stocks best positioned to capture that fever before it cools.
-
-24/7 Wall St. • 20h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -160,7 +152,7 @@ Investor demand for humanoid robots just shattered records that SpaceX, Snowflak
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL.com • 14h ago
+KSL.com • 16h ago
 
 ---
 
@@ -168,7 +160,15 @@ KSL.com • 14h ago
 
 Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-CBS News • 20h ago
+CBS News • 22h ago
+
+---
+
+**[Employment immunity: the quiet revolution of robotics and physical AI](https://www.calcalistech.com/ctechnews/article/h16rzjt8gl)**
+
+As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
+
+calcalistech.com • 6h ago
 
 ---
 
@@ -182,11 +182,11 @@ The Information • 1d ago
 
 ---
 
-**[This New Open-Weight AI Model Is Built for Video and Robots](https://www.cnet.com/tech/services-and-software/ltx-2-5-ai-open-weights-video-robotics-news/)**
+**[FedEx, Amazon pursue expanded use of robotic arms](https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/827221/)**
 
-A new open world model from LTX shows how open-weights models can be used and customized by anyone.
+FedEx has deployed trailer loading systems at a Maryland hub, while Amazon aims to double its robotic arms fleet this year amid an industry push for automation.
 
-CNET • 23h ago
+Supply Chain Dive • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 594K • 👍 17K • 💬 1K • ⏱️ 7:02 • 20h ago
+👁️ 594K • 👍 17K • 💬 1K • ⏱️ 7:02 • 21h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 21K • 👍 223 • 💬 68 • ⏱️ 3:48 • 19h ago
+👁️ 21K • 👍 223 • 💬 68 • ⏱️ 3:48 • 21h ago
 
 ---
 
@@ -228,7 +228,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 19K • 👍 352 • 💬 75 • ⏱️ 7:05 • 20h ago
+👁️ 19K • 👍 352 • 💬 75 • ⏱️ 7:05 • 21h ago
 
 ---
 
@@ -246,7 +246,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 26K • 💬 57 • ⏱️ 8:34 • 20h ago
+👁️ 26K • 💬 57 • ⏱️ 8:34 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Cleo Abram
 
-👁️ 728K • 👍 42K • 💬 555 • ⏱️ 0:32 • 22h ago
+👁️ 728K • 👍 42K • 💬 555 • ⏱️ 0:32 • 1d ago
 
 ---
 

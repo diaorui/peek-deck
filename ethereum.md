@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T12:10:11.237428+00:00'
+updated: '2026-08-12T13:57:21.840204+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 12:10 UTC  
+**Last Updated:** August 12, 2026 at 13:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,912.89
+### $1,910.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +0.3%  
-**30d:** +1.0%  
-**90d:** -14.1%  
-**1y:** -59.8%  
+**24h:** +1.5%  
+**7d:** -0.2%  
+**30d:** +0.5%  
+**90d:** -14.6%  
+**1y:** -60.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 18h ago
+Decrypt • 20h ago
 
 ---
 
@@ -168,11 +168,25 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 ---
 
-**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
+**[Fidelity Adds Staking Payments To Ethereum ETF](https://finance.yahoo.com/markets/crypto/articles/fidelity-adds-staking-payments-ethereum-132400615.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
 
-Fortune • 1h ago
+finance.yahoo.com • 33m ago
+
+---
+
+**[Ethereum Rises 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74565894/ethereum-rises-2-1-crypto-mover)**
+
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Wednesday, August 12, 2026: Crypto prices rise with CPI report on deck](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html)**
+
+Bitcoin opened at $63,547.05 on Wednesday, August 12, 2026, 0.6% lower than Tuesday's opening price. The price of bitcoin moved up to $64,194 by 8:00 a.m. ET. Ethereum opened at $1,881.10 on Wednesday, up 0.5% from Tuesday's opening price. Ethereum moved higher this morning to $1,915.50 as of 8:00 a.m. ET.
+
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -180,7 +194,7 @@ Fortune • 1h ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -188,7 +202,7 @@ CoinDesk • 1d ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
 
-PR Newswire • 1d ago
+PR Newswire • 2d ago
 
 ---
 
@@ -196,7 +210,7 @@ PR Newswire • 1d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -212,23 +226,7 @@ The Block • 1d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
-
-BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
-
-benzinga.com • 1d ago
-
----
-
-**[Ethereum staking hits record high – Will EIP-8363 slow ETH issuance?](https://ambcrypto.com/ethereum-staking-hits-record-high-will-eip-8363-slow-eth-issuance/)**
-
-Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
-
-AMBCrypto • 12h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -242,7 +240,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 257 • 💬 76 • ⏱️ 30:14 • 2h ago
+👁️ 1K • 👍 257 • 💬 76 • ⏱️ 30:14 • 4h ago
 
 ---
 
@@ -252,7 +250,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 41K • 👍 3K • 💬 146 • ⏱️ 10:20 • 17h ago
+👁️ 41K • 👍 3K • 💬 146 • ⏱️ 10:20 • 19h ago
 
 ---
 
@@ -282,7 +280,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 640 • 👍 28 • 💬 2 • ⏱️ 1:18 • 16h ago
+👁️ 640 • 👍 28 • 💬 2 • ⏱️ 1:18 • 18h ago
 
 ---
 
@@ -292,7 +290,7 @@ In this video I break down the current Ethereum price action and provide a clear
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 196 • 💬 6 • ⏱️ 6:31 • 1d ago
+👁️ 3K • 👍 196 • 💬 6 • ⏱️ 6:31 • 2d ago
 
 ---
 
@@ -312,7 +310,7 @@ Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Us
 
 📺 Your Crypto Crew
 
-👁️ 954 • 👍 115 • 💬 18 • ⏱️ 11:41 • 22h ago
+👁️ 954 • 👍 115 • 💬 18 • ⏱️ 11:41 • 23h ago
 
 ---
 
@@ -322,7 +320,7 @@ Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native m
 
 📺 ilme aalim
 
-👁️ 502 • 👍 36 • 💬 43 • ⏱️ 2:08 • 7h ago
+👁️ 502 • 👍 36 • 💬 43 • ⏱️ 2:08 • 9h ago
 
 ---
 
@@ -332,7 +330,7 @@ Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native m
 
 📺 트레이더 세윤TV
 
-👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:57 • 5h ago
+👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:57 • 7h ago
 
 ---
 
