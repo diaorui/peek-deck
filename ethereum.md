@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T13:57:21.840204+00:00'
+updated: '2026-08-12T15:01:04.892445+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 13:57 UTC  
+**Last Updated:** August 12, 2026 at 15:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -0.2%  
-**30d:** +0.5%  
-**90d:** -14.6%  
-**1y:** -60.0%  
+**24h:** +1.1%  
+**7d:** -1.0%  
+**30d:** -0.3%  
+**90d:** -15.3%  
+**1y:** -60.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.96B
+**Market Cap:** $227.52B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.9%
 
 **All-Time Low:** $0.43
-+441889.1%
++435323.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 5d ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -172,13 +172,13 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
 
-finance.yahoo.com • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Ethereum Rises 2.1% -- Crypto Mover](https://www.moomoo.com/news/post/74565894/ethereum-rises-2-1-crypto-mover)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -186,7 +186,7 @@ Moomoo • 1h ago
 
 Bitcoin opened at $63,547.05 on Wednesday, August 12, 2026, 0.6% lower than Tuesday's opening price. The price of bitcoin moved up to $64,194 by 8:00 a.m. ET. Ethereum opened at $1,881.10 on Wednesday, up 0.5% from Tuesday's opening price. Ethereum moved higher this morning to $1,915.50 as of 8:00 a.m. ET.
 
-finance.yahoo.com • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ finance.yahoo.com • 1h ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 2d ago
+coindesk.com • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ PR Newswire • 2d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ The Block • 1d ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -234,23 +234,33 @@ The Motley Fool • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
+
+GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
+
+📺 Lark Davis
+
+👁️ 14K • 👍 650 • 💬 94 • ⏱️ 6:34 • 2d ago
+
+---
+
+**[ETHEREUM: TIME TO LOCK IN](https://www.youtube.com/watch?v=P7co89RhibM)**
+
+The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 5K • 👍 399 • 💬 280 • ⏱️ 19:05 • 15h ago
+
+---
+
 **[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
 Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 257 • 💬 76 • ⏱️ 30:14 • 4h ago
-
----
-
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
-
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
-
-📺 Gareth Soloway
-
-👁️ 41K • 👍 3K • 💬 146 • ⏱️ 10:20 • 19h ago
+👁️ 2K • 👍 438 • 💬 112 • ⏱️ 30:14 • 5h ago
 
 ---
 
@@ -260,17 +270,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 148 • 💬 62 • ⏱️ 54:27 • 2d ago
+👁️ 5K • 👍 149 • 💬 62 • ⏱️ 54:27 • 2d ago
 
 ---
 
-**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
 
-GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
 
-📺 Lark Davis
+📺 Gareth Soloway
 
-👁️ 14K • 👍 647 • 💬 94 • ⏱️ 6:34 • 2d ago
+👁️ 43K • 👍 3K • 💬 151 • ⏱️ 10:20 • 20h ago
+
+---
+
+**[Live Crypto &amp; Gold Psychological Trading 12 Aug  ||  #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=EObCe1JzwFo)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 2K • 👍 271 • 54m ago
 
 ---
 
@@ -280,7 +300,27 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 640 • 👍 28 • 💬 2 • ⏱️ 1:18 • 18h ago
+👁️ 680 • 👍 28 • 💬 2 • ⏱️ 1:18 • 19h ago
+
+---
+
+**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
+
+Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+
+📺 Your Crypto Crew
+
+👁️ 997 • 👍 118 • 💬 18 • ⏱️ 11:41 • 1d ago
+
+---
+
+**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
+
+Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
+
+📺 ilme aalim
+
+👁️ 4K • 👍 168 • 💬 8 • ⏱️ 7:44 • 1d ago
 
 ---
 
@@ -291,46 +331,6 @@ In this video I break down the current Ethereum price action and provide a clear
 📺 More Crypto Online
 
 👁️ 3K • 👍 196 • 💬 6 • ⏱️ 6:31 • 2d ago
-
----
-
-**[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
-
-Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
-
-📺 Aaron Dishner aka Moonin Papa
-
-👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
-
----
-
-**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
-
-Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
-
-📺 Your Crypto Crew
-
-👁️ 954 • 👍 115 • 💬 18 • ⏱️ 11:41 • 23h ago
-
----
-
-**[Ethereum Is Changing Forever    Institutions Were Hiding This! 🤫](https://www.youtube.com/watch?v=N-ezYzRirB8)**
-
-Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native mainnet privacy to attract institutional ...
-
-📺 ilme aalim
-
-👁️ 502 • 👍 36 • 💬 43 • ⏱️ 2:08 • 9h ago
-
----
-
-**[이더리움 여기 돌파하면 다시 상승 출발입니다](https://www.youtube.com/watch?v=QgmD9ETDGOk)**
-
-오늘 이더리움 시황과 단타 관점을 정리한 영상입니다. 이번 영상에서는 - 이더리움 현재 방향성 - 오늘 진입 타점 - 주요 지지·저항 구간 ...
-
-📺 트레이더 세윤TV
-
-👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:57 • 7h ago
 
 ---
 
