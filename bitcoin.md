@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T10:05:09.292001+00:00'
+updated: '2026-08-12T11:22:23.297814+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 10:05 UTC  
+**Last Updated:** August 12, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.3%  
-**7d:** -0.2%  
-**30d:** -1.3%  
+**7d:** -0.3%  
+**30d:** -1.4%  
 **90d:** -18.9%  
 **1y:** -47.9%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,31 +105,31 @@ Rank #1
 
 Last year I bought Bitcoin at $120K when everyone was saying it was heading to $200K. Well, shortly after it hit $126K and then crashed. Has this happened to anyone else — buying near a top in a previous cycle? What did you do? I'm buying the dip.
 
-9h ago
+10h ago
 
 ---
 
 **[The guy you convinced to buy bitcoin at $126K and you with a cost basis of $10K](https://www.reddit.com/r/Bitcoin/comments/1vlf7ap/the_guy_you_convinced_to_buy_bitcoin_at_126k_and/)**
 
-22h ago
+23h ago
 
 ---
 
 **[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
 
-7h ago
+9h ago
 
 ---
 
 **[How corporations like McDonalds benefit from our rigged theft-based monetary system](https://www.reddit.com/r/Bitcoin/comments/1vlv7pk/how_corporations_like_mcdonalds_benefit_from_our/)**
 
-12h ago
+13h ago
 
 ---
 
 **[If there’s ever a button to smash, this would be the one.](https://www.reddit.com/r/Bitcoin/comments/1vlldnl/if_theres_ever_a_button_to_smash_this_would_be/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Last year I bought Bitcoin at $120K when everyone was saying it was heading to $
 
 Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 14h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime) • 15h ago
 
 ---
 
@@ -145,25 +145,25 @@ Public companies are increasingly borrowing against their bitcoin holdings to fu
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
+
+Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
+
+CoinDesk • 58m ago
+
+---
+
 **[Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure](https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html)**
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
-**[Bitcoin price news: BTC stuck at $63,000 as ETF inflows offset selling; CPI inflation looms](https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move)**
+**[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data](https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data-cSU6m9nHd1C5hwt1mxFU?mod=bar_RHF)**
 
-Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.
-
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin Falls on Geopolitical Uncertainty, Jitters Ahead of Inflation Data](https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/bitcoin-falls-on-geopolitical-uncertainty-jitters-ahead-of-inflation-data-cSU6m9nHd1C5hwt1mxFU?modCode=hp_LEDE_C_LC_1)**
-
-Barron's • 8m ago
+Barron's • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ Barron's • 8m ago
 
 Bitcoin’s cumulative Longs & Shorts Delta has fallen from more than $400 million to $226 million, a decline of roughly 44%, according to analyst Ardi. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[On the Eve of CPI: Bitcoin Options Tug-of-War and On-Chain Accumulation Signals](https://www.moomoo.com/news/post/74544073/on-the-eve-of-cpi-bitcoin-options-tug-of-war)**
 
-Moomoo • 1h ago
+moomoo.com • 3h ago
 
 ---
 
@@ -185,31 +185,23 @@ Moomoo • 1h ago
 
 The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares](https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares)**
+**[Cathie Wood Calls Bitcoin 'Critical' Financial Infrastructure: 'Those Securing It Should Have Trusted Acc](https://www.benzinga.com/crypto/cryptocurrency/26/08/61133395/cathie-wood-bitcoin-critical-financial-infrastructure-ai-models)**
 
-The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC
+Veteran investor Cathie Wood voiced her support on Tuesday, August 11, for Bitcoin Policy's open letter, which urges AI labs to aid &quot;open-source defenders.&quot;
 
-CoinDesk • 1d ago
-
----
-
-**[Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus](https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/)**
-
-The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.
-
-Fortune • 1d ago
+benzinga.com • 3h ago
 
 ---
 
-**[BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit](https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit)**
+**[The First Spot Bitcoin ETF Is Closing Down. Here's Why I'm Not Concerned About Bitcoin Right Now.](https://www.fool.com/investing/2026/08/12/the-first-spot-bitcoin-etf-is-closing-down-heres-w/)**
 
-The reward aims to recover Bitcoin stolen as a result of BTCPay exploit after attackers gained access to connected LND wallets.
+The Hashdex Bitcoin ETF is closing, but that shouldn't change Bitcoin HODLers' views.
 
-Decrypt • 12h ago
+The Motley Fool • 12m ago
 
 ---
 
@@ -217,7 +209,15 @@ Decrypt • 12h ago
 
 Strategy holds nearly a million Bitcoin while trading at a fraction of last year's price, and the question dividing Wall Street is whether the capital-markets engine that makes it compelling is the same one that could eventually break it.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 18h ago
+
+---
+
+**[BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit](https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit)**
+
+The reward aims to recover Bitcoin stolen as a result of BTCPay exploit after attackers gained access to connected LND wallets.
+
+Decrypt • 14h ago
 
 ---
 
@@ -267,34 +267,6 @@ Notice of ICANN .bitcoin TLD community application
 
 ---
 
-**[Show HN: I built an economy designed to crash](https://news.ycombinator.com/item?id=49180864)**
-
-⬆️ 3 • 💬 0 • 6d ago • [glaxom.netlify.app](https://glaxom.netlify.app)
-
----
-
-**[Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://news.ycombinator.com/item?id=49208535)**
-
-Last week we released version 0.2 of pgrust. This release was all about performance. It’s 10x faster than the previous version of pgrust. On OLTP benchmarks, pgrust is 30% faster than Postgres, and on Clickbench, Clickhouse’s benchmark for analytical databases, pgrust is 300x faster than Postgres. It’s even ahead of Clickhouse! The query engine is […]
-
-⬆️ 336 • 💬 176 • 4d ago • [malisper.me](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
-
----
-
-**[Show HN: HN Hiring – Search and Filter Who Is Hiring](https://news.ycombinator.com/item?id=49230662)**
-
-⬆️ 3 • 💬 1 • 2d ago • [hnhiring.azuanz.com](https://hnhiring.azuanz.com)
-
----
-
-**[Show HN: Kernelspace- interactive course on systems programming for LLM Serving](https://news.ycombinator.com/item?id=49266750)**
-
-From cache lines to continuous batching. The interactive course for backend engineers. No prior systems knowledge required.
-
-⬆️ 2 • 💬 0 • 8h ago • [kernelspace.naigap.com](https://kernelspace.naigap.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -305,7 +277,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 90 • ⏱️ 11:09 • 11h ago
+👁️ 27K • 👍 1K • 💬 90 • ⏱️ 11:09 • 12h ago
 
 ---
 
@@ -315,7 +287,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 10K • 👍 1K • 💬 839 • ⏱️ 9:58 • 13h ago
+👁️ 10K • 👍 1K • 💬 839 • ⏱️ 9:58 • 14h ago
 
 ---
 
@@ -335,7 +307,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 364 • ⏱️ 26:42 • 14h ago
+👁️ 4K • 👍 364 • ⏱️ 26:42 • 15h ago
 
 ---
 
@@ -345,7 +317,7 @@ After depreciation it costs $90000 to mine a single Bitcoin, and Bitcoin isn't t
 
 📺 The Wolf Of All Streets
 
-👁️ 648 • 👍 7 • ⏱️ 0:50 • 3h ago
+👁️ 648 • 👍 7 • ⏱️ 0:50 • 4h ago
 
 ---
 
@@ -365,7 +337,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 15h ago
+👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -375,7 +347,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 31K • 👍 3K • 💬 3 • ⏱️ 19:18 • 22h ago
+👁️ 31K • 👍 3K • 💬 3 • ⏱️ 19:18 • 1d ago
 
 ---
 
@@ -385,7 +357,7 @@ David Duong on when he thinks Bitcoin buyers come back David's read is that the 
 
 📺 The Wolf Of All Streets
 
-👁️ 852 • 👍 8 • ⏱️ 0:32 • 5h ago
+👁️ 852 • 👍 8 • ⏱️ 0:32 • 7h ago
 
 ---
 
@@ -395,7 +367,7 @@ Estoy equivocado con Bitcoin? El precio se está debilitando y cada vez más tra
 
 📺 BITLOBO TRADING
 
-👁️ 4K • 👍 773 • 💬 7 • ⏱️ 47:41 • 16h ago
+👁️ 4K • 👍 773 • 💬 7 • ⏱️ 47:41 • 17h ago
 
 ---
 

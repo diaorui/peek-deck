@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T10:05:09.297368+00:00'
+updated: '2026-08-12T11:22:23.303935+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 10:05 UTC  
+**Last Updated:** August 12, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.4%  
-**30d:** +1.1%  
+**24h:** +1.1%  
+**7d:** +0.3%  
+**30d:** +1.0%  
 **90d:** -14.1%  
-**1y:** -59.7%  
+**1y:** -59.8%  
 
 ---
 
@@ -67,6 +67,14 @@ No max supply
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 12, 2026](https://www.reddit.com/r/ethereum/comments/1vm4mto/daily_general_discussion_august_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+6h ago
+
+---
 
 **[Daily General Discussion August 11, 2026](https://www.reddit.com/r/ethereum/comments/1vl7z30/daily_general_discussion_august_11_2026/)**
 
@@ -140,14 +148,6 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 ---
 
-**[I rebuilt OGame on EVM, fully open source](https://www.reddit.com/r/ethereum/comments/1vhcq8d/i_rebuilt_ogame_on_evm_fully_open_source/)**
-
-Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
-
-5d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -165,6 +165,14 @@ Decrypt • 16h ago
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
 24/7 Wall St. • 2d ago
+
+---
+
+**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 36m ago
 
 ---
 
@@ -200,11 +208,19 @@ The Block • 1d ago
 
 ---
 
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
+
+Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Bitcoin Drops 2% as Ethereum, XRP, Dogecoin Slide Ahead of Crucial Inflation Data](https://www.benzinga.com/crypto/cryptocurrency/26/08/61088498/bitcoin-drops-2-as-ethereum-xrp-dogecoin-slide-ahead-of-crucial-inflation-data)**
 
 BTC fell 2%, breaking key levels as Strategy sold 1,690 BTC and traders prepared for inflation data. Prominent trader rates ETH as 'hold' and Solana as 'beta bet'.
 
-Benzinga • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -212,23 +228,7 @@ Benzinga • 1d ago
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 10h ago
-
----
-
-**[Current price of Ethereum for August 11, 2026](https://fortune.com/article/price-of-ethereum-08-11-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 23h ago
-
----
-
-**[Crypto News: Pepeto Presale Advances Toward Binance as the Ethereum Price Prediction Targets $6,731](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-advances-toward-binance-as-the-ethereum-price-prediction-targets-6-731-1036440956)**
-
-DUBAI, United Arab Emirates, Aug.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto is back in the crypto news this week, and for a clear reason: work on the ...
-
-markets.businessinsider.com • 19h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 15h ago
+👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -262,7 +262,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 145 • 💬 62 • ⏱️ 54:27 • 1d ago
+👁️ 5K • 👍 145 • 💬 62 • ⏱️ 54:27 • 2d ago
 
 ---
 
@@ -272,7 +272,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 361 • 👍 85 • 💬 48 • ⏱️ 30:14 • 44m ago
+👁️ 361 • 👍 85 • 💬 48 • ⏱️ 30:14 • 2h ago
 
 ---
 
@@ -282,7 +282,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 606 • 👍 26 • 💬 2 • ⏱️ 1:18 • 14h ago
+👁️ 606 • 👍 26 • 💬 2 • ⏱️ 1:18 • 15h ago
 
 ---
 
@@ -302,7 +302,7 @@ Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native m
 
 📺 ilme aalim
 
-👁️ 411 • 👍 29 • 💬 32 • ⏱️ 2:08 • 5h ago
+👁️ 411 • 👍 29 • 💬 32 • ⏱️ 2:08 • 6h ago
 
 ---
 
@@ -322,7 +322,7 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 📺 트레이더 세윤TV
 
-👁️ 977 • 👍 4 • 💬 1 • ⏱️ 0:57 • 3h ago
+👁️ 977 • 👍 4 • 💬 1 • ⏱️ 0:57 • 4h ago
 
 ---
 

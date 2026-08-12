@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-12T10:05:09.284141+00:00'
+updated: '2026-08-12T11:22:23.289077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 12, 2026 at 10:05 UTC  
+**Last Updated:** August 12, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
 
-11h ago
+12h ago
 
 ---
 
@@ -53,11 +53,11 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 ---
 
-**[What could actually help with the deepfake problem?](https://www.reddit.com/r/artificial/comments/1vm660f/what_could_actually_help_with_the_deepfake_problem/)**
+**[Intel LLM-Scaler ready with Muse Glimmer support, other LLMs & features](https://www.reddit.com/r/artificial/comments/1vmaplb/intel_llmscaler_ready_with_muse_glimmer_support/)**
 
-We have all seen deepfakes of famous people and leaders but I never really thought about what it could mean for everyday people until recently. A month ago someone tried to create a video of one of my coworkers. It was very scary for everyone involved because we didn't realize how easily people could believe it was real. This situation made a few of us start looking into deepfakes seriously and trying to understand what can actually be done to deal with them. It made me wonder if something like face recognition could also be useful in finding out if a video has been changed. While looking into this I also found some tools like DeepFace, Reality Defender, Pindrop Pulse and others that are working on identifying AI-generated or altered content. From what I know these tools are mainly used for identifying and checking faces. So now I am a bit confused about what works best. If anyone here works with this kind of technology or knows more, about it I would really like to learn how this works and what you think is the way to stay ahead as deepfakes become more advanced.
+Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack
 
-3h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 32m ago
 
 ---
 
@@ -65,45 +65,15 @@ We have all seen deepfakes of famous people and leaders but I never really thoug
 
 Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
 
-5h ago
+6h ago
 
 ---
 
-**[Are AI transparency rules going to slow enterprise AI adoption—or make it safer to scale?](https://www.reddit.com/r/artificial/comments/1vm66ca/are_ai_transparency_rules_going_to_slow/)**
+**[What could actually help with the deepfake problem?](https://www.reddit.com/r/artificial/comments/1vm660f/what_could_actually_help_with_the_deepfake_problem/)**
 
-The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems. This brings up a question for businesses using AI that creates content and AI helpers. Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it? Do having clearer rules make leaders feel better about allowing AI to be used? For people who work with AI in companies: Have the rules stopped things from moving, helped as a good guide, or just been extra paperwork so far? What part of managing AI do you think companies are not paying attention to?
+We have all seen deepfakes of famous people and leaders but I never really thought about what it could mean for everyday people until recently. A month ago someone tried to create a video of one of my coworkers. It was very scary for everyone involved because we didn't realize how easily people could believe it was real. This situation made a few of us start looking into deepfakes seriously and trying to understand what can actually be done to deal with them. It made me wonder if something like face recognition could also be useful in finding out if a video has been changed. While looking into this I also found some tools like DeepFace, Reality Defender, Pindrop Pulse and others that are working on identifying AI-generated or altered content. From what I know these tools are mainly used for identifying and checking faces. So now I am a bit confused about what works best. If anyone here works with this kind of technology or knows more, about it I would really like to learn how this works and what you think is the way to stay ahead as deepfakes become more advanced.
 
-3h ago
-
----
-
-**[OpenAI Presence packages policies, evaluations and human escalation around enterprise AI agents](https://www.reddit.com/r/artificial/comments/1vm9bwk/openai_presence_packages_policies_evaluations_and/)**
-
-OpenAI has introduced Presence, an enterprise product for deploying voice and chat agents across workflows such as billing support, insurance claims and employee IT requests. The notable part is less the underlying model and more the operational layer. Each agent is scoped to a specific job and receives only the knowledge and system access required for it. Organizations define approved actions, policies and escalation conditions, while simulations and evaluations test behavior before deployment. After launch, production sessions and escalations can reveal gaps. Codex can propose changes, but teams test and approve them before a controlled rollout. Presence is currently limited to eligible enterprise customers and isn't self-service. OpenAI reports that its own phone-support deployment resolves 75% of inbound issues without human assistance, although that is a vendor-reported result rather than an independent evaluation. For production agents, which evidence would you consider essential: audit logs, reproducible evaluations, approval records, incident reports, or something else? Source: https://openai.com/index/introducing-openai-presence/
-
-31m ago
-
----
-
-**[Stealing Reasoning Traces from Proprietary LLM APIs](https://www.reddit.com/r/artificial/comments/1vm4i7d/stealing_reasoning_traces_from_proprietary_llm/)**
-
-Proprietary reasoning can be recovered from its encrypted traces. Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext, without ever attacking the stronger model directly or triggering its anti-distillation safeguards.
-
-🔗 [stolen-thoughts.com](https://stolen-thoughts.com) • 5h ago
-
----
-
-**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
-
-17h ago
-
----
-
-**[Meta AI can now connect to email and calendars, create slides, and run recurring tasks](https://www.reddit.com/r/artificial/comments/1vm4723/meta_ai_can_now_connect_to_email_and_calendars/)**
-
-Meta’s Muse Spark 1.1 update moves Meta AI beyond answering questions toward carrying out ongoing tasks. According to Meta, it can now connect with email and calendar apps, conduct web research, produce slide decks, and deliver recurring outputs such as daily briefings or weekly plans. Users can also redirect its work while a report or presentation is being generated. The rollout began in selected markets through the Meta AI app and meta.ai, with additional countries and WhatsApp support planned. The interesting part isn’t another benchmark claim—it’s the shift from one-off conversations to persistent, cross-app activity. That makes permission controls, audit trails, error recovery, and easy revocation increasingly important. For people who have received the rollout: does it clearly show what information each task can access and what actions it may take? Official announcement: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/
-
-5h ago
+4h ago
 
 ---
 
@@ -111,7 +81,37 @@ Meta’s Muse Spark 1.1 update moves Meta AI beyond answering questions toward c
 
 Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.
 
-🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 2h ago
+🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 3h ago
+
+---
+
+**[OpenAI Presence packages policies, evaluations and human escalation around enterprise AI agents](https://www.reddit.com/r/artificial/comments/1vm9bwk/openai_presence_packages_policies_evaluations_and/)**
+
+OpenAI has introduced Presence, an enterprise product for deploying voice and chat agents across workflows such as billing support, insurance claims and employee IT requests. The notable part is less the underlying model and more the operational layer. Each agent is scoped to a specific job and receives only the knowledge and system access required for it. Organizations define approved actions, policies and escalation conditions, while simulations and evaluations test behavior before deployment. After launch, production sessions and escalations can reveal gaps. Codex can propose changes, but teams test and approve them before a controlled rollout. Presence is currently limited to eligible enterprise customers and isn't self-service. OpenAI reports that its own phone-support deployment resolves 75% of inbound issues without human assistance, although that is a vendor-reported result rather than an independent evaluation. For production agents, which evidence would you consider essential: audit logs, reproducible evaluations, approval records, incident reports, or something else? Source: https://openai.com/index/introducing-openai-presence/
+
+1h ago
+
+---
+
+**[This technology is a little creepy tbh](https://www.reddit.com/r/artificial/comments/1vmb5ig/this_technology_is_a_little_creepy_tbh/)**
+
+Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
+
+10m ago
+
+---
+
+**[Are AI transparency rules going to slow enterprise AI adoption—or make it safer to scale?](https://www.reddit.com/r/artificial/comments/1vm66ca/are_ai_transparency_rules_going_to_slow/)**
+
+The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems. This brings up a question for businesses using AI that creates content and AI helpers. Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it? Do having clearer rules make leaders feel better about allowing AI to be used? For people who work with AI in companies: Have the rules stopped things from moving, helped as a good guide, or just been extra paperwork so far? What part of managing AI do you think companies are not paying attention to?
+
+4h ago
+
+---
+
+**[NVIDIA is building its next-gen Nemotron 4 family to compete directly with leading Chinese open models and secure the open-weight crown for the U.S. The largest version will have at least 1 trillion parameters, according to original reporting from The Information](https://www.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/)**
+
+19h ago
 
 ---
 
@@ -119,55 +119,47 @@ Common wisdom says to put a strong model like Fable in charge and let cheaper mo
 
 ## Google News: "ai"
 
+**[NIMBYism Could Save AI From a Bust Like the Dot-Com Era](https://www.bloomberg.com/opinion/articles/2026-08-12/nimbyism-could-save-ai-from-a-bust-like-the-dot-com-era)**
+
+Bloomberg.com • 52m ago
+
+---
+
+**[Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)**
+
+Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.
+
+wired.com • 52m ago
+
+---
+
 **[Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)**
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-blog.google • 17h ago
+blog.google • 19h ago
 
 ---
 
-**[NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)**
+**[The currency of the AI age](https://www.axios.com/2026/08/12/ai-futures-compute-cme)**
 
-The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.
-
-NVIDIA Blog • 21h ago
+Axios • 10m ago
 
 ---
 
-**[Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China](https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html)**
+**[AI’s costly buildout complicates the Fed’s inflation fight](https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html)**
 
-Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?
+Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.
 
-CNBC • 13h ago
-
----
-
-**[Nvidia’s Show of Financial Force Soothes Jittery Credit Markets](https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets)**
-
-Six of the biggest names in finance are helping Nvidia Corp. ease some of the investor anxiety that’s been building for weeks over its swelling commitments to backstop the artificial intelligence boom.
-
-Bloomberg.com • 8h ago
+CNBC • 22m ago
 
 ---
 
-**[How I use AI: BNY CEO and OpenAI board member Robin Vince](https://www.axios.com/2026/08/12/bny-ceo-robin-vince-openai-board-how-he-uses-ai)**
+**[AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)**
 
-Axios • 30m ago
+Blacksmith says revenue has grown more than tenfold over the past year.
 
----
-
-**[Exclusive | Bank of America to Deploy $250 Billion to Bolster AI and Energy Infrastructure](https://www.wsj.com/finance/banking/bank-of-america-to-deploy-250-billion-to-bolster-ai-and-energy-infrastructure-d8471732)**
-
-WSJ • 1h ago
-
----
-
-**[AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice)**
-
-Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
-
-npr.org • 1h ago
+TechCrunch • 22m ago
 
 ---
 
@@ -175,7 +167,15 @@ npr.org • 1h ago
 
 Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
 
-X.ai • 17h ago
+X.ai • 18h ago
+
+---
+
+**[AI was supposed to destroy jobs. Where’s the carnage?](https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction)**
+
+The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come.
+
+The Guardian • 1h ago
 
 ---
 
@@ -183,13 +183,15 @@ X.ai • 17h ago
 
 The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
 
-BBC • 21h ago
+BBC • 23h ago
 
 ---
 
-**[A.I. Agents Are Taking Entire Online Courses for Cheating Students](https://www.nytimes.com/2026/08/10/us/ai-cheating-online-degrees.html)**
+**[AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice)**
 
-The New York Times • 2d ago
+Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
+
+NPR • 2h ago
 
 ---
 
@@ -199,7 +201,7 @@ The New York Times • 2d ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 901 • 💬 910 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 905 • 💬 914 • 1d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -215,13 +217,13 @@ Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents wit
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 634 • 💬 598 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 636 • 💬 598 • 1d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 433 • 💬 396 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 434 • 💬 396 • 1d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -229,7 +231,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 382 • 💬 433 • 17h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 391 • 💬 447 • 18h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -245,7 +247,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 177 • 💬 39 • 7h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 182 • 💬 39 • 9h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
@@ -267,7 +269,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 Tech companies are not modelling their own claims of the technology giving people more free time.
 
-⬆️ 137 • 💬 51 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
+⬆️ 139 • 💬 52 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
 
 ---
 
@@ -281,7 +283,7 @@ Meta CEO Mark Zuckerberg details his vision for the future of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 64K • 👍 1K • 💬 592 • ⏱️ 3:31 • 22h ago
+👁️ 64K • 👍 1K • 💬 592 • ⏱️ 3:31 • 23h ago
 
 ---
 
@@ -291,7 +293,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 396K • 👍 9K • 💬 2K • ⏱️ 25:41 • 13h ago
+👁️ 396K • 👍 9K • 💬 2K • ⏱️ 25:41 • 15h ago
 
 ---
 
@@ -341,7 +343,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 1.1M • 👍 81K • 💬 1K • ⏱️ 0:49 • 19h ago
+👁️ 1.1M • 👍 81K • 💬 1K • ⏱️ 0:49 • 21h ago
 
 ---
 
@@ -361,7 +363,7 @@ Advisor to President Donald Trump David Sacks argues America is leading China in
 
 📺 Fox Business
 
-👁️ 12K • 👍 241 • 💬 153 • ⏱️ 6:10 • 23h ago
+👁️ 12K • 👍 241 • 💬 153 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,169 • 14h ago
+⬇️ 0 • ❤️ 1,169 • 15h ago
 
 ---
 
@@ -433,7 +435,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,798,796 • ❤️ 1,230 • 2d ago
+⬇️ 6,798,796 • ❤️ 1,230 • 3d ago
 
 ---
 
@@ -457,7 +459,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 386 • 3h ago
+⬇️ 39 • ❤️ 386 • 5h ago
 
 ---
 
@@ -469,7 +471,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 374 • 6h ago
+⬇️ 20,376 • ❤️ 374 • 7h ago
 
 ---
 
@@ -481,7 +483,7 @@ LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device de
 
 `text-generation` `2.7B`
 
-⬇️ 93,668 • ❤️ 561 • 4d ago
+⬇️ 93,668 • ❤️ 561 • 5d ago
 
 ---
 
@@ -493,7 +495,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,918 • 1h ago
+⬇️ 2,521,093 • ❤️ 1,918 • 2h ago
 
 ---
 
@@ -644,7 +646,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 946 • 2h ago
+⭐ 8.3k • 🔱 946 • 3h ago
 
 ---
 
@@ -654,7 +656,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.8k • 🔱 415 • 5h ago
+⭐ 4.8k • 🔱 415 • 6h ago
 
 ---
 
@@ -672,7 +674,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 58s ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -682,7 +684,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.6k • 🔱 490 • 9h ago
+⭐ 2.6k • 🔱 490 • 10h ago
 
 ---
 
@@ -692,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.5k • 🔱 211 • 18h ago
+⭐ 2.5k • 🔱 211 • 20h ago
 
 ---
 
@@ -702,7 +704,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 176 • 14h ago
+⭐ 2.3k • 🔱 176 • 16h ago
 
 ---
 
@@ -712,7 +714,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 162 • 19m ago
+⭐ 2.1k • 🔱 162 • 1h ago
 
 ---
 
@@ -732,7 +734,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 256 • 9m ago
+⭐ 2.0k • 🔱 256 • 1h ago
 
 ---
 
