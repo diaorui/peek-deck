@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-12T11:22:23.289077+00:00'
+updated: '2026-08-12T12:10:11.222810+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 12, 2026 at 11:22 UTC  
+**Last Updated:** August 12, 2026 at 12:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
 
-12h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 32m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Intel's LLM-Scaler project that was born out of their Project Battlematrix initi
 
 Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol.
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Just curious if it can purposely make those old body morphing videos that were d
 
 We have all seen deepfakes of famous people and leaders but I never really thought about what it could mean for everyday people until recently. A month ago someone tried to create a video of one of my coworkers. It was very scary for everyone involved because we didn't realize how easily people could believe it was real. This situation made a few of us start looking into deepfakes seriously and trying to understand what can actually be done to deal with them. It made me wonder if something like face recognition could also be useful in finding out if a video has been changed. While looking into this I also found some tools like DeepFace, Reality Defender, Pindrop Pulse and others that are working on identifying AI-generated or altered content. From what I know these tools are mainly used for identifying and checking faces. So now I am a bit confused about what works best. If anyone here works with this kind of technology or knows more, about it I would really like to learn how this works and what you think is the way to stay ahead as deepfakes become more advanced.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ We have all seen deepfakes of famous people and leaders but I never really thoug
 
 Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.
 
-🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 3h ago
+🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Common wisdom says to put a strong model like Fable in charge and let cheaper mo
 
 OpenAI has introduced Presence, an enterprise product for deploying voice and chat agents across workflows such as billing support, insurance claims and employee IT requests. The notable part is less the underlying model and more the operational layer. Each agent is scoped to a specific job and receives only the knowledge and system access required for it. Organizations define approved actions, policies and escalation conditions, while simulations and evaluations test behavior before deployment. After launch, production sessions and escalations can reveal gaps. Codex can propose changes, but teams test and approve them before a controlled rollout. Presence is currently limited to eligible enterprise customers and isn't self-service. OpenAI reports that its own phone-support deployment resolves 75% of inbound issues without human assistance, although that is a vendor-reported result rather than an independent evaluation. For production agents, which evidence would you consider essential: audit logs, reproducible evaluations, approval records, incident reports, or something else? Source: https://openai.com/index/introducing-openai-presence/
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ OpenAI has introduced Presence, an enterprise product for deploying voice and ch
 
 Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
 
-10m ago
+57m ago
 
 ---
 
@@ -105,7 +105,7 @@ Samsung’s Ballie is an AI-powered home robot designed to move around a house, 
 
 The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems. This brings up a question for businesses using AI that creates content and AI helpers. Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it? Do having clearer rules make leaders feel better about allowing AI to be used? For people who work with AI in companies: Have the rules stopped things from moving, helped as a good guide, or just been extra paperwork so far? What part of managing AI do you think companies are not paying attention to?
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ The new rules from the EU about making AI more open and clear have started to be
 
 **[NIMBYism Could Save AI From a Bust Like the Dot-Com Era](https://www.bloomberg.com/opinion/articles/2026-08-12/nimbyism-could-save-ai-from-a-bust-like-the-dot-com-era)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bloomberg.com • 52m ago
 
 Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.
 
-wired.com • 52m ago
+wired.com • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ blog.google • 19h ago
 
 **[The currency of the AI age](https://www.axios.com/2026/08/12/ai-futures-compute-cme)**
 
-Axios • 10m ago
+Axios • 58m ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 10m ago
 
 Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.
 
-CNBC • 22m ago
+CNBC • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 22m ago
 
 Blacksmith says revenue has grown more than tenfold over the past year.
 
-TechCrunch • 22m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ TechCrunch • 22m ago
 
 Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7.
 
-X.ai • 18h ago
+X.ai • 19h ago
 
 ---
 
@@ -175,7 +175,7 @@ X.ai • 18h ago
 
 The AI jobs apocalypse never showed up. Still, jobs are changing and economists expect more to come.
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 1h ago
 
 The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ BBC • 23h ago
 
 Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 391 • 💬 447 • 18h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 391 • 💬 447 • 19h ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -247,7 +247,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 182 • 💬 39 • 9h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 182 • 💬 39 • 10h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
@@ -283,7 +283,17 @@ Meta CEO Mark Zuckerberg details his vision for the future of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 64K • 👍 1K • 💬 592 • ⏱️ 3:31 • 23h ago
+👁️ 65K • 👍 1K • 💬 630 • ⏱️ 3:31 • 1d ago
+
+---
+
+**[YOU WILL PAY For Inevitable AI Bailout](https://www.youtube.com/watch?v=GjBJLdQ7uRI)**
+
+Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up For 30 Day Free BP Trial: ...
+
+📺 Breaking Points
+
+👁️ 148K • 👍 4K • 💬 544 • ⏱️ 13:12 • 17h ago
 
 ---
 
@@ -293,17 +303,7 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 396K • 👍 9K • 💬 2K • ⏱️ 25:41 • 15h ago
-
----
-
-**[AI goes on a hacking spree | The Global Story](https://www.youtube.com/watch?v=vNV0v11Era4)**
-
-In the last few weeks, three separate tech companies - OpenAI, Anthropic, and Meta - have all disclosed that their AI models went ...
-
-📺 BBC News
-
-👁️ 172K • 👍 3K • 💬 700 • ⏱️ 24:32 • 1d ago
+👁️ 419K • 👍 10K • 💬 2K • ⏱️ 25:41 • 15h ago
 
 ---
 
@@ -313,17 +313,7 @@ Meta, the company behind Facebook and Instagram, has released a free artificial 
 
 📺 PBS NewsHour
 
-👁️ 65K • 👍 662 • ⏱️ 6:43 • 1d ago
-
----
-
-**[‘We’re giving PSYCHOPATHS NUKES!’ - Experts on rogue AI hacks](https://www.youtube.com/watch?v=bwuRmNZ68Tc)**
-
-AI is increasingly being used to find vulnerabilities, exploit networks and carry out cyberattacks - but how autonomous are these ...
-
-📺 Channel 4 News
-
-👁️ 54K • 👍 995 • 💬 473 • ⏱️ 32:40 • 1d ago
+👁️ 66K • 👍 680 • ⏱️ 6:43 • 1d ago
 
 ---
 
@@ -333,7 +323,27 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 25K • 👍 934 • 💬 146 • ⏱️ 14:41 • 1d ago
+👁️ 26K • 👍 936 • 💬 147 • ⏱️ 14:41 • 1d ago
+
+---
+
+**[The AI Slop Problem is Bigger Than You Think](https://www.youtube.com/watch?v=_Nvw2LEZJgs)**
+
+See you in Seattle, Portland, Boston, & Philadelphia! https://CrashingOutTour.com Try ZipRecruiter for free at ...
+
+📺 Philip DeFranco
+
+👁️ 368K • 👍 16K • 💬 2K • ⏱️ 28:21 • 14h ago
+
+---
+
+**[Honest Government Ad | Ai Data Centres](https://www.youtube.com/watch?v=kON2ZI2BNj8)**
+
+The Government™ made an ad about Ai Data Centres, and it's surprisingly honest and informative. Help us to keep making ...
+
+📺 thejuicemedia
+
+👁️ 116K • 👍 18K • 💬 2K • ⏱️ 3:15 • 1d ago
 
 ---
 
@@ -343,7 +353,7 @@ shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Th
 
 📺 Danno Cal Drawings
 
-👁️ 1.1M • 👍 81K • 💬 1K • ⏱️ 0:49 • 21h ago
+👁️ 1.1M • 👍 83K • 💬 1K • ⏱️ 0:49 • 21h ago
 
 ---
 
@@ -353,27 +363,17 @@ Mahadev #LordShiva #Shiva #HarHarMahadev #OmNamahShivaya #Adiyogi #ShivBhakt #Ma
 
 📺 Telugu stories world 
 
-👁️ 145K • 👍 1K • 💬 3 • ⏱️ 0:14 • 2d ago
+👁️ 146K • 👍 1K • 💬 3 • ⏱️ 0:14 • 2d ago
 
 ---
 
-**[&#39;WE ARE WAY AHEAD&#39;: Trump advisor says America leads China in AI](https://www.youtube.com/watch?v=2pAR19Icbx8)**
+**[Kara Swisher on Zuckerberg&#39;s New AI Manifesto: &quot;He&#39;s in Desperate Need of an Editor&quot; | Pivot](https://www.youtube.com/watch?v=RupPxZkm1Nk)**
 
-Advisor to President Donald Trump David Sacks argues America is leading China in the artificial intelligence race and discusses ...
+Subscribe to Pivot! https://www.youtube.com/@pivot?sub_confirmation=1 As Scott-Free August rolls on, Kara is joined by "Hard ...
 
-📺 Fox Business
+📺 Pivot with Kara Swisher and Scott Galloway
 
-👁️ 12K • 👍 241 • 💬 153 • ⏱️ 6:10 • 1d ago
-
----
-
-**[US TikToker vandalises AI-powered cameras to protest ‘mass surveillance’](https://www.youtube.com/watch?v=2Dm-c64v8TY)**
-
-This TikToker films himself defacing AI-powered public cameras in the US to protest against “mass surveillance.” “Nomark Project” ...
-
-📺 TRT World
-
-👁️ 83K • 👍 4K • 💬 181 • ⏱️ 0:50 • 1d ago
+👁️ 59K • 👍 2K • 💬 303 • ⏱️ 56:28 • 23h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 59,368 • ❤️ 3,650 • 1d ago
+⬇️ 59,368 • ❤️ 3,665 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,169 • 15h ago
+⬇️ 0 • ❤️ 1,179 • 16h ago
 
 ---
 
@@ -413,7 +413,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 672 • 3d ago
+⬇️ 0 • ❤️ 676 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,048,685 • ❤️ 3,191 • 11d ago
+⬇️ 1,048,685 • ❤️ 3,198 • 11d ago
 
 ---
 
@@ -435,19 +435,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,798,796 • ❤️ 1,230 • 3d ago
-
----
-
-**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
-
-*Moonshot AI*
-
-Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
-
-`image-text-to-text` `2779.9B`
-
-⬇️ 1,565,484 • ❤️ 10,548 • 15d ago
+⬇️ 6,798,796 • ❤️ 1,237 • 3d ago
 
 ---
 
@@ -459,7 +447,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 386 • 5h ago
+⬇️ 39 • ❤️ 421 • 5h ago
 
 ---
 
@@ -471,19 +459,19 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 374 • 7h ago
+⬇️ 20,376 • ❤️ 383 • 8h ago
 
 ---
 
-**[LFM2.5-2.6B](https://huggingface.co/LiquidAI/LFM2.5-2.6B)**
+**[Kimi-K3](https://huggingface.co/moonshotai/Kimi-K3)**
 
-*Liquid AI*
+*Moonshot AI*
 
-LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device deployment and agentic workloads, featuring a 128K context window and efficient inference (220 tok/s on M5 Max). It excels at tool use and instruction following, making it ideal for RAG and long-context tasks.
+Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.
 
-`text-generation` `2.7B`
+`image-text-to-text` `2779.9B`
 
-⬇️ 93,668 • ❤️ 561 • 5d ago
+⬇️ 1,565,484 • ❤️ 10,553 • 15d ago
 
 ---
 
@@ -495,7 +483,19 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,918 • 2h ago
+⬇️ 2,521,093 • ❤️ 1,928 • 3h ago
+
+---
+
+**[Muse-Glimmer-30B-GGUF](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF)**
+
+*Unsloth AI*
+
+Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agentic tasks, featuring reliable tool use, multi-step reasoning, and failure recovery. It processes interleaved text and images, supporting multilingual inputs and controllable effort for efficient deployment on consumer hardware.
+
+`image-text-to-text` `27.9B`
+
+⬇️ 0 • ❤️ 328 • 1d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 411 • 💬 2 • ⭐ 803 • 2d ago
+▲ 519 • 💬 2 • ⭐ 803 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -537,7 +537,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 30 • 💬 2 • ⭐ 801 • 8d ago
+▲ 32 • 💬 2 • ⭐ 801 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -610,19 +610,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[Multi-module GRPO: Composing Policy Gradients and Prompt Optimization
-  for Language Model Programs](https://huggingface.co/papers/2508.04660)**
-
-*Noah Ziems, Dilara Soylu, Lakshya A Agrawal et al. (13 authors)*
-
-mmGRPO, a multi-module extension of GRPO, enhances accuracy in modular AI systems by optimizing LM calls and prompts across various tasks.
-
-▲ 7 • 💬 0 • ⭐ 37,118 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.04660) • [💻 code](https://github.com/stanfordnlp/dspy) • [🔗 project](https://dspy.ai)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -636,6 +623,19 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 177 • 💬 2 • ⭐ 77,402 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -646,7 +646,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 946 • 3h ago
+⭐ 8.3k • 🔱 948 • 4h ago
 
 ---
 
@@ -656,7 +656,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.8k • 🔱 415 • 6h ago
+⭐ 4.8k • 🔱 415 • 7h ago
 
 ---
 
@@ -674,7 +674,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -684,7 +684,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.6k • 🔱 490 • 10h ago
+⭐ 2.6k • 🔱 489 • 11h ago
 
 ---
 
@@ -694,7 +694,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.5k • 🔱 211 • 20h ago
+⭐ 2.5k • 🔱 211 • 21h ago
 
 ---
 
@@ -714,7 +714,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 162 • 1h ago
+⭐ 2.1k • 🔱 162 • 2h ago
 
 ---
 
@@ -734,7 +734,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 256 • 1h ago
+⭐ 2.0k • 🔱 257 • 6m ago
 
 ---
 

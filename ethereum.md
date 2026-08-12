@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T11:22:23.303935+00:00'
+updated: '2026-08-12T12:10:11.237428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 11:22 UTC  
+**Last Updated:** August 12, 2026 at 12:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.95B
+**Market Cap:** $230.96B
 Rank #2
 
 **Circulating Supply:** 120,682,014 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.3%
 
 **All-Time Low:** $0.43
-+439992.9%
++441889.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 36m ago
+Fortune • 1h ago
 
 ---
 
@@ -228,7 +228,7 @@ benzinga.com • 1d ago
 
 Record ETH staking faces a potential shift as EIP-8363 proposes lower rewards, putting institutional staking returns under scrutiny.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -236,23 +236,23 @@ AMBCrypto • 11h ago
 
 ## YouTube Videos: "ethereum"
 
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+
+📺 The Modern Investor
+
+👁️ 1K • 👍 257 • 💬 76 • ⏱️ 30:14 • 2h ago
+
+---
+
 **[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
 
 SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
 
 📺 Gareth Soloway
 
-👁️ 39K • 👍 2K • 💬 141 • ⏱️ 10:20 • 16h ago
-
----
-
-**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
-
-GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
-
-📺 Lark Davis
-
-👁️ 14K • 👍 642 • 💬 94 • ⏱️ 6:34 • 1d ago
+👁️ 41K • 👍 3K • 💬 146 • ⏱️ 10:20 • 17h ago
 
 ---
 
@@ -262,17 +262,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 145 • 💬 62 • ⏱️ 54:27 • 2d ago
+👁️ 5K • 👍 148 • 💬 62 • ⏱️ 54:27 • 2d ago
 
 ---
 
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
 
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
 
-📺 The Modern Investor
+📺 Lark Davis
 
-👁️ 361 • 👍 85 • 💬 48 • ⏱️ 30:14 • 2h ago
+👁️ 14K • 👍 647 • 💬 94 • ⏱️ 6:34 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ Michael Saylor's firm just stopped buying Bitcoin. ETH inflows are surging past 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 606 • 👍 26 • 💬 2 • ⏱️ 1:18 • 15h ago
+👁️ 640 • 👍 28 • 💬 2 • ⏱️ 1:18 • 16h ago
 
 ---
 
@@ -296,16 +296,6 @@ In this video I break down the current Ethereum price action and provide a clear
 
 ---
 
-**[Ethereum Is Changing Forever    Institutions Were Hiding This! 🤫](https://www.youtube.com/watch?v=N-ezYzRirB8)**
-
-Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native mainnet privacy to attract institutional ...
-
-📺 ilme aalim
-
-👁️ 411 • 👍 29 • 💬 32 • ⏱️ 2:08 • 6h ago
-
----
-
 **[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
 
 Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
@@ -316,23 +306,33 @@ Bitcoin remains the lead market signal as BTC tests its current structure, nearb
 
 ---
 
+**[Kaspa vs Ethereum vs Solana! Yonatan Sompolinsky Reveals The Key Difference](https://www.youtube.com/watch?v=_Brleo7uaCs)**
+
+Tangem 20% off, 50% off 2nd Tangem Wallet! ➡➡ https://ziply.pk/CRYPTOCREW Use codes "NYEXTRA26" & "CRYPTOCREW" ...
+
+📺 Your Crypto Crew
+
+👁️ 954 • 👍 115 • 💬 18 • ⏱️ 11:41 • 22h ago
+
+---
+
+**[Ethereum Is Changing Forever    Institutions Were Hiding This! 🤫](https://www.youtube.com/watch?v=N-ezYzRirB8)**
+
+Will Ethereum's Secret Upgrade Change Crypto?** Ethereum is introducing native mainnet privacy to attract institutional ...
+
+📺 ilme aalim
+
+👁️ 502 • 👍 36 • 💬 43 • ⏱️ 2:08 • 7h ago
+
+---
+
 **[이더리움 여기 돌파하면 다시 상승 출발입니다](https://www.youtube.com/watch?v=QgmD9ETDGOk)**
 
 오늘 이더리움 시황과 단타 관점을 정리한 영상입니다. 이번 영상에서는 - 이더리움 현재 방향성 - 오늘 진입 타점 - 주요 지지·저항 구간 ...
 
 📺 트레이더 세윤TV
 
-👁️ 977 • 👍 4 • 💬 1 • ⏱️ 0:57 • 4h ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 3K • 👍 156 • 💬 26 • ⏱️ 7:44 • 1d ago
+👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:57 • 5h ago
 
 ---
 
