@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-12T17:29:02.457594+00:00'
+updated: '2026-08-12T18:28:43.535256+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 17:29 UTC  
+**Last Updated:** August 12, 2026 at 18:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
-
-12h ago
-
----
-
 **[24.46 BTC was stolen from my Trezor in 2021. Years later, I won a UK High Court judgment. I am still trying to recover it.](https://www.reddit.com/r/Bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years/)**
 
 On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
 
-10h ago
+11h ago
+
+---
+
+**[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
+
+13h ago
 
 ---
 
 **[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,19 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 ARE WE FRICKIN LATE NOW?!
 
-8h ago
+9h ago
 
 ---
 
 **[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
 
-7h ago
+8h ago
+
+---
+
+**[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
+
+20h ago
 
 ---
 
@@ -123,25 +129,17 @@ ARE WE FRICKIN LATE NOW?!
 
 ---
 
-**[The average fiat currency dies in 27 years.](https://www.reddit.com/r/Bitcoin/comments/1vlv5yj/the_average_fiat_currency_dies_in_27_years/)**
-
-19h ago
-
----
-
-**[Did we spam bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1vmh02q/did_we_spam_bitcoin/)**
-
-Braiins Pool has been mining blocks since 2010. Every once in a while we've used one to mark something worth remembering. That isn't new. Satoshi did it in block 0: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks." And we've done it a few times since: 668,634 · Clubhouse 31/Jan/2021 I am a supporter of Bitcoin ... Elon Musk 671,176 · 18/Feb/2021 NASA Perseverance and Ingenuity landed on Mars 686,604 · Diario El Salvador 6/Jun/2021 Bitcoin tendra validez legal 785,389 · This block was mined by a zero emission bitcoin mining computer. 824,131 · Happy 15th birthday, Bitcoin! Then our CMO, Kristian, made one personal. 883,395 · Will you be my queen, Summer? Her answer: 885,166 · 883,395 - YES Congratulations, Kristian and Summer. Block 883,395 will always be one of our favorites 🧡
-
-2h ago
-
----
-
 **[Why I Hold Bitcoin: Escaping a System That Treats Young People as Disposable in an Aging China](https://www.reddit.com/r/Bitcoin/comments/1vm7wdt/why_i_hold_bitcoin_escaping_a_system_that_treats/)**
 
 Under the current Chinese system and the prevailing rules governing society, young people are neither cherished nor protected. Faced with the reality of an aging society, China resembles a profligate *nouveau riche* figure destined for a short life. Of course, complaining too much is futile. Even if I vent endlessly or spend all my time on YouTube and Reddit—engaging with or observing forums that oppose the Chinese Communist Party and its system—nothing actually changes; I am left with nothing but inner resentment and loathing. The reality is that even though I see the flaws in this system, I lack the power or agency within Chinese society to influence it or effect change. Under such a tightly controlled regime, expressing genuine dissatisfaction or dissent—even simply speaking the truth—invites punishment, let alone resorting to violence or bloodshed. Another crucial point is that, genetically speaking, the majority of East Asians are cowardly and prone to merely scraping by. This brings me back to why I first got into Bitcoin. It wasn't because I was fixated on the price or hoped to become an overnight millionaire and squander the fortune; rather, I wanted to see the collapse of the CCP-controlled financial system—represented by the RMB—or at least find a way to escape the Party's grip and the constraints imposed by the RMB-based economic order. I first encountered Bitcoin during the pandemic lockdowns. I saw wealthy individuals decisively sell off real estate assets accumulated during the bubble in China's Tier-1 cities and convert the proceeds into Bitcoin. This allowed them to bypass foreign exchange controls, transfer their wealth to Canada or the US, and reinvent themselves as members of the local middle class. I suppose my interest stemmed from my bearish outlook on China's future. China is destined to become a distorted society—a place of massive resource misallocation—that will inevitably collapse under its own imbalances. It will have to transition to a different state and pay the price for its errors; that is an immutable law of nature. As China’s economy and society fall into ruin, what value will remain in RMB-denominated assets or resources? The air, water, and soil are all polluted. Every second spent on this land brings only a sense of disgust and contamination; why would anyone spend money here? What of value is left? The people here are aging, barbaric, and uncivilized. Money is essentially a form of debt: you expend your time and labor, and the other party pays you a sum that serves as an IOU—meaning that, based on this money, you can later demand repayment in the form of services. Since China is effectively an aging entity—a society where a mass of elderly people owes you money—what can that money actually buy you from them? How can the currency of a society composed of a barbaric, low-quality population possibly hold any value? Of course, I am not deliberately insulting the Chinese people here; I am simply stating that "good people" cannot exist within this system. In a distorted system—specifically the one controlled by the Communist Party—where responsibility and power are mismatched, the most evil or corrupt individuals gain access to the most resources and opportunities. Consequently, there is no incentive for anyone to be a good person; doing so would only lead to the depletion of one's resources and the assumption of limitless liability, ultimately resulting in one's physical destruction. Thus, there is no doubt that China—whether now or in the future—is a nation defined by moral decay and a low-quality population. Ultimately, I believe the RMB will suffer the same fate as the Soviet ruble: economic collapse will wipe out people's wealth, rendering their years of hard work and labor futile. Because money represents a debt, the original counterparties—those who "owed" the value represented by the money—will no longer exist; they will have been replaced by a group of aging, physically incapacitated, barbaric, and amoral individuals who are left holding the bag. A young person might work hard for thirty or forty years, only to find that by the time they wish to redeem their earnings, the original debtors are gone. It is akin to a failed investment: holding RMB assets—essentially holding IOUs denominated in RMB—will yield no actual payout. This is precisely why I am firmly bullish on Bitcoin; given China's strict foreign exchange controls—which make it extremely difficult to acquire foreign assets like US dollars or overseas stocks—Bitcoin stands out as the best possible choice. Source: http://youtube.com/post/Ugkx1CIVcadSQ6bp5FaHrqhh3dhEunm_-x_g?si=M-YBWTonsEV3FaV3
 
-9h ago
+10h ago
+
+---
+
+**[9 months ago a video from Forrest could've possibly helped ColdCard users.](https://www.reddit.com/r/Bitcoin/comments/1vm15sk/9_months_ago_a_video_from_forrest_couldve/)**
+
+16h ago
 
 ---
 
@@ -153,7 +151,7 @@ Under the current Chinese system and the prevailing rules governing society, you
 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -161,7 +159,7 @@ CoinDesk • 1h ago
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -181,7 +179,7 @@ Yahoo Finance • 1d ago
 
 AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -189,7 +187,7 @@ Bitcoin Magazine • 5h ago
 
 The House passed a stopgap funding bill 220-205 on July 21, moving its proposed government-funding deadline from September 30 to December 4 and placing it after the midterms. This has led to the odds of a Government shutdown happening across all predition markets.But that is no longer the full picture: ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -197,13 +195,13 @@ Yahoo Finance • 2h ago
 
 Dubai, UAE, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Pepeto has passed the $10.626M mark while the market is looking for the best crypto to buy now, an...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
 **[July's CPI Could Provide Relief to Bitcoin -- Market Talk](https://www.moomoo.com/news/post/74574163/july-s-cpi-could-provide-relief-to-bitcoin-market-talk)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -295,7 +293,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 111 • ⏱️ 11:09 • 19h ago
+👁️ 33K • 👍 2K • 💬 111 • ⏱️ 11:09 • 20h ago
 
 ---
 
@@ -315,7 +313,7 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 155 • ⏱️ 14:49 • 18h ago
+👁️ 15K • 👍 1K • 💬 155 • ⏱️ 14:49 • 19h ago
 
 ---
 
@@ -325,7 +323,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 393 • ⏱️ 26:42 • 21h ago
+👁️ 5K • 👍 393 • ⏱️ 26:42 • 22h ago
 
 ---
 
@@ -335,7 +333,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 12K • 👍 1K • 💬 869 • ⏱️ 9:58 • 20h ago
+👁️ 12K • 👍 1K • 💬 869 • ⏱️ 9:58 • 21h ago
 
 ---
 
@@ -355,7 +353,7 @@ Hurley talks about Bitcoin's Unstoppable Strength! Defying Governments & Banks! 
 
 📺 Simply Bitcoin
 
-👁️ 955 • 👍 39 • 💬 20 • ⏱️ 0:29 • 7h ago
+👁️ 955 • 👍 39 • 💬 20 • ⏱️ 0:29 • 8h ago
 
 ---
 
@@ -375,7 +373,7 @@ Russias NEW Bitcoin SEIZURE LAW is going into effect in 19 days, but no one is t
 
 📺 Luke Mikic
 
-👁️ 5K • 👍 380 • 💬 64 • ⏱️ 39:55 • 18h ago
+👁️ 5K • 👍 380 • 💬 64 • ⏱️ 39:55 • 19h ago
 
 ---
 
@@ -385,7 +383,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 25K • 👍 2K • 💬 95 • ⏱️ 28:33 • 22h ago
+👁️ 25K • 👍 2K • 💬 95 • ⏱️ 28:33 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T17:29:02.463111+00:00'
+updated: '2026-08-12T18:28:43.540156+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 17:29 UTC  
+**Last Updated:** August 12, 2026 at 18:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
 
-24/7 Wall St. • 2d ago
+24/7 Wall St. • 3d ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 Privately held asset manager Fidelity says it is adding quarterly staking payments to its leading Ethereum Fund ($F...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -212,7 +212,7 @@ Yahoo Finance • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 6h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 171 • 💬 26 • ⏱️ 1:01:54 • 1h ago
+👁️ 2K • 👍 171 • 💬 26 • ⏱️ 1:01:54 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 494 • 💬 97 • ⏱️ 30:14 • 8h ago
+👁️ 3K • 👍 494 • 💬 97 • ⏱️ 30:14 • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 291 • 👍 38 • 💬 55 • ⏱️ 11:59 • 20m ago
+👁️ 291 • 👍 38 • 💬 55 • ⏱️ 11:59 • 1h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 135 • 💬 4 • ⏱️ 7:07 • 3h ago
+👁️ 1K • 👍 135 • 💬 4 • ⏱️ 7:07 • 4h ago
 
 ---
 
@@ -302,7 +302,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 414 • 💬 273 • ⏱️ 19:05 • 17h ago
+👁️ 6K • 👍 414 • 💬 273 • ⏱️ 19:05 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 45K • 👍 3K • 💬 151 • ⏱️ 10:20 • 22h ago
+👁️ 45K • 👍 3K • 💬 151 • ⏱️ 10:20 • 23h ago
 
 ---
 
@@ -322,7 +322,7 @@ Live crypto market analysis with Severin. Join the stream as we break down Bitco
 
 📺 Chart Champions
 
-👁️ 2K • 👍 202 • 💬 2 • ⏱️ 1:13:35 • 2h ago
+👁️ 2K • 👍 202 • 💬 2 • ⏱️ 1:13:35 • 3h ago
 
 ---
 
@@ -332,7 +332,7 @@ Russia's central bank is now allowing ordinary investors to trade Bitcoin, Ether
 
 📺 Crypto 101
 
-👁️ 4 • ⏱️ 1:11 • 17m ago
+👁️ 4 • ⏱️ 1:11 • 1h ago
 
 ---
 

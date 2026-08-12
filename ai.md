@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-12T17:29:02.449588+00:00'
+updated: '2026-08-12T18:28:43.528504+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - social
 - repositories
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 12, 2026 at 17:29 UTC  
+**Last Updated:** August 12, 2026 at 18:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,13 +49,13 @@ Samsung’s Ballie is an AI-powered home robot designed to move around a house, 
 
 Am I the only one experiencing this? Between trying to make sure the machine understands my prompts, refusals, lags, hallucinations - I'm finding myself using it less and less. Is this happening to anyone else or just me?
 
-3h ago
+4h ago
 
 ---
 
 **[AI Can’t Be Listed as Inventor on Patent Applications, Japan’s Top Court Rules](https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/)**
 
-🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 1h ago
+🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Am I the only one experiencing this? Between trying to make sure the machine und
 
 I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
 
-18h ago
+19h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic just documented how it works. Two marks, both machine-readable: Text: 
 
 most of the "autonomous AI" conversation is either hype or doom, so here's a concrete middle case i've been watching. there's an agent that scans open-source repos, writes an actual patch for what it finds, and opens a PR, unsupervised. the bar it sets for itself is strict: a find doesn't count unless a human maintainer actually reviews the patch and merges it upstream. the clip shows the receipts, repos a lot of people run (one at 260k stars, an Alibaba project, others), real vulnerabilities, not cosmetic stuff. every fix is a public merged PR you can go read.
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ most of the "autonomous AI" conversation is either hype or doom, so here's a con
 
 Lovable has announced it raised $400m (€347m; £296m) in a Series C funding round. The Swedish vibe-coding company is now valued at $13.3bn, more than doubling its valuation since its Series B round in December. The funding round was led by Menlo Ventures and co-led by the newly launched Scaleup Europe Fund, managed by private equity firm EQT. The fund is part of Horizon Europe and supports companies developing critical technologies, including artificial intelligence, quantum computing and clean tech.
 
-🔗 [LinkedIn](http://www.linkedin.com/news/story/lovable-doubles-its-valuation-7494404/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 3h ago
+🔗 [LinkedIn](http://www.linkedin.com/news/story/lovable-doubles-its-valuation-7494404/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Lovable has announced it raised $400m (€347m; £296m) in a Series C funding ro
 
 Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.
 
-🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 9h ago
+🔗 [Quesma](https://quesma.com/blog/tbench-orchestrator-refuses/) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Common wisdom says to put a strong model like Fable in charge and let cheaper mo
 
 Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer) • 7h ago
 
 ---
 
@@ -111,7 +111,7 @@ Intel's LLM-Scaler project that was born out of their Project Battlematrix initi
 
 A new study reveals that AI’s climate impact extends far beyond its massive data center footprint.
 
-🔗 [heated.world](https://heated.world/p/ais-climate-problem-is-worse-than) • 3h ago
+🔗 [heated.world](https://heated.world/p/ais-climate-problem-is-worse-than) • 4h ago
 
 ---
 
@@ -123,7 +123,7 @@ A new study reveals that AI’s climate impact extends far beyond its massive da
 
 Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ WIRED • 6h ago
 
 Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 8h ago
 
 The controversy surrounding Fenix Flexin and Tyga has obscured a broader shift toward hip-hop’s own dance-floor history
 
-Rolling Stone • 33m ago
+Rolling Stone • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Rolling Stone • 33m ago
 
 Also in the Forbes CMO newsletter: Many complain about Anthropic’s new AI watermark, court orders Meta to pay nearly $1 billion with more legal battles to come.
 
-Forbes • 45m ago
+Forbes • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Forbes • 45m ago
 
 Online resume builder Resume Now compiled a list of 10 jobs AI cannot replace. See what they have in common.
 
-USA Today • 32m ago
+USA Today • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ USA Today • 32m ago
 
 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.
 
-x.ai • 1h ago
+x.ai • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ x.ai • 1h ago
 
 What if you didn’t have to dig through your email to schedule a follow-up doctor’s appointment, or check your phone to see if your favorite baseball team is at bat yet?
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 3h ago
 
 Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 3h ago
 
 It’s AI health all the way down.
 
-The Verge • 3h ago
+The Verge • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Verge • 3h ago
 
 Fairground TV is a 24/7 channel devoted to low-quality AI content for viewers sick of watching real people move in ways that won’t haunt you
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -243,7 +243,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 389 • 💬 325 • 4h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 389 • 💬 325 • 5h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -259,7 +259,7 @@ Step into the interrogation room. Interview AI suspects with your own voice, cat
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 188 • 💬 45 • 15h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 188 • 💬 45 • 16h ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
@@ -267,7 +267,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 178 • 💬 138 • 18h ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 178 • 💬 138 • 19h ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -299,7 +299,7 @@ Watch vivid coral orange and deep indigo pigment powders slowly blend together i
 
 📺 Colours Mixture 
 
-👁️ 121K • 👍 1K • 💬 2 • ⏱️ 0:11 • 8h ago
+👁️ 121K • 👍 1K • 💬 2 • ⏱️ 0:11 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,244 • 22h ago
+⬇️ 0 • ❤️ 1,244 • 23h ago
 
 ---
 
@@ -439,7 +439,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 509 • 3h ago
+⬇️ 39 • ❤️ 509 • 4h ago
 
 ---
 
@@ -461,7 +461,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 405 • 13h ago
+⬇️ 20,376 • ❤️ 405 • 14h ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3.6-27B-Fable-Fusion-711 is an uncensored, multi-stage fine-tuned LLM that e
 
 `image-text-to-text` `26.9B`
 
-⬇️ 2,521,093 • ❤️ 1,938 • 8h ago
+⬇️ 2,521,093 • ❤️ 1,938 • 9h ago
 
 ---
 
@@ -648,7 +648,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 955 • 33m ago
+⭐ 8.3k • 🔱 955 • 1h ago
 
 ---
 
@@ -658,7 +658,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.8k • 🔱 416 • 41m ago
+⭐ 4.8k • 🔱 416 • 1h ago
 
 ---
 
@@ -676,7 +676,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -686,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.7k • 🔱 494 • 3h ago
+⭐ 2.7k • 🔱 494 • 4h ago
 
 ---
 
@@ -706,7 +706,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 176 • 22h ago
+⭐ 2.3k • 🔱 176 • 23h ago
 
 ---
 
@@ -716,7 +716,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 162 • 4h ago
+⭐ 2.1k • 🔱 162 • 5h ago
 
 ---
 
@@ -736,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.0k • 🔱 259 • 11m ago
+⭐ 2.0k • 🔱 259 • 1h ago
 
 ---
 

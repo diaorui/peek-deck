@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T17:29:02.466041+00:00'
+updated: '2026-08-12T18:28:43.542731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 17:29 UTC  
+**Last Updated:** August 12, 2026 at 18:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,13 +76,13 @@ Not for hire. I just like making stuff This build is being donated to a local ma
 
 Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
 
-20h ago
+21h ago
 
 ---
 
 **[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ npx agenticros start realsense npx agenticros start motors npx agenticros connec
 
 Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to improve robot manipulation, though its scaling results remain internally reported.
 
-🔗 [RuntimeWire](https://runtimewire.com/article/dyna-robotics-dyna-2-human-video-robotics-scaling-law) • 1d ago
+🔗 [RuntimeWire](https://runtimewire.com/article/dyna-robotics-dyna-2-human-video-robotics-scaling-law) • 2d ago
 
 ---
 
@@ -122,7 +122,7 @@ The New York Times • 1d ago
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-techcrunch.com • 21h ago
+techcrunch.com • 22h ago
 
 ---
 
@@ -130,19 +130,19 @@ techcrunch.com • 21h ago
 
 A Chinese humanoid maker just pulled off one of the most frenzied IPOs in recent memory, and the shockwaves are now rippling through U.S. robotics stocks in a big way. Here is what traders are watching as the physical AI theme hits a new gear.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 11h ago
+Nature • 12h ago
 
 ---
 
 **[Korea Sovereign Wealth Fund to Join Global Race for AI, Robotics](https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -150,7 +150,7 @@ Bloomberg.com • 18h ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL.com • 20h ago
+KSL.com • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ EE Times • 1d ago
 
 This system is getting the automated circular economy rolling
 
-IEEE Spectrum • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -174,7 +174,7 @@ IEEE Spectrum • 1d ago
 
 As Startup Nation's traditional software categories face a wave of headwinds and layoffs, robotics and physical AI are emerging as one of the defining industries of the next decade, gearing up for an imminent boom of their own.
 
-calcalistech.com • 10h ago
+calcalistech.com • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Tech Talkies
 
-👁️ 44K • 👍 554 • 💬 7 • ⏱️ 0:13 • 5d ago
+👁️ 44K • 👍 554 • 💬 7 • ⏱️ 0:13 • 6d ago
 
 ---
 
