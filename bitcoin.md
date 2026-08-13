@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T20:42:30.400844+00:00'
+updated: '2026-08-13T21:44:40.467587+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 20:42 UTC  
+**Last Updated:** August 13, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -2.3%  
-**30d:** -2.1%  
-**90d:** -18.9%  
+**24h:** +0.0%  
+**7d:** -2.2%  
+**30d:** -2.0%  
+**90d:** -18.8%  
 **1y:** -46.3%  
 
 ---
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-21h ago
+22h ago
 
 ---
 
@@ -159,7 +159,7 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 The day ahead in crypto: Aug. 13, 2026
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -167,19 +167,19 @@ CoinDesk • 8h ago
 
 Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[Goldman Sachs wants to turn bitcoin into a yield machine](https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html)**
+**[Goldman's buying bitcoin ETFs, Tether's buying gold, and bitcoin doesn't budge](https://finance.yahoo.com/video/goldmans-buying-bitcoin-etfs-tethers-162000772.html)**
 
-Scott Melker discusses the Goldman (GS) deal to acquire the yield-generating ETF platform Neos rather than build out its own.
+Scott Melker breaks down the latest crypto headlines, including why Tether (USDT-USD) is loading up on gold, Goldman Sachs' (GS) move into bitcoin (BTC-USD) ETFs from NEOS, and why bitcoin barely budged after the latest PPI data came in largely in line with expectations.
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -187,15 +187,7 @@ Yahoo Finance • 4h ago
 
 The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.
 
-Investor's Business Daily • 3h ago
-
----
-
-**[The Major Bitcoin Warning Hidden In Trump Media’s Earnings](https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/)**
-
-The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
-
-Forbes • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -203,7 +195,15 @@ Forbes • 3h ago
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 2d ago
+cnbc.com • 2d ago
+
+---
+
+**[The Major Bitcoin Warning Hidden In Trump Media’s Earnings](https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/)**
+
+The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
+
+Forbes • 4h ago
 
 ---
 
@@ -211,13 +211,7 @@ CNBC • 2d ago
 
 The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
 
-Bitcoin Magazine • 3h ago
-
----
-
-**[Bitcoin Edges Higher as Prospect of Immediate U.S. Rate Rise Dims](https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/bitcoin-edges-higher-as-prospect-of-immediate-u-s-rate-rise-dims-AEYnWBeJwg7TOAVYF8aq)**
-
-Barron's • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -225,13 +219,21 @@ Barron's • 3h ago
 
 Public pressure mounts on data center buildouts in Alabama.
 
-Tom's Hardware • 10h ago
+Tom's Hardware • 11h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
+
+---
+
+**[BTC price news: Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests](https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests)**
+
+An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.
+
+CoinDesk • 18h ago
 
 ---
 
@@ -247,6 +249,14 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 ---
 
+**[The simple way to add Bitcoin payments to your app](https://news.ycombinator.com/item?id=49291328)**
+
+Add Ark and Lightning payments to your bitcoin app
+
+⬆️ 1 • 💬 1 • 1h ago • [Second](https://second.tech/)
+
+---
+
 **[Is your Bitcoin seed safe after Coldcard accident? What about iancoleman/bip39?](https://news.ycombinator.com/item?id=49207230)**
 
 In late July 2026, Coldcard, the open-source hardware wallet many consider the gold standard in Bitcoin security, failed in the worst possible way.
@@ -257,17 +267,9 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 ---
 
-**[The simple way to add Bitcoin payments to your app](https://news.ycombinator.com/item?id=49291328)**
-
-Add Ark and Lightning payments to your bitcoin app
-
-⬆️ 1 • 💬 0 • 21m ago • [Second](https://second.tech/)
-
----
-
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 11h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 12h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -275,7 +277,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -291,7 +293,7 @@ Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone br
 
 Last week we released version 0.2 of pgrust. This release was all about performance. It’s 10x faster than the previous version of pgrust. On OLTP benchmarks, pgrust is 30% faster than Postgres, and on Clickbench, Clickhouse’s benchmark for analytical databases, pgrust is 300x faster than Postgres. It’s even ahead of Clickhouse! The query engine is […]
 
-⬆️ 336 • 💬 177 • 6d ago • [malisper.me](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+⬆️ 337 • 💬 177 • 6d ago • [malisper.me](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
 
 ---
 
@@ -299,13 +301,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 9h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 10h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 6h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 7h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -319,7 +321,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 19h ago
+👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 20h ago
 
 ---
 
@@ -329,7 +331,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 20h ago
+👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 150 • 💬 31 • ⏱️ 14:52 • 3h ago
+👁️ 2K • 👍 150 • 💬 31 • ⏱️ 14:52 • 5h ago
 
 ---
 
@@ -349,7 +351,7 @@ Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear mar
 
 📺 Cointelegraph
 
-👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 6h ago
+👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 7h ago
 
 ---
 
@@ -359,7 +361,7 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 7h ago
+👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 8h ago
 
 ---
 
@@ -399,7 +401,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 1h ago
+👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 2h ago
 
 ---
 
@@ -409,7 +411,7 @@ Tristan Thompson is an NBA champion with the Cleveland Cavaliers who's become a 
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 879 • 💬 38 • ⏱️ 24:08 • 1d ago
+👁️ 31K • 👍 879 • 💬 38 • ⏱️ 24:08 • 2d ago
 
 ---
 

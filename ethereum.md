@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T20:42:30.406293+00:00'
+updated: '2026-08-13T21:44:40.473837+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 20:42 UTC  
+**Last Updated:** August 13, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.6%  
 **7d:** -1.4%  
-**30d:** -1.6%  
+**30d:** -1.7%  
 **90d:** -13.4%  
 **1y:** -58.5%  
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)**
+**[Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans](https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks)**
 
-Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
+The Ethereum staking platform Ether.fi is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.
 
-Decrypt • 2d ago
+Decrypt • 7h ago
 
 ---
 
@@ -176,23 +176,13 @@ Scott Melker breaks down Fidelity's decision to add staking rewards to its ether
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
-**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
-
-FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
-
-CryptoSlate • 4h ago
+ccn.com • 7h ago
 
 ---
 
@@ -200,7 +190,31 @@ CryptoSlate • 4h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 6h ago
+coinpedia.org • 7h ago
+
+---
+
+**[Ethereum Price May Grow by Over 50% ‘In a Matter of Days’](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-may-grow-over-083558609.html)**
+
+Ethereum price could surge over 50% toward $3,000 as cooling US inflation and lower Fed hike odds support a falling-wedge breakout setup.
+
+Yahoo Finance • 13h ago
+
+---
+
+**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 11h ago
+
+---
+
+**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
+
+FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
+
+CryptoSlate • 5h ago
 
 ---
 
@@ -208,15 +222,7 @@ Coinpedia • 6h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-Benzinga • 18h ago
-
----
-
-**[Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE](https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/)**
-
-The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
-
-Crypto Briefing • 4h ago
+Benzinga • 19h ago
 
 ---
 
@@ -224,15 +230,7 @@ Crypto Briefing • 4h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 5h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
-
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-CoinDesk • 3d ago
+blockchain.news • 6h ago
 
 ---
 
@@ -246,7 +244,7 @@ CoinDesk • 3d ago
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 21h ago
+👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 22h ago
 
 ---
 
@@ -256,7 +254,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 2h ago
+👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 3h ago
 
 ---
 
@@ -276,7 +274,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 9h ago
+👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 10h ago
 
 ---
 
@@ -336,7 +334,7 @@ Ethereum is getting hammered back into the deep support buy zone—could ETH cra
 
 📺 The Crypto Code
 
-👁️ 8 • 👍 1 • ⏱️ 0:47 • 2h ago
+👁️ 8 • 👍 1 • ⏱️ 0:47 • 3h ago
 
 ---
 
