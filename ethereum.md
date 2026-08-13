@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T02:00:18.401180+00:00'
+updated: '2026-08-13T04:19:17.158282+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 02:00 UTC  
+**Last Updated:** August 13, 2026 at 04:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** -1.9%  
-**30d:** -2.1%  
-**90d:** -13.8%  
-**1y:** -58.7%  
+**7d:** -1.5%  
+**30d:** -1.7%  
+**90d:** -13.5%  
+**1y:** -58.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.55B
+**Market Cap:** $227.45B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+433482.2%
++435214.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
 
-2d ago
+3d ago
 
 ---
 
@@ -172,7 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-theblock.co • 6h ago
+theblock.co • 9h ago
 
 ---
 
@@ -196,23 +196,7 @@ Yahoo Finance • 2d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-coindesk.com • 2d ago
-
----
-
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
-
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
-
-Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
-
-The Motley Fool • 15h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -220,15 +204,31 @@ The Motley Fool • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 12h ago
 
 ---
 
-**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
 
-Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
+Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+
+The Motley Fool • 17h ago
+
+---
+
+**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+
+Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
 
 Benzinga • 1d ago
+
+---
+
+**[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy](https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy)**
+
+Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
+
+The Defiant • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 296 • 💬 189 • ⏱️ 11:59 • 8h ago
+👁️ 4K • 👍 305 • 💬 193 • ⏱️ 11:59 • 11h ago
 
 ---
 
@@ -252,27 +252,17 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 770 • 💬 67 • ⏱️ 9:22 • 2h ago
+👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 5h ago
 
 ---
 
-**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
+**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
 
-Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 Discover Crypto
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 237 • 💬 50 • ⏱️ 1:01:54 • 10h ago
-
----
-
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 176 • 💬 9 • ⏱️ 7:07 • 11h ago
+👁️ 2K • 👍 64 • 💬 9 • ⏱️ 7:15 • 14h ago
 
 ---
 
@@ -282,7 +272,27 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 5K • 👍 397 • 💬 137 • ⏱️ 13:27 • 8h ago
+👁️ 6K • 👍 426 • 💬 188 • ⏱️ 13:27 • 10h ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
+
+Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 240 • 💬 59 • ⏱️ 1:01:54 • 12h ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 180 • 💬 10 • ⏱️ 7:07 • 14h ago
 
 ---
 
@@ -292,17 +302,7 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 14K • 👍 651 • 💬 86 • ⏱️ 6:34 • 2d ago
-
----
-
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
-
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 564 • 💬 139 • ⏱️ 30:14 • 16h ago
+👁️ 14K • 👍 652 • 💬 86 • ⏱️ 6:34 • 2d ago
 
 ---
 
@@ -322,17 +322,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 459 • 💬 234 • ⏱️ 19:05 • 1d ago
+👁️ 7K • 👍 467 • 💬 234 • ⏱️ 19:05 • 1d ago
 
 ---
 
-**[BITCOIN PRICE PATTERN REPEATING (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YlgcnGOWRX4)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-BITCOIN PRICE PATTERN REPEATING (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 Crypto World
+📺 The Modern Investor
 
-👁️ 2K • 👍 157 • 💬 47 • ⏱️ 18:33 • 5h ago
+👁️ 5K • 👍 565 • 💬 187 • ⏱️ 30:14 • 18h ago
 
 ---
 
