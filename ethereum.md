@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T09:12:11.882099+00:00'
+updated: '2026-08-13T10:36:05.786155+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 09:12 UTC  
+**Last Updated:** August 13, 2026 at 10:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** -1.6%  
-**30d:** -1.8%  
-**90d:** -13.5%  
+**24h:** -1.7%  
+**7d:** -1.7%  
+**30d:** -1.9%  
+**90d:** -13.6%  
 **1y:** -58.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.79B
+**Market Cap:** $227.19B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.9%
 
 **All-Time Low:** $0.43
-+437757.3%
++434618.5%
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -172,7 +172,31 @@ The Block • 13h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-Benzinga • 6h ago
+benzinga.com • 8h ago
+
+---
+
+**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 18h ago
+
+---
+
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
+
+Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
+
+Coinpedia • 9h ago
+
+---
+
+**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
+
+Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+
+fool.com • 23h ago
 
 ---
 
@@ -188,47 +212,23 @@ PR Newswire • 2d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+**[Tom Lee's BitMine Is Close to Owning 5% of All ETH: What Happens to BMNR When It Does?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61141537/tom-lees-bitmine-is-close-to-owning-5-of-all-eth-what-happens-to-bmnr-when-it-does)**
 
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+BitMine aims to own 5% of Ethereum supply, raising questions on future demand and strategy. The treasury company has already staked 5 million ETH, worth $257 million annually.
 
-CoinDesk • 2d ago
-
----
-
-**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
+benzinga.com • 21h ago
 
 ---
 
-**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
+**[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy](https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy)**
 
-Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
 
-The Motley Fool • 22h ago
-
----
-
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://www.tradingview.com/news/coinpedia:d5da81f4f094b:0-why-ethereum-price-could-skyrocket-to-3-000-within-days-or-weeks/)**
-
-Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
-
-TradingView • 10h ago
-
----
-
-**[Fidelity plans Ethereum ETF staking—but cash payouts could reduce ETH exposure](https://ambcrypto.com/fidelity-plans-ethereum-etf-staking-but-cash-payouts-could-reduce-eth-exposure/)**
-
-FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
-
-AMBCrypto • 18h ago
+The Defiant • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 324 • 💬 152 • ⏱️ 11:59 • 16h ago
+👁️ 5K • 👍 329 • 💬 167 • ⏱️ 11:59 • 17h ago
 
 ---
 
@@ -252,27 +252,17 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 85 • ⏱️ 9:22 • 9h ago
-
----
-
-**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 19h ago
+👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 11h ago
 
 ---
 
 **[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
 
-GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying 25000 ETH ...
+GET ON KRAKEN TODAY https://www.kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying ...
 
 📺 Lark Davis
 
-👁️ 14K • 👍 653 • 💬 86 • ⏱️ 6:34 • 2d ago
+👁️ 14K • 👍 653 • 💬 87 • ⏱️ 6:34 • 2d ago
 
 ---
 
@@ -282,7 +272,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 453 • 💬 142 • ⏱️ 13:27 • 15h ago
+👁️ 7K • 👍 476 • 💬 136 • ⏱️ 13:27 • 17h ago
 
 ---
 
@@ -292,27 +282,17 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 10 • ⏱️ 7:07 • 18h ago
+👁️ 3K • 👍 193 • 💬 10 • ⏱️ 7:07 • 20h ago
 
 ---
 
-**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
+**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 Bankless
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 154 • 💬 64 • ⏱️ 54:27 • 2d ago
-
----
-
-**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
-
-Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 242 • 💬 44 • ⏱️ 1:01:54 • 17h ago
+👁️ 2K • 👍 65 • 💬 9 • ⏱️ 7:15 • 21h ago
 
 ---
 
@@ -322,7 +302,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 474 • 💬 234 • ⏱️ 19:05 • 1d ago
+👁️ 8K • 👍 477 • 💬 210 • ⏱️ 19:05 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
+
+Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 245 • 💬 44 • ⏱️ 1:01:54 • 18h ago
 
 ---
 
@@ -332,7 +322,17 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 570 • 💬 95 • ⏱️ 30:14 • 23h ago
+👁️ 5K • 👍 576 • 💬 95 • ⏱️ 30:14 • 1d ago
+
+---
+
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+
+📺 Gareth Soloway
+
+👁️ 50K • 👍 3K • 💬 162 • ⏱️ 10:20 • 1d ago
 
 ---
 
