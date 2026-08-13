@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-13T04:19:17.161482+00:00'
+updated: '2026-08-13T05:57:19.134139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 13, 2026 at 04:19 UTC  
+**Last Updated:** August 13, 2026 at 05:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,75 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**["I Don't Have Anything to Hide", Said the Dude Photographed on the Toilet](https://www.reddit.com/r/robotics/comments/1vlefa1/i_dont_have_anything_to_hide_said_the_dude/)**
+**[Hexapod Spider Robot (Half-finished)](https://www.reddit.com/r/robotics/comments/1vn17c3/hexapod_spider_robot_halffinished/)**
 
-This is an article that talks about how data is shockingly getting stolen in home spaces, and how important is to own our devices. It explains how to root a Vacuum Cleaner Robot, not just plain tutorial, but showing the politics of it at the same time. TLDR: Your smart home devices are photographing, recording, and selling you. Not hypothetically. Roomba leaked toilet photos, Ecovacs got hacked from a park bench, Vizio was fined for scanning screens 500 times a second, and 30,000 Amazon employees could listen to your Alexa recordings. "Nothing to hide" isn't the point; you close the window before getting dressed. I rooted my vacuum robot with Valetudo, a breakout PCB, and a Debian live USB. Same robot, same features, zero data leaving my house. Tutorial at the end. https://postcapitalistrobots.substack.com/p/i-dont-have-anything-to-hide-said
+(Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets)
 
-1d ago
+57m ago
+
+---
+
+**[SLAM Camera Board + Obstacle Mapping](https://www.reddit.com/r/robotics/comments/1vmfavq/slam_camera_board_obstacle_mapping/)**
+
+This is yet another update from my project. Mighty Camera runs VIO on-device realtime in a tiny package. This gives us accurate camera motion. Using that + the camera feed, the SDK estimates depth and builds a 3D map of obstacles around it. This means a robot or drone can use Mighty for things like: - Collision avoidance - Motion planning - Autonomous navigation No stereo camera or depth sensor needed. Just Mighty’s global shutter camera + IMU.
+
+15h ago
+
+---
+
+**[Looking for study partners — robotics software engineering (ROS2, C++, SLAM)](https://www.reddit.com/r/robotics/comments/1vmd52w/looking_for_study_partners_robotics_software/)**
+
+Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been building a TurtleBot + ROS2 Humble project (Docker, React dashboard, Nav2, Gazebo sim) and want to go deeper on C++, Linux, and SLAM with people who are serious about it. Thinking a small group (Discord/weekly calls) where we: Work through ROS2 concepts and share resources Review each other's projects/code Mock interview each other for robotics SWE roles Keep each other accountable If you're learning robotics software (student, self-taught, or between jobs), drop a comment or DM. Open to remote/India-based folks especially, but anyone's welcome.
+
+17h ago
+
+---
+
+**[Why Real-World Movement Is So Hard for Exoskeletons](https://www.reddit.com/r/robotics/comments/1vmhsz8/why_realworld_movement_is_so_hard_for_exoskeletons/)**
+
+Exoskeletons can handle predictable movements pretty well. Everyday movement is a lot messier. Kathryn Zealand of Skip explains why something as simple as bending down can create a control problem, and how the company is using machine learning to better understand what a person is actually trying to do. Full ep: https://www.youtube.com/watch?v=jDR8xeU-GFQ
+
+14h ago
+
+---
+
+**[Has anyone deployed VLA-based robots in production?](https://www.reddit.com/r/robotics/comments/1vmeaqq/has_anyone_deployed_vlabased_robots_in_production/)**
+
+There's of course a lot of hype around the new robot foundation models, but seems that there are not many real deployments. Has anyone tried making this things work in production? Which tasks did you try? Did you have to end up collecting a lot of data to fine tune the model?
+
+16h ago
+
+---
+
+**[I built a Raspberry Pi and ESP32-based USV — first system integration and field test](https://www.reddit.com/r/robotics/comments/1vmekgh/i_built_a_raspberry_pi_and_esp32based_usv_first/)**
+
+Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-USV, and I recently completed its first system integration and field test. The hull was designed in FreeCAD and 3D-printed in PETG. The onboard system uses a Raspberry Pi 5 for navigation, sensor processing, data logging, and mission-level control, while an ESP32-S3 handles real-time thruster control and safety-related functions. The vehicle uses two independently controlled thrusters and steers through differential thrust. It collects navigation data from GPS, IMU, and magnetometer sensors. Waypoint-based autonomous navigation is planned for the next stage of development. The main goals of this first field test were to evaluate: Hull buoyancy and stability Manual RC control and steering response Communication between the Raspberry Pi and ESP32 Navigation sensor data collection Power, vibration, and other system issues under real operating conditions This was not yet a polished autonomous-navigation demonstration. It was an early system integration test conducted before implementing and validating waypoint navigation. The vehicle also behaved quite differently on the water than I had expected from indoor testing. However, the test provided useful data and revealed several areas that need improvement, particularly sensor calibration, heading estimation, control response, and the onboard electronics. I put together a video showing both the development process and the vehicle’s first field test: https://youtu.be/Lz2eOEANyZo I’m now developing a more modular second version of the platform, together with improved navigation and waypoint control. The long-term goal is to develop BN-USV into a practical modular platform for marine research, education, environmental monitoring, and autonomous-navigation experiments. Full disclosure: I’m developing BN-USV as part of BrillNova, with the long-term goal of turning it into a commercial modular hardware platform. The software and development process will remain open and publicly documented. I’d be very interested to hear feedback, especially from anyone who has worked with small USVs, autonomous boats, marine robotics, sensor fusion, or differential-thrust control. Thanks!
+
+16h ago
+
+---
+
+**[Do humanoid robots need to be general-purpose to actually scale?](https://www.reddit.com/r/robotics/comments/1vmiwaj/do_humanoid_robots_need_to_be_generalpurpose_to/)**
+
+Humanoid pilots are starting to focus on narrower tasks and simpler deployment models. Toyota Research Institute is testing a progression from vision systems to specialized mobile manipulation before moving toward more complex humanoid systems. Other companies are also focusing on specific tasks, operational KPIs and collecting real-world data through deployment.
+
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/are-simple-tasks-and-simpler-hardware-the-secret-to-scaling-humanoids) • 13h ago
+
+---
+
+**[ros2_control With Closed-Loop Feedback](https://www.reddit.com/r/robotics/comments/1vm9v04/ros2_control_with_closedloop_feedback/)**
+
+If you want to see how ros2_control works WITH feedback from encoders, take a look at my latest blog post and video in the Autonomously Exploring Viam Rover series! I talk through how the motors are driven, show how encoders work and how they're read, and most importantly, how they're linked together by ros2_control using chained PID controllers with a differential drive controller. Blog post: https://mikelikesrobots.github.io/blog/rover-ros2-control Video: https://youtu.be/FyVvHbA4nBs
+
+19h ago
+
+---
+
+**[The data scaling law for physical AI is real](https://www.reddit.com/r/robotics/comments/1vmrw4d/the_data_scaling_law_for_physical_ai_is_real/)**
+
+Two results dropped this week that I think together paint a clearer picture than either one alone. Dyna-2 (Aug 10): World-action model pretrained on 1M hours of egocentric human video. Power law holds across 4 orders of magnitude (1K to 1M hours). Cross-embodiment transfer to robots never seen in pretraining. Task success from 20% to 80-90% purely from scaling data. No architecture changes. PI0.7 (Chelsea Finn's talk, today): Single generalist model trained on highly heterogeneous data matches or outperforms fine-tuned specialists. Key ablation: removing the most diverse subset of training data causes a dramatic drop in held-out task performance. Removing a random 20% barely moves the needle. The common thread: scaling works, but what you scale matters. Dyna-2 proves the law holds to 1M hours with no plateau. PI proves that within that data, diversity (different environments, objects, tasks) is what actually drives compositional generalization, not repetition of the same scenes. Both results converge on the same conclusion: physical AI foundation models need scale AND breadth. 1M hours of kitchens won't get you construction site generalization. But 1M hours across 100+ work domains apparently will.
+
+8h ago
 
 ---
 
@@ -48,73 +112,15 @@ We recently explored integrating marker-free robot localisation into a collision
 
 ---
 
-**[A camera and an IMU that disagree by a millisecond are describing two different robots](https://www.reddit.com/r/robotics/comments/1vli3a7/a_camera_and_an_imu_that_disagree_by_a/)**
-
-Most stacks work around this with interpolation and manual tuning, then spend months chasing an estimator problem that is really a clock problem underneath. We ran into same thing building sensor nodes for edge VSLAM. Current firmware still leans on external clock to keep camera and IMU aligned. Next revision removes that dependency, each unit disciplines its own clock on the bus instead of trusting one outside reference. Two units in the test setup below, same mechanism scales to more nodes on one bus.
-
-1d ago
-
----
-
-**[Day one of JARVIS Smart helmet!](https://www.reddit.com/r/robotics/comments/1vlh7ma/day_one_of_jarvis_smart_helmet/)**
-
-Everyday I will share a video with you untill I finish this smart IRONMAN project! Tell me your opinion which color to choose?
-
-1d ago
-
----
-
-**[Full demo of my latest build.](https://www.reddit.com/r/robotics/comments/1vkx8ya/full_demo_of_my_latest_build/)**
-
-Not for hire. I just like making stuff This build is being donated to a local makeshop that I am a part of for their presentation at a local robotics convention.
-
-2d ago
-
----
-
-**[Egocentric Date vs UMI Data vs Teleops Data](https://www.reddit.com/r/robotics/comments/1vlujs3/egocentric_date_vs_umi_data_vs_teleops_data/)**
-
-Hey everyone - I'm getting into the robotic space so any researchers can help me understand this would be greatly helpful. I am seeing a lot of data companies trying to build the internet of physical AI - where blue collar workers record the hand position of their work. My question is: How useful is this for robot learning? Which companies are buying this data? Why aren't there more data in regards to UMI gripper and teleops? I know teleops is very expensive and slow but aren't these more beneficial for robot learning, as I see more in house data collection instead. Would love to get your take on this! Thanks!
-
-1d ago
-
----
-
-**[Vídeo de cuando mis válvulas solo se podian mover de una en una.](https://www.reddit.com/r/robotics/comments/1vlp60w/vídeo_de_cuando_mis_válvulas_solo_se_podian_mover/)**
-
-1d ago
-
----
-
-**[ROS2 motor controllers supporting Raspberry Pi, Jetson, and Intel/ARM + Arduino added to AgenticROS](https://www.reddit.com/r/robotics/comments/1vlkvjx/ros2_motor_controllers_supporting_raspberry_pi/)**
-
-npx agenticros start realsense npx agenticros start motors npx agenticros connect (Web teleop!) More info at https://agenticros.com
-
-1d ago
-
----
-
-**[UPDATE: We ran the official HumanCLAW benchmark on our Causal Foundation Model (SONNY I). It hit a 98.0% success rate, crushing Google Gemini's 16.8%. Here is how the open-source core enabled it.](https://www.reddit.com/r/robotics/comments/1vlgnm7/update_we_ran_the_official_humanclaw_benchmark_on/)**
-
-1d ago
-
----
-
-**[Dyna Robotics trains DYNA-2 on more than 1 million hours of human video](https://www.reddit.com/r/robotics/comments/1vksawv/dyna_robotics_trains_dyna2_on_more_than_1_million/)**
-
-Dyna Robotics says DYNA-2 uses more than 1 million hours of human video to improve robot manipulation, though its scaling results remain internally reported.
-
-🔗 [RuntimeWire](https://runtimewire.com/article/dyna-robotics-dyna-2-human-video-robotics-scaling-law) • 2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+**[Uber Exits Serve Robotics Stake as Delivery Alliance Unravels](https://www.bloomberg.com/news/articles/2026-08-11/uber-exits-serve-robotics-stake-as-delivery-alliance-unravels)**
 
-The New York Times • 1d ago
+Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -126,19 +132,17 @@ TechCrunch • 1d ago
 
 ---
 
-**[Workers Are Teaching AI-Powered Robots to Take Over Their Jobs](https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them)**
-
-Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
-
-Bloomberg.com • 7h ago
-
----
-
 **[The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.](https://finance.yahoo.com/markets/stocks/articles/latest-robotics-ipo-8000x-oversubscribed-225120337.html)**
 
 A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -146,23 +150,15 @@ Yahoo Finance • 5h ago
 
 Researchers say that humanoid robots have a long way to go before they are officially ready for work.
 
-KQED • 14h ago
+KQED • 15h ago
 
 ---
 
-**['A huge win': Utah State University, technical colleges partner to bolster robotics workforce](https://www.ksl.com/article/51608468/a-huge-win-utah-state-university-technical-colleges-partner-to-bolster-robotics-workforce)**
+**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
 
-Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
+Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
 
-KSL.com • 1d ago
-
----
-
-**[Canadian-based robotics company opens 1st U.S. facility in Lexington, bringing 111 jobs](https://www.lex18.com/news/covering-kentucky/canadian-based-robotics-company-opens-1st-u-s-facility-in-lexington-bringing-111-jobs)**
-
-A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
-
-LEX 18 News • 11h ago
+CBS News • 1d ago
 
 ---
 
@@ -176,7 +172,7 @@ EE Times • 1d ago
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 22h ago
+Nature • 1d ago
 
 ---
 
@@ -185,6 +181,14 @@ Nature • 22h ago
 This system is getting the automated circular economy rolling
 
 IEEE Spectrum • 2d ago
+
+---
+
+**[Canadian-based robotics company opens 1st U.S. facility in Lexington, bringing 111 jobs](https://www.lex18.com/news/covering-kentucky/canadian-based-robotics-company-opens-1st-u-s-facility-in-lexington-bringing-111-jobs)**
+
+A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
+
+LEX 18 News • 14mo ago
 
 ---
 
@@ -208,7 +212,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 9K • 👍 345 • 💬 12 • ⏱️ 58:18 • 12h ago
+👁️ 9K • 👍 345 • 💬 12 • ⏱️ 58:18 • 14h ago
 
 ---
 
@@ -238,7 +242,7 @@ The stocks mentioned are shown in this video and are contained in the first comm
 
 📺 Clive Thompson
 
-👁️ 11K • 👍 845 • 💬 240 • ⏱️ 19:58 • 16h ago
+👁️ 11K • 👍 845 • 💬 240 • ⏱️ 19:58 • 18h ago
 
 ---
 

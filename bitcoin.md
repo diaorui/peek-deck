@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T04:19:17.152228+00:00'
+updated: '2026-08-13T05:57:19.124596+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 04:19 UTC  
+**Last Updated:** August 13, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,538.46
+### $63,963.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.9%  
-**30d:** -1.7%  
-**90d:** -18.5%  
-**1y:** -46.1%  
+**24h:** +0.3%  
+**7d:** -1.6%  
+**30d:** -1.4%  
+**90d:** -18.3%  
+**1y:** -45.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 7h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 9h ago
 
 ---
 
@@ -89,19 +89,19 @@ Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premie
 
 On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
 
-21h ago
+23h ago
 
 ---
 
 **[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
 
-23h ago
+1d ago
 
 ---
 
 **[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -109,13 +109,13 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 ARE WE FRICKIN LATE NOW?!
 
-19h ago
+21h ago
 
 ---
 
 **[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-4h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do you the BTC consolidation and downtrend is finished or will continue? Clarity
 
 What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ What are your thoughts on this commonly debated topic? I've read the arguments f
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 12h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 13h ago
 
 ---
 
@@ -147,7 +147,7 @@ Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft
 
 Seeing a lot of people treat the Coldcard hack like proof hardware wallets in general aren't safe anymore. That's not really what happened. Coldcard had a bug in how their firmware generated the random numbers used to create your seed phrase, and it sat there undetected for five years. A code change in March 2021 quietly swapped out the proper hardware randomness for a broken software substitute. That made some seeds way easier to guess than they should've been, and that's how funds got drained. That's a Coldcard problem. A mistake in their code, not a flaw in the whole idea of hardware wallets as a category. However, I'm not making the argument that it can't happen to other brands too. Any company can ship a bad update. But wallets that are fully open source, like Trezor or Blockstream Jade, tend to have way more independent people checking the code over time, which makes bugs like this less likely to slip through for years. Not a guarantee, just better odds. And this is how most tech usually evolves. Some things go wrong but that's how it becomes more robust and anti-fragile. But I also understand that "that's just how tech evolves" doesn't help people who actually lost their money. Genuinely feel for everyone who lost years of savings over something totally out of their control though, that part really sucks and doesn't get fixed by any of this logic.
 
-12h ago
+13h ago
 
 ---
 
@@ -159,7 +159,23 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000](https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected)**
+
+Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
+
+CoinDesk • 16h ago
+
+---
+
+**[Gold Price Climbed After July Inflation Data, But Bitcoin Didn’t. Why?](https://finance.yahoo.com/markets/commodities/articles/gold-price-climbed-july-inflation-173316592.html)**
+
+CryptoQuant flags a Bitcoin bottom signal as Fed pause odds top 60% after cool July CPI. Capitulation may not be done.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -167,7 +183,7 @@ CoinDesk • 7h ago
 
 DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -175,7 +191,7 @@ CoinDesk • 23h ago
 
 Bitcoin's early investors are waking up. Several wallets that had been dormant for more than 12 years have suddenly moved millions of dollars worth of BTC, turning what were once modest holdings into life-changing gains. Galaxy Research flagged the activity on X, drawing fresh attention to early ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -191,7 +207,13 @@ CNBC • 1d ago
 
 Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 8h ago
+
+---
+
+**[Bitcoin heads for 3rd straight loss as hopes for an upside breakout are fading](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-july-inflation-cpi-data-super-micro-computer-coreweave/card/bitcoin-heads-for-3rd-straight-loss-as-hopes-for-an-upside-breakout-are-fading-CzzzYIV5t4Ugpbk5Ld3a)**
+
+MarketWatch • 10h ago
 
 ---
 
@@ -199,7 +221,7 @@ Bitcoin Magazine • 6h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 17h ago
+fortune.com • 19h ago
 
 ---
 
@@ -207,31 +229,7 @@ Fortune • 17h ago
 
 Jordi Visser says US yen intervention signals money printing ahead, making Bitcoin his top bet as AI disruption accelerates.
 
-Benzinga • 7h ago
-
----
-
-**[Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition](https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618)**
-
-Neos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.
-
-theblock.co • 11h ago
-
----
-
-**[Goldman Sachs buys NEOS in $2.25 billion deal to land $1 billion bitcoin yield ETF](https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout)**
-
-By acquiring NEOS Investments, Goldman gains a $1.1 billion covered-call Bitcoin fund yielding 27% rather than launching its own competing product
-
-CoinDesk • 10h ago
-
----
-
-**[Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-2-25b-neos-185826212.html)**
-
-The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.
-
-Yahoo Finance • 9h ago
+Benzinga • 9h ago
 
 ---
 
@@ -291,7 +289,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 5h ago
+👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 6h ago
 
 ---
 
@@ -301,7 +299,7 @@ BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref
 
 📺 Jayson Casper
 
-👁️ 4K • 👍 212 • 💬 132 • ⏱️ 6:36 • 14h ago
+👁️ 4K • 👍 212 • 💬 132 • ⏱️ 6:36 • 15h ago
 
 ---
 
@@ -341,7 +339,7 @@ In today's video, Kyledoops outlines the importance of price action being at a v
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 896 • 💬 10 • ⏱️ 31:27 • 20h ago
+👁️ 10K • 👍 896 • 💬 10 • ⏱️ 31:27 • 22h ago
 
 ---
 
@@ -351,7 +349,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 408 • 💬 72 • ⏱️ 6:10 • 20h ago
+👁️ 10K • 👍 408 • 💬 72 • ⏱️ 6:10 • 21h ago
 
 ---
 
@@ -371,7 +369,7 @@ Bitcoin #Crypto #finance Bitcoin remains resilient, but the key question is whet
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 854 • 💬 263 • ⏱️ 48:16 • 14h ago
+👁️ 14K • 👍 854 • 💬 263 • ⏱️ 48:16 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-13T04:19:17.143793+00:00'
+updated: '2026-08-13T05:57:19.115836+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 13, 2026 at 04:19 UTC  
+**Last Updated:** August 13, 2026 at 05:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Venice teen planning a mass shooting and hostage taking at a local church shared a 61-page, AI-generated manifesto online, reports said.
 
-🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 50m ago
+🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 2h ago
 
 ---
 
@@ -49,21 +49,13 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
 
-17h ago
+18h ago
 
 ---
 
 **[AI Can’t Be Listed as Inventor on Patent Applications, Japan’s Top Court Rules](https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/)**
 
-🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 12h ago
-
----
-
-**[Are AI tools making us better at managing information, or worse at remembering it?](https://www.reddit.com/r/artificial/comments/1vmy7fz/are_ai_tools_making_us_better_at_managing/)**
-
-A few months ago, I started helping my parents organize their health information. As they get older, I realized how much medical history builds up over time: test results, medication changes, doctor visits, and small details that seem insignificant when they happen but become important later. The frustrating part was not that we lacked information. We actually had too much. Some records were in hospital portals, some were saved as PDFs, some were buried in emails, and some details only existed in conversations I barely remembered. Trying to understand the overall picture often felt like putting together a puzzle. I started using some AI tools to make this easier. They helped organize my parents' health information so it was easier to search and review when needed. Instead of spending a lot of time looking through different sources, I could quickly find previous records and get a clearer view of what had happened. It definitely made managing this kind of information much easier. But it also made me notice something interesting about how we interact with AI. When a doctor asks about my parents' history, or when I want to understand whether something has changed recently, my first instinct is now to open the tool instead of trying to recall it myself. The information is available, but I don't necessarily remember it anymore. It reminds me of how smartphones changed the way we remember phone numbers. We didn't lose the ability to memorize numbers overnight; we simply stopped needing to because the information was always available. I wonder if AI will create a similar shift. Having AI organize and remember complex information is incredibly useful, especially when dealing with years of health records and personal history, but at the same time, there is a question about whether convenience changes the way we build our own understanding. Maybe the goal isn't for AI to remember everything instead of us, but to help us understand things better without replacing our own judgment.
-
-1h ago
+🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 13h ago
 
 ---
 
@@ -71,7 +63,15 @@ A few months ago, I started helping my parents organize their health information
 
 air traffic controllers
 
-43m ago
+2h ago
+
+---
+
+**[Are AI tools making us better at managing information, or worse at remembering it?](https://www.reddit.com/r/artificial/comments/1vmy7fz/are_ai_tools_making_us_better_at_managing/)**
+
+A few months ago, I started helping my parents organize their health information. As they get older, I realized how much medical history builds up over time: test results, medication changes, doctor visits, and small details that seem insignificant when they happen but become important later. The frustrating part was not that we lacked information. We actually had too much. Some records were in hospital portals, some were saved as PDFs, some were buried in emails, and some details only existed in conversations I barely remembered. Trying to understand the overall picture often felt like putting together a puzzle. I started using some AI tools to make this easier. They helped organize my parents' health information so it was easier to search and review when needed. Instead of spending a lot of time looking through different sources, I could quickly find previous records and get a clearer view of what had happened. It definitely made managing this kind of information much easier. But it also made me notice something interesting about how we interact with AI. When a doctor asks about my parents' history, or when I want to understand whether something has changed recently, my first instinct is now to open the tool instead of trying to recall it myself. The information is available, but I don't necessarily remember it anymore. It reminds me of how smartphones changed the way we remember phone numbers. We didn't lose the ability to memorize numbers overnight; we simply stopped needing to because the information was always available. I wonder if AI will create a similar shift. Having AI organize and remember complex information is incredibly useful, especially when dealing with years of health records and personal history, but at the same time, there is a question about whether convenience changes the way we build our own understanding. Maybe the goal isn't for AI to remember everything instead of us, but to help us understand things better without replacing our own judgment.
+
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ air traffic controllers
 
 Am I the only one experiencing this? Between trying to make sure the machine understands my prompts, refusals, lags, hallucinations - I'm finding myself using it less and less. Is this happening to anyone else or just me?
 
-13h ago
+15h ago
 
 ---
 
@@ -87,13 +87,13 @@ Am I the only one experiencing this? Between trying to make sure the machine und
 
 Hey hey folks, I’ve been thinking about an odd consequence of the generative AI boom. Especially in light of these doomer stories about Anthropic destroying books (boo bad Anthropic bad). The first major LLMs inherited decades of internet that was overwhelmingly produced by humans. Now those same systems and their descendants are producing articles, code, summaries, books, comments, and other material that ends up back in the information environment. Obviously synthetic data itself isn’t inherently bad. Carefully generated and filtered synthetic data can be extremely useful. What interests me is provenance. A book printed in 1980 has a very obvious property: whatever else is wrong with it, it wasn’t written with an LLM. The same applies to old forums, archived websites, academic work, old documentation and other pre-generative material. Does that historical corpus become unusually useful precisely because we know something about its origin? I wrote a longer piece exploring this through Anthropic’s physical book scanning, recursive training/model collapse, old internet archives and human-authorship certification. Full disclosure, it’s mine: https://www.gonzocapital.net/the-internet-ouroboros/ But I’m more interested in the underlying question: does provenance become materially more important for training data, or are filtering and verification techniques good enough that the age/origin of the corpus becomes mostly irrelevant?
 
-9h ago
+11h ago
 
 ---
 
 **[Since when have there been ads on GPT?](https://www.reddit.com/r/artificial/comments/1vmyd88/since_when_have_there_been_ads_on_gpt/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hey hey folks, I’ve been thinking about an odd consequence of the generative A
 
 The model releases this week looked like one race on the surface, but the business models are separating. xAI's Grok 4.6 is a closed API product. Its leverage comes from controlling access and setting the token price. Alibaba's Qwen3.8 is an open-weight release. Its leverage comes from adoption by organizations that want to operate or adapt the model themselves. Nvidia's Switchyard is a routing layer. It sends each job to the cheapest model that can handle it, which means Nvidia can influence demand without owning every model underneath. The routing layer seems especially important. It learns where models are interchangeable, which suppliers fail under real workloads, and when a cheaper model is good enough. That information can become a stronger moat than a temporary benchmark lead. It also complicates accountability. If a routed output causes harm, the buyer needs a record of which model ran, under which policy, and why it was selected. I wrote up that argument along with Grok 4.6, Qwen3.8, OpenAI hiring a power trader, and the rest of the week's releases here: https://aiweekly.co/issues/the-frontier-just-split-into-three-markets
 
-7h ago
+9h ago
 
 ---
 
@@ -119,23 +119,7 @@ I'm a dev. In my company I am an early adapter of LLMs, it just so happened that
 
 **[EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle](https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/)**
 
-Reuters • 10h ago
-
----
-
-**[Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple](https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html)**
-
-Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
-
-CNBC • 14h ago
-
----
-
-**[Google’s Android chief lays out his vision for how AI will change our smartphones](https://www.cnn.com/2026/08/12/tech/google-pixel-android-ai-future)**
-
-What if you didn’t have to dig through your email to schedule a follow-up doctor’s appointment, or check your phone to see if your favorite baseball team is at bat yet?
-
-CNN • 14h ago
+reuters.com • 12h ago
 
 ---
 
@@ -143,45 +127,41 @@ CNN • 14h ago
 
 Bots are starting to conspire with one another. Can they be reeled back in?
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
-**[CMOs are struggling to link AI visibility with sales](https://digiday.com/marketing/cmos-are-struggling-to-link-ai-visibility-with-sales/)**
+**[Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack | Hacking](https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas)**
 
-Brands are spending on tools that rate their visibility within LLM responses and AI search, but proving the commercial impact isn’t easy.
+Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach
 
-Digiday • 16m ago
-
----
-
-**[We like life science, industrials, financials and tech sectors as key AI beneficiaries: CIO](https://www.cnbc.com/video/2026/08/13/life-science-industrials-financials-and-tech-as-key-ai-beneficiaries.html)**
-
-Manulife Investment Management's Nathan Thooft says that while people tend to think of AI as a cloud story, in reality it is a lot of infrastructure and goes beyond language models and semiconductors.
-
-CNBC • 54m ago
+The Guardian • 55m ago
 
 ---
 
-**[Asian shares mostly rise after AI leads rally on Wall Street](https://www.clickondetroit.com/business/2026/08/13/asian-shares-mostly-rise-after-ai-leads-rally-on-wall-street/)**
+**[Taiwan says it was targeted last month in AI-driven hacking campaign](https://www.reuters.com/world/china/taiwan-says-it-was-targeted-last-month-ai-driven-hacking-campaign-2026-08-13/)**
 
-Asian shares are mostly higher, as global market optimism continued on prospects for AI stocks and the semiconductor sector.
-
-ClickOnDetroit | WDIV Local 4 • 45m ago
+reuters.com • 3h ago
 
 ---
 
-**[San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion](https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate)**
+**['Near-autonomous' AI agents attack Taiwan's nuclear safety agency](https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055)**
 
-New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race
+Some say the world will end in fire, some say an agentic swarm
 
-The Guardian • 4h ago
+The Register • 8h ago
 
 ---
 
-**[Opinion | A.I. Hype Is Running Into Reality](https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html)**
+**[Opinion | We’re at a Tipping Point on A.I.](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
 
-The New York Times • 19h ago
+The New York Times • 57m ago
+
+---
+
+**[Watch ASUS Lifts AI Server Growth Target](https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -189,7 +169,23 @@ The New York Times • 19h ago
 
 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.
 
-x.ai • 12h ago
+x.ai • 14h ago
+
+---
+
+**[Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback](https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html)**
+
+CNBC’s Jim Cramer said the AI data center trade is regaining market leadership after weeks of forced selling weighed on the group.
+
+CNBC • 7h ago
+
+---
+
+**[Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple](https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html)**
+
+Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
+
+CNBC • 15h ago
 
 ---
 
@@ -199,7 +195,7 @@ x.ai • 12h ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 927 • 💬 963 • 2d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 928 • 💬 965 • 2d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -207,7 +203,7 @@ x.ai • 12h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 779 • 💬 723 • 14h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 818 • 💬 745 • 16h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -237,7 +233,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 425 • 💬 500 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 427 • 💬 503 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -245,7 +241,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 246 • 💬 186 • 14h ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 260 • 💬 191 • 15h ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -253,7 +249,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 199 • 💬 150 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 200 • 💬 150 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -283,7 +279,7 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 9K • 👍 532 • 💬 64 • ⏱️ 17:01 • 5h ago
+👁️ 9K • 👍 532 • 💬 64 • ⏱️ 17:01 • 7h ago
 
 ---
 
@@ -333,7 +329,7 @@ Watch our whole conversation here: https://bit.ly/TWIHI497EthanThornton #podcast
 
 📺 Mike Rowe
 
-👁️ 3K • 👍 171 • 💬 5 • ⏱️ 0:39 • 6h ago
+👁️ 3K • 👍 171 • 💬 5 • ⏱️ 0:39 • 7h ago
 
 ---
 
@@ -401,7 +397,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 83,484 • ❤️ 3,731 • 2h ago
+⬇️ 83,484 • ❤️ 3,731 • 4h ago
 
 ---
 
@@ -437,7 +433,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 978 • ❤️ 567 • 17h ago
+⬇️ 978 • ❤️ 567 • 19h ago
 
 ---
 
@@ -449,7 +445,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 587 • 13h ago
+⬇️ 39 • ❤️ 587 • 15h ago
 
 ---
 
@@ -647,7 +643,7 @@ Multiplayer agent harness for work. https://qm.ycombinator.com
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.3k • 🔱 1.5k • 4h ago
+⭐ 13.3k • 🔱 1.5k • 6h ago
 
 ---
 
@@ -657,7 +653,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 964 • 5h ago
+⭐ 8.3k • 🔱 964 • 6h ago
 
 ---
 
@@ -667,7 +663,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.9k • 🔱 419 • 11h ago
+⭐ 4.9k • 🔱 419 • 13h ago
 
 ---
 
@@ -685,7 +681,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 2.8k • 🔱 269 • 1m ago
+⭐ 2.8k • 🔱 269 • 1h ago
 
 ---
 
@@ -695,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.8k • 🔱 504 • 14h ago
+⭐ 2.8k • 🔱 504 • 15h ago
 
 ---
 
@@ -705,7 +701,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 32s ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -735,7 +731,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 164 • 15h ago
+⭐ 2.1k • 🔱 164 • 16h ago
 
 ---
 

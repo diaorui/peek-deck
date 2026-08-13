@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T04:19:17.158282+00:00'
+updated: '2026-08-13T05:57:19.130854+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 04:19 UTC  
+**Last Updated:** August 13, 2026 at 05:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.5%  
-**30d:** -1.7%  
-**90d:** -13.5%  
-**1y:** -58.5%  
+**24h:** +0.5%  
+**7d:** -1.0%  
+**30d:** -1.2%  
+**90d:** -13.0%  
+**1y:** -58.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -112,7 +112,7 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -160,19 +160,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Which Crypto Do AI Models Say to Buy Right Now: Bitcoin, Ethereum, or XRP?](https://247wallst.com/investing/cryptocurrency/2026/08/09/which-crypto-do-ai-models-say-to-buy-right-now-bitcoin-ethereum-or-xrp/)**
-
-We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked them to rank all three based on which is best to buy now.
-
-24/7 Wall St. • 3d ago
-
----
-
 **[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-theblock.co • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -204,7 +196,7 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+fortune.com • 14h ago
 
 ---
 
@@ -212,15 +204,23 @@ Fortune • 12h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 17h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer](https://www.benzinga.com/crypto/cryptocurrency/26/08/61104769/why-havent-bitcoin-ethereum-moved-in-weeks-technical-analysis-may-have-the-answer)**
+**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
 
-Bitcoin and Ethereum are at critical levels in their consolidation. BTC may break $62,500 support, while ETH could break $1,750. On-chain activity adds to bullish outlook.
+Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
 
 Benzinga • 1d ago
+
+---
+
+**[Fidelity plans Ethereum ETF staking—but cash payouts could reduce ETH exposure](https://ambcrypto.com/fidelity-plans-ethereum-etf-staking-but-cash-payouts-could-reduce-eth-exposure/)**
+
+FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
+
+AMBCrypto • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ Benzinga • 1d ago
 
 Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
 
-The Defiant • 2d ago
+thedefiant.io • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 305 • 💬 193 • ⏱️ 11:59 • 11h ago
+👁️ 4K • 👍 305 • 💬 193 • ⏱️ 11:59 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 5h ago
+👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 6h ago
 
 ---
 
@@ -262,7 +262,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 64 • 💬 9 • ⏱️ 7:15 • 14h ago
+👁️ 2K • 👍 64 • 💬 9 • ⏱️ 7:15 • 16h ago
 
 ---
 
@@ -272,7 +272,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 426 • 💬 188 • ⏱️ 13:27 • 10h ago
+👁️ 6K • 👍 426 • 💬 188 • ⏱️ 13:27 • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 240 • 💬 59 • ⏱️ 1:01:54 • 12h ago
+👁️ 4K • 👍 240 • 💬 59 • ⏱️ 1:01:54 • 14h ago
 
 ---
 
@@ -292,7 +292,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 180 • 💬 10 • ⏱️ 7:07 • 14h ago
+👁️ 3K • 👍 180 • 💬 10 • ⏱️ 7:07 • 15h ago
 
 ---
 
@@ -332,7 +332,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 565 • 💬 187 • ⏱️ 30:14 • 18h ago
+👁️ 5K • 👍 565 • 💬 187 • ⏱️ 30:14 • 20h ago
 
 ---
 
