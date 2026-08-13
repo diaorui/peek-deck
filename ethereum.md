@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T13:10:58.012832+00:00'
+updated: '2026-08-13T14:37:10.542730+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 13:10 UTC  
+**Last Updated:** August 13, 2026 at 14:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.1%  
-**30d:** -1.4%  
-**90d:** -13.1%  
-**1y:** -58.4%  
+**24h:** +0.1%  
+**7d:** -1.0%  
+**30d:** -1.2%  
+**90d:** -13.0%  
+**1y:** -58.3%  
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 5d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 6d ago
 
 ---
 
@@ -160,19 +160,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Fidelity Just Filed to Let Its Crypto Ethereum ETF Stake 100% of Its Holdings](https://finance.yahoo.com/markets/crypto/articles/fidelity-just-filed-let-crypto-104033292.html)**
-
-FD Funds Management LLC, sponsor of the Fidelity Crypto Ethereum Fund (FETH), filed a pre-effective amendment to its Form S-3 registration statement with the U.S. SEC on July 24, 2026, adding disclosure that would let the fund stake up to 100% of its ether (ETH) holdings. The amendment explicitly states ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html)**
 
 Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bitcoin moved up to $63,504.99. Ethereum opened at $1,878.08, down 0.2% from Wednesday's opening. Ethereum moved up to $1,983.13 as of 8:29 a.m. ET.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Goldman Sachs Makes $2.25B Crypto Power Move With Bitcoin and Ethereum ETF Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-2-25b-131726134.html)**
+
+Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 26m ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+fortune.com • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 3h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 2h ago
+Coinpedia • 3h ago
 
 ---
 
@@ -208,19 +208,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
-
-Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
-
-Benzinga • 10h ago
-
----
-
 **[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -228,7 +220,15 @@ Yahoo Finance • 2d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
+
+---
+
+**[Tom Lee's BitMine Is Close to Owning 5% of All ETH: What Happens to BMNR When It Does?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61141537/tom-lees-bitmine-is-close-to-owning-5-of-all-eth-what-happens-to-bmnr-when-it-does)**
+
+BitMine aims to own 5% of Ethereum supply, raising questions on future demand and strategy. The treasury company has already staked 5 million ETH, worth $257 million annually.
+
+Benzinga • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 453 • 💬 103 • ⏱️ 12:21 • 1h ago
+👁️ 2K • 👍 453 • 💬 103 • ⏱️ 12:21 • 3h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 334 • 💬 185 • ⏱️ 11:59 • 20h ago
+👁️ 5K • 👍 334 • 💬 185 • ⏱️ 11:59 • 21h ago
 
 ---
 
@@ -262,7 +262,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 97 • ⏱️ 9:22 • 13h ago
+👁️ 25K • 👍 2K • 💬 97 • ⏱️ 9:22 • 15h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 11 • ⏱️ 7:07 • 22h ago
+👁️ 3K • 👍 195 • 💬 11 • ⏱️ 7:07 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 7K • 👍 507 • 💬 141 • ⏱️ 13:27 • 19h ago
+👁️ 7K • 👍 507 • 💬 141 • ⏱️ 13:27 • 21h ago
 
 ---
 
@@ -302,7 +302,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 23h ago
+👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 250 • 💬 44 • ⏱️ 1:01:54 • 21h ago
+👁️ 4K • 👍 250 • 💬 44 • ⏱️ 1:01:54 • 22h ago
 
 ---
 
