@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-13T05:57:19.115836+00:00'
+updated: '2026-08-13T07:40:39.310753+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 13, 2026 at 05:57 UTC  
+**Last Updated:** August 13, 2026 at 07:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Venice teen planning a mass shooting and hostage taking at a local church shared a 61-page, AI-generated manifesto online, reports said.
 
-🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 2h ago
+🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 4h ago
 
 ---
 
@@ -49,13 +49,13 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Samsung’s Ballie is an AI-powered home robot designed to move around a house, follow users and help manage connected smart-home devices. The compact robot features cameras, a built-in projector and smart-home controls, allowing it to interact with its surroundings and connected devices. Samsung has also planned Google Gemini integration for Ballie, with the goal of making interactions more natural and useful for everyday tasks. Rather than functioning only as a smart-home hub, Ballie is designed as a mobile physical interface that can move through the home and respond to users. Samsung has previously delayed Ballie’s launch, but the project remains active as the company continues working toward bringing its personal AI robot to consumers. For the consumer technology industry, Ballie reflects a broader effort to move AI assistants beyond smartphones and speakers and into physical devices that can perceive and interact with their environments. The bigger question is whether home robots can become useful enough to justify becoming another everyday device in people’s homes.
 
-18h ago
+20h ago
 
 ---
 
 **[AI Can’t Be Listed as Inventor on Patent Applications, Japan’s Top Court Rules](https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/)**
 
-🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 13h ago
+🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 15h ago
 
 ---
 
@@ -63,7 +63,15 @@ Samsung’s Ballie is an AI-powered home robot designed to move around a house, 
 
 air traffic controllers
 
-2h ago
+4h ago
+
+---
+
+**[The White House is reportedly preparing to bring open AI models under its secret prerelease safety-testing framework. So yeah, its getting interesting.](https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/)**
+
+WIRED says the voluntary framework currently covers frontier closed models from labs such as OpenAI and Anthropic. Open models are expected to join once they reach comparable capabilities, potentially facing a 30-day testing period before public release. Officials are caught between two risks: excluding open models could create a government-approved advantage for closed labs; including them could slow US open-model development.
+
+25m ago
 
 ---
 
@@ -71,7 +79,15 @@ air traffic controllers
 
 A few months ago, I started helping my parents organize their health information. As they get older, I realized how much medical history builds up over time: test results, medication changes, doctor visits, and small details that seem insignificant when they happen but become important later. The frustrating part was not that we lacked information. We actually had too much. Some records were in hospital portals, some were saved as PDFs, some were buried in emails, and some details only existed in conversations I barely remembered. Trying to understand the overall picture often felt like putting together a puzzle. I started using some AI tools to make this easier. They helped organize my parents' health information so it was easier to search and review when needed. Instead of spending a lot of time looking through different sources, I could quickly find previous records and get a clearer view of what had happened. It definitely made managing this kind of information much easier. But it also made me notice something interesting about how we interact with AI. When a doctor asks about my parents' history, or when I want to understand whether something has changed recently, my first instinct is now to open the tool instead of trying to recall it myself. The information is available, but I don't necessarily remember it anymore. It reminds me of how smartphones changed the way we remember phone numbers. We didn't lose the ability to memorize numbers overnight; we simply stopped needing to because the information was always available. I wonder if AI will create a similar shift. Having AI organize and remember complex information is incredibly useful, especially when dealing with years of health records and personal history, but at the same time, there is a question about whether convenience changes the way we build our own understanding. Maybe the goal isn't for AI to remember everything instead of us, but to help us understand things better without replacing our own judgment.
 
-3h ago
+5h ago
+
+---
+
+**[One prompt on a local box built this dashboard front end. The data behind it is fake. Toy or tool?](https://www.reddit.com/r/artificial/comments/1vn2z7q/one_prompt_on_a_local_box_built_this_dashboard/)**
+
+Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
+
+1h ago
 
 ---
 
@@ -79,7 +95,7 @@ A few months ago, I started helping my parents organize their health information
 
 Am I the only one experiencing this? Between trying to make sure the machine understands my prompts, refusals, lags, hallucinations - I'm finding myself using it less and less. Is this happening to anyone else or just me?
 
-15h ago
+17h ago
 
 ---
 
@@ -87,29 +103,13 @@ Am I the only one experiencing this? Between trying to make sure the machine und
 
 Hey hey folks, I’ve been thinking about an odd consequence of the generative AI boom. Especially in light of these doomer stories about Anthropic destroying books (boo bad Anthropic bad). The first major LLMs inherited decades of internet that was overwhelmingly produced by humans. Now those same systems and their descendants are producing articles, code, summaries, books, comments, and other material that ends up back in the information environment. Obviously synthetic data itself isn’t inherently bad. Carefully generated and filtered synthetic data can be extremely useful. What interests me is provenance. A book printed in 1980 has a very obvious property: whatever else is wrong with it, it wasn’t written with an LLM. The same applies to old forums, archived websites, academic work, old documentation and other pre-generative material. Does that historical corpus become unusually useful precisely because we know something about its origin? I wrote a longer piece exploring this through Anthropic’s physical book scanning, recursive training/model collapse, old internet archives and human-authorship certification. Full disclosure, it’s mine: https://www.gonzocapital.net/the-internet-ouroboros/ But I’m more interested in the underlying question: does provenance become materially more important for training data, or are filtering and verification techniques good enough that the age/origin of the corpus becomes mostly irrelevant?
 
-11h ago
+13h ago
 
 ---
 
 **[Since when have there been ads on GPT?](https://www.reddit.com/r/artificial/comments/1vmyd88/since_when_have_there_been_ads_on_gpt/)**
 
-3h ago
-
----
-
-**[Grok, Qwen and Nvidia are competing in three different AI markets now](https://www.reddit.com/r/artificial/comments/1vmq6nn/grok_qwen_and_nvidia_are_competing_in_three/)**
-
-The model releases this week looked like one race on the surface, but the business models are separating. xAI's Grok 4.6 is a closed API product. Its leverage comes from controlling access and setting the token price. Alibaba's Qwen3.8 is an open-weight release. Its leverage comes from adoption by organizations that want to operate or adapt the model themselves. Nvidia's Switchyard is a routing layer. It sends each job to the cheapest model that can handle it, which means Nvidia can influence demand without owning every model underneath. The routing layer seems especially important. It learns where models are interchangeable, which suppliers fail under real workloads, and when a cheaper model is good enough. That information can become a stronger moat than a temporary benchmark lead. It also complicates accountability. If a routed output causes harm, the buyer needs a record of which model ran, under which policy, and why it was selected. I wrote up that argument along with Grok 4.6, Qwen3.8, OpenAI hiring a power trader, and the rest of the week's releases here: https://aiweekly.co/issues/the-frontier-just-split-into-three-markets
-
-9h ago
-
----
-
-**[Outsourced my thinking and cognitive debt gives me anxiety](https://www.reddit.com/r/artificial/comments/1vlwvpk/outsourced_my_thinking_and_cognitive_debt_gives/)**
-
-I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the "AI guy" in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well. My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. Even though i am leading this project i have very vague understanding of what is going on. I haven't seen the code for a few months now. When someone asks me a question i give it to an agent and copy-paste response. I used to have impostor syndrome but now i don't have a word for how to call it. I'm just straight up scared that someone will come up to me and start asking questions about how anything works in the project that i lead. But then i have a feeling that i might not be alone. I see em-dashes in my coworker's responses, the "load bearings", the "push backs". I just assume that they had a discussion with an LLM and it put their thoughts in an organized manner. But i don't. I can't have those thoughts because i don't understand what's going on any more. I don't know what this is; a rant? No, i'm just hoping there is someone who is experiencing the same.
-
-1d ago
+5h ago
 
 ---
 
@@ -117,17 +117,29 @@ I'm a dev. In my company I am an early adapter of LLMs, it just so happened that
 
 ## Google News: "ai"
 
-**[EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle](https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/)**
+**[Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
 
-reuters.com • 12h ago
+The New York Times • 2h ago
 
 ---
 
-**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
+**[EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle](https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/)**
 
-Bots are starting to conspire with one another. Can they be reeled back in?
+Reuters • 14h ago
 
-The Atlantic • 9h ago
+---
+
+**[Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up](https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71)**
+
+WSJ • 6h ago
+
+---
+
+**[Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)**
+
+Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.
+
+Google DeepMind • 17h ago
 
 ---
 
@@ -135,13 +147,13 @@ The Atlantic • 9h ago
 
 Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach
 
-The Guardian • 55m ago
+The Guardian • 2h ago
 
 ---
 
 **[Taiwan says it was targeted last month in AI-driven hacking campaign](https://www.reuters.com/world/china/taiwan-says-it-was-targeted-last-month-ai-driven-hacking-campaign-2026-08-13/)**
 
-reuters.com • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -149,43 +161,31 @@ reuters.com • 3h ago
 
 Some say the world will end in fire, some say an agentic swarm
 
-The Register • 8h ago
+The Register • 9h ago
 
 ---
 
-**[Opinion | We’re at a Tipping Point on A.I.](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
+**[Twitch users can now block Amazon from using their content to train AI](https://www.bbc.com/news/articles/cp30pz8d09jo)**
 
-The New York Times • 57m ago
+Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.
 
----
-
-**[Watch ASUS Lifts AI Server Growth Target](https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video)**
-
-Bloomberg.com • 1h ago
+BBC • 4h ago
 
 ---
 
-**[Introducing Grok 4.6](https://x.ai/news/grok-4-6)**
+**[Amazon is using Twitch to train generative AI](https://www.bbc.com/news/videos/cwyq22g0ylxo)**
 
-Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.
+The streaming platform's users criticised the move to allow the use of channel content for AI training.
 
-x.ai • 14h ago
-
----
-
-**[Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback](https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html)**
-
-CNBC’s Jim Cramer said the AI data center trade is regaining market leadership after weeks of forced selling weighed on the group.
-
-CNBC • 7h ago
+BBC • 36m ago
 
 ---
 
-**[Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple](https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html)**
+**[Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)**
 
-Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
+"If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
 
-CNBC • 15h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -203,15 +203,7 @@ CNBC • 15h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 818 • 💬 745 • 16h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
-
----
-
-**[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://news.ycombinator.com/item?id=49239751)**
-
-Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
-
-⬆️ 690 • 💬 393 • 2d ago • [Docker](https://www.docker.com/products/docker-sandboxes/)
+⬆️ 847 • 💬 772 • 18h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -225,7 +217,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 443 • 💬 408 • 2d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 443 • 💬 411 • 2d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -233,7 +225,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 427 • 💬 503 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 428 • 💬 506 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -241,7 +233,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 260 • 💬 191 • 15h ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 267 • 💬 200 • 17h ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -249,7 +241,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 200 • 💬 150 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 200 • 💬 151 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -269,6 +261,14 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 ---
 
+**[Tech leaders say AI means less work – staff say they work up to 90 hours a week](https://news.ycombinator.com/item?id=49241559)**
+
+Tech companies are not modelling their own claims of the technology giving people more free time.
+
+⬆️ 146 • 💬 53 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cvgx4yd1gl2o)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -279,7 +279,7 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 9K • 👍 532 • 💬 64 • ⏱️ 17:01 • 7h ago
+👁️ 15K • 👍 692 • 💬 76 • ⏱️ 17:01 • 8h ago
 
 ---
 
@@ -289,7 +289,7 @@ Meta CEO Mark Zuckerberg details his vision for the future of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 96K • 👍 2K • 💬 891 • ⏱️ 3:31 • 1d ago
+👁️ 99K • 👍 2K • 💬 901 • ⏱️ 3:31 • 1d ago
 
 ---
 
@@ -299,37 +299,7 @@ Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up 
 
 📺 Breaking Points
 
-👁️ 184K • 👍 5K • 💬 631 • ⏱️ 13:12 • 1d ago
-
----
-
-**[Why YouTube&#39;s Ai Purge is Bad](https://www.youtube.com/watch?v=37BqHEtP35c)**
-
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
-
-📺 Danno Cal Drawings
-
-👁️ 1.3M • 👍 92K • 💬 1K • ⏱️ 0:49 • 1d ago
-
----
-
-**[What Meta&#39;s new open-source AI model means for the future of artificial intelligence](https://www.youtube.com/watch?v=SWtcb-K63pI)**
-
-Meta, the company behind Facebook and Instagram, has released a free artificial intelligence tool. The release was accompanied ...
-
-📺 PBS NewsHour
-
-👁️ 73K • 👍 724 • ⏱️ 6:43 • 2d ago
-
----
-
-**[AI and the future](https://www.youtube.com/watch?v=cNxkTw3Knbc)**
-
-Watch our whole conversation here: https://bit.ly/TWIHI497EthanThornton #podcast #future #ai If you like me, and even if you don't ...
-
-📺 Mike Rowe
-
-👁️ 3K • 👍 171 • 💬 5 • ⏱️ 0:39 • 7h ago
+👁️ 185K • 👍 5K • 💬 632 • ⏱️ 13:12 • 1d ago
 
 ---
 
@@ -339,7 +309,57 @@ Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artif
 
 📺 The Infographics Show
 
-👁️ 659K • 👍 15K • 💬 3K • ⏱️ 25:41 • 1d ago
+👁️ 711K • 👍 15K • 💬 3K • ⏱️ 25:41 • 1d ago
+
+---
+
+**[Honest Government Ad | Ai Data Centres](https://www.youtube.com/watch?v=kON2ZI2BNj8)**
+
+The Government™ made an ad about Ai Data Centres, and it's surprisingly honest and informative. Help us to keep making ...
+
+📺 thejuicemedia
+
+👁️ 187K • 👍 24K • 💬 2K • ⏱️ 3:15 • 1d ago
+
+---
+
+**[Say THIS to Destroy AI Bot Callers](https://www.youtube.com/watch?v=fhi6JU5pOJk)**
+
+Destroying AI bot scam calls is hilarious, and pretty easy! ▻ Kraken Partnership: https://kraken.com/kitboga 0:00 AI Scam Calls ...
+
+📺 Kitboga
+
+👁️ 760K • 👍 52K • 💬 5K • ⏱️ 17:04 • 1d ago
+
+---
+
+**[OpenAI’s AI Agents Just Crossed A Line](https://www.youtube.com/watch?v=JQ97GiDwPxc)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers More reports are available here: ...
+
+📺 Two Minute Papers
+
+👁️ 52K • 👍 3K • 💬 440 • ⏱️ 7:18 • 1d ago
+
+---
+
+**[AI and the future](https://www.youtube.com/watch?v=cNxkTw3Knbc)**
+
+Watch our whole conversation here: https://bit.ly/TWIHI497EthanThornton #podcast #future #ai If you like me, and even if you don't ...
+
+📺 Mike Rowe
+
+👁️ 4K • 👍 190 • 💬 6 • ⏱️ 0:39 • 9h ago
+
+---
+
+**[The BEST local AI video generator just got BETTER!](https://www.youtube.com/watch?v=G3YHSvXZP_g)**
+
+Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui ...
+
+📺 AI Search
+
+👁️ 95K • 👍 4K • 💬 470 • ⏱️ 28:19 • 1d ago
 
 ---
 
@@ -349,27 +369,7 @@ AI safety systems are starting to crack. Meta, Anthropic, OpenAI and Kimi models
 
 📺 AI Revolution
 
-👁️ 28K • 👍 973 • 💬 159 • ⏱️ 14:41 • 2d ago
-
----
-
-**[Anthropic to watermark AI-generated text](https://www.youtube.com/watch?v=R01_-MkxFws)**
-
-Anthropic announced that its new Claude AI models will embed an invisible watermark directly into AI-generated text amid ...
-
-📺 ABC News
-
-👁️ 74K • 👍 987 • 💬 484 • ⏱️ 4:14 • 1d ago
-
----
-
-**[Kara Swisher on Zuckerberg&#39;s New AI Manifesto: &quot;He&#39;s in Desperate Need of an Editor&quot; | Pivot](https://www.youtube.com/watch?v=RupPxZkm1Nk)**
-
-Subscribe to Pivot! https://www.youtube.com/@pivot?sub_confirmation=1 As Scott-Free August rolls on, Kara is joined by "Hard ...
-
-📺 Pivot with Kara Swisher and Scott Galloway
-
-👁️ 73K • 👍 2K • 💬 344 • ⏱️ 56:28 • 1d ago
+👁️ 28K • 👍 980 • 💬 161 • ⏱️ 14:41 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 0 • ❤️ 1,312 • 1d ago
+⬇️ 0 • ❤️ 1,335 • 1d ago
 
 ---
 
@@ -397,31 +397,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 83,484 • ❤️ 3,731 • 4h ago
-
----
-
-**[MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)**
-
-*larryvrh*
-
-This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
-
-`text-to-video`
-
-⬇️ 0 • ❤️ 702 • 4d ago
-
----
-
-**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
-
-`text-generation` `304.2B`
-
-⬇️ 1,048,685 • ❤️ 3,252 • 12d ago
+⬇️ 1,575,808 • ❤️ 3,756 • 5h ago
 
 ---
 
@@ -433,7 +409,31 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 978 • ❤️ 567 • 19h ago
+⬇️ 978 • ❤️ 621 • 21h ago
+
+---
+
+**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
+
+`text-generation` `304.2B`
+
+⬇️ 1,048,685 • ❤️ 3,262 • 12d ago
+
+---
+
+**[MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)**
+
+*larryvrh*
+
+This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
+
+`text-to-video`
+
+⬇️ 0 • ❤️ 705 • 4d ago
 
 ---
 
@@ -445,7 +445,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 39 • ❤️ 587 • 15h ago
+⬇️ 39 • ❤️ 601 • 17h ago
 
 ---
 
@@ -455,7 +455,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 6,798,796 • ❤️ 1,264 • 3d ago
+⬇️ 6,798,796 • ❤️ 1,270 • 3d ago
 
 ---
 
@@ -467,7 +467,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 20,376 • ❤️ 415 • 1d ago
+⬇️ 20,376 • ❤️ 425 • 1d ago
 
 ---
 
@@ -479,7 +479,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 0 • ❤️ 370 • 2d ago
+⬇️ 0 • ❤️ 374 • 2d ago
 
 ---
 
@@ -491,7 +491,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,565,484 • ❤️ 10,585 • 16d ago
+⬇️ 1,565,484 • ❤️ 10,589 • 16d ago
 
 ---
 
@@ -507,7 +507,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 555 • 💬 2 • ⭐ 1,097 • 3d ago
+▲ 560 • 💬 2 • ⭐ 1,193 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -519,7 +519,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 121 • 💬 4 • ⭐ 97,865 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 97,865 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -643,7 +643,7 @@ Multiplayer agent harness for work. https://qm.ycombinator.com
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.3k • 🔱 1.5k • 6h ago
+⭐ 13.3k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -653,7 +653,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.3k • 🔱 964 • 6h ago
+⭐ 8.3k • 🔱 965 • 8h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.9k • 🔱 419 • 13h ago
+⭐ 4.9k • 🔱 420 • 14h ago
 
 ---
 
@@ -681,7 +681,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 2.8k • 🔱 269 • 1h ago
+⭐ 3.2k • 🔱 313 • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.8k • 🔱 504 • 15h ago
+⭐ 2.8k • 🔱 509 • 17h ago
 
 ---
 
@@ -701,7 +701,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 24s ago
 
 ---
 
@@ -711,7 +711,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.6k • 🔱 217 • 1d ago
+⭐ 2.6k • 🔱 218 • 1d ago
 
 ---
 
@@ -731,7 +731,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 164 • 16h ago
+⭐ 2.1k • 🔱 164 • 12m ago
 
 ---
 

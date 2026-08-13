@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T05:57:19.130854+00:00'
+updated: '2026-08-13T07:40:39.325207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 05:57 UTC  
+**Last Updated:** August 13, 2026 at 07:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -1.0%  
+**24h:** +0.3%  
+**7d:** -0.9%  
 **30d:** -1.2%  
 **90d:** -13.0%  
 **1y:** -58.3%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.45B
+**Market Cap:** $228.79B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-61.7%
 
 **All-Time Low:** $0.43
-+435214.4%
++437757.3%
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -196,7 +196,7 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -204,7 +204,7 @@ fortune.com • 14h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -220,7 +220,7 @@ Benzinga • 1d ago
 
 FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
 
-AMBCrypto • 14h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -228,7 +228,7 @@ AMBCrypto • 14h ago
 
 Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
 
-thedefiant.io • 2d ago
+The Defiant • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 305 • 💬 193 • ⏱️ 11:59 • 12h ago
+👁️ 5K • 👍 324 • 💬 152 • ⏱️ 11:59 • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 1K • 💬 74 • ⏱️ 9:22 • 6h ago
+👁️ 17K • 👍 1K • 💬 85 • ⏱️ 9:22 • 8h ago
 
 ---
 
@@ -262,37 +262,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 64 • 💬 9 • ⏱️ 7:15 • 16h ago
-
----
-
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
-
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
-
-📺 AllinCrypto
-
-👁️ 6K • 👍 426 • 💬 188 • ⏱️ 13:27 • 12h ago
-
----
-
-**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
-
-Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 240 • 💬 59 • ⏱️ 1:01:54 • 14h ago
-
----
-
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 180 • 💬 10 • ⏱️ 7:07 • 15h ago
+👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 18h ago
 
 ---
 
@@ -302,7 +272,27 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 📺 Lark Davis
 
-👁️ 14K • 👍 652 • 💬 86 • ⏱️ 6:34 • 2d ago
+👁️ 14K • 👍 653 • 💬 86 • ⏱️ 6:34 • 2d ago
+
+---
+
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+
+📺 AllinCrypto
+
+👁️ 6K • 👍 453 • 💬 142 • ⏱️ 13:27 • 14h ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 190 • 💬 10 • ⏱️ 7:07 • 17h ago
 
 ---
 
@@ -312,7 +302,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 5K • 👍 153 • 💬 64 • ⏱️ 54:27 • 2d ago
+👁️ 5K • 👍 154 • 💬 64 • ⏱️ 54:27 • 2d ago
+
+---
+
+**[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
+
+Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 242 • 💬 44 • ⏱️ 1:01:54 • 16h ago
 
 ---
 
@@ -322,7 +322,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 467 • 💬 234 • ⏱️ 19:05 • 1d ago
+👁️ 7K • 👍 474 • 💬 234 • ⏱️ 19:05 • 1d ago
 
 ---
 
@@ -332,7 +332,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 565 • 💬 187 • ⏱️ 30:14 • 20h ago
+👁️ 5K • 👍 570 • 💬 95 • ⏱️ 30:14 • 22h ago
 
 ---
 
