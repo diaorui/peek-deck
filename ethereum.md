@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T07:40:39.325207+00:00'
+updated: '2026-08-13T09:12:11.882099+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 07:40 UTC  
+**Last Updated:** August 13, 2026 at 09:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -0.9%  
-**30d:** -1.2%  
-**90d:** -13.0%  
-**1y:** -58.3%  
+**24h:** -1.3%  
+**7d:** -1.6%  
+**30d:** -1.8%  
+**90d:** -13.5%  
+**1y:** -58.6%  
 
 ---
 
@@ -164,7 +164,15 @@ Decrypt • 1d ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 12h ago
+The Block • 13h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
+
+Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
+
+Benzinga • 6h ago
 
 ---
 
@@ -196,7 +204,7 @@ CoinDesk • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 15h ago
+Fortune • 17h ago
 
 ---
 
@@ -204,15 +212,15 @@ Fortune • 15h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 20h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://www.tradingview.com/news/coinpedia:d5da81f4f094b:0-why-ethereum-price-could-skyrocket-to-3-000-within-days-or-weeks/)**
 
-Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
+Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
 
-Benzinga • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -220,15 +228,7 @@ Benzinga • 1d ago
 
 FETH may stake up to 100% of its Ethereum holdings after its amended SEC registration statement becomes effective.
 
-AMBCrypto • 16h ago
-
----
-
-**[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy](https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy)**
-
-Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
-
-The Defiant • 2d ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 324 • 💬 152 • ⏱️ 11:59 • 14h ago
+👁️ 5K • 👍 324 • 💬 152 • ⏱️ 11:59 • 16h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 85 • ⏱️ 9:22 • 8h ago
+👁️ 17K • 👍 1K • 💬 85 • ⏱️ 9:22 • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 18h ago
+👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 19h ago
 
 ---
 
@@ -282,7 +282,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 453 • 💬 142 • ⏱️ 13:27 • 14h ago
+👁️ 6K • 👍 453 • 💬 142 • ⏱️ 13:27 • 15h ago
 
 ---
 
@@ -292,7 +292,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 10 • ⏱️ 7:07 • 17h ago
+👁️ 3K • 👍 190 • 💬 10 • ⏱️ 7:07 • 18h ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 242 • 💬 44 • ⏱️ 1:01:54 • 16h ago
+👁️ 4K • 👍 242 • 💬 44 • ⏱️ 1:01:54 • 17h ago
 
 ---
 
@@ -332,7 +332,7 @@ Well, it looks like 3 altcoins are taking center state in the world of the crypt
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 570 • 💬 95 • ⏱️ 30:14 • 22h ago
+👁️ 5K • 👍 570 • 💬 95 • ⏱️ 30:14 • 23h ago
 
 ---
 

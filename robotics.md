@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-13T07:40:39.328435+00:00'
+updated: '2026-08-13T09:12:11.884998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 13, 2026 at 07:40 UTC  
+**Last Updated:** August 13, 2026 at 09:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,35 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A robot claw to spin a globe on my desk](https://www.reddit.com/r/robotics/comments/1vn4psz/a_robot_claw_to_spin_a_globe_on_my_desk/)**
+
+I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to make my own. Here it’s running in standalone mode using an Arduino, 12 Dynamixel XL430s and 4 potentiometers to control the globe’s speed/direction, height, width, and depth of each offset step. I’ve done more movements using a Python based GUI on my laptop but that requires a usb connection. Full video on my build with links to STLs, code and parts list here: https://youtu.be/pEU04FVNeZw Next project is a Leaper from Arc Raiders. Just need to figure out how to trigger a rocket to make a robot spider jump.
+
+53m ago
+
+---
+
 **[Hexapod Spider Robot (Half-finished)](https://www.reddit.com/r/robotics/comments/1vn17c3/hexapod_spider_robot_halffinished/)**
 
 (Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets)
 
-2h ago
+4h ago
+
+---
+
+**[Building a 5-digit Recognition System on ESP32-S3](https://www.reddit.com/r/robotics/comments/1vn5cml/building_a_5digit_recognition_system_on_esp32s3/)**
+
+I've been experimenting with running a complete digit recognition system directly on an ESP32-S3 using TensorFlow Lite Micro. The goal was to recognize 5-digit readings (such as meter displays) completely on-device without relying on a PC or cloud inference. The hardware I used was an ESP32-S3 development board with an onboard camera and AMOLED display (Makerfabs MaTouch ESP32-S3 AI Camera), but the workflow should apply to similar ESP32-S3 camera boards. How it works: Data Collection: Flashed a utility firmware to capture camera frames aligned via an on-screen yellow bounding box, outputting labeled image pairs and a label.csv. Model Training & INT8 Quantization: Trained a lightweight CNN model and quantized it to INT8 to run within the ESP32-S3's memory limits. On-Device Inference: Compiled the quantized model directly into the ESP-IDF binary and deployed it back to the board. The result is surprisingly reliable—it reads all 5 digits cleanly in real time. Hardware & Tech Stack: Board: Makerfabs MaTouch ESP32-S3 AMOLED AI Camera Framework: ESP-IDF + TensorFlow Lite Micro Tooling: Custom Python tools for capture & quantization I put together a detailed write-up covering the complete workflow on GitHub, in case anyone wants to reproduce or adapt it for a similar project. I'd also love to hear how others approach digit recognition with TensorFlow Lite Micro. Have you found any effective ways to improve accuracy or speed up the data collection process?
+
+15m ago
+
+---
+
+**[Folding a towel: hands vs code, and the hands still win](https://www.reddit.com/r/robotics/comments/1vn4r8r/folding_a_towel_hands_vs_code_and_the_hands_still/)**
+
+This week a student came by and tried our teaching arms, both hands on two of them, teleoperating our control arms. First try, the arms folded the towel. That's exactly why we still keep teleoperation around. You don't write a line of code. You just move. The teaching arms are linked to the control arms, so your motion gets copied onto them in real time. Which means someone with zero experience can do the kind of thing that would otherwise take ages to hand-program. Watching him work, two things hit me. One: this is still the fastest way we have to pull real manipulation data. Fabric is the hardest to deal with. No fixed grasp point, and it keeps sliding off to the side. A human hand just knows how to teach it the right move. Two: it's a straight check on whether the motion actually holds up. If a person can't move the arm cleanly themselves, all the algorithm and programming in the world probably won't fix it. That's why the towel became our test. Soft. Slippery. Never the same twice. And honestly, if you want a robot to fold a towel, the fastest way I know is still a human on the teaching arms. The models haven't beaten that trick yet.
+
+51m ago
 
 ---
 
@@ -44,7 +68,7 @@ Robotics research and industry news
 
 This is yet another update from my project. Mighty Camera runs VIO on-device realtime in a tiny package. This gives us accurate camera motion. Using that + the camera feed, the SDK estimates depth and builds a 3D map of obstacles around it. This means a robot or drone can use Mighty for things like: - Collision avoidance - Motion planning - Autonomous navigation No stereo camera or depth sensor needed. Just Mighty’s global shutter camera + IMU.
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +76,15 @@ This is yet another update from my project. Mighty Camera runs VIO on-device rea
 
 Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been building a TurtleBot + ROS2 Humble project (Docker, React dashboard, Nav2, Gazebo sim) and want to go deeper on C++, Linux, and SLAM with people who are serious about it. Thinking a small group (Discord/weekly calls) where we: Work through ROS2 concepts and share resources Review each other's projects/code Mock interview each other for robotics SWE roles Keep each other accountable If you're learning robotics software (student, self-taught, or between jobs), drop a comment or DM. Open to remote/India-based folks especially, but anyone's welcome.
 
-18h ago
+20h ago
+
+---
+
+**[I built a local web app for curating SO-101 datasets across v2.1, v3.1, framerates, and camera setups](https://www.reddit.com/r/robotics/comments/1vn3y5a/i_built_a_local_web_app_for_curating_so101/)**
+
+I've been training Lingbot-va and Dreamzero lately. For anyone who doesn't know, those need a lot of diverse data, both in terms of environment and play data. That pushed me toward the huge pool of SO-101 datasets that already exist for VLA and ACT training. The problem is those datasets are a mess to combine. Most of them are repetitive, and the task descriptions are generic. They sit on different versions, v2.1 or v3.1. Different framerates, different quality, different camera angles. And at the end you still have to balance the whole thing before it's usable. So I built Dataset Assembly Studio, a local web app that runs over a folder of LeRobot datasets and takes them to a verified v2.1 export. The flow is a set of tabs. Sources, output contract, camera mapping, joint mapping, episodes, tasks, balance, preflight, export. It validates every source before it can be used. Invalid parquet, missing metadata, single-camera recordings, and episodes under two seconds get rejected up front. Camera views can be previewed before mapping, one to wrist and one to a second canonical camera. The six SO-101 joints for both action and observation.state are mapped automatically, with manual correction when a source uses another order. Curation works one dataset at a time. You stage episodes with gallery checkboxes, load all camera views for a focused episode, edit final prompts, and save approved checkpoints. Source files are never modified, all state lives under .dataset_studio/. Global balance groups tasks by a local embedding and caps the episode count per task group. Then a blocking preflight checks camera, joint, schema, media, duration, prompt, destination, and checkpoint compatibility before export. The export runs in the background, rebuilds indices, and writes normalized v2.1 data with exactly two camera streams. A .tar.gz is only prepared if you ask for it. Everything runs locally, no auth, no cloud. A Groq API key is optional just for naming task groups, everything else works without it. Repo: github.com/mekala-2405/dataset-assembly-studio Static demo : https://projects.mharsh.me/data_assembly_studio check out my portfolio and other projects : mharsh.me Walkthrough : https://www.youtube.com/watch?v=bJFGVuzufwQ If you've been through the same dataset grind, I'd love to hear how you handle it and some feedback . The attached video might sound like AI-Slop please bear with it .
+
+1h ago
 
 ---
 
@@ -60,7 +92,7 @@ Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been build
 
 Exoskeletons can handle predictable movements pretty well. Everyday movement is a lot messier. Kathryn Zealand of Skip explains why something as simple as bending down can create a control problem, and how the company is using machine learning to better understand what a person is actually trying to do. Full ep: https://www.youtube.com/watch?v=jDR8xeU-GFQ
 
-15h ago
+17h ago
 
 ---
 
@@ -68,7 +100,7 @@ Exoskeletons can handle predictable movements pretty well. Everyday movement is 
 
 There's of course a lot of hype around the new robot foundation models, but seems that there are not many real deployments. Has anyone tried making this things work in production? Which tasks did you try? Did you have to end up collecting a lot of data to fine tune the model?
 
-18h ago
+19h ago
 
 ---
 
@@ -76,39 +108,7 @@ There's of course a lot of hype around the new robot foundation models, but seem
 
 Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-USV, and I recently completed its first system integration and field test. The hull was designed in FreeCAD and 3D-printed in PETG. The onboard system uses a Raspberry Pi 5 for navigation, sensor processing, data logging, and mission-level control, while an ESP32-S3 handles real-time thruster control and safety-related functions. The vehicle uses two independently controlled thrusters and steers through differential thrust. It collects navigation data from GPS, IMU, and magnetometer sensors. Waypoint-based autonomous navigation is planned for the next stage of development. The main goals of this first field test were to evaluate: Hull buoyancy and stability Manual RC control and steering response Communication between the Raspberry Pi and ESP32 Navigation sensor data collection Power, vibration, and other system issues under real operating conditions This was not yet a polished autonomous-navigation demonstration. It was an early system integration test conducted before implementing and validating waypoint navigation. The vehicle also behaved quite differently on the water than I had expected from indoor testing. However, the test provided useful data and revealed several areas that need improvement, particularly sensor calibration, heading estimation, control response, and the onboard electronics. I put together a video showing both the development process and the vehicle’s first field test: https://youtu.be/Lz2eOEANyZo I’m now developing a more modular second version of the platform, together with improved navigation and waypoint control. The long-term goal is to develop BN-USV into a practical modular platform for marine research, education, environmental monitoring, and autonomous-navigation experiments. Full disclosure: I’m developing BN-USV as part of BrillNova, with the long-term goal of turning it into a commercial modular hardware platform. The software and development process will remain open and publicly documented. I’d be very interested to hear feedback, especially from anyone who has worked with small USVs, autonomous boats, marine robotics, sensor fusion, or differential-thrust control. Thanks!
 
-17h ago
-
----
-
-**[Do humanoid robots need to be general-purpose to actually scale?](https://www.reddit.com/r/robotics/comments/1vmiwaj/do_humanoid_robots_need_to_be_generalpurpose_to/)**
-
-Humanoid pilots are starting to focus on narrower tasks and simpler deployment models. Toyota Research Institute is testing a progression from vision systems to specialized mobile manipulation before moving toward more complex humanoid systems. Other companies are also focusing on specific tasks, operational KPIs and collecting real-world data through deployment.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/are-simple-tasks-and-simpler-hardware-the-secret-to-scaling-humanoids) • 15h ago
-
----
-
-**[ros2_control With Closed-Loop Feedback](https://www.reddit.com/r/robotics/comments/1vm9v04/ros2_control_with_closedloop_feedback/)**
-
-If you want to see how ros2_control works WITH feedback from encoders, take a look at my latest blog post and video in the Autonomously Exploring Viam Rover series! I talk through how the motors are driven, show how encoders work and how they're read, and most importantly, how they're linked together by ros2_control using chained PID controllers with a differential drive controller. Blog post: https://mikelikesrobots.github.io/blog/rover-ros2-control Video: https://youtu.be/FyVvHbA4nBs
-
-21h ago
-
----
-
-**[The data scaling law for physical AI is real](https://www.reddit.com/r/robotics/comments/1vmrw4d/the_data_scaling_law_for_physical_ai_is_real/)**
-
-Two results dropped this week that I think together paint a clearer picture than either one alone. Dyna-2 (Aug 10): World-action model pretrained on 1M hours of egocentric human video. Power law holds across 4 orders of magnitude (1K to 1M hours). Cross-embodiment transfer to robots never seen in pretraining. Task success from 20% to 80-90% purely from scaling data. No architecture changes. PI0.7 (Chelsea Finn's talk, today): Single generalist model trained on highly heterogeneous data matches or outperforms fine-tuned specialists. Key ablation: removing the most diverse subset of training data causes a dramatic drop in held-out task performance. Removing a random 20% barely moves the needle. The common thread: scaling works, but what you scale matters. Dyna-2 proves the law holds to 1M hours with no plateau. PI proves that within that data, diversity (different environments, objects, tasks) is what actually drives compositional generalization, not repetition of the same scenes. Both results converge on the same conclusion: physical AI foundation models need scale AND breadth. 1M hours of kitchens won't get you construction site generalization. But 1M hours across 100+ work domains apparently will.
-
-9h ago
-
----
-
-**[Collision-avoidant admittance control via marker-free localisation](https://www.reddit.com/r/robotics/comments/1vld63g/collisionavoidant_admittance_control_via/)**
-
-We recently explored integrating marker-free robot localisation into a collision-aware admittance controller. roboreg estimates the poses of both robots. OpTaS constructs and continuously solves the admittance task subject to spherical collision constraints (visualised as red spheres in RViz). It can't really be "felt" by watching the video, but sliding along these virtual spheres creates quite the surreal sensation. roboreg: github.com/lbr-stack/roboreg OpTaS: github.com/cmower/optas
-
-1d ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 1d ago
 
 Uber Technologies Inc. has divested from long-time partner Serve Robotics Inc. as the two companies clash over how to deploy delivery robots, the latest setback in Uber’s push to facilitate autonomous services on its platform.
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -136,7 +136,7 @@ Bloomberg • 1d ago
 
 A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -146,11 +146,19 @@ The New York Times • 1d ago
 
 ---
 
+**['A huge win': Utah State University, technical colleges partner to bolster robotics workforce](https://www.ksl.com/article/51608468/a-huge-win-utah-state-university-technical-colleges-partner-to-bolster-robotics-workforce)**
+
+Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
+
+KSL.com • 1d ago
+
+---
+
 **[San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use](https://www.kqed.org/news/12094873/san-mateo-county-could-be-first-to-regulate-humanoid-robots-for-commercial-use)**
 
 Researchers say that humanoid robots have a long way to go before they are officially ready for work.
 
-kqed.org • 17h ago
+kqed.org • 19h ago
 
 ---
 
@@ -173,14 +181,6 @@ EE Times • 1d ago
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
 Nature • 1d ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-IEEE Spectrum • 2d ago
 
 ---
 
@@ -270,7 +270,7 @@ In a hackathon we sponsored, builders created an autonomous mobile freezer power
 
 📺 AgileX Robotics
 
-👁️ 1K • 👍 9 • ⏱️ 0:13 • 8h ago
+👁️ 1K • 👍 9 • ⏱️ 0:13 • 9h ago
 
 ---
 
