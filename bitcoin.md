@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T10:36:05.780002+00:00'
+updated: '2026-08-13T11:46:34.405724+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 10:36 UTC  
+**Last Updated:** August 13, 2026 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,876.62
+### $63,438.87
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.0%  
-**7d:** -2.0%  
-**30d:** -1.8%  
-**90d:** -18.6%  
-**1y:** -46.1%  
+**7d:** -2.2%  
+**30d:** -2.0%  
+**90d:** -18.8%  
+**1y:** -46.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 14h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 15h ago
 
 ---
 
@@ -101,7 +101,7 @@ On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery
 
 **[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do you the BTC consolidation and downtrend is finished or will continue? Clarity
 
 What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ What are your thoughts on this commonly debated topic? I've read the arguments f
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 18h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft
 
 Seeing a lot of people treat the Coldcard hack like proof hardware wallets in general aren't safe anymore. That's not really what happened. Coldcard had a bug in how their firmware generated the random numbers used to create your seed phrase, and it sat there undetected for five years. A code change in March 2021 quietly swapped out the proper hardware randomness for a broken software substitute. That made some seeds way easier to guess than they should've been, and that's how funds got drained. That's a Coldcard problem. A mistake in their code, not a flaw in the whole idea of hardware wallets as a category. However, I'm not making the argument that it can't happen to other brands too. Any company can ship a bad update. But wallets that are fully open source, like Trezor or Blockstream Jade, tend to have way more independent people checking the code over time, which makes bugs like this less likely to slip through for years. Not a guarantee, just better odds. And this is how most tech usually evolves. Some things go wrong but that's how it becomes more robust and anti-fragile. But I also understand that "that's just how tech evolves" doesn't help people who actually lost their money. Genuinely feel for everyone who lost years of savings over something totally out of their control though, that part really sucks and doesn't get fixed by any of this logic.
 
-18h ago
+19h ago
 
 ---
 
@@ -155,27 +155,11 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 ## Google News: "bitcoin"
 
-**[BTC price news: Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests](https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests)**
-
-An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.
-
-CoinDesk • 6h ago
-
----
-
 **[Live updates: Bitcoin price slips toward $63,000 after CPI, AI stocks surge on Q2 beats](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
 
 Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-CoinDesk • 13h ago
-
----
-
-**[Gold Price Climbed After July Inflation Data, But Bitcoin Didn’t. Why?](https://finance.yahoo.com/markets/commodities/articles/gold-price-climbed-july-inflation-173316592.html)**
-
-CryptoQuant flags a Bitcoin bottom signal as Fed pause odds top 60% after cool July CPI. Capitulation may not be done.
-
-finance.yahoo.com • 17h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -187,11 +171,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Billionaire Ray Dalio Says He Has 1% of His Portfolio in Bitcoin. Is It Time to Rethink Your Bitcoin Allocation?](https://finance.yahoo.com/markets/crypto/articles/billionaire-ray-dalio-says-1-110800087.html)**
+
+Bitcoin might be risky and speculative. But it could also be a surprisingly good hedge against downside risk.
+
+Yahoo Finance • 38m ago
+
+---
+
 **[Metaplanet’s $322M Bitcoin Transfer Sparks Sale Fears — CEO Says No BTC Was Sold](https://bitcoinfoundation.org/news/bitcoin/metaplanets-322m-bitcoin-transfer-sparks-sale-fears-ceo-says-no-btc-was-sold/)**
 
 Metaplanet says a 5,014 BTC transfer worth roughly $322 million was an internal custody move, with its Bitcoin treasury unchanged at 43,000 BTC.
 
-Bitcoin Foundation • 1h ago
+Bitcoin Foundation • 2h ago
 
 ---
 
@@ -199,15 +191,7 @@ Bitcoin Foundation • 1h ago
 
 Cryptocurrency bettors are tempering expectations about Bitcoin (CRYPTO: BTC) reclaiming $100,000 in 2026. Bitcoin to $100,000 Unlikely in 2026? Polygon (CRYPTO: POL)-based Polymarket currently assigns only a 9% chance of Bitcoin hitting $100,000 and beyond this year, down from a...
 
-finance.yahoo.com • 1h ago
-
----
-
-**[Bitcoin User Pays 1.6 BTC Fee Worth $102,778. Don’t Make the Same Mistake](https://finance.yahoo.com/markets/crypto/articles/bitcoin-user-pays-1-6-081040672.html)**
-
-A Bitcoin user paid a 1.6 BTC fee and sent nothing. See the three wallet settings that stop a runaway RBF bot.
-
-finance.yahoo.com • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -223,7 +207,13 @@ CNBC • 1d ago
 
 Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Bitcoin subdued at $64k as Iran hopes dither; July CPI cools](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755)**
+
+Investing.com • 20h ago
 
 ---
 
@@ -232,6 +222,14 @@ Bitcoin Magazine • 13h ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 23h ago
+
+---
+
+**[It’s Going ‘Significantly Higher’—BlackRock Just Quietly Called The Bitcoin Price Bottom](https://www.forbes.com/sites/digital-assets/2026/08/11/its-going-significantly-higher-blackrock-just-quietly-called-the-bitcoin-price-bottom/)**
+
+BlackRock has revealed it's seen a flip in sentiment, forecasting the bitcoin price is heading “significantly higher"...
+
+Forbes • 1d ago
 
 ---
 
@@ -259,7 +257,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 1h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 2h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -283,7 +281,23 @@ Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone br
 
 Last week we released version 0.2 of pgrust. This release was all about performance. It’s 10x faster than the previous version of pgrust. On OLTP benchmarks, pgrust is 30% faster than Postgres, and on Clickbench, Clickhouse’s benchmark for analytical databases, pgrust is 300x faster than Postgres. It’s even ahead of Clickhouse! The query engine is […]
 
-⬆️ 336 • 💬 176 • 5d ago • [malisper.me](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+⬆️ 336 • 💬 176 • 6d ago • [malisper.me](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+
+---
+
+**[Show HN: Carolina Cloud Nextflow](https://news.ycombinator.com/item?id=49284206)**
+
+Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
+
+⬆️ 1 • 💬 0 • 42m ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+
+---
+
+**[A handful of cities have replaced Flock with Axon](https://news.ycombinator.com/item?id=49199308)**
+
+Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings.
+
+⬆️ 103 • 💬 41 • 6d ago • [404 Media](https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/)
 
 ---
 
@@ -297,7 +311,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 4K • 💬 212 • ⏱️ 21:29 • 9h ago
+👁️ 48K • 👍 4K • 💬 212 • ⏱️ 21:29 • 10h ago
 
 ---
 
@@ -307,7 +321,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 11h ago
+👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 12h ago
 
 ---
 
@@ -317,7 +331,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 450 • 💬 17 • ⏱️ 10:31 • 4h ago
+👁️ 4K • 👍 450 • 💬 17 • ⏱️ 10:31 • 5h ago
 
 ---
 
@@ -337,7 +351,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 733 • 💬 71 • ⏱️ 41:32 • 20h ago
+👁️ 12K • 👍 733 • 💬 71 • ⏱️ 41:32 • 21h ago
 
 ---
 
@@ -377,7 +391,7 @@ BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref
 
 📺 Jayson Casper
 
-👁️ 5K • 👍 220 • 💬 64 • ⏱️ 6:36 • 20h ago
+👁️ 5K • 👍 220 • 💬 64 • ⏱️ 6:36 • 21h ago
 
 ---
 

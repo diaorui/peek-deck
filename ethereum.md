@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T10:36:05.786155+00:00'
+updated: '2026-08-13T11:46:34.410389+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 10:36 UTC  
+**Last Updated:** August 13, 2026 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,882.87
+### $1,877.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -1.7%  
-**30d:** -1.9%  
-**90d:** -13.6%  
-**1y:** -58.6%  
+**24h:** -1.6%  
+**7d:** -1.9%  
+**30d:** -2.2%  
+**90d:** -13.9%  
+**1y:** -58.7%  
 
 ---
 
@@ -160,11 +160,27 @@ Decrypt • 1d ago
 
 ---
 
+**[Fidelity Just Filed to Let Its Crypto Ethereum ETF Stake 100% of Its Holdings](https://finance.yahoo.com/markets/crypto/articles/fidelity-just-filed-let-crypto-104033292.html)**
+
+FD Funds Management LLC, sponsor of the Fidelity Crypto Ethereum Fund (FETH), filed a pre-effective amendment to its Form S-3 registration statement with the U.S. SEC on July 24, 2026, adding disclosure that would let the fund stake up to 100% of its ether (ETH) holdings. The amendment explicitly states ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Current price of Ethereum for Aug. 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
 **[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -172,15 +188,7 @@ The Block • 15h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-benzinga.com • 8h ago
-
----
-
-**[Current price of Ethereum for August 12, 2026](https://fortune.com/article/price-of-ethereum-08-12-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 18h ago
+Benzinga • 9h ago
 
 ---
 
@@ -188,7 +196,7 @@ Fortune • 18h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 9h ago
+Coinpedia • 11h ago
 
 ---
 
@@ -196,7 +204,7 @@ Coinpedia • 9h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-fool.com • 23h ago
+fool.com • 1d ago
 
 ---
 
@@ -212,7 +220,7 @@ PR Newswire • 2d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -220,15 +228,7 @@ finance.yahoo.com • 2d ago
 
 BitMine aims to own 5% of Ethereum supply, raising questions on future demand and strategy. The treasury company has already staked 5 million ETH, worth $257 million annually.
 
-benzinga.com • 21h ago
-
----
-
-**[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy](https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy)**
-
-Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
-
-The Defiant • 2d ago
+Benzinga • 22h ago
 
 ---
 
@@ -242,7 +242,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 329 • 💬 167 • ⏱️ 11:59 • 17h ago
+👁️ 5K • 👍 329 • 💬 167 • ⏱️ 11:59 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 11h ago
+👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 7K • 👍 476 • 💬 136 • ⏱️ 13:27 • 17h ago
+👁️ 7K • 👍 476 • 💬 136 • ⏱️ 13:27 • 18h ago
 
 ---
 
@@ -282,7 +282,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 193 • 💬 10 • ⏱️ 7:07 • 20h ago
+👁️ 3K • 👍 193 • 💬 10 • ⏱️ 7:07 • 21h ago
 
 ---
 
@@ -292,7 +292,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 65 • 💬 9 • ⏱️ 7:15 • 21h ago
+👁️ 2K • 👍 65 • 💬 9 • ⏱️ 7:15 • 22h ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 245 • 💬 44 • ⏱️ 1:01:54 • 18h ago
+👁️ 4K • 👍 245 • 💬 44 • ⏱️ 1:01:54 • 20h ago
 
 ---
 
