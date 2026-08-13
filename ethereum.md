@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T21:44:40.473837+00:00'
+updated: '2026-08-13T22:41:22.044354+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 21:44 UTC  
+**Last Updated:** August 13, 2026 at 22:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 The Ethereum staking platform Ether.fi is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -176,13 +176,13 @@ Scott Melker breaks down Fidelity's decision to add staking rewards to its ether
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-ccn.com • 7h ago
+ccn.com • 8h ago
 
 ---
 
@@ -190,7 +190,7 @@ ccn.com • 7h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-coinpedia.org • 7h ago
+coinpedia.org • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ coinpedia.org • 7h ago
 
 Ethereum price could surge over 50% toward $3,000 as cooling US inflation and lower Fed hike odds support a falling-wedge breakout setup.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -206,7 +206,7 @@ Yahoo Finance • 13h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ Fortune • 11h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 5h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -222,7 +222,7 @@ CryptoSlate • 5h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-Benzinga • 19h ago
+Benzinga • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ Benzinga • 19h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ blockchain.news • 6h ago
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 22h ago
+👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 3h ago
+👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 10h ago
+👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 11h ago
 
 ---
 
@@ -334,7 +334,7 @@ Ethereum is getting hammered back into the deep support buy zone—could ETH cra
 
 📺 The Crypto Code
 
-👁️ 8 • 👍 1 • ⏱️ 0:47 • 3h ago
+👁️ 8 • 👍 1 • ⏱️ 0:47 • 4h ago
 
 ---
 

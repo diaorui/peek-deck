@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T21:44:40.467587+00:00'
+updated: '2026-08-13T22:41:22.037771+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 21:44 UTC  
+**Last Updated:** August 13, 2026 at 22:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,77 +77,75 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Taiwan Lawmaker Puts Bitcoin Reserve Odds at 80% in Five Years](https://www.reddit.com/r/Bitcoin/comments/1vmphfm/taiwan_lawmaker_puts_bitcoin_reserve_odds_at_80/)**
+**[Trezor's shipping provider, ShipMonk, data breach. Great, just what we need.](https://www.reddit.com/r/Bitcoin/comments/1vna0l9/trezors_shipping_provider_shipmonk_data_breach/)**
 
-Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
+We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 1d ago
-
----
-
-**[24.46 BTC was stolen from my Trezor in 2021. Years later, I won a UK High Court judgment. I am still trying to recover it.](https://www.reddit.com/r/Bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years/)**
-
-On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn’t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within hours. The transactions continued. I spent the following years trying to understand what had happened and attempting to recover the bitcoin. Eventually I took the matter to the UK High Court. In December 2024, the court entered judgment in my favour and ordered the return/payment of assets valued at approximately £1.95 million. HTX did not comply with the judgment. What fascinates and frustrates me about the case is that Bitcoin itself did exactly what it was supposed to do. The blockchain preserved the trail. Years later, those transactions are still there for anyone with the appropriate expertise to analyse. The difficult part was what happened when that trail reached a centralised exchange. Five years after the theft, I am still pursuing the case and still trying to understand exactly who was behind it and where the bitcoin ultimately went. I’m curious what people here think about one particular question: When an exchange is warned in real time that identifiable stolen bitcoin is arriving at its deposit addresses, what should we reasonably expect that exchange to do? UPDATE Thanks for all the responses, including the critical ones. There has been a lot of discussion here about personal responsibility, Bitcoin’s decentralization, the role of exchanges and what an exchange can reasonably be expected to do when stolen funds arrive. I have never denied my own responsibility. I made a catastrophic mistake by entering my recovery seed into what I believed was a genuine Trezor recovery page. Bitcoin did not fail, and my Trezor was not hacked. I was successfully phished. But that is only where the story begins. The stolen Bitcoin was subsequently traced through the blockchain and into Huobi deposit addresses. While the funds were still arriving, Huobi was warned that these were proceeds of a reported theft. Those warnings were supported by a criminal complaint, screenshots and blockchain analysis from four separate specialist organisations. I have never argued that Huobi should have reversed a Bitcoin transaction. They couldn’t. Nor have I argued that an exchange should automatically return Bitcoin simply because someone claims it was stolen. The issue is much narrower: what responsibility does a centralized exchange have when specifically identified proceeds of a reported theft arrive under its control and it is warned while this is happening? That question eventually led me through police investigations, blockchain investigators, lawyers in several jurisdictions and ultimately to the UK High Court, where I obtained a judgment against Huobi. The judgment remains unpaid. I’m now working on the next stage of enforcement, including looking at jurisdictions where a UK High Court judgment may be recognised and where HTX/Huobi or related entities have a legal, regulated or otherwise enforceable presence. At the same time, I have spent the past years documenting this entire story. I’m now writing it all down, including the theft, the mistakes I made, the blockchain trail, the warnings sent to Huobi, the police investigation, the legal battle, the judgment and what happened afterwards. I intend to make that story, together with much of the underlying documentary evidence, available to a much wider international audience. Perhaps public scrutiny will achieve something that five years of private correspondence, investigations and legal proceedings have not. We’ll see.
-
-1d ago
+🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 9h ago
 
 ---
 
-**[Prophecy](https://www.reddit.com/r/Bitcoin/comments/1vm43ez/prophecy/)**
+**[If Bitcoin doesn’t hit $420,069 by December 31, 2033, I’ll eat a Carolina Reaper on January 1, 2034 and post the evidence here](https://www.reddit.com/r/Bitcoin/comments/1vn57j2/if_bitcoin_doesnt_hit_420069_by_december_31_2033/)**
 
-1d ago
+The title says it all
 
----
-
-**[BIP110 fork of Bitcoin mined 2 blocks, while Bitcoin regular mined 517.](https://www.reddit.com/r/Bitcoin/comments/1vmel08/bip110_fork_of_bitcoin_mined_2_blocks_while/)**
-
-1d ago
+13h ago
 
 ---
 
-**[One redditors asked that is too late to start invest into BTC, 15 years ago...](https://www.reddit.com/r/Bitcoin/comments/1vm8loe/one_redditors_asked_that_is_too_late_to_start/)**
+**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-ARE WE FRICKIN LATE NOW?!
-
-1d ago
+1h ago
 
 ---
 
-**[THERE IS NO SECOND BEST](https://www.reddit.com/r/Bitcoin/comments/1vma1gd/there_is_no_second_best/)**
+**[PSA](https://www.reddit.com/r/Bitcoin/comments/1vnc439/psa/)**
 
-1d ago
-
----
-
-**[Is bitcoin consolidation over?](https://www.reddit.com/r/Bitcoin/comments/1vmu0lw/is_bitcoin_consolidation_over/)**
-
-Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
-
-22h ago
+8h ago
 
 ---
 
-**[1 seed + strong passphrase vs 2/3 multisig](https://www.reddit.com/r/Bitcoin/comments/1vmk0bb/1_seed_strong_passphrase_vs_23_multisig/)**
+**[It's so over!](https://www.reddit.com/r/Bitcoin/comments/1vn3nzi/its_so_over/)**
 
-What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
-
-1d ago
+15h ago
 
 ---
 
-**[Stale blocks, quantum proposals, CISA - Bitcoin Optech Newsletter #417 Recap](https://www.reddit.com/r/Bitcoin/comments/1vmikpm/stale_blocks_quantum_proposals_cisa_bitcoin/)**
+**[Trezor customers be vigilant](https://www.reddit.com/r/Bitcoin/comments/1vna6p9/trezor_customers_be_vigilant/)**
 
-Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
+Received this email
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 1d ago
+9h ago
 
 ---
 
-**[The Coldcard's hack doesn't mean hardware wallets are doomed](https://www.reddit.com/r/Bitcoin/comments/1vmi5bq/the_coldcards_hack_doesnt_mean_hardware_wallets/)**
+**[Bitcoin is sitting in extreme volatility compression again. The next move probably won’t be boring 👀](https://www.reddit.com/r/Bitcoin/comments/1vnlsk3/bitcoin_is_sitting_in_extreme_volatility/)**
 
-Seeing a lot of people treat the Coldcard hack like proof hardware wallets in general aren't safe anymore. That's not really what happened. Coldcard had a bug in how their firmware generated the random numbers used to create your seed phrase, and it sat there undetected for five years. A code change in March 2021 quietly swapped out the proper hardware randomness for a broken software substitute. That made some seeds way easier to guess than they should've been, and that's how funds got drained. That's a Coldcard problem. A mistake in their code, not a flaw in the whole idea of hardware wallets as a category. However, I'm not making the argument that it can't happen to other brands too. Any company can ship a bad update. But wallets that are fully open source, like Trezor or Blockstream Jade, tend to have way more independent people checking the code over time, which makes bugs like this less likely to slip through for years. Not a guarantee, just better odds. And this is how most tech usually evolves. Some things go wrong but that's how it becomes more robust and anti-fragile. But I also understand that "that's just how tech evolves" doesn't help people who actually lost their money. Genuinely feel for everyone who lost years of savings over something totally out of their control though, that part really sucks and doesn't get fixed by any of this logic.
+Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-1d ago
+2h ago
+
+---
+
+**[it‘s that time of the year again？](https://www.reddit.com/r/Bitcoin/comments/1vn6ohp/its_that_time_of_the_year_again/)**
+
+12h ago
+
+---
+
+**[after DCA'ing, 15k imma get a Trezor](https://www.reddit.com/r/Bitcoin/comments/1vn90og/after_dcaing_15k_imma_get_a_trezor/)**
+
+after DCA'ing all my savings u guys told me to invest in a hardware wallet for only bitcoin, so I'm planning to buy a Trezor. or im going to get a ColdCard instead? looooooooooooool
+
+10h ago
+
+---
+
+**[trezor breach explained for anyone still in coldcard hack ptsd mode](https://www.reddit.com/r/Bitcoin/comments/1vnkt5d/trezor_breach_explained_for_anyone_still_in/)**
+
+Makes sense people are jumpy right now due to the recent Coldcard hack literally two weeks before this. "Hardware wallet" + "breach" in the same headline twice in one month makes it feel like one big pattern, but they're not related incidents at all, so worth actually understanding what's actually going on instead of panicking right off the bat. It wasn't Trezor that got hacked, it was ShipMonk, the company that packs and ships their orders. About 13,700 customers who ordered between May and August had their name, email, phone, and home address exposed. A smaller group of about 1,900 had just name, city, and email leaked. Your device, your seed phrase, your firmware, none of that touched. Trezor says no device, private key or wallet backup was affected, and that its systems were not compromised. Nobody can get into your wallet from this. If you're on that list, someone now knows you own a hardware wallet and has your home address. That's still a bad thing btw. In no way am I downplaying that. But this is not the same thing as the coldcard hack or anything close to that. If you got the notification email from Trezor, you're affected. If you didn't, you're not. No reason to panic about the device itself either way
+
+3h ago
 
 ---
 
@@ -159,7 +157,7 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 The day ahead in crypto: Aug. 13, 2026
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,7 +165,7 @@ CoinDesk • 9h ago
 
 Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -179,7 +177,7 @@ Scott Melker breaks down the latest crypto headlines, including why Tether (USDT
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -187,7 +185,7 @@ Yahoo Finance • 5h ago
 
 The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -203,7 +201,7 @@ cnbc.com • 2d ago
 
 The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -211,7 +209,7 @@ Forbes • 4h ago
 
 The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -219,13 +217,13 @@ Bitcoin Magazine • 4h ago
 
 Public pressure mounts on data center buildouts in Alabama.
 
-Tom's Hardware • 11h ago
+Tom's Hardware • 12h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -233,7 +231,7 @@ Investing.com • 6h ago
 
 An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -253,7 +251,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 1h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 2h ago • [Second](https://second.tech/)
 
 ---
 
@@ -269,7 +267,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 12h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 13h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -301,7 +299,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 10h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 11h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
@@ -321,7 +319,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 20h ago
+👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 21h ago
 
 ---
 
@@ -331,7 +329,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 21h ago
+👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 22h ago
 
 ---
 
@@ -351,7 +349,7 @@ Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear mar
 
 📺 Cointelegraph
 
-👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 7h ago
+👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 8h ago
 
 ---
 
@@ -361,7 +359,7 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 8h ago
+👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 9h ago
 
 ---
 
@@ -371,7 +369,7 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 291 • ⏱️ 20:00 • 2d ago
+👁️ 23K • 👍 2K • 💬 291 • ⏱️ 20:00 • 3d ago
 
 ---
 
@@ -391,7 +389,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 113 • ⏱️ 11:09 • 1d ago
+👁️ 41K • 👍 2K • 💬 113 • ⏱️ 11:09 • 2d ago
 
 ---
 
@@ -401,7 +399,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 2h ago
+👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 3h ago
 
 ---
 
