@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T14:37:10.542730+00:00'
+updated: '2026-08-13T15:59:06.909402+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 14:37 UTC  
+**Last Updated:** August 13, 2026 at 15:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,889.24
+### $1,887.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.0%  
-**30d:** -1.2%  
-**90d:** -13.0%  
-**1y:** -58.3%  
+**24h:** -0.2%  
+**7d:** -1.5%  
+**30d:** -1.7%  
+**90d:** -13.4%  
+**1y:** -58.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.28B
+**Market Cap:** $227.54B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.8%
+-61.9%
 
 **All-Time Low:** $0.43
-+436729.5%
++435376.1%
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bitcoin moved up to $63,504.99. Ethereum opened at $1,878.08, down 0.2% from Wednesday's opening. Ethereum moved up to $1,983.13 as of 8:29 a.m. ET.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1h ago
 
 Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 19h ago
+theblock.co • 20h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 4h ago
+fortune.com • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ fortune.com • 4h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 3h ago
+Coinpedia • 4h ago
 
 ---
 
@@ -208,11 +208,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-buys-14m-141212525.html)**
+**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
 
-Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
+Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
 
-Yahoo Finance • 3d ago
+benzinga.com • 1d ago
+
+---
+
+**[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
+
+Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
+
+blockchain.news • 23m ago
 
 ---
 
@@ -220,15 +228,7 @@ Yahoo Finance • 3d ago
 
 Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-CoinDesk • 3d ago
-
----
-
-**[Tom Lee's BitMine Is Close to Owning 5% of All ETH: What Happens to BMNR When It Does?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61141537/tom-lees-bitmine-is-close-to-owning-5-of-all-eth-what-happens-to-bmnr-when-it-does)**
-
-BitMine aims to own 5% of Ethereum supply, raising questions on future demand and strategy. The treasury company has already staked 5 million ETH, worth $257 million annually.
-
-Benzinga • 1d ago
+coindesk.com • 3d ago
 
 ---
 
@@ -242,17 +242,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 453 • 💬 103 • ⏱️ 12:21 • 3h ago
-
----
-
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 5K • 👍 334 • 💬 185 • ⏱️ 11:59 • 21h ago
+👁️ 4K • 👍 863 • 💬 178 • ⏱️ 12:21 • 4h ago
 
 ---
 
@@ -262,7 +252,17 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 97 • ⏱️ 9:22 • 15h ago
+👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 16h ago
+
+---
+
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 339 • 💬 187 • ⏱️ 11:59 • 22h ago
 
 ---
 
@@ -272,17 +272,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 486 • 💬 210 • ⏱️ 19:05 • 1d ago
+👁️ 8K • 👍 491 • 💬 211 • ⏱️ 19:05 • 1d ago
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+**[Live Crypto Trading | Gold Live Trading | ETH BTC SOL Real Trade](https://www.youtube.com/watch?v=ca7Ly_KT5vo)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 More Crypto Online
+📺 Invest For Wealth
 
-👁️ 3K • 👍 195 • 💬 11 • ⏱️ 7:07 • 1d ago
+👁️ 2K • 👍 366 • 1h ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 7K • 👍 507 • 💬 141 • ⏱️ 13:27 • 21h ago
+👁️ 8K • 👍 516 • 💬 140 • ⏱️ 13:27 • 22h ago
 
 ---
 
@@ -302,7 +302,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 1d ago
+👁️ 2K • 👍 67 • 💬 11 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 250 • 💬 44 • ⏱️ 1:01:54 • 22h ago
+👁️ 4K • 👍 251 • 💬 46 • ⏱️ 1:01:54 • 1d ago
 
 ---
 
@@ -322,17 +322,17 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 3K • 💬 156 • ⏱️ 10:20 • 1d ago
+👁️ 51K • 👍 3K • 💬 158 • ⏱️ 10:20 • 1d ago
 
 ---
 
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
 
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 The Modern Investor
+📺 More Crypto Online
 
-👁️ 5K • 👍 577 • 💬 95 • ⏱️ 30:14 • 1d ago
+👁️ 3K • 👍 196 • 💬 11 • ⏱️ 7:07 • 1d ago
 
 ---
 

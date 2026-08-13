@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T14:37:10.536717+00:00'
+updated: '2026-08-13T15:59:06.905844+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 14:37 UTC  
+**Last Updated:** August 13, 2026 at 15:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,656.30
+### $63,724.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.5%  
-**30d:** -1.2%  
-**90d:** -18.2%  
-**1y:** -45.8%  
+**24h:** +0.0%  
+**7d:** -2.2%  
+**30d:** -2.0%  
+**90d:** -18.8%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1278.43B
+**Market Cap:** $1275.69B
 Rank #1
 
-**Circulating Supply:** 20,069,621 BTC
+**Circulating Supply:** 20,069,671 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.5%
+-49.6%
 
 **All-Time Low:** $67.81
-+93862.5%
++93641.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 18h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 19h ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do you the BTC consolidation and downtrend is finished or will continue? Clarity
 
 What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
 
-21h ago
+22h ago
 
 ---
 
@@ -139,7 +139,7 @@ What are your thoughts on this commonly debated topic? I've read the arguments f
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 22h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 23h ago
 
 ---
 
@@ -147,7 +147,7 @@ Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft
 
 Seeing a lot of people treat the Coldcard hack like proof hardware wallets in general aren't safe anymore. That's not really what happened. Coldcard had a bug in how their firmware generated the random numbers used to create your seed phrase, and it sat there undetected for five years. A code change in March 2021 quietly swapped out the proper hardware randomness for a broken software substitute. That made some seeds way easier to guess than they should've been, and that's how funds got drained. That's a Coldcard problem. A mistake in their code, not a flaw in the whole idea of hardware wallets as a category. However, I'm not making the argument that it can't happen to other brands too. Any company can ship a bad update. But wallets that are fully open source, like Trezor or Blockstream Jade, tend to have way more independent people checking the code over time, which makes bugs like this less likely to slip through for years. Not a guarantee, just better odds. And this is how most tech usually evolves. Some things go wrong but that's how it becomes more robust and anti-fragile. But I also understand that "that's just how tech evolves" doesn't help people who actually lost their money. Genuinely feel for everyone who lost years of savings over something totally out of their control though, that part really sucks and doesn't get fixed by any of this logic.
 
-22h ago
+1d ago
 
 ---
 
@@ -155,11 +155,27 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin price slips toward $63,000 after CPI, AI stocks surge on Q2 beats](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
+**[U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000](https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected)**
 
-Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
+Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
 
-CoinDesk • 17h ago
+coindesk.com • 1d ago
+
+---
+
+**[Where Will Bitcoin Be in 2030?](https://www.fool.com/investing/2026/08/12/where-will-bitcoin-be-in-2030/)**
+
+History says that this cryptocurrency follows a four-year cycle.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html)**
+
+Goldman Sachs (NYSE: $GS)
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,13 +183,7 @@ CoinDesk • 17h ago
 
 Cryptocurrency treasury firm Metaplanet has denied selling $320 million U.S. worth of its Bitcoin (CRYPTO: $BT...
 
-Yahoo Finance • 55m ago
-
----
-
-**[Bitcoin Halving: Hashrate Drops Only 23%, Miners’ Resilience Signals No Industry Recession](https://www.moomoo.com/news/post/74643223/bitcoin-halving-hashrate-drops-only-23-miners-resilience-signals-no)**
-
-Moomoo • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +191,7 @@ Moomoo • 1h ago
 
 Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,41 +203,33 @@ CNBC • 1d ago
 
 ---
 
+**[My Husband Lost His Job and Owes $624K From Bitcoin Mining. Should We Sacrifice Our Home to Pay It Off?](https://finance.yahoo.com/markets/crypto/articles/husband-lost-job-owes-624k-120102840.html)**
+
+A Texas mother of three found herself facing a heartbreaking question after her family’s finances unraveled. Her husband lost his job, they were in Chapter 13 bankruptcy, and most of their debt came from a failed Bitcoin mining business that...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
+
+Public pressure mounts on data center buildouts in Alabama.
+
+Tom's Hardware • 5h ago
+
+---
+
 **[Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale](https://bitcoinmagazine.com/news/bitcoin-price-down-but-adoption-to-grow)**
 
 Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
 
-Bitcoin Magazine • 17h ago
+bitcoinmagazine.com • 18h ago
 
 ---
 
-**[Bitcoin subdued below $64k as in-line U.S. CPI provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
+**[Bitcoin subdued at $64k as Iran hopes dither; July CPI cools](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755)**
 
-Investing.com • 7h ago
-
----
-
-**[It’s Going ‘Significantly Higher’—BlackRock Just Quietly Called The Bitcoin Price Bottom](https://www.forbes.com/sites/digital-assets/2026/08/11/its-going-significantly-higher-blackrock-just-quietly-called-the-bitcoin-price-bottom/)**
-
-BlackRock has revealed it's seen a flip in sentiment, forecasting the bitcoin price is heading “significantly higher"...
-
-Forbes • 2d ago
-
----
-
-**[Billionaire Ray Dalio Says He Has 1% of His Portfolio in Bitcoin. Is It Time to Rethink Your Bitcoin Allocation?](https://www.fool.com/investing/2026/08/13/billionaire-ray-dalio-says-he-has-1-of-his-portfol/)**
-
-Bitcoin might be risky and speculative. But it could also be a surprisingly good hedge against downside risk.
-
-The Motley Fool • 3h ago
-
----
-
-**['The US Is in Trouble' and Bitcoin Will Reap the Benefits, Macro Guru Says—But How?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61159409/the-us-is-in-trouble-and-bitcoin-will-reap-the-benefits-macro-guru-says-but-how)**
-
-Jordi Visser says US yen intervention signals money printing ahead, making Bitcoin his top bet as AI disruption accelerates.
-
-Benzinga • 18h ago
+Investing.com • 1d ago
 
 ---
 
@@ -239,7 +241,7 @@ Benzinga • 18h ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 2d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 3d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -255,7 +257,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 5h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 6h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -271,7 +273,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone browser - pure Python, retro CRT dashboard - 03012009BTC/miners-bitcoin-lottery
 
-⬆️ 1 • 💬 0 • 5d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
+⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
 
 ---
 
@@ -287,7 +289,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 3h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 4h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+
+---
+
+**[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
+
+⬆️ 2 • 💬 0 • 1h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -309,7 +317,17 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 5K • 💬 294 • ⏱️ 21:29 • 13h ago
+👁️ 74K • 👍 6K • 💬 324 • ⏱️ 21:29 • 14h ago
+
+---
+
+**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+
+Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 117 • ⏱️ 18:46 • 15h ago
 
 ---
 
@@ -319,7 +337,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 97 • ⏱️ 9:22 • 15h ago
+👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 16h ago
 
 ---
 
@@ -329,7 +347,17 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 109 • ⏱️ 11:09 • 1d ago
+👁️ 40K • 👍 2K • 💬 111 • ⏱️ 11:09 • 1d ago
+
+---
+
+**[If You See This Bitcoin Pattern The Dump Is Already CONFIRMED!](https://www.youtube.com/watch?v=LEmwfQw1X3I)**
+
+The CPI and PPI data hit and the market is sending mixed signals, but Dylan see exactly what is loading. Bitcoin is sitting at a ...
+
+📺 Chart Hackers
+
+👁️ 750 • 👍 121 • 2h ago
 
 ---
 
@@ -339,17 +367,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 573 • 💬 24 • ⏱️ 10:31 • 8h ago
-
----
-
-**[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 743 • 💬 72 • ⏱️ 41:32 • 1d ago
+👁️ 8K • 👍 641 • 💬 33 • ⏱️ 10:31 • 10h ago
 
 ---
 
@@ -359,7 +377,17 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 133 • ⏱️ 14:49 • 1d ago
+👁️ 19K • 👍 1K • 💬 132 • ⏱️ 14:49 • 1d ago
+
+---
+
+**[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 744 • 💬 65 • ⏱️ 41:32 • 1d ago
 
 ---
 
@@ -369,7 +397,7 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 289 • ⏱️ 20:00 • 2d ago
+👁️ 23K • 👍 2K • 💬 291 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -379,27 +407,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 13K • 👍 1K • 💬 843 • ⏱️ 9:58 • 1d ago
-
----
-
-**[🚨 CPI JUST DROPPED — BITCOIN IS ABOUT TO EXPLODE…](https://www.youtube.com/watch?v=aNP-RGicn1c)**
-
-BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
-
-📺 Jayson Casper
-
-👁️ 5K • 👍 220 • 💬 64 • ⏱️ 6:36 • 1d ago
-
----
-
-**[A HURRICANE is about To Hit Crypto.. (HUGE NEWS)](https://www.youtube.com/watch?v=sGhG1DEXW0Y)**
-
-MASSIVE: A HURRICANE is about To Hit Crypto! 🌪️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 136 • ⏱️ 9:23 • 2d ago
+👁️ 13K • 👍 1K • 💬 846 • ⏱️ 9:58 • 1d ago
 
 ---
 
