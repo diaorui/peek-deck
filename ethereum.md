@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T11:46:34.410389+00:00'
+updated: '2026-08-13T13:10:58.012832+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 11:46 UTC  
+**Last Updated:** August 13, 2026 at 13:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,877.68
+### $1,889.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -1.9%  
-**30d:** -2.2%  
-**90d:** -13.9%  
-**1y:** -58.7%  
+**24h:** +0.4%  
+**7d:** -1.1%  
+**30d:** -1.4%  
+**90d:** -13.1%  
+**1y:** -58.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.19B
+**Market Cap:** $228.28B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-61.8%
 
 **All-Time Low:** $0.43
-+434618.5%
++436729.5%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-2d ago
+3d ago
 
 ---
 
@@ -164,15 +164,15 @@ Decrypt • 1d ago
 
 FD Funds Management LLC, sponsor of the Fidelity Crypto Ethereum Fund (FETH), filed a pre-effective amendment to its Form S-3 registration statement with the U.S. SEC on July 24, 2026, adding disclosure that would let the fund stake up to 100% of its ether (ETH) holdings. The amendment explicitly states ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Current price of Ethereum for Aug. 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
+**[Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bitcoin moved up to $63,504.99. Ethereum opened at $1,878.08, down 0.2% from Wednesday's opening. Ethereum moved up to $1,983.13 as of 8:29 a.m. ET.
 
-Fortune • 1h ago
+Yahoo Finance • 26m ago
 
 ---
 
@@ -180,15 +180,15 @@ Fortune • 1h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
+**[Current price of Ethereum for Aug. 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
 
-Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Benzinga • 9h ago
+Fortune • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 9h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 11h ago
+Coinpedia • 2h ago
 
 ---
 
@@ -204,15 +204,15 @@ Coinpedia • 11h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-fool.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.81 Million Tokens, and Total Crypto and Total Cash Holdings of $11.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-81-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-6-billion-302846858.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-PR Newswire • 2d ago
+Benzinga • 10h ago
 
 ---
 
@@ -224,11 +224,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Tom Lee's BitMine Is Close to Owning 5% of All ETH: What Happens to BMNR When It Does?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61141537/tom-lees-bitmine-is-close-to-owning-5-of-all-eth-what-happens-to-bmnr-when-it-does)**
+**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
 
-BitMine aims to own 5% of Ethereum supply, raising questions on future demand and strategy. The treasury company has already staked 5 million ETH, worth $257 million annually.
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
 
-Benzinga • 22h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -236,13 +236,23 @@ Benzinga • 22h ago
 
 ## YouTube Videos: "ethereum"
 
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 2K • 👍 453 • 💬 103 • ⏱️ 12:21 • 1h ago
+
+---
+
 **[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
 
 Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 329 • 💬 167 • ⏱️ 11:59 • 18h ago
+👁️ 5K • 👍 334 • 💬 185 • ⏱️ 11:59 • 20h ago
 
 ---
 
@@ -252,47 +262,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 90 • ⏱️ 9:22 • 12h ago
-
----
-
-**[Ethereum Just Flipped](https://www.youtube.com/watch?v=hMIK9mFAwd8)**
-
-GET ON KRAKEN TODAY https://www.kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just spent $50 million buying ...
-
-📺 Lark Davis
-
-👁️ 14K • 👍 653 • 💬 87 • ⏱️ 6:34 • 2d ago
-
----
-
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
-
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
-
-📺 AllinCrypto
-
-👁️ 7K • 👍 476 • 💬 136 • ⏱️ 13:27 • 18h ago
-
----
-
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 193 • 💬 10 • ⏱️ 7:07 • 21h ago
-
----
-
-**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 65 • 💬 9 • ⏱️ 7:15 • 22h ago
+👁️ 25K • 👍 2K • 💬 97 • ⏱️ 9:22 • 13h ago
 
 ---
 
@@ -302,7 +272,37 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 477 • 💬 210 • ⏱️ 19:05 • 1d ago
+👁️ 8K • 👍 486 • 💬 210 • ⏱️ 19:05 • 1d ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 195 • 💬 11 • ⏱️ 7:07 • 22h ago
+
+---
+
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+
+📺 AllinCrypto
+
+👁️ 7K • 👍 507 • 💬 141 • ⏱️ 13:27 • 19h ago
+
+---
+
+**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
+
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 66 • 💬 9 • ⏱️ 7:15 • 23h ago
 
 ---
 
@@ -312,17 +312,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 245 • 💬 44 • ⏱️ 1:01:54 • 20h ago
-
----
-
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
-
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 576 • 💬 95 • ⏱️ 30:14 • 1d ago
+👁️ 4K • 👍 250 • 💬 44 • ⏱️ 1:01:54 • 21h ago
 
 ---
 
@@ -332,7 +322,17 @@ SPONSOR: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 3K • 💬 162 • ⏱️ 10:20 • 1d ago
+👁️ 50K • 👍 3K • 💬 156 • ⏱️ 10:20 • 1d ago
+
+---
+
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+
+📺 The Modern Investor
+
+👁️ 5K • 👍 577 • 💬 95 • ⏱️ 30:14 • 1d ago
 
 ---
 

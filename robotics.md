@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-13T11:46:34.412869+00:00'
+updated: '2026-08-13T13:10:58.015715+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 13, 2026 at 11:46 UTC  
+**Last Updated:** August 13, 2026 at 13:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to make my own. Here it’s running in standalone mode using an Arduino, 12 Dynamixel XL430s and 4 potentiometers to control the globe’s speed/direction, height, width, and depth of each offset step. I’ve done more movements using a Python based GUI on my laptop but that requires a usb connection. Full video on my build with links to STLs, code and parts list here: https://youtu.be/pEU04FVNeZw Next project is a Leaper from Arc Raiders. Just need to figure out how to trigger a rocket to make a robot spider jump.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to ma
 
 (Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets)
 
-6h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to ma
 
 I've been experimenting with running a complete digit recognition system directly on an ESP32-S3 using TensorFlow Lite Micro. The goal was to recognize 5-digit readings (such as meter displays) completely on-device without relying on a PC or cloud inference. The hardware I used was an ESP32-S3 development board with an onboard camera and AMOLED display (Makerfabs MaTouch ESP32-S3 AI Camera), but the workflow should apply to similar ESP32-S3 camera boards. How it works: Data Collection: Flashed a utility firmware to capture camera frames aligned via an on-screen yellow bounding box, outputting labeled image pairs and a label.csv. Model Training & INT8 Quantization: Trained a lightweight CNN model and quantized it to INT8 to run within the ESP32-S3's memory limits. On-Device Inference: Compiled the quantized model directly into the ESP-IDF binary and deployed it back to the board. The result is surprisingly reliable—it reads all 5 digits cleanly in real time. Hardware & Tech Stack: Board: Makerfabs MaTouch ESP32-S3 AMOLED AI Camera Framework: ESP-IDF + TensorFlow Lite Micro Tooling: Custom Python tools for capture & quantization I put together a detailed write-up covering the complete workflow on GitHub, in case anyone wants to reproduce or adapt it for a similar project. I'd also love to hear how others approach digit recognition with TensorFlow Lite Micro. Have you found any effective ways to improve accuracy or speed up the data collection process?
 
-2h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been experimenting with running a complete digit recognition system directl
 
 This week a student came by and tried our teaching arms, both hands on two of them, teleoperating our control arms. First try, the arms folded the towel. That's exactly why we still keep teleoperation around. You don't write a line of code. You just move. The teaching arms are linked to the control arms, so your motion gets copied onto them in real time. Which means someone with zero experience can do the kind of thing that would otherwise take ages to hand-program. Watching him work, two things hit me. One: this is still the fastest way we have to pull real manipulation data. Fabric is the hardest to deal with. No fixed grasp point, and it keeps sliding off to the side. A human hand just knows how to teach it the right move. Two: it's a straight check on whether the motion actually holds up. If a person can't move the arm cleanly themselves, all the algorithm and programming in the world probably won't fix it. That's why the towel became our test. Soft. Slippery. Never the same twice. And honestly, if you want a robot to fold a towel, the fastest way I know is still a human on the teaching arms. The models haven't beaten that trick yet.
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ This week a student came by and tried our teaching arms, both hands on two of th
 
 This is yet another update from my project. Mighty Camera runs VIO on-device realtime in a tiny package. This gives us accurate camera motion. Using that + the camera feed, the SDK estimates depth and builds a 3D map of obstacles around it. This means a robot or drone can use Mighty for things like: - Collision avoidance - Motion planning - Autonomous navigation No stereo camera or depth sensor needed. Just Mighty’s global shutter camera + IMU.
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ This is yet another update from my project. Mighty Camera runs VIO on-device rea
 
 Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been building a TurtleBot + ROS2 Humble project (Docker, React dashboard, Nav2, Gazebo sim) and want to go deeper on C++, Linux, and SLAM with people who are serious about it. Thinking a small group (Discord/weekly calls) where we: Work through ROS2 concepts and share resources Review each other's projects/code Mock interview each other for robotics SWE roles Keep each other accountable If you're learning robotics software (student, self-taught, or between jobs), drop a comment or DM. Open to remote/India-based folks especially, but anyone's welcome.
 
-23h ago
+1d ago
 
 ---
 
@@ -84,7 +84,7 @@ Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been build
 
 I've been training Lingbot-va and Dreamzero lately. For anyone who doesn't know, those need a lot of diverse data, both in terms of environment and play data. That pushed me toward the huge pool of SO-101 datasets that already exist for VLA and ACT training. The problem is those datasets are a mess to combine. Most of them are repetitive, and the task descriptions are generic. They sit on different versions, v2.1 or v3.1. Different framerates, different quality, different camera angles. And at the end you still have to balance the whole thing before it's usable. So I built Dataset Assembly Studio, a local web app that runs over a folder of LeRobot datasets and takes them to a verified v2.1 export. The flow is a set of tabs. Sources, output contract, camera mapping, joint mapping, episodes, tasks, balance, preflight, export. It validates every source before it can be used. Invalid parquet, missing metadata, single-camera recordings, and episodes under two seconds get rejected up front. Camera views can be previewed before mapping, one to wrist and one to a second canonical camera. The six SO-101 joints for both action and observation.state are mapped automatically, with manual correction when a source uses another order. Curation works one dataset at a time. You stage episodes with gallery checkboxes, load all camera views for a focused episode, edit final prompts, and save approved checkpoints. Source files are never modified, all state lives under .dataset_studio/. Global balance groups tasks by a local embedding and caps the episode count per task group. Then a blocking preflight checks camera, joint, schema, media, duration, prompt, destination, and checkpoint compatibility before export. The export runs in the background, rebuilds indices, and writes normalized v2.1 data with exactly two camera streams. A .tar.gz is only prepared if you ask for it. Everything runs locally, no auth, no cloud. A Groq API key is optional just for naming task groups, everything else works without it. Repo: github.com/mekala-2405/dataset-assembly-studio Static demo : https://projects.mharsh.me/data_assembly_studio check out my portfolio and other projects : mharsh.me Walkthrough : https://www.youtube.com/watch?v=bJFGVuzufwQ If you've been through the same dataset grind, I'd love to hear how you handle it and some feedback . The attached video might sound like AI-Slop please bear with it .
 
-4h ago
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ I've been training Lingbot-va and Dreamzero lately. For anyone who doesn't know,
 
 Exoskeletons can handle predictable movements pretty well. Everyday movement is a lot messier. Kathryn Zealand of Skip explains why something as simple as bending down can create a control problem, and how the company is using machine learning to better understand what a person is actually trying to do. Full ep: https://www.youtube.com/watch?v=jDR8xeU-GFQ
 
-20h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ Exoskeletons can handle predictable movements pretty well. Everyday movement is 
 
 There's of course a lot of hype around the new robot foundation models, but seems that there are not many real deployments. Has anyone tried making this things work in production? Which tasks did you try? Did you have to end up collecting a lot of data to fine tune the model?
 
-22h ago
+23h ago
 
 ---
 
@@ -108,7 +108,7 @@ There's of course a lot of hype around the new robot foundation models, but seem
 
 Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-USV, and I recently completed its first system integration and field test. The hull was designed in FreeCAD and 3D-printed in PETG. The onboard system uses a Raspberry Pi 5 for navigation, sensor processing, data logging, and mission-level control, while an ESP32-S3 handles real-time thruster control and safety-related functions. The vehicle uses two independently controlled thrusters and steers through differential thrust. It collects navigation data from GPS, IMU, and magnetometer sensors. Waypoint-based autonomous navigation is planned for the next stage of development. The main goals of this first field test were to evaluate: Hull buoyancy and stability Manual RC control and steering response Communication between the Raspberry Pi and ESP32 Navigation sensor data collection Power, vibration, and other system issues under real operating conditions This was not yet a polished autonomous-navigation demonstration. It was an early system integration test conducted before implementing and validating waypoint navigation. The vehicle also behaved quite differently on the water than I had expected from indoor testing. However, the test provided useful data and revealed several areas that need improvement, particularly sensor calibration, heading estimation, control response, and the onboard electronics. I put together a video showing both the development process and the vehicle’s first field test: https://youtu.be/Lz2eOEANyZo I’m now developing a more modular second version of the platform, together with improved navigation and waypoint control. The long-term goal is to develop BN-USV into a practical modular platform for marine research, education, environmental monitoring, and autonomous-navigation experiments. Full disclosure: I’m developing BN-USV as part of BrillNova, with the long-term goal of turning it into a commercial modular hardware platform. The software and development process will remain open and publicly documented. I’d be very interested to hear feedback, especially from anyone who has worked with small USVs, autonomous boats, marine robotics, sensor fusion, or differential-thrust control. Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-U
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 1d ago
+techcrunch.com • 1d ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg.com • 1d ago
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
@@ -142,7 +142,7 @@ The New York Times • 2h ago
 
 The Department of War provides the military forces needed to deter war and ensure our nation's security.
 
-U.S. Department of War (.gov) • 16h ago
+U.S. Department of War (.gov) • 17h ago
 
 ---
 
@@ -150,7 +150,7 @@ U.S. Department of War (.gov) • 16h ago
 
 A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -158,7 +158,21 @@ Yahoo Finance • 12h ago
 
 Expect more banned products in the future, experts warn.
 
-Mashable • 11h ago
+Mashable • 13h ago
+
+---
+
+**[Workers Are Teaching AI-Powered Robots to Take Over Their Jobs](https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them)**
+
+Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
+
+Bloomberg.com • 16h ago
+
+---
+
+**[Robots That Walk and Talk Are Coming to Car Factories](https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -166,23 +180,7 @@ Mashable • 11h ago
 
 Researchers say that humanoid robots have a long way to go before they are officially ready for work.
 
-KQED • 21h ago
-
----
-
-**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
-
-Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
-
-CBS News • 1d ago
-
----
-
-**[AMD’s Ryzen AI X100 Takes On GPU-Centric AI](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/)**
-
-AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
-
-EE Times • 1d ago
+KQED • 23h ago
 
 ---
 
@@ -202,7 +200,17 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 821K • 👍 20K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 834K • 👍 21K • 💬 2K • ⏱️ 7:02 • 1d ago
+
+---
+
+**[Something Is Seriously Wrong With This Rescue Robot...](https://www.youtube.com/watch?v=shGN84z4SpI)**
+
+We know Spiritually, we are either influenced by God, or evil. Well this new robotic creation has many asking why the robot looks ...
+
+📺 Aaron Page 
+
+👁️ 11K • 👍 1K • 💬 201 • ⏱️ 13:50 • 2d ago
 
 ---
 
@@ -212,7 +220,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 33K • 👍 397 • 💬 98 • ⏱️ 3:48 • 1d ago
+👁️ 34K • 👍 403 • 💬 102 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -222,7 +230,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 35K • 👍 508 • 💬 100 • ⏱️ 7:05 • 1d ago
+👁️ 36K • 👍 523 • 💬 102 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -230,7 +238,17 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Ben Esherick
 
-👁️ 632K • 👍 30K • 💬 775 • ⏱️ 0:35 • 6d ago
+👁️ 633K • 👍 30K • 💬 775 • ⏱️ 0:35 • 6d ago
+
+---
+
+**[These AI Humanoids Look Like They Came From a Sci-Fi Movie... 🤖😱](https://www.youtube.com/watch?v=8rM2UgI3aeM)**
+
+AI humanoid robots are starting to look less like ordinary machines and more like something straight out of a sci-fi movie. With ...
+
+📺 ejunky66
+
+👁️ 713 • 👍 7 • 💬 3 • ⏱️ 0:58 • 1h ago
 
 ---
 
@@ -250,7 +268,7 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 49K • 👍 3K • 💬 214 • ⏱️ 1:02 • 6d ago
+👁️ 50K • 👍 3K • 💬 214 • ⏱️ 1:02 • 6d ago
 
 ---
 
@@ -260,17 +278,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Cleo Abram
 
-👁️ 1.0M • 👍 52K • 💬 670 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Robotics Is The Next Big Investment Wave.  I Study  The &quot;Picks And Shovels&quot;, (The Compnent Makers).](https://www.youtube.com/watch?v=GNXsEwob46s)**
-
-The stocks mentioned are shown in this video and are contained in the first comment below. Nothing in this video is advice or a ...
-
-📺 Clive Thompson
-
-👁️ 12K • 👍 919 • 💬 240 • ⏱️ 19:58 • 23h ago
+👁️ 1.0M • 👍 52K • 💬 673 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -281,14 +289,6 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 📺 KhanFlicks
 
 👁️ 29K • 💬 57 • ⏱️ 8:34 • 1d ago
-
----
-
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 3.5M • 👍 139K • 💬 8K • ⏱️ 0:58 • 6d ago
 
 ---
 

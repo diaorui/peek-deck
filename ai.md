@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-13T11:46:34.399182+00:00'
+updated: '2026-08-13T13:10:57.999793+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 13, 2026 at 11:46 UTC  
+**Last Updated:** August 13, 2026 at 13:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Venice teen planning a mass shooting and hostage taking at a local church shared a 61-page, AI-generated manifesto online, reports said.
 
-🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 8h ago
+🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Watching a former Tesla AI Director shrug and say "I can't tell if that's tempor
 
 WIRED says the voluntary framework currently covers frontier closed models from labs such as OpenAI and Anthropic. Open models are expected to join once they reach comparable capabilities, potentially facing a 30-day testing period before public release. Officials are caught between two risks: excluding open models could create a government-approved advantage for closed labs; including them could slow US open-model development.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,29 +73,13 @@ Samsung’s Ballie is an AI-powered home robot designed to move around a house, 
 
 A few months ago, I started helping my parents organize their health information. As they get older, I realized how much medical history builds up over time: test results, medication changes, doctor visits, and small details that seem insignificant when they happen but become important later. The frustrating part was not that we lacked information. We actually had too much. Some records were in hospital portals, some were saved as PDFs, some were buried in emails, and some details only existed in conversations I barely remembered. Trying to understand the overall picture often felt like putting together a puzzle. I started using some AI tools to make this easier. They helped organize my parents' health information so it was easier to search and review when needed. Instead of spending a lot of time looking through different sources, I could quickly find previous records and get a clearer view of what had happened. It definitely made managing this kind of information much easier. But it also made me notice something interesting about how we interact with AI. When a doctor asks about my parents' history, or when I want to understand whether something has changed recently, my first instinct is now to open the tool instead of trying to recall it myself. The information is available, but I don't necessarily remember it anymore. It reminds me of how smartphones changed the way we remember phone numbers. We didn't lose the ability to memorize numbers overnight; we simply stopped needing to because the information was always available. I wonder if AI will create a similar shift. Having AI organize and remember complex information is incredibly useful, especially when dealing with years of health records and personal history, but at the same time, there is a question about whether convenience changes the way we build our own understanding. Maybe the goal isn't for AI to remember everything instead of us, but to help us understand things better without replacing our own judgment.
 
-9h ago
+10h ago
 
 ---
 
 **[AI Can’t Be Listed as Inventor on Patent Applications, Japan’s Top Court Rules](https://www.reddit.com/r/artificial/comments/1vmiqu5/ai_cant_be_listed_as_inventor_on_patent/)**
 
-🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 19h ago
-
----
-
-**[Will ai eventually replace ATC?](https://www.reddit.com/r/artificial/comments/1vmzkse/will_ai_eventually_replace_atc/)**
-
-air traffic controllers
-
-8h ago
-
----
-
-**[One prompt on a local box built this dashboard front end. The data behind it is fake. Toy or tool?](https://www.reddit.com/r/artificial/comments/1vn2z7q/one_prompt_on_a_local_box_built_this_dashboard/)**
-
-Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
-
-5h ago
+🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) • 20h ago
 
 ---
 
@@ -103,7 +87,15 @@ Curious what people who run things locally make of this one, because the caveat 
 
 Am I the only one experiencing this? Between trying to make sure the machine understands my prompts, refusals, lags, hallucinations - I'm finding myself using it less and less. Is this happening to anyone else or just me?
 
-21h ago
+22h ago
+
+---
+
+**[Will ai eventually replace ATC?](https://www.reddit.com/r/artificial/comments/1vmzkse/will_ai_eventually_replace_atc/)**
+
+air traffic controllers
+
+9h ago
 
 ---
 
@@ -111,7 +103,15 @@ Am I the only one experiencing this? Between trying to make sure the machine und
 
 Hey hey folks, I’ve been thinking about an odd consequence of the generative AI boom. Especially in light of these doomer stories about Anthropic destroying books (boo bad Anthropic bad). The first major LLMs inherited decades of internet that was overwhelmingly produced by humans. Now those same systems and their descendants are producing articles, code, summaries, books, comments, and other material that ends up back in the information environment. Obviously synthetic data itself isn’t inherently bad. Carefully generated and filtered synthetic data can be extremely useful. What interests me is provenance. A book printed in 1980 has a very obvious property: whatever else is wrong with it, it wasn’t written with an LLM. The same applies to old forums, archived websites, academic work, old documentation and other pre-generative material. Does that historical corpus become unusually useful precisely because we know something about its origin? I wrote a longer piece exploring this through Anthropic’s physical book scanning, recursive training/model collapse, old internet archives and human-authorship certification. Full disclosure, it’s mine: https://www.gonzocapital.net/the-internet-ouroboros/ But I’m more interested in the underlying question: does provenance become materially more important for training data, or are filtering and verification techniques good enough that the age/origin of the corpus becomes mostly irrelevant?
 
-17h ago
+18h ago
+
+---
+
+**[One prompt on a local box built this dashboard front end. The data behind it is fake. Toy or tool?](https://www.reddit.com/r/artificial/comments/1vn2z7q/one_prompt_on_a_local_box_built_this_dashboard/)**
+
+Curious what people who run things locally make of this one, because the caveat is doing most of the work. One prompt to an open model on a single desktop machine, and back comes a finished front end with gauges, a temperature bar and sparkline charts. The prompt is legible on screen and it asks for placeholder data, so none of those readings are real. It's a UI, not a monitor. The clip is about forty seconds. The other half is who did the work. The builds people actually download, and the patch that gets a local runner to load the thing at all, came from strangers rather than from the lab. Ling 3.0 Flash went out under MIT, and every one of those community pieces carries the same tag. The design is finished and the numbers behind it are invented. So is that the ordering now, presentation layer first and the reasoning a long way behind? Or is that just what short demos select for?
+
+6h ago
 
 ---
 
@@ -119,41 +119,61 @@ Hey hey folks, I’ve been thinking about an odd consequence of the generative A
 
 ## Google News: "ai"
 
-**[Anthropic Said in Talks to Buy Startup Decart for $6 Billion](https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion)**
-
-Bloomberg.com • 6h ago
-
----
-
 **[Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
-**[No, AI isn't answering all of New Orleans' 911 calls](https://www.axios.com/local/new-orleans/2026/08/13/new-orleans-911-calls-ai-answering-dispatchers)**
+**[Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up](https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71)**
 
-Axios • 3m ago
-
----
-
-**[Financing the AI boom: Axios' Madison Mills on circular financing concerns](https://www.cnbc.com/video/2026/08/13/financing-the-ai-boom-axios-madison-mills-on-circular-financing-concerns.html)**
-
-Madison Mills, Axios senior AI reporter, joins 'Squawk Box' to discuss Nvidia's $500 billion financing agreement with top Wall Street firms, concerns over circular deals in the AI industry, and more.
-
-CNBC • 20m ago
+wsj.com • 12h ago
 
 ---
 
-**[Exclusive | A New Class of Cuddly Mascots Is Selling Everything From AI to Tap Water](https://www.wsj.com/cmo-today/a-new-class-of-cuddly-mascots-is-selling-everything-from-ai-to-tap-water-4d0c17a5)**
+**[AI's heading back to school](https://www.axios.com/local/douglas/2026/08/13/colorado-schools-classroom-ai-rules)**
 
-WSJ • 46m ago
+Axios • 37m ago
 
 ---
 
-**[EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle](https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/)**
+**[We have one year until the AI market busts, Niles Investment Management founder says](https://www.foxnews.com/video/6403331740112)**
 
-Reuters • 18h ago
+Niles Investment Management founder Dan Niles discusses the future of the AI market on 'Making Money.'
+
+Fox News • 38m ago
+
+---
+
+**[An investigation into Commure, and Medicare’s new-tech incentives for AI devices](https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/)**
+
+In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices.
+
+STAT • 39m ago
+
+---
+
+**[An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea](https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html)**
+
+SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.
+
+CNBC • 4h ago
+
+---
+
+**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
+
+Bots are starting to conspire with one another. Can they be reeled back in?
+
+The Atlantic • 17h ago
+
+---
+
+**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
+
+From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
+
+The Washington Post • 6m ago
 
 ---
 
@@ -161,29 +181,15 @@ Reuters • 18h ago
 
 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work.
 
-X.ai • 20h ago
+x.ai • 21h ago
 
 ---
 
-**[San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion](https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate)**
+**[‘Nightmare fodder’: Roku’s AI slop channel is even worse than expected](https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel)**
 
-New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race
+Fairground TV is a 24/7 channel devoted to low-quality AI content for viewers sick of watching real people move in ways that won’t haunt you
 
-The Guardian • 12h ago
-
----
-
-**[Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)**
-
-Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.
-
-Google DeepMind • 21h ago
-
----
-
-**[AI agents lie, cheat and steal. That is putting off users](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)**
-
-The Economist • 14h ago
+The Guardian • 17h ago
 
 ---
 
@@ -193,7 +199,7 @@ The Economist • 14h ago
 
 **[As AI eats the web, the internet’s collective memory is disappearing](https://news.ycombinator.com/item?id=49250836)**
 
-⬆️ 930 • 💬 968 • 2d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
+⬆️ 930 • 💬 969 • 2d ago • [thewalrus.ca](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
@@ -201,7 +207,7 @@ The Economist • 14h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 904 • 💬 811 • 22h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 918 • 💬 822 • 23h ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -209,13 +215,13 @@ AI makes projects with weak engineering culture fail much faster.
 
 Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available
 
-⬆️ 638 • 💬 600 • 2d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+⬆️ 638 • 💬 601 • 2d ago • [ft.com](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 
 ---
 
 **[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)**
 
-⬆️ 443 • 💬 411 • 2d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+⬆️ 444 • 💬 411 • 2d ago • [support.claude.com](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 
 ---
 
@@ -223,7 +229,7 @@ Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful A
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 430 • 💬 519 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 431 • 💬 519 • 1d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -231,7 +237,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 281 • 💬 215 • 21h ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 287 • 💬 220 • 23h ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -239,7 +245,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 202 • 💬 154 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 206 • 💬 156 • 1d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -263,7 +269,7 @@ Kinney Drugs is scaling back its AI assistant after customers reported incoheren
 
 Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
 
-⬆️ 141 • 💬 32 • 1d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
+⬆️ 149 • 💬 32 • 1d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
 
 ---
 
@@ -277,7 +283,7 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 19K • 👍 759 • 💬 88 • ⏱️ 17:01 • 12h ago
+👁️ 21K • 👍 801 • 💬 94 • ⏱️ 17:01 • 14h ago
 
 ---
 
@@ -287,7 +293,7 @@ Meta CEO Mark Zuckerberg details his vision for the future of artificial intelli
 
 📺 Fox News Clips
 
-👁️ 100K • 👍 2K • 💬 910 • ⏱️ 3:31 • 1d ago
+👁️ 102K • 👍 2K • 💬 927 • ⏱️ 3:31 • 2d ago
 
 ---
 
@@ -297,57 +303,17 @@ Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up 
 
 📺 Breaking Points
 
-👁️ 186K • 👍 5K • 💬 634 • ⏱️ 13:12 • 1d ago
+👁️ 187K • 👍 5K • 💬 637 • ⏱️ 13:12 • 1d ago
 
 ---
 
-**[The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW.](https://www.youtube.com/watch?v=OunJtLnyPT4)**
+**[AI goes on a hacking spree | The Global Story](https://www.youtube.com/watch?v=vNV0v11Era4)**
 
-Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
+In the last few weeks, three separate tech companies - OpenAI, Anthropic, and Meta - have all disclosed that their AI models went ...
 
-📺 The Infographics Show
+📺 BBC News
 
-👁️ 758K • 👍 16K • 💬 3K • ⏱️ 25:41 • 1d ago
-
----
-
-**[Why YouTube&#39;s Ai Purge is Bad](https://www.youtube.com/watch?v=37BqHEtP35c)**
-
-shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
-
-📺 Danno Cal Drawings
-
-👁️ 1.3M • 👍 93K • 💬 1K • ⏱️ 0:49 • 1d ago
-
----
-
-**[Honest Government Ad | Ai Data Centres](https://www.youtube.com/watch?v=kON2ZI2BNj8)**
-
-The Government™ made an ad about Ai Data Centres, and it's surprisingly honest and informative. Help us to keep making ...
-
-📺 thejuicemedia
-
-👁️ 196K • 👍 25K • 💬 2K • ⏱️ 3:15 • 2d ago
-
----
-
-**[Say THIS to Destroy AI Bot Callers](https://www.youtube.com/watch?v=fhi6JU5pOJk)**
-
-Destroying AI bot scam calls is hilarious, and pretty easy! ▻ Kraken Partnership: https://kraken.com/kitboga 0:00 AI Scam Calls ...
-
-📺 Kitboga
-
-👁️ 809K • 👍 53K • 💬 5K • ⏱️ 17:04 • 1d ago
-
----
-
-**[The AI Slop Problem is Bigger Than You Think](https://www.youtube.com/watch?v=_Nvw2LEZJgs)**
-
-See you in Seattle, Portland, Boston, & Philadelphia! https://CrashingOutTour.com Try ZipRecruiter for free at ...
-
-📺 Philip DeFranco
-
-👁️ 490K • 👍 19K • 💬 3K • ⏱️ 28:21 • 1d ago
+👁️ 313K • 👍 6K • 💬 1K • ⏱️ 24:32 • 2d ago
 
 ---
 
@@ -357,17 +323,55 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 76K • 👍 3K • 💬 1K • ⏱️ 13:40 • 1d ago
+👁️ 77K • 👍 3K • 💬 1K • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[The BEST local AI video generator just got BETTER!](https://www.youtube.com/watch?v=G3YHSvXZP_g)**
+**[Why YouTube&#39;s Ai Purge is Bad](https://www.youtube.com/watch?v=37BqHEtP35c)**
 
-Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui ...
+shorts #animation #trending Featuring: @RiggyRunkey ={+}=-SUBSCRIBE!!!!-={+}= Thank you for watching :) Become A Member ...
 
-📺 AI Search
+📺 Danno Cal Drawings
 
-👁️ 98K • 👍 4K • 💬 476 • ⏱️ 28:19 • 1d ago
+👁️ 1.3M • 👍 94K • 💬 1K • ⏱️ 0:49 • 1d ago
+
+---
+
+**[The AI Economy Is DEAD. 6 Billion Images Now POISONED.](https://www.youtube.com/watch?v=zF-mbwc5Mmw)**
+
+Go to https://protonvpn.com/theinfographicsshow to get up to 70% discount when you sign up to Proton VPN 2-year plan AI ...
+
+📺 The Infographics Show
+
+👁️ 370K • 👍 12K • 💬 2K • ⏱️ 16:13 • 2d ago
+
+---
+
+**[Say THIS to Destroy AI Bot Callers](https://www.youtube.com/watch?v=fhi6JU5pOJk)**
+
+Destroying AI bot scam calls is hilarious, and pretty easy! ▻ Kraken Partnership: https://kraken.com/kitboga 0:00 AI Scam Calls ...
+
+📺 Kitboga
+
+👁️ 836K • 👍 54K • 💬 5K • ⏱️ 17:04 • 1d ago
+
+---
+
+**[Honest Government Ad | Ai Data Centres](https://www.youtube.com/watch?v=kON2ZI2BNj8)**
+
+The Government™ made an ad about Ai Data Centres, and it's surprisingly honest and informative. Help us to keep making ...
+
+📺 thejuicemedia
+
+👁️ 205K • 👍 25K • 💬 2K • ⏱️ 3:15 • 2d ago
+
+---
+
+**[🚜😱 “Walking Tractor Spotted on Indian City Road!” #Shorts #AI #Tractor](https://www.youtube.com/watch?v=bVJkRlD7fFc)**
+
+📺 GTV construction 
+
+👁️ 534K • 👍 2K • 💬 1 • ⏱️ 0:11 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 121,042 • ❤️ 1,354 • 1d ago
+⬇️ 121,042 • ❤️ 1,367 • 1d ago
 
 ---
 
@@ -395,7 +399,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,605,940 • ❤️ 3,771 • 10h ago
+⬇️ 1,605,940 • ❤️ 3,780 • 11h ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 1,012 • ❤️ 666 • 1d ago
+⬇️ 1,012 • ❤️ 694 • 1d ago
 
 ---
 
@@ -419,7 +423,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 57,287 • ❤️ 620 • 21h ago
+⬇️ 57,287 • ❤️ 638 • 22h ago
 
 ---
 
@@ -431,7 +435,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,431,587 • ❤️ 3,282 • 12d ago
+⬇️ 1,431,587 • ❤️ 3,292 • 12d ago
 
 ---
 
@@ -443,7 +447,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 `text-to-video`
 
-⬇️ 0 • ❤️ 710 • 4d ago
+⬇️ 0 • ❤️ 712 • 4d ago
 
 ---
 
@@ -455,7 +459,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 91,455 • ❤️ 431 • 1d ago
+⬇️ 91,455 • ❤️ 435 • 1d ago
 
 ---
 
@@ -477,7 +481,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 352,023 • ❤️ 376 • 2d ago
+⬇️ 352,023 • ❤️ 379 • 2d ago
 
 ---
 
@@ -489,7 +493,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 `image-text-to-text` `2779.9B`
 
-⬇️ 1,871,575 • ❤️ 10,598 • 16d ago
+⬇️ 1,871,575 • ❤️ 10,604 • 16d ago
 
 ---
 
@@ -505,7 +509,7 @@ Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 563 • 💬 2 • ⭐ 1,193 • 3d ago
+▲ 564 • 💬 2 • ⭐ 1,193 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -517,7 +521,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 97,865 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 97,951 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -571,7 +575,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
 
-▲ 27 • 💬 7 • ⭐ 164,018 • 83mo ago
+▲ 27 • 💬 7 • ⭐ 164,051 • 83mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
 
@@ -641,7 +645,7 @@ Multiplayer agent harness for work. https://qm.ycombinator.com
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.3k • 🔱 1.6k • 11h ago
+⭐ 13.4k • 🔱 1.6k • 13h ago
 
 ---
 
@@ -651,7 +655,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 968 • 12h ago
+⭐ 8.4k • 🔱 973 • 13h ago
 
 ---
 
@@ -661,7 +665,17 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.9k • 🔱 421 • 18h ago
+⭐ 4.9k • 🔱 423 • 20h ago
+
+---
+
+**[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)**
+
+Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+`Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
+
+⭐ 4.1k • 🔱 390 • 8h ago
 
 ---
 
@@ -673,23 +687,13 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 ---
 
-**[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)**
-
-Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-
-`Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
-
-⭐ 3.7k • 🔱 352 • 7h ago
-
----
-
 **[genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)**
 
 Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 2.9k • 🔱 515 • 3h ago
+⭐ 2.9k • 🔱 516 • 12m ago
 
 ---
 
@@ -699,7 +703,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 46s ago
 
 ---
 
@@ -709,7 +713,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.6k • 🔱 219 • 1d ago
+⭐ 2.6k • 🔱 220 • 1d ago
 
 ---
 
@@ -719,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.3k • 🔱 179 • 1d ago
+⭐ 2.3k • 🔱 178 • 1d ago
 
 ---
 
@@ -729,7 +733,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 164 • 1h ago
+⭐ 2.1k • 🔱 165 • 38m ago
 
 ---
 
