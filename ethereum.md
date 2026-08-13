@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T15:59:06.909402+00:00'
+updated: '2026-08-13T17:04:30.265815+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 15:59 UTC  
+**Last Updated:** August 13, 2026 at 17:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,887.77
+### $1,875.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.5%  
-**30d:** -1.7%  
-**90d:** -13.4%  
-**1y:** -58.5%  
+**24h:** -0.6%  
+**7d:** -2.2%  
+**30d:** -2.4%  
+**90d:** -14.0%  
+**1y:** -58.8%  
 
 ---
 
@@ -160,35 +160,27 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html)**
+**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
-Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bitcoin moved up to $63,504.99. Ethereum opened at $1,878.08, down 0.2% from Wednesday's opening. Ethereum moved up to $1,983.13 as of 8:29 a.m. ET.
+Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
+
+The Block • 21h ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-12-000-tom-135215459.html)**
+
+Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
 
 Yahoo Finance • 3h ago
 
 ---
 
-**[Goldman Sachs Makes $2.25B Crypto Power Move With Bitcoin and Ethereum ETF Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-2-25b-131726134.html)**
-
-Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
-
-Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
-
-theblock.co • 20h ago
-
----
-
-**[Current price of Ethereum for Aug. 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
+**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -196,7 +188,15 @@ fortune.com • 5h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 4h ago
+Coinpedia • 3h ago
+
+---
+
+**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
+
+FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
+
+CryptoSlate • 48m ago
 
 ---
 
@@ -216,19 +216,19 @@ benzinga.com • 1d ago
 
 ---
 
+**[Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE](https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/)**
+
+The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
+
+Crypto Briefing • 1h ago
+
+---
+
 **[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 23m ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
-
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-coindesk.com • 3d ago
+blockchain.news • 1h ago
 
 ---
 
@@ -242,7 +242,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 863 • 💬 178 • ⏱️ 12:21 • 4h ago
+👁️ 4K • 👍 863 • 💬 178 • ⏱️ 12:21 • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 16h ago
+👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 17h ago
 
 ---
 
@@ -262,7 +262,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 339 • 💬 187 • ⏱️ 11:59 • 22h ago
+👁️ 6K • 👍 339 • 💬 187 • ⏱️ 11:59 • 23h ago
 
 ---
 
@@ -282,7 +282,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 2K • 👍 366 • 1h ago
+👁️ 2K • 👍 366 • 2h ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 516 • 💬 140 • ⏱️ 13:27 • 22h ago
+👁️ 8K • 👍 516 • 💬 140 • ⏱️ 13:27 • 23h ago
 
 ---
 

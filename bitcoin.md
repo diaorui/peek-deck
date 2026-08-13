@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T15:59:06.905844+00:00'
+updated: '2026-08-13T17:04:30.260503+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 15:59 UTC  
+**Last Updated:** August 13, 2026 at 17:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,724.50
+### $62,882.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -2.2%  
-**30d:** -2.0%  
-**90d:** -18.8%  
-**1y:** -46.2%  
+**24h:** -0.4%  
+**7d:** -2.8%  
+**30d:** -2.5%  
+**90d:** -19.2%  
+**1y:** -46.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 19h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 20h ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-16h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ Do you the BTC consolidation and downtrend is finished or will continue? Clarity
 
 What are your thoughts on this commonly debated topic? I've read the arguments for both. I started to move towards 2/3 multisig after the coldcard incident however I can't fully commit. I really like that with single sig I can memorize both the seed and strong passphrase while of course still having solid backups saved. Point being if I am away from my backups and some emergency happens I can recover my funds wherever I'm at. With multisig that is much more difficult.
 
-22h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ What are your thoughts on this commonly debated topic? I've read the arguments f
 
 Conduition, Ram, and Fabian Jahr joined Optech to discuss Newsletter #417: Draft BIP for stale tip relay CISA for taproot keypath spends (BIP460) Segwit commitment to post-quantum witness data PQC output type discussion Input-triggered transaction expiry Layered quantum recovery of hashed addresses Segregated Data (SegData) BIP draft And more You can listen on our website: https://bitcoinops.org/en/podcast/2026/08/11/ Fountain: https://fountain.fm/episode/X3dpYvlQy2N6tO4DeQl3 Spotify: https://open.spotify.com/episode/7wkE8AkAwXf7QIKlcO5cK4 Apple Podcasts: https://podcasts.apple.com/us/podcast/bitcoin-optech-newsletter-417-recap/id1674626983?i=1000782982957
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 23h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/podcast/2026/08/11/) • 1d ago
 
 ---
 
@@ -155,11 +155,11 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 ## Google News: "bitcoin"
 
-**[U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000](https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected)**
+**[Live updates: Bitcoin price slips toward $63,000 after CPI, AI stocks surge on Q2 beats](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
 
-Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
+Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
 
-coindesk.com • 1d ago
+CoinDesk • 19h ago
 
 ---
 
@@ -171,25 +171,29 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html)**
+**[Goldman Sachs wants to turn bitcoin into a yield machine](https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html)**
 
-Goldman Sachs (NYSE: $GS)
+Scott Melker discusses the Goldman (GS) deal to acquire the yield-generating ETF platform Neos rather than build out its own.
 
-Yahoo Finance • 1h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 44m ago
 
 ---
 
-**[Metaplanet Denies Bitcoin Sale](https://finance.yahoo.com/markets/crypto/articles/metaplanet-denies-bitcoin-sale-134200849.html)**
+**[Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html)**
 
-Cryptocurrency treasury firm Metaplanet has denied selling $320 million U.S. worth of its Bitcoin (CRYPTO: $BT...
+Goldman Sachs (NYSE: $GS)
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Goldman Sachs Makes $2.25B Crypto Power Move With Bitcoin and Ethereum ETF Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-2-25b-131726134.html)**
+**[Goldman Sachs is paying $2.25 billion to get into Bitcoin income game](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-paying-2-25-143600528.html)**
 
-Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...
+Goldman Sachs is acquiring NEOS Investments, the firm behind a popular Bitcoin income fund, in a cash-and-equity deal valued at up to $2.25 billion, its latest push deeper into the fast-growing market for options-based ETFs. Goldman Sachs, the 156-year-old Wall Street bank, announced the agreement ...
 
 Yahoo Finance • 2h ago
 
@@ -203,19 +207,19 @@ CNBC • 1d ago
 
 ---
 
-**[My Husband Lost His Job and Owes $624K From Bitcoin Mining. Should We Sacrifice Our Home to Pay It Off?](https://finance.yahoo.com/markets/crypto/articles/husband-lost-job-owes-624k-120102840.html)**
+**[Bitcoin firms ask AI labs for same tools attackers already have](https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have)**
 
-A Texas mother of three found herself facing a heartbreaking question after her family’s finances unraveled. Her husband lost his job, they were in Chapter 13 bankruptcy, and most of their debt came from a failed Bitcoin mining business that...
+Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.
 
-Yahoo Finance • 1d ago
+CoinDesk • 11h ago
 
 ---
 
-**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
+**[Why Bitcoin Mining And AI Are Merging, Not Colliding](https://bitcoinmagazine.com/bitcoin-for-corporations/ai-hyperscalers-are-pricing-bitcoin-miners-off-the-grid-heres-why-its-a-massive-win-win)**
 
-Public pressure mounts on data center buildouts in Alabama.
+AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
 
-Tom's Hardware • 5h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -223,13 +227,13 @@ Tom's Hardware • 5h ago
 
 Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
 
-bitcoinmagazine.com • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Bitcoin subdued at $64k as Iran hopes dither; July CPI cools](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755)**
+**[Bitcoin subdued below $64k as in-line U.S. CPI provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 1d ago
+Investing.com • 9h ago
 
 ---
 
@@ -257,7 +261,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 6h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 7h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -289,21 +293,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 4h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 6h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 1h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
-
----
-
-**[A handful of cities have replaced Flock with Axon](https://news.ycombinator.com/item?id=49199308)**
-
-Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings.
-
-⬆️ 103 • 💬 41 • 6d ago • [404 Media](https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/)
+⬆️ 2 • 💬 0 • 2h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -317,7 +313,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 6K • 💬 324 • ⏱️ 21:29 • 14h ago
+👁️ 74K • 👍 6K • 💬 324 • ⏱️ 21:29 • 15h ago
 
 ---
 
@@ -327,7 +323,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 117 • ⏱️ 18:46 • 15h ago
+👁️ 26K • 👍 2K • 💬 117 • ⏱️ 18:46 • 16h ago
 
 ---
 
@@ -337,7 +333,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 16h ago
+👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 17h ago
 
 ---
 
@@ -357,7 +353,7 @@ The CPI and PPI data hit and the market is sending mixed signals, but Dylan see 
 
 📺 Chart Hackers
 
-👁️ 750 • 👍 121 • 2h ago
+👁️ 750 • 👍 121 • 3h ago
 
 ---
 
@@ -367,7 +363,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 641 • 💬 33 • ⏱️ 10:31 • 10h ago
+👁️ 8K • 👍 641 • 💬 33 • ⏱️ 10:31 • 11h ago
 
 ---
 
