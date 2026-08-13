@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T18:27:10.692589+00:00'
+updated: '2026-08-13T19:34:51.267854+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 18:27 UTC  
+**Last Updated:** August 13, 2026 at 19:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,875.00
+### $1,885.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -1.9%  
-**30d:** -2.1%  
-**90d:** -13.8%  
-**1y:** -58.7%  
+**24h:** +0.0%  
+**7d:** -1.5%  
+**30d:** -1.7%  
+**90d:** -13.4%  
+**1y:** -58.5%  
 
 ---
 
@@ -144,7 +144,7 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
 
-6d ago
+7d ago
 
 ---
 
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 3h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 2h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ CryptoSlate • 2h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 4h ago
+Coinpedia • 5h ago
 
 ---
 
@@ -204,7 +204,7 @@ Coinpedia • 4h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-benzinga.com • 16h ago
+Benzinga • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ benzinga.com • 16h ago
 
 The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 2h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 2h ago
+blockchain.news • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 1K • 💬 242 • ⏱️ 12:21 • 7h ago
+👁️ 7K • 👍 1K • 💬 242 • ⏱️ 12:21 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 19h ago
+👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 20h ago
 
 ---
 
@@ -282,7 +282,7 @@ Ethereum is getting hammered back into the deep support buy zone—could ETH cra
 
 📺 The Crypto Code
 
-👁️ 3 • 👍 1 • ⏱️ 0:47 • 25m ago
+👁️ 3 • 👍 1 • ⏱️ 0:47 • 1h ago
 
 ---
 
