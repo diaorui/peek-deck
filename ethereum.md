@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-12T23:40:59.447449+00:00'
+updated: '2026-08-13T02:00:18.401180+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 12, 2026 at 23:40 UTC  
+**Last Updated:** August 13, 2026 at 02:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.2%  
-**7d:** -1.3%  
-**30d:** -0.6%  
-**90d:** -15.5%  
-**1y:** -60.4%  
+**7d:** -1.9%  
+**30d:** -2.1%  
+**90d:** -13.8%  
+**1y:** -58.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.76B
+**Market Cap:** $226.55B
 Rank #2
 
-**Circulating Supply:** 120,682,014 ETH
+**Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -62.0%
 
 **All-Time Low:** $0.43
-+433978.8%
++433482.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -81,14 +81,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Clients still don't get that smart contracts are immutable](https://www.reddit.com/r/ethereum/comments/1vkvjmp/clients_still_dont_get_that_smart_contracts_are/)**
-
-it actually drives me insane. We deploy a massive dApp to mainnet, and literally two days later the client is like "can we just quickly edit the logic in this one function?" like no bro, that's the whole point of ethereum. I had to explain to a grown man that we can't just git push a hotfix to a live contract We actually ended up having to bring in an external dev shop cisin just to build out a whole complicated proxy contract architecture for their v2 because management flat out refuses to finalize business logic before we deploy things Im just so tired of web2 brain in web3 spaces. If one more project manager asks me to just "patch the blockchain real quick" i might actually throw my monitor out the window.
-
-2d ago
 
 ---
 
@@ -148,6 +140,14 @@ EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
 
 ---
 
+**[I rebuilt OGame on EVM, fully open source](https://www.reddit.com/r/ethereum/comments/1vhcq8d/i_rebuilt_ogame_on_evm_fully_open_source/)**
+
+Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
+
+6d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -172,15 +172,7 @@ We gave ChatGPT and Claude live data on Bitcoin, Ethereum, and XRP and asked the
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 4h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
-
-Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
-
-CoinDesk • 2d ago
+theblock.co • 6h ago
 
 ---
 
@@ -196,7 +188,15 @@ PR Newswire • 2d ago
 
 Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+
+coindesk.com • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ finance.yahoo.com • 2d ago
 
 Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-finance.yahoo.com • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ finance.yahoo.com • 10h ago
 
 Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
 
-The Motley Fool • 12h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Motley Fool • 12h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 15h ago
 
 ---
 
@@ -236,13 +236,33 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 4K • 👍 296 • 💬 189 • ⏱️ 11:59 • 8h ago
+
+---
+
+**[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
+
+"It's A Trap!" Crypto Expert WARNING To Bitcoin & Ethereum Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 6K • 👍 770 • 💬 67 • ⏱️ 9:22 • 2h ago
+
+---
+
 **[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
 
 Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 221 • 💬 38 • ⏱️ 1:01:54 • 8h ago
+👁️ 4K • 👍 237 • 💬 50 • ⏱️ 1:01:54 • 10h ago
 
 ---
 
@@ -252,27 +272,17 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 170 • 💬 8 • ⏱️ 7:07 • 9h ago
+👁️ 3K • 👍 176 • 💬 9 • ⏱️ 7:07 • 11h ago
 
 ---
 
-**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
 
-📺 Bankless
+📺 AllinCrypto
 
-👁️ 5K • 👍 150 • 💬 64 • ⏱️ 54:27 • 2d ago
-
----
-
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
-
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 546 • 💬 114 • ⏱️ 30:14 • 14h ago
+👁️ 5K • 👍 397 • 💬 137 • ⏱️ 13:27 • 8h ago
 
 ---
 
@@ -286,13 +296,23 @@ GET ON KRAKEN TODAY kraken.com/lark?inviteCode=kjtfbzb3 A mysterious wallet just
 
 ---
 
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 AllinCrypto
+📺 The Modern Investor
 
-👁️ 2K • 👍 285 • 💬 107 • ⏱️ 13:27 • 6h ago
+👁️ 5K • 👍 564 • 💬 139 • ⏱️ 30:14 • 16h ago
+
+---
+
+**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
+
+📺 Bankless
+
+👁️ 5K • 👍 153 • 💬 64 • ⏱️ 54:27 • 2d ago
 
 ---
 
@@ -302,37 +322,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 435 • 💬 258 • ⏱️ 19:05 • 1d ago
+👁️ 7K • 👍 459 • 💬 234 • ⏱️ 19:05 • 1d ago
 
 ---
 
-**[ETH Flashing More Bearish Reversal Warning Signals](https://www.youtube.com/watch?v=UUpFHJ83ALI)**
+**[BITCOIN PRICE PATTERN REPEATING (New Signal)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=YlgcnGOWRX4)**
 
-Bitcoin remains the lead market signal as BTC tests its current structure, nearby support, and the levels that would confirm either ...
+BITCOIN PRICE PATTERN REPEATING (New Signal)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Aaron Dishner aka Moonin Papa
+📺 Crypto World
 
-👁️ 8K • 👍 598 • 💬 89 • ⏱️ 55:35 • 2d ago
-
----
-
-**[🔴 LIVE Crypto and Futures Analysis | BTC, ETH, NQ, ES &amp; Alt Coins](https://www.youtube.com/watch?v=wZ3YkxKBEuU)**
-
-Live crypto market analysis with Severin. Join the stream as we break down Bitcoin, Ethereum, Futures and Alt coins using market ...
-
-📺 Chart Champions
-
-👁️ 4K • 👍 223 • 💬 2 • ⏱️ 1:13:35 • 8h ago
-
----
-
-**[Vitalik Just Changed Ethereum Forever This Ruined L2s?](https://www.youtube.com/watch?v=RvWP8w2d1kM)**
-
-Vitalik Buterin has officially revealed a major overhaul to Ethereum's roadmap, shifting priorities toward native mainnet privacy, ...
-
-📺 ilme aalim
-
-👁️ 4K • 👍 179 • 💬 8 • ⏱️ 7:44 • 1d ago
+👁️ 2K • 👍 157 • 💬 47 • ⏱️ 18:33 • 5h ago
 
 ---
 

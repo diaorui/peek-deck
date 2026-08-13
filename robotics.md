@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-12T23:40:59.450735+00:00'
+updated: '2026-08-13T02:00:18.404379+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 12, 2026 at 23:40 UTC  
+**Last Updated:** August 13, 2026 at 02:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -130,15 +130,7 @@ Bloomberg.com • 1d ago
 
 A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
 
-finance.yahoo.com • 49m ago
-
----
-
-**[Workers Are Teaching AI-Powered Robots to Take Over Their Jobs](https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them)**
-
-Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
-
-Bloomberg.com • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -146,7 +138,7 @@ Bloomberg.com • 2h ago
 
 Researchers say that humanoid robots have a long way to go before they are officially ready for work.
 
-KQED • 9h ago
+KQED • 12h ago
 
 ---
 
@@ -154,29 +146,21 @@ KQED • 9h ago
 
 A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
 
-LEX 18 News • 7h ago
+LEX 18 News • 9h ago
+
+---
+
+**[AMD’s Ryzen AI X100 Takes On GPU-Centric AI](https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/)**
+
+AMD launches Ryzen AI X100, betting that heterogeneous SoCs with CPU, GPU, and NPU will outperform big GPUs in physical AI and robotics.
+
+eetimes.com • 1d ago
 
 ---
 
 **[Clinical translation and engineering challenges of soft robotic cardiac sleeves for heart failure](https://www.nature.com/articles/s41467-026-76596-z)**
 
-Nature • 18h ago
-
----
-
-**[Robotics in farming: The next frontier in Pa. agriculture](https://triblive.com/local/westmoreland/robotics-in-farming-the-next-frontier-in-pa-agriculture/)**
-
-Pittsburgh has become a hotbed of robotics and tech development in recent decades, but you do not have to venture far outside the first-ring suburbs before you hit farmland. Those two worlds have connected, with companies such as Caterpillar and John Deere working with Carnegie Mellon University robotics researchers over
-
-TribLIVE.com • 1d ago
-
----
-
-**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
-
-This system is getting the automated circular economy rolling
-
-spectrum.ieee.org • 2d ago
+Nature • 20h ago
 
 ---
 
@@ -184,7 +168,23 @@ spectrum.ieee.org • 2d ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-ksl.com • 1d ago
+KSL.com • 1d ago
+
+---
+
+**[How Smart Disassembly Bots Could Power a Real Circular Economy](https://spectrum.ieee.org/recycling-robot)**
+
+This system is getting the automated circular economy rolling
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Are humanoid robots ready to scrub your kitchen and take out the trash? Not quite.](https://www.cbsnews.com/news/tau-robotics-humanoid-ai-cleaning-robots-san-francisco/)**
+
+Startup companies are now starting to test their humanoid robots for home use, but experts said wider adoption will take years.
+
+cbsnews.com • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 722K • 👍 19K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 759K • 👍 20K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 28K • 👍 300 • 💬 80 • ⏱️ 3:48 • 1d ago
+👁️ 30K • 👍 338 • 💬 84 • ⏱️ 3:48 • 1d ago
 
 ---
 
@@ -218,15 +218,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 29K • 👍 464 • 💬 98 • ⏱️ 7:05 • 1d ago
-
----
-
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
-
-📺 Ben Esherick
-
-👁️ 622K • 👍 29K • 💬 767 • ⏱️ 0:35 • 5d ago
+👁️ 33K • 👍 487 • 💬 100 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -236,47 +228,7 @@ This tiny transformer robot was built for the moon… It's about the size of a b
 
 📺 Cleo Abram
 
-👁️ 913K • 👍 48K • 💬 631 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
-
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
-
-📺 Custom Adventurist
-
-👁️ 48K • 👍 3K • 💬 210 • ⏱️ 1:02 • 5d ago
-
----
-
-**[AGIBOT X2 VR Teleoperation Kit: I Took Control of a Humanoid Robot! 🤯](https://www.youtube.com/watch?v=kJQm9tCngio)**
-
-Can you really control a humanoid robot using virtual reality? In this video, I unbox, set up, and test the AGIBOT VR Teleoperation ...
-
-📺 KhanFlicks
-
-👁️ 11K • 👍 39 • 💬 30 • ⏱️ 6:44 • 7d ago
-
----
-
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
-
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
-
-📺 Julia McCoy
-
-👁️ 59K • 👍 2K • 💬 237 • ⏱️ 9:02 • 4d ago
-
----
-
-**[Robotics Is The Next Big Investment Wave.  I Study  The &quot;Picks And Shovels&quot;, (The Compnent Makers).](https://www.youtube.com/watch?v=GNXsEwob46s)**
-
-The stocks mentioned are shown in this video and are contained in the first comment below. Nothing in this video is advice or a ...
-
-📺 Clive Thompson
-
-👁️ 8K • 👍 759 • 💬 199 • ⏱️ 19:58 • 11h ago
+👁️ 947K • 👍 49K • 💬 646 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -287,6 +239,54 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 📺 KhanFlicks
 
 👁️ 27K • 💬 57 • ⏱️ 8:34 • 1d ago
+
+---
+
+**[Popular Girl Only Has ROBOT FRIENDS | Dhar Mann Studios](https://www.youtube.com/watch?v=GonfnLQqW98)**
+
+Dhar Mann Fam, this is your chance to shape our future. ❤️ Vote for the next series YOU want us to create: ...
+
+📺 Dhar Mann Studios
+
+👁️ 1.9M • 👍 25K • 💬 2K • ⏱️ 24:28 • 5d ago
+
+---
+
+**[Should We Be Worried About Armed Robots Yet? 😨🤖](https://www.youtube.com/watch?v=HN7UmYJAlvo)**
+
+Should We Be Worried About Armed Robots Yet? China and the U.S. are testing advanced military robots, including ...
+
+📺 Milopax
+
+👁️ 38K • 👍 272 • 💬 6 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[This 9-Foot Robot Has No Motor or Battery!](https://www.youtube.com/watch?v=wLGJ3SOx9rI)**
+
+Imagine controlling a 9-foot-tall robot suit without a battery, motor, or electronics! This Japanese passive exoskeleton works ...
+
+📺 CoreFacts
+
+👁️ 68K • 👍 625 • 💬 21 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[China&#39;s T800 Now Has More Humanlike Feet #robot #ai #engineering](https://www.youtube.com/watch?v=pxrQuxopTZ8)**
+
+China's T800 just got a big upgrade to its feet. With the state-of-the-art sensing tech, EngineAI's Terminator-inspired humanoid ...
+
+📺 Kalil 4.0
+
+👁️ 39K • 👍 686 • 💬 48 • ⏱️ 1:04 • 3d ago
+
+---
+
+**[I’m Buying an Iron Man Robot](https://www.youtube.com/watch?v=G3P9bFqAzMs)**
+
+📺 Kyle Krueger
+
+👁️ 2.0M • 👍 117K • 💬 1K • ⏱️ 1:01 • 2d ago
 
 ---
 
