@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T19:34:51.262439+00:00'
+updated: '2026-08-13T20:42:30.400844+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 19:34 UTC  
+**Last Updated:** August 13, 2026 at 20:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,464.41
+### $63,388.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.1%  
 **7d:** -2.3%  
 **30d:** -2.1%  
 **90d:** -18.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1267.53B
+**Market Cap:** $1272.13B
 Rank #1
 
-**Circulating Supply:** 20,069,696 BTC
+**Circulating Supply:** 20,069,740 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-49.7%
 
 **All-Time Low:** $67.81
-+93010.2%
++93372.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 23h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-20h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 The day ahead in crypto: Aug. 13, 2026
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -167,15 +167,27 @@ CoinDesk • 7h ago
 
 Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[New ETF eyes 95% allocation to MicroStrategy’s STRC](https://sg.finance.yahoo.com/news/etf-eyes-95-allocation-microstrategy-184217104.html)**
+**[Goldman Sachs wants to turn bitcoin into a yield machine](https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html)**
 
-OranjeBTC, a Bitcoin (BTC) treasury company based in Brazil, announced that it is going to launch a new exchange-traded fund (ETF) in early September. Called DIGY11, the fund provides Brazil traders access to the perpetual preferred shares of Bitcoin companies through an ...
+Scott Melker discusses the Goldman (GS) deal to acquire the yield-generating ETF platform Neos rather than build out its own.
 
-Yahoo Finance Singapore • 52m ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.](https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/)**
+
+The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.
+
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -183,7 +195,7 @@ Yahoo Finance Singapore • 52m ago
 
 The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -195,17 +207,17 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Edges Higher as Prospect of Immediate U.S. Rate Rise Dims](https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/bitcoin-edges-higher-as-prospect-of-immediate-u-s-rate-rise-dims-AEYnWBeJwg7TOAVYF8aq)**
+**[Data Breach At Trezor Leaks Info On Nearly 14,000 Bitcoin Wallet Users](https://bitcoinmagazine.com/news/trezor-data-breach-leaks-customer-info)**
 
-Barron's • 2h ago
+The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
+
+Bitcoin Magazine • 3h ago
 
 ---
 
-**[Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale](https://bitcoinmagazine.com/news/bitcoin-price-down-but-adoption-to-grow)**
+**[Bitcoin Edges Higher as Prospect of Immediate U.S. Rate Rise Dims](https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/bitcoin-edges-higher-as-prospect-of-immediate-u-s-rate-rise-dims-AEYnWBeJwg7TOAVYF8aq)**
 
-Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
-
-Bitcoin Magazine • 22h ago
+Barron's • 3h ago
 
 ---
 
@@ -213,21 +225,13 @@ Bitcoin Magazine • 22h ago
 
 Public pressure mounts on data center buildouts in Alabama.
 
-Tom's Hardware • 9h ago
+Tom's Hardware • 10h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 4h ago
-
----
-
-**[Where Will Bitcoin Be in 2030?](https://www.fool.com/investing/2026/08/12/where-will-bitcoin-be-in-2030/)**
-
-History says that this cryptocurrency follows a four-year cycle.
-
-fool.com • 1d ago
+Investing.com • 5h ago
 
 ---
 
@@ -253,9 +257,17 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 ---
 
+**[The simple way to add Bitcoin payments to your app](https://news.ycombinator.com/item?id=49291328)**
+
+Add Ark and Lightning payments to your bitcoin app
+
+⬆️ 1 • 💬 0 • 21m ago • [Second](https://second.tech/)
+
+---
+
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 10h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 11h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -287,13 +299,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 8h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 9h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 4h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 6h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -307,7 +319,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 6K • 💬 347 • ⏱️ 21:29 • 18h ago
+👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 19h ago
 
 ---
 
@@ -317,67 +329,37 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 117 • ⏱️ 18:46 • 19h ago
+👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 20h ago
 
 ---
 
-**[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
+**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
 
-"It's A Trap!" Crypto Expert WARNING To Bitcoin & Ethereum Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
 
-📺 Altcoin Daily
+📺 Yahoo Finance
 
-👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 20h ago
-
----
-
-**[OMG... Did Anthropic Just Kill Bitcoin?](https://www.youtube.com/watch?v=0GwW7IwnAfA)**
-
-Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 112 • ⏱️ 11:09 • 1d ago
+👁️ 2K • 👍 150 • 💬 31 • ⏱️ 14:52 • 3h ago
 
 ---
 
-**[BlackRock and Nvidia Just Got Caught In a $4.2 TRILLION Bitcoin Trap!](https://www.youtube.com/watch?v=bJbk8sP_rgU)**
+**[Is Now the Time to Accumulate Bitcoin? Cory Klippsten Explains](https://www.youtube.com/watch?v=fMuRKcj_GF4)**
 
-America's AI ambitions could require an estimated $4.2 trillion in new capital, but borrowing costs are rising and cheap money is ...
+Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear market, why he believes the bottom could be ...
 
-📺 Simply Bitcoin
+📺 Cointelegraph
 
-👁️ 19K • 👍 1K • 💬 132 • ⏱️ 14:49 • 1d ago
-
----
-
-**[BITCOIN WARNING: THIS WON’T STAY QUIET FOR LONG… (LIVE $1 Million Trade)](https://www.youtube.com/watch?v=5opxPyrcV-4)**
-
-BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
-
-📺 Jayson Casper
-
-👁️ 1K • 👍 165 • 2h ago
+👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 6h ago
 
 ---
 
-**[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
+**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
 
-📺 CryptosRUs
+📺 Natalie Brunell
 
-👁️ 13K • 👍 746 • 💬 74 • ⏱️ 41:32 • 1d ago
-
----
-
-**[SOMETHING BIG IS COMING FOR BITCOIN...](https://www.youtube.com/watch?v=JHuVbaSLheA)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 9K • 👍 668 • 💬 68 • ⏱️ 10:31 • 13h ago
+👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 7h ago
 
 ---
 
@@ -391,13 +373,43 @@ Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin for
 
 ---
 
-**[Bitcoin Subject To MASF Attacks](https://www.youtube.com/watch?v=bpwOzcFtOIM)**
+**[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin is now subject to MASF ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Bitcoin University
+📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 852 • ⏱️ 9:58 • 1d ago
+👁️ 13K • 👍 747 • 💬 74 • ⏱️ 41:32 • 1d ago
+
+---
+
+**[OMG... Did Anthropic Just Kill Bitcoin?](https://www.youtube.com/watch?v=0GwW7IwnAfA)**
+
+Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 113 • ⏱️ 11:09 • 1d ago
+
+---
+
+**[Market ALERT: Bitcoin is Secretly Grinding to a Massive Move](https://www.youtube.com/watch?v=kO6R-VxstAU)**
+
+Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+
+📺 Verified Investing
+
+👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 1h ago
+
+---
+
+**[Bitcoin: Why This NBA Champion Buys Every Single Day](https://www.youtube.com/watch?v=KgbU4zwlCKE)**
+
+Tristan Thompson is an NBA champion with the Cleveland Cavaliers who's become a hands-on tech investor and operator. In this ...
+
+📺 Anthony Pompliano
+
+👁️ 31K • 👍 879 • 💬 38 • ⏱️ 24:08 • 1d ago
 
 ---
 

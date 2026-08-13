@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-13T19:34:51.270787+00:00'
+updated: '2026-08-13T20:42:30.409202+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 13, 2026 at 19:34 UTC  
+**Last Updated:** August 13, 2026 at 20:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to make my own. Here it’s running in standalone mode using an Arduino, 12 Dynamixel XL430s and 4 potentiometers to control the globe’s speed/direction, height, width, and depth of each offset step. I’ve done more movements using a Python based GUI on my laptop but that requires a usb connection. Full video on my build with links to STLs, code and parts list here: https://youtu.be/pEU04FVNeZw Next project is a Leaper from Arc Raiders. Just need to figure out how to trigger a rocket to make a robot spider jump.
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to ma
 
 (Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets)
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to ma
 
 I've been experimenting with running a complete digit recognition system directly on an ESP32-S3 using TensorFlow Lite Micro. The goal was to recognize 5-digit readings (such as meter displays) completely on-device without relying on a PC or cloud inference. The hardware I used was an ESP32-S3 development board with an onboard camera and AMOLED display (Makerfabs MaTouch ESP32-S3 AI Camera), but the workflow should apply to similar ESP32-S3 camera boards. How it works: Data Collection: Flashed a utility firmware to capture camera frames aligned via an on-screen yellow bounding box, outputting labeled image pairs and a label.csv. Model Training & INT8 Quantization: Trained a lightweight CNN model and quantized it to INT8 to run within the ESP32-S3's memory limits. On-Device Inference: Compiled the quantized model directly into the ESP-IDF binary and deployed it back to the board. The result is surprisingly reliable—it reads all 5 digits cleanly in real time. Hardware & Tech Stack: Board: Makerfabs MaTouch ESP32-S3 AMOLED AI Camera Framework: ESP-IDF + TensorFlow Lite Micro Tooling: Custom Python tools for capture & quantization I put together a detailed write-up covering the complete workflow on GitHub, in case anyone wants to reproduce or adapt it for a similar project. I'd also love to hear how others approach digit recognition with TensorFlow Lite Micro. Have you found any effective ways to improve accuracy or speed up the data collection process?
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been experimenting with running a complete digit recognition system directl
 
 This week a student came by and tried our teaching arms, both hands on two of them, teleoperating our control arms. First try, the arms folded the towel. That's exactly why we still keep teleoperation around. You don't write a line of code. You just move. The teaching arms are linked to the control arms, so your motion gets copied onto them in real time. Which means someone with zero experience can do the kind of thing that would otherwise take ages to hand-program. Watching him work, two things hit me. One: this is still the fastest way we have to pull real manipulation data. Fabric is the hardest to deal with. No fixed grasp point, and it keeps sliding off to the side. A human hand just knows how to teach it the right move. Two: it's a straight check on whether the motion actually holds up. If a person can't move the arm cleanly themselves, all the algorithm and programming in the world probably won't fix it. That's why the towel became our test. Soft. Slippery. Never the same twice. And honestly, if you want a robot to fold a towel, the fastest way I know is still a human on the teaching arms. The models haven't beaten that trick yet.
 
-11h ago
+12h ago
 
 ---
 
@@ -84,7 +84,7 @@ Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been build
 
 I've been training Lingbot-va and Dreamzero lately. For anyone who doesn't know, those need a lot of diverse data, both in terms of environment and play data. That pushed me toward the huge pool of SO-101 datasets that already exist for VLA and ACT training. The problem is those datasets are a mess to combine. Most of them are repetitive, and the task descriptions are generic. They sit on different versions, v2.1 or v3.1. Different framerates, different quality, different camera angles. And at the end you still have to balance the whole thing before it's usable. So I built Dataset Assembly Studio, a local web app that runs over a folder of LeRobot datasets and takes them to a verified v2.1 export. The flow is a set of tabs. Sources, output contract, camera mapping, joint mapping, episodes, tasks, balance, preflight, export. It validates every source before it can be used. Invalid parquet, missing metadata, single-camera recordings, and episodes under two seconds get rejected up front. Camera views can be previewed before mapping, one to wrist and one to a second canonical camera. The six SO-101 joints for both action and observation.state are mapped automatically, with manual correction when a source uses another order. Curation works one dataset at a time. You stage episodes with gallery checkboxes, load all camera views for a focused episode, edit final prompts, and save approved checkpoints. Source files are never modified, all state lives under .dataset_studio/. Global balance groups tasks by a local embedding and caps the episode count per task group. Then a blocking preflight checks camera, joint, schema, media, duration, prompt, destination, and checkpoint compatibility before export. The export runs in the background, rebuilds indices, and writes normalized v2.1 data with exactly two camera streams. A .tar.gz is only prepared if you ask for it. Everything runs locally, no auth, no cloud. A Groq API key is optional just for naming task groups, everything else works without it. Repo: github.com/mekala-2405/dataset-assembly-studio Static demo : https://projects.mharsh.me/data_assembly_studio check out my portfolio and other projects : mharsh.me Walkthrough : https://www.youtube.com/watch?v=bJFGVuzufwQ If you've been through the same dataset grind, I'd love to hear how you handle it and some feedback . The attached video might sound like AI-Slop please bear with it .
 
-12h ago
+13h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-U
 
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -128,29 +128,13 @@ Bloomberg.com • 22h ago
 
 Dyna Robotics trains its new robot model on one million hours of human video to improve physical task performance.
 
-interestingengineering.com • 2d ago
-
----
-
-**[As FCC Restricts Foreign-Produced Robots, Matic, the Only American-Assembled, Privacy-Focused Home Robot in its Category, Announces Matic Cues](https://uk.finance.yahoo.com/news/fcc-restricts-foreign-produced-robots-180000439.html)**
-
-MOUNTAIN VIEW, Calif., August 13, 2026--Today, Matic, the only American-assembled home robot that earned Wired's first perfect 10/10 score in 17 years of testing, announced Matic Cues. This makes Matic the first home robot to understand over 70 spoken languages along with universal human body language and gestures. With Matic Cues, every family member, from children and grandparents to non-English speakers, can command their robot the same way they would ask another person for help, such as poin
-
-Yahoo Finance UK • 1h ago
+Interesting Engineering • 2d ago
 
 ---
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 10h ago
-
----
-
-**[Naval Academy Integrates Robotics, Autonomous Systems Into Summer Training](https://www.war.gov/News/News-Stories/Article/Article/4569991/naval-academy-integrates-robotics-autonomous-systems-into-summer-training/)**
-
-The Department of War provides the military forces needed to deter war and ensure our nation's security.
-
-U.S. Department of War (.gov) • 1d ago
+The New York Times • 11h ago
 
 ---
 
@@ -162,11 +146,33 @@ LEX 18 News • 1d ago
 
 ---
 
+**[Naval Academy Integrates Robotics, Autonomous Systems Into Summer Training](https://www.war.gov/News/News-Stories/Article/Article/4569991/naval-academy-integrates-robotics-autonomous-systems-into-summer-training/)**
+
+The Department of War provides the military forces needed to deter war and ensure our nation's security.
+
+U.S. Department of War (.gov) • 1d ago
+
+---
+
+**[High-tech harvest: International robotics showcase debuts in Pennsylvania](https://triblive.com/local/regional/high-tech-harvest-international-robotics-showcase-debuts-in-pennsylvania/)**
+
+TribLIVE.com • 23h ago
+
+---
+
+**[The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.](https://finance.yahoo.com/markets/stocks/articles/latest-robotics-ipo-8000x-oversubscribed-225120337.html)**
+
+A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
+
+Yahoo Finance • 21h ago
+
+---
+
 **[Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)**
 
 The divesture comes comes as the two once-tight companies have started to diverge on the business side.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -186,25 +192,17 @@ KQED • 1d ago
 
 ---
 
-**[Humanoid robots are coming to US auto factories, but can they boost productivity?](https://www.businessreport.com/article/humanoid-robots-are-coming-to-us-auto-factories-but-can-they-boost-productivity)**
-
-Automakers are increasingly investing in humanoid robots as a potential next stage of factory automation, with BMW, Hyundai, Mercedes-Benz and Tesla among the companies testing or developing the technology, The New York Times reports.   Unlike traditional industrial robots that are typically fixed in place and built for specific tasks, humanoids are designed to move through […]
-
-Baton Rouge Business Report • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[3 Robotics Stocks Under $10 With Massive Upside](https://www.youtube.com/watch?v=8a9dMO3glNE)**
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
-Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
-📺 MarketBeat
+📺 Fireship
 
-👁️ 31K • 👍 940 • 💬 42 • ⏱️ 25:41 • 21h ago
+👁️ 876K • 👍 21K • 💬 2K • ⏱️ 7:02 • 2d ago
 
 ---
 
@@ -214,17 +212,17 @@ We know Spiritually, we are either influenced by God, or evil. Well this new rob
 
 📺 Aaron Page 
 
-👁️ 11K • 👍 1K • 💬 202 • ⏱️ 13:50 • 3d ago
+👁️ 12K • 👍 1K • 💬 202 • ⏱️ 13:50 • 3d ago
 
 ---
 
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+**[3 Robotics Stocks Under $10 With Massive Upside](https://www.youtube.com/watch?v=8a9dMO3glNE)**
 
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
 
-📺 Fireship
+📺 MarketBeat
 
-👁️ 866K • 👍 21K • 💬 2K • ⏱️ 7:02 • 2d ago
+👁️ 32K • 👍 957 • 💬 42 • ⏱️ 25:41 • 22h ago
 
 ---
 
@@ -234,17 +232,15 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 16K • 👍 481 • 💬 15 • ⏱️ 58:18 • 1d ago
+👁️ 17K • 👍 499 • 💬 15 • ⏱️ 58:18 • 1d ago
 
 ---
 
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
 
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+📺 Ben Esherick
 
-📺 Guardian News
-
-👁️ 35K • 👍 415 • 💬 107 • ⏱️ 3:48 • 2d ago
+👁️ 639K • 👍 30K • 💬 783 • ⏱️ 0:35 • 6d ago
 
 ---
 
@@ -254,15 +250,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 37K • 👍 531 • 💬 105 • ⏱️ 7:05 • 2d ago
-
----
-
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
-
-📺 Ben Esherick
-
-👁️ 638K • 👍 30K • 💬 782 • ⏱️ 0:35 • 6d ago
+👁️ 38K • 👍 533 • 💬 106 • ⏱️ 7:05 • 2d ago
 
 ---
 
@@ -282,17 +270,27 @@ The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall
 
 📺 Custom Adventurist
 
-👁️ 51K • 👍 3K • 💬 217 • ⏱️ 1:02 • 6d ago
+👁️ 51K • 👍 3K • 💬 218 • ⏱️ 1:02 • 6d ago
 
 ---
 
-**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
-This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
-📺 Cleo Abram
+📺 Guardian News
 
-👁️ 1.0M • 👍 54K • 💬 685 • ⏱️ 0:32 • 2d ago
+👁️ 36K • 👍 418 • 💬 109 • ⏱️ 3:48 • 2d ago
+
+---
+
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+
+📺 KhanFlicks
+
+👁️ 29K • 💬 58 • ⏱️ 8:34 • 2d ago
 
 ---
 

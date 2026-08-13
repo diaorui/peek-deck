@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T19:34:51.267854+00:00'
+updated: '2026-08-13T20:42:30.406293+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 19:34 UTC  
+**Last Updated:** August 13, 2026 at 20:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.57
+### $1,887.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -1.5%  
-**30d:** -1.7%  
+**24h:** +0.6%  
+**7d:** -1.4%  
+**30d:** -1.6%  
 **90d:** -13.4%  
 **1y:** -58.5%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.62B
+**Market Cap:** $227.71B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+433514.6%
++435625.5%
 
 ---
 
@@ -168,11 +168,15 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-12-000-tom-135215459.html)**
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
 
-Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
 
-Yahoo Finance • 5h ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 42m ago
 
 ---
 
@@ -188,7 +192,7 @@ Fortune • 4h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 3h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -196,7 +200,7 @@ CryptoSlate • 3h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Coinpedia • 5h ago
+Coinpedia • 6h ago
 
 ---
 
@@ -204,7 +208,7 @@ Coinpedia • 5h ago
 
 Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -212,7 +216,7 @@ Benzinga • 17h ago
 
 The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -220,7 +224,7 @@ Crypto Briefing • 3h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 3h ago
+blockchain.news • 5h ago
 
 ---
 
@@ -236,23 +240,23 @@ CoinDesk • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 1K • 💬 242 • ⏱️ 12:21 • 8h ago
-
----
-
 **[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
 
 "It's A Trap!" Crypto Expert WARNING To Bitcoin & Ethereum Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 20h ago
+👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 21h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
+
+BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 2h ago
 
 ---
 
@@ -262,7 +266,17 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 339 • 💬 188 • ⏱️ 11:59 • 1d ago
+👁️ 6K • 👍 340 • 💬 191 • ⏱️ 11:59 • 1d ago
+
+---
+
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 9h ago
 
 ---
 
@@ -272,27 +286,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 497 • 💬 208 • ⏱️ 19:05 • 1d ago
-
----
-
-**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
-
-Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
-
-📺 The Crypto Code
-
-👁️ 3 • 👍 1 • ⏱️ 0:47 • 1h ago
-
----
-
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
-
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
-
-📺 AllinCrypto
-
-👁️ 8K • 👍 525 • 💬 140 • ⏱️ 13:27 • 1d ago
+👁️ 8K • 👍 498 • 💬 210 • ⏱️ 19:05 • 1d ago
 
 ---
 
@@ -302,7 +296,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 68 • 💬 11 • ⏱️ 7:15 • 1d ago
+👁️ 2K • 👍 69 • 💬 11 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -312,17 +306,17 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 254 • 💬 47 • ⏱️ 1:01:54 • 1d ago
+👁️ 5K • 👍 255 • 💬 47 • ⏱️ 1:01:54 • 1d ago
 
 ---
 
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
 
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
 
-📺 The Modern Investor
+📺 AllinCrypto
 
-👁️ 6K • 👍 580 • 💬 97 • ⏱️ 30:14 • 1d ago
+👁️ 9K • 👍 531 • 💬 141 • ⏱️ 13:27 • 1d ago
 
 ---
 
@@ -332,7 +326,17 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 197 • 💬 12 • ⏱️ 7:07 • 1d ago
+👁️ 4K • 👍 198 • 💬 12 • ⏱️ 7:07 • 1d ago
+
+---
+
+**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
+
+Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
+
+📺 The Crypto Code
+
+👁️ 8 • 👍 1 • ⏱️ 0:47 • 2h ago
 
 ---
 
