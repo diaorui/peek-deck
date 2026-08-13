@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T22:41:22.044354+00:00'
+updated: '2026-08-13T23:41:07.666257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 22:41 UTC  
+**Last Updated:** August 13, 2026 at 23:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -1.4%  
+**24h:** +0.3%  
+**7d:** -1.5%  
 **30d:** -1.7%  
-**90d:** -13.4%  
+**90d:** -13.5%  
 **1y:** -58.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.71B
+**Market Cap:** $227.49B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435625.5%
++435260.6%
 
 ---
 
@@ -160,14 +160,6 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans](https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks)**
-
-The Ethereum staking platform Ether.fi is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.
-
-Decrypt • 8h ago
-
----
-
 **[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
 
 Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
@@ -176,29 +168,15 @@ Scott Melker breaks down Fidelity's decision to add staking rewards to its ether
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+**[Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors](https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors)**
 
-ccn.com • 8h ago
+Fidelity wants its FETH fund to stake up to 100% of its Ethereum and distribute the rewards to holders as quarterly cash.
 
----
-
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
-
-Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
-
-coinpedia.org • 8h ago
-
----
-
-**[Ethereum Price May Grow by Over 50% ‘In a Matter of Days’](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-may-grow-over-083558609.html)**
-
-Ethereum price could surge over 50% toward $3,000 as cooling US inflation and lower Fed hike odds support a falling-wedge breakout setup.
-
-Yahoo Finance • 14h ago
+Decrypt • 1d ago
 
 ---
 
@@ -206,7 +184,13 @@ Yahoo Finance • 14h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 7h ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+
+CCN.com • 9h ago
 
 ---
 
@@ -214,15 +198,15 @@ Fortune • 12h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 6h ago
+CryptoSlate • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
 
-Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
+Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-Benzinga • 20h ago
+coinpedia.org • 9h ago
 
 ---
 
@@ -230,7 +214,23 @@ Benzinga • 20h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 7h ago
+blockchain.news • 8h ago
+
+---
+
+**[Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE](https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/)**
+
+The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
+
+Crypto Briefing • 7h ago
+
+---
+
+**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
+
+Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
+
+Benzinga • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ blockchain.news • 7h ago
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 158 • ⏱️ 9:22 • 23h ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -254,17 +254,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 963 • 👍 111 • 💬 20 • ⏱️ 18:22 • 4h ago
-
----
-
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 340 • 💬 191 • ⏱️ 11:59 • 1d ago
+👁️ 2K • 👍 167 • 💬 94 • ⏱️ 18:22 • 5h ago
 
 ---
 
@@ -274,7 +264,17 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 274 • ⏱️ 12:21 • 11h ago
+👁️ 10K • 👍 1K • 💬 371 • ⏱️ 12:21 • 12h ago
+
+---
+
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 341 • 💬 194 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -284,17 +284,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 498 • 💬 210 • ⏱️ 19:05 • 1d ago
-
----
-
-**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 69 • 💬 11 • ⏱️ 7:15 • 1d ago
+👁️ 8K • 👍 504 • 💬 211 • ⏱️ 19:05 • 2d ago
 
 ---
 
@@ -304,7 +294,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 255 • 💬 47 • ⏱️ 1:01:54 • 1d ago
+👁️ 5K • 👍 256 • 💬 47 • ⏱️ 1:01:54 • 1d ago
 
 ---
 
@@ -314,17 +304,17 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 531 • 💬 141 • ⏱️ 13:27 • 1d ago
+👁️ 9K • 👍 539 • 💬 163 • ⏱️ 13:27 • 1d ago
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 More Crypto Online
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 198 • 💬 12 • ⏱️ 7:07 • 1d ago
+👁️ 2K • 👍 71 • 💬 11 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -334,7 +324,17 @@ Ethereum is getting hammered back into the deep support buy zone—could ETH cra
 
 📺 The Crypto Code
 
-👁️ 8 • 👍 1 • ⏱️ 0:47 • 4h ago
+👁️ 36 • 👍 1 • ⏱️ 0:47 • 5h ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 199 • 💬 12 • ⏱️ 7:07 • 1d ago
 
 ---
 

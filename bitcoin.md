@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T22:41:22.037771+00:00'
+updated: '2026-08-13T23:41:07.660046+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 22:41 UTC  
+**Last Updated:** August 13, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,388.49
+### $63,478.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** -0.2%  
 **7d:** -2.2%  
 **30d:** -2.0%  
 **90d:** -18.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1272.13B
+**Market Cap:** $1272.76B
 Rank #1
 
-**Circulating Supply:** 20,069,740 BTC
+**Circulating Supply:** 20,069,793 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -49.7%
 
 **All-Time Low:** $67.81
-+93372.9%
++93426.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
 
-🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 9h ago
+🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 10h ago
 
 ---
 
@@ -89,25 +89,25 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 The title says it all
 
-13h ago
+14h ago
 
 ---
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-1h ago
+2h ago
 
 ---
 
 **[PSA](https://www.reddit.com/r/Bitcoin/comments/1vnc439/psa/)**
 
-8h ago
+9h ago
 
 ---
 
 **[It's so over!](https://www.reddit.com/r/Bitcoin/comments/1vn3nzi/its_so_over/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ The title says it all
 
 Received this email
 
-9h ago
+10h ago
 
 ---
 
@@ -123,13 +123,13 @@ Received this email
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-2h ago
+3h ago
 
 ---
 
 **[it‘s that time of the year again？](https://www.reddit.com/r/Bitcoin/comments/1vn6ohp/its_that_time_of_the_year_again/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin has gone unusually quiet. According to this analysis, 90-day realised vo
 
 after DCA'ing all my savings u guys told me to invest in a hardware wallet for only bitcoin, so I'm planning to buy a Trezor. or im going to get a ColdCard instead? looooooooooooool
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ after DCA'ing all my savings u guys told me to invest in a hardware wallet for o
 
 Makes sense people are jumpy right now due to the recent Coldcard hack literally two weeks before this. "Hardware wallet" + "breach" in the same headline twice in one month makes it feel like one big pattern, but they're not related incidents at all, so worth actually understanding what's actually going on instead of panicking right off the bat. It wasn't Trezor that got hacked, it was ShipMonk, the company that packs and ships their orders. About 13,700 customers who ordered between May and August had their name, email, phone, and home address exposed. A smaller group of about 1,900 had just name, city, and email leaked. Your device, your seed phrase, your firmware, none of that touched. Trezor says no device, private key or wallet backup was affected, and that its systems were not compromised. Nobody can get into your wallet from this. If you're on that list, someone now knows you own a hardware wallet and has your home address. That's still a bad thing btw. In no way am I downplaying that. But this is not the same thing as the coldcard hack or anything close to that. If you got the notification email from Trezor, you're affected. If you didn't, you're not. No reason to panic about the device itself either way
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Makes sense people are jumpy right now due to the recent Coldcard hack literally
 
 The day ahead in crypto: Aug. 13, 2026
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -165,27 +165,31 @@ CoinDesk • 10h ago
 
 Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Goldman's buying bitcoin ETFs, Tether's buying gold, and bitcoin doesn't budge](https://finance.yahoo.com/video/goldmans-buying-bitcoin-etfs-tethers-162000772.html)**
+**[Scam leads Grand Traverse man to withdraw $9,200 and buy bitcoin](https://upnorthlive.com/news/local/scam-leads-grand-traverse-man-to-withdraw-9200-and-buy-bitcoin)**
 
-Scott Melker breaks down the latest crypto headlines, including why Tether (USDT-USD) is loading up on gold, Goldman Sachs' (GS) move into bitcoin (BTC-USD) ETFs from NEOS, and why bitcoin barely budged after the latest PPI data came in largely in line with expectations.
+GRAND TRAVERSE COUNTY, Mich., (WPBN/WGTU) -- A Grand Traverse man could be out more than $9,000 from a suspected scam.The 64-year-old man said he alerted police
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 6h ago
+upnorthlive.com • 48m ago
 
 ---
 
-**[SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.](https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/)**
+**[Georgia Man Met a Woman on Facebook, Then Lost $164,000 to a Fake Crypto Investment. The FBI Seized $18,000 in Bitcoin](https://www.yahoo.com/news/us/articles/georgia-man-met-woman-facebook-220030286.html)**
 
-The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.
+A Georgia man met a woman on Facebook and developed an online romance with her. Then the conversations turned to cryptocurrency. The man, from Unadilla ... Read More
 
-Investor's Business Daily • 5h ago
+Yahoo • 1h ago
+
+---
+
+**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+
+Real mining. Tiny footprint.
+
+Mashable • 1h ago
 
 ---
 
@@ -193,7 +197,7 @@ Investor's Business Daily • 5h ago
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-cnbc.com • 2d ago
+CNBC • 2d ago
 
 ---
 
@@ -201,7 +205,7 @@ cnbc.com • 2d ago
 
 The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Forbes • 5h ago
+Forbes • 31m ago
 
 ---
 
@@ -209,7 +213,7 @@ Forbes • 5h ago
 
 The Trezor data breach exposes names and emails from 13,689 customers who bought the popular Bitcoin wallet in recent months.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -217,21 +221,13 @@ Bitcoin Magazine • 5h ago
 
 Public pressure mounts on data center buildouts in Alabama.
 
-Tom's Hardware • 12h ago
+Tom's Hardware • 13h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 7h ago
-
----
-
-**[BTC price news: Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests](https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests)**
-
-An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.
-
-CoinDesk • 19h ago
+Investing.com • 8h ago
 
 ---
 
@@ -251,7 +247,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 2h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 3h ago • [Second](https://second.tech/)
 
 ---
 
@@ -267,7 +263,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 13h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 14h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -299,13 +295,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 11h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 12h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 7h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 8h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -313,13 +309,23 @@ Southern hospitality meets enterprise technology - secure, scalable cloud soluti
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
 
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
 
-📺 Benjamin Cowen
+📺 Yahoo Finance
 
-👁️ 93K • 👍 6K • 💬 371 • ⏱️ 21:29 • 21h ago
+👁️ 3K • 👍 217 • 💬 35 • ⏱️ 14:52 • 6h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
+
+BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 167 • 💬 94 • ⏱️ 18:22 • 5h ago
 
 ---
 
@@ -329,17 +335,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 135 • ⏱️ 18:46 • 22h ago
-
----
-
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
-
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
-
-📺 Yahoo Finance
-
-👁️ 2K • 👍 150 • 💬 31 • ⏱️ 14:52 • 5h ago
+👁️ 31K • 👍 2K • 💬 138 • ⏱️ 18:46 • 23h ago
 
 ---
 
@@ -349,7 +345,27 @@ Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear mar
 
 📺 Cointelegraph
 
-👁️ 665 • 👍 39 • 💬 1 • ⏱️ 17:13 • 8h ago
+👁️ 830 • 👍 47 • 💬 30 • ⏱️ 17:13 • 9h ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 101K • 👍 7K • 💬 382 • ⏱️ 21:29 • 22h ago
+
+---
+
+**[LIVE: XRP BULL RUN CONFIRMED! Donald Trump &amp; Brad Garlinghouse Discuss Ripple](https://www.youtube.com/watch?v=CElahmHg3kQ)**
+
+XRP #Ripple #BullRun Join this special livestream featuring a discussion on Donald Trump, Brad Garlinghouse, XRP, Ripple, and ...
+
+📺 Dr. Tracy Timberlake
+
+👁️ 6K • 👍 1K • 3h ago
 
 ---
 
@@ -359,57 +375,37 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 237 • 💬 69 • ⏱️ 1:11:42 • 9h ago
+👁️ 4K • 👍 317 • 💬 57 • ⏱️ 1:11:42 • 10h ago
 
 ---
 
-**[Bitcoin Captured? The Battle That Changes Everything!](https://www.youtube.com/watch?v=8g_rqh1dF3U)**
+**[Bitcoin Subject To MASF Attacks](https://www.youtube.com/watch?v=bpwOzcFtOIM)**
 
-Bitcoin's BIP-110 soft fork briefly split the chain—but the failed Bitcoin fork may have proven the opposite of corporate capture: ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin is now subject to MASF ...
 
-📺 Simply Bitcoin
+📺 Bitcoin University
 
-👁️ 23K • 👍 2K • 💬 291 • ⏱️ 20:00 • 3d ago
-
----
-
-**[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 747 • 💬 74 • ⏱️ 41:32 • 1d ago
+👁️ 14K • 👍 1K • 💬 852 • ⏱️ 9:58 • 2d ago
 
 ---
 
-**[OMG... Did Anthropic Just Kill Bitcoin?](https://www.youtube.com/watch?v=0GwW7IwnAfA)**
+**[Is the bottom in for Bitcoin, XRP and Chainlink? What&#39;s Retail doing? - This Altcoin could run well!](https://www.youtube.com/watch?v=PXaKLkBi5_o)**
 
-Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k): ...
+Trade XRP - LINK - BTC (ByBit): https://bit.ly/CoinsKidByBit More XRP - LINK - BTC Exchanges: MEXC: ...
 
-📺 Altcoin Daily
+📺 CoinsKid
 
-👁️ 41K • 👍 2K • 💬 113 • ⏱️ 11:09 • 2d ago
-
----
-
-**[Market ALERT: Bitcoin is Secretly Grinding to a Massive Move](https://www.youtube.com/watch?v=kO6R-VxstAU)**
-
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
-
-📺 Verified Investing
-
-👁️ 3K • 👍 270 • 💬 27 • ⏱️ 14:30 • 3h ago
+👁️ 4K • 👍 274 • 💬 106 • ⏱️ 15:32 • 10h ago
 
 ---
 
-**[Bitcoin: Why This NBA Champion Buys Every Single Day](https://www.youtube.com/watch?v=KgbU4zwlCKE)**
+**[Physicist Explains the Biggest Bitcoin Security Failure Ever](https://www.youtube.com/watch?v=WjzHPalXXys)**
 
-Tristan Thompson is an NBA champion with the Cleveland Cavaliers who's become a hands-on tech investor and operator. In this ...
+Over $100 million in Bitcoin has already been stolen in what may be the biggest hardware wallet security failure in Bitcoin history.
 
-📺 Anthony Pompliano
+📺 Market Disruptors Podcast
 
-👁️ 31K • 👍 879 • 💬 38 • ⏱️ 24:08 • 2d ago
+👁️ 8K • 👍 233 • 💬 41 • ⏱️ 1:01:52 • 1d ago
 
 ---
 
