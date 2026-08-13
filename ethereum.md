@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T17:04:30.265815+00:00'
+updated: '2026-08-13T18:27:10.692589+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 17:04 UTC  
+**Last Updated:** August 13, 2026 at 18:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -2.2%  
-**30d:** -2.4%  
-**90d:** -14.0%  
-**1y:** -58.8%  
+**24h:** -0.0%  
+**7d:** -1.9%  
+**30d:** -2.1%  
+**90d:** -13.8%  
+**1y:** -58.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.54B
+**Market Cap:** $226.62B
 Rank #2
 
 **Circulating Supply:** 120,681,993 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.0%
 
 **All-Time Low:** $0.43
-+435376.1%
++433514.6%
 
 ---
 
@@ -152,19 +152,19 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 ## Google News: "ethereum"
 
-**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)**
-
-Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
-
-Decrypt • 1d ago
-
----
-
 **[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 21h ago
+The Block • 23h ago
+
+---
+
+**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)**
+
+Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
+
+Decrypt • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 21h ago
 
 Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -180,15 +180,7 @@ Yahoo Finance • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
-
----
-
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
-
-Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
-
-Coinpedia • 3h ago
+Fortune • 3h ago
 
 ---
 
@@ -196,23 +188,23 @@ Coinpedia • 3h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 48m ago
+CryptoSlate • 2h ago
 
 ---
 
-**[Prediction: Solana Will Replace Ethereum as the No. 1 Altcoin by 2030](https://www.fool.com/investing/2026/08/12/prediction-solana-will-replace-ethereum-as-the-no/)**
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
 
-Ethereum investors, watch out. Solana has a brand-new strategy to conquer the world of decentralized finance.
+Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-The Motley Fool • 1d ago
+Coinpedia • 4h ago
 
 ---
 
-**[Bitcoin Nears 'Crunch Time' as Ethereum Wallet Activity Explodes: What's Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/08/61122264/bitcoin-nears-crunch-time-as-ethereum-wallet-activity-explodes-whats-going-on)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Slide Even as CPI Figures Ease Rate Hike Odds: Analyst Says BTC 'Display](https://www.benzinga.com/crypto/cryptocurrency/26/08/61163925/bitcoin-ethereum-xrp-dogecoin-cpi-market-bottom-btc)**
 
-Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
+Leading cryptocurrencies fell, but stocks rallied on Wednesday, August 12, as investors weighed the latest consumer inflation numbers that came in line with expectations.
 
-benzinga.com • 1d ago
+benzinga.com • 16h ago
 
 ---
 
@@ -220,7 +212,7 @@ benzinga.com • 1d ago
 
 The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -228,7 +220,15 @@ Crypto Briefing • 1h ago
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 1h ago
+blockchain.news • 2h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $14 million in ETH as Tom Lee expects tailwind for crypto](https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks)**
+
+Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.
+
+CoinDesk • 3d ago
 
 ---
 
@@ -242,7 +242,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 863 • 💬 178 • ⏱️ 12:21 • 5h ago
+👁️ 7K • 👍 1K • 💬 242 • ⏱️ 12:21 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 17h ago
+👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 19h ago
 
 ---
 
@@ -262,7 +262,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 339 • 💬 187 • ⏱️ 11:59 • 23h ago
+👁️ 6K • 👍 339 • 💬 188 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -272,17 +272,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 491 • 💬 211 • ⏱️ 19:05 • 1d ago
+👁️ 8K • 👍 497 • 💬 208 • ⏱️ 19:05 • 1d ago
 
 ---
 
-**[Live Crypto Trading | Gold Live Trading | ETH BTC SOL Real Trade](https://www.youtube.com/watch?v=ca7Ly_KT5vo)**
+**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
 
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
 
-📺 Invest For Wealth
+📺 The Crypto Code
 
-👁️ 2K • 👍 366 • 2h ago
+👁️ 3 • 👍 1 • ⏱️ 0:47 • 25m ago
 
 ---
 
@@ -292,7 +292,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 8K • 👍 516 • 💬 140 • ⏱️ 13:27 • 23h ago
+👁️ 8K • 👍 525 • 💬 140 • ⏱️ 13:27 • 1d ago
 
 ---
 
@@ -302,7 +302,7 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 67 • 💬 11 • ⏱️ 7:15 • 1d ago
+👁️ 2K • 👍 68 • 💬 11 • ⏱️ 7:15 • 1d ago
 
 ---
 
@@ -312,17 +312,17 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 251 • 💬 46 • ⏱️ 1:01:54 • 1d ago
+👁️ 4K • 👍 254 • 💬 47 • ⏱️ 1:01:54 • 1d ago
 
 ---
 
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 Gareth Soloway
+📺 The Modern Investor
 
-👁️ 51K • 👍 3K • 💬 158 • ⏱️ 10:20 • 1d ago
+👁️ 6K • 👍 580 • 💬 97 • ⏱️ 30:14 • 1d ago
 
 ---
 
@@ -332,7 +332,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 196 • 💬 11 • ⏱️ 7:07 • 1d ago
+👁️ 3K • 👍 197 • 💬 12 • ⏱️ 7:07 • 1d ago
 
 ---
 

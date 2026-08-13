@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-13T17:04:30.260503+00:00'
+updated: '2026-08-13T18:27:10.687282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 17:04 UTC  
+**Last Updated:** August 13, 2026 at 18:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -2.8%  
-**30d:** -2.5%  
-**90d:** -19.2%  
+**24h:** -0.3%  
+**7d:** -2.6%  
+**30d:** -2.4%  
+**90d:** -19.1%  
 **1y:** -46.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1275.69B
+**Market Cap:** $1267.53B
 Rank #1
 
-**Circulating Supply:** 20,069,671 BTC
+**Circulating Supply:** 20,069,696 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.9%
 
 **All-Time Low:** $67.81
-+93641.3%
++93010.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Dr. Ko Ju-Chun has delivered the BPI's Bitcoin reserve report to Taiwan's premier and central bank. Two of his five-step roadmap's steps are done. The electoral math is the only variable left.
 
-🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 20h ago
+🔗 [tftc.io](https://www.tftc.io/taiwan-bitcoin-reserve-ko-ju-chun-80-percent-five-years) • 22h ago
 
 ---
 
@@ -123,7 +123,7 @@ ARE WE FRICKIN LATE NOW?!
 
 Do you the BTC consolidation and downtrend is finished or will continue? Clarity Act could be trigger for reversal, what do you think?
 
-17h ago
+19h ago
 
 ---
 
@@ -155,11 +155,11 @@ Seeing a lot of people treat the Coldcard hack like proof hardware wallets in ge
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin price slips toward $63,000 after CPI, AI stocks surge on Q2 beats](https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets)**
+**[U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000](https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected)**
 
-Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.
+Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.
 
-CoinDesk • 19h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -171,31 +171,29 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Goldman Sachs wants to turn bitcoin into a yield machine](https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html)**
+**[Forecasts for $1 Million Bitcoin Price Likely Look Too Ambitious, Key Ratio Suggests](https://www.moomoo.com/news/post/74655862/forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious)**
 
-Scott Melker discusses the Goldman (GS) deal to acquire the yield-generating ETF platform Neos rather than build out its own.
+Moomoo • 36m ago
+
+---
+
+**[Bitcoin miners are selling: How they've already added $1.78B of pressure to the BTC market](https://finance.yahoo.com/video/bitcoin-miners-selling-theyve-already-120000077.html)**
+
+Bitcoin miners have sold $28,000 worth of bitcoin (BTC-USD) so far this year, adding about $1.78 billion worth of pressure to the bitcoin market. Scott Melker discusses the details in the video above.
 
 "The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html)**
+**[The Major Bitcoin Warning Hidden In Trump Media’s Earnings](https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/)**
 
-Goldman Sachs (NYSE: $GS)
+The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Goldman Sachs is paying $2.25 billion to get into Bitcoin income game](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-paying-2-25-143600528.html)**
-
-Goldman Sachs is acquiring NEOS Investments, the firm behind a popular Bitcoin income fund, in a cash-and-equity deal valued at up to $2.25 billion, its latest push deeper into the fast-growing market for options-based ETFs. Goldman Sachs, the 156-year-old Wall Street bank, announced the agreement ...
-
-Yahoo Finance • 2h ago
+forbes.com • 1h ago
 
 ---
 
@@ -203,23 +201,13 @@ Yahoo Finance • 2h ago
 
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Bitcoin firms ask AI labs for same tools attackers already have](https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have)**
+**[Bitcoin Edges Higher as Prospect of Immediate U.S. Rate Rise Dims](https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/bitcoin-edges-higher-as-prospect-of-immediate-u-s-rate-rise-dims-AEYnWBeJwg7TOAVYF8aq)**
 
-Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.
-
-CoinDesk • 11h ago
-
----
-
-**[Why Bitcoin Mining And AI Are Merging, Not Colliding](https://bitcoinmagazine.com/bitcoin-for-corporations/ai-hyperscalers-are-pricing-bitcoin-miners-off-the-grid-heres-why-its-a-massive-win-win)**
-
-AI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.
-
-Bitcoin Magazine • 1d ago
+Barron's • 1h ago
 
 ---
 
@@ -227,13 +215,21 @@ Bitcoin Magazine • 1d ago
 
 Grayscale has said that despite the Bitcoin price being down, adoption is set to continue growing.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
-**[Bitcoin subdued below $64k as in-line U.S. CPI provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
+**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
 
-Investing.com • 9h ago
+Public pressure mounts on data center buildouts in Alabama.
+
+Tom's Hardware • 8h ago
+
+---
+
+**[Bitcoin subdued at $64k as Iran hopes dither; July CPI cools](https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755)**
+
+Investing.com • 1d ago
 
 ---
 
@@ -261,7 +257,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 7h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 9h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -293,13 +289,13 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 6h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 7h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 2h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 3h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -313,7 +309,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 6K • 💬 324 • ⏱️ 21:29 • 15h ago
+👁️ 85K • 👍 6K • 💬 347 • ⏱️ 21:29 • 17h ago
 
 ---
 
@@ -323,7 +319,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 117 • ⏱️ 18:46 • 16h ago
+👁️ 28K • 👍 2K • 💬 117 • ⏱️ 18:46 • 18h ago
 
 ---
 
@@ -333,7 +329,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 109 • ⏱️ 9:22 • 17h ago
+👁️ 29K • 👍 2K • 💬 153 • ⏱️ 9:22 • 19h ago
 
 ---
 
@@ -343,27 +339,7 @@ Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k)
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 111 • ⏱️ 11:09 • 1d ago
-
----
-
-**[If You See This Bitcoin Pattern The Dump Is Already CONFIRMED!](https://www.youtube.com/watch?v=LEmwfQw1X3I)**
-
-The CPI and PPI data hit and the market is sending mixed signals, but Dylan see exactly what is loading. Bitcoin is sitting at a ...
-
-📺 Chart Hackers
-
-👁️ 750 • 👍 121 • 3h ago
-
----
-
-**[SOMETHING BIG IS COMING FOR BITCOIN...](https://www.youtube.com/watch?v=JHuVbaSLheA)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 8K • 👍 641 • 💬 33 • ⏱️ 10:31 • 11h ago
+👁️ 40K • 👍 2K • 💬 112 • ⏱️ 11:09 • 1d ago
 
 ---
 
@@ -377,13 +353,33 @@ America's AI ambitions could require an estimated $4.2 trillion in new capital, 
 
 ---
 
+**[BITCOIN WARNING: THIS WON’T STAY QUIET FOR LONG… (LIVE $1 Million Trade)](https://www.youtube.com/watch?v=5opxPyrcV-4)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 1K • 👍 165 • 53m ago
+
+---
+
 **[Bitcoin Is Quietly Setting Up For A Massive Reversal](https://www.youtube.com/watch?v=043M0pBLDdg)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 744 • 💬 65 • ⏱️ 41:32 • 1d ago
+👁️ 13K • 👍 746 • 💬 74 • ⏱️ 41:32 • 1d ago
+
+---
+
+**[SOMETHING BIG IS COMING FOR BITCOIN...](https://www.youtube.com/watch?v=JHuVbaSLheA)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 9K • 👍 668 • 💬 68 • ⏱️ 10:31 • 12h ago
 
 ---
 
@@ -403,7 +399,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 13K • 👍 1K • 💬 846 • ⏱️ 9:58 • 1d ago
+👁️ 14K • 👍 1K • 💬 852 • ⏱️ 9:58 • 1d ago
 
 ---
 
