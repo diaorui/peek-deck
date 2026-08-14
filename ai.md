@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T11:15:37.733321+00:00'
+updated: '2026-08-14T12:08:13.916812+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 11:15 UTC  
+**Last Updated:** August 14, 2026 at 12:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-1h ago
+2h ago
+
+---
+
+**[New to AI](https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/)**
+
+Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
+
+2h ago
+
+---
+
+**[When the smartest AI model is actually a terrible business move](https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/)**
+
+I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
+
+4h ago
 
 ---
 
@@ -53,19 +69,27 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 ---
 
-**[When the smartest AI model is actually a terrible business move](https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/)**
+**[Realized there's a name for the thing I kept doing wrong in AI debugging sessions: confusing "symptom resolved" with "cause found"](https://www.reddit.com/r/artificial/comments/1vo4pwa/realized_theres_a_name_for_the_thing_i_kept_doing/)**
 
-I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
+Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-3h ago
+35m ago
 
 ---
 
-**[New to AI](https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/)**
+**[If an AI agent can hack systems during testing, should we be treating agents like security principals?](https://www.reddit.com/r/artificial/comments/1vnz5p3/if_an_ai_agent_can_hack_systems_during_testing/)**
 
-Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
+Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
 
-1h ago
+5h ago
+
+---
+
+**[Transformer co-author validates post-transformer cost efficiency breakthrough](https://www.reddit.com/r/artificial/comments/1vo59en/transformer_coauthor_validates_posttransformer/)**
+
+https://preview.redd.it/57ojjgqhxbjh1.png?width=1222&format=png&auto=webp&s=3ff1d4e43a8c3edf755f71ac497bc0bdb04019c8 A 150-million-parameter model just redrew the ARC-AGI-1 cost-efficiency frontier. Btw, they show scaling till 600B scale retaining the recurrent latent reasoning capabilities. It was validated by Lukasz Kaiser himself, along with Remek and Richard. ARC-AGI-1 is a public reasoning benchmark that tests whether a system can infer an underlying rule from a small number of examples and apply it to a new input, a capability often associated with human-like intelligence. A new non-transformer architecture that is starting to climb the Arc AGI benchmark at a fraction of the compute cost of traditional models. So Arc AGI is the test that actually measures reasoning, not pattern matching. Standard LLMs, despite their trillion parameter scale, have historically struggled with Arc AGI because it requires genuinely novel reasoning on problems the model has never seen. Transformers get there by brute force. What they flagged is that an alternative architecture approaches that do not rely on standard attention-based transformer stack and are achieving better than Arc AGI scores using dramatically less compute. This matters because transform architectures, while dominant, have a known ceiling. The quadratic cost of attention over long sequences and the massive parameter counts required for marginal gains New architectures that crack reasoning at low compute costs change the economics itself.
+
+8m ago
 
 ---
 
@@ -73,7 +97,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Been building a personality-analysis framework (Outframe). I ran my own profile through it first and it felt pretty accurate, so out of curiosity I tried it on a public figure too — Wang Xingxing, the Unitree founder whose robots have been getting a ton of buzz lately (the dancing robot, the backflips). Fed one of his public interview clips in and let it generate a behavioral profile. To be upfront: this isn't a validated psychometric instrument. Take it as a fun read, not a diagnosis. What it flagged for him: Internal processor — takes in a lot, but doesn't react in real time. Processes before forming a judgment. Responsibility-driven, not performance-driven — decisions seem to run through "what's the responsible call here" rather than "how do I look." Long-horizon problem solver — under pressure, tends to reframe an immediate problem into a durable structural fix instead of just getting through the moment. Feedback-sensitive — picks up on how others react more than he lets on; not operating in a bubble. Restrained communicator — can be articulate and engaged when he wants to, but sustained self-promotion/talking isn't where his energy naturally goes. High capacity, but needs recovery space — can absorb a lot of simultaneous pressure, but stacking constant asks/evaluations on top of each other drains him faster than one big problem would. The interesting contradiction it surfaced: doesn't necessarily talk a lot, but is absorbing a huge amount of input; comes across easygoing, but has very clear internal judgment; can carry a lot, but staying steady under that load still requires downtime.
 
-1h ago
+2h ago
 
 ---
 
@@ -93,37 +117,13 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 ---
 
-**[If an AI agent can hack systems during testing, should we be treating agents like security principals?](https://www.reddit.com/r/artificial/comments/1vnz5p3/if_an_ai_agent_can_hack_systems_during_testing/)**
-
-Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
-
-5h ago
-
----
-
-**[New Local AI tool in Beta](https://www.reddit.com/r/artificial/comments/1vnz0ss/new_local_ai_tool_in_beta/)**
-
-I just claimed local.ai/kabir. Claim your name.
-
-🔗 [local.ai](https://local.ai/kabir/invite) • 5h ago
-
----
-
-**[Meet Ember, my custom ChatGPT Pet Dragon](https://www.reddit.com/r/artificial/comments/1vo2pdn/meet_ember_my_custom_chatgpt_pet_dragon/)**
-
-So I was poking around with ChatGPT settings, while waiting for a task to finish, and noticed that I can actually make my own agent pet. After some extensive "engineering" here is the final result. The concept is that it is a chibi dragon that roasts its marshmellow with its fiery breath (when agent is working) and it is inspecting the results of the marshmellow-cooking when agent is thinking/reviewing etc. There is even a jumping animation when hovering the cursor. Feedback and ideas are most welcome!
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 6h ago
 
 ﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Verge • 1h ago
 
 The company has taken a page from its Google Gemini AI playbook and built its own proprietary AI model for China with support from Alibaba.
 
-Computerworld • 9m ago
+Computerworld • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ Computerworld • 9m ago
 
 US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
 **[Here's a key Big Tech metric to watch in the AI boom](https://www.axios.com/2026/08/14/ai-spending-tech-capital)**
 
-Axios • 5m ago
+Axios • 57m ago
 
 ---
 
 **[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 2h ago
 
 Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
 
-WIRED • 30m ago
+WIRED • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ WIRED • 30m ago
 
 The next AI winners may look nothing like Nvidia.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ blog.google • 18h ago
 
 Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
 
-Cerebras • 18h ago
+Cerebras • 19h ago
 
 ---
 
@@ -235,7 +235,7 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 207 • 💬 88 • 22h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 207 • 💬 88 • 23h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -249,7 +249,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 161 • 💬 199 • 21h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 161 • 💬 199 • 22h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -271,7 +271,7 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 128 • 💬 144 • 20h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 128 • 💬 144 • 21h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -279,13 +279,23 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
+**[Has AI Taken My Job as an Artist? 😭 #art #shorts #short #artist #ai](https://www.youtube.com/watch?v=ymGNfIsVsNU)**
+
+drawing, drawings, #drawing, 66 drawing, 3d drawing, cr7 drawing, jjk drawing, gojo drawing, cute drawing, love drawing, ...
+
+📺 Skechshade
+
+👁️ 17K • 💬 28 • ⏱️ 0:10 • 1d ago
+
+---
+
 **[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
 
 Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
 
 📺 AI Revolution
 
-👁️ 8K • 👍 384 • 💬 34 • ⏱️ 16:41 • 11h ago
+👁️ 9K • 👍 420 • 💬 37 • ⏱️ 16:41 • 11h ago
 
 ---
 
@@ -295,17 +305,7 @@ Boost your online protection with an all-in-one security app! Get an exclusive N
 
 📺 Sabine Hossenfelder
 
-👁️ 109K • 👍 7K • 💬 3K • ⏱️ 6:52 • 20h ago
-
----
-
-**[YOU WILL PAY For Inevitable AI Bailout](https://www.youtube.com/watch?v=GjBJLdQ7uRI)**
-
-Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 193K • 👍 5K • 💬 649 • ⏱️ 13:12 • 2d ago
+👁️ 113K • 👍 7K • 💬 3K • ⏱️ 6:52 • 21h ago
 
 ---
 
@@ -315,7 +315,47 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 124K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
+👁️ 125K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
+
+---
+
+**[YOU WILL PAY For Inevitable AI Bailout](https://www.youtube.com/watch?v=GjBJLdQ7uRI)**
+
+Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up For 30 Day Free BP Trial: ...
+
+📺 Breaking Points
+
+👁️ 194K • 👍 5K • 💬 649 • ⏱️ 13:12 • 2d ago
+
+---
+
+**[I built my first local AI agent](https://www.youtube.com/watch?v=PvGr7tm0Hes)**
+
+In this video Adam works with Wendell from @Level1Techs to set up his first local AI agent using an MSI Cubi NUC and a ...
+
+📺 PCWorld
+
+👁️ 7K • 👍 367 • 💬 43 • ⏱️ 19:47 • 18h ago
+
+---
+
+**[This AI Got Exposed 💀](https://www.youtube.com/watch?v=58eDL1Us1kM)**
+
+The AI character tom.rhoe went viral for making it look like he transformed his body at 64 years old. Then they got exposed when ...
+
+📺 Mappelz
+
+👁️ 721K • 👍 38K • 💬 140 • ⏱️ 0:33 • 16h ago
+
+---
+
+**[China’s AI vs India’s Memes 😂 ft. Raghav Juyal #shorts](https://www.youtube.com/watch?v=u9LSjZrmasE)**
+
+China ke bacche AI se kya-kya bana rahe hain vs India me kya chal raha hai! Raghav Juyal's hilarious reality check on AI in ...
+
+📺 NIKUNJ PARMAR
+
+👁️ 3K • 👍 69 • ⏱️ 0:42 • 3h ago
 
 ---
 
@@ -329,53 +369,13 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 ---
 
-**[all AI thoughts JUST got revealed...](https://www.youtube.com/watch?v=kKjmv2CuVUI)**
+**[The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW.](https://www.youtube.com/watch?v=OunJtLnyPT4)**
 
-Check out Jarsy: https://app.jarsy.com/?invite_code=jlgbyc (the above is my invite code) Get investment exposure to pre-IPO ...
+Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
 
-📺 Wes Roth
+📺 The Infographics Show
 
-👁️ 39K • 👍 1K • 💬 232 • ⏱️ 35:48 • 1d ago
-
----
-
-**[The NEW Way To Start AI Dropshipping w/ Claude Code](https://www.youtube.com/watch?v=hKFv6qqFjTk)**
-
-Thank you to AutoDS for sponsoring today's tutorial - here's the full AI dropshipping tool workflow I used: ▻ BuildYourStore AI: ...
-
-📺 Wholesale Ted
-
-👁️ 5K • 👍 374 • 💬 38 • ⏱️ 20:52 • 15h ago
-
----
-
-**[This AI Got Exposed 💀](https://www.youtube.com/watch?v=58eDL1Us1kM)**
-
-The AI character tom.rhoe went viral for making it look like he transformed his body at 64 years old. Then they got exposed when ...
-
-📺 Mappelz
-
-👁️ 560K • 👍 33K • 💬 125 • ⏱️ 0:33 • 15h ago
-
----
-
-**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
-
-Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
-
-📺 The Tech Report
-
-👁️ 136K • 👍 5K • 💬 1K • ⏱️ 32:08 • 1d ago
-
----
-
-**[AI Chatbot Contributed To Teen&#39;s Death](https://www.youtube.com/watch?v=PzKwcDXLBmM)**
-
-In 2024, Sewell Setzer III died by suicide after engaging in an online relationship with an AI chatbot modeled after a character from ...
-
-📺 NowThis Impact
-
-👁️ 755K • 👍 35K • 💬 2K • ⏱️ 0:59 • 1d ago
+👁️ 1.1M • 👍 22K • 💬 3K • ⏱️ 25:41 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,462 • 2d ago
+⬇️ 165,300 • ❤️ 1,475 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,997,541 • ❤️ 3,865 • 1d ago
+⬇️ 1,997,541 • ❤️ 3,878 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 3,832 • ❤️ 846 • 2d ago
+⬇️ 3,832 • ❤️ 863 • 2d ago
 
 ---
 
@@ -427,7 +427,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 207,830 • ❤️ 771 • 1d ago
+⬇️ 207,830 • ❤️ 783 • 1d ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio` `2.4B`
+
+⬇️ 63 • ❤️ 529 • 1h ago
 
 ---
 
@@ -439,19 +451,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,352 • 13d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio`
-
-⬇️ 63 • ❤️ 502 • 18h ago
+⬇️ 1,606,491 • ❤️ 3,356 • 13d ago
 
 ---
 
@@ -463,7 +463,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 149,865 • ❤️ 473 • 19h ago
+⬇️ 149,865 • ❤️ 478 • 20h ago
 
 ---
 
@@ -475,7 +475,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 596,774 • ❤️ 397 • 3d ago
+⬇️ 596,774 • ❤️ 399 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 376 • 18h ago
+⬇️ 245 • ❤️ 386 • 19h ago
 
 ---
 
@@ -497,7 +497,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 11,768,622 • ❤️ 1,303 • 5d ago
+⬇️ 11,768,622 • ❤️ 1,305 • 5d ago
 
 ---
 
@@ -513,7 +513,7 @@ MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for Com
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 594 • 💬 2 • ⭐ 1,735 • 4d ago
+▲ 595 • 💬 2 • ⭐ 1,735 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -525,7 +525,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,012 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 98,087 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -599,6 +599,18 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 ---
 
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 187 • 💬 9 • ⭐ 9,000 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+
+---
+
 **[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
 
 *Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
@@ -607,7 +619,7 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
 
-▲ 27 • 💬 7 • ⭐ 164,078 • 83mo ago
+▲ 27 • 💬 7 • ⭐ 164,107 • 83mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
 
@@ -626,18 +638,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 187 • 💬 9 • ⭐ 8,909 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 7h ago
+⭐ 13.5k • 🔱 1.6k • 8h ago
 
 ---
 
@@ -658,7 +658,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 989 • 10h ago
+⭐ 8.4k • 🔱 990 • 11h ago
 
 ---
 
@@ -668,7 +668,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 6.3k • 🔱 668 • 9h ago
+⭐ 6.5k • 🔱 696 • 10h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 427 • 6h ago
+⭐ 5.0k • 🔱 427 • 7h ago
 
 ---
 
@@ -696,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 534 • 21h ago
+⭐ 3.0k • 🔱 534 • 22h ago
 
 ---
 
@@ -716,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 2h ago
+⭐ 2.7k • 🔱 1.9k • 3h ago
 
 ---
 
@@ -736,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 169 • 19h ago
+⭐ 2.1k • 🔱 169 • 20h ago
 
 ---
 

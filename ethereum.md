@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T11:15:37.749778+00:00'
+updated: '2026-08-14T12:08:13.929935+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 11:15 UTC  
+**Last Updated:** August 14, 2026 at 12:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,21 +52,61 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.90B
+**Market Cap:** $226.28B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-62.1%
 
 **All-Time Low:** $0.43
-+432179.6%
++432958.0%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 14, 2026](https://www.reddit.com/r/ethereum/comments/1vnxv7c/daily_general_discussion_august_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+7h ago
+
+---
+
+**[Ethereum Protocol Update: ACDE #243](https://www.reddit.com/r/ethereum/comments/1vo39kc/ethereum_protocol_update_acde_243/)**
+
+Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
+
+1h ago
+
+---
+
+**[Daily General Discussion August 13, 2026](https://www.reddit.com/r/ethereum/comments/1vn18hg/daily_general_discussion_august_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
+**[Do you still use MakerDAO? If not, do you know that it can still be used?](https://www.reddit.com/r/ethereum/comments/1vn809f/do_you_still_use_makerdao_if_not_do_you_know_that/)**
+
+Heya folks, interested if there's anyone here that's still actively using Maker for their ETH long? Seeing as they've fully rebranded to Sky a while ago, it's interesting to see that there's still a solid userbase there. Even with household names like Aave, Morpho, Fluid, etc... filling the space. We have Maker integrated in our app (DeFi Saver), where users can manage their CDP - and I saw that just a few days ago someone increased leverage by using our boost tool by $5 million in ETH. That led me to think - what's the sentiment surrounding Maker? If you haven't been using it, are you aware that it's still functional? What's interesting is that Spark (the lending protocol that's part of the Sky ecosystem) is offering better rates for longing ETH - yet Maker CDP owners aren't exactly flocking there. Not here to shill anything - just wanted to give context as to why I asked this question in the first place. Would be incredibly cool to hear from an actual Maker user - as I'm interested to also hear what keeps you engaged with that protocol as opposed to moving your loan to Spark (which offers better rates than the Stability Fee)
+
+1d ago
+
+---
+
+**[Where can I get small amounts of ETH Base for fees?](https://www.reddit.com/r/ethereum/comments/1vnaldr/where_can_i_get_small_amounts_of_eth_base_for_fees/)**
+
+Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
+
+22h ago
+
+---
 
 **[Daily General Discussion August 12, 2026](https://www.reddit.com/r/ethereum/comments/1vm4mto/daily_general_discussion_august_12_2026/)**
 
@@ -96,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I'm part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. More context: I'm part of the DeFi Saver team - and our main focus is providing tools for lending protocol users. That said, I'm not here to shill any paid tool from our app. Instead, I'd like to share a completely free tool within our app that might be useful if you have an ETH long on Aave, Maker, Compound, Morpho, etc... It's a Telegram mini-app that lets you view your borrow position(s) directly from Telegram, and also set notifications when your position's Health Factor falls/increases to a certain % Point being - you don't have to visit any of the lending protocols directly, or use the DeFi Saver app. You can get all information about your position directly through Telegram. Links: Disclaimer - I totally understand apprehension for clicking random links you see on Reddit (especially crypto-related subreddits). As such, please feel free to find DeFi Saver on Twitter directly - as we'll share all relevant info/links there. This way, you're keeping yourself safe, and I really believe in being super careful when it comes to your portfolio. If you're okay with clicking links here, I'll just share some non-app links that have useful info (if you're interested in this tool): Twitter post with more info on the tool and link to the app: https://x.com/DeFiSaver/status/2085720327859122524 Knowledge Base guide on the tool: https://help.defisaver.com/features/notify/telegram-bot-for-monitoring-your-position Just to re-iterate, there's no hidden fee, catch, or anything when using this tool. We already have a healthy business model from our premium tools - so we're cool with just building neat, useful, and free tools for the DeFi community. Feel free to ask me any questions in the comments here :)
 
-3d ago
+4d ago
 
 ---
 
@@ -108,46 +148,6 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 ---
 
-**[Daily General Discussion August 09, 2026](https://www.reddit.com/r/ethereum/comments/1vjgud3/daily_general_discussion_august_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Daily General Discussion August 08, 2026](https://www.reddit.com/r/ethereum/comments/1vimypu/daily_general_discussion_august_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[Daily General Discussion August 07, 2026](https://www.reddit.com/r/ethereum/comments/1vhr87x/daily_general_discussion_august_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[Ethereal news weekly #34 | EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet](https://www.reddit.com/r/ethereum/comments/1vi1fba/ethereal_news_weekly_34_eip8363_tapered_issuance/)**
-
-EIP8363 tapered issuance burn proposal, Dark Forest Aztec, MetaMask Agent Wallet
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-34/) • 6d ago
-
----
-
-**[I rebuilt OGame on EVM, fully open source](https://www.reddit.com/r/ethereum/comments/1vhcq8d/i_rebuilt_ogame_on_evm_fully_open_source/)**
-
-Hi folks! Been building on EVM chains since 2016, and finally got some free time to do something I've always wanted: rebuilding OGame (my favorite mid-2000 browser game) fully on EVM smart contracts! All open source (github.com/Borodutch/veydrift) and already has 69 commanders who did 92,798 transactions since the launch 30 days ago. Mechanics is classic OGame: you build mines, get resources, settle planets, join alliances, defend from raids and build fleets to raid other players! All three main resources are tokens and i'm building an inter-dimensional rift to extract these tokens from the game + inject the tokens from the open market. The game has been through countless iterations by now and includes a thing i call "lazy reconciliation" which allows to decrease number of transactions (i.e. when the resources accumulate, they are "collected" within the very next transaction a player submits before doing an action like sending ships, starting an upgrade, etc). It is the most complex system i've built on EVM (full on solidity) and I could use more testers trying to break the game! Lmk if you have any questions or comments :) I'm super happy to share my experience and chat about various EVM's. Cheers! https://preview.redd.it/vczwk5wssshh1.png?width=1696&format=png&auto=webp&s=ca676655064957ca32a4574e7662728245258686 https://preview.redd.it/5i5zbgdtsshh1.png?width=1696&format=png&auto=webp&s=d7ffa2fdd9c6d6fa86ea39b6159ea52d34bb484d https://preview.redd.it/oc4d74busshh1.png?width=1696&format=png&auto=webp&s=9c8b3feceed209aeca47ab3c18020b99df454ac6 https://preview.redd.it/su9wkbxvsshh1.png?width=1696&format=png&auto=webp&s=08b1171093244141b803bc53d6d407f13cae8e98
-
-7d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 22m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 30m ago
+Fortune • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Fortune • 30m ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 9h ago
+Benzinga • 10h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 1d ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -220,7 +220,7 @@ Coinpedia • 1d ago
 
 Ethereum's ultrasound money thesis relies on EIP-1559 burns exceeding new issuance, but Layer 2 scaling pushed ETH back into mild inflation.
 
-FinanceFeeds • 12h ago
+FinanceFeeds • 13h ago
 
 ---
 
@@ -228,7 +228,7 @@ FinanceFeeds • 12h ago
 
 Ethereum staking ratio climbs to 34.4% with exit queue near zero, tightening ETH supply at $1877.99 amid bearish 4h chart signals.
 
-blockchain.news • 30m ago
+blockchain.news • 1h ago
 
 ---
 
@@ -242,7 +242,17 @@ blockchain.news • 30m ago
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 150 • ⏱️ 9:22 • 1d ago
+👁️ 33K • 👍 2K • 💬 149 • ⏱️ 9:22 • 1d ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 1K • 👍 239 • 💬 21 • ⏱️ 11:56 • 56m ago
 
 ---
 
@@ -252,7 +262,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 24K • 👍 2K • 💬 164 • ⏱️ 8:55 • 22h ago
+👁️ 25K • 👍 2K • 💬 131 • ⏱️ 8:55 • 23h ago
 
 ---
 
@@ -266,33 +276,13 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 ---
 
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 13K • 👍 1K • 💬 415 • ⏱️ 12:21 • 23h ago
-
----
-
 **[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
 
 BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 5K • 👍 221 • 💬 108 • ⏱️ 18:22 • 16h ago
-
----
-
-**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
-
-Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
-
-📺 The Rollup
-
-👁️ 841 • 👍 25 • 💬 4 • ⏱️ 10:10 • 12h ago
+👁️ 5K • 👍 228 • 💬 106 • ⏱️ 18:22 • 17h ago
 
 ---
 
@@ -302,7 +292,17 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 513 • 💬 218 • ⏱️ 19:05 • 2d ago
+👁️ 9K • 👍 514 • 💬 218 • ⏱️ 19:05 • 2d ago
+
+---
+
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 13K • 👍 1K • 💬 412 • ⏱️ 12:21 • 1d ago
 
 ---
 
@@ -316,23 +316,23 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 ---
 
-**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
 
-Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
 
-📺 The Modern Investor
+📺 AllinCrypto
 
-👁️ 6K • 👍 587 • 💬 94 • ⏱️ 30:14 • 2d ago
+👁️ 9K • 👍 560 • 💬 174 • ⏱️ 13:27 • 1d ago
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
+**[🔴LIVE GOLD TRADING /XAUUSD LIVE /BTCUSDLIVE #crypto #goldtrading #livetrading @Ashutosh_kumar_live](https://www.youtube.com/watch?v=4WL6EwdbT0E)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+LIVE GOLD TRADING | XAUUSD LIVE | BTCUSD LIVE | Crypto & Forex Trading* Welcome to *Trade With Ashutosh Kumar*.
 
-📺 More Crypto Online
+📺 Ashutosh Kumar
 
-👁️ 4K • 👍 201 • 💬 12 • ⏱️ 7:07 • 1d ago
+👁️ 8K • 👍 1K • 3h ago
 
 ---
 
