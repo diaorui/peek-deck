@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T22:49:29.699864+00:00'
+updated: '2026-08-14T23:21:44.892389+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 22:49 UTC  
+**Last Updated:** August 14, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,987.31
+### $62,877.13
 
 ---
 
@@ -95,7 +95,7 @@ Never forget the bigger picture!
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-5h ago
+6h ago
 
 ---
 
@@ -159,15 +159,15 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+**[XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)**
 
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
 
-Bitcoin Magazine • 8h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -175,15 +175,23 @@ Bitcoin Magazine • 8h ago
 
 A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
-**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-why-bitcoin-222305169.html)**
 
-Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
+Good inflation news usually sends Bitcoin surging, so why did Bitcoin fall on back-to-back prints that sent the Nasdaq and S&P 500 higher? The answer reveals a hidden tug-of-war playing out far from the public order books.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 58m ago
+
+---
+
+**[Robert Kiyosaki Links Bitcoin and AI to an Old Prediction: Who Made It?](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-links-bitcoin-ai-213204828.html)**
+
+Robert Kiyosaki linked futurist Buckminster Fuller's predictions to the emergence of Bitcoin and artificial intelligence.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +199,7 @@ Yahoo Finance • 2h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 8h ago
+Sacramento Bee • 9h ago
 
 ---
 
@@ -199,7 +207,7 @@ Sacramento Bee • 8h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-fool.com • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -211,25 +219,19 @@ Mashable • 17h ago
 
 ---
 
-**[Two Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal](https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html)**
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
 
-MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Yahoo Finance • 18h ago
-
----
-
-**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
-
-The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
-
-CoinDesk • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
+**[5 Best Crypto Casinos (Just Updated) – Top Bitcoin Gambling Sites & New Bonus Codes](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-just-updated-top-bitcoin-gambling-sites-new-bonus-codes/20260811073000/)**
 
-thestreet.com • 8h ago
+Top 5 Bitcoin Casino Sites Compared – New Bonus Codes Casinos Welcome Offers Bonus Codes 1️⃣ Thunderpick 100% Bonus up to €2,000 WELCOME 2️⃣ JACK.com 100 Free Spins (No Wagering) WELCOME 3️⃣ BitStarz 300% up to 5 BTC + 180 Free Spins None Required 4️⃣ Lucky Rebel (USA Only) 200% up to $2,500 + 50...
+
+Muddy River Sports • 3d ago
 
 ---
 
@@ -271,7 +273,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 22h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 23h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -285,7 +287,7 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 23h ago
+👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 1d ago
 
 ---
 
@@ -375,7 +377,7 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 16h ago
+👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 17h ago
 
 ---
 

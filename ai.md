@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T22:49:29.691274+00:00'
+updated: '2026-08-14T23:21:44.883828+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 22:49 UTC  
+**Last Updated:** August 14, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
+
+A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 59m ago
+
+---
 
 **[I've built a fully autonomous meditation system for TouchDesigner](https://www.reddit.com/r/artificial/comments/1vo2kku/ive_built_a_fully_autonomous_meditation_system/)**
 
@@ -57,7 +65,13 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-12h ago
+13h ago
+
+---
+
+**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
+
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 9m ago
 
 ---
 
@@ -65,7 +79,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +87,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-14h ago
+15h ago
 
 ---
 
@@ -89,7 +103,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-23h ago
+1d ago
 
 ---
 
@@ -101,29 +115,55 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 ---
 
-**[Can face-matching networks prevent identity fraud without becoming surveillance systems?](https://www.reddit.com/r/artificial/comments/1vo729f/can_facematching_networks_prevent_identity_fraud/)**
-
-New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
-
-9h ago
-
----
-
-**[The most useful AI skill in 2026 isn't prompting or agents. It's knowing when NOT to use AI](https://www.reddit.com/r/artificial/comments/1vo6h13/the_most_useful_ai_skill_in_2026_isnt_prompting/)**
-
-Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it. - One-off analysis with judgment? Ask a human or a cheap model. - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole secret: AI where it compounds, code where it doesn't. What's something you tried to do with AI that you now do without it?
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Tech Giants’ Profits Reveal Potential Vulnerability in the Stock Market](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
 The New York Times • 8h ago
+
+---
+
+**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
+
+Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
+
+The Guardian • 6h ago
+
+---
+
+**[Situational Awareness filing shows AI bets before forced portfolio sale to Citadel](https://www.cnbc.com/2026/08/14/situational-awareness-filing-shows-ai-bets-before-forced-portfolio-sale-to-citadel.html)**
+
+The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.
+
+CNBC • 54m ago
+
+---
+
+**[China's latest open-weight model rivals U.S. models at hacking](https://www.axios.com/2026/08/14/china-open-source-ai-glm-53)**
+
+Axios • 46m ago
+
+---
+
+**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+
+Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+
+BBC • 15m ago
+
+---
+
+**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
+
+wsj.com • 22h ago
+
+---
+
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -135,59 +175,19 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[Big tech spends big on America’s AI boom](https://www.foxnews.com/video/6403413314112)**
-
-FOX Business correspondent Connor Hansen reports on the massive investments American companies are making in A.I. on ‘America Reports.’
-
-Fox News • 2h ago
-
----
-
-**[Google Opens the Gates of AI Slop Hell](https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888)**
-
-Gizmodo • 1h ago
-
----
-
-**[Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)**
-
-Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
-
-TechCrunch • 6h ago
-
----
-
-**[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
-
-The New York Times • 3h ago
-
----
-
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
-
-Reuters • 1h ago
-
----
-
-**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
-
-WSJ • 22h ago
-
----
-
-**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
-
-OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
-
-CNBC • 7h ago
-
----
-
 **[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
 
 Bots are starting to conspire with one another. Can they be reeled back in?
 
 The Atlantic • 2d ago
+
+---
+
+**[How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)**
+
+Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
+
+Anthropic • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Atlantic • 2d ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 984 • 💬 915 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 984 • 💬 916 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -208,6 +208,14 @@ AI makes projects with weak engineering culture fail much faster.
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
 ⬆️ 302 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
+
+---
+
+**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
+
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+⬆️ 239 • 💬 148 • 7h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -227,14 +235,6 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 ---
 
-**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
-
-Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
-
-⬆️ 197 • 💬 127 • 7h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-
----
-
 **[Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://news.ycombinator.com/item?id=49267057)**
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
@@ -249,7 +249,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 186 • 💬 238 • 10h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 188 • 💬 238 • 10h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -257,21 +257,21 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 167 • 💬 177 • 8h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 169 • 💬 184 • 8h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+
+---
+
+**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
+
+Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+
+⬆️ 169 • 💬 14 • 7h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
 ⬆️ 163 • 💬 203 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
-
----
-
-**[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://news.ycombinator.com/item?id=49269090)**
-
-Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
-
-⬆️ 159 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 7h ago
+👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup...
 
 📺 James Charles
 
-👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 3h ago
+👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 4h ago
 
 ---
 
@@ -315,7 +315,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 8h ago
+👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 22h ago
+👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ My original Robot Pacman vs Dentures Short has over 182 million views: https://w
 
 📺 StrEat
 
-👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 9h ago
+👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,816 • 7h ago
+⬇️ 2 • ❤️ 8,816 • 8h ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 635 • 11h ago
+⬇️ 63 • ❤️ 635 • 12h ago
 
 ---
 
@@ -650,7 +650,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 1h ago
+⭐ 13.5k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -660,7 +660,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 22h ago
+⭐ 8.4k • 🔱 995 • 23h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 18h ago
+⭐ 5.0k • 🔱 429 • 19h ago
 
 ---
 
@@ -718,7 +718,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 14h ago
+⭐ 2.7k • 🔱 1.9k • 15h ago
 
 ---
 

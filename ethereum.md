@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T22:49:29.706057+00:00'
+updated: '2026-08-14T23:21:44.898555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 22:49 UTC  
+**Last Updated:** August 14, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -2.1%  
-**30d:** +0.7%  
-**90d:** -11.9%  
+**24h:** -0.5%  
+**7d:** -2.0%  
+**30d:** +0.8%  
+**90d:** -11.8%  
 **1y:** -57.7%  
 
 ---
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-12h ago
+13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 10h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 2d ago
+theblock.co • 2d ago
 
 ---
 
@@ -176,11 +176,9 @@ markets.businessinsider.com • 9h ago
 
 ---
 
-**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
-There are still plenty of reasons to believe in the second-largest cryptocurrency.
-
-fool.com • 11h ago
+ETF Trends • 12h ago
 
 ---
 
@@ -188,13 +186,15 @@ fool.com • 11h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 20h ago
+Benzinga • 21h ago
 
 ---
 
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
 
-ETF Database • 7h ago
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
+
+The Motley Fool • 11h ago
 
 ---
 
@@ -202,7 +202,7 @@ ETF Database • 7h ago
 
 Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Fortune • 12h ago
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 142 • ⏱️ 9:22 • 1d ago
+👁️ 33K • 👍 2K • 💬 142 • ⏱️ 9:22 • 2d ago
 
 ---
 
@@ -280,7 +280,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 987 • 💬 134 • ⏱️ 11:56 • 11h ago
+👁️ 8K • 👍 987 • 💬 134 • ⏱️ 11:56 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 42 • 💬 4 • ⏱️ 10:10 • 23h ago
+👁️ 1K • 👍 42 • 💬 4 • ⏱️ 10:10 • 1d ago
 
 ---
 
