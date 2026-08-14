@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-14T16:53:01.360533+00:00'
+updated: '2026-08-14T17:52:34.252991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 14, 2026 at 16:53 UTC  
+**Last Updated:** August 14, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Is it Better now ?](https://www.reddit.com/r/robotics/comments/1vnvq1p/is_it_better_now/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Is this finally a real 3-axis FOC gimbal? IMU stabilization is working](https://www.reddit.com/r/robotics/comments/1vo10s7/is_this_finally_a_real_3axis_foc_gimbal_imu/)**
 
-8h ago
+9h ago
 
 ---
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Hey everyone, I'm self-teaching robotics with a focus on perception and robot learning. I learn best by building, so I recently started learning ROS2 and Gazebo. I took a rover model, assembled it into a URDF, and tried to calculate the mass and inertia for the components manually using volume and material density. Here is the repo: https://github.com/introlix/robo_car Note: you can ignore the esp_control folder. I originally started this for a physical ESP32 car but moved to simulation so I could learn Gazebo physics and sensor integration before touching real hardware. Since I'm doing this alone, I'm relying a lot on trial and error and AI tools to help me. But I know AI hallucinates. If anyone here has experience with Gazebo/URDF, I’d really appreciate it if you could take a quick look at my URDF. I mainly want to know if my mass/inertia numbers look realistic, or if I messed up the math and my robot. Also, if anyone is also an student then we could learn together. I'm not looking to pair-program on a call, just someone to do reviews on GitHub, share resources, and maybe give each other small weekly challenges. A bit about my background: while I'm relatively new to ROS2, I have some ML background. I've built neural networks from scratch in NumPy and actually implemented LLM architectures (like Gemma and Qwen) from scratch just by reading their papers and loading the weights. That is the reason I'm interested in perception and robot learning. Let me know if you're open to reviewing the code or if you want to team up. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -62,13 +62,13 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-1h ago
+2h ago
 
 ---
 
 **[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -76,13 +76,13 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 ​ 🎉拔蘑菇验证通过，但离“实战”还差一截。 下一版直接上狭窄空间模拟——相机怼近了有盲区，所以末端执行器改方案：从底下横着“抄”菌柄，夹得稳还不伤菇。 小伙伴有没有更骚的操作？欢迎砸我脑洞，在线等！🍄🔧 ✅ Mushroom-pulling works—now time for the real squeeze. Next up: tight spaces, closer camera (blind spots, ugh), so we’re redesigning the end-effector to slide in sideways from below and grip the stipe—no more crushed caps. Any brighter ideas? Throw ’em at me! 🍄🤖
 
-20h ago
+21h ago
 
 ---
 
 **[Avancée](https://www.reddit.com/r/robotics/comments/1vninq2/avancée/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 Spec the right actuator without clicking through 20 Chinese websites. This is V1 - what else would make this more useful? Other brands or specs you'd add? https://pendulumrobotics.com/pages/robotic-actuators
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ Spec the right actuator without clicking through 20 Chinese websites. This is V1
 
 Been testing how much mechanical diversity I can get out of Quaddle robot by changing the attachment instead of adding more actuators. Same 4 servos and the same OpenCat firmware the whole time — what changes is the attachment (3D-printed, mostly) and which gait is loaded for it: - Biped: printed base clips on, switches to two-legged walking - Tricycle: printed wheel mount + a bearing wheel, front legs go passive and drag - Bar-spin: printed grippers clip onto a bar, full 360° rotation gait - 4WD: wheel kit replaces all 4 legs, standard car driving - Water-paddle: printed footpads, paddling gait (works, though we've sunk it twice) This is pre-release — not in production yet, but I wanted to share this fun experiment since keeping the servo count fixed while switching locomotion modes was a fun constraint to design around. The gait codes and the 3D-printed parts will be open sourced. Happy to go into Quaddle's gait/kinematics details in the comments if anyone's curious.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=YfREsyasRe8) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YfREsyasRe8) • 17h ago
 
 ---
 
@@ -124,13 +124,13 @@ Bloomberg.com • 1d ago
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
 **[Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-powers-up-stellar-shanghai-debut-2026-08-14/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 1d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 5h ago
+New Atlas • 6h ago
 
 ---
 
@@ -162,7 +162,7 @@ LEX 18 News • 2d ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 17m ago
+NASA (.gov) • 1h ago
 
 ---
 
@@ -178,7 +178,7 @@ techcrunch.com • 2d ago
 
 A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
 
-Live Science • 23h ago
+Live Science • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 3K • 👍 66 • 💬 17 • ⏱️ 0:22 • 10h ago
+👁️ 3K • 👍 66 • 💬 17 • ⏱️ 0:22 • 11h ago
 
 ---
 
