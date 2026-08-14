@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T04:14:38.201615+00:00'
+updated: '2026-08-14T05:55:51.910204+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 04:14 UTC  
+**Last Updated:** August 14, 2026 at 05:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 What's an AI trend that quietly died: and what replaced it? I'll go first: generic "AI will replace everything" blog content. It peaked and fizzled because people got tired of being shouted at. What replaced it (for me at least) is boring, specific use-cases: "here's a script that triages my inbox" beats "the future of work" every time. I think the same thing is happening with agent hype: everyone's demoing, few are shipping something that runs for a month. What trend are you glad to see go?
 
-15h ago
+16h ago
 
 ---
 
@@ -61,9 +61,11 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 ---
 
-**[And Claude has a watermark now.](https://www.reddit.com/r/artificial/comments/1vnwnep/and_claude_has_a_watermark_now/)**
+**[What is the future for AI?](https://www.reddit.com/r/artificial/comments/1vnyjzb/what_is_the_future_for_ai/)**
 
-15m ago
+The current state of AI requires massive infrastructure and consumes enormous amounts of power and consumable water, so much so that new grids and systems are being put in place to satisfy these requirements. This approach doesn't exactly seem sustainable and with AI getting more and more integrated into society, it seems the need for some alternative approach is needed. How do you see this change happening? Could there be a new branch of mathematics that makes compute faster/cheaper? Development of new materials? Quantum computing?
+
+16m ago
 
 ---
 
@@ -71,7 +73,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
 
-18h ago
+20h ago
 
 ---
 
@@ -79,7 +81,7 @@ Watching a former Tesla AI Director shrug and say "I can't tell if that's tempor
 
 Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan, officials said, in what experts believe is the first known fully autonomous attack on government agencies.
 
-🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 13h ago
+🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 15h ago
 
 ---
 
@@ -87,15 +89,7 @@ Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan,
 
 Anthropic’s CEO expressed concern that his employees are more preoccupied with money than the mission of the company.
 
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 12h ago
-
----
-
-**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1vnchse/academic_survey_employees_working_in_germany/)**
-
-Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
-
-13h ago
+🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 13h ago
 
 ---
 
@@ -103,13 +97,21 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 WIRED says the voluntary framework currently covers frontier closed models from labs such as OpenAI and Anthropic. Open models are expected to join once they reach comparable capabilities, potentially facing a 30-day testing period before public release. Officials are caught between two risks: excluding open models could create a government-approved advantage for closed labs; including them could slow US open-model development.
 
-20h ago
+22h ago
+
+---
+
+**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1vnchse/academic_survey_employees_working_in_germany/)**
+
+Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
+
+15h ago
 
 ---
 
 **[Cascadia Launches Distributed AI Inference for Intel Hardware](https://www.reddit.com/r/artificial/comments/1vnbxow/cascadia_launches_distributed_ai_inference_for/)**
 
-🔗 [businesswire.com](https://www.businesswire.com/news/home/20260813129096/en/Cascadia-Launches-Distributed-AI-Inference-for-Intel-Hardware) • 13h ago
+🔗 [businesswire.com](https://www.businesswire.com/news/home/20260813129096/en/Cascadia-Launches-Distributed-AI-Inference-for-Intel-Hardware) • 15h ago
 
 ---
 
@@ -117,39 +119,37 @@ WIRED says the voluntary framework currently covers frontier closed models from 
 
 ## Google News: "ai"
 
-**['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html)**
-
-Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
-
-CNBC • 14h ago
-
----
-
-**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
-
-From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
-
-The Washington Post • 11h ago
-
----
-
-**[European publishers are getting hit harder by AI bot scraping, report finds](https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/)**
-
-European publishers face more AI bot scraping, fewer referrals and more ignored robots.txt rules than North American sites, report finds.
-
-Digiday • 13m ago
-
----
-
-**[Chinese chipmaker SMIC increases prices on strong AI demand](https://www.reuters.com/world/china/chinese-chipmaker-smic-increases-prices-strong-ai-demand-2026-08-14/)**
+**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
 Reuters • 1h ago
 
 ---
 
-**[EM Assets Buoyed by Easing US Rate Worries, Gains in AI Leaders](https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders)**
+**['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html)**
 
-Bloomberg • 10m ago
+Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
+
+CNBC • 16h ago
+
+---
+
+**[DeepSeek Lifts AI Model Prices Fourfold](https://www.wsj.com/tech/ai/deepseek-lifts-ai-model-prices-fourfold-fbe893e7)**
+
+WSJ • 1h ago
+
+---
+
+**[Tyga Responds After Doja Cat Calls Him a ‘Penis’ for Using AI to Make His New Album $tarface](https://people.com/tyga-responds-after-doja-cat-calls-him-a-penis-for-using-ai-to-make-his-new-album-starface-12059803)**
+
+Tyga is responding after Doja Cat criticized his use of AI for his recent album ‘$tarface.’ In a livestream on social media on Aug. 12, Doja did not hold back on her thoughts about AI in music, calling Tyga a “penis” for making AI generated music. In response, Tyga said that Doja made a “demonic album.”
+
+People.com • 1h ago
+
+---
+
+**[Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model](https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model)**
+
+bloomberg.com • 55m ago
 
 ---
 
@@ -157,7 +157,23 @@ Bloomberg • 10m ago
 
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 
-blog.google • 11h ago
+blog.google • 12h ago
+
+---
+
+**[Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge](https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html)**
+
+Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
+
+From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
+
+The Washington Post • 12h ago
 
 ---
 
@@ -165,27 +181,13 @@ blog.google • 11h ago
 
 Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
 
-Cerebras • 11h ago
+Cerebras • 12h ago
 
 ---
 
 **[Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
 
-The New York Times • 23h ago
-
----
-
-**[The AI perception bubble](https://www.axios.com/2026/08/13/ai-backlash-perception-comms-bubble)**
-
-Axios • 12h ago
-
----
-
-**[In a New Test, AI Mortgage Assistants Got Nearly 1 in 4 Answers Wrong](https://www.realtor.com/news/trends/top-ai-mortgage-underwriting-test-failure-new-report/)**
-
-Mortgage AI testing found transaction errors and stark differences in how models treated deposits tied to English and non-English names.
-
-Realtor.com • 5h ago
+The New York Times • 1d ago
 
 ---
 
@@ -197,7 +199,7 @@ Realtor.com • 5h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 966 • 💬 894 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 967 • 💬 897 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -213,7 +215,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 300 • 💬 224 • 1d ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 300 • 💬 225 • 1d ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -237,13 +239,13 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 183 • 💬 77 • 15h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 192 • 💬 77 • 16h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 158 • 💬 197 • 14h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 158 • 💬 197 • 16h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -259,7 +261,7 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 122 • 💬 124 • 14h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 123 • 💬 126 • 15h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
@@ -279,7 +281,7 @@ Boost your online protection with an all-in-one security app! Get an exclusive N
 
 📺 Sabine Hossenfelder
 
-👁️ 98K • 👍 6K • 💬 3K • ⏱️ 6:52 • 13h ago
+👁️ 98K • 👍 6K • 💬 3K • ⏱️ 6:52 • 14h ago
 
 ---
 
@@ -349,7 +351,7 @@ Don't forget to SUBSCRIBE and turn on the so you never miss a laugh! Like, comme
 
 📺 MeowingJay
 
-👁️ 14K • 💬 8 • ⏱️ 0:39 • 12h ago
+👁️ 14K • 💬 8 • ⏱️ 0:39 • 13h ago
 
 ---
 
@@ -359,7 +361,7 @@ autofuel You can follow us on: https://www.instagram.com/supercarblondie https:/
 
 📺 Supercar Blondie
 
-👁️ 116K • 👍 3K • 💬 853 • ⏱️ 3:00 • 18h ago
+👁️ 116K • 👍 3K • 💬 853 • ⏱️ 3:00 • 19h ago
 
 ---
 
@@ -443,7 +445,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 91,455 • ❤️ 465 • 12h ago
+⬇️ 91,455 • ❤️ 465 • 14h ago
 
 ---
 
@@ -467,7 +469,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio`
 
-⬇️ 25 • ❤️ 390 • 11h ago
+⬇️ 25 • ❤️ 390 • 13h ago
 
 ---
 
@@ -640,7 +642,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 45m ago
+⭐ 13.5k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -650,7 +652,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 985 • 3h ago
+⭐ 8.4k • 🔱 985 • 5h ago
 
 ---
 
@@ -660,7 +662,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 5.7k • 🔱 601 • 2h ago
+⭐ 5.7k • 🔱 601 • 3h ago
 
 ---
 
@@ -670,7 +672,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 425 • 1h ago
+⭐ 5.0k • 🔱 425 • 2h ago
 
 ---
 
@@ -688,7 +690,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 528 • 14h ago
+⭐ 3.0k • 🔱 528 • 16h ago
 
 ---
 
@@ -698,7 +700,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1m ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -728,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 167 • 12h ago
+⭐ 2.1k • 🔱 167 • 14h ago
 
 ---
 

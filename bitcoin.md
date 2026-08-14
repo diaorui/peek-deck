@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T04:14:38.209375+00:00'
+updated: '2026-08-14T05:55:51.918058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 04:14 UTC  
+**Last Updated:** August 14, 2026 at 05:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,478.23
+### $63,375.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -2.4%  
+**24h:** -0.9%  
+**7d:** -2.5%  
 **30d:** -0.7%  
-**90d:** -18.1%  
+**90d:** -18.2%  
 **1y:** -46.0%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
 
-🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 15h ago
+🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 16h ago
 
 ---
 
@@ -89,25 +89,25 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 The title says it all
 
-19h ago
+21h ago
 
 ---
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-6h ago
+8h ago
 
 ---
 
 **[PSA](https://www.reddit.com/r/Bitcoin/comments/1vnc439/psa/)**
 
-13h ago
+15h ago
 
 ---
 
 **[It's so over!](https://www.reddit.com/r/Bitcoin/comments/1vn3nzi/its_so_over/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ The title says it all
 
 Received this email
 
-15h ago
+16h ago
 
 ---
 
@@ -123,13 +123,13 @@ Received this email
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-8h ago
+9h ago
 
 ---
 
 **[it‘s that time of the year again？](https://www.reddit.com/r/Bitcoin/comments/1vn6ohp/its_that_time_of_the_year_again/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin has gone unusually quiet. According to this analysis, 90-day realised vo
 
 after DCA'ing all my savings u guys told me to invest in a hardware wallet for only bitcoin, so I'm planning to buy a Trezor. or im going to get a ColdCard instead? looooooooooooool
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ after DCA'ing all my savings u guys told me to invest in a hardware wallet for o
 
 Makes sense people are jumpy right now due to the recent Coldcard hack literally two weeks before this. "Hardware wallet" + "breach" in the same headline twice in one month makes it feel like one big pattern, but they're not related incidents at all, so worth actually understanding what's actually going on instead of panicking right off the bat. It wasn't Trezor that got hacked, it was ShipMonk, the company that packs and ships their orders. About 13,700 customers who ordered between May and August had their name, email, phone, and home address exposed. A smaller group of about 1,900 had just name, city, and email leaked. Your device, your seed phrase, your firmware, none of that touched. Trezor says no device, private key or wallet backup was affected, and that its systems were not compromised. Nobody can get into your wallet from this. If you're on that list, someone now knows you own a hardware wallet and has your home address. That's still a bad thing btw. In no way am I downplaying that. But this is not the same thing as the coldcard hack or anything close to that. If you got the notification email from Trezor, you're affected. If you didn't, you're not. No reason to panic about the device itself either way
 
-8h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Makes sense people are jumpy right now due to the recent Coldcard hack literally
 
 Real mining. Tiny footprint.
 
-mashable.com • 2h ago
+Mashable • 7h ago
 
 ---
 
@@ -169,11 +169,11 @@ CNBC • 2d ago
 
 ---
 
-**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
+**[Earnings For Bitcoin Miners Hit 10-Year Low](https://finance.yahoo.com/markets/crypto/articles/earnings-bitcoin-miners-hit-10-134500017.html)**
 
-Public pressure mounts on data center buildouts in Alabama.
+The amount of money earned from mining Bitcoin (CRYPTO: $BTC) has fallen to a 10-year low. ...
 
-Tom's Hardware • 17h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -181,19 +181,15 @@ Tom's Hardware • 17h ago
 
 The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Goldman's buying bitcoin ETFs, Tether's buying gold, and bitcoin doesn't budge](https://finance.yahoo.com/video/goldmans-buying-bitcoin-etfs-tethers-162000772.html)**
+**[Two Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal](https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html)**
 
-Scott Melker breaks down the latest crypto headlines, including why Tether (USDT-USD) is loading up on gold, Goldman Sachs' (GS) move into bitcoin (BTC-USD) ETFs from NEOS, and why bitcoin barely budged after the latest PPI data came in largely in line with expectations.
+MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,13 +197,13 @@ Yahoo Finance • 11h ago
 
 Bitcoin is doing what it always has done, according to market observers.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 13h ago
+Investing.com • 15h ago
 
 ---
 
@@ -223,15 +219,15 @@ CoinDesk • 1d ago
 
 Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
-**[Current price of Bitcoin for Aug. 12, 2026](https://fortune.com/article/price-of-bitcoin-08-12-2026/)**
+**[‘They Won’t Stop Printing’—The Real $1.8 Trillion Reason Why The Fed Is Quietly Predicted To Trigger A 'Massive' Bitcoin Price Boom To Rival 2021](https://www.forbes.com/sites/digital-assets/2026/08/13/the-feds-bitcoin-nightmare-is-suddenly-coming-true/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+A sudden U.S. federal budget deficit surge has fed expectations that money printing is about to send the bitcoin price sharply higher...
 
-Fortune • 1d ago
+Forbes • 16h ago
 
 ---
 
@@ -251,7 +247,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 7h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 9h ago • [Second](https://second.tech/)
 
 ---
 
@@ -267,7 +263,7 @@ A firmware integration error from March 2021 had silently replaced the device's 
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 19h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 20h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -299,7 +295,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 4h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 5h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -307,13 +303,13 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 17h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 18h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 13h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 15h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -327,7 +323,7 @@ Southern hospitality meets enterprise technology - secure, scalable cloud soluti
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 848 • 💬 80 • ⏱️ 9:13 • 5h ago
+👁️ 12K • 👍 848 • 💬 80 • ⏱️ 9:13 • 6h ago
 
 ---
 
@@ -337,7 +333,7 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 263 • 💬 82 • ⏱️ 14:52 • 11h ago
+👁️ 5K • 👍 263 • 💬 82 • ⏱️ 14:52 • 13h ago
 
 ---
 
@@ -347,7 +343,7 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 8K • 👍 452 • 💬 67 • ⏱️ 1:11:42 • 14h ago
+👁️ 8K • 👍 452 • 💬 67 • ⏱️ 1:11:42 • 16h ago
 
 ---
 
@@ -367,7 +363,7 @@ Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear mar
 
 📺 Cointelegraph
 
-👁️ 1K • 👍 53 • 💬 90 • ⏱️ 17:13 • 14h ago
+👁️ 1K • 👍 53 • 💬 90 • ⏱️ 17:13 • 15h ago
 
 ---
 
@@ -377,7 +373,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 222 • ⏱️ 18:25 • 6h ago
+👁️ 13K • 👍 1K • 💬 222 • ⏱️ 18:25 • 7h ago
 
 ---
 
@@ -397,7 +393,7 @@ Raoul Pal welcomes Blue Macellari, head of digital assets at T. Rowe Price, to e
 
 📺 Raoul Pal The Journey Man
 
-👁️ 12K • 👍 570 • 💬 49 • ⏱️ 1:02:53 • 16h ago
+👁️ 12K • 👍 570 • 💬 49 • ⏱️ 1:02:53 • 17h ago
 
 ---
 
