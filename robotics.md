@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-14T13:53:26.899339+00:00'
+updated: '2026-08-14T14:51:36.933660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 14, 2026 at 13:53 UTC  
+**Last Updated:** August 14, 2026 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 ​ 🎉拔蘑菇验证通过，但离“实战”还差一截。 下一版直接上狭窄空间模拟——相机怼近了有盲区，所以末端执行器改方案：从底下横着“抄”菌柄，夹得稳还不伤菇。 小伙伴有没有更骚的操作？欢迎砸我脑洞，在线等！🍄🔧 ✅ Mushroom-pulling works—now time for the real squeeze. Next up: tight spaces, closer camera (blind spots, ugh), so we’re redesigning the end-effector to slide in sideways from below and grip the stipe—no more crushed caps. Any brighter ideas? Throw ’em at me! 🍄🤖
 
-17h ago
+18h ago
 
 ---
 
 **[Avancée](https://www.reddit.com/r/robotics/comments/1vninq2/avancée/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -58,13 +58,13 @@ Robotics research and industry news
 
 Spec the right actuator without clicking through 20 Chinese websites. This is V1 - what else would make this more useful? Other brands or specs you'd add? https://pendulumrobotics.com/pages/robotic-actuators
 
-19h ago
+20h ago
 
 ---
 
 **[I added remote motor, camera, and skills control to AgenticROS for controlling ROS robots remotely!](https://www.reddit.com/r/robotics/comments/1vnhqas/i_added_remote_motor_camera_and_skills_control_to/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Spec the right actuator without clicking through 20 Chinese websites. This is V1
 
 Hi everyone, I’ve been developing a project called AcadosCpp. https://github.com/amaldevh/AcadosCpp acados is excellent for generating fast C code for nonlinear MPC. However, bringing that generated API into a bigger robotics codebase often means writing model-specific code to connect everything. If you change the robot model or OCP, you usually have to update solver symbols, dimensions, lifecycle management, references, parameters, and warm-start logic. AcadosCpp gives you a unified C++ and Python interface for the generated solver. The idea is to keep your workflow simple: if you change the model or control problem, just regenerate, recompile, and keep using the same controller interface. Here’s what a typical control loop looks like: while (running) { const auto& u = controller.solve(measured_state, state_refs, input_refs); robot.apply(u); } The wrapper takes care of: Applying the measurement only at stage 0 Updating the complete reference horizon Separate running and terminal references Time-varying model parameters Shifted warm starts from the previous solution Predicted state and control trajectories Solver timing and convergence diagnostics Split SQP-RTI preparation and feedback Python bindings for prototyping You’ll find a 13-state quadrotor example in the repository, available in both C++ and Python. I’d love to know what other models, middleware integrations, or real-robot examples would help make this tool more useful for your projects.
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi everyone, I’ve been developing a project called AcadosCpp. https://github.c
 
 Been testing how much mechanical diversity I can get out of Quaddle robot by changing the attachment instead of adding more actuators. Same 4 servos and the same OpenCat firmware the whole time — what changes is the attachment (3D-printed, mostly) and which gait is loaded for it: - Biped: printed base clips on, switches to two-legged walking - Tricycle: printed wheel mount + a bearing wheel, front legs go passive and drag - Bar-spin: printed grippers clip onto a bar, full 360° rotation gait - 4WD: wheel kit replaces all 4 legs, standard car driving - Water-paddle: printed footpads, paddling gait (works, though we've sunk it twice) This is pre-release — not in production yet, but I wanted to share this fun experiment since keeping the servo count fixed while switching locomotion modes was a fun constraint to design around. The gait codes and the 3D-printed parts will be open sourced. Happy to go into Quaddle's gait/kinematics details in the comments if anyone's curious.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=YfREsyasRe8) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YfREsyasRe8) • 14h ago
 
 ---
 
@@ -94,7 +94,7 @@ It is an absolute pleasure to present after 18 months, a working version of AUXO
 
 **[[Project] ROS2 full conversion of the freenove big hexapod kit (open source)](https://www.reddit.com/r/robotics/comments/1vnovff/project_ros2_full_conversion_of_the_freenove_big/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Bloomberg.com • 1d ago
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -142,7 +142,7 @@ finance.yahoo.com • 1d ago
 
 **[Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-powers-up-stellar-shanghai-debut-2026-08-14/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -166,7 +166,7 @@ TechCrunch • 2d ago
 
 A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
 
-Live Science • 20h ago
+Live Science • 21h ago
 
 ---
 
@@ -188,33 +188,13 @@ U.S. Department of War (.gov) • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
 
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
 
-📺 Fireship
+📺 Y Combinator
 
-👁️ 911K • 👍 22K • 💬 2K • ⏱️ 7:02 • 2d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 39K • 👍 542 • 💬 108 • ⏱️ 7:05 • 2d ago
-
----
-
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 17K • 👍 910 • 💬 88 • ⏱️ 18:39 • 2d ago
+👁️ 22K • 👍 606 • 💬 18 • ⏱️ 58:18 • 1d ago
 
 ---
 
@@ -224,7 +204,37 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 0:22 • 8h ago
+👁️ 2K • 👍 44 • 💬 10 • ⏱️ 0:22 • 8h ago
+
+---
+
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+
+📺 Fireship
+
+👁️ 917K • 👍 22K • 💬 2K • ⏱️ 7:02 • 2d ago
+
+---
+
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
+
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
+
+📺 Fox Business Clips
+
+👁️ 39K • 👍 543 • 💬 108 • ⏱️ 7:05 • 2d ago
+
+---
+
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
+
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
+
+📺 Food For Robots
+
+👁️ 18K • 👍 942 • 💬 88 • ⏱️ 18:39 • 2d ago
 
 ---
 
@@ -238,13 +248,13 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+**[Robot Wars, Series 9 - Grand Final](https://www.youtube.com/watch?v=-ySadcmThs8)**
 
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+This episode, a new Robot Wars champion will emerge! Sparks and scraps are sure to fly in this explosive series finale. Winners ...
 
-📺 Y Combinator
+📺 Robot Wars
 
-👁️ 21K • 👍 589 • 💬 18 • ⏱️ 58:18 • 1d ago
+👁️ 6K • 👍 215 • 💬 45 • ⏱️ 59:01 • 22h ago
 
 ---
 
@@ -254,7 +264,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 37K • 👍 442 • 💬 112 • ⏱️ 3:48 • 2d ago
+👁️ 38K • 👍 447 • 💬 113 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -268,23 +278,13 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 
 ---
 
-**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
+**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
 
-This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
+In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
 
-📺 Cleo Abram
+📺 freeCodeCamp.org
 
-👁️ 1.2M • 👍 60K • 💬 744 • ⏱️ 0:32 • 2d ago
-
----
-
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
-
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
-
-📺 KhanFlicks
-
-👁️ 34K • 💬 58 • ⏱️ 8:34 • 2d ago
+👁️ 34K • 👍 1K • 💬 38 • ⏱️ 6:49:12 • 3d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T13:53:26.891040+00:00'
+updated: '2026-08-14T14:51:36.925279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 13:53 UTC  
+**Last Updated:** August 14, 2026 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1260.51B
+**Market Cap:** $1258.10B
 Rank #1
 
-**Circulating Supply:** 20,070,034 BTC
+**Circulating Supply:** 20,070,075 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-50.3%
 
 **All-Time Low:** $67.81
-+92519.1%
++92346.5%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-9h ago
+10h ago
 
 ---
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,13 +95,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-2h ago
+3h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -117,7 +117,7 @@ The title says it all
 
 Many projects, one team
 
-🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 4h ago
+🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Many projects, one team
 
 Macro environment is complete shit and nothing makes sense at this point. But August and Sept will be great DCAs.
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ We're constantly telling people to take their Bitcoin off exchanges, but we stil
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-17h ago
+18h ago
 
 ---
 
@@ -161,7 +161,7 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 6h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 15h ago
+Mashable • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ Mashable • 15h ago
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ finance.yahoo.com • 1h ago
 
 Bitcoin speculators are positioning for a cramped, choppy August, with prediction market Polymarket pricing a strong chance of a move to $65,000 but almost no prospect of a fresh record. The "What price will Bitcoin hit in August?" market gives the cryptocurrency roughly a 59% chance of...
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance UK • 1h ago
 
 The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -201,19 +201,19 @@ Forbes • 20h ago
 
 Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI print.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
 **[Bitcoin slides below $63k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
 **[Bitcoin Drifts Lower After Muted Reaction to U.S. Data](https://www.barrons.com/livecoverage/stock-market-news-today-0814/card/bitcoin-drifts-lower-after-muted-reaction-to-u-s-data-XwQUo3NO4psxnT2xPJ6q?mod=bar_RHF)**
 
-Barron's • 3h ago
+Barron's • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ Barron's • 3h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -249,7 +249,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 17h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 18h ago • [Second](https://second.tech/)
 
 ---
 
@@ -271,7 +271,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone browser - pure Python, retro CRT dashboard - 03012009BTC/miners-bitcoin-lottery
 
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
+⬆️ 1 • 💬 0 • 7d ago • [GitHub](https://github.com/03012009BTC/miners-bitcoin-lottery)
 
 ---
 
@@ -285,47 +285,7 @@ Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone br
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 92 • ⏱️ 9:13 • 14h ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 23K • 👍 979 • 💬 406 • ⏱️ 18:10 • 20h ago
-
----
-
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
-
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 295 • 💬 81 • ⏱️ 14:52 • 21h ago
-
----
-
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
-
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
-
-📺 Benjamin Cowen
-
-👁️ 118K • 👍 7K • 💬 407 • ⏱️ 21:29 • 1d ago
-
----
-
-**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
-
-Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
-
-📺 Natalie Brunell
-
-👁️ 13K • 👍 564 • 💬 66 • ⏱️ 1:11:42 • 1d ago
+👁️ 27K • 👍 1K • 💬 99 • ⏱️ 9:13 • 15h ago
 
 ---
 
@@ -335,7 +295,67 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 236 • ⏱️ 18:25 • 15h ago
+👁️ 25K • 👍 2K • 💬 236 • ⏱️ 18:25 • 16h ago
+
+---
+
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
+
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
+
+📺 Dana Love, PhD
+
+👁️ 24K • 👍 1K • 💬 421 • ⏱️ 18:10 • 21h ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 121K • 👍 8K • 💬 413 • ⏱️ 21:29 • 1d ago
+
+---
+
+**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
+
+Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 411 • 💬 316 • ⏱️ 16:10 • 23h ago
+
+---
+
+**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
+
+Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 300 • 💬 84 • ⏱️ 14:52 • 22h ago
+
+---
+
+**[“Bitcoin is real estate you can take anywhere” 🤔 #realestate #bitcoin](https://www.youtube.com/watch?v=YT4hIU0A7og)**
+
+What do you think about this? Do you agree or disagree that Bitcoin is similar to real estate? Listen to the full episode of the Jay ...
+
+📺 Jay Pitts
+
+👁️ 214 • 👍 2 • ⏱️ 2:23 • 2h ago
+
+---
+
+**[Why This NBA Star Buys Bitcoin Every Day](https://www.youtube.com/watch?v=uZR_eOC7MvE)**
+
+Tristan Thompson isn't hedging against the dollar. He's betting on the internet, and telling every teammate to buy Bitcoin every ...
+
+📺 Anthony Pompliano
+
+👁️ 3K • 👍 60 • 💬 13 • ⏱️ 0:50 • 20h ago
 
 ---
 
@@ -345,37 +365,15 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 143 • ⏱️ 18:46 • 1d ago
+👁️ 34K • 👍 3K • 💬 131 • ⏱️ 18:46 • 1d ago
 
 ---
 
-**[Crypto Live Trading: Bitcoin TA](https://www.youtube.com/watch?v=Z9gskOXkMD4)**
+**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
 
-Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading journey with Breakout ...
+📺 CryptoWendyO
 
-📺 Sin City Crypto
-
-👁️ 5K • 👍 251 • ⏱️ 5:33:35 • 7h ago
-
----
-
-**[Bitcoin: Why This NBA Champion Buys Every Single Day](https://www.youtube.com/watch?v=KgbU4zwlCKE)**
-
-Tristan Thompson is an NBA champion with the Cleveland Cavaliers who's become a hands-on tech investor and operator. In this ...
-
-📺 Anthony Pompliano
-
-👁️ 34K • 👍 919 • 💬 38 • ⏱️ 24:08 • 2d ago
-
----
-
-**[Is Now the Time to Accumulate Bitcoin? Cory Klippsten Explains](https://www.youtube.com/watch?v=fMuRKcj_GF4)**
-
-Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear market, why he believes the bottom could be ...
-
-📺 Cointelegraph
-
-👁️ 2K • 👍 62 • 💬 96 • ⏱️ 17:13 • 23h ago
+👁️ 3K • 👍 371 • 💬 17 • ⏱️ 2:31 • 13h ago
 
 ---
 
