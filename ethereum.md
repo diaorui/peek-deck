@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T19:48:23.984884+00:00'
+updated: '2026-08-14T20:31:29.122149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 19:48 UTC  
+**Last Updated:** August 14, 2026 at 20:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.3%  
-**30d:** +0.5%  
-**90d:** -12.1%  
-**1y:** -57.8%  
+**24h:** -0.5%  
+**7d:** -2.0%  
+**30d:** +0.8%  
+**90d:** -11.8%  
+**1y:** -57.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-9h ago
+10h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 7h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-theblock.co • 2d ago
+The Block • 2d ago
 
 ---
 
@@ -180,15 +180,39 @@ markets.businessinsider.com • 6h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
-**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-Fortune • 4h ago
+The Motley Fool • 8h ago
+
+---
+
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://www.tradingview.com/news/coinpedia:d5da81f4f094b:0-why-ethereum-price-could-skyrocket-to-3-000-within-days-or-weeks/)**
+
+Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum Sentiment Turns Positive but Beware a Final Leg Lower, Analysts Warn](https://www.benzinga.com/crypto/cryptocurrency/26/08/61176079/ethereum-sentiment-turns-positive-but-beware-a-final-leg-lower-analysts-warn)**
+
+Ethereum shows strong momentum as traders turn bullish. Risks remain, but institutional developments and staking could drive demand.
+
+Benzinga • 1d ago
+
+---
+
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -198,35 +222,11 @@ ETF Database • 4h ago
 
 ---
 
-**[Shiba Inu (SHIB) Hits Zero on 2 Critical Thresholds, Ethereum (ETH) Reaches Pre-Golden Cross, Hyperliquid (HYPE) Breaks Through: Crypto Market Review](https://u.today/shiba-inu-shib-hits-zero-on-2-critical-thresholds-ethereum-eth-reaches-pre-golden-cross-hyperliquid)**
+**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
 
-Things are getting more interesting on the market as volatility surges on multiple assets.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-U.Today • 19h ago
-
----
-
-**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
-
-Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
-
-CryptoSlate • 8h ago
-
----
-
-**[Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors](https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors)**
-
-Fidelity wants its FETH fund to stake up to 100% of its Ethereum and distribute the rewards to holders as quarterly cash.
-
-Decrypt • 2d ago
-
----
-
-**[FG Nexus Exits Ethereum With $45.2M Loss, Sells All ETH](https://financefeeds.com/fg-nexus-sold-all-its-crypto-by-june-30-ending-ethereum-treasury-strategy-less-than-a-year-after-launch/)**
-
-FG Nexus held zero digital assets at June 30 after $60.96M in Ether sales, booking a $45.2M loss and pivoting from its ETH treasury to real estate.
-
-FinanceFeeds • 11h ago
+Fortune • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 8h ago
+👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 20h ago
+👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 21h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T19:48:23.974752+00:00'
+updated: '2026-08-14T20:31:29.113281+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 19:48 UTC  
+**Last Updated:** August 14, 2026 at 20:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-9h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen unders
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ New South Wales is considering joining Australia’s national face-matching netw
 
 Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it. - One-off analysis with judgment? Ask a human or a cheap model. - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole secret: AI where it compounds, code where it doesn't. What's something you tried to do with AI that you now do without it?
 
-6h ago
+7h ago
 
 ---
 
@@ -113,13 +113,65 @@ Every day I see someone bolt an LLM onto something a shell script did better. Th
 
 I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a tiny sample, not a verdict. The first Pro run failed. I put the same demo through Flash, and Flash completed it. I honestly did not expect that result, so I ran Pro a second time before writing this. Same failure. The odd part is that it did not feel slow while generating. I was seeing roughly 80 to 90 tokens/s tonight. That looks fine on a counter, but it matters a lot less when the demo itself does not make it across the line. For my next pass, I will put the same requests through ZenMux and record the model route and provider with each request. That makes the comparison easier to inspect. It still does not turn two failed runs into a benchmark. My first impression is negative. Two runs are nowhere near enough for a broad claim, but two failures on a demo that Flash completed are worth writing down. What are people seeing right now with V4 Pro 0813? If you tested it against Flash, did you keep the same prompt and setup, and did Pro actually finish the demo?
 
-7h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
+
+Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
+
+The Guardian • 3h ago
+
+---
+
+**[Goldman’s latest cash cow is all about funding the AI infrastructure boom](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html)**
+
+Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.
+
+CNBC • 29m ago
+
+---
+
+**[Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)**
+
+The AI opportunity is huge but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
+
+techcrunch.com • 58m ago
+
+---
+
+**[Anthropic CEO's wife once asked Jeffrey Epstein to fund porn venture — now she helps steer the Claude AI empire](https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/)**
+
+Before she became a key voice in her husband’s ear, Cami Clark reportedly pitched Epstein on a “free luxury porn” company.
+
+New York Post • 37m ago
+
+---
+
+**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
+
+WSJ • 19h ago
+
+---
+
+**[Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge](https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html)**
+
+Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
+
+Yahoo Finance • 1d ago
+
+---
 
 **[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
 
@@ -129,69 +181,19 @@ CNBC • 4h ago
 
 ---
 
-**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
 
-The New York Times • 5h ago
+Bots are starting to conspire with one another. Can they be reeled back in?
 
----
-
-**[Opinion: Nvidia’s $500B private equity AI funding deal isn’t a good sign](https://www.fiercewireless.com/cloud/opinion-nvidias-500b-private-equity-ai-funding-deal-isnt-good-sign)**
-
-We’ve been told it’s not a bubble. We’ve been told this is nothing like the Dot Com bust. To be fair, there are substantive differences. | Nvidia’s $500B AI financing push is fueling fresh bubble fears, exposing how much of the AI infrastructure boom may depend on circular deals, shaky demand and scarce power.
-
-Fierce Network • 1h ago
+theatlantic.com • 2d ago
 
 ---
 
-**[Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking](https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8)**
+**[OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)**
 
-Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.
+US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-Business Insider • 1h ago
-
----
-
-**[AI Is Changing Military Morality](https://foreignpolicy.com/2026/08/14/ai-military-just-war/)**
-
-Just war theory was developed over centuries—and now must adapt to a new era of technology.
-
-Foreign Policy • 1h ago
-
----
-
-**[The AI build-out has a problem that $1 trillion in cash can't fix](https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html)**
-
-Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
-
-Yahoo Finance • 6h ago
-
----
-
-**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
-
-Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
-
-The Guardian • 2h ago
-
----
-
-**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
-
-Reuters • 15h ago
-
----
-
-**[Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)**
-
-﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
-
-The Verge • 10h ago
-
----
-
-**[Apple Is Sitting Out the AI Race—Except in China](https://www.barrons.com/articles/apple-stock-ai-china-1827bd21)**
-
-Barron's • 3h ago
+Financial Times • 16h ago
 
 ---
 
@@ -203,7 +205,7 @@ Barron's • 3h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 982 • 💬 912 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 982 • 💬 914 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -219,7 +221,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 212 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 213 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -245,13 +247,13 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 174 • 💬 229 • 7h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 181 • 💬 235 • 8h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 163 • 💬 201 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 163 • 💬 203 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -259,7 +261,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 160 • 💬 170 • 5h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 163 • 💬 175 • 5h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -271,9 +273,11 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 ---
 
-**[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
+**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
 
-⬆️ 139 • 💬 178 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+⬆️ 158 • 💬 108 • 4h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -287,7 +291,7 @@ The Friday crew discusses mathematicians stunned as AI solves decades old proble
 
 📺 Breaking Points
 
-👁️ 20K • 👍 1K • 💬 312 • ⏱️ 19:15 • 2h ago
+👁️ 20K • 👍 1K • 💬 312 • ⏱️ 19:15 • 3h ago
 
 ---
 
@@ -297,7 +301,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 11K • 👍 496 • 💬 48 • ⏱️ 16:41 • 19h ago
+👁️ 11K • 👍 496 • 💬 48 • ⏱️ 16:41 • 20h ago
 
 ---
 
@@ -305,7 +309,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 Onevilage
 
-👁️ 235K • 👍 10K • 💬 302 • ⏱️ 0:46 • 5h ago
+👁️ 235K • 👍 10K • 💬 302 • ⏱️ 0:46 • 6h ago
 
 ---
 
@@ -325,7 +329,7 @@ In this video, we learn DC revealed they used AI for Supergirl… Follow Me On S
 
 📺 DoomBlazer
 
-👁️ 112K • 👍 13K • 💬 816 • ⏱️ 2:27 • 15h ago
+👁️ 112K • 👍 13K • 💬 816 • ⏱️ 2:27 • 16h ago
 
 ---
 
@@ -335,7 +339,7 @@ My original Robot Pacman vs Dentures Short has over 182 million views: https://w
 
 📺 StrEat
 
-👁️ 19K • 👍 86 • 💬 1 • ⏱️ 0:08 • 6h ago
+👁️ 19K • 👍 86 • 💬 1 • ⏱️ 0:08 • 7h ago
 
 ---
 
@@ -345,7 +349,7 @@ aivideo #ai #chatgpt #news #politicsA recent study found that six of the most wi
 
 📺 Jeremy Carrasco
 
-👁️ 18K • 👍 4K • 💬 109 • ⏱️ 1:32 • 21h ago
+👁️ 18K • 👍 4K • 💬 109 • ⏱️ 1:32 • 22h ago
 
 ---
 
@@ -391,7 +395,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,627 • 4h ago
+⬇️ 2 • ❤️ 8,627 • 5h ago
 
 ---
 
@@ -451,7 +455,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 612 • 8h ago
+⬇️ 63 • ❤️ 612 • 9h ago
 
 ---
 
@@ -463,7 +467,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 600 • 3h ago
+⬇️ 0 • ❤️ 600 • 4h ago
 
 ---
 
@@ -515,7 +519,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 604 • 💬 2 • ⭐ 1,929 • 4d ago
+▲ 604 • 💬 2 • ⭐ 1,929 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -555,7 +559,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 37 • 💬 2 • ⭐ 1,015 • 10d ago
+▲ 37 • 💬 2 • ⭐ 1,015 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -595,7 +599,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 92 • 💬 1 • ⭐ 1,146 • 10d ago
+▲ 92 • 💬 1 • ⭐ 1,146 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -660,7 +664,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 19h ago
+⭐ 8.4k • 🔱 995 • 20h ago
 
 ---
 
@@ -670,7 +674,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 7.6k • 🔱 807 • 1h ago
+⭐ 7.6k • 🔱 807 • 2h ago
 
 ---
 
@@ -680,7 +684,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 15h ago
+⭐ 5.0k • 🔱 429 • 16h ago
 
 ---
 
@@ -718,7 +722,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 11h ago
+⭐ 2.7k • 🔱 1.9k • 12h ago
 
 ---
 
