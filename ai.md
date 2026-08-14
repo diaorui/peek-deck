@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T18:54:20.897746+00:00'
+updated: '2026-08-14T19:48:23.974752+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 18:54 UTC  
+**Last Updated:** August 14, 2026 at 19:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2 TL;DR: LiquidAI released LFM2.5-VL-3B, a 3.1B vision-language model that runs fully local (llama.cpp, MLX, vLLM, even a WebGPU demo). • Beats Gemma-4 E4B (8B) 69.4 vs 59.7; edges Qwen3.5-4B • Screen understanding: 2.5 → 82.2 on ScreenSpot-v2 Web (huge jump) • 228 tok/s on M5 Max, 20 tok/s on a Galaxy S26 Ultra • Function calling / object grounding included What I found interesting is the business angle: for simple document/screen tasks, local AI flips 'AI feature' from a monthly API bill into a one-time engineering task with zero data leaving the building. Big cloud models still win for complex reasoning — this just made the small-model bucket genuinely usable. I wrote a short analysis here: https://www.zyntopia.com/news/lfm2-5-vl-3b-edge-vision
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen unders
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-10h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-19h ago
+20h ago
 
 ---
 
@@ -89,7 +89,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Every day I see someone bolt an LLM onto something a shell script did better. Th
 
 I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a tiny sample, not a verdict. The first Pro run failed. I put the same demo through Flash, and Flash completed it. I honestly did not expect that result, so I ran Pro a second time before writing this. Same failure. The odd part is that it did not feel slow while generating. I was seeing roughly 80 to 90 tokens/s tonight. That looks fine on a counter, but it matters a lot less when the demo itself does not make it across the line. For my next pass, I will put the same requests through ZenMux and record the model route and provider with each request. That makes the comparison easier to inspect. It still does not turn two failed runs into a benchmark. My first impression is negative. Two runs are nowhere near enough for a broad claim, but two failures on a demo that Flash completed are worth writing down. What are people seeing right now with V4 Pro 0813? If you tested it against Flash, did you keep the same prompt and setup, and did Pro actually finish the demo?
 
-6h ago
+7h ago
 
 ---
 
@@ -125,13 +125,13 @@ I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 4h ago
 
 We’ve been told it’s not a bubble. We’ve been told this is nothing like the Dot Com bust. To be fair, there are substantive differences. | Nvidia’s $500B AI financing push is fueling fresh bubble fears, exposing how much of the AI infrastructure boom may depend on circular deals, shaky demand and scarce power.
 
-Fierce Network • 13m ago
+Fierce Network • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fierce Network • 13m ago
 
 Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.
 
-Business Insider • 42m ago
+Business Insider • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 42m ago
 
 Just war theory was developed over centuries—and now must adapt to a new era of technology.
 
-Foreign Policy • 22m ago
+Foreign Policy • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Foreign Policy • 22m ago
 
 Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 5h ago
 
 Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 14h ago
 
 ﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -245,7 +245,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 174 • 💬 229 • 6h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 174 • 💬 229 • 7h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -259,7 +259,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 160 • 💬 170 • 4h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 160 • 💬 170 • 5h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -287,7 +287,7 @@ The Friday crew discusses mathematicians stunned as AI solves decades old proble
 
 📺 Breaking Points
 
-👁️ 20K • 👍 1K • 💬 312 • ⏱️ 19:15 • 1h ago
+👁️ 20K • 👍 1K • 💬 312 • ⏱️ 19:15 • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 11K • 👍 496 • 💬 48 • ⏱️ 16:41 • 18h ago
+👁️ 11K • 👍 496 • 💬 48 • ⏱️ 16:41 • 19h ago
 
 ---
 
@@ -305,7 +305,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 Onevilage
 
-👁️ 235K • 👍 10K • 💬 302 • ⏱️ 0:46 • 4h ago
+👁️ 235K • 👍 10K • 💬 302 • ⏱️ 0:46 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ In this video, we learn DC revealed they used AI for Supergirl… Follow Me On S
 
 📺 DoomBlazer
 
-👁️ 112K • 👍 13K • 💬 816 • ⏱️ 2:27 • 14h ago
+👁️ 112K • 👍 13K • 💬 816 • ⏱️ 2:27 • 15h ago
 
 ---
 
@@ -335,7 +335,7 @@ My original Robot Pacman vs Dentures Short has over 182 million views: https://w
 
 📺 StrEat
 
-👁️ 19K • 👍 86 • 💬 1 • ⏱️ 0:08 • 5h ago
+👁️ 19K • 👍 86 • 💬 1 • ⏱️ 0:08 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ aivideo #ai #chatgpt #news #politicsA recent study found that six of the most wi
 
 📺 Jeremy Carrasco
 
-👁️ 18K • 👍 4K • 💬 109 • ⏱️ 1:32 • 20h ago
+👁️ 18K • 👍 4K • 💬 109 • ⏱️ 1:32 • 21h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,627 • 3h ago
+⬇️ 2 • ❤️ 8,627 • 4h ago
 
 ---
 
@@ -403,7 +403,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,496 • 2d ago
+⬇️ 165,300 • ❤️ 1,496 • 3d ago
 
 ---
 
@@ -463,7 +463,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 600 • 2h ago
+⬇️ 0 • ❤️ 600 • 3h ago
 
 ---
 
@@ -650,7 +650,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 9m ago
+⭐ 13.5k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 18h ago
+⭐ 8.4k • 🔱 995 • 19h ago
 
 ---
 
@@ -670,7 +670,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 7.6k • 🔱 807 • 31m ago
+⭐ 7.6k • 🔱 807 • 1h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 14h ago
+⭐ 5.0k • 🔱 429 • 15h ago
 
 ---
 
@@ -718,7 +718,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 10h ago
+⭐ 2.7k • 🔱 1.9k • 11h ago
 
 ---
 
@@ -728,7 +728,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.4k • 🔱 186 • 2d ago
+⭐ 2.4k • 🔱 186 • 3d ago
 
 ---
 

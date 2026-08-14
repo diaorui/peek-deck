@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T18:54:20.912470+00:00'
+updated: '2026-08-14T19:48:23.984884+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 18:54 UTC  
+**Last Updated:** August 14, 2026 at 19:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[Doots Podcast 155 - Long Hot Summer](https://www.reddit.com/r/ethereum/comments/1vodsry/doots_podcast_155_long_hot_summer/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 2h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-8h ago
+9h ago
 
 ---
 
@@ -140,14 +148,6 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 ---
 
-**[CCA Monitor update: 6 chains, 5 real auctions, and a few things that broke along the way.](https://www.reddit.com/r/ethereum/comments/1vkaohy/cca_monitor_update_6_chains_5_real_auctions_and_a/)**
-
-I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs). What’s new: 6 chains monitored Ethereum, Base, Arbitrum, Unichain, Optimism, and Polygon. The monitor auto-detects new auctions across all factory contracts. Multi-channel alerts Telegram, Discord, Slack webhooks, and email via SendGrid. Whale bids, auction endings, daily digests. Auction comparison Compare up to 4 auctions side-by-side: clearing ratios, bidder overlap, concentration, and more. Post-graduation tracking Graduated tokens now get sparkline charts with -10%, -20%, and -30% alert bands. REST API Cloudflare Workers API with a free tier for basic data and a pro tier for concentration/overlap analytics. 4 of 5 real CCAs graduated. AKITA on Base was the first to fail. And honestly, that's a good thing. If every auction graduated, the mechanism wouldn't be doing much filtering. A failed auction is evidence that the graduation threshold actually matters. The more interesting signal is bidder overlap. Some wallets are showing up in almost every CCA. As more auctions launch, that cross-auction behavior could become one of the most valuable datasets from the monitor. And then things broke. polygon-rpc.com started returning 401s. They silently introduced API key requirements. Lesson: never depend on a single RPC provider. The monitor now has 2–3 fallback RPCs per chain and automatically fails over between Blockscout, dRPC, PublicNode, and others. Windows + PM2 started spawning console windows. The watchdog uses execSync to check PM2 status every 5 minutes. On Windows, that meant a console window popping up every time. One little windowsHide: true fixed it. Small problem. Surprisingly annoying. Viem's default RPCs went stale. If you don't explicitly configure an RPC, viem uses the chain's built-in default. Those endpoints can eventually stop working without much warning. The client factory now falls back to the monitor's public RPC list instead. Current state The whole thing is running on a Windows box: 4 PM2 processes ~250 MB RAM ~$0/month infrastructure 30-second polling Automatic auction detection Automatic analysis Automatic dashboard updates Waiting for the next wave of CCA launches. Dashboard: cca-monitor dashboard Repo: GitHub repository Dashboard and API are free. PRs welcome.
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 6h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-theblock.co • 1d ago
+theblock.co • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ theblock.co • 1d ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ markets.businessinsider.com • 5h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 16h ago
+Benzinga • 17h ago
 
 ---
 
@@ -188,13 +188,13 @@ Benzinga • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-ETF Database • 3h ago
+ETF Database • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ ETF Database • 3h ago
 
 Things are getting more interesting on the market as volatility surges on multiple assets.
 
-U.Today • 18h ago
+U.Today • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ U.Today • 18h ago
 
 Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 2d ago
 
 FG Nexus held zero digital assets at June 30 after $60.96M in Ether sales, booking a $45.2M loss and pivoting from its ETH treasury to real estate.
 
-FinanceFeeds • 10h ago
+FinanceFeeds • 11h ago
 
 ---
 
@@ -290,7 +290,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 7h ago
+👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 8h ago
 
 ---
 
@@ -310,7 +310,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 19h ago
+👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 20h ago
 
 ---
 

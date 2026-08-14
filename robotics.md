@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-14T18:54:20.915719+00:00'
+updated: '2026-08-14T19:48:23.987128+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 14, 2026 at 18:54 UTC  
+**Last Updated:** August 14, 2026 at 19:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,25 +34,25 @@ Robotics research and industry news
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Is it Better now ?](https://www.reddit.com/r/robotics/comments/1vnvq1p/is_it_better_now/)**
 
-15h ago
+16h ago
 
 ---
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Is this finally a real 3-axis FOC gimbal? IMU stabilization is working](https://www.reddit.com/r/robotics/comments/1vo10s7/is_this_finally_a_real_3axis_foc_gimbal_imu/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -68,19 +68,19 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-3h ago
+4h ago
 
 ---
 
 **[LR Mate 100i High Speed: Disturbance before CALIBRATE, SRVO-050 afterwards](https://www.reddit.com/r/robotics/comments/1vob633/lr_mate_100i_high_speed_disturbance_before/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 ​ 🎉拔蘑菇验证通过，但离“实战”还差一截。 下一版直接上狭窄空间模拟——相机怼近了有盲区，所以末端执行器改方案：从底下横着“抄”菌柄，夹得稳还不伤菇。 小伙伴有没有更骚的操作？欢迎砸我脑洞，在线等！🍄🔧 ✅ Mushroom-pulling works—now time for the real squeeze. Next up: tight spaces, closer camera (blind spots, ugh), so we’re redesigning the end-effector to slide in sideways from below and grip the stipe—no more crushed caps. Any brighter ideas? Throw ’em at me! 🍄🤖
 
-22h ago
+23h ago
 
 ---
 
@@ -106,7 +106,7 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -118,7 +118,7 @@ The New York Times • 1d ago
 
 **[Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-powers-up-stellar-shanghai-debut-2026-08-14/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -134,7 +134,7 @@ Yahoo Finance • 1d ago
 
 Beijing hosts a record humanoid robot games as 2,056 machines from 16 countries compete in a growing range of events.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 
@@ -158,7 +158,7 @@ ynetnews.com • 2d ago
 
 Automakers are increasingly investing in humanoid robots as a potential next stage of factory automation, with BMW, Hyundai, Mercedes-Benz and Tesla among the companies testing or developing the technology, The New York Times reports.   Unlike traditional industrial robots that are typically fixed in place and built for specific tasks, humanoids are designed to move through […]
 
-Baton Rouge Business Report • 2d ago
+Baton Rouge Business Report • 3d ago
 
 ---
 
@@ -166,7 +166,7 @@ Baton Rouge Business Report • 2d ago
 
 Unidata has built stations designed to capture egocentric data for robotics: depth, touch, full-body and hand motion,
 
-The Des Moines Register • 3h ago
+The Des Moines Register • 4h ago
 
 ---
 
