@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T07:24:51.916729+00:00'
+updated: '2026-08-14T08:45:07.256724+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 07:24 UTC  
+**Last Updated:** August 14, 2026 at 08:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.1%  
-**30d:** +0.7%  
-**90d:** -11.9%  
+**24h:** -0.9%  
+**7d:** -2.3%  
+**30d:** +0.5%  
+**90d:** -12.1%  
 **1y:** -57.8%  
 
 ---
@@ -160,7 +160,7 @@ Scott Melker breaks down Fidelity's decision to add staking rewards to its ether
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -168,7 +168,23 @@ Yahoo Finance • 11h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 5h ago
+Benzinga • 6h ago
+
+---
+
+**[Here's why Bitcoin, Ethereum, XRP recovery is sluggish](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-remain-sluggish-amid-mixed-etf-flows-202608131100)**
+
+The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
+
+fxstreet.com • 21h ago
+
+---
+
+**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)**
+
+Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
+
+Decrypt • 2d ago
 
 ---
 
@@ -184,13 +200,13 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-CCN.com • 17h ago
+CCN.com • 18h ago
 
 ---
 
@@ -198,7 +214,7 @@ CCN.com • 17h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 15h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -210,27 +226,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://www.tradingview.com/news/coinpedia:d5da81f4f094b:0-why-ethereum-price-could-skyrocket-to-3-000-within-days-or-weeks/)**
 
-Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
+Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
 
-Coinpedia • 1d ago
-
----
-
-**[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
-
-Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
-
-blockchain.news • 15h ago
-
----
-
-**[SharpLink stakes $200M in Ethereum through Lido, with custody at Anchorage Digital](https://cryptobriefing.com/sharplink-200m-ethereum-lido-staking/)**
-
-SharpLink stakes $200M in Ethereum via Lido's liquid staking protocol, with wstETH custody at Anchorage Digital Bank, boosting its treasury yield
-
-Crypto Briefing • 14h ago
+TradingView • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 418 • ⏱️ 12:21 • 20h ago
+👁️ 12K • 👍 1K • 💬 418 • ⏱️ 12:21 • 21h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 4K • 👍 215 • 💬 109 • ⏱️ 18:22 • 12h ago
+👁️ 4K • 👍 215 • 💬 109 • ⏱️ 18:22 • 14h ago
 
 ---
 
@@ -294,7 +294,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 700 • 👍 19 • 💬 4 • ⏱️ 10:10 • 8h ago
+👁️ 700 • 👍 19 • 💬 4 • ⏱️ 10:10 • 9h ago
 
 ---
 
@@ -314,7 +314,7 @@ I followed $197000000 in stolen crypto across the Ethereum blockchain — and I 
 
 📺 Why It Works
 
-👁️ 54 • 👍 6 • 💬 4 • ⏱️ 22:14 • 17h ago
+👁️ 54 • 👍 6 • 💬 4 • ⏱️ 22:14 • 18h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T07:24:51.901895+00:00'
+updated: '2026-08-14T08:45:07.241545+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 07:24 UTC  
+**Last Updated:** August 14, 2026 at 08:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-8h ago
+9h ago
+
+---
+
+**[When the smartest AI model is actually a terrible business move](https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/)**
+
+I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
+
+38m ago
 
 ---
 
@@ -49,7 +57,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 What's an AI trend that quietly died: and what replaced it? I'll go first: generic "AI will replace everything" blog content. It peaked and fizzled because people got tired of being shouted at. What replaced it (for me at least) is boring, specific use-cases: "here's a script that triages my inbox" beats "the future of work" every time. I think the same thing is happening with agent hype: everyone's demoing, few are shipping something that runs for a month. What trend are you glad to see go?
 
-18h ago
+19h ago
 
 ---
 
@@ -65,7 +73,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,31 +81,7 @@ Recent security testing involving AI models has raised an interesting question: 
 
 I just claimed local.ai/kabir. Claim your name.
 
-🔗 [local.ai](https://local.ai/kabir/invite) • 1h ago
-
----
-
-**[Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?](https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/)**
-
-Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan, officials said, in what experts believe is the first known fully autonomous attack on government agencies.
-
-🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 16h ago
-
----
-
-**[Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines](https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/)**
-
-Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
-
-21h ago
-
----
-
-**[AI CEO Building Platform Based On Human Nature Is Confused By Human Nature](https://www.reddit.com/r/artificial/comments/1vnf4nc/ai_ceo_building_platform_based_on_human_nature_is/)**
-
-Anthropic’s CEO expressed concern that his employees are more preoccupied with money than the mission of the company.
-
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 15h ago
+🔗 [local.ai](https://local.ai/kabir/invite) • 2h ago
 
 ---
 
@@ -105,15 +89,31 @@ Anthropic’s CEO expressed concern that his employees are more preoccupied with
 
 The current state of AI requires massive infrastructure and consumes enormous amounts of power and consumable water, so much so that new grids and systems are being put in place to satisfy these requirements. This approach doesn't exactly seem sustainable and with AI getting more and more integrated into society, it seems the need for some alternative approach is needed. How do you see this change happening? Could there be a new branch of mathematics that makes compute faster/cheaper? Development of new materials? Quantum computing?
 
-1h ago
+3h ago
 
 ---
 
-**[The White House is reportedly preparing to bring open AI models under its secret prerelease safety-testing framework. So yeah, its getting interesting.](https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/)**
+**[Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?](https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/)**
 
-WIRED says the voluntary framework currently covers frontier closed models from labs such as OpenAI and Anthropic. Open models are expected to join once they reach comparable capabilities, potentially facing a 30-day testing period before public release. Officials are caught between two risks: excluding open models could create a government-approved advantage for closed labs; including them could slow US open-model development.
+Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan, officials said, in what experts believe is the first known fully autonomous attack on government agencies.
 
-1d ago
+🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 18h ago
+
+---
+
+**[Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines](https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/)**
+
+Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
+
+23h ago
+
+---
+
+**[AI CEO Building Platform Based On Human Nature Is Confused By Human Nature](https://www.reddit.com/r/artificial/comments/1vnf4nc/ai_ceo_building_platform_based_on_human_nature_is/)**
+
+Anthropic’s CEO expressed concern that his employees are more preoccupied with money than the mission of the company.
+
+🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 16h ago
 
 ---
 
@@ -121,11 +121,23 @@ WIRED says the voluntary framework currently covers frontier closed models from 
 
 ## Google News: "ai"
 
-**['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html)**
+**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
-Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
+Reuters • 4h ago
 
-CNBC • 18h ago
+---
+
+**[Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ)](https://seekingalpha.com/news/4633040-apple-partners-with-alibaba-on-custom-ai-model-for-china-reuters)**
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Apple trained its own AI model for China, and handed the brain to Alibaba](https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen)**
+
+Apple has trained a China-only large language model with Alibaba’s help, becoming the first foreign firm cleared to offer a proprietary AI model in mainland China.
+
+The Next Web • 2h ago
 
 ---
 
@@ -133,7 +145,15 @@ CNBC • 18h ago
 
 US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-ft.com • 3h ago
+Financial Times • 52m ago
+
+---
+
+**[AI’s infrastructure boom is getting more leveraged — and harder to track](https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html)**
+
+AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.
+
+CNBC • 15m ago
 
 ---
 
@@ -141,21 +161,13 @@ ft.com • 3h ago
 
 Brian Chesky says he treats the $110 billion home-rental giant like a small startup.
 
-Fortune • 23m ago
+Fortune • 1h ago
 
 ---
 
-**[The 5 AI Scaling Mistakes That Could Derail Your Business](https://www.forbes.com/sites/bernardmarr/2026/08/14/the-5-ai-scaling-mistakes-that-could-derail-your-business/)**
+**[What a Killer Drone Swarm Looks Like Up Close](https://www.bloomberg.com/news/articles/2026-08-14/ai-powered-auterion-drone-swarms-are-coming-to-the-battlefield)**
 
-Here are five costly mistakes businesses make when scaling AI, from runaway costs and weak governance to poor accountability plus how leaders can avoid them.
-
-Forbes • 1h ago
-
----
-
-**[India Less Exposed to AI Job Risks Than Others, Goldman Says](https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says)**
-
-Bloomberg.com • 1h ago
+Bloomberg.com • 44m ago
 
 ---
 
@@ -163,7 +175,7 @@ Bloomberg.com • 1h ago
 
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 
-blog.google • 14h ago
+blog.google • 15h ago
 
 ---
 
@@ -171,21 +183,7 @@ blog.google • 14h ago
 
 Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
 
-Cerebras • 14h ago
-
----
-
-**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
-
-WSJ • 6h ago
-
----
-
-**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
-
-From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
-
-The Washington Post • 14h ago
+Cerebras • 15h ago
 
 ---
 
@@ -193,7 +191,7 @@ The Washington Post • 14h ago
 
 Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -205,7 +203,7 @@ Yahoo Finance • 12h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 970 • 💬 903 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 971 • 💬 901 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -237,7 +235,7 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 197 • 💬 83 • 18h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 202 • 💬 87 • 19h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -251,7 +249,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 161 • 💬 197 • 17h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 161 • 💬 199 • 19h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -259,7 +257,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
 
-⬆️ 156 • 💬 35 • 1d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
+⬆️ 156 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
 
 ---
 
@@ -267,13 +265,13 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 127 • 💬 128 • 17h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 129 • 💬 130 • 18h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 117 • 💬 129 • 16h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 119 • 💬 131 • 17h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -287,7 +285,7 @@ Boost your online protection with an all-in-one security app! Get an exclusive N
 
 📺 Sabine Hossenfelder
 
-👁️ 105K • 👍 7K • 💬 3K • ⏱️ 6:52 • 16h ago
+👁️ 105K • 👍 7K • 💬 3K • ⏱️ 6:52 • 17h ago
 
 ---
 
@@ -307,7 +305,7 @@ Thank you to AutoDS for sponsoring today's tutorial - here's the full AI dropshi
 
 📺 Wholesale Ted
 
-👁️ 5K • 👍 345 • 💬 35 • ⏱️ 20:52 • 11h ago
+👁️ 5K • 👍 345 • 💬 35 • ⏱️ 20:52 • 12h ago
 
 ---
 
@@ -327,7 +325,7 @@ In this video Adam works with Wendell from @Level1Techs to set up his first loca
 
 📺 PCWorld
 
-👁️ 6K • 👍 322 • 💬 34 • ⏱️ 19:47 • 13h ago
+👁️ 6K • 👍 322 • 💬 34 • ⏱️ 19:47 • 14h ago
 
 ---
 
@@ -337,7 +335,7 @@ In this video Adam works with Wendell from @Level1Techs to set up his first loca
 
 📺 Nas Daily
 
-👁️ 49K • 👍 2K • 💬 97 • ⏱️ 1:36 • 15h ago
+👁️ 49K • 👍 2K • 💬 97 • ⏱️ 1:36 • 16h ago
 
 ---
 
@@ -453,7 +451,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio`
 
-⬇️ 25 • ❤️ 463 • 14h ago
+⬇️ 25 • ❤️ 463 • 15h ago
 
 ---
 
@@ -465,7 +463,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 91,455 • ❤️ 469 • 15h ago
+⬇️ 91,455 • ❤️ 469 • 16h ago
 
 ---
 
@@ -650,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 3h ago
+⭐ 13.5k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -660,7 +658,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 988 • 7h ago
+⭐ 8.4k • 🔱 988 • 8h ago
 
 ---
 
@@ -670,7 +668,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 6.0k • 🔱 643 • 5h ago
+⭐ 6.0k • 🔱 643 • 6h ago
 
 ---
 
@@ -680,7 +678,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 426 • 3h ago
+⭐ 5.0k • 🔱 426 • 4h ago
 
 ---
 
@@ -698,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 532 • 17h ago
+⭐ 3.0k • 🔱 532 • 19h ago
 
 ---
 
@@ -708,7 +706,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 59s ago
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -738,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 168 • 15h ago
+⭐ 2.1k • 🔱 168 • 17h ago
 
 ---
 
