@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T08:45:07.241545+00:00'
+updated: '2026-08-14T10:02:22.493461+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 08:45 UTC  
+**Last Updated:** August 14, 2026 at 10:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I've built a fully autonomous meditation system for TouchDesigner](https://www.reddit.com/r/artificial/comments/1vo2kku/ive_built_a_fully_autonomous_meditation_system/)**
+
+A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
+
+28m ago
+
+---
+
 **[How well do AI voice agents handle people who constantly interrupt?](https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/)**
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +57,23 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-38m ago
+1h ago
+
+---
+
+**[New to AI](https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/)**
+
+Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
+
+6m ago
+
+---
+
+**[Ran Unitree founder Wang Xingxing's interview audio through a personality-analysis model I'm building — here's what came out (fun experiment, not a validated psych tool)](https://www.reddit.com/r/artificial/comments/1vo2akm/ran_unitree_founder_wang_xingxings_interview/)**
+
+Been building a personality-analysis framework (Outframe). I ran my own profile through it first and it felt pretty accurate, so out of curiosity I tried it on a public figure too — Wang Xingxing, the Unitree founder whose robots have been getting a ton of buzz lately (the dancing robot, the backflips). Fed one of his public interview clips in and let it generate a behavioral profile. To be upfront: this isn't a validated psychometric instrument. Take it as a fun read, not a diagnosis. What it flagged for him: Internal processor — takes in a lot, but doesn't react in real time. Processes before forming a judgment. Responsibility-driven, not performance-driven — decisions seem to run through "what's the responsible call here" rather than "how do I look." Long-horizon problem solver — under pressure, tends to reframe an immediate problem into a durable structural fix instead of just getting through the moment. Feedback-sensitive — picks up on how others react more than he lets on; not operating in a bubble. Restrained communicator — can be articulate and engaged when he wants to, but sustained self-promotion/talking isn't where his energy naturally goes. High capacity, but needs recovery space — can absorb a lot of simultaneous pressure, but stacking constant asks/evaluations on top of each other drains him faster than one big problem would. The interesting contradiction it surfaced: doesn't necessarily talk a lot, but is absorbing a huge amount of input; comes across easygoing, but has very clear internal judgment; can carry a lot, but staying steady under that load still requires downtime.
+
+44m ago
 
 ---
 
@@ -57,7 +81,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 What's an AI trend that quietly died: and what replaced it? I'll go first: generic "AI will replace everything" blog content. It peaked and fizzled because people got tired of being shouted at. What replaced it (for me at least) is boring, specific use-cases: "here's a script that triages my inbox" beats "the future of work" every time. I think the same thing is happening with agent hype: everyone's demoing, few are shipping something that runs for a month. What trend are you glad to see go?
 
-19h ago
+20h ago
 
 ---
 
@@ -73,7 +97,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
 
-2h ago
+3h ago
 
 ---
 
@@ -81,39 +105,15 @@ Recent security testing involving AI models has raised an interesting question: 
 
 I just claimed local.ai/kabir. Claim your name.
 
-🔗 [local.ai](https://local.ai/kabir/invite) • 2h ago
+🔗 [local.ai](https://local.ai/kabir/invite) • 3h ago
 
 ---
 
-**[What is the future for AI?](https://www.reddit.com/r/artificial/comments/1vnyjzb/what_is_the_future_for_ai/)**
+**[Meet Ember, my custom ChatGPT Pet Dragon](https://www.reddit.com/r/artificial/comments/1vo2pdn/meet_ember_my_custom_chatgpt_pet_dragon/)**
 
-The current state of AI requires massive infrastructure and consumes enormous amounts of power and consumable water, so much so that new grids and systems are being put in place to satisfy these requirements. This approach doesn't exactly seem sustainable and with AI getting more and more integrated into society, it seems the need for some alternative approach is needed. How do you see this change happening? Could there be a new branch of mathematics that makes compute faster/cheaper? Development of new materials? Quantum computing?
+So I was poking around with ChatGPT settings, while waiting for a task to finish, and noticed that I can actually make my own agent pet. After some extensive "engineering" here is the final result. The concept is that it is a chibi dragon that roasts its marshmellow with its fiery breath (when agent is working) and it is inspecting the results of the marshmellow-cooking when agent is thinking/reviewing etc. There is even a jumping animation when hovering the cursor. Feedback and ideas are most welcome!
 
-3h ago
-
----
-
-**[Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?](https://www.reddit.com/r/artificial/comments/1vnc7hm/hackers_used_autonomous_ai_agents_to_attack/)**
-
-Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan, officials said, in what experts believe is the first known fully autonomous attack on government agencies.
-
-🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 18h ago
-
----
-
-**[Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines](https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/)**
-
-Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
-
-23h ago
-
----
-
-**[AI CEO Building Platform Based On Human Nature Is Confused By Human Nature](https://www.reddit.com/r/artificial/comments/1vnf4nc/ai_ceo_building_platform_based_on_human_nature_is/)**
-
-Anthropic’s CEO expressed concern that his employees are more preoccupied with money than the mission of the company.
-
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 16h ago
+20m ago
 
 ---
 
@@ -121,31 +121,33 @@ Anthropic’s CEO expressed concern that his employees are more preoccupied with
 
 ## Google News: "ai"
 
+**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
+
+Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
+
+blog.google • 16h ago
+
+---
+
 **[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
-**[Apple partners with Alibaba on custom AI model for China: Reuters (AAPL:NASDAQ)](https://seekingalpha.com/news/4633040-apple-partners-with-alibaba-on-custom-ai-model-for-china-reuters)**
+**[Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)**
 
-Seeking Alpha • 2h ago
+﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
 
----
-
-**[Apple trained its own AI model for China, and handed the brain to Alibaba](https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen)**
-
-Apple has trained a China-only large language model with Alibaba’s help, becoming the first foreign firm cleared to offer a proprietary AI model in mainland China.
-
-The Next Web • 2h ago
+The Verge • 41m ago
 
 ---
 
-**[OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)**
+**[Apple Trained Its own AI model for China Market With Help From Alibaba](https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/)**
 
-US groups release cheaper models after new challenges to their trillion-dollar ambitions
+Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country. The LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China. Rollout of its AI features in China is expected in the coming months.
 
-Financial Times • 52m ago
+MacRumors • 15m ago
 
 ---
 
@@ -153,29 +155,19 @@ Financial Times • 52m ago
 
 AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.
 
-CNBC • 15m ago
+CNBC • 1h ago
 
 ---
 
-**[Airbnb CEO says AI writes 60% of its code—sustaining founder mode is key to winning in the age of AI](https://fortune.com/2026/08/14/airbnb-ceo-brian-chesky-founder-mode-ai-writes-60-percent-of-code/)**
+**[Open-source AI faces more government scrutiny](https://www.axios.com/2026/08/14/open-source-ai-government-scrutiny)**
 
-Brian Chesky says he treats the $110 billion home-rental giant like a small startup.
-
-Fortune • 1h ago
+Axios • 51m ago
 
 ---
 
-**[What a Killer Drone Swarm Looks Like Up Close](https://www.bloomberg.com/news/articles/2026-08-14/ai-powered-auterion-drone-swarms-are-coming-to-the-battlefield)**
+**[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
 
-Bloomberg.com • 44m ago
-
----
-
-**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
-
-Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
-
-blog.google • 15h ago
+The New York Times • 59m ago
 
 ---
 
@@ -183,7 +175,7 @@ blog.google • 15h ago
 
 Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
 
-Cerebras • 15h ago
+Cerebras • 16h ago
 
 ---
 
@@ -191,7 +183,15 @@ Cerebras • 15h ago
 
 Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)**
+
+US groups release cheaper models after new challenges to their trillion-dollar ambitions
+
+Financial Times • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 13h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 971 • 💬 901 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 973 • 💬 902 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -235,7 +235,7 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 202 • 💬 87 • 19h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 205 • 💬 87 • 20h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -249,7 +249,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 161 • 💬 199 • 19h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 161 • 💬 199 • 20h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -257,7 +257,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
 
-⬆️ 156 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
+⬆️ 157 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
 
 ---
 
@@ -265,13 +265,13 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 129 • 💬 130 • 18h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 131 • 💬 131 • 19h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 119 • 💬 131 • 17h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 124 • 💬 139 • 18h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -279,63 +279,23 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
+**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
+
+Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
+
+📺 AI Revolution
+
+👁️ 8K • 👍 384 • 💬 34 • ⏱️ 16:41 • 9h ago
+
+---
+
 **[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
 
 Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
 
 📺 Sabine Hossenfelder
 
-👁️ 105K • 👍 7K • 💬 3K • ⏱️ 6:52 • 17h ago
-
----
-
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 122K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
-
----
-
-**[The NEW Way To Start AI Dropshipping w/ Claude Code](https://www.youtube.com/watch?v=hKFv6qqFjTk)**
-
-Thank you to AutoDS for sponsoring today's tutorial - here's the full AI dropshipping tool workflow I used: ▻ BuildYourStore AI: ...
-
-📺 Wholesale Ted
-
-👁️ 5K • 👍 345 • 💬 35 • ⏱️ 20:52 • 12h ago
-
----
-
-**[AI Just Hacked a Government... And Its Nuclear Agency!](https://www.youtube.com/watch?v=VKhW4QnQMts)**
-
-AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 ...
-
-📺 AI Revolution
-
-👁️ 30K • 👍 1K • 💬 121 • ⏱️ 17:01 • 1d ago
-
----
-
-**[I built my first local AI agent](https://www.youtube.com/watch?v=PvGr7tm0Hes)**
-
-In this video Adam works with Wendell from @Level1Techs to set up his first local AI agent using an MSI Cubi NUC and a ...
-
-📺 PCWorld
-
-👁️ 6K • 👍 322 • 💬 34 • ⏱️ 19:47 • 14h ago
-
----
-
-**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
-
-10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
-
-📺 Nas Daily
-
-👁️ 49K • 👍 2K • 💬 97 • ⏱️ 1:36 • 16h ago
+👁️ 109K • 👍 7K • 💬 3K • ⏱️ 6:52 • 19h ago
 
 ---
 
@@ -349,33 +309,73 @@ Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up 
 
 ---
 
-**[The (Overdue) Collapse Of Artificial Intelligence](https://www.youtube.com/watch?v=XaAMbu5ohVw)**
+**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
 
-Get FREE end-to-end encrypted email at https://www.proton.me/gen Ford cut 5300 jobs, handed the work to AI, then paid to bring ...
+I explain the news, you stay sane. ✓ Support independent news ...
 
-📺 GEN
+📺 Chris Norlund
 
-👁️ 295K • 👍 12K • 💬 2K • ⏱️ 20:31 • 2d ago
-
----
-
-**[Making An Actually Fun 3D Game with AI](https://www.youtube.com/watch?v=qK4nV_LnXxQ)**
-
-I vibe coded a full game sequel using Claude Code and Codex, and it proved something important about AI and game ...
-
-📺 Matt Wolfe
-
-👁️ 21K • 👍 849 • 💬 134 • ⏱️ 28:51 • 1d ago
+👁️ 124K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
 
 ---
 
-**[The 7 Trillion AI Gamble Is Failing. Big Tech is TRAPPED Right NOW.](https://www.youtube.com/watch?v=OunJtLnyPT4)**
+**[AI Just Hacked a Government... And Its Nuclear Agency!](https://www.youtube.com/watch?v=VKhW4QnQMts)**
 
-Tech CEOs are quietly cancelling their AI plans, and the reason isn't that artificial intelligence stopped working. It's that companies ...
+AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 ...
 
-📺 The Infographics Show
+📺 AI Revolution
 
-👁️ 1.1M • 👍 20K • 💬 3K • ⏱️ 25:41 • 2d ago
+👁️ 31K • 👍 1K • 💬 121 • ⏱️ 17:01 • 1d ago
+
+---
+
+**[all AI thoughts JUST got revealed...](https://www.youtube.com/watch?v=kKjmv2CuVUI)**
+
+Check out Jarsy: https://app.jarsy.com/?invite_code=jlgbyc (the above is my invite code) Get investment exposure to pre-IPO ...
+
+📺 Wes Roth
+
+👁️ 39K • 👍 1K • 💬 232 • ⏱️ 35:48 • 1d ago
+
+---
+
+**[The NEW Way To Start AI Dropshipping w/ Claude Code](https://www.youtube.com/watch?v=hKFv6qqFjTk)**
+
+Thank you to AutoDS for sponsoring today's tutorial - here's the full AI dropshipping tool workflow I used: ▻ BuildYourStore AI: ...
+
+📺 Wholesale Ted
+
+👁️ 5K • 👍 374 • 💬 38 • ⏱️ 20:52 • 14h ago
+
+---
+
+**[This AI Got Exposed 💀](https://www.youtube.com/watch?v=58eDL1Us1kM)**
+
+The AI character tom.rhoe went viral for making it look like he transformed his body at 64 years old. Then they got exposed when ...
+
+📺 Mappelz
+
+👁️ 560K • 👍 33K • 💬 125 • ⏱️ 0:33 • 14h ago
+
+---
+
+**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
+
+Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
+
+📺 The Tech Report
+
+👁️ 136K • 👍 5K • 💬 1K • ⏱️ 32:08 • 1d ago
+
+---
+
+**[AI Chatbot Contributed To Teen&#39;s Death](https://www.youtube.com/watch?v=PzKwcDXLBmM)**
+
+In 2024, Sewell Setzer III died by suicide after engaging in an online relationship with an AI chatbot modeled after a character from ...
+
+📺 NowThis Impact
+
+👁️ 755K • 👍 35K • 💬 2K • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 121,042 • ❤️ 1,450 • 2d ago
+⬇️ 165,300 • ❤️ 1,462 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,605,940 • ❤️ 3,856 • 1d ago
+⬇️ 1,997,541 • ❤️ 3,865 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 1,012 • ❤️ 829 • 1d ago
+⬇️ 3,832 • ❤️ 846 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 57,287 • ❤️ 755 • 1d ago
+⬇️ 207,830 • ❤️ 771 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,431,587 • ❤️ 3,343 • 13d ago
+⬇️ 1,606,491 • ❤️ 3,352 • 13d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio`
 
-⬇️ 25 • ❤️ 463 • 15h ago
+⬇️ 63 • ❤️ 502 • 17h ago
 
 ---
 
@@ -463,7 +463,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 91,455 • ❤️ 469 • 16h ago
+⬇️ 149,865 • ❤️ 473 • 18h ago
 
 ---
 
@@ -475,7 +475,19 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 352,023 • ❤️ 394 • 3d ago
+⬇️ 596,774 • ❤️ 397 • 3d ago
+
+---
+
+**[DeepSeek-V4-Pro-0813](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic capabilities and DSpark speculative decoding for improved production performance. It excels in complex reasoning, coding, and tool-use tasks, outperforming previous versions and competing with leading proprietary models.
+
+`text-generation` `1650.5B`
+
+⬇️ 245 • ❤️ 376 • 17h ago
 
 ---
 
@@ -485,19 +497,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 10,365,210 • ❤️ 1,300 • 4d ago
-
----
-
-**[MiniMax-H3-Turbo-Lora](https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora)**
-
-*larryvrh*
-
-This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.
-
-`text-to-video`
-
-⬇️ 0 • ❤️ 729 • 5d ago
+⬇️ 11,768,622 • ❤️ 1,303 • 4d ago
 
 ---
 
@@ -513,7 +513,7 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 593 • 💬 2 • ⭐ 1,735 • 4d ago
+▲ 594 • 💬 2 • ⭐ 1,735 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -579,7 +579,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 80 • 💬 6 • ⭐ 23,675 • 1mo ago
+▲ 80 • 💬 6 • ⭐ 23,725 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -648,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 5h ago
+⭐ 13.5k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -658,7 +658,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 988 • 8h ago
+⭐ 8.4k • 🔱 989 • 9h ago
 
 ---
 
@@ -668,7 +668,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 6.0k • 🔱 643 • 6h ago
+⭐ 6.3k • 🔱 668 • 7h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 426 • 4h ago
+⭐ 5.0k • 🔱 427 • 5h ago
 
 ---
 
@@ -686,7 +686,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 514 • 5d ago
+⭐ 4.0k • 🔱 515 • 6d ago
 
 ---
 
@@ -696,17 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 532 • 19h ago
-
----
-
-**[MIgHTy-alIeN/ai-trader-bot](https://github.com/MIgHTy-alIeN/ai-trader-bot)**
-
-An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
-
-`Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
-
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 3.0k • 🔱 534 • 20h ago
 
 ---
 
@@ -717,6 +707,16 @@ An arbitrage bot is a smart contract connected to an external automation script 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
 ⭐ 2.7k • 🔱 223 • 2d ago
+
+---
+
+**[MIgHTy-alIeN/ai-trader-bot](https://github.com/MIgHTy-alIeN/ai-trader-bot)**
+
+An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
+
+`Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
+
+⭐ 2.7k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -736,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 168 • 17h ago
+⭐ 2.1k • 🔱 169 • 18h ago
 
 ---
 

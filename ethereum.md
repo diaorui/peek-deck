@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T08:45:07.256724+00:00'
+updated: '2026-08-14T10:02:22.508523+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 08:45 UTC  
+**Last Updated:** August 14, 2026 at 10:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
+**24h:** -0.2%  
 **7d:** -2.3%  
 **30d:** +0.5%  
 **90d:** -12.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.28B
+**Market Cap:** $225.90B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.2%
 
 **All-Time Low:** $0.43
-+432955.6%
++432179.6%
 
 ---
 
@@ -160,7 +160,7 @@ Scott Melker breaks down Fidelity's decision to add staking rewards to its ether
 
 Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 12h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 6h ago
+Benzinga • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ Benzinga • 6h ago
 
 The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
 
-fxstreet.com • 21h ago
+FXStreet • 23h ago
 
 ---
 
@@ -200,13 +200,7 @@ The Block • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 18h ago
+Fortune • 17h ago
 
 ---
 
@@ -214,7 +208,7 @@ CCN.com • 18h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -226,11 +220,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://www.tradingview.com/news/coinpedia:d5da81f4f094b:0-why-ethereum-price-could-skyrocket-to-3-000-within-days-or-weeks/)**
+**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
 
-Ethereum BITSTAMP:ETHUSD is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year.Reasons why Ethereum price could hit $3,000 soonAccording to one analyst, ETH sat on its launchpad when it hit the $1,580 level in early July. Hi…
+Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-TradingView • 1d ago
+Coinpedia • 1d ago
+
+---
+
+**[SharpLink stakes $200M in Ethereum through Lido, with custody at Anchorage Digital](https://cryptobriefing.com/sharplink-200m-ethereum-lido-staking/)**
+
+SharpLink stakes $200M in Ethereum via Lido's liquid staking protocol, with wstETH custody at Anchorage Digital Bank, boosting its treasury yield
+
+Crypto Briefing • 16h ago
 
 ---
 
@@ -248,13 +250,53 @@ TradingView • 1d ago
 
 ---
 
+**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 24K • 👍 2K • 💬 164 • ⏱️ 8:55 • 21h ago
+
+---
+
 **[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
 
 Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 341 • 💬 191 • ⏱️ 11:59 • 1d ago
+👁️ 6K • 👍 344 • 💬 190 • ⏱️ 11:59 • 1d ago
+
+---
+
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 13K • 👍 1K • 💬 415 • ⏱️ 12:21 • 22h ago
+
+---
+
+**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
+
+BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 221 • 💬 108 • ⏱️ 18:22 • 15h ago
+
+---
+
+**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
+
+Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
+
+📺 The Rollup
+
+👁️ 841 • 👍 25 • 💬 4 • ⏱️ 10:10 • 10h ago
 
 ---
 
@@ -268,36 +310,6 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 ---
 
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 12K • 👍 1K • 💬 418 • ⏱️ 12:21 • 21h ago
-
----
-
-**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
-
-BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 215 • 💬 109 • ⏱️ 18:22 • 14h ago
-
----
-
-**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
-
-Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
-
-📺 The Rollup
-
-👁️ 700 • 👍 19 • 💬 4 • ⏱️ 10:10 • 9h ago
-
----
-
 **[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
 
 Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
@@ -308,23 +320,13 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 ---
 
-**[I TRACKED $197,000,000 of ETHEREUM CRYPTOCURRENCY ON THE BLOCKCHAIN | LET&#39;S HACK](https://www.youtube.com/watch?v=fMPhLMJeHnI)**
+**[MAJOR Ripple XRP Federal Reserve News Just Dropped Solana &amp; Ethereum Holders Are About To Be Happy](https://www.youtube.com/watch?v=MbN-GNPVioY)**
 
-I followed $197000000 in stolen crypto across the Ethereum blockchain — and I built a free tool to do it. In this video I trace a real ...
+Well, it looks like 3 altcoins are taking center state in the world of the cryptocurrency market. Companies have continually ...
 
-📺 Why It Works
+📺 The Modern Investor
 
-👁️ 54 • 👍 6 • 💬 4 • ⏱️ 22:14 • 18h ago
-
----
-
-**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
-
-SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
-
-📺 Gareth Soloway
-
-👁️ 52K • 👍 3K • 💬 162 • ⏱️ 10:20 • 2d ago
+👁️ 6K • 👍 587 • 💬 94 • ⏱️ 30:14 • 2d ago
 
 ---
 
@@ -334,7 +336,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 200 • 💬 12 • ⏱️ 7:07 • 1d ago
+👁️ 4K • 👍 201 • 💬 12 • ⏱️ 7:07 • 1d ago
 
 ---
 

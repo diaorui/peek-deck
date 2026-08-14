@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T08:45:07.250414+00:00'
+updated: '2026-08-14T10:02:22.502182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 08:45 UTC  
+**Last Updated:** August 14, 2026 at 10:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,788.90
+### $62,784.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -3.2%  
-**30d:** -1.5%  
-**90d:** -18.8%  
-**1y:** -46.4%  
+**24h:** -1.1%  
+**7d:** -3.4%  
+**30d:** -1.7%  
+**90d:** -19.0%  
+**1y:** -46.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.97B
+**Market Cap:** $1259.15B
 Rank #1
 
-**Circulating Supply:** 20,069,903 BTC
+**Circulating Supply:** 20,069,981 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-50.2%
 
 **All-Time Low:** $67.81
-+92847.9%
++92421.8%
 
 ---
 
@@ -77,11 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Trezor's shipping provider, ShipMonk, data breach. Great, just what we need.](https://www.reddit.com/r/Bitcoin/comments/1vna0l9/trezors_shipping_provider_shipmonk_data_breach/)**
+**[Time to invest!](https://www.reddit.com/r/Bitcoin/comments/1vo22x7/time_to_invest/)**
 
-We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
+57m ago
 
-🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 19h ago
+---
+
+**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
+
+This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
+
+5h ago
+
+---
+
+**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
+
+12h ago
 
 ---
 
@@ -89,33 +101,37 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 The title says it all
 
-23h ago
-
----
-
-**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
-
-11h ago
-
----
-
-**[PSA](https://www.reddit.com/r/Bitcoin/comments/1vnc439/psa/)**
-
-18h ago
-
----
-
-**[It's so over!](https://www.reddit.com/r/Bitcoin/comments/1vn3nzi/its_so_over/)**
-
 1d ago
 
 ---
 
-**[Trezor customers be vigilant](https://www.reddit.com/r/Bitcoin/comments/1vna6p9/trezor_customers_be_vigilant/)**
+**[SPY is stuffed full of fake GPU debt. US Govt Bonds promise a failing petro-dollar. Japan owns Bessent. Bitcoin is primed and ready for you](https://www.reddit.com/r/Bitcoin/comments/1vnwf8d/spy_is_stuffed_full_of_fake_gpu_debt_us_govt/)**
 
-Received this email
+Macro environment is complete shit and nothing makes sense at this point. But August and Sept will be great DCAs.
 
-19h ago
+6h ago
+
+---
+
+**[The El Salvador Government now holds 7.243K Bitcoin (317.309K less Bitcoin than the US government who holds 324.552K Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1vo1ujn/the_el_salvador_government_now_holds_7243k/)**
+
+1h ago
+
+---
+
+**[We need a Glacier Protocol 2.0 for Bitcoin Self-Custody to be taken seriously](https://www.reddit.com/r/Bitcoin/comments/1vnu1eb/we_need_a_glacier_protocol_20_for_bitcoin/)**
+
+We're constantly telling people to take their Bitcoin off exchanges, but we still don't really have a serious, broadly accepted security standard for how normal people should actually do it. For years the advice was basically: buy a good hardware wallet like a Coldcard, and look at what's happening now. Now the advice is becoming: roll your own dice, use multivendor multisig, pick an M-of-N setup, figure out backups, geographic distribution, passphrases, recovery, inheritance, etc. At some point this gets ridiculous. Regular people should not be expected to design their own security architecture. We need a well-funded, open-source standard that's maintained and reviewed by actual security experts. It should have clear risk models, explain the tradeoffs, and give people sensible setups based on their situation. Right now we're basically telling people to secure their life savings by piecing together advice from Twitter, podcasts, influencers, and hardware wallet marketing/funding. The Glacier Protocol was the last serious attempt at something like this that I know of. We need a modern Glacier Protocol 2.0. And if the Bitcoin industry can't even raise the money to build and maintain something like this, maybe we shouldn't be surprised when normal people decide a professional custodian is better at securing Bitcoin than they are. I would like self custody by individuals but it may just end up being bitcoin banks if we keep going like this.
+
+8h ago
+
+---
+
+**[Trezor's shipping provider, ShipMonk, data breach. Great, just what we need.](https://www.reddit.com/r/Bitcoin/comments/1vna0l9/trezors_shipping_provider_shipmonk_data_breach/)**
+
+We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
+
+🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 21h ago
 
 ---
 
@@ -123,29 +139,13 @@ Received this email
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-12h ago
-
----
-
-**[it‘s that time of the year again？](https://www.reddit.com/r/Bitcoin/comments/1vn6ohp/its_that_time_of_the_year_again/)**
-
-22h ago
-
----
-
-**[after DCA'ing, 15k imma get a Trezor](https://www.reddit.com/r/Bitcoin/comments/1vn90og/after_dcaing_15k_imma_get_a_trezor/)**
-
-after DCA'ing all my savings u guys told me to invest in a hardware wallet for only bitcoin, so I'm planning to buy a Trezor. or im going to get a ColdCard instead? looooooooooooool
-
-20h ago
-
----
-
-**[trezor breach explained for anyone still in coldcard hack ptsd mode](https://www.reddit.com/r/Bitcoin/comments/1vnkt5d/trezor_breach_explained_for_anyone_still_in/)**
-
-Makes sense people are jumpy right now due to the recent Coldcard hack literally two weeks before this. "Hardware wallet" + "breach" in the same headline twice in one month makes it feel like one big pattern, but they're not related incidents at all, so worth actually understanding what's actually going on instead of panicking right off the bat. It wasn't Trezor that got hacked, it was ShipMonk, the company that packs and ships their orders. About 13,700 customers who ordered between May and August had their name, email, phone, and home address exposed. A smaller group of about 1,900 had just name, city, and email leaked. Your device, your seed phrase, your firmware, none of that touched. Trezor says no device, private key or wallet backup was affected, and that its systems were not compromised. Nobody can get into your wallet from this. If you're on that list, someone now knows you own a hardware wallet and has your home address. That's still a bad thing btw. In no way am I downplaying that. But this is not the same thing as the coldcard hack or anything close to that. If you got the notification email from Trezor, you're affected. If you didn't, you're not. No reason to panic about the device itself either way
-
 13h ago
+
+---
+
+**[PSA](https://www.reddit.com/r/Bitcoin/comments/1vnc439/psa/)**
+
+19h ago
 
 ---
 
@@ -153,19 +153,19 @@ Makes sense people are jumpy right now due to the recent Coldcard hack literally
 
 ## Google News: "bitcoin"
 
-**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
-
-Real mining. Tiny footprint.
-
-Mashable • 6h ago
-
----
-
 **[Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests](https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests)**
 
 The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.
 
-CoinDesk • 15h ago
+coindesk.com • 16h ago
+
+---
+
+**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+
+Real mining. Tiny footprint.
+
+Mashable • 7h ago
 
 ---
 
@@ -173,7 +173,15 @@ CoinDesk • 15h ago
 
 Bitcoin's breakdowns are typically followed by surprise breakout rallies.
 
-Currently.com • 1h ago
+Currently.com • 2h ago
+
+---
+
+**[Bitcoin Price Risks Another Drop Below $63K as Futures Rally Lacks Spot Demand](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-risks-another-drop-083154040.html)**
+
+Bitcoin is hovering near $63,000, with CryptoQuant data showing spot demand weakening while futures demand remains positive. The gap raises the risk that recent BTC ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,7 +189,15 @@ Currently.com • 1h ago
 
 Bitcoin is doing what it always has done, according to market observers.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
+
+---
+
+**[‘They Won’t Stop Printing’—The Real $1.8 Trillion Reason Why The Fed Is Quietly Predicted To Trigger A 'Massive' Bitcoin Price Boom To Rival 2021](https://www.forbes.com/sites/digital-assets/2026/08/13/the-feds-bitcoin-nightmare-is-suddenly-coming-true/)**
+
+A sudden U.S. federal budget deficit surge has fed expectations that money printing is about to send the bitcoin price sharply higher...
+
+Forbes • 20h ago
 
 ---
 
@@ -193,25 +209,17 @@ CNBC • 2d ago
 
 ---
 
-**[‘They Won’t Stop Printing’—The Real $1.8 Trillion Reason Why The Fed Is Quietly Predicted To Trigger A 'Massive' Bitcoin Price Boom To Rival 2021](https://www.forbes.com/sites/digital-assets/2026/08/13/the-feds-bitcoin-nightmare-is-suddenly-coming-true/)**
+**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
 
-A sudden U.S. federal budget deficit surge has fed expectations that money printing is about to send the bitcoin price sharply higher...
+Public pressure mounts on data center buildouts in Alabama.
 
-Forbes • 19h ago
+Tom's Hardware • 23h ago
 
 ---
 
 **[Bitcoin pinned below $64k as soft inflation data provides little support](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758)**
 
-Investing.com • 17h ago
-
----
-
-**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
-
-Public pressure mounts on data center buildouts in Alabama.
-
-Tom's Hardware • 22h ago
+Investing.com • 19h ago
 
 ---
 
@@ -220,14 +228,6 @@ Tom's Hardware • 22h ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 1d ago
-
----
-
-**[Bitcoin continues ranging as crowded longs meet soft inflation, the quietest tape since 2019: analysts](https://www.theblock.co/news/markets/2026-08-13-bitcoin-continues-ranging-as-crowded-longs-meet-soft-inflation-the-quietest-tape-since-2019-analysts-411708)**
-
-Bitcoin flattened under $64,000 as flat July PPI and in-line CPI both failed to spark a rally, with Glassnode flagging absent buyers.
-
-The Block • 18h ago
 
 ---
 
@@ -247,13 +247,13 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 12h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 13h ago • [Second](https://second.tech/)
 
 ---
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 23h ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 1d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -285,7 +285,7 @@ Last week we released version 0.2 of pgrust. This release was all about performa
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 8h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 10h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -293,13 +293,13 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 Southern hospitality meets enterprise technology - secure, scalable cloud solutions with a personal touch.
 
-⬆️ 1 • 💬 0 • 21h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
+⬆️ 1 • 💬 0 • 22h ago • [carolinacloud.io](https://carolinacloud.io/#/nextflow)
 
 ---
 
 **[Why Gen Z is ditching traditional finance for crypto and social apps](https://news.ycombinator.com/item?id=49286722)**
 
-⬆️ 2 • 💬 0 • 18h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
+⬆️ 2 • 💬 0 • 19h ago • [thehill.com](https://thehill.com/blogs/in-the-know/6026306-generation-z-crypto-saving-401ks-tiktok-shop-little-treat-burrito/)
 
 ---
 
@@ -313,7 +313,7 @@ Southern hospitality meets enterprise technology - secure, scalable cloud soluti
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 94 • ⏱️ 9:13 • 9h ago
+👁️ 22K • 👍 1K • 💬 94 • ⏱️ 9:13 • 10h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 238 • ⏱️ 18:25 • 10h ago
+👁️ 21K • 👍 2K • 💬 237 • ⏱️ 18:25 • 12h ago
 
 ---
 
@@ -333,27 +333,17 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 114K • 👍 7K • 💬 400 • ⏱️ 21:29 • 1d ago
+👁️ 116K • 👍 7K • 💬 404 • ⏱️ 21:29 • 1d ago
 
 ---
 
-**[Bitcoin to Millions? The Ultimate Investment Argument!](https://www.youtube.com/watch?v=u9be7ce4jq8)**
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
 
-Rustin talks about Larry Fink's $14 Trillion Warning! Money Printer GOING SUPERSONIC? Brought to you by Bitcoinwell.com a ...
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
 
-📺 Simply Bitcoin
+📺 Dana Love, PhD
 
-👁️ 1K • 👍 29 • 💬 90 • ⏱️ 0:32 • 10h ago
-
----
-
-**[Crypto Live Trading: Bitcoin TA](https://www.youtube.com/watch?v=Z9gskOXkMD4)**
-
-Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading journey with Breakout ...
-
-📺 Sin City Crypto
-
-👁️ 5K • 👍 248 • ⏱️ 5:33:35 • 2h ago
+👁️ 22K • 👍 946 • 💬 380 • ⏱️ 18:10 • 16h ago
 
 ---
 
@@ -363,7 +353,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 141 • ⏱️ 18:46 • 1d ago
+👁️ 33K • 👍 3K • 💬 142 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -373,27 +363,17 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 11K • 👍 498 • 💬 69 • ⏱️ 1:11:42 • 19h ago
+👁️ 12K • 👍 532 • 💬 67 • ⏱️ 1:11:42 • 20h ago
 
 ---
 
-**[CAUTION: Bitcoin Bulls Are Hanging On By A Knifes Edge! [Next Move’s Here?]](https://www.youtube.com/watch?v=nl96Hi9rWnM)**
+**[Bitcoin to Millions? The Ultimate Investment Argument!](https://www.youtube.com/watch?v=u9be7ce4jq8)**
 
-Bitcoin is pressing against a critical market structure level and bulls are barely holding the line. In today's live analysis, Kyle Doops ...
+Rustin talks about Larry Fink's $14 Trillion Warning! Money Printer GOING SUPERSONIC? Brought to you by Bitcoinwell.com a ...
 
-📺 Crypto Banter
+📺 Simply Bitcoin
 
-👁️ 962 • 👍 131 • 3h ago
-
----
-
-**[The Greatest Bitcoin Explanation of ALL TIME (in Under 10 Minutes)](https://www.youtube.com/watch?v=5JDrK7sP3gA)**
-
-What is bitcoin? Explain ethereum like i'm five? Let's discuss the latest cryptocurrency news for bitcoin, ethereum, altcoins, ...
-
-📺 Altcoin Daily
-
-👁️ 3.4M • 👍 75K • 💬 644 • ⏱️ 9:54 • 35mo ago
+👁️ 1K • 👍 32 • 💬 86 • ⏱️ 0:32 • 12h ago
 
 ---
 
@@ -403,7 +383,27 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 277 • 💬 82 • ⏱️ 14:52 • 16h ago
+👁️ 6K • 👍 285 • 💬 81 • ⏱️ 14:52 • 17h ago
+
+---
+
+**[OMG... Did Anthropic Just Kill Bitcoin?](https://www.youtube.com/watch?v=0GwW7IwnAfA)**
+
+Crypto Holder - Big news for Bitcoin, Solana & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 113 • ⏱️ 11:09 • 2d ago
+
+---
+
+**[Bitcoin: Why This NBA Champion Buys Every Single Day](https://www.youtube.com/watch?v=KgbU4zwlCKE)**
+
+Tristan Thompson is an NBA champion with the Cleveland Cavaliers who's become a hands-on tech investor and operator. In this ...
+
+📺 Anthony Pompliano
+
+👁️ 34K • 👍 913 • 💬 38 • ⏱️ 24:08 • 2d ago
 
 ---
 
