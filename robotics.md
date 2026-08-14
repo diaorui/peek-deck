@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-13T23:41:07.669532+00:00'
+updated: '2026-08-14T01:58:15.125512+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 13, 2026 at 23:41 UTC  
+**Last Updated:** August 14, 2026 at 01:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[A robot claw to spin a globe on my desk](https://www.reddit.com/r/robotics/comments/1vn4psz/a_robot_claw_to_spin_a_globe_on_my_desk/)**
+**[Revamp & Retry](https://www.reddit.com/r/robotics/comments/1vnlzp7/revamp_retry/)**
 
-I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to make my own. Here it’s running in standalone mode using an Arduino, 12 Dynamixel XL430s and 4 potentiometers to control the globe’s speed/direction, height, width, and depth of each offset step. I’ve done more movements using a Python based GUI on my laptop but that requires a usb connection. Full video on my build with links to STLs, code and parts list here: https://youtu.be/pEU04FVNeZw Next project is a Leaper from Arc Raiders. Just need to figure out how to trigger a rocket to make a robot spider jump.
+​ 🎉拔蘑菇验证通过，但离“实战”还差一截。 下一版直接上狭窄空间模拟——相机怼近了有盲区，所以末端执行器改方案：从底下横着“抄”菌柄，夹得稳还不伤菇。 小伙伴有没有更骚的操作？欢迎砸我脑洞，在线等！🍄🔧 ✅ Mushroom-pulling works—now time for the real squeeze. Next up: tight spaces, closer camera (blind spots, ugh), so we’re redesigning the end-effector to slide in sideways from below and grip the stipe—no more crushed caps. Any brighter ideas? Throw ’em at me! 🍄🤖
 
-15h ago
+5h ago
+
+---
+
+**[Avancée](https://www.reddit.com/r/robotics/comments/1vninq2/avancée/)**
+
+7h ago
 
 ---
 
@@ -44,15 +50,51 @@ I was obsessed when I first saw Mark Setrakian’s claw robot so I decided to ma
 
 (Note: Every component is made from scratch in Fusion). I originally planned to add a lightweight robot arm at the top center of the robot, after the calculations... (Inspiration comes from MakeYourPets)
 
-18h ago
+20h ago
 
 ---
 
-**[Building a 5-digit Recognition System on ESP32-S3](https://www.reddit.com/r/robotics/comments/1vn5cml/building_a_5digit_recognition_system_on_esp32s3/)**
+**[Robotic Actuator Comparison Almanac](https://www.reddit.com/r/robotics/comments/1vnjby8/robotic_actuator_comparison_almanac/)**
 
-I've been experimenting with running a complete digit recognition system directly on an ESP32-S3 using TensorFlow Lite Micro. The goal was to recognize 5-digit readings (such as meter displays) completely on-device without relying on a PC or cloud inference. The hardware I used was an ESP32-S3 development board with an onboard camera and AMOLED display (Makerfabs MaTouch ESP32-S3 AI Camera), but the workflow should apply to similar ESP32-S3 camera boards. How it works: Data Collection: Flashed a utility firmware to capture camera frames aligned via an on-screen yellow bounding box, outputting labeled image pairs and a label.csv. Model Training & INT8 Quantization: Trained a lightweight CNN model and quantized it to INT8 to run within the ESP32-S3's memory limits. On-Device Inference: Compiled the quantized model directly into the ESP-IDF binary and deployed it back to the board. The result is surprisingly reliable—it reads all 5 digits cleanly in real time. Hardware & Tech Stack: Board: Makerfabs MaTouch ESP32-S3 AMOLED AI Camera Framework: ESP-IDF + TensorFlow Lite Micro Tooling: Custom Python tools for capture & quantization I put together a detailed write-up covering the complete workflow on GitHub, in case anyone wants to reproduce or adapt it for a similar project. I'd also love to hear how others approach digit recognition with TensorFlow Lite Micro. Have you found any effective ways to improve accuracy or speed up the data collection process?
+Spec the right actuator without clicking through 20 Chinese websites. This is V1 - what else would make this more useful? Other brands or specs you'd add? https://pendulumrobotics.com/pages/robotic-actuators
 
-14h ago
+7h ago
+
+---
+
+**[I added remote motor, camera, and skills control to AgenticROS for controlling ROS robots remotely!](https://www.reddit.com/r/robotics/comments/1vnhqas/i_added_remote_motor_camera_and_skills_control_to/)**
+
+8h ago
+
+---
+
+**[AcadosCpp: plug-and-play integration of acados NMPC controllers into C++ robotics applications](https://www.reddit.com/r/robotics/comments/1vnjscg/acadoscpp_plugandplay_integration_of_acados_nmpc/)**
+
+Hi everyone, I’ve been developing a project called AcadosCpp. https://github.com/amaldevh/AcadosCpp acados is excellent for generating fast C code for nonlinear MPC. However, bringing that generated API into a bigger robotics codebase often means writing model-specific code to connect everything. If you change the robot model or OCP, you usually have to update solver symbols, dimensions, lifecycle management, references, parameters, and warm-start logic. AcadosCpp gives you a unified C++ and Python interface for the generated solver. The idea is to keep your workflow simple: if you change the model or control problem, just regenerate, recompile, and keep using the same controller interface. Here’s what a typical control loop looks like: while (running) { const auto& u = controller.solve(measured_state, state_refs, input_refs); robot.apply(u); } The wrapper takes care of: Applying the measurement only at stage 0 Updating the complete reference horizon Separate running and terminal references Time-varying model parameters Shifted warm starts from the previous solution Predicted state and control trajectories Solver timing and convergence diagnostics Split SQP-RTI preparation and feedback Python bindings for prototyping You’ll find a 13-state quadrotor example in the repository, available in both C++ and Python. I’d love to know what other models, middleware integrations, or real-robot examples would help make this tool more useful for your projects.
+
+7h ago
+
+---
+
+**[A 4-servo quadruped that reconfigures into 5 different locomotion modes (biped, tricycle, bar-spin, 4WD, water-paddle)](https://www.reddit.com/r/robotics/comments/1vns8sf/a_4servo_quadruped_that_reconfigures_into_5/)**
+
+Been testing how much mechanical diversity I can get out of Quaddle robot by changing the attachment instead of adding more actuators. Same 4 servos and the same OpenCat firmware the whole time — what changes is the attachment (3D-printed, mostly) and which gait is loaded for it: - Biped: printed base clips on, switches to two-legged walking - Tricycle: printed wheel mount + a bearing wheel, front legs go passive and drag - Bar-spin: printed grippers clip onto a bar, full 360° rotation gait - 4WD: wheel kit replaces all 4 legs, standard car driving - Water-paddle: printed footpads, paddling gait (works, though we've sunk it twice) This is pre-release — not in production yet, but I wanted to share this fun experiment since keeping the servo count fixed while switching locomotion modes was a fun constraint to design around. The gait codes and the 3D-printed parts will be open sourced. Happy to go into Quaddle's gait/kinematics details in the comments if anyone's curious.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=YfREsyasRe8) • 1h ago
+
+---
+
+**[AUXON: A First Look](https://www.reddit.com/r/robotics/comments/1vn96n6/auxon_a_first_look/)**
+
+It is an absolute pleasure to present after 18 months, a working version of AUXON v2! AUXON is an ultrasonic communications system which transmits data through frequencies way above the human range of hearing. Today I successfully transmitted and reconstructed a full passage of text. I initially sent in a simple repeating binary sequence, to test the BFSK(the way the system recognises frequencies and recovers bits post-transmission). Then, of course I had too, I transmitted the string "Hello World" and success again. I decided to ramp it up and transmit a longer passage - a far cry from the initial repeating sequence. Absolutely flawless at approximately 1kb/s. As you can understand, this was absolutely surreal seeing results after the better part of two years of learning the skills, design and development all amongst other work.
+
+13h ago
+
+---
+
+**[[Project] ROS2 full conversion of the freenove big hexapod kit (open source)](https://www.reddit.com/r/robotics/comments/1vnovff/project_ros2_full_conversion_of_the_freenove_big/)**
+
+3h ago
 
 ---
 
@@ -60,55 +102,7 @@ I've been experimenting with running a complete digit recognition system directl
 
 This week a student came by and tried our teaching arms, both hands on two of them, teleoperating our control arms. First try, the arms folded the towel. That's exactly why we still keep teleoperation around. You don't write a line of code. You just move. The teaching arms are linked to the control arms, so your motion gets copied onto them in real time. Which means someone with zero experience can do the kind of thing that would otherwise take ages to hand-program. Watching him work, two things hit me. One: this is still the fastest way we have to pull real manipulation data. Fabric is the hardest to deal with. No fixed grasp point, and it keeps sliding off to the side. A human hand just knows how to teach it the right move. Two: it's a straight check on whether the motion actually holds up. If a person can't move the arm cleanly themselves, all the algorithm and programming in the world probably won't fix it. That's why the towel became our test. Soft. Slippery. Never the same twice. And honestly, if you want a robot to fold a towel, the fastest way I know is still a human on the teaching arms. The models haven't beaten that trick yet.
 
-15h ago
-
----
-
-**[SLAM Camera Board + Obstacle Mapping](https://www.reddit.com/r/robotics/comments/1vmfavq/slam_camera_board_obstacle_mapping/)**
-
-This is yet another update from my project. Mighty Camera runs VIO on-device realtime in a tiny package. This gives us accurate camera motion. Using that + the camera feed, the SDK estimates depth and builds a 3D map of obstacles around it. This means a robot or drone can use Mighty for things like: - Collision avoidance - Motion planning - Autonomous navigation No stereo camera or depth sensor needed. Just Mighty’s global shutter camera + IMU.
-
-1d ago
-
----
-
-**[Looking for study partners — robotics software engineering (ROS2, C++, SLAM)](https://www.reddit.com/r/robotics/comments/1vmd52w/looking_for_study_partners_robotics_software/)**
-
-Recent CS/BCA grad here, actively job hunting for robotics SWE roles. Been building a TurtleBot + ROS2 Humble project (Docker, React dashboard, Nav2, Gazebo sim) and want to go deeper on C++, Linux, and SLAM with people who are serious about it. Thinking a small group (Discord/weekly calls) where we: Work through ROS2 concepts and share resources Review each other's projects/code Mock interview each other for robotics SWE roles Keep each other accountable If you're learning robotics software (student, self-taught, or between jobs), drop a comment or DM. Open to remote/India-based folks especially, but anyone's welcome.
-
-1d ago
-
----
-
-**[I built a local web app for curating SO-101 datasets across v2.1, v3.1, framerates, and camera setups](https://www.reddit.com/r/robotics/comments/1vn3y5a/i_built_a_local_web_app_for_curating_so101/)**
-
-I've been training Lingbot-va and Dreamzero lately. For anyone who doesn't know, those need a lot of diverse data, both in terms of environment and play data. That pushed me toward the huge pool of SO-101 datasets that already exist for VLA and ACT training. The problem is those datasets are a mess to combine. Most of them are repetitive, and the task descriptions are generic. They sit on different versions, v2.1 or v3.1. Different framerates, different quality, different camera angles. And at the end you still have to balance the whole thing before it's usable. So I built Dataset Assembly Studio, a local web app that runs over a folder of LeRobot datasets and takes them to a verified v2.1 export. The flow is a set of tabs. Sources, output contract, camera mapping, joint mapping, episodes, tasks, balance, preflight, export. It validates every source before it can be used. Invalid parquet, missing metadata, single-camera recordings, and episodes under two seconds get rejected up front. Camera views can be previewed before mapping, one to wrist and one to a second canonical camera. The six SO-101 joints for both action and observation.state are mapped automatically, with manual correction when a source uses another order. Curation works one dataset at a time. You stage episodes with gallery checkboxes, load all camera views for a focused episode, edit final prompts, and save approved checkpoints. Source files are never modified, all state lives under .dataset_studio/. Global balance groups tasks by a local embedding and caps the episode count per task group. Then a blocking preflight checks camera, joint, schema, media, duration, prompt, destination, and checkpoint compatibility before export. The export runs in the background, rebuilds indices, and writes normalized v2.1 data with exactly two camera streams. A .tar.gz is only prepared if you ask for it. Everything runs locally, no auth, no cloud. A Groq API key is optional just for naming task groups, everything else works without it. Repo: github.com/mekala-2405/dataset-assembly-studio Static demo : https://projects.mharsh.me/data_assembly_studio check out my portfolio and other projects : mharsh.me Walkthrough : https://www.youtube.com/watch?v=bJFGVuzufwQ If you've been through the same dataset grind, I'd love to hear how you handle it and some feedback . The attached video might sound like AI-Slop please bear with it .
-
-16h ago
-
----
-
-**[Why Real-World Movement Is So Hard for Exoskeletons](https://www.reddit.com/r/robotics/comments/1vmhsz8/why_realworld_movement_is_so_hard_for_exoskeletons/)**
-
-Exoskeletons can handle predictable movements pretty well. Everyday movement is a lot messier. Kathryn Zealand of Skip explains why something as simple as bending down can create a control problem, and how the company is using machine learning to better understand what a person is actually trying to do. Full ep: https://www.youtube.com/watch?v=jDR8xeU-GFQ
-
-1d ago
-
----
-
-**[Has anyone deployed VLA-based robots in production?](https://www.reddit.com/r/robotics/comments/1vmeaqq/has_anyone_deployed_vlabased_robots_in_production/)**
-
-There's of course a lot of hype around the new robot foundation models, but seems that there are not many real deployments. Has anyone tried making this things work in production? Which tasks did you try? Did you have to end up collecting a lot of data to fine tune the model?
-
-1d ago
-
----
-
-**[I built a Raspberry Pi and ESP32-based USV — first system integration and field test](https://www.reddit.com/r/robotics/comments/1vmekgh/i_built_a_raspberry_pi_and_esp32based_usv_first/)**
-
-Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-USV, and I recently completed its first system integration and field test. The hull was designed in FreeCAD and 3D-printed in PETG. The onboard system uses a Raspberry Pi 5 for navigation, sensor processing, data logging, and mission-level control, while an ESP32-S3 handles real-time thruster control and safety-related functions. The vehicle uses two independently controlled thrusters and steers through differential thrust. It collects navigation data from GPS, IMU, and magnetometer sensors. Waypoint-based autonomous navigation is planned for the next stage of development. The main goals of this first field test were to evaluate: Hull buoyancy and stability Manual RC control and steering response Communication between the Raspberry Pi and ESP32 Navigation sensor data collection Power, vibration, and other system issues under real operating conditions This was not yet a polished autonomous-navigation demonstration. It was an early system integration test conducted before implementing and validating waypoint navigation. The vehicle also behaved quite differently on the water than I had expected from indoor testing. However, the test provided useful data and revealed several areas that need improvement, particularly sensor calibration, heading estimation, control response, and the onboard electronics. I put together a video showing both the development process and the vehicle’s first field test: https://youtu.be/Lz2eOEANyZo I’m now developing a more modular second version of the platform, together with improved navigation and waypoint control. The long-term goal is to develop BN-USV into a practical modular platform for marine research, education, environmental monitoring, and autonomous-navigation experiments. Full disclosure: I’m developing BN-USV as part of BrillNova, with the long-term goal of turning it into a commercial modular hardware platform. The software and development process will remain open and publicly documented. I’d be very interested to hear feedback, especially from anyone who has worked with small USVs, autonomous boats, marine robotics, sensor fusion, or differential-thrust control. Thanks!
-
-1d ago
+17h ago
 
 ---
 
@@ -118,7 +112,7 @@ Hi everyone, I’ve been developing a small unmanned surface vehicle called BN-U
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 14h ago
+The New York Times • 16h ago
 
 ---
 
@@ -172,7 +166,15 @@ TribLIVE.com • 1d ago
 
 Utah State University is expanding access to robotics and automation education through a new degree program aimed at turning hands-on experience and training into college credits.
 
-KSL.com • 2d ago
+KSL News • 2d ago
+
+---
+
+**[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
+
+A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
+
+Live Science • 9h ago
 
 ---
 
@@ -180,15 +182,7 @@ KSL.com • 2d ago
 
 China’s BioflexBot uses a spring and two pneumatic inputs to pinch, rotate, hook and grasp while outperforming human hands in key motions.
 
-Interesting Engineering • 13h ago
-
----
-
-**[Humanoid robots are coming to US auto factories, but can they boost productivity?](https://www.businessreport.com/article/humanoid-robots-are-coming-to-us-auto-factories-but-can-they-boost-productivity)**
-
-Automakers are increasingly investing in humanoid robots as a potential next stage of factory automation, with BMW, Hyundai, Mercedes-Benz and Tesla among the companies testing or developing the technology, The New York Times reports.   Unlike traditional industrial robots that are typically fixed in place and built for specific tasks, humanoids are designed to move through […]
-
-Baton Rouge Business Report • 2d ago
+Interesting Engineering • 16h ago
 
 ---
 
@@ -202,7 +196,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 886K • 👍 21K • 💬 2K • ⏱️ 7:02 • 2d ago
+👁️ 891K • 👍 21K • 💬 2K • ⏱️ 7:02 • 2d ago
 
 ---
 
@@ -212,25 +206,7 @@ On Thursday, Gov. Andy Beshear (D-KY) held a press conference on the Kentucky st
 
 📺 Forbes Breaking News
 
-👁️ 829 • 👍 16 • 💬 24 • ⏱️ 40:15 • 4h ago
-
----
-
-**[Robot Teachers are Canceled.](https://www.youtube.com/watch?v=eTCfPsC1yN4)**
-
-📺 Ben Esherick
-
-👁️ 642K • 👍 30K • 💬 786 • ⏱️ 0:35 • 6d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 38K • 👍 534 • 💬 107 • ⏱️ 7:05 • 2d ago
+👁️ 1K • 👍 16 • 💬 25 • ⏱️ 40:15 • 6h ago
 
 ---
 
@@ -244,13 +220,13 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 ---
 
-**[Satyress Threehalves Is the Most Terrifying Robot Yet #Robotics #AI #Tech](https://www.youtube.com/watch?v=LLuFDQV7Js0)**
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
 
-The Satyress Threehalves robot looks absolutely terrifying. This seven-foot-tall centaur robot has four legs, a humanoid body, and ...
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
 
-📺 Custom Adventurist
+📺 Fox Business Clips
 
-👁️ 52K • 👍 3K • 💬 220 • ⏱️ 1:02 • 6d ago
+👁️ 39K • 👍 535 • 💬 107 • ⏱️ 7:05 • 2d ago
 
 ---
 
@@ -260,7 +236,15 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 36K • 👍 421 • 💬 109 • ⏱️ 3:48 • 2d ago
+👁️ 36K • 👍 422 • 💬 110 • ⏱️ 3:48 • 2d ago
+
+---
+
+**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
+
+📺 Tyrecordslol
+
+👁️ 3.6M • 👍 141K • 💬 9K • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -274,21 +258,33 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 ---
 
-**[So Nosey The Robot Has A New Enemy](https://www.youtube.com/watch?v=nF2YCyuwABE)**
-
-📺 Tyrecordslol
-
-👁️ 3.6M • 👍 141K • 💬 9K • ⏱️ 0:58 • 6d ago
-
----
-
 **[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
 
 This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
 
 📺 Cleo Abram
 
-👁️ 1.1M • 👍 56K • 💬 712 • ⏱️ 0:32 • 2d ago
+👁️ 1.1M • 👍 57K • 💬 716 • ⏱️ 0:32 • 2d ago
+
+---
+
+**[Robotics Is The Next Big Investment Wave.  I Study  The &quot;Picks And Shovels&quot;, (The Compnent Makers).](https://www.youtube.com/watch?v=GNXsEwob46s)**
+
+The stocks mentioned are shown in this video and are contained in the first comment below. Nothing in this video is advice or a ...
+
+📺 Clive Thompson
+
+👁️ 15K • 👍 1K • 💬 237 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
+
+In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
+
+📺 freeCodeCamp.org
+
+👁️ 32K • 👍 1K • 💬 42 • ⏱️ 6:49:12 • 2d ago
 
 ---
 

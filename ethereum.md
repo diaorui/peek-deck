@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-13T23:41:07.666257+00:00'
+updated: '2026-08-14T01:58:15.122574+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 13, 2026 at 23:41 UTC  
+**Last Updated:** August 14, 2026 at 01:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,887.15
+### $1,885.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.4%  
 **7d:** -1.5%  
-**30d:** -1.7%  
-**90d:** -13.5%  
-**1y:** -58.5%  
+**30d:** +1.4%  
+**90d:** -11.3%  
+**1y:** -57.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.49B
+**Market Cap:** $227.67B
 Rank #2
 
-**Circulating Supply:** 120,681,993 ETH
+**Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -61.9%
 
 **All-Time Low:** $0.43
-+435260.6%
++435627.8%
 
 ---
 
@@ -160,15 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
 
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -184,13 +180,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 9h ago
+Fortune • 9h ago
 
 ---
 
@@ -198,7 +188,13 @@ CCN.com • 9h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 7h ago
+CryptoSlate • 9h ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+
+CCN.com • 12h ago
 
 ---
 
@@ -206,15 +202,7 @@ CryptoSlate • 7h ago
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
 
-coinpedia.org • 9h ago
-
----
-
-**[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
-
-Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
-
-blockchain.news • 8h ago
+Coinpedia • 1d ago
 
 ---
 
@@ -222,7 +210,15 @@ blockchain.news • 8h ago
 
 The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 10h ago
+
+---
+
+**[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
+
+Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
+
+blockchain.news • 10h ago
 
 ---
 
@@ -244,7 +240,7 @@ Benzinga • 2d ago
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 9:22 • 1d ago
+👁️ 31K • 👍 2K • 💬 141 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -254,27 +250,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 2K • 👍 167 • 💬 94 • ⏱️ 18:22 • 5h ago
-
----
-
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 10K • 👍 1K • 💬 371 • ⏱️ 12:21 • 12h ago
-
----
-
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 341 • 💬 194 • ⏱️ 11:59 • 1d ago
+👁️ 3K • 👍 189 • 💬 108 • ⏱️ 18:22 • 7h ago
 
 ---
 
@@ -284,7 +260,37 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 504 • 💬 211 • ⏱️ 19:05 • 2d ago
+👁️ 8K • 👍 507 • 💬 216 • ⏱️ 19:05 • 2d ago
+
+---
+
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 11K • 👍 1K • 💬 393 • ⏱️ 12:21 • 14h ago
+
+---
+
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 341 • 💬 190 • ⏱️ 11:59 • 1d ago
+
+---
+
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+
+📺 AllinCrypto
+
+👁️ 9K • 👍 541 • 💬 174 • ⏱️ 13:27 • 1d ago
 
 ---
 
@@ -298,16 +304,6 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 ---
 
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
-
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
-
-📺 AllinCrypto
-
-👁️ 9K • 👍 539 • 💬 163 • ⏱️ 13:27 • 1d ago
-
----
-
 **[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
 
 Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
@@ -318,16 +314,6 @@ Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me 
 
 ---
 
-**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
-
-Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
-
-📺 The Crypto Code
-
-👁️ 36 • 👍 1 • ⏱️ 0:47 • 5h ago
-
----
-
 **[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
 
 Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
@@ -335,6 +321,16 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 📺 More Crypto Online
 
 👁️ 4K • 👍 199 • 💬 12 • ⏱️ 7:07 • 1d ago
+
+---
+
+**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
+
+Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
+
+📺 The Crypto Code
+
+👁️ 42 • 👍 1 • ⏱️ 0:47 • 7h ago
 
 ---
 
