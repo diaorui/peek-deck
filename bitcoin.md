@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T12:08:13.924556+00:00'
+updated: '2026-08-14T13:53:26.891040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 12:08 UTC  
+**Last Updated:** August 14, 2026 at 13:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,867.21
+### $62,648.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -3.3%  
-**30d:** -1.5%  
-**90d:** -18.8%  
-**1y:** -46.4%  
+**24h:** -1.9%  
+**7d:** -3.6%  
+**30d:** -1.8%  
+**90d:** -19.1%  
+**1y:** -46.6%  
 
 ---
 
@@ -81,13 +81,27 @@ Rank #1
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-7h ago
+9h ago
 
 ---
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-14h ago
+16h ago
+
+---
+
+**[Where did my funds go?](https://www.reddit.com/r/Bitcoin/comments/1vo49a4/where_did_my_funds_go/)**
+
+I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
+
+2h ago
+
+---
+
+**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+
+50m ago
 
 ---
 
@@ -99,9 +113,11 @@ The title says it all
 
 ---
 
-**[The El Salvador Government now holds 7.243K Bitcoin (317.309K less Bitcoin than the US government who holds 324.552K Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1vo1ujn/the_el_salvador_government_now_holds_7243k/)**
+**[The DIY Signing Device Revolution](https://www.reddit.com/r/Bitcoin/comments/1vo2mdu/the_diy_signing_device_revolution/)**
 
-3h ago
+Many projects, one team
+
+🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 4h ago
 
 ---
 
@@ -109,15 +125,7 @@ The title says it all
 
 Macro environment is complete shit and nothing makes sense at this point. But August and Sept will be great DCAs.
 
-8h ago
-
----
-
-**[The DIY Signing Device Revolution](https://www.reddit.com/r/Bitcoin/comments/1vo2mdu/the_diy_signing_device_revolution/)**
-
-Many projects, one team
-
-🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 2h ago
+10h ago
 
 ---
 
@@ -125,7 +133,7 @@ Many projects, one team
 
 We're constantly telling people to take their Bitcoin off exchanges, but we still don't really have a serious, broadly accepted security standard for how normal people should actually do it. For years the advice was basically: buy a good hardware wallet like a Coldcard, and look at what's happening now. Now the advice is becoming: roll your own dice, use multivendor multisig, pick an M-of-N setup, figure out backups, geographic distribution, passphrases, recovery, inheritance, etc. At some point this gets ridiculous. Regular people should not be expected to design their own security architecture. We need a well-funded, open-source standard that's maintained and reviewed by actual security experts. It should have clear risk models, explain the tradeoffs, and give people sensible setups based on their situation. Right now we're basically telling people to secure their life savings by piecing together advice from Twitter, podcasts, influencers, and hardware wallet marketing/funding. The Glacier Protocol was the last serious attempt at something like this that I know of. We need a modern Glacier Protocol 2.0. And if the Bitcoin industry can't even raise the money to build and maintain something like this, maybe we shouldn't be surprised when normal people decide a professional custodian is better at securing Bitcoin than they are. I would like self custody by individuals but it may just end up being bitcoin banks if we keep going like this.
 
-10h ago
+12h ago
 
 ---
 
@@ -133,7 +141,7 @@ We're constantly telling people to take their Bitcoin off exchanges, but we stil
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-16h ago
+17h ago
 
 ---
 
@@ -141,13 +149,7 @@ Bitcoin has gone unusually quiet. According to this analysis, 90-day realised vo
 
 We’re emailing you because you received a Trezor order from either the US, UK, Sweden, Colombia, Brazil, Italy, or Portugal within the 90 days prior to August 8th, 2026, and your personal data was unfortunately exposed in a recent security incident involving our shipping provider, ShipMonk. On Monday, August 10, one of our shipping providers, ShipMonk, informed us of unauthorized access to their systems containing customer data. This occurred due to a data breach. Investigation is ongoing. We’re extremely sorry to inform you that your full name, order number, shipping address, phone number, and email address were exposed during this breach. Trezor systems were not compromised, and your device is secure, but you might receive sophisticated phishing attempts involving your personal information. Edit #1: A tiny silver lining if the Trezor rep /u/SuchTrezorVeryCrypto could clarify this: https://www.reddit.com/r/TREZOR/comments/1vna9l0/comment/p3g8vge/
 
-🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 23h ago
-
----
-
-**[Fiat is debt slavery](https://www.reddit.com/r/Bitcoin/comments/1vnlcfg/fiat_is_debt_slavery/)**
-
-16h ago
+🔗 [trezor.io](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident) • 1d ago
 
 ---
 
@@ -155,65 +157,71 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 ## Google News: "bitcoin"
 
+**[XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)**
+
+Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
+
+CoinDesk • 6h ago
+
+---
+
 **[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
 
 Real mining. Tiny footprint.
 
-Mashable • 9h ago
+Mashable • 15h ago
 
 ---
 
-**[Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests](https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests)**
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
-The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-CoinDesk • 18h ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[Current price of Bitcoin for Aug 14, 2026](https://fortune.com/article/price-of-bitcoin-08-14-2026/)**
+**[Bitcoin traders bet on a tight range as $65,000 stays in reach but breakouts fade](https://uk.finance.yahoo.com/news/bitcoin-traders-bet-tight-range-123100925.html)**
+
+Bitcoin speculators are positioning for a cramped, choppy August, with prediction market Polymarket pricing a strong chance of a move to $65,000 but almost no prospect of a fresh record. The "What price will Bitcoin hit in August?" market gives the cryptocurrency roughly a 59% chance of...
+
+Yahoo Finance UK • 1h ago
+
+---
+
+**[The Major Bitcoin Warning Hidden In Trump Media’s Earnings](https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/)**
+
+The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
+
+Forbes • 20h ago
+
+---
+
+**[Bitcoin (BTC), ether (ETH) prices hold steady while XMR, HYPE outperform](https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform)**
+
+Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI print.
+
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin slides below $63k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
+
+Investing.com • 7h ago
+
+---
+
+**[Bitcoin Drifts Lower After Muted Reaction to U.S. Data](https://www.barrons.com/livecoverage/stock-market-news-today-0814/card/bitcoin-drifts-lower-after-muted-reaction-to-u-s-data-XwQUo3NO4psxnT2xPJ6q?mod=bar_RHF)**
+
+Barron's • 3h ago
+
+---
+
+**[Current price of Bitcoin for August 14, 2026](https://fortune.com/article/price-of-bitcoin-08-14-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 1h ago
-
----
-
-**[Google Gemini AI Predicts Bitcoin Price by the End of 2026](https://finance.yahoo.com/markets/crypto/articles/google-gemini-ai-predicts-bitcoin-093436176.html)**
-
-An accounting rule change might be the most underrated catalyst on this list. Google Gemini AI predicts it will help carry Bitcoin to $85,000 to $105,000 by the end of 2026, and the price prediction settles on a $92,000 base case, with $95,000 as the most likely outcome.Corporate accumulation sits ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Live updates: Bitcoin slips below $63,000 as oil, yields climb](https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb)**
-
-WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin's Bear Cycle Looks Familiar — And That Might Be The Bullish Case](https://bitcoinmagazine.com/news/bitcoin-bear-cycle-looks-looks-bullish)**
-
-Bitcoin is doing what it always has done, according to market observers.
-
-Bitcoin Magazine • 14h ago
-
----
-
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://www.fool.com/investing/2026/08/14/michael-saylors-strategy-is-selling-bitcoin-again/)**
-
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin falls to $63.3k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
-
-Investing.com • 5h ago
+Fortune • 3h ago
 
 ---
 
@@ -222,14 +230,6 @@ Investing.com • 5h ago
 Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
 
 CNBC • 2d ago
-
----
-
-**[It’s Going ‘Significantly Higher’—BlackRock Just Quietly Called The Bitcoin Price Bottom](https://www.forbes.com/sites/digital-assets/2026/08/11/its-going-significantly-higher-blackrock-just-quietly-called-the-bitcoin-price-bottom/)**
-
-BlackRock has revealed it's seen a flip in sentiment, forecasting the bitcoin price is heading “significantly higher"...
-
-Forbes • 3d ago
 
 ---
 
@@ -249,7 +249,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 15h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 17h ago • [Second](https://second.tech/)
 
 ---
 
@@ -285,7 +285,7 @@ Solo Bitcoin lottery mining with 2013 USB ASIC sticks, your CPU, or any phone br
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 92 • ⏱️ 9:13 • 13h ago
+👁️ 24K • 👍 1K • 💬 92 • ⏱️ 9:13 • 14h ago
 
 ---
 
@@ -295,7 +295,7 @@ The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of 
 
 📺 Dana Love, PhD
 
-👁️ 23K • 👍 979 • 💬 406 • ⏱️ 18:10 • 18h ago
+👁️ 23K • 👍 979 • 💬 406 • ⏱️ 18:10 • 20h ago
 
 ---
 
@@ -305,7 +305,7 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 295 • 💬 81 • ⏱️ 14:52 • 19h ago
+👁️ 6K • 👍 295 • 💬 81 • ⏱️ 14:52 • 21h ago
 
 ---
 
@@ -325,7 +325,7 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 13K • 👍 564 • 💬 66 • ⏱️ 1:11:42 • 22h ago
+👁️ 13K • 👍 564 • 💬 66 • ⏱️ 1:11:42 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 236 • ⏱️ 18:25 • 14h ago
+👁️ 23K • 👍 2K • 💬 236 • ⏱️ 18:25 • 15h ago
 
 ---
 
@@ -355,7 +355,7 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 Sin City Crypto
 
-👁️ 5K • 👍 251 • ⏱️ 5:33:35 • 6h ago
+👁️ 5K • 👍 251 • ⏱️ 5:33:35 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Swan CEO Cory Klippsten breaks down where Bitcoin may be in the current bear mar
 
 📺 Cointelegraph
 
-👁️ 2K • 👍 62 • 💬 96 • ⏱️ 17:13 • 22h ago
+👁️ 2K • 👍 62 • 💬 96 • ⏱️ 17:13 • 23h ago
 
 ---
 

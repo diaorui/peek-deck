@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T12:08:13.929935+00:00'
+updated: '2026-08-14T13:53:26.896406+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 12:08 UTC  
+**Last Updated:** August 14, 2026 at 13:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.2%  
-**30d:** +0.6%  
-**90d:** -12.0%  
-**1y:** -57.8%  
+**24h:** -1.4%  
+**7d:** -2.6%  
+**30d:** +0.1%  
+**90d:** -12.4%  
+**1y:** -58.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-1h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Heya folks, interested if there's anyone here that's still actively using Maker 
 
 Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
 
-22h ago
+1d ago
 
 ---
 
@@ -152,27 +152,43 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 ## Google News: "ethereum"
 
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+
+finance.yahoo.com • 2d ago
+
+---
+
+**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
+
+---
+
 **[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/down-62-highs-ethereum-buy-105300199.html)**
 
 There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-Yahoo Finance • 1h ago
+finance.yahoo.com • 3h ago
 
 ---
 
-**[Current price of Ethereum for Aug. 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Fortune • 1h ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
+**[Bitcoin, Ethereum, XRP or Solana: Which ETF will grow the most in 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-solana-etf-110021831.html)**
 
-Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
+Bitcoin ETFs command nearly $52 billion in cumulative inflows, yet two smaller rivals have quietly outpaced it in percentage growth this year. With the CLARITY Act vote looming and a major Solana upgrade on the horizon, the race for top-performing crypto ETF of 2026 is far from settled.
 
-Benzinga • 10h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -184,11 +200,19 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
+
+Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
+
+Benzinga • 11h ago
+
+---
+
 **[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 19h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -205,30 +229,6 @@ Decrypt • 1d ago
 The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
 
 FXStreet • 1d ago
-
----
-
-**[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
-
-Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
-
-Coinpedia • 1d ago
-
----
-
-**[What is Ultrasound Money? Understanding Ethereum’s Monetary Policy](https://financefeeds.com/what-is-ultrasound-money/)**
-
-Ethereum's ultrasound money thesis relies on EIP-1559 burns exceeding new issuance, but Layer 2 scaling pushed ETH back into mild inflation.
-
-FinanceFeeds • 13h ago
-
----
-
-**[Ethereum: Staking Ratio Hits 34.4% as Exit Queue Nears Zero](https://blockchain.news/flashnews/ethereum-staking-ratio-hits-34-4-exit-queue-nears-zero)**
-
-Ethereum staking ratio climbs to 34.4% with exit queue near zero, tightening ETH supply at $1877.99 amid bearish 4h chart signals.
-
-blockchain.news • 1h ago
 
 ---
 
@@ -252,7 +252,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 1K • 👍 239 • 💬 21 • ⏱️ 11:56 • 56m ago
+👁️ 1K • 👍 239 • 💬 21 • ⏱️ 11:56 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 25K • 👍 2K • 💬 131 • ⏱️ 8:55 • 23h ago
+👁️ 25K • 👍 2K • 💬 131 • ⏱️ 8:55 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 106 • ⏱️ 18:22 • 17h ago
+👁️ 5K • 👍 228 • 💬 106 • ⏱️ 18:22 • 19h ago
 
 ---
 
@@ -332,7 +332,7 @@ LIVE GOLD TRADING | XAUUSD LIVE | BTCUSD LIVE | Crypto & Forex Trading* Welcome 
 
 📺 Ashutosh Kumar
 
-👁️ 8K • 👍 1K • 3h ago
+👁️ 8K • 👍 1K • 4h ago
 
 ---
 
