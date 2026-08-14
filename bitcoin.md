@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T22:22:39.017346+00:00'
+updated: '2026-08-14T22:49:29.699864+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 22:22 UTC  
+**Last Updated:** August 14, 2026 at 22:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Never forget the bigger picture!
 
-6h ago
+7h ago
 
 ---
 
@@ -207,7 +207,7 @@ fool.com • 11h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 16h ago
+Mashable • 17h ago
 
 ---
 
@@ -223,13 +223,13 @@ Yahoo Finance • 18h ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 4h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 5h ago
 
 ---
 
