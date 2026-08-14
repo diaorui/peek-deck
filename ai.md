@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T23:21:44.883828+00:00'
+updated: '2026-08-14T23:48:01.789005+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 23:21 UTC  
+**Last Updated:** August 14, 2026 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 59m ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 1h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 9m ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 36m ago
 
 ---
 
@@ -95,7 +95,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-11h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -137,13 +137,13 @@ The Guardian • 6h ago
 
 The hedge fund's five largest disclosed stock holdings at the end of June were Sandisk, Micron Technology, Bloom Energy, Taiwan Semiconductor and Nebius Group.
 
-CNBC • 54m ago
+CNBC • 1h ago
 
 ---
 
 **[China's latest open-weight model rivals U.S. models at hacking](https://www.axios.com/2026/08/14/china-open-source-ai-glm-53)**
 
-Axios • 46m ago
+Axios • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ Axios • 46m ago
 
 Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
 
-BBC • 15m ago
+BBC • 41m ago
 
 ---
 
 **[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
 
-wsj.com • 22h ago
+wsj.com • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ Reuters • 1h ago
 
 Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Atlantic • 2d ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 3h ago
+Anthropic • 4h ago
 
 ---
 
@@ -215,7 +215,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 239 • 💬 148 • 7h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 239 • 💬 148 • 8h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -231,7 +231,7 @@ Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 210 • 💬 159 • 2d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 210 • 💬 159 • 3d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -249,7 +249,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 188 • 💬 238 • 10h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 188 • 💬 238 • 11h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -257,7 +257,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 169 • 💬 184 • 8h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 169 • 💬 184 • 9h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -285,37 +285,17 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 8h ago
+👁️ 28K • 👍 1K • 💬 189 • ⏱️ 34:05 • 8h ago
 
 ---
 
-**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
+**[Has AI Taken My Job as an Artist? 🤯 #art #shorts #short #artist #ai #yt](https://www.youtube.com/watch?v=ymGNfIsVsNU)**
 
-ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
+drawing, drawings, #drawing, 66 drawing, 3d drawing, cr7 drawing, jjk drawing, gojo drawing, cute drawing, love drawing, ...
 
-📺 Higgsfield AI
+📺 Skechshade
 
-👁️ 163K • 👍 9K • 💬 1K • ⏱️ 19:49 • 1d ago
-
----
-
-**[Recreating UNREALISTIC Ai Makeup Looks!](https://www.youtube.com/watch?v=uueHWiP8KrA)**
-
-Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup... IN REAL LIFE! Real creativity ALWAYS WINS ...
-
-📺 James Charles
-
-👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 4h ago
-
----
-
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
-
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
-
-📺 Higgsfield AI
-
-👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 9h ago
+👁️ 26K • 💬 34 • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -325,7 +305,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 23h ago
+👁️ 13K • 👍 525 • 💬 55 • ⏱️ 16:41 • 23h ago
 
 ---
 
@@ -335,27 +315,55 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 133K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
+👁️ 135K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
 
 ---
 
-**[Why Billionaires &amp; Celebrities Are Lining Up for This $700M AI Startup](https://www.youtube.com/watch?v=rCJhlCZVTZQ)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-Welcome inside the world of Fortell... The $740M startup that had to waitlist billionaires and celebrities for its AI hearing aid.
+📺 Onevilage
 
-📺 Sachin and Adam
-
-👁️ 50K • 👍 1K • 💬 135 • ⏱️ 17:33 • 2d ago
+👁️ 486K • 👍 15K • 💬 423 • ⏱️ 0:46 • 9h ago
 
 ---
 
-**[AI Tried to Recreate My 182M View Short 😂](https://www.youtube.com/watch?v=gHB3-izKKno)**
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
 
-My original Robot Pacman vs Dentures Short has over 182 million views: https://www.youtube.com/shorts/xiqYEsMPuLc So I ...
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
 
-📺 StrEat
+📺 Higgsfield AI
 
-👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 10h ago
+👁️ 25K • 👍 747 • 💬 163 • ⏱️ 6:06 • 9h ago
+
+---
+
+**[AI Just Hacked a Government... And Its Nuclear Agency!](https://www.youtube.com/watch?v=VKhW4QnQMts)**
+
+AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 131 • ⏱️ 17:01 • 2d ago
+
+---
+
+**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
+
+10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
+
+📺 Nas Daily
+
+👁️ 125K • 👍 4K • 💬 160 • ⏱️ 1:36 • 1d ago
+
+---
+
+**[Recreating UNREALISTIC Ai Makeup Looks!](https://www.youtube.com/watch?v=uueHWiP8KrA)**
+
+Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup... IN REAL LIFE! Real creativity ALWAYS WINS ...
+
+📺 James Charles
+
+👁️ 55K • 👍 4K • 💬 432 • ⏱️ 24:09 • 4h ago
 
 ---
 
@@ -365,17 +373,7 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 📺 The Tech Report
 
-👁️ 145K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
-
----
-
-**[all AI thoughts JUST got revealed...](https://www.youtube.com/watch?v=kKjmv2CuVUI)**
-
-Check out Jarsy: https://app.jarsy.com/?invite_code=jlgbyc (the above is my invite code) Get investment exposure to pre-IPO ...
-
-📺 Wes Roth
-
-👁️ 41K • 👍 1K • 💬 241 • ⏱️ 35:48 • 2d ago
+👁️ 147K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,816 • 8h ago
+⬇️ 2 • ❤️ 8,934 • 8h ago
 
 ---
 
@@ -403,7 +401,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,506 • 3d ago
+⬇️ 165,300 • ❤️ 1,510 • 3d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 3,832 • ❤️ 907 • 2d ago
+⬇️ 3,832 • ❤️ 912 • 2d ago
 
 ---
 
@@ -427,19 +425,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,997,541 • ❤️ 3,914 • 1d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 207,830 • ❤️ 842 • 2d ago
+⬇️ 1,997,541 • ❤️ 3,920 • 1d ago
 
 ---
 
@@ -451,7 +437,19 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 709 • 3h ago
+⬇️ 0 • ❤️ 774 • 4h ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 207,830 • ❤️ 852 • 2d ago
 
 ---
 
@@ -463,7 +461,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 635 • 12h ago
+⬇️ 63 • ❤️ 649 • 12h ago
 
 ---
 
@@ -475,7 +473,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,374 • 13d ago
+⬇️ 1,606,491 • ❤️ 3,381 • 13d ago
 
 ---
 
@@ -487,7 +485,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 427 • 1d ago
+⬇️ 245 • ❤️ 431 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 596,774 • ❤️ 412 • 4d ago
+⬇️ 596,774 • ❤️ 414 • 4d ago
 
 ---
 
@@ -541,7 +539,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,087 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 98,163 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -555,7 +553,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 37 • 💬 2 • ⭐ 1,015 • 11d ago
+▲ 38 • 💬 2 • ⭐ 1,015 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -601,13 +599,26 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 ---
 
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 84,014 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
+
+---
+
 **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
 
 *Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 187 • 💬 9 • ⭐ 9,000 • 7mo ago
+▲ 187 • 💬 9 • ⭐ 9,007 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -627,19 +638,6 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 ---
 
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 84,014 • 25mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -650,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 2h ago
+⭐ 13.6k • 🔱 1.6k • 9m ago
 
 ---
 
@@ -660,7 +658,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 23h ago
+⭐ 8.4k • 🔱 996 • 23h ago
 
 ---
 
@@ -670,7 +668,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 7.9k • 🔱 826 • 4h ago
+⭐ 8.1k • 🔱 847 • 52s ago
 
 ---
 
@@ -680,7 +678,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 19h ago
+⭐ 5.0k • 🔱 430 • 19h ago
 
 ---
 
@@ -688,7 +686,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 516 • 6d ago
+⭐ 4.0k • 🔱 517 • 6d ago
 
 ---
 
@@ -698,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 535 • 1d ago
+⭐ 3.1k • 🔱 536 • 1d ago
 
 ---
 

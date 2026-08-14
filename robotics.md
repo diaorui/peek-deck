@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-14T23:21:44.901887+00:00'
+updated: '2026-08-14T23:48:01.802333+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 14, 2026 at 23:21 UTC  
+**Last Updated:** August 14, 2026 at 23:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-7h ago
+8h ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg • 2d ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 6h ago
+NASA (.gov) • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ Seeking Alpha • 7h ago
 
 Beijing hosts a record humanoid robot games as 2,056 machines from 16 countries compete in a growing range of events.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -186,7 +186,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 932K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
+👁️ 938K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 8K • 👍 113 • 💬 41 • ⏱️ 0:22 • 17h ago
+👁️ 13K • 👍 151 • 💬 51 • ⏱️ 0:22 • 17h ago
 
 ---
 
@@ -206,7 +206,17 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 544 • 💬 108 • ⏱️ 7:05 • 3d ago
+👁️ 40K • 👍 545 • 💬 108 • ⏱️ 7:05 • 3d ago
+
+---
+
+**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
+
+If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
+
+📺 Dr. Know-it-all Knows it all
+
+👁️ 2K • 👍 156 • 💬 75 • ⏱️ 21:51 • 1d ago
 
 ---
 
@@ -226,7 +236,7 @@ Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 
 
 📺 Food For Robots
 
-👁️ 21K • 👍 1K • 💬 97 • ⏱️ 18:39 • 2d ago
+👁️ 22K • 👍 1K • 💬 103 • ⏱️ 18:39 • 2d ago
 
 ---
 
@@ -236,7 +246,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 23K • 👍 636 • 💬 18 • ⏱️ 58:18 • 2d ago
+👁️ 24K • 👍 644 • 💬 18 • ⏱️ 58:18 • 2d ago
 
 ---
 
@@ -246,7 +256,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 38K • 👍 452 • 💬 119 • ⏱️ 3:48 • 3d ago
+👁️ 39K • 👍 456 • 💬 119 • ⏱️ 3:48 • 3d ago
 
 ---
 
@@ -267,16 +277,6 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 📺 WOLF Financial
 
 👁️ 44K • 👍 1K • 💬 236 • ⏱️ 48:23 • 6d ago
-
----
-
-**[This Transformer Robot Went To The Moon](https://www.youtube.com/watch?v=uargNhK22vs)**
-
-This tiny transformer robot was built for the moon… It's about the size of a baseball, BUT INSIDE…are cameras, two wheels, and a ...
-
-📺 Cleo Abram
-
-👁️ 1.2M • 👍 62K • 💬 764 • ⏱️ 0:32 • 3d ago
 
 ---
 

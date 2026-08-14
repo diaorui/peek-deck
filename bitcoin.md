@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T23:21:44.892389+00:00'
+updated: '2026-08-14T23:48:01.795602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 23:21 UTC  
+**Last Updated:** August 14, 2026 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1261.04B
+**Market Cap:** $1263.49B
 Rank #1
 
-**Circulating Supply:** 20,070,206 BTC
+**Circulating Supply:** 20,070,234 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-50.1%
 
 **All-Time Low:** $67.81
-+92557.4%
++92738.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,21 @@ Rank #1
 
 Never forget the bigger picture!
 
-7h ago
+8h ago
+
+---
+
+**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+
+10h ago
+
+---
+
+**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
+
+This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
+
+19h ago
 
 ---
 
@@ -99,33 +113,11 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 ---
 
-**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
-
-This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
-
-18h ago
-
----
-
-**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
-
-10h ago
-
----
-
 **[The air is thin… we must be close](https://www.reddit.com/r/Bitcoin/comments/1voje4o/the_air_is_thin_we_must_be_close/)**
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
 2h ago
-
----
-
-**[Plot Thickens with ColdCard Hack "No researcher I have spoken with has reproduced a seed for any of those 153 source addresses [containing 132.95 BTC]…"](https://www.reddit.com/r/Bitcoin/comments/1vobf3s/plot_thickens_with_coldcard_hack_no_researcher_i/)**
-
-Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
-
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 7h ago
 
 ---
 
@@ -137,6 +129,14 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 ---
 
+**[Plot Thickens with ColdCard Hack "No researcher I have spoken with has reproduced a seed for any of those 153 source addresses [containing 132.95 BTC]…"](https://www.reddit.com/r/Bitcoin/comments/1vobf3s/plot_thickens_with_coldcard_hack_no_researcher_i/)**
+
+Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
+
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 7h ago
+
+---
+
 **[Honest question](https://www.reddit.com/r/Bitcoin/comments/1vod3xy/honest_question/)**
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
@@ -145,9 +145,11 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 ---
 
-**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
+**[Even with the recent drop, the 100 week moving average has not sloped downwards](https://www.reddit.com/r/Bitcoin/comments/1volhqu/even_with_the_recent_drop_the_100_week_moving/)**
 
-1d ago
+Looking at the chart, the last time the 100 week moving average started its downwards slope, it coincided with the bottom of the Bitcoin bear market. In 2024, the rally started in November, if that doesn’t repeat, we will finally see the 100 week moving average drop for the first time since ATH What is the buy signal, you may or may not have asked? Well, once the price of bitcoin crosses above the 100 week moving average, it has been followed by a substantial rally. This has been true every single time in the history of Bitcoin. My thoughts: accumulate slowly once the 100 week moving average starts to fall, and quickly once the price of Bitcoin breaks above the 100 week MA. Thoughts?
+
+1h ago
 
 ---
 
@@ -183,7 +185,7 @@ Yahoo • 2h ago
 
 Good inflation news usually sends Bitcoin surging, so why did Bitcoin fall on back-to-back prints that sent the Nasdaq and S&P 500 higher? The answer reveals a hidden tug-of-war playing out far from the public order books.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +193,7 @@ Yahoo Finance • 58m ago
 
 Robert Kiyosaki linked futurist Buckminster Fuller's predictions to the emergence of Bitcoin and artificial intelligence.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,7 +217,7 @@ The Motley Fool • 12h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 17h ago
+Mashable • 18h ago
 
 ---
 
@@ -287,27 +289,17 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 1d ago
+👁️ 33K • 👍 2K • 💬 90 • ⏱️ 9:13 • 1d ago
 
 ---
 
-**[Bitcoin Whale Watching](https://www.youtube.com/watch?v=3f7iDFfYAeg)**
+**[SECRET BITCOIN SPAWN](https://www.youtube.com/watch?v=fPsAQ2ucLcU)**
 
-It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+Airwingmarine's Music - Synthwave ...
 
-📺 Benjamin Cowen
+📺 Airwingmarine
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 5h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 258 • ⏱️ 18:25 • 1d ago
+👁️ 17K • 👍 314 • 💬 22 • ⏱️ 0:15 • 11h ago
 
 ---
 
@@ -317,27 +309,17 @@ The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of 
 
 📺 Dana Love, PhD
 
-👁️ 27K • 👍 1K • 💬 396 • ⏱️ 18:10 • 1d ago
+👁️ 28K • 👍 1K • 💬 396 • ⏱️ 18:10 • 1d ago
 
 ---
 
-**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
 
-Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 3K • 💬 135 • ⏱️ 18:46 • 1d ago
-
----
-
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
-
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
-
-📺 Benjamin Cowen
-
-👁️ 128K • 👍 8K • 💬 429 • ⏱️ 21:29 • 1d ago
+👁️ 31K • 👍 2K • 💬 262 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -347,7 +329,7 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 312 • 💬 85 • ⏱️ 14:52 • 1d ago
+👁️ 7K • 👍 314 • 💬 85 • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -357,7 +339,17 @@ Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss ret
 
 📺 Natalie Brunell
 
-👁️ 17K • 👍 696 • 💬 80 • ⏱️ 1:11:42 • 1d ago
+👁️ 18K • 👍 711 • 💬 81 • ⏱️ 1:11:42 • 1d ago
+
+---
+
+**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+
+Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 3K • 💬 136 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -367,7 +359,7 @@ Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis.
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 417 • 💬 333 • ⏱️ 16:10 • 1d ago
+👁️ 8K • 👍 420 • 💬 354 • ⏱️ 16:10 • 1d ago
 
 ---
 
@@ -377,7 +369,17 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 17h ago
+👁️ 6K • 👍 254 • ⏱️ 5:33:35 • 17h ago
+
+---
+
+**[From Bank to Bitcoin: My Secret Cypherpunk Journey!](https://www.youtube.com/watch?v=TqQSduidpk8)**
+
+"How did you, sitting in Asia at a traditional bank, become a closet cypherpunk?" It traces back to 2008 — watching markets crash, ...
+
+📺 The reDeFined Podcast
+
+👁️ 186 • ⏱️ 0:45 • 2h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T23:21:44.898555+00:00'
+updated: '2026-08-14T23:48:01.799986+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 23:21 UTC  
+**Last Updated:** August 14, 2026 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.50B
+**Market Cap:** $226.75B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433426.8%
++433844.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 5h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 6h ago
 
 ---
 
@@ -156,7 +156,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ theblock.co • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ Benzinga • 21h ago
 
 There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -226,7 +226,7 @@ Yahoo Finance • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -240,57 +240,7 @@ Fortune • 12h ago
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 142 • ⏱️ 9:22 • 2d ago
-
----
-
-**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 28K • 👍 2K • 💬 137 • ⏱️ 8:55 • 1d ago
-
----
-
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 347 • 💬 192 • ⏱️ 11:59 • 2d ago
-
----
-
-**[EtherFi’s Plan to Build the Ultimate Crypto Neobank](https://www.youtube.com/watch?v=vcTXp73mxYQ)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- EtherFi is expanding from a ...
-
-📺 Bankless
-
-👁️ 1K • 👍 48 • 💬 7 • ⏱️ 42:35 • 12h ago
-
----
-
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 8K • 👍 987 • 💬 134 • ⏱️ 11:56 • 12h ago
-
----
-
-**[ETHEREUM: TIME TO LOCK IN](https://www.youtube.com/watch?v=P7co89RhibM)**
-
-The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 9K • 👍 523 • 💬 220 • ⏱️ 19:05 • 2d ago
+👁️ 34K • 👍 2K • 💬 129 • ⏱️ 9:22 • 2d ago
 
 ---
 
@@ -304,13 +254,73 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 ---
 
-**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
+**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
 
-BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 Crypto World
+📺 Crypto Crew University
 
-👁️ 6K • 👍 238 • 💬 115 • ⏱️ 18:22 • 1d ago
+👁️ 29K • 👍 2K • 💬 140 • ⏱️ 8:55 • 1d ago
+
+---
+
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 347 • 💬 192 • ⏱️ 11:59 • 2d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 276 • 👍 1 • ⏱️ 6:17 • 6h ago
+
+---
+
+**[EtherFi’s Plan to Build the Ultimate Crypto Neobank](https://www.youtube.com/watch?v=vcTXp73mxYQ)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- EtherFi is expanding from a ...
+
+📺 Bankless
+
+👁️ 1K • 👍 51 • 💬 7 • ⏱️ 42:35 • 13h ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 9K • 👍 1K • 💬 137 • ⏱️ 11:56 • 12h ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 4K • 👍 144 • 💬 6 • ⏱️ 0:31 • 7h ago
+
+---
+
+**[ETHEREUM WARNING!!!📈#eth #ethereum #bitcoin #crypto #cryptocurrency](https://www.youtube.com/watch?v=c4KjV2KjaEU)**
+
+ETHEREUM WARNING!!!  #eth #ethereum #bitcoin #crypto #cryptocurrency.
+
+📺 Crypto AiMan
+
+👁️ 396 • 👍 10 • ⏱️ 0:45 • 4h ago
 
 ---
 
@@ -321,16 +331,6 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 📺 Discover Crypto
 
 👁️ 5K • 👍 258 • 💬 47 • ⏱️ 1:01:54 • 2d ago
-
----
-
-**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
-
-Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
-
-📺 The Rollup
-
-👁️ 1K • 👍 42 • 💬 4 • ⏱️ 10:10 • 1d ago
 
 ---
 
