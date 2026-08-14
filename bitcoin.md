@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T21:24:57.330781+00:00'
+updated: '2026-08-14T21:50:01.654906+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 21:24 UTC  
+**Last Updated:** August 14, 2026 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -3.1%  
-**30d:** -1.4%  
-**90d:** -18.7%  
-**1y:** -46.3%  
+**24h:** -1.0%  
+**7d:** -3.2%  
+**30d:** -1.5%  
+**90d:** -18.8%  
+**1y:** -46.4%  
 
 ---
 
@@ -89,7 +89,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 Never forget the bigger picture!
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -147,13 +147,21 @@ This is crazy but somehow scammers are texting from the number i talk to my dog 
 
 hi! what tool would you add?
 
-5h ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
+
+The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
+
+Investor's Business Daily • 45m ago
+
+---
 
 **[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
 
@@ -163,19 +171,19 @@ Bitcoin Magazine • 7h ago
 
 ---
 
-**[Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center](https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827)**
+**[France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders](https://www.yahoo.com/news/world/articles/france-tax-data-leak-could-210335558.html)**
 
-Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.
+A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.
 
-The Block • 8h ago
+Yahoo • 46m ago
 
 ---
 
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
+**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
 
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,11 +195,19 @@ Sacramento Bee • 7h ago
 
 ---
 
+**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://www.fool.com/investing/2026/08/14/michael-saylors-strategy-is-selling-bitcoin-again/)**
+
+Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+
+fool.com • 10h ago
+
+---
+
 **[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
 
 Real mining. Tiny footprint.
 
-Mashable • 23h ago
+Mashable • 16h ago
 
 ---
 
@@ -207,31 +223,13 @@ Yahoo Finance • 17h ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal](https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal)**
+**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-Bitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care.
-
-Bitcoin Magazine • 3h ago
-
----
-
-**[The Major Bitcoin Warning Hidden In Trump Media’s Earnings](https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/)**
-
-The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
-
-Forbes • 1d ago
-
----
-
-**[MSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K](https://www.tradingview.com/news/stocktwits:422244a1b094b:0-mstr-bmnr-coin-crcl-stocks-slide-after-bitcoin-falls-below-63k/)**
-
-Shares of Michael Saylor-backed Strategy (MSTR), Bitmine Immersion Technologies (BMNR), Circle (CRCL), Coinbase (COIN) and other large-cap crypto-linked equities tumbled in morning trade on Friday after Bitcoin’s (BTC) price fell below $63,000.CRCL stock and MSTR shares were the hardest hit, down n…
-
-TradingView • 5h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -297,7 +295,7 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 
 📺 Benjamin Cowen
 
-👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 3h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 4h ago
 
 ---
 

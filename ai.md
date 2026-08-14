@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T21:24:57.324851+00:00'
+updated: '2026-08-14T21:50:01.647913+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 21:24 UTC  
+**Last Updated:** August 14, 2026 at 21:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-11h ago
+12h ago
+
+---
+
+**[Custom AI Agents for Non-Developers: What’s Real](https://www.reddit.com/r/artificial/comments/1vokj1y/custom_ai_agents_for_nondevelopers_whats_real/)**
+
+Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
+
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 4m ago
 
 ---
 
@@ -53,11 +61,11 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 ---
 
-**[LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2](https://www.reddit.com/r/artificial/comments/1vodx2x/liquidai_lfm25vl3b_a_31b_local_vlm_that_beats/)**
+**[Anthropic ships frontier AI models but no simple toggle to switch billing modes?](https://www.reddit.com/r/artificial/comments/1vojtph/anthropic_ships_frontier_ai_models_but_no_simple/)**
 
-LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2 TL;DR: LiquidAI released LFM2.5-VL-3B, a 3.1B vision-language model that runs fully local (llama.cpp, MLX, vLLM, even a WebGPU demo). • Beats Gemma-4 E4B (8B) 69.4 vs 59.7; edges Qwen3.5-4B • Screen understanding: 2.5 → 82.2 on ScreenSpot-v2 Web (huge jump) • 228 tok/s on M5 Max, 20 tok/s on a Galaxy S26 Ultra • Function calling / object grounding included What I found interesting is the business angle: for simple document/screen tasks, local AI flips 'AI feature' from a monthly API bill into a one-time engineering task with zero data leaving the building. Big cloud models still win for complex reasoning — this just made the small-model bucket genuinely usable. I wrote a short analysis here: https://www.zyntopia.com/news/lfm2-5-vl-3b-edge-vision
+Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-3h ago
+32m ago
 
 ---
 
@@ -73,7 +81,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +97,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,67 +117,61 @@ Every day I see someone bolt an LLM onto something a shell script did better. Th
 
 ---
 
-**[Same demo, two failures on DeepSeek V4 Pro 0813, then V4 Flash finished it](https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/)**
-
-I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a tiny sample, not a verdict. The first Pro run failed. I put the same demo through Flash, and Flash completed it. I honestly did not expect that result, so I ran Pro a second time before writing this. Same failure. The odd part is that it did not feel slow while generating. I was seeing roughly 80 to 90 tokens/s tonight. That looks fine on a counter, but it matters a lot less when the demo itself does not make it across the line. For my next pass, I will put the same requests through ZenMux and record the model route and provider with each request. That makes the comparison easier to inspect. It still does not turn two failed runs into a benchmark. My first impression is negative. Two runs are nowhere near enough for a broad claim, but two failures on a demo that Flash completed are worth writing down. What are people seeing right now with V4 Pro 0813? If you tested it against Flash, did you keep the same prompt and setup, and did Pro actually finish the demo?
-
-8h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+**[Tech Giants’ Profits Reveal Potential Vulnerability in the Stock Market](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 6h ago
-
----
-
-**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
-
-Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
-
-The Guardian • 4h ago
+The New York Times • 7h ago
 
 ---
 
-**[Goldman’s latest cash cow is all about funding the AI infrastructure boom](https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html)**
+**[The AI build-out has a problem that $1 trillion in cash can't fix](https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html)**
 
-Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.
+Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
 
-CNBC • 1h ago
-
----
-
-**[Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)**
-
-The AI opportunity is huge but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
-
-techcrunch.com • 1h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Anthropic CEO's wife once asked Jeffrey Epstein to fund porn venture — now she helps steer the Claude AI empire](https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/)**
+**[Big tech spends big on America’s AI boom](https://www.foxnews.com/video/6403413314112)**
 
-Before she became a key voice in her husband’s ear, Cami Clark reportedly pitched Epstein on a “free luxury porn” company.
+FOX Business correspondent Connor Hansen reports on the massive investments American companies are making in A.I. on ‘America Reports.’
 
-New York Post • 1h ago
+Fox News • 1h ago
+
+---
+
+**[Google Opens the Gates of AI Slop Hell](https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888)**
+
+Gizmodo • 58m ago
+
+---
+
+**[Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)**
+
+Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
+
+TechCrunch • 5h ago
+
+---
+
+**[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 33m ago
 
 ---
 
 **[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
 
-WSJ • 20h ago
-
----
-
-**[Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge](https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html)**
-
-Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
-
-Yahoo Finance • 1d ago
+WSJ • 21h ago
 
 ---
 
@@ -177,7 +179,7 @@ Yahoo Finance • 1d ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -185,15 +187,7 @@ CNBC • 5h ago
 
 Bots are starting to conspire with one another. Can they be reeled back in?
 
-theatlantic.com • 2d ago
-
----
-
-**[OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)**
-
-US groups release cheaper models after new challenges to their trillion-dollar ambitions
-
-Financial Times • 17h ago
+The Atlantic • 2d ago
 
 ---
 
@@ -205,7 +199,7 @@ Financial Times • 17h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 982 • 💬 914 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 984 • 💬 915 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -221,7 +215,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 213 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 215 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -230,6 +224,14 @@ Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
 ⬆️ 210 • 💬 159 • 2d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+
+---
+
+**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
+
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+⬆️ 197 • 💬 127 • 6h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -247,7 +249,15 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 181 • 💬 235 • 9h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 186 • 💬 238 • 9h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+
+---
+
+**[When Genius Fails: The Intellectual Arrogance of the AI Labs](https://news.ycombinator.com/item?id=49299282)**
+
+From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
+
+⬆️ 167 • 💬 177 • 7h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -257,27 +267,11 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 ---
 
-**[When Genius Fails: The Intellectual Arrogance of the AI Labs](https://news.ycombinator.com/item?id=49299282)**
-
-From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
-
-⬆️ 163 • 💬 175 • 6h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
-
----
-
 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://news.ycombinator.com/item?id=49269090)**
 
 Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
 
 ⬆️ 159 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
-
----
-
-**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
-
-Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
-
-⬆️ 158 • 💬 108 • 5h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -381,7 +375,7 @@ Check out Jarsy: https://app.jarsy.com/?invite_code=jlgbyc (the above is my invi
 
 📺 Wes Roth
 
-👁️ 41K • 👍 1K • 💬 241 • ⏱️ 35:48 • 1d ago
+👁️ 41K • 👍 1K • 💬 241 • ⏱️ 35:48 • 2d ago
 
 ---
 
@@ -457,7 +451,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 709 • 1h ago
+⬇️ 0 • ❤️ 709 • 2h ago
 
 ---
 
@@ -656,7 +650,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 5m ago
+⭐ 13.5k • 🔱 1.6k • 30m ago
 
 ---
 

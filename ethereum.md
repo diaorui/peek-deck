@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T21:24:57.334946+00:00'
+updated: '2026-08-14T21:50:01.660041+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 21:24 UTC  
+**Last Updated:** August 14, 2026 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -2.0%  
-**30d:** +0.8%  
-**90d:** -11.8%  
+**24h:** -0.6%  
+**7d:** -2.1%  
+**30d:** +0.7%  
+**90d:** -11.9%  
 **1y:** -57.7%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 3h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 4h ago
 
 ---
 
@@ -156,7 +156,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -172,7 +172,15 @@ The Block • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
+
+---
+
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
+
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
+
+fool.com • 10h ago
 
 ---
 
@@ -184,11 +192,9 @@ Benzinga • 19h ago
 
 ---
 
-**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-There are still plenty of reasons to believe in the second-largest cryptocurrency.
-
-The Motley Fool • 9h ago
+ETF Database • 6h ago
 
 ---
 
@@ -216,17 +222,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
-
-ETF Database • 5h ago
-
----
-
 **[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 48 • 💬 7 • ⏱️ 42:35 • 10h ago
+👁️ 1K • 👍 48 • 💬 7 • ⏱️ 42:35 • 11h ago
 
 ---
 

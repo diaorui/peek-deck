@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-14T21:24:57.337125+00:00'
+updated: '2026-08-14T21:50:01.662739+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 14, 2026 at 21:24 UTC  
+**Last Updated:** August 14, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-5h ago
+6h ago
 
 ---
 
@@ -130,22 +130,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[2,056 droids set to compete at World Humanoid Robot Games in Beijing](https://interestingengineering.com/ai-robotics/beijing-2056-robot-world-humanoid-robot-games)**
-
-Beijing hosts a record humanoid robot games as 2,056 machines from 16 countries compete in a growing range of events.
-
-Interesting Engineering • 10h ago
-
----
-
-**[Unidata Launches a Network of Data-Capture Stations for Humanoid Robots](https://www.desmoinesregister.com/press-release/story/112067/unidata-launches-a-network-of-data-capture-stations-for-humanoid-robots/)**
-
-Unidata has built stations designed to capture egocentric data for robotics: depth, touch, full-body and hand motion,
-
-The Des Moines Register • 6h ago
-
----
-
 **[San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use](https://www.kqed.org/news/12094873/san-mateo-county-could-be-first-to-regulate-humanoid-robots-for-commercial-use)**
 
 Researchers say that humanoid robots have a long way to go before they are officially ready for work.
@@ -154,19 +138,11 @@ KQED • 2d ago
 
 ---
 
-**[97% of humanoid robots come from China: The crazy gap that worries the US](https://www.ynetnews.com/tech-and-digital/article/s15t4f00lzx)**
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.yahoo.com/news/videos/china-building-future-ai-humanoid-172224324.html)**
 
-Chinese manufacturers account for nearly all global humanoid robot shipments; the gap is driven by a huge supply chain advantage, falling prices and government support; but before declaring China the winner, there's a big asterisk
+The upshot of Wang’s creative fervor is the GD01, which Unitree bills as the world’s first mass-produced, transformable mecha robot. Standing 9 ft. tall and weighing half a ton, it can transport a pil...
 
-Ynetnews • 2d ago
-
----
-
-**[Humanoid robots are coming to US auto factories, but can they boost productivity?](https://www.businessreport.com/article/humanoid-robots-are-coming-to-us-auto-factories-but-can-they-boost-productivity)**
-
-Automakers are increasingly investing in humanoid robots as a potential next stage of factory automation, with BMW, Hyundai, Mercedes-Benz and Tesla among the companies testing or developing the technology, The New York Times reports.   Unlike traditional industrial robots that are typically fixed in place and built for specific tasks, humanoids are designed to move through […]
-
-Baton Rouge Business Report • 3d ago
+Yahoo • 4h ago
 
 ---
 
@@ -175,6 +151,30 @@ Baton Rouge Business Report • 3d ago
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+
+NASA (.gov) • 5h ago
+
+---
+
+**[Canadian-based robotics company opens 1st U.S. facility in Lexington, bringing 111 jobs](https://www.lex18.com/news/covering-kentucky/canadian-based-robotics-company-opens-1st-u-s-facility-in-lexington-bringing-111-jobs)**
+
+A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
+
+LEX 18 News • 2d ago
+
+---
+
+**[Robotic tiles autonomously Lego-snap into floating smart structures](https://newatlas.com/robotics/floatform-robots-form-floating-structures/)**
+
+You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
+
+newatlas.com • 10h ago
 
 ---
 
