@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T17:52:34.250011+00:00'
+updated: '2026-08-14T18:54:20.912470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 17:52 UTC  
+**Last Updated:** August 14, 2026 at 18:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.8%  
-**30d:** +1.1%  
-**90d:** -11.6%  
-**1y:** -57.6%  
+**24h:** -0.7%  
+**7d:** -2.3%  
+**30d:** +0.5%  
+**90d:** -12.1%  
+**1y:** -57.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.32B
+**Market Cap:** $226.01B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+434946.5%
++432479.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-7h ago
+8h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -164,15 +164,7 @@ Yahoo Finance • 5h ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
-
-Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
-
-Benzinga • 15h ago
+theblock.co • 1d ago
 
 ---
 
@@ -180,21 +172,29 @@ Benzinga • 15h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
 
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Yahoo Finance • 2d ago
+Benzinga • 16h ago
+
+---
+
+**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-ETF Database • 2h ago
+ETF Database • 3h ago
 
 ---
 
@@ -202,7 +202,15 @@ ETF Database • 2h ago
 
 Things are getting more interesting on the market as volatility surges on multiple assets.
 
-U.Today • 17h ago
+U.Today • 18h ago
+
+---
+
+**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
+
+Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
+
+CryptoSlate • 7h ago
 
 ---
 
@@ -214,19 +222,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
-
-Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
-
-CryptoSlate • 6h ago
-
----
-
 **[FG Nexus Exits Ethereum With $45.2M Loss, Sells All ETH](https://financefeeds.com/fg-nexus-sold-all-its-crypto-by-june-30-ending-ethereum-treasury-strategy-less-than-a-year-after-launch/)**
 
 FG Nexus held zero digital assets at June 30 after $60.96M in Ether sales, booking a $45.2M loss and pivoting from its ETH treasury to real estate.
 
-FinanceFeeds • 9h ago
+FinanceFeeds • 10h ago
 
 ---
 
@@ -250,17 +250,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 26K • 👍 2K • 💬 136 • ⏱️ 8:55 • 1d ago
-
----
-
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 6K • 👍 831 • 💬 125 • ⏱️ 11:56 • 6h ago
+👁️ 27K • 👍 2K • 💬 136 • ⏱️ 8:55 • 1d ago
 
 ---
 
@@ -270,7 +260,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 347 • 💬 190 • ⏱️ 11:59 • 2d ago
+👁️ 6K • 👍 347 • 💬 192 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -280,7 +270,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 521 • 💬 218 • ⏱️ 19:05 • 2d ago
+👁️ 9K • 👍 522 • 💬 218 • ⏱️ 19:05 • 2d ago
 
 ---
 
@@ -290,7 +280,17 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 1K • 💬 399 • ⏱️ 12:21 • 1d ago
+👁️ 14K • 👍 1K • 💬 399 • ⏱️ 12:21 • 1d ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 7h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 6K • 👍 236 • 💬 115 • ⏱️ 18:22 • 23h ago
+👁️ 6K • 👍 238 • 💬 115 • ⏱️ 18:22 • 1d ago
 
 ---
 
@@ -310,7 +310,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 39 • 💬 4 • ⏱️ 10:10 • 18h ago
+👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 19h ago
 
 ---
 
@@ -330,7 +330,7 @@ Today we are going to look at standard charters Price predictions for chainlink'
 
 📺 AllinCrypto
 
-👁️ 10K • 👍 566 • 💬 168 • ⏱️ 13:27 • 2d ago
+👁️ 10K • 👍 567 • 💬 168 • ⏱️ 13:27 • 2d ago
 
 ---
 
