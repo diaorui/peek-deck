@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T05:55:51.923580+00:00'
+updated: '2026-08-14T07:24:51.916729+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 05:55 UTC  
+**Last Updated:** August 14, 2026 at 07:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.7%  
-**7d:** -1.8%  
-**30d:** +1.0%  
-**90d:** -11.6%  
-**1y:** -57.6%  
+**7d:** -2.1%  
+**30d:** +0.7%  
+**90d:** -11.9%  
+**1y:** -57.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.34B
+**Market Cap:** $226.28B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+434988.1%
++432955.6%
 
 ---
 
@@ -152,6 +152,26 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 ## Google News: "ethereum"
 
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
+
+Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
+
+Benzinga • 5h ago
+
+---
+
 **[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
@@ -160,19 +180,25 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
 
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
+Fortune • 14h ago
 
 ---
 
-**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
+CCN.com • 17h ago
 
-Benzinga • 3h ago
+---
+
+**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
+
+FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
+
+CryptoSlate • 15h ago
 
 ---
 
@@ -184,28 +210,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 13h ago
-
----
-
-**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
-
-FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
-
-CryptoSlate • 13h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 16h ago
-
----
-
 **[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
@@ -214,19 +218,19 @@ Coinpedia • 1d ago
 
 ---
 
-**[SharpLink stakes $200M in Ethereum through Lido, with custody at Anchorage Digital](https://cryptobriefing.com/sharplink-200m-ethereum-lido-staking/)**
-
-SharpLink stakes $200M in Ethereum via Lido's liquid staking protocol, with wstETH custody at Anchorage Digital Bank, boosting its treasury yield
-
-Crypto Briefing • 12h ago
-
----
-
 **[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 14h ago
+blockchain.news • 15h ago
+
+---
+
+**[SharpLink stakes $200M in Ethereum through Lido, with custody at Anchorage Digital](https://cryptobriefing.com/sharplink-200m-ethereum-lido-staking/)**
+
+SharpLink stakes $200M in Ethereum via Lido's liquid staking protocol, with wstETH custody at Anchorage Digital Bank, boosting its treasury yield
+
+Crypto Briefing • 14h ago
 
 ---
 
@@ -240,7 +244,7 @@ blockchain.news • 14h ago
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 152 • ⏱️ 9:22 • 1d ago
+👁️ 32K • 👍 2K • 💬 150 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -250,17 +254,7 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 341 • 💬 190 • ⏱️ 11:59 • 1d ago
-
----
-
-**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
-
-Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
-
-📺 The Rollup
-
-👁️ 408 • 👍 16 • 💬 4 • ⏱️ 10:10 • 6h ago
+👁️ 6K • 👍 341 • 💬 191 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -270,17 +264,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 8K • 👍 511 • 💬 217 • ⏱️ 19:05 • 2d ago
-
----
-
-**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
-
-BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 208 • 💬 110 • ⏱️ 18:22 • 11h ago
+👁️ 9K • 👍 513 • 💬 218 • ⏱️ 19:05 • 2d ago
 
 ---
 
@@ -290,17 +274,27 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 419 • ⏱️ 12:21 • 18h ago
+👁️ 12K • 👍 1K • 💬 418 • ⏱️ 12:21 • 20h ago
 
 ---
 
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
 
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 AllinCrypto
+📺 Crypto World
 
-👁️ 9K • 👍 545 • 💬 176 • ⏱️ 13:27 • 1d ago
+👁️ 4K • 👍 215 • 💬 109 • ⏱️ 18:22 • 12h ago
+
+---
+
+**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
+
+Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
+
+📺 The Rollup
+
+👁️ 700 • 👍 19 • 💬 4 • ⏱️ 10:10 • 8h ago
 
 ---
 
@@ -314,23 +308,33 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 ---
 
+**[I TRACKED $197,000,000 of ETHEREUM CRYPTOCURRENCY ON THE BLOCKCHAIN | LET&#39;S HACK](https://www.youtube.com/watch?v=fMPhLMJeHnI)**
+
+I followed $197000000 in stolen crypto across the Ethereum blockchain — and I built a free tool to do it. In this video I trace a real ...
+
+📺 Why It Works
+
+👁️ 54 • 👍 6 • 💬 4 • ⏱️ 22:14 • 17h ago
+
+---
+
+**[Crypto Flush Has Big Money Accumulating, Chart Breakouts Still Holding (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=bMilKgvKRIs)**
+
+SPONSOR: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in ...
+
+📺 Gareth Soloway
+
+👁️ 52K • 👍 3K • 💬 162 • ⏱️ 10:20 • 2d ago
+
+---
+
 **[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=8YEpkqqKUCo)**
 
 Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 199 • 💬 12 • ⏱️ 7:07 • 1d ago
-
----
-
-**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 72 • 💬 11 • ⏱️ 7:15 • 1d ago
+👁️ 4K • 👍 200 • 💬 12 • ⏱️ 7:07 • 1d ago
 
 ---
 
