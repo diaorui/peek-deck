@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T15:52:15.122767+00:00'
+updated: '2026-08-14T16:53:01.349932+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 15:52 UTC  
+**Last Updated:** August 14, 2026 at 16:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.1%  
-**30d:** -1.3%  
-**90d:** -18.7%  
-**1y:** -46.3%  
+**24h:** -0.0%  
+**7d:** -2.9%  
+**30d:** -1.1%  
+**90d:** -18.5%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1258.10B
+**Market Cap:** $1266.62B
 Rank #1
 
-**Circulating Supply:** 20,070,075 BTC
+**Circulating Supply:** 20,070,131 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.3%
+-49.9%
 
 **All-Time Low:** $67.81
-+92346.5%
++92968.9%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-11h ago
+12h ago
 
 ---
 
 **[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -95,13 +95,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-4h ago
+5h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ The title says it all
 
 Many projects, one team
 
-🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 6h ago
+🔗 [Lightning News](https://lightning.news/the-diy-signing-device-revolution/) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Many projects, one team
 
 Macro environment is complete shit and nothing makes sense at this point. But August and Sept will be great DCAs.
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Macro environment is complete shit and nothing makes sense at this point. But Au
 
 We're constantly telling people to take their Bitcoin off exchanges, but we still don't really have a serious, broadly accepted security standard for how normal people should actually do it. For years the advice was basically: buy a good hardware wallet like a Coldcard, and look at what's happening now. Now the advice is becoming: roll your own dice, use multivendor multisig, pick an M-of-N setup, figure out backups, geographic distribution, passphrases, recovery, inheritance, etc. At some point this gets ridiculous. Regular people should not be expected to design their own security architecture. We need a well-funded, open-source standard that's maintained and reviewed by actual security experts. It should have clear risk models, explain the tradeoffs, and give people sensible setups based on their situation. Right now we're basically telling people to secure their life savings by piecing together advice from Twitter, podcasts, influencers, and hardware wallet marketing/funding. The Glacier Protocol was the last serious attempt at something like this that I know of. We need a modern Glacier Protocol 2.0. And if the Bitcoin industry can't even raise the money to build and maintain something like this, maybe we shouldn't be surprised when normal people decide a professional custodian is better at securing Bitcoin than they are. I would like self custody by individuals but it may just end up being bitcoin banks if we keep going like this.
 
-13h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ We're constantly telling people to take their Bitcoin off exchanges, but we stil
 
 Bitcoin has gone unusually quiet. According to this analysis, 90-day realised volatility is in the 8th percentile of its trailing four-year history, while the 180-day trading range is in the 12th percentile. The chart marks 14 previous completed compression episodes since 2016. Some broke down, others broke up but the interesting part is how rarely BTC stays compressed for long. And right now we’re sitting in another unresolved compression. Low volatility doesn’t tell us the direction. It just tells us the spring is getting tighter. So what breaks first this time: $BTC to the upside, or the floor underneath it? 👀
 
-19h ago
+20h ago
 
 ---
 
@@ -161,7 +161,7 @@ We’re emailing you because you received a Trezor order from either the US, UK,
 
 Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,23 +169,31 @@ CoinDesk • 8h ago
 
 Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+**[MSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K](https://finance.yahoo.com/markets/crypto/articles/mstr-bmnr-coin-crcl-stocks-154821679.html)**
 
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+The broader U.S. stock market also trended lower, putting additional pressure on risk-sensitive assets.
 
-Sacramento Bee • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
+**[Bitcoin Falls as Regulatory Hopes Are Dashed](https://www.investopedia.com/market-update-bitcoin-falls-as-regulatory-hopes-are-dashed-price-btc-12059975)**
 
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+Crypto investors got a letdown this week–and not just from bitcoin prices.
 
-Yahoo Finance • 5h ago
+Investopedia • 1h ago
+
+---
+
+**[Bitcoin to $1M If CLARITY Act Passes? Citi CEO Says Bill Still ‘Excellent for the System’ Despite Challenges](https://finance.yahoo.com/markets/crypto/articles/bitcoin-1m-clarity-act-passes-162212876.html)**
+
+Citigroup CEO Jane Fraser said a strong version of the CLARITY Act would be “excellent for the system,” despite unresolved concerns for banks. Citi recently ...
+
+Yahoo Finance • 30m ago
 
 ---
 
@@ -193,7 +201,15 @@ Yahoo Finance • 5h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 17h ago
+Mashable • 18h ago
+
+---
+
+**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://www.fool.com/investing/2026/08/14/michael-saylors-strategy-is-selling-bitcoin-again/)**
+
+Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -201,7 +217,15 @@ Mashable • 17h ago
 
 The Truth Social parent warned its crypto assets could be drained amid broader lending risks.
 
-Forbes • 22h ago
+Forbes • 23h ago
+
+---
+
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 2h ago
 
 ---
 
@@ -209,29 +233,7 @@ Forbes • 22h ago
 
 Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
-
-The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
-
-Investor's Business Daily • 10m ago
-
----
-
-**[Bitcoin dips below $63k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
-
-Investing.com • 9h ago
-
----
-
-**[Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure](https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html)**
-
-Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic
-
-CNBC • 2d ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -251,7 +253,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 19h ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 20h ago • [Second](https://second.tech/)
 
 ---
 
@@ -269,6 +271,14 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ---
 
+**[Hideous Little Bugs Are Invading California and Biting People's Feet (2022)](https://news.ycombinator.com/item?id=49293219)**
+
+Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
+
+⬆️ 4 • 💬 1 • 16h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -279,17 +289,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 99 • ⏱️ 9:13 • 16h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 236 • ⏱️ 18:25 • 17h ago
+👁️ 29K • 👍 1K • 💬 117 • ⏱️ 9:13 • 17h ago
 
 ---
 
@@ -299,7 +299,27 @@ The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of 
 
 📺 Dana Love, PhD
 
-👁️ 24K • 👍 1K • 💬 421 • ⏱️ 18:10 • 22h ago
+👁️ 25K • 👍 1K • 💬 433 • ⏱️ 18:10 • 23h ago
+
+---
+
+**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
+
+Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
+
+📺 Natalie Brunell
+
+👁️ 15K • 👍 643 • 💬 73 • ⏱️ 1:11:42 • 1d ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 2K • 💬 243 • ⏱️ 18:25 • 18h ago
 
 ---
 
@@ -309,17 +329,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 121K • 👍 8K • 💬 413 • ⏱️ 21:29 • 1d ago
-
----
-
-**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
-
-Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
-
-📺 Crypto Capital Venture
-
-👁️ 7K • 👍 411 • 💬 316 • ⏱️ 16:10 • 1d ago
+👁️ 123K • 👍 8K • 💬 422 • ⏱️ 21:29 • 1d ago
 
 ---
 
@@ -329,27 +339,7 @@ Crypto companies are increasingly building businesses that don't depend on crypt
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 300 • 💬 84 • ⏱️ 14:52 • 23h ago
-
----
-
-**[“Bitcoin is real estate you can take anywhere” 🤔 #realestate #bitcoin](https://www.youtube.com/watch?v=YT4hIU0A7og)**
-
-What do you think about this? Do you agree or disagree that Bitcoin is similar to real estate? Listen to the full episode of the Jay ...
-
-📺 Jay Pitts
-
-👁️ 214 • 👍 2 • ⏱️ 2:23 • 3h ago
-
----
-
-**[Why This NBA Star Buys Bitcoin Every Day](https://www.youtube.com/watch?v=uZR_eOC7MvE)**
-
-Tristan Thompson isn't hedging against the dollar. He's betting on the internet, and telling every teammate to buy Bitcoin every ...
-
-📺 Anthony Pompliano
-
-👁️ 3K • 👍 60 • 💬 13 • ⏱️ 0:50 • 21h ago
+👁️ 7K • 👍 305 • 💬 84 • ⏱️ 14:52 • 1d ago
 
 ---
 
@@ -359,15 +349,37 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 131 • ⏱️ 18:46 • 1d ago
+👁️ 35K • 👍 3K • 💬 131 • ⏱️ 18:46 • 1d ago
 
 ---
 
-**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
+**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
 
-📺 CryptoWendyO
+Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
 
-👁️ 3K • 👍 371 • 💬 17 • ⏱️ 2:31 • 14h ago
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 416 • 💬 317 • ⏱️ 16:10 • 1d ago
+
+---
+
+**[Crypto Live Trading: Bitcoin TA](https://www.youtube.com/watch?v=Z9gskOXkMD4)**
+
+Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading journey with Breakout ...
+
+📺 Sin City Crypto
+
+👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 10h ago
+
+---
+
+**[Why This NBA Star Buys Bitcoin Every Day](https://www.youtube.com/watch?v=uZR_eOC7MvE)**
+
+Tristan Thompson isn't hedging against the dollar. He's betting on the internet, and telling every teammate to buy Bitcoin every ...
+
+📺 Anthony Pompliano
+
+👁️ 3K • 👍 64 • 💬 13 • ⏱️ 0:50 • 22h ago
 
 ---
 

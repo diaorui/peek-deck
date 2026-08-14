@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T15:52:15.128250+00:00'
+updated: '2026-08-14T16:53:01.356827+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 15:52 UTC  
+**Last Updated:** August 14, 2026 at 16:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.9%  
-**30d:** +0.9%  
-**90d:** -11.7%  
-**1y:** -57.7%  
+**24h:** +0.3%  
+**7d:** -1.8%  
+**30d:** +1.1%  
+**90d:** -11.6%  
+**1y:** -57.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.54B
+**Market Cap:** $227.32B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-61.9%
 
 **All-Time Low:** $0.43
-+431546.8%
++434946.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 1d ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 13h ago
+Benzinga • 14h ago
 
 ---
 
@@ -180,7 +180,7 @@ Benzinga • 13h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 2d ago
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-ETF Database • 13m ago
+ETF Database • 1h ago
 
 ---
 
@@ -202,15 +202,7 @@ ETF Database • 13m ago
 
 Things are getting more interesting on the market as volatility surges on multiple assets.
 
-u.today • 15h ago
-
----
-
-**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
-
-Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
-
-CryptoSlate • 4h ago
+U.Today • 16h ago
 
 ---
 
@@ -222,11 +214,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
+
+Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
+
+CryptoSlate • 5h ago
+
+---
+
 **[FG Nexus Exits Ethereum With $45.2M Loss, Sells All ETH](https://financefeeds.com/fg-nexus-sold-all-its-crypto-by-june-30-ending-ethereum-treasury-strategy-less-than-a-year-after-launch/)**
 
 FG Nexus held zero digital assets at June 30 after $60.96M in Ether sales, booking a $45.2M loss and pivoting from its ETH treasury to real estate.
 
-FinanceFeeds • 7h ago
+FinanceFeeds • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ FinanceFeeds • 7h ago
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 139 • ⏱️ 9:22 • 1d ago
+👁️ 33K • 👍 2K • 💬 141 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 26K • 👍 2K • 💬 137 • ⏱️ 8:55 • 1d ago
+👁️ 26K • 👍 2K • 💬 136 • ⏱️ 8:55 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 671 • 💬 87 • ⏱️ 11:56 • 4h ago
+👁️ 6K • 👍 831 • 💬 125 • ⏱️ 11:56 • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ The outlook on Ethereum and the crypto market at the moment. Today, we will disc
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 519 • 💬 218 • ⏱️ 19:05 • 2d ago
+👁️ 9K • 👍 521 • 💬 218 • ⏱️ 19:05 • 2d ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 233 • 💬 115 • ⏱️ 18:22 • 21h ago
+👁️ 6K • 👍 236 • 💬 115 • ⏱️ 18:22 • 22h ago
 
 ---
 
@@ -310,17 +310,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 35 • 💬 4 • ⏱️ 10:10 • 16h ago
-
----
-
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
-
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
-
-📺 AllinCrypto
-
-👁️ 9K • 👍 564 • 💬 168 • ⏱️ 13:27 • 1d ago
+👁️ 1K • 👍 39 • 💬 4 • ⏱️ 10:10 • 17h ago
 
 ---
 
@@ -331,6 +321,16 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 📺 Discover Crypto
 
 👁️ 5K • 👍 257 • 💬 47 • ⏱️ 1:01:54 • 2d ago
+
+---
+
+**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+
+Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+
+📺 AllinCrypto
+
+👁️ 10K • 👍 566 • 💬 168 • ⏱️ 13:27 • 1d ago
 
 ---
 
