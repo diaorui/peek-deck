@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T10:02:22.493461+00:00'
+updated: '2026-08-14T11:15:37.733321+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 10:02 UTC  
+**Last Updated:** August 14, 2026 at 11:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-28m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-10h ago
+12h ago
 
 ---
 
@@ -57,7 +57,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-1h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-6m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Been building a personality-analysis framework (Outframe). I ran my own profile through it first and it felt pretty accurate, so out of curiosity I tried it on a public figure too — Wang Xingxing, the Unitree founder whose robots have been getting a ton of buzz lately (the dancing robot, the backflips). Fed one of his public interview clips in and let it generate a behavioral profile. To be upfront: this isn't a validated psychometric instrument. Take it as a fun read, not a diagnosis. What it flagged for him: Internal processor — takes in a lot, but doesn't react in real time. Processes before forming a judgment. Responsibility-driven, not performance-driven — decisions seem to run through "what's the responsible call here" rather than "how do I look." Long-horizon problem solver — under pressure, tends to reframe an immediate problem into a durable structural fix instead of just getting through the moment. Feedback-sensitive — picks up on how others react more than he lets on; not operating in a bubble. Restrained communicator — can be articulate and engaged when he wants to, but sustained self-promotion/talking isn't where his energy naturally goes. High capacity, but needs recovery space — can absorb a lot of simultaneous pressure, but stacking constant asks/evaluations on top of each other drains him faster than one big problem would. The interesting contradiction it surfaced: doesn't necessarily talk a lot, but is absorbing a huge amount of input; comes across easygoing, but has very clear internal judgment; can carry a lot, but staying steady under that load still requires downtime.
 
-44m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Been building a personality-analysis framework (Outframe). I ran my own profile 
 
 What's an AI trend that quietly died: and what replaced it? I'll go first: generic "AI will replace everything" blog content. It peaked and fizzled because people got tired of being shouted at. What replaced it (for me at least) is boring, specific use-cases: "here's a script that triages my inbox" beats "the future of work" every time. I think the same thing is happening with agent hype: everyone's demoing, few are shipping something that runs for a month. What trend are you glad to see go?
 
-20h ago
+22h ago
 
 ---
 
@@ -97,7 +97,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
 
-3h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Recent security testing involving AI models has raised an interesting question: 
 
 I just claimed local.ai/kabir. Claim your name.
 
-🔗 [local.ai](https://local.ai/kabir/invite) • 3h ago
+🔗 [local.ai](https://local.ai/kabir/invite) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ I just claimed local.ai/kabir. Claim your name.
 
 So I was poking around with ChatGPT settings, while waiting for a task to finish, and noticed that I can actually make my own agent pet. After some extensive "engineering" here is the final result. The concept is that it is a chibi dragon that roasts its marshmellow with its fiery breath (when agent is working) and it is inspecting the results of the marshmellow-cooking when agent is thinking/reviewing etc. There is even a jumping animation when hovering the cursor. Feedback and ideas are most welcome!
 
-20m ago
+1h ago
 
 ---
 
@@ -121,17 +121,9 @@ So I was poking around with ChatGPT settings, while waiting for a task to finish
 
 ## Google News: "ai"
 
-**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
-
-Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
-
-blog.google • 16h ago
-
----
-
 **[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -139,51 +131,15 @@ Reuters • 5h ago
 
 ﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
 
-The Verge • 41m ago
+The Verge • 1h ago
 
 ---
 
-**[Apple Trained Its own AI model for China Market With Help From Alibaba](https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/)**
+**[Apple cracks China with Alibaba for iPhone AI](https://www.computerworld.com/article/4209632/apple-cracks-china-with-alibaba-for-iphone-ai.html)**
 
-Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country. The LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China. Rollout of its AI features in China is expected in the coming months.
+The company has taken a page from its Google Gemini AI playbook and built its own proprietary AI model for China with support from Alibaba.
 
-MacRumors • 15m ago
-
----
-
-**[AI’s infrastructure boom is getting more leveraged — and harder to track](https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html)**
-
-AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.
-
-CNBC • 1h ago
-
----
-
-**[Open-source AI faces more government scrutiny](https://www.axios.com/2026/08/14/open-source-ai-government-scrutiny)**
-
-Axios • 51m ago
-
----
-
-**[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
-
-The New York Times • 59m ago
-
----
-
-**[Accelerating GPT-5.6 Sol Ultrafast with OpenAI](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)**
-
-Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
-
-Cerebras • 16h ago
-
----
-
-**[Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge](https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html)**
-
-Mad Money Host Jim Cramer named 6 AI data center stocks after Wednesday's rally. See how each has performed in 2026.
-
-Yahoo Finance • 14h ago
+Computerworld • 9m ago
 
 ---
 
@@ -191,7 +147,51 @@ Yahoo Finance • 14h ago
 
 US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-Financial Times • 2h ago
+Financial Times • 3h ago
+
+---
+
+**[Here's a key Big Tech metric to watch in the AI boom](https://www.axios.com/2026/08/14/ai-spending-tech-capital)**
+
+Axios • 5m ago
+
+---
+
+**[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)**
+
+Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
+
+WIRED • 30m ago
+
+---
+
+**[The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea](https://finance.yahoo.com/markets/article/the-next-ai-winners-may-look-nothing-like-nvidia-or-micron-one-big-investment-idea-095700607.html)**
+
+The next AI winners may look nothing like Nvidia.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
+
+Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
+
+blog.google • 18h ago
+
+---
+
+**[Accelerating GPT-5.6 Sol Ultrafast with OpenAI](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)**
+
+Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
+
+Cerebras • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 2h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 973 • 💬 902 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 974 • 💬 902 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -219,7 +219,7 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 301 • 💬 225 • 1d ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 301 • 💬 226 • 1d ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -235,7 +235,7 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 205 • 💬 87 • 20h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 207 • 💬 88 • 22h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -249,7 +249,7 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 161 • 💬 199 • 20h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 161 • 💬 199 • 21h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -265,13 +265,13 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 131 • 💬 131 • 19h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 131 • 💬 137 • 21h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 124 • 💬 139 • 18h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 128 • 💬 144 • 20h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -285,7 +285,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 8K • 👍 384 • 💬 34 • ⏱️ 16:41 • 9h ago
+👁️ 8K • 👍 384 • 💬 34 • ⏱️ 16:41 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ Boost your online protection with an all-in-one security app! Get an exclusive N
 
 📺 Sabine Hossenfelder
 
-👁️ 109K • 👍 7K • 💬 3K • ⏱️ 6:52 • 19h ago
+👁️ 109K • 👍 7K • 💬 3K • ⏱️ 6:52 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ Thank you to AutoDS for sponsoring today's tutorial - here's the full AI dropshi
 
 📺 Wholesale Ted
 
-👁️ 5K • 👍 374 • 💬 38 • ⏱️ 20:52 • 14h ago
+👁️ 5K • 👍 374 • 💬 38 • ⏱️ 20:52 • 15h ago
 
 ---
 
@@ -355,7 +355,7 @@ The AI character tom.rhoe went viral for making it look like he transformed his 
 
 📺 Mappelz
 
-👁️ 560K • 👍 33K • 💬 125 • ⏱️ 0:33 • 14h ago
+👁️ 560K • 👍 33K • 💬 125 • ⏱️ 0:33 • 15h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 3,832 • ❤️ 846 • 1d ago
+⬇️ 3,832 • ❤️ 846 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio`
 
-⬇️ 63 • ❤️ 502 • 17h ago
+⬇️ 63 • ❤️ 502 • 18h ago
 
 ---
 
@@ -463,7 +463,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 149,865 • ❤️ 473 • 18h ago
+⬇️ 149,865 • ❤️ 473 • 19h ago
 
 ---
 
@@ -487,7 +487,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 376 • 17h ago
+⬇️ 245 • ❤️ 376 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 11,768,622 • ❤️ 1,303 • 4d ago
+⬇️ 11,768,622 • ❤️ 1,303 • 5d ago
 
 ---
 
@@ -648,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 6h ago
+⭐ 13.5k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -658,7 +658,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 989 • 9h ago
+⭐ 8.4k • 🔱 989 • 10h ago
 
 ---
 
@@ -668,7 +668,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 6.3k • 🔱 668 • 7h ago
+⭐ 6.3k • 🔱 668 • 9h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 427 • 5h ago
+⭐ 5.0k • 🔱 427 • 6h ago
 
 ---
 
@@ -696,7 +696,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 534 • 20h ago
+⭐ 3.0k • 🔱 534 • 21h ago
 
 ---
 
@@ -716,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 1h ago
+⭐ 2.7k • 🔱 1.9k • 2h ago
 
 ---
 
@@ -736,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 169 • 18h ago
+⭐ 2.1k • 🔱 169 • 19h ago
 
 ---
 

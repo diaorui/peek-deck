@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T10:02:22.508523+00:00'
+updated: '2026-08-14T11:15:37.749778+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 10:02 UTC  
+**Last Updated:** August 14, 2026 at 11:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.3%  
-**30d:** +0.5%  
-**90d:** -12.1%  
+**24h:** -0.7%  
+**7d:** -2.2%  
+**30d:** +0.6%  
+**90d:** -12.0%  
 **1y:** -57.8%  
 
 ---
@@ -152,15 +152,19 @@ Hi folks! Been building on EVM chains since 2016, and finally got some free time
 
 ## Google News: "ethereum"
 
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/down-62-highs-ethereum-buy-105300199.html)**
 
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+Yahoo Finance • 22m ago
 
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+---
 
-Yahoo Finance • 14h ago
+**[Current price of Ethereum for Aug. 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 30m ago
 
 ---
 
@@ -168,23 +172,7 @@ Yahoo Finance • 14h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 8h ago
-
----
-
-**[Here's why Bitcoin, Ethereum, XRP recovery is sluggish](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-remain-sluggish-amid-mixed-etf-flows-202608131100)**
-
-The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
-
-FXStreet • 23h ago
-
----
-
-**[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP](https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp)**
-
-Bitcoin, Ethereum, and Tether clear the Russia central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.
-
-Decrypt • 2d ago
+Benzinga • 9h ago
 
 ---
 
@@ -196,19 +184,11 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 13, 2026](https://fortune.com/article/price-of-ethereum-08-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 17h ago
-
----
-
 **[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 17h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -220,6 +200,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Here's why Bitcoin, Ethereum, XRP recovery is sluggish](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-remain-sluggish-amid-mixed-etf-flows-202608131100)**
+
+The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
+
+FXStreet • 1d ago
+
+---
+
 **[Why Ethereum Price Could Skyrocket to $3,000 Within Days or Weeks](https://coinpedia.org/news/why-ethereum-could-skyrocket-to-3000-within-days-or-weeks/)**
 
 Ethereum (ETH) is poised for a rally that could see its price skyrocket to $3,000 and beyond, a level last visited at the beginning of the year. Reasons
@@ -228,11 +216,19 @@ Coinpedia • 1d ago
 
 ---
 
-**[SharpLink stakes $200M in Ethereum through Lido, with custody at Anchorage Digital](https://cryptobriefing.com/sharplink-200m-ethereum-lido-staking/)**
+**[What is Ultrasound Money? Understanding Ethereum’s Monetary Policy](https://financefeeds.com/what-is-ultrasound-money/)**
 
-SharpLink stakes $200M in Ethereum via Lido's liquid staking protocol, with wstETH custody at Anchorage Digital Bank, boosting its treasury yield
+Ethereum's ultrasound money thesis relies on EIP-1559 burns exceeding new issuance, but Layer 2 scaling pushed ETH back into mild inflation.
 
-Crypto Briefing • 16h ago
+FinanceFeeds • 12h ago
+
+---
+
+**[Ethereum: Staking Ratio Hits 34.4% as Exit Queue Nears Zero](https://blockchain.news/flashnews/ethereum-staking-ratio-hits-34-4-exit-queue-nears-zero)**
+
+Ethereum staking ratio climbs to 34.4% with exit queue near zero, tightening ETH supply at $1877.99 amid bearish 4h chart signals.
+
+blockchain.news • 30m ago
 
 ---
 
@@ -256,7 +252,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 24K • 👍 2K • 💬 164 • ⏱️ 8:55 • 21h ago
+👁️ 24K • 👍 2K • 💬 164 • ⏱️ 8:55 • 22h ago
 
 ---
 
@@ -276,7 +272,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 1K • 💬 415 • ⏱️ 12:21 • 22h ago
+👁️ 13K • 👍 1K • 💬 415 • ⏱️ 12:21 • 23h ago
 
 ---
 
@@ -286,7 +282,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 221 • 💬 108 • ⏱️ 18:22 • 15h ago
+👁️ 5K • 👍 221 • 💬 108 • ⏱️ 18:22 • 16h ago
 
 ---
 
@@ -296,7 +292,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 841 • 👍 25 • 💬 4 • ⏱️ 10:10 • 10h ago
+👁️ 841 • 👍 25 • 💬 4 • ⏱️ 10:10 • 12h ago
 
 ---
 
