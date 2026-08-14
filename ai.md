@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T01:58:15.109078+00:00'
+updated: '2026-08-14T04:14:38.201615+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 01:58 UTC  
+**Last Updated:** August 14, 2026 at 04:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-2h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 What's an AI trend that quietly died: and what replaced it? I'll go first: generic "AI will replace everything" blog content. It peaked and fizzled because people got tired of being shouted at. What replaced it (for me at least) is boring, specific use-cases: "here's a script that triages my inbox" beats "the future of work" every time. I think the same thing is happening with agent hype: everyone's demoing, few are shipping something that runs for a month. What trend are you glad to see go?
 
-12h ago
+15h ago
 
 ---
 
@@ -57,7 +57,13 @@ What's an AI trend that quietly died: and what replaced it? I'll go first: gener
 
 A Venice teen planning a mass shooting and hostage taking at a local church shared a 61-page, AI-generated manifesto online, reports said.
 
-🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 22h ago
+🔗 [Sarasota, FL Patch](https://patch.com/florida/sarasota/venice-teen-arrested-planning-mass-shooting-church-fdle) • 1d ago
+
+---
+
+**[And Claude has a watermark now.](https://www.reddit.com/r/artificial/comments/1vnwnep/and_claude_has_a_watermark_now/)**
+
+15m ago
 
 ---
 
@@ -65,7 +71,7 @@ A Venice teen planning a mass shooting and hostage taking at a local church shar
 
 Watching a former Tesla AI Director shrug and say "I can't tell if that's temporary, I'm not sure how I feel about it yet" did something to me. Usually it's the junior guy admitting that. Not the guy who helped build the thing. The people who end up fine here aren't the loudest about how safe their job is. They're just already standing close enough to the mechanism to redirect it, instead of getting redirected by it. Karpathy's actual point isn't doom. It's the Jevons paradox — code gets cheaper, so total demand for it goes up. Just not for the same kind of engineer who got hired in 2019. I watched a version of this play out years ago, before any of this AI stuff existed. I was the technical guy in a construction tender department. Rule-based work — you follow A, you get B. A sub-contractor came in to pitch his quotation. On his way out, in the corridor, we locked eyes and instantly recognized each other. I knew him — my senior once told me how this guy forced his way into building an illegal bungalow, moving the boundary survey line onto his neighbour's land. I caught a flicker of panic on his face. He wasn't expecting to see me there. I couldn't keep it to myself. I walked straight to my contract department and told them. They wrote him off after their own investigation. Our technical and contractual work was rule-based — AI eats that easily. What I did with that information wasn't. Insider judgment, only humans have. Actually — this is the same mechanism as a former SpaceX CIO's take on headcount compression, just proven with the actual numbers. Clip credit: No Priors — full video on their channel. DM for credit or removal requests. What would you have done in that corridor? Drop your take. 👇
 
-16h ago
+18h ago
 
 ---
 
@@ -73,7 +79,7 @@ Watching a former Tesla AI Director shrug and say "I can't tell if that's tempor
 
 Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan, officials said, in what experts believe is the first known fully autonomous attack on government agencies.
 
-🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 11h ago
+🔗 [CNN](https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk) • 13h ago
 
 ---
 
@@ -81,7 +87,7 @@ Hackers deployed an AI system to carry out sophisticated cyberattacks on Taiwan,
 
 Anthropic’s CEO expressed concern that his employees are more preoccupied with money than the mission of the company.
 
-🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 9h ago
+🔗 [hardresetmedia.com](https://www.hardresetmedia.com/p/ai-ceo-building-platform-based-on) • 12h ago
 
 ---
 
@@ -89,7 +95,7 @@ Anthropic’s CEO expressed concern that his employees are more preoccupied with
 
 Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
 
-11h ago
+13h ago
 
 ---
 
@@ -97,21 +103,13 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 WIRED says the voluntary framework currently covers frontier closed models from labs such as OpenAI and Anthropic. Open models are expected to join once they reach comparable capabilities, potentially facing a 30-day testing period before public release. Officials are caught between two risks: excluding open models could create a government-approved advantage for closed labs; including them could slow US open-model development.
 
-18h ago
-
----
-
-**[Why Retail & CPG AI Projects Fail: A Buyer's Guide to Strategy, Partners & ROI](https://www.reddit.com/r/artificial/comments/1vnijjo/why_retail_cpg_ai_projects_fail_a_buyers_guide_to/)**
-
-I've been looking at where Retail and CPG companies are actually getting stuck with AI, and I think the interesting part is that the biggest challenge isn't necessarily access to AI anymore. It's turning AI investment into measurable business outcomes. Companies have more data, better models and more GenAI tools than ever. But there is still a significant gap between having an AI use case, putting it into production, getting people to use it, and actually improving revenue, margin or operational performance. A few problems keep appearing across the Retail & CPG value chain. The problems 1. Demand forecasting is still unreliable Demand isn't driven by historical sales alone. Promotions, seasonality, weather, pricing, competitor activity and changing consumer behaviour can all move demand in different directions. AI demand forecasting can help, but only when the underlying data and planning processes are good enough to support it. 2. Inventory is in the wrong place at the wrong time The problem isn't simply having too much or too little inventory. It's having the right inventory in the wrong location. Stockouts create lost sales while excess inventory creates markdowns, waste and working-capital pressure. 3. Promotions don't always create incremental sales A promotion can increase sales without actually creating much incremental demand. Retailers and CPG companies therefore need to distinguish between sales generated by the promotion and sales that would have happened anyway. 4. Pricing decisions are still too reactive Pricing needs to account for elasticity, competitor movements, customer behaviour, product relationships and changing demand. Historical averages alone aren't enough when consumers can compare prices instantly. 5. Customer data is fragmented Loyalty, ecommerce, transactions, CRM, marketing and customer-service data often sit across different systems. Having millions of customer records doesn't necessarily mean having a usable customer view. 6. AI pilots don't make it into production This might be the biggest issue of all. A company can build a successful forecasting model, recommendation engine or GenAI prototype and still fail to create meaningful business value because of integration, data quality, governance, adoption, workflow design or unclear ownership. 7. Supply chains remain reactive Supply-chain teams can have enormous amounts of data and still struggle to anticipate disruptions quickly enough. The real opportunity isn't another dashboard; it's getting from signal → prediction → decision → action faster. 8. GenAI is being adopted without a clear business case There is understandable excitement around copilots, agents and GenAI applications. But “we should use GenAI” isn't a strategy. The better question is: Which business workflow can GenAI materially improve, and how will we measure it? 9. Data platforms aren't automatically creating better decisions A retailer can invest heavily in cloud infrastructure, data platforms and analytics and still have merchandising, supply-chain or commercial teams making decisions from spreadsheets. Data collection ≠ insight. Insight ≠ decision. Decision ≠ action. 10. AI ROI is difficult to measure Model accuracy isn't the same thing as business value. A forecasting model can become more accurate without materially improving inventory. A recommendation engine can increase engagement without improving margin. A GenAI assistant can save employee time without creating enough value to justify its cost. The real question should be: Did the AI initiative improve revenue, margin, inventory, productivity, customer experience or risk? What the data suggests https://preview.redd.it/o2o107yoe6jh1.png?width=1258&format=png&auto=webp&s=84dda136b0ac51be468ce395c752da41ce2441f5 The interesting pattern isn't that Retail and CPG companies lack AI opportunities. It's that the opportunities sit across the entire value chain: Demand → Inventory → Pricing → Promotions → Customer → Supply Chain And these aren't isolated problems. A forecasting problem can become an inventory problem. An inventory problem can become a customer-experience problem. A pricing problem can become a margin problem. A fragmented-data problem can prevent all of the above from being solved effectively. Where is AI investment actually going? The investment story is important, but I think the more interesting question is what happens after the investment. Companies can move from: Data → Model → Pilot without ever reaching: Workflow → Adoption → Business impact That's what I would call the AI value gap. What should a Retail or CPG company actually look for in an AI consulting partner? I'd evaluate a partner across six areas: Area Question to ask Industry expertise Have they solved this specific Retail/CPG problem before? Data capability Can they work with fragmented enterprise data? AI capability Can they build the right analytical, predictive or GenAI solution? Productionisation Can they move beyond the PoC? Business adoption Will the solution actually become part of the workflow? ROI measurement Can they connect the project to a measurable business outcome? Can they tell you when NOT to use AI? I think this is an underrated test of a consulting partner. If every business problem is answered with “AI can solve that,” I'd be cautious. Sometimes the answer is better data. Sometimes it's process redesign. Sometimes it's better integration. Sometimes it's simply fixing the underlying business process. And sometimes AI genuinely is the right answer. A simple framework I'd use Before approving an AI consulting project, I'd ask six questions: 1. What business problem are we solving? Not “Where can we use GenAI?” 2. What decision will change? If the model produces an insight but nobody changes their behaviour, what's the value? 3. What data is required? Is the data available, reliable and accessible? 4. Where does the solution sit in the workflow? Who receives the recommendation? What happens next? 5. What happens after the PoC? Who owns productionisation, adoption and ongoing improvement? 6. How will we measure ROI? Define the business metric before building the technology. ROI should be part of the AI strategy from day one, not something calculated after the project is finished. For people working in Retail, CPG, consulting or enterprise AI what is actually stopping AI projects from reaching measurable ROI in your experience? Data quality? Technology integration? Lack of business ownership? Employee adoption? Choosing the wrong use case? Difficulty moving from PoC to production? Or simply unrealistic ROI expectations? I'd be particularly interested in examples from companies that have actually tried to scale AI rather than just run pilots.
-
-7h ago
+20h ago
 
 ---
 
 **[Cascadia Launches Distributed AI Inference for Intel Hardware](https://www.reddit.com/r/artificial/comments/1vnbxow/cascadia_launches_distributed_ai_inference_for/)**
 
-🔗 [businesswire.com](https://www.businesswire.com/news/home/20260813129096/en/Cascadia-Launches-Distributed-AI-Inference-for-Intel-Hardware) • 11h ago
+🔗 [businesswire.com](https://www.businesswire.com/news/home/20260813129096/en/Cascadia-Launches-Distributed-AI-Inference-for-Intel-Hardware) • 13h ago
 
 ---
 
@@ -119,41 +117,39 @@ I've been looking at where Retail and CPG companies are actually getting stuck w
 
 ## Google News: "ai"
 
-**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
-
-From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
-
-The Washington Post • 8h ago
-
----
-
 **['Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom](https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html)**
 
 Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
 
-CNBC • 12h ago
+CNBC • 14h ago
 
 ---
 
-**[Uber and China’s Pony AI to Deploy 2,000 Robotaxis in Europe](https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe)**
+**[Chatbots are doing the work of Congress with little oversight](https://www.washingtonpost.com/politics/2026/08/13/chatbots-are-doing-work-congress-with-little-oversight/)**
 
-Bloomberg.com • 58m ago
+From writing speeches to sorting constituent mail, AI is spreading through Congress faster than the rules governing its use.
 
----
-
-**[Dynatrace Pays $915 Million To Move AI Evaluation Upstream](https://www.forbes.com/sites/janakirammsv/2026/08/13/dynatrace-pays-915-million-to-move-ai-evaluation-upstream/)**
-
-Dynatrace already shipped LLM-as-a-judge evaluation. Its $915 million Arize deal buys something else, a position with AI engineers before an app reaches production.
-
-Forbes • 31m ago
+The Washington Post • 11h ago
 
 ---
 
-**[Is AI coming for Indian jobs? It’s already here](https://www.ft.com/content/4f0142b8-96c4-455a-acb1-cfc2fd6d4e14?syn-25a6b1a6=1)**
+**[European publishers are getting hit harder by AI bot scraping, report finds](https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/)**
 
-Also in this newsletter: equity investments skew towards risk
+European publishers face more AI bot scraping, fewer referrals and more ignored robots.txt rules than North American sites, report finds.
 
-ft.com • 27m ago
+Digiday • 13m ago
+
+---
+
+**[Chinese chipmaker SMIC increases prices on strong AI demand](https://www.reuters.com/world/china/chinese-chipmaker-smic-increases-prices-strong-ai-demand-2026-08-14/)**
+
+Reuters • 1h ago
+
+---
+
+**[EM Assets Buoyed by Easing US Rate Worries, Gains in AI Leaders](https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders)**
+
+Bloomberg • 10m ago
 
 ---
 
@@ -161,21 +157,7 @@ ft.com • 27m ago
 
 Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 
-blog.google • 8h ago
-
----
-
-**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
-
-Bots are starting to conspire with one another. Can they be reeled back in?
-
-The Atlantic • 1d ago
-
----
-
-**[I Tested a Popular A.I. Slop Detector. It Felt Empowering.](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html)**
-
-The New York Times • 16h ago
+blog.google • 11h ago
 
 ---
 
@@ -183,13 +165,27 @@ The New York Times • 16h ago
 
 Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
 
-Cerebras • 8h ago
+Cerebras • 11h ago
 
 ---
 
-**[EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open](https://www.reuters.com/world/china/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-2026-08-13/)**
+**[Opinion | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)**
 
-Reuters • 11h ago
+The New York Times • 23h ago
+
+---
+
+**[The AI perception bubble](https://www.axios.com/2026/08/13/ai-backlash-perception-comms-bubble)**
+
+Axios • 12h ago
+
+---
+
+**[In a New Test, AI Mortgage Assistants Got Nearly 1 in 4 Answers Wrong](https://www.realtor.com/news/trends/top-ai-mortgage-underwriting-test-failure-new-report/)**
+
+Mortgage AI testing found transaction errors and stark differences in how models treated deposits tied to English and non-English names.
+
+Realtor.com • 5h ago
 
 ---
 
@@ -201,7 +197,7 @@ Reuters • 11h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 963 • 💬 890 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 966 • 💬 894 • 1d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -209,7 +205,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 As AI shifts software engineering from writing to reviewing, discover how Go's strict compiler and unified toolchain ensure reliable AI-generated code.
 
-⬆️ 434 • 💬 527 • 2d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+⬆️ 436 • 💬 529 • 2d ago • [developers.googleblog.com](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 
@@ -225,7 +221,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
-⬆️ 209 • 💬 159 • 2d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+⬆️ 210 • 💬 159 • 2d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
 
 ---
 
@@ -233,7 +229,7 @@ Transportation Secretary Sean Duffy is touting the success of a campaign targeti
 
 Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission
 
-⬆️ 196 • 💬 51 • 1d ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+⬆️ 196 • 💬 51 • 2d ago • [404 Media](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
@@ -241,7 +237,13 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 177 • 💬 73 • 12h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 183 • 💬 77 • 15h ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+
+---
+
+**[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
+
+⬆️ 158 • 💬 197 • 14h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -253,17 +255,11 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 ---
 
-**[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
-
-⬆️ 154 • 💬 197 • 12h ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
-
----
-
 **[Heart aerospace completes first flight of largest electric aircraft](https://news.ycombinator.com/item?id=49286270)**
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 120 • 💬 121 • 11h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 122 • 💬 124 • 14h ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
@@ -277,23 +273,13 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
-**[How to Make Consistent AI Characters in Higgsfield AI (Step by Step)](https://www.youtube.com/watch?v=ZsrhdgG0I1E)**
-
-Keep Your AI Characters Consistent with Higgsfield https://youricreates.com/Higgsfield In this video, I show how to build ...
-
-📺 Youri van Hofwegen
-
-👁️ 10K • 💬 7 • ⏱️ 12:53 • 10h ago
-
----
-
 **[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
 
 Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
 
 📺 Sabine Hossenfelder
 
-👁️ 87K • 👍 6K • 💬 3K • ⏱️ 6:52 • 10h ago
+👁️ 98K • 👍 6K • 💬 3K • ⏱️ 6:52 • 13h ago
 
 ---
 
@@ -303,27 +289,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 117K • 👍 5K • 💬 2K • ⏱️ 17:04 • 22h ago
-
----
-
-**[YOU WILL PAY For Inevitable AI Bailout](https://www.youtube.com/watch?v=GjBJLdQ7uRI)**
-
-Krystal and Saagar discuss discuss the incoming hidden AI bailout plot. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 192K • 👍 5K • 💬 648 • ⏱️ 13:12 • 2d ago
-
----
-
-**[I built my first local AI agent](https://www.youtube.com/watch?v=PvGr7tm0Hes)**
-
-In this video Adam works with Wendell from @Level1Techs to set up his first local AI agent using an MSI Cubi NUC and a ...
-
-📺 PCWorld
-
-👁️ 3K • 👍 243 • 💬 26 • ⏱️ 19:47 • 8h ago
+👁️ 120K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
 
 ---
 
@@ -333,7 +299,27 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 28K • 👍 989 • 💬 116 • ⏱️ 17:01 • 1d ago
+👁️ 29K • 👍 1K • 💬 120 • ⏱️ 17:01 • 1d ago
+
+---
+
+**[RLCS PRO vs UNDEFEATED AI](https://www.youtube.com/watch?v=OD5KW6tHnY8)**
+
+This video wont end until we we beat the worlds best undefeated rocket league bot - featuring rocket league professional players!
+
+📺 amustycow
+
+👁️ 288K • 👍 9K • 💬 824 • ⏱️ 33:16 • 1d ago
+
+---
+
+**[Zuckerberg makes &#39;STUNNING&#39; announcement on AI race](https://www.youtube.com/watch?v=K7Kpba0VN2A)**
+
+Meta CEO Mark Zuckerberg details his vision for the future of artificial intelligence and argues American leadership in AI is crucial ...
+
+📺 Fox News Clips
+
+👁️ 108K • 👍 2K • 💬 962 • ⏱️ 3:31 • 2d ago
 
 ---
 
@@ -347,33 +333,41 @@ Watch vivid coral orange and deep indigo pigment powders slowly blend together i
 
 ---
 
-**[Making An Actually Fun 3D Game with AI](https://www.youtube.com/watch?v=qK4nV_LnXxQ)**
-
-I vibe coded a full game sequel using Claude Code and Codex, and it proved something important about AI and game ...
-
-📺 Matt Wolfe
-
-👁️ 19K • 👍 802 • 💬 126 • ⏱️ 28:51 • 1d ago
-
----
-
-**[The (Overdue) Collapse Of Artificial Intelligence](https://www.youtube.com/watch?v=XaAMbu5ohVw)**
-
-Get FREE end-to-end encrypted email at https://www.proton.me/gen Ford cut 5300 jobs, handed the work to AI, then paid to bring ...
-
-📺 GEN
-
-👁️ 285K • 👍 12K • 💬 2K • ⏱️ 20:31 • 2d ago
-
----
-
 **[Scariest Things AI Has Ever Done](https://www.youtube.com/watch?v=TkNHarHgAOg)**
 
 check out hxsain.com #shorts​
 
 📺 hxsain
 
-👁️ 472K • 👍 35K • 💬 838 • ⏱️ 1:22 • 1d ago
+👁️ 500K • 👍 36K • 💬 853 • ⏱️ 1:22 • 1d ago
+
+---
+
+**[She Crashes Out After Using AI](https://www.youtube.com/watch?v=o3pMR_LEGps)**
+
+Don't forget to SUBSCRIBE and turn on the so you never miss a laugh! Like, comment, and share if you enjoyed — it really ...
+
+📺 MeowingJay
+
+👁️ 14K • 💬 8 • ⏱️ 0:39 • 12h ago
+
+---
+
+**[AI Fuel Pump! ⛽️](https://www.youtube.com/watch?v=wmBpGDG8830)**
+
+autofuel You can follow us on: https://www.instagram.com/supercarblondie https://www.facebook.com/supercarblondie ...
+
+📺 Supercar Blondie
+
+👁️ 116K • 👍 3K • 💬 853 • ⏱️ 3:00 • 18h ago
+
+---
+
+**[Got her!](https://www.youtube.com/watch?v=gU_PLG1_t0s)**
+
+📺 Gianna Joyce
+
+👁️ 926K • 👍 9K • 💬 240 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -389,7 +383,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 121,042 • ❤️ 1,423 • 2d ago
+⬇️ 121,042 • ❤️ 1,436 • 2d ago
 
 ---
 
@@ -401,7 +395,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,605,940 • ❤️ 3,826 • 1d ago
+⬇️ 1,605,940 • ❤️ 3,837 • 1d ago
 
 ---
 
@@ -413,7 +407,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 1,012 • ❤️ 789 • 1d ago
+⬇️ 1,012 • ❤️ 802 • 1d ago
 
 ---
 
@@ -425,7 +419,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 57,287 • ❤️ 724 • 1d ago
+⬇️ 57,287 • ❤️ 739 • 1d ago
 
 ---
 
@@ -437,7 +431,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,431,587 • ❤️ 3,323 • 12d ago
+⬇️ 1,431,587 • ❤️ 3,329 • 13d ago
 
 ---
 
@@ -449,7 +443,31 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 91,455 • ❤️ 462 • 10h ago
+⬇️ 91,455 • ❤️ 465 • 12h ago
+
+---
+
+**[Muse-Glimmer-30B-GGUF](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF)**
+
+*Unsloth AI*
+
+Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agentic tasks, featuring reliable tool use, multi-step reasoning, and failure recovery. It processes interleaved text and images, supporting multilingual inputs and controllable effort for efficient deployment on consumer hardware.
+
+`image-text-to-text` `27.9B`
+
+⬇️ 352,023 • ❤️ 392 • 3d ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio`
+
+⬇️ 25 • ❤️ 390 • 11h ago
 
 ---
 
@@ -465,37 +483,13 @@ This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchroniz
 
 ---
 
-**[Muse-Glimmer-30B-GGUF](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF)**
-
-*Unsloth AI*
-
-Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agentic tasks, featuring reliable tool use, multi-step reasoning, and failure recovery. It processes interleaved text and images, supporting multilingual inputs and controllable effort for efficient deployment on consumer hardware.
-
-`image-text-to-text` `27.9B`
-
-⬇️ 352,023 • ❤️ 389 • 3d ago
-
----
-
 **[MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)**
 
 *Comfy Org*
 
 MiniMax H3 provides repackaged diffusion models, text encoders, and VAEs for ComfyUI, enabling image-to-video (I2V), text-to-video (T2V), and reference-to-video (R2V) generation workflows.
 
-⬇️ 10,365,210 • ❤️ 1,291 • 4d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio`
-
-⬇️ 25 • ❤️ 336 • 9h ago
+⬇️ 10,365,210 • ❤️ 1,295 • 4d ago
 
 ---
 
@@ -529,20 +523,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
-
-*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
-
-🏢 MatrAIx
-
-MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
-
-▲ 35 • 💬 2 • ⭐ 958 • 10d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -552,6 +532,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 52 • 💬 4 • ⭐ 37,088 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
+
+*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
+
+🏢 MatrAIx
+
+MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
+
+▲ 36 • 💬 2 • ⭐ 982 • 10d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
 ---
 
@@ -577,7 +571,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 92 • 💬 1 • ⭐ 1,019 • 10d ago
+▲ 92 • 💬 1 • ⭐ 1,076 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -604,7 +598,7 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 83,915 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 83,967 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -646,7 +640,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 1h ago
+⭐ 13.5k • 🔱 1.6k • 45m ago
 
 ---
 
@@ -656,7 +650,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 983 • 1h ago
+⭐ 8.4k • 🔱 985 • 3h ago
 
 ---
 
@@ -666,7 +660,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 5.5k • 🔱 572 • 12m ago
+⭐ 5.7k • 🔱 601 • 2h ago
 
 ---
 
@@ -676,7 +670,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 4.9k • 🔱 424 • 7h ago
+⭐ 5.0k • 🔱 425 • 1h ago
 
 ---
 
@@ -694,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.0k • 🔱 526 • 12h ago
+⭐ 3.0k • 🔱 528 • 14h ago
 
 ---
 
@@ -704,7 +698,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 40s ago
+⭐ 2.7k • 🔱 1.9k • 1m ago
 
 ---
 
@@ -734,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 167 • 10h ago
+⭐ 2.1k • 🔱 167 • 12h ago
 
 ---
 

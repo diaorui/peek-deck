@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T01:58:15.122574+00:00'
+updated: '2026-08-14T04:14:38.214848+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 01:58 UTC  
+**Last Updated:** August 14, 2026 at 04:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.16
+### $1,885.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.5%  
-**30d:** +1.4%  
-**90d:** -11.3%  
-**1y:** -57.5%  
+**24h:** -0.7%  
+**7d:** -1.8%  
+**30d:** +1.0%  
+**90d:** -11.6%  
+**1y:** -57.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.67B
+**Market Cap:** $227.34B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435627.8%
++434988.1%
 
 ---
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+**[SharpLink Deploys $200M in Ethereum Through Lido to Expand DeFi Yield Strategy](https://finance.yahoo.com/markets/crypto/articles/sharplink-deploys-200m-ethereum-lido-011500282.html)**
 
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+SharpLink Inc. (NASDAQ: $SBET) is putting another $200 million of its Ethereum treasury to work, this time through ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,13 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 11h ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+
+CCN.com • 14h ago
 
 ---
 
@@ -188,13 +194,7 @@ Fortune • 9h ago
 
 FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
 
-CryptoSlate • 9h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 12h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -206,19 +206,11 @@ Coinpedia • 1d ago
 
 ---
 
-**[Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE](https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/)**
-
-The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance
-
-Crypto Briefing • 10h ago
-
----
-
 **[Ethereum ETFs: Draw Inflows as Bitcoin Records Outflows](https://blockchain.news/flashnews/ethereum-etfs-draw-inflows-bitcoin-records-outflows)**
 
 Ethereum ETFs post +3,947 ETH 1D inflows while Bitcoin ETFs see -1,132 BTC outflows, with ETH trading at $1890.76 on 4h chart.
 
-blockchain.news • 10h ago
+blockchain.news • 12h ago
 
 ---
 
@@ -227,6 +219,14 @@ blockchain.news • 10h ago
 Bitcoin nears “crunch time” as Benjamin Cowen sees an October bottom while Ethereum wallet activity hits its highest since March.
 
 Benzinga • 2d ago
+
+---
+
+**[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy](https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy)**
+
+Vitalik Buterin overlaid his 2023 Ethereum roadmap onto the EF strawmap on Aug. 10, saying the protocol will expose a non-EVM instruction set and marking EOF deprioritized.
+
+The Defiant • 3d ago
 
 ---
 
@@ -240,37 +240,7 @@ Benzinga • 2d ago
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 141 • ⏱️ 9:22 • 1d ago
-
----
-
-**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
-
-BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 189 • 💬 108 • ⏱️ 18:22 • 7h ago
-
----
-
-**[ETHEREUM: TIME TO LOCK IN](https://www.youtube.com/watch?v=P7co89RhibM)**
-
-The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
-
-📺 Jordan Camirand
-
-👁️ 8K • 👍 507 • 💬 216 • ⏱️ 19:05 • 2d ago
-
----
-
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 393 • ⏱️ 12:21 • 14h ago
+👁️ 32K • 👍 2K • 💬 152 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -284,13 +254,53 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 ---
 
+**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
+
+Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
+
+📺 The Rollup
+
+👁️ 408 • 👍 16 • 💬 4 • ⏱️ 10:10 • 4h ago
+
+---
+
+**[ETHEREUM: TIME TO LOCK IN](https://www.youtube.com/watch?v=P7co89RhibM)**
+
+The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
+
+📺 Jordan Camirand
+
+👁️ 8K • 👍 511 • 💬 217 • ⏱️ 19:05 • 2d ago
+
+---
+
+**[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
+
+BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 208 • 💬 110 • ⏱️ 18:22 • 9h ago
+
+---
+
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 12K • 👍 1K • 💬 419 • ⏱️ 12:21 • 16h ago
+
+---
+
 **[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
 
 Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
 
 📺 AllinCrypto
 
-👁️ 9K • 👍 541 • 💬 174 • ⏱️ 13:27 • 1d ago
+👁️ 9K • 👍 545 • 💬 176 • ⏱️ 13:27 • 1d ago
 
 ---
 
@@ -300,17 +310,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 256 • 💬 47 • ⏱️ 1:01:54 • 1d ago
-
----
-
-**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
-
-Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 71 • 💬 11 • ⏱️ 7:15 • 1d ago
+👁️ 5K • 👍 257 • 💬 47 • ⏱️ 1:01:54 • 1d ago
 
 ---
 
@@ -324,13 +324,13 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 ---
 
-**[ETH Hit $880... Is It Happening Again?](https://www.youtube.com/watch?v=vanAkiXUsmg)**
+**[🤩 Ethereum Breaks Out - ETH Crypto Analysis](https://www.youtube.com/watch?v=eQ-N5GZMndc)**
 
-Ethereum is getting hammered back into the deep support buy zone—could ETH crash all the way back to $880? Here is what the ...
+Get Free Premium Trade: https://the-bitcoin-strategy.com/r/afmviA8Z X Follow Me On X: https://x.com/BitcoinStrat My Chart ...
 
-📺 The Crypto Code
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 42 • 👍 1 • ⏱️ 0:47 • 7h ago
+👁️ 2K • 👍 72 • 💬 11 • ⏱️ 7:15 • 1d ago
 
 ---
 
