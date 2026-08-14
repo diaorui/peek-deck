@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T21:50:01.647913+00:00'
+updated: '2026-08-14T22:22:39.009618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 21:50 UTC  
+**Last Updated:** August 14, 2026 at 22:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 4m ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 37m ago
 
 ---
 
@@ -57,7 +57,7 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-32m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-22h ago
+23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ New South Wales is considering joining Australia’s national face-matching netw
 
 Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it. - One-off analysis with judgment? Ask a human or a cheap model. - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole secret: AI where it compounds, code where it doesn't. What's something you tried to do with AI that you now do without it?
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox News • 1h ago
 
 **[Google Opens the Gates of AI Slop Hell](https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888)**
 
-Gizmodo • 58m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -153,19 +153,19 @@ Gizmodo • 58m ago
 
 Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
 **[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 33m ago
+Reuters • 1h ago
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 6h ago
+👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 7h ago
 
 ---
 
@@ -305,7 +305,7 @@ Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup...
 
 📺 James Charles
 
-👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 2h ago
+👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 3h ago
 
 ---
 
@@ -315,7 +315,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 7h ago
+👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 21h ago
+👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ My original Robot Pacman vs Dentures Short has over 182 million views: https://w
 
 📺 StrEat
 
-👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 8h ago
+👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,816 • 6h ago
+⬇️ 2 • ❤️ 8,816 • 7h ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 635 • 10h ago
+⬇️ 63 • ❤️ 635 • 11h ago
 
 ---
 
@@ -650,7 +650,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 30m ago
+⭐ 13.5k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 21h ago
+⭐ 8.4k • 🔱 995 • 22h ago
 
 ---
 
@@ -680,7 +680,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 17h ago
+⭐ 5.0k • 🔱 429 • 18h ago
 
 ---
 
@@ -718,7 +718,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 13h ago
+⭐ 2.7k • 🔱 1.9k • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T21:50:01.654906+00:00'
+updated: '2026-08-14T22:22:39.017346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - cryptocurrency
 - social
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 21:50 UTC  
+**Last Updated:** August 14, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,11 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
+**[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
-
-17h ago
+6h ago
 
 ---
 
@@ -93,23 +91,33 @@ Never forget the bigger picture!
 
 ---
 
-**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
-
-8h ago
-
----
-
 **[Where did my funds go?](https://www.reddit.com/r/Bitcoin/comments/1vo49a4/where_did_my_funds_go/)**
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-10h ago
+11h ago
 
 ---
 
-**[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
+**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
 
-6h ago
+This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
+
+18h ago
+
+---
+
+**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+
+9h ago
+
+---
+
+**[The air is thin… we must be close](https://www.reddit.com/r/Bitcoin/comments/1voje4o/the_air_is_thin_we_must_be_close/)**
+
+For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
+
+1h ago
 
 ---
 
@@ -117,13 +125,15 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 6h ago
 
 ---
 
-**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
+**[Rodolfo Novak Coldcard CEO deletes his bitcoinsecurity.guide, the traces of what it seemed he did deceptive endorsement.](https://www.reddit.com/r/Bitcoin/comments/1vohwh6/rodolfo_novak_coldcard_ceo_deletes_his/)**
 
-1d ago
+They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
+
+2h ago
 
 ---
 
@@ -131,23 +141,13 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-4h ago
+5h ago
 
 ---
 
-**[Scammers texting as my dog groomer?](https://www.reddit.com/r/Bitcoin/comments/1vo81an/scammers_texting_as_my_dog_groomer/)**
+**[Remember, nothing stops this train](https://www.reddit.com/r/Bitcoin/comments/1vnnxz8/remember_nothing_stops_this_train/)**
 
-This is crazy but somehow scammers are texting from the number i talk to my dog groomers from and sending links. I obviously didn’t click anything but im just surprised to see something like this. Be vigilant out there!
-
-7h ago
-
----
-
-**[I built a simple web with a list of bitcoin tools](https://www.reddit.com/r/Bitcoin/comments/1voappl/i_built_a_simple_web_with_a_list_of_bitcoin_tools/)**
-
-hi! what tool would you add?
-
-6h ago
+1d ago
 
 ---
 
@@ -159,7 +159,7 @@ hi! what tool would you add?
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 45m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 45m ago
 
 Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bitcoin Magazine • 7h ago
 
 A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.
 
-Yahoo • 46m ago
+Yahoo • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo • 46m ago
 
 Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 7h ago
+Sacramento Bee • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ Sacramento Bee • 7h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-fool.com • 10h ago
+fool.com • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Mashable • 16h ago
 
 MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -271,7 +271,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 21h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 22h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -285,7 +285,7 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 22h ago
+👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 23h ago
 
 ---
 
@@ -305,7 +305,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 258 • ⏱️ 18:25 • 23h ago
+👁️ 29K • 👍 2K • 💬 258 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 15h ago
+👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 16h ago
 
 ---
 
