@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T14:51:36.930706+00:00'
+updated: '2026-08-14T15:52:15.128250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 14:51 UTC  
+**Last Updated:** August 14, 2026 at 15:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** -2.6%  
-**30d:** +0.1%  
-**90d:** -12.4%  
-**1y:** -58.0%  
+**24h:** +0.4%  
+**7d:** -1.9%  
+**30d:** +0.9%  
+**90d:** -11.7%  
+**1y:** -57.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-4h ago
+5h ago
 
 ---
 
@@ -152,43 +152,11 @@ I’ve been building an open-source monitor for Capped Continuous Auctions (CCAs
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
-
-Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
-
-finance.yahoo.com • 2d ago
-
----
-
-**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
-
----
-
-**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://finance.yahoo.com/markets/crypto/articles/down-62-highs-ethereum-buy-105300199.html)**
-
-There are still plenty of reasons to believe in the second-largest cryptocurrency.
-
-finance.yahoo.com • 3h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-finance.yahoo.com • 2h ago
-
----
-
-**[Bitcoin, Ethereum, XRP or Solana: Which ETF will grow the most in 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-solana-etf-110021831.html)**
-
-Bitcoin ETFs command nearly $52 billion in cumulative inflows, yet two smaller rivals have quietly outpaced it in percentage growth this year. With the CLARITY Act vote looming and a major Solana upgrade on the horizon, the race for top-performing crypto ETF of 2026 is far from settled.
-
-finance.yahoo.com • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -204,15 +172,45 @@ The Block • 1d ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 12h ago
+Benzinga • 13h ago
 
 ---
 
-**[FG Nexus dumped all its Ethereum at a $45 million loss](https://cryptoslate.com/fg-nexus-dumped-all-its-ethereum-at-a-45-million-loss-to-buy-mobile-home-parks-after-earning-just-144000-in-staking-rewards/)**
+**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
 
-FG Nexus has sold its entire Ethereum portfolio and is shifting its capital into income-producing real estate.
+DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-CryptoSlate • 22h ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Ethereum Price Forecast: ETH Can Still Rally to $2.5K as Whales Keep Buying](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-eth-still-133739312.html)**
+
+Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
+
+ETF Database • 13m ago
+
+---
+
+**[Shiba Inu (SHIB) Hits Zero on 2 Critical Thresholds, Ethereum (ETH) Reaches Pre-Golden Cross, Hyperliquid (HYPE) Breaks Through: Crypto Market Review](https://u.today/shiba-inu-shib-hits-zero-on-2-critical-thresholds-ethereum-eth-reaches-pre-golden-cross-hyperliquid)**
+
+Things are getting more interesting on the market as volatility surges on multiple assets.
+
+u.today • 15h ago
+
+---
+
+**[Ethereum’s post-quantum roadmap puts banks on a 2027 deadline nobody is talking about](https://cryptoslate.com/ethereums-post-quantum-roadmap-puts-banks-on-a-2027-deadline-nobody-is-talking-about/)**
+
+Ethereum’s post-quantum migration could force banks to rebuild custody, backup and audit controls years before validator signatures switch.
+
+CryptoSlate • 4h ago
 
 ---
 
@@ -224,11 +222,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Here's why Bitcoin, Ethereum, XRP recovery is sluggish](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-remain-sluggish-amid-mixed-etf-flows-202608131100)**
+**[FG Nexus Exits Ethereum With $45.2M Loss, Sells All ETH](https://financefeeds.com/fg-nexus-sold-all-its-crypto-by-june-30-ending-ethereum-treasury-strategy-less-than-a-year-after-launch/)**
 
-The cryptocurrency market continues to trade sideways on Thursday, with Bitcoin (BTC) struggling to reclaim the $64,000 level. Ethereum (ETH) is attempting to build momentum near the key $1,900 resistance, while Ripple (XRP) maintains support above $1.00, yet upward movement remains limited.
+FG Nexus held zero digital assets at June 30 after $60.96M in Ether sales, booking a $45.2M loss and pivoting from its ETH treasury to real estate.
 
-FXStreet • 1d ago
+FinanceFeeds • 7h ago
 
 ---
 
@@ -262,7 +260,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 671 • 💬 87 • ⏱️ 11:56 • 3h ago
+👁️ 4K • 👍 671 • 💬 87 • ⏱️ 11:56 • 4h ago
 
 ---
 
@@ -302,7 +300,7 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 233 • 💬 115 • ⏱️ 18:22 • 20h ago
+👁️ 5K • 👍 233 • 💬 115 • ⏱️ 18:22 • 21h ago
 
 ---
 
@@ -312,7 +310,7 @@ Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood C
 
 📺 The Rollup
 
-👁️ 1K • 👍 35 • 💬 4 • ⏱️ 10:10 • 15h ago
+👁️ 1K • 👍 35 • 💬 4 • ⏱️ 10:10 • 16h ago
 
 ---
 
@@ -332,7 +330,7 @@ Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypt
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 257 • 💬 47 • ⏱️ 1:01:54 • 1d ago
+👁️ 5K • 👍 257 • 💬 47 • ⏱️ 1:01:54 • 2d ago
 
 ---
 

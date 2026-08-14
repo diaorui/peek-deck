@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T14:51:36.917540+00:00'
+updated: '2026-08-14T15:52:15.115323+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 14:51 UTC  
+**Last Updated:** August 14, 2026 at 15:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 https://preview.redd.it/frhws9cu1cjh1.png?width=1222&format=png&auto=webp&s=f3aa2f0bde64333c3fd4786a9b4c4e05a0c4e8f6 A 150-million-parameter model just redrew the ARC-AGI-1 cost-efficiency frontier. Btw, they show 600B scale retaining the recurrent latent reasoning capabilities. The result was evaluated by Łukasz Kaiser (co-author of the original Transformer paper), Remek Kinas (AI Researcher and co-creator of Bielik LLM) and Richard Zhong (NYU researcher) focused on model evaluation and benchmark robustness. ARC-AGI-1 is a public reasoning benchmark that tests whether a system can infer an underlying rule from a small number of examples and apply it to a new input, a capability often associated with human-like intelligence. Standard LLMs, despite their massive parameter counts, have historically struggled with ARC-AGI because it requires novel reasoning on unfamiliar problems. Transformers typically improve through brute-force scaling, which demands increasingly large amounts of compute. What these researchers have shown is that a non-transformer architecture can climb the ARC-AGI benchmark at a fraction of the compute cost of traditional models. Instead of relying on a standard attention-based Transformer stack and visible CoT, it uses recurrent memory and latent reasoning to achieve these strong results with drastically less compute. New architectures that deliver strong reasoning at low compute costs could change the economics of AI itself.
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,15 @@ https://preview.redd.it/frhws9cu1cjh1.png?width=1222&format=png&auto=webp&s=f3aa
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-5h ago
+6h ago
+
+---
+
+**[Is it over for AI UGC ads? Has the bubble finally burst?](https://www.reddit.com/r/artificial/comments/1vo9qsc/is_it_over_for_ai_ugc_ads_has_the_bubble_finally/)**
+
+I hv been in the trenches with ai generated ad content and I feel strongly a shift is coming and it surely doesnt look good for ai video tools Starting with new york, any ad featuring an ai generated person has to be labeled as a synthetic performer like an on ad label and ny is kind of state that tends to set the template for everyone else to copy(coz no one want two versions of a policy) Meta also is now auto detecting and labeling ads when their systems flag generative ai tools in the pipeline which means it doesnt matter how good and natural an ai ad looks ,it will be automatically labelled by meta lol . And then Snapchat has now stopped rewarding it in the algorithm too,its a push to creators to make human made stuff and i think a more effective way because it doesnt create a fight and make ai version less visible by default (slowly bleeding them ) But none of this kills ai generation as a capability,only thing breaking is the specific business case of using it to impersonate authentic human recommendation without anyone knowing. Once labeling makes that transparent,there will be no ai ad vs real ad debate anymore finally We also ended up pulling most of our budget out of ai generation and back into human creator content this year and ended up spending 3x of what we were putting into the ai tools(coz it worked better for us). The spend went up and the return rate on the product went down as we got fewer product not match to ad typa complaints . well tbh ai vids made sense for us before the labeling stuff even fully kicked in btw, the regulation just removed any temptation to go back rn. And there are companies that are seeing this coming and now are building and pivoting for eg. theres a company Icon ,it launched as an ai ad tool and pivoted entirely away from generation into human only production and now there human made video costs somewhat same to what we spent on ai ads($166 per video) so imo all of this doesnt look good for ai video generation tools like higgsfield or arcade what do think ,is the bubble finally bursting or the category maturing into something narrower ?
+
+48m ago
 
 ---
 
@@ -57,7 +65,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +73,15 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-6h ago
+7h ago
+
+---
+
+**[🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!](https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/)**
+
+🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
+
+22m ago
 
 ---
 
@@ -73,7 +89,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-15h ago
+16h ago
 
 ---
 
@@ -81,15 +97,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-3h ago
-
----
-
-**[If an AI agent can hack systems during testing, should we be treating agents like security principals?](https://www.reddit.com/r/artificial/comments/1vnz5p3/if_an_ai_agent_can_hack_systems_during_testing/)**
-
-Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing. That makes me wonder whether traditional application security assumptions are enough for agentic systems. If an AI agent has access to: source code cloud infrastructure databases APIs credentials internal documents Should the agent itself be treated like a privileged user/service account? What controls should enterprises require before giving an agent meaningful production access? Least privilege? Sandboxing? Approval gates? Continuous monitoring? Separate agent identities? Where would you draw the line?
-
-8h ago
+4h ago
 
 ---
 
@@ -97,21 +105,13 @@ Recent security testing involving AI models has raised an interesting question: 
 
 New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
 
-1h ago
+2h ago
 
 ---
 
 **[The most useful AI skill in 2026 isn't prompting or agents. It's knowing when NOT to use AI](https://www.reddit.com/r/artificial/comments/1vo6h13/the_most_useful_ai_skill_in_2026_isnt_prompting/)**
 
 Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it. - One-off analysis with judgment? Ask a human or a cheap model. - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole secret: AI where it compounds, code where it doesn't. What's something you tried to do with AI that you now do without it?
-
-1h ago
-
----
-
-**[Same demo, two failures on DeepSeek V4 Pro 0813, then V4 Flash finished it](https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/)**
-
-I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a tiny sample, not a verdict. The first Pro run failed. I put the same demo through Flash, and Flash completed it. I honestly did not expect that result, so I ran Pro a second time before writing this. Same failure. The odd part is that it did not feel slow while generating. I was seeing roughly 80 to 90 tokens/s tonight. That looks fine on a counter, but it matters a lot less when the demo itself does not make it across the line. For my next pass, I will put the same requests through ZenMux and record the model route and provider with each request. That makes the comparison easier to inspect. It still does not turn two failed runs into a benchmark. My first impression is negative. Two runs are nowhere near enough for a broad claim, but two failures on a demo that Flash completed are worth writing down. What are people seeing right now with V4 Pro 0813? If you tested it against Flash, did you keep the same prompt and setup, and did Pro actually finish the demo?
 
 2h ago
 
@@ -121,61 +121,57 @@ I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a
 
 ## Google News: "ai"
 
-**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
+**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
 
-Reuters • 10h ago
+Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
 
----
-
-**[Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)**
-
-﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
-
-The Verge • 5h ago
+blog.google • 22h ago
 
 ---
 
-**[Apple Develops China-Specific AI Model With Alibaba Support, Reuters Reports](https://finance.yahoo.com/technology/ai/articles/apple-develops-china-specific-ai-101429816.html)**
+**[These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)**
 
-Apple Inc (NASDAQ:AAPL) has trained its own large language model specifically for the Chinese market with assistance from Alibaba (NYSE:BABA), Reuters reported on Friday, signalling a change in the technology giant’s approach to introducing artificial intelligence services in China. The development could give Apple greater control over its AI technology as it prepares to bring Apple Intelligence to Chinese users.
+Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
 
-finance.yahoo.com • 4h ago
-
----
-
-**[OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)**
-
-US groups release cheaper models after new challenges to their trillion-dollar ambitions
-
-Financial Times • 10h ago
+WIRED • 5h ago
 
 ---
 
-**[SMIC Q2 2026 earnings beat as AI demand drives price increases](https://qz.com/smic-chip-prices-ai-demand-revenue-earnings-081426)**
+**[AI is fueling a DIY home repair boom, some homeowners are paying the price](https://www.foxbusiness.com/video/6403397587112)**
 
-SMIC's second-quarter revenue hit $3 billion for the first time, rising 36% from a year earlier, as the company raised wafer prices and shipments climbed
+Ace Handyman Services CEO Andy Bell warns that AI-powered DIY instructions can turn small home repairs into costly disasters, urging homeowners to leave any job that could flood, burn or blow up a house to pros
 
-qz.com • 1h ago
-
----
-
-**[Hidden costs are enterprise AI’s next challenge](https://www.fastcompany.com/91589451/hidden-costs-are-enterprise-ais-next-challenge)**
-
-fastcompany.com • 1h ago
+Fox Business • 28m ago
 
 ---
 
-**[Data breach notices are surging past last year's record as AI-powered attacks rise](https://qz.com/data-breach-victim-notices-2026-record-ai-attacks-081426)**
+**[Watch AI Boom Reshapes Commodity Markets](https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video)**
 
-More than 471 million victim notices were issued in the first half of 2026, compared with 297.5 million for all of last year
+AI’s massive power needs are reshaping the commodities trade. CoreCommodity’s Doug Daly joins Bloomberg Open Interest to explain why uranium and gold remain attractive, why oil markets may be dangerously complacent and how geopolitical risks are forcing countries to rethink critical-mineral supply chains.
 
-qz.com • 1h ago
+Bloomberg.com • 8m ago
 
 ---
 
-**[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
+**[People are using AI to help their love life. Here's how to set boundaries and navigate it.](https://www.yahoo.com/news/videos/people-using-ai-help-love-151201137.html)**
 
-nytimes.com • 5h ago
+AI is making its way into people's love lives - some say it has helped to improve their conversations while others have used it to end a relationship. Dr. Sue Varma discusses how to use AI properly, s...
+
+Yahoo • 40m ago
+
+---
+
+**[Opinion | This Is One of the Most Important Policy Decisions of Our Lifetime](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[Accelerating GPT-5.6 Sol Ultrafast with OpenAI](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)**
+
+Cerebras powers OpenAI’s GPT-5.6 Sol Ultrafast in the OpenAI API, delivering frontier intelligence at real-time speeds for critical AI work.
+
+Cerebras • 22h ago
 
 ---
 
@@ -183,15 +179,21 @@ nytimes.com • 5h ago
 
 Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[Introducing Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)**
+**[Data breach notices have already blown past last year’s total — and AI is playing a growing role](https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html)**
 
-Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.
+Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks, and 'malicious insider' incidents also on the rise.
 
-blog.google • 21h ago
+CNBC • 3h ago
+
+---
+
+**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
+
+Reuters • 11h ago
 
 ---
 
@@ -203,7 +205,7 @@ blog.google • 21h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 978 • 💬 904 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 982 • 💬 905 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -219,7 +221,15 @@ As AI shifts software engineering from writing to reviewing, discover how Go's s
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 301 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 302 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
+
+---
+
+**[Choosing an AI model: one prompt, 11 models, different results](https://news.ycombinator.com/item?id=49285327)**
+
+Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
+
+⬆️ 211 • 💬 91 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -228,14 +238,6 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 Transportation Secretary Sean Duffy is touting the success of a campaign targeting video gamers to train as air traffic controllers.
 
 ⬆️ 210 • 💬 159 • 2d ago • [CBS News](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
-
----
-
-**[Choosing an AI model: one prompt, 11 models, different results](https://news.ycombinator.com/item?id=49285327)**
-
-Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
-
-⬆️ 208 • 💬 88 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -253,6 +255,16 @@ Research Gold's team of human methodologists are either AI generated or using th
 
 ---
 
+**[Dear people who work at the airport](https://news.ycombinator.com/item?id=49297801)**
+
+I would like you to know that we passengers are trying our best.
+
+To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
+
+⬆️ 160 • 💬 196 • 3h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+
+---
+
 **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://news.ycombinator.com/item?id=49269090)**
 
 Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
@@ -263,15 +275,7 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 133 • 💬 159 • 23h ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
-
----
-
-**[Heart aerospace completes first flight of largest electric aircraft](https://news.ycombinator.com/item?id=49286270)**
-
-Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
-
-⬆️ 133 • 💬 144 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 136 • 💬 172 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -285,7 +289,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 10K • 👍 463 • 💬 43 • ⏱️ 16:41 • 14h ago
+👁️ 10K • 👍 463 • 💬 43 • ⏱️ 16:41 • 15h ago
 
 ---
 
@@ -305,7 +309,7 @@ In this video Adam works with Wendell from @Level1Techs to set up his first loca
 
 📺 PCWorld
 
-👁️ 7K • 👍 385 • 💬 44 • ⏱️ 19:47 • 20h ago
+👁️ 7K • 👍 385 • 💬 44 • ⏱️ 19:47 • 21h ago
 
 ---
 
@@ -335,7 +339,7 @@ aivideo #ai #chatgpt #news #politicsA recent study found that six of the most wi
 
 📺 Jeremy Carrasco
 
-👁️ 10K • 👍 2K • 💬 64 • ⏱️ 1:32 • 16h ago
+👁️ 10K • 👍 2K • 💬 64 • ⏱️ 1:32 • 17h ago
 
 ---
 
@@ -345,7 +349,7 @@ The AI character tom.rhoe went viral for making it look like he transformed his 
 
 📺 Mappelz
 
-👁️ 898K • 👍 46K • 💬 173 • ⏱️ 0:33 • 18h ago
+👁️ 898K • 👍 46K • 💬 173 • ⏱️ 0:33 • 19h ago
 
 ---
 
@@ -355,7 +359,7 @@ In this video, we learn DC revealed they used AI for Supergirl… Follow Me On S
 
 📺 DoomBlazer
 
-👁️ 80K • 👍 11K • 💬 702 • ⏱️ 2:27 • 10h ago
+👁️ 80K • 👍 11K • 💬 702 • ⏱️ 2:27 • 11h ago
 
 ---
 
@@ -439,7 +443,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 564 • 3h ago
+⬇️ 63 • ❤️ 564 • 5h ago
 
 ---
 
@@ -463,7 +467,7 @@ Minimax-h3-Turbo is a diffusion model for image-to-video generation, capable of 
 
 `image-to-video`
 
-⬇️ 149,865 • ❤️ 485 • 22h ago
+⬇️ 149,865 • ❤️ 485 • 1d ago
 
 ---
 
@@ -487,7 +491,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 400 • 22h ago
+⬇️ 245 • ❤️ 400 • 23h ago
 
 ---
 
@@ -648,7 +652,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 11h ago
+⭐ 13.5k • 🔱 1.6k • 12h ago
 
 ---
 
@@ -658,7 +662,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 991 • 14h ago
+⭐ 8.4k • 🔱 991 • 15h ago
 
 ---
 
@@ -668,7 +672,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 7.0k • 🔱 759 • 11m ago
+⭐ 7.0k • 🔱 759 • 1h ago
 
 ---
 
@@ -678,7 +682,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 10h ago
+⭐ 5.0k • 🔱 429 • 11h ago
 
 ---
 
@@ -706,7 +710,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.7k • 🔱 223 • 2d ago
+⭐ 2.7k • 🔱 223 • 3d ago
 
 ---
 
@@ -716,7 +720,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 6h ago
+⭐ 2.7k • 🔱 1.9k • 7h ago
 
 ---
 
@@ -736,7 +740,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 23h ago
+⭐ 2.1k • 🔱 170 • 1d ago
 
 ---
 
