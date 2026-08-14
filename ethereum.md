@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-14T20:31:29.122149+00:00'
+updated: '2026-08-14T21:24:57.334946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 20:31 UTC  
+**Last Updated:** August 14, 2026 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.01B
+**Market Cap:** $226.50B
 Rank #2
 
 **Circulating Supply:** 120,681,973 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-62.0%
 
 **All-Time Low:** $0.43
-+432479.9%
++433426.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 2h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-10h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 2d ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -180,7 +180,7 @@ markets.businessinsider.com • 6h ago
 
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
-Benzinga • 18h ago
+Benzinga • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ Benzinga • 18h ago
 
 There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -218,7 +218,7 @@ Yahoo Finance • 2d ago
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-ETF Database • 4h ago
+ETF Database • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ ETF Database • 4h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ Fortune • 9h ago
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 141 • ⏱️ 9:22 • 1d ago
+👁️ 33K • 👍 2K • 💬 142 • ⏱️ 9:22 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 27K • 👍 2K • 💬 136 • ⏱️ 8:55 • 1d ago
+👁️ 28K • 👍 2K • 💬 137 • ⏱️ 8:55 • 1d ago
 
 ---
 
@@ -264,13 +264,33 @@ Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Int
 
 ---
 
+**[EtherFi’s Plan to Build the Ultimate Crypto Neobank](https://www.youtube.com/watch?v=vcTXp73mxYQ)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- EtherFi is expanding from a ...
+
+📺 Bankless
+
+👁️ 1K • 👍 48 • 💬 7 • ⏱️ 42:35 • 10h ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 8K • 👍 987 • 💬 134 • ⏱️ 11:56 • 10h ago
+
+---
+
 **[ETHEREUM: TIME TO LOCK IN](https://www.youtube.com/watch?v=P7co89RhibM)**
 
 The outlook on Ethereum and the crypto market at the moment. Today, we will discuss the current charts of Bitcoin and the altcoin ...
 
 📺 Jordan Camirand
 
-👁️ 9K • 👍 522 • 💬 218 • ⏱️ 19:05 • 2d ago
+👁️ 9K • 👍 523 • 💬 220 • ⏱️ 19:05 • 2d ago
 
 ---
 
@@ -284,16 +304,6 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 ---
 
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 926 • 💬 134 • ⏱️ 11:56 • 9h ago
-
----
-
 **[BITCOIN LIQUIDATIONS: DON&#39;T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=NYLzSgpYBr4)**
 
 BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
@@ -304,33 +314,23 @@ BITCOIN LIQUIDATIONS: DON'T BE FOOLED (price target)!!! - Bitcoin News Today, Et
 
 ---
 
-**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
-
-Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
-
-📺 The Rollup
-
-👁️ 1K • 👍 40 • 💬 4 • ⏱️ 10:10 • 21h ago
-
----
-
 **[Bitcoin, Ethereum &amp; Chainlink BIG Move Incoming](https://www.youtube.com/watch?v=035ENTeXpiE)**
 
 Bitcoin, Ethereum, and Chainlink could be setting up for a BIG move as the crypto market enters a critical zone! We break down ...
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 257 • 💬 47 • ⏱️ 1:01:54 • 2d ago
+👁️ 5K • 👍 258 • 💬 47 • ⏱️ 1:01:54 • 2d ago
 
 ---
 
-**[Chainlink LINK, Ethereum ETH, Solana SOL, Ripple XRP, AAVE, Uniswap UNI 2030 Price Predictions!!!!!!](https://www.youtube.com/watch?v=0CC5PiTXXeQ)**
+**[Lighter CEO: Why Robinhood Chain And Lighter Core Are Built On Ethereum (The Technical Thesis)](https://www.youtube.com/watch?v=YJ3iFvRts7c)**
 
-Today we are going to look at standard charters Price predictions for chainlink's LINK, Ethereum's ETH, Ripple's XRP, Solana's ...
+Vladimir Novakovski breaks down why Lighter's separate instances for Robinhood Chain and Telegram Wallet create a unified ...
 
-📺 AllinCrypto
+📺 The Rollup
 
-👁️ 10K • 👍 567 • 💬 168 • ⏱️ 13:27 • 2d ago
+👁️ 1K • 👍 42 • 💬 4 • ⏱️ 10:10 • 22h ago
 
 ---
 

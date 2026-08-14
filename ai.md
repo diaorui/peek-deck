@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-14T20:31:29.113281+00:00'
+updated: '2026-08-14T21:24:57.324851+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - repositories
 - videos
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 14, 2026 at 20:31 UTC  
+**Last Updated:** August 14, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2 TL;DR: LiquidAI released LFM2.5-VL-3B, a 3.1B vision-language model that runs fully local (llama.cpp, MLX, vLLM, even a WebGPU demo). • Beats Gemma-4 E4B (8B) 69.4 vs 59.7; edges Qwen3.5-4B • Screen understanding: 2.5 → 82.2 on ScreenSpot-v2 Web (huge jump) • 228 tok/s on M5 Max, 20 tok/s on a Galaxy S26 Ultra • Function calling / object grounding included What I found interesting is the business angle: for simple document/screen tasks, local AI flips 'AI feature' from a monthly API bill into a one-time engineering task with zero data leaving the building. Big cloud models still win for complex reasoning — this just made the small-model bucket genuinely usable. I wrote a short analysis here: https://www.zyntopia.com/news/lfm2-5-vl-3b-edge-vision
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen unders
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-12h ago
+13h ago
 
 ---
 
@@ -81,7 +81,7 @@ I came across this article that flips the script on AI hype: sometimes the most 
 
 This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
 
-21h ago
+22h ago
 
 ---
 
@@ -89,7 +89,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom. Turns out those are two separate claims that get treated as one by default. "The error is gone" only tells you the symptom stopped being visible. "The bug is fixed" requires the actual mechanism to have been addressed, and a model asked to make an error disappear will happily do exactly that, a wider try/catch, a retry wrapped around a flaky call, both of which satisfy the first claim while leaving the second completely unverified. What made this click was a case where a retry "fixed" what looked like a flaky database write, only for the same class of failure to show up two weeks later under a different error message. Root cause was duplicate event delivery hitting a handler that wasn't idempotent, something the retry had no way of addressing because nothing in the original context suggested duplication was even possible. The uncomfortable part: generating a fix and validating one are genuinely different skills, and almost every debugging workflow, AI-assisted or not, only exercises the first. Asking "does this make the error go away" is satisfying and fast. Asking "does this address the actual mechanism, and what did it silently change that I didn't ask for" is slower and easy to skip specifically because the first question already felt like progress. Wrote up the specific case and the sequence I now run before trusting a fix, generation and validation treated as separate steps instead of one motion: https://medium.com/@nagatomopedro05/why-your-ai-debugging-sessions-keep-going-in-circles-e645c35479c6 Curious if others have caught this same gap in their own process, a fix that technically resolves the error shown to the model while leaving the actual cause completely untouched.
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Kept running into a specific failure pattern across different AI-assisted debugg
 
 New South Wales is considering joining Australia’s national face-matching network. The proposal would allow driver’s licence and photo-card images to be checked when someone’s identity needs to be confirmed. The practical benefit is easy to understand. If someone tries to open a bank account using documents stolen in a data breach, face matching could help identify that the person doesn’t match the real owner. The concern is what happens once a searchable system like this exists. The same legislative package would also give police access to unredacted images from certain toll-road cameras for serious investigations and missing-person cases. Both uses can sound reasonable on their own, but systems like this often become more controversial as their scope grows. Can face matching be used safely with strict access rules, limited retention, and independent oversight? Or does a national network inevitably become a surveillance system over time?
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ New South Wales is considering joining Australia’s national face-matching netw
 
 Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it. - One-off analysis with judgment? Ask a human or a cheap model. - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole secret: AI where it compounds, code where it doesn't. What's something you tried to do with AI that you now do without it?
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 5h ago
 
 Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 3h ago
 
 Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.
 
-CNBC • 29m ago
+CNBC • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 29m ago
 
 The AI opportunity is huge but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
 
-techcrunch.com • 58m ago
+techcrunch.com • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ techcrunch.com • 58m ago
 
 Before she became a key voice in her husband’s ear, Cami Clark reportedly pitched Epstein on a “free luxury porn” company.
 
-New York Post • 37m ago
+New York Post • 1h ago
 
 ---
 
 **[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ theatlantic.com • 2d ago
 
 US groups release cheaper models after new challenges to their trillion-dollar ambitions
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -247,7 +247,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 181 • 💬 235 • 8h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 181 • 💬 235 • 9h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -261,7 +261,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 163 • 💬 175 • 5h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 163 • 💬 175 • 6h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -277,7 +277,7 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 158 • 💬 108 • 4h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 158 • 💬 108 • 5h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -285,13 +285,43 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 ## YouTube Videos: "ai"
 
-**[Mathematicians STUNNED After AI Solves 10 Decades Old Problems](https://www.youtube.com/watch?v=2WT1kNnoyuU)**
+**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
 
-The Friday crew discusses mathematicians stunned as AI solves decades old problems. Daniel Litt: https://www.daniellitt.com/ ...
+Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
 
-📺 Breaking Points
+📺 Matt Wolfe
 
-👁️ 20K • 👍 1K • 💬 312 • ⏱️ 19:15 • 3h ago
+👁️ 18K • 👍 1K • 💬 147 • ⏱️ 34:05 • 6h ago
+
+---
+
+**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
+
+ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
+
+📺 Higgsfield AI
+
+👁️ 163K • 👍 9K • 💬 1K • ⏱️ 19:49 • 1d ago
+
+---
+
+**[Recreating UNREALISTIC Ai Makeup Looks!](https://www.youtube.com/watch?v=uueHWiP8KrA)**
+
+Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup... IN REAL LIFE! Real creativity ALWAYS WINS ...
+
+📺 James Charles
+
+👁️ 25K • 👍 2K • 💬 341 • ⏱️ 24:09 • 2h ago
+
+---
+
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+
+📺 Higgsfield AI
+
+👁️ 22K • 👍 692 • 💬 151 • ⏱️ 6:06 • 7h ago
 
 ---
 
@@ -301,15 +331,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 11K • 👍 496 • 💬 48 • ⏱️ 16:41 • 20h ago
-
----
-
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 235K • 👍 10K • 💬 302 • ⏱️ 0:46 • 6h ago
+👁️ 12K • 👍 509 • 💬 52 • ⏱️ 16:41 • 21h ago
 
 ---
 
@@ -319,37 +341,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 131K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
-
----
-
-**[DC Used AI For Supergirl…](https://www.youtube.com/watch?v=szprp4wDOTk)**
-
-In this video, we learn DC revealed they used AI for Supergirl… Follow Me On Social Media: Instagram: @therealdoomblazer ...
-
-📺 DoomBlazer
-
-👁️ 112K • 👍 13K • 💬 816 • ⏱️ 2:27 • 16h ago
-
----
-
-**[AI Tried to Recreate My 182M View Short 😂](https://www.youtube.com/watch?v=gHB3-izKKno)**
-
-My original Robot Pacman vs Dentures Short has over 182 million views: https://www.youtube.com/shorts/xiqYEsMPuLc So I ...
-
-📺 StrEat
-
-👁️ 19K • 👍 86 • 💬 1 • ⏱️ 0:08 • 7h ago
-
----
-
-**[AI voting images shouldn&#39;t be allowed.](https://www.youtube.com/watch?v=5oDqBhmTfH0)**
-
-aivideo #ai #chatgpt #news #politicsA recent study found that six of the most widely used AI chatbots were able to generate ...
-
-📺 Jeremy Carrasco
-
-👁️ 18K • 👍 4K • 💬 109 • ⏱️ 1:32 • 22h ago
+👁️ 133K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
 
 ---
 
@@ -359,27 +351,37 @@ Welcome inside the world of Fortell... The $740M startup that had to waitlist bi
 
 📺 Sachin and Adam
 
-👁️ 48K • 👍 1K • 💬 127 • ⏱️ 17:33 • 2d ago
+👁️ 50K • 👍 1K • 💬 135 • ⏱️ 17:33 • 2d ago
 
 ---
 
-**[I built my first local AI agent](https://www.youtube.com/watch?v=PvGr7tm0Hes)**
+**[AI Tried to Recreate My 182M View Short 😂](https://www.youtube.com/watch?v=gHB3-izKKno)**
 
-In this video Adam works with Wendell from @Level1Techs to set up his first local AI agent using an MSI Cubi NUC and a ...
+My original Robot Pacman vs Dentures Short has over 182 million views: https://www.youtube.com/shorts/xiqYEsMPuLc So I ...
 
-📺 PCWorld
+📺 StrEat
 
-👁️ 8K • 👍 403 • 💬 49 • ⏱️ 19:47 • 1d ago
+👁️ 25K • 👍 99 • 💬 1 • ⏱️ 0:08 • 8h ago
 
 ---
 
-**[AI Just Hacked a Government... And Its Nuclear Agency!](https://www.youtube.com/watch?v=VKhW4QnQMts)**
+**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
 
-AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 ...
+Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
 
-📺 AI Revolution
+📺 The Tech Report
 
-👁️ 32K • 👍 1K • 💬 124 • ⏱️ 17:01 • 1d ago
+👁️ 145K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
+
+---
+
+**[all AI thoughts JUST got revealed...](https://www.youtube.com/watch?v=kKjmv2CuVUI)**
+
+Check out Jarsy: https://app.jarsy.com/?invite_code=jlgbyc (the above is my invite code) Get investment exposure to pre-IPO ...
+
+📺 Wes Roth
+
+👁️ 41K • 👍 1K • 💬 241 • ⏱️ 35:48 • 1d ago
 
 ---
 
@@ -395,7 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 8,627 • 5h ago
+⬇️ 2 • ❤️ 8,816 • 6h ago
 
 ---
 
@@ -407,7 +409,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,496 • 3d ago
+⬇️ 165,300 • ❤️ 1,506 • 3d ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 3,832 • ❤️ 901 • 2d ago
+⬇️ 3,832 • ❤️ 907 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,997,541 • ❤️ 3,908 • 1d ago
+⬇️ 1,997,541 • ❤️ 3,914 • 1d ago
 
 ---
 
@@ -443,19 +445,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 207,830 • ❤️ 829 • 2d ago
-
----
-
-**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
-
-*MiniMax*
-
-MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
-
-`text-to-audio` `2.4B`
-
-⬇️ 63 • ❤️ 612 • 9h ago
+⬇️ 207,830 • ❤️ 842 • 2d ago
 
 ---
 
@@ -467,7 +457,19 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 600 • 4h ago
+⬇️ 0 • ❤️ 709 • 1h ago
+
+---
+
+**[MiniMax-Music3](https://huggingface.co/MiniMaxAI/MiniMax-Music3)**
+
+*MiniMax*
+
+MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.
+
+`text-to-audio` `2.4B`
+
+⬇️ 63 • ❤️ 635 • 10h ago
 
 ---
 
@@ -479,7 +481,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,373 • 13d ago
+⬇️ 1,606,491 • ❤️ 3,374 • 13d ago
 
 ---
 
@@ -491,7 +493,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 420 • 1d ago
+⬇️ 245 • ❤️ 427 • 1d ago
 
 ---
 
@@ -503,7 +505,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 596,774 • ❤️ 411 • 4d ago
+⬇️ 596,774 • ❤️ 412 • 4d ago
 
 ---
 
@@ -565,20 +567,6 @@ MatrAIx is a large-scale simulated-user evaluation framework that uses diverse p
 
 ---
 
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 80 • 💬 6 • ⭐ 23,725 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -588,6 +576,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 52 • 💬 4 • ⭐ 37,164 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 80 • 💬 6 • ⭐ 23,776 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -654,7 +656,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.5k • 🔱 1.6k • 1h ago
+⭐ 13.5k • 🔱 1.6k • 5m ago
 
 ---
 
@@ -664,7 +666,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 995 • 20h ago
+⭐ 8.4k • 🔱 995 • 21h ago
 
 ---
 
@@ -674,7 +676,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 7.6k • 🔱 807 • 2h ago
+⭐ 7.9k • 🔱 826 • 3h ago
 
 ---
 
@@ -684,7 +686,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 429 • 16h ago
+⭐ 5.0k • 🔱 429 • 17h ago
 
 ---
 
@@ -702,7 +704,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 534 • 1d ago
+⭐ 3.1k • 🔱 535 • 1d ago
 
 ---
 
@@ -722,7 +724,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 12h ago
+⭐ 2.7k • 🔱 1.9k • 13h ago
 
 ---
 
@@ -732,7 +734,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.4k • 🔱 186 • 3d ago
+⭐ 2.4k • 🔱 187 • 3d ago
 
 ---
 

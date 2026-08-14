@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T20:31:29.118366+00:00'
+updated: '2026-08-14T21:24:57.330781+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 20:31 UTC  
+**Last Updated:** August 14, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1261.08B
+**Market Cap:** $1261.04B
 Rank #1
 
-**Circulating Supply:** 20,070,184 BTC
+**Circulating Supply:** 20,070,206 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.2%
 
 **All-Time Low:** $67.81
-+92572.2%
++92557.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Never forget the bigger picture!
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Never forget the bigger picture!
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 This is crazy but somehow scammers are texting from the number i talk to my dog groomers from and sending links. I obviously didn’t click anything but im just surprised to see something like this. Be vigilant out there!
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ This is crazy but somehow scammers are texting from the number i talk to my dog 
 
 hi! what tool would you add?
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ hi! what tool would you add?
 
 Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bitcoin Magazine • 6h ago
 
 Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 7h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 10h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 6h ago
+Sacramento Bee • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ Sacramento Bee • 6h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 22h ago
+Mashable • 23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Mashable • 22h ago
 
 MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 16h ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ Forbes • 1d ago
 
 Shares of Michael Saylor-backed Strategy (MSTR), Bitmine Immersion Technologies (BMNR), Circle (CRCL), Coinbase (COIN) and other large-cap crypto-linked equities tumbled in morning trade on Friday after Bitcoin’s (BTC) price fell below $63,000.CRCL stock and MSTR shares were the hardest hit, down n…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 4d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -273,7 +273,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 20h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 21h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -287,77 +287,7 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 120 • ⏱️ 9:13 • 21h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 255 • ⏱️ 18:25 • 22h ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 26K • 👍 1K • 💬 376 • ⏱️ 18:10 • 1d ago
-
----
-
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
-
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
-
-📺 Benjamin Cowen
-
-👁️ 126K • 👍 8K • 💬 427 • ⏱️ 21:29 • 1d ago
-
----
-
-**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
-
-Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 416 • 💬 333 • ⏱️ 16:10 • 1d ago
-
----
-
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
-
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 307 • 💬 84 • ⏱️ 14:52 • 1d ago
-
----
-
-**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
-
-Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 3K • 💬 132 • ⏱️ 18:46 • 1d ago
-
----
-
-**[THE BITCOIN BOTTOM IS HERE. [WHY I&#39;M BUYING NOW]](https://www.youtube.com/watch?v=VHIYwbj_XVE)**
-
-BTCC: https://cryptokid.io/BTCCexclusive FREE $1000 TRADE ❎ LeveX: https://levex.com/en/register?
-
-📺 Crypto Kid
-
-👁️ 4K • 👍 291 • 💬 158 • ⏱️ 13:59 • 23h ago
+👁️ 32K • 👍 2K • 💬 120 • ⏱️ 9:13 • 22h ago
 
 ---
 
@@ -367,17 +297,87 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 
 📺 Benjamin Cowen
 
-👁️ 7K • 👍 696 • 💬 54 • ⏱️ 15:07 • 2h ago
+👁️ 17K • 👍 1K • 💬 78 • ⏱️ 15:07 • 3h ago
 
 ---
 
-**[Why This NBA Star Buys Bitcoin Every Day](https://www.youtube.com/watch?v=uZR_eOC7MvE)**
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
 
-Tristan Thompson isn't hedging against the dollar. He's betting on the internet, and telling every teammate to buy Bitcoin every ...
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 68 • 💬 14 • ⏱️ 0:50 • 1d ago
+👁️ 29K • 👍 2K • 💬 258 • ⏱️ 18:25 • 23h ago
+
+---
+
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
+
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
+
+📺 Dana Love, PhD
+
+👁️ 27K • 👍 1K • 💬 396 • ⏱️ 18:10 • 1d ago
+
+---
+
+**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+
+Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 3K • 💬 135 • ⏱️ 18:46 • 1d ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 128K • 👍 8K • 💬 429 • ⏱️ 21:29 • 1d ago
+
+---
+
+**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
+
+Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 312 • 💬 85 • ⏱️ 14:52 • 1d ago
+
+---
+
+**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
+
+Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
+
+📺 Natalie Brunell
+
+👁️ 17K • 👍 696 • 💬 80 • ⏱️ 1:11:42 • 1d ago
+
+---
+
+**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
+
+Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 417 • 💬 333 • ⏱️ 16:10 • 1d ago
+
+---
+
+**[Crypto Live Trading: Bitcoin TA](https://www.youtube.com/watch?v=Z9gskOXkMD4)**
+
+Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading journey with Breakout ...
+
+📺 Sin City Crypto
+
+👁️ 6K • 👍 253 • ⏱️ 5:33:35 • 15h ago
 
 ---
 
