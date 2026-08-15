@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T05:24:21.042747+00:00'
+updated: '2026-08-15T05:51:06.804491+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 05:24 UTC  
+**Last Updated:** August 15, 2026 at 05:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Just sold it all and very sad.](https://www.reddit.com/r/Bitcoin/comments/1vos2t2/just_sold_it_all_and_very_sad/)**
+
+It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
+
+2h ago
+
+---
+
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,29 +95,15 @@ Rank #1
 
 Never forget the bigger picture!
 
-13h ago
+14h ago
 
 ---
 
-**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+**[Baked not mined](https://www.reddit.com/r/Bitcoin/comments/1votyi3/baked_not_mined/)**
 
-16h ago
+Saw the most random truck today
 
----
-
-**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
-
-This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
-
-1d ago
-
----
-
-**[Where did my funds go?](https://www.reddit.com/r/Bitcoin/comments/1vo49a4/where_did_my_funds_go/)**
-
-I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
-
-18h ago
+40m ago
 
 ---
 
@@ -121,35 +115,39 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 ---
 
+**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
+
+This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
+
+1d ago
+
+---
+
+**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+
+16h ago
+
+---
+
+**[Where did my funds go?](https://www.reddit.com/r/Bitcoin/comments/1vo49a4/where_did_my_funds_go/)**
+
+I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
+
+18h ago
+
+---
+
+**[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
+
+3h ago
+
+---
+
 **[Rodolfo Novak Coldcard CEO deletes his bitcoinsecurity.guide, the traces of what it seemed he did deceptive endorsement.](https://www.reddit.com/r/Bitcoin/comments/1vohwh6/rodolfo_novak_coldcard_ceo_deletes_his/)**
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
 9h ago
-
----
-
-**[Plot Thickens with ColdCard Hack "No researcher I have spoken with has reproduced a seed for any of those 153 source addresses [containing 132.95 BTC]…"](https://www.reddit.com/r/Bitcoin/comments/1vobf3s/plot_thickens_with_coldcard_hack_no_researcher_i/)**
-
-Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
-
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 13h ago
-
----
-
-**[Honest question](https://www.reddit.com/r/Bitcoin/comments/1vod3xy/honest_question/)**
-
-Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
-
-12h ago
-
----
-
-**[Even with the recent drop, the 100 week moving average has not sloped downwards](https://www.reddit.com/r/Bitcoin/comments/1volhqu/even_with_the_recent_drop_the_100_week_moving/)**
-
-Looking at the chart, the last time the 100 week moving average started its downwards slope, it coincided with the bottom of the Bitcoin bear market. In 2024, the rally started in November, if that doesn’t repeat, we will finally see the 100 week moving average drop for the first time since ATH What is the buy signal, you may or may not have asked? Well, once the price of bitcoin crosses above the 100 week moving average, it has been followed by a substantial rally. This has been true every single time in the history of Bitcoin. My thoughts: accumulate slowly once the 100 week moving average starts to fall, and quickly once the price of Bitcoin breaks above the 100 week MA. Thoughts?
-
-6h ago
 
 ---
 
@@ -169,7 +167,7 @@ The Block • 10h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 7h ago
+Mashable • 8h ago
 
 ---
 
@@ -185,7 +183,7 @@ Yahoo Finance • 19h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 13h ago
+Forbes • 14h ago
 
 ---
 
@@ -217,13 +215,13 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -231,7 +229,7 @@ thestreet.com • 14h ago
 
 If you look at a one-year chart of Bitcoin, the first thing you notice is how well-defined the downtrend has been from just below $130K to the $60K range now.
 
-Seeking Alpha • 54m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -259,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 1h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -305,7 +303,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 730 • 👍 38 • 💬 14 • ⏱️ 1:36 • 3h ago
+👁️ 730 • 👍 38 • 💬 14 • ⏱️ 1:36 • 4h ago
 
 ---
 
@@ -331,7 +329,7 @@ Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50
 
 📺 Khuncoin
 
-👁️ 10K • 👍 176 • 💬 5 • ⏱️ 0:24 • 14h ago
+👁️ 10K • 👍 176 • 💬 5 • ⏱️ 0:24 • 15h ago
 
 ---
 
@@ -359,7 +357,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 892 • 💬 84 • ⏱️ 16:33 • 5h ago
+👁️ 9K • 👍 892 • 💬 84 • ⏱️ 16:33 • 6h ago
 
 ---
 
@@ -369,7 +367,7 @@ Ever wondered what military shots are worth in Bitcoin? From TOW to Tomahawk, th
 
 📺 Andik222
 
-👁️ 30K • 👍 340 • 💬 2 • ⏱️ 0:14 • 16h ago
+👁️ 30K • 👍 340 • 💬 2 • ⏱️ 0:14 • 17h ago
 
 ---
 
@@ -379,7 +377,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 749 • 💬 251 • ⏱️ 33:51 • 14h ago
+👁️ 14K • 👍 749 • 💬 251 • ⏱️ 33:51 • 15h ago
 
 ---
 
