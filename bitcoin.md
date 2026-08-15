@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T09:52:06.881737+00:00'
+updated: '2026-08-15T10:22:17.624884+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 09:52 UTC  
+**Last Updated:** August 15, 2026 at 10:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-12h ago
+13h ago
 
 ---
 
@@ -123,9 +123,17 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 ---
 
+**[What if Bitcoin wasn’t lagging M2, but actually front-running the liquidity slowdown? 👀](https://www.reddit.com/r/Bitcoin/comments/1voy5e8/what_if_bitcoin_wasnt_lagging_m2_but_actually/)**
+
+For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
+
+1h ago
+
+---
+
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,21 +141,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-22h ago
+23h ago
 
 ---
 
-**[Rodolfo Novak Coldcard CEO deletes his bitcoinsecurity.guide, the traces of what it seemed he did deceptive endorsement.](https://www.reddit.com/r/Bitcoin/comments/1vohwh6/rodolfo_novak_coldcard_ceo_deletes_his/)**
+**[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
-
-13h ago
-
----
-
-**[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
-
-7h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 18h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 19h ago
+Sacramento Bee • 20h ago
 
 ---
 
@@ -199,7 +199,7 @@ Sacramento Bee • 19h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -303,7 +303,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 15h ago
+👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 14h ago
+👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 15h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T09:52:06.891966+00:00'
+updated: '2026-08-15T10:22:17.634487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 09:52 UTC  
+**Last Updated:** August 15, 2026 at 10:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,13 +74,13 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 **[LR Mate 100i High Speed: Disturbance before CALIBRATE, SRVO-050 afterwards](https://www.reddit.com/r/robotics/comments/1vob633/lr_mate_100i_high_speed_disturbance_before/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -144,7 +144,7 @@ Yahoo Finance • 2d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 22h ago
+New Atlas • 23h ago
 
 ---
 

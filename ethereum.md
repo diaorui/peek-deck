@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T09:52:06.888669+00:00'
+updated: '2026-08-15T10:22:17.631149+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 09:52 UTC  
+**Last Updated:** August 15, 2026 at 10:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-23h ago
+1d ago
 
 ---
 
@@ -184,7 +184,7 @@ markets.businessinsider.com • 20h ago
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
-etftrends.com • 22h ago
+etftrends.com • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 46m ago
+👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 8h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are a
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 11h ago
+👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 12h ago
 
 ---
 
@@ -316,7 +316,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 22h ago
+👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 23h ago
 
 ---
 

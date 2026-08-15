@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T09:52:06.872922+00:00'
+updated: '2026-08-15T10:22:17.616181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 09:52 UTC  
+**Last Updated:** August 15, 2026 at 10:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 11h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 36m ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-41m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-53m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 10h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ I recently was thinking about reducing the cost of LLMs, specially LLMs which ar
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ blog.google • 18h ago
 
 When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.
 
-WIRED • 52m ago
+WIRED • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ WIRED • 52m ago
 
 Andon Labs, which is experimenting with letting an AI have majority control over a retail store, said that it fired an employee with good reason.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 1h ago
 
 If the nation tops $6 trillion in trade this year, computer imports, hich includes the servers so vital to AI data centers, will be the true standout among all imports.
 
-Forbes • 52m ago
+Forbes • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Anthropic • 14h ago
 
 Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.
 
-Time Magazine • 17h ago
+Time Magazine • 18h ago
 
 ---
 
@@ -195,7 +195,7 @@ Business Insider • 15h ago
 
 Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -231,7 +231,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 300 • 💬 23 • 17h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 300 • 💬 23 • 18h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -311,7 +311,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 34:05 • 18h ago
+👁️ 43K • 👍 2K • 💬 243 • ⏱️ 34:05 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 32K • 👍 908 • 💬 189 • ⏱️ 6:06 • 19h ago
+👁️ 32K • 👍 908 • 💬 189 • ⏱️ 6:06 • 20h ago
 
 ---
 
@@ -377,7 +377,7 @@ Welcome inside the world of Fortell... The $740M startup that had to waitlist bi
 
 📺 Onevilage
 
-👁️ 887K • 👍 23K • 💬 635 • ⏱️ 0:46 • 19h ago
+👁️ 887K • 👍 23K • 💬 635 • ⏱️ 0:46 • 20h ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,410 • 18h ago
+⬇️ 91,917 • ❤️ 9,410 • 19h ago
 
 ---
 
@@ -688,7 +688,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 521 • 6d ago
+⭐ 4.0k • 🔱 521 • 7d ago
 
 ---
 
@@ -738,7 +738,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 37m ago
+⭐ 2.1k • 🔱 170 • 1h ago
 
 ---
 
