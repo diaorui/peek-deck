@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T02:32:49.869800+00:00'
+updated: '2026-08-15T03:39:01.155204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 02:32 UTC  
+**Last Updated:** August 15, 2026 at 03:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
+**24h:** -0.5%  
 **7d:** -2.8%  
-**30d:** -1.3%  
+**30d:** -1.4%  
 **90d:** -18.1%  
-**1y:** -46.2%  
+**1y:** -46.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Never forget the bigger picture!
 
-11h ago
+12h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ Never forget the bigger picture!
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-22h ago
+23h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +117,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +133,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 10h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 11h ago
 
 ---
 
@@ -141,7 +141,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 Looking at the chart, the last time the 100 week moving average started its downwards slope, it coincided with the bottom of the Bitcoin bear market. In 2024, the rally started in November, if that doesn’t repeat, we will finally see the 100 week moving average drop for the first time since ATH What is the buy signal, you may or may not have asked? Well, once the price of bitcoin crosses above the 100 week moving average, it has been followed by a substantial rally. This has been true every single time in the history of Bitcoin. My thoughts: accumulate slowly once the 100 week moving average starts to fall, and quickly once the price of Bitcoin breaks above the 100 week MA. Thoughts?
 
-4h ago
+5h ago
 
 ---
 
@@ -157,43 +157,11 @@ Looking at the chart, the last time the 100 week moving average started its down
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://www.fool.com/investing/2026/08/14/michael-saylors-strategy-is-selling-bitcoin-again/)**
+**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
 
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Motley Fool • 15h ago
-
----
-
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
-
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
-
-Bitcoin Magazine • 12h ago
-
----
-
-**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
-
-Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
-
-Forbes • 10h ago
-
----
-
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
-
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
-
-Sacramento Bee • 12h ago
-
----
-
-**[UAE Reportedly Released Iran’s Frozen Assets Worth Billions of Dollars, Bitcoin Rebounds](https://finance.yahoo.com/markets/crypto/articles/uae-reportedly-released-iran-frozen-061729626.html)**
-
-Oil prices fell on Thursday after reports that the United Arab Emirates (UAE) released Iran’s frozen assets held in Emirati banks, including gold valued at roughly $200-283 million. As a result, Bitcoin and the broader crypto market witnessed a much-needed rebound. Ad Ad The UAE Transfers Frozen Cash and Gold to Iran The UAE has
-
-Yahoo Finance • 1d ago
+The Block • 8h ago
 
 ---
 
@@ -201,7 +169,31 @@ Yahoo Finance • 1d ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
+
+---
+
+**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
+
+Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+
+finance.yahoo.com • 17h ago
+
+---
+
+**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
+
+Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
+
+Forbes • 11h ago
+
+---
+
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 13h ago
 
 ---
 
@@ -209,29 +201,37 @@ Investor's Business Daily • 5h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 20h ago
+Mashable • 22h ago
 
 ---
 
-**[Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown](https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown)**
+**[Two Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal](https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html)**
 
-Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as BTC retraces last week's gains and altcoins struggle to find direction.
+MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-CoinDesk • 15h ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
-
-Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
-
-24/7 Wall St. • 4h ago
+finance.yahoo.com • 23h ago
 
 ---
 
-**[Bitcoin dips below $63k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
+**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
 
-Investing.com • 19h ago
+The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
+
+CoinDesk • 12h ago
+
+---
+
+**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
+
+thestreet.com • 13h ago
+
+---
+
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -252,6 +252,14 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 Add Ark and Lightning payments to your bitcoin app
 
 ⬆️ 1 • 💬 1 • 1d ago • [Second](https://second.tech/)
+
+---
+
+**[He Mined 300 Bitcoin, Wiped the Computer, and Sold It for $200 [video]](https://news.ycombinator.com/item?id=49307371)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 1 • 💬 0 • 3m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -297,7 +305,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 648 • 💬 67 • ⏱️ 16:33 • 3h ago
+👁️ 5K • 👍 648 • 💬 67 • ⏱️ 16:33 • 4h ago
 
 ---
 
@@ -367,7 +375,7 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 6K • 👍 572 • 💬 29 • ⏱️ 15:19 • 12h ago
+👁️ 6K • 👍 572 • 💬 29 • ⏱️ 15:19 • 13h ago
 
 ---
 
@@ -377,7 +385,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 244 • 👍 9 • 💬 13 • ⏱️ 1:36 • 1h ago
+👁️ 244 • 👍 9 • 💬 13 • ⏱️ 1:36 • 2h ago
 
 ---
 

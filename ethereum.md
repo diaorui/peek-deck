@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T02:32:49.875256+00:00'
+updated: '2026-08-15T03:39:01.160617+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 02:32 UTC  
+**Last Updated:** August 15, 2026 at 03:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** -1.3%  
 **30d:** +2.3%  
 **90d:** -11.5%  
@@ -72,7 +72,7 @@ No max supply
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 8h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-16h ago
+17h ago
 
 ---
 
@@ -156,29 +156,7 @@ TL;DR: We built a free tool that lets you connect your lending protocol position
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 13h ago
-
----
-
-**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
-
-DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
-
-markets.businessinsider.com • 12h ago
-
----
-
-**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
-
-Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
-
-CryptoSlate • 2h ago
-
----
-
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
-
-ETF Trends • 15h ago
+finance.yahoo.com • 15h ago
 
 ---
 
@@ -187,6 +165,36 @@ ETF Trends • 15h ago
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
 The Block • 2d ago
+
+---
+
+**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
+
+DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
+
+markets.businessinsider.com • 13h ago
+
+---
+
+**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
+
+Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
+
+CryptoSlate • 3h ago
+
+---
+
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
+
+ETF Trends • 16h ago
+
+---
+
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
+
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -210,7 +218,7 @@ Benzinga • 1d ago
 
 Ethereum (ETH) continues to hold above key support levels, bolstered by persistent whale accumulation led by Tom Lee’s BitMine and strong month-to-date ETF inflows. If the price breaks above $1,950, ETH could set eyes on $2,500 in the near term.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
@@ -219,14 +227,6 @@ Yahoo Finance • 2d ago
 Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
 
 Benzinga • 1d ago
-
----
-
-**[XRP Sidelined? Ripple Pumps Ethereum Stablecoin Supply Close to Internal Record](https://u.today/xrp-sidelined-ripple-pumps-ethereum-stablecoin-supply-close-to-internal-record)**
-
-Ripple's new $50 million stablecoin mint pushes RLUSD supply on Ethereum blockchain close to a record parity with XRP Ledger.
-
-U.Today • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ U.Today • 10h ago
 
 📺 Stock Moe
 
-👁️ 9K • 👍 519 • 💬 42 • ⏱️ 10:44 • 14h ago
+👁️ 9K • 👍 519 • 💬 42 • ⏱️ 10:44 • 15h ago
 
 ---
 
@@ -270,7 +270,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 203 • 👍 21 • 💬 1 • ⏱️ 7:21 • 1h ago
+👁️ 203 • 👍 21 • 💬 1 • ⏱️ 7:21 • 2h ago
 
 ---
 
@@ -300,7 +300,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 1K • 👍 2 • ⏱️ 6:17 • 9h ago
+👁️ 1K • 👍 2 • ⏱️ 6:17 • 10h ago
 
 ---
 
@@ -310,7 +310,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 5K • 👍 161 • 💬 6 • ⏱️ 0:31 • 10h ago
+👁️ 5K • 👍 161 • 💬 6 • ⏱️ 0:31 • 11h ago
 
 ---
 
@@ -320,7 +320,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 135 • ⏱️ 11:56 • 15h ago
+👁️ 10K • 👍 1K • 💬 135 • ⏱️ 11:56 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T02:32:49.862166+00:00'
+updated: '2026-08-15T03:39:01.147448+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 02:32 UTC  
+**Last Updated:** August 15, 2026 at 03:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 4h ago
-
----
-
-**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
-
-I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
-
-2h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 5h ago
 
 ---
 
@@ -57,7 +49,15 @@ I recently was thinking about reducing the cost of LLMs, specially LLMs which ar
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-16h ago
+18h ago
+
+---
+
+**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
+
+I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
+
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 4h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 5h ago
 
 ---
 
@@ -73,13 +73,13 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-16h ago
+17h ago
 
 ---
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 3h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-18h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 🚀 New release of Android Remote Control MCP is out — the MCP server that runs on your phone and gives your AI agent the ability to use any app you want! Grab it here: https://github.com/danielealbano/android-remote-control-mcp/releases/tag/v1.11.0 My favorite part of this release? The Privacy Mode 🛡️! Recently I was told by an user "it's a good project but I don't want Anthropic to know everything about me" and it's a very fair point! The LLM providers see and record everything they receive … including your emails, phone numbers and credit cards! Well, not anymore! With Privacy Mode all of that gets detected and redacted locally, on the phone, before anything leaves the device (about 87% of PII caught on my benchmark on emails, phone numbers, credit cards, IBANs, national IDs, …), and the agent keeps working normally because it sees placeholders: the real values get substituted back on-device. Unfortunately the only weak spot for now are non English names but I am working on it! The full per-category numbers and the benchmark are in the repo, measured, not guessed. Also, Android loves killing background services… the server now survives app updates, swipe-away and Doze, with a one-tap battery optimization exemption 🔋 No more dead server halfway through a task! In addition a few minor improvements: the app now notifies you when a new version is out, MCP clients only see the tools that will actually work on your device (no more camera tools without camera permission), and a fully reworked server logs page. What can you actually do with it? Book a flight on Skyscanner, post on Reddit, order groceries, book a dinner… and now with your personal data staying on your phone.
 
-11h ago
+12h ago
 
 ---
 
@@ -119,33 +119,23 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 ## Google News: "ai"
 
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 5h ago
+
+---
+
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
-**[The AI build-out has a problem that $1 trillion in cash can't fix](https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html)**
+**[Dashcam maps road damage](https://www.fox13news.com/news/usf-researchers-test-ai-dashcam-track-hurricane-road-damage)**
 
-Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
+A University of South Florida engineering professor and affiliate faculty member with the Center for Urban Transportation is testing a new artificial intelligence dashcam to assist post-storm recovery efforts.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Oakland councilmember addresses pushback to proposed AI data center downtown](https://www.cbsnews.com/sanfrancisco/news/oakland-ai-artificial-intelligence-downtown-data-center/)**
-
-A proposed AI and technology hub in downtown Oakland is drawing sharp opposition from residents, and now the councilmember who represents the district says she's working to de-escalate hostile rhetoric surrounding the project.
-
-CBS News • 56m ago
-
----
-
-**[How AI is driving up consumer prices](https://www.yahoo.com/news/videos/ai-driving-consumer-prices-012835165.html)**
-
-CBS MoneyWatch reporter Megan Cerullo takes a look at the data on why artificial intelligence is raising costs.
-
-Yahoo • 1h ago
+FOX 13 Tampa Bay • 49m ago
 
 ---
 
@@ -153,7 +143,23 @@ Yahoo • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 10h ago
+CNBC • 11h ago
+
+---
+
+**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+
+Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+
+BBC • 4h ago
+
+---
+
+**[The AI build-out has a problem that $1 trillion in cash can't fix](https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html)**
+
+Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
+
+finance.yahoo.com • 13h ago
 
 ---
 
@@ -161,29 +167,23 @@ CNBC • 10h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 7h ago
+Anthropic • 8h ago
 
 ---
 
-**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
+**[The AI boom is driving up home prices in San Francisco. Are you being priced out?](https://www.cnn.com/2026/08/14/economy/san-francisco-housing-market-callout)**
 
-One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
+Fueled by a boom in artificial intelligence, San Francisco is quickly becoming the hottest housing market in the country.
 
-Business Insider • 7h ago
-
----
-
-**[Facing Backlash, Anthropic Explains Why Users Shouldn't Fear AI Watermarking](https://www.pcmag.com/news/facing-backlash-anthropic-explains-why-users-shouldnt-fear-ai-watermarking)**
-
-Anthropic tries to clear the air by explaining how the invisible watermarking on Claude's text-based outputs works, including its limitations.
-
-PCMag • 4h ago
+CNN • 7h ago
 
 ---
 
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
 
-Reuters • 4h ago
+Bots are starting to conspire with one another. Can they be reeled back in?
+
+The Atlantic • 2d ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 4h ago
 
 Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -219,7 +219,15 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 292 • 💬 174 • 10h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 302 • 💬 180 • 11h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+
+---
+
+**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
+
+Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+
+⬆️ 225 • 💬 19 • 11h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -231,21 +239,13 @@ Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V
 
 ---
 
-**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
-
-Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
-
-⬆️ 214 • 💬 18 • 10h ago • [byhand.ai](https://www.byhand.ai/)
-
----
-
 **[Dear people who work at the airport](https://news.ycombinator.com/item?id=49297801)**
 
 I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 193 • 💬 244 • 14h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 194 • 💬 244 • 15h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -253,7 +253,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 170 • 💬 186 • 11h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 170 • 💬 187 • 13h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -289,7 +289,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 212 • ⏱️ 34:05 • 11h ago
+👁️ 33K • 👍 2K • 💬 212 • ⏱️ 34:05 • 12h ago
 
 ---
 
@@ -299,7 +299,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 27K • 👍 793 • 💬 169 • ⏱️ 6:06 • 12h ago
+👁️ 27K • 👍 793 • 💬 169 • ⏱️ 6:06 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 136K • 👍 5K • 💬 2K • ⏱️ 17:04 • 1d ago
+👁️ 136K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
 
 ---
 
@@ -327,7 +327,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 Onevilage
 
-👁️ 588K • 👍 17K • 💬 474 • ⏱️ 0:46 • 12h ago
+👁️ 588K • 👍 17K • 💬 474 • ⏱️ 0:46 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup...
 
 📺 James Charles
 
-👁️ 87K • 👍 5K • 💬 496 • ⏱️ 24:09 • 7h ago
+👁️ 87K • 👍 5K • 💬 496 • ⏱️ 24:09 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ My original Robot Pacman vs Dentures Short has over 182 million views: https://w
 
 📺 StrEat
 
-👁️ 45K • 👍 160 • 💬 1 • ⏱️ 0:08 • 13h ago
+👁️ 45K • 👍 160 • 💬 1 • ⏱️ 0:08 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 9,083 • 11h ago
+⬇️ 2 • ❤️ 9,083 • 12h ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 839 • 6h ago
+⬇️ 0 • ❤️ 839 • 7h ago
 
 ---
 
@@ -465,7 +465,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 659 • 15h ago
+⬇️ 63 • ❤️ 659 • 16h ago
 
 ---
 
@@ -477,7 +477,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,387 • 13d ago
+⬇️ 1,606,491 • ❤️ 3,387 • 14d ago
 
 ---
 
@@ -652,7 +652,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 5m ago
+⭐ 13.6k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -672,7 +672,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 8.3k • 🔱 861 • 2h ago
+⭐ 8.3k • 🔱 861 • 3h ago
 
 ---
 
@@ -682,7 +682,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 430 • 22h ago
+⭐ 5.0k • 🔱 430 • 23h ago
 
 ---
 
@@ -720,7 +720,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 18h ago
+⭐ 2.7k • 🔱 1.9k • 19h ago
 
 ---
 
