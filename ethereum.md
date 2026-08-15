@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T16:24:01.742448+00:00'
+updated: '2026-08-15T16:50:22.430010+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 16:24 UTC  
+**Last Updated:** August 15, 2026 at 16:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.00B
+**Market Cap:** $227.23B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+434311.4%
++434738.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 22h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 23h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 21h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -248,17 +248,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 7h ago
-
----
-
-**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:55 • 2d ago
+👁️ 3K • 👍 419 • 💬 112 • ⏱️ 34:25 • 7h ago
 
 ---
 
@@ -272,23 +262,13 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 More Crypto Online
+📺 Crypto Crew University
 
-👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 15h ago
-
----
-
-**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
-
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 5h ago
+👁️ 31K • 👍 2K • 💬 140 • ⏱️ 8:55 • 2d ago
 
 ---
 
@@ -298,27 +278,27 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 332 • ⏱️ 11:56 • 1d ago
+👁️ 11K • 👍 1K • 💬 324 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[Smart Money Is Buying BMNR - Why ETH Could Be Ready to Explode!](https://www.youtube.com/watch?v=toxMEUIrImE)**
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
 
-BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are all starting to line up in a way that could set the ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 Big Time Trades
+📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 18h ago
+👁️ 2K • 👍 151 • 💬 7 • ⏱️ 7:21 • 15h ago
 
 ---
 
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
 
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
 
-📺 Stock Moe
+📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 540 • 💬 52 • ⏱️ 10:44 • 1d ago
+👁️ 4K • 👍 566 • 💬 198 • ⏱️ 17:49 • 5h ago
 
 ---
 
@@ -328,7 +308,27 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 6K • 👍 3 • ⏱️ 6:17 • 23h ago
+👁️ 8K • 👍 3 • 💬 2 • ⏱️ 6:17 • 23h ago
+
+---
+
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 541 • 💬 51 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 9K • 👍 272 • 💬 8 • ⏱️ 0:31 • 1d ago
 
 ---
 

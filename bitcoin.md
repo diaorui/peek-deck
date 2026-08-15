@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T16:24:01.736253+00:00'
+updated: '2026-08-15T16:50:22.423934+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 16:24 UTC  
+**Last Updated:** August 15, 2026 at 16:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.05B
+**Market Cap:** $1265.21B
 Rank #1
 
-**Circulating Supply:** 20,070,534 BTC
+**Circulating Supply:** 20,070,565 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92777.2%
++92862.7%
 
 ---
 
@@ -81,13 +81,41 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-12h ago
+13h ago
+
+---
+
+**[bitcoin has matured so much](https://www.reddit.com/r/Bitcoin/comments/1vp513u/bitcoin_has_matured_so_much/)**
+
+> 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
+
+1h ago
+
+---
+
+**[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
+
+1h ago
 
 ---
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
 5h ago
+
+---
+
+**[APPLE AND BITCOIN AND CRYPTO PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1vp5cya/apple_and_bitcoin_and_crypto_payments/)**
+
+$4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
+
+1h ago
+
+---
+
+**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
+
+37m ago
 
 ---
 
@@ -105,49 +133,19 @@ Saw the most random truck today
 
 ---
 
+**[How to make Bitcoin private?](https://www.reddit.com/r/Bitcoin/comments/1vp5x3h/how_to_make_bitcoin_private/)**
+
+I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
+
+1h ago
+
+---
+
 **[What if Bitcoin wasn’t lagging M2, but actually front-running the liquidity slowdown? 👀](https://www.reddit.com/r/Bitcoin/comments/1voy5e8/what_if_bitcoin_wasnt_lagging_m2_but_actually/)**
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
 7h ago
-
----
-
-**[Bitcoin fixes this.](https://www.reddit.com/r/Bitcoin/comments/1voact5/bitcoin_fixes_this/)**
-
-Never forget the bigger picture!
-
-1d ago
-
----
-
-**[The air is thin… we must be close](https://www.reddit.com/r/Bitcoin/comments/1voje4o/the_air_is_thin_we_must_be_close/)**
-
-For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
-
-19h ago
-
----
-
-**[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
-
-10h ago
-
----
-
-**[What are your thoughts?](https://www.reddit.com/r/Bitcoin/comments/1vp1fyf/what_are_your_thoughts/)**
-
-Today I made my first $BTC buy tranche based on the metrics from the my Happy Wick app. Seeing Bitcoin 2% below the 200W SMA alongside an MVRV ratio of 1.19 gave me a strong signal. Factoring in the DXY at 99.64 and the US10Y at 4.7%, these are great indicators to start positioning for the next bull run. What are your thoughts?
-
-4h ago
-
----
-
-**[Daily Discussion, August 15, 2026](https://www.reddit.com/r/Bitcoin/comments/1vouxq6/daily_discussion_august_15_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-10h ago
 
 ---
 
@@ -175,7 +173,7 @@ Mashable • 1d ago
 
 The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,13 +213,13 @@ Investor's Business Daily • 19h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-The Motley Fool • 15m ago
+The Motley Fool • 42m ago
 
 ---
 
 **[Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -257,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -287,43 +285,13 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 26K • 👍 453 • 💬 8 • ⏱️ 0:53 • 22h ago
-
----
-
 **[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
 One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 136 • ⏱️ 16:33 • 16h ago
-
----
-
-**[The Fibonacci Level Every Bitcoin Bottom Has in Common](https://www.youtube.com/watch?v=SChwB6dS69U)**
-
-2014. 2018. 2022. Every major Bitcoin cycle low landed on the .786 Fibonacci retracement. This cycle's .786 sits at $39500 — and ...
-
-📺 Krown
-
-👁️ 435 • 👍 25 • 💬 3 • ⏱️ 1:21 • 3h ago
-
----
-
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
-
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
-
-📺 Natalie Brunell
-
-👁️ 2K • 👍 80 • 💬 136 • ⏱️ 1:36 • 14h ago
+👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 17h ago
 
 ---
 
@@ -333,17 +301,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 470 • 💬 39 • ⏱️ 15:58 • 21h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 2K • 💬 273 • ⏱️ 18:25 • 1d ago
+👁️ 10K • 👍 482 • 💬 50 • ⏱️ 15:58 • 21h ago
 
 ---
 
@@ -353,7 +311,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 790 • 💬 214 • ⏱️ 33:51 • 1d ago
+👁️ 15K • 👍 798 • 💬 214 • ⏱️ 33:51 • 1d ago
 
 ---
 
@@ -363,17 +321,47 @@ Bitcoin is pressing against a critical market structure level and bulls are bare
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 843 • 💬 14 • ⏱️ 22:01 • 1d ago
+👁️ 10K • 👍 844 • 💬 16 • ⏱️ 22:01 • 1d ago
 
 ---
 
-**[SECRET BITCOIN SPAWN](https://www.youtube.com/watch?v=fPsAQ2ucLcU)**
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
 
-Airwingmarine's Music - Synthwave ...
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
 
-📺 Airwingmarine
+📺 Dana Love, PhD
 
-👁️ 28K • 👍 476 • 💬 28 • ⏱️ 0:15 • 1d ago
+👁️ 32K • 👍 1K • 💬 447 • ⏱️ 18:10 • 1d ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 34K • 👍 2K • 💬 279 • ⏱️ 18:25 • 1d ago
+
+---
+
+**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
+
+Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
+
+📺 Natalie Brunell
+
+👁️ 23K • 👍 844 • 💬 86 • ⏱️ 1:11:42 • 2d ago
+
+---
+
+**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
+
+Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 321 • 💬 96 • ⏱️ 14:52 • 2d ago
 
 ---
 
@@ -383,7 +371,17 @@ Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis.
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 423 • 💬 361 • ⏱️ 16:10 • 2d ago
+👁️ 8K • 👍 427 • 💬 366 • ⏱️ 16:10 • 2d ago
+
+---
+
+**[Bitcoin Is Stuck While Stocks Keep Ripping | Fidelity’s Jurrien Timmer](https://www.youtube.com/watch?v=MryPJJGEFtk)**
+
+Bitcoin #Crypto #Finance Tether completes its first full Big Four audit, strengthening confidence in USDT's reserves and ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 512 • 💬 205 • ⏱️ 50:16 • 1d ago
 
 ---
 

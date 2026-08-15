@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T16:24:01.727549+00:00'
+updated: '2026-08-15T16:50:22.415579+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 16:24 UTC  
+**Last Updated:** August 15, 2026 at 16:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-6m ago
+32m ago
 
 ---
 
@@ -73,7 +73,7 @@ AI agents are getting better at making decisions and taking actions on their own
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 6h ago
 
 Author Lacey Hawthorne discussing impact of Generative AI and why authors are pushing back.
 
-CBS News • 54m ago
+CBS News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBS News • 54m ago
 
 A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
 
-TechCrunch • 14m ago
+TechCrunch • 40m ago
 
 ---
 
@@ -177,7 +177,7 @@ Anthropic • 21h ago
 
 James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -285,27 +285,17 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 1K • 💬 182 • ⏱️ 13:09 • 16h ago
+👁️ 38K • 👍 1K • 💬 186 • ⏱️ 13:09 • 17h ago
 
 ---
 
-**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
+**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
 
-ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
+Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
 
-📺 Higgsfield AI
+📺 Matt Wolfe
 
-👁️ 260K • 👍 15K • 💬 2K • ⏱️ 19:49 • 2d ago
-
----
-
-**[Trump&#39;s New AI Video Is Getting DESTROYED By The Internet!](https://www.youtube.com/watch?v=MwunrhHILK8)**
-
-The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest stupid AI video, and the internet's takedown ...
-
-📺 Really American
-
-👁️ 85K • 👍 5K • 💬 704 • ⏱️ 13:10 • 2d ago
+👁️ 49K • 👍 2K • 💬 261 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -325,7 +315,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 35K • 👍 977 • 💬 205 • ⏱️ 6:06 • 1d ago
+👁️ 37K • 👍 1K • 💬 211 • ⏱️ 6:06 • 1d ago
 
 ---
 
@@ -335,7 +325,7 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 📺 The Tech Report
 
-👁️ 150K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
+👁️ 151K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
 
 ---
 
@@ -349,31 +339,41 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
+**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
+
+ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
+
+📺 Higgsfield AI
+
+👁️ 277K • 👍 16K • 💬 2K • ⏱️ 19:49 • 2d ago
+
+---
+
+**[Trump&#39;s New AI Video Is Getting DESTROYED By The Internet!](https://www.youtube.com/watch?v=MwunrhHILK8)**
+
+The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest stupid AI video, and the internet's takedown ...
+
+📺 Really American
+
+👁️ 85K • 👍 5K • 💬 705 • ⏱️ 13:10 • 2d ago
+
+---
+
+**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
+
+MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
+
+📺 MS NOW
+
+👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 15h ago
+
+---
+
 **[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
 📺 Onevilage
 
-👁️ 1.1M • 👍 26K • 💬 718 • ⏱️ 0:46 • 1d ago
-
----
-
-**[MORE Bad News for AI (and GOOD news for us!)](https://www.youtube.com/watch?v=UYdOwxqvpzk)**
-
-AI Data Centers are being denied more and more as politicians are finally opening their stupid eyes to the impact this is having ...
-
-📺 JayzTwoCents
-
-👁️ 124K • 👍 8K • 💬 2K • ⏱️ 21:07 • 1d ago
-
----
-
-**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
-
-10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
-
-📺 Nas Daily
-
-👁️ 139K • 👍 4K • 💬 187 • ⏱️ 1:36 • 2d ago
+👁️ 1.1M • 👍 27K • 💬 745 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,562 • 1d ago
+⬇️ 91,917 • ❤️ 9,622 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,554 • 3d ago
+⬇️ 246,454 • ❤️ 1,561 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,064 • 10h ago
+⬇️ 867,963 • ❤️ 1,117 • 11h ago
 
 ---
 
@@ -425,19 +425,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 951 • 3d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
-
-*MiniMax*
-
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
-
-`image-text-to-video` `33.1B`
-
-⬇️ 2,212,155 • ❤️ 3,962 • 2d ago
+⬇️ 6,381 • ❤️ 957 • 3d ago
 
 ---
 
@@ -449,7 +437,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 909 • 3d ago
+⬇️ 378,439 • ❤️ 917 • 3d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 2,212,155 • ❤️ 3,965 • 2d ago
 
 ---
 
@@ -461,19 +461,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 745 • 1d ago
-
----
-
-**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
-
-`text-generation` `304.2B`
-
-⬇️ 1,798,247 • ❤️ 3,409 • 14d ago
+⬇️ 5,079 • ❤️ 753 • 1d ago
 
 ---
 
@@ -485,7 +473,19 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 467 • 1d ago
+⬇️ 19,945 • ❤️ 475 • 2d ago
+
+---
+
+**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
+
+`text-generation` `304.2B`
+
+⬇️ 1,798,247 • ❤️ 3,413 • 14d ago
 
 ---
 
@@ -497,7 +497,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 428 • 4d ago
+⬇️ 682,188 • ❤️ 430 • 4d ago
 
 ---
 
@@ -513,7 +513,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 611 • 💬 2 • ⭐ 1,997 • 5d ago
+▲ 613 • 💬 2 • ⭐ 2,250 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -527,7 +527,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 125 • 💬 3 • ⭐ 22,101 • 2mo ago
+▲ 125 • 💬 3 • ⭐ 22,372 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 13h ago
+⭐ 13.6k • 🔱 1.6k • 14h ago
 
 ---
 
@@ -657,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.3k • 🔱 950 • 16h ago
+⭐ 9.4k • 🔱 968 • 17h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 439 • 1d ago
+⭐ 5.1k • 🔱 440 • 1d ago
 
 ---
 
@@ -685,7 +685,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 523 • 7d ago
+⭐ 4.0k • 🔱 524 • 7d ago
 
 ---
 
@@ -695,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 2d ago
+⭐ 3.1k • 🔱 539 • 47m ago
 
 ---
 
@@ -725,7 +725,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 193 • 3d ago
+⭐ 2.5k • 🔱 194 • 3d ago
 
 ---
 
@@ -735,7 +735,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 4h ago
+⭐ 2.1k • 🔱 171 • 4h ago
 
 ---
 
