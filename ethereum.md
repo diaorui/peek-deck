@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T15:45:29.891923+00:00'
+updated: '2026-08-15T16:24:01.742448+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 15:45 UTC  
+**Last Updated:** August 15, 2026 at 16:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
+**24h:** +0.4%  
 **7d:** -1.3%  
-**30d:** +2.2%  
-**90d:** -11.6%  
+**30d:** +2.3%  
+**90d:** -11.5%  
 **1y:** -57.4%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -152,19 +152,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://currently.att.yahoo.com/att/tom-lees-bitmine-continues-buy-104000894.html)**
-
-The world's largest corporate holder of Ether continues to buy more tokens.
-
-Currently.com • 5h ago
-
----
-
 **[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
+
+The world's largest corporate holder of Ether continues to buy more tokens.
+
+The Motley Fool • 5h ago
 
 ---
 
@@ -172,7 +180,7 @@ CoinDesk • 3h ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -184,11 +192,11 @@ CryptoSlate • 16h ago
 
 ---
 
-**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
+**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
 
-Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
+DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-Benzinga • 20h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -204,11 +212,11 @@ ETF Trends • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
+**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
 
-DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
+Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-markets.businessinsider.com • 1d ago
+Benzinga • 21h ago
 
 ---
 
@@ -217,14 +225,6 @@ markets.businessinsider.com • 1d ago
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
 The Block • 2d ago
-
----
-
-**[Investors Stake Their Claim: ETHB Draws Fresh Inflows Even as Ethereum Slides](https://www.tipranks.com/news/cryptocurrencies/investors-stake-their-claim-ethb-draws-fresh-inflows-even-as-ethereum-slides)**
-
-Fresh inflows into iShares’ new Ethereum vehicle are testing investor conviction in a choppy market. The iShares Staked Ethereum Trust ETF, ETHB, logged $3,859,289 ...
-
-TipRanks • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 6h ago
+👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 14h ago
+👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 15h ago
 
 ---
 
@@ -288,7 +288,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 4h ago
+👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are a
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 17h ago
+👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 18h ago
 
 ---
 
@@ -328,7 +328,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 6K • 👍 3 • ⏱️ 6:17 • 22h ago
+👁️ 6K • 👍 3 • ⏱️ 6:17 • 23h ago
 
 ---
 

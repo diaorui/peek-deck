@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T15:45:29.885861+00:00'
+updated: '2026-08-15T16:24:01.736253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 15:45 UTC  
+**Last Updated:** August 15, 2026 at 16:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,024.56
+### $63,092.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -2.9%  
+**24h:** +0.1%  
+**7d:** -2.8%  
 **30d:** -1.4%  
 **90d:** -18.1%  
 **1y:** -46.3%  
@@ -87,7 +87,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw the most random truck today
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-6h ago
+7h ago
 
 ---
 
@@ -125,13 +125,13 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 Today I made my first $BTC buy tranche based on the metrics from the my Happy Wick app. Seeing Bitcoin 2% below the 200W SMA alongside an MVRV ratio of 1.19 gave me a strong signal. Factoring in the DXY at 99.64 and the US10Y at 4.7%, these are great indicators to start positioning for the next bull run. What are your thoughts?
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ Today I made my first $BTC buy tranche based on the metrics from the my Happy Wi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -171,11 +171,11 @@ Mashable • 1d ago
 
 ---
 
-**[Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-below-10-000-100100445.html)**
+**[Wall Street Only Looked Like This in 1929 and 2000: What It Means for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-only-looked-1929-143134270.html)**
 
-Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
+The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,15 +183,7 @@ Yahoo Finance • 5h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 23h ago
-
----
-
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
-
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
-
-sacbee.com • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -203,33 +195,41 @@ CoinDesk • 1d ago
 
 ---
 
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 1d ago
+
+---
+
 **[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
-**[Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.](https://www.fool.com/investing/2026/08/14/is-bitcoin-headed-for-a-breakdown-or-a-breakout/)**
+**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://www.fool.com/investing/2026/08/15/jim-cramer-is-selling-his-bitcoin-citing-the-quant/)**
 
-Bitcoin's breakdowns are typically followed by surprise breakout rallies.
+Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-The Motley Fool • 1d ago
-
----
-
-**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
-
-thestreet.com • 1d ago
+The Motley Fool • 15m ago
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+**[Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+Investing.com • 6h ago
 
-Bitcoin Magazine • 1d ago
+---
+
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
+
+Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
+
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -241,7 +241,7 @@ Bitcoin Magazine • 1d ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 4d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 5d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -293,7 +293,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 453 • 💬 8 • ⏱️ 0:53 • 21h ago
+👁️ 26K • 👍 453 • 💬 8 • ⏱️ 0:53 • 22h ago
 
 ---
 
@@ -313,7 +313,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Krown
 
-👁️ 435 • 👍 25 • 💬 3 • ⏱️ 1:21 • 2h ago
+👁️ 435 • 👍 25 • 💬 3 • ⏱️ 1:21 • 3h ago
 
 ---
 
@@ -333,7 +333,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 470 • 💬 39 • ⏱️ 15:58 • 20h ago
+👁️ 10K • 👍 470 • 💬 39 • ⏱️ 15:58 • 21h ago
 
 ---
 

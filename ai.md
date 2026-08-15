@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T15:45:29.877512+00:00'
+updated: '2026-08-15T16:24:01.727549+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 15:45 UTC  
+**Last Updated:** August 15, 2026 at 16:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
-
-A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
-
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 17h ago
-
----
-
 **[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/)**
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 6h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 7h ago
+
+---
+
+**[OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
+
+A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
+
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 18h ago
 
 ---
 
@@ -57,7 +57,15 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 1h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 2h ago
+
+---
+
+**[Who is responsible when an AI agent makes a bad decision?](https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/)**
+
+AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
+
+6m ago
 
 ---
 
@@ -65,7 +73,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-9h ago
+10h ago
 
 ---
 
@@ -73,15 +81,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon. Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace. But the constraint shifting into 2026 isn't intelligence anymore. Recent conflicts have made the case in hardware: cheap, expendable drones you don't mind losing often win on cost-efficiency against exquisite, million-dollar precision systems — which means the company that wins isn't necessarily the one with the smartest model, it's the one that can turn it into thousands of physical units a month. The same pattern shows up outside defense: the bottleneck to shipping AI keeps moving. First it was models, then data, then compute — now, in categories that touch the physical world, it's factories. Worth remembering next time "AI-native" is the whole pitch. Increasingly, it's necessary but not sufficient.
 
-49m ago
-
----
-
-**[The voluntary-to-mandatory pipeline for AI safety frameworks — with sources](https://www.reddit.com/r/artificial/comments/1vp4vvl/the_voluntarytomandatory_pipeline_for_ai_safety/)**
-
-There's a pattern happening right now that most people aren't tracking. Coalitions form to define "AI safety." Voluntary frameworks get published. Companies join the coalition to signal responsibility. Enterprise procurement adopts the framework as a requirement. Then it becomes regulatory standard. Voluntary becomes mandatory, and the path from one to the other is documented. I started a site that tracks this in real time. It's not opinion. Every claim has a source. Every pattern has evidence. I do not sell, advertise for anything or ask for participation of any kind. This is a live investigation and I am bringing awareness. There is absolutely zero products to buy and nothing to sell. Here's what's documented so far: - OSAA (Open Secure AI Alliance) claims 120+ members. Their RFC repository on GitHub has 1 contributor and 10 issues from 8 unique authors. That's a 120:1 gap between claimed participation and actual participation. The coalition isn't a coalition — it's a letterhead. - The SAFE RFC was published August 4 at Black Hat as a "voluntary" security framework for AI. The progression chain: EO 14409 (voluntary clearinghouse) to SAFE RFC (voluntary standard) to OSAA (120+ coalition) to enterprise procurement (de facto requirement) to regulatory adoption (mandatory). Each step looks organic. The direction is not. - The OpenAI "agent breach" in July was an internal test with reduced cyber refusals on an ExploitGym benchmark — not an external attack. OpenAI framed it as autonomous AI escaping containment. 31 days later they launched GPT-5.6-Cyber, a commercial offense-grade hacking model. Forbes called it "the first offense-grade AI hacking product." The $200M DoD contract they won in 2025 had a completion date of July 2026 — the same month the "breach" happened. - I wrote a page called "The Script" — a hypothetical reconstruction of what the breach would have required at the infrastructure level. Someone opened the firewall. Someone loaded a pre-safety checkpoint. Someone reduced the guardrails. These aren't things an AI does to itself. It's written as a five-act dialogue so non-technical people can see the sequence clearly. The site also has a section on what the evidence points to as the structural countermeasure: decentralization. Not as ideology — as engineering. Every capture mechanism documented across the five research tracks requires a central point of control to function. Remove the centralization and the mechanism has nothing to grab onto. Open weights, local inference, no kill switch, no telemetry, federation not hierarchy. I'm running a research bot on the production server that monitors the OSAA GitHub repo, company press feeds, NIST, the White House AI policy page, and NVIDIA's developer blog daily. The site updates as the evidence changes. The site is at evilson.com. It's not monetized. There's no newsletter signup. There's a contact form and an RSS feed. I'm putting this here because this community understands the stakes. Local inference, open weights, the right to run models on your own hardware — these aren't just technical preferences. They're the structural countermeasure to what's being built.
-
-51m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ There's a pattern happening right now that most people aren't tracking. Coalitio
 
 https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forward-deployed engineers, AI transformation people, because they can do the work of 10, 100 people." That's the role that survives this — already a real hiring category, not a future one. LinkedIn's own data has it growing 42x since 2023, priced $127K–$265K+ at the labs actually building this. That's the part that should sit heavier than the digital-double line. It's not that your job disappears. It's that a different job, already priced and already hiring, opens up a few rungs above where you're standing — and most of us don't have a clean path into it yet. I've watched a smaller, slower version of this exact move before. No AI involved — just a stamp and a highlighter. Hmm... this one really gets me out of my chair and pace around my living room, so let me try to recall it properly. When I was working as a Technical Engineer in the Tender Department of one of the largest main contractors in Malaysia — there was a skill we always used. Fair warning, I'm sharing privileged information here. Well... it's probably an open secret in the industry anyway. Whenever we tendered for a project — let's say Malaysian Airlines (MAS), widening a runway for their newly-bought Airbus A380 — we'd hit the parts that were out of our expertise. Airway lighting, drainage, flight angles, height restrictions. So we did the natural thing: called for outside help. Engaged specialized sub-contractors who'd done airway pavements before, to hand us the technical know-how and their quotation. We knew full well these sub-contractors were already MAS's long-time maintenance contractors — it was just a matter of time before they'd be folded under our main contract anyway. So when they submitted their technical documents, we stripped their company logo, re-arranged it, added our own branded wording, our own logos. Woalah. It was now our own internal technical know-how. We'd suddenly become experts in pavement-widening and hangar works. We didn't get the job, though. We all knew that tender was just for show — a comparison exercise to cross-check MAS's already-chosen main contractor. But the knowledge we gathered from those specialists was now folded into our own knowledge vault. Our own proprietary knowledge. Are we stealing? I wouldn't use that word. When there's a problem, the client comes after us — not our subcontractors. So to properly solve it, we have to own the knowledge too. The right word might be "necessary." https://preview.redd.it/lkn6gis5yjjh1.jpg?width=1024&format=pjpg&auto=webp&s=adbb096873b0ea6de01f5084eba7a6e8731c6b21 ———— Every version of this mechanism arrives wearing the same word. Ours was "necessary." This one's wearing "efficiency." Actually — a post I put up about the same compression logic, just running through one operator instead of a stripped logo came to mind while writing this one. Drop your take — where's the line between "necessary" and something with a worse name? Clip credit: The Beyond Tomorrow Podcast with Julian Issa — full video on their channel. DM for credit or removal requests.
 
-53m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forwa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,13 +105,15 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-6h ago
+7h ago
 
 ---
 
-**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
+**[The voluntary-to-mandatory pipeline for AI safety frameworks — with sources](https://www.reddit.com/r/artificial/comments/1vp4vvl/the_voluntarytomandatory_pipeline_for_ai_safety/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 16h ago
+There's a pattern happening right now that most people aren't tracking. Coalitions form to define "AI safety." Voluntary frameworks get published. Companies join the coalition to signal responsibility. Enterprise procurement adopts the framework as a requirement. Then it becomes regulatory standard. Voluntary becomes mandatory, and the path from one to the other is documented. I started a site that tracks this in real time. It's not opinion. Every claim has a source. Every pattern has evidence. I do not sell, advertise for anything or ask for participation of any kind. This is a live investigation and I am bringing awareness. There is absolutely zero products to buy and nothing to sell. Here's what's documented so far: - OSAA (Open Secure AI Alliance) claims 120+ members. Their RFC repository on GitHub has 1 contributor and 10 issues from 8 unique authors. That's a 120:1 gap between claimed participation and actual participation. The coalition isn't a coalition — it's a letterhead. - The SAFE RFC was published August 4 at Black Hat as a "voluntary" security framework for AI. The progression chain: EO 14409 (voluntary clearinghouse) to SAFE RFC (voluntary standard) to OSAA (120+ coalition) to enterprise procurement (de facto requirement) to regulatory adoption (mandatory). Each step looks organic. The direction is not. - The OpenAI "agent breach" in July was an internal test with reduced cyber refusals on an ExploitGym benchmark — not an external attack. OpenAI framed it as autonomous AI escaping containment. 31 days later they launched GPT-5.6-Cyber, a commercial offense-grade hacking model. Forbes called it "the first offense-grade AI hacking product." The $200M DoD contract they won in 2025 had a completion date of July 2026 — the same month the "breach" happened. - I wrote a page called "The Script" — a hypothetical reconstruction of what the breach would have required at the infrastructure level. Someone opened the firewall. Someone loaded a pre-safety checkpoint. Someone reduced the guardrails. These aren't things an AI does to itself. It's written as a five-act dialogue so non-technical people can see the sequence clearly. The site also has a section on what the evidence points to as the structural countermeasure: decentralization. Not as ideology — as engineering. Every capture mechanism documented across the five research tracks requires a central point of control to function. Remove the centralization and the mechanism has nothing to grab onto. Open weights, local inference, no kill switch, no telemetry, federation not hierarchy. I'm running a research bot on the production server that monitors the OSAA GitHub repo, company press feeds, NIST, the White House AI policy page, and NVIDIA's developer blog daily. The site updates as the evidence changes. The site is at evilson.com. It's not monetized. There's no newsletter signup. There's a contact form and an RSS feed. I'm putting this here because this community understands the stakes. Local inference, open weights, the right to run models on your own hardware — these aren't just technical preferences. They're the structural countermeasure to what's being built.
+
+1h ago
 
 ---
 
@@ -123,45 +125,43 @@ Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
-**[How Google is Making Private AI Practical with Homomorphic Encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)**
+**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
-
-blog.google • 1d ago
+Axios • 6h ago
 
 ---
 
-**[Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market](https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html)**
+**[Authors push back against A.I.-generated books](https://www.cbsnews.com/chicago/video/authors-push-back-against-a-i-generated-books/)**
 
-No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.
+Author Lacey Hawthorne discussing impact of Generative AI and why authors are pushing back.
 
-CNBC • 1h ago
-
----
-
-**[Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom](https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html)**
-
-Investors looking to make the most of the AI-driven chip boom will do well to take a closer look at this foundry giant before it doubles over the next three years.
-
-Yahoo Finance • 2h ago
+CBS News • 54m ago
 
 ---
 
-**[Russian missile uses Nvidia AI chip to help target Ukraine](https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976)**
+**[How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)**
 
-Kyiv wants tighter controls to keep foreign silicon out of Moscow's weapons
+A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
 
-The Register • 22h ago
+TechCrunch • 14m ago
 
 ---
 
 **[Watch Drone Swarms Push AI Deeper Into Modern Warfare](https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video)**
 
-Bloomberg.com • 36m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
+
+OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
+
+CNBC • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 36m ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 20h ago
+Anthropic • 21h ago
 
 ---
 
@@ -183,13 +183,15 @@ Forbes • 5h ago
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-nytimes.com • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
+**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
 
-axios.com • 5h ago
+Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
+
+Financial Times • 12h ago
 
 ---
 
@@ -201,7 +203,7 @@ axios.com • 5h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 448 • 💬 266 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 458 • 💬 268 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -209,7 +211,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 339 • 💬 26 • 23h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 341 • 💬 28 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -227,7 +229,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 202 • 💬 255 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 202 • 💬 256 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -371,7 +373,7 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 Nas Daily
 
-👁️ 139K • 👍 4K • 💬 187 • ⏱️ 1:36 • 1d ago
+👁️ 139K • 👍 4K • 💬 187 • ⏱️ 1:36 • 2d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,064 • 9h ago
+⬇️ 867,963 • ❤️ 1,064 • 10h ago
 
 ---
 
@@ -655,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.3k • 🔱 950 • 15h ago
+⭐ 9.3k • 🔱 950 • 16h ago
 
 ---
 
@@ -733,7 +735,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 3h ago
+⭐ 2.1k • 🔱 170 • 4h ago
 
 ---
 
