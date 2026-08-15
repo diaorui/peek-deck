@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-14T23:48:01.795602+00:00'
+updated: '2026-08-15T01:14:42.147668+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 14, 2026 at 23:48 UTC  
+**Last Updated:** August 15, 2026 at 01:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,877.13
+### $63,019.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -3.2%  
+**24h:** -0.7%  
+**7d:** -2.9%  
 **30d:** -1.5%  
-**90d:** -18.8%  
-**1y:** -46.4%  
+**90d:** -18.2%  
+**1y:** -46.3%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 29
+### 34
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Never forget the bigger picture!
 
-8h ago
+9h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ Never forget the bigger picture!
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-12h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-2h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-3h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-6h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 Looking at the chart, the last time the 100 week moving average started its downwards slope, it coincided with the bottom of the Bitcoin bear market. In 2024, the rally started in November, if that doesn’t repeat, we will finally see the 100 week moving average drop for the first time since ATH What is the buy signal, you may or may not have asked? Well, once the price of bitcoin crosses above the 100 week moving average, it has been followed by a substantial rally. This has been true every single time in the history of Bitcoin. My thoughts: accumulate slowly once the 100 week moving average starts to fall, and quickly once the price of Bitcoin breaks above the 100 week MA. Thoughts?
 
-1h ago
+2h ago
 
 ---
 
@@ -157,67 +157,11 @@ Looking at the chart, the last time the 100 week moving average started its down
 
 ## Google News: "bitcoin"
 
-**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
-
-The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
-
-Investor's Business Daily • 2h ago
-
----
-
-**[XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)**
-
-Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
-
-CoinDesk • 16h ago
-
----
-
-**[France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders](https://www.yahoo.com/news/world/articles/france-tax-data-leak-could-210335558.html)**
-
-A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.
-
-Yahoo • 2h ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-why-bitcoin-222305169.html)**
-
-Good inflation news usually sends Bitcoin surging, so why did Bitcoin fall on back-to-back prints that sent the Nasdaq and S&P 500 higher? The answer reveals a hidden tug-of-war playing out far from the public order books.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Robert Kiyosaki Links Bitcoin and AI to an Old Prediction: Who Made It?](https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-links-bitcoin-ai-213204828.html)**
-
-Robert Kiyosaki linked futurist Buckminster Fuller's predictions to the emergence of Bitcoin and artificial intelligence.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
-
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
-
-Sacramento Bee • 9h ago
-
----
-
 **[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://www.fool.com/investing/2026/08/14/michael-saylors-strategy-is-selling-bitcoin-again/)**
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-The Motley Fool • 12h ago
-
----
-
-**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
-
-Real mining. Tiny footprint.
-
-Mashable • 18h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -225,15 +169,69 @@ Mashable • 18h ago
 
 Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
-**[5 Best Crypto Casinos (Just Updated) – Top Bitcoin Gambling Sites & New Bonus Codes](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-just-updated-top-bitcoin-gambling-sites-new-bonus-codes/20260811073000/)**
+**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
 
-Top 5 Bitcoin Casino Sites Compared – New Bonus Codes Casinos Welcome Offers Bonus Codes 1️⃣ Thunderpick 100% Bonus up to €2,000 WELCOME 2️⃣ JACK.com 100 Free Spins (No Wagering) WELCOME 3️⃣ BitStarz 300% up to 5 BTC + 180 Free Spins None Required 4️⃣ Lucky Rebel (USA Only) 200% up to $2,500 + 50...
+Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Muddy River Sports • 3d ago
+Forbes • 9h ago
+
+---
+
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 11h ago
+
+---
+
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-why-bitcoin-222305169.html)**
+
+Good inflation news usually sends Bitcoin surging, so why did Bitcoin fall on back-to-back prints that sent the Nasdaq and S&P 500 higher? The answer reveals a hidden tug-of-war playing out far from the public order books.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown](https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown)**
+
+Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as BTC retraces last week's gains and altcoins struggle to find direction.
+
+CoinDesk • 14h ago
+
+---
+
+**[Bitcoin dips below $63k as regulatory delays offset rate cheer](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-633k-as-regulatory-delays-offset-rate-cheer-4859819)**
+
+Investing.com • 18h ago
+
+---
+
+**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
+
+The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
+
+Investor's Business Daily • 4h ago
+
+---
+
+**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+
+Real mining. Tiny footprint.
+
+Mashable • 19h ago
+
+---
+
+**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
+
+The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -275,7 +273,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 23h ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 1d ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -299,7 +297,7 @@ Airwingmarine's Music - Synthwave ...
 
 📺 Airwingmarine
 
-👁️ 17K • 👍 314 • 💬 22 • ⏱️ 0:15 • 11h ago
+👁️ 17K • 👍 314 • 💬 22 • ⏱️ 0:15 • 12h ago
 
 ---
 
@@ -349,7 +347,7 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 3K • 💬 136 • ⏱️ 18:46 • 1d ago
+👁️ 36K • 👍 3K • 💬 136 • ⏱️ 18:46 • 2d ago
 
 ---
 
@@ -369,7 +367,7 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 Sin City Crypto
 
-👁️ 6K • 👍 254 • ⏱️ 5:33:35 • 17h ago
+👁️ 6K • 👍 254 • ⏱️ 5:33:35 • 19h ago
 
 ---
 
@@ -379,7 +377,7 @@ Zen Master JP Trades The Crypto Market. Live TA & More Start your prop trading j
 
 📺 The reDeFined Podcast
 
-👁️ 186 • ⏱️ 0:45 • 2h ago
+👁️ 186 • ⏱️ 0:45 • 4h ago
 
 ---
 
