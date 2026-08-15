@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T10:48:49.790137+00:00'
+updated: '2026-08-15T11:19:55.805555+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 10:48 UTC  
+**Last Updated:** August 15, 2026 at 11:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Yahoo Finance • 8m ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 8m ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -200,7 +200,7 @@ markets.businessinsider.com • 21h ago
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
-ETF Trends • 23h ago
+ETF Trends • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 1h ago
+👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 9h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are a
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 12h ago
+👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 14K • 👍 1K • 💬 385 • ⏱️ 12:21 • 1d ago
+👁️ 14K • 👍 1K • 💬 385 • ⏱️ 12:21 • 2d ago
 
 ---
 
@@ -316,7 +316,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 23h ago
+👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 1d ago
 
 ---
 

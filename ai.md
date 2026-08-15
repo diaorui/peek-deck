@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T10:48:49.774873+00:00'
+updated: '2026-08-15T11:19:55.792176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 10:48 UTC  
+**Last Updated:** August 15, 2026 at 11:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
 
-52m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ It should’ve been obvious that after AI’s gained legal personhood, (which wa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 11h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 2h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-blog.google • 19h ago
+blog.google • 20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 Great physicians are curious about the patient in front of them, and that curiosity is what drives them to dig deeper, writes Dr. Natasha Chida.
 
-Time Magazine • 48m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Time Magazine • 48m ago
 
 AI can't be managed by any existing department, so the Big Four firm EY is creating a new one. It's called the AI Value Realization Office.
 
-Business Insider • 16m ago
+Business Insider • 47m ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 19h ago
 
 Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.
 
-Time Magazine • 18h ago
+Time Magazine • 19h ago
 
 ---
 
@@ -191,7 +191,7 @@ Anthropic • 15h ago
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 311 • 💬 23 • 18h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 311 • 💬 23 • 19h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -307,7 +307,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 34:05 • 19h ago
+👁️ 43K • 👍 2K • 💬 243 • ⏱️ 34:05 • 20h ago
 
 ---
 
@@ -337,7 +337,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 32K • 👍 908 • 💬 189 • ⏱️ 6:06 • 20h ago
+👁️ 32K • 👍 908 • 💬 189 • ⏱️ 6:06 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ Welcome inside the world of Fortell... The $740M startup that had to waitlist bi
 
 📺 Onevilage
 
-👁️ 887K • 👍 23K • 💬 635 • ⏱️ 0:46 • 20h ago
+👁️ 887K • 👍 23K • 💬 635 • ⏱️ 0:46 • 21h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,410 • 19h ago
+⬇️ 91,917 • ❤️ 9,410 • 20h ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 719 • 23h ago
+⬇️ 5,079 • ❤️ 719 • 1d ago
 
 ---
 
@@ -656,7 +656,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.0k • 🔱 918 • 10h ago
+⭐ 9.0k • 🔱 918 • 11h ago
 
 ---
 
@@ -734,7 +734,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 1h ago
+⭐ 2.1k • 🔱 170 • 2h ago
 
 ---
 

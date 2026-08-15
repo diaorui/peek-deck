@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T10:48:49.783624+00:00'
+updated: '2026-08-15T11:19:55.800028+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 10:48 UTC  
+**Last Updated:** August 15, 2026 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-13h ago
+14h ago
 
 ---
 
@@ -127,13 +127,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-1h ago
+2h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,13 +141,13 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-23h ago
+1d ago
 
 ---
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -175,7 +175,7 @@ Mashable • 1d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 10h ago
+WAFF • 11h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 47m ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 18h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 20h ago
+Sacramento Bee • 21h ago
 
 ---
 
@@ -223,7 +223,7 @@ Sacramento Bee • 20h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 16h ago
+👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 17h ago
 
 ---
 
@@ -345,7 +345,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 15h ago
+👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 16h ago
 
 ---
 

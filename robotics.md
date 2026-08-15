@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T10:48:49.793406+00:00'
+updated: '2026-08-15T11:19:55.808532+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 10:48 UTC  
+**Last Updated:** August 15, 2026 at 11:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,69 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Update on my companion robot](https://www.reddit.com/r/robotics/comments/1vopque/update_on_my_companion_robot/)**
+
+Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
+
+9h ago
+
+---
+
+**[Trained an end-to-end CNN to steer my RC car around a track, running on Raspberry Pi 5](https://www.reddit.com/r/robotics/comments/1vok7za/trained_an_endtoend_cnn_to_steer_my_rc_car_around/)**
+
+The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
+
+13h ago
+
+---
+
+**[Egocentric video - complex setup by Unidata](https://www.reddit.com/r/robotics/comments/1vozftz/egocentric_video_complex_setup_by_unidata/)**
+
+Hey guys! I've been doing some research on egocentric video data for robots and stumbled upon this pretty developed setup. They use a Pico 4 Ultra, motion trackers, and ZED cameras to collect the data. Looks impressive!
+
+46m ago
+
+---
+
+**[I turned my master's thesis on RL obstacle avoidance into an open-source manipulator toolkit — it's peer-reviewed now and just hit v1.4](https://www.reddit.com/r/robotics/comments/1vok5xe/i_turned_my_masters_thesis_on_rl_obstacle/)**
+
+So, a bit of self-promotion here, but I suspect a lot of you might have run into the same integration headache I did with my project. My thesis was all about using reinforcement learning to keep robot arms from hitting those tricky kinematic singularities. The challenge? The obstacles were moving around unpredictably. To even get to the training phase, I needed a fully connected system: from the URDF model all the way through kinematics, dynamics, planning, control, simulation, and perception. The idea was for the AI agent to see a real obstacle and react based on an actual dynamic model, not some simplified version. And honestly, nothing out there really covered that whole spectrum. You've got MoveIt for planning, sure, but integrating sensors meant building custom ROS nodes from scratch, and there was no GPU acceleration. Pinocchio is impressively fast, but it's CPU-only, and you're left to figure out how to sync perception and planning yourself. CuRobo offers GPU planning and collision checking, but you're on your own for the perception pipeline and closed-loop control. The Python Robotics Toolbox is great for learning the algorithms, but simulation, control, and vision are up to you. So, before I could train a single AI policy, I had to build that integration layer. That's what eventually became ManipulaPy, with its SerialManipulator and ManipulatorDynamics classes forming the foundation for everything else in the library. After my thesis was done, I submitted the code to the Journal of Open Source Software. What really surprised me was how much the review process actually improved the project. JOSS doesn't just check if the code runs; they require a genuine commitment to maintain it. That commitment is what kept it alive after I graduated, instead of it ending up like so many other thesis repositories that just fade away. Where it stands now – it's been peer-reviewed and published in JOSS (October 2025), and we just shipped version 1.4: * The same kinematics and dynamics code now works with NumPy, CuPy, PyTorch, or JAX, all accessed through a single API. Plus, you get real automatic differentiation gradients with PyTorch and JAX. * It comes with 25 robots out of the box – UR, Franka, Kinova, KUKA, Fanuc, ABB, xArm, Robotiq – you can just load them by name, no need to mess with ROS workspaces or mesh files. * It has a native URDF parser that handles `package://` paths and works even if ROS isn't installed. * It integrates with PyBullet for simulation, and we've got CUDA trajectory kernels that automatically switch back to the CPU when the batch size is too small to make using the GPU worthwhile. You can grab it with pip install ManipulaPy. Here are the links: Repo, Docs, Paper. It's under AGPL-3.0. Genuine question for this community: for those of you working with robot arms, is that integration layer still the part you end up rebuilding every single time? I'm curious if this is a common problem or if it was just specific to my setup.
+
+13h ago
+
+---
+
+**[Cubic Doggo Update: on Simulation!](https://www.reddit.com/r/robotics/comments/1vomvme/cubic_doggo_update_on_simulation/)**
+
+Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
+
+11h ago
+
+---
+
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
 17h ago
 
 ---
 
-**[Is it Better now ?](https://www.reddit.com/r/robotics/comments/1vnvq1p/is_it_better_now/)**
+**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
 
-1d ago
+🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
 
----
-
-**[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
-
-21h ago
+6h ago
 
 ---
 
-**[Is this finally a real 3-axis FOC gimbal? IMU stabilization is working](https://www.reddit.com/r/robotics/comments/1vo10s7/is_this_finally_a_real_3axis_foc_gimbal_imu/)**
+**[Could anyone help? - Family plea to help Rickmansworth 97-year-old fix robot's ankle (From BBC News)](https://www.reddit.com/r/robotics/comments/1voxoqv/could_anyone_help_family_plea_to_help/)**
 
-1d ago
+Malcolm Stern says Toby could be used to educate children once completed.
 
----
-
-**[Looking for Someone to Review My Rover URDF + Learn Together](https://www.reddit.com/r/robotics/comments/1vo6g3l/looking_for_someone_to_review_my_rover_urdf_learn/)**
-
-Hey everyone, I'm self-teaching robotics with a focus on perception and robot learning. I learn best by building, so I recently started learning ROS2 and Gazebo. I took a rover model, assembled it into a URDF, and tried to calculate the mass and inertia for the components manually using volume and material density. Here is the repo: https://github.com/introlix/robo_car Note: you can ignore the esp_control folder. I originally started this for a physical ESP32 car but moved to simulation so I could learn Gazebo physics and sensor integration before touching real hardware. Since I'm doing this alone, I'm relying a lot on trial and error and AI tools to help me. But I know AI hallucinates. If anyone here has experience with Gazebo/URDF, I’d really appreciate it if you could take a quick look at my URDF. I mainly want to know if my mass/inertia numbers look realistic, or if I messed up the math and my robot. Also, if anyone is also an student then we could learn together. I'm not looking to pair-program on a call, just someone to do reviews on GitHub, share resources, and maybe give each other small weekly challenges. A bit about my background: while I'm relatively new to ROS2, I have some ML background. I've built neural networks from scratch in NumPy and actually implemented LLM architectures (like Gemma and Qwen) from scratch just by reading their papers and loading the weights. That is the reason I'm interested in perception and robot learning. Let me know if you're open to reviewing the code or if you want to team up. Thanks!
-
-21h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 2h ago
 
 ---
 
-**[Fast circular single scanline multi-barcode detection](https://www.reddit.com/r/robotics/comments/1voaubp/fast_circular_single_scanline_multibarcode/)**
+**[Day 1 of building an Iron Man helmet from scratch](https://www.reddit.com/r/robotics/comments/1vok55e/day_1_of_building_an_iron_man_helmet_from_scratch/)**
 
-https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
+I've decided to build my own Iron Man helmet. The plan is: CAD → 3D print → servos → working helmet Today I started the CAD design from scratch and recorded the whole process as a timelapse. I'm going to post the progress every day and see how far I can take this thing. Day 1 complete. 🦾
 
-19h ago
-
----
-
-**[LR Mate 100i High Speed: Disturbance before CALIBRATE, SRVO-050 afterwards](https://www.reddit.com/r/robotics/comments/1vob633/lr_mate_100i_high_speed_disturbance_before/)**
-
-18h ago
+13h ago
 
 ---
 
-**[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
+**[MK Robot-up graded plane](https://www.reddit.com/r/robotics/comments/1votz7x/mk_robotup_graded_plane/)**
 
-19h ago
-
----
-
-**[Revamp & Retry](https://www.reddit.com/r/robotics/comments/1vnlzp7/revamp_retry/)**
-
-​ 🎉拔蘑菇验证通过，但离“实战”还差一截。 下一版直接上狭窄空间模拟——相机怼近了有盲区，所以末端执行器改方案：从底下横着“抄”菌柄，夹得稳还不伤菇。 小伙伴有没有更骚的操作？欢迎砸我脑洞，在线等！🍄🔧 ✅ Mushroom-pulling works—now time for the real squeeze. Next up: tight spaces, closer camera (blind spots, ugh), so we’re redesigning the end-effector to slide in sideways from below and grip the stipe—no more crushed caps. Any brighter ideas? Throw ’em at me! 🍄🤖
-
-1d ago
-
----
-
-**[Avancée](https://www.reddit.com/r/robotics/comments/1vninq2/avancée/)**
-
-1d ago
+6h ago
 
 ---
 
@@ -120,7 +130,7 @@ The New York Times • 2d ago
 
 Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -152,7 +162,7 @@ Yahoo Finance • 2d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
@@ -174,7 +184,7 @@ LEX 18 News • 2d ago
 
 **[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
