@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T04:30:54.816891+00:00'
+updated: '2026-08-15T05:24:21.034319+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 04:30 UTC  
+**Last Updated:** August 15, 2026 at 05:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 6h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-18h ago
+19h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I recently was thinking about reducing the cost of LLMs, specially LLMs which ar
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 6h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 7h ago
 
 ---
 
@@ -73,13 +73,13 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-18h ago
+19h ago
 
 ---
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 5h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-20h ago
+21h ago
 
 ---
 
@@ -121,45 +121,51 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
+
+---
+
+**[EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/)**
+
+Reuters • 1d ago
+
+---
+
+**[Apple trained its own AI model for China with help from Alibaba](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba)**
+
+﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China.
+
+theverge.com • 20h ago
 
 ---
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[Dashcam maps road damage](https://www.fox13news.com/news/usf-researchers-test-ai-dashcam-track-hurricane-road-damage)**
+**[America’s AI election](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
 
-A University of South Florida engineering professor and affiliate faculty member with the Center for Urban Transportation is testing a new artificial intelligence dashcam to assist post-storm recovery efforts.
+Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
 
-FOX 13 Tampa Bay • 1h ago
-
----
-
-**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
-
-OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
-
-CNBC • 12h ago
+Financial Times • 1h ago
 
 ---
 
-**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
 
-Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-BBC • 5h ago
+Business Insider • 10h ago
 
 ---
 
-**[The AI build-out has a problem that $1 trillion in cash can't fix](https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html)**
+**[Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking](https://www.businessinsider.com/ben-thompson-ai-watermarking-anthropic-claude-2026-8)**
 
-Forecasts are rising for how much money Big Tech will throw at the AI data center build-out this year. But money may not get the job done if chips, skilled labor, and power bottlenecks stand in the way.
+Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.
 
-finance.yahoo.com • 14h ago
+Business Insider • 11h ago
 
 ---
 
@@ -167,31 +173,23 @@ finance.yahoo.com • 14h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 9h ago
+Anthropic • 10h ago
 
 ---
 
-**[The AI boom is driving up home prices in San Francisco. Are you being priced out?](https://www.cnn.com/2026/08/14/economy/san-francisco-housing-market-callout)**
+**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
 
-Fueled by a boom in artificial intelligence, San Francisco is quickly becoming the hottest housing market in the country.
+OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNN • 8h ago
-
----
-
-**[It May Be Time to Panic About AI](https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/)**
-
-Bots are starting to conspire with one another. Can they be reeled back in?
-
-The Atlantic • 2d ago
+CNBC • 13h ago
 
 ---
 
-**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
+**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
 
-Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
+Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
 
-The Guardian • 11h ago
+BBC • 6h ago
 
 ---
 
@@ -203,7 +201,15 @@ The Guardian • 11h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 984 • 💬 920 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 985 • 💬 920 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+
+---
+
+**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
+
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+⬆️ 331 • 💬 195 • 13h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -215,19 +221,11 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 ---
 
-**[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
-
-Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
-
-⬆️ 302 • 💬 180 • 12h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-
----
-
 **[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 225 • 💬 19 • 12h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 246 • 💬 19 • 13h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -235,7 +233,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 215 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 216 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -245,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 194 • 💬 244 • 16h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 196 • 💬 244 • 17h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -253,13 +251,13 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 170 • 💬 187 • 13h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 171 • 💬 191 • 14h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 163 • 💬 203 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 163 • 💬 204 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -283,33 +281,43 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
+
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
+
+📺 Matthew Berman
+
+👁️ 15K • 👍 610 • 💬 117 • ⏱️ 13:09 • 5h ago
+
+---
+
 **[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
 
 Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
 
 📺 Matt Wolfe
 
-👁️ 33K • 👍 2K • 💬 212 • ⏱️ 34:05 • 13h ago
+👁️ 37K • 👍 2K • 💬 225 • ⏱️ 34:05 • 14h ago
 
 ---
 
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
 
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
 
 📺 Higgsfield AI
 
-👁️ 27K • 👍 793 • 💬 169 • ⏱️ 6:06 • 14h ago
+👁️ 198K • 👍 11K • 💬 2K • ⏱️ 19:49 • 1d ago
 
 ---
 
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+**[Mathematicians STUNNED After AI Solves 10 Decades Old Problems](https://www.youtube.com/watch?v=2WT1kNnoyuU)**
 
-I explain the news, you stay sane. ✓ Support independent news ...
+The Friday crew discusses mathematicians stunned as AI solves decades old problems. Daniel Litt: https://www.daniellitt.com/ ...
 
-📺 Chris Norlund
+📺 Breaking Points
 
-👁️ 136K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 124K • 👍 4K • 💬 874 • ⏱️ 19:15 • 11h ago
 
 ---
 
@@ -319,15 +327,25 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 AI Revolution
 
-👁️ 13K • 👍 532 • 💬 55 • ⏱️ 16:41 • 1d ago
+👁️ 14K • 👍 535 • 💬 56 • ⏱️ 16:41 • 1d ago
 
 ---
 
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
+**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
 
-📺 Onevilage
+I explain the news, you stay sane. ✓ Support independent news ...
 
-👁️ 588K • 👍 17K • 💬 474 • ⏱️ 0:46 • 14h ago
+📺 Chris Norlund
+
+👁️ 137K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+
+---
+
+**[AI is destroying antique books to control knowledge!? #ninjasarebutterflies #ai #books #1984](https://www.youtube.com/watch?v=5TpOQOjnV68)**
+
+📺 Ninjas Are Butterflies 
+
+👁️ 24K • 👍 2K • 💬 154 • ⏱️ 0:57 • 6h ago
 
 ---
 
@@ -337,17 +355,7 @@ Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup...
 
 📺 James Charles
 
-👁️ 87K • 👍 5K • 💬 496 • ⏱️ 24:09 • 9h ago
-
----
-
-**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
-
-10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
-
-📺 Nas Daily
-
-👁️ 127K • 👍 4K • 💬 167 • ⏱️ 1:36 • 1d ago
+👁️ 118K • 👍 5K • 💬 552 • ⏱️ 24:09 • 10h ago
 
 ---
 
@@ -357,27 +365,15 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 33K • 👍 1K • 💬 131 • ⏱️ 17:01 • 2d ago
+👁️ 33K • 👍 1K • 💬 133 • ⏱️ 17:01 • 2d ago
 
 ---
 
-**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
+📺 Onevilage
 
-📺 The Tech Report
-
-👁️ 148K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
-
----
-
-**[AI Tried to Recreate My 182M View Short 😂](https://www.youtube.com/watch?v=gHB3-izKKno)**
-
-My original Robot Pacman vs Dentures Short has over 182 million views: https://www.youtube.com/shorts/xiqYEsMPuLc So I ...
-
-📺 StrEat
-
-👁️ 45K • 👍 160 • 💬 1 • ⏱️ 0:08 • 15h ago
+👁️ 699K • 👍 19K • 💬 539 • ⏱️ 0:46 • 15h ago
 
 ---
 
@@ -393,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 9,083 • 13h ago
+⬇️ 2 • ❤️ 9,219 • 14h ago
 
 ---
 
@@ -405,7 +401,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,520 • 3d ago
+⬇️ 165,300 • ❤️ 1,523 • 3d ago
 
 ---
 
@@ -417,7 +413,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 3,832 • ❤️ 921 • 2d ago
+⬇️ 3,832 • ❤️ 928 • 2d ago
 
 ---
 
@@ -429,7 +425,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 839 • 8h ago
+⬇️ 0 • ❤️ 901 • 9h ago
 
 ---
 
@@ -441,7 +437,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,997,541 • ❤️ 3,924 • 2d ago
+⬇️ 1,997,541 • ❤️ 3,929 • 2d ago
 
 ---
 
@@ -453,7 +449,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 207,830 • ❤️ 862 • 2d ago
+⬇️ 207,830 • ❤️ 867 • 2d ago
 
 ---
 
@@ -465,7 +461,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 659 • 17h ago
+⬇️ 63 • ❤️ 676 • 18h ago
 
 ---
 
@@ -477,7 +473,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,387 • 14d ago
+⬇️ 1,606,491 • ❤️ 3,390 • 14d ago
 
 ---
 
@@ -489,7 +485,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 438 • 1d ago
+⬇️ 245 • ❤️ 442 • 1d ago
 
 ---
 
@@ -501,7 +497,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 596,774 • ❤️ 417 • 4d ago
+⬇️ 596,774 • ❤️ 416 • 4d ago
 
 ---
 
@@ -517,7 +513,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 604 • 💬 2 • ⭐ 1,929 • 5d ago
+▲ 605 • 💬 2 • ⭐ 1,997 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -531,7 +527,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 124 • 💬 3 • ⭐ 21,969 • 2mo ago
+▲ 124 • 💬 3 • ⭐ 22,101 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -549,18 +545,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 52 • 💬 4 • ⭐ 37,164 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
 *Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
@@ -572,6 +556,18 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 80 • 💬 6 • ⭐ 23,776 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 52 • 💬 4 • ⭐ 37,202 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -628,17 +624,15 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 ---
 
-**[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
+**[M^{2}SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation](https://huggingface.co/papers/2303.10894)**
 
-*Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
+*Xiaoqi Zhao, Hongpeng Jia, Youwei Pang et al. (8 authors)*
 
-🏢 Hugging Face
+A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentation by capturing detailed and structural cues, improving localization and edge sharpness compared to traditional methods.
 
-Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
+▲ 0 • 💬 0 • ⭐ 857 • 41mo ago
 
-▲ 27 • 💬 7 • ⭐ 164,107 • 83mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
+[🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
 
 ---
 
@@ -656,23 +650,23 @@ Multiplayer agent harness for work.
 
 ---
 
-**[trycompai/crm](https://github.com/trycompai/crm)**
-
-Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
-
-`TypeScript`
-
-⭐ 8.4k • 🔱 996 • 1d ago
-
----
-
 **[guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)**
 
 Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 8.3k • 🔱 861 • 4h ago
+⭐ 8.5k • 🔱 879 • 5h ago
+
+---
+
+**[trycompai/crm](https://github.com/trycompai/crm)**
+
+Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+`TypeScript`
+
+⭐ 8.4k • 🔱 997 • 1d ago
 
 ---
 
@@ -682,7 +676,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 430 • 1d ago
+⭐ 5.0k • 🔱 431 • 1d ago
 
 ---
 
@@ -690,7 +684,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 517 • 6d ago
+⭐ 4.0k • 🔱 519 • 6d ago
 
 ---
 
@@ -720,7 +714,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 20h ago
+⭐ 2.7k • 🔱 1.9k • 21h ago
 
 ---
 
@@ -730,7 +724,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.4k • 🔱 187 • 3d ago
+⭐ 2.4k • 🔱 190 • 3d ago
 
 ---
 

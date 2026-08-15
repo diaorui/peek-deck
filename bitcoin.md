@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T04:30:54.824587+00:00'
+updated: '2026-08-15T05:24:21.042747+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 04:30 UTC  
+**Last Updated:** August 15, 2026 at 05:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -2.8%  
-**30d:** -1.4%  
-**90d:** -18.1%  
-**1y:** -46.3%  
+**24h:** +0.3%  
+**7d:** -2.7%  
+**30d:** -1.2%  
+**90d:** -18.0%  
+**1y:** -46.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.30B
+**Market Cap:** $1266.30B
 Rank #1
 
-**Circulating Supply:** 20,070,309 BTC
+**Circulating Supply:** 20,070,353 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92871.5%
++92945.3%
 
 ---
 
@@ -93,7 +93,7 @@ Never forget the bigger picture!
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-17h ago
+18h ago
 
 ---
 
@@ -117,7 +117,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 12h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-11h ago
+12h ago
 
 ---
 
@@ -161,39 +161,7 @@ Looking at the chart, the last time the 100 week moving average started its down
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 9h ago
-
----
-
-**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
-
-The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
-
-Investor's Business Daily • 7h ago
-
----
-
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
-
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
-
-finance.yahoo.com • 18h ago
-
----
-
-**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
-
-Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
-
-Forbes • 12h ago
-
----
-
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
-
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
-
-Sacramento Bee • 14h ago
+The Block • 10h ago
 
 ---
 
@@ -201,7 +169,39 @@ Sacramento Bee • 14h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 22h ago
+Mashable • 7h ago
+
+---
+
+**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
+
+Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+
+Yahoo Finance • 19h ago
+
+---
+
+**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
+
+Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
+
+Forbes • 13h ago
+
+---
+
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 15h ago
+
+---
+
+**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
+
+The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
+
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -209,7 +209,7 @@ Mashable • 22h ago
 
 MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ finance.yahoo.com • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -227,11 +227,11 @@ thestreet.com • 14h ago
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+**[Bitcoin 'Flatlines' (BTC-USD)](https://seekingalpha.com/article/4937001-bitcoin-flatlines)**
 
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+If you look at a one-year chart of Bitcoin, the first thing you notice is how well-defined the downtrend has been from just below $130K to the $60K range now.
 
-Bitcoin Magazine • 14h ago
+Seeking Alpha • 54m ago
 
 ---
 
@@ -259,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 55m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 1h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -289,93 +289,13 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
 
-40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 90 • ⏱️ 9:13 • 1d ago
-
----
-
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
-
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 648 • 💬 67 • ⏱️ 16:33 • 5h ago
-
----
-
-**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
-
-Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 3K • 💬 138 • ⏱️ 18:46 • 2d ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 28K • 👍 1K • 💬 387 • ⏱️ 18:10 • 1d ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 264 • ⏱️ 18:25 • 1d ago
-
----
-
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
-
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 132K • 👍 8K • 💬 434 • ⏱️ 21:29 • 2d ago
-
----
-
-**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
-
-Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 422 • 💬 352 • ⏱️ 16:10 • 1d ago
-
----
-
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
-
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 314 • 💬 96 • ⏱️ 14:52 • 1d ago
-
----
-
-**[I WILL BUY BITCOIN JUST BEFORE THIS SIGNAL! ](https://www.youtube.com/watch?v=jB7IsfkNfUo)**
-
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 6K • 👍 572 • 💬 29 • ⏱️ 15:19 • 14h ago
+👁️ 16K • 👍 304 • 💬 4 • ⏱️ 0:53 • 11h ago
 
 ---
 
@@ -385,7 +305,81 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 244 • 👍 9 • 💬 13 • ⏱️ 1:36 • 3h ago
+👁️ 730 • 👍 38 • 💬 14 • ⏱️ 1:36 • 3h ago
+
+---
+
+**[XRP WHALES JUST BOUGHT 72M TOKEN AS PRICE DUMPS! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=SFvTUlwpqJ8)**
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 265 • 💬 12 • ⏱️ 2:29 • 4h ago
+
+---
+
+**[Grant Cardone on Why Early Bitcoin Buyers Are Not Smart](https://www.youtube.com/watch?v=y4aTig9eJEY)**
+
+Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50 and watching it hit $100M does not make you a ...
+
+📺 Divot
+
+👁️ 805 • 👍 7 • ⏱️ 0:49 • 5h ago
+
+---
+
+**[PPI #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=U4irhev0Cro)**
+
+📺 Khuncoin
+
+👁️ 10K • 👍 176 • 💬 5 • ⏱️ 0:24 • 14h ago
+
+---
+
+**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
+
+America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
+
+📺 Swan Bitcoin
+
+👁️ 7K • 👍 390 • 💬 21 • ⏱️ 15:58 • 10h ago
+
+---
+
+**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
+
+📺 CryptoWendyO
+
+👁️ 11K • 👍 818 • 💬 40 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
+
+One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 892 • 💬 84 • ⏱️ 16:33 • 5h ago
+
+---
+
+**[This Missile Burst Costs More Than 40 Bitcoin💀#shorts](https://www.youtube.com/watch?v=xudFziP7mvg)**
+
+Ever wondered what military shots are worth in Bitcoin? From TOW to Tomahawk, the price goes from 1.5 BTC to a mind-blowing ...
+
+📺 Andik222
+
+👁️ 30K • 👍 340 • 💬 2 • ⏱️ 0:14 • 16h ago
+
+---
+
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 749 • 💬 251 • ⏱️ 33:51 • 14h ago
 
 ---
 
