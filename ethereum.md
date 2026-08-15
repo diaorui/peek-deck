@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T23:19:35.891268+00:00'
+updated: '2026-08-15T23:45:05.920732+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 23:19 UTC  
+**Last Updated:** August 15, 2026 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.15B
+**Market Cap:** $227.13B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+434604.7%
++434579.3%
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 6h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 11h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -232,23 +232,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
-
-"It's A Trap!" Crypto Expert WARNING To Bitcoin & Ethereum Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 127 • ⏱️ 9:22 • 3d ago
-
----
-
 **[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
 
 Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 493 • 💬 115 • ⏱️ 34:25 • 14h ago
+👁️ 5K • 👍 510 • 💬 169 • ⏱️ 34:25 • 14h ago
 
 ---
 
@@ -258,7 +248,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 6K • 👍 712 • 💬 196 • ⏱️ 17:49 • 12h ago
+👁️ 7K • 👍 755 • 💬 250 • ⏱️ 17:49 • 12h ago
 
 ---
 
@@ -268,7 +258,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 32K • 👍 2K • 💬 141 • ⏱️ 8:55 • 2d ago
+👁️ 32K • 👍 2K • 💬 142 • ⏱️ 8:55 • 2d ago
 
 ---
 
@@ -278,7 +268,17 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 14K • 👍 1K • 💬 387 • ⏱️ 12:21 • 2d ago
+👁️ 14K • 👍 1K • 💬 388 • ⏱️ 12:21 • 2d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 10K • 👍 3 • 💬 1 • ⏱️ 6:17 • 1d ago
 
 ---
 
@@ -288,37 +288,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 163 • 💬 7 • ⏱️ 7:21 • 22h ago
-
----
-
-**[DonAlt Bought ETH (and Thinks It Can Go Back to $4K)](https://www.youtube.com/watch?v=RLPwHDxbvkQ)**
-
-DonAlt finally bought ETH near resistance, with $4K upside if the market's long compression breaks the right way. Trade crypto ...
-
-📺 TechnicalRoundup
-
-👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 12h ago
-
----
-
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 546 • 💬 46 • ⏱️ 10:44 • 1d ago
-
----
-
-**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
-
-Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
-
-📺 Fred Opus
-
-👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 15h ago
+👁️ 3K • 👍 164 • 💬 7 • ⏱️ 7:21 • 22h ago
 
 ---
 
@@ -328,7 +298,37 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 10K • 👍 293 • 💬 9 • ⏱️ 0:31 • 1d ago
+👁️ 10K • 👍 303 • 💬 9 • ⏱️ 0:31 • 1d ago
+
+---
+
+**[DonAlt Bought ETH (and Thinks It Can Go Back to $4K)](https://www.youtube.com/watch?v=RLPwHDxbvkQ)**
+
+DonAlt finally bought ETH near resistance, with $4K upside if the market's long compression breaks the right way. Trade crypto ...
+
+📺 TechnicalRoundup
+
+👁️ 4K • 👍 170 • 💬 37 • ⏱️ 1:24:09 • 13h ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 11K • 👍 1K • 💬 304 • ⏱️ 11:56 • 1d ago
+
+---
+
+**[ETHEREUM PREDICTION FOR AUGUST! (ETH Update)](https://www.youtube.com/watch?v=roIcJO5haBg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 260 • 👍 21 • 💬 14 • ⏱️ 4:29 • 13h ago
 
 ---
 

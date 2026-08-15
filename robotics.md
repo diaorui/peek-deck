@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T23:19:35.894560+00:00'
+updated: '2026-08-15T23:45:05.923960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 23:19 UTC  
+**Last Updated:** August 15, 2026 at 23:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-11h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ I'm interested in learning how robotic hands can sense things like pressure, tem
 
 Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-9h ago
+10h ago
 
 ---
 
@@ -100,7 +100,7 @@ Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040
 
 🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
 
-18h ago
+19h ago
 
 ---
 
@@ -140,7 +140,7 @@ NASA (.gov) • 1d ago
 
 **[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
 
-Tech Xplore • 11h ago
+Tech Xplore • 12h ago
 
 ---
 
@@ -202,27 +202,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 952K • 👍 22K • 💬 2K • ⏱️ 7:02 • 4d ago
-
----
-
-**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
-
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
-
-📺 Страна Возможностей
-
-👁️ 49K • 👍 325 • 💬 89 • ⏱️ 0:22 • 1d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 195K • 👍 2K • 💬 514 • ⏱️ 10:16 • 1d ago
+👁️ 955K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
 
 ---
 
@@ -236,6 +216,66 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 26K • 👍 704 • 💬 21 • ⏱️ 58:18 • 3d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 200K • 👍 2K • 💬 522 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+
+📺 Страна Возможностей
+
+👁️ 52K • 👍 327 • 💬 90 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[The World’s First Flying Transformable Humanoid Robot? #robotics #robot #futuretech](https://www.youtube.com/watch?v=npBnsWfXnw4)**
+
+What if the closest thing yet to a real-life Transformer is being built in Shenzhen? Arkshel Robotics has unveiled the MX01, ...
+
+📺 Kalil 4.0
+
+👁️ 365 • 👍 21 • 💬 4 • ⏱️ 0:52 • 1h ago
+
+---
+
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
+
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
+
+📺 Food For Robots
+
+👁️ 29K • 👍 1K • 💬 117 • ⏱️ 18:39 • 3d ago
+
+---
+
+**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
+
+My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
+
+📺 Venus Drama Stories
+
+👁️ 82K • 👍 2K • 💬 125 • ⏱️ 17:26 • 2d ago
+
+---
+
 **[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
 
 Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
@@ -246,53 +286,13 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 ---
 
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 28K • 👍 1K • 💬 115 • ⏱️ 18:39 • 3d ago
-
----
-
-**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
-
-My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
-
-📺 Venus Drama Stories
-
-👁️ 80K • 👍 2K • 💬 124 • ⏱️ 17:26 • 2d ago
-
----
-
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 26K • 👍 702 • 💬 21 • ⏱️ 58:18 • 3d ago
-
----
-
 **[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
 The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
 📺 Guardian News
 
-👁️ 39K • 👍 464 • 💬 128 • ⏱️ 3:48 • 4d ago
-
----
-
-**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
-
-This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
-
-📺 Valor and Liberty
-
-👁️ 750K • 👍 2K • 💬 131 • ⏱️ 0:07 • 5d ago
+👁️ 39K • 👍 465 • 💬 128 • ⏱️ 3:48 • 4d ago
 
 ---
 

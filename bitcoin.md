@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T23:19:35.884836+00:00'
+updated: '2026-08-15T23:45:05.914569+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 23:19 UTC  
+**Last Updated:** August 15, 2026 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.37B
+**Market Cap:** $1265.36B
 Rank #1
 
-**Circulating Supply:** 20,070,675 BTC
+**Circulating Supply:** 20,070,703 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92874.5%
++92871.5%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-7h ago
+8h ago
 
 ---
 
-**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-12h ago
+7h ago
 
 ---
 
@@ -97,17 +97,17 @@ Rank #1
 
 ---
 
-**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
-
-7h ago
-
----
-
 **[Just sold it all and very sad.](https://www.reddit.com/r/Bitcoin/comments/1vos2t2/just_sold_it_all_and_very_sad/)**
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-19h ago
+20h ago
+
+---
+
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+
+12h ago
 
 ---
 
@@ -119,19 +119,19 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 ---
 
-**[APPLE AND BITCOIN AND CRYPTO PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1vp5cya/apple_and_bitcoin_and_crypto_payments/)**
-
-$4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
-
-8h ago
-
----
-
 **[Buttcoin subreddit in confusion about why price was unaffected by Saylor selloff and cold card hack](https://www.reddit.com/r/Bitcoin/comments/1vpe22k/buttcoin_subreddit_in_confusion_about_why_price/)**
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
 2h ago
+
+---
+
+**[APPLE AND BITCOIN AND CRYPTO PAYMENTS](https://www.reddit.com/r/Bitcoin/comments/1vp5cya/apple_and_bitcoin_and_crypto_payments/)**
+
+$4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
+
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Rodolfo Novak is is doing still many nasty things presenting himself as neutral 
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 19h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -287,13 +287,51 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fibonacci Level Every Bitcoin Bottom Has in Common](https://www.youtube.com/watch?v=SChwB6dS69U)**
+**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
-2014. 2018. 2022. Every major Bitcoin cycle low landed on the .786 Fibonacci retracement. This cycle's .786 sits at $39500 — and ...
+One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
-📺 Krown
+📺 Simply Bitcoin
 
-👁️ 1K • 👍 50 • 💬 5 • ⏱️ 1:21 • 10h ago
+👁️ 20K • 👍 1K • 💬 183 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
+
+40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 2K • 💬 103 • ⏱️ 9:13 • 2d ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 35K • 👍 2K • 💬 291 • ⏱️ 18:25 • 2d ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 140K • 👍 8K • 💬 445 • ⏱️ 21:29 • 2d ago
+
+---
+
+**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
+
+📺 CryptoWendyO
+
+👁️ 18K • 👍 1K • 💬 52 • ⏱️ 2:31 • 1d ago
 
 ---
 
@@ -303,49 +341,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 523 • 💬 12 • ⏱️ 0:53 • 1d ago
-
----
-
-**[XRP WHALES JUST BOUGHT 72M TOKEN AS PRICE DUMPS! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=SFvTUlwpqJ8)**
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 523 • 💬 56 • ⏱️ 2:29 • 22h ago
-
----
-
-**[close or trail #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=es3hjnPpQ4E)**
-
-📺 Khuncoin
-
-👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 14h ago
-
----
-
-**[PPI #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=U4irhev0Cro)**
-
-📺 Khuncoin
-
-👁️ 19K • 👍 295 • 💬 5 • ⏱️ 0:24 • 1d ago
-
----
-
-**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
-
-📺 CryptoWendyO
-
-👁️ 17K • 👍 1K • 💬 52 • ⏱️ 2:31 • 1d ago
-
----
-
-**[🚨 XRP CRASH or BULL RUN? Brad Garlinghouse Reveals What&#39;s Coming Next | Ripple Price Prediction](https://www.youtube.com/watch?v=GC6HGtJcSmQ)**
-
-XRP Crash or Bull Run? Brad Garlinghouse Reveals What's Coming Next | XRP Price Prediction Welcome to our LIVE XRP ...
-
-📺 John Saboe
-
-👁️ 7K • 👍 3K • 6h ago
+👁️ 34K • 👍 539 • 💬 13 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -355,27 +351,37 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 21h ago
+👁️ 4K • 👍 122 • 💬 182 • ⏱️ 1:36 • 22h ago
 
 ---
 
-**[This Missile Burst Costs More Than 40 Bitcoin💀#shorts](https://www.youtube.com/watch?v=xudFziP7mvg)**
+**[Best Crypto Trading Platform for 2026? (The Golden Line Review)](https://www.youtube.com/watch?v=2PnCrAcld4A)**
 
-Ever wondered what military shots are worth in Bitcoin? From TOW to Tomahawk, the price goes from 1.5 BTC to a mind-blowing ...
+Looking for a streamlined crypto trading platform to level up your setup in 2026? In this video, we explore The Golden Line, ...
 
-📺 Andik222
+📺 Crypto Nitro
 
-👁️ 33K • 👍 368 • 💬 2 • ⏱️ 0:14 • 1d ago
+👁️ 9K • 💬 23 • ⏱️ 1:12 • 21h ago
 
 ---
 
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
 
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
 
-📺 Simply Bitcoin
+📺 Dana Love, PhD
 
-👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 23h ago
+👁️ 34K • 👍 1K • 💬 419 • ⏱️ 18:10 • 2d ago
+
+---
+
+**[Bitcoin self-custody has a dangerous new problem](https://www.youtube.com/watch?v=FaE5Yc4ylKk)**
+
+In this episode of The Daily Wolf, Scott Melker breaks down a data breach involving Trezor's fulfillment partner that exposed ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 251 • 💬 120 • ⏱️ 14:53 • 1d ago
 
 ---
 

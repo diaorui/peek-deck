@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T23:19:35.875443+00:00'
+updated: '2026-08-15T23:45:05.906114+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 23:19 UTC  
+**Last Updated:** August 15, 2026 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 For a long time, I’ve had the feeling that generative AI models, for most of the tasks they’re used for, don’t actually need the oversized capabilities offered by frontier models. On top of that, they’re often prohibitively expensive when accessed via API. An open-source model with 4–14 billion parameters, multimodal capabilities, and the right harness of tools, data, and knowledge is more than enough for most use cases. With this idea in mind, I decided to build, together with my team, a simple platform that allows users to fine-tune and deploy these lightweight models quickly and without any coding. After several iterations, we have managed to develop what we believe is the optimal framework for anyone to deploy and customize a small 4B or 9B model, either through fine-tuning or RAG. And what’s most important t me, you can download the weights, run them locally, and own the IP and the property of the model, unlike in many cases where big vendors lock you in. We’ve also managed to sign an agreement with a local data center, and we now have our own GPUs. This means training and inference are not only extremely fast, but we can also offer unlimited inference. If you need a customized, affordable model with unlimited API inference, I think this could be really useful for you. There’s a free tier, and if you try it out and give us some feedback, I’ll give you the subscription plan for free for 6 months. Since we have our own GPUs in our data center, our infrastructure costs are fixed. I’m really happy with how it has turned out, and I use these models for many of my own projects. You can access the platform at neuro-block.com Would love to hear your thoughts in the comments.
 
-58m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBS News • 2h ago
 
 James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 13h ago
 
 **[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
 
-wsj.com • 13h ago
+wsj.com • 14h ago
 
 ---
 
@@ -167,7 +167,7 @@ wsj.com • 13h ago
 
 Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 239 • 💬 167 • 12h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 239 • 💬 167 • 13h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -285,7 +285,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 23h ago
+👁️ 45K • 👍 1K • 💬 216 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -295,17 +295,17 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 53K • 👍 2K • 💬 264 • ⏱️ 34:05 • 1d ago
+👁️ 55K • 👍 2K • 💬 271 • ⏱️ 34:05 • 1d ago
 
 ---
 
-**[AI Just Hacked a Government... And Its Nuclear Agency!](https://www.youtube.com/watch?v=VKhW4QnQMts)**
+**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
 
-AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 ...
+Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
 
-📺 AI Revolution
+📺 NowThis Impact
 
-👁️ 34K • 👍 1K • 💬 133 • ⏱️ 17:01 • 3d ago
+👁️ 620K • 👍 43K • 💬 4K • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -315,37 +315,15 @@ Sam's database on how long it takes to become a millionaire:* https://clickhubsp
 
 📺 My First Million
 
-👁️ 17K • 👍 392 • 💬 115 • ⏱️ 58:11 • 1d ago
+👁️ 18K • 👍 421 • 💬 122 • ⏱️ 58:11 • 1d ago
 
 ---
 
-**[MORE Bad News for AI (and GOOD news for us!)](https://www.youtube.com/watch?v=UYdOwxqvpzk)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-AI Data Centers are being denied more and more as politicians are finally opening their stupid eyes to the impact this is having ...
+📺 Onevilage
 
-📺 JayzTwoCents
-
-👁️ 129K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
-
----
-
-**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
-
-Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 562 • 💬 59 • ⏱️ 16:41 • 1d ago
-
----
-
-**[Trump&#39;s New AI Video Is Getting DESTROYED By The Internet!](https://www.youtube.com/watch?v=MwunrhHILK8)**
-
-The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest stupid AI video, and the internet's takedown ...
-
-📺 Really American
-
-👁️ 86K • 👍 5K • 💬 709 • ⏱️ 13:10 • 2d ago
+👁️ 1.2M • 👍 29K • 💬 784 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -359,19 +337,41 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 1.2M • 👍 29K • 💬 778 • ⏱️ 0:46 • 1d ago
-
----
-
 **[AI Vs All Artists! 💀](https://www.youtube.com/watch?v=1q_rkOi7pdk)**
 
 📺 Malaj
 
-👁️ 524K • 👍 13K • 💬 253 • ⏱️ 0:08 • 2d ago
+👁️ 537K • 👍 13K • 💬 255 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[Jensen Huang Predicted AI Would Disrupt Radiology—Now It’s Happening 🤖🩻](https://www.youtube.com/watch?v=w-efkClSZ1Q)**
+
+NVIDIA CEO Jensen Huang has previously suggested that radiology could be among the professions most heavily disrupted by AI ...
+
+📺 Future Vision
+
+👁️ 786 • 👍 29 • 💬 1 • ⏱️ 0:25 • 1h ago
+
+---
+
+**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
+
+10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
+
+📺 Nas Daily
+
+👁️ 146K • 👍 5K • 💬 196 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
+
+MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
+
+📺 MS NOW
+
+👁️ 242K • 👍 5K • 💬 999 • ⏱️ 20:18 • 22h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,735 • 1d ago
+⬇️ 91,917 • ❤️ 9,775 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,570 • 4d ago
+⬇️ 246,454 • ❤️ 1,575 • 4d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,188 • 17h ago
+⬇️ 867,963 • ❤️ 1,217 • 17h ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 964 • 3d ago
+⬇️ 6,381 • ❤️ 967 • 3d ago
 
 ---
 
@@ -435,19 +435,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 933 • 3d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
-
-*MiniMax*
-
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
-
-`image-text-to-video` `33.1B`
-
-⬇️ 2,212,155 • ❤️ 3,970 • 2d ago
+⬇️ 378,439 • ❤️ 938 • 3d ago
 
 ---
 
@@ -459,7 +447,19 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 764 • 1d ago
+⬇️ 5,079 • ❤️ 766 • 1d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 2,212,155 • ❤️ 3,971 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 486 • 2d ago
+⬇️ 19,945 • ❤️ 489 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 432 • 5d ago
+⬇️ 682,188 • ❤️ 434 • 5d ago
 
 ---
 
@@ -511,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 616 • 💬 2 • ⭐ 2,250 • 6d ago
+▲ 617 • 💬 2 • ⭐ 2,250 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -563,23 +563,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 38 • 💬 2 • ⭐ 1,051 • 12d ago
+▲ 39 • 💬 3 • ⭐ 1,051 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
-
----
-
-**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
-
-*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
-
-🏢 jingdong
-
-JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
-
-▲ 92 • 💬 1 • ⭐ 1,259 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
 ---
 
@@ -594,6 +580,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 80 • 💬 6 • ⭐ 23,824 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+
+*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+
+🏢 jingdong
+
+JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
+
+▲ 93 • 💬 1 • ⭐ 1,307 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
 ---
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 1h ago
+⭐ 13.6k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.6k • 🔱 991 • 23h ago
+⭐ 9.7k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 442 • 1d ago
+⭐ 5.1k • 🔱 443 • 1d ago
 
 ---
 
@@ -723,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 2h ago
+⭐ 2.5k • 🔱 194 • 3h ago
 
 ---
 
