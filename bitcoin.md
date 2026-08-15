@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T15:20:32.576820+00:00'
+updated: '2026-08-15T15:45:29.885861+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 15:20 UTC  
+**Last Updated:** August 15, 2026 at 15:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 Never forget the bigger picture!
 
-23h ago
+1d ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 11h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -303,7 +303,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 136 • ⏱️ 16:33 • 15h ago
+👁️ 16K • 👍 1K • 💬 136 • ⏱️ 16:33 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 80 • 💬 136 • ⏱️ 1:36 • 13h ago
+👁️ 2K • 👍 80 • 💬 136 • ⏱️ 1:36 • 14h ago
 
 ---
 
@@ -383,7 +383,7 @@ Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis.
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 423 • 💬 361 • ⏱️ 16:10 • 1d ago
+👁️ 8K • 👍 423 • 💬 361 • ⏱️ 16:10 • 2d ago
 
 ---
 
