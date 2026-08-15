@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T13:30:08.746293+00:00'
+updated: '2026-08-15T13:54:40.024727+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 13:30 UTC  
+**Last Updated:** August 15, 2026 at 13:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,15 +57,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-7h ago
-
----
-
-**[Nobody knew](https://www.reddit.com/r/artificial/comments/1voyt6m/nobody_knew/)**
-
-It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
-
-3h ago
+8h ago
 
 ---
 
@@ -93,11 +85,19 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 ---
 
+**[Nobody knew](https://www.reddit.com/r/artificial/comments/1voyt6m/nobody_knew/)**
+
+It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
+
+3h ago
+
+---
+
 **[Custom AI Agents for Non-Developers: What’s Real](https://www.reddit.com/r/artificial/comments/1vokj1y/custom_ai_agents_for_nondevelopers_whats_real/)**
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 15h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 16h ago
 
 ---
 
@@ -135,25 +135,25 @@ blog.google • 22h ago
 
 ---
 
-**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
+**[SpaceX Has Officially Acquired AI Coding Startup Cursor](https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/)**
 
-Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
+The $60 billion acquisition has been finalized.
 
-BBC • 2h ago
-
----
-
-**[Nashville renter loses eviction appeal after using AI legal arguments](https://www.wkrn.com/news/local-news/nashville/nashville-renter-loses-eviction-appeal-after-using-ai-legal-arguments/)**
-
-WKRN News 2 • 3h ago
+Engadget • 1h ago
 
 ---
 
-**[What to remove from photos before posting online](https://www.popsci.com/technology/what-to-remove-from-photos-before-posting-online-ai-location-recognition-tech-tips/)**
+**[AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?](https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399)**
 
-Be careful what you share with others—AI can tell where you are. It's time to check those privacy settings, and we'll tell you how.
+MarketWatch • 54m ago
 
-Popular Science • 1h ago
+---
+
+**[AI could help fossil fuel companies create more emissions](https://grist.org/business/ai-could-help-fossil-fuel-companies-create-more-emissions/)**
+
+New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent — vastly outpacing the impact of data centers.
+
+grist.org • 54m ago
 
 ---
 
@@ -161,7 +161,13 @@ Popular Science • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 21h ago
+CNBC • 22h ago
+
+---
+
+**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+
+The New York Times • 23h ago
 
 ---
 
@@ -173,21 +179,15 @@ Anthropic • 18h ago
 
 ---
 
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
-
-Reuters • 15h ago
-
----
-
-**[Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)**
-
-Bloomberg • 4h ago
-
----
-
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-axios.com • 3h ago
+Axios • 3h ago
+
+---
+
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 16h ago
 
 ---
 
@@ -195,19 +195,11 @@ axios.com • 3h ago
 
 ## HackerNews: "ai"
 
-**[AI is removing the middle class of software engineering?](https://news.ycombinator.com/item?id=49271994)**
-
-AI makes projects with weak engineering culture fail much faster.
-
-⬆️ 988 • 💬 924 • 3d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
-
----
-
 **[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 422 • 💬 256 • 21h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 439 • 💬 262 • 22h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -215,7 +207,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 328 • 💬 23 • 21h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 336 • 💬 25 • 21h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -223,7 +215,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 302 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 303 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -231,7 +223,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 216 • 💬 94 • 2d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 217 • 💬 95 • 2d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -241,7 +233,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 200 • 💬 255 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 201 • 💬 254 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -249,7 +241,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 195 • 22h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 195 • 23h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -261,7 +253,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 143 • 💬 186 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 144 • 💬 186 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -270,6 +262,14 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
 ⬆️ 143 • 💬 160 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+
+---
+
+**[How AI text watermarking works](https://news.ycombinator.com/item?id=49292932)**
+
+A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
+
+⬆️ 133 • 💬 98 • 1d ago • [declaude](https://declaude.org/watermarking/)
 
 ---
 
@@ -291,7 +291,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 177 • ⏱️ 13:09 • 13h ago
+👁️ 32K • 👍 1K • 💬 177 • ⏱️ 13:09 • 14h ago
 
 ---
 
@@ -359,7 +359,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 23h ago
+👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,008 • 7h ago
+⬇️ 867,963 • ❤️ 1,008 • 8h ago
 
 ---
 
@@ -651,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.2k • 🔱 935 • 13h ago
+⭐ 9.2k • 🔱 935 • 14h ago
 
 ---
 
@@ -689,7 +689,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 538 • 1d ago
+⭐ 3.1k • 🔱 538 • 2d ago
 
 ---
 

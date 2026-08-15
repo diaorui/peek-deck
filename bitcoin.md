@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T13:30:08.752252+00:00'
+updated: '2026-08-15T13:54:40.032642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 13:30 UTC  
+**Last Updated:** August 15, 2026 at 13:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,074.99
+### $63,024.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -2.9%  
-**30d:** -1.5%  
-**90d:** -18.2%  
+**24h:** +0.7%  
+**7d:** -2.8%  
+**30d:** -1.4%  
+**90d:** -18.1%  
 **1y:** -46.3%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw the most random truck today
 
 Everything is under control
 
-18m ago
+42m ago
 
 ---
 
@@ -139,7 +139,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 3h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -213,15 +213,13 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-coindesk.com • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal](https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal)**
+**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-Bitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care.
-
-Bitcoin Magazine • 20h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -257,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 10h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -303,7 +301,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 420 • 💬 8 • ⏱️ 0:53 • 19h ago
+👁️ 24K • 👍 420 • 💬 8 • ⏱️ 0:53 • 20h ago
 
 ---
 

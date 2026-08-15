@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T13:30:08.756441+00:00'
+updated: '2026-08-15T13:54:40.038169+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 13:30 UTC  
+**Last Updated:** August 15, 2026 at 13:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -1.6%  
-**30d:** +2.0%  
-**90d:** -11.8%  
-**1y:** -57.5%  
+**24h:** +0.9%  
+**7d:** -1.4%  
+**30d:** +2.2%  
+**90d:** -11.6%  
+**1y:** -57.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 19h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Currently.com • 2h ago
+Currently.com • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Currently.com • 2h ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-coindesk.com • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -176,25 +176,11 @@ Decrypt • 18h ago
 
 ---
 
-**[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
-
-Grayscale • 1d ago
-
----
-
 **[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 13h ago
-
----
-
-**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -206,11 +192,9 @@ Benzinga • 18h ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
+**[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
-DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
-
-markets.businessinsider.com • 23h ago
+Grayscale • 1d ago
 
 ---
 
@@ -220,9 +204,27 @@ ETF Trends • 1d ago
 
 ---
 
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
 
-CCN.com • 1d ago
+DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
+
+markets.businessinsider.com • 1d ago
+
+---
+
+**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
+
+Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
+
+The Block • 2d ago
+
+---
+
+**[Fidelity Wants to Stake Almost All of Its Ethereum ETF](https://financefeeds.com/fidelity-wants-to-stake-almost-all-its-ethereum/)**
+
+Fidelity’s S-3 filing would let FETH stake up to 100% of its Ethereum, paying aggregate staking fees of 15% of rewards
+
+FinanceFeeds • 19h ago
 
 ---
 
