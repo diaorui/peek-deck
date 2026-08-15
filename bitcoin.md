@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T17:19:51.195543+00:00'
+updated: '2026-08-15T17:46:01.957143+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 17:19 UTC  
+**Last Updated:** August 15, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.2%  
 **7d:** -2.8%  
 **30d:** -1.4%  
 **90d:** -18.1%  
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Saw the most random truck today
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-1h ago
+2h ago
 
 ---
 
@@ -161,6 +161,38 @@ The Block • 22h ago
 
 ---
 
+**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/15/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+
+Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
+
+Forbes • 4h ago
+
+---
+
+**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html)**
+
+Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Is Bitcoin a Buy at $63,000? We Asked 3 AI Models](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-63-000-asked-171425984.html)**
+
+ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Wall Street Only Looked Like This in 1929 and 2000: What It Means for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-only-looked-1929-143134270.html)**
+
+The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
 
 Real mining. Tiny footprint.
@@ -169,27 +201,19 @@ Mashable • 1d ago
 
 ---
 
-**[Wall Street Only Looked Like This in 1929 and 2000: What It Means for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-only-looked-1929-143134270.html)**
+**[Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city](https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city)**
 
-The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.
+The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-Yahoo Finance • 2h ago
-
----
-
-**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
-
-Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
-
-Forbes • 1d ago
+CoinDesk • 2h ago
 
 ---
 
-**[XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)**
+**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
 
-Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
+Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-CoinDesk • 1d ago
+WAFF • 17h ago
 
 ---
 
@@ -201,33 +225,9 @@ Sacramento Bee • 1d ago
 
 ---
 
-**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
-
-The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
-
-Investor's Business Daily • 20h ago
-
----
-
-**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://www.fool.com/investing/2026/08/15/jim-cramer-is-selling-his-bitcoin-citing-the-quant/)**
-
-Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin price holds on to $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+**[Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
 Investing.com • 7h ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
-
-Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
-
-24/7 Wall St. • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 14h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -291,7 +291,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 17h ago
+👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 18h ago
 
 ---
 
@@ -331,7 +331,7 @@ The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of 
 
 📺 Dana Love, PhD
 
-👁️ 32K • 👍 1K • 💬 447 • ⏱️ 18:10 • 1d ago
+👁️ 32K • 👍 1K • 💬 447 • ⏱️ 18:10 • 2d ago
 
 ---
 

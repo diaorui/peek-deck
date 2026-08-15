@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T17:19:51.200893+00:00'
+updated: '2026-08-15T17:46:01.963266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 17:19 UTC  
+**Last Updated:** August 15, 2026 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.3%  
-**30d:** +2.3%  
-**90d:** -11.5%  
+**24h:** +0.5%  
+**7d:** -1.4%  
+**30d:** +2.2%  
+**90d:** -11.6%  
 **1y:** -57.4%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 58m ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, Shi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 23h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 1d ago
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-12-000-tom-135215459.html)**
+
+Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
@@ -160,19 +168,11 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
 
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
-
-The world's largest corporate holder of Ether continues to buy more tokens.
-
-The Motley Fool • 6h ago
+CryptoSlate • 18h ago
 
 ---
 
@@ -184,11 +184,11 @@ Decrypt • 22h ago
 
 ---
 
-**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
+**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
 
-Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
+Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-CryptoSlate • 17h ago
+Benzinga • 22h ago
 
 ---
 
@@ -200,9 +200,11 @@ markets.businessinsider.com • 1d ago
 
 ---
 
-**[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
 
-Grayscale • 2d ago
+The world's largest corporate holder of Ether continues to buy more tokens.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -212,11 +214,9 @@ ETF Trends • 1d ago
 
 ---
 
-**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
+**[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
-Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
-
-Benzinga • 22h ago
+Grayscale • 2d ago
 
 ---
 

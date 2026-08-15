@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T17:19:51.187946+00:00'
+updated: '2026-08-15T17:46:01.948584+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 17:19 UTC  
+**Last Updated:** August 15, 2026 at 17:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 18h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 19h ago
 
 ---
 
@@ -61,19 +61,35 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 ---
 
-**[Who is responsible when an AI agent makes a bad decision?](https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/)**
-
-AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
-
-1h ago
-
----
-
 **[I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.](https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/)**
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
 11h ago
+
+---
+
+**[At what point does an AI tool become a platform?](https://www.reddit.com/r/artificial/comments/1vp7x59/at_what_point_does_an_ai_tool_become_a_platform/)**
+
+I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
+
+49m ago
+
+---
+
+**[Compétences ia/ compétence developpeur full stack](https://www.reddit.com/r/artificial/comments/1vp780b/compétences_ia_compétence_developpeur_full_stack/)**
+
+Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
+
+1h ago
+
+---
+
+**[Who is responsible when an AI agent makes a bad decision?](https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/)**
+
+AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
+
+1h ago
 
 ---
 
@@ -101,22 +117,6 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 ---
 
-**[Foto in costume o slip sexy](https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/)**
-
-Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
-
-8h ago
-
----
-
-**[The voluntary-to-mandatory pipeline for AI safety frameworks — with sources](https://www.reddit.com/r/artificial/comments/1vp4vvl/the_voluntarytomandatory_pipeline_for_ai_safety/)**
-
-There's a pattern happening right now that most people aren't tracking. Coalitions form to define "AI safety." Voluntary frameworks get published. Companies join the coalition to signal responsibility. Enterprise procurement adopts the framework as a requirement. Then it becomes regulatory standard. Voluntary becomes mandatory, and the path from one to the other is documented. I started a site that tracks this in real time. It's not opinion. Every claim has a source. Every pattern has evidence. I do not sell, advertise for anything or ask for participation of any kind. This is a live investigation and I am bringing awareness. There is absolutely zero products to buy and nothing to sell. Here's what's documented so far: - OSAA (Open Secure AI Alliance) claims 120+ members. Their RFC repository on GitHub has 1 contributor and 10 issues from 8 unique authors. That's a 120:1 gap between claimed participation and actual participation. The coalition isn't a coalition — it's a letterhead. - The SAFE RFC was published August 4 at Black Hat as a "voluntary" security framework for AI. The progression chain: EO 14409 (voluntary clearinghouse) to SAFE RFC (voluntary standard) to OSAA (120+ coalition) to enterprise procurement (de facto requirement) to regulatory adoption (mandatory). Each step looks organic. The direction is not. - The OpenAI "agent breach" in July was an internal test with reduced cyber refusals on an ExploitGym benchmark — not an external attack. OpenAI framed it as autonomous AI escaping containment. 31 days later they launched GPT-5.6-Cyber, a commercial offense-grade hacking model. Forbes called it "the first offense-grade AI hacking product." The $200M DoD contract they won in 2025 had a completion date of July 2026 — the same month the "breach" happened. - I wrote a page called "The Script" — a hypothetical reconstruction of what the breach would have required at the infrastructure level. Someone opened the firewall. Someone loaded a pre-safety checkpoint. Someone reduced the guardrails. These aren't things an AI does to itself. It's written as a five-act dialogue so non-technical people can see the sequence clearly. The site also has a section on what the evidence points to as the structural countermeasure: decentralization. Not as ideology — as engineering. Every capture mechanism documented across the five research tracks requires a central point of control to function. Remove the centralization and the mechanism has nothing to grab onto. Open weights, local inference, no kill switch, no telemetry, federation not hierarchy. I'm running a research bot on the production server that monitors the OSAA GitHub repo, company press feeds, NIST, the White House AI policy page, and NVIDIA's developer blog daily. The site updates as the evidence changes. The site is at evilson.com. It's not monetized. There's no newsletter signup. There's a contact form and an RSS feed. I'm putting this here because this community understands the stakes. Local inference, open weights, the right to run models on your own hardware — these aren't just technical preferences. They're the structural countermeasure to what's being built.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -135,33 +135,31 @@ Axios • 7h ago
 
 ---
 
-**[Authors push back against A.I.-generated books](https://www.cbsnews.com/chicago/video/authors-push-back-against-a-i-generated-books/)**
+**[Pinellas teachers raise concerns about AI reading program used in classrooms](https://baynews9.com/fl/tampa/news/2026/08/15/pinellas-teachers-raise-concerns-about-ai-reading-program-used-in-classrooms)**
 
-Author Lacey Hawthorne discussing impact of Generative AI and why authors are pushing back.
+Some teachers say the technology doesn’t always get it right, and they’re questioning whether it belongs in the classroom at all.
 
-CBS News • 1h ago
+Spectrum Bay News 9 • 16h ago
 
 ---
 
-**[How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)**
+**[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
 
-A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
+nytimes.com • 22h ago
+
+---
+
+**[Teens are turning to AI chatbots for emotional support – here’s how to keep kids safe](https://www.woodtv.com/news/nexstar-media-wire/teens-are-turning-to-ai-chatbots-for-emotional-support-heres-how-to-keep-kids-safe/)**
+
+WOODTV.com • 43m ago
+
+---
+
+**[SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)**
+
+AI coding startup Cursor is now officially a part of SpaceX.
 
 TechCrunch • 1h ago
-
----
-
-**[Watch Drone Swarms Push AI Deeper Into Modern Warfare](https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html)**
-
-OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
-
-CNBC • 1d ago
 
 ---
 
@@ -169,29 +167,29 @@ CNBC • 1d ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 21h ago
+Anthropic • 22h ago
 
 ---
 
-**[How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire](https://www.forbes.com/sites/aliciapark/2026/08/15/british-ai-chip-founder-becomes-europes-youngest-self-made-billionaire/)**
+**[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
 
-James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
-
-Forbes • 6h ago
+WSJ • 8h ago
 
 ---
 
-**[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
+**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
 
-The New York Times • 1d ago
+Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
+
+BBC • 6h ago
 
 ---
 
-**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
+**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
 
-Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
+One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-Financial Times • 13h ago
+Business Insider • 22h ago
 
 ---
 
@@ -203,7 +201,7 @@ Financial Times • 13h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 458 • 💬 268 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 465 • 💬 270 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -211,7 +209,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 341 • 💬 28 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 342 • 💬 28 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -237,7 +235,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 195 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -249,7 +247,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 144 • 💬 186 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 144 • 💬 188 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -261,17 +259,19 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ---
 
+**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
+
+Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
+
+⬆️ 140 • 💬 102 • 7h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+
+---
+
 **[How AI text watermarking works](https://news.ycombinator.com/item?id=49292932)**
 
 A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
 
 ⬆️ 133 • 💬 98 • 1d ago • [declaude](https://declaude.org/watermarking/)
-
----
-
-**[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://news.ycombinator.com/item?id=49290768)**
-
-⬆️ 125 • 💬 108 • 1d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
@@ -285,7 +285,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 38K • 👍 1K • 💬 186 • ⏱️ 13:09 • 17h ago
+👁️ 38K • 👍 1K • 💬 186 • ⏱️ 13:09 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 430 • 4d ago
+⬇️ 682,188 • ❤️ 430 • 5d ago
 
 ---
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 14h ago
+⭐ 13.6k • 🔱 1.6k • 15h ago
 
 ---
 
