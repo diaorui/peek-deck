@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T12:37:17.850100+00:00'
+updated: '2026-08-15T13:30:08.756441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 12:37 UTC  
+**Last Updated:** August 15, 2026 at 13:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ Heya folks, interested if there's anyone here that's still actively using Maker 
 
 Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Currently.com • 1h ago
+Currently.com • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Currently.com • 1h ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-coindesk.com • 37m ago
+coindesk.com • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ coindesk.com • 37m ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ Grayscale • 1d ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ Fortune • 1d ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 17h ago
+Benzinga • 18h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 17h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -236,7 +236,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 3h ago
+👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 1h ago
+👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 11h ago
+👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 30K • 👍 2K • 💬 139 • ⏱️ 8:55 • 1d ago
+👁️ 30K • 👍 2K • 💬 139 • ⏱️ 8:55 • 2d ago
 
 ---
 
@@ -306,7 +306,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 3K • 👍 2 • ⏱️ 6:17 • 19h ago
+👁️ 3K • 👍 2 • ⏱️ 6:17 • 20h ago
 
 ---
 
@@ -326,7 +326,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 20h ago
+👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 21h ago
 
 ---
 

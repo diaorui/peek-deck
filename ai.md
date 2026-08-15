@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T12:37:17.835072+00:00'
+updated: '2026-08-15T13:30:08.746293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
+- videos
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 12:37 UTC  
+**Last Updated:** August 15, 2026 at 13:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 14h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 3h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ It should’ve been obvious that after AI’s gained legal personhood, (which wa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,13 +97,13 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 14h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 15h ago
 
 ---
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 13h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 4h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-blog.google • 21h ago
+blog.google • 22h ago
 
 ---
 
@@ -139,13 +139,13 @@ blog.google • 21h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[Nashville renter loses eviction appeal after using AI legal arguments](https://www.wkrn.com/news/local-news/nashville/nashville-renter-loses-eviction-appeal-after-using-ai-legal-arguments/)**
 
-WKRN News 2 • 2h ago
+WKRN News 2 • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ WKRN News 2 • 2h ago
 
 Be careful what you share with others—AI can tell where you are. It's time to check those privacy settings, and we'll tell you how.
 
-Popular Science • 37m ago
+Popular Science • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Popular Science • 37m ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -169,25 +169,25 @@ CNBC • 20h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 17h ago
+Anthropic • 18h ago
 
 ---
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
 **[Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-axios.com • 2h ago
+axios.com • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ axios.com • 2h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 988 • 💬 924 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 988 • 💬 924 • 3d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -207,7 +207,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 422 • 💬 256 • 20h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 422 • 💬 256 • 21h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -215,7 +215,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 328 • 💬 23 • 20h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 328 • 💬 23 • 21h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -231,7 +231,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
-⬆️ 216 • 💬 94 • 1d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 216 • 💬 94 • 2d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
@@ -255,7 +255,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 164 • 💬 206 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 164 • 💬 206 • 2d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -281,7 +281,7 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 📺 BBC News
 
-👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 36m ago
+👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -301,7 +301,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Higgsfield AI
 
-👁️ 243K • 👍 14K • 💬 2K • ⏱️ 19:49 • 1d ago
+👁️ 243K • 👍 14K • 💬 2K • ⏱️ 19:49 • 2d ago
 
 ---
 
@@ -339,7 +339,7 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 📺 Onevilage
 
-👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 22h ago
+👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 22h ago
+👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 23h ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,481 • 21h ago
+⬇️ 91,917 • ❤️ 9,481 • 22h ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,008 • 6h ago
+⬇️ 867,963 • ❤️ 1,008 • 7h ago
 
 ---
 
@@ -641,7 +641,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 10h ago
+⭐ 13.6k • 🔱 1.6k • 11h ago
 
 ---
 
@@ -651,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.2k • 🔱 935 • 12h ago
+⭐ 9.2k • 🔱 935 • 13h ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 22m ago
+⭐ 2.1k • 🔱 170 • 1h ago
 
 ---
 

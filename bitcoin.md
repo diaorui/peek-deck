@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T12:37:17.843787+00:00'
+updated: '2026-08-15T13:30:08.752252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 12:37 UTC  
+**Last Updated:** August 15, 2026 at 13:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,15 +85,15 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 ---
 
-**[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-21h ago
+2h ago
 
 ---
 
-**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+**[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-1h ago
+22h ago
 
 ---
 
@@ -101,7 +101,15 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-7h ago
+8h ago
+
+---
+
+**[BTC update](https://www.reddit.com/r/Bitcoin/comments/1vp2jhj/btc_update/)**
+
+Everything is under control
+
+18m ago
 
 ---
 
@@ -109,7 +117,7 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-21h ago
+22h ago
 
 ---
 
@@ -117,7 +125,7 @@ Never forget the bigger picture!
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,27 +133,19 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-15h ago
-
----
-
-**[The 4-year cycle guys have circled October 2026. If Bitcoin really rhymes again, we’re ~50 days from the “bottom” 👀](https://www.reddit.com/r/Bitcoin/comments/1vnx44y/the_4year_cycle_guys_have_circled_october_2026_if/)**
-
-This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
-
-1d ago
-
----
-
-**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
-
-23h ago
+16h ago
 
 ---
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-6h ago
+7h ago
+
+---
+
+**[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
+
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ Mashable • 1d ago
 
 Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 2h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 20h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 22h ago
+Sacramento Bee • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ Sacramento Bee • 22h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-coindesk.com • 21h ago
+coindesk.com • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ coindesk.com • 21h ago
 
 Bitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -293,7 +293,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 120 • ⏱️ 16:33 • 13h ago
+👁️ 15K • 👍 1K • 💬 120 • ⏱️ 16:33 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 24K • 👍 420 • 💬 8 • ⏱️ 0:53 • 18h ago
+👁️ 24K • 👍 420 • 💬 8 • ⏱️ 0:53 • 19h ago
 
 ---
 
@@ -323,7 +323,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 65 • 💬 139 • ⏱️ 1:36 • 11h ago
+👁️ 2K • 👍 65 • 💬 139 • ⏱️ 1:36 • 12h ago
 
 ---
 
@@ -333,7 +333,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 459 • 💬 37 • ⏱️ 15:58 • 17h ago
+👁️ 9K • 👍 459 • 💬 37 • ⏱️ 15:58 • 18h ago
 
 ---
 

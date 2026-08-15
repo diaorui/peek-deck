@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T12:37:17.853393+00:00'
+updated: '2026-08-15T13:30:08.758777+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 12:37 UTC  
+**Last Updated:** August 15, 2026 at 13:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
-10h ago
+11h ago
 
 ---
 
@@ -68,7 +68,7 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
 
-13h ago
+14h ago
 
 ---
 
@@ -90,7 +90,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Malcolm Stern says Toby could be used to educate children once completed.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 3h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 4h ago
 
 ---
 
@@ -98,13 +98,13 @@ Malcolm Stern says Toby could be used to educate children once completed.
 
 I've decided to build my own Iron Man helmet. The plan is: CAD → 3D print → servos → working helmet Today I started the CAD design from scratch and recorded the whole process as a timelapse. I'm going to post the progress every day and see how far I can take this thing. Day 1 complete. 🦾
 
-15h ago
+16h ago
 
 ---
 
 **[MK Robot-up graded plane](https://www.reddit.com/r/robotics/comments/1votz7x/mk_robotup_graded_plane/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -130,7 +130,7 @@ nytimes.com • 2d ago
 
 Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -146,7 +146,7 @@ Bloomberg • 2d ago
 
 Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
 
-therobotreport.com • 5m ago
+therobotreport.com • 58m ago
 
 ---
 
@@ -176,7 +176,7 @@ New Atlas • 1d ago
 
 **[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
 
-Tech Xplore • 57m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -208,7 +208,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 166K • 👍 2K • 💬 448 • ⏱️ 10:16 • 16h ago
+👁️ 166K • 👍 2K • 💬 448 • ⏱️ 10:16 • 17h ago
 
 ---
 
