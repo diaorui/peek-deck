@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T21:45:56.349166+00:00'
+updated: '2026-08-15T22:21:19.489403+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 21:45 UTC  
+**Last Updated:** August 15, 2026 at 22:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 12h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 13h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 7h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ AI agents are getting better at making decisions and taking actions on their own
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 23h ago
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -139,13 +139,13 @@ The Guardian • 13h ago
 
 AI can help you save time with your day-to-day life. The Leverage Circle CEO and Park AI Labs Founder Tim Park is hosting an AI workshop for women in the workplace. He joined CBS LA to talk about it.
 
-CBS News • 33m ago
+CBS News • 1h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -159,7 +159,7 @@ BBC • 10h ago
 
 **[Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information](https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ WSJ • 12h ago
 
 More than 800 journalists demanded USA Today drop its Palantir AI data deal. Four data leadership lessons for every executive before the next earnings call.
 
-Forbes • 23m ago
+Forbes • 59m ago
 
 ---
 
@@ -189,7 +189,7 @@ cnn.com • 1d ago
 
 Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -217,7 +217,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 302 • 💬 260 • 3h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 302 • 💬 260 • 4h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,188 • 15h ago
+⬇️ 867,963 • ❤️ 1,188 • 16h ago
 
 ---
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 25m ago
+⭐ 13.6k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.6k • 🔱 991 • 21h ago
+⭐ 9.6k • 🔱 991 • 22h ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 5h ago
+⭐ 3.1k • 🔱 539 • 6h ago
 
 ---
 
@@ -733,7 +733,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 172 • 9h ago
+⭐ 2.1k • 🔱 172 • 10h ago
 
 ---
 

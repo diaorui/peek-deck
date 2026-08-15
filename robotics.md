@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T21:45:56.367022+00:00'
+updated: '2026-08-15T22:21:19.507685+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 21:45 UTC  
+**Last Updated:** August 15, 2026 at 22:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-8h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey! This is a MuJoCo side project I've been working on for a while, with the pl
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-2h ago
+3h ago
 
 ---
 
@@ -106,7 +106,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Malcolm Stern says Toby could be used to educate children once completed.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 12h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ CNBC • 1d ago
 
 A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 

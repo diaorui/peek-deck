@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T21:45:56.357706+00:00'
+updated: '2026-08-15T22:21:19.498092+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 21:45 UTC  
+**Last Updated:** August 15, 2026 at 22:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,19 @@ Rank #1
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
 **[bitcoin has matured so much](https://www.reddit.com/r/Bitcoin/comments/1vp513u/bitcoin_has_matured_so_much/)**
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
+
+7h ago
+
+---
+
+**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
 6h ago
 
@@ -105,9 +111,11 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 ---
 
-**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
+**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.reddit.com/r/Bitcoin/comments/1vpcgxn/swiss_megabank_ubs_ramps_up_its_bitcoin_exposure/)**
 
-5h ago
+Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 2h ago
 
 ---
 
@@ -115,7 +123,23 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-6h ago
+7h ago
+
+---
+
+**[Buttcoin subreddit in confusion about why price was unaffected by Saylor selloff and cold card hack](https://www.reddit.com/r/Bitcoin/comments/1vpe22k/buttcoin_subreddit_in_confusion_about_why_price/)**
+
+Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
+
+1h ago
+
+---
+
+**[Rodolfo Novak Coldcard CEO's website airgapcomputer.com has made updates, Still FUDS users over airgap, not disclosing clearly that he is the owner of a Hardware Wallet (and one that csused +100M in drained funds)](https://www.reddit.com/r/Bitcoin/comments/1vpbbk2/rodolfo_novak_coldcard_ceos_website/)**
+
+Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
+
+3h ago
 
 ---
 
@@ -127,28 +151,6 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 ---
 
-**[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
-
-1d ago
-
----
-
-**[Rodolfo Novak Coldcard CEO's website airgapcomputer.com has made updates, Still FUDS users over airgap, not disclosing clearly that he is the owner of a Hardware Wallet (and one that csused +100M in drained funds)](https://www.reddit.com/r/Bitcoin/comments/1vpbbk2/rodolfo_novak_coldcard_ceos_website/)**
-
-Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
-
-2h ago
-
----
-
-**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.reddit.com/r/Bitcoin/comments/1vpcgxn/swiss_megabank_ubs_ramps_up_its_bitcoin_exposure/)**
-
-Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
-
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,7 +159,7 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -165,7 +167,7 @@ CoinDesk • 6h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -173,7 +175,7 @@ Forbes • 8h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -181,7 +183,7 @@ Yahoo Finance • 5h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 1d ago
+Mashable • 2d ago
 
 ---
 
@@ -189,7 +191,7 @@ Mashable • 1d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 21h ago
+WAFF • 22h ago
 
 ---
 
@@ -211,7 +213,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
@@ -291,7 +293,7 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 📺 Krown
 
-👁️ 1K • 👍 50 • 💬 5 • ⏱️ 1:21 • 8h ago
+👁️ 1K • 👍 50 • 💬 5 • ⏱️ 1:21 • 9h ago
 
 ---
 
@@ -309,7 +311,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 523 • 💬 56 • ⏱️ 2:29 • 20h ago
+👁️ 7K • 👍 523 • 💬 56 • ⏱️ 2:29 • 21h ago
 
 ---
 
@@ -343,7 +345,7 @@ XRP Crash or Bull Run? Brad Garlinghouse Reveals What's Coming Next | XRP Price 
 
 📺 John Saboe
 
-👁️ 7K • 👍 3K • 4h ago
+👁️ 7K • 👍 3K • 5h ago
 
 ---
 
