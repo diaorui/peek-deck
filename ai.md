@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T08:56:53.155744+00:00'
+updated: '2026-08-15T09:29:41.378624+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 08:56 UTC  
+**Last Updated:** August 15, 2026 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 10h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 11h ago
 
 ---
 
@@ -53,11 +53,41 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 ---
 
+**[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/)**
+
+OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
+
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 14m ago
+
+---
+
+**[Do those who aspire to "natural language programming" with AI consider that debugging will involve couples therapy? 🤣](https://www.reddit.com/r/artificial/comments/1voy2os/do_those_who_aspire_to_natural_language/)**
+
+Of course this is amusing. It's also intended in Ig Nobel spirit.
+
+18m ago
+
+---
+
+**[Foto in costume o slip sexy](https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/)**
+
+Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
+
+31m ago
+
+---
+
 **[I've built a fully autonomous meditation system for TouchDesigner](https://www.reddit.com/r/artificial/comments/1vo2kku/ive_built_a_fully_autonomous_meditation_system/)**
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
 23h ago
+
+---
+
+**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
+
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 10h ago
 
 ---
 
@@ -69,6 +99,14 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 ---
 
+**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
+
+I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
+
+9h ago
+
+---
+
 **[New to AI](https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/)**
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
@@ -77,67 +115,31 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 ---
 
-**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
-
-I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
-
-8h ago
-
----
-
-**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
-
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 9h ago
-
----
-
-**[Anthropic ships frontier AI models but no simple toggle to switch billing modes?](https://www.reddit.com/r/artificial/comments/1vojtph/anthropic_ships_frontier_ai_models_but_no_simple/)**
-
-Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
-
-11h ago
-
----
-
-**[When the smartest AI model is actually a terrible business move](https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/)**
-
-I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
-
-1d ago
-
----
-
-**[How well do AI voice agents handle people who constantly interrupt?](https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/)**
-
-This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos. People interrupt constantly. They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about. That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether the customer is adding context, correcting something or trying to stop the current response entirely. We’re looking at enterprise voice AI for longer customer service conversations and I’m beginning to wonder if turn taking is as important as natural voice. For anyone testing conversational AI over the phone, how are you testing interruptions? Is this still something customers notice pretty quickly?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[How Google is Making Private AI Practical with Homomorphic Encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)**
-
-Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
-
-blog.google • 17h ago
-
----
-
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
-
-Reuters • 11h ago
-
----
 
 **[Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders](https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition)**
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 56m ago
+The Guardian • 1h ago
+
+---
+
+**[How Google is Making Private AI Practical with Homomorphic Encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)**
+
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+blog.google • 18h ago
+
+---
+
+**[Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)**
+
+When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.
+
+WIRED • 29m ago
 
 ---
 
@@ -145,7 +147,15 @@ The Guardian • 56m ago
 
 Andon Labs, which is experimenting with letting an AI have majority control over a retail store, said that it fired an employee with good reason.
 
-Business Insider • 45m ago
+Business Insider • 1h ago
+
+---
+
+**[U.S. Path To $6 Trillion Trade Depends On Continued AI Spending Flurry](https://www.forbes.com/sites/kenroberts/2026/08/15/us-path-to-6-trillion-trade-depends-on-continued-ai-spending-flurry/)**
+
+If the nation tops $6 trillion in trade this year, computer imports, hich includes the servers so vital to AI data centers, will be the true standout among all imports.
+
+Forbes • 29m ago
 
 ---
 
@@ -161,7 +171,15 @@ CNBC • 17h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 13h ago
+Anthropic • 14h ago
+
+---
+
+**[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One](https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/)**
+
+Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.
+
+Time Magazine • 17h ago
 
 ---
 
@@ -173,27 +191,11 @@ Business Insider • 14h ago
 
 ---
 
-**[Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking](https://tech.yahoo.com/ai/claude/articles/tech-analyst-ben-thompson-dismisses-181201718.html)**
-
-Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.
-
-tech.yahoo.com • 14h ago
-
----
-
 **[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
 
 Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
 
-BBC • 9h ago
-
----
-
-**[These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)**
-
-Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
-
-WIRED • 22h ago
+BBC • 10h ago
 
 ---
 
@@ -205,7 +207,7 @@ WIRED • 22h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 987 • 💬 923 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 988 • 💬 923 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -213,7 +215,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 375 • 💬 219 • 17h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 384 • 💬 226 • 17h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -229,7 +231,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 289 • 💬 21 • 16h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 300 • 💬 23 • 17h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -247,7 +249,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 200 • 💬 250 • 20h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 200 • 💬 251 • 21h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -255,7 +257,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 192 • 18h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 193 • 18h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -275,7 +277,7 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 141 • 💬 185 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 141 • 💬 186 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -299,7 +301,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 234 • ⏱️ 34:05 • 17h ago
+👁️ 40K • 👍 2K • 💬 234 • ⏱️ 34:05 • 18h ago
 
 ---
 
@@ -317,7 +319,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Ninjas Are Butterflies 
 
-👁️ 32K • 👍 3K • 💬 176 • ⏱️ 0:57 • 9h ago
+👁️ 32K • 👍 3K • 💬 176 • ⏱️ 0:57 • 10h ago
 
 ---
 
@@ -335,7 +337,7 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 Onevilage
 
-👁️ 805K • 👍 21K • 💬 587 • ⏱️ 0:46 • 18h ago
+👁️ 805K • 👍 21K • 💬 587 • ⏱️ 0:46 • 19h ago
 
 ---
 
@@ -391,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 9,309 • 17h ago
+⬇️ 2 • ❤️ 9,309 • 18h ago
 
 ---
 
@@ -648,7 +650,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 6h ago
+⭐ 13.6k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -736,7 +738,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 1h ago
+⭐ 2.1k • 🔱 170 • 2h ago
 
 ---
 

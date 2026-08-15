@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T08:56:53.174212+00:00'
+updated: '2026-08-15T09:29:41.390943+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 08:56 UTC  
+**Last Updated:** August 15, 2026 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,13 +74,13 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 **[LR Mate 100i High Speed: Disturbance before CALIBRATE, SRVO-050 afterwards](https://www.reddit.com/r/robotics/comments/1vob633/lr_mate_100i_high_speed_disturbance_before/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -102,25 +102,9 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 ## Google News: "robotics"
 
-**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
-
-Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
-
-CNBC • 1d ago
-
----
-
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 1d ago
-
----
-
-**[2,056 droids set to compete at World Humanoid Robot Games in Beijing](https://interestingengineering.com/ai-robotics/beijing-2056-robot-world-humanoid-robot-games)**
-
-Beijing hosts a record humanoid robot games as 2,056 machines from 16 countries compete in a growing range of events.
-
-Interesting Engineering • 22h ago
+The New York Times • 2d ago
 
 ---
 
@@ -140,6 +124,14 @@ NASA (.gov) • 16h ago
 
 ---
 
+**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
+
+Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
+
+CNBC • 1d ago
+
+---
+
 **[The Latest Robotics IPO is 8000X Oversubscribed. These ETFs Could Take Off if Humanoid Robotics Are The Next Big Thing.](https://finance.yahoo.com/markets/stocks/articles/latest-robotics-ipo-8000x-oversubscribed-225120337.html)**
 
 A Chinese humanoid robotics IPO just shattered demand records, and the shockwave is already hitting a handful of niche ETFs built exactly for this moment. Whether that momentum holds depends on two wildcards most investors are not watching closely enough.
@@ -152,7 +144,7 @@ Yahoo Finance • 2d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 21h ago
+New Atlas • 22h ago
 
 ---
 
@@ -169,6 +161,14 @@ Live Science • 1d ago
 A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
 
 LEX 18 News • 2d ago
+
+---
+
+**[Walmart and Target are buying robots at record numbers. Here’s why your job is safe.](https://www.sandiegouniontribune.com/2026/08/13/walmart-and-sams-club-are-buying-robots-at-record-numbers-heres-why-your-job-is-safe/)**
+
+San Diego robotics company Brain Corp has deployed more than 50,000 robots on retail floors, airports and warehouses.
+
+San Diego Union-Tribune • 1d ago
 
 ---
 

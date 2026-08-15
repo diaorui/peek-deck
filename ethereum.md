@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T08:56:53.170578+00:00'
+updated: '2026-08-15T09:29:41.388729+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 08:56 UTC  
+**Last Updated:** August 15, 2026 at 09:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.5%  
-**30d:** +2.1%  
-**90d:** -11.7%  
+**24h:** +0.1%  
+**7d:** -1.7%  
+**30d:** +1.9%  
+**90d:** -11.8%  
 **1y:** -57.5%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-22h ago
+23h ago
 
 ---
 
@@ -160,6 +160,12 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
+
+Grayscale • 1d ago
+
+---
+
 **[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
@@ -178,7 +184,7 @@ markets.businessinsider.com • 19h ago
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
-ETF Trends • 21h ago
+etftrends.com • 22h ago
 
 ---
 
@@ -217,14 +223,6 @@ Benzinga • 1d ago
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 22h ago
-
----
-
-**[Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors](https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors)**
-
-Fidelity wants its FETH fund to stake up to 100% of its Ethereum and distribute the rewards to holders as quarterly cash.
-
-Decrypt • 2d ago
 
 ---
 
@@ -268,7 +266,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 888 • 👍 85 • 💬 4 • ⏱️ 7:21 • 7h ago
+👁️ 888 • 👍 85 • 💬 4 • ⏱️ 7:21 • 8h ago
 
 ---
 
@@ -288,7 +286,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 150 • ⏱️ 11:56 • 21h ago
+👁️ 10K • 👍 1K • 💬 150 • ⏱️ 11:56 • 22h ago
 
 ---
 
@@ -298,7 +296,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 224 • 💬 64 • ⏱️ 21:01 • 17h ago
+👁️ 5K • 👍 224 • 💬 64 • ⏱️ 21:01 • 18h ago
 
 ---
 
@@ -308,7 +306,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 2K • 👍 2 • ⏱️ 6:17 • 15h ago
+👁️ 2K • 👍 2 • ⏱️ 6:17 • 16h ago
 
 ---
 
@@ -328,7 +326,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 6K • 👍 196 • 💬 6 • ⏱️ 0:31 • 16h ago
+👁️ 6K • 👍 196 • 💬 6 • ⏱️ 0:31 • 17h ago
 
 ---
 

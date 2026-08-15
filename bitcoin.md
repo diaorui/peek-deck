@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T08:56:53.164377+00:00'
+updated: '2026-08-15T09:29:41.384552+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 08:56 UTC  
+**Last Updated:** August 15, 2026 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -2.8%  
-**30d:** -1.4%  
-**90d:** -18.1%  
-**1y:** -46.3%  
+**24h:** +0.2%  
+**7d:** -3.0%  
+**30d:** -1.5%  
+**90d:** -18.2%  
+**1y:** -46.4%  
 
 ---
 
@@ -87,7 +87,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-21h ago
+22h ago
 
 ---
 
@@ -141,13 +141,13 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-12h ago
+13h ago
 
 ---
 
 **[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -159,7 +159,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -167,15 +167,15 @@ The Block • 13h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 11h ago
+Mashable • 1d ago
 
 ---
 
-**[Michael Saylor's Strategy Is Selling Bitcoin Again. Here's Why I'm Still Bullish on Bitcoin.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-selling-bitcoin-101400793.html)**
+**[Where Could Bitcoin and XRP End the Year?](https://finance.yahoo.com/markets/crypto/articles/where-could-bitcoin-xrp-end-084333262.html)**
 
-Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
+Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 17h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 18h ago
+Sacramento Bee • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ Sacramento Bee • 18h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -215,13 +215,13 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 18h ago
+coindesk.com • 18h ago
 
 ---
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -229,7 +229,7 @@ thestreet.com • 18h ago
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
-24/7 Wall St. • 10h ago
+24/7 Wall St. • 11h ago
 
 ---
 
@@ -263,7 +263,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 1d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 2d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -303,7 +303,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 419 • 💬 24 • ⏱️ 15:58 • 13h ago
+👁️ 8K • 👍 419 • 💬 24 • ⏱️ 15:58 • 14h ago
 
 ---
 
@@ -313,7 +313,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 46 • 💬 48 • ⏱️ 1:36 • 7h ago
+👁️ 1K • 👍 46 • 💬 48 • ⏱️ 1:36 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 91 • ⏱️ 16:33 • 9h ago
+👁️ 12K • 👍 1K • 💬 91 • ⏱️ 16:33 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ Airwingmarine's Music - Synthwave ...
 
 📺 Airwingmarine
 
-👁️ 24K • 👍 415 • 💬 26 • ⏱️ 0:15 • 20h ago
+👁️ 24K • 👍 415 • 💬 26 • ⏱️ 0:15 • 21h ago
 
 ---
 
