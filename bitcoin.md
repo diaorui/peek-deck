@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T10:22:17.624884+00:00'
+updated: '2026-08-15T10:48:49.783624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 10:22 UTC  
+**Last Updated:** August 15, 2026 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.0%  
-**30d:** -1.5%  
+**24h:** +0.3%  
+**7d:** -2.9%  
+**30d:** -1.4%  
 **90d:** -18.2%  
-**1y:** -46.4%  
+**1y:** -46.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-18h ago
+19h ago
 
 ---
 
@@ -171,11 +171,35 @@ Mashable • 1d ago
 
 ---
 
+**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
+
+Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
+
+WAFF • 10h ago
+
+---
+
+**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
+
+Public pressure mounts on data center buildouts in Alabama.
+
+Tom's Hardware • 2d ago
+
+---
+
 **[Where Could Bitcoin and XRP End the Year?](https://finance.yahoo.com/markets/crypto/articles/where-could-bitcoin-xrp-end-084333262.html)**
 
 Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-below-10-000-100100445.html)**
+
+Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
+
+Yahoo Finance • 47m ago
 
 ---
 
@@ -211,28 +235,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
-
-The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
-
-coindesk.com • 19h ago
-
----
-
-**[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
-
-thestreet.com • 19h ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
-
-Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
-
-24/7 Wall St. • 11h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -257,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -293,7 +295,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 10h ago
+👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 11h ago
 
 ---
 
@@ -333,7 +335,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 8h ago
+👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 9h ago
 
 ---
 

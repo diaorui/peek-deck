@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T10:22:17.631149+00:00'
+updated: '2026-08-15T10:48:49.790137+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 10:22 UTC  
+**Last Updated:** August 15, 2026 at 10:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.1%  
-**7d:** -1.7%  
-**30d:** +1.9%  
-**90d:** -11.8%  
+**7d:** -1.5%  
+**30d:** +2.0%  
+**90d:** -11.7%  
 **1y:** -57.5%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 16h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 17h ago
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-continues-buy-104000894.html)**
 
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+The world's largest corporate holder of Ether continues to buy more tokens.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 8m ago
+
+---
+
+**[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
+
+Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
+
+Decrypt • 15h ago
 
 ---
 
@@ -166,11 +174,19 @@ Grayscale • 1d ago
 
 ---
 
+**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
 **[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 10h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -178,35 +194,13 @@ CryptoSlate • 10h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
-etftrends.com • 23h ago
-
----
-
-**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
-
-There are still plenty of reasons to believe in the second-largest cryptocurrency.
-
-The Motley Fool • 22h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 1d ago
-
----
-
-**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
-
-Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
-
-The Block • 2d ago
+ETF Trends • 23h ago
 
 ---
 
@@ -218,11 +212,17 @@ Benzinga • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 14, 2026](https://fortune.com/article/price-of-ethereum-08-14-2026/)**
+**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-Fortune • 23h ago
+The Block • 2d ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+
+CCN.com • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Stock Moe
 
-👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 21h ago
+👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 18h ago
+👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 19h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T10:22:17.616181+00:00'
+updated: '2026-08-15T10:48:49.774873+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 10:22 UTC  
+**Last Updated:** August 15, 2026 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,27 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 ---
 
-**[I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.](https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/)**
-
-Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
-
-4h ago
-
----
-
 **[OpenAI talent exodus raises 'huge red flag' ahead of IPO](https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/)**
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
 🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 1h ago
+
+---
+
+**[I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.](https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/)**
+
+Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
+
+5h ago
+
+---
+
+**[Nobody knew](https://www.reddit.com/r/artificial/comments/1voyt6m/nobody_knew/)**
+
+It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
+
+52m ago
 
 ---
 
@@ -95,15 +103,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 12h ago
-
----
-
-**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
-
-I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
-
-10h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 13h ago
 
 ---
 
@@ -135,27 +135,25 @@ blog.google • 19h ago
 
 ---
 
-**[Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)**
+**[The toolbelt is becoming Gen Z's career flex](https://www.axios.com/2026/08/15/gen-z-skilled-trades-ai-job-displacement)**
 
-When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.
-
-WIRED • 1h ago
+Axios • 1h ago
 
 ---
 
-**[The AI boss at a San Francisco store just fired its first human](https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8)**
+**[The Most Important Thing AI Can’t Do in Medicine](https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/)**
 
-Andon Labs, which is experimenting with letting an AI have majority control over a retail store, said that it fired an employee with good reason.
+Great physicians are curious about the patient in front of them, and that curiosity is what drives them to dig deeper, writes Dr. Natasha Chida.
 
-Business Insider • 2h ago
+Time Magazine • 48m ago
 
 ---
 
-**[U.S. Path To $6 Trillion Trade Depends On Continued AI Spending Flurry](https://www.forbes.com/sites/kenroberts/2026/08/15/us-path-to-6-trillion-trade-depends-on-continued-ai-spending-flurry/)**
+**[EY is creating a 'value realization' office to make sure its AI spending pays off](https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8)**
 
-If the nation tops $6 trillion in trade this year, computer imports, hich includes the servers so vital to AI data centers, will be the true standout among all imports.
+AI can't be managed by any existing department, so the Big Four firm EY is creating a new one. It's called the AI Value Realization Office.
 
-Forbes • 1h ago
+Business Insider • 16m ago
 
 ---
 
@@ -163,15 +161,7 @@ Forbes • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 18h ago
-
----
-
-**[How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)**
-
-Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
-
-Anthropic • 14h ago
+CNBC • 19h ago
 
 ---
 
@@ -187,15 +177,21 @@ Time Magazine • 18h ago
 
 One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
-**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+**[How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)**
 
-Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-BBC • 11h ago
+Anthropic • 15h ago
+
+---
+
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 12h ago
 
 ---
 
@@ -207,7 +203,7 @@ BBC • 11h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 988 • 💬 923 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 988 • 💬 924 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -215,7 +211,15 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 384 • 💬 226 • 18h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 402 • 💬 243 • 19h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+
+---
+
+**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
+
+Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+
+⬆️ 311 • 💬 23 • 18h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -224,14 +228,6 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
 ⬆️ 302 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
-
----
-
-**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
-
-Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
-
-⬆️ 300 • 💬 23 • 18h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -249,7 +245,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 200 • 💬 251 • 21h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 200 • 💬 254 • 22h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -257,13 +253,19 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 193 • 19h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 193 • 20h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 164 • 💬 204 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 164 • 💬 206 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+
+---
+
+**[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
+
+⬆️ 143 • 💬 186 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -272,12 +274,6 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
 ⬆️ 143 • 💬 160 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
-
----
-
-**[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
-
-⬆️ 141 • 💬 186 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -291,7 +287,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 898 • 💬 166 • ⏱️ 13:09 • 10h ago
+👁️ 26K • 👍 898 • 💬 166 • ⏱️ 13:09 • 11h ago
 
 ---
 
@@ -417,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 971 • 4h ago
+⬇️ 867,963 • ❤️ 971 • 5h ago
 
 ---
 
@@ -429,7 +425,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 941 • 2d ago
+⬇️ 6,381 • ❤️ 941 • 3d ago
 
 ---
 
@@ -650,7 +646,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 7h ago
+⭐ 13.6k • 🔱 1.6k • 8h ago
 
 ---
 

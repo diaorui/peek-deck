@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T10:22:17.634487+00:00'
+updated: '2026-08-15T10:48:49.793406+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 10:22 UTC  
+**Last Updated:** August 15, 2026 at 10:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-18h ago
+19h ago
 
 ---
 
@@ -102,9 +102,25 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 ## Google News: "robotics"
 
+**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
+
+Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
+
+CNBC • 1d ago
+
+---
+
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
 The New York Times • 2d ago
+
+---
+
+**[Watch: Deep Robotics humanoid robot conquers real-world concrete stairs, rough terrain](https://interestingengineering.com/ai-robotics/deep-robotics-humanoid-robot-conquers-stairs)**
+
+Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
+
+Interesting Engineering • 18h ago
 
 ---
 
@@ -112,7 +128,7 @@ The New York Times • 2d ago
 
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -120,15 +136,7 @@ Bloomberg.com • 2d ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 17h ago
-
----
-
-**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
-
-Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
-
-CNBC • 1d ago
+NASA (.gov) • 18h ago
 
 ---
 
@@ -164,19 +172,9 @@ LEX 18 News • 2d ago
 
 ---
 
-**[Walmart and Target are buying robots at record numbers. Here’s why your job is safe.](https://www.sandiegouniontribune.com/2026/08/13/walmart-and-sams-club-are-buying-robots-at-record-numbers-heres-why-your-job-is-safe/)**
+**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
 
-San Diego robotics company Brain Corp has deployed more than 50,000 robots on retail floors, airports and warehouses.
-
-San Diego Union-Tribune • 1d ago
-
----
-
-**[Naval Academy Integrates Robotics, Autonomous Systems Into Summer Training](https://www.war.gov/News/News-Stories/Article/Article/4569991/naval-academy-integrates-robotics-autonomous-systems-into-summer-training/)**
-
-The Department of War provides the military forces needed to deter war and ensure our nation's security.
-
-U.S. Department of War (.gov) • 2d ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -240,7 +238,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 145K • 👍 2K • 💬 424 • ⏱️ 10:16 • 13h ago
+👁️ 145K • 👍 2K • 💬 424 • ⏱️ 10:16 • 14h ago
 
 ---
 
