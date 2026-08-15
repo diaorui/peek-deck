@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T08:28:45.587165+00:00'
+updated: '2026-08-15T08:56:53.155744+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 08:28 UTC  
+**Last Updated:** August 15, 2026 at 08:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-22h ago
+23h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 10h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-22h ago
+23h ago
 
 ---
 
@@ -129,7 +129,7 @@ blog.google • 17h ago
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 10h ago
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 28m ago
+The Guardian • 56m ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 28m ago
 
 Andon Labs, which is experimenting with letting an AI have majority control over a retail store, said that it fired an employee with good reason.
 
-Business Insider • 17m ago
+Business Insider • 45m ago
 
 ---
 
@@ -153,7 +153,7 @@ Business Insider • 17m ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -169,7 +169,7 @@ Anthropic • 13h ago
 
 One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -193,7 +193,7 @@ BBC • 9h ago
 
 Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
 
-WIRED • 21h ago
+WIRED • 22h ago
 
 ---
 
@@ -213,7 +213,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 375 • 💬 219 • 16h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 375 • 💬 219 • 17h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -255,7 +255,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 192 • 17h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 192 • 18h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -289,7 +289,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 20K • 👍 755 • 💬 134 • ⏱️ 13:09 • 8h ago
+👁️ 20K • 👍 755 • 💬 134 • ⏱️ 13:09 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ The Friday crew discusses mathematicians stunned as AI solves decades old proble
 
 📺 Breaking Points
 
-👁️ 131K • 👍 4K • 💬 899 • ⏱️ 19:15 • 14h ago
+👁️ 131K • 👍 4K • 💬 899 • ⏱️ 19:15 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 30K • 👍 872 • 💬 185 • ⏱️ 6:06 • 18h ago
+👁️ 30K • 👍 872 • 💬 185 • ⏱️ 6:06 • 19h ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 935 • 2h ago
+⬇️ 0 • ❤️ 935 • 3h ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 695 • 21h ago
+⬇️ 63 • ❤️ 695 • 22h ago
 
 ---
 
@@ -658,7 +658,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 8.7k • 🔱 893 • 8h ago
+⭐ 8.7k • 🔱 893 • 9h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T08:28:45.595747+00:00'
+updated: '2026-08-15T08:56:53.164377+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 08:28 UTC  
+**Last Updated:** August 15, 2026 at 08:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,17 +137,17 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 ---
 
-**[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
-
-6h ago
-
----
-
 **[Rodolfo Novak Coldcard CEO deletes his bitcoinsecurity.guide, the traces of what it seemed he did deceptive endorsement.](https://www.reddit.com/r/Bitcoin/comments/1vohwh6/rodolfo_novak_coldcard_ceo_deletes_his/)**
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
 12h ago
+
+---
+
+**[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
+
+6h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 13h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 10h ago
+Mashable • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 22h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 4h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -293,7 +293,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 341 • 💬 6 • ⏱️ 0:53 • 14h ago
+👁️ 18K • 👍 341 • 💬 6 • ⏱️ 0:53 • 15h ago
 
 ---
 
@@ -363,7 +363,7 @@ Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50
 
 📺 Divot
 
-👁️ 925 • 👍 8 • ⏱️ 0:49 • 8h ago
+👁️ 925 • 👍 8 • ⏱️ 0:49 • 9h ago
 
 ---
 
