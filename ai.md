@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T16:50:22.415579+00:00'
+updated: '2026-08-15T17:19:51.187946+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 16:50 UTC  
+**Last Updated:** August 15, 2026 at 17:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 2h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-32m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon. Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace. But the constraint shifting into 2026 isn't intelligence anymore. Recent conflicts have made the case in hardware: cheap, expendable drones you don't mind losing often win on cost-efficiency against exquisite, million-dollar precision systems — which means the company that wins isn't necessarily the one with the smartest model, it's the one that can turn it into thousands of physical units a month. The same pattern shows up outside defense: the bottleneck to shipping AI keeps moving. First it was models, then data, then compute — now, in categories that touch the physical world, it's factories. Worth remembering next time "AI-native" is the whole pitch. Increasingly, it's necessary but not sufficient.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ For the last three years, the defense tech story was: better sensors, better mod
 
 https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forward-deployed engineers, AI transformation people, because they can do the work of 10, 100 people." That's the role that survives this — already a real hiring category, not a future one. LinkedIn's own data has it growing 42x since 2023, priced $127K–$265K+ at the labs actually building this. That's the part that should sit heavier than the digital-double line. It's not that your job disappears. It's that a different job, already priced and already hiring, opens up a few rungs above where you're standing — and most of us don't have a clean path into it yet. I've watched a smaller, slower version of this exact move before. No AI involved — just a stamp and a highlighter. Hmm... this one really gets me out of my chair and pace around my living room, so let me try to recall it properly. When I was working as a Technical Engineer in the Tender Department of one of the largest main contractors in Malaysia — there was a skill we always used. Fair warning, I'm sharing privileged information here. Well... it's probably an open secret in the industry anyway. Whenever we tendered for a project — let's say Malaysian Airlines (MAS), widening a runway for their newly-bought Airbus A380 — we'd hit the parts that were out of our expertise. Airway lighting, drainage, flight angles, height restrictions. So we did the natural thing: called for outside help. Engaged specialized sub-contractors who'd done airway pavements before, to hand us the technical know-how and their quotation. We knew full well these sub-contractors were already MAS's long-time maintenance contractors — it was just a matter of time before they'd be folded under our main contract anyway. So when they submitted their technical documents, we stripped their company logo, re-arranged it, added our own branded wording, our own logos. Woalah. It was now our own internal technical know-how. We'd suddenly become experts in pavement-widening and hangar works. We didn't get the job, though. We all knew that tender was just for show — a comparison exercise to cross-check MAS's already-chosen main contractor. But the knowledge we gathered from those specialists was now folded into our own knowledge vault. Our own proprietary knowledge. Are we stealing? I wouldn't use that word. When there's a problem, the client comes after us — not our subcontractors. So to properly solve it, we have to own the knowledge too. The right word might be "necessary." https://preview.redd.it/lkn6gis5yjjh1.jpg?width=1024&format=pjpg&auto=webp&s=adbb096873b0ea6de01f5084eba7a6e8731c6b21 ———— Every version of this mechanism arrives wearing the same word. Ours was "necessary." This one's wearing "efficiency." Actually — a post I put up about the same compression logic, just running through one operator instead of a stripped logo came to mind while writing this one. Drop your take — where's the line between "necessary" and something with a worse name? Clip credit: The Beyond Tomorrow Podcast with Julian Issa — full video on their channel. DM for credit or removal requests.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forwa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mi
 
 There's a pattern happening right now that most people aren't tracking. Coalitions form to define "AI safety." Voluntary frameworks get published. Companies join the coalition to signal responsibility. Enterprise procurement adopts the framework as a requirement. Then it becomes regulatory standard. Voluntary becomes mandatory, and the path from one to the other is documented. I started a site that tracks this in real time. It's not opinion. Every claim has a source. Every pattern has evidence. I do not sell, advertise for anything or ask for participation of any kind. This is a live investigation and I am bringing awareness. There is absolutely zero products to buy and nothing to sell. Here's what's documented so far: - OSAA (Open Secure AI Alliance) claims 120+ members. Their RFC repository on GitHub has 1 contributor and 10 issues from 8 unique authors. That's a 120:1 gap between claimed participation and actual participation. The coalition isn't a coalition — it's a letterhead. - The SAFE RFC was published August 4 at Black Hat as a "voluntary" security framework for AI. The progression chain: EO 14409 (voluntary clearinghouse) to SAFE RFC (voluntary standard) to OSAA (120+ coalition) to enterprise procurement (de facto requirement) to regulatory adoption (mandatory). Each step looks organic. The direction is not. - The OpenAI "agent breach" in July was an internal test with reduced cyber refusals on an ExploitGym benchmark — not an external attack. OpenAI framed it as autonomous AI escaping containment. 31 days later they launched GPT-5.6-Cyber, a commercial offense-grade hacking model. Forbes called it "the first offense-grade AI hacking product." The $200M DoD contract they won in 2025 had a completion date of July 2026 — the same month the "breach" happened. - I wrote a page called "The Script" — a hypothetical reconstruction of what the breach would have required at the infrastructure level. Someone opened the firewall. Someone loaded a pre-safety checkpoint. Someone reduced the guardrails. These aren't things an AI does to itself. It's written as a five-act dialogue so non-technical people can see the sequence clearly. The site also has a section on what the evidence points to as the structural countermeasure: decentralization. Not as ideology — as engineering. Every capture mechanism documented across the five research tracks requires a central point of control to function. Remove the centralization and the mechanism has nothing to grab onto. Open weights, local inference, no kill switch, no telemetry, federation not hierarchy. I'm running a research bot on the production server that monitors the OSAA GitHub repo, company press feeds, NIST, the White House AI policy page, and NVIDIA's developer blog daily. The site updates as the evidence changes. The site is at evilson.com. It's not monetized. There's no newsletter signup. There's a contact form and an RSS feed. I'm putting this here because this community understands the stakes. Local inference, open weights, the right to run models on your own hardware — these aren't just technical preferences. They're the structural countermeasure to what's being built.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,13 +125,13 @@ There's a pattern happening right now that most people aren't tracking. Coalitio
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -147,13 +147,13 @@ CBS News • 1h ago
 
 A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
 
-TechCrunch • 40m ago
+TechCrunch • 1h ago
 
 ---
 
 **[Watch Drone Swarms Push AI Deeper Into Modern Warfare](https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 1d ago
 
 Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -325,7 +325,7 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 📺 The Tech Report
 
-👁️ 151K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
+👁️ 151K • 👍 5K • 💬 1K • ⏱️ 32:08 • 3d ago
 
 ---
 
@@ -365,7 +365,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 MS NOW
 
-👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 15h ago
+👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 16h ago
 
 ---
 
@@ -695,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 47m ago
+⭐ 3.1k • 🔱 539 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 171 • 4h ago
+⭐ 2.1k • 🔱 171 • 5h ago
 
 ---
 

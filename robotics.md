@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T16:50:22.433224+00:00'
+updated: '2026-08-15T17:19:51.203764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 16:50 UTC  
+**Last Updated:** August 15, 2026 at 17:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-3h ago
+4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Salut à tous, Je me présente rapidement : je suis un jeune autodidacte français, j’ai arrêté les études et je bosse seul sur un projet de robotique/systèmes embarqués depuis un moment. Je viens ici pour avoir des avis honnêtes, pas pour promouvoir quoi que ce soit. Le projet s’appelle DISPELDA. L’idée de départ c’est de rendre des petits systèmes embarqués capables de continuer à prendre des décisions locales quand les communications ou le GNSS sont dégradés ou absents, je vise le secteur de La Défense. En clair, déplacer une partie de l’intelligence de décision directement dans la machine au lieu de tout faire dépendre d’une infrastructure extérieure. Je ne fais pas un drone autonome complet, je travaille surtout sur la couche logicielle et matérielle qui pourrait rendre ça possible sur des systèmes contraints. Pour l’instant j’ai un prototype très simple qui tourne sur une STM32 Nucleo F446RE avec une IMU MPU6050. Le firmware est en C, boucle temps réel cible à 200 Hz, pas de malloc, mémoire statique. J’ai un filtre de Madgwick opérationnel et je compare avec un petit modèle type réseau de neurones liquide pour voir ce que ça donne sur ce genre de plateforme. Je sais très bien que ce n’est pas un produit. C’est un POC, et encore, un POC très modeste. Je ne cherche pas de compliments, je cherche des critiques réelles. Ma vraie question c’est la suivante : selon vous, qu’est-ce qui sépare un simple POC technique d’une vraie rupture technologique en robotique embarquée ? Qu’est-ce qu’il faudrait démontrer, mesurer ou construire pour que ce genre de projet devienne crédible à la fois techniquement et commercialement ? Est-ce qu’il y a un angle précis qui vaudrait le coup d’être creusé ? Je suis preneur de retours durs et directs. Merci à ceux qui prendront le temps de répondre.
 
-2h ago
+3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 1d ago
 
 A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
 
-Live Science • 1d ago
+Live Science • 2d ago
 
 ---
 
