@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T06:37:39.310652+00:00'
+updated: '2026-08-15T07:30:45.151443+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 06:37 UTC  
+**Last Updated:** August 15, 2026 at 07:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 8h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-50m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ I recently was thinking about reducing the cost of LLMs, specially LLMs which ar
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 8h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 9h ago
 
 ---
 
@@ -81,13 +81,13 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-20h ago
+21h ago
 
 ---
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 7h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-22h ago
+23h ago
 
 ---
 
@@ -121,7 +121,7 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Reuters • 8h ago
 
 Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -137,19 +137,19 @@ BBC • 7h ago
 
 Indian Prime Minister Narendra Modi said Saturday his government would provide free online coaching lessons for competitive exams, weeks after massive youth-led protests forced the education minister ...
 
-Yahoo • 52m ago
+Yahoo • 1h ago
 
 ---
 
 **[Inside Poland’s Push to Become Europe’s Next AI Powerhouse](https://www.barrons.com/articles/poland-europe-ai-tech-leader-b934ca54)**
 
-Barron's • 7m ago
+Barron's • 1h ago
 
 ---
 
 **[Extreme caution urged as data privacy complaints jump 62% in AI era](https://www.scmp.com/news/hong-kong/society/article/3364134/extreme-caution-urged-hongkongers-data-privacy-complaints-jump-62-ai-era)**
 
-South China Morning Post • 46m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ South China Morning Post • 46m ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -165,13 +165,13 @@ CNBC • 14h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 11h ago
+Anthropic • 12h ago
 
 ---
 
 **[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 21h ago
 
 Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 13h ago
 
 Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
 
-WIRED • 19h ago
+WIRED • 20h ago
 
 ---
 
@@ -207,7 +207,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 350 • 💬 205 • 14h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 350 • 💬 205 • 15h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -223,7 +223,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 270 • 💬 20 • 14h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 270 • 💬 20 • 15h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -241,7 +241,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 198 • 💬 248 • 18h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 198 • 💬 248 • 19h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -285,7 +285,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 15K • 👍 610 • 💬 117 • ⏱️ 13:09 • 7h ago
+👁️ 20K • 👍 755 • 💬 134 • ⏱️ 13:09 • 7h ago
 
 ---
 
@@ -295,7 +295,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 37K • 👍 2K • 💬 225 • ⏱️ 34:05 • 15h ago
+👁️ 40K • 👍 2K • 💬 234 • ⏱️ 34:05 • 16h ago
 
 ---
 
@@ -305,37 +305,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Higgsfield AI
 
-👁️ 198K • 👍 11K • 💬 2K • ⏱️ 19:49 • 1d ago
-
----
-
-**[Mathematicians STUNNED After AI Solves 10 Decades Old Problems](https://www.youtube.com/watch?v=2WT1kNnoyuU)**
-
-The Friday crew discusses mathematicians stunned as AI solves decades old problems. Daniel Litt: https://www.daniellitt.com/ ...
-
-📺 Breaking Points
-
-👁️ 124K • 👍 4K • 💬 874 • ⏱️ 19:15 • 13h ago
-
----
-
-**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
-
-Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 535 • 💬 56 • ⏱️ 16:41 • 1d ago
-
----
-
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 137K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 208K • 👍 12K • 💬 2K • ⏱️ 19:49 • 1d ago
 
 ---
 
@@ -343,17 +313,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Ninjas Are Butterflies 
 
-👁️ 24K • 👍 2K • 💬 154 • ⏱️ 0:57 • 7h ago
-
----
-
-**[Recreating UNREALISTIC Ai Makeup Looks!](https://www.youtube.com/watch?v=uueHWiP8KrA)**
-
-Today I'm BATTLING Ai to see if I can recreate IMPOSSIBLE Ai generated makeup... IN REAL LIFE! Real creativity ALWAYS WINS ...
-
-📺 James Charles
-
-👁️ 118K • 👍 5K • 💬 552 • ⏱️ 24:09 • 11h ago
+👁️ 32K • 👍 3K • 💬 176 • ⏱️ 0:57 • 8h ago
 
 ---
 
@@ -371,7 +331,47 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 Onevilage
 
-👁️ 699K • 👍 19K • 💬 539 • ⏱️ 0:46 • 16h ago
+👁️ 805K • 👍 21K • 💬 587 • ⏱️ 0:46 • 17h ago
+
+---
+
+**[Mathematicians STUNNED After AI Solves 10 Decades Old Problems](https://www.youtube.com/watch?v=2WT1kNnoyuU)**
+
+The Friday crew discusses mathematicians stunned as AI solves decades old problems. Daniel Litt: https://www.daniellitt.com/ ...
+
+📺 Breaking Points
+
+👁️ 131K • 👍 4K • 💬 899 • ⏱️ 19:15 • 14h ago
+
+---
+
+**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
+
+Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
+
+📺 The Tech Report
+
+👁️ 149K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
+
+---
+
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+
+📺 Higgsfield AI
+
+👁️ 30K • 👍 872 • 💬 185 • ⏱️ 6:06 • 17h ago
+
+---
+
+**[Why Billionaires &amp; Celebrities Are Lining Up for This $700M AI Startup](https://www.youtube.com/watch?v=rCJhlCZVTZQ)**
+
+Welcome inside the world of Fortell... The $740M startup that had to waitlist billionaires and celebrities for its AI hearing aid.
+
+📺 Sachin and Adam
+
+👁️ 58K • 👍 1K • 💬 135 • ⏱️ 17:33 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 9,219 • 15h ago
+⬇️ 2 • ❤️ 9,309 • 16h ago
 
 ---
 
@@ -399,19 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 165,300 • ❤️ 1,523 • 3d ago
-
----
-
-**[Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)**
-
-*Qwen*
-
-Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated parameters, excelling in coding, professional tasks, research, and long-horizon agentic applications. It features a 262K native context length, flexible thinking control, and improved agent execution for complex, multi-step task completion.
-
-`text-generation` `2446.2B`
-
-⬇️ 3,832 • ❤️ 928 • 2d ago
+⬇️ 165,300 • ❤️ 1,528 • 3d ago
 
 ---
 
@@ -423,7 +411,19 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 901 • 10h ago
+⬇️ 0 • ❤️ 935 • 1h ago
+
+---
+
+**[Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)**
+
+*Qwen*
+
+Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated parameters, excelling in coding, professional tasks, research, and long-horizon agentic applications. It features a 262K native context length, flexible thinking control, and improved agent execution for complex, multi-step task completion.
+
+`text-generation` `2446.2B`
+
+⬇️ 3,832 • ❤️ 932 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 1,997,541 • ❤️ 3,929 • 2d ago
+⬇️ 1,997,541 • ❤️ 3,935 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 207,830 • ❤️ 867 • 2d ago
+⬇️ 207,830 • ❤️ 879 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 676 • 19h ago
+⬇️ 63 • ❤️ 695 • 20h ago
 
 ---
 
@@ -471,7 +471,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,606,491 • ❤️ 3,390 • 14d ago
+⬇️ 1,606,491 • ❤️ 3,396 • 14d ago
 
 ---
 
@@ -483,7 +483,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 245 • ❤️ 442 • 1d ago
+⬇️ 245 • ❤️ 449 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 596,774 • ❤️ 416 • 4d ago
+⬇️ 596,774 • ❤️ 420 • 4d ago
 
 ---
 
@@ -644,7 +644,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 4h ago
+⭐ 13.6k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -654,7 +654,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 8.5k • 🔱 879 • 6h ago
+⭐ 8.7k • 🔱 893 • 7h ago
 
 ---
 
@@ -664,7 +664,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.4k • 🔱 997 • 1d ago
+⭐ 8.4k • 🔱 998 • 1d ago
 
 ---
 
@@ -674,7 +674,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.0k • 🔱 431 • 1d ago
+⭐ 5.1k • 🔱 433 • 1d ago
 
 ---
 
@@ -682,7 +682,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 519 • 6d ago
+⭐ 4.0k • 🔱 520 • 6d ago
 
 ---
 
@@ -692,7 +692,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 537 • 1d ago
+⭐ 3.1k • 🔱 538 • 1d ago
 
 ---
 
@@ -702,7 +702,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.7k • 🔱 223 • 3d ago
+⭐ 2.7k • 🔱 224 • 3d ago
 
 ---
 
@@ -712,7 +712,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 22h ago
+⭐ 2.7k • 🔱 1.9k • 23h ago
 
 ---
 
@@ -722,7 +722,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.4k • 🔱 190 • 3d ago
+⭐ 2.5k • 🔱 191 • 3d ago
 
 ---
 
@@ -732,7 +732,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 1d ago
+⭐ 2.1k • 🔱 170 • 16m ago
 
 ---
 
