@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T21:20:47.179025+00:00'
+updated: '2026-08-15T21:45:56.357706+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 21:20 UTC  
+**Last Updated:** August 15, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,118.30
+### $63,163.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -2.8%  
-**30d:** -1.4%  
-**90d:** -18.1%  
-**1y:** -46.3%  
+**24h:** +0.4%  
+**7d:** -2.7%  
+**30d:** -1.3%  
+**90d:** -18.0%  
+**1y:** -46.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO 
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-5h ago
+6h ago
 
 ---
 
@@ -157,7 +157,7 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,19 +169,11 @@ Forbes • 8h ago
 
 ---
 
-**[Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap](https://finance.yahoo.com/markets/crypto/articles/could-bitcoin-ever-break-21-190725783.html)**
+**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html)**
 
-Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.
+Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
-
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
-
-Sacramento Bee • 1d ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -197,7 +189,7 @@ Mashable • 1d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-waff.com • 21h ago
+WAFF • 21h ago
 
 ---
 
@@ -217,7 +209,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
 Investing.com • 11h ago
 
@@ -227,7 +219,15 @@ Investing.com • 11h ago
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
-24/7 Wall St. • 22h ago
+24/7 Wall St. • 23h ago
+
+---
+
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -255,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -317,7 +317,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Khuncoin
 
-👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 12h ago
+👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 19h ago
+👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 21h ago
+👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 22h ago
 
 ---
 

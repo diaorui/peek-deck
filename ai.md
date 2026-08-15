@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T21:20:47.171192+00:00'
+updated: '2026-08-15T21:45:56.349166+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 21:20 UTC  
+**Last Updated:** August 15, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 22h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-4h ago
+5h ago
 
 ---
 
@@ -121,6 +121,12 @@ AI agents are getting better at making decisions and taking actions on their own
 
 ## Google News: "ai"
 
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 23h ago
+
+---
+
 **[Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders](https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition)**
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
@@ -129,45 +135,11 @@ The Guardian • 13h ago
 
 ---
 
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+**[How AI can help you save time](https://www.cbsnews.com/losangeles/video/how-ai-can-help-you-save-time/)**
 
-reuters.com • 23h ago
+AI can help you save time with your day-to-day life. The Leverage Circle CEO and Park AI Labs Founder Tim Park is hosting an AI workshop for women in the workplace. He joined CBS LA to talk about it.
 
----
-
-**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
-
-politico.com • 1h ago
-
----
-
-**[AI ‘Chipflation’ Washes Ashore in the UK Economy](https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy?srnd=good-business)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Why forcing AI on employees without buy-in will backfire](https://www.yahoo.com/news/videos/why-forcing-ai-employees-without-200000124.html)**
-
-May Habib, Co-founder and CEO of Writer, argues that employees won't genuinely adopt AI tools if they fear being replaced. She compares it to 'getting turkeys to vote for Thanksgiving' and says leader...
-
-Yahoo • 1h ago
-
----
-
-**[How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)**
-
-Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
-
-Anthropic • 1d ago
-
----
-
-**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
-
-Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
-
-BBC • 9h ago
+CBS News • 33m ago
 
 ---
 
@@ -177,9 +149,31 @@ Axios • 11h ago
 
 ---
 
+**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
+
+Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
+
+BBC • 10h ago
+
+---
+
+**[Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information](https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850)**
+
+Investing.com • 1h ago
+
+---
+
 **[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
 
-WSJ • 11h ago
+WSJ • 12h ago
+
+---
+
+**[Palantir Leads AI Data Deal With USA Today Sparking A Newsroom Revolt](https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/)**
+
+More than 800 journalists demanded USA Today drop its Palantir AI data deal. Four data leadership lessons for every executive before the next earnings call.
+
+Forbes • 23m ago
 
 ---
 
@@ -191,6 +185,14 @@ cnn.com • 1d ago
 
 ---
 
+**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
+
+Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
+
+Financial Times • 17h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +201,7 @@ cnn.com • 1d ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 474 • 💬 276 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 476 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -207,7 +209,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 346 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 347 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -215,7 +217,15 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 218 • 💬 187 • 3h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 302 • 💬 260 • 3h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
+
+**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
+
+Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
+
+⬆️ 222 • 💬 158 • 11h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -224,14 +234,6 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
 
 ⬆️ 218 • 💬 95 • 2d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
-
----
-
-**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
-
-Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
-
-⬆️ 204 • 💬 144 • 10h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -249,7 +251,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 173 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 174 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -269,7 +271,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 144 • 💬 160 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 144 • 💬 161 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
@@ -283,7 +285,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 21h ago
+👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 22h ago
 
 ---
 
@@ -643,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 20s ago
+⭐ 13.6k • 🔱 1.6k • 25m ago
 
 ---
 
@@ -721,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 37m ago
+⭐ 2.5k • 🔱 194 • 1h ago
 
 ---
 

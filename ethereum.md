@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T21:20:47.184521+00:00'
+updated: '2026-08-15T21:45:56.363808+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 21:20 UTC  
+**Last Updated:** August 15, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,8 +44,8 @@ Live Ethereum monitoring dashboard
 
 **24h:** +0.3%  
 **7d:** -1.3%  
-**30d:** +2.2%  
-**90d:** -11.6%  
+**30d:** +2.3%  
+**90d:** -11.5%  
 **1y:** -57.4%  
 
 ---
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 4h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 9h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -192,11 +192,17 @@ Benzinga • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
+**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
 
-The world's largest corporate holder of Ether continues to buy more tokens.
+There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-The Motley Fool • 10h ago
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
+
+ETF Trends • 1d ago
 
 ---
 
@@ -219,18 +225,6 @@ The Block • 3d ago
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
-
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -304,7 +298,7 @@ DonAlt finally bought ETH near resistance, with $4K upside if the market's long 
 
 📺 TechnicalRoundup
 
-👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 10h ago
+👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 11h ago
 
 ---
 
@@ -324,7 +318,7 @@ Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looki
 
 📺 Fred Opus
 
-👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 13h ago
+👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 14h ago
 
 ---
 
