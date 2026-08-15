@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T18:58:21.720883+00:00'
+updated: '2026-08-15T19:26:45.896240+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 18:58 UTC  
+**Last Updated:** August 15, 2026 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 9h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 20h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 4h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 21h ago
 
 **[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
 
-WSJ • 46m ago
+WSJ • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ WSJ • 46m ago
 
 Noble Mobile CEO Andrew Yang lays out three 'catastrophic' threats posed by artificial intelligence.
 
-Fox News • 21m ago
+Fox News • 49m ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 9h ago
 
 The Law School introduced a largely permissive policy on generative artificial intelligence this month that allows students to use AI as a “learning aid” but continues to bar its use to generate submitted content.
 
-columbiaspectator.com • 57m ago
+columbiaspectator.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ columbiaspectator.com • 57m ago
 
 Some teachers say the technology doesn’t always get it right, and they’re questioning whether it belongs in the classroom at all.
 
-Spectrum Bay News 9 • 17h ago
+Spectrum Bay News 9 • 18h ago
 
 ---
 
@@ -175,7 +175,7 @@ Spectrum Bay News 9 • 17h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 23h ago
+Anthropic • 1d ago
 
 ---
 
@@ -183,7 +183,7 @@ Anthropic • 23h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 BBC News
 
-👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 6h ago
+👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,566 • 3d ago
+⬇️ 246,454 • ❤️ 1,566 • 4d ago
 
 ---
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 34m ago
+⭐ 13.6k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 2h ago
+⭐ 3.1k • 🔱 539 • 3h ago
 
 ---
 
@@ -723,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 3d ago
+⭐ 2.5k • 🔱 194 • 4d ago
 
 ---
 
@@ -733,7 +733,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 171 • 6h ago
+⭐ 2.1k • 🔱 171 • 7h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T18:58:21.729760+00:00'
+updated: '2026-08-15T19:26:45.909977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 18:58 UTC  
+**Last Updated:** August 15, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
 
-39m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 2h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2d ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -180,7 +180,7 @@ CryptoSlate • 19h ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 23h ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 23h ago
+Benzinga • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ markets.businessinsider.com • 1d ago
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -224,7 +224,7 @@ Grayscale • 2d ago
 
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
-The Block • 2d ago
+The Block • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 9h ago
+👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 7h ago
+👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 17h ago
+👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 18h ago
 
 ---
 

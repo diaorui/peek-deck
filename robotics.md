@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T18:58:21.731636+00:00'
+updated: '2026-08-15T19:26:45.912963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 18:58 UTC  
+**Last Updated:** August 15, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,19 +56,27 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 ---
 
-**[Trained an end-to-end CNN to steer my RC car around a track, running on Raspberry Pi 5](https://www.reddit.com/r/robotics/comments/1vok7za/trained_an_endtoend_cnn_to_steer_my_rc_car_around/)**
-
-The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
-
-21h ago
-
----
-
 **[Pluggybot: Multifunctional robot sim with automatic tool changing (MuJoCo sim)](https://www.reddit.com/r/robotics/comments/1vp2w0d/pluggybot_multifunctional_robot_sim_with/)**
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
 5h ago
+
+---
+
+**[Probando válvula pepepako con la voz y 2,5 bares de presión hidráulica](https://www.reddit.com/r/robotics/comments/1vpbaf1/probando_válvula_pepepako_con_la_voz_y_25_bares/)**
+
+Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
+
+17m ago
+
+---
+
+**[Trained an end-to-end CNN to steer my RC car around a track, running on Raspberry Pi 5](https://www.reddit.com/r/robotics/comments/1vok7za/trained_an_endtoend_cnn_to_steer_my_rc_car_around/)**
+
+The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
+
+21h ago
 
 ---
 
@@ -90,23 +98,15 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
 
-19h ago
+20h ago
 
 ---
 
-**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
+**[Could anyone help? - Family plea to help Rickmansworth 97-year-old fix robot's ankle (From BBC News)](https://www.reddit.com/r/robotics/comments/1voxoqv/could_anyone_help_family_plea_to_help/)**
 
-🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
+Malcolm Stern says Toby could be used to educate children once completed.
 
-14h ago
-
----
-
-**[Je veux créer une vraie rupture dans les systèmes embarqué mais je ne sais pas si mon idée vaut vraiment le coup](https://www.reddit.com/r/robotics/comments/1vp3omy/je_veux_créer_une_vraie_rupture_dans_les_systèmes/)**
-
-Salut à tous, Je me présente rapidement : je suis un jeune autodidacte français, j’ai arrêté les études et je bosse seul sur un projet de robotique/systèmes embarqués depuis un moment. Je viens ici pour avoir des avis honnêtes, pas pour promouvoir quoi que ce soit. Le projet s’appelle DISPELDA. L’idée de départ c’est de rendre des petits systèmes embarqués capables de continuer à prendre des décisions locales quand les communications ou le GNSS sont dégradés ou absents, je vise le secteur de La Défense. En clair, déplacer une partie de l’intelligence de décision directement dans la machine au lieu de tout faire dépendre d’une infrastructure extérieure. Je ne fais pas un drone autonome complet, je travaille surtout sur la couche logicielle et matérielle qui pourrait rendre ça possible sur des systèmes contraints. Pour l’instant j’ai un prototype très simple qui tourne sur une STM32 Nucleo F446RE avec une IMU MPU6050. Le firmware est en C, boucle temps réel cible à 200 Hz, pas de malloc, mémoire statique. J’ai un filtre de Madgwick opérationnel et je compare avec un petit modèle type réseau de neurones liquide pour voir ce que ça donne sur ce genre de plateforme. Je sais très bien que ce n’est pas un produit. C’est un POC, et encore, un POC très modeste. Je ne cherche pas de compliments, je cherche des critiques réelles. Ma vraie question c’est la suivante : selon vous, qu’est-ce qui sépare un simple POC technique d’une vraie rupture technologique en robotique embarquée ? Qu’est-ce qu’il faudrait démontrer, mesurer ou construire pour que ce genre de projet devienne crédible à la fois techniquement et commercialement ? Est-ce qu’il y a un angle précis qui vaudrait le coup d’être creusé ? Je suis preneur de retours durs et directs. Merci à ceux qui prendront le temps de répondre.
-
-4h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 10h ago
 
 ---
 

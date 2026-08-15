@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T18:58:21.726111+00:00'
+updated: '2026-08-15T19:26:45.904282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 18:58 UTC  
+**Last Updated:** August 15, 2026 at 19:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,13 +101,13 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-3h ago
+4h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 Saw the most random truck today
 
-13h ago
+14h ago
 
 ---
 
@@ -145,7 +145,7 @@ Saw the most random truck today
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 6h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 3h ago
 
 ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Sacramento Bee • 1d ago
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 23h ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 18h ago
+WAFF • 19h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Krown
 
-👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 5h ago
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 105 • 💬 172 • ⏱️ 1:36 • 17h ago
+👁️ 3K • 👍 105 • 💬 172 • ⏱️ 1:36 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 496 • 💬 44 • ⏱️ 15:58 • 23h ago
+👁️ 10K • 👍 496 • 💬 44 • ⏱️ 15:58 • 1d ago
 
 ---
 
