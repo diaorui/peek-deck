@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T19:46:05.619604+00:00'
+updated: '2026-08-15T20:21:55.528811+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 19:46 UTC  
+**Last Updated:** August 15, 2026 at 20:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.89
+### $1,884.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.4%  
+**24h:** +0.3%  
+**7d:** -1.3%  
 **30d:** +2.2%  
 **90d:** -11.6%  
 **1y:** -57.4%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 3h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2d ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -192,25 +192,11 @@ Benzinga • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.65M Raised And Ethereum Price Prediction Targets $15,000 As Market Hunts Its Next Dogecoin](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-65m-raised-and-ethereum-price-prediction-targets-15-000-as-market-hunts-its-next-dogecoin-1036459453)**
-
-DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
-
-markets.businessinsider.com • 1d ago
-
----
-
 **[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 8h ago
-
----
-
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
-
-ETF Database • 1d ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -225,6 +211,26 @@ Grayscale • 2d ago
 Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
 
 The Block • 3d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -248,7 +254,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 10h ago
+👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 11h ago
 
 ---
 
@@ -258,7 +264,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 8h ago
+👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 9h ago
 
 ---
 
@@ -288,7 +294,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 18h ago
+👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 19h ago
 
 ---
 

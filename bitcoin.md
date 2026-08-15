@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T19:46:05.613369+00:00'
+updated: '2026-08-15T20:21:55.522818+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 19:46 UTC  
+**Last Updated:** August 15, 2026 at 20:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,092.22
+### $63,118.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** -2.8%  
 **30d:** -1.4%  
 **90d:** -18.1%  
@@ -85,7 +85,7 @@ Rank #1
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 Saw the most random truck today
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ Saw the most random truck today
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-10h ago
+11h ago
 
 ---
 
@@ -157,7 +157,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -165,39 +165,15 @@ CoinDesk • 4h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
-**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html)**
+**[Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap](https://finance.yahoo.com/markets/crypto/articles/could-bitcoin-ever-break-21-190725783.html)**
 
-Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
+Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options)**
-
-Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
-
-CoinDesk • 3h ago
-
----
-
-**[Is Bitcoin a Buy at $63,000? We Asked 3 AI Models](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-63-000-asked-171425984.html)**
-
-ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
-
-Real mining. Tiny footprint.
-
-Mashable • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,6 +185,22 @@ Sacramento Bee • 1d ago
 
 ---
 
+**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+
+Real mining. Tiny footprint.
+
+Mashable • 1d ago
+
+---
+
+**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
+
+Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
+
+waff.com • 20h ago
+
+---
+
 **[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
@@ -217,19 +209,25 @@ The Block • 1d ago
 
 ---
 
-**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
-
-Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
-
-WAFF • 19h ago
-
----
-
 **[Bitcoin Falls as Regulatory Hopes Are Dashed](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-regulatory-hopes-dashed-152533318.html)**
 
 Crypto investors got a letdown this week–and not just from bitcoin prices.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+
+Investing.com • 10h ago
+
+---
+
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
+
+Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
+
+24/7 Wall St. • 21h ago
 
 ---
 
@@ -249,7 +247,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 1d ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 2d ago • [Second](https://second.tech/)
 
 ---
 
@@ -323,7 +321,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Krown
 
-👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 6h ago
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 7h ago
 
 ---
 

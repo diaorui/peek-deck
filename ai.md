@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T19:46:05.604807+00:00'
+updated: '2026-08-15T20:21:55.515128+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - videos
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 19:46 UTC  
+**Last Updated:** August 15, 2026 at 20:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 11h ago
 
 ---
 
@@ -57,7 +57,31 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 5h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 6h ago
+
+---
+
+**[Zuckerberg is betting Meta's whole ad business on AI and his own ai ugc tools are turning dresses into pants](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
+
+Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
+
+6m ago
+
+---
+
+**[I built a small game discovery toy, not a chatbot wrapper](https://www.reddit.com/r/artificial/comments/1vpccuk/i_built_a_small_game_discovery_toy_not_a_chatbot/)**
+
+I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
+
+29m ago
+
+---
+
+**[The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.](https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/)**
+
+Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
+
+51m ago
 
 ---
 
@@ -65,7 +89,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +97,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,31 +113,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-3h ago
-
----
-
-**[The defense tech bottleneck isn't AI anymore — it's manufacturing](https://www.reddit.com/r/artificial/comments/1vp4xrx/the_defense_tech_bottleneck_isnt_ai_anymore_its/)**
-
-For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon. Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace. But the constraint shifting into 2026 isn't intelligence anymore. Recent conflicts have made the case in hardware: cheap, expendable drones you don't mind losing often win on cost-efficiency against exquisite, million-dollar precision systems — which means the company that wins isn't necessarily the one with the smartest model, it's the one that can turn it into thousands of physical units a month. The same pattern shows up outside defense: the bottleneck to shipping AI keeps moving. First it was models, then data, then compute — now, in categories that touch the physical world, it's factories. Worth remembering next time "AI-native" is the whole pitch. Increasingly, it's necessary but not sufficient.
-
 4h ago
-
----
-
-**[Emad Mostaque: the "digital double" mechanism nobody's retraining plan accounts for](https://www.reddit.com/r/artificial/comments/1vp4uav/emad_mostaque_the_digital_double_mechanism/)**
-
-https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forward-deployed engineers, AI transformation people, because they can do the work of 10, 100 people." That's the role that survives this — already a real hiring category, not a future one. LinkedIn's own data has it growing 42x since 2023, priced $127K–$265K+ at the labs actually building this. That's the part that should sit heavier than the digital-double line. It's not that your job disappears. It's that a different job, already priced and already hiring, opens up a few rungs above where you're standing — and most of us don't have a clean path into it yet. I've watched a smaller, slower version of this exact move before. No AI involved — just a stamp and a highlighter. Hmm... this one really gets me out of my chair and pace around my living room, so let me try to recall it properly. When I was working as a Technical Engineer in the Tender Department of one of the largest main contractors in Malaysia — there was a skill we always used. Fair warning, I'm sharing privileged information here. Well... it's probably an open secret in the industry anyway. Whenever we tendered for a project — let's say Malaysian Airlines (MAS), widening a runway for their newly-bought Airbus A380 — we'd hit the parts that were out of our expertise. Airway lighting, drainage, flight angles, height restrictions. So we did the natural thing: called for outside help. Engaged specialized sub-contractors who'd done airway pavements before, to hand us the technical know-how and their quotation. We knew full well these sub-contractors were already MAS's long-time maintenance contractors — it was just a matter of time before they'd be folded under our main contract anyway. So when they submitted their technical documents, we stripped their company logo, re-arranged it, added our own branded wording, our own logos. Woalah. It was now our own internal technical know-how. We'd suddenly become experts in pavement-widening and hangar works. We didn't get the job, though. We all knew that tender was just for show — a comparison exercise to cross-check MAS's already-chosen main contractor. But the knowledge we gathered from those specialists was now folded into our own knowledge vault. Our own proprietary knowledge. Are we stealing? I wouldn't use that word. When there's a problem, the client comes after us — not our subcontractors. So to properly solve it, we have to own the knowledge too. The right word might be "necessary." https://preview.redd.it/lkn6gis5yjjh1.jpg?width=1024&format=pjpg&auto=webp&s=adbb096873b0ea6de01f5084eba7a6e8731c6b21 ———— Every version of this mechanism arrives wearing the same word. Ours was "necessary." This one's wearing "efficiency." Actually — a post I put up about the same compression logic, just running through one operator instead of a stripped logo came to mind while writing this one. Drop your take — where's the line between "necessary" and something with a worse name? Clip credit: The Beyond Tomorrow Podcast with Julian Issa — full video on their channel. DM for credit or removal requests.
-
-4h ago
-
----
-
-**[Foto in costume o slip sexy](https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/)**
-
-Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
-
-10h ago
 
 ---
 
@@ -125,49 +125,33 @@ Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 21h ago
+reuters.com • 22h ago
 
 ---
 
-**[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
+**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-WSJ • 1h ago
-
----
-
-**[Andrew Yang warns of 'catastrophic threats' of AI](https://www.foxnews.com/video/6403472453112)**
-
-Noble Mobile CEO Andrew Yang lays out three 'catastrophic' threats posed by artificial intelligence.
-
-Fox News • 1h ago
+politico.com • 21m ago
 
 ---
 
-**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
+**[AI ‘Chipflation’ Washes Ashore in the UK Economy](https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy?srnd=good-business)**
 
-Axios • 9h ago
-
----
-
-**[Law School introduces largely permissive AI policy](https://www.columbiaspectator.com/news/2026/08/15/law-school-introduces-largely-permissive-ai-policy/)**
-
-The Law School introduced a largely permissive policy on generative artificial intelligence this month that allows students to use AI as a “learning aid” but continues to bar its use to generate submitted content.
-
-columbiaspectator.com • 1h ago
+Bloomberg.com • 21m ago
 
 ---
 
-**[Pinellas teachers raise concerns about AI reading program used in classrooms](https://baynews9.com/fl/tampa/news/2026/08/15/pinellas-teachers-raise-concerns-about-ai-reading-program-used-in-classrooms)**
+**[Why forcing AI on employees without buy-in will backfire](https://www.yahoo.com/news/videos/why-forcing-ai-employees-without-200000124.html)**
 
-Some teachers say the technology doesn’t always get it right, and they’re questioning whether it belongs in the classroom at all.
+May Habib, Co-founder and CEO of Writer, argues that employees won't genuinely adopt AI tools if they fear being replaced. She compares it to 'getting turkeys to vote for Thanksgiving' and says leader...
 
-Spectrum Bay News 9 • 18h ago
+Yahoo • 21m ago
 
 ---
 
@@ -187,11 +171,23 @@ BBC • 8h ago
 
 ---
 
-**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
+**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
+Axios • 10h ago
 
-businessinsider.com • 1d ago
+---
+
+**[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
+
+WSJ • 10h ago
+
+---
+
+**[The AI boom is driving up home prices in San Francisco. Are you being priced out?](https://www.cnn.com/2026/08/14/economy/san-francisco-housing-market-callout)**
+
+Fueled by a boom in artificial intelligence, San Francisco is quickly becoming the hottest housing market in the country.
+
+cnn.com • 1d ago
 
 ---
 
@@ -203,7 +199,7 @@ businessinsider.com • 1d ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 472 • 💬 275 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 474 • 💬 276 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -211,7 +207,15 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 345 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 346 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+
+---
+
+**[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://news.ycombinator.com/item?id=49312845)**
+
+The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
+
+⬆️ 218 • 💬 187 • 2h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -223,21 +227,21 @@ Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V
 
 ---
 
+**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
+
+Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
+
+⬆️ 204 • 💬 144 • 9h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+
+---
+
 **[Dear people who work at the airport](https://news.ycombinator.com/item?id=49297801)**
 
 I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 202 • 💬 256 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
-
----
-
-**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
-
-Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
-
-⬆️ 182 • 💬 126 • 9h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 202 • 💬 260 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -245,13 +249,13 @@ Working with AI is less predictable than traditional software. That makes leader
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 173 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 164 • 💬 206 • 2d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 164 • 💬 207 • 2d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -266,14 +270,6 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
 ⬆️ 144 • 💬 160 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
-
----
-
-**[How AI text watermarking works](https://news.ycombinator.com/item?id=49292932)**
-
-A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
-
-⬆️ 133 • 💬 98 • 1d ago • [declaude](https://declaude.org/watermarking/)
 
 ---
 
@@ -325,7 +321,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 BBC News
 
-👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 7h ago
+👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 8h ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,159 • 13h ago
+⬇️ 867,963 • ❤️ 1,159 • 14h ago
 
 ---
 
@@ -511,7 +507,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 614 • 💬 2 • ⭐ 2,250 • 5d ago
+▲ 614 • 💬 2 • ⭐ 2,250 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -577,7 +573,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 38 • 💬 2 • ⭐ 1,051 • 11d ago
+▲ 38 • 💬 2 • ⭐ 1,051 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -591,7 +587,7 @@ MatrAIx is a large-scale simulated-user evaluation framework that uses diverse p
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 92 • 💬 1 • ⭐ 1,259 • 11d ago
+▲ 92 • 💬 1 • ⭐ 1,259 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -655,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.5k • 🔱 978 • 19h ago
+⭐ 9.5k • 🔱 978 • 20h ago
 
 ---
 
@@ -693,7 +689,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 3h ago
+⭐ 3.1k • 🔱 539 • 4h ago
 
 ---
 
@@ -733,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 171 • 7h ago
+⭐ 2.1k • 🔱 171 • 8h ago
 
 ---
 

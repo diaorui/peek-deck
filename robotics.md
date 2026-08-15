@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T19:46:05.622878+00:00'
+updated: '2026-08-15T20:21:55.531846+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 19:46 UTC  
+**Last Updated:** August 15, 2026 at 20:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey! This is a MuJoCo side project I've been working on for a while, with the pl
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-36m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Malcolm Stern says Toby could be used to educate children once completed.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 10h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 11h ago
 
 ---
 
@@ -116,7 +116,7 @@ Malcolm Stern says Toby could be used to educate children once completed.
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 2d ago
+nytimes.com • 2d ago
 
 ---
 
@@ -150,19 +150,19 @@ Tech Xplore • 8h ago
 
 ---
 
+**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
+
+A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
+
+Interesting Engineering • 7h ago
+
+---
+
 **[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
 
 Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
 
 Medscape • 1d ago
-
----
-
-**[Watch: Deep Robotics humanoid robot conquers real-world concrete stairs, rough terrain](https://interestingengineering.com/ai-robotics/deep-robotics-humanoid-robot-conquers-stairs)**
-
-Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Live Science • 2d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 1d ago
+newatlas.com • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ This striking test reportedly shows a humanoid robot being subjected to direct 2
 
 📺 Valor and Liberty
 
-👁️ 729K • 👍 2K • 💬 128 • ⏱️ 0:07 • 4d ago
+👁️ 729K • 👍 2K • 💬 128 • ⏱️ 0:07 • 5d ago
 
 ---
 
