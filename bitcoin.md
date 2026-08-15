@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T09:29:41.384552+00:00'
+updated: '2026-08-15T09:52:06.881737+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 09:29 UTC  
+**Last Updated:** August 15, 2026 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.89B
+**Market Cap:** $1263.74B
 Rank #1
 
-**Circulating Supply:** 20,070,393 BTC
+**Circulating Supply:** 20,070,421 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-50.1%
 
 **All-Time Low:** $67.81
-+92839.1%
++92756.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-5h ago
+6h ago
 
 ---
 
@@ -175,7 +175,7 @@ Mashable • 1d ago
 
 Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 46m ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-coindesk.com • 18h ago
+coindesk.com • 19h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 6h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -287,53 +287,33 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 18K • 👍 341 • 💬 6 • ⏱️ 0:53 • 15h ago
-
----
-
-**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
-
-America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
-
-📺 Swan Bitcoin
-
-👁️ 8K • 👍 419 • 💬 24 • ⏱️ 15:58 • 14h ago
-
----
-
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
-
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
-
-📺 Natalie Brunell
-
-👁️ 1K • 👍 46 • 💬 48 • ⏱️ 1:36 • 8h ago
-
----
-
 **[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
 One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 91 • ⏱️ 16:33 • 10h ago
+👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 10h ago
 
 ---
 
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
 
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Dana Love, PhD
+📺 Benjamin Cowen
 
-👁️ 29K • 👍 1K • 💬 394 • ⏱️ 18:10 • 1d ago
+👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 15h ago
+
+---
+
+**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
+
+40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 34K • 👍 2K • 💬 90 • ⏱️ 9:13 • 1d ago
 
 ---
 
@@ -343,47 +323,67 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 263 • ⏱️ 18:25 • 1d ago
+👁️ 33K • 👍 2K • 💬 260 • ⏱️ 18:25 • 1d ago
 
 ---
 
-**[SECRET BITCOIN SPAWN](https://www.youtube.com/watch?v=fPsAQ2ucLcU)**
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
 
-Airwingmarine's Music - Synthwave ...
-
-📺 Airwingmarine
-
-👁️ 24K • 👍 415 • 💬 26 • ⏱️ 0:15 • 21h ago
-
----
-
-**[Grant Cardone on Why Early Bitcoin Buyers Are Not Smart](https://www.youtube.com/watch?v=y4aTig9eJEY)**
-
-Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50 and watching it hit $100M does not make you a ...
-
-📺 Divot
-
-👁️ 925 • 👍 8 • ⏱️ 0:49 • 9h ago
-
----
-
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
-
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 315 • 💬 96 • ⏱️ 14:52 • 1d ago
-
----
-
-**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
-
-Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
 
 📺 Natalie Brunell
 
-👁️ 20K • 👍 759 • 💬 82 • ⏱️ 1:11:42 • 1d ago
+👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 8h ago
+
+---
+
+**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
+
+America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
+
+📺 Swan Bitcoin
+
+👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 14h ago
+
+---
+
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
+
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
+
+📺 Dana Love, PhD
+
+👁️ 30K • 👍 1K • 💬 397 • ⏱️ 18:10 • 1d ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 134K • 👍 8K • 💬 438 • ⏱️ 21:29 • 2d ago
+
+---
+
+**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+
+Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 3K • 💬 141 • ⏱️ 18:46 • 2d ago
+
+---
+
+**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
+
+Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 423 • 💬 352 • ⏱️ 16:10 • 1d ago
 
 ---
 

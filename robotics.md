@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T09:29:41.390943+00:00'
+updated: '2026-08-15T09:52:06.891966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 09:29 UTC  
+**Last Updated:** August 15, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Robotics research and industry news
 
 Hey everyone, I'm self-teaching robotics with a focus on perception and robot learning. I learn best by building, so I recently started learning ROS2 and Gazebo. I took a rover model, assembled it into a URDF, and tried to calculate the mass and inertia for the components manually using volume and material density. Here is the repo: https://github.com/introlix/robo_car Note: you can ignore the esp_control folder. I originally started this for a physical ESP32 car but moved to simulation so I could learn Gazebo physics and sensor integration before touching real hardware. Since I'm doing this alone, I'm relying a lot on trial and error and AI tools to help me. But I know AI hallucinates. If anyone here has experience with Gazebo/URDF, I’d really appreciate it if you could take a quick look at my URDF. I mainly want to know if my mass/inertia numbers look realistic, or if I messed up the math and my robot. Also, if anyone is also an student then we could learn together. I'm not looking to pair-program on a call, just someone to do reviews on GitHub, share resources, and maybe give each other small weekly challenges. A bit about my background: while I'm relatively new to ROS2, I have some ML background. I've built neural networks from scratch in NumPy and actually implemented LLM architectures (like Gemma and Qwen) from scratch just by reading their papers and loading the weights. That is the reason I'm interested in perception and robot learning. Let me know if you're open to reviewing the code or if you want to team up. Thanks!
 
-20h ago
+21h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-17h ago
+18h ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 2d ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 16h ago
+NASA (.gov) • 17h ago
 
 ---
 
@@ -190,7 +190,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 947K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
+👁️ 950K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
 
 ---
 
@@ -214,13 +214,43 @@ FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/bluepr
 
 ---
 
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+
+📺 KhanFlicks
+
+👁️ 35K • 💬 58 • ⏱️ 8:34 • 3d ago
+
+---
+
 **[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
 
 If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
 
 📺 Dr. Know-it-all Knows it all
 
-👁️ 2K • 👍 159 • 💬 75 • ⏱️ 21:51 • 1d ago
+👁️ 2K • 👍 160 • 💬 75 • ⏱️ 21:51 • 1d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 145K • 👍 2K • 💬 424 • ⏱️ 10:16 • 13h ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 25K • 👍 668 • 💬 20 • ⏱️ 58:18 • 2d ago
 
 ---
 
@@ -234,23 +264,13 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 25K • 👍 663 • 💬 19 • ⏱️ 58:18 • 2d ago
-
----
-
 **[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
 
 Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
 
 📺 Food For Robots
 
-👁️ 24K • 👍 1K • 💬 103 • ⏱️ 18:39 • 3d ago
+👁️ 24K • 👍 1K • 💬 104 • ⏱️ 18:39 • 3d ago
 
 ---
 
@@ -261,26 +281,6 @@ Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI
 📺 WOLF Financial
 
 👁️ 45K • 👍 1K • 💬 238 • ⏱️ 48:23 • 6d ago
-
----
-
-**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
-
-In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
-
-📺 freeCodeCamp.org
-
-👁️ 36K • 👍 2K • 💬 35 • ⏱️ 6:49:12 • 3d ago
-
----
-
-**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
-
-This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
-
-📺 Valor and Liberty
-
-👁️ 677K • 👍 1K • 💬 123 • ⏱️ 0:07 • 4d ago
 
 ---
 

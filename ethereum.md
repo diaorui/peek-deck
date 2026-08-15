@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T09:29:41.388729+00:00'
+updated: '2026-08-15T09:52:06.888669+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 09:29 UTC  
+**Last Updated:** August 15, 2026 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.82B
+**Market Cap:** $226.67B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433974.2%
++433715.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 15h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ Grayscale • 1d ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 9h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ CryptoSlate • 9h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -192,7 +192,7 @@ etftrends.com • 22h ago
 
 There are still plenty of reasons to believe in the second-largest cryptocurrency.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -222,13 +222,23 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
+
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
+
+📺 The Modern Investor
+
+👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 46m ago
+
+---
 
 **[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
 
@@ -240,13 +250,23 @@ Fortune • 22h ago
 
 ---
 
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
 
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 Stock Moe
+📺 More Crypto Online
 
-👁️ 10K • 👍 531 • 💬 42 • ⏱️ 10:44 • 20h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 8h ago
+
+---
+
+**[Smart Money Is Buying BMNR - Why ETH Could Be Ready to Explode!](https://www.youtube.com/watch?v=toxMEUIrImE)**
+
+BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are all starting to line up in a way that could set the ...
+
+📺 Big Time Trades
+
+👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 11h ago
 
 ---
 
@@ -260,13 +280,13 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 888 • 👍 85 • 💬 4 • ⏱️ 7:21 • 8h ago
+👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 21h ago
 
 ---
 
@@ -280,13 +300,23 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
+**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+
+Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+
+📺 Crypto Capital Venture
+
+👁️ 6K • 👍 348 • 💬 176 • ⏱️ 11:59 • 2d ago
+
+---
+
 **[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
 
 Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 150 • ⏱️ 11:56 • 22h ago
+👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 22h ago
 
 ---
 
@@ -296,37 +326,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 224 • 💬 64 • ⏱️ 21:01 • 18h ago
-
----
-
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
-
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
-
-📺 The Coin Daily
-
-👁️ 2K • 👍 2 • ⏱️ 6:17 • 16h ago
-
----
-
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
-
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 347 • 💬 176 • ⏱️ 11:59 • 2d ago
-
----
-
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 6K • 👍 196 • 💬 6 • ⏱️ 0:31 • 17h ago
+👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 18h ago
 
 ---
 
