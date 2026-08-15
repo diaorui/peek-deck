@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T13:54:40.038169+00:00'
+updated: '2026-08-15T14:22:17.483851+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 13:54 UTC  
+**Last Updated:** August 15, 2026 at 14:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -164,7 +164,7 @@ Currently.com • 3h ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1h ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 14h ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 18h ago
+Benzinga • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 4h ago
+👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 2h ago
+👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 12h ago
+👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 3K • 👍 2 • ⏱️ 6:17 • 20h ago
+👁️ 3K • 👍 2 • ⏱️ 6:17 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 21h ago
+👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 22h ago
 
 ---
 

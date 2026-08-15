@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T13:54:40.041154+00:00'
+updated: '2026-08-15T14:22:17.487321+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 13:54 UTC  
+**Last Updated:** August 15, 2026 at 14:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,22 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Bonsai just hit a 100,000 downloads on crates.io! 🎉](https://www.reddit.com/r/robotics/comments/1vp0pml/bonsai_just_hit_a_100000_downloads_on_cratesio/)**
+
+A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
+
+2h ago
+
+---
+
+**[Built a small autonomous household robot that can complete tasks end to end](https://www.reddit.com/r/robotics/comments/1vp27ra/built_a_small_autonomous_household_robot_that_can/)**
+
+I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
+
+1h ago
+
+---
 
 **[Update on my companion robot](https://www.reddit.com/r/robotics/comments/1vopque/update_on_my_companion_robot/)**
 
@@ -48,11 +64,19 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 ---
 
-**[Egocentric video - complex setup by Unidata](https://www.reddit.com/r/robotics/comments/1vozftz/egocentric_video_complex_setup_by_unidata/)**
+**[Pluggybot: Multifunctional robot sim with automatic tool changing (MuJoCo sim)](https://www.reddit.com/r/robotics/comments/1vp2w0d/pluggybot_multifunctional_robot_sim_with/)**
 
-Hey guys! I've been doing some research on egocentric video data for robots and stumbled upon this pretty developed setup. They use a Pico 4 Ultra, motion trackers, and ZED cameras to collect the data. Looks impressive!
+Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-3h ago
+54m ago
+
+---
+
+**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
+
+🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
+
+9h ago
 
 ---
 
@@ -61,6 +85,14 @@ Hey guys! I've been doing some research on egocentric video data for robots and 
 So, a bit of self-promotion here, but I suspect a lot of you might have run into the same integration headache I did with my project. My thesis was all about using reinforcement learning to keep robot arms from hitting those tricky kinematic singularities. The challenge? The obstacles were moving around unpredictably. To even get to the training phase, I needed a fully connected system: from the URDF model all the way through kinematics, dynamics, planning, control, simulation, and perception. The idea was for the AI agent to see a real obstacle and react based on an actual dynamic model, not some simplified version. And honestly, nothing out there really covered that whole spectrum. You've got MoveIt for planning, sure, but integrating sensors meant building custom ROS nodes from scratch, and there was no GPU acceleration. Pinocchio is impressively fast, but it's CPU-only, and you're left to figure out how to sync perception and planning yourself. CuRobo offers GPU planning and collision checking, but you're on your own for the perception pipeline and closed-loop control. The Python Robotics Toolbox is great for learning the algorithms, but simulation, control, and vision are up to you. So, before I could train a single AI policy, I had to build that integration layer. That's what eventually became ManipulaPy, with its SerialManipulator and ManipulatorDynamics classes forming the foundation for everything else in the library. After my thesis was done, I submitted the code to the Journal of Open Source Software. What really surprised me was how much the review process actually improved the project. JOSS doesn't just check if the code runs; they require a genuine commitment to maintain it. That commitment is what kept it alive after I graduated, instead of it ending up like so many other thesis repositories that just fade away. Where it stands now – it's been peer-reviewed and published in JOSS (October 2025), and we just shipped version 1.4: * The same kinematics and dynamics code now works with NumPy, CuPy, PyTorch, or JAX, all accessed through a single API. Plus, you get real automatic differentiation gradients with PyTorch and JAX. * It comes with 25 robots out of the box – UR, Franka, Kinova, KUKA, Fanuc, ABB, xArm, Robotiq – you can just load them by name, no need to mess with ROS workspaces or mesh files. * It has a native URDF parser that handles `package://` paths and works even if ROS isn't installed. * It integrates with PyBullet for simulation, and we've got CUDA trajectory kernels that automatically switch back to the CPU when the batch size is too small to make using the GPU worthwhile. You can grab it with pip install ManipulaPy. Here are the links: Repo, Docs, Paper. It's under AGPL-3.0. Genuine question for this community: for those of you working with robot arms, is that integration layer still the part you end up rebuilding every single time? I'm curious if this is a common problem or if it was just specific to my setup.
 
 16h ago
+
+---
+
+**[Je veux créer une vraie rupture dans les systèmes embarqué mais je ne sais pas si mon idée vaut vraiment le coup](https://www.reddit.com/r/robotics/comments/1vp3omy/je_veux_créer_une_vraie_rupture_dans_les_systèmes/)**
+
+Salut à tous, Je me présente rapidement : je suis un jeune autodidacte français, j’ai arrêté les études et je bosse seul sur un projet de robotique/systèmes embarqués depuis un moment. Je viens ici pour avoir des avis honnêtes, pas pour promouvoir quoi que ce soit. Le projet s’appelle DISPELDA. L’idée de départ c’est de rendre des petits systèmes embarqués capables de continuer à prendre des décisions locales quand les communications ou le GNSS sont dégradés ou absents, je vise le secteur de La Défense. En clair, déplacer une partie de l’intelligence de décision directement dans la machine au lieu de tout faire dépendre d’une infrastructure extérieure. Je ne fais pas un drone autonome complet, je travaille surtout sur la couche logicielle et matérielle qui pourrait rendre ça possible sur des systèmes contraints. Pour l’instant j’ai un prototype très simple qui tourne sur une STM32 Nucleo F446RE avec une IMU MPU6050. Le firmware est en C, boucle temps réel cible à 200 Hz, pas de malloc, mémoire statique. J’ai un filtre de Madgwick opérationnel et je compare avec un petit modèle type réseau de neurones liquide pour voir ce que ça donne sur ce genre de plateforme. Je sais très bien que ce n’est pas un produit. C’est un POC, et encore, un POC très modeste. Je ne cherche pas de compliments, je cherche des critiques réelles. Ma vraie question c’est la suivante : selon vous, qu’est-ce qui sépare un simple POC technique d’une vraie rupture technologique en robotique embarquée ? Qu’est-ce qu’il faudrait démontrer, mesurer ou construire pour que ce genre de projet devienne crédible à la fois techniquement et commercialement ? Est-ce qu’il y a un angle précis qui vaudrait le coup d’être creusé ? Je suis preneur de retours durs et directs. Merci à ceux qui prendront le temps de répondre.
+
+19m ago
 
 ---
 
@@ -75,36 +107,6 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
 20h ago
-
----
-
-**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
-
-🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
-
-9h ago
-
----
-
-**[Could anyone help? - Family plea to help Rickmansworth 97-year-old fix robot's ankle (From BBC News)](https://www.reddit.com/r/robotics/comments/1voxoqv/could_anyone_help_family_plea_to_help/)**
-
-Malcolm Stern says Toby could be used to educate children once completed.
-
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 5h ago
-
----
-
-**[Day 1 of building an Iron Man helmet from scratch](https://www.reddit.com/r/robotics/comments/1vok55e/day_1_of_building_an_iron_man_helmet_from_scratch/)**
-
-I've decided to build my own Iron Man helmet. The plan is: CAD → 3D print → servos → working helmet Today I started the CAD design from scratch and recorded the whole process as a timelapse. I'm going to post the progress every day and see how far I can take this thing. Day 1 complete. 🦾
-
-16h ago
-
----
-
-**[MK Robot-up graded plane](https://www.reddit.com/r/robotics/comments/1votz7x/mk_robotup_graded_plane/)**
-
-8h ago
 
 ---
 
@@ -130,7 +132,7 @@ The New York Times • 2d ago
 
 Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 

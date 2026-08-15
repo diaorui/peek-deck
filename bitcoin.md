@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T13:54:40.032642+00:00'
+updated: '2026-08-15T14:22:17.477546+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 13:54 UTC  
+**Last Updated:** August 15, 2026 at 14:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw the most random truck today
 
 Everything is under control
 
-42m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Never forget the bigger picture!
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-16h ago
+17h ago
 
 ---
 
@@ -157,7 +157,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ Mashable • 1d ago
 
 Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 22h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 23h ago
+Sacramento Bee • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Sacramento Bee • 23h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 459 • 💬 37 • ⏱️ 15:58 • 18h ago
+👁️ 9K • 👍 459 • 💬 37 • ⏱️ 15:58 • 19h ago
 
 ---
 

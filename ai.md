@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T13:54:40.024727+00:00'
+updated: '2026-08-15T14:22:17.468704+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 13:54 UTC  
+**Last Updated:** August 15, 2026 at 14:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 15h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 16h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 14h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 5h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-blog.google • 22h ago
+blog.google • 23h ago
 
 ---
 
@@ -145,7 +145,7 @@ Engadget • 1h ago
 
 **[AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?](https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399)**
 
-MarketWatch • 54m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ MarketWatch • 54m ago
 
 New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent — vastly outpacing the impact of data centers.
 
-grist.org • 54m ago
+grist.org • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Anthropic • 18h ago
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 336 • 💬 25 • 21h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 336 • 💬 25 • 22h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -215,7 +215,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 A continuously updating analysis of bot vs. human traffic, AI scraping, fetching, search indexing, browsing, robots.txt compliance, and AI chat referrals across 5,000+ websites.
 
-⬆️ 303 • 💬 226 • 2d ago • [Known Agents](https://knownagents.com/insights)
+⬆️ 303 • 💬 226 • 3d ago • [Known Agents](https://knownagents.com/insights)
 
 ---
 
@@ -261,7 +261,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 143 • 💬 160 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 143 • 💬 160 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
@@ -281,7 +281,7 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 
 📺 BBC News
 
-👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 1h ago
+👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 📺 Onevilage
 
-👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 23h ago
+👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,481 • 22h ago
+⬇️ 91,917 • ❤️ 9,481 • 23h ago
 
 ---
 
@@ -443,7 +443,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 898 • 2d ago
+⬇️ 378,439 • ❤️ 898 • 3d ago
 
 ---
 
@@ -729,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 1h ago
+⭐ 2.1k • 🔱 170 • 2h ago
 
 ---
 
