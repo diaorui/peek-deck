@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T20:48:18.654395+00:00'
+updated: '2026-08-15T21:20:47.187469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 20:48 UTC  
+**Last Updated:** August 15, 2026 at 21:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hey! This is a MuJoCo side project I've been working on for a while, with the pl
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-1h ago
+2h ago
 
 ---
 
@@ -124,7 +124,7 @@ nytimes.com • 2d ago
 
 Robotics companies are competing to collect videos of humans stitching shoes and welding steel to give their machines new skills.
 
-Bloomberg.com • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Tech Xplore • 9h ago
 
 A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
 
 ---
 
@@ -200,17 +200,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 949K • 👍 22K • 💬 2K • ⏱️ 7:02 • 4d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 191K • 👍 2K • 💬 503 • ⏱️ 10:16 • 1d ago
+👁️ 952K • 👍 22K • 💬 2K • ⏱️ 7:02 • 4d ago
 
 ---
 
@@ -220,7 +210,27 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 47K • 👍 317 • 💬 86 • ⏱️ 0:22 • 1d ago
+👁️ 49K • 👍 325 • 💬 89 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 195K • 👍 2K • 💬 514 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
+
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
+
+📺 Fox Business Clips
+
+👁️ 40K • 👍 548 • 💬 108 • ⏱️ 7:05 • 4d ago
 
 ---
 
@@ -234,23 +244,13 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 ---
 
-**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
 
-If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
 
-📺 Dr. Know-it-all Knows it all
+📺 Food For Robots
 
-👁️ 3K • 👍 168 • 💬 79 • ⏱️ 21:51 • 2d ago
-
----
-
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 26K • 👍 691 • 💬 21 • ⏱️ 58:18 • 3d ago
+👁️ 28K • 👍 1K • 💬 115 • ⏱️ 18:39 • 3d ago
 
 ---
 
@@ -260,7 +260,17 @@ My family thought they had secured an $80 billion deal and handed everything to 
 
 📺 Venus Drama Stories
 
-👁️ 78K • 👍 2K • 💬 122 • ⏱️ 17:26 • 2d ago
+👁️ 80K • 👍 2K • 💬 124 • ⏱️ 17:26 • 2d ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 26K • 👍 702 • 💬 21 • ⏱️ 58:18 • 3d ago
 
 ---
 
@@ -280,17 +290,7 @@ This striking test reportedly shows a humanoid robot being subjected to direct 2
 
 📺 Valor and Liberty
 
-👁️ 729K • 👍 2K • 💬 128 • ⏱️ 0:07 • 5d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 40K • 👍 548 • 💬 108 • ⏱️ 7:05 • 4d ago
+👁️ 750K • 👍 2K • 💬 131 • ⏱️ 0:07 • 5d ago
 
 ---
 

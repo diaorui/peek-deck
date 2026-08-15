@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T20:48:18.644784+00:00'
+updated: '2026-08-15T21:20:47.179025+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 20:48 UTC  
+**Last Updated:** August 15, 2026 at 21:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.29B
+**Market Cap:** $1265.37B
 Rank #1
 
-**Circulating Supply:** 20,070,637 BTC
+**Circulating Supply:** 20,070,675 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92793.4%
++92874.5%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -115,7 +115,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-5h ago
+6h ago
 
 ---
 
@@ -137,7 +137,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
 
-1h ago
+2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Rodolfo Novak is is doing still many nasty things presenting himself as neutral 
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 51m ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 5h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 7h ago
 
 Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Mashable • 1d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-waff.com • 20h ago
+waff.com • 21h ago
 
 ---
 
@@ -269,7 +269,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 4d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 5d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -285,43 +285,65 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 30K • 👍 497 • 💬 12 • ⏱️ 0:53 • 1d ago
-
----
-
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
-
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 150 • ⏱️ 16:33 • 21h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 2K • 💬 288 • ⏱️ 18:25 • 1d ago
-
----
-
 **[The Fibonacci Level Every Bitcoin Bottom Has in Common](https://www.youtube.com/watch?v=SChwB6dS69U)**
 
 2014. 2018. 2022. Every major Bitcoin cycle low landed on the .786 Fibonacci retracement. This cycle's .786 sits at $39500 — and ...
 
 📺 Krown
 
-👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 7h ago
+👁️ 1K • 👍 50 • 💬 5 • ⏱️ 1:21 • 8h ago
+
+---
+
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 32K • 👍 523 • 💬 12 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[XRP WHALES JUST BOUGHT 72M TOKEN AS PRICE DUMPS! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=SFvTUlwpqJ8)**
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 523 • 💬 56 • ⏱️ 2:29 • 20h ago
+
+---
+
+**[close or trail #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=es3hjnPpQ4E)**
+
+📺 Khuncoin
+
+👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 12h ago
+
+---
+
+**[PPI #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=U4irhev0Cro)**
+
+📺 Khuncoin
+
+👁️ 19K • 👍 295 • 💬 5 • ⏱️ 0:24 • 1d ago
+
+---
+
+**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
+
+📺 CryptoWendyO
+
+👁️ 17K • 👍 1K • 💬 52 • ⏱️ 2:31 • 1d ago
+
+---
+
+**[🚨 XRP CRASH or BULL RUN? Brad Garlinghouse Reveals What&#39;s Coming Next | Ripple Price Prediction](https://www.youtube.com/watch?v=GC6HGtJcSmQ)**
+
+XRP Crash or Bull Run? Brad Garlinghouse Reveals What's Coming Next | XRP Price Prediction Welcome to our LIVE XRP ...
+
+📺 John Saboe
+
+👁️ 7K • 👍 3K • 4h ago
 
 ---
 
@@ -331,57 +353,27 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 105 • 💬 172 • ⏱️ 1:36 • 19h ago
+👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 19h ago
 
 ---
 
-**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
+**[This Missile Burst Costs More Than 40 Bitcoin💀#shorts](https://www.youtube.com/watch?v=xudFziP7mvg)**
 
-America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
+Ever wondered what military shots are worth in Bitcoin? From TOW to Tomahawk, the price goes from 1.5 BTC to a mind-blowing ...
 
-📺 Swan Bitcoin
+📺 Andik222
 
-👁️ 10K • 👍 496 • 💬 44 • ⏱️ 15:58 • 1d ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 33K • 👍 1K • 💬 426 • ⏱️ 18:10 • 2d ago
+👁️ 33K • 👍 368 • 💬 2 • ⏱️ 0:14 • 1d ago
 
 ---
 
-**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 16K • 👍 808 • 💬 214 • ⏱️ 33:51 • 1d ago
-
----
-
-**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
-
-Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 141 • ⏱️ 18:46 • 2d ago
-
----
-
-**[CAUTION: Bitcoin Bulls Are Hanging On By A Knifes Edge! [Next Move’s Here?]](https://www.youtube.com/watch?v=nl96Hi9rWnM)**
-
-Bitcoin is pressing against a critical market structure level and bulls are barely holding the line. In today's live analysis, Kyle Doops ...
-
-📺 Crypto Banter
-
-👁️ 10K • 👍 846 • 💬 16 • ⏱️ 22:01 • 1d ago
+👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 21h ago
 
 ---
 

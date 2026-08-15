@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T20:48:18.635975+00:00'
+updated: '2026-08-15T21:20:47.171192+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 20:48 UTC  
+**Last Updated:** August 15, 2026 at 21:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 11h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 6h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-32m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
 
-55m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-4h ago
+5h ago
 
 ---
 
@@ -125,25 +125,25 @@ AI agents are getting better at making decisions and taking actions on their own
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-reuters.com • 22h ago
+reuters.com • 23h ago
 
 ---
 
 **[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-politico.com • 48m ago
+politico.com • 1h ago
 
 ---
 
 **[AI ‘Chipflation’ Washes Ashore in the UK Economy](https://www.bloomberg.com/news/articles/2026-08-15/ai-chipflation-washes-ashore-in-the-uk-economy?srnd=good-business)**
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 48m ago
 
 May Habib, Co-founder and CEO of Writer, argues that employees won't genuinely adopt AI tools if they fear being replaced. She compares it to 'getting turkeys to vote for Thanksgiving' and says leader...
 
-Yahoo • 48m ago
+Yahoo • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ BBC • 9h ago
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 218 • 💬 187 • 2h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 218 • 💬 187 • 3h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -283,7 +283,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 41K • 👍 1K • 💬 199 • ⏱️ 13:09 • 21h ago
+👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 21h ago
 
 ---
 
@@ -293,7 +293,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 2K • 💬 262 • ⏱️ 34:05 • 1d ago
+👁️ 53K • 👍 2K • 💬 264 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -307,41 +307,33 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 ---
 
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+**[$39B founder: “AI will eat the whole internet”](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
 
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
 
-📺 Higgsfield AI
+📺 My First Million
 
-👁️ 38K • 👍 1K • 💬 213 • ⏱️ 6:06 • 1d ago
-
----
-
-**[Twitch users outraged after content used to train Amazon AI models. #Twitch #AI #BBCNews](https://www.youtube.com/watch?v=Zr6NZ4V19II)**
-
-📺 BBC News
-
-👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 8h ago
+👁️ 17K • 👍 392 • 💬 115 • ⏱️ 58:11 • 1d ago
 
 ---
 
-**[Oneiric | AI Sci-Fi Short Film | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=aAg9iDh9_BQ)**
+**[MORE Bad News for AI (and GOOD news for us!)](https://www.youtube.com/watch?v=UYdOwxqvpzk)**
 
-ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 4 for the $1000000 Higgsfield Global Film ...
+AI Data Centers are being denied more and more as politicians are finally opening their stupid eyes to the impact this is having ...
 
-📺 Higgsfield AI
+📺 JayzTwoCents
 
-👁️ 293K • 👍 16K • 💬 2K • ⏱️ 19:49 • 2d ago
+👁️ 129K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
 
-I explain the news, you stay sane. ✓ Support independent news ...
+Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
 
-📺 Chris Norlund
+📺 AI Revolution
 
-👁️ 139K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 14K • 👍 562 • 💬 59 • ⏱️ 16:41 • 1d ago
 
 ---
 
@@ -351,7 +343,17 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Really American
 
-👁️ 86K • 👍 5K • 💬 706 • ⏱️ 13:10 • 2d ago
+👁️ 86K • 👍 5K • 💬 709 • ⏱️ 13:10 • 2d ago
+
+---
+
+**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 139K • 👍 6K • 💬 2K • ⏱️ 17:04 • 2d ago
 
 ---
 
@@ -359,7 +361,7 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Onevilage
 
-👁️ 1.2M • 👍 28K • 💬 761 • ⏱️ 0:46 • 1d ago
+👁️ 1.2M • 👍 29K • 💬 778 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -367,7 +369,7 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Malaj
 
-👁️ 515K • 👍 13K • 💬 250 • ⏱️ 0:08 • 2d ago
+👁️ 524K • 👍 13K • 💬 253 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,677 • 1d ago
+⬇️ 91,917 • ❤️ 9,735 • 1d ago
 
 ---
 
@@ -395,7 +397,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,566 • 4d ago
+⬇️ 246,454 • ❤️ 1,570 • 4d ago
 
 ---
 
@@ -407,7 +409,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,159 • 14h ago
+⬇️ 867,963 • ❤️ 1,188 • 15h ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 962 • 3d ago
+⬇️ 6,381 • ❤️ 964 • 3d ago
 
 ---
 
@@ -431,7 +433,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 924 • 3d ago
+⬇️ 378,439 • ❤️ 933 • 3d ago
 
 ---
 
@@ -443,7 +445,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,967 • 2d ago
+⬇️ 2,212,155 • ❤️ 3,970 • 2d ago
 
 ---
 
@@ -455,7 +457,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 760 • 1d ago
+⬇️ 5,079 • ❤️ 764 • 1d ago
 
 ---
 
@@ -467,7 +469,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 483 • 2d ago
+⬇️ 19,945 • ❤️ 486 • 2d ago
 
 ---
 
@@ -491,7 +493,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 431 • 5d ago
+⬇️ 682,188 • ❤️ 432 • 5d ago
 
 ---
 
@@ -507,7 +509,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 614 • 💬 2 • ⭐ 2,250 • 6d ago
+▲ 616 • 💬 2 • ⭐ 2,250 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -533,7 +535,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,240 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 98,321 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -548,20 +550,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 53 • 💬 4 • ⭐ 37,264 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
-
-*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
-
-🏢 BAIDU
-
-Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
-
-▲ 80 • 💬 6 • ⭐ 23,795 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -590,6 +578,20 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 ▲ 92 • 💬 1 • ⭐ 1,259 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
+**[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
+
+*Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
+
+🏢 BAIDU
+
+Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
+
+▲ 80 • 💬 6 • ⭐ 23,824 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
 ---
 
@@ -641,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 2h ago
+⭐ 13.6k • 🔱 1.6k • 20s ago
 
 ---
 
@@ -651,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.5k • 🔱 978 • 20h ago
+⭐ 9.6k • 🔱 991 • 21h ago
 
 ---
 
@@ -671,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 441 • 1d ago
+⭐ 5.1k • 🔱 442 • 1d ago
 
 ---
 
@@ -689,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 4h ago
+⭐ 3.1k • 🔱 539 • 5h ago
 
 ---
 
@@ -699,7 +701,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.7k • 🔱 225 • 4d ago
+⭐ 2.7k • 🔱 226 • 4d ago
 
 ---
 
@@ -719,7 +721,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 4d ago
+⭐ 2.5k • 🔱 194 • 37m ago
 
 ---
 
@@ -729,7 +731,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 171 • 8h ago
+⭐ 2.1k • 🔱 172 • 9h ago
 
 ---
 

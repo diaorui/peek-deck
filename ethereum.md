@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T20:48:18.651136+00:00'
+updated: '2026-08-15T21:20:47.184521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 20:48 UTC  
+**Last Updated:** August 15, 2026 at 21:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.02B
+**Market Cap:** $227.15B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+434357.6%
++434604.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
 
-2h ago
+3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 2d ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 1d ago
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 11h ago
+👁️ 4K • 👍 493 • 💬 115 • ⏱️ 34:25 • 12h ago
 
 ---
 
@@ -264,7 +264,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 9h ago
+👁️ 6K • 👍 712 • 💬 196 • ⏱️ 17:49 • 10h ago
 
 ---
 
@@ -274,7 +274,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 31K • 👍 2K • 💬 140 • ⏱️ 8:55 • 2d ago
+👁️ 32K • 👍 2K • 💬 141 • ⏱️ 8:55 • 2d ago
 
 ---
 
@@ -294,27 +294,17 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 19h ago
+👁️ 3K • 👍 163 • 💬 7 • ⏱️ 7:21 • 20h ago
 
 ---
 
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+**[DonAlt Bought ETH (and Thinks It Can Go Back to $4K)](https://www.youtube.com/watch?v=RLPwHDxbvkQ)**
 
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+DonAlt finally bought ETH near resistance, with $4K upside if the market's long compression breaks the right way. Trade crypto ...
 
-📺 Money Rules - Investing Tips 
+📺 TechnicalRoundup
 
-👁️ 11K • 👍 1K • 💬 303 • ⏱️ 11:56 • 1d ago
-
----
-
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 9K • 👍 286 • 💬 8 • ⏱️ 0:31 • 1d ago
+👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 10h ago
 
 ---
 
@@ -324,17 +314,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Stock Moe
 
-👁️ 10K • 👍 544 • 💬 46 • ⏱️ 10:44 • 1d ago
+👁️ 10K • 👍 546 • 💬 46 • ⏱️ 10:44 • 1d ago
 
 ---
 
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
 
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
 
-📺 The Coin Daily
+📺 Fred Opus
 
-👁️ 9K • 👍 3 • 💬 1 • ⏱️ 6:17 • 1d ago
+👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 13h ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 10K • 👍 293 • 💬 9 • ⏱️ 0:31 • 1d ago
 
 ---
 
