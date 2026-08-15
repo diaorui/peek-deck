@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T14:22:17.483851+00:00'
+updated: '2026-08-15T14:48:40.184557+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 14:22 UTC  
+**Last Updated:** August 15, 2026 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.51B
+**Market Cap:** $227.00B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433429.1%
++434311.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 20h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 21h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Currently.com • 3h ago
+Currently.com • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 19h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 14h ago
+CryptoSlate • 15h ago
 
 ---
 
@@ -224,23 +224,13 @@ The Block • 2d ago
 
 Fidelity’s S-3 filing would let FETH stake up to 100% of its Ethereum, paying aggregate staking fees of 15% of rewards
 
-FinanceFeeds • 19h ago
+FinanceFeeds • 20h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
-
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
-
-📺 The Modern Investor
-
-👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 5h ago
-
----
 
 **[Crypto Holders - IT&#39;S A TRAP! Ethereum will EXPLODE!!?](https://www.youtube.com/watch?v=st_sKcHrVQw)**
 
@@ -252,33 +242,13 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 ---
 
-**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
 
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
 
-📺 Money Rules - Investing Tips 
+📺 The Modern Investor
 
-👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 3h ago
-
----
-
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 13h ago
-
----
-
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 14K • 👍 1K • 💬 386 • ⏱️ 12:21 • 2d ago
+👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 5h ago
 
 ---
 
@@ -288,27 +258,37 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 30K • 👍 2K • 💬 139 • ⏱️ 8:55 • 2d ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 8:55 • 2d ago
 
 ---
 
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
 
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
 
-📺 Stock Moe
+📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 537 • 💬 42 • ⏱️ 10:44 • 1d ago
+👁️ 14K • 👍 1K • 💬 387 • ⏱️ 12:21 • 2d ago
 
 ---
 
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
 
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 The Coin Daily
+📺 More Crypto Online
 
-👁️ 3K • 👍 2 • ⏱️ 6:17 • 21h ago
+👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 13h ago
+
+---
+
+**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 3h ago
 
 ---
 
@@ -318,17 +298,37 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 264 • ⏱️ 11:56 • 1d ago
+👁️ 11K • 👍 1K • 💬 332 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+**[Smart Money Is Buying BMNR - Why ETH Could Be Ready to Explode!](https://www.youtube.com/watch?v=toxMEUIrImE)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are all starting to line up in a way that could set the ...
 
-📺 Crypto Crew University
+📺 Big Time Trades
 
-👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 22h ago
+👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 16h ago
+
+---
+
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 540 • 💬 52 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 6K • 👍 3 • ⏱️ 6:17 • 21h ago
 
 ---
 

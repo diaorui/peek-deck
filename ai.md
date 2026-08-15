@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T14:22:17.468704+00:00'
+updated: '2026-08-15T14:48:40.169779+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 14:22 UTC  
+**Last Updated:** August 15, 2026 at 14:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ It should’ve been obvious that after AI’s gained legal personhood, (which wa
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 16h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 17h ago
 
 ---
 
@@ -161,13 +161,13 @@ grist.org • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
 **[Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 23h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 18h ago
+Anthropic • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ Reuters • 16h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 439 • 💬 262 • 22h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 439 • 💬 262 • 23h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -241,7 +241,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 195 • 23h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 195 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -277,21 +277,13 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 
 ## YouTube Videos: "ai"
 
-**[Twitch users outraged after content used to train Amazon AI models. #Twitch #AI #BBCNews](https://www.youtube.com/watch?v=Zr6NZ4V19II)**
-
-📺 BBC News
-
-👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 2h ago
-
----
-
 **[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
 
 Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 177 • ⏱️ 13:09 • 14h ago
+👁️ 35K • 👍 1K • 💬 182 • ⏱️ 13:09 • 15h ago
 
 ---
 
@@ -301,7 +293,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Higgsfield AI
 
-👁️ 243K • 👍 14K • 💬 2K • ⏱️ 19:49 • 2d ago
+👁️ 260K • 👍 15K • 💬 2K • ⏱️ 19:49 • 2d ago
 
 ---
 
@@ -311,7 +303,7 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Really American
 
-👁️ 84K • 👍 5K • 💬 702 • ⏱️ 13:10 • 2d ago
+👁️ 85K • 👍 5K • 💬 704 • ⏱️ 13:10 • 2d ago
 
 ---
 
@@ -321,7 +313,17 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 134 • ⏱️ 17:01 • 2d ago
+👁️ 34K • 👍 1K • 💬 133 • ⏱️ 17:01 • 2d ago
+
+---
+
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+
+📺 Higgsfield AI
+
+👁️ 35K • 👍 977 • 💬 205 • ⏱️ 6:06 • 1d ago
 
 ---
 
@@ -335,39 +337,41 @@ Why should people read something you couldn't be bothered to write?” Author an
 
 ---
 
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 1d ago
-
----
-
 **[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
 
 I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 137K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 138K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
 
 ---
 
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+📺 Onevilage
 
-📺 Higgsfield AI
-
-👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 1d ago
+👁️ 1.1M • 👍 26K • 💬 718 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[AI Vs All Artists! 💀](https://www.youtube.com/watch?v=1q_rkOi7pdk)**
+**[MORE Bad News for AI (and GOOD news for us!)](https://www.youtube.com/watch?v=UYdOwxqvpzk)**
 
-📺 Malaj
+AI Data Centers are being denied more and more as politicians are finally opening their stupid eyes to the impact this is having ...
 
-👁️ 496K • 👍 12K • 💬 245 • ⏱️ 0:08 • 2d ago
+📺 JayzTwoCents
+
+👁️ 124K • 👍 8K • 💬 2K • ⏱️ 21:07 • 1d ago
+
+---
+
+**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
+
+10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
+
+📺 Nas Daily
+
+👁️ 139K • 👍 4K • 💬 187 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -383,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,481 • 23h ago
+⬇️ 91,917 • ❤️ 9,562 • 23h ago
 
 ---
 
@@ -395,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,548 • 3d ago
+⬇️ 246,454 • ❤️ 1,554 • 3d ago
 
 ---
 
@@ -407,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,008 • 8h ago
+⬇️ 867,963 • ❤️ 1,064 • 8h ago
 
 ---
 
@@ -419,7 +423,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 949 • 3d ago
+⬇️ 6,381 • ❤️ 951 • 3d ago
 
 ---
 
@@ -431,7 +435,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,953 • 2d ago
+⬇️ 2,212,155 • ❤️ 3,962 • 2d ago
 
 ---
 
@@ -443,7 +447,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 898 • 3d ago
+⬇️ 378,439 • ❤️ 909 • 3d ago
 
 ---
 
@@ -455,7 +459,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 730 • 1d ago
+⬇️ 5,079 • ❤️ 745 • 1d ago
 
 ---
 
@@ -467,7 +471,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,402 • 14d ago
+⬇️ 1,798,247 • ❤️ 3,409 • 14d ago
 
 ---
 
@@ -479,7 +483,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 462 • 1d ago
+⬇️ 19,945 • ❤️ 467 • 1d ago
 
 ---
 
@@ -491,7 +495,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 426 • 4d ago
+⬇️ 682,188 • ❤️ 428 • 4d ago
 
 ---
 
@@ -507,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 609 • 💬 2 • ⭐ 1,997 • 5d ago
+▲ 611 • 💬 2 • ⭐ 1,997 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -551,20 +555,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
-
-*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
-
-🏢 MatrAIx
-
-MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
-
-▲ 38 • 💬 2 • ⭐ 1,033 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
-
----
-
 **[Unlimited OCR Works](https://huggingface.co/papers/2606.23050)**
 
 *Youyang Yin, Huanhuan Liu, YY et al. (17 authors)*
@@ -576,6 +566,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 ▲ 80 • 💬 6 • ⭐ 23,795 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
+
+---
+
+**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
+
+*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
+
+🏢 MatrAIx
+
+MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
+
+▲ 38 • 💬 2 • ⭐ 1,051 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
 ---
 
@@ -600,7 +604,7 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,064 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,104 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -612,7 +616,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentation by capturing detailed and structural cues, improving localization and edge sharpness compared to traditional methods.
 
-▲ 0 • 💬 0 • ⭐ 857 • 41mo ago
+▲ 0 • 💬 0 • ⭐ 914 • 41mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
 
@@ -641,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 11h ago
+⭐ 13.6k • 🔱 1.6k • 12h ago
 
 ---
 
@@ -651,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.2k • 🔱 935 • 14h ago
+⭐ 9.3k • 🔱 950 • 14h ago
 
 ---
 
@@ -661,7 +665,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 999 • 1d ago
+⭐ 8.5k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -671,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 437 • 1d ago
+⭐ 5.1k • 🔱 439 • 1d ago
 
 ---
 
@@ -689,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 538 • 2d ago
+⭐ 3.1k • 🔱 539 • 2d ago
 
 ---
 

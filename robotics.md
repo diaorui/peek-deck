@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T14:22:17.487321+00:00'
+updated: '2026-08-15T14:48:40.187873+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 14:22 UTC  
+**Last Updated:** August 15, 2026 at 14:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
-12h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
 
-16h ago
+17h ago
 
 ---
 
@@ -68,7 +68,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-54m ago
+1h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hey! This is a MuJoCo side project I've been working on for a while, with the pl
 
 🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
 
-9h ago
+10h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey! This is a MuJoCo side project I've been working on for a while, with the pl
 
 So, a bit of self-promotion here, but I suspect a lot of you might have run into the same integration headache I did with my project. My thesis was all about using reinforcement learning to keep robot arms from hitting those tricky kinematic singularities. The challenge? The obstacles were moving around unpredictably. To even get to the training phase, I needed a fully connected system: from the URDF model all the way through kinematics, dynamics, planning, control, simulation, and perception. The idea was for the AI agent to see a real obstacle and react based on an actual dynamic model, not some simplified version. And honestly, nothing out there really covered that whole spectrum. You've got MoveIt for planning, sure, but integrating sensors meant building custom ROS nodes from scratch, and there was no GPU acceleration. Pinocchio is impressively fast, but it's CPU-only, and you're left to figure out how to sync perception and planning yourself. CuRobo offers GPU planning and collision checking, but you're on your own for the perception pipeline and closed-loop control. The Python Robotics Toolbox is great for learning the algorithms, but simulation, control, and vision are up to you. So, before I could train a single AI policy, I had to build that integration layer. That's what eventually became ManipulaPy, with its SerialManipulator and ManipulatorDynamics classes forming the foundation for everything else in the library. After my thesis was done, I submitted the code to the Journal of Open Source Software. What really surprised me was how much the review process actually improved the project. JOSS doesn't just check if the code runs; they require a genuine commitment to maintain it. That commitment is what kept it alive after I graduated, instead of it ending up like so many other thesis repositories that just fade away. Where it stands now – it's been peer-reviewed and published in JOSS (October 2025), and we just shipped version 1.4: * The same kinematics and dynamics code now works with NumPy, CuPy, PyTorch, or JAX, all accessed through a single API. Plus, you get real automatic differentiation gradients with PyTorch and JAX. * It comes with 25 robots out of the box – UR, Franka, Kinova, KUKA, Fanuc, ABB, xArm, Robotiq – you can just load them by name, no need to mess with ROS workspaces or mesh files. * It has a native URDF parser that handles `package://` paths and works even if ROS isn't installed. * It integrates with PyBullet for simulation, and we've got CUDA trajectory kernels that automatically switch back to the CPU when the batch size is too small to make using the GPU worthwhile. You can grab it with pip install ManipulaPy. Here are the links: Repo, Docs, Paper. It's under AGPL-3.0. Genuine question for this community: for those of you working with robot arms, is that integration layer still the part you end up rebuilding every single time? I'm curious if this is a common problem or if it was just specific to my setup.
 
-16h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 Salut à tous, Je me présente rapidement : je suis un jeune autodidacte français, j’ai arrêté les études et je bosse seul sur un projet de robotique/systèmes embarqués depuis un moment. Je viens ici pour avoir des avis honnêtes, pas pour promouvoir quoi que ce soit. Le projet s’appelle DISPELDA. L’idée de départ c’est de rendre des petits systèmes embarqués capables de continuer à prendre des décisions locales quand les communications ou le GNSS sont dégradés ou absents, je vise le secteur de La Défense. En clair, déplacer une partie de l’intelligence de décision directement dans la machine au lieu de tout faire dépendre d’une infrastructure extérieure. Je ne fais pas un drone autonome complet, je travaille surtout sur la couche logicielle et matérielle qui pourrait rendre ça possible sur des systèmes contraints. Pour l’instant j’ai un prototype très simple qui tourne sur une STM32 Nucleo F446RE avec une IMU MPU6050. Le firmware est en C, boucle temps réel cible à 200 Hz, pas de malloc, mémoire statique. J’ai un filtre de Madgwick opérationnel et je compare avec un petit modèle type réseau de neurones liquide pour voir ce que ça donne sur ce genre de plateforme. Je sais très bien que ce n’est pas un produit. C’est un POC, et encore, un POC très modeste. Je ne cherche pas de compliments, je cherche des critiques réelles. Ma vraie question c’est la suivante : selon vous, qu’est-ce qui sépare un simple POC technique d’une vraie rupture technologique en robotique embarquée ? Qu’est-ce qu’il faudrait démontrer, mesurer ou construire pour que ce genre de projet devienne crédible à la fois techniquement et commercialement ? Est-ce qu’il y a un angle précis qui vaudrait le coup d’être creusé ? Je suis preneur de retours durs et directs. Merci à ceux qui prendront le temps de répondre.
 
-19m ago
+46m ago
 
 ---
 
@@ -100,13 +100,13 @@ Salut à tous, Je me présente rapidement : je suis un jeune autodidacte frança
 
 Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
 
-14h ago
+15h ago
 
 ---
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -148,7 +148,7 @@ Bloomberg.com • 2d ago
 
 Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Robot Report • 1h ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 21h ago
+NASA (.gov) • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2d ago
 
 **[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
 
-Tech Xplore • 2h ago
+Tech Xplore • 3h ago
 
 ---
 
@@ -194,23 +194,33 @@ Tech Xplore • 2h ago
 
 ## YouTube Videos: "robotics"
 
+**[The World’s First Flying Transformable Humanoid Robot?](https://www.youtube.com/watch?v=pK5_R4SNjWA)**
+
+What if the closest thing yet to a real-life Transformer is being built in Shenzhen? Arkshel Robotics has unveiled the MX01, ...
+
+📺 Kalil 4.0
+
+👁️ 673 • 👍 40 • 💬 2 • ⏱️ 7:46 • 4h ago
+
+---
+
 **[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
 Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
 📺 Fireship
 
-👁️ 952K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
+👁️ 943K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
 
 ---
 
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
 
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
 
-📺 TIME
+📺 Страна Возможностей
 
-👁️ 166K • 👍 2K • 💬 448 • ⏱️ 10:16 • 17h ago
+👁️ 42K • 👍 300 • 💬 84 • ⏱️ 0:22 • 1d ago
 
 ---
 
@@ -220,27 +230,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 25K • 👍 677 • 💬 20 • ⏱️ 58:18 • 2d ago
-
----
-
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
-
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
-
-📺 Guardian News
-
-👁️ 39K • 👍 461 • 💬 126 • ⏱️ 3:48 • 3d ago
-
----
-
-**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
-
-FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
-
-📺 Julia McCoy
-
-👁️ 61K • 👍 2K • 💬 238 • ⏱️ 9:02 • 6d ago
+👁️ 25K • 👍 678 • 💬 20 • ⏱️ 58:18 • 2d ago
 
 ---
 
@@ -260,7 +250,37 @@ If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pa
 
 📺 Dr. Know-it-all Knows it all
 
-👁️ 2K • 👍 164 • 💬 75 • ⏱️ 21:51 • 1d ago
+👁️ 3K • 👍 165 • 💬 77 • ⏱️ 21:51 • 1d ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 39K • 👍 463 • 💬 126 • ⏱️ 3:48 • 3d ago
+
+---
+
+**[$1.4 Billion Robot &quot;Died&quot; on Stage](https://www.youtube.com/watch?v=7KTiXWvw7mc)**
+
+FREE GUIDE: The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/ A robot just raised its fist at a Qualcomm ...
+
+📺 Julia McCoy
+
+👁️ 61K • 👍 2K • 💬 238 • ⏱️ 9:02 • 6d ago
+
+---
+
+**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
+
+This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
+
+📺 Valor and Liberty
+
+👁️ 706K • 👍 2K • 💬 127 • ⏱️ 0:07 • 4d ago
 
 ---
 
@@ -271,26 +291,6 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 📺 Fox Business Clips
 
 👁️ 40K • 👍 548 • 💬 108 • ⏱️ 7:05 • 3d ago
-
----
-
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 25K • 👍 1K • 💬 106 • ⏱️ 18:39 • 3d ago
-
----
-
-**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
-
-In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
-
-📺 freeCodeCamp.org
-
-👁️ 36K • 👍 2K • 💬 35 • ⏱️ 6:49:12 • 4d ago
 
 ---
 
