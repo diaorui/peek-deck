@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T18:28:53.108477+00:00'
+updated: '2026-08-15T18:58:21.726111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 18:28 UTC  
+**Last Updated:** August 15, 2026 at 18:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.21B
+**Market Cap:** $1264.29B
 Rank #1
 
-**Circulating Supply:** 20,070,565 BTC
+**Circulating Supply:** 20,070,637 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92862.7%
++92793.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-14h ago
+15h ago
 
 ---
 
@@ -129,7 +129,7 @@ $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO 
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-2h ago
+3h ago
 
 ---
 
@@ -153,11 +153,11 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 ## Google News: "bitcoin"
 
-**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
+**[Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city](https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city)**
 
-LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
+The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-The Block • 23h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 23h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -177,19 +177,19 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options)**
+
+Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
+
+CoinDesk • 3h ago
+
+---
+
 **[Is Bitcoin a Buy at $63,000? We Asked 3 AI Models](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-63-000-asked-171425984.html)**
 
 ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Wall Street Only Looked Like This in 1929 and 2000: What It Means for Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/wall-street-only-looked-1929-143134270.html)**
-
-The S&P 500 CAPE ratio nears historic highs. Here is what stretched equity valuations could mean for Bitcoin.
-
-Yahoo Finance • 3h ago
 
 ---
 
@@ -201,11 +201,19 @@ Mashable • 1d ago
 
 ---
 
-**[Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city](https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city)**
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
 
-The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-CoinDesk • 3h ago
+Sacramento Bee • 1d ago
+
+---
+
+**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
+
+LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
+
+The Block • 23h ago
 
 ---
 
@@ -217,17 +225,11 @@ WAFF • 18h ago
 
 ---
 
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+**[Bitcoin Falls as Regulatory Hopes Are Dashed](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-regulatory-hopes-dashed-152533318.html)**
 
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+Crypto investors got a letdown this week–and not just from bitcoin prices.
 
-Sacramento Bee • 1d ago
-
----
-
-**[Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
-
-Investing.com • 8h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -255,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 14h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 15h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -285,53 +287,23 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 30K • 👍 497 • 💬 12 • ⏱️ 0:53 • 1d ago
+
+---
+
 **[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
 One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 19h ago
-
----
-
-**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
-
-America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
-
-📺 Swan Bitcoin
-
-👁️ 10K • 👍 482 • 💬 50 • ⏱️ 15:58 • 23h ago
-
----
-
-**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 798 • 💬 214 • ⏱️ 33:51 • 1d ago
-
----
-
-**[CAUTION: Bitcoin Bulls Are Hanging On By A Knifes Edge! [Next Move’s Here?]](https://www.youtube.com/watch?v=nl96Hi9rWnM)**
-
-Bitcoin is pressing against a critical market structure level and bulls are barely holding the line. In today's live analysis, Kyle Doops ...
-
-📺 Crypto Banter
-
-👁️ 10K • 👍 844 • 💬 16 • ⏱️ 22:01 • 1d ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 32K • 👍 1K • 💬 447 • ⏱️ 18:10 • 2d ago
+👁️ 19K • 👍 1K • 💬 150 • ⏱️ 16:33 • 19h ago
 
 ---
 
@@ -341,47 +313,77 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 279 • ⏱️ 18:25 • 1d ago
+👁️ 35K • 👍 2K • 💬 288 • ⏱️ 18:25 • 1d ago
 
 ---
 
-**[How to Retire Off Bitcoin Even in a Bear Market with Mark Moss](https://www.youtube.com/watch?v=_Fg4wdsp7kI)**
+**[The Fibonacci Level Every Bitcoin Bottom Has in Common](https://www.youtube.com/watch?v=SChwB6dS69U)**
 
-Can you really retire off Bitcoin — even if the price drops 50%? Mark Moss returns to Coin Stories to explain why he believes you ...
+2014. 2018. 2022. Every major Bitcoin cycle low landed on the .786 Fibonacci retracement. This cycle's .786 sits at $39500 — and ...
+
+📺 Krown
+
+👁️ 1K • 👍 40 • 💬 5 • ⏱️ 1:21 • 5h ago
+
+---
+
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
 
 📺 Natalie Brunell
 
-👁️ 23K • 👍 844 • 💬 86 • ⏱️ 1:11:42 • 2d ago
+👁️ 3K • 👍 105 • 💬 172 • ⏱️ 1:36 • 17h ago
 
 ---
 
-**[Goldman Sachs wants to turn Bitcoin into income](https://www.youtube.com/watch?v=a5p03Ssw4lA)**
+**[The Money Printer ENDGAME: Bitcoin’s Biggest Bull Case Is Unfolding](https://www.youtube.com/watch?v=b7qjzokwW_A)**
 
-Crypto companies are increasingly building businesses that don't depend on crypto booming forever. In this episode of The Daily ...
+America is borrowing at a staggering pace, bond yields are flashing warning signs, growth is weakening, inflation remains ...
 
-📺 Yahoo Finance
+📺 Swan Bitcoin
 
-👁️ 7K • 👍 321 • 💬 96 • ⏱️ 14:52 • 2d ago
-
----
-
-**[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
-
-Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 427 • 💬 366 • ⏱️ 16:10 • 2d ago
+👁️ 10K • 👍 496 • 💬 44 • ⏱️ 15:58 • 23h ago
 
 ---
 
-**[Bitcoin Is Stuck While Stocks Keep Ripping | Fidelity’s Jurrien Timmer](https://www.youtube.com/watch?v=MryPJJGEFtk)**
+**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
 
-Bitcoin #Crypto #Finance Tether completes its first full Big Four audit, strengthening confidence in USDT's reserves and ...
+The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
 
-📺 The Wolf Of All Streets
+📺 Dana Love, PhD
 
-👁️ 10K • 👍 512 • 💬 205 • ⏱️ 50:16 • 1d ago
+👁️ 33K • 👍 1K • 💬 426 • ⏱️ 18:10 • 2d ago
+
+---
+
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 808 • 💬 214 • ⏱️ 33:51 • 1d ago
+
+---
+
+**[Did Trump and BlackRock Just Confirm a $200K Bitcoin Explosion?!](https://www.youtube.com/watch?v=XPoCLJ_pHk4)**
+
+Larry Fink says trillions will be needed for the AI buildout while Trump Media quietly adds thousands of Bitcoin to its balance sheet ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 3K • 💬 141 • ⏱️ 18:46 • 2d ago
+
+---
+
+**[CAUTION: Bitcoin Bulls Are Hanging On By A Knifes Edge! [Next Move’s Here?]](https://www.youtube.com/watch?v=nl96Hi9rWnM)**
+
+Bitcoin is pressing against a critical market structure level and bulls are barely holding the line. In today's live analysis, Kyle Doops ...
+
+📺 Crypto Banter
+
+👁️ 10K • 👍 846 • 💬 16 • ⏱️ 22:01 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T18:28:53.115208+00:00'
+updated: '2026-08-15T18:58:21.729760+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 18:28 UTC  
+**Last Updated:** August 15, 2026 at 18:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.1%  
 **7d:** -1.4%  
 **30d:** +2.2%  
 **90d:** -11.6%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.23B
+**Market Cap:** $227.02B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.0%
 
 **All-Time Low:** $0.43
-+434738.6%
++434357.6%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 13h ago
+
+---
+
+**[Kiln Staking Withdrawal](https://www.reddit.com/r/ethereum/comments/1vpa136/kiln_staking_withdrawal/)**
+
+Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
+
+39m ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion August 11, 2026](https://www.reddit.com/r/ethereum/comments/1vl7z30/daily_general_discussion_august_11_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,7 +172,7 @@ CoinDesk • 6h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -208,9 +208,9 @@ The Motley Fool • 7h ago
 
 ---
 
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
+**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://etfdb.com/monthly-income-content-hub/nehi-pays-investors-wait/)**
 
-ETF Trends • 1d ago
+ETF Database • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ The Block • 2d ago
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 126 • ⏱️ 9:22 • 2d ago
+👁️ 34K • 👍 2K • 💬 127 • ⏱️ 9:22 • 2d ago
 
 ---
 
@@ -248,17 +248,17 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 419 • 💬 112 • ⏱️ 34:25 • 9h ago
+👁️ 4K • 👍 469 • 💬 156 • ⏱️ 34:25 • 9h ago
 
 ---
 
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
+**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
 
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 14K • 👍 1K • 💬 387 • ⏱️ 12:21 • 2d ago
+👁️ 5K • 👍 655 • 💬 192 • ⏱️ 17:49 • 7h ago
 
 ---
 
@@ -272,13 +272,13 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
 
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 324 • ⏱️ 11:56 • 1d ago
+👁️ 14K • 👍 1K • 💬 387 • ⏱️ 12:21 • 2d ago
 
 ---
 
@@ -288,37 +288,17 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 7 • ⏱️ 7:21 • 17h ago
+👁️ 2K • 👍 158 • 💬 7 • ⏱️ 7:21 • 17h ago
 
 ---
 
-**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
 
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 566 • 💬 198 • ⏱️ 17:49 • 7h ago
-
----
-
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
-
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
-
-📺 The Coin Daily
-
-👁️ 8K • 👍 3 • 💬 2 • ⏱️ 6:17 • 1d ago
-
----
-
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 541 • 💬 51 • ⏱️ 10:44 • 1d ago
+👁️ 11K • 👍 1K • 💬 303 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -328,7 +308,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 9K • 👍 272 • 💬 8 • ⏱️ 0:31 • 1d ago
+👁️ 9K • 👍 286 • 💬 8 • ⏱️ 0:31 • 1d ago
+
+---
+
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 544 • 💬 46 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 9K • 👍 3 • 💬 1 • ⏱️ 6:17 • 1d ago
 
 ---
 

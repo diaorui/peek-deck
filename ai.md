@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T18:28:53.097412+00:00'
+updated: '2026-08-15T18:58:21.720883+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 18:28 UTC  
+**Last Updated:** August 15, 2026 at 18:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI agents are getting better at making decisions and taking actions on their own
 
 For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon. Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace. But the constraint shifting into 2026 isn't intelligence anymore. Recent conflicts have made the case in hardware: cheap, expendable drones you don't mind losing often win on cost-efficiency against exquisite, million-dollar precision systems — which means the company that wins isn't necessarily the one with the smartest model, it's the one that can turn it into thousands of physical units a month. The same pattern shows up outside defense: the bottleneck to shipping AI keeps moving. First it was models, then data, then compute — now, in categories that touch the physical world, it's factories. Worth remembering next time "AI-native" is the whole pitch. Increasingly, it's necessary but not sufficient.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,15 +105,15 @@ For the last three years, the defense tech story was: better sensors, better mod
 
 https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forward-deployed engineers, AI transformation people, because they can do the work of 10, 100 people." That's the role that survives this — already a real hiring category, not a future one. LinkedIn's own data has it growing 42x since 2023, priced $127K–$265K+ at the labs actually building this. That's the part that should sit heavier than the digital-double line. It's not that your job disappears. It's that a different job, already priced and already hiring, opens up a few rungs above where you're standing — and most of us don't have a clean path into it yet. I've watched a smaller, slower version of this exact move before. No AI involved — just a stamp and a highlighter. Hmm... this one really gets me out of my chair and pace around my living room, so let me try to recall it properly. When I was working as a Technical Engineer in the Tender Department of one of the largest main contractors in Malaysia — there was a skill we always used. Fair warning, I'm sharing privileged information here. Well... it's probably an open secret in the industry anyway. Whenever we tendered for a project — let's say Malaysian Airlines (MAS), widening a runway for their newly-bought Airbus A380 — we'd hit the parts that were out of our expertise. Airway lighting, drainage, flight angles, height restrictions. So we did the natural thing: called for outside help. Engaged specialized sub-contractors who'd done airway pavements before, to hand us the technical know-how and their quotation. We knew full well these sub-contractors were already MAS's long-time maintenance contractors — it was just a matter of time before they'd be folded under our main contract anyway. So when they submitted their technical documents, we stripped their company logo, re-arranged it, added our own branded wording, our own logos. Woalah. It was now our own internal technical know-how. We'd suddenly become experts in pavement-widening and hangar works. We didn't get the job, though. We all knew that tender was just for show — a comparison exercise to cross-check MAS's already-chosen main contractor. But the knowledge we gathered from those specialists was now folded into our own knowledge vault. Our own proprietary knowledge. Are we stealing? I wouldn't use that word. When there's a problem, the client comes after us — not our subcontractors. So to properly solve it, we have to own the knowledge too. The right word might be "necessary." https://preview.redd.it/lkn6gis5yjjh1.jpg?width=1024&format=pjpg&auto=webp&s=adbb096873b0ea6de01f5084eba7a6e8731c6b21 ———— Every version of this mechanism arrives wearing the same word. Ours was "necessary." This one's wearing "efficiency." Actually — a post I put up about the same compression logic, just running through one operator instead of a stripped logo came to mind while writing this one. Drop your take — where's the line between "necessary" and something with a worse name? Clip credit: The Beyond Tomorrow Podcast with Julian Issa — full video on their channel. DM for credit or removal requests.
 
-3h ago
+4h ago
 
 ---
 
-**[Do those who aspire to "natural language programming" with AI consider that debugging will involve couples therapy? 🤣](https://www.reddit.com/r/artificial/comments/1voy2os/do_those_who_aspire_to_natural_language/)**
+**[Foto in costume o slip sexy](https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/)**
 
-Of course this is amusing. It's also intended in Ig Nobel spirit.
+Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-9h ago
+10h ago
 
 ---
 
@@ -129,9 +129,37 @@ The Guardian • 10h ago
 
 ---
 
+**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+
+Reuters • 21h ago
+
+---
+
+**[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
+
+WSJ • 46m ago
+
+---
+
+**[Andrew Yang warns of 'catastrophic threats' of AI](https://www.foxnews.com/video/6403472453112)**
+
+Noble Mobile CEO Andrew Yang lays out three 'catastrophic' threats posed by artificial intelligence.
+
+Fox News • 21m ago
+
+---
+
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 8h ago
+Axios • 9h ago
+
+---
+
+**[Law School introduces largely permissive AI policy](https://www.columbiaspectator.com/news/2026/08/15/law-school-introduces-largely-permissive-ai-policy/)**
+
+The Law School introduced a largely permissive policy on generative artificial intelligence this month that allows students to use AI as a “learning aid” but continues to bar its use to generate submitted content.
+
+columbiaspectator.com • 57m ago
 
 ---
 
@@ -143,37 +171,11 @@ Spectrum Bay News 9 • 17h ago
 
 ---
 
-**[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
-
-nytimes.com • 23h ago
-
----
-
-**[Teens are turning to AI chatbots for emotional support – here’s how to keep kids safe](https://www.woodtv.com/news/nexstar-media-wire/teens-are-turning-to-ai-chatbots-for-emotional-support-heres-how-to-keep-kids-safe/)**
-
-WOODTV.com • 1h ago
-
----
-
-**[SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)**
-
-AI coding startup Cursor is now officially a part of SpaceX.
-
-TechCrunch • 1h ago
-
----
-
 **[How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)**
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
 Anthropic • 23h ago
-
----
-
-**[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
-
-WSJ • 8h ago
 
 ---
 
@@ -189,7 +191,7 @@ BBC • 7h ago
 
 One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-Business Insider • 23h ago
+businessinsider.com • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ Business Insider • 23h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 465 • 💬 270 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 472 • 💬 275 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -209,7 +211,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 342 • 💬 28 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 345 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -228,6 +230,14 @@ I would like you to know that we passengers are trying our best.
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
 ⬆️ 202 • 💬 256 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+
+---
+
+**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
+
+Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
+
+⬆️ 182 • 💬 126 • 8h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -255,15 +265,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 143 • 💬 160 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
-
----
-
-**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
-
-Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
-
-⬆️ 140 • 💬 102 • 7h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 144 • 💬 160 • 2d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 
 ---
 
@@ -285,7 +287,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 38K • 👍 1K • 💬 186 • ⏱️ 13:09 • 18h ago
+👁️ 41K • 👍 1K • 💬 199 • ⏱️ 13:09 • 19h ago
 
 ---
 
@@ -295,7 +297,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 261 • ⏱️ 34:05 • 1d ago
+👁️ 51K • 👍 2K • 💬 262 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -315,27 +317,15 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 37K • 👍 1K • 💬 211 • ⏱️ 6:06 • 1d ago
+👁️ 38K • 👍 1K • 💬 213 • ⏱️ 6:06 • 1d ago
 
 ---
 
-**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
+**[Twitch users outraged after content used to train Amazon AI models. #Twitch #AI #BBCNews](https://www.youtube.com/watch?v=Zr6NZ4V19II)**
 
-Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
+📺 BBC News
 
-📺 The Tech Report
-
-👁️ 151K • 👍 5K • 💬 1K • ⏱️ 32:08 • 3d ago
-
----
-
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
-
-I explain the news, you stay sane. ✓ Support independent news ...
-
-📺 Chris Norlund
-
-👁️ 138K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 6K • 👍 216 • 💬 16 • ⏱️ 1:00 • 6h ago
 
 ---
 
@@ -345,7 +335,17 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Higgsfield AI
 
-👁️ 277K • 👍 16K • 💬 2K • ⏱️ 19:49 • 2d ago
+👁️ 293K • 👍 16K • 💬 2K • ⏱️ 19:49 • 2d ago
+
+---
+
+**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 139K • 👍 5K • 💬 2K • ⏱️ 17:04 • 2d ago
 
 ---
 
@@ -355,17 +355,7 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Really American
 
-👁️ 85K • 👍 5K • 💬 705 • ⏱️ 13:10 • 2d ago
-
----
-
-**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
-
-MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
-
-📺 MS NOW
-
-👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 17h ago
+👁️ 86K • 👍 5K • 💬 706 • ⏱️ 13:10 • 2d ago
 
 ---
 
@@ -373,7 +363,15 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 Onevilage
 
-👁️ 1.1M • 👍 27K • 💬 745 • ⏱️ 0:46 • 1d ago
+👁️ 1.2M • 👍 28K • 💬 761 • ⏱️ 0:46 • 1d ago
+
+---
+
+**[AI Vs All Artists! 💀](https://www.youtube.com/watch?v=1q_rkOi7pdk)**
+
+📺 Malaj
+
+👁️ 515K • 👍 13K • 💬 250 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,622 • 1d ago
+⬇️ 91,917 • ❤️ 9,677 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,561 • 3d ago
+⬇️ 246,454 • ❤️ 1,566 • 3d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,117 • 12h ago
+⬇️ 867,963 • ❤️ 1,159 • 13h ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 957 • 3d ago
+⬇️ 6,381 • ❤️ 962 • 3d ago
 
 ---
 
@@ -437,7 +435,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 917 • 3d ago
+⬇️ 378,439 • ❤️ 924 • 3d ago
 
 ---
 
@@ -449,7 +447,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,965 • 2d ago
+⬇️ 2,212,155 • ❤️ 3,967 • 2d ago
 
 ---
 
@@ -461,7 +459,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 753 • 1d ago
+⬇️ 5,079 • ❤️ 760 • 1d ago
 
 ---
 
@@ -473,7 +471,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 475 • 2d ago
+⬇️ 19,945 • ❤️ 483 • 2d ago
 
 ---
 
@@ -485,7 +483,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,413 • 14d ago
+⬇️ 1,798,247 • ❤️ 3,418 • 14d ago
 
 ---
 
@@ -497,7 +495,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 430 • 5d ago
+⬇️ 682,188 • ❤️ 431 • 5d ago
 
 ---
 
@@ -513,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 613 • 💬 2 • ⭐ 2,250 • 5d ago
+▲ 614 • 💬 2 • ⭐ 2,250 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -551,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 53 • 💬 4 • ⭐ 37,202 • 12mo ago
+▲ 53 • 💬 4 • ⭐ 37,264 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -647,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 16h ago
+⭐ 13.6k • 🔱 1.6k • 34m ago
 
 ---
 
@@ -657,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.4k • 🔱 968 • 18h ago
+⭐ 9.5k • 🔱 978 • 19h ago
 
 ---
 
@@ -677,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 440 • 1d ago
+⭐ 5.1k • 🔱 441 • 1d ago
 
 ---
 
@@ -685,7 +683,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 524 • 7d ago
+⭐ 4.0k • 🔱 525 • 7d ago
 
 ---
 
