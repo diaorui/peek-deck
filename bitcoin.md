@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T05:51:06.804491+00:00'
+updated: '2026-08-15T06:37:39.318765+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 05:51 UTC  
+**Last Updated:** August 15, 2026 at 06:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -2.7%  
-**30d:** -1.2%  
-**90d:** -18.0%  
-**1y:** -46.2%  
+**24h:** +0.2%  
+**7d:** -2.8%  
+**30d:** -1.4%  
+**90d:** -18.1%  
+**1y:** -46.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Never forget the bigger picture!
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Never forget the bigger picture!
 
 Saw the most random truck today
 
-40m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Saw the most random truck today
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,13 +133,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-18h ago
+19h ago
 
 ---
 
 **[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 10h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 8h ago
+Mashable • 9h ago
 
 ---
 
@@ -175,7 +175,7 @@ Mashable • 8h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 14h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 15h ago
+Sacramento Bee • 16h ago
 
 ---
 
@@ -199,7 +199,7 @@ Sacramento Bee • 15h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -221,15 +221,15 @@ CoinDesk • 15h ago
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 15h ago
+thestreet.com • 16h ago
 
 ---
 
-**[Bitcoin 'Flatlines' (BTC-USD)](https://seekingalpha.com/article/4937001-bitcoin-flatlines)**
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
 
-If you look at a one-year chart of Bitcoin, the first thing you notice is how well-defined the downtrend has been from just below $130K to the $60K range now.
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Seeking Alpha • 1h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -293,7 +293,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 16K • 👍 304 • 💬 4 • ⏱️ 0:53 • 11h ago
+👁️ 16K • 👍 304 • 💬 4 • ⏱️ 0:53 • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 730 • 👍 38 • 💬 14 • ⏱️ 1:36 • 4h ago
+👁️ 730 • 👍 38 • 💬 14 • ⏱️ 1:36 • 5h ago
 
 ---
 
@@ -311,7 +311,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 265 • 💬 12 • ⏱️ 2:29 • 4h ago
+👁️ 2K • 👍 265 • 💬 12 • ⏱️ 2:29 • 5h ago
 
 ---
 
@@ -321,7 +321,7 @@ Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50
 
 📺 Divot
 
-👁️ 805 • 👍 7 • ⏱️ 0:49 • 5h ago
+👁️ 805 • 👍 7 • ⏱️ 0:49 • 6h ago
 
 ---
 
@@ -339,7 +339,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 390 • 💬 21 • ⏱️ 15:58 • 10h ago
+👁️ 7K • 👍 390 • 💬 21 • ⏱️ 15:58 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 892 • 💬 84 • ⏱️ 16:33 • 6h ago
+👁️ 9K • 👍 892 • 💬 84 • ⏱️ 16:33 • 7h ago
 
 ---
 
