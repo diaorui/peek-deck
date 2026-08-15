@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T07:30:45.151443+00:00'
+updated: '2026-08-15T08:28:45.587165+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 07:30 UTC  
+**Last Updated:** August 15, 2026 at 08:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 9h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-1h ago
+2h ago
 
 ---
 
@@ -57,15 +57,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 A new output from this experimental real-time BCI system for TouchDesigner; a Brain-Computer Interface pipeline that reads live EEG signals, classifies your mental state, and autonomously generates responsive AI video: a meditation guide that adapts to your brain activity, second by second. The system is built around OpenBCI (open-source hardware + software), but it's designed to work with most BCI headsets after a few pertinent tweaks to the OSC routing and channel-rename logic; Muse, Neurosity, BrainFlow-compatible devices, and others can all drive it. The architecture is deliberately modular: meditation is only one possible application. A knowledgeable user can repurpose the same EEG → interpretation → generative-response pipeline into entirely different audiovisual systems, interactive installations, performance tools, or other BCI-driven experiments. Accessible through both Patreon, and the Tools Store.
 
-21h ago
-
----
-
-**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
-
-I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
-
-7h ago
+22h ago
 
 ---
 
@@ -73,7 +65,7 @@ I recently was thinking about reducing the cost of LLMs, specially LLMs which ar
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 9h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 10h ago
 
 ---
 
@@ -81,13 +73,21 @@ Where the no-code ceiling actually breaks—four specific failure points every n
 
 Hi! I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts so I want to build some projects and kind of develop my skills especially for engineering internships later on since I am in a competitive field. I'd appreciate any advice for someone who is just starting out!
 
-21h ago
+22h ago
+
+---
+
+**[Your thoughts on RNN's (RWKV approach) for language generation](https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/)**
+
+I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a CPU using ollama. So, what do you think about them? If you want to make an LLM from scratch today, would you go with this approach or not?
+
+8h ago
 
 ---
 
 **[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
 
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 8h ago
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 9h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Spent way more time than I should have switching Claude Code (Anthropic's coding agent) from API-key billing back to my Pro subscription. The flow: SSH into a server → attach a tmux session → run a login command → copy an OAuth URL → open a browser → authorize → paste the code back into the terminal. For a company shipping some of the most advanced AI models out there, this feels like a UX problem that was solved a decade ago. A single command or flag to switch billing mode would save everyone a lot of friction. Curious if other AI companies handle this better, or if this is just a growing pain across the industry right now.
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Spent way more time than I should have switching Claude Code (Anthropic's coding
 
 I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry? (Not affiliated, just thought it was a refreshing take.) [Source: https://www.hitechies.com/ai-smartest-model-worst-business-decision/\]
 
-23h ago
+1d ago
 
 ---
 
@@ -119,37 +119,33 @@ This is a thing I keep noticing in real customer calls that doesn’t really sho
 
 ## Google News: "ai"
 
+**[How Google is Making Private AI Practical with Homomorphic Encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)**
+
+Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
+
+blog.google • 17h ago
+
+---
+
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
-**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+**[Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders](https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition)**
 
-Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-BBC • 8h ago
-
----
-
-**[India's Modi woos youth with free coaching, AI training](https://www.yahoo.com/news/politics/articles/indias-modi-woos-youth-free-054506292.html)**
-
-Indian Prime Minister Narendra Modi said Saturday his government would provide free online coaching lessons for competitive exams, weeks after massive youth-led protests forced the education minister ...
-
-Yahoo • 1h ago
+The Guardian • 28m ago
 
 ---
 
-**[Inside Poland’s Push to Become Europe’s Next AI Powerhouse](https://www.barrons.com/articles/poland-europe-ai-tech-leader-b934ca54)**
+**[The AI boss at a San Francisco store just fired its first human](https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8)**
 
-Barron's • 1h ago
+Andon Labs, which is experimenting with letting an AI have majority control over a retail store, said that it fired an employee with good reason.
 
----
-
-**[Extreme caution urged as data privacy complaints jump 62% in AI era](https://www.scmp.com/news/hong-kong/society/article/3364134/extreme-caution-urged-hongkongers-data-privacy-complaints-jump-62-ai-era)**
-
-South China Morning Post • 1h ago
+Business Insider • 17m ago
 
 ---
 
@@ -157,7 +153,7 @@ South China Morning Post • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -165,21 +161,31 @@ CNBC • 15h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 12h ago
+Anthropic • 13h ago
 
 ---
 
-**[Opinion | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway.](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)**
+**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
 
-The New York Times • 22h ago
+One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
+
+Business Insider • 13h ago
 
 ---
 
-**[As online dating goes into ‘salvage mode’, can AI solve all its problems?](https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app)**
+**[Tech analyst Ben Thompson dismisses the 'clearly absurd' concept embedded in AI watermarking](https://tech.yahoo.com/ai/claude/articles/tech-analyst-ben-thompson-dismisses-181201718.html)**
 
-Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows
+Thompson took particular issue with Anthropic adding a watermark even if Claude was used only for proofreading.
 
-The Guardian • 14h ago
+tech.yahoo.com • 14h ago
+
+---
+
+**[Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)**
+
+Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.
+
+BBC • 9h ago
 
 ---
 
@@ -187,7 +193,7 @@ The Guardian • 14h ago
 
 Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
@@ -199,7 +205,7 @@ WIRED • 20h ago
 
 AI makes projects with weak engineering culture fail much faster.
 
-⬆️ 987 • 💬 920 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
+⬆️ 987 • 💬 923 • 2d ago • [Blog - Florian Herrengt](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 
 ---
 
@@ -207,7 +213,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 350 • 💬 205 • 15h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 375 • 💬 219 • 16h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -223,7 +229,7 @@ A continuously updating analysis of bot vs. human traffic, AI scraping, fetching
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 270 • 💬 20 • 15h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 289 • 💬 21 • 16h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -241,7 +247,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 198 • 💬 248 • 19h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 200 • 💬 250 • 20h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -249,21 +255,13 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 192 • 16h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 192 • 17h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 163 • 💬 204 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
-
----
-
-**[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://news.ycombinator.com/item?id=49269090)**
-
-Measuring frontier model ability to discover new materials for the semiconductor industry — candidates verified by DFT and attempted in a real lab.
-
-⬆️ 159 • 💬 35 • 2d ago • [Discovered Materials](https://discoveredmaterials.com/research/)
+⬆️ 164 • 💬 204 • 1d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -271,7 +269,13 @@ Measuring frontier model ability to discover new materials for the semiconductor
 
 Heart Aerospace’s X1 demonstrator became the world’s largest battery-electric aircraft ever flown, demonstrating electric flight at airliner scale and advancing development of the ES-30.
 
-⬆️ 143 • 💬 161 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+⬆️ 143 • 💬 160 • 1d ago • [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+
+---
+
+**[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
+
+⬆️ 141 • 💬 185 • 1d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -285,7 +289,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 20K • 👍 755 • 💬 134 • ⏱️ 13:09 • 7h ago
+👁️ 20K • 👍 755 • 💬 134 • ⏱️ 13:09 • 8h ago
 
 ---
 
@@ -295,7 +299,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 234 • ⏱️ 34:05 • 16h ago
+👁️ 40K • 👍 2K • 💬 234 • ⏱️ 34:05 • 17h ago
 
 ---
 
@@ -313,7 +317,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Ninjas Are Butterflies 
 
-👁️ 32K • 👍 3K • 💬 176 • ⏱️ 0:57 • 8h ago
+👁️ 32K • 👍 3K • 💬 176 • ⏱️ 0:57 • 9h ago
 
 ---
 
@@ -331,7 +335,7 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 Onevilage
 
-👁️ 805K • 👍 21K • 💬 587 • ⏱️ 0:46 • 17h ago
+👁️ 805K • 👍 21K • 💬 587 • ⏱️ 0:46 • 18h ago
 
 ---
 
@@ -361,7 +365,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 30K • 👍 872 • 💬 185 • ⏱️ 6:06 • 17h ago
+👁️ 30K • 👍 872 • 💬 185 • ⏱️ 6:06 • 18h ago
 
 ---
 
@@ -387,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 2 • ❤️ 9,309 • 16h ago
+⬇️ 2 • ❤️ 9,309 • 17h ago
 
 ---
 
@@ -411,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 0 • ❤️ 935 • 1h ago
+⬇️ 0 • ❤️ 935 • 2h ago
 
 ---
 
@@ -459,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 63 • ❤️ 695 • 20h ago
+⬇️ 63 • ❤️ 695 • 21h ago
 
 ---
 
@@ -644,7 +648,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 5h ago
+⭐ 13.6k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -654,7 +658,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 8.7k • 🔱 893 • 7h ago
+⭐ 8.7k • 🔱 893 • 8h ago
 
 ---
 
@@ -712,7 +716,7 @@ An arbitrage bot is a smart contract connected to an external automation script 
 
 `Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
 
-⭐ 2.7k • 🔱 1.9k • 23h ago
+⭐ 2.7k • 🔱 1.9k • 1d ago
 
 ---
 
@@ -732,7 +736,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 16m ago
+⭐ 2.1k • 🔱 170 • 1h ago
 
 ---
 

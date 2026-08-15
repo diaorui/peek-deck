@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T07:30:45.157912+00:00'
+updated: '2026-08-15T08:28:45.595747+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 07:30 UTC  
+**Last Updated:** August 15, 2026 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,019.28
+### $63,074.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.4%  
 **7d:** -2.8%  
 **30d:** -1.4%  
 **90d:** -18.1%  
@@ -81,13 +81,13 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -133,13 +133,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-20h ago
+21h ago
 
 ---
 
 **[Grandpas are soooo closee...(Bitcoin is not [crypto, panic, criminals, pricedump, ponzi, what-if power goes out]) ...sooo close grandpas...](https://www.reddit.com/r/Bitcoin/comments/1voqpzl/grandpas_are_soooo_closeebitcoin_is_not_crypto/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-11h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 12h ago
 
 Real mining. Tiny footprint.
 
-Mashable • 9h ago
+Mashable • 10h ago
 
 ---
 
@@ -175,7 +175,7 @@ Mashable • 9h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 21h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 15h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 17h ago
+Sacramento Bee • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Sacramento Bee • 17h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -215,21 +215,21 @@ Yahoo Finance • 1d ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 17h ago
+thestreet.com • 18h ago
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
 
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
-Bitcoin Magazine • 17h ago
+24/7 Wall St. • 10h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 4h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -293,7 +293,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 341 • 💬 6 • ⏱️ 0:53 • 13h ago
+👁️ 18K • 👍 341 • 💬 6 • ⏱️ 0:53 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 8K • 👍 419 • 💬 24 • ⏱️ 15:58 • 12h ago
+👁️ 8K • 👍 419 • 💬 24 • ⏱️ 15:58 • 13h ago
 
 ---
 
@@ -313,7 +313,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 1K • 👍 46 • 💬 48 • ⏱️ 1:36 • 6h ago
+👁️ 1K • 👍 46 • 💬 48 • ⏱️ 1:36 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 91 • ⏱️ 16:33 • 8h ago
+👁️ 12K • 👍 1K • 💬 91 • ⏱️ 16:33 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ Airwingmarine's Music - Synthwave ...
 
 📺 Airwingmarine
 
-👁️ 24K • 👍 415 • 💬 26 • ⏱️ 0:15 • 19h ago
+👁️ 24K • 👍 415 • 💬 26 • ⏱️ 0:15 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ Grant Cardone has a blunt take on the Bitcoin community: buying 200 coins at $50
 
 📺 Divot
 
-👁️ 925 • 👍 8 • ⏱️ 0:49 • 7h ago
+👁️ 925 • 👍 8 • ⏱️ 0:49 • 8h ago
 
 ---
 
