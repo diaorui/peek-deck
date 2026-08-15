@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T11:19:55.792176+00:00'
+updated: '2026-08-15T11:45:01.163666+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 11:19 UTC  
+**Last Updated:** August 15, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 12h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 13h ago
 
 ---
 
@@ -137,7 +137,7 @@ blog.google • 20h ago
 
 **[The toolbelt is becoming Gen Z's career flex](https://www.axios.com/2026/08/15/gen-z-skilled-trades-ai-job-displacement)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Time Magazine • 1h ago
 
 AI can't be managed by any existing department, so the Big Four firm EY is creating a new one. It's called the AI Value Realization Office.
 
-Business Insider • 47m ago
+Business Insider • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Business Insider • 16h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 15h ago
+Anthropic • 16h ago
 
 ---
 
@@ -211,7 +211,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 402 • 💬 243 • 19h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 402 • 💬 243 • 20h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -245,7 +245,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 200 • 💬 254 • 22h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 200 • 💬 254 • 23h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -253,7 +253,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 193 • 20h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 193 • 21h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -287,7 +287,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 898 • 💬 166 • ⏱️ 13:09 • 11h ago
+👁️ 26K • 👍 898 • 💬 166 • ⏱️ 13:09 • 12h ago
 
 ---
 
@@ -646,7 +646,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 8h ago
+⭐ 13.6k • 🔱 1.6k • 9h ago
 
 ---
 

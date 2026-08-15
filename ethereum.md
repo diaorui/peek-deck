@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T11:19:55.805555+00:00'
+updated: '2026-08-15T11:45:01.178591+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 11:19 UTC  
+**Last Updated:** August 15, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 17h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 18h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heya folks, interested if there's anyone here that's still actively using Maker for their ETH long? Seeing as they've fully rebranded to Sky a while ago, it's interesting to see that there's still a solid userbase there. Even with household names like Aave, Morpho, Fluid, etc... filling the space. We have Maker integrated in our app (DeFi Saver), where users can manage their CDP - and I saw that just a few days ago someone increased leverage by using our boost tool by $5 million in ETH. That led me to think - what's the sentiment surrounding Maker? If you haven't been using it, are you aware that it's still functional? What's interesting is that Spark (the lending protocol that's part of the Sky ecosystem) is offering better rates for longing ETH - yet Maker CDP owners aren't exactly flocking there. Not here to shill anything - just wanted to give context as to why I asked this question in the first place. Would be incredibly cool to hear from an actual Maker user - as I'm interested to also hear what keeps you engaged with that protocol as opposed to moving your loan to Spark (which offers better rates than the Stability Fee)
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Fortune • 1d ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -194,7 +194,7 @@ CryptoSlate • 11h ago
 
 DUBAI, United Arab Emirates, Aug.  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based New Pepeto has shared a funding update: its presale just hit $10.6...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -286,7 +286,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Stock Moe
 
-👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 22h ago
+👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 19h ago
+👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 20h ago
 
 ---
 

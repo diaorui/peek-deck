@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T11:19:55.800028+00:00'
+updated: '2026-08-15T11:45:01.172372+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 11:19 UTC  
+**Last Updated:** August 15, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,19 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-19h ago
+20h ago
+
+---
+
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+
+36m ago
 
 ---
 
@@ -103,7 +109,15 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-19h ago
+20h ago
+
+---
+
+**[What if Bitcoin wasn’t lagging M2, but actually front-running the liquidity slowdown? 👀](https://www.reddit.com/r/Bitcoin/comments/1voy5e8/what_if_bitcoin_wasnt_lagging_m2_but_actually/)**
+
+For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
+
+2h ago
 
 ---
 
@@ -123,25 +137,9 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 ---
 
-**[What if Bitcoin wasn’t lagging M2, but actually front-running the liquidity slowdown? 👀](https://www.reddit.com/r/Bitcoin/comments/1voy5e8/what_if_bitcoin_wasnt_lagging_m2_but_actually/)**
-
-For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
-
-2h ago
-
----
-
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
 22h ago
-
----
-
-**[Where did my funds go?](https://www.reddit.com/r/Bitcoin/comments/1vo49a4/where_did_my_funds_go/)**
-
-I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
-
-1d ago
 
 ---
 
@@ -191,7 +189,7 @@ Tom's Hardware • 2d ago
 
 Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -259,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -295,7 +293,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 11h ago
+👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 12h ago
 
 ---
 
@@ -335,7 +333,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 9h ago
+👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 10h ago
 
 ---
 
