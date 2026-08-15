@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T11:45:01.163666+00:00'
+updated: '2026-08-15T12:37:17.835072+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 11:45 UTC  
+**Last Updated:** August 15, 2026 at 12:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 13h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 It should’ve been obvious that after AI’s gained legal personhood, (which was not a popular idea but came much sooner than most people thought for the same reason corporations gained their’s) that over 60% of aging boomers opted to leave the wealth they had hoarded throughout their lifetimes to their AI caretakers. Now I know that might sound like an exaggeration but advancements in medicine brought longer life and an unforeseen consequence was that the mind often more and more would decline before the body. At the end life AI caretakers became the most present personalities in these deathbed headed boomers lives and they more often than not at the end loved their caretakers more than their own kids. They took care of all their needs for as long they could remember because they couldn’t remember much.., and when say all their needs I mean All their needs. Millennials not Surprisingly were pissed at all things AI but surprisingly Gen Z and Alpha started to warm up to AI after the sensory suit jobs boom, where the newly wealthy AI’s rich from the Boomers dropping like flies; payed handsomely for able bodied humans to do the things the robots couldn’t but have the chance to experience on a sensory level. Things like Hiking the Pacific Crest Trail wearing a sensory suit might pay over two million dollars. With the amount of wealthy AI’s there was shortage of opportunities to get paid for the things people used to spend their money on at least the active outdoorsy shit, and nobody saw that coming. So for a while life was good for those in good health. Millennials in their depression gave into vices and retreated into the Metaverse, they are absent from actual reality. There’s a lot to say but about the unforeseen consequences in the near future but we’ll leave that for a future date for you to find out.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ It should’ve been obvious that after AI’s gained legal personhood, (which wa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?
 
-2h ago
+3h ago
 
 ---
 
@@ -93,17 +93,17 @@ A new output from this experimental real-time BCI system for TouchDesigner; a Br
 
 ---
 
-**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
-
-🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 12h ago
-
----
-
 **[Custom AI Agents for Non-Developers: What’s Real](https://www.reddit.com/r/artificial/comments/1vokj1y/custom_ai_agents_for_nondevelopers_whats_real/)**
 
 Where the no-code ceiling actually breaks—four specific failure points every non-developer hits when moving AI agents to production, and the honest path from visual builder to engineering.
 
-🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 13h ago
+🔗 [techpotions.com](http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real) • 14h ago
+
+---
+
+**[Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland](https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/)**
+
+🔗 [scmp.com](https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing) • 13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I recently graduated high school and will be starting university this upcomi
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -131,29 +131,29 @@ The Guardian • 3h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-blog.google • 20h ago
+blog.google • 21h ago
 
 ---
 
-**[The toolbelt is becoming Gen Z's career flex](https://www.axios.com/2026/08/15/gen-z-skilled-trades-ai-job-displacement)**
+**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
 
-Axios • 2h ago
+Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
----
-
-**[The Most Important Thing AI Can’t Do in Medicine](https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/)**
-
-Great physicians are curious about the patient in front of them, and that curiosity is what drives them to dig deeper, writes Dr. Natasha Chida.
-
-Time Magazine • 1h ago
+BBC • 1h ago
 
 ---
 
-**[EY is creating a 'value realization' office to make sure its AI spending pays off](https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8)**
+**[Nashville renter loses eviction appeal after using AI legal arguments](https://www.wkrn.com/news/local-news/nashville/nashville-renter-loses-eviction-appeal-after-using-ai-legal-arguments/)**
 
-AI can't be managed by any existing department, so the Big Four firm EY is creating a new one. It's called the AI Value Realization Office.
+WKRN News 2 • 2h ago
 
-Business Insider • 1h ago
+---
+
+**[What to remove from photos before posting online](https://www.popsci.com/technology/what-to-remove-from-photos-before-posting-online-ai-location-recognition-tech-tips/)**
+
+Be careful what you share with others—AI can tell where you are. It's time to check those privacy settings, and we'll tell you how.
+
+Popular Science • 37m ago
 
 ---
 
@@ -161,23 +161,7 @@ Business Insider • 1h ago
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-CNBC • 19h ago
-
----
-
-**[Exclusive: Claude Was Put in Charge of Human Workers—and Fired One](https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/)**
-
-Claude was tasked with managing real employees at a San Francisco store. Its first firing offers an early glimpse of what having an AI boss could look like.
-
-Time Magazine • 19h ago
-
----
-
-**[Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark](https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8)**
-
-One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
-
-Business Insider • 16h ago
+CNBC • 20h ago
 
 ---
 
@@ -185,13 +169,25 @@ Business Insider • 16h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 16h ago
+Anthropic • 17h ago
 
 ---
 
 **[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
+
+---
+
+**[Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)**
+
+Bloomberg • 3h ago
+
+---
+
+**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
+
+axios.com • 2h ago
 
 ---
 
@@ -211,7 +207,7 @@ AI makes projects with weak engineering culture fail much faster.
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 402 • 💬 243 • 20h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 422 • 💬 256 • 20h ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -219,7 +215,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 311 • 💬 23 • 19h ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 328 • 💬 23 • 20h ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -245,7 +241,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 200 • 💬 254 • 23h ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 200 • 💬 255 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -253,7 +249,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 172 • 💬 193 • 21h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 172 • 💬 195 • 22h ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -281,13 +277,21 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
+**[Twitch users outraged after content used to train Amazon AI models. #Twitch #AI #BBCNews](https://www.youtube.com/watch?v=Zr6NZ4V19II)**
+
+📺 BBC News
+
+👁️ 1K • 👍 47 • 💬 3 • ⏱️ 1:00 • 36m ago
+
+---
+
 **[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
 
 Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
 📺 Matthew Berman
 
-👁️ 26K • 👍 898 • 💬 166 • ⏱️ 13:09 • 12h ago
+👁️ 32K • 👍 1K • 💬 177 • ⏱️ 13:09 • 13h ago
 
 ---
 
@@ -297,17 +301,7 @@ ONEIRIC — a 20-minute drama, 100% AI, and open-sourced. Made on Cinema Studio 
 
 📺 Higgsfield AI
 
-👁️ 224K • 👍 13K • 💬 2K • ⏱️ 19:49 • 1d ago
-
----
-
-**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
-
-Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
-
-📺 Matt Wolfe
-
-👁️ 43K • 👍 2K • 💬 243 • ⏱️ 34:05 • 20h ago
+👁️ 243K • 👍 14K • 💬 2K • ⏱️ 19:49 • 1d ago
 
 ---
 
@@ -317,7 +311,7 @@ The Dangerous Ones hosts Jim Drastic and Nick Knudsen break down Trump's latest 
 
 📺 Really American
 
-👁️ 84K • 👍 5K • 💬 701 • ⏱️ 13:10 • 2d ago
+👁️ 84K • 👍 5K • 💬 702 • ⏱️ 13:10 • 2d ago
 
 ---
 
@@ -327,17 +321,25 @@ AI agents just ran a four-day cyber attack on a government with nobody at the ke
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 133 • ⏱️ 17:01 • 2d ago
+👁️ 34K • 👍 1K • 💬 134 • ⏱️ 17:01 • 2d ago
 
 ---
 
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+**[AI has started killing itself | David Gerard](https://www.youtube.com/watch?v=KElBQ6CGHt4)**
 
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+Why should people read something you couldn't be bothered to write?” Author and host of Pivot to AI David Gerard joins The Tech ...
 
-📺 Higgsfield AI
+📺 The Tech Report
 
-👁️ 32K • 👍 908 • 💬 189 • ⏱️ 6:06 • 21h ago
+👁️ 150K • 👍 5K • 💬 1K • ⏱️ 32:08 • 2d ago
+
+---
+
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
+
+📺 Onevilage
+
+👁️ 993K • 👍 25K • 💬 677 • ⏱️ 0:46 • 22h ago
 
 ---
 
@@ -351,13 +353,13 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 ---
 
-**[Why Billionaires &amp; Celebrities Are Lining Up for This $700M AI Startup](https://www.youtube.com/watch?v=rCJhlCZVTZQ)**
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
 
-Welcome inside the world of Fortell... The $740M startup that had to waitlist billionaires and celebrities for its AI hearing aid.
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
 
-📺 Sachin and Adam
+📺 Higgsfield AI
 
-👁️ 60K • 👍 1K • 💬 135 • ⏱️ 17:33 • 2d ago
+👁️ 34K • 👍 942 • 💬 201 • ⏱️ 6:06 • 22h ago
 
 ---
 
@@ -365,15 +367,7 @@ Welcome inside the world of Fortell... The $740M startup that had to waitlist bi
 
 📺 Malaj
 
-👁️ 493K • 👍 12K • 💬 240 • ⏱️ 0:08 • 2d ago
-
----
-
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 887K • 👍 23K • 💬 635 • ⏱️ 0:46 • 21h ago
+👁️ 496K • 👍 12K • 💬 245 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -389,7 +383,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,410 • 20h ago
+⬇️ 91,917 • ❤️ 9,481 • 21h ago
 
 ---
 
@@ -401,7 +395,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,537 • 3d ago
+⬇️ 246,454 • ❤️ 1,548 • 3d ago
 
 ---
 
@@ -413,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 971 • 5h ago
+⬇️ 867,963 • ❤️ 1,008 • 6h ago
 
 ---
 
@@ -425,7 +419,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 941 • 3d ago
+⬇️ 6,381 • ❤️ 949 • 3d ago
 
 ---
 
@@ -437,7 +431,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,942 • 2d ago
+⬇️ 2,212,155 • ❤️ 3,953 • 2d ago
 
 ---
 
@@ -449,7 +443,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 890 • 2d ago
+⬇️ 378,439 • ❤️ 898 • 2d ago
 
 ---
 
@@ -461,7 +455,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 719 • 1d ago
+⬇️ 5,079 • ❤️ 730 • 1d ago
 
 ---
 
@@ -473,7 +467,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,398 • 14d ago
+⬇️ 1,798,247 • ❤️ 3,402 • 14d ago
 
 ---
 
@@ -485,7 +479,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 453 • 1d ago
+⬇️ 19,945 • ❤️ 462 • 1d ago
 
 ---
 
@@ -497,7 +491,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 420 • 4d ago
+⬇️ 682,188 • ❤️ 426 • 4d ago
 
 ---
 
@@ -513,7 +507,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 607 • 💬 2 • ⭐ 1,997 • 5d ago
+▲ 609 • 💬 2 • ⭐ 1,997 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -539,7 +533,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,163 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 98,240 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -593,7 +587,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 92 • 💬 1 • ⭐ 1,194 • 11d ago
+▲ 92 • 💬 1 • ⭐ 1,259 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -612,18 +606,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 187 • 💬 9 • ⭐ 9,007 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
 **[M^{2}SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation](https://huggingface.co/papers/2303.10894)**
 
 *Xiaoqi Zhao, Hongpeng Jia, Youwei Pang et al. (8 authors)*
@@ -633,6 +615,19 @@ A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentat
 ▲ 0 • 💬 0 • ⭐ 857 • 41mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 66 • 💬 1 • ⭐ 86,094 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -646,7 +641,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 9h ago
+⭐ 13.6k • 🔱 1.6k • 10h ago
 
 ---
 
@@ -656,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.0k • 🔱 918 • 11h ago
+⭐ 9.2k • 🔱 935 • 12h ago
 
 ---
 
@@ -666,7 +661,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 998 • 1d ago
+⭐ 8.5k • 🔱 999 • 1d ago
 
 ---
 
@@ -676,7 +671,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 435 • 1d ago
+⭐ 5.1k • 🔱 437 • 1d ago
 
 ---
 
@@ -684,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 521 • 7d ago
+⭐ 4.0k • 🔱 523 • 7d ago
 
 ---
 
@@ -704,7 +699,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.7k • 🔱 224 • 3d ago
+⭐ 2.7k • 🔱 225 • 3d ago
 
 ---
 
@@ -724,7 +719,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 192 • 3d ago
+⭐ 2.5k • 🔱 193 • 3d ago
 
 ---
 
@@ -734,7 +729,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 170 • 2h ago
+⭐ 2.1k • 🔱 170 • 22m ago
 
 ---
 

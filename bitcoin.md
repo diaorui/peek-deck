@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T11:45:01.172372+00:00'
+updated: '2026-08-15T12:37:17.843787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 11:45 UTC  
+**Last Updated:** August 15, 2026 at 12:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.5%  
 **7d:** -2.9%  
-**30d:** -1.4%  
+**30d:** -1.5%  
 **90d:** -18.2%  
 **1y:** -46.3%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1263.74B
+**Market Cap:** $1262.91B
 Rank #1
 
-**Circulating Supply:** 20,070,421 BTC
+**Circulating Supply:** 20,070,484 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.1%
 
 **All-Time Low:** $67.81
-+92756.5%
++92693.1%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-20h ago
+21h ago
 
 ---
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-36m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw the most random truck today
 
 Never forget the bigger picture!
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ Never forget the bigger picture!
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-14h ago
+15h ago
 
 ---
 
@@ -139,13 +139,13 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -157,7 +157,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -169,35 +169,11 @@ Mashable • 1d ago
 
 ---
 
-**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
-
-Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
-
-WAFF • 11h ago
-
----
-
-**[Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through](https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through)**
-
-Public pressure mounts on data center buildouts in Alabama.
-
-Tom's Hardware • 2d ago
-
----
-
-**[Where Could Bitcoin and XRP End the Year?](https://finance.yahoo.com/markets/crypto/articles/where-could-bitcoin-xrp-end-084333262.html)**
-
-Bitcoin has shed 28% since January while XRP sits nearly 60% below its peak, and the paths back for each coin run through completely different catalysts. One depends on Wall Street, the other on a Senate vote that has already missed three deadlines.
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-below-10-000-100100445.html)**
 
 Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -213,7 +189,7 @@ Forbes • 19h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 21h ago
+Sacramento Bee • 22h ago
 
 ---
 
@@ -221,7 +197,7 @@ Sacramento Bee • 21h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -230,6 +206,30 @@ Investor's Business Daily • 14h ago
 MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
+
+The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
+
+coindesk.com • 21h ago
+
+---
+
+**[Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal](https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal)**
+
+Bitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care.
+
+Bitcoin Magazine • 19h ago
+
+---
+
+**[Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.](https://www.fool.com/investing/2026/08/14/is-bitcoin-headed-for-a-breakdown-or-a-breakout/)**
+
+Bitcoin's breakdowns are typically followed by surprise breakout rallies.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -293,7 +293,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 105 • ⏱️ 16:33 • 12h ago
+👁️ 15K • 👍 1K • 💬 120 • ⏱️ 16:33 • 13h ago
 
 ---
 
@@ -303,17 +303,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 21K • 👍 379 • 💬 7 • ⏱️ 0:53 • 17h ago
-
----
-
-**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
-
-40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 90 • ⏱️ 9:13 • 1d ago
+👁️ 24K • 👍 420 • 💬 8 • ⏱️ 0:53 • 18h ago
 
 ---
 
@@ -323,7 +313,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 260 • ⏱️ 18:25 • 1d ago
+👁️ 33K • 👍 2K • 💬 261 • ⏱️ 18:25 • 1d ago
 
 ---
 
@@ -333,7 +323,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 53 • 💬 126 • ⏱️ 1:36 • 10h ago
+👁️ 2K • 👍 65 • 💬 139 • ⏱️ 1:36 • 11h ago
 
 ---
 
@@ -343,7 +333,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 439 • 💬 35 • ⏱️ 15:58 • 16h ago
+👁️ 9K • 👍 459 • 💬 37 • ⏱️ 15:58 • 17h ago
 
 ---
 
@@ -353,17 +343,7 @@ The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of 
 
 📺 Dana Love, PhD
 
-👁️ 30K • 👍 1K • 💬 397 • ⏱️ 18:10 • 1d ago
-
----
-
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
-
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
-
-📺 Benjamin Cowen
-
-👁️ 134K • 👍 8K • 💬 438 • ⏱️ 21:29 • 2d ago
+👁️ 31K • 👍 1K • 💬 414 • ⏱️ 18:10 • 1d ago
 
 ---
 
@@ -377,13 +357,33 @@ Larry Fink says trillions will be needed for the AI buildout while Trump Media q
 
 ---
 
+**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
+
+40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 2K • 💬 90 • ⏱️ 9:13 • 1d ago
+
+---
+
+**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+
+Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+
+📺 Benjamin Cowen
+
+👁️ 135K • 👍 8K • 💬 439 • ⏱️ 21:29 • 2d ago
+
+---
+
 **[69 Days of Bitcoin Doing Nothing…This Is When Crypto Cycles Get Dangerous!](https://www.youtube.com/watch?v=472-34iQVKw)**
 
 Thanks to Coinbase for sponsoring this crypto and bitcoin price action analysis. My Links: ▻ COINBASE Get up to 250 USDC ...
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 423 • 💬 352 • ⏱️ 16:10 • 1d ago
+👁️ 8K • 👍 422 • 💬 353 • ⏱️ 16:10 • 1d ago
 
 ---
 

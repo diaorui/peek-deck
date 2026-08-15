@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T11:45:01.178591+00:00'
+updated: '2026-08-15T12:37:17.850100+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 11:45 UTC  
+**Last Updated:** August 15, 2026 at 12:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.5%  
+**24h:** +0.6%  
+**7d:** -1.6%  
 **30d:** +2.0%  
-**90d:** -11.7%  
+**90d:** -11.8%  
 **1y:** -57.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.67B
+**Market Cap:** $226.51B
 Rank #2
 
 **Circulating Supply:** 120,681,953 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433715.5%
++433429.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 18h ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 19h ago
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-continues-buy-104000894.html)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://currently.att.yahoo.com/att/tom-lees-bitmine-continues-buy-104000894.html)**
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Yahoo Finance • 1h ago
+Currently.com • 1h ago
+
+---
+
+**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
+
+Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
+
+coindesk.com • 37m ago
 
 ---
 
@@ -164,13 +172,21 @@ Yahoo Finance • 1h ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
 **[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
 Grayscale • 1d ago
+
+---
+
+**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
+
+Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
+
+CryptoSlate • 12h ago
 
 ---
 
@@ -182,11 +198,11 @@ Fortune • 1d ago
 
 ---
 
-**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
+**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
 
-Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
+Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-CryptoSlate • 12h ago
+Benzinga • 17h ago
 
 ---
 
@@ -201,22 +217,6 @@ markets.businessinsider.com • 22h ago
 **[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
 
 ETF Trends • 1d ago
-
----
-
-**[Bitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retai](https://www.benzinga.com/news/26/08/61200030/bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm)**
-
-Leading cryptocurrencies held steady on Thursday, August 13, while stocks climbed to record highs following softer-than-expected producer inflation data.
-
-Benzinga • 1d ago
-
----
-
-**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
-
-Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
-
-The Block • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 291 • 👍 61 • 💬 17 • ⏱️ 34:25 • 2h ago
+👁️ 1K • 👍 252 • 💬 44 • ⏱️ 34:25 • 3h ago
 
 ---
 
@@ -246,7 +246,17 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 128 • ⏱️ 9:22 • 2d ago
+👁️ 34K • 👍 2K • 💬 126 • ⏱️ 9:22 • 2d ago
+
+---
+
+**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 945 • 👍 215 • 💬 56 • ⏱️ 17:49 • 1h ago
 
 ---
 
@@ -256,17 +266,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 6 • ⏱️ 7:21 • 10h ago
-
----
-
-**[Smart Money Is Buying BMNR - Why ETH Could Be Ready to Explode!](https://www.youtube.com/watch?v=toxMEUIrImE)**
-
-BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are all starting to line up in a way that could set the ...
-
-📺 Big Time Trades
-
-👁️ 1K • 👍 84 • 💬 14 • ⏱️ 26:32 • 13h ago
+👁️ 2K • 👍 142 • 💬 7 • ⏱️ 7:21 • 11h ago
 
 ---
 
@@ -276,17 +276,7 @@ The public seems to be almost entirely unaware of the fact that not only are the
 
 📺 Money Rules - Investing Tips 
 
-👁️ 14K • 👍 1K • 💬 385 • ⏱️ 12:21 • 2d ago
-
----
-
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 536 • 💬 42 • ⏱️ 10:44 • 23h ago
+👁️ 14K • 👍 1K • 💬 386 • ⏱️ 12:21 • 2d ago
 
 ---
 
@@ -300,13 +290,23 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
-**[Ethereum Has Not Touched This Line Since October, $1,900 Decides Every Altcoin](https://www.youtube.com/watch?v=EtuZrQdyhow)**
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
 
-Crypto Bull Market Comes Down To THIS Ethereum Test, Altcoins Lie In Wait... Intro 00:00 Crazy sideways 1:20 Ethereum price to ...
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
 
-📺 Crypto Capital Venture
+📺 Stock Moe
 
-👁️ 6K • 👍 348 • 💬 176 • ⏱️ 11:59 • 2d ago
+👁️ 10K • 👍 537 • 💬 42 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 3K • 👍 2 • ⏱️ 6:17 • 19h ago
 
 ---
 
@@ -316,17 +316,17 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 234 • ⏱️ 11:56 • 1d ago
+👁️ 11K • 👍 1K • 💬 264 • ⏱️ 11:56 • 1d ago
 
 ---
 
-**[BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=sJIXjrw5VWY)**
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
 
-BITCOIN LIQUIDATIONS CONFIRMED: FINAL WARNING!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 Crypto World
+📺 Crypto Crew University
 
-👁️ 5K • 👍 228 • 💬 68 • ⏱️ 21:01 • 20h ago
+👁️ 8K • 👍 246 • 💬 10 • ⏱️ 0:31 • 20h ago
 
 ---
 

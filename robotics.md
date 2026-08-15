@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T11:45:01.181842+00:00'
+updated: '2026-08-15T12:37:17.853393+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 11:45 UTC  
+**Last Updated:** August 15, 2026 at 12:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Hey guys! I've been doing some research on egocentric video data for robots and stumbled upon this pretty developed setup. They use a Pico 4 Ultra, motion trackers, and ZED cameras to collect the data. Looks impressive!
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey guys! I've been doing some research on egocentric video data for robots and 
 
 So, a bit of self-promotion here, but I suspect a lot of you might have run into the same integration headache I did with my project. My thesis was all about using reinforcement learning to keep robot arms from hitting those tricky kinematic singularities. The challenge? The obstacles were moving around unpredictably. To even get to the training phase, I needed a fully connected system: from the URDF model all the way through kinematics, dynamics, planning, control, simulation, and perception. The idea was for the AI agent to see a real obstacle and react based on an actual dynamic model, not some simplified version. And honestly, nothing out there really covered that whole spectrum. You've got MoveIt for planning, sure, but integrating sensors meant building custom ROS nodes from scratch, and there was no GPU acceleration. Pinocchio is impressively fast, but it's CPU-only, and you're left to figure out how to sync perception and planning yourself. CuRobo offers GPU planning and collision checking, but you're on your own for the perception pipeline and closed-loop control. The Python Robotics Toolbox is great for learning the algorithms, but simulation, control, and vision are up to you. So, before I could train a single AI policy, I had to build that integration layer. That's what eventually became ManipulaPy, with its SerialManipulator and ManipulatorDynamics classes forming the foundation for everything else in the library. After my thesis was done, I submitted the code to the Journal of Open Source Software. What really surprised me was how much the review process actually improved the project. JOSS doesn't just check if the code runs; they require a genuine commitment to maintain it. That commitment is what kept it alive after I graduated, instead of it ending up like so many other thesis repositories that just fade away. Where it stands now – it's been peer-reviewed and published in JOSS (October 2025), and we just shipped version 1.4: * The same kinematics and dynamics code now works with NumPy, CuPy, PyTorch, or JAX, all accessed through a single API. Plus, you get real automatic differentiation gradients with PyTorch and JAX. * It comes with 25 robots out of the box – UR, Franka, Kinova, KUKA, Fanuc, ABB, xArm, Robotiq – you can just load them by name, no need to mess with ROS workspaces or mesh files. * It has a native URDF parser that handles `package://` paths and works even if ROS isn't installed. * It integrates with PyBullet for simulation, and we've got CUDA trajectory kernels that automatically switch back to the CPU when the batch size is too small to make using the GPU worthwhile. You can grab it with pip install ManipulaPy. Here are the links: Repo, Docs, Paper. It's under AGPL-3.0. Genuine question for this community: for those of you working with robot arms, is that integration layer still the part you end up rebuilding every single time? I'm curious if this is a common problem or if it was just specific to my setup.
 
-14h ago
+15h ago
 
 ---
 
@@ -68,13 +68,13 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
 
-12h ago
+13h ago
 
 ---
 
 **[Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
 
-7h ago
+8h ago
 
 ---
 
@@ -90,7 +90,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Malcolm Stern says Toby could be used to educate children once completed.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 2h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 3h ago
 
 ---
 
@@ -98,13 +98,13 @@ Malcolm Stern says Toby could be used to educate children once completed.
 
 I've decided to build my own Iron Man helmet. The plan is: CAD → 3D print → servos → working helmet Today I started the CAD design from scratch and recorded the whole process as a timelapse. I'm going to post the progress every day and see how far I can take this thing. Day 1 complete. 🦾
 
-14h ago
+15h ago
 
 ---
 
 **[MK Robot-up graded plane](https://www.reddit.com/r/robotics/comments/1votz7x/mk_robotup_graded_plane/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 1d ago
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 2d ago
+nytimes.com • 2d ago
 
 ---
 
@@ -130,7 +130,7 @@ The New York Times • 2d ago
 
 Deep Robotics demonstrates practical outdoor mobility with its DR02 robot to meet growing industrial and investor demand.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
@@ -142,11 +142,19 @@ Bloomberg • 2d ago
 
 ---
 
+**[Why robots that can’t communicate naturally won’t be adopted](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/)**
+
+Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
+
+therobotreport.com • 5m ago
+
+---
+
 **[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 19h ago
+NASA (.gov) • 20h ago
 
 ---
 
@@ -166,25 +174,17 @@ New Atlas • 1d ago
 
 ---
 
+**[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
+
+Tech Xplore • 57m ago
+
+---
+
 **[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
 
 A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
 
 Live Science • 1d ago
-
----
-
-**[Canadian-based robotics company opens 1st U.S. facility in Lexington, bringing 111 jobs](https://www.lex18.com/news/covering-kentucky/canadian-based-robotics-company-opens-1st-u-s-facility-in-lexington-bringing-111-jobs)**
-
-A Canadian-based automation and robotics company has officially opened its first U.S. manufacturing operation in Lexington.
-
-LEX 18 News • 2d ago
-
----
-
-**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
-
-Seeking Alpha • 19h ago
 
 ---
 
@@ -198,7 +198,27 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 950K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
+👁️ 952K • 👍 22K • 💬 2K • ⏱️ 7:02 • 3d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 166K • 👍 2K • 💬 448 • ⏱️ 10:16 • 16h ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 25K • 👍 677 • 💬 20 • ⏱️ 58:18 • 2d ago
 
 ---
 
@@ -208,7 +228,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 39K • 👍 460 • 💬 124 • ⏱️ 3:48 • 3d ago
+👁️ 39K • 👍 461 • 💬 126 • ⏱️ 3:48 • 3d ago
 
 ---
 
@@ -228,7 +248,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 35K • 💬 58 • ⏱️ 8:34 • 3d ago
+👁️ 42K • 💬 58 • ⏱️ 8:34 • 3d ago
 
 ---
 
@@ -238,27 +258,7 @@ If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pa
 
 📺 Dr. Know-it-all Knows it all
 
-👁️ 2K • 👍 160 • 💬 75 • ⏱️ 21:51 • 1d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 145K • 👍 2K • 💬 424 • ⏱️ 10:16 • 15h ago
-
----
-
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
-
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
-
-📺 Y Combinator
-
-👁️ 25K • 👍 668 • 💬 20 • ⏱️ 58:18 • 2d ago
+👁️ 2K • 👍 164 • 💬 75 • ⏱️ 21:51 • 1d ago
 
 ---
 
@@ -278,17 +278,17 @@ Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 
 
 📺 Food For Robots
 
-👁️ 24K • 👍 1K • 💬 104 • ⏱️ 18:39 • 3d ago
+👁️ 25K • 👍 1K • 💬 106 • ⏱️ 18:39 • 3d ago
 
 ---
 
-**[Chris Camillo &amp; Amit Kukreja: The Humanoid Robot Boom Is Just Getting Started](https://www.youtube.com/watch?v=FpAh425b_SY)**
+**[Python for Engineers &amp; Robotics – Master NumPy, Pandas, and ChatGPT Automation](https://www.youtube.com/watch?v=eDqVqVyCo6k)**
 
-Chris Camillo calls humanoid robotics the biggest market we've ever seen. Not AI, not the internet, this. He and Amit Kukreja join ...
+In this comprehensive course, you will learn Python programming from scratch specifically tailored for mechanical engineering ...
 
-📺 WOLF Financial
+📺 freeCodeCamp.org
 
-👁️ 45K • 👍 1K • 💬 238 • ⏱️ 48:23 • 6d ago
+👁️ 36K • 👍 2K • 💬 35 • ⏱️ 6:49:12 • 4d ago
 
 ---
 
