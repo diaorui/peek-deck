@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T03:39:01.155204+00:00'
+updated: '2026-08-15T04:30:54.824587+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 03:39 UTC  
+**Last Updated:** August 15, 2026 at 04:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Never forget the bigger picture!
 
-12h ago
+13h ago
 
 ---
 
 **[Have we lost the battle?](https://www.reddit.com/r/Bitcoin/comments/1vo6pwf/have_we_lost_the_battle/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ Never forget the bigger picture!
 
 This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom → 2021 top: ~1,064 days 2021 top → 2022 bottom: ~1 year 2022 bottom → 2025 top: again roughly ~1,050–1,060 days If that rhythm repeats, the next major low lands somewhere around early-to-mid October 2026. And that’s basically where the current 4-year-cycle crowd is pointing. The funny part is that Bitcoin’s market structure is completely different now ETFs, institutions, different liquidity conditions yet the timing has still stayed surprisingly close so far. So here’s the real question: Does Bitcoin actually give everyone the most telegraphed cycle bottom in its history… or does the pattern finally break exactly because everyone is watching it? 👀
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ This is one of those Bitcoin patterns that looks almost too clean: 2018 bottom �
 
 I sent btc to my wallet, the wallet shows it received it, but my balance never adjusted from zero. Please help https://mempool.space/tx/632188193a9ea4f445891c3280707557cd8d1e694e87d1d319d2e3c0a827025d
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ I sent btc to my wallet, the wallet shows it received it, but my balance never a
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 They know that now it is not about the bug, but something more serious. Why you would remove the bitcoinsecurity.guide after a $100M+ hack? Oh, yeah, because his recomendation under a proxy website lying about neutrality information on hardware wallets and bitcoin security, was a potential violation on consumer protection in both the FTC and the Competition Bureau regarding misleading advertisement. This goes way beyond their "apologies" of a bug in their product. "Follow this security guide"....
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ They know that now it is not about the bug, but something more serious. Why you 
 
 Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Drain
 
-🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 11h ago
+🔗 [X (formerly Twitter)](https://x.com/PraveenPerera/status/2087936252230140278) • 12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Inside Wave 1: Tracing the Attacker’s Steps Through the 1,082 BTC Coldcard Dra
 
 Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I understand the basics and the focal points of scarcity and halving, but am having trouble getting my head around the gospel of cycling that’s based on essentially only 4 data points. Also, if everyone is aware of this inevitability, won’t that negate the advantage? I find that the assumptions are flawed or at least oversimplified.
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ Full disclosure: I’m old (63) and don’t understand the nuances of Bitcoin. I
 
 Looking at the chart, the last time the 100 week moving average started its downwards slope, it coincided with the bottom of the Bitcoin bear market. In 2024, the rally started in November, if that doesn’t repeat, we will finally see the 100 week moving average drop for the first time since ATH What is the buy signal, you may or may not have asked? Well, once the price of bitcoin crosses above the 100 week moving average, it has been followed by a substantial rally. This has been true every single time in the history of Bitcoin. My thoughts: accumulate slowly once the 100 week moving average starts to fall, and quickly once the price of Bitcoin breaks above the 100 week MA. Thoughts?
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ Looking at the chart, the last time the 100 week moving average started its down
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 8h ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 6h ago
 
 Strategy's business model is under stress, but there's still no need to panic for Bitcoin investors.
 
-finance.yahoo.com • 17h ago
+finance.yahoo.com • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ finance.yahoo.com • 17h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 11h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 13h ago
+Sacramento Bee • 14h ago
 
 ---
 
@@ -209,7 +209,7 @@ Mashable • 22h ago
 
 MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
 
-finance.yahoo.com • 23h ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -217,13 +217,13 @@ finance.yahoo.com • 23h ago
 
 The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
 **[MicroStrategy sends harsh response to fresh MSCI delisting threat](https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat)**
 
-thestreet.com • 13h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -231,7 +231,7 @@ thestreet.com • 13h ago
 
 Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -259,7 +259,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 3m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 55m ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -305,7 +305,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 648 • 💬 67 • ⏱️ 16:33 • 4h ago
+👁️ 5K • 👍 648 • 💬 67 • ⏱️ 16:33 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 6K • 👍 572 • 💬 29 • ⏱️ 15:19 • 13h ago
+👁️ 6K • 👍 572 • 💬 29 • ⏱️ 15:19 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 244 • 👍 9 • 💬 13 • ⏱️ 1:36 • 2h ago
+👁️ 244 • 👍 9 • 💬 13 • ⏱️ 1:36 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T03:39:01.163496+00:00'
+updated: '2026-08-15T04:30:54.833041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 03:39 UTC  
+**Last Updated:** August 15, 2026 at 04:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,13 +46,13 @@ Robotics research and industry news
 
 **[29 CoCube robots doing leader-follower with ESP-NOW](https://www.reddit.com/r/robotics/comments/1vo7m34/29_cocube_robots_doing_leaderfollower_with_espnow/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Is this finally a real 3-axis FOC gimbal? IMU stabilization is working](https://www.reddit.com/r/robotics/comments/1vo10s7/is_this_finally_a_real_3axis_foc_gimbal_imu/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Robotics research and industry news
 
 Hey everyone, I'm self-teaching robotics with a focus on perception and robot learning. I learn best by building, so I recently started learning ROS2 and Gazebo. I took a rover model, assembled it into a URDF, and tried to calculate the mass and inertia for the components manually using volume and material density. Here is the repo: https://github.com/introlix/robo_car Note: you can ignore the esp_control folder. I originally started this for a physical ESP32 car but moved to simulation so I could learn Gazebo physics and sensor integration before touching real hardware. Since I'm doing this alone, I'm relying a lot on trial and error and AI tools to help me. But I know AI hallucinates. If anyone here has experience with Gazebo/URDF, I’d really appreciate it if you could take a quick look at my URDF. I mainly want to know if my mass/inertia numbers look realistic, or if I messed up the math and my robot. Also, if anyone is also an student then we could learn together. I'm not looking to pair-program on a call, just someone to do reviews on GitHub, share resources, and maybe give each other small weekly challenges. A bit about my background: while I'm relatively new to ROS2, I have some ML background. I've built neural networks from scratch in NumPy and actually implemented LLM architectures (like Gemma and Qwen) from scratch just by reading their papers and loading the weights. That is the reason I'm interested in perception and robot learning. Let me know if you're open to reviewing the code or if you want to team up. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -68,19 +68,19 @@ Hey everyone, I'm self-teaching robotics with a focus on perception and robot le
 
 https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81fb759d59ba3df610dfcbfefa73570a07b39c https://preview.redd.it/pah0wtge2djh1.png?width=1080&format=png&auto=webp&s=8f63fe87d33a1ff56768a32fea480611dce52709 I have had this idea for fast optical localization for ages. The general idea is that a circular barcode has a very recognizable structure even under perspective, so you can detect the center very easily if a scan line passes through it, allowing you to detect barcodes as the data streams off the sensor. This is different to QR codes where you need an 2D image patch to try and get pose information out. I just wrote up the algorithm, and am hoping to try it out on a sensor that can trade scan density for higher FPS (the Arducam 100fps Mono Global Shutter USB Camera cam can do this!), with the hope I can get extremely high full post estimation on inexpensive hardware. I am looking for prior art if anyone know. Circular barcodes are not new but I think the single scan line angle is. Link to the full writeup, it includes the working scanner in the webpage you can test at home on a webcam! https://tomlarkworthy.github.io/lopebooks/notebooks/tomlarkworthy_coded-landmark-tracking.html and the blog post is readable by Claude Code if you want to transfer it to your own setup.
 
-11h ago
+12h ago
 
 ---
 
 **[LR Mate 100i High Speed: Disturbance before CALIBRATE, SRVO-050 afterwards](https://www.reddit.com/r/robotics/comments/1vob633/lr_mate_100i_high_speed_disturbance_before/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Egocentric videos - the value for robots training](https://www.reddit.com/r/robotics/comments/1voa67z/egocentric_videos_the_value_for_robots_training/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -106,7 +106,7 @@ https://preview.redd.it/r8avm2fd2djh1.png?width=1080&format=png&auto=webp&s=8c81
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -118,7 +118,7 @@ The New York Times • 1d ago
 
 **[Chinese humanoid robot maker Unitree powers up for stellar Shanghai debut](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-powers-up-stellar-shanghai-debut-2026-08-14/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -158,7 +158,7 @@ finance.yahoo.com • 2d ago
 
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
-New Atlas • 16h ago
+New Atlas • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ Live Science • 1d ago
 
 **[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 20K • 👍 189 • 💬 60 • ⏱️ 0:22 • 21h ago
+👁️ 20K • 👍 189 • 💬 60 • ⏱️ 0:22 • 22h ago
 
 ---
 
