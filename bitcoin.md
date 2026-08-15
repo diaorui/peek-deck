@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T22:21:19.498092+00:00'
+updated: '2026-08-15T22:47:35.552811+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 22:21 UTC  
+**Last Updated:** August 15, 2026 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,163.63
+### $63,156.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.2%  
 **7d:** -2.7%  
-**30d:** -1.3%  
+**30d:** -1.2%  
 **90d:** -18.0%  
 **1y:** -46.2%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Rodolfo Novak is is doing still many nasty things presenting himself as neutral 
 
 I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
 
-6h ago
+7h ago
 
 ---
 
@@ -179,11 +179,19 @@ Yahoo Finance • 6h ago
 
 ---
 
+**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+
+Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+
+Sacramento Bee • 1d ago
+
+---
+
 **[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
 
 Real mining. Tiny footprint.
 
-Mashable • 2d ago
+mashable.com • 2d ago
 
 ---
 
@@ -211,25 +219,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
-
-Investing.com • 12h ago
-
----
-
 **[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
-24/7 Wall St. • 23h ago
+24/7 Wall St. • 1d ago
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
-
-Bitcoin Magazine • 1d ago
+Investing.com • 13h ago
 
 ---
 
@@ -257,7 +257,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 19h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -319,7 +319,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Khuncoin
 
-👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 13h ago
+👁️ 5K • 👍 125 • 💬 2 • ⏱️ 0:12 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 20h ago
+👁️ 3K • 👍 113 • 💬 130 • ⏱️ 1:36 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 22h ago
+👁️ 20K • 👍 1K • 💬 156 • ⏱️ 16:33 • 23h ago
 
 ---
 

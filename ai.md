@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T22:21:19.489403+00:00'
+updated: '2026-08-15T22:47:35.544419+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 22:21 UTC  
+**Last Updated:** August 15, 2026 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 23h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 1d ago
 
 ---
 
@@ -58,6 +58,14 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
 🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 8h ago
+
+---
+
+**[Training and unlimited API inference for Small Language Models](https://www.reddit.com/r/artificial/comments/1vpfvgy/training_and_unlimited_api_inference_for_small/)**
+
+For a long time, I’ve had the feeling that generative AI models, for most of the tasks they’re used for, don’t actually need the oversized capabilities offered by frontier models. On top of that, they’re often prohibitively expensive when accessed via API. An open-source model with 4–14 billion parameters, multimodal capabilities, and the right harness of tools, data, and knowledge is more than enough for most use cases. With this idea in mind, I decided to build, together with my team, a simple platform that allows users to fine-tune and deploy these lightweight models quickly and without any coding. After several iterations, we have managed to develop what we believe is the optimal framework for anyone to deploy and customize a small 4B or 9B model, either through fine-tuning or RAG. And what’s most important t me, you can download the weights, run them locally, and own the IP and the property of the model, unlike in many cases where big vendors lock you in. We’ve also managed to sign an agreement with a local data center, and we now have our own GPUs. This means training and inference are not only extremely fast, but we can also offer unlimited inference. If you need a customized, affordable model with unlimited API inference, I think this could be really useful for you. There’s a free tier, and if you try it out and give us some feedback, I’ll give you the subscription plan for free for 6 months. Since we have our own GPUs in our data center, our infrastructure costs are fixed. I’m really happy with how it has turned out, and I use these models for many of my own projects. You can access the platform at neuro-block.com Would love to hear your thoughts in the comments.
+
+26m ago
 
 ---
 
@@ -81,7 +89,7 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +97,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-16h ago
+17h ago
 
 ---
 
@@ -105,14 +113,6 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-5h ago
-
----
-
-**[Who is responsible when an AI agent makes a bad decision?](https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/)**
-
-AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
-
 6h ago
 
 ---
@@ -121,17 +121,17 @@ AI agents are getting better at making decisions and taking actions on their own
 
 ## Google News: "ai"
 
-**[EXCLUSIVE: US to tell partners they must pick sides in AI race with China](https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/)**
+**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
 
-Reuters • 1d ago
+Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
+
+BBC • 11h ago
 
 ---
 
-**[Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders](https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition)**
+**[Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)**
 
-Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
-
-The Guardian • 14h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -143,45 +143,31 @@ CBS News • 1h ago
 
 ---
 
+**[How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire](https://www.forbes.com/sites/aliciapark/2026/08/15/british-ai-chip-founder-becomes-europes-youngest-self-made-billionaire/)**
+
+James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
+
+Forbes • 12h ago
+
+---
+
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
 Axios • 12h ago
 
 ---
 
-**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
-
-Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
-
-BBC • 10h ago
-
----
-
-**[Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information](https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850)**
-
-Investing.com • 2h ago
-
----
-
 **[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
 
-WSJ • 12h ago
+wsj.com • 13h ago
 
 ---
 
-**[Palantir Leads AI Data Deal With USA Today Sparking A Newsroom Revolt](https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/)**
+**[Cisco vs. Broadcom: One Stock Looks Like the Better AI Play](https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html)**
 
-More than 800 journalists demanded USA Today drop its Palantir AI data deal. Four data leadership lessons for every executive before the next earnings call.
+Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.
 
-Forbes • 59m ago
-
----
-
-**[The AI boom is driving up home prices in San Francisco. Are you being priced out?](https://www.cnn.com/2026/08/14/economy/san-francisco-housing-market-callout)**
-
-Fueled by a boom in artificial intelligence, San Francisco is quickly becoming the hottest housing market in the country.
-
-cnn.com • 1d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -193,6 +179,20 @@ Financial Times • 18h ago
 
 ---
 
+**[Hey, Your AI Is Showing](https://nymag.com/intelligencer/article/ai-disclosure-day-is-coming.html)**
+
+Detectors, watermarks, and slop-reporting buttons: What happens when AI can no longer hide?
+
+New York Magazine • 12h ago
+
+---
+
+**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
+
+Politico • 2h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ Financial Times • 18h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 476 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 477 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -209,23 +209,23 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 347 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 348 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
-**[AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://news.ycombinator.com/item?id=49312845)**
+**[AI has access to a vastly larger working memory than the human brain](https://news.ycombinator.com/item?id=49312845)**
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 302 • 💬 260 • 4h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 342 • 💬 298 • 4h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
-**[Working with AI Feels More Like Leadership Than Coding](https://news.ycombinator.com/item?id=49309451)**
+**[Working with AI feels more like leadership than coding](https://news.ycombinator.com/item?id=49309451)**
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 222 • 💬 158 • 11h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 239 • 💬 167 • 12h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -243,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 202 • 💬 260 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 202 • 💬 262 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -285,7 +285,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 22h ago
+👁️ 43K • 👍 1K • 💬 206 • ⏱️ 13:09 • 23h ago
 
 ---
 
@@ -723,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 1h ago
+⭐ 2.5k • 🔱 194 • 2h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T22:21:19.507685+00:00'
+updated: '2026-08-15T22:47:35.562165+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 22:21 UTC  
+**Last Updated:** August 15, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
-20h ago
+21h ago
 
 ---
 
@@ -60,7 +60,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-8h ago
+9h ago
 
 ---
 
@@ -98,7 +98,7 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting too much slack to make the IMU work since the last post. In the simulation, the commands are issued in the bottom-center terminal window. Halfway through climbing the ramp, the IMU is turned on, and the top right plot is showing the control code trying to zero the pitch and roll values (honestly way more stable compared to when I tested physically). Heading for PyBullet next in Cubic Doggo 06Z Neucommu.
 
-22h ago
+23h ago
 
 ---
 
@@ -106,7 +106,7 @@ Phew, took a while to put Cubic Doggo 06R in simulation with Gazebo. Was cutting
 
 Malcolm Stern says Toby could be used to educate children once completed.
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 13h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/c70g584xpywo?app-referrer=deep-link) • 14h ago
 
 ---
 
@@ -138,7 +138,7 @@ NASA (.gov) • 1d ago
 
 **[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
 
-Tech Xplore • 10h ago
+Tech Xplore • 11h ago
 
 ---
 
@@ -182,9 +182,11 @@ New Atlas • 1d ago
 
 ---
 
-**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
+**[Kraken Robotics Schedules Q2 2026 Financial Results Release and Webcast](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-schedules-q2-2026-103000366.html)**
 
-Seeking Alpha • 1d ago
+TORONTO, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces that it will release its second quarter 2026 financial results prior to the opening of markets on Thursday, August 27, 2026. Kraken’s management will hold a conference call at 8:30 a.m. ET the same day to discuss the Company’s results and outlook. Participants can listen to this event at the webcast details below, or by dialing 1-833-752-3301 (North America) or +1-647-
+
+Yahoo Finance • 2d ago
 
 ---
 

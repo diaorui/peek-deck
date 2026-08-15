@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T22:21:19.504381+00:00'
+updated: '2026-08-15T22:47:35.558966+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 22:21 UTC  
+**Last Updated:** August 15, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.1%  
 **7d:** -1.3%  
 **30d:** +2.3%  
 **90d:** -11.5%  
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 5h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 10h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 1d ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -298,7 +298,7 @@ DonAlt finally bought ETH near resistance, with $4K upside if the market's long 
 
 📺 TechnicalRoundup
 
-👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 11h ago
+👁️ 3K • 👍 159 • 💬 36 • ⏱️ 1:24:09 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looki
 
 📺 Fred Opus
 
-👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 14h ago
+👁️ 246 • 👍 114 • 💬 88 • ⏱️ 4:19 • 15h ago
 
 ---
 
