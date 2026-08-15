@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T17:46:01.948584+00:00'
+updated: '2026-08-15T18:28:53.097412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 17:46 UTC  
+**Last Updated:** August 15, 2026 at 18:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 19h ago
+🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 20h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 3h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-49m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 AI agents are getting better at making decisions and taking actions on their own. But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible? The developer? The company? Or the person supervising it? The more autonomy we give them, the more important accountability becomes.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI agents are getting better at making decisions and taking actions on their own
 
 For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon. Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace. But the constraint shifting into 2026 isn't intelligence anymore. Recent conflicts have made the case in hardware: cheap, expendable drones you don't mind losing often win on cost-efficiency against exquisite, million-dollar precision systems — which means the company that wins isn't necessarily the one with the smartest model, it's the one that can turn it into thousands of physical units a month. The same pattern shows up outside defense: the bottleneck to shipping AI keeps moving. First it was models, then data, then compute — now, in categories that touch the physical world, it's factories. Worth remembering next time "AI-native" is the whole pitch. Increasingly, it's necessary but not sufficient.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ For the last three years, the defense tech story was: better sensors, better mod
 
 https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forward-deployed engineers, AI transformation people, because they can do the work of 10, 100 people." That's the role that survives this — already a real hiring category, not a future one. LinkedIn's own data has it growing 42x since 2023, priced $127K–$265K+ at the labs actually building this. That's the part that should sit heavier than the digital-double line. It's not that your job disappears. It's that a different job, already priced and already hiring, opens up a few rungs above where you're standing — and most of us don't have a clean path into it yet. I've watched a smaller, slower version of this exact move before. No AI involved — just a stamp and a highlighter. Hmm... this one really gets me out of my chair and pace around my living room, so let me try to recall it properly. When I was working as a Technical Engineer in the Tender Department of one of the largest main contractors in Malaysia — there was a skill we always used. Fair warning, I'm sharing privileged information here. Well... it's probably an open secret in the industry anyway. Whenever we tendered for a project — let's say Malaysian Airlines (MAS), widening a runway for their newly-bought Airbus A380 — we'd hit the parts that were out of our expertise. Airway lighting, drainage, flight angles, height restrictions. So we did the natural thing: called for outside help. Engaged specialized sub-contractors who'd done airway pavements before, to hand us the technical know-how and their quotation. We knew full well these sub-contractors were already MAS's long-time maintenance contractors — it was just a matter of time before they'd be folded under our main contract anyway. So when they submitted their technical documents, we stripped their company logo, re-arranged it, added our own branded wording, our own logos. Woalah. It was now our own internal technical know-how. We'd suddenly become experts in pavement-widening and hangar works. We didn't get the job, though. We all knew that tender was just for show — a comparison exercise to cross-check MAS's already-chosen main contractor. But the knowledge we gathered from those specialists was now folded into our own knowledge vault. Our own proprietary knowledge. Are we stealing? I wouldn't use that word. When there's a problem, the client comes after us — not our subcontractors. So to properly solve it, we have to own the knowledge too. The right word might be "necessary." https://preview.redd.it/lkn6gis5yjjh1.jpg?width=1024&format=pjpg&auto=webp&s=adbb096873b0ea6de01f5084eba7a6e8731c6b21 ———— Every version of this mechanism arrives wearing the same word. Ours was "necessary." This one's wearing "efficiency." Actually — a post I put up about the same compression logic, just running through one operator instead of a stripped logo came to mind while writing this one. Drop your take — where's the line between "necessary" and something with a worse name? Clip credit: The Beyond Tomorrow Podcast with Julian Issa — full video on their channel. DM for credit or removal requests.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://reddit.com/link/1vp4uav/video/v9m00c73yjjh1/player Emad Mostaque: "Forwa
 
 Of course this is amusing. It's also intended in Ig Nobel spirit.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,13 +125,13 @@ Of course this is amusing. It's also intended in Ig Nobel spirit.
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -139,19 +139,19 @@ Axios • 7h ago
 
 Some teachers say the technology doesn’t always get it right, and they’re questioning whether it belongs in the classroom at all.
 
-Spectrum Bay News 9 • 16h ago
+Spectrum Bay News 9 • 17h ago
 
 ---
 
 **[Google Turns On Gemini A.I. for Students Using Its Classroom App](https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html)**
 
-nytimes.com • 22h ago
+nytimes.com • 23h ago
 
 ---
 
 **[Teens are turning to AI chatbots for emotional support – here’s how to keep kids safe](https://www.woodtv.com/news/nexstar-media-wire/teens-are-turning-to-ai-chatbots-for-emotional-support-heres-how-to-keep-kids-safe/)**
 
-WOODTV.com • 43m ago
+WOODTV.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ TechCrunch • 1h ago
 
 Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.
 
-Anthropic • 22h ago
+Anthropic • 23h ago
 
 ---
 
@@ -181,7 +181,7 @@ WSJ • 8h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ BBC • 6h ago
 
 One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 MS NOW
 
-👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 16h ago
+👁️ 177K • 👍 4K • 💬 782 • ⏱️ 20:18 • 17h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,117 • 11h ago
+⬇️ 867,963 • ❤️ 1,117 • 12h ago
 
 ---
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 15h ago
+⭐ 13.6k • 🔱 1.6k • 16h ago
 
 ---
 
@@ -657,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.4k • 🔱 968 • 17h ago
+⭐ 9.4k • 🔱 968 • 18h ago
 
 ---
 
@@ -695,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 1h ago
+⭐ 3.1k • 🔱 539 • 2h ago
 
 ---
 
@@ -735,7 +735,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 171 • 5h ago
+⭐ 2.1k • 🔱 171 • 6h ago
 
 ---
 

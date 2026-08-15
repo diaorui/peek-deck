@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T17:46:01.957143+00:00'
+updated: '2026-08-15T18:28:53.108477+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 17:46 UTC  
+**Last Updated:** August 15, 2026 at 18:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,6 +77,18 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
+
+2h ago
+
+---
+
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+
+7h ago
+
+---
+
 **[Just sold it all and very sad.](https://www.reddit.com/r/Bitcoin/comments/1vos2t2/just_sold_it_all_and_very_sad/)**
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
@@ -89,19 +101,13 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-2h ago
+3h ago
 
 ---
 
-**[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
+**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
 2h ago
-
----
-
-**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
-
-6h ago
 
 ---
 
@@ -109,27 +115,13 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-2h ago
-
----
-
-**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
-
-1h ago
+3h ago
 
 ---
 
 **[Bitcoin price 2021 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1voaby9/bitcoin_price_2021_vs_2026/)**
 
 1d ago
-
----
-
-**[Baked not mined](https://www.reddit.com/r/Bitcoin/comments/1votyi3/baked_not_mined/)**
-
-Saw the most random truck today
-
-12h ago
 
 ---
 
@@ -141,11 +133,19 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 ---
 
+**[Baked not mined](https://www.reddit.com/r/Bitcoin/comments/1votyi3/baked_not_mined/)**
+
+Saw the most random truck today
+
+13h ago
+
+---
+
 **[What if Bitcoin wasn’t lagging M2, but actually front-running the liquidity slowdown? 👀](https://www.reddit.com/r/Bitcoin/comments/1voy5e8/what_if_bitcoin_wasnt_lagging_m2_but_actually/)**
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ For a while, one of the most popular macro charts around Bitcoin was Global M2 s
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 22h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 4h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Mashable • 1d ago
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 2h ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 17h ago
+WAFF • 18h ago
 
 ---
 
@@ -227,7 +227,7 @@ Sacramento Bee • 1d ago
 
 **[Bitcoin price holds below $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
@@ -291,7 +291,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 18h ago
+👁️ 18K • 👍 1K • 💬 150 • ⏱️ 16:33 • 19h ago
 
 ---
 
@@ -301,7 +301,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 482 • 💬 50 • ⏱️ 15:58 • 22h ago
+👁️ 10K • 👍 482 • 💬 50 • ⏱️ 15:58 • 23h ago
 
 ---
 
