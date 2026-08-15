@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T14:48:40.178283+00:00'
+updated: '2026-08-15T15:20:32.576820+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 14:48 UTC  
+**Last Updated:** August 15, 2026 at 15:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -2.8%  
+**24h:** -0.2%  
+**7d:** -2.9%  
 **30d:** -1.4%  
 **90d:** -18.1%  
 **1y:** -46.3%  
@@ -87,7 +87,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Saw the most random truck today
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Saw the most random truck today
 
 For a while, one of the most popular macro charts around Bitcoin was Global M2 shifted forward vs BTC. The idea was pretty simple: global liquidity moves first, then Bitcoin follows a couple of months later. If you shifted the lines enough, the relationship sometimes looked almost too good. But seeing how badly the two have diverged recently got me thinking that maybe we were reading the relationship the wrong way around. M2 isn’t really a forward-looking market price. It’s a measured monetary aggregate. Bitcoin, on the other hand, trades 24/7 and can react to expectations around rates, policy and risk appetite well before those changes fully show up in monetary data. So maybe BTC wasn’t always just “waiting for M2”. Maybe Bitcoin was sometimes pricing in a future slowdown in liquidity before M2 actually showed it, and shifting M2 forward made the relationship look more predictive than it really was. That makes the current divergence pretty interesting. Instead of asking: “When will BTC catch up to M2?” Maybe the better question is: “What did Bitcoin see that M2 hasn’t shown yet?” 🤔 Would be interesting to actually test which one tends to lead the other, rather than just finding the lag where the two lines look best together.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,13 +125,13 @@ Never forget the bigger picture!
 
 For context I’ve been in crypto since 2019…. This feeling feels all too similar. Hate has returned from all angels. I’m not saying the bottom is in today but these are the times to be putting some extra money to work IMO
 
-17h ago
+18h ago
 
 ---
 
 **[Bitcoin empty block?](https://www.reddit.com/r/Bitcoin/comments/1voumy9/bitcoin_empty_block/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ For context I’ve been in crypto since 2019…. This feeling feels all too simi
 
 Today I made my first $BTC buy tranche based on the metrics from the my Happy Wick app. Seeing Bitcoin 2% below the 200W SMA alongside an MVRV ratio of 1.19 gave me a strong signal. Factoring in the DXY at 99.64 and the US10Y at 4.7%, these are great indicators to start positioning for the next bull run. What are your thoughts?
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Today I made my first $BTC buy tranche based on the metrics from the my Happy Wi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Mashable • 1d ago
 
 Santiment says “crypto is dead” language is spreading as retail patience wears thin. ChatGPT said Bitcoin could fall below $10,000. A fall toward $2,000 would ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 4h ago
 
 Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -191,7 +191,15 @@ Forbes • 22h ago
 
 Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
 
-Sacramento Bee • 1d ago
+sacbee.com • 1d ago
+
+---
+
+**[XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)**
+
+Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -199,23 +207,15 @@ Sacramento Bee • 1d ago
 
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
-**[Two Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal](https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html)**
+**[Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.](https://www.fool.com/investing/2026/08/14/is-bitcoin-headed-for-a-breakdown-or-a-breakout/)**
 
-MSCI's new eligibility screen could remove Strategy and Metaplanet from its global indexes over their Bitcoin treasury models.
+Bitcoin's breakdowns are typically followed by surprise breakout rallies.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Strategy responds to MSCI’s proposed index exclusion rules](https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets)**
-
-The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.
-
-CoinDesk • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -225,11 +225,11 @@ thestreet.com • 1d ago
 
 ---
 
-**[Is Bitcoin Headed for a Breakdown or a Breakout? The Historical Evidence Is Just Too Overwhelming to Ignore.](https://www.fool.com/investing/2026/08/14/is-bitcoin-headed-for-a-breakdown-or-a-breakout/)**
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
 
-Bitcoin's breakdowns are typically followed by surprise breakout rallies.
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
 
-The Motley Fool • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -293,7 +293,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 453 • 💬 8 • ⏱️ 0:53 • 20h ago
+👁️ 26K • 👍 453 • 💬 8 • ⏱️ 0:53 • 21h ago
 
 ---
 
@@ -313,7 +313,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Krown
 
-👁️ 435 • 👍 25 • 💬 3 • ⏱️ 1:21 • 1h ago
+👁️ 435 • 👍 25 • 💬 3 • ⏱️ 1:21 • 2h ago
 
 ---
 
@@ -333,7 +333,7 @@ America is borrowing at a staggering pace, bond yields are flashing warning sign
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 470 • 💬 39 • ⏱️ 15:58 • 19h ago
+👁️ 10K • 👍 470 • 💬 39 • ⏱️ 15:58 • 20h ago
 
 ---
 

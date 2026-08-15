@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T14:48:40.184557+00:00'
+updated: '2026-08-15T15:20:32.582516+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 14:48 UTC  
+**Last Updated:** August 15, 2026 at 15:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -1.4%  
+**24h:** -0.0%  
+**7d:** -1.3%  
 **30d:** +2.2%  
 **90d:** -11.6%  
 **1y:** -57.4%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -164,7 +164,7 @@ Currently.com • 4h ago
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 2h ago
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -188,13 +188,13 @@ CryptoSlate • 15h ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 19h ago
+Benzinga • 20h ago
 
 ---
 
 **[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
-Grayscale • 1d ago
+Grayscale • 2d ago
 
 ---
 
@@ -220,11 +220,11 @@ The Block • 2d ago
 
 ---
 
-**[Fidelity Wants to Stake Almost All of Its Ethereum ETF](https://financefeeds.com/fidelity-wants-to-stake-almost-all-its-ethereum/)**
+**[Investors Stake Their Claim: ETHB Draws Fresh Inflows Even as Ethereum Slides](https://www.tipranks.com/news/cryptocurrencies/investors-stake-their-claim-ethb-draws-fresh-inflows-even-as-ethereum-slides)**
 
-Fidelity’s S-3 filing would let FETH stake up to 100% of its Ethereum, paying aggregate staking fees of 15% of rewards
+Fresh inflows into iShares’ new Ethereum vehicle are testing investor conviction in a choppy market. The iShares Staked Ethereum Trust ETF, ETHB, logged $3,859,289 ...
 
-FinanceFeeds • 20h ago
+TipRanks • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 5h ago
+👁️ 2K • 👍 365 • 💬 102 • ⏱️ 34:25 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 13h ago
+👁️ 2K • 👍 145 • 💬 7 • ⏱️ 7:21 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 3h ago
+👁️ 2K • 👍 435 • 💬 189 • ⏱️ 17:49 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ BMNR, Ethereum, BlackRock, Robinhood Chain and institutional crypto buying are a
 
 📺 Big Time Trades
 
-👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 16h ago
+👁️ 1K • 👍 94 • 💬 18 • ⏱️ 26:32 • 17h ago
 
 ---
 
@@ -328,7 +328,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 6K • 👍 3 • ⏱️ 6:17 • 21h ago
+👁️ 6K • 👍 3 • ⏱️ 6:17 • 22h ago
 
 ---
 
