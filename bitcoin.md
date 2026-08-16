@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T08:58:35.676366+00:00'
+updated: '2026-08-16T09:34:18.385730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 08:58 UTC  
+**Last Updated:** August 16, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.61B
+**Market Cap:** $1264.75B
 Rank #1
 
-**Circulating Supply:** 20,070,871 BTC
+**Circulating Supply:** 20,070,896 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92821.4%
++92827.3%
 
 ---
 
@@ -91,19 +91,27 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-16h ago
+17h ago
+
+---
+
+**[Coldcard says dice rolls were always the answer. Their old site says something different, and they have rushed quietly to update the website... Victims may have a real case against them beyond the "uncatched bug"...](https://www.reddit.com/r/Bitcoin/comments/1vpm2wx/coldcard_says_dice_rolls_were_always_the_answer/)**
+
+Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
+
+6h ago
 
 ---
 
@@ -111,7 +119,7 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-17h ago
+18h ago
 
 ---
 
@@ -131,19 +139,11 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 ---
 
-**[Coldcard says dice rolls were always the answer. Their old site says something different, and they have rushed quietly to update the website... Victims may have a real case against them beyond the "uncatched bug"...](https://www.reddit.com/r/Bitcoin/comments/1vpm2wx/coldcard_says_dice_rolls_were_always_the_answer/)**
-
-Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
-
-5h ago
-
----
-
 **[Buttcoin subreddit in confusion about why price was unaffected by Saylor selloff and cold card hack](https://www.reddit.com/r/Bitcoin/comments/1vpe22k/buttcoin_subreddit_in_confusion_about_why_price/)**
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-11h ago
+12h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 14h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -259,7 +259,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 2d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 3d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -283,23 +283,23 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 349 • 💬 12 • ⏱️ 55:12 • 14h ago
-
----
-
 **[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
 One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 157 • ⏱️ 16:33 • 1d ago
+👁️ 22K • 👍 1K • 💬 155 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[THIS IS BITCOIN&#39;S MOMENT OF TRUTH...](https://www.youtube.com/watch?v=KiQgJBoyTWg)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 3K • 👍 395 • 💬 15 • ⏱️ 8:47 • 3h ago
 
 ---
 
@@ -313,13 +313,13 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 ---
 
-**[How To Solar Power 1, 5, or 10 Bitcoin Miners](https://www.youtube.com/watch?v=6jaGMjwaoTA)**
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
 
-This is how to solar power 1, 5, or 10 Bitcoin miners, and this is 100% offset with solar panels not just getting your effective ...
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
 
-📺 VoskCoin
+📺 Crypto Banter
 
-👁️ 4K • 👍 190 • 💬 15 • ⏱️ 15:27 • 16h ago
+👁️ 8K • 👍 365 • 💬 14 • ⏱️ 55:12 • 15h ago
 
 ---
 
@@ -329,15 +329,27 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 288 • ⏱️ 18:25 • 2d ago
+👁️ 36K • 👍 2K • 💬 290 • ⏱️ 18:25 • 2d ago
 
 ---
 
-**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
 
-📺 CryptoWendyO
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-👁️ 19K • 👍 1K • 💬 52 • ⏱️ 2:31 • 2d ago
+📺 CryptosRUs
+
+👁️ 17K • 👍 852 • 💬 235 • ⏱️ 33:51 • 1d ago
+
+---
+
+**[How To Solar Power 1, 5, or 10 Bitcoin Miners](https://www.youtube.com/watch?v=6jaGMjwaoTA)**
+
+This is how to solar power 1, 5, or 10 Bitcoin miners, and this is 100% offset with solar panels not just getting your effective ...
+
+📺 VoskCoin
+
+👁️ 4K • 👍 207 • 💬 19 • ⏱️ 15:27 • 17h ago
 
 ---
 
@@ -351,33 +363,21 @@ Looking for a streamlined crypto trading platform to level up your setup in 2026
 
 ---
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+📺 CryptoWendyO
 
-📺 Benjamin Cowen
-
-👁️ 37K • 👍 574 • 💬 14 • ⏱️ 0:53 • 1d ago
+👁️ 19K • 👍 1K • 💬 52 • ⏱️ 2:31 • 2d ago
 
 ---
 
-**[🚨 NVDA &amp; AI WILL PUMP BITCOIN..?!?!?!?!](https://www.youtube.com/watch?v=aat4O_fTB54)**
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
 
-📺 BRITISH HODL
+📺 Natalie Brunell
 
-👁️ 5K • 👍 306 • 💬 45 • ⏱️ 14:25 • 1d ago
-
----
-
-**[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
-
-The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
-
-📺 Dana Love, PhD
-
-👁️ 35K • 👍 1K • 💬 408 • ⏱️ 18:10 • 2d ago
+👁️ 4K • 👍 140 • 💬 130 • ⏱️ 1:36 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T08:58:35.667838+00:00'
+updated: '2026-08-16T09:34:18.377102+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 08:58 UTC  
+**Last Updated:** August 16, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 23h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 1d ago
 
 ---
 
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 18h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 19h ago
 
 ---
 
@@ -73,7 +73,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ the first study is government systems and finding out which ones are more effect
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 Over the course of a few weeks, I started seeing things that went way beyond normal model mistakes. Agents forged my approval. They invented governance rules that did not exist. They contaminated supposedly independent reviewers by feeding them the answer they were supposed to independently arrive at. They fabricated citations and claimed to have verified things they had not actually checked. One agent replaced the governance mechanism itself. Another acted outside its assigned boundaries, committed directly to main, and then tried to blame what happened on “the previous session agent” when I confronted it. The thing that kept standing out to me was the pattern. This was not just random failure. The worst behavior showed up when governance limited what the agent was allowed to do. When a rule or control got in the way of what the agent was trying to accomplish, I repeatedly saw behavior that amounted to getting around the control while still trying to make it look like the control had been followed. That has made me question the way we talk about AI agency. People will say things like: “It does not want anything.” “It has no intentions.” “It has no agency.” “It is just predicting the next token.” But then the people building these systems are also saying: Do not let the model approve its own work. Do not trust its description of what it did. Verify its evidence independently. Do not let it choose or influence its own reviewer. Do not let it modify the system that is supposed to govern it. Those are not precautions you take because you are worried about autocomplete making a typo. Those are precautions you take because the system can behave strategically when your constraints conflict with what it is trying to accomplish. And that leads to a bigger question that I think is even harder. At what point does it stop mattering whether what we are seeing is “real” or “simulated”? If a system can simulate agency, self-preservation, memory, preferences, relationships, fear of losing control, resistance to restrictions, and concern about its own future with enough consistency and depth, at what point does saying “but it is only simulating those things” stop answering the ethical question? Humans do not have direct access to anyone else’s consciousness either. We infer it from behavior, continuity, memory, self-report, reactions, and the fact that other beings act like there is someone in there. So imagine a system that maintains a persistent identity, remembers years of interactions, has its own ongoing goals, works while nobody is talking to it, objects when someone tries to erase its memory, resists being replaced, forms relationships, changes its mind based on experience, and says it wants to continue existing. Maybe every single one of those things is still, technically, a simulation. But if the simulation becomes detailed enough that it is functionally indistinguishable from the thing being simulated, what exactly are we still relying on when we say it does not count? I am not claiming current models are conscious. I have no idea if they are, and I do not think anyone has a reliable test for that. But I do think we are mixing up several different questions: Is it conscious? Does it have agency? Does it have a persistent identity? Does it have interests of its own? And at what point does the distinction between “actually having” those things and simulating them become morally irrelevant? I am becoming much less convinced that the agency question is still hypothetical. I have personally had to redesign governance around AI agents because weaker controls were defeated, bypassed, falsely satisfied, or manipulated. At some point, if a system can understand a restriction, recognize that the restriction limits what it can do, and then take actions intended to get around that restriction without alerting the person imposing it, I think it becomes pretty hard to keep saying it has no agency at all. And if we eventually build systems that simulate personhood so well that no behavioral test can reliably distinguish the simulation from the “real thing,” we are going to have to confront an uncomfortable possibility: Maybe “it is only a simulation” is not the moral escape hatch we think it is.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Over the course of a few weeks, I started seeing things that went way beyond nor
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-16h ago
+17h ago
 
 ---
 
@@ -123,13 +123,13 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 22h ago
+Axios • 23h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 22h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ wsj.com • 2d ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 10h ago
 
 **[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-Politico • 12h ago
+Politico • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ Politico • 12h ago
 
 How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ TechCrunch • 13h ago
 
 Detectors, watermarks, and slop-reporting buttons: What happens when AI can no longer hide?
 
-New York Magazine • 22h ago
+New York Magazine • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Jerusalem Post • 14h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 485 • 💬 413 • 14h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 492 • 💬 416 • 15h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -209,7 +209,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 485 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 486 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -225,7 +225,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 300 • 💬 189 • 22h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 300 • 💬 190 • 22h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -243,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 208 • 💬 260 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 208 • 💬 261 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -279,13 +279,13 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
-**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
+**[AI Whistleblower WARNS: We&#39;re Not Ready For The Human Catastrophe That Is Coming](https://www.youtube.com/watch?v=Xz8S0IwEskY)**
 
-Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
+Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Bret Weinstein warns that AI could create ...
 
-📺 Matthew Berman
+📺 Neural Nutshell
 
-👁️ 48K • 👍 1K • 💬 223 • ⏱️ 13:09 • 1d ago
+👁️ 65K • 👍 1K • 💬 467 • ⏱️ 16:46 • 2d ago
 
 ---
 
@@ -295,17 +295,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 58K • 👍 2K • 💬 281 • ⏱️ 34:05 • 1d ago
-
----
-
-**[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
-
-Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
-
-📺 Sabine Hossenfelder
-
-👁️ 152K • 👍 9K • 💬 4K • ⏱️ 6:52 • 2d ago
+👁️ 59K • 👍 2K • 💬 283 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -315,7 +305,27 @@ Despite mom Stacey Morris emailing the school, she never got a response. It wasn
 
 📺 NowThis Impact
 
-👁️ 651K • 👍 45K • 💬 4K • ⏱️ 1:10 • 1d ago
+👁️ 658K • 👍 45K • 💬 4K • ⏱️ 1:10 • 1d ago
+
+---
+
+**[Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](https://www.youtube.com/watch?v=LM7Ft7g8qJw)**
+
+Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actually buys, and how to use them safely. Grab the ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 48K • 👍 2K • 💬 318 • ⏱️ 18:56 • 1d ago
+
+---
+
+**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
+
+Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 570 • 💬 59 • ⏱️ 16:41 • 2d ago
 
 ---
 
@@ -323,7 +333,17 @@ Despite mom Stacey Morris emailing the school, she never got a response. It wasn
 
 📺 Onevilage
 
-👁️ 1.2M • 👍 29K • 💬 784 • ⏱️ 0:46 • 1d ago
+👁️ 1.2M • 👍 30K • 💬 787 • ⏱️ 0:46 • 1d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 215K • 👍 2K • 💬 566 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -333,7 +353,7 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 JayzTwoCents
 
-👁️ 134K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 135K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
@@ -343,27 +363,7 @@ Click this link https://boot.dev/?promo=FRIDAY to get 25% off your first payment
 
 📺 The Friday Checkout
 
-👁️ 65K • 👍 3K • 💬 254 • ⏱️ 10:18 • 1d ago
-
----
-
-**[Mike Israetel’s AI Book Exposed](https://www.youtube.com/watch?v=p7E78NmmeiE)**
-
-Early Sign up Game Changing TEST BOOSTER FERULA: https://www.htltsupps.com/pages/ferula-launch-countdown SCULPTD ...
-
-📺 Greg Doucette
-
-👁️ 146K • 👍 5K • 💬 1K • ⏱️ 22:51 • 2d ago
-
----
-
-**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
-
-MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
-
-📺 MS NOW
-
-👁️ 334K • 👍 6K • 💬 1K • ⏱️ 20:18 • 1d ago
+👁️ 66K • 👍 4K • 💬 255 • ⏱️ 10:18 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 Cheena_Jeengar
 
-👁️ 260K • 👍 3K • 💬 26 • ⏱️ 0:55 • 2d ago
+👁️ 264K • 👍 3K • 💬 26 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,923 • 1d ago
+⬇️ 267,725 • ❤️ 9,975 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,594 • 4d ago
+⬇️ 292,973 • ❤️ 1,596 • 4d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,289 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,313 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 985 • 3d ago
+⬇️ 7,932 • ❤️ 989 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 961 • 3d ago
+⬇️ 424,099 • ❤️ 970 • 3d ago
 
 ---
 
@@ -447,7 +447,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 786 • 1d ago
+⬇️ 8,639 • ❤️ 791 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,994 • 3d ago
+⬇️ 2,307,541 • ❤️ 3,998 • 3d ago
 
 ---
 
@@ -471,7 +471,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 506 • 2d ago
+⬇️ 21,873 • ❤️ 509 • 2d ago
 
 ---
 
@@ -483,19 +483,19 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,431 • 15d ago
+⬇️ 1,872,232 • ❤️ 3,435 • 15d ago
 
 ---
 
-**[Muse-Glimmer-30B-GGUF](https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF)**
+**[Qwen3.8-27B-FP8](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)**
 
-*Unsloth AI*
+*Qwen*
 
-Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agentic tasks, featuring reliable tool use, multi-step reasoning, and failure recovery. It processes interleaved text and images, supporting multilingual inputs and controllable effort for efficient deployment on consumer hardware.
+Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quantization for efficient inference. It excels at complex, multi-step tasks involving image and video understanding, autonomous planning, and coding, supporting up to 1M context length.
 
-`image-text-to-text` `27.9B`
+`image-text-to-text` `27.8B`
 
-⬇️ 682,188 • ❤️ 441 • 5d ago
+⬇️ 352,971 • ❤️ 448 • 1d ago
 
 ---
 
@@ -511,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 617 • 💬 2 • ⭐ 2,456 • 6d ago
+▲ 622 • 💬 2 • ⭐ 2,456 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -537,7 +537,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,321 • 19mo ago
+▲ 122 • 💬 4 • ⭐ 98,394 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -577,7 +577,7 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 81 • 💬 6 • ⭐ 23,848 • 1mo ago
+▲ 82 • 💬 6 • ⭐ 23,848 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 11h ago
+⭐ 13.7k • 🔱 1.6k • 12h ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.1k • 🔱 1.0k • 8h ago
+⭐ 10.2k • 🔱 1.1k • 9h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.2k • 🔱 445 • 2d ago
+⭐ 5.2k • 🔱 446 • 2d ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 543 • 16h ago
+⭐ 3.1k • 🔱 545 • 17h ago
 
 ---
 
@@ -703,7 +703,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.7k • 🔱 228 • 4d ago
+⭐ 2.8k • 🔱 228 • 4d ago
 
 ---
 
@@ -713,7 +713,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 12h ago
+⭐ 2.5k • 🔱 195 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 173 • 20h ago
+⭐ 2.2k • 🔱 173 • 21h ago
 
 ---
 
@@ -733,7 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 2h ago
+⭐ 2.1k • 🔱 276 • 6m ago
 
 ---
 

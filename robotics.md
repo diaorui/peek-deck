@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T08:58:35.685667+00:00'
+updated: '2026-08-16T09:34:18.395278+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 08:58 UTC  
+**Last Updated:** August 16, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-12h ago
+13h ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-19h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-13h ago
+14h ago
 
 ---
 
@@ -142,7 +142,7 @@ CNBC • 2d ago
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -158,7 +158,7 @@ medscape.com • 1d ago
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 958K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+👁️ 960K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
 
 ---
 
@@ -216,6 +216,16 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 27K • 👍 722 • 💬 22 • ⏱️ 58:18 • 3d ago
+
+---
+
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
 Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
@@ -226,43 +236,23 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
 
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
 
-📺 Y Combinator
+📺 BBC News
 
-👁️ 27K • 👍 717 • 💬 21 • ⏱️ 58:18 • 3d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 213K • 👍 2K • 💬 560 • ⏱️ 10:16 • 1d ago
+👁️ 56K • 👍 710 • 💬 176 • ⏱️ 3:45 • 6d ago
 
 ---
 
-**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
-📺 Страна Возможностей
+📺 Guardian News
 
-👁️ 54K • 👍 337 • 💬 91 • ⏱️ 0:22 • 2d ago
-
----
-
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
-
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
-
-📺 KhanFlicks
-
-👁️ 43K • 💬 60 • ⏱️ 8:34 • 4d ago
+👁️ 40K • 👍 467 • 💬 128 • ⏱️ 3:48 • 4d ago
 
 ---
 
@@ -272,7 +262,17 @@ If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pa
 
 📺 Dr. Know-it-all Knows it all
 
-👁️ 3K • 👍 174 • 💬 79 • ⏱️ 21:51 • 2d ago
+👁️ 3K • 👍 176 • 💬 80 • ⏱️ 21:51 • 2d ago
+
+---
+
+**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+
+📺 Страна Возможностей
+
+👁️ 55K • 👍 341 • 💬 91 • ⏱️ 0:22 • 2d ago
 
 ---
 
@@ -282,17 +282,17 @@ My family thought they had secured an $80 billion deal and handed everything to 
 
 📺 Venus Drama Stories
 
-👁️ 86K • 👍 2K • 💬 128 • ⏱️ 17:26 • 2d ago
+👁️ 87K • 👍 2K • 💬 128 • ⏱️ 17:26 • 2d ago
 
 ---
 
-**[Trump&#39;s Robotic Nodding Aide](https://www.youtube.com/watch?v=dFbX5wGjWdY)**
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
 
-Courses: https://www.rtcourses.com/ Go Fund Me: https://gofund.me/e12bf94e Donate: ...
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
 
-📺 R&T Media 
+📺 TIME
 
-👁️ 117K • 👍 4K • 💬 651 • ⏱️ 0:19 • 4d ago
+👁️ 215K • 👍 2K • 💬 566 • ⏱️ 10:16 • 1d ago
 
 ---
 
