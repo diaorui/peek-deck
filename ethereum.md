@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T21:19:37.233875+00:00'
+updated: '2026-08-16T21:44:42.432420+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 21:19 UTC  
+**Last Updated:** August 16, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -172,7 +172,7 @@ Decrypt • 3d ago
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -181,14 +181,6 @@ finance.yahoo.com • 2d ago
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
 CryptoSlate • 1d ago
-
----
-
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
-
-The world's largest corporate holder of Ether continues to buy more tokens.
-
-The Motley Fool • 1d ago
 
 ---
 
@@ -210,7 +202,15 @@ Benzinga • 2d ago
 
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-CCN.com • 3d ago
+ccn.com • 3d ago
+
+---
+
+**[Solana Has Plans to Become 'The Netflix of Finance.' What Does That Mean for the Price of SOL?](https://www.fool.com/investing/2026/08/14/solana-has-plans-to-become-the-netflix-of-finance/)**
+
+Could the "Ethereum" killer unify the fragmented financial market?
+
+fool.com • 2d ago
 
 ---
 
@@ -220,11 +220,15 @@ Grayscale • 3d ago
 
 ---
 
-**[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
 
-Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
 
-Decrypt • 2d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 3d ago
 
 ---
 

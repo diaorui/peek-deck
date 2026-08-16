@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T21:19:37.220164+00:00'
+updated: '2026-08-16T21:44:42.416840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 21:19 UTC  
+**Last Updated:** August 16, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-7h ago
+8h ago
 
 ---
 
@@ -50,6 +50,14 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
 🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 3h ago
+
+---
+
+**[1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?](https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/)**
+
+Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
+
+4h ago
 
 ---
 
@@ -75,15 +83,7 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 5h ago
-
----
-
-**[1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?](https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/)**
-
-Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
-
-4h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 6h ago
 
 ---
 
@@ -91,7 +91,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,37 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 7h ago
+The New York Times • 12h ago
+
+---
+
+**[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)**
+
+On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
+
+TechCrunch • 1h ago
+
+---
+
+**[NVIDIA’s $3 Billion Bet on the Power Behind AI](https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html)**
+
+NVIDIA Corporation (NASDAQ:NVDA)’s latest push into the infrastructure supporting AI chips extends all the way to the power grid. According to a report from The Information, published on August 7, NVIDIA will spend up to $3 billion in Lancium, a power infrastructure developer and the firm behind the Stargate data center project in Abilene, Texas. […]
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Nvidia AI Financing Is The $500 Billion Risk Investors Aren’t Watching](https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/)**
+
+Nvidia AI financing is reshaping the AI boom as $500 billion of capital backs new infrastructure, raising fresh questions over risk, debt and returns.
+
+Forbes • 52m ago
 
 ---
 
@@ -153,34 +183,6 @@ The Guardian • 13h ago
 
 ---
 
-**[Can AI actually talk people out of conspiracy theories?](https://www.yahoo.com/news/videos/ai-actually-talk-people-conspiracy-200000272.html)**
-
-On Pioneers of AI, host Rana el Kaliouby talks with David Rand, Professor of Information Sciences at Cornell, about using AI to debunk conspiracy theories. His research found a 20% reduction in belief...
-
-Yahoo • 1h ago
-
----
-
-**[Stripe Nears Deal to Buy AI Firm OpenRouter for Over $7 Billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
-
-bloomberg.com • 1h ago
-
----
-
-**[Why Anthropic’s Provenance Policy Makes AI Accountability A Boardroom Imperative](https://www.forbes.com/sites/anjanasusarla/2026/08/16/why-anthropics-provenance-policy-makes-ai-accountability-a-boardroom-imperative/)**
-
-With Anthropic's new watermarks, content provenance becomes an auditable evidentiary chain. Enterprises deploying AI need audit logs for complex, multi-agent systems.
-
-Forbes • 1h ago
-
----
-
-**[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
-
-Axios • 10h ago
-
----
-
 **[‘Godfather of AI’ predicts mass unemployment is on its way](https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/)**
 
 While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
@@ -189,23 +191,23 @@ Fortune • 8h ago
 
 ---
 
-**[U.S. to tell partners they must pick sides in AI race with China: Reuters](https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html)**
+**[The AI boom has echoes of Enron — but that might be okay, a tech guru says](https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8)**
 
-The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
+Ram Bala, an AI and analytics guru, said the AI boom showcasing three of Enron's signature financial tactics, but it's "not like bubbles of the past."
 
-CNBC • 22h ago
+Business Insider • 11h ago
+
+---
+
+**[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
+
+Axios • 11h ago
 
 ---
 
 **[How AI Models From OpenAI and Anthropic Went Rogue](https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee)**
 
 WSJ • 5h ago
-
----
-
-**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
-
-Politico • 1d ago
 
 ---
 
@@ -673,7 +675,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 11.1k • 🔱 1.2k • 20h ago
+⭐ 11.1k • 🔱 1.2k • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T21:19:37.228183+00:00'
+updated: '2026-08-16T21:44:42.426013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 21:19 UTC  
+**Last Updated:** August 16, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-4h ago
+5h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://satoshitimeline.com/854
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-6h ago
+7h ago
 
 ---
 
@@ -123,13 +123,13 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-3h ago
+4h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -143,7 +143,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
 
-16h ago
+17h ago
 
 ---
 
@@ -167,25 +167,25 @@ Forbes • 9h ago
 
 ---
 
-**[Bitcoin Has Never Faced Global Bond Yields This High Since It Was Born](https://finance.yahoo.com/markets/crypto/articles/bitcoin-never-faced-global-bond-185854880.html)**
+**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
 
-Global bond yields hit 2008 highs, a level Bitcoin never traded through. Gold gained 32% while BTC lost 46%.
+CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
-**[Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)**
+**[BLOX: Bitcoin May Be Forming A Bottom, Collect Weekly Income In The Meantime](https://seekingalpha.com/article/4936703-blox-bitcoin-may-be-forming-a-bottom-collect-weekly-income-in-the-meantime)**
 
-UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
+Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-The Block • 1d ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 1d ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 5h ago
+Benzinga • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ Benzinga • 5h ago
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -279,7 +279,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 10h ago
+👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 5h ago
+👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 6h ago
 
 ---
 

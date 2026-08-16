@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T21:19:37.236914+00:00'
+updated: '2026-08-16T21:44:42.435954+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 21:19 UTC  
+**Last Updated:** August 16, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,7 +108,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32. The Pi runs the neural network and the ESP32 handles the servo signals, so I can switch between manual and autonomous driving at any time. I thought the project turned out pretty cool so I decided to share it. Lmk what you think!
 
-1d ago
+2d ago
 
 ---
 
@@ -116,19 +116,27 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 ## Google News: "robotics"
 
-**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
-
-Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
-
-Fox News • 5h ago
-
----
-
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
 CNBC • 2d ago
+
+---
+
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+
+NASA (.gov) • 2d ago
+
+---
+
+**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
+
+Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
+
+Fox News • 5h ago
 
 ---
 
@@ -142,15 +150,7 @@ South China Morning Post • 17h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-spectrum.ieee.org • 6h ago
-
----
-
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
-
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
-
-NASA (.gov) • 2d ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -166,13 +166,7 @@ Interesting Engineering • 1d ago
 
 EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
 
-Yahoo • 5h ago
-
----
-
-**[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
-
-The New York Times • 3d ago
+Yahoo • 6h ago
 
 ---
 
@@ -184,11 +178,17 @@ New Atlas • 2d ago
 
 ---
 
+**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+
+South Tahoe Now • 1d ago
+
+---
+
 **[Teams increase 138% as World Humanoid Robot Games expands scale and influence](https://www.globaltimes.cn/page/202608/1368304.shtml)**
 
 The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
 
-Global Times • 17h ago
+Global Times • 18h ago
 
 ---
 
