@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T14:22:34.737444+00:00'
+updated: '2026-08-16T14:49:16.114341+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 14:22 UTC  
+**Last Updated:** August 16, 2026 at 14:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -73,6 +73,12 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 9h ago
+
+---
+
+**[Has anyone tried Expert Picks (by Market Wind) in CoinDCX? How was your experience?](https://www.reddit.com/r/ethereum/comments/1vpyiiy/has_anyone_tried_expert_picks_by_market_wind_in/)**
+
+19m ago
 
 ---
 
@@ -140,14 +146,6 @@ Heya folks, interested if there's anyone here that's still actively using Maker 
 
 ---
 
-**[Where can I get small amounts of ETH Base for fees?](https://www.reddit.com/r/ethereum/comments/1vnaldr/where_can_i_get_small_amounts_of_eth_base_for_fees/)**
-
-Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,7 +170,7 @@ Yahoo Finance • 2d ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 1d ago
+cryptoslate.com • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 1h ago
+👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 2h ago
 
 ---
 

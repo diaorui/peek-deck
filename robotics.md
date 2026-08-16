@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T14:22:34.739666+00:00'
+updated: '2026-08-16T14:49:16.117609+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 14:22 UTC  
+**Last Updated:** August 16, 2026 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,14 +116,6 @@ So, a bit of self-promotion here, but I suspect a lot of you might have run into
 
 ## Google News: "robotics"
 
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
-
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
-
-NASA (.gov) • 1d ago
-
----
-
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
@@ -132,11 +124,25 @@ CNBC • 2d ago
 
 ---
 
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+
+NASA (.gov) • 1d ago
+
+---
+
 **[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-Interesting Engineering • 22h ago
+interestingengineering.com • 23h ago
+
+---
+
+**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+
+South Tahoe Now • 1d ago
 
 ---
 
@@ -151,20 +157,6 @@ The New York Times • 3d ago
 You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
 
 New Atlas • 2d ago
-
----
-
-**[High schoolers show off robotics skills at Leviathan Robotics Rampage in the Pablo Center](https://www.weau.com/video/2026/08/16/high-schoolers-show-off-robotics-skills-leviathan-robotics-rampage-pablo-center/)**
-
-High schoolers show off robotics skills at Leviathan Robotics Rampage in the Pablo Center
-
-WEAU • 11h ago
-
----
-
-**[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.wkow.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_886ac03f-a007-512f-9724-e53c7b0b3ad5.html)**
-
-WKOW • 1d ago
 
 ---
 
@@ -187,6 +179,14 @@ The Robot Report • 1d ago
 **[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
 
 Seeking Alpha • 1d ago
+
+---
+
+**[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
+
+A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
+
+Live Science • 2d ago
 
 ---
 

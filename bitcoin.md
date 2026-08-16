@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T14:22:34.733299+00:00'
+updated: '2026-08-16T14:49:16.108182+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 14:22 UTC  
+**Last Updated:** August 16, 2026 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-15h ago
+16h ago
 
 ---
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -161,31 +161,23 @@ CoinDesk • 22h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Strategy CEO Phong Le Thinks MSTR Stock Will Outperform Bitcoin During the Next Bull Market. Here's Why He's Wrong.](https://finance.yahoo.com/markets/stocks/articles/strategy-ceo-phong-le-thinks-110000248.html)**
+**[🚨𝗝𝗨𝗦𝗧 𝗜𝗡: El Salvador keeps adding bitcoin:native to its reserves almost every day, with no sells so far.](https://www.moomoo.com/community/feed/el-salvador-keeps-adding-bitcoin-native-to-its-reserves-almost-117105242210309)**
 
-Even if Bitcoin recovers, Strategy may have a difficult time regaining its former mojo.
+@DustyBC Crypto 2773 Views
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-riot-platforms-just-105000448.html)**
-
-Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
-
-Yahoo Finance • 3h ago
+Moomoo • 2h ago
 
 ---
 
-**[White House Leak Reveals Bitcoin And Crypto Are Suddenly Braced For A Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+**[Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap](https://finance.yahoo.com/markets/crypto/articles/could-bitcoin-ever-break-21-190725783.html)**
 
-Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
+Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.
 
-forbes.com • 2h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -194,22 +186,6 @@ forbes.com • 2h ago
 Real mining. Tiny footprint.
 
 Mashable • 2d ago
-
----
-
-**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
-
-Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
-
-WAFF • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
-
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -224,6 +200,30 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
 Investing.com • 1d ago
+
+---
+
+**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
+
+Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
+
+Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
+
+WAFF • 1d ago
+
+---
+
+**[10x Research's Thielen: $1M Bitcoin by 2030 Is Impossible](https://bitbo.io/news/thielen-1m-bitcoin-impossible/)**
+
+Markus Thielen of 10x Research argues bitcoin cannot reach $1 million by 2030 because it would require roughly $15 trillion in new capital inflows.
+
+Bitbo • 10h ago
 
 ---
 
