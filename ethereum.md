@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T15:21:30.767798+00:00'
+updated: '2026-08-16T15:46:27.717191+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 15:21 UTC  
+**Last Updated:** August 16, 2026 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.5%  
-**30d:** +1.1%  
-**90d:** -10.9%  
+**24h:** -0.0%  
+**7d:** +0.6%  
+**30d:** +1.2%  
+**90d:** -10.8%  
 **1y:** -57.9%  
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone tried Expert Picks (by Market Wind) in CoinDCX? How was your experience?](https://www.reddit.com/r/ethereum/comments/1vpyiiy/has_anyone_tried_expert_picks_by_market_wind_in/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 2h ago
+👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T15:21:30.771006+00:00'
+updated: '2026-08-16T15:46:27.720043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 15:21 UTC  
+**Last Updated:** August 16, 2026 at 15:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -136,7 +136,7 @@ NASA (.gov) • 1d ago
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-interestingengineering.com • 23h ago
+interestingengineering.com • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 27K • 👍 744 • 💬 24 • ⏱️ 58:18 • 3d ago
+👁️ 27K • 👍 744 • 💬 24 • ⏱️ 58:18 • 4d ago
 
 ---
 

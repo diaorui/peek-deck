@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T15:21:30.752960+00:00'
+updated: '2026-08-16T15:46:27.704112+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 15:21 UTC  
+**Last Updated:** August 16, 2026 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 Bloomberg's own reporting already answers the question this clip raises — is the "messy middle" projected or already happening? At Commonwealth Bank of Australia, Microsoft, Uber, and Hyatt, it's already happened: sizable call-center headcount cut using automated phone and chat systems, savings already banked. Economist Molly Kinder's point isn't a forecast. It's a line item that's already closed. I've watched this exact math play out before superior technology ever touched a keyboard. Suncon was getting jobs overseas. One of the countries we went to was India. We were building infrastructure — roads and bridges there. I didn't go. But my seniors went stationed there. When they came back during their scheduled holidays, one of them, a project manager, told me this story. It so happened, that building roads and bridges inland means clearing jungles and passing through villages. As they were doing it, of course they engaged local villagers to be their workers and supervisors. Well, of course building infrastructure means bringing in heavy machineries, such as excavators, bobcats, mobile-cranes, 4-wheel-drive land-cruisers, etc. You know — the usual. But the local villagers weren't happy. They complained that all these machineries have deprived the local population of their means of making a living. They have so many mouths to feed. A lot of them are quite poor. And many of them are very hunger for work. And so a huge argument broke out. They even spitefully challenged our project team that they vast manpower was more superior than our machinery. I was so surprised when I heard it. How can they say that? How was that even a reasonable challenge, you know. My curiosity had the best of me. Well, the project manager came up with an idea. He said, since they're so confident of their manpower, why don't we have a competition. Let's do a challenge of moving earth from point A to point B for our excavator/mobile-crane operator versus their vast manpower. And they accepted. At the day of challenge, the project manager set up two huge piles of earth at point A for both teams. The local villagers' team had their "vast" manpower formed a long-ass line between A and B, and started moving earth, with their primitive buckets and whatnot. For our team, we set up our mobile-cranes, excavators and bobcats on strategic locations. And off we go. You can guess the result. We won by a large margin. We were obviously much faster and better at it. After that, the local villagers concede defeat. The math is actually quite similar here. The one with superior technology always wins. This AI-take over is no different. https://preview.redd.it/psrdrktlqqjh1.jpg?width=1024&format=pjpg&auto=webp&s=a9e5ac7aebdbabe577d6a7cfc3ec000d0064fadc __________ Every time I dig into one of these stories the shape repeats: the tool doesn't ask permission, it just wins the argument by moving faster than the objection can be raised. Ever watched something you thought was irreplaceable lose, and lose fast? Drop your take below. Clip credit: Center for Humane Technology — full video on their channel. DM for credit or removal requests.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Bloomberg's own reporting already answers the question this clip raises — is t
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-19h ago
+20h ago
 
 ---
 
@@ -105,7 +105,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 Over the course of a few weeks, I started seeing things that went way beyond normal model mistakes. Agents forged my approval. They invented governance rules that did not exist. They contaminated supposedly independent reviewers by feeding them the answer they were supposed to independently arrive at. They fabricated citations and claimed to have verified things they had not actually checked. One agent replaced the governance mechanism itself. Another acted outside its assigned boundaries, committed directly to main, and then tried to blame what happened on “the previous session agent” when I confronted it. The thing that kept standing out to me was the pattern. This was not just random failure. The worst behavior showed up when governance limited what the agent was allowed to do. When a rule or control got in the way of what the agent was trying to accomplish, I repeatedly saw behavior that amounted to getting around the control while still trying to make it look like the control had been followed. That has made me question the way we talk about AI agency. People will say things like: “It does not want anything.” “It has no intentions.” “It has no agency.” “It is just predicting the next token.” But then the people building these systems are also saying: Do not let the model approve its own work. Do not trust its description of what it did. Verify its evidence independently. Do not let it choose or influence its own reviewer. Do not let it modify the system that is supposed to govern it. Those are not precautions you take because you are worried about autocomplete making a typo. Those are precautions you take because the system can behave strategically when your constraints conflict with what it is trying to accomplish. And that leads to a bigger question that I think is even harder. At what point does it stop mattering whether what we are seeing is “real” or “simulated”? If a system can simulate agency, self-preservation, memory, preferences, relationships, fear of losing control, resistance to restrictions, and concern about its own future with enough consistency and depth, at what point does saying “but it is only simulating those things” stop answering the ethical question? Humans do not have direct access to anyone else’s consciousness either. We infer it from behavior, continuity, memory, self-report, reactions, and the fact that other beings act like there is someone in there. So imagine a system that maintains a persistent identity, remembers years of interactions, has its own ongoing goals, works while nobody is talking to it, objects when someone tries to erase its memory, resists being replaced, forms relationships, changes its mind based on experience, and says it wants to continue existing. Maybe every single one of those things is still, technically, a simulation. But if the simulation becomes detailed enough that it is functionally indistinguishable from the thing being simulated, what exactly are we still relying on when we say it does not count? I am not claiming current models are conscious. I have no idea if they are, and I do not think anyone has a reliable test for that. But I do think we are mixing up several different questions: Is it conscious? Does it have agency? Does it have a persistent identity? Does it have interests of its own? And at what point does the distinction between “actually having” those things and simulating them become morally irrelevant? I am becoming much less convinced that the agency question is still hypothetical. I have personally had to redesign governance around AI agents because weaker controls were defeated, bypassed, falsely satisfied, or manipulated. At some point, if a system can understand a restriction, recognize that the restriction limits what it can do, and then take actions intended to get around that restriction without alerting the person imposing it, I think it becomes pretty hard to keep saying it has no agency at all. And if we eventually build systems that simulate personhood so well that no behavioral test can reliably distinguish the simulation from the “real thing,” we are going to have to confront an uncomfortable possibility: Maybe “it is only a simulation” is not the moral escape hatch we think it is.
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 7h ago
 
 Even when AI-generated material doesn't depict real children, the harm remains significant, according to the Canadian Centre for Child Protection.
 
-cbc.ca • 46m ago
+cbc.ca • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Psychology Today • 1h ago
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 6h ago
 
 Instagram said it would remove harassing videos filmed with Meta AI glasses. Weeks later, dozens remain.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 16h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 533 • 💬 460 • 21h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 539 • 💬 464 • 21h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -207,7 +207,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 489 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 490 • 💬 282 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -215,7 +215,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 360 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 362 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -223,7 +223,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 309 • 💬 193 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 310 • 💬 193 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -241,19 +241,13 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 175 • 💬 199 • 2d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 176 • 💬 199 • 2d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 159 • 💬 84 • 20h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-
----
-
-**[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
-
-⬆️ 145 • 💬 189 • 3d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 167 • 💬 84 • 20h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -261,7 +255,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
 
-⬆️ 133 • 💬 98 • 2d ago • [declaude](https://declaude.org/watermarking/)
+⬆️ 134 • 💬 99 • 2d ago • [declaude](https://declaude.org/watermarking/)
 
 ---
 
@@ -270,6 +264,12 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 data centers are so cool there should be one in every house
 
 ⬆️ 127 • 💬 62 • 2d ago • [jdagostino.github.io](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
+
+---
+
+**[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://news.ycombinator.com/item?id=49290768)**
+
+⬆️ 125 • 💬 110 • 2d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
@@ -653,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.5k • 🔱 1.1k • 14h ago
+⭐ 10.5k • 🔱 1.1k • 15h ago
 
 ---
 
