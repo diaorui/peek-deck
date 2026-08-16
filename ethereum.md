@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T16:51:26.304579+00:00'
+updated: '2026-08-16T17:19:05.456511+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 16:51 UTC  
+**Last Updated:** August 16, 2026 at 17:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 1d ago
 
 Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
 
-blockchain.news • 9h ago
+blockchain.news • 10h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 9 • ⏱️ 5:23 • 9h ago
+👁️ 2K • 👍 146 • 💬 9 • ⏱️ 5:23 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 123 • ⏱️ 18:05 • 14h ago
+👁️ 6K • 👍 245 • 💬 123 • ⏱️ 18:05 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 📺 The Coin Daily
 
-👁️ 10K • 👍 3 • ⏱️ 6:17 • 1d ago
+👁️ 10K • 👍 3 • ⏱️ 6:17 • 2d ago
 
 ---
 

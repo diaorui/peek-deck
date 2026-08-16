@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T16:51:26.298449+00:00'
+updated: '2026-08-16T17:19:05.450339+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 16:51 UTC  
+**Last Updated:** August 16, 2026 at 17:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -83,9 +83,33 @@ Rank #1
 
 ---
 
+**[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
+
+https://satoshitimeline.com/854
+
+46m ago
+
+---
+
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-7h ago
+8h ago
+
+---
+
+**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
+
+Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
+
+2h ago
+
+---
+
+**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
+
+Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
+
+2h ago
 
 ---
 
@@ -98,22 +122,6 @@ Rank #1
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
 1d ago
-
----
-
-**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
-
-Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
-
-2h ago
-
----
-
-**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
-
-Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
-
-2h ago
 
 ---
 
@@ -134,14 +142,6 @@ Before the hack their marketing frontpage (using last snapshot pre hack event, J
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
-
-1d ago
-
----
-
-**[bitcoin has matured so much](https://www.reddit.com/r/Bitcoin/comments/1vp513u/bitcoin_has_matured_so_much/)**
-
-> 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
 1d ago
 
@@ -179,7 +179,7 @@ Yahoo Finance • 8h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 2d ago
 
 Markus Thielen of 10x Research argues bitcoin cannot reach $1 million by 2030 because it would require roughly $15 trillion in new capital inflows.
 
-Bitbo • 12h ago
+Bitbo • 13h ago
 
 ---
 
@@ -303,7 +303,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 425 • 💬 21 • ⏱️ 55:12 • 22h ago
+👁️ 10K • 👍 425 • 💬 21 • ⏱️ 55:12 • 23h ago
 
 ---
 
@@ -343,7 +343,7 @@ Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing cov
 
 📺 Bitcoin Unleashed with Oliver Velez
 
-👁️ 2K • 👍 124 • 💬 29 • ⏱️ 8:30 • 20h ago
+👁️ 2K • 👍 124 • 💬 29 • ⏱️ 8:30 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T16:51:26.289960+00:00'
+updated: '2026-08-16T17:19:05.441817+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 16:51 UTC  
+**Last Updated:** August 16, 2026 at 17:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -75,7 +75,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
-48m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-20h ago
+21h ago
 
 ---
 
@@ -149,25 +149,25 @@ The New York Times • 3h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
 **[We should start building fiscal insurance for the AI era](https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/)**
 
-The Hill • 51m ago
+The Hill • 1h ago
 
 ---
 
 **[How OpenAI's and Anthropic's AI Models Went Rogue](https://www.wsj.com/video/how-openai-and-anthropics-ai-models-went-rogue/32BA18D7-EF32-4580-A46A-78003C0FE77C)**
 
-WSJ • 50m ago
+WSJ • 1h ago
 
 ---
 
 **[Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy](https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy)**
 
-South China Morning Post • 51m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 18h ago
 
 Northeastern University and Endicott College are among schools introducing degrees in AI.
 
-The Boston Globe • 10h ago
+The Boston Globe • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Boston Globe • 10h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 549 • 💬 464 • 22h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 549 • 💬 464 • 23h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -263,7 +263,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 170 • 💬 84 • 21h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 170 • 💬 84 • 22h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -309,7 +309,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 232K • 👍 11K • 💬 1K • ⏱️ 15:53 • 23h ago
+👁️ 232K • 👍 11K • 💬 1K • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Ben Esherick
 
-👁️ 259K • 👍 20K • 💬 268 • ⏱️ 0:39 • 15h ago
+👁️ 259K • 👍 20K • 💬 268 • ⏱️ 0:39 • 16h ago
 
 ---
 
@@ -655,7 +655,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 39m ago
+⭐ 13.7k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 544 • 42m ago
+⭐ 3.1k • 🔱 544 • 1h ago
 
 ---
 
@@ -743,7 +743,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 2h ago
+⭐ 2.1k • 🔱 277 • 3h ago
 
 ---
 

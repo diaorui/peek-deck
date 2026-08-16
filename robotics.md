@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T16:51:26.307768+00:00'
+updated: '2026-08-16T17:19:05.459809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 16:51 UTC  
+**Last Updated:** August 16, 2026 at 17:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 9h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 10h ago
 
 ---
 
@@ -68,7 +68,7 @@ Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea 
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-19h ago
+20h ago
 
 ---
 
@@ -76,7 +76,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-20h ago
+21h ago
 
 ---
 
@@ -108,7 +108,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 44m ago
+Fox News • 1h ago
 
 ---
 
@@ -128,7 +128,7 @@ Fox News • 44m ago
 
 Foundation CEO Sankaet Pathak says Phantom robots could eventually detect people, navigate uneven terrain and flag activity for federal border officers.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
