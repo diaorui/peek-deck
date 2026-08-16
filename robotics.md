@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T04:35:37.678656+00:00'
+updated: '2026-08-16T05:28:25.698099+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 04:35 UTC  
+**Last Updated:** August 16, 2026 at 05:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-7h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-15h ago
+16h ago
 
 ---
 
@@ -92,7 +92,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-9h ago
+10h ago
 
 ---
 
@@ -134,7 +134,7 @@ Bloomberg.com • 3d ago
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 1d ago
+nasa.gov • 1d ago
 
 ---
 
@@ -154,11 +154,11 @@ Medscape • 1d ago
 
 ---
 
-**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
+**[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
 
-A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
+Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-Interesting Engineering • 15h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -170,6 +170,12 @@ New Atlas • 1d ago
 
 ---
 
+**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
+
+South China Morning Post • 1h ago
+
+---
+
 **[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
 
 A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
@@ -178,17 +184,11 @@ Live Science • 2d ago
 
 ---
 
-**[Kraken Robotics Schedules Q2 2026 Financial Results Release and Webcast](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-schedules-q2-2026-103000366.html)**
+**[Robots that walk and talk are coming to car factories](https://www.thestar.com.my/tech/tech-news/2026/08/16/robots-that-walk-and-talk-are-coming-to-car-factories)**
 
-TORONTO, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces that it will release its second quarter 2026 financial results prior to the opening of markets on Thursday, August 27, 2026. Kraken’s management will hold a conference call at 8:30 a.m. ET the same day to discuss the Company’s results and outlook. Participants can listen to this event at the webcast details below, or by dialing 1-833-752-3301 (North America) or +1-647-
+But experts warn they may not deliver the gains in efficiency that proponents claim.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
-
-Seeking Alpha • 1d ago
+The Star • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 958K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+👁️ 961K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
 
 ---
 
@@ -212,17 +212,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 27K • 👍 709 • 💬 21 • ⏱️ 58:18 • 3d ago
-
----
-
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
-
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
-
-📺 DEEP Robotics
-
-👁️ 28K • 👍 108 • 💬 13 • ⏱️ 0:18 • 3d ago
+👁️ 27K • 👍 713 • 💬 21 • ⏱️ 58:18 • 3d ago
 
 ---
 
@@ -236,43 +226,23 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
+
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
+
+📺 DEEP Robotics
+
+👁️ 28K • 👍 110 • 💬 13 • ⏱️ 0:18 • 3d ago
+
+---
+
 **[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
 
 Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
 
 📺 TIME
 
-👁️ 205K • 👍 2K • 💬 539 • ⏱️ 10:16 • 1d ago
-
----
-
-**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
-
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
-
-📺 Страна Возможностей
-
-👁️ 53K • 👍 332 • 💬 90 • ⏱️ 0:22 • 1d ago
-
----
-
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 30K • 👍 1K • 💬 118 • ⏱️ 18:39 • 3d ago
-
----
-
-**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
-
-My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
-
-📺 Venus Drama Stories
-
-👁️ 83K • 👍 2K • 💬 126 • ⏱️ 17:26 • 2d ago
+👁️ 210K • 👍 2K • 💬 551 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -282,17 +252,47 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 43K • 💬 58 • ⏱️ 8:34 • 4d ago
+👁️ 43K • 💬 60 • ⏱️ 8:34 • 4d ago
 
 ---
 
-**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
+**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
 
-This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
 
-📺 Valor and Liberty
+📺 Страна Возможностей
 
-👁️ 779K • 👍 2K • 💬 135 • ⏱️ 0:07 • 5d ago
+👁️ 54K • 👍 332 • 💬 90 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[The World’s First Flying Transformable Humanoid Robot? #robotics #robot #futuretech](https://www.youtube.com/watch?v=npBnsWfXnw4)**
+
+What if the closest thing yet to a real-life Transformer is being built in Shenzhen? Arkshel Robotics has unveiled the MX01, ...
+
+📺 Kalil 4.0
+
+👁️ 869 • 👍 42 • 💬 6 • ⏱️ 0:52 • 7h ago
+
+---
+
+**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
+
+If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
+
+📺 Dr. Know-it-all Knows it all
+
+👁️ 3K • 👍 172 • 💬 79 • ⏱️ 21:51 • 2d ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 467 • 💬 128 • ⏱️ 3:48 • 4d ago
 
 ---
 

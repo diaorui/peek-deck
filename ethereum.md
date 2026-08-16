@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T04:35:37.675335+00:00'
+updated: '2026-08-16T05:28:25.694882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 04:35 UTC  
+**Last Updated:** August 16, 2026 at 05:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,885.07
+### $1,882.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +0.6%  
-**30d:** +1.1%  
-**90d:** -10.8%  
-**1y:** -57.9%  
+**24h:** -0.1%  
+**7d:** +0.4%  
+**30d:** +1.0%  
+**90d:** -10.9%  
+**1y:** -58.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.09B
+**Market Cap:** $226.77B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.0%
 
 **All-Time Low:** $0.43
-+434574.7%
++433895.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 12h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Ethereum’s All Core Developers Execution Call #243 delivered several decisions
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Title says it all, looking to figure out where I can get small amounts of ETH Ba
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 1d ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 1d ago
+benzinga.com • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 1d ago
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -244,7 +244,17 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 336 • 👍 36 • 💬 3 • ⏱️ 18:05 • 2h ago
+👁️ 1K • 👍 128 • 💬 7 • ⏱️ 18:05 • 3h ago
+
+---
+
+**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 7K • 👍 804 • 💬 219 • ⏱️ 17:49 • 18h ago
 
 ---
 
@@ -254,7 +264,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 19h ago
+👁️ 5K • 👍 531 • 💬 162 • ⏱️ 34:25 • 20h ago
 
 ---
 
@@ -278,16 +288,6 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
-**[Bitcoin, Ethereum And XRP Aren&#39;t The Full Picture Every Cryptocurrency Investor Is Missing This](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
-
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 789 • 💬 220 • ⏱️ 17:49 • 17h ago
-
----
-
 **[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
 
 JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
@@ -298,23 +298,13 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 ---
 
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
 
-📺 Crypto Crew University
+📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 308 • 💬 9 • ⏱️ 0:31 • 1d ago
-
----
-
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
-
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 165 • 💬 7 • ⏱️ 7:21 • 1d ago
+👁️ 11K • 👍 1K • 💬 304 • ⏱️ 11:56 • 1d ago
 
 ---
 
@@ -328,13 +318,23 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 ---
 
-**[DonAlt Bought ETH (and Thinks It Can Go Back to $4K)](https://www.youtube.com/watch?v=RLPwHDxbvkQ)**
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
 
-DonAlt finally bought ETH near resistance, with $4K upside if the market's long compression breaks the right way. Trade crypto ...
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
 
-📺 TechnicalRoundup
+📺 More Crypto Online
 
-👁️ 4K • 👍 179 • 💬 53 • ⏱️ 1:24:09 • 17h ago
+👁️ 3K • 👍 167 • 💬 7 • ⏱️ 7:21 • 1d ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 11K • 👍 311 • 💬 9 • ⏱️ 0:31 • 1d ago
 
 ---
 
