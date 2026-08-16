@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T22:47:00.942632+00:00'
+updated: '2026-08-16T23:19:49.617159+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 22:47 UTC  
+**Last Updated:** August 16, 2026 at 23:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.18B
+**Market Cap:** $226.07B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.9%
+-62.1%
 
 **All-Time Low:** $0.43
-+434671.7%
++432477.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -196,7 +196,7 @@ CryptoSlate • 1d ago
 
 Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
 
-blockchain.news • 5h ago
+blockchain.news • 6h ago
 
 ---
 
@@ -238,27 +238,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 10h ago
+👁️ 18K • 👍 787 • 💬 88 • ⏱️ 15:54 • 10h ago
 
 ---
 
-**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+**[ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA?](https://www.youtube.com/watch?v=6YPxVyrMQk0)**
 
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
-📺 Money Rules - Investing Tips 
+📺 Luiz Fernando
 
-👁️ 8K • 👍 855 • 💬 233 • ⏱️ 17:49 • 1d ago
-
----
-
-**[BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6ty4T4MnfAw)**
-
-BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 263 • 💬 156 • ⏱️ 18:05 • 20h ago
+👁️ 455 • 👍 77 • 💬 20 • ⏱️ 14:12 • 1h ago
 
 ---
 
@@ -268,17 +258,27 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 549 • 💬 99 • ⏱️ 34:25 • 1d ago
+👁️ 6K • 👍 550 • 💬 99 • ⏱️ 34:25 • 1d ago
 
 ---
 
-**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
+**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
 
-In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
 
-📺 More Crypto Online
+📺 Money Rules - Investing Tips 
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 5:23 • 15h ago
+👁️ 8K • 👍 859 • 💬 233 • ⏱️ 17:49 • 1d ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 13K • 👍 333 • 💬 9 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -292,26 +292,6 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 ---
 
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 13K • 👍 327 • 💬 9 • ⏱️ 0:31 • 2d ago
-
----
-
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 240 • ⏱️ 11:56 • 2d ago
-
----
-
 **[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
 
 Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
@@ -322,13 +302,33 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 ---
 
-**[Holding Ethereum Over ADA Costs $47,000](https://www.youtube.com/watch?v=IDGWfaS2OOE)**
+**[Jesse Pollak: Why Base&#39;s Growth Is Ethereum&#39;s Growth (The Endgame Is Everything Onchain)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
 
-I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
 
-📺 Cheeky Crypto Unfiltered
+📺 The Rollup
 
-👁️ 1K • 👍 90 • 💬 15 • ⏱️ 13:16 • 1d ago
+👁️ 779 • 👍 25 • 💬 2 • ⏱️ 9:19 • 23h ago
+
+---
+
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 550 • 💬 36 • ⏱️ 10:44 • 2d ago
+
+---
+
+**[BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6ty4T4MnfAw)**
+
+BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 266 • 💬 156 • ⏱️ 18:05 • 21h ago
 
 ---
 

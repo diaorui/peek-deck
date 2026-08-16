@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T22:47:00.945565+00:00'
+updated: '2026-08-16T23:19:49.620420+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 22:47 UTC  
+**Last Updated:** August 16, 2026 at 23:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-11h ago
-
----
-
-**[Any need one of these? We need help](https://www.reddit.com/r/robotics/comments/1vq2o85/any_need_one_of_these_we_need_help/)**
-
-Got 6x new Sony FCB-EV9520L blocks and 40x driver board pairs from a surplus project. Anyone here building custom ROVs or gimbals? Wy dont now what do now we need help thanks
-
-5h ago
+12h ago
 
 ---
 
@@ -68,7 +60,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 15h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 16h ago
 
 ---
 
@@ -112,6 +104,14 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 ---
 
+**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
+
+🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -136,13 +136,13 @@ NASA (.gov) • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-foxnews.com • 6h ago
+foxnews.com • 7h ago
 
 ---
 
 **[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
 
-South China Morning Post • 18h ago
+South China Morning Post • 19h ago
 
 ---
 
@@ -196,16 +196,6 @@ The Robot Report • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
-
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
-
-📺 Fireship
-
-👁️ 972K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
-
----
-
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
 Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
@@ -213,6 +203,26 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 📺 DEEP Robotics
 
 👁️ 30K • 👍 113 • 💬 14 • ⏱️ 0:18 • 4d ago
+
+---
+
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+
+📺 Fireship
+
+👁️ 975K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 473 • 💬 133 • ⏱️ 3:48 • 5d ago
 
 ---
 
@@ -226,33 +236,23 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 ---
 
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
 
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
 
-📺 Imagination in Action
+📺 KhanFlicks
 
-👁️ 9K • 👍 306 • 💬 45 • ⏱️ 1:12:16 • 5d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 224K • 👍 2K • 💬 591 • ⏱️ 10:16 • 2d ago
+👁️ 51K • 💬 60 • ⏱️ 8:34 • 5d ago
 
 ---
 
-**[Why I Quit My PhD in Robotics – Did I Make a Mistake?](https://www.youtube.com/watch?v=hoGCq23-x8U)**
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
 
-Join Robotics Builder Membership for Behind the Scene Videos: ...
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
 
-📺 Kevin Wood | Robotics & AI
+📺 Food For Robots
 
-👁️ 13K • 👍 328 • 💬 57 • ⏱️ 11:50 • 6d ago
+👁️ 36K • 👍 2K • 💬 130 • ⏱️ 18:39 • 4d ago
 
 ---
 
@@ -266,23 +266,13 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 ---
 
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
 
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
 
-📺 Food For Robots
+📺 TIME
 
-👁️ 36K • 👍 2K • 💬 132 • ⏱️ 18:39 • 4d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 40K • 👍 552 • 💬 109 • ⏱️ 7:05 • 5d ago
+👁️ 226K • 👍 3K • 💬 591 • ⏱️ 10:16 • 2d ago
 
 ---
 
@@ -292,7 +282,17 @@ My family thought they had secured an $80 billion deal and handed everything to 
 
 📺 Venus Drama Stories
 
-👁️ 97K • 👍 3K • 💬 141 • ⏱️ 17:26 • 3d ago
+👁️ 98K • 👍 3K • 💬 143 • ⏱️ 17:26 • 3d ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 29K • 👍 773 • 💬 26 • ⏱️ 58:18 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T22:47:00.937101+00:00'
+updated: '2026-08-16T23:19:49.610831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 22:47 UTC  
+**Last Updated:** August 16, 2026 at 23:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.86B
+**Market Cap:** $1261.13B
 Rank #1
 
-**Circulating Supply:** 20,071,150 BTC
+**Circulating Supply:** 20,071,190 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-50.2%
 
 **All-Time Low:** $67.81
-+92836.1%
++92560.4%
 
 ---
 
@@ -87,7 +87,7 @@ https://satoshitimeline.com/854
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-forbes.com • 10h ago
+forbes.com • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ forbes.com • 10h ago
 
 Trump meets crypto leaders, Fed minutes land, and Japan tests the carry trade. Four catalysts that could move Bitcoin and XRP.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investing.com • 13h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -199,7 +199,7 @@ TradingView • 6h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -277,7 +277,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 12h ago
+👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 12h ago
 
 ---
 
@@ -287,27 +287,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 180 • ⏱️ 16:33 • 1d ago
-
----
-
-**[“It’s Rigged!” 40-Year Trading Veteran Warns ‘Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=oF7GpCPLfNc)**
-
-40-Year Trading Veteran Mike Novogratz reveals news for Bitcoin, crypto & MORE! Trade Stocks (unlock $100k): ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 101 • ⏱️ 9:13 • 2d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 448 • 💬 22 • ⏱️ 55:12 • 1d ago
+👁️ 23K • 👍 2K • 💬 164 • ⏱️ 16:33 • 1d ago
 
 ---
 
@@ -317,17 +297,55 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 614 • 💬 15 • ⏱️ 0:53 • 2d ago
+👁️ 42K • 👍 623 • 💬 15 • ⏱️ 0:53 • 2d ago
 
 ---
 
-**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
 
-Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
 
-📺 VoskCoin
+📺 Crypto Banter
 
-👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 4h ago
+👁️ 11K • 👍 454 • 💬 22 • ⏱️ 55:12 • 1d ago
+
+---
+
+**[Bitcoin Price Chart Behaving While Altcoins Hit On-Chain, Sentiment Shock Starts for Crypto and XRP](https://www.youtube.com/watch?v=MFe8F5dsg7U)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 27K • 👍 3K • 💬 2 • ⏱️ 18:56 • 1d ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 77K • 👍 2K • 💬 36 • ⏱️ 0:54 • 2d ago
+
+---
+
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 872 • 💬 246 • ⏱️ 33:51 • 2d ago
+
+---
+
+**[The Greatest Macro Trader On Earth Just Signaled Next Crypto Opportunity (and They Have No Idea)](https://www.youtube.com/watch?v=65i9l5yJYkM)**
+
+The greatest macro trader on earth just dropped a clear signal on the next major crypto opportunity, complete with catalysts and ...
+
+📺 Altcoin Daily
+
+👁️ 22K • 👍 1K • 💬 211 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -337,37 +355,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 1d ago
+👁️ 4K • 👍 119 • 💬 3 • ⏱️ 1:00 • 1d ago
 
 ---
 
-**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
 
-Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
 
-📺 Thinking Crypto
+📺 Bitcoin University
 
-👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 7h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 2K • 💬 324 • ⏱️ 18:25 • 3d ago
-
----
-
-**[I LOST BITCOIN DOING EVERYTHING RIGHT](https://www.youtube.com/watch?v=pJWkk0_H9Kg)**
-
-Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing covering price structure, ETF flows, on-chain signals, ...
-
-📺 Bitcoin Unleashed with Oliver Velez
-
-👁️ 2K • 👍 128 • 💬 43 • ⏱️ 8:30 • 1d ago
+👁️ 5K • 👍 726 • 💬 448 • ⏱️ 14:27 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T22:47:00.929375+00:00'
+updated: '2026-08-16T23:19:49.602224+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 22:47 UTC  
+**Last Updated:** August 16, 2026 at 23:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 4h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 I’m just curious: in the era of artificial intelligence, is there anything left that AI cannot yet automate—something that still requires a specialized system?
 
-10m ago
+43m ago
 
 ---
 
@@ -131,7 +131,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
-6h ago
+7h ago
 
 ---
 
@@ -141,13 +141,13 @@ I put together this week's issue around a pattern that kept repeating across ver
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 13h ago
 
 More home listings are using AI to add furniture, repaint walls, spruce up landscaping and even add windows. But when does virtual staging cross the line into deception or even fraud? CBS News' Evyn Moon explores.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -169,13 +169,13 @@ Fortune • 1h ago
 
 **[The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center](https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
 **[With A.I. Riches at Stake, Pressures Mount to Share the Wealth](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ ABC7 Bay Area • 1h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Axios • 12h ago
 
 **[How AI Models From OpenAI and Anthropic Went Rogue](https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -279,7 +279,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
 
-⬆️ 137 • 💬 99 • 2d ago • [declaude](https://declaude.org/watermarking/)
+⬆️ 137 • 💬 99 • 3d ago • [declaude](https://declaude.org/watermarking/)
 
 ---
 
@@ -301,7 +301,17 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 22K • 👍 463 • 💬 70 • ⏱️ 5:52 • 6h ago
+👁️ 32K • 👍 554 • 💬 84 • ⏱️ 5:52 • 7h ago
+
+---
+
+**[The Dark Reality of AI Training](https://www.youtube.com/watch?v=9XlOaVItUgI)**
+
+Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
+
+📺 Species | Documenting AGI
+
+👁️ 85K • 👍 5K • 💬 790 • ⏱️ 22:19 • 1d ago
 
 ---
 
@@ -311,7 +321,17 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 283K • 👍 12K • 💬 2K • ⏱️ 15:53 • 1d ago
+👁️ 308K • 👍 13K • 💬 2K • ⏱️ 15:53 • 1d ago
+
+---
+
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
+
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
+
+📺 Matthew Berman
+
+👁️ 54K • 👍 1K • 💬 222 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -321,15 +341,43 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 64K • 👍 3K • 💬 293 • ⏱️ 34:05 • 2d ago
+👁️ 65K • 👍 3K • 💬 295 • ⏱️ 34:05 • 2d ago
 
 ---
 
-**[LIFHAK #aishorts #ai #aivideo #lifehacks](https://www.youtube.com/watch?v=hojs_hnZZpQ)**
+**[Makeup that looks ai generated 🤖 #makeup #makeupinspo #makeupproducts #ai #generativeai #beauty](https://www.youtube.com/watch?v=Q0rMz-8rkX8)**
 
-📺     📚 Hikmat_Tomchisi
+📺 Ronnibears
 
-👁️ 59K • 👍 239 • 💬 1 • ⏱️ 0:11 • 11h ago
+👁️ 5K • 👍 262 • 💬 3 • ⏱️ 0:14 • 4h ago
+
+---
+
+**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
+
+Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
+
+📺 NowThis Impact
+
+👁️ 703K • 👍 49K • 💬 4K • ⏱️ 1:10 • 2d ago
+
+---
+
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
+
+📺 Onevilage
+
+👁️ 1.3M • 👍 32K • 💬 845 • ⏱️ 0:46 • 2d ago
+
+---
+
+**[Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](https://www.youtube.com/watch?v=LM7Ft7g8qJw)**
+
+Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actually buys, and how to use them safely. Grab the ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 55K • 👍 2K • 💬 345 • ⏱️ 18:56 • 2d ago
 
 ---
 
@@ -339,55 +387,7 @@ Can Artificial Intelligence actually help you set up your mountain bike suspensi
 
 📺 GMBN Tech
 
-👁️ 4K • 👍 190 • 💬 33 • ⏱️ 20:30 • 13h ago
-
----
-
-**[4 wild AI predictions from a $39B tech founder](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
-
-Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
-
-📺 My First Million
-
-👁️ 25K • 👍 564 • 💬 155 • ⏱️ 58:11 • 2d ago
-
----
-
-**[MORE Bad News for AI (and GOOD news for us!)](https://www.youtube.com/watch?v=UYdOwxqvpzk)**
-
-AI Data Centers are being denied more and more as politicians are finally opening their stupid eyes to the impact this is having ...
-
-📺 JayzTwoCents
-
-👁️ 140K • 👍 9K • 💬 2K • ⏱️ 21:07 • 3d ago
-
----
-
-**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
-
-Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 577 • 💬 61 • ⏱️ 16:41 • 2d ago
-
----
-
-**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
-
-MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
-
-📺 MS NOW
-
-👁️ 412K • 👍 7K • 💬 1K • ⏱️ 20:18 • 1d ago
-
----
-
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 1.3M • 👍 32K • 💬 834 • ⏱️ 0:46 • 2d ago
+👁️ 5K • 👍 213 • 💬 36 • ⏱️ 20:30 • 14h ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 10,228 • 2d ago
+⬇️ 267,725 • ❤️ 10,256 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 292,973 • ❤️ 1,622 • 5d ago
+⬇️ 292,973 • ❤️ 1,625 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 1,945,635 • ❤️ 1,426 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,445 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 1,003 • 4d ago
+⬇️ 7,932 • ❤️ 1,005 • 4d ago
 
 ---
 
@@ -451,7 +451,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 1,008 • 10h ago
+⬇️ 424,099 • ❤️ 1,020 • 11h ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 826 • 2d ago
+⬇️ 8,639 • ❤️ 832 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,307,541 • ❤️ 4,021 • 3d ago
+⬇️ 2,307,541 • ❤️ 4,023 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 526 • 3d ago
+⬇️ 21,873 • ❤️ 530 • 3d ago
 
 ---
 
@@ -499,7 +499,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 352,971 • ❤️ 473 • 2d ago
+⬇️ 352,971 • ❤️ 478 • 2d ago
 
 ---
 
@@ -511,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 718,178 • ❤️ 452 • 6d ago
+⬇️ 718,178 • ❤️ 453 • 6d ago
 
 ---
 
@@ -567,7 +567,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 94 • 💬 1 • ⭐ 1,419 • 13d ago
+▲ 94 • 💬 1 • ⭐ 1,479 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -607,7 +607,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 42 • 💬 3 • ⭐ 1,098 • 13d ago
+▲ 42 • 💬 3 • ⭐ 1,130 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -632,7 +632,7 @@ A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentat
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,168 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,223 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -661,7 +661,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 6h ago
+⭐ 13.7k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -671,7 +671,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 11.1k • 🔱 1.2k • 22h ago
+⭐ 11.3k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -709,7 +709,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 545 • 6h ago
+⭐ 3.2k • 🔱 545 • 7h ago
 
 ---
 
@@ -729,7 +729,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 14h ago
+⭐ 2.5k • 🔱 196 • 15h ago
 
 ---
 
@@ -749,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 8h ago
+⭐ 2.1k • 🔱 277 • 9h ago
 
 ---
 
