@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T01:18:56.930785+00:00'
+updated: '2026-08-16T02:42:17.882648+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 01:18 UTC  
+**Last Updated:** August 16, 2026 at 02:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 16h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 17h ago
 
 ---
 
@@ -57,31 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 11h ago
-
----
-
-**[Training and unlimited API inference for Small Language Models](https://www.reddit.com/r/artificial/comments/1vpfvgy/training_and_unlimited_api_inference_for_small/)**
-
-For a long time, I’ve had the feeling that generative AI models, for most of the tasks they’re used for, don’t actually need the oversized capabilities offered by frontier models. On top of that, they’re often prohibitively expensive when accessed via API. An open-source model with 4–14 billion parameters, multimodal capabilities, and the right harness of tools, data, and knowledge is more than enough for most use cases. With this idea in mind, I decided to build, together with my team, a simple platform that allows users to fine-tune and deploy these lightweight models quickly and without any coding. After several iterations, we have managed to develop what we believe is the optimal framework for anyone to deploy and customize a small 4B or 9B model, either through fine-tuning or RAG. And what’s most important t me, you can download the weights, run them locally, and own the IP and the property of the model, unlike in many cases where big vendors lock you in. We’ve also managed to sign an agreement with a local data center, and we now have our own GPUs. This means training and inference are not only extremely fast, but we can also offer unlimited inference. If you need a customized, affordable model with unlimited API inference, I think this could be really useful for you. There’s a free tier, and if you try it out and give us some feedback, I’ll give you the subscription plan for free for 6 months. Since we have our own GPUs in our data center, our infrastructure costs are fixed. I’m really happy with how it has turned out, and I use these models for many of my own projects. You can access the platform at neuro-block.com Would love to hear your thoughts in the comments.
-
-2h ago
-
----
-
-**[Zuckerberg is betting Meta's whole ad business on AI and his own ai ugc tools are turning dresses into pants](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
-
-Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
-
-5h ago
-
----
-
-**[I built a small game discovery toy, not a chatbot wrapper](https://www.reddit.com/r/artificial/comments/1vpccuk/i_built_a_small_game_discovery_toy_not_a_chatbot/)**
-
-I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
-
-5h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 12h ago
 
 ---
 
@@ -89,23 +65,23 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-5h ago
+7h ago
 
 ---
 
-**[I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.](https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/)**
+**[Resource - AI Text Watermarking: How it Works and How to Evade It](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
 
-Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
+Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-19h ago
+1h ago
 
 ---
 
-**[At what point does an AI tool become a platform?](https://www.reddit.com/r/artificial/comments/1vp7x59/at_what_point_does_an_ai_tool_become_a_platform/)**
+**[Zuckerberg is betting Meta's whole ad business on AI and his own ai ugc tools are turning dresses into pants](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
 
-I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
+Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-8h ago
+6h ago
 
 ---
 
@@ -113,7 +89,31 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-8h ago
+10h ago
+
+---
+
+**[I built a small game discovery toy, not a chatbot wrapper](https://www.reddit.com/r/artificial/comments/1vpccuk/i_built_a_small_game_discovery_toy_not_a_chatbot/)**
+
+I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
+
+6h ago
+
+---
+
+**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.reddit.com/r/artificial/comments/1vpjewg/even_claude_is_in_the_dark_about_dario_amodeis/)**
+
+Even Epstein said no to Cami Clark!! https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d?st=xPmyf4 These evil jerks think our data, our lives is up for grabs and make billions from it while keeping their lives private. Drug dealers don’t give drugs to their families but have no such qualms about selling them to rest of the world.
+
+1h ago
+
+---
+
+**[I curated a database of 37+ powerful AI tools that require NO Sign-ups, NO registration, and NO hidden paywalls. Completely free.](https://www.reddit.com/r/artificial/comments/1voulm9/i_curated_a_database_of_37_powerful_ai_tools_that/)**
+
+Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
+
+20h ago
 
 ---
 
@@ -123,19 +123,41 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
-**[AI Is Helping Patients Solve Medical Mysteries](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)**
+**[Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong](https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1)**
 
-WSJ • 1h ago
+Close relations with both US and China mean the latest AI models are easily accessible in the city-state
+
+ft.com • 49m ago
+
+---
+
+**['People could get hurt': Conservationists decry AI wildlife visuals](https://www.yahoo.com/news/science/articles/people-could-hurt-conservationists-decry-015332557.html)**
+
+The black-and-white image appears to show the unlikeliest of interactions: an orangutan cradling endangered leopard cubs deep in the jungles of Malaysia's Sabah state.But the viral image is not just u...
+
+Yahoo • 49m ago
+
+---
+
+**[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
+
+WSJ • 8h ago
+
+---
+
+**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
+
+Politico • 6h ago
 
 ---
 
@@ -143,15 +165,7 @@ WSJ • 1h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 2h ago
-
----
-
-**[How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire](https://www.forbes.com/sites/aliciapark/2026/08/15/british-ai-chip-founder-becomes-europes-youngest-self-made-billionaire/)**
-
-James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
-
-Forbes • 14h ago
+CNBC • 3h ago
 
 ---
 
@@ -159,21 +173,7 @@ Forbes • 14h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-bbc.com • 13h ago
-
----
-
-**['I have a chip on my shoulder.' Phoebe Gates wants her $185 million AI startup Phia to succeed with 'no ties to my privilege or my last name'](https://fortune.com/article/phoebe-gates-phia-shopping-app-cookie-stuffing/)**
-
-But now Phoebe Gates is under her own fire for her app Phia reportedly "cookie stuffing."
-
-Fortune • 11h ago
-
----
-
-**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
-
-Politico • 5h ago
+BBC • 15h ago
 
 ---
 
@@ -181,15 +181,15 @@ Politico • 5h ago
 
 Detectors, watermarks, and slop-reporting buttons: What happens when AI can no longer hide?
 
-New York Magazine • 15h ago
+New York Magazine • 16h ago
 
 ---
 
-**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
+**[The Most Important Thing AI Can’t Do in Medicine](https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/)**
 
-Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
+Great physicians are curious about the patient in front of them, and that curiosity is what drives them to dig deeper, writes Dr. Natasha Chida.
 
-ft.com • 21h ago
+Time Magazine • 16h ago
 
 ---
 
@@ -201,7 +201,7 @@ ft.com • 21h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 480 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 480 • 💬 281 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -209,7 +209,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 407 • 💬 365 • 7h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 424 • 💬 373 • 8h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -217,7 +217,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 351 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 354 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -225,7 +225,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 264 • 💬 171 • 14h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 272 • 💬 176 • 16h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -251,13 +251,13 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 174 • 💬 196 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 174 • 💬 197 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
 
-⬆️ 164 • 💬 207 • 2d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 164 • 💬 209 • 2d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
 
 ---
 
@@ -279,43 +279,23 @@ Heart Aerospace’s X1 demonstrator became the world’s largest battery-electri
 
 ## YouTube Videos: "ai"
 
-**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
-
-Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
-
-📺 Matthew Berman
-
-👁️ 45K • 👍 1K • 💬 216 • ⏱️ 13:09 • 1d ago
-
----
-
 **[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
 
 Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 271 • ⏱️ 34:05 • 1d ago
+👁️ 56K • 👍 2K • 💬 273 • ⏱️ 34:05 • 1d ago
 
 ---
 
-**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
 
-Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
-📺 NowThis Impact
+📺 Matthew Berman
 
-👁️ 620K • 👍 43K • 💬 4K • ⏱️ 1:10 • 1d ago
-
----
-
-**[$39B founder: “AI will eat the whole internet”](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
-
-Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
-
-📺 My First Million
-
-👁️ 18K • 👍 421 • 💬 122 • ⏱️ 58:11 • 1d ago
+👁️ 47K • 👍 1K • 💬 219 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -323,17 +303,27 @@ Sam's database on how long it takes to become a millionaire:* https://clickhubsp
 
 📺 Onevilage
 
-👁️ 1.2M • 👍 29K • 💬 784 • ⏱️ 0:46 • 1d ago
+👁️ 1.2M • 👍 29K • 💬 785 • ⏱️ 0:46 • 1d ago
 
 ---
 
-**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
 
-I explain the news, you stay sane. ✓ Support independent news ...
+ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
 
-📺 Chris Norlund
+📺 Higgsfield AI
 
-👁️ 139K • 👍 6K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 43K • 👍 1K • 💬 223 • ⏱️ 6:06 • 1d ago
+
+---
+
+**[AI is causing new shortages in ... everything](https://www.youtube.com/watch?v=nqHY9jVPym4)**
+
+Click this link https://boot.dev/?promo=FRIDAY to get 25% off your first payment for Boot.dev's devops courses. Thank you Boot.
+
+📺 The Friday Checkout
+
+👁️ 65K • 👍 3K • 💬 253 • ⏱️ 10:18 • 1d ago
 
 ---
 
@@ -341,27 +331,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Malaj
 
-👁️ 537K • 👍 13K • 💬 255 • ⏱️ 0:08 • 2d ago
-
----
-
-**[Jensen Huang Predicted AI Would Disrupt Radiology—Now It’s Happening 🤖🩻](https://www.youtube.com/watch?v=w-efkClSZ1Q)**
-
-NVIDIA CEO Jensen Huang has previously suggested that radiology could be among the professions most heavily disrupted by AI ...
-
-📺 Future Vision
-
-👁️ 786 • 👍 29 • 💬 1 • ⏱️ 0:25 • 3h ago
-
----
-
-**[The Country of AI](https://www.youtube.com/watch?v=sSZLK1l-qUg)**
-
-10 million people. More than 2000 AI startups. This tiny country is obsessed with AI. @workforyourselfapp Thank you for watching ...
-
-📺 Nas Daily
-
-👁️ 146K • 👍 5K • 💬 196 • ⏱️ 1:36 • 2d ago
+👁️ 556K • 👍 14K • 💬 260 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -371,7 +341,35 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 MS NOW
 
-👁️ 242K • 👍 5K • 💬 999 • ⏱️ 20:18 • 1d ago
+👁️ 288K • 👍 6K • 💬 1K • ⏱️ 20:18 • 1d ago
+
+---
+
+**[Elon&#39;s own words just exposed AI bubble](https://www.youtube.com/watch?v=7QPrefKv4zw)**
+
+I explain the news, you stay sane. ✓ Support independent news ...
+
+📺 Chris Norlund
+
+👁️ 140K • 👍 6K • 💬 2K • ⏱️ 17:04 • 2d ago
+
+---
+
+**[AI is destroying antique books to control knowledge!? #ninjasarebutterflies #ai #books #1984](https://www.youtube.com/watch?v=5TpOQOjnV68)**
+
+📺 Ninjas Are Butterflies 
+
+👁️ 86K • 👍 6K • 💬 401 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[DC Used AI For Supergirl…](https://www.youtube.com/watch?v=szprp4wDOTk)**
+
+In this video, we learn DC revealed they used AI for Supergirl… Follow Me On Social Media: Instagram: @therealdoomblazer ...
+
+📺 DoomBlazer
+
+👁️ 175K • 👍 17K • 💬 969 • ⏱️ 2:27 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 91,917 • ❤️ 9,775 • 1d ago
+⬇️ 91,917 • ❤️ 9,825 • 1d ago
 
 ---
 
@@ -399,7 +397,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 246,454 • ❤️ 1,575 • 4d ago
+⬇️ 246,454 • ❤️ 1,583 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,217 • 19h ago
+⬇️ 867,963 • ❤️ 1,246 • 20h ago
 
 ---
 
@@ -423,7 +421,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 6,381 • ❤️ 967 • 3d ago
+⬇️ 6,381 • ❤️ 974 • 3d ago
 
 ---
 
@@ -435,7 +433,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 378,439 • ❤️ 938 • 3d ago
+⬇️ 378,439 • ❤️ 950 • 3d ago
 
 ---
 
@@ -447,7 +445,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 5,079 • ❤️ 766 • 1d ago
+⬇️ 5,079 • ❤️ 773 • 1d ago
 
 ---
 
@@ -459,7 +457,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,212,155 • ❤️ 3,971 • 2d ago
+⬇️ 2,212,155 • ❤️ 3,980 • 3d ago
 
 ---
 
@@ -471,7 +469,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 19,945 • ❤️ 489 • 2d ago
+⬇️ 19,945 • ❤️ 496 • 2d ago
 
 ---
 
@@ -483,7 +481,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,418 • 14d ago
+⬇️ 1,798,247 • ❤️ 3,425 • 14d ago
 
 ---
 
@@ -495,7 +493,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 682,188 • ❤️ 434 • 5d ago
+⬇️ 682,188 • ❤️ 439 • 5d ago
 
 ---
 
@@ -525,7 +523,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 125 • 💬 3 • ⭐ 22,372 • 2mo ago
+▲ 125 • 💬 3 • ⭐ 22,500 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -552,20 +550,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 53 • 💬 4 • ⭐ 37,264 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
-
-*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
-
-🏢 MatrAIx
-
-MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
-
-▲ 39 • 💬 3 • ⭐ 1,051 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
 ---
 
@@ -597,6 +581,20 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 ---
 
+**[MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://huggingface.co/papers/2608.04205)**
+
+*Xiaomin Li, Yuexing Hao, Jianheng Hou et al. (93 authors)*
+
+🏢 MatrAIx
+
+MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
+
+▲ 40 • 💬 3 • ⭐ 1,062 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -604,7 +602,7 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,104 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,143 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -616,7 +614,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentation by capturing detailed and structural cues, improving localization and edge sharpness compared to traditional methods.
 
-▲ 0 • 💬 0 • ⭐ 914 • 41mo ago
+▲ 0 • 💬 0 • ⭐ 958 • 41mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
 
@@ -645,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 3h ago
+⭐ 13.6k • 🔱 1.6k • 5h ago
 
 ---
 
@@ -655,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.7k • 🔱 1.0k • 2h ago
+⭐ 9.8k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -675,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.1k • 🔱 443 • 1d ago
+⭐ 5.2k • 🔱 445 • 1d ago
 
 ---
 
@@ -693,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 9h ago
+⭐ 3.1k • 🔱 539 • 10h ago
 
 ---
 
@@ -707,23 +705,13 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 ---
 
-**[MIgHTy-alIeN/ai-trader-bot](https://github.com/MIgHTy-alIeN/ai-trader-bot)**
-
-An arbitrage bot is a smart contract connected to an external automation script that controls its operation.
-
-`Solidity` `ai` `aitradingbot` `bot` `btc` `claude`
-
-⭐ 2.7k • 🔱 1.9k • 1d ago
-
----
-
 **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)**
 
 Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 4h ago
+⭐ 2.5k • 🔱 194 • 5h ago
 
 ---
 
@@ -733,7 +721,17 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 172 • 13h ago
+⭐ 2.2k • 🔱 172 • 14h ago
+
+---
+
+**[makecindy/cindy](https://github.com/makecindy/cindy)**
+
+Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+
+`TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
+
+⭐ 2.1k • 🔱 277 • 7h ago
 
 ---
 

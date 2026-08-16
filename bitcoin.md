@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T01:18:56.938736+00:00'
+updated: '2026-08-16T02:42:17.890460+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 01:18 UTC  
+**Last Updated:** August 16, 2026 at 02:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.4%  
-**30d:** -2.8%  
-**90d:** -17.9%  
+**24h:** +0.1%  
+**7d:** -1.3%  
+**30d:** -2.6%  
+**90d:** -17.8%  
 **1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1265.36B
+**Market Cap:** $1265.71B
 Rank #1
 
-**Circulating Supply:** 20,070,703 BTC
+**Circulating Supply:** 20,070,762 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -50.0%
 
 **All-Time Low:** $67.81
-+92871.5%
++92898.1%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-9h ago
+11h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,13 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-10h ago
+11h ago
+
+---
+
+**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
+
+4h ago
 
 ---
 
@@ -101,13 +107,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-21h ago
-
----
-
-**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
-
-2h ago
+23h ago
 
 ---
 
@@ -115,13 +115,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 5h ago
-
----
-
-**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
-
-14h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 6h ago
 
 ---
 
@@ -129,7 +123,13 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-4h ago
+5h ago
+
+---
+
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO 
 
 Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
 
-6h ago
+7h ago
 
 ---
 
@@ -157,15 +157,15 @@ Rodolfo Novak is is doing still many nasty things presenting himself as neutral 
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/15/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
 
-Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
+LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
 
-Forbes • 12h ago
+The Block • 1d ago
 
 ---
 
@@ -173,15 +173,7 @@ Forbes • 12h ago
 
 Saylor recasts Bitcoin as stored energy and argues fiat leaks value, while BTC trades 47% below last year.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)**
-
-UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
-
-The Block • 6h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -190,6 +182,14 @@ The Block • 6h ago
 Real mining. Tiny footprint.
 
 Mashable • 2d ago
+
+---
+
+**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
+
+Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
+
+Forbes • 1d ago
 
 ---
 
@@ -209,17 +209,9 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 ---
 
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
-
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 15h ago
+Investing.com • 16h ago
 
 ---
 
@@ -228,6 +220,14 @@ Investing.com • 15h ago
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
 Investor's Business Daily • 1d ago
+
+---
+
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -255,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -285,13 +285,23 @@ Beachgoers in Southern California are being terrorized by mini-shark isopods. He
 
 ## YouTube Videos: "bitcoin"
 
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 6K • 👍 302 • 💬 11 • ⏱️ 55:12 • 8h ago
+
+---
+
 **[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
 
 One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 183 • ⏱️ 16:33 • 1d ago
+👁️ 21K • 👍 1K • 💬 163 • ⏱️ 16:33 • 1d ago
 
 ---
 
@@ -301,7 +311,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 103 • ⏱️ 9:13 • 2d ago
+👁️ 36K • 👍 2K • 💬 101 • ⏱️ 9:13 • 2d ago
 
 ---
 
@@ -311,17 +321,37 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 291 • ⏱️ 18:25 • 2d ago
+👁️ 36K • 👍 2K • 💬 292 • ⏱️ 18:25 • 2d ago
 
 ---
 
-**[Bitcoin: The Next 60 Days](https://www.youtube.com/watch?v=6V6rlIV2Zek)**
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
 
-Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into ...
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
 
-📺 Benjamin Cowen
+📺 The Modern Investor
 
-👁️ 140K • 👍 8K • 💬 445 • ⏱️ 21:29 • 3d ago
+👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 17h ago
+
+---
+
+**[History Is About To Repeat Itself (BITCOIN)](https://www.youtube.com/watch?v=gLlKZff-Luw)**
+
+SIGN UP TO GATE FOR 10% CASHBACK: https://eu.gate.com/en-eu/signup?ref_type=103&ref=VFJHXVFWA FREE WEEKLY ...
+
+📺 Crypto Tips
+
+👁️ 12K • 👍 663 • 💬 81 • ⏱️ 10:20 • 1d ago
+
+---
+
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 831 • 💬 223 • ⏱️ 33:51 • 1d ago
 
 ---
 
@@ -333,53 +363,23 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 ---
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 34K • 👍 539 • 💬 13 • ⏱️ 0:53 • 1d ago
-
----
-
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
-
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
-
-📺 Natalie Brunell
-
-👁️ 4K • 👍 122 • 💬 182 • ⏱️ 1:36 • 23h ago
-
----
-
-**[Best Crypto Trading Platform for 2026? (The Golden Line Review)](https://www.youtube.com/watch?v=2PnCrAcld4A)**
-
-Looking for a streamlined crypto trading platform to level up your setup in 2026? In this video, we explore The Golden Line, ...
-
-📺 Crypto Nitro
-
-👁️ 9K • 💬 23 • ⏱️ 1:12 • 22h ago
-
----
-
 **[Bitcoin Just Split. BlackRock Priced It In. Michael Saylor Denies It Happened.](https://www.youtube.com/watch?v=7CnR1YKHXtM)**
 
 The Bitcoin chain split on August 8, 2026 was forced by miners holding 2.53% of hashpower. BIP-110 produced two blocks and ...
 
 📺 Dana Love, PhD
 
-👁️ 34K • 👍 1K • 💬 419 • ⏱️ 18:10 • 2d ago
+👁️ 34K • 👍 1K • 💬 405 • ⏱️ 18:10 • 2d ago
 
 ---
 
-**[Bitcoin self-custody has a dangerous new problem](https://www.youtube.com/watch?v=FaE5Yc4ylKk)**
+**[Michael Saylor: Why Bitcoin Is Extremely Cheap Right Now](https://www.youtube.com/watch?v=LSCU32XBDlQ)**
 
-In this episode of The Daily Wolf, Scott Melker breaks down a data breach involving Trezor's fulfillment partner that exposed ...
+Everyone's scared of Bitcoin right now. Michael Saylor thinks that's exactly why it's the opportunity of a lifetime. In this clip he ...
 
-📺 Yahoo Finance
+📺 New Era Finance Podcast
 
-👁️ 7K • 👍 251 • 💬 120 • ⏱️ 14:53 • 1d ago
+👁️ 30K • 👍 525 • 💬 151 • ⏱️ 7:46 • 2d ago
 
 ---
 
