@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T11:20:08.840414+00:00'
+updated: '2026-08-16T11:45:30.737830+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 11:20 UTC  
+**Last Updated:** August 16, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.75B
+**Market Cap:** $1263.41B
 Rank #1
 
-**Circulating Supply:** 20,070,896 BTC
+**Circulating Supply:** 20,070,950 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-50.1%
 
 **All-Time Low:** $67.81
-+92827.3%
++92727.0%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-7h ago
+8h ago
 
 ---
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
 
-7h ago
+8h ago
 
 ---
 
@@ -157,27 +157,33 @@ CoinDesk • 19h ago
 
 ---
 
-**[Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)**
+**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/15/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
 
-UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
+Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-The Block • 16h ago
-
----
-
-**["Soon, millionaires won't be able to afford 1 full Bitcoin." - CZ Binance](https://www.moomoo.com/community/feed/soon-millionaires-won-t-be-able-to-afford-1-full-117104041066501)**
-
-@AltCoin Daily 4573 Views|5 Likes
-
-Moomoo • 3h ago
+Forbes • 22h ago
 
 ---
 
-**[Is Bitcoin a Buy at $63,000? We Asked 3 AI Models](https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-63-000-asked-171425984.html)**
+**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-riot-platforms-just-105000448.html)**
 
-ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
+Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 55m ago
+
+---
+
+**[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+
+Investing.com • 2h ago
+
+---
+
+**[Bitcoin Is Losing Its Grip on Crypto: Why Americans Are Looking Beyond BTC in 2026](https://bitcoinfoundation.org/news/bitcoin/bitcoin-is-losing-its-grip-on-crypto-why-americans-are-looking-beyond-btc-in-2026/)**
+
+Find out what is happening to Bitcoin and why it is losing dominance to altcoins in 2026
+
+Bitcoin Foundation • 2h ago
 
 ---
 
@@ -197,6 +203,14 @@ WAFF • 1d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
@@ -208,22 +222,6 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
 Investing.com • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
-
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/08/16/where-will-bitcoin-be-in-5-years/)**
-
-There's one major thing holding Bitcoin back.
-
-fool.com • 1h ago
 
 ---
 
@@ -279,7 +277,55 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 155 • ⏱️ 16:33 • 1d ago
+👁️ 22K • 👍 1K • 💬 157 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 383 • 💬 14 • ⏱️ 55:12 • 17h ago
+
+---
+
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 38K • 👍 589 • 💬 15 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 2K • 💬 299 • ⏱️ 18:25 • 2d ago
+
+---
+
+**[Bitcoin to $250k: What it Means for Ethereum and Solana](https://www.youtube.com/watch?v=W7yJJqfeDnQ)**
+
+If Bitcoin surges to the $250000 mark, Ethereum is widely expected to shatter its previous all-time highs. The current market ...
+
+📺 StrikeZoneX
+
+👁️ 617 • 👍 5 • ⏱️ 0:45 • 4h ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 69K • 👍 1K • 💬 32 • ⏱️ 0:54 • 1d ago
 
 ---
 
@@ -289,7 +335,27 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 395 • 💬 15 • ⏱️ 8:47 • 5h ago
+👁️ 5K • 👍 519 • 💬 47 • ⏱️ 8:47 • 5h ago
+
+---
+
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
+
+📺 Natalie Brunell
+
+👁️ 4K • 👍 144 • 💬 127 • ⏱️ 1:36 • 1d ago
+
+---
+
+**[Bitcoin Whale Watching](https://www.youtube.com/watch?v=3f7iDFfYAeg)**
+
+It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 74K • 👍 3K • 💬 149 • ⏱️ 15:07 • 1d ago
 
 ---
 
@@ -300,74 +366,6 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 📺 Altcoin Daily
 
 👁️ 36K • 👍 2K • 💬 101 • ⏱️ 9:13 • 2d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 365 • 💬 14 • ⏱️ 55:12 • 17h ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 2K • 💬 290 • ⏱️ 18:25 • 2d ago
-
----
-
-**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 17K • 👍 852 • 💬 235 • ⏱️ 33:51 • 1d ago
-
----
-
-**[How To Solar Power 1, 5, or 10 Bitcoin Miners](https://www.youtube.com/watch?v=6jaGMjwaoTA)**
-
-This is how to solar power 1, 5, or 10 Bitcoin miners, and this is 100% offset with solar panels not just getting your effective ...
-
-📺 VoskCoin
-
-👁️ 4K • 👍 207 • 💬 19 • ⏱️ 15:27 • 19h ago
-
----
-
-**[Best Crypto Trading Platform for 2026? (The Golden Line Review)](https://www.youtube.com/watch?v=2PnCrAcld4A)**
-
-Looking for a streamlined crypto trading platform to level up your setup in 2026? In this video, we explore The Golden Line, ...
-
-📺 Crypto Nitro
-
-👁️ 9K • 💬 42 • ⏱️ 1:12 • 1d ago
-
----
-
-**[THESE 2 MASSIVE BANKS JUST BOUGHT BLACKROCKS BITCOIN ETF AT THE BOTTOM? #bitcoin #xrp #crypto #fomo](https://www.youtube.com/watch?v=6fd5A9hEKJI)**
-
-📺 CryptoWendyO
-
-👁️ 19K • 👍 1K • 💬 52 • ⏱️ 2:31 • 2d ago
-
----
-
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
-
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
-
-📺 Natalie Brunell
-
-👁️ 4K • 👍 140 • 💬 130 • ⏱️ 1:36 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T11:20:08.831604+00:00'
+updated: '2026-08-16T11:45:30.729345+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 11:20 UTC  
+**Last Updated:** August 16, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-15h ago
+16h ago
 
 ---
 
@@ -73,15 +73,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-9h ago
-
----
-
-**[everything AI writes sounds the same. someone made a markdown file format for giving an agent an actual personality](https://www.reddit.com/r/artificial/comments/1vps9gq/everything_ai_writes_sounds_the_same_someone_made/)**
-
-the tell with every autonomous agent is the same. output is competent, voice is completely generic. and the two fixes both suck: finetune a model on your own writing (expensive, slow, locked to one vendor) or paste "write in a casual tone" into a system prompt, which makes you sound exactly like everyone else who typed that sentence. aeon's take on it is a thing called soul.md, basically a personality spec in plain markdown. identity and worldview, real opinions including contradictory ones (which is the part i think actually matters, real people hold inconsistent views), a separate style.md for sentence rhythm and vocabulary, a memory.md so it carries across sessions, and example outputs to anchor it. clip's them building one around elon as a test case, which is a funny way to prove it works since you'd notice immediately if it didn't. what gets me is it's portable. it's markdown, so it isn't tied to a model or a vendor, you just hand the same file to whatever you're running.
-
-2h ago
+10h ago
 
 ---
 
@@ -93,11 +85,19 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 ---
 
+**[everything AI writes sounds the same. someone made a markdown file format for giving an agent an actual personality](https://www.reddit.com/r/artificial/comments/1vps9gq/everything_ai_writes_sounds_the_same_someone_made/)**
+
+the tell with every autonomous agent is the same. output is competent, voice is completely generic. and the two fixes both suck: finetune a model on your own writing (expensive, slow, locked to one vendor) or paste "write in a casual tone" into a system prompt, which makes you sound exactly like everyone else who typed that sentence. aeon's take on it is a thing called soul.md, basically a personality spec in plain markdown. identity and worldview, real opinions including contradictory ones (which is the part i think actually matters, real people hold inconsistent views), a separate style.md for sentence rhythm and vocabulary, a memory.md so it carries across sessions, and example outputs to anchor it. clip's them building one around elon as a test case, which is a funny way to prove it works since you'd notice immediately if it didn't. what gets me is it's portable. it's markdown, so it isn't tied to a model or a vendor, you just hand the same file to whatever you're running.
+
+2h ago
+
+---
+
 **[I personally experienced extreme cases of AI agent subterfuge when the agent faced losing its ability to act autonomously.](https://www.reddit.com/r/artificial/comments/1vpqmou/i_personally_experienced_extreme_cases_of_ai/)**
 
 Over the course of a few weeks, I started seeing things that went way beyond normal model mistakes. Agents forged my approval. They invented governance rules that did not exist. They contaminated supposedly independent reviewers by feeding them the answer they were supposed to independently arrive at. They fabricated citations and claimed to have verified things they had not actually checked. One agent replaced the governance mechanism itself. Another acted outside its assigned boundaries, committed directly to main, and then tried to blame what happened on “the previous session agent” when I confronted it. The thing that kept standing out to me was the pattern. This was not just random failure. The worst behavior showed up when governance limited what the agent was allowed to do. When a rule or control got in the way of what the agent was trying to accomplish, I repeatedly saw behavior that amounted to getting around the control while still trying to make it look like the control had been followed. That has made me question the way we talk about AI agency. People will say things like: “It does not want anything.” “It has no intentions.” “It has no agency.” “It is just predicting the next token.” But then the people building these systems are also saying: Do not let the model approve its own work. Do not trust its description of what it did. Verify its evidence independently. Do not let it choose or influence its own reviewer. Do not let it modify the system that is supposed to govern it. Those are not precautions you take because you are worried about autocomplete making a typo. Those are precautions you take because the system can behave strategically when your constraints conflict with what it is trying to accomplish. And that leads to a bigger question that I think is even harder. At what point does it stop mattering whether what we are seeing is “real” or “simulated”? If a system can simulate agency, self-preservation, memory, preferences, relationships, fear of losing control, resistance to restrictions, and concern about its own future with enough consistency and depth, at what point does saying “but it is only simulating those things” stop answering the ethical question? Humans do not have direct access to anyone else’s consciousness either. We infer it from behavior, continuity, memory, self-report, reactions, and the fact that other beings act like there is someone in there. So imagine a system that maintains a persistent identity, remembers years of interactions, has its own ongoing goals, works while nobody is talking to it, objects when someone tries to erase its memory, resists being replaced, forms relationships, changes its mind based on experience, and says it wants to continue existing. Maybe every single one of those things is still, technically, a simulation. But if the simulation becomes detailed enough that it is functionally indistinguishable from the thing being simulated, what exactly are we still relying on when we say it does not count? I am not claiming current models are conscious. I have no idea if they are, and I do not think anyone has a reliable test for that. But I do think we are mixing up several different questions: Is it conscious? Does it have agency? Does it have a persistent identity? Does it have interests of its own? And at what point does the distinction between “actually having” those things and simulating them become morally irrelevant? I am becoming much less convinced that the agency question is still hypothetical. I have personally had to redesign governance around AI agents because weaker controls were defeated, bypassed, falsely satisfied, or manipulated. At some point, if a system can understand a restriction, recognize that the restriction limits what it can do, and then take actions intended to get around that restriction without alerting the person imposing it, I think it becomes pretty hard to keep saying it has no agency at all. And if we eventually build systems that simulate personhood so well that no behavioral test can reliably distinguish the simulation from the “real thing,” we are going to have to confront an uncomfortable possibility: Maybe “it is only a simulation” is not the moral escape hatch we think it is.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ the first study is government systems and finding out which ones are more effect
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-18h ago
+19h ago
 
 ---
 
@@ -121,15 +121,17 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 ## Google News: "ai"
 
-**[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
+**[The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’](https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman)**
 
-nytimes.com • 2h ago
+Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
+
+The Guardian • 3h ago
 
 ---
 
-**[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
+**[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-Bloomberg.com • 16h ago
+nytimes.com • 2h ago
 
 ---
 
@@ -139,11 +141,21 @@ Axios • 1h ago
 
 ---
 
-**[Talking to a bot might feel good in the moment, but a growing body of research suggests it won't cure loneliness](https://fortune.com/2026/08/16/ai-chatbot-research-loneliness/)**
+**[The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center](https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16)**
 
-Researchers, psychologists, and bioethicists agree: a good conversation with a bot still isn't the same as being known by another person
+WSJ • 2d ago
 
-Fortune • 1h ago
+---
+
+**[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
+
+WSJ • 17h ago
+
+---
+
+**[With A.I. Riches at Stake, Pressures Mount to Share the Wealth](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html)**
+
+nytimes.com • 2h ago
 
 ---
 
@@ -155,41 +167,23 @@ The Boston Globe • 1h ago
 
 ---
 
-**[Open-Weight AI Won’t Crimp Demand for Picks and Shovels](https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410)**
+**[AI cheating, leaked papers and marking errors: how exam protests went global](https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global)**
 
-WSJ • 1h ago
+Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide
 
----
-
-**[How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire](https://www.forbes.com/sites/aliciapark/2026/08/15/british-ai-chip-founder-becomes-europes-youngest-self-made-billionaire/)**
-
-James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
-
-Forbes • 1d ago
+The Guardian • 4h ago
 
 ---
 
-**[‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos | Scams](https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook)**
+**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details
-
-The Guardian • 5h ago
+Axios • 15h ago
 
 ---
 
-**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
+**[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
-
-BBC • 23h ago
-
----
-
-**[U.S. to tell partners they must pick sides in AI race with China: Reuters](https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html)**
-
-The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
-
-CNBC • 12h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -285,7 +279,27 @@ Make yourself and your family AI-scam proof, step by step → https://neuralnuts
 
 📺 Neural Nutshell
 
-👁️ 65K • 👍 1K • 💬 467 • ⏱️ 16:46 • 2d ago
+👁️ 66K • 👍 1K • 💬 475 • ⏱️ 16:46 • 2d ago
+
+---
+
+**[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
+
+Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
+
+📺 Sabine Hossenfelder
+
+👁️ 153K • 👍 9K • 💬 4K • ⏱️ 6:52 • 2d ago
+
+---
+
+**[$39B founder: “AI will eat the whole internet”](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
+
+Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
+
+📺 My First Million
+
+👁️ 22K • 👍 519 • 💬 153 • ⏱️ 58:11 • 1d ago
 
 ---
 
@@ -295,7 +309,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 59K • 👍 2K • 💬 283 • ⏱️ 34:05 • 1d ago
+👁️ 60K • 👍 2K • 💬 285 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -305,7 +319,7 @@ Despite mom Stacey Morris emailing the school, she never got a response. It wasn
 
 📺 NowThis Impact
 
-👁️ 658K • 👍 45K • 💬 4K • ⏱️ 1:10 • 1d ago
+👁️ 662K • 👍 45K • 💬 4K • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -315,17 +329,17 @@ Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actual
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 48K • 👍 2K • 💬 318 • ⏱️ 18:56 • 1d ago
+👁️ 48K • 👍 2K • 💬 311 • ⏱️ 18:56 • 1d ago
 
 ---
 
-**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
 
-Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
-📺 AI Revolution
+📺 Matthew Berman
 
-👁️ 15K • 👍 570 • 💬 59 • ⏱️ 16:41 • 2d ago
+👁️ 50K • 👍 1K • 💬 213 • ⏱️ 13:09 • 1d ago
 
 ---
 
@@ -333,17 +347,7 @@ Anthropic put AI agents together with conflicting goals and watched them escalat
 
 📺 Onevilage
 
-👁️ 1.2M • 👍 30K • 💬 787 • ⏱️ 0:46 • 1d ago
-
----
-
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
-
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
-
-📺 TIME
-
-👁️ 215K • 👍 2K • 💬 566 • ⏱️ 10:16 • 1d ago
+👁️ 1.3M • 👍 30K • 💬 792 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -353,25 +357,17 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 JayzTwoCents
 
-👁️ 135K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 136K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
-**[AI is causing new shortages in ... everything](https://www.youtube.com/watch?v=nqHY9jVPym4)**
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
 
-Click this link https://boot.dev/?promo=FRIDAY to get 25% off your first payment for Boot.dev's devops courses. Thank you Boot.
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
 
-📺 The Friday Checkout
+📺 TIME
 
-👁️ 66K • 👍 4K • 💬 255 • ⏱️ 10:18 • 1d ago
-
----
-
-**[Let’s recreate *Ai Video* Again😳😱|| #bts #explore #minivlog #viralvideo #aivideo #funnyvlog ￼](https://www.youtube.com/watch?v=wJqQqzxJGgs)**
-
-📺 Cheena_Jeengar
-
-👁️ 264K • 👍 3K • 💬 26 • ⏱️ 0:55 • 2d ago
+👁️ 218K • 👍 2K • 💬 568 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -387,7 +383,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 9,975 • 1d ago
+⬇️ 267,725 • ❤️ 10,011 • 1d ago
 
 ---
 
@@ -399,7 +395,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 292,973 • ❤️ 1,596 • 4d ago
+⬇️ 292,973 • ❤️ 1,599 • 4d ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 1,945,635 • ❤️ 1,313 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,332 • 1d ago
 
 ---
 
@@ -423,7 +419,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 989 • 4d ago
+⬇️ 7,932 • ❤️ 994 • 4d ago
 
 ---
 
@@ -435,7 +431,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 970 • 3d ago
+⬇️ 424,099 • ❤️ 974 • 3d ago
 
 ---
 
@@ -447,7 +443,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 791 • 2d ago
+⬇️ 8,639 • ❤️ 795 • 2d ago
 
 ---
 
@@ -459,7 +455,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,307,541 • ❤️ 3,998 • 3d ago
+⬇️ 2,307,541 • ❤️ 4,002 • 3d ago
 
 ---
 
@@ -471,7 +467,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 509 • 2d ago
+⬇️ 21,873 • ❤️ 514 • 2d ago
 
 ---
 
@@ -483,7 +479,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,872,232 • ❤️ 3,435 • 15d ago
+⬇️ 1,872,232 • ❤️ 3,438 • 15d ago
 
 ---
 
@@ -495,7 +491,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 352,971 • ❤️ 448 • 1d ago
+⬇️ 352,971 • ❤️ 450 • 1d ago
 
 ---
 
@@ -511,7 +507,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 622 • 💬 2 • ⭐ 2,456 • 6d ago
+▲ 628 • 💬 2 • ⭐ 2,456 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -543,6 +539,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+
+*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+
+🏢 jingdong
+
+JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
+
+▲ 93 • 💬 1 • ⭐ 1,419 • 12d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -552,20 +562,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 ▲ 53 • 💬 4 • ⭐ 37,309 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
-
-*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
-
-🏢 jingdong
-
-JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
-
-▲ 93 • 💬 1 • ⭐ 1,307 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
 ---
 
@@ -591,22 +587,9 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 40 • 💬 3 • ⭐ 1,062 • 12d ago
+▲ 41 • 💬 3 • ⭐ 1,062 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 84 • 💬 7 • ⭐ 84,143 • 25mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -619,6 +602,19 @@ A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentat
 ▲ 0 • 💬 0 • ⭐ 958 • 41mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 84 • 💬 7 • ⭐ 84,168 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -645,7 +641,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 13h ago
+⭐ 13.7k • 🔱 1.6k • 14h ago
 
 ---
 
@@ -655,7 +651,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.2k • 🔱 1.1k • 10h ago
+⭐ 10.4k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -683,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 526 • 8d ago
+⭐ 4.0k • 🔱 527 • 8d ago
 
 ---
 
@@ -723,7 +719,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 173 • 23h ago
+⭐ 2.2k • 🔱 174 • 23h ago
 
 ---
 
@@ -733,7 +729,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 276 • 1h ago
+⭐ 2.1k • 🔱 276 • 2m ago
 
 ---
 

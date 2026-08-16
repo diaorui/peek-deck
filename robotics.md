@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T11:20:08.850195+00:00'
+updated: '2026-08-16T11:45:30.747264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 11:20 UTC  
+**Last Updated:** August 16, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-23h ago
+1d ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-21h ago
+22h ago
 
 ---
 
@@ -132,25 +132,23 @@ CNBC • 2d ago
 
 ---
 
+**[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
+
+Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
+
+interestingengineering.com • 20h ago
+
+---
+
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
 nytimes.com • 3d ago
 
 ---
 
-**[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
+**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
 
-Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
-
-Medscape • 2d ago
-
----
-
-**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
-
-A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
-
-Interesting Engineering • 22h ago
+South Tahoe Now • 1d ago
 
 ---
 
@@ -162,15 +160,11 @@ New Atlas • 2d ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+**[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
 
-South Tahoe Now • 1d ago
+Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
 
----
-
-**[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.gjsentinel.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_43178f3d-28b2-55c3-aa51-56f62e0b7f10.html)**
-
-The Grand Junction Daily Sentinel • 23h ago
+Medscape • 2d ago
 
 ---
 
@@ -188,17 +182,25 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Why robots that can’t communicate naturally won’t be adopted](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/)**
+
+Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
+
+The Robot Report • 23h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
 
-📺 Fireship
+📺 DEEP Robotics
 
-👁️ 960K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+👁️ 29K • 👍 110 • 💬 13 • ⏱️ 0:18 • 4d ago
 
 ---
 
@@ -208,7 +210,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 549 • 💬 108 • ⏱️ 7:05 • 4d ago
+👁️ 40K • 👍 550 • 💬 108 • ⏱️ 7:05 • 4d ago
 
 ---
 
@@ -218,17 +220,37 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 27K • 👍 722 • 💬 22 • ⏱️ 58:18 • 3d ago
+👁️ 27K • 👍 733 • 💬 24 • ⏱️ 58:18 • 3d ago
 
 ---
 
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
-📺 DEEP Robotics
+📺 Fireship
 
-👁️ 28K • 👍 110 • 💬 13 • ⏱️ 0:18 • 4d ago
+👁️ 962K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 467 • 💬 129 • ⏱️ 3:48 • 4d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 218K • 👍 2K • 💬 568 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -242,53 +264,33 @@ Every time you order clothes, groceries or household essentials online, there's 
 
 ---
 
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
-
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
-
-📺 Guardian News
-
-👁️ 40K • 👍 467 • 💬 128 • ⏱️ 3:48 • 4d ago
-
----
-
-**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
-
-If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
-
-📺 Dr. Know-it-all Knows it all
-
-👁️ 3K • 👍 176 • 💬 80 • ⏱️ 21:51 • 2d ago
-
----
-
 **[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
 
 Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
 
 📺 Страна Возможностей
 
-👁️ 55K • 👍 341 • 💬 91 • ⏱️ 0:22 • 2d ago
+👁️ 56K • 👍 343 • 💬 91 • ⏱️ 0:22 • 2d ago
 
 ---
 
-**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
+**[NEW UE Shell Robot Is Real… Regenerating Shields + NEW &#39;Iaraghi&#39; Charging Weapons | War Robots](https://www.youtube.com/watch?v=MXLIUX0xgyY)**
 
-My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
+New Ultimate shell robot with Ue glacier and rime. There are also new weapons on the test server the Iaraghi weapon set.
 
-📺 Venus Drama Stories
+📺 PREDATOR WR
 
-👁️ 87K • 👍 2K • 💬 128 • ⏱️ 17:26 • 2d ago
+👁️ 13K • 👍 436 • 💬 71 • ⏱️ 13:35 • 23h ago
 
 ---
 
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+**[AI just escaped the screen... and got a robot body](https://www.youtube.com/watch?v=BZBDp-pIk6s)**
 
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+Artificial intelligence just escaped the screen — and it now has legs, hands, and eyes. For years, AI could write, code, and talk…
 
-📺 TIME
+📺 The AI Nexus
 
-👁️ 215K • 👍 2K • 💬 566 • ⏱️ 10:16 • 1d ago
+👁️ 11K • 👍 250 • 💬 21 • ⏱️ 30:22 • 3d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T11:20:08.846799+00:00'
+updated: '2026-08-16T11:45:30.744008+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 11:20 UTC  
+**Last Updated:** August 16, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.87B
+**Market Cap:** $226.77B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+434075.8%
++433891.0%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 18h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Heya folks, interested if there's anyone here that's still actively using Maker for their ETH long? Seeing as they've fully rebranded to Sky a while ago, it's interesting to see that there's still a solid userbase there. Even with household names like Aave, Morpho, Fluid, etc... filling the space. We have Maker integrated in our app (DeFi Saver), where users can manage their CDP - and I saw that just a few days ago someone increased leverage by using our boost tool by $5 million in ETH. That led me to think - what's the sentiment surrounding Maker? If you haven't been using it, are you aware that it's still functional? What's interesting is that Spark (the lending protocol that's part of the Sky ecosystem) is offering better rates for longing ETH - yet Maker CDP owners aren't exactly flocking there. Not here to shill anything - just wanted to give context as to why I asked this question in the first place. Would be incredibly cool to hear from an actual Maker user - as I'm interested to also hear what keeps you engaged with that protocol as opposed to moving your loan to Spark (which offers better rates than the Stability Fee)
 
-2d ago
+3d ago
 
 ---
 
@@ -208,6 +208,14 @@ blockchain.news • 4h ago
 
 ---
 
+**[Ethereum ETF Bucks Price Slump as Grayscale Mini Trust Attracts Fresh Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-bucks-price-slump-as-grayscale-mini-trust-attracts-fresh-inflows)**
+
+Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
+
+TipRanks • 41m ago
+
+---
+
 **[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
 grayscale.com • 2d ago
@@ -222,31 +230,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
-
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
-
-In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
-
-📺 More Crypto Online
-
-👁️ 625 • 👍 72 • 💬 5 • ⏱️ 5:23 • 4h ago
-
----
 
 **[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
 
@@ -254,37 +240,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 818 • 💬 268 • ⏱️ 17:49 • 1d ago
-
----
-
-**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 32K • 👍 2K • 💬 143 • ⏱️ 8:55 • 2d ago
-
----
-
-**[XRP And Ethereum Won&#39;t Be The Same After This The Buy Signals Are MASSIVE And People Don&#39;t See It](https://www.youtube.com/watch?v=QgzMrXRKNis)**
-
-The public seems to be almost entirely unaware of the fact that not only are the very wealthy accumulating massive amounts of ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 14K • 👍 1K • 💬 388 • ⏱️ 12:21 • 3d ago
-
----
-
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
-
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 538 • 💬 164 • ⏱️ 34:25 • 1d ago
+👁️ 8K • 👍 827 • 💬 285 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -294,7 +250,27 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 187 • 💬 70 • ⏱️ 18:05 • 9h ago
+👁️ 5K • 👍 210 • 💬 105 • ⏱️ 18:05 • 9h ago
+
+---
+
+**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 33K • 👍 2K • 💬 143 • ⏱️ 8:55 • 2d ago
+
+---
+
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
+
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 539 • 💬 142 • ⏱️ 34:25 • 1d ago
 
 ---
 
@@ -318,23 +294,43 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 287 • ⏱️ 11:56 • 2d ago
-
----
-
 **[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
 
 1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
 
 📺 Stock Moe
 
-👁️ 10K • 👍 549 • 💬 46 • ⏱️ 10:44 • 1d ago
+👁️ 10K • 👍 550 • 💬 45 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 11K • 👍 1K • 💬 270 • ⏱️ 11:56 • 2d ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 167 • 💬 8 • ⏱️ 7:21 • 1d ago
+
+---
+
+**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
+
+Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
+
+📺 Fred Opus
+
+👁️ 326 • 👍 115 • 💬 89 • ⏱️ 4:19 • 1d ago
 
 ---
 
