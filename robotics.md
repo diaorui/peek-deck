@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T21:44:42.435954+00:00'
+updated: '2026-08-16T22:20:26.550596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 21:44 UTC  
+**Last Updated:** August 16, 2026 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ Doggo is chill and calm in the simulation, but in real life, he's having uncontr
 
 Got 6x new Sony FCB-EV9520L blocks and 40x driver board pairs from a surplus project. Anyone here building custom ROVs or gimbals? Wy dont now what do now we need help thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 14h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 15h ago
 
 ---
 
@@ -136,13 +136,13 @@ NASA (.gov) • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
 **[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
 
-South China Morning Post • 17h ago
+South China Morning Post • 18h ago
 
 ---
 

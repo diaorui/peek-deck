@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T21:44:42.432420+00:00'
+updated: '2026-08-16T22:20:26.548367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 21:44 UTC  
+**Last Updated:** August 16, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,886.01
+### $1,872.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +0.6%  
-**30d:** +1.2%  
-**90d:** -10.8%  
-**1y:** -57.9%  
+**24h:** -0.3%  
+**7d:** +0.2%  
+**30d:** +0.8%  
+**90d:** -11.1%  
+**1y:** -58.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 1d ago
 
 Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
 
-blockchain.news • 4h ago
+blockchain.news • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 8h ago
+👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 263 • 💬 156 • ⏱️ 18:05 • 19h ago
+👁️ 7K • 👍 263 • 💬 156 • ⏱️ 18:05 • 20h ago
 
 ---
 
@@ -282,7 +282,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 171 • 💬 10 • ⏱️ 5:23 • 14h ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 5:23 • 15h ago
 
 ---
 

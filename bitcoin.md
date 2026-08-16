@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T21:44:42.426013+00:00'
+updated: '2026-08-16T22:20:26.544150+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 21:44 UTC  
+**Last Updated:** August 16, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.4%  
-**30d:** -2.7%  
-**90d:** -17.9%  
-**1y:** -46.3%  
+**24h:** -0.3%  
+**7d:** -1.7%  
+**30d:** -3.0%  
+**90d:** -18.1%  
+**1y:** -46.4%  
 
 ---
 
@@ -85,15 +85,21 @@ https://satoshitimeline.com/854
 
 ---
 
-**[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
+**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-18h ago
+1h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
 5h ago
+
+---
+
+**[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
+
+18h ago
 
 ---
 
@@ -113,17 +119,17 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 ---
 
-**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
-
-12h ago
-
----
-
 **[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
 4h ago
+
+---
+
+**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
+
+13h ago
 
 ---
 
@@ -136,14 +142,6 @@ I’m an artist experimenting with combining traditional painting, metallic text
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
 1d ago
-
----
-
-**[Unpopular Opinion: Self-Custody Is Overrated and Too Risky for Most Crypto Users](https://www.reddit.com/r/Bitcoin/comments/1vpn7fq/unpopular_opinion_selfcustody_is_overrated_and/)**
-
-I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
-
-17h ago
 
 ---
 
@@ -163,7 +161,7 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -171,7 +169,7 @@ Forbes • 9h ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -185,7 +183,7 @@ Investing.com • 12h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -223,7 +221,7 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 Real mining. Tiny footprint.
 
-Mashable • 2d ago
+Mashable • 3d ago
 
 ---
 
@@ -329,7 +327,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 3h ago
+👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 4h ago
 
 ---
 
@@ -339,7 +337,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 22h ago
+👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -359,7 +357,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 324 • ⏱️ 18:25 • 2d ago
+👁️ 37K • 👍 2K • 💬 324 • ⏱️ 18:25 • 3d ago
 
 ---
 

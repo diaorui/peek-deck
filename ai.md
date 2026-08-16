@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T21:44:42.416840+00:00'
+updated: '2026-08-16T22:20:26.538188+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 21:44 UTC  
+**Last Updated:** August 16, 2026 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
 
-4h ago
+5h ago
 
 ---
 
@@ -99,7 +99,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 There's a split from neuroscience I can't stop thinking about as the real reason AI agents fail inside companies. Treat it as an analogy, not a literal claim, but it keeps holding. Your brain runs two memory systems (Complementary Learning Systems theory, McClelland et al. 1995). The neocortex learns slowly and holds general, world knowledge. The hippocampus learns fast: it captures specific episodes as they happen, then consolidates the ones that recur into durable, reusable procedure. A pretrained LLM basically is the neocortex. It read the internet and holds the world's general knowledge. What it does not have is a hippocampus: the fast, company-specific memory that watched how your team actually handled a refund last spring and turned that into a repeatable procedure. So you drop this brilliant cortex into your company and it improvises, and improvised automation fails in production. The real procedure was never in the help doc anyway. It lives in your team's conversations, a couple of people's heads, and one exception everyone now quietly copies. This also explains why the usual tools don't fix it. Retrieval and search are only half a hippocampus: they recall a document but don't consolidate scattered episodes into the real procedure, and the document is often confidently wrong. Agent platforms make you run their agent on their stack. The version of a fix I keep landing on: connect read-only to the tools a team already uses, mine how work actually happens (including the exceptions nobody wrote down), and consolidate the recurring episodes into cited, human-approved, versioned "skills" existing agents could run over MCP, with a human sign-off on anything sensitive. Governance (citations, approvals, an audit trail) has to be the point, because "your AI issued a refund, under whose authority?" is the question that stops people cold. Where I want the pushback: * Is "the agent doesn't know our actual procedures" the real blocker for you, or is it something else (trust, security, the work just isn't repetitive enough)? * Would you connect read-only access to your team's conversations and documents to get this, or is that a hard no? * If you have shipped agents on real workflows, what made them trustworthy enough to turn on? Genuinely hoping some of you tell me where this falls apart.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,13 +141,13 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 Nvidia AI financing is reshaping the AI boom as $500 billion of capital backs new infrastructure, raising fresh questions over risk, debt and returns.
 
-Forbes • 52m ago
+Forbes • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 52m ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 13h ago
 
 While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -207,7 +207,7 @@ Axios • 11h ago
 
 **[How AI Models From OpenAI and Anthropic Went Rogue](https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -219,7 +219,7 @@ WSJ • 5h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 571 • 💬 481 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 577 • 💬 482 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -243,7 +243,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 319 • 💬 197 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 320 • 💬 197 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -257,17 +257,17 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 ---
 
-**[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
-
-⬆️ 178 • 💬 87 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-
----
-
 **[The AI Credit Resale Economy](https://news.ycombinator.com/item?id=49320611)**
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 178 • 💬 68 • 6h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 195 • 💬 72 • 7h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+
+---
+
+**[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
+
+⬆️ 179 • 💬 89 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -291,7 +291,7 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 
 There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
 
-⬆️ 114 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
+⬆️ 115 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 
@@ -305,7 +305,7 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 22K • 👍 463 • 💬 70 • ⏱️ 5:52 • 5h ago
+👁️ 22K • 👍 463 • 💬 70 • ⏱️ 5:52 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺     📚 Hikmat_Tomchisi
 
-👁️ 59K • 👍 239 • 💬 1 • ⏱️ 0:11 • 10h ago
+👁️ 59K • 👍 239 • 💬 1 • ⏱️ 0:11 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ Can Artificial Intelligence actually help you set up your mountain bike suspensi
 
 📺 GMBN Tech
 
-👁️ 4K • 👍 190 • 💬 33 • ⏱️ 20:30 • 12h ago
+👁️ 4K • 👍 190 • 💬 33 • ⏱️ 20:30 • 13h ago
 
 ---
 
@@ -455,7 +455,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 1,008 • 9h ago
+⬇️ 424,099 • ❤️ 1,008 • 10h ago
 
 ---
 
@@ -665,7 +665,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 5h ago
+⭐ 13.7k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -713,7 +713,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 545 • 5h ago
+⭐ 3.2k • 🔱 545 • 6h ago
 
 ---
 
@@ -733,7 +733,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 13h ago
+⭐ 2.5k • 🔱 195 • 14h ago
 
 ---
 
@@ -753,7 +753,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 7h ago
+⭐ 2.1k • 🔱 277 • 8h ago
 
 ---
 
