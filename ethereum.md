@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T23:19:49.617159+00:00'
+updated: '2026-08-16T23:44:23.818562+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 23:19 UTC  
+**Last Updated:** August 16, 2026 at 23:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** -0.4%  
 **7d:** +0.2%  
-**30d:** +0.8%  
-**90d:** -11.1%  
-**1y:** -58.0%  
+**30d:** +0.7%  
+**90d:** -11.2%  
+**1y:** -58.1%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 5h ago
+Benzinga • 6h ago
 
 ---
 
@@ -188,7 +188,7 @@ Benzinga • 5h ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
 
 ---
 

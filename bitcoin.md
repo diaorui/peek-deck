@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T23:19:49.610831+00:00'
+updated: '2026-08-16T23:44:23.814406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 23:19 UTC  
+**Last Updated:** August 16, 2026 at 23:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,068.37
+### $62,955.69
 
 ---
 
@@ -47,8 +47,8 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.3%  
 **7d:** -1.7%  
 **30d:** -3.0%  
-**90d:** -18.1%  
-**1y:** -46.4%  
+**90d:** -18.2%  
+**1y:** -46.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-6h ago
+7h ago
 
 ---
 
@@ -93,29 +93,13 @@ https://satoshitimeline.com/854
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-19h ago
-
----
-
-**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
-
-Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
-
-8h ago
-
----
-
-**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
-
-Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
-
-8h ago
+20h ago
 
 ---
 
@@ -123,7 +107,31 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-5h ago
+6h ago
+
+---
+
+**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
+
+Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
+
+9h ago
+
+---
+
+**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
+
+Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
+
+9h ago
+
+---
+
+**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
+
+i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
+
+1h ago
 
 ---
 
@@ -134,12 +142,6 @@ I’m an artist experimenting with combining traditional painting, metallic text
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
-
-1d ago
-
----
-
-**[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
 1d ago
 
@@ -183,7 +185,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -207,7 +209,7 @@ Seeking Alpha • 11h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 7h ago
+Benzinga • 8h ago
 
 ---
 
@@ -277,7 +279,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 12h ago
+👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 13h ago
 
 ---
 
@@ -287,7 +289,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 164 • ⏱️ 16:33 • 1d ago
+👁️ 23K • 👍 2K • 💬 164 • ⏱️ 16:33 • 2d ago
 
 ---
 

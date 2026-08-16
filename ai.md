@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T23:19:49.602224+00:00'
+updated: '2026-08-16T23:44:23.808467+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 23:19 UTC  
+**Last Updated:** August 16, 2026 at 23:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-9h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 I’m just curious: in the era of artificial intelligence, is there anything left that AI cannot yet automate—something that still requires a specialized system?
 
-43m ago
+1h ago
 
 ---
 
@@ -91,7 +91,7 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 7h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ CBS News • 2h ago
 
 "I think by far the most accurate criticism of AI companies including Anthropic is that we haven’t yet delivered on our big promises to benefit the world."
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Guardian • 15h ago
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ WSJ • 7h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 577 • 💬 482 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 586 • 💬 484 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -239,7 +239,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 320 • 💬 197 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 321 • 💬 197 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -257,7 +257,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 195 • 💬 72 • 8h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 211 • 💬 82 • 8h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -275,19 +275,17 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 ---
 
-**[How AI text watermarking works](https://news.ycombinator.com/item?id=49292932)**
-
-A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
-
-⬆️ 137 • 💬 99 • 3d ago • [declaude](https://declaude.org/watermarking/)
-
----
-
 **[Cloudflare's AI Psychosis](https://news.ycombinator.com/item?id=49310719)**
 
 There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
 
 ⬆️ 115 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
+
+---
+
+**[Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://news.ycombinator.com/item?id=49323381)**
+
+⬆️ 114 • 💬 86 • 3h ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
 
 ---
 
@@ -331,7 +329,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 54K • 👍 1K • 💬 222 • ⏱️ 13:09 • 1d ago
+👁️ 54K • 👍 1K • 💬 222 • ⏱️ 13:09 • 2d ago
 
 ---
 
