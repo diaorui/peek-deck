@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T17:19:05.459809+00:00'
+updated: '2026-08-16T17:45:22.594094+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 17:19 UTC  
+**Last Updated:** August 16, 2026 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -37,6 +37,14 @@ Robotics research and industry news
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
 6h ago
+
+---
+
+**[Any need one of these? We need help](https://www.reddit.com/r/robotics/comments/1vq2o85/any_need_one_of_these_we_need_help/)**
+
+Got 6x new Sony FCB-EV9520L blocks and 40x driver board pairs from a surplus project. Anyone here building custom ROVs or gimbals? Wy dont now what do now we need help thanks
+
+31m ago
 
 ---
 
@@ -104,14 +112,6 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 ---
 
-**[Probando válvula pepepako con la voz y 2,5 bares de presión hidráulica](https://www.reddit.com/r/robotics/comments/1vpbaf1/probando_válvula_pepepako_con_la_voz_y_25_bares/)**
-
-Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -124,11 +124,11 @@ Fox News • 1h ago
 
 ---
 
-**[Humanoid robots could eventually help monitor southern border, Foundation CEO Sankaet Pathak says](https://www.foxnews.com/video/6403343551112)**
+**[Lift Happens. Or Maybe Not. Watch the Flameouts at This DARPA Challenge](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)**
 
-Foundation CEO Sankaet Pathak says Phantom robots could eventually detect people, navigate uneven terrain and flag activity for federal border officers.
+Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-Fox News • 2h ago
+spectrum.ieee.org • 3h ago
 
 ---
 
@@ -170,19 +170,19 @@ New Atlas • 2d ago
 
 ---
 
-**[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
-
-Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
-
-Medscape • 2d ago
-
----
-
 **[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.wboc.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_73ab981f-b864-5004-932b-f3acf03efe9d.html)**
 
 Just another WordPress site
 
 WBOC TV • 1d ago
+
+---
+
+**[Teams increase 138% as World Humanoid Robot Games expands scale and influence](https://www.globaltimes.cn/page/202608/1368304.shtml)**
+
+The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
+
+Global Times • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Join Robotics Builder Membership for Behind the Scene Videos: ...
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 13K • 👍 322 • 💬 57 • ⏱️ 11:50 • 5d ago
+👁️ 13K • 👍 322 • 💬 57 • ⏱️ 11:50 • 6d ago
 
 ---
 

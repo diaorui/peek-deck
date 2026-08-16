@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T17:19:05.456511+00:00'
+updated: '2026-08-16T17:45:22.591203+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 17:19 UTC  
+**Last Updated:** August 16, 2026 at 17:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone tried Expert Picks (by Market Wind) in CoinDCX? How was your experience?](https://www.reddit.com/r/ethereum/comments/1vpyiiy/has_anyone_tried_expert_picks_by_market_wind_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +110,7 @@ Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, Shi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 1d ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 2d ago
 
 ---
 
@@ -158,6 +158,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans](https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks)**
+
+The Ethereum staking platform Ether.fi is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.
+
+Decrypt • 3d ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
@@ -182,14 +190,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
-
-Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
-
-Decrypt • 1d ago
-
----
-
 **[Ethereum: Double Dip Pattern Mirrors 2025 Rally](https://blockchain.news/flashnews/ethereum-double-dip-pattern-mirrors-2025-rally)**
 
 Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
@@ -210,7 +210,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 6h ago
+tipranks.com • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 441 • 💬 36 • ⏱️ 15:54 • 4h ago
+👁️ 6K • 👍 441 • 💬 36 • ⏱️ 15:54 • 5h ago
 
 ---
 

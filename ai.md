@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T17:19:05.441817+00:00'
+updated: '2026-08-16T17:45:22.577967+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 17:19 UTC  
+**Last Updated:** August 16, 2026 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-3h ago
+4h ago
 
 ---
 
@@ -67,7 +67,31 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 1h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 2h ago
+
+---
+
+**[1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?](https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/)**
+
+Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
+
+37m ago
+
+---
+
+**[A split from neuroscience (cortex vs hippocampus) is the best explanation I've found for why AI agents fail on real company work](https://www.reddit.com/r/artificial/comments/1vq21ve/a_split_from_neuroscience_cortex_vs_hippocampus/)**
+
+There's a split from neuroscience I can't stop thinking about as the real reason AI agents fail inside companies. Treat it as an analogy, not a literal claim, but it keeps holding. Your brain runs two memory systems (Complementary Learning Systems theory, McClelland et al. 1995). The neocortex learns slowly and holds general, world knowledge. The hippocampus learns fast: it captures specific episodes as they happen, then consolidates the ones that recur into durable, reusable procedure. A pretrained LLM basically is the neocortex. It read the internet and holds the world's general knowledge. What it does not have is a hippocampus: the fast, company-specific memory that watched how your team actually handled a refund last spring and turned that into a repeatable procedure. So you drop this brilliant cortex into your company and it improvises, and improvised automation fails in production. The real procedure was never in the help doc anyway. It lives in your team's conversations, a couple of people's heads, and one exception everyone now quietly copies. This also explains why the usual tools don't fix it. Retrieval and search are only half a hippocampus: they recall a document but don't consolidate scattered episodes into the real procedure, and the document is often confidently wrong. Agent platforms make you run their agent on their stack. The version of a fix I keep landing on: connect read-only to the tools a team already uses, mine how work actually happens (including the exceptions nobody wrote down), and consolidate the recurring episodes into cited, human-approved, versioned "skills" existing agents could run over MCP, with a human sign-off on anything sensitive. Governance (citations, approvals, an audit trail) has to be the point, because "your AI issued a refund, under whose authority?" is the question that stops people cold. Where I want the pushback: * Is "the agent doesn't know our actual procedures" the real blocker for you, or is it something else (trust, security, the work just isn't repetitive enough)? * Would you connect read-only access to your team's conversations and documents to get this, or is that a hard no? * If you have shipped agents on real workflows, what made them trustworthy enough to turn on? Genuinely hoping some of you tell me where this falls apart.
+
+55m ago
+
+---
+
+**[Resource - AI Text Watermarking: How it Works and How to Evade It](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
+
+Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
+
+16h ago
 
 ---
 
@@ -76,22 +100,6 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
 1h ago
-
----
-
-**[Economist Molly Kinder: the "safe" job wasn't safe. It was just priced high.](https://www.reddit.com/r/artificial/comments/1vpxfoi/economist_molly_kinder_the_safe_job_wasnt_safe_it/)**
-
-Bloomberg's own reporting already answers the question this clip raises — is the "messy middle" projected or already happening? At Commonwealth Bank of Australia, Microsoft, Uber, and Hyatt, it's already happened: sizable call-center headcount cut using automated phone and chat systems, savings already banked. Economist Molly Kinder's point isn't a forecast. It's a line item that's already closed. I've watched this exact math play out before superior technology ever touched a keyboard. Suncon was getting jobs overseas. One of the countries we went to was India. We were building infrastructure — roads and bridges there. I didn't go. But my seniors went stationed there. When they came back during their scheduled holidays, one of them, a project manager, told me this story. It so happened, that building roads and bridges inland means clearing jungles and passing through villages. As they were doing it, of course they engaged local villagers to be their workers and supervisors. Well, of course building infrastructure means bringing in heavy machineries, such as excavators, bobcats, mobile-cranes, 4-wheel-drive land-cruisers, etc. You know — the usual. But the local villagers weren't happy. They complained that all these machineries have deprived the local population of their means of making a living. They have so many mouths to feed. A lot of them are quite poor. And many of them are very hunger for work. And so a huge argument broke out. They even spitefully challenged our project team that they vast manpower was more superior than our machinery. I was so surprised when I heard it. How can they say that? How was that even a reasonable challenge, you know. My curiosity had the best of me. Well, the project manager came up with an idea. He said, since they're so confident of their manpower, why don't we have a competition. Let's do a challenge of moving earth from point A to point B for our excavator/mobile-crane operator versus their vast manpower. And they accepted. At the day of challenge, the project manager set up two huge piles of earth at point A for both teams. The local villagers' team had their "vast" manpower formed a long-ass line between A and B, and started moving earth, with their primitive buckets and whatnot. For our team, we set up our mobile-cranes, excavators and bobcats on strategic locations. And off we go. You can guess the result. We won by a large margin. We were obviously much faster and better at it. After that, the local villagers concede defeat. The math is actually quite similar here. The one with superior technology always wins. This AI-take over is no different. https://preview.redd.it/psrdrktlqqjh1.jpg?width=1024&format=pjpg&auto=webp&s=a9e5ac7aebdbabe577d6a7cfc3ec000d0064fadc __________ Every time I dig into one of these stories the shape repeats: the tool doesn't ask permission, it just wins the argument by moving faster than the objection can be raised. Ever watched something you thought was irreplaceable lose, and lose fast? Drop your take below. Clip credit: Center for Humane Technology — full video on their channel. DM for credit or removal requests.
-
-3h ago
-
----
-
-**[Resource - AI Text Watermarking: How it Works and How to Evade It](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
-
-Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
-
-15h ago
 
 ---
 
@@ -111,27 +119,19 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 ---
 
+**[The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.](https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/)**
+
+Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
+
+22h ago
+
+---
+
 **[OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
 
 A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
 
 🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 1d ago
-
----
-
-**[The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.](https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/)**
-
-Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
-
-21h ago
-
----
-
-**[Zuckerberg is betting Meta's whole ad business on AI and his own ai ugc tools are turning dresses into pants](https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/)**
-
-Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
-
-21h ago
 
 ---
 
@@ -141,7 +141,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -153,41 +153,53 @@ The Guardian • 9h ago
 
 ---
 
-**[We should start building fiscal insurance for the AI era](https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/)**
+**[Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer](https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8)**
 
-The Hill • 1h ago
+Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.
 
----
-
-**[How OpenAI's and Anthropic's AI Models Went Rogue](https://www.wsj.com/video/how-openai-and-anthropics-ai-models-went-rogue/32BA18D7-EF32-4580-A46A-78003C0FE77C)**
-
-WSJ • 1h ago
+Business Insider • 1h ago
 
 ---
 
-**[Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy](https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy)**
+**[AI notetakers have entered the meeting. Here are 5 ways to get the most out of them](https://www.fastcompany.com/91588638/ai-notetakers-have-entered-the-meeting-here-are-5-ways-to-get-the-most-out-of-them)**
 
-South China Morning Post • 1h ago
+AI is listening in all your meetings. They still suck.
+
+Fast Company • 41m ago
+
+---
+
+**[Andrew Ng Maps The AI Skills That Decide Which Teams Ship Efficiently](https://www.forbes.com/sites/josipamajic/2026/08/16/andrew-ng-maps-the-ai-skills-that-decide-which-startups-ship/)**
+
+Andrew Ng's skills map, built from 10,000 job postings, names four AI engineering skills. What it means for founders raising into a $510 billion venture market.
+
+Forbes • 15m ago
 
 ---
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 6h ago
+Axios • 7h ago
+
+---
+
+**[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
+
+WSJ • 23h ago
+
+---
+
+**[‘Godfather of AI’ predicts mass unemployment is on its way](https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/)**
+
+While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+
+Fortune • 4h ago
 
 ---
 
 **[At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl](https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl)**
 
-Bloomberg.com • 4h ago
-
----
-
-**[Instagram promised to remove harassing Meta glasses videos. I keep finding them.](https://www.businessinsider.com/instagram-crackdown-meta-ai-glasses-pickup-rizz-videos-moderation-challenges-2026-8)**
-
-Instagram said it would remove harassing videos filmed with Meta AI glasses. Weeks later, dozens remain.
-
-businessinsider.com • 7h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -196,14 +208,6 @@ businessinsider.com • 7h ago
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
 CNBC • 18h ago
-
----
-
-**[Colleges aim to ‘AI proof’ degrees with new majors](https://www.bostonglobe.com/2026/08/16/metro/artificial-intelligence-degrees/)**
-
-Northeastern University and Endicott College are among schools introducing degrees in AI.
-
-The Boston Globe • 11h ago
 
 ---
 
@@ -299,7 +303,7 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 70K • 👍 4K • 💬 698 • ⏱️ 22:19 • 18h ago
+👁️ 70K • 👍 4K • 💬 698 • ⏱️ 22:19 • 19h ago
 
 ---
 
@@ -445,7 +449,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 990 • 4h ago
+⬇️ 424,099 • ❤️ 990 • 5h ago
 
 ---
 
@@ -505,7 +509,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 718,178 • ❤️ 446 • 5d ago
+⬇️ 718,178 • ❤️ 446 • 6d ago
 
 ---
 
@@ -665,7 +669,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.6k • 🔱 1.1k • 16h ago
+⭐ 10.6k • 🔱 1.1k • 17h ago
 
 ---
 
@@ -723,7 +727,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 8h ago
+⭐ 2.5k • 🔱 195 • 9h ago
 
 ---
 
