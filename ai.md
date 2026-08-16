@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-15T23:45:05.906114+00:00'
+updated: '2026-08-16T01:18:56.930785+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 15, 2026 at 23:45 UTC  
+**Last Updated:** August 16, 2026 at 01:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 14h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 9h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 For a long time, I’ve had the feeling that generative AI models, for most of the tasks they’re used for, don’t actually need the oversized capabilities offered by frontier models. On top of that, they’re often prohibitively expensive when accessed via API. An open-source model with 4–14 billion parameters, multimodal capabilities, and the right harness of tools, data, and knowledge is more than enough for most use cases. With this idea in mind, I decided to build, together with my team, a simple platform that allows users to fine-tune and deploy these lightweight models quickly and without any coding. After several iterations, we have managed to develop what we believe is the optimal framework for anyone to deploy and customize a small 4B or 9B model, either through fine-tuning or RAG. And what’s most important t me, you can download the weights, run them locally, and own the IP and the property of the model, unlike in many cases where big vendors lock you in. We’ve also managed to sign an agreement with a local data center, and we now have our own GPUs. This means training and inference are not only extremely fast, but we can also offer unlimited inference. If you need a customized, affordable model with unlimited API inference, I think this could be really useful for you. There’s a free tier, and if you try it out and give us some feedback, I’ll give you the subscription plan for free for 6 months. Since we have our own GPUs in our data center, our infrastructure costs are fixed. I’m really happy with how it has turned out, and I use these models for many of my own projects. You can access the platform at neuro-block.com Would love to hear your thoughts in the comments.
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ For a long time, I’ve had the feeling that generative AI models, for most of t
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-3h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
 
-3h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built fro
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-17h ago
+19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 I've noticed that a lot of AI products don't stay in the category they started in. Something launches as a tool, does one thing well, and that's the whole value proposition. Then a year later people are connecting it to other systems, building workflows around it, sharing it across teams, writing integrations for it, and depending on it for things it wasn't originally designed to do. Looking at some of the bigger AI products today, I'm not even sure "tool" is the right word anymore. The interesting part is that there never seems to be a clear moment where the transition happens. People don't wake up one day and decide they're using a platform now. It just gradually becomes part of how work gets done. For those who've seen products make that jump, what was the signal? What made you realize something had stopped being a tool and become a platform?
 
-6h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ I've noticed that a lot of AI products don't stay in the category they started i
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-7h ago
+8h ago
 
 ---
 
@@ -121,25 +121,29 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 ## Google News: "ai"
 
-**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
+**[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
-
-BBC • 12h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google](https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google)**
+**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Bloomberg.com • 14h ago
+Axios • 14h ago
 
 ---
 
-**[How AI can help you save time](https://www.cbsnews.com/losangeles/video/how-ai-can-help-you-save-time/)**
+**[AI Is Helping Patients Solve Medical Mysteries](https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25)**
 
-AI can help you save time with your day-to-day life. The Leverage Circle CEO and Park AI Labs Founder Tim Park is hosting an AI workshop for women in the workplace. He joined CBS LA to talk about it.
+WSJ • 1h ago
 
-CBS News • 2h ago
+---
+
+**[U.S. to tell partners they must pick sides in AI race with China: Reuters](https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html)**
+
+The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
+
+CNBC • 2h ago
 
 ---
 
@@ -147,35 +151,29 @@ CBS News • 2h ago
 
 James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
 
-Forbes • 13h ago
+Forbes • 14h ago
 
 ---
 
-**["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
+**[Secondhand book sales are booming. Is it because of AI?](https://www.bbc.com/news/articles/cp3rprx2wl4o)**
 
-Axios • 13h ago
+Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
----
-
-**[The Summer That America Became a Nation of Luddites](https://www.wsj.com/tech/ai/the-summer-that-america-became-a-nation-of-luddites-5e6dc3e7)**
-
-wsj.com • 14h ago
+bbc.com • 13h ago
 
 ---
 
-**[Cisco vs. Broadcom: One Stock Looks Like the Better AI Play](https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html)**
+**['I have a chip on my shoulder.' Phoebe Gates wants her $185 million AI startup Phia to succeed with 'no ties to my privilege or my last name'](https://fortune.com/article/phoebe-gates-phia-shopping-app-cookie-stuffing/)**
 
-Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.
+But now Phoebe Gates is under her own fire for her app Phia reportedly "cookie stuffing."
 
-Yahoo Finance • 8h ago
+Fortune • 11h ago
 
 ---
 
-**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
+**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
-
-Financial Times • 19h ago
+Politico • 5h ago
 
 ---
 
@@ -183,13 +181,15 @@ Financial Times • 19h ago
 
 Detectors, watermarks, and slop-reporting buttons: What happens when AI can no longer hide?
 
-New York Magazine • 13h ago
+New York Magazine • 15h ago
 
 ---
 
-**[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
+**[AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)**
 
-Politico • 3h ago
+Jill Lepore on how opposition to data centres is reshaping politics — and what history tells us about regulating new technologies
+
+ft.com • 21h ago
 
 ---
 
@@ -201,15 +201,7 @@ Politico • 3h ago
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 477 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-
----
-
-**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
-
-Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
-
-⬆️ 348 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 480 • 💬 280 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -217,7 +209,15 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 342 • 💬 298 • 5h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 407 • 💬 365 • 7h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
+
+**[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
+
+Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+
+⬆️ 351 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 239 • 💬 167 • 13h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 264 • 💬 171 • 14h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -243,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 202 • 💬 262 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 205 • 💬 262 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -351,7 +351,7 @@ NVIDIA CEO Jensen Huang has previously suggested that radiology could be among t
 
 📺 Future Vision
 
-👁️ 786 • 👍 29 • 💬 1 • ⏱️ 0:25 • 1h ago
+👁️ 786 • 👍 29 • 💬 1 • ⏱️ 0:25 • 3h ago
 
 ---
 
@@ -371,7 +371,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 MS NOW
 
-👁️ 242K • 👍 5K • 💬 999 • ⏱️ 20:18 • 22h ago
+👁️ 242K • 👍 5K • 💬 999 • ⏱️ 20:18 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,217 • 17h ago
+⬇️ 867,963 • ❤️ 1,217 • 19h ago
 
 ---
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 2h ago
+⭐ 13.6k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.7k • 🔱 1.0k • 1h ago
+⭐ 9.7k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -665,7 +665,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.5k • 🔱 1.0k • 1d ago
+⭐ 8.5k • 🔱 1.0k • 2d ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 7h ago
+⭐ 3.1k • 🔱 539 • 9h ago
 
 ---
 
@@ -723,7 +723,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 3h ago
+⭐ 2.5k • 🔱 194 • 4h ago
 
 ---
 
@@ -733,7 +733,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.1k • 🔱 172 • 11h ago
+⭐ 2.1k • 🔱 172 • 13h ago
 
 ---
 

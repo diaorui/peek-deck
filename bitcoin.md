@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-15T23:45:05.914569+00:00'
+updated: '2026-08-16T01:18:56.938736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 23:45 UTC  
+**Last Updated:** August 16, 2026 at 01:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -2.7%  
-**30d:** -1.2%  
-**90d:** -18.0%  
-**1y:** -46.2%  
+**24h:** -0.1%  
+**7d:** -1.4%  
+**30d:** -2.8%  
+**90d:** -17.9%  
+**1y:** -46.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-8h ago
+10h ago
 
 ---
 
@@ -101,13 +101,13 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-20h ago
+21h ago
 
 ---
 
-**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-12h ago
+2h ago
 
 ---
 
@@ -115,7 +115,13 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 3h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 5h ago
+
+---
+
+**[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
+
+14h ago
 
 ---
 
@@ -123,7 +129,7 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-2h ago
+4h ago
 
 ---
 
@@ -131,7 +137,7 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-8h ago
+10h ago
 
 ---
 
@@ -139,15 +145,7 @@ $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO 
 
 Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
 
-4h ago
-
----
-
-**[How to make Bitcoin private?](https://www.reddit.com/r/Bitcoin/comments/1vp5x3h/how_to_make_bitcoin_private/)**
-
-I just bought Bitcoins for the first time yesterday from Kraken but so it's tied to my identity. I do not wish to have bitcoins publicly tied to my name as the privacy is the fundamental of the cryptos, so i would like to anonymize it, I saw what happened to Samurai/Tornadocash getting persecuted and it's sad so unusable protocol now. Where do you make your bitcoins private? (It's not a tax evasion if you're asking, i already paid while buying and will pay if i do profits to my bank account obviously, i just want to hold freely).
-
-8h ago
+6h ago
 
 ---
 
@@ -159,7 +157,7 @@ I just bought Bitcoins for the first time yesterday from Kraken but so it's tied
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -167,23 +165,23 @@ CoinDesk • 8h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 10h ago
+Forbes • 12h ago
 
 ---
 
-**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html)**
+**[Bitcoin Is a ‘Deep Freeze’ for Money. What Does That Actually Mean?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-deep-freeze-money-does-231246966.html)**
 
-Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
+Saylor recasts Bitcoin as stored energy and argues fiat leaks value, while BTC trades 47% below last year.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Skip the Bitcoin: Folsom residents surveyed want East Bidwell, Hwy. 50 traffic fixed](https://www.sacbee.com/news/local/article316861873.html)**
+**[Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)**
 
-Residents’ top ideas to improve the city found that infrastructure and e-bike rules are priorities, rather than cryptocurrency
+UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-Sacramento Bee • 1d ago
+The Block • 6h ago
 
 ---
 
@@ -191,7 +189,7 @@ Sacramento Bee • 1d ago
 
 Real mining. Tiny footprint.
 
-mashable.com • 2d ago
+Mashable • 2d ago
 
 ---
 
@@ -199,23 +197,7 @@ mashable.com • 2d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 23h ago
-
----
-
-**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
-
-LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Falls as Regulatory Hopes Are Dashed](https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-regulatory-hopes-dashed-152533318.html)**
-
-Crypto investors got a letdown this week–and not just from bitcoin prices.
-
-Yahoo Finance • 1d ago
+WAFF • 1d ago
 
 ---
 
@@ -227,9 +209,25 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 ---
 
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
+
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 13h ago
+Investing.com • 15h ago
+
+---
+
+**[SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.](https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/)**
+
+The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -257,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -279,7 +277,7 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
 
-⬆️ 4 • 💬 1 • 1d ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
+⬆️ 4 • 💬 1 • 2d ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
 
 ---
 
@@ -323,7 +321,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 Benjamin Cowen
 
-👁️ 140K • 👍 8K • 💬 445 • ⏱️ 21:29 • 2d ago
+👁️ 140K • 👍 8K • 💬 445 • ⏱️ 21:29 • 3d ago
 
 ---
 
@@ -331,7 +329,7 @@ Let's talk about the next 60 days for Bitcoin. Come to the 1st ITC Conference: h
 
 📺 CryptoWendyO
 
-👁️ 18K • 👍 1K • 💬 52 • ⏱️ 2:31 • 1d ago
+👁️ 18K • 👍 1K • 💬 52 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -351,7 +349,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 122 • 💬 182 • ⏱️ 1:36 • 22h ago
+👁️ 4K • 👍 122 • 💬 182 • ⏱️ 1:36 • 23h ago
 
 ---
 
@@ -361,7 +359,7 @@ Looking for a streamlined crypto trading platform to level up your setup in 2026
 
 📺 Crypto Nitro
 
-👁️ 9K • 💬 23 • ⏱️ 1:12 • 21h ago
+👁️ 9K • 💬 23 • ⏱️ 1:12 • 22h ago
 
 ---
 

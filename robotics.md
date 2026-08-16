@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-15T23:45:05.923960+00:00'
+updated: '2026-08-16T01:18:56.947360+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 15, 2026 at 23:45 UTC  
+**Last Updated:** August 16, 2026 at 01:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-10h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-2h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-3h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ I'm interested in learning how robotic hands can sense things like pressure, tem
 
 Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-10h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-4h ago
+6h ago
 
 ---
 
@@ -100,7 +100,7 @@ Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040
 
 🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
 
-19h ago
+20h ago
 
 ---
 
@@ -138,25 +138,11 @@ NASA (.gov) • 1d ago
 
 ---
 
-**[Helmholtz resonance powers miniature boats and ultrasonic flying robots](https://techxplore.com/news/2026-08-helmholtz-resonance-powers-miniature-boats.html)**
-
-Tech Xplore • 12h ago
-
----
-
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
 CNBC • 1d ago
-
----
-
-**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
-
-A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
-
-Interesting Engineering • 10h ago
 
 ---
 
@@ -168,11 +154,11 @@ Medscape • 1d ago
 
 ---
 
-**[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
+**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
 
-A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
+A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
 
-Live Science • 2d ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -184,11 +170,25 @@ New Atlas • 1d ago
 
 ---
 
+**[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
+
+A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
+
+Live Science • 2d ago
+
+---
+
 **[Kraken Robotics Schedules Q2 2026 Financial Results Release and Webcast](https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-schedules-q2-2026-103000366.html)**
 
 TORONTO, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (“Kraken” or the “Company”) (TSX-V: PNG, OTCQB: KRKNF) announces that it will release its second quarter 2026 financial results prior to the opening of markets on Thursday, August 27, 2026. Kraken’s management will hold a conference call at 8:30 a.m. ET the same day to discuss the Company’s results and outlook. Participants can listen to this event at the webcast details below, or by dialing 1-833-752-3301 (North America) or +1-647-
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ What if the closest thing yet to a real-life Transformer is being built in Shenz
 
 📺 Kalil 4.0
 
-👁️ 365 • 👍 21 • 💬 4 • ⏱️ 0:52 • 1h ago
+👁️ 365 • 👍 21 • 💬 4 • ⏱️ 0:52 • 3h ago
 
 ---
 

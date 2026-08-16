@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-15T23:45:05.920732+00:00'
+updated: '2026-08-16T01:18:56.944358+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 15, 2026 at 23:45 UTC  
+**Last Updated:** August 16, 2026 at 01:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,884.27
+### $1,882.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.3%  
-**30d:** +2.3%  
-**90d:** -11.5%  
-**1y:** -57.4%  
+**24h:** -0.2%  
+**7d:** +0.5%  
+**30d:** +1.0%  
+**90d:** -10.9%  
+**1y:** -57.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 7h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 8h ago
 
 ---
 
@@ -152,19 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
+
+Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
+
+CoinDesk • 13h ago
+
+---
+
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-12-000-tom-135215459.html)**
 
 Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
 
 Yahoo Finance • 2d ago
-
----
-
-**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
-
-Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
-
-CoinDesk • 11h ago
 
 ---
 
@@ -188,21 +188,15 @@ Decrypt • 1d ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-benzinga.com • 1d ago
+Benzinga • 1d ago
 
 ---
 
-**[Down 62% From Its Highs, Is Ethereum a Buy Right Now?](https://www.fool.com/investing/2026/08/14/down-62-from-its-highs-is-ethereum-a-buy-right-now/)**
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
 
-There are still plenty of reasons to believe in the second-largest cryptocurrency.
+The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum May Be Poised to Surge; NEHI Pays Investors to Wait](https://www.etftrends.com/monthly-income-content-hub/ethereum-poised-surge-nehi-pays-investors-wait/)**
-
-ETF Trends • 1d ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -228,6 +222,18 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +244,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 510 • 💬 169 • ⏱️ 34:25 • 14h ago
+👁️ 5K • 👍 510 • 💬 169 • ⏱️ 34:25 • 16h ago
 
 ---
 
@@ -248,7 +254,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 755 • 💬 250 • ⏱️ 17:49 • 12h ago
+👁️ 7K • 👍 755 • 💬 250 • ⏱️ 17:49 • 14h ago
 
 ---
 
@@ -288,7 +294,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 164 • 💬 7 • ⏱️ 7:21 • 22h ago
+👁️ 3K • 👍 164 • 💬 7 • ⏱️ 7:21 • 1d ago
 
 ---
 
@@ -308,7 +314,7 @@ DonAlt finally bought ETH near resistance, with $4K upside if the market's long 
 
 📺 TechnicalRoundup
 
-👁️ 4K • 👍 170 • 💬 37 • ⏱️ 1:24:09 • 13h ago
+👁️ 4K • 👍 170 • 💬 37 • ⏱️ 1:24:09 • 14h ago
 
 ---
 
@@ -328,7 +334,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 260 • 👍 21 • 💬 14 • ⏱️ 4:29 • 13h ago
+👁️ 260 • 👍 21 • 💬 14 • ⏱️ 4:29 • 15h ago
 
 ---
 
