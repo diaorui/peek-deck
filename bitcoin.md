@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T15:46:27.711803+00:00'
+updated: '2026-08-16T16:25:23.682699+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 15:46 UTC  
+**Last Updated:** August 16, 2026 at 16:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1264.63B
+**Market Cap:** $1269.12B
 Rank #1
 
-**Circulating Supply:** 20,071,043 BTC
+**Circulating Supply:** 20,071,059 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.0%
+-49.9%
 
 **All-Time Low:** $67.81
-+92818.4%
++93138.5%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
 
-11h ago
+12h ago
 
 ---
 
@@ -129,13 +129,13 @@ I believe keeping cryptocurrency on centralized exchanges is actually a solid ch
 
 Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
 
-12h ago
+13h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -155,7 +155,7 @@ Before the hack their marketing frontpage (using last snapshot pre hack event, J
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -167,49 +167,19 @@ The Block • 21h ago
 
 ---
 
-**[🚨𝗝𝗨𝗦𝗧 𝗜𝗡: El Salvador keeps adding bitcoin:native to its reserves almost every day, with no sells so far.](https://www.moomoo.com/community/feed/el-salvador-keeps-adding-bitcoin-native-to-its-reserves-almost-117105242210309)**
+**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
 
-@DustyBC Crypto 2773 Views
+CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Moomoo • 3h ago
-
----
-
-**[Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap](https://finance.yahoo.com/markets/crypto/articles/could-bitcoin-ever-break-21-190725783.html)**
-
-Adam Back rejects Peter Todd's call to lift Bitcoin's 21 million supply cap, calling the case a false narrative.
-
-Yahoo Finance • 20h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
 
-Real mining. Tiny footprint.
+Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Mashable • 2d ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
-
-Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
-
-Investing.com • 1d ago
-
----
-
-**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
-
-Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
-
-Yahoo Finance • 1d ago
+Forbes • 4h ago
 
 ---
 
@@ -221,11 +191,43 @@ WAFF • 1d ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
+
+Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
+
+24/7 Wall St. • 1d ago
+
+---
+
+**[Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown](https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown)**
+
+Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as BTC retraces last week's gains and altcoins struggle to find direction.
+
+CoinDesk • 2d ago
+
+---
+
 **[10x Research's Thielen: $1M Bitcoin by 2030 Is Impossible](https://bitbo.io/news/thielen-1m-bitcoin-impossible/)**
 
 Markus Thielen of 10x Research argues bitcoin cannot reach $1 million by 2030 because it would require roughly $15 trillion in new capital inflows.
 
-Bitbo • 11h ago
+Bitbo • 12h ago
+
+---
+
+**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
+
+Real mining. Tiny footprint.
+
+Mashable • 2d ago
 
 ---
 
@@ -237,7 +239,7 @@ Bitbo • 11h ago
 
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
-⬆️ 10 • 💬 1 • 5d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+⬆️ 10 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
 
 ---
 
@@ -281,7 +283,17 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 159 • ⏱️ 16:33 • 1d ago
+👁️ 22K • 👍 1K • 💬 160 • ⏱️ 16:33 • 1d ago
+
+---
+
+**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
+
+For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+
+📺 Benjamin Cowen
+
+👁️ 30K • 👍 3K • 💬 194 • ⏱️ 16:15 • 5h ago
 
 ---
 
@@ -291,7 +303,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 409 • 💬 15 • ⏱️ 55:12 • 21h ago
+👁️ 10K • 👍 425 • 💬 21 • ⏱️ 55:12 • 22h ago
 
 ---
 
@@ -301,7 +313,7 @@ If Bitcoin surges to the $250000 mark, Ethereum is widely expected to shatter it
 
 📺 StrikeZoneX
 
-👁️ 891 • 👍 5 • 💬 2 • ⏱️ 0:45 • 8h ago
+👁️ 984 • 👍 6 • 💬 2 • ⏱️ 0:45 • 9h ago
 
 ---
 
@@ -311,7 +323,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 598 • 💬 15 • ⏱️ 0:53 • 1d ago
+👁️ 39K • 👍 602 • 💬 15 • ⏱️ 0:53 • 1d ago
+
+---
+
+**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+
+Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+
+📺 Thinking Crypto
+
+👁️ 244 • 👍 20 • 💬 89 • ⏱️ 2:18 • 55m ago
 
 ---
 
@@ -321,17 +343,7 @@ Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing cov
 
 📺 Bitcoin Unleashed with Oliver Velez
 
-👁️ 2K • 👍 120 • 💬 28 • ⏱️ 8:30 • 19h ago
-
----
-
-**[Bitcoin Whale Watching](https://www.youtube.com/watch?v=3f7iDFfYAeg)**
-
-It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 75K • 👍 4K • 💬 149 • ⏱️ 15:07 • 1d ago
+👁️ 2K • 👍 124 • 💬 29 • ⏱️ 8:30 • 20h ago
 
 ---
 
@@ -341,7 +353,7 @@ Market Disruptors host Mark Moss explains why selling your Bitcoin for cash trig
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 149 • 💬 121 • ⏱️ 1:36 • 1d ago
+👁️ 5K • 👍 153 • 💬 120 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -361,17 +373,7 @@ Bitcoin is back near its historic 200-week moving average as volatility collapse
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 2K • 💬 302 • ⏱️ 18:25 • 2d ago
-
----
-
-**[SECRET BITCOIN SPAWN](https://www.youtube.com/watch?v=fPsAQ2ucLcU)**
-
-Airwingmarine's Music - Synthwave ...
-
-📺 Airwingmarine
-
-👁️ 33K • 👍 574 • 💬 34 • ⏱️ 0:15 • 2d ago
+👁️ 37K • 👍 2K • 💬 306 • ⏱️ 18:25 • 2d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T15:46:27.720043+00:00'
+updated: '2026-08-16T16:25:23.691039+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 15:46 UTC  
+**Last Updated:** August 16, 2026 at 16:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 8h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 9h ago
 
 ---
 
@@ -68,7 +68,7 @@ Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea 
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-19h ago
+20h ago
 
 ---
 
@@ -108,7 +108,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-20h ago
+21h ago
 
 ---
 
@@ -116,11 +116,19 @@ Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040
 
 ## Google News: "robotics"
 
-**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
+**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
 
-Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
+Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-CNBC • 2d ago
+Fox News • 18m ago
+
+---
+
+**[Humanoid robots could eventually help monitor southern border, Foundation CEO Sankaet Pathak says](https://www.foxnews.com/video/6403343551112)**
+
+Foundation CEO Sankaet Pathak says Phantom robots could eventually detect people, navigate uneven terrain and flag activity for federal border officers.
+
+Fox News • 1h ago
 
 ---
 
@@ -132,17 +140,19 @@ NASA (.gov) • 1d ago
 
 ---
 
+**[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
+
+Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
+
+CNBC • 2d ago
+
+---
+
 **[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-interestingengineering.com • 1d ago
-
----
-
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
-
-South Tahoe Now • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -168,25 +178,19 @@ Medscape • 2d ago
 
 ---
 
+**[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.wboc.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_73ab981f-b864-5004-932b-f3acf03efe9d.html)**
+
+Just another WordPress site
+
+WBOC TV • 1d ago
+
+---
+
 **[Why robots that can’t communicate naturally won’t be adopted](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/)**
 
 Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
 
 The Robot Report • 1d ago
-
----
-
-**[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
-
-Seeking Alpha • 1d ago
-
----
-
-**[New AI technique helps robots complete tasks twice as fast by letting them 'think ahead'](https://www.livescience.com/technology/robotics/new-ai-technique-helps-robots-complete-tasks-twice-as-fast-by-letting-them-think-ahead)**
-
-A new AI system lets robots plan their next move while they're in motion — removing reaction delays and doubling task speeds without any extra computing overhead.
-
-Live Science • 2d ago
 
 ---
 
@@ -200,7 +204,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 964K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+👁️ 967K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
 
 ---
 
@@ -210,7 +214,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 551 • 💬 108 • ⏱️ 7:05 • 4d ago
+👁️ 40K • 👍 551 • 💬 109 • ⏱️ 7:05 • 5d ago
 
 ---
 
@@ -220,7 +224,17 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 📺 DEEP Robotics
 
-👁️ 29K • 👍 112 • 💬 14 • ⏱️ 0:18 • 4d ago
+👁️ 29K • 👍 113 • 💬 14 • ⏱️ 0:18 • 4d ago
+
+---
+
+**[Chinese robot maker Unitree set to become China&#39;s first humanoid robot stock | DW News](https://www.youtube.com/watch?v=P3W6dKx7u1Y)**
+
+Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it seeks to raise around 900 million dollars for ...
+
+📺 DW News
+
+👁️ 19K • 👍 238 • 💬 166 • ⏱️ 13:41 • 5d ago
 
 ---
 
@@ -230,7 +244,17 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 8K • 👍 299 • 💬 45 • ⏱️ 1:12:16 • 5d ago
+👁️ 8K • 👍 301 • 💬 45 • ⏱️ 1:12:16 • 5d ago
+
+---
+
+**[Why I Quit My PhD in Robotics – Did I Make a Mistake?](https://www.youtube.com/watch?v=hoGCq23-x8U)**
+
+Join Robotics Builder Membership for Behind the Scene Videos: ...
+
+📺 Kevin Wood | Robotics & AI
+
+👁️ 13K • 👍 322 • 💬 57 • ⏱️ 11:50 • 5d ago
 
 ---
 
@@ -240,17 +264,17 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 220K • 👍 2K • 💬 582 • ⏱️ 10:16 • 1d ago
+👁️ 221K • 👍 2K • 💬 585 • ⏱️ 10:16 • 1d ago
 
 ---
 
-**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+**[Trump&#39;s Robotic Nodding Aide](https://www.youtube.com/watch?v=dFbX5wGjWdY)**
 
-Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+Courses: https://www.rtcourses.com/ Go Fund Me: https://gofund.me/e12bf94e Donate: ...
 
-📺 Страна Возможностей
+📺 R&T Media 
 
-👁️ 57K • 👍 350 • 💬 92 • ⏱️ 0:22 • 2d ago
+👁️ 122K • 👍 4K • 💬 686 • ⏱️ 0:19 • 5d ago
 
 ---
 
@@ -260,37 +284,17 @@ My family thought they had secured an $80 billion deal and handed everything to 
 
 📺 Venus Drama Stories
 
-👁️ 91K • 👍 2K • 💬 134 • ⏱️ 17:26 • 3d ago
+👁️ 93K • 👍 3K • 💬 136 • ⏱️ 17:26 • 3d ago
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
-📺 Y Combinator
+📺 Guardian News
 
-👁️ 27K • 👍 744 • 💬 24 • ⏱️ 58:18 • 4d ago
-
----
-
-**[NEW UE Shell Robot Is Real… Regenerating Shields + NEW &#39;Iaraghi&#39; Charging Weapons | War Robots](https://www.youtube.com/watch?v=MXLIUX0xgyY)**
-
-New Ultimate shell robot with Ue glacier and rime. There are also new weapons on the test server the Iaraghi weapon set.
-
-📺 PREDATOR WR
-
-👁️ 13K • 👍 444 • 💬 71 • ⏱️ 13:35 • 1d ago
-
----
-
-**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
-
-This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
-
-📺 Valor and Liberty
-
-👁️ 860K • 👍 2K • 💬 144 • ⏱️ 0:07 • 5d ago
+👁️ 40K • 👍 470 • 💬 133 • ⏱️ 3:48 • 5d ago
 
 ---
 

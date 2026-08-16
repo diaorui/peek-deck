@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T15:46:27.717191+00:00'
+updated: '2026-08-16T16:25:23.688140+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 15:46 UTC  
+**Last Updated:** August 16, 2026 at 16:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.02B
+**Market Cap:** $227.56B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.0%
+-61.9%
 
 **All-Time Low:** $0.43
-+434362.2%
++435383.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 23h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-cryptoslate.com • 1d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 1d ago
 
 Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
 
-blockchain.news • 8h ago
+blockchain.news • 9h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -236,7 +236,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 3h ago
+👁️ 6K • 👍 441 • 💬 36 • ⏱️ 15:54 • 3h ago
+
+---
+
+**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
+
+In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 146 • 💬 9 • ⏱️ 5:23 • 9h ago
 
 ---
 
@@ -246,7 +256,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 238 • 💬 130 • ⏱️ 18:05 • 13h ago
+👁️ 6K • 👍 245 • 💬 123 • ⏱️ 18:05 • 14h ago
 
 ---
 
@@ -256,7 +266,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 839 • 💬 236 • ⏱️ 17:49 • 1d ago
+👁️ 8K • 👍 845 • 💬 235 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -266,17 +276,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 543 • 💬 102 • ⏱️ 34:25 • 1d ago
-
----
-
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
-
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
-
-📺 The Coin Daily
-
-👁️ 10K • 👍 3 • 💬 1 • ⏱️ 6:17 • 1d ago
+👁️ 6K • 👍 544 • 💬 92 • ⏱️ 34:25 • 1d ago
 
 ---
 
@@ -286,37 +286,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 12K • 👍 315 • 💬 9 • ⏱️ 0:31 • 1d ago
-
----
-
-**[ETHEREUM HAS A HIGH CHANCE OF GOING UP !!!!](https://www.youtube.com/watch?v=SwYdoP3Oz2o)**
-
-Ethereum has a high chance of going up, but it's not guaranteed — my stop loss here is super tight.
-
-📺 The Moon Show
-
-👁️ 984 • 👍 14 • ⏱️ 0:26 • 22h ago
-
----
-
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 550 • 💬 43 • ⏱️ 10:44 • 2d ago
-
----
-
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
-
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 252 • ⏱️ 11:56 • 2d ago
+👁️ 12K • 👍 320 • 💬 9 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -327,6 +297,36 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 📺 More Crypto Online
 
 👁️ 3K • 👍 168 • 💬 8 • ⏱️ 7:21 • 1d ago
+
+---
+
+**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
+
+1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
+
+📺 Stock Moe
+
+👁️ 10K • 👍 550 • 💬 41 • ⏱️ 10:44 • 2d ago
+
+---
+
+**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+
+JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+
+📺 The Coin Daily
+
+👁️ 10K • 👍 3 • ⏱️ 6:17 • 1d ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 11K • 👍 1K • 💬 245 • ⏱️ 11:56 • 2d ago
 
 ---
 
