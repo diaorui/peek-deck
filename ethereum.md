@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T17:45:22.591203+00:00'
+updated: '2026-08-16T18:28:35.496674+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 17:45 UTC  
+**Last Updated:** August 16, 2026 at 18:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,888.04
+### $1,883.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +0.9%  
-**30d:** +1.5%  
-**90d:** -10.5%  
+**24h:** +0.1%  
+**7d:** +0.7%  
+**30d:** +1.3%  
+**90d:** -10.7%  
 **1y:** -57.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.56B
+**Market Cap:** $227.37B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435383.0%
++435036.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-23h ago
+1d ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 1d ago
 
 Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
 
-blockchain.news • 10h ago
+blockchain.news • 11h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-tipranks.com • 6h ago
+tipranks.com • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 6K • 👍 441 • 💬 36 • ⏱️ 15:54 • 5h ago
+👁️ 10K • 👍 593 • 💬 55 • ⏱️ 15:54 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 9 • ⏱️ 5:23 • 10h ago
+👁️ 2K • 👍 160 • 💬 10 • ⏱️ 5:23 • 11h ago
 
 ---
 
@@ -256,17 +256,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 245 • 💬 123 • ⏱️ 18:05 • 15h ago
-
----
-
-**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
-
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 8K • 👍 845 • 💬 235 • ⏱️ 17:49 • 1d ago
+👁️ 7K • 👍 250 • 💬 145 • ⏱️ 18:05 • 16h ago
 
 ---
 
@@ -276,7 +266,17 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 544 • 💬 92 • ⏱️ 34:25 • 1d ago
+👁️ 6K • 👍 547 • 💬 92 • ⏱️ 34:25 • 1d ago
+
+---
+
+**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 8K • 👍 852 • 💬 238 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 12K • 👍 320 • 💬 9 • ⏱️ 0:31 • 2d ago
+👁️ 13K • 👍 324 • 💬 9 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -300,16 +300,6 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 ---
 
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 550 • 💬 41 • ⏱️ 10:44 • 2d ago
-
----
-
 **[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
 
 JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
@@ -320,13 +310,23 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 ---
 
-**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
 
-Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
 
-📺 Money Rules - Investing Tips 
+📺 Fred Opus
 
-👁️ 11K • 👍 1K • 💬 245 • ⏱️ 11:56 • 2d ago
+👁️ 380 • 👍 114 • 💬 90 • ⏱️ 4:19 • 1d ago
+
+---
+
+**[ETHEREUM PREDICTION FOR AUGUST! (ETH Update)](https://www.youtube.com/watch?v=roIcJO5haBg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 317 • 👍 21 • 💬 5 • ⏱️ 4:29 • 1d ago
 
 ---
 

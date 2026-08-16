@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T17:45:22.594094+00:00'
+updated: '2026-08-16T18:28:35.499522+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 17:45 UTC  
+**Last Updated:** August 16, 2026 at 18:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ Doggo is chill and calm in the simulation, but in real life, he's having uncontr
 
 Got 6x new Sony FCB-EV9520L blocks and 40x driver board pairs from a surplus project. Anyone here building custom ROVs or gimbals? Wy dont now what do now we need help thanks
 
-31m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 10h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 11h ago
 
 ---
 
@@ -76,7 +76,7 @@ Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea 
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-20h ago
+21h ago
 
 ---
 
@@ -84,7 +84,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -204,7 +204,17 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 967K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+👁️ 970K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+
+---
+
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+
+📺 Imagination in Action
+
+👁️ 9K • 👍 302 • 💬 45 • ⏱️ 1:12:16 • 5d ago
 
 ---
 
@@ -214,17 +224,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 551 • 💬 109 • ⏱️ 7:05 • 5d ago
-
----
-
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
-
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
-
-📺 DEEP Robotics
-
-👁️ 29K • 👍 113 • 💬 14 • ⏱️ 0:18 • 4d ago
+👁️ 40K • 👍 552 • 💬 109 • ⏱️ 7:05 • 5d ago
 
 ---
 
@@ -238,13 +238,13 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 ---
 
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
 
-📺 Imagination in Action
+📺 DEEP Robotics
 
-👁️ 8K • 👍 301 • 💬 45 • ⏱️ 1:12:16 • 5d ago
+👁️ 30K • 👍 113 • 💬 14 • ⏱️ 0:18 • 4d ago
 
 ---
 
@@ -254,17 +254,27 @@ Join Robotics Builder Membership for Behind the Scene Videos: ...
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 13K • 👍 322 • 💬 57 • ⏱️ 11:50 • 6d ago
+👁️ 13K • 👍 323 • 💬 57 • ⏱️ 11:50 • 6d ago
 
 ---
 
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
 
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
 
-📺 TIME
+📺 Food For Robots
 
-👁️ 221K • 👍 2K • 💬 585 • ⏱️ 10:16 • 1d ago
+👁️ 35K • 👍 2K • 💬 130 • ⏱️ 18:39 • 4d ago
+
+---
+
+**[So… this is how Skynet starts? 👀🤖](https://www.youtube.com/watch?v=zAXjAyJ07bM)**
+
+Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The future is already here… and honestly, I'm a little ...
+
+📺 Страна Возможностей
+
+👁️ 58K • 👍 353 • 💬 94 • ⏱️ 0:22 • 2d ago
 
 ---
 
@@ -274,27 +284,17 @@ Courses: https://www.rtcourses.com/ Go Fund Me: https://gofund.me/e12bf94e Donat
 
 📺 R&T Media 
 
-👁️ 122K • 👍 4K • 💬 686 • ⏱️ 0:19 • 5d ago
+👁️ 124K • 👍 4K • 💬 688 • ⏱️ 0:19 • 5d ago
 
 ---
 
-**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
+**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
 
-My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
+If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
 
-📺 Venus Drama Stories
+📺 Dr. Know-it-all Knows it all
 
-👁️ 93K • 👍 3K • 💬 136 • ⏱️ 17:26 • 3d ago
-
----
-
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
-
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
-
-📺 Guardian News
-
-👁️ 40K • 👍 470 • 💬 133 • ⏱️ 3:48 • 5d ago
+👁️ 3K • 👍 181 • 💬 83 • ⏱️ 21:51 • 3d ago
 
 ---
 

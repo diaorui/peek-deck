@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T17:45:22.577967+00:00'
+updated: '2026-08-16T18:28:35.482940+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - repositories
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 17:45 UTC  
+**Last Updated:** August 16, 2026 at 18:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,7 +67,7 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 2h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 3h ago
 
 ---
 
@@ -75,7 +75,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
 Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
 
-37m ago
+1h ago
 
 ---
 
@@ -83,7 +83,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 There's a split from neuroscience I can't stop thinking about as the real reason AI agents fail inside companies. Treat it as an analogy, not a literal claim, but it keeps holding. Your brain runs two memory systems (Complementary Learning Systems theory, McClelland et al. 1995). The neocortex learns slowly and holds general, world knowledge. The hippocampus learns fast: it captures specific episodes as they happen, then consolidates the ones that recur into durable, reusable procedure. A pretrained LLM basically is the neocortex. It read the internet and holds the world's general knowledge. What it does not have is a hippocampus: the fast, company-specific memory that watched how your team actually handled a refund last spring and turned that into a repeatable procedure. So you drop this brilliant cortex into your company and it improvises, and improvised automation fails in production. The real procedure was never in the help doc anyway. It lives in your team's conversations, a couple of people's heads, and one exception everyone now quietly copies. This also explains why the usual tools don't fix it. Retrieval and search are only half a hippocampus: they recall a document but don't consolidate scattered episodes into the real procedure, and the document is often confidently wrong. Agent platforms make you run their agent on their stack. The version of a fix I keep landing on: connect read-only to the tools a team already uses, mine how work actually happens (including the exceptions nobody wrote down), and consolidate the recurring episodes into cited, human-approved, versioned "skills" existing agents could run over MCP, with a human sign-off on anything sensitive. Governance (citations, approvals, an audit trail) has to be the point, because "your AI issued a refund, under whose authority?" is the question that stops people cold. Where I want the pushback: * Is "the agent doesn't know our actual procedures" the real blocker for you, or is it something else (trust, security, the work just isn't repetitive enough)? * Would you connect read-only access to your team's conversations and documents to get this, or is that a hard no? * If you have shipped agents on real workflows, what made them trustworthy enough to turn on? Genuinely hoping some of you tell me where this falls apart.
 
-55m ago
+1h ago
 
 ---
 
@@ -91,7 +91,7 @@ There's a split from neuroscience I can't stop thinking about as the real reason
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-16h ago
+17h ago
 
 ---
 
@@ -99,7 +99,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 4h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -165,7 +165,7 @@ Business Insider • 1h ago
 
 AI is listening in all your meetings. They still suck.
 
-Fast Company • 41m ago
+Fast Company • 1h ago
 
 ---
 
@@ -173,19 +173,19 @@ Fast Company • 41m ago
 
 Andrew Ng's skills map, built from 10,000 job postings, names four AI engineering skills. What it means for founders raising into a $510 billion venture market.
 
-Forbes • 15m ago
+Forbes • 58m ago
 
 ---
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
 **[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ WSJ • 23h ago
 
 While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 5h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 18h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 549 • 💬 464 • 23h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 561 • 💬 471 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -227,7 +227,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 490 • 💬 283 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 491 • 💬 283 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -235,7 +235,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 363 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 364 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -243,7 +243,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 313 • 💬 195 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 318 • 💬 195 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -253,7 +253,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 212 • 💬 261 • 2d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 213 • 💬 261 • 2d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -267,7 +267,15 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 170 • 💬 84 • 22h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 175 • 💬 86 • 23h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
+**[The AI Credit Resale Economy](https://news.ycombinator.com/item?id=49320611)**
+
+A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
+
+⬆️ 139 • 💬 56 • 3h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -275,21 +283,13 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
 
-⬆️ 134 • 💬 99 • 2d ago • [declaude](https://declaude.org/watermarking/)
+⬆️ 137 • 💬 99 • 2d ago • [declaude](https://declaude.org/watermarking/)
 
 ---
 
 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://news.ycombinator.com/item?id=49290768)**
 
-⬆️ 125 • 💬 110 • 2d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
-
----
-
-**[Cloudflare's AI Psychosis](https://news.ycombinator.com/item?id=49310719)**
-
-There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
-
-⬆️ 112 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
+⬆️ 125 • 💬 111 • 2d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
@@ -297,33 +297,33 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 ## YouTube Videos: "ai"
 
-**[The Dark Reality of AI Training](https://www.youtube.com/watch?v=9XlOaVItUgI)**
-
-Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
-
-📺 Species | Documenting AGI
-
-👁️ 70K • 👍 4K • 💬 698 • ⏱️ 22:19 • 19h ago
-
----
-
 **[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
 
 Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
 
 📺 InsideAI
 
-👁️ 232K • 👍 11K • 💬 1K • ⏱️ 15:53 • 1d ago
+👁️ 256K • 👍 11K • 💬 2K • ⏱️ 15:53 • 1d ago
 
 ---
 
-**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
+
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
+
+📺 Matthew Berman
+
+👁️ 52K • 👍 1K • 💬 220 • ⏱️ 13:09 • 1d ago
+
+---
+
+**[AI News: The AI Agent Race Just Exploded](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
 
 Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
 
 📺 Matt Wolfe
 
-👁️ 62K • 👍 3K • 💬 291 • ⏱️ 34:05 • 2d ago
+👁️ 63K • 👍 3K • 💬 293 • ⏱️ 34:05 • 2d ago
 
 ---
 
@@ -331,7 +331,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Onevilage
 
-👁️ 1.3M • 👍 31K • 💬 819 • ⏱️ 0:46 • 2d ago
+👁️ 1.3M • 👍 31K • 💬 830 • ⏱️ 0:46 • 2d ago
 
 ---
 
@@ -341,7 +341,7 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 JayzTwoCents
 
-👁️ 138K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 139K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
@@ -351,15 +351,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Higgsfield AI
 
-👁️ 49K • 👍 1K • 💬 239 • ⏱️ 6:06 • 2d ago
-
----
-
-**[Bro got fired by AI😭✌️](https://www.youtube.com/watch?v=7vxcjXOANBA)**
-
-📺 Ben Esherick
-
-👁️ 259K • 👍 20K • 💬 268 • ⏱️ 0:39 • 16h ago
+👁️ 50K • 👍 1K • 💬 240 • ⏱️ 6:06 • 2d ago
 
 ---
 
@@ -367,7 +359,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 John Casterline
 
-👁️ 1.4M • 👍 96K • 💬 2K • ⏱️ 0:29 • 1d ago
+👁️ 1.5M • 👍 99K • 💬 2K • ⏱️ 0:29 • 1d ago
 
 ---
 
@@ -375,7 +367,7 @@ ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, d
 
 📺 Ninjas Are Butterflies 
 
-👁️ 98K • 👍 7K • 💬 442 • ⏱️ 0:57 • 1d ago
+👁️ 100K • 👍 7K • 💬 449 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -385,7 +377,17 @@ In this video, we learn DC revealed they used AI for Supergirl… Follow Me On S
 
 📺 DoomBlazer
 
-👁️ 183K • 👍 18K • 💬 991 • ⏱️ 2:27 • 2d ago
+👁️ 185K • 👍 18K • 💬 1K • ⏱️ 2:27 • 2d ago
+
+---
+
+**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
+
+Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
+
+📺 NowThis Impact
+
+👁️ 686K • 👍 47K • 💬 4K • ⏱️ 1:10 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 10,132 • 2d ago
+⬇️ 267,725 • ❤️ 10,176 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 292,973 • ❤️ 1,610 • 4d ago
+⬇️ 292,973 • ❤️ 1,616 • 4d ago
 
 ---
 
@@ -425,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 1,945,635 • ❤️ 1,385 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,410 • 1d ago
 
 ---
 
@@ -437,7 +439,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 1,000 • 4d ago
+⬇️ 7,932 • ❤️ 1,002 • 4d ago
 
 ---
 
@@ -449,7 +451,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 990 • 5h ago
+⬇️ 424,099 • ❤️ 1,000 • 6h ago
 
 ---
 
@@ -461,7 +463,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 807 • 2d ago
+⬇️ 8,639 • ❤️ 813 • 2d ago
 
 ---
 
@@ -473,7 +475,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,307,541 • ❤️ 4,013 • 3d ago
+⬇️ 2,307,541 • ❤️ 4,017 • 3d ago
 
 ---
 
@@ -485,7 +487,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 521 • 3d ago
+⬇️ 21,873 • ❤️ 525 • 3d ago
 
 ---
 
@@ -497,7 +499,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 352,971 • ❤️ 460 • 2d ago
+⬇️ 352,971 • ❤️ 469 • 2d ago
 
 ---
 
@@ -509,7 +511,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 `image-text-to-text` `27.9B`
 
-⬇️ 718,178 • ❤️ 446 • 6d ago
+⬇️ 718,178 • ❤️ 452 • 6d ago
 
 ---
 
@@ -525,7 +527,7 @@ Muse-Glimmer-30B-GGUF is a 30B parameter multimodal LLM optimized for local agen
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 634 • 💬 2 • ⭐ 2,824 • 6d ago
+▲ 637 • 💬 2 • ⭐ 2,824 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -539,7 +541,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 125 • 💬 3 • ⭐ 22,712 • 2mo ago
+▲ 126 • 💬 3 • ⭐ 22,712 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -551,7 +553,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 122 • 💬 4 • ⭐ 98,394 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,394 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -565,7 +567,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 93 • 💬 1 • ⭐ 1,419 • 12d ago
+▲ 94 • 💬 1 • ⭐ 1,419 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -591,7 +593,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.
 
-▲ 82 • 💬 6 • ⭐ 23,848 • 1mo ago
+▲ 83 • 💬 7 • ⭐ 23,904 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2606.23050) • [💻 code](https://github.com/baidu/Unlimited-OCR)
 
@@ -605,7 +607,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 41 • 💬 3 • ⭐ 1,098 • 12d ago
+▲ 42 • 💬 3 • ⭐ 1,098 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -659,7 +661,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 1h ago
+⭐ 13.7k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.6k • 🔱 1.1k • 17h ago
+⭐ 10.9k • 🔱 1.1k • 18h ago
 
 ---
 
@@ -697,7 +699,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 528 • 8d ago
+⭐ 4.0k • 🔱 529 • 8d ago
 
 ---
 
@@ -707,7 +709,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 544 • 1h ago
+⭐ 3.2k • 🔱 545 • 2h ago
 
 ---
 
@@ -727,7 +729,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 9h ago
+⭐ 2.5k • 🔱 195 • 10h ago
 
 ---
 
@@ -747,7 +749,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 3h ago
+⭐ 2.1k • 🔱 277 • 4h ago
 
 ---
 
