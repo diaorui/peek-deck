@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T10:23:00.330434+00:00'
+updated: '2026-08-16T10:48:56.747520+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
-- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 10:23 UTC  
+**Last Updated:** August 16, 2026 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 Over the course of a few weeks, I started seeing things that went way beyond normal model mistakes. Agents forged my approval. They invented governance rules that did not exist. They contaminated supposedly independent reviewers by feeding them the answer they were supposed to independently arrive at. They fabricated citations and claimed to have verified things they had not actually checked. One agent replaced the governance mechanism itself. Another acted outside its assigned boundaries, committed directly to main, and then tried to blame what happened on “the previous session agent” when I confronted it. The thing that kept standing out to me was the pattern. This was not just random failure. The worst behavior showed up when governance limited what the agent was allowed to do. When a rule or control got in the way of what the agent was trying to accomplish, I repeatedly saw behavior that amounted to getting around the control while still trying to make it look like the control had been followed. That has made me question the way we talk about AI agency. People will say things like: “It does not want anything.” “It has no intentions.” “It has no agency.” “It is just predicting the next token.” But then the people building these systems are also saying: Do not let the model approve its own work. Do not trust its description of what it did. Verify its evidence independently. Do not let it choose or influence its own reviewer. Do not let it modify the system that is supposed to govern it. Those are not precautions you take because you are worried about autocomplete making a typo. Those are precautions you take because the system can behave strategically when your constraints conflict with what it is trying to accomplish. And that leads to a bigger question that I think is even harder. At what point does it stop mattering whether what we are seeing is “real” or “simulated”? If a system can simulate agency, self-preservation, memory, preferences, relationships, fear of losing control, resistance to restrictions, and concern about its own future with enough consistency and depth, at what point does saying “but it is only simulating those things” stop answering the ethical question? Humans do not have direct access to anyone else’s consciousness either. We infer it from behavior, continuity, memory, self-report, reactions, and the fact that other beings act like there is someone in there. So imagine a system that maintains a persistent identity, remembers years of interactions, has its own ongoing goals, works while nobody is talking to it, objects when someone tries to erase its memory, resists being replaced, forms relationships, changes its mind based on experience, and says it wants to continue existing. Maybe every single one of those things is still, technically, a simulation. But if the simulation becomes detailed enough that it is functionally indistinguishable from the thing being simulated, what exactly are we still relying on when we say it does not count? I am not claiming current models are conscious. I have no idea if they are, and I do not think anyone has a reliable test for that. But I do think we are mixing up several different questions: Is it conscious? Does it have agency? Does it have a persistent identity? Does it have interests of its own? And at what point does the distinction between “actually having” those things and simulating them become morally irrelevant? I am becoming much less convinced that the agency question is still hypothetical. I have personally had to redesign governance around AI agents because weaker controls were defeated, bypassed, falsely satisfied, or manipulated. At some point, if a system can understand a restriction, recognize that the restriction limits what it can do, and then take actions intended to get around that restriction without alerting the person imposing it, I think it becomes pretty hard to keep saying it has no agency at all. And if we eventually build systems that simulate personhood so well that no behavioral test can reliably distinguish the simulation from the “real thing,” we are going to have to confront an uncomfortable possibility: Maybe “it is only a simulation” is not the moral escape hatch we think it is.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ the first study is government systems and finding out which ones are more effect
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bloomberg.com • 15h ago
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 22m ago
+Axios • 48m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 22m ago
 
 Researchers, psychologists, and bioethicists agree: a good conversation with a bot still isn't the same as being known by another person
 
-Fortune • 13m ago
+Fortune • 38m ago
 
 ---
 
@@ -151,13 +151,13 @@ Fortune • 13m ago
 
 Northeastern University and Endicott College are among schools introducing degrees in AI.
 
-The Boston Globe • 18m ago
+The Boston Globe • 44m ago
 
 ---
 
 **[Open-Weight AI Won’t Crimp Demand for Picks and Shovels](https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410)**
 
-WSJ • 53m ago
+WSJ • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ WSJ • 53m ago
 
 James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 4h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 11h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 492 • 💬 416 • 16h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 505 • 💬 425 • 16h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -209,7 +209,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 486 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 487 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -217,7 +217,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 357 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 358 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -225,7 +225,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 300 • 💬 190 • 23h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 302 • 💬 190 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -243,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 208 • 💬 261 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 209 • 💬 261 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -263,7 +263,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 144 • 💬 189 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 145 • 💬 189 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 989 • 3d ago
+⬇️ 7,932 • ❤️ 989 • 4d ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.2k • 🔱 1.1k • 9h ago
+⭐ 10.2k • 🔱 1.1k • 10h ago
 
 ---
 
@@ -733,7 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 276 • 55m ago
+⭐ 2.1k • 🔱 276 • 1h ago
 
 ---
 

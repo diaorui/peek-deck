@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T10:23:00.336429+00:00'
+updated: '2026-08-16T10:48:56.756300+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 10:23 UTC  
+**Last Updated:** August 16, 2026 at 10:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -1.4%  
-**30d:** -2.7%  
-**90d:** -17.9%  
+**24h:** -0.0%  
+**7d:** -1.5%  
+**30d:** -2.8%  
+**90d:** -18.0%  
 **1y:** -46.3%  
 
 ---
@@ -79,25 +79,31 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-6h ago
-
----
-
-**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
-
-11h ago
+7h ago
 
 ---
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-18h ago
+19h ago
+
+---
+
+**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
+
+12h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
+
+1h ago
 
 ---
 
@@ -139,14 +145,6 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 ---
 
-**[Buttcoin subreddit in confusion about why price was unaffected by Saylor selloff and cold card hack](https://www.reddit.com/r/Bitcoin/comments/1vpe22k/buttcoin_subreddit_in_confusion_about_why_price/)**
-
-Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,7 +161,7 @@ CoinDesk • 18h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -171,7 +169,7 @@ The Block • 15h ago
 
 @AltCoin Daily 4573 Views|5 Likes
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -225,7 +223,7 @@ Yahoo Finance • 1d ago
 
 There's one major thing holding Bitcoin back.
 
-fool.com • 49m ago
+fool.com • 1h ago
 
 ---
 
@@ -271,14 +269,6 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ---
 
-**[Hideous Little Bugs Are Invading California and Biting People's Feet (2022)](https://news.ycombinator.com/item?id=49293219)**
-
-Beachgoers in Southern California are being terrorized by mini-shark isopods. Here's what you need to know about these pesky sea bugs.
-
-⬆️ 4 • 💬 1 • 2d ago • [BGR](https://www.bgr.com/science/these-hideous-little-bugs-are-invading-california-and-biting-peoples-feet/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -299,7 +289,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 395 • 💬 15 • ⏱️ 8:47 • 4h ago
+👁️ 3K • 👍 395 • 💬 15 • ⏱️ 8:47 • 5h ago
 
 ---
 
