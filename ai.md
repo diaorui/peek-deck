@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T02:42:17.882648+00:00'
+updated: '2026-08-16T03:48:23.418439+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 02:42 UTC  
+**Last Updated:** August 16, 2026 at 03:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 17h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 18h ago
+
+---
+
+**[Resource - AI Text Watermarking: How it Works and How to Evade It](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
+
+Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
+
+2h ago
 
 ---
 
@@ -57,7 +65,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 12h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 13h ago
 
 ---
 
@@ -65,15 +73,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-7h ago
-
----
-
-**[Resource - AI Text Watermarking: How it Works and How to Evade It](https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/)**
-
-Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
-
-1h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-10h ago
+11h ago
 
 ---
 
@@ -97,15 +97,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
 
-6h ago
-
----
-
-**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.reddit.com/r/artificial/comments/1vpjewg/even_claude_is_in_the_dark_about_dario_amodeis/)**
-
-Even Epstein said no to Cami Clark!! https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d?st=xPmyf4 These evil jerks think our data, our lives is up for grabs and make billions from it while keeping their lives private. Drug dealers don’t give drugs to their families but have no such qualms about selling them to rest of the world.
-
-1h ago
+7h ago
 
 ---
 
@@ -113,7 +105,15 @@ Even Epstein said no to Cami Clark!! https://www.wsj.com/tech/ai/claude-dario-am
 
 Hey everyone, I got tired of AI directories that force you to create an account, log in with Google, or give away your email just to test a single basic feature. To solve this friction, I spent hours researching and building **FrostAI** on Notion. It is a completely curated list of 37 active, functional AI tools that you can use instantly from your mobile or browser without signing up. It includes tools for: * Video generation (Kling, Luma Dream Machine) * Research & PDF analysis (Google NotebookLM) * Coding utilities, copywriting, and graphics No ads, no affiliate links, no catch. Just a clean dashboard for creators, students, and indie developers. Check it out here: https://upbeat-shrimp-f8e.notion.site/FrostAI-Directory-3a7d0bb501858023a258e8c5c9b3797e?source=copy\_link Let me know if there are any other no-signup tools I should add to keep this list fresh!
 
-20h ago
+22h ago
+
+---
+
+**[Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic](https://www.reddit.com/r/artificial/comments/1vpjewg/even_claude_is_in_the_dark_about_dario_amodeis/)**
+
+Even Epstein said no to Cami Clark!! https://www.wsj.com/tech/ai/claude-dario-amodei-wife-anthropic-e1eeda7d?st=xPmyf4 These evil jerks think our data, our lives is up for grabs and make billions from it while keeping their lives private. Drug dealers don’t give drugs to their families but have no such qualms about selling them to rest of the world.
+
+2h ago
 
 ---
 
@@ -123,41 +123,41 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 15h ago
+Axios • 16h ago
 
 ---
 
-**[Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong](https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1)**
+**[Freaky detail in insane ‘living’ AI museum](https://www.news.com.au/travel/destinations/north-america/los-angeles/wild-detail-in-wolds-first-living-ai-arts-museum/news-story/c1d309d33dee216a37d7ec2ce54e5f98)**
 
-Close relations with both US and China mean the latest AI models are easily accessible in the city-state
+The world’s first-ever “living” AI art museum has opened its doors in Los Angeles – and it will make you feel less like you’re walking through an exhibition and more like you’ve stepped straight into the future.
 
-ft.com • 49m ago
-
----
-
-**['People could get hurt': Conservationists decry AI wildlife visuals](https://www.yahoo.com/news/science/articles/people-could-hurt-conservationists-decry-015332557.html)**
-
-The black-and-white image appears to show the unlikeliest of interactions: an orangutan cradling endangered leopard cubs deep in the jungles of Malaysia's Sabah state.But the viral image is not just u...
-
-Yahoo • 49m ago
+News.com.au • 1h ago
 
 ---
 
 **[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
 
-WSJ • 8h ago
+WSJ • 9h ago
+
+---
+
+**[How Olix’s 25-Year-Old Founder Became Europe’s Richest Self-Made Billionaire](https://www.forbes.com/sites/aliciapark/2026/08/15/british-ai-chip-founder-becomes-europes-youngest-self-made-billionaire/)**
+
+James Dacombe dropped out of high school to launch his first startup. Now he's Europe’s youngest self-made billionaire after his new AI chip company Olix raised funds at a $3.3 billion valuation.
+
+Forbes • 17h ago
 
 ---
 
 **[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-Politico • 6h ago
+Politico • 7h ago
 
 ---
 
@@ -165,7 +165,7 @@ Politico • 6h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 3h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -181,15 +181,15 @@ BBC • 15h ago
 
 Detectors, watermarks, and slop-reporting buttons: What happens when AI can no longer hide?
 
-New York Magazine • 16h ago
+New York Magazine • 17h ago
 
 ---
 
-**[The Most Important Thing AI Can’t Do in Medicine](https://time.com/article/2026/08/15/the-most-important-thing-ai-cannot-do-in-medicine/)**
+**[Cisco vs. Broadcom: One Stock Looks Like the Better AI Play](https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html)**
 
-Great physicians are curious about the patient in front of them, and that curiosity is what drives them to dig deeper, writes Dr. Natasha Chida.
+Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.
 
-Time Magazine • 16h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -209,7 +209,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 424 • 💬 373 • 8h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 438 • 💬 385 • 9h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -225,7 +225,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 272 • 💬 176 • 16h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 282 • 💬 177 • 17h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -351,7 +351,7 @@ I explain the news, you stay sane. ✓ Support independent news ...
 
 📺 Chris Norlund
 
-👁️ 140K • 👍 6K • 💬 2K • ⏱️ 17:04 • 2d ago
+👁️ 140K • 👍 6K • 💬 2K • ⏱️ 17:04 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 867,963 • ❤️ 1,246 • 20h ago
+⬇️ 867,963 • ❤️ 1,246 • 21h ago
 
 ---
 
@@ -481,7 +481,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,798,247 • ❤️ 3,425 • 14d ago
+⬇️ 1,798,247 • ❤️ 3,425 • 15d ago
 
 ---
 
@@ -643,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.6k • 🔱 1.6k • 5h ago
+⭐ 13.6k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -653,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 9.8k • 🔱 1.0k • 2h ago
+⭐ 9.8k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -691,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 539 • 10h ago
+⭐ 3.1k • 🔱 539 • 11h ago
 
 ---
 
@@ -711,7 +711,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 194 • 5h ago
+⭐ 2.5k • 🔱 194 • 7h ago
 
 ---
 
@@ -721,7 +721,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 172 • 14h ago
+⭐ 2.2k • 🔱 172 • 15h ago
 
 ---
 
@@ -731,7 +731,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 7h ago
+⭐ 2.1k • 🔱 277 • 8h ago
 
 ---
 

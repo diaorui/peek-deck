@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T02:42:17.890460+00:00'
+updated: '2026-08-16T03:48:23.427439+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 02:42 UTC  
+**Last Updated:** August 16, 2026 at 03:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** -0.0%  
 **7d:** -1.3%  
-**30d:** -2.6%  
-**90d:** -17.8%  
+**30d:** -2.7%  
+**90d:** -17.9%  
 **1y:** -46.3%  
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-11h ago
+12h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-11h ago
+12h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ Rank #1
 
 It’s been 10 year of stacking. Just over 10BTC. With an average buy price right at $5700. All for some stupid house for these dumb ass kids and this wife thing I got hanging around. I know this was the whole point of it all but man it’s like losing a friend in a way. BTC has been around than a lot of my relationships I currently have. I’ll still stack but man am I sad.
 
-23h ago
+1d ago
 
 ---
 
@@ -115,7 +115,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 6h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 7h ago
 
 ---
 
@@ -123,13 +123,13 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-5h ago
+6h ago
 
 ---
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO PAYMENTS WILD TIMES AHEAD 🚀
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ $4 TRILLION APPLE HAS LIFTED IOS RESTRICTIONS BANNING IN-APP BITCOIN AND CRYPTO 
 
 Rodolfo Novak is is doing still many nasty things presenting himself as neutral educator through several proxy websites that he does not discloses clearly to visitors that he is the maker of a Hardware Wallet. (Funny enough not even a small update on how a bug in a hardware wallet firmware can drain your funds?) If regulators in USA and Canada will not take a step over users that were mislead by deceptive marketing, you better be carefull out there, you are being redirected to honeypot hardware wallets (and any related product he has relationship with) and they know they can just say "it was a hack" "a bug" or whatever shit while they made millions in $ selling you hardware wallets... Here is one of the most critical things you need to set in stone regarding digital security awareness: ANY IDIOT WITH BASIC HTML SKILLS can make a website, as Rodolfo Novak is doing, if you think that because of a website on the internet out there is giving you "information" without hidden or deceptive manufactured opinion, then you are going to fall into another Coldcard 2.0 scam. If community is unable to spot manufactured deceptive opinion from Rodolfo Novak, he will sneak again knowing nothing happens if he does unfair and deceptive practices.
 
-7h ago
+8h ago
 
 ---
 
@@ -157,23 +157,23 @@ Rodolfo Novak is is doing still many nasty things presenting himself as neutral 
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
-**[Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs](https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879)**
+**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/15/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
 
-LeverageShares debuted the world’s first 3x bitcoin and ether ETFs in Europe. These would be the first in the U.S., if approved.
+Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-The Block • 1d ago
+Forbes • 14h ago
 
 ---
 
-**[Bitcoin Is a ‘Deep Freeze’ for Money. What Does That Actually Mean?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-deep-freeze-money-does-231246966.html)**
+**[Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.](https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html)**
 
-Saylor recasts Bitcoin as stored energy and argues fiat leaks value, while BTC trades 47% below last year.
+Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -185,11 +185,11 @@ Mashable • 2d ago
 
 ---
 
-**['Leap Frog'—Goldman's $2.25 Billion Bitcoin Shock Rattles BlackRock](https://www.forbes.com/sites/boazsobrado/2026/08/14/leap-frog-goldmans-225-billion-bitcoin-shock-rattles-blackrock/)**
+**[Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter](https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926)**
 
-Goldman Sachs is buying bitcoin ETF manager NEOS for up to $2.25 billion, a deal Bloomberg's Eric Balchunas says lets it 'leap frog' BlackRock's rival fund.
+UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-Forbes • 1d ago
+The Block • 9h ago
 
 ---
 
@@ -201,6 +201,12 @@ WAFF • 1d ago
 
 ---
 
+**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+
+Investing.com • 18h ago
+
+---
+
 **[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
@@ -209,9 +215,11 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 ---
 
-**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
 
-Investing.com • 16h ago
+Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -220,14 +228,6 @@ Investing.com • 16h ago
 The meeting was set to consider proposing new crypto rules amid Clarity Act limbo.
 
 Investor's Business Daily • 1d ago
-
----
-
-**[What The CLARITY Act Actually Does For Bitcoin](https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin)**
-
-Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin
-
-Bitcoin Magazine • 1d ago
 
 ---
 
@@ -255,7 +255,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -291,7 +291,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 302 • 💬 11 • ⏱️ 55:12 • 8h ago
+👁️ 6K • 👍 302 • 💬 11 • ⏱️ 55:12 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 17h ago
+👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 18h ago
 
 ---
 
