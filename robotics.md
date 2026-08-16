@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T07:31:13.009180+00:00'
+updated: '2026-08-16T08:29:19.481436+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 07:31 UTC  
+**Last Updated:** August 16, 2026 at 08:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-19h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-11h ago
+12h ago
 
 ---
 
@@ -76,7 +76,7 @@ Quick update on the companion robot I've been building for the last 6 months. To
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
 
-18h ago
+19h ago
 
 ---
 
@@ -92,7 +92,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-12h ago
+13h ago
 
 ---
 
@@ -158,7 +158,7 @@ Medscape • 1d ago
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
 
 ---
 

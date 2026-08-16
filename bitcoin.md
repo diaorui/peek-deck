@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T07:31:12.999066+00:00'
+updated: '2026-08-16T08:29:19.471903+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 07:31 UTC  
+**Last Updated:** August 16, 2026 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** +0.0%  
 **7d:** -1.4%  
 **30d:** -2.7%  
 **90d:** -17.9%  
@@ -79,13 +79,13 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ Rank #1
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 11h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 12h ago
 
 ---
 
@@ -135,7 +135,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Before the hack their marketing frontpage (using last snapshot pre hack event, J
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-10h ago
+11h ago
 
 ---
 
@@ -155,7 +155,7 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 16h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 12h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -201,7 +201,7 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 21h ago
+Investing.com • 22h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -289,7 +289,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 349 • 💬 12 • ⏱️ 55:12 • 13h ago
+👁️ 8K • 👍 349 • 💬 12 • ⏱️ 55:12 • 14h ago
 
 ---
 
@@ -319,7 +319,7 @@ This is how to solar power 1, 5, or 10 Bitcoin miners, and this is 100% offset w
 
 📺 VoskCoin
 
-👁️ 4K • 👍 190 • 💬 15 • ⏱️ 15:27 • 15h ago
+👁️ 4K • 👍 190 • 💬 15 • ⏱️ 15:27 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T07:31:12.989745+00:00'
+updated: '2026-08-16T08:29:19.463239+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 07:31 UTC  
+**Last Updated:** August 16, 2026 at 08:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.
 
-🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 22h ago
+🔗 [CNBC](https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html) • 23h ago
 
 ---
 
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 17h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 The hyped AI-saved-my-dog story has reached its inevitable conclusion.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee) • 3h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ The hyped AI-saved-my-dog story has reached its inevitable conclusion.
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé, ils auront juste un autre métier qu'est ingénieur informatique! Leur but ne seras plus vraiment de trouver, optimiser, apprendre des languague, écrire, améliorer le code mais plus de trouver des nouveauté au niveau architecture, problème, déléguation de tache etc! Ils changeront juste de boulot, un peu comme les agriculteurs qui ne le font plus à la main pour récolter (dans le pays où je suis), mais juste ou des machines le font à la place, mais le boulot en lui meme devient juste plus haut! Dans le pays ou je suis, il y a vait à une époque, près de 80% de la population qui était agriculteur, avec l'ajout des nouvelles techno c'est passé à 1 ou 2%! Y auras ptetre moins de développeur car le marché n'en voudras plus autant mais ils seront centralisé sur ces taches créative, de type ingénieur! Et d'autre métier feront leur apparition que là pout le moment nous ne connaissons pas car c'est l'essor, mais qui dans 5 ans seront la base! On vit juste ici une sorte de révolution industrielle moderne! On assiste ici à la destruction créatrice de Shumpeter! Sans doute suis je à coté de la plaque, mais je sais pas, je vois ça plus comme cela! Quels sont vos avis possible!
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point. No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result. Combining is free. If you try it, I would love comments on whether the results feel coherent. Drop your combination results, and I will tell you why it picked what it picked. https://gamecombiner.com
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I got tired of AI directories that force you to create an account,
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bloomberg.com • 12h ago
 
 Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’
 
-theguardian.com • 23h ago
+theguardian.com • 1d ago
 
 ---
 
@@ -139,7 +139,7 @@ theguardian.com • 23h ago
 
 Now that Anthropic started watermarking Claude AI output, this has spurred interest in watermark removal apps. Be very wary! An AI Insider analysis and scoop.
 
-Forbes • 16m ago
+Forbes • 1h ago
 
 ---
 
@@ -147,13 +147,13 @@ Forbes • 16m ago
 
 Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide
 
-theguardian.com • 30m ago
+theguardian.com • 1h ago
 
 ---
 
 **[The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center](https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -161,19 +161,19 @@ WSJ • 6h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **["There's no point": AI forces college students to rethink their major](https://www.axios.com/2026/08/15/college-major-ai-skills-job-search)**
 
-Axios • 21h ago
+Axios • 22h ago
 
 ---
 
 **[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-Politico • 11h ago
+Politico • 12h ago
 
 ---
 
@@ -181,7 +181,7 @@ Politico • 11h ago
 
 Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.
 
-bbc.com • 20h ago
+bbc.com • 21h ago
 
 ---
 
@@ -189,13 +189,21 @@ bbc.com • 20h ago
 
 The two Israelis were initially reported missing in Vienna, Austria, about a week ago, with Israeli and Austrian authorities working together to search for them.
 
-The Jerusalem Post • 12h ago
+The Jerusalem Post • 13h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
+
+**[AI has access to a vastly larger working memory than the human brain](https://news.ycombinator.com/item?id=49312845)**
+
+The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
+
+⬆️ 485 • 💬 413 • 14h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
 
 **[Google is making private AI practical with homomorphic encryption](https://news.ycombinator.com/item?id=49300314)**
 
@@ -205,19 +213,11 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 ---
 
-**[AI has access to a vastly larger working memory than the human brain](https://news.ycombinator.com/item?id=49312845)**
-
-The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
-
-⬆️ 465 • 💬 403 • 13h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-
----
-
 **[AI by Hand](https://news.ycombinator.com/item?id=49300568)**
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 356 • 💬 29 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 357 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -225,7 +225,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 295 • 💬 188 • 20h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 300 • 💬 189 • 21h ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -243,7 +243,7 @@ I would like you to know that we passengers are trying our best.
 
 To you, this place makes sense -- you come here every day.  You speak the lingo.  You kno...
 
-⬆️ 207 • 💬 260 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+⬆️ 208 • 💬 260 • 1d ago • [Life after SSRI](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 
 ---
 
@@ -251,7 +251,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 174 • 💬 197 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+⬆️ 175 • 💬 198 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
@@ -645,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 10h ago
+⭐ 13.7k • 🔱 1.6k • 11h ago
 
 ---
 
@@ -655,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.1k • 🔱 1.0k • 7h ago
+⭐ 10.1k • 🔱 1.0k • 8h ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 543 • 15h ago
+⭐ 3.1k • 🔱 543 • 16h ago
 
 ---
 
@@ -713,7 +713,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 10h ago
+⭐ 2.5k • 🔱 195 • 11h ago
 
 ---
 
@@ -723,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 173 • 19h ago
+⭐ 2.2k • 🔱 173 • 20h ago
 
 ---
 
@@ -733,7 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 1h ago
+⭐ 2.1k • 🔱 277 • 2h ago
 
 ---
 
