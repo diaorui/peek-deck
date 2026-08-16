@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T18:28:35.491182+00:00'
+updated: '2026-08-16T18:57:30.885367+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 18:28 UTC  
+**Last Updated:** August 16, 2026 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://satoshitimeline.com/854
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-3h ago
+4h ago
 
 ---
 
@@ -109,13 +109,13 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-3h ago
+4h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -169,11 +169,11 @@ Forbes • 6h ago
 
 ---
 
-**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
+**[Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html)**
 
-CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
+Bitcoin miners were supposed to track bitcoin, but the biggest names in the space have quietly rewired their business models around something else entirely, and the performance gap between the coin and its miners has never been wider.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -187,15 +187,15 @@ Investing.com • 9h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+**[Mark Cuban Once Told Bill Maher He’d Be ‘Dumb’ to Choose Gold Over Bitcoin — Less Than Four Years Later](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237092/mark-cuban-bitcoin-gold-bill-maher-shark-tank-btc)**
 
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Yahoo Finance • 2d ago
+Benzinga • 3h ago
 
 ---
 
@@ -204,6 +204,14 @@ Yahoo Finance • 2d ago
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
 24/7 Wall St. • 1d ago
+
+---
+
+**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
+
+Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -220,14 +228,6 @@ CoinDesk • 2d ago
 Real mining. Tiny footprint.
 
 Mashable • 2d ago
-
----
-
-**[Somerville residents track ownership behind planned Bitcoin mining center](https://www.waff.com/2026/08/15/somerville-residents-track-ownership-behind-planned-bitcoin-mining-center/)**
-
-Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
-
-WAFF • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 490 • 👍 34 • 💬 38 • ⏱️ 2:18 • 2h ago
+👁️ 490 • 👍 34 • 💬 38 • ⏱️ 2:18 • 3h ago
 
 ---
 
@@ -333,7 +333,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 211 • 👍 30 • 💬 5 • ⏱️ 12:52 • 28m ago
+👁️ 211 • 👍 30 • 💬 5 • ⏱️ 12:52 • 57m ago
 
 ---
 
@@ -343,7 +343,7 @@ Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing cov
 
 📺 Bitcoin Unleashed with Oliver Velez
 
-👁️ 2K • 👍 125 • 💬 43 • ⏱️ 8:30 • 22h ago
+👁️ 2K • 👍 125 • 💬 43 • ⏱️ 8:30 • 23h ago
 
 ---
 

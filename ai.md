@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T18:28:35.482940+00:00'
+updated: '2026-08-16T18:57:30.876822+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 18:28 UTC  
+**Last Updated:** August 16, 2026 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-4h ago
+5h ago
+
+---
+
+**[U.S. bans foreign-made humanoid robots, targeting China over national security](https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/)**
+
+Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
+
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 53m ago
 
 ---
 
@@ -83,7 +91,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 There's a split from neuroscience I can't stop thinking about as the real reason AI agents fail inside companies. Treat it as an analogy, not a literal claim, but it keeps holding. Your brain runs two memory systems (Complementary Learning Systems theory, McClelland et al. 1995). The neocortex learns slowly and holds general, world knowledge. The hippocampus learns fast: it captures specific episodes as they happen, then consolidates the ones that recur into durable, reusable procedure. A pretrained LLM basically is the neocortex. It read the internet and holds the world's general knowledge. What it does not have is a hippocampus: the fast, company-specific memory that watched how your team actually handled a refund last spring and turned that into a repeatable procedure. So you drop this brilliant cortex into your company and it improvises, and improvised automation fails in production. The real procedure was never in the help doc anyway. It lives in your team's conversations, a couple of people's heads, and one exception everyone now quietly copies. This also explains why the usual tools don't fix it. Retrieval and search are only half a hippocampus: they recall a document but don't consolidate scattered episodes into the real procedure, and the document is often confidently wrong. Agent platforms make you run their agent on their stack. The version of a fix I keep landing on: connect read-only to the tools a team already uses, mine how work actually happens (including the exceptions nobody wrote down), and consolidate the recurring episodes into cited, human-approved, versioned "skills" existing agents could run over MCP, with a human sign-off on anything sensitive. Governance (citations, approvals, an audit trail) has to be the point, because "your AI issued a refund, under whose authority?" is the question that stops people cold. Where I want the pushback: * Is "the agent doesn't know our actual procedures" the real blocker for you, or is it something else (trust, security, the work just isn't repetitive enough)? * Would you connect read-only access to your team's conversations and documents to get this, or is that a hard no? * If you have shipped agents on real workflows, what made them trustworthy enough to turn on? Genuinely hoping some of you tell me where this falls apart.
 
-1h ago
+2h ago
 
 ---
 
@@ -92,14 +100,6 @@ There's a split from neuroscience I can't stop thinking about as the real reason
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
 17h ago
-
----
-
-**[Zuckerberg's superintelligence manifesto landed the same week Anthropic raised its own misalignment risk estimate. The contrast is the story.](https://www.reddit.com/r/artificial/comments/1vq0uul/zuckerbergs_superintelligence_manifesto_landed/)**
-
-I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
-
-2h ago
 
 ---
 
@@ -119,19 +119,19 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 ---
 
+**[Zuckerberg's superintelligence manifesto landed the same week Anthropic raised its own misalignment risk estimate. The contrast is the story.](https://www.reddit.com/r/artificial/comments/1vq0uul/zuckerbergs_superintelligence_manifesto_landed/)**
+
+I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
+
+2h ago
+
+---
+
 **[The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.](https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/)**
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-22h ago
-
----
-
-**[OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations](https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/)**
-
-A 25-year-old Goldman Sachs financial analyst, who had troubling conversations with OpenAI's ChatGPT, was reported to the FBI.
-
-🔗 [Futurism](https://futurism.com/artificial-intelligence/openai-reports-goldman-sachs-analyst-fbi-horrifying-chatgpt-conversations) • 1d ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 4h ago
+The New York Times • 9h ago
 
 ---
 
@@ -153,27 +153,11 @@ The Guardian • 10h ago
 
 ---
 
-**[Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer](https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8)**
+**[Tyga Is Hollywood's Latest AI Optimist](https://www.businessinsider.com/tyga-ai-music-tilly-norwood-timbaland-tata-grimes-nick-carter-2026-8)**
 
-Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.
+The 80s-inspired project sees Tyga don a new "Miami Vice"-esque alter ego who has a penchant for Jheri curls, sleek retro Ferraris, and synthpop.
 
-Business Insider • 1h ago
-
----
-
-**[AI notetakers have entered the meeting. Here are 5 ways to get the most out of them](https://www.fastcompany.com/91588638/ai-notetakers-have-entered-the-meeting-here-are-5-ways-to-get-the-most-out-of-them)**
-
-AI is listening in all your meetings. They still suck.
-
-Fast Company • 1h ago
-
----
-
-**[Andrew Ng Maps The AI Skills That Decide Which Teams Ship Efficiently](https://www.forbes.com/sites/josipamajic/2026/08/16/andrew-ng-maps-the-ai-skills-that-decide-which-startups-ship/)**
-
-Andrew Ng's skills map, built from 10,000 job postings, names four AI engineering skills. What it means for founders raising into a $510 billion venture market.
-
-Forbes • 58m ago
+Business Insider • 55m ago
 
 ---
 
@@ -185,7 +169,7 @@ Axios • 8h ago
 
 **[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
 
-WSJ • 1d ago
+wsj.com • 1d ago
 
 ---
 
@@ -197,17 +181,31 @@ Fortune • 5h ago
 
 ---
 
-**[At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl](https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl)**
-
-Bloomberg.com • 5h ago
-
----
-
 **[U.S. to tell partners they must pick sides in AI race with China: Reuters](https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html)**
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 19h ago
+CNBC • 20h ago
+
+---
+
+**[At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl](https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Colleges aim to ‘AI proof’ degrees with new majors](https://www.bostonglobe.com/2026/08/16/metro/artificial-intelligence-degrees/)**
+
+Northeastern University and Endicott College are among schools introducing degrees in AI.
+
+The Boston Globe • 8h ago
+
+---
+
+**[How AI Models From OpenAI and Anthropic Went Rogue](https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee)**
+
+wsj.com • 2h ago
 
 ---
 
@@ -275,7 +273,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 139 • 💬 56 • 3h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 139 • 💬 56 • 4h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -749,7 +747,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 4h ago
+⭐ 2.1k • 🔱 277 • 5h ago
 
 ---
 

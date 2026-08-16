@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T18:28:35.496674+00:00'
+updated: '2026-08-16T18:57:30.891679+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 18:28 UTC  
+**Last Updated:** August 16, 2026 at 18:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Has anyone tried Expert Picks (by Market Wind) in CoinDCX? How was your experience?](https://www.reddit.com/r/ethereum/comments/1vpyiiy/has_anyone_tried_expert_picks_by_market_wind_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -190,11 +190,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum: Double Dip Pattern Mirrors 2025 Rally](https://blockchain.news/flashnews/ethereum-double-dip-pattern-mirrors-2025-rally)**
+**[Vitalik Buterin: Ethereum Scaling Strategy Advances](https://blockchain.news/flashnews/vitalik-buterin-ethereum-scaling-strategy-advances)**
 
-Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
+Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
 
-blockchain.news • 11h ago
+blockchain.news • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-tipranks.com • 7h ago
+TipRanks • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 10K • 👍 593 • 💬 55 • ⏱️ 15:54 • 5h ago
+👁️ 10K • 👍 593 • 💬 55 • ⏱️ 15:54 • 6h ago
 
 ---
 
