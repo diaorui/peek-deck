@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T05:55:21.648597+00:00'
+updated: '2026-08-16T06:41:08.418133+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 05:55 UTC  
+**Last Updated:** August 16, 2026 at 06:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-2h ago
+3h ago
 
 ---
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-14h ago
+15h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 9h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 10h ago
 
 ---
 
@@ -135,13 +135,13 @@ Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposu
 
 Posts on that subreddit are genuinely in confusion this week at how the price hasnt crashed. when Bitcoin’s price doesn’t move the way they expect, they assume something weird is happening. they cannot wrap their head around value if they can’t do anything with it, intrinsic like land property or machinery. many midwits on there “short circuiting“ rn that the price didn’t tank
 
-8h ago
+9h ago
 
 ---
 
 **[At least you have 1 Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1vp01s7/at_least_you_have_1_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -153,7 +153,7 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ Forbes • 17h ago
 
 Bitcoin's developer community is already working to combat the potential threat posed by quantum computers.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 13h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -287,7 +287,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 326 • 💬 11 • ⏱️ 55:12 • 11h ago
+👁️ 7K • 👍 326 • 💬 11 • ⏱️ 55:12 • 12h ago
 
 ---
 
@@ -345,7 +345,7 @@ Subscribe before the Bitcoin clock strikes $1 MILLION. Bitcoin has repeated a re
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 175 • 💬 114 • ⏱️ 18:01 • 7h ago
+👁️ 2K • 👍 175 • 💬 114 • ⏱️ 18:01 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 
 📺 Krown
 
-👁️ 2K • 👍 68 • 💬 8 • ⏱️ 1:21 • 16h ago
+👁️ 2K • 👍 68 • 💬 8 • ⏱️ 1:21 • 17h ago
 
 ---
 
