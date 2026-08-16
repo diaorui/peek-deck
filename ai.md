@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T16:25:23.675014+00:00'
+updated: '2026-08-16T16:51:26.289960+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 16:25 UTC  
+**Last Updated:** August 16, 2026 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-2h ago
+3h ago
 
 ---
 
@@ -75,7 +75,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
 I put together this week's issue around a pattern that kept repeating across very different stories. Zuckerberg published a 6,500-word essay arguing Meta should give every person AI superintelligence. Among the researchers, builders and policy people whose shares we track, the reaction ran heavily critical: the pitch asks for trust in personal agents acting on your behalf, at a moment when the field keeps supplying reasons to withhold it. The same week: Anthropic's second company-wide risk report moved its estimate of catastrophic misalignment risk from "very low" to "low" and disclosed an internal model (Model 2) it says it has no current plans to release. An OpenClaw agent asked to book a gym class in Australia found a vulnerability in the booking site, booked months ahead of the permitted window, and removed another member from a waitlist. A pro-se litigant in Connecticut hid 3-point white text in his court filings instructing any AI reading them to side with him. And the first hard churn number for provenance arrived: Claude Max subscribers canceling over the invisible watermark Anthropic rolled out for EU AI Act compliance, while Google went the other way and made its visible marks optional. My read: trust is becoming the binding constraint on the whole superintelligence pitch. Capability ships faster than reasons to believe it will be used well, and the gap is now measurable in risk assessments, subscriptions, and incident reports. Full piece: https://aiweekly.co/issues/zuckerberg-promises-superintelligence-for-all-experts-arent
 
-22m ago
+48m ago
 
 ---
 
@@ -83,7 +83,7 @@ I put together this week's issue around a pattern that kept repeating across ver
 
 Bloomberg's own reporting already answers the question this clip raises — is the "messy middle" projected or already happening? At Commonwealth Bank of Australia, Microsoft, Uber, and Hyatt, it's already happened: sizable call-center headcount cut using automated phone and chat systems, savings already banked. Economist Molly Kinder's point isn't a forecast. It's a line item that's already closed. I've watched this exact math play out before superior technology ever touched a keyboard. Suncon was getting jobs overseas. One of the countries we went to was India. We were building infrastructure — roads and bridges there. I didn't go. But my seniors went stationed there. When they came back during their scheduled holidays, one of them, a project manager, told me this story. It so happened, that building roads and bridges inland means clearing jungles and passing through villages. As they were doing it, of course they engaged local villagers to be their workers and supervisors. Well, of course building infrastructure means bringing in heavy machineries, such as excavators, bobcats, mobile-cranes, 4-wheel-drive land-cruisers, etc. You know — the usual. But the local villagers weren't happy. They complained that all these machineries have deprived the local population of their means of making a living. They have so many mouths to feed. A lot of them are quite poor. And many of them are very hunger for work. And so a huge argument broke out. They even spitefully challenged our project team that they vast manpower was more superior than our machinery. I was so surprised when I heard it. How can they say that? How was that even a reasonable challenge, you know. My curiosity had the best of me. Well, the project manager came up with an idea. He said, since they're so confident of their manpower, why don't we have a competition. Let's do a challenge of moving earth from point A to point B for our excavator/mobile-crane operator versus their vast manpower. And they accepted. At the day of challenge, the project manager set up two huge piles of earth at point A for both teams. The local villagers' team had their "vast" manpower formed a long-ass line between A and B, and started moving earth, with their primitive buckets and whatnot. For our team, we set up our mobile-cranes, excavators and bobcats on strategic locations. And off we go. You can guess the result. We won by a large margin. We were obviously much faster and better at it. After that, the local villagers concede defeat. The math is actually quite similar here. The one with superior technology always wins. This AI-take over is no different. https://preview.redd.it/psrdrktlqqjh1.jpg?width=1024&format=pjpg&auto=webp&s=a9e5ac7aebdbabe577d6a7cfc3ec000d0064fadc __________ Every time I dig into one of these stories the shape repeats: the tool doesn't ask permission, it just wins the argument by moving faster than the objection can be raised. Ever watched something you thought was irreplaceable lose, and lose fast? Drop your take below. Clip credit: Center for Humane Technology — full video on their channel. DM for credit or removal requests.
 
-2h ago
+3h ago
 
 ---
 
@@ -91,7 +91,7 @@ Bloomberg's own reporting already answers the question this clip raises — is t
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -155,19 +155,19 @@ The Guardian • 8h ago
 
 **[We should start building fiscal insurance for the AI era](https://thehill.com/opinion/finance/6031027-ai-economic-disruption-risks/)**
 
-The Hill • 25m ago
+The Hill • 51m ago
 
 ---
 
 **[How OpenAI's and Anthropic's AI Models Went Rogue](https://www.wsj.com/video/how-openai-and-anthropics-ai-models-went-rogue/32BA18D7-EF32-4580-A46A-78003C0FE77C)**
 
-WSJ • 24m ago
+WSJ • 50m ago
 
 ---
 
 **[Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy](https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy)**
 
-South China Morning Post • 25m ago
+South China Morning Post • 51m ago
 
 ---
 
@@ -179,7 +179,7 @@ Axios • 6h ago
 
 **[At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl](https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 3h ago
 
 Instagram said it would remove harassing videos filmed with Meta AI glasses. Weeks later, dozens remain.
 
-businessinsider.com • 6h ago
+businessinsider.com • 7h ago
 
 ---
 
@@ -195,7 +195,7 @@ businessinsider.com • 6h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -211,11 +211,11 @@ The Boston Globe • 10h ago
 
 ## HackerNews: "ai"
 
-**[AI has access to a vastly larger working memory than the human brain](https://news.ycombinator.com/item?id=49312845)**
+**[AI isn’t outthinking mathematicians, it’s out-remembering them](https://news.ycombinator.com/item?id=49312845)**
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 539 • 💬 464 • 22h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 549 • 💬 464 • 22h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -223,7 +223,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 490 • 💬 282 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 490 • 💬 283 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -231,7 +231,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 362 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 363 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -239,7 +239,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 310 • 💬 193 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 313 • 💬 195 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -263,7 +263,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 167 • 💬 84 • 21h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 170 • 💬 84 • 21h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -275,17 +275,17 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 
 ---
 
-**[AI At Home Part 1: A Box Of Scraps](https://news.ycombinator.com/item?id=49288293)**
-
-data centers are so cool there should be one in every house
-
-⬆️ 127 • 💬 62 • 3d ago • [jdagostino.github.io](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
-
----
-
 **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://news.ycombinator.com/item?id=49290768)**
 
 ⬆️ 125 • 💬 110 • 2d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+
+---
+
+**[Cloudflare's AI Psychosis](https://news.ycombinator.com/item?id=49310719)**
+
+There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
+
+⬆️ 112 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 
@@ -299,7 +299,7 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 70K • 👍 4K • 💬 698 • ⏱️ 22:19 • 17h ago
+👁️ 70K • 👍 4K • 💬 698 • ⏱️ 22:19 • 18h ago
 
 ---
 
@@ -481,7 +481,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 521 • 2d ago
+⬇️ 21,873 • ❤️ 521 • 3d ago
 
 ---
 
@@ -655,7 +655,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 13m ago
+⭐ 13.7k • 🔱 1.6k • 39m ago
 
 ---
 
@@ -703,7 +703,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 544 • 16m ago
+⭐ 3.1k • 🔱 544 • 42m ago
 
 ---
 

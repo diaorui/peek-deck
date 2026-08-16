@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T16:25:23.682699+00:00'
+updated: '2026-08-16T16:51:26.298449+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 16:25 UTC  
+**Last Updated:** August 16, 2026 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -1.3%  
-**30d:** -2.7%  
-**90d:** -17.9%  
-**1y:** -46.3%  
+**24h:** +0.3%  
+**7d:** -1.1%  
+**30d:** -2.4%  
+**90d:** -17.6%  
+**1y:** -46.1%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 1d ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 21h ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 3K • 💬 194 • ⏱️ 16:15 • 5h ago
+👁️ 30K • 👍 3K • 💬 194 • ⏱️ 16:15 • 6h ago
 
 ---
 
@@ -313,7 +313,7 @@ If Bitcoin surges to the $250000 mark, Ethereum is widely expected to shatter it
 
 📺 StrikeZoneX
 
-👁️ 984 • 👍 6 • 💬 2 • ⏱️ 0:45 • 9h ago
+👁️ 984 • 👍 6 • 💬 2 • ⏱️ 0:45 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 244 • 👍 20 • 💬 89 • ⏱️ 2:18 • 55m ago
+👁️ 244 • 👍 20 • 💬 89 • ⏱️ 2:18 • 1h ago
 
 ---
 
