@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T13:31:25.410126+00:00'
+updated: '2026-08-16T14:22:34.727342+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 13:31 UTC  
+**Last Updated:** August 16, 2026 at 14:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI's C-suite turnover gives investors another reason for concern as the comp
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 23h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, re
 
 the tell with every autonomous agent is the same. output is competent, voice is completely generic. and the two fixes both suck: finetune a model on your own writing (expensive, slow, locked to one vendor) or paste "write in a casual tone" into a system prompt, which makes you sound exactly like everyone else who typed that sentence. aeon's take on it is a thing called soul.md, basically a personality spec in plain markdown. identity and worldview, real opinions including contradictory ones (which is the part i think actually matters, real people hold inconsistent views), a separate style.md for sentence rhythm and vocabulary, a memory.md so it carries across sessions, and example outputs to anchor it. clip's them building one around elon as a test case, which is a funny way to prove it works since you'd notice immediately if it didn't. what gets me is it's portable. it's markdown, so it isn't tied to a model or a vendor, you just hand the same file to whatever you're running.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Over the course of a few weeks, I started seeing things that went way beyond nor
 
 the first study is government systems and finding out which ones are more effective, second is political ideologies and which one is better overall (prosperity, hdi index, etc), and third homelessness in Wisconsin (simulations of what's the best outcome).
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -131,19 +131,19 @@ The New York Times • 4h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
 **[Why I Told My Chatbot to Stop Kissing Up to Me](https://www.wsj.com/tech/ai/why-i-told-my-chatbot-to-stop-kissing-up-to-me-62cea3fa)**
 
-WSJ • 31m ago
+WSJ • 1h ago
 
 ---
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -159,7 +159,7 @@ Business Insider • 4h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -167,19 +167,19 @@ CNBC • 14h ago
 
 Northeastern University and Endicott College are among schools introducing degrees in AI.
 
-The Boston Globe • 3h ago
+The Boston Globe • 4h ago
 
 ---
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
 **[Safety testing was an obscure part of building AI. Then models went rogue.](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)**
 
-Politico • 17h ago
+Politico • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 5h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 520 • 💬 450 • 19h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 533 • 💬 460 • 20h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -207,7 +207,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 488 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 489 • 💬 282 • 1d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -215,7 +215,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 359 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 360 • 💬 30 • 1d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -223,15 +223,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 303 • 💬 191 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
-
----
-
-**[Choosing an AI model: one prompt, 11 models, different results](https://news.ycombinator.com/item?id=49285327)**
-
-Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.
-
-⬆️ 218 • 💬 95 • 3d ago • [netlify.com](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+⬆️ 309 • 💬 193 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -249,19 +241,13 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
-⬆️ 175 • 💬 198 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
-
----
-
-**[AI agents lie, cheat and steal. That is putting off users](https://news.ycombinator.com/item?id=49285604)**
-
-⬆️ 164 • 💬 209 • 3d ago • [economist.com](https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users)
+⬆️ 175 • 💬 199 • 1d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
 
 ---
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 148 • 💬 82 • 18h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 159 • 💬 84 • 19h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -271,67 +257,33 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 ---
 
+**[How AI text watermarking works](https://news.ycombinator.com/item?id=49292932)**
+
+A gentle visual guide to how a statistical mark hides inside generated text, and what erases it.
+
+⬆️ 133 • 💬 98 • 2d ago • [declaude](https://declaude.org/watermarking/)
+
+---
+
+**[AI At Home Part 1: A Box Of Scraps](https://news.ycombinator.com/item?id=49288293)**
+
+data centers are so cool there should be one in every house
+
+⬆️ 127 • 💬 62 • 2d ago • [jdagostino.github.io](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI Whistleblower WARNS: We&#39;re Not Ready For The Human Catastrophe That Is Coming](https://www.youtube.com/watch?v=Xz8S0IwEskY)**
+**[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Bret Weinstein warns that AI could create ...
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
 
-📺 Neural Nutshell
+📺 InsideAI
 
-👁️ 66K • 👍 1K • 💬 475 • ⏱️ 16:46 • 2d ago
-
----
-
-**[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
-
-Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
-
-📺 Sabine Hossenfelder
-
-👁️ 153K • 👍 9K • 💬 4K • ⏱️ 6:52 • 2d ago
-
----
-
-**[$39B founder: “AI will eat the whole internet”](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
-
-Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
-
-📺 My First Million
-
-👁️ 22K • 👍 519 • 💬 153 • ⏱️ 58:11 • 2d ago
-
----
-
-**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
-
-Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
-
-📺 Matt Wolfe
-
-👁️ 60K • 👍 2K • 💬 285 • ⏱️ 34:05 • 1d ago
-
----
-
-**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
-
-Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
-
-📺 NowThis Impact
-
-👁️ 662K • 👍 45K • 💬 4K • ⏱️ 1:10 • 1d ago
-
----
-
-**[Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](https://www.youtube.com/watch?v=LM7Ft7g8qJw)**
-
-Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actually buys, and how to use them safely. Grab the ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 48K • 👍 2K • 💬 311 • ⏱️ 18:56 • 1d ago
+👁️ 210K • 👍 10K • 💬 1K • ⏱️ 15:53 • 21h ago
 
 ---
 
@@ -341,15 +293,27 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 50K • 👍 1K • 💬 213 • ⏱️ 13:09 • 1d ago
+👁️ 51K • 👍 1K • 💬 213 • ⏱️ 13:09 • 1d ago
 
 ---
 
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
+**[The War on AI Has Begun](https://www.youtube.com/watch?v=BvlGs25tCxI)**
 
-📺 Onevilage
+Boost your online protection with an all-in-one security app! Get an exclusive NordVPN offer here + 4 extra months ...
 
-👁️ 1.3M • 👍 30K • 💬 792 • ⏱️ 0:46 • 1d ago
+📺 Sabine Hossenfelder
+
+👁️ 154K • 👍 9K • 💬 4K • ⏱️ 6:52 • 2d ago
+
+---
+
+**[AI News: A Flood of New Models (Here&#39;s What Matters)](https://www.youtube.com/watch?v=NC4h5kWH_-A)**
+
+Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here ...
+
+📺 Matt Wolfe
+
+👁️ 61K • 👍 3K • 💬 287 • ⏱️ 34:05 • 1d ago
 
 ---
 
@@ -359,17 +323,53 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 JayzTwoCents
 
-👁️ 136K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 137K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
-**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+📺 Onevilage
 
-📺 TIME
+👁️ 1.3M • 👍 30K • 💬 804 • ⏱️ 0:46 • 2d ago
 
-👁️ 218K • 👍 2K • 💬 568 • ⏱️ 10:16 • 1d ago
+---
+
+**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
+
+Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
+
+📺 NowThis Impact
+
+👁️ 668K • 👍 46K • 💬 4K • ⏱️ 1:10 • 1d ago
+
+---
+
+**[Motu Patlu Found a Giant Shoe 😱#Short #AI](https://www.youtube.com/watch?v=2lWGy2ABrUk)**
+
+Motu Patlu Found a Giant Shoe Motu and Patlu were walking through the jungle when they found a giant shoe! They ...
+
+📺 MrBhola-Al
+
+👁️ 84K • 👍 2K • 💬 14 • ⏱️ 0:28 • 10h ago
+
+---
+
+**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
+
+MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
+
+📺 MS NOW
+
+👁️ 372K • 👍 7K • 💬 1K • ⏱️ 20:18 • 1d ago
+
+---
+
+**[AI is destroying antique books to control knowledge!? #ninjasarebutterflies #ai #books #1984](https://www.youtube.com/watch?v=5TpOQOjnV68)**
+
+📺 Ninjas Are Butterflies 
+
+👁️ 97K • 👍 7K • 💬 434 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 10,011 • 1d ago
+⬇️ 267,725 • ❤️ 10,070 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 292,973 • ❤️ 1,599 • 4d ago
+⬇️ 292,973 • ❤️ 1,603 • 4d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 1,945,635 • ❤️ 1,332 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,360 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 994 • 4d ago
+⬇️ 7,932 • ❤️ 996 • 4d ago
 
 ---
 
@@ -433,7 +433,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 974 • 3d ago
+⬇️ 424,099 • ❤️ 982 • 2h ago
 
 ---
 
@@ -445,7 +445,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 795 • 2d ago
+⬇️ 8,639 • ❤️ 802 • 2d ago
 
 ---
 
@@ -457,7 +457,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,307,541 • ❤️ 4,002 • 3d ago
+⬇️ 2,307,541 • ❤️ 4,009 • 3d ago
 
 ---
 
@@ -469,19 +469,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 514 • 2d ago
-
----
-
-**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
-
-`text-generation` `304.2B`
-
-⬇️ 1,872,232 • ❤️ 3,438 • 15d ago
+⬇️ 21,873 • ❤️ 518 • 2d ago
 
 ---
 
@@ -493,7 +481,19 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 352,971 • ❤️ 450 • 1d ago
+⬇️ 352,971 • ❤️ 457 • 1d ago
+
+---
+
+**[DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabilities and speculative decoding, outperforming previous versions and competitive with leading proprietary models on benchmarks like Terminal Bench and NL2Repo. It supports adjustable reasoning effort levels (low, high, max) for complex tasks and can be run with vLLM for efficient deployment.
+
+`text-generation` `304.2B`
+
+⬇️ 1,872,232 • ❤️ 3,440 • 15d ago
 
 ---
 
@@ -509,7 +509,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 628 • 💬 2 • ⭐ 2,456 • 6d ago
+▲ 631 • 💬 2 • ⭐ 2,824 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -523,7 +523,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 125 • 💬 3 • ⭐ 22,500 • 2mo ago
+▲ 125 • 💬 3 • ⭐ 22,712 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -561,7 +561,7 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 53 • 💬 4 • ⭐ 37,309 • 12mo ago
+▲ 54 • 💬 4 • ⭐ 37,309 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -589,7 +589,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 41 • 💬 3 • ⭐ 1,062 • 12d ago
+▲ 41 • 💬 3 • ⭐ 1,098 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -601,7 +601,7 @@ MatrAIx is a large-scale simulated-user evaluation framework that uses diverse p
 
 A multi-scale subtraction network (M$^{2}$SNet) enhances medical image segmentation by capturing detailed and structural cues, improving localization and edge sharpness compared to traditional methods.
 
-▲ 0 • 💬 0 • ⭐ 958 • 41mo ago
+▲ 0 • 💬 0 • ⭐ 999 • 41mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2303.10894) • [💻 code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet)
 
@@ -643,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 16h ago
+⭐ 13.7k • 🔱 1.6k • 17h ago
 
 ---
 
@@ -653,7 +653,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.4k • 🔱 1.1k • 13h ago
+⭐ 10.5k • 🔱 1.1k • 13h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.2k • 🔱 446 • 2d ago
+⭐ 5.2k • 🔱 447 • 2d ago
 
 ---
 
@@ -691,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 545 • 21h ago
+⭐ 3.1k • 🔱 544 • 11m ago
 
 ---
 
@@ -701,7 +701,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.8k • 🔱 228 • 4d ago
+⭐ 2.8k • 🔱 229 • 4d ago
 
 ---
 
@@ -711,7 +711,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 5h ago
+⭐ 2.5k • 🔱 195 • 6h ago
 
 ---
 
@@ -731,7 +731,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 276 • 1h ago
+⭐ 2.1k • 🔱 277 • 29m ago
 
 ---
 

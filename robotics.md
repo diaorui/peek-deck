@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T13:31:25.428286+00:00'
+updated: '2026-08-16T14:22:34.739666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 13:31 UTC  
+**Last Updated:** August 16, 2026 at 14:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-16h ago
+17h ago
 
 ---
 
@@ -60,7 +60,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-17h ago
+18h ago
 
 ---
 
@@ -92,7 +92,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-18h ago
+19h ago
 
 ---
 
@@ -158,7 +158,7 @@ New Atlas • 2d ago
 
 High schoolers show off robotics skills at Leviathan Robotics Rampage in the Pablo Center
 
-WEAU • 10h ago
+WEAU • 11h ago
 
 ---
 
@@ -194,13 +194,13 @@ Seeking Alpha • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
-📺 DEEP Robotics
+📺 Fireship
 
-👁️ 29K • 👍 110 • 💬 13 • ⏱️ 0:18 • 4d ago
+👁️ 964K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
 
 ---
 
@@ -210,37 +210,27 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 550 • 💬 108 • ⏱️ 7:05 • 4d ago
+👁️ 40K • 👍 551 • 💬 108 • ⏱️ 7:05 • 4d ago
 
 ---
 
-**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
-Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
 
-📺 Y Combinator
+📺 DEEP Robotics
 
-👁️ 27K • 👍 733 • 💬 24 • ⏱️ 58:18 • 3d ago
-
----
-
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
-
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
-
-📺 Fireship
-
-👁️ 962K • 👍 23K • 💬 2K • ⏱️ 7:02 • 4d ago
+👁️ 29K • 👍 112 • 💬 14 • ⏱️ 0:18 • 4d ago
 
 ---
 
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
 
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
 
-📺 Guardian News
+📺 Imagination in Action
 
-👁️ 40K • 👍 467 • 💬 129 • ⏱️ 3:48 • 4d ago
+👁️ 8K • 👍 299 • 💬 45 • ⏱️ 1:12:16 • 4d ago
 
 ---
 
@@ -250,17 +240,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 218K • 👍 2K • 💬 568 • ⏱️ 10:16 • 1d ago
-
----
-
-**[Inside the Chinese factory using robots to power online shopping | BBC News](https://www.youtube.com/watch?v=ri8FbguG7S0)**
-
-Every time you order clothes, groceries or household essentials online, there's a chance an autonomous robot helped out. Inside ...
-
-📺 BBC News
-
-👁️ 56K • 👍 710 • 💬 176 • ⏱️ 3:45 • 6d ago
+👁️ 220K • 👍 2K • 💬 582 • ⏱️ 10:16 • 1d ago
 
 ---
 
@@ -270,7 +250,27 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 56K • 👍 343 • 💬 91 • ⏱️ 0:22 • 2d ago
+👁️ 57K • 👍 350 • 💬 92 • ⏱️ 0:22 • 2d ago
+
+---
+
+**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
+
+My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
+
+📺 Venus Drama Stories
+
+👁️ 91K • 👍 2K • 💬 134 • ⏱️ 17:26 • 3d ago
+
+---
+
+**[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
+
+Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
+
+📺 Y Combinator
+
+👁️ 27K • 👍 744 • 💬 24 • ⏱️ 58:18 • 3d ago
 
 ---
 
@@ -280,17 +280,17 @@ New Ultimate shell robot with Ue glacier and rime. There are also new weapons on
 
 📺 PREDATOR WR
 
-👁️ 13K • 👍 436 • 💬 71 • ⏱️ 13:35 • 1d ago
+👁️ 13K • 👍 444 • 💬 71 • ⏱️ 13:35 • 1d ago
 
 ---
 
-**[AI just escaped the screen... and got a robot body](https://www.youtube.com/watch?v=BZBDp-pIk6s)**
+**[Humanoid Robot Takes A Direct Hit From A 20mm Cannon #military #shorts](https://www.youtube.com/watch?v=K5jUWzjL-9s)**
 
-Artificial intelligence just escaped the screen — and it now has legs, hands, and eyes. For years, AI could write, code, and talk…
+This striking test reportedly shows a humanoid robot being subjected to direct 20 mm cannon fire to demonstrate its ability to ...
 
-📺 The AI Nexus
+📺 Valor and Liberty
 
-👁️ 11K • 👍 250 • 💬 21 • ⏱️ 30:22 • 3d ago
+👁️ 860K • 👍 2K • 💬 144 • ⏱️ 0:07 • 5d ago
 
 ---
 

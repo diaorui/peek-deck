@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T13:31:25.425029+00:00'
+updated: '2026-08-16T14:22:34.737444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 13:31 UTC  
+**Last Updated:** August 16, 2026 at 14:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +0.4%  
-**30d:** +1.0%  
-**90d:** -11.0%  
-**1y:** -58.0%  
+**24h:** -0.1%  
+**7d:** +0.5%  
+**30d:** +1.1%  
+**90d:** -10.9%  
+**1y:** -57.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.77B
+**Market Cap:** $227.02B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.0%
 
 **All-Time Low:** $0.43
-+433891.0%
++434362.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 21h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 22h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 1d ago
 
 Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -212,13 +212,13 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-CCN.com • 2d ago
+CCN.com • 3d ago
 
 ---
 
@@ -232,13 +232,13 @@ Grayscale • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+**[Wall Street Just Chose Ethereum OVER Bitcoin](https://www.youtube.com/watch?v=9KAAyZ1pX64)**
 
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
 
-📺 Money Rules - Investing Tips 
+📺 Coin Bureau
 
-👁️ 8K • 👍 827 • 💬 285 • ⏱️ 17:49 • 1d ago
+👁️ 3K • 👍 229 • 💬 20 • ⏱️ 15:54 • 1h ago
 
 ---
 
@@ -248,17 +248,17 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 210 • 💬 105 • ⏱️ 18:05 • 11h ago
+👁️ 5K • 👍 238 • 💬 130 • ⏱️ 18:05 • 12h ago
 
 ---
 
-**[ALT WARNING: 1ST TIME IN 6 YEARS](https://www.youtube.com/watch?v=meRlW9iUKYA)**
+**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
 
-📺 Crypto Crew University
+📺 Money Rules - Investing Tips 
 
-👁️ 33K • 👍 2K • 💬 143 • ⏱️ 8:55 • 3d ago
+👁️ 8K • 👍 839 • 💬 236 • ⏱️ 17:49 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 539 • 💬 142 • ⏱️ 34:25 • 1d ago
+👁️ 6K • 👍 543 • 💬 102 • ⏱️ 34:25 • 1d ago
 
 ---
 
@@ -292,13 +292,23 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 ---
 
+**[ETHEREUM HAS A HIGH CHANCE OF GOING UP !!!!](https://www.youtube.com/watch?v=SwYdoP3Oz2o)**
+
+Ethereum has a high chance of going up, but it's not guaranteed — my stop loss here is super tight.
+
+📺 The Moon Show
+
+👁️ 984 • 👍 14 • ⏱️ 0:26 • 21h ago
+
+---
+
 **[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
 
 1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
 
 📺 Stock Moe
 
-👁️ 10K • 👍 550 • 💬 45 • ⏱️ 10:44 • 2d ago
+👁️ 10K • 👍 550 • 💬 43 • ⏱️ 10:44 • 2d ago
 
 ---
 
@@ -308,7 +318,7 @@ Crypto is difficult, but its also very easy. The richest people in the world and
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 270 • ⏱️ 11:56 • 2d ago
+👁️ 11K • 👍 1K • 💬 252 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -318,17 +328,7 @@ Bybit is currently running a limited promotion for the MCO community. Deposit at
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 167 • 💬 8 • ⏱️ 7:21 • 1d ago
-
----
-
-**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
-
-Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
-
-📺 Fred Opus
-
-👁️ 326 • 👍 115 • 💬 89 • ⏱️ 4:19 • 1d ago
+👁️ 3K • 👍 168 • 💬 8 • ⏱️ 7:21 • 1d ago
 
 ---
 

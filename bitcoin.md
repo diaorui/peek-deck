@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T13:31:25.418669+00:00'
+updated: '2026-08-16T14:22:34.733299+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 13:31 UTC  
+**Last Updated:** August 16, 2026 at 14:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,156.81
+### $63,068.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.5%  
-**30d:** -2.8%  
-**90d:** -18.0%  
-**1y:** -46.4%  
+**24h:** -0.0%  
+**7d:** -1.4%  
+**30d:** -2.7%  
+**90d:** -17.9%  
+**1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1263.41B
+**Market Cap:** $1264.63B
 Rank #1
 
-**Circulating Supply:** 20,070,950 BTC
+**Circulating Supply:** 20,071,043 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.1%
+-50.0%
 
 **All-Time Low:** $67.81
-+92727.0%
++92818.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -89,9 +89,15 @@ Rank #1
 
 ---
 
+**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
+
+5h ago
+
+---
+
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,37 +107,15 @@ Rank #1
 
 ---
 
-**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
-
-4h ago
-
----
-
-**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
-
-21h ago
-
----
-
 **[Coldcard says dice rolls were always the answer. Their old site says something different, and they have rushed quietly to update the website... Victims may have a real case against them beyond the "uncatched bug"...](https://www.reddit.com/r/Bitcoin/comments/1vpm2wx/coldcard_says_dice_rolls_were_always_the_answer/)**
 
 Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
 
-10h ago
+11h ago
 
 ---
 
-**[The Coldcard Exploit (July/Aug 2026): Why the "PRNG Bug" Alone Does Not Quantify the On-Chain Evidence](https://www.reddit.com/r/Bitcoin/comments/1vpueix/the_coldcard_exploit_julyaug_2026_why_the_prng/)**
-
-I am not a core developer or a Bitcoin expert, but looking at the statistical and logistical data of the recent exploit, the official 'software bug' explanation leaves huge logical gaps. Here is why... The official post-mortem of the recent Coldcard exploit points to a 2021 build configuration flaw that forced a fallback to a weak pseudo-random number generator (PRNG). While the cryptographic reduction of entropy to around 40-bits on affected devices explains how keys could be brute-forced, the actual on-chain execution and statistical anomalies strongly suggest that the bug was not the sole catalyst. The data suggests that the attacker did not perform a blind, brute-force scan of the blockchain. Instead, the evidence points toward a highly targeted operation utilizing pre-existing metadata. Here are the key anomalies that the official version fails to reconcile: 1. The Impossibility of Wave 1 Velocity (July 30, 2026) The attack began at 01:31 UTC on July 30. Within exactly 41 minutes, 1,196 high-value addresses were systematically drained of 1,082 BTC. To achieve this speed, an attacker cannot scan the entire Bitcoin state blindly. Even with a 40-bit search space, querying the blockchain or an indexer for thousands of specific addresses sequentially within minutes requires an existing map. The attacker knew exactly which addresses to hit first. 2. Extreme Geographical Discrepancies According to preliminary exchange IP data and community tracking, the victim pool is heavily concentrated: * North America: ~45% of total victims. * Europe: ~35% of total victims. * Asia (specifically South Korea): Less than 2%. If this were a blind cryptographic exploit affecting identical global firmware, the victim distribution should strictly mirror total worldwide device sales. The massive disparity suggests the attacker targeted specific infrastructure—such as western DCA brokers or localized databases that hold client xpubs/zpubs—rather than random global targets. 3. Incomplete and "Surgical" Wallet Draining Blockchain analysis from TRM Labs revealed that the attacker frequently left substantial funds untouched on the same seed. In several instances, newer UTXOs were swept while older balances (exceeding 75 BTC) on the exact same derivation paths remained unspent. A blind, automated script would liquidate 100% of an unlocked seed. The selective nature points toward a targeted filter list or automated scripts that only had access to partial transaction histories/xpub sub-trees. 4. The Contact Paradox Numerous affected users report being directly contacted regarding the breach, despite assurances that customer purchasing data had historically been purged in accordance with data-retention policies. If an off-chain link between device UIDs, firmware status, and user identities still existed, it creates a massive honeypot. It implies the attacker may have operated with an exfiltrated database containing logistical shipping dates, device IDs, and customer metadata. Conclusion: The PRNG firmware flaw was the mechanism, but an aggregated dataset of user identities, xpubs, or device shipping logs was almost certainly the trigger. We need to stop treating this as just a software bug and start investigating the systemic failure of supply chain data, third-party xpub aggregators, and data retention compliance. What are your thoughts? Has anyone looked deeper into which specific DCA-broker or portfolio tracker databases might have been compromised prior to July 30?
-
-2h ago
-
----
-
-**[bitcoin has matured so much](https://www.reddit.com/r/Bitcoin/comments/1vp513u/bitcoin_has_matured_so_much/)**
-
-> 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
+**[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
 22h ago
 
@@ -141,7 +125,23 @@ I am not a core developer or a Bitcoin expert, but looking at the statistical an
 
 I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
 
-9h ago
+10h ago
+
+---
+
+**[bitcoin has matured so much](https://www.reddit.com/r/Bitcoin/comments/1vp513u/bitcoin_has_matured_so_much/)**
+
+> 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
+
+23h ago
+
+---
+
+**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.reddit.com/r/Bitcoin/comments/1vpcgxn/swiss_megabank_ubs_ramps_up_its_bitcoin_exposure/)**
+
+Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 18h ago
 
 ---
 
@@ -153,7 +153,7 @@ I believe keeping cryptocurrency on centralized exchanges is actually a solid ch
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 21h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 18h ago
 
 Even if Bitcoin recovers, Strategy may have a difficult time regaining its former mojo.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 2h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-forbes.com • 1h ago
+forbes.com • 2h ago
 
 ---
 
@@ -279,7 +279,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 157 • ⏱️ 16:33 • 1d ago
+👁️ 22K • 👍 1K • 💬 159 • ⏱️ 16:33 • 1d ago
 
 ---
 
@@ -289,27 +289,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 383 • 💬 14 • ⏱️ 55:12 • 19h ago
-
----
-
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 38K • 👍 589 • 💬 15 • ⏱️ 0:53 • 1d ago
-
----
-
-**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
-
-Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
-
-📺 Simply Bitcoin
-
-👁️ 36K • 👍 2K • 💬 299 • ⏱️ 18:25 • 2d ago
+👁️ 10K • 👍 409 • 💬 15 • ⏱️ 55:12 • 20h ago
 
 ---
 
@@ -319,35 +299,27 @@ If Bitcoin surges to the $250000 mark, Ethereum is widely expected to shatter it
 
 📺 StrikeZoneX
 
-👁️ 617 • 👍 5 • ⏱️ 0:45 • 6h ago
+👁️ 891 • 👍 5 • 💬 2 • ⏱️ 0:45 • 7h ago
 
 ---
 
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
 
-📺 Andrei Jikh
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-👁️ 69K • 👍 1K • 💬 32 • ⏱️ 0:54 • 1d ago
+📺 Benjamin Cowen
 
----
-
-**[THIS IS BITCOIN&#39;S MOMENT OF TRUTH...](https://www.youtube.com/watch?v=KiQgJBoyTWg)**
-
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 5K • 👍 519 • 💬 47 • ⏱️ 8:47 • 7h ago
+👁️ 39K • 👍 598 • 💬 15 • ⏱️ 0:53 • 1d ago
 
 ---
 
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+**[I LOST BITCOIN DOING EVERYTHING RIGHT](https://www.youtube.com/watch?v=pJWkk0_H9Kg)**
 
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
+Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing covering price structure, ETF flows, on-chain signals, ...
 
-📺 Natalie Brunell
+📺 Bitcoin Unleashed with Oliver Velez
 
-👁️ 4K • 👍 144 • 💬 127 • ⏱️ 1:36 • 1d ago
+👁️ 2K • 👍 120 • 💬 28 • ⏱️ 8:30 • 18h ago
 
 ---
 
@@ -357,7 +329,17 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 3K • 💬 149 • ⏱️ 15:07 • 1d ago
+👁️ 75K • 👍 4K • 💬 149 • ⏱️ 15:07 • 1d ago
+
+---
+
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 149 • 💬 121 • ⏱️ 1:36 • 1d ago
 
 ---
 
@@ -368,6 +350,26 @@ It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: http
 📺 Altcoin Daily
 
 👁️ 36K • 👍 2K • 💬 101 • ⏱️ 9:13 • 2d ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 2K • 💬 302 • ⏱️ 18:25 • 2d ago
+
+---
+
+**[SECRET BITCOIN SPAWN](https://www.youtube.com/watch?v=fPsAQ2ucLcU)**
+
+Airwingmarine's Music - Synthwave ...
+
+📺 Airwingmarine
+
+👁️ 33K • 👍 574 • 💬 34 • ⏱️ 0:15 • 2d ago
 
 ---
 
