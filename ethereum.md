@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T18:57:30.891679+00:00'
+updated: '2026-08-16T19:24:48.074077+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 18:57 UTC  
+**Last Updated:** August 16, 2026 at 19:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
-
----
-
-**[Has anyone tried Expert Picks (by Market Wind) in CoinDCX? How was your experience?](https://www.reddit.com/r/ethereum/comments/1vpyiiy/has_anyone_tried_expert_picks_by_market_wind_in/)**
-
-4h ago
+14h ago
 
 ---
 
@@ -146,6 +140,14 @@ Heya folks, interested if there's anyone here that's still actively using Maker 
 
 ---
 
+**[Where can I get small amounts of ETH Base for fees?](https://www.reddit.com/r/ethereum/comments/1vnaldr/where_can_i_get_small_amounts_of_eth_base_for_fees/)**
+
+Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -194,7 +196,7 @@ The Motley Fool • 1d ago
 
 Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
 
-blockchain.news • 1h ago
+blockchain.news • 2h ago
 
 ---
 
@@ -202,7 +204,7 @@ blockchain.news • 1h ago
 
 Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
 
-Benzinga • 1d ago
+Benzinga • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ Benzinga • 1d ago
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -246,7 +248,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 160 • 💬 10 • ⏱️ 5:23 • 11h ago
+👁️ 2K • 👍 160 • 💬 10 • ⏱️ 5:23 • 12h ago
 
 ---
 
@@ -256,7 +258,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 250 • 💬 145 • ⏱️ 18:05 • 16h ago
+👁️ 7K • 👍 250 • 💬 145 • ⏱️ 18:05 • 17h ago
 
 ---
 
