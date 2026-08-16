@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T19:24:48.067998+00:00'
+updated: '2026-08-16T19:44:28.004527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - cryptocurrency
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 19:24 UTC  
+**Last Updated:** August 16, 2026 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -1.3%  
-**30d:** -2.6%  
-**90d:** -17.8%  
+**24h:** +0.2%  
+**7d:** -1.2%  
+**30d:** -2.5%  
+**90d:** -17.7%  
 **1y:** -46.2%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,23 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-2h ago
+3h ago
+
+---
+
+**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
+
+Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
+
+5h ago
+
+---
+
+**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
+
+Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
+
+5h ago
 
 ---
 
@@ -97,25 +113,15 @@ https://satoshitimeline.com/854
 
 ---
 
-**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
+**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
-
-4h ago
-
----
-
-**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
-
-Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
-
-4h ago
+3h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,19 +139,11 @@ I believe keeping cryptocurrency on centralized exchanges is actually a solid ch
 
 ---
 
-**[Coldcard says dice rolls were always the answer. Their old site says something different, and they have rushed quietly to update the website... Victims may have a real case against them beyond the "uncatched bug"...](https://www.reddit.com/r/Bitcoin/comments/1vpm2wx/coldcard_says_dice_rolls_were_always_the_answer/)**
+**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
 
-Before the hack their marketing frontpage (using last snapshot pre hack event, July 13, 2016) in page was using: "harder to fake" "real to survive real mistakes" and treated dice-roll entropy as an optional extra for the truly paranoid, even saying that if not done right could be risky. After the +$100M was stolen because most users didn't roll dice, that same language quietly has been modified in post hack edit, with no clear disclosure that the wording has changed because of the incident. Coldcard post hack is making visible many things that are worth a lawyer's attention, imagine how many users were affected reading in their frontpage: "For your funds to be compromised, a backdoor would need to exist for 3 different chips: both the Secure Elements, and the main microprocessor"... their shit about dice rolling is not even a step required but a softened "optional step"..... coldcard.com/docs/ultra-quick/: "For example, COLDCARD will generate seed words for you by default using it's TRNGs, as shown in this guide. This provides the best speed and safety for most users. Alternative options are described in the Middle Ground guide and the Paranoid guide, but carry risks if done incorrectly" So if you were a victim of these idiots, do not let them make you to believe you did something wrong or that you should not sue them, they rushed to blame affecred users claiming they skipped "a critical step" when they did what guide said....they silently updating the website post hack and changing many wording proves that they know it is fucked up. Again, just raising awareness of why you must not trust Hardware Wallet vendors if you do not know what you are doing. If they got a class-legal action or not, I do not care...But we as community must raise awareness on bad idiots and bad actors. And be more paranoid regarding marketing shit of hardware wallet idiots. Exchanges are out of question, but ditching hardware wallets or asking you to be paranoid about hardware wallets does not mean one advocates exchanges, but to not buy marketing shit so easy.... Coinkite, Coldcard and NVK Rodolfo Novak are a danger to the ecosystem with their false advertisement and many lies regarding their marketing, and now their silent "softening" on his "COLDCARD is the world's most trusted and secure Bitcoin hardware Wallet"....
+I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-16h ago
-
----
-
-**[Volatility](https://www.reddit.com/r/Bitcoin/comments/1vq2zzi/volatility/)**
-
-"Bitcoin is too volatile" 63k.
-
-1h ago
+2h ago
 
 ---
 
@@ -195,7 +193,7 @@ The Block • 1d ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 3h ago
+Benzinga • 4h ago
 
 ---
 
@@ -283,7 +281,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 220 • ⏱️ 16:15 • 8h ago
+👁️ 41K • 👍 3K • 💬 220 • ⏱️ 16:15 • 9h ago
 
 ---
 
@@ -323,7 +321,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 490 • 👍 34 • 💬 38 • ⏱️ 2:18 • 3h ago
+👁️ 490 • 👍 34 • 💬 38 • ⏱️ 2:18 • 4h ago
 
 ---
 

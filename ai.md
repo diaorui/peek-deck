@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T19:24:48.059635+00:00'
+updated: '2026-08-16T19:44:27.995935+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 19:24 UTC  
+**Last Updated:** August 16, 2026 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ There's a split from neuroscience I can't stop thinking about as the real reason
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ I put together this week's issue around a pattern that kept repeating across ver
 
 Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in China. Commerce Secretary Howard Lutnick says he told Apple “plainly” that Washington opposes the move. Apple can legally buy standard, off-the-shelf parts from both companies. Sharing product information for customized chips would require a U.S. license. Looks like ram shortage will continue and prices stay high.
 
-23h ago
+1d ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 20h ago
 
 **[At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl](https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ wsj.com • 3h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 561 • 💬 471 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 566 • 💬 476 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 491 • 💬 283 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 491 • 💬 284 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -233,7 +233,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 364 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 365 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -241,7 +241,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 318 • 💬 195 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 318 • 💬 196 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -255,6 +255,12 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 ---
 
+**[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
+
+⬆️ 178 • 💬 86 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
 **[When Genius Fails: The Intellectual Arrogance of the AI Labs](https://news.ycombinator.com/item?id=49299282)**
 
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
@@ -263,17 +269,11 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 ---
 
-**[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
-
-⬆️ 175 • 💬 86 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-
----
-
 **[The AI Credit Resale Economy](https://news.ycombinator.com/item?id=49320611)**
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 139 • 💬 56 • 4h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 166 • 💬 63 • 4h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -285,9 +285,11 @@ A gentle visual guide to how a statistical mark hides inside generated text, and
 
 ---
 
-**[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://news.ycombinator.com/item?id=49290768)**
+**[Cloudflare's AI Psychosis](https://news.ycombinator.com/item?id=49310719)**
 
-⬆️ 125 • 💬 111 • 2d ago • [cdn.openai.com](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
+
+⬆️ 114 • 💬 97 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 

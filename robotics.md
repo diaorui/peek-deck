@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T19:24:48.077270+00:00'
+updated: '2026-08-16T19:44:28.013978+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 19:24 UTC  
+**Last Updated:** August 16, 2026 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -134,7 +134,7 @@ South China Morning Post • 15h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-IEEE Spectrum • 4h ago
+IEEE Spectrum • 5h ago
 
 ---
 
@@ -158,7 +158,7 @@ CNBC • 2d ago
 
 EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
