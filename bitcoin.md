@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T20:47:53.135531+00:00'
+updated: '2026-08-16T21:19:37.228183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 20:47 UTC  
+**Last Updated:** August 16, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -115,7 +115,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 8h ago
 
 Global bond yields hit 2008 highs, a level Bitcoin never traded through. Gold gained 32% while BTC lost 46%.
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 2h ago
 
 ---
 
@@ -265,7 +265,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 5d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 6d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -329,7 +329,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 2h ago
+👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 3h ago
 
 ---
 
