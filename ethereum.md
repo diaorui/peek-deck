@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T22:20:26.548367+00:00'
+updated: '2026-08-16T22:47:00.942632+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 22:20 UTC  
+**Last Updated:** August 16, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,11 +168,19 @@ Decrypt • 3d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+**[Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-ethereum-solana-drop-214547270.html)**
 
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
+
+Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
+
+Benzinga • 5h ago
 
 ---
 
@@ -192,17 +200,9 @@ blockchain.news • 5h ago
 
 ---
 
-**[Bitcoin Below $63,000, XRP Under $1 as Ethereum, Dogecoin Struggle to Hold Support](https://www.benzinga.com/crypto/cryptocurrency/26/08/61224683/bitcoin-below-63000-xrp-under-1-as-ethereum-dogecoin-struggle-to-hold-support)**
-
-Bitcoin trades flat as spot BTC ETFs see outflows and crypto sentiment remains fearful. Trader advices to accumulate BTC rather than timing bottom.
-
-Benzinga • 2d ago
-
----
-
 **[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
 
-ccn.com • 3d ago
+CCN.com • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ ccn.com • 3d ago
 
 Could the "Ethereum" killer unify the fragmented financial market?
 
-fool.com • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -220,15 +220,11 @@ Grayscale • 3d ago
 
 ---
 
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -242,7 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 9h ago
+👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 10h ago
 
 ---
 

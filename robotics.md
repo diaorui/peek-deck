@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T22:20:26.550596+00:00'
+updated: '2026-08-16T22:47:00.945565+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 22:20 UTC  
+**Last Updated:** August 16, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -136,7 +136,7 @@ NASA (.gov) • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 6h ago
+foxnews.com • 6h ago
 
 ---
 
@@ -150,7 +150,7 @@ South China Morning Post • 18h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -166,7 +166,13 @@ Interesting Engineering • 1d ago
 
 EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
 
-Yahoo • 6h ago
+Yahoo • 7h ago
+
+---
+
+**[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.wkow.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_886ac03f-a007-512f-9724-e53c7b0b3ad5.html)**
+
+WKOW • 1d ago
 
 ---
 
@@ -178,17 +184,11 @@ New Atlas • 2d ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+**[Why robots that can’t communicate naturally won’t be adopted](https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/)**
 
-South Tahoe Now • 1d ago
+Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the importance of hearing.
 
----
-
-**[Teams increase 138% as World Humanoid Robot Games expands scale and influence](https://www.globaltimes.cn/page/202608/1368304.shtml)**
-
-The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
-
-Global Times • 18h ago
+The Robot Report • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T22:20:26.544150+00:00'
+updated: '2026-08-16T22:47:00.937101+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 22:20 UTC  
+**Last Updated:** August 16, 2026 at 22:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-5h ago
+6h ago
 
 ---
 
@@ -93,13 +93,13 @@ https://satoshitimeline.com/854
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -161,21 +161,37 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 10h ago
+forbes.com • 10h ago
 
 ---
 
-**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
+**[4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP](https://finance.yahoo.com/markets/crypto/articles/4-reasons-could-most-important-210327553.html)**
 
-CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
+Trump meets crypto leaders, Fed minutes land, and Japan tests the carry trade. Four catalysts that could move Bitcoin and XRP.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-ethereum-solana-drop-214547270.html)**
+
+Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 12h ago
+Investing.com • 13h ago
+
+---
+
+**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+
+Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
+
+TradingView • 6h ago
 
 ---
 
@@ -191,15 +207,7 @@ Seeking Alpha • 10h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 6h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
-
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
-
-Yahoo Finance • 2d ago
+Benzinga • 7h ago
 
 ---
 
@@ -213,15 +221,7 @@ Investing.com • 1d ago
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
-24/7 Wall St. • 1d ago
-
----
-
-**[Bring Bitcoin mining to your desktop for just $49.99](https://mashable.com/tech/aug-13-blockchance-bitcoin-ticket-super-miner-black)**
-
-Real mining. Tiny footprint.
-
-Mashable • 3d ago
+24/7 Wall St. • 2d ago
 
 ---
 
@@ -277,7 +277,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 11h ago
+👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 23h ago
+👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -347,7 +347,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 6h ago
+👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 7h ago
 
 ---
 
