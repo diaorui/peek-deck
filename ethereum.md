@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T20:21:49.168199+00:00'
+updated: '2026-08-16T20:47:53.141728+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 20:21 UTC  
+**Last Updated:** August 16, 2026 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +0.8%  
-**30d:** +1.4%  
-**90d:** -10.6%  
-**1y:** -57.8%  
+**24h:** -0.1%  
+**7d:** +0.6%  
+**30d:** +1.2%  
+**90d:** -10.8%  
+**1y:** -57.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $227.37B
+**Market Cap:** $227.18B
 Rank #2
 
 **Circulating Supply:** 120,681,942 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.9%
 
 **All-Time Low:** $0.43
-+435036.6%
++434671.7%
 
 ---
 
@@ -238,37 +238,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 10K • 👍 593 • 💬 55 • ⏱️ 15:54 • 7h ago
-
----
-
-**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
-
-In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 160 • 💬 10 • ⏱️ 5:23 • 13h ago
-
----
-
-**[BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6ty4T4MnfAw)**
-
-BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 250 • 💬 145 • ⏱️ 18:05 • 18h ago
-
----
-
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
-
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 547 • 💬 92 • ⏱️ 34:25 • 1d ago
+👁️ 14K • 👍 699 • 💬 73 • ⏱️ 15:54 • 8h ago
 
 ---
 
@@ -278,27 +248,37 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 852 • 💬 238 • ⏱️ 17:49 • 1d ago
+👁️ 8K • 👍 855 • 💬 233 • ⏱️ 17:49 • 1d ago
 
 ---
 
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+**[BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6ty4T4MnfAw)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Crew University
+📺 Crypto World
 
-👁️ 13K • 👍 324 • 💬 9 • ⏱️ 0:31 • 2d ago
+👁️ 7K • 👍 263 • 💬 156 • ⏱️ 18:05 • 18h ago
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 549 • 💬 99 • ⏱️ 34:25 • 1d ago
+
+---
+
+**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
+
+In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 8 • ⏱️ 7:21 • 1d ago
+👁️ 3K • 👍 171 • 💬 10 • ⏱️ 5:23 • 13h ago
 
 ---
 
@@ -312,23 +292,43 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 ---
 
-**[How Cloud Mining Work in 2026? Ethereum (ETH) Mining Test](https://www.youtube.com/watch?v=dLdW7StQCJA)**
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
 
-Mining app: lnktap.cc/solidhash Cloud mining sounds simple until you start looking at what actually happens behind the ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 Fred Opus
+📺 Crypto Crew University
 
-👁️ 380 • 👍 114 • 💬 90 • ⏱️ 4:19 • 1d ago
+👁️ 13K • 👍 327 • 💬 9 • ⏱️ 0:31 • 2d ago
 
 ---
 
-**[ETHEREUM PREDICTION FOR AUGUST! (ETH Update)](https://www.youtube.com/watch?v=roIcJO5haBg)**
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
 
-📺 Cilinix Crypto
+📺 Money Rules - Investing Tips 
 
-👁️ 317 • 👍 21 • 💬 5 • ⏱️ 4:29 • 1d ago
+👁️ 11K • 👍 1K • 💬 240 • ⏱️ 11:56 • 2d ago
+
+---
+
+**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+
+Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 168 • 💬 8 • ⏱️ 7:21 • 1d ago
+
+---
+
+**[Holding Ethereum Over ADA Costs $47,000](https://www.youtube.com/watch?v=IDGWfaS2OOE)**
+
+I've compiled a full list of the crypto exchanges I personally use and recommend. You can find the complete T&Cs breakdown, ...
+
+📺 Cheeky Crypto Unfiltered
+
+👁️ 1K • 👍 90 • 💬 15 • ⏱️ 13:16 • 1d ago
 
 ---
 

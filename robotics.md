@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T20:21:49.171102+00:00'
+updated: '2026-08-16T20:47:53.144963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 20:21 UTC  
+**Last Updated:** August 16, 2026 at 20:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -142,7 +142,7 @@ South China Morning Post • 16h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-spectrum.ieee.org • 5h ago
+spectrum.ieee.org • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ Interesting Engineering • 1d ago
 
 EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
 
-Yahoo • 4h ago
+Yahoo • 5h ago
 
 ---
 
@@ -188,7 +188,7 @@ New Atlas • 2d ago
 
 The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
 
-Global Times • 16h ago
+Global Times • 17h ago
 
 ---
 
@@ -202,37 +202,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 970K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
-
----
-
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
-
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
-
-📺 Imagination in Action
-
-👁️ 9K • 👍 302 • 💬 45 • ⏱️ 1:12:16 • 5d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 40K • 👍 552 • 💬 109 • ⏱️ 7:05 • 5d ago
-
----
-
-**[Chinese robot maker Unitree set to become China&#39;s first humanoid robot stock | DW News](https://www.youtube.com/watch?v=P3W6dKx7u1Y)**
-
-Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it seeks to raise around 900 million dollars for ...
-
-📺 DW News
-
-👁️ 19K • 👍 238 • 💬 166 • ⏱️ 13:41 • 5d ago
+👁️ 972K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
 
 ---
 
@@ -246,23 +216,43 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 ---
 
+**[Chinese robot maker Unitree set to become China&#39;s first humanoid robot stock | DW News](https://www.youtube.com/watch?v=P3W6dKx7u1Y)**
+
+Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it seeks to raise around 900 million dollars for ...
+
+📺 DW News
+
+👁️ 19K • 👍 239 • 💬 166 • ⏱️ 13:41 • 5d ago
+
+---
+
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+
+📺 Imagination in Action
+
+👁️ 9K • 👍 306 • 💬 45 • ⏱️ 1:12:16 • 5d ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 224K • 👍 2K • 💬 591 • ⏱️ 10:16 • 2d ago
+
+---
+
 **[Why I Quit My PhD in Robotics – Did I Make a Mistake?](https://www.youtube.com/watch?v=hoGCq23-x8U)**
 
 Join Robotics Builder Membership for Behind the Scene Videos: ...
 
 📺 Kevin Wood | Robotics & AI
 
-👁️ 13K • 👍 323 • 💬 57 • ⏱️ 11:50 • 6d ago
-
----
-
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 35K • 👍 2K • 💬 130 • ⏱️ 18:39 • 4d ago
+👁️ 13K • 👍 328 • 💬 57 • ⏱️ 11:50 • 6d ago
 
 ---
 
@@ -272,27 +262,37 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 58K • 👍 353 • 💬 94 • ⏱️ 0:22 • 2d ago
+👁️ 59K • 👍 355 • 💬 95 • ⏱️ 0:22 • 2d ago
 
 ---
 
-**[Trump&#39;s Robotic Nodding Aide](https://www.youtube.com/watch?v=dFbX5wGjWdY)**
+**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
 
-Courses: https://www.rtcourses.com/ Go Fund Me: https://gofund.me/e12bf94e Donate: ...
+Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
 
-📺 R&T Media 
+📺 Food For Robots
 
-👁️ 124K • 👍 4K • 💬 688 • ⏱️ 0:19 • 5d ago
+👁️ 36K • 👍 2K • 💬 132 • ⏱️ 18:39 • 4d ago
 
 ---
 
-**[Matic Proves Robot Apps Are Already Obsolete](https://www.youtube.com/watch?v=WiaG8kR4sjk)**
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
 
-If you're interested in a Matic Vacuum/Mop, go here and get a Free Annual Bag Pass: ...
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
 
-📺 Dr. Know-it-all Knows it all
+📺 Fox Business Clips
 
-👁️ 3K • 👍 181 • 💬 83 • ⏱️ 21:51 • 3d ago
+👁️ 40K • 👍 552 • 💬 109 • ⏱️ 7:05 • 5d ago
+
+---
+
+**[My Parents Sold Our Robotics Company for $80 Billion and Exiled Me—But I Owned the Patents...](https://www.youtube.com/watch?v=Wcobi_KF5kU)**
+
+My family thought they had secured an $80 billion deal and handed everything to my older brother, Henry. Then my father told me ...
+
+📺 Venus Drama Stories
+
+👁️ 97K • 👍 3K • 💬 141 • ⏱️ 17:26 • 3d ago
 
 ---
 

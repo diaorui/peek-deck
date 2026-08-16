@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T20:21:49.155184+00:00'
+updated: '2026-08-16T20:47:53.127089+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 20:21 UTC  
+**Last Updated:** August 16, 2026 at 20:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-6h ago
+7h ago
 
 ---
 
@@ -75,7 +75,7 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 4h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 Earlier this month, Anthropic announced that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. At the same time the European Commission announced that other firms, including Black Forest Labs and Open AI have also committed to taking steps to mark AI-generated outputs. Because of this, there's been a lot of interest in understanding: - How AI text watermarking works - Whether AI text watermarking can be evaded or erased Here's an in-depth educational resource I developed that answers both questions. The resource also highlights one potential unexpected benefit of AI text watermarking. We might be able to better answer the question: 'How much human input went into this content?"
 
-18h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -157,13 +157,13 @@ The Guardian • 12h ago
 
 On Pioneers of AI, host Rana el Kaliouby talks with David Rand, Professor of Information Sciences at Cornell, about using AI to debunk conspiracy theories. His research found a 20% reduction in belief...
 
-Yahoo • 21m ago
+Yahoo • 47m ago
 
 ---
 
 **[Stripe Nears Deal to Buy AI Firm OpenRouter for Over $7 Billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-bloomberg.com • 49m ago
+bloomberg.com • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ bloomberg.com • 49m ago
 
 With Anthropic's new watermarks, content provenance becomes an auditable evidentiary chain. Enterprises deploying AI need audit logs for complex, multi-agent systems.
 
-Forbes • 39m ago
+Forbes • 1h ago
 
 ---
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ Politico • 1d ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 566 • 💬 476 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 571 • 💬 481 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 491 • 💬 284 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 491 • 💬 283 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -241,7 +241,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 318 • 💬 196 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 319 • 💬 197 • 1d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -257,7 +257,15 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 178 • 💬 86 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 178 • 💬 87 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
+**[The AI Credit Resale Economy](https://news.ycombinator.com/item?id=49320611)**
+
+A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
+
+⬆️ 178 • 💬 68 • 6h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -266,14 +274,6 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
 
 ⬆️ 176 • 💬 199 • 2d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
-
----
-
-**[The AI Credit Resale Economy](https://news.ycombinator.com/item?id=49320611)**
-
-A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
-
-⬆️ 166 • 💬 63 • 5h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -297,23 +297,23 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 ## YouTube Videos: "ai"
 
+**[How OpenAI and Anthropic’s AI Models Go Rogue | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
+
+Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
+
+📺 The Wall Street Journal
+
+👁️ 22K • 👍 463 • 💬 70 • ⏱️ 5:52 • 4h ago
+
+---
+
 **[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
 
 Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
 
 📺 InsideAI
 
-👁️ 256K • 👍 11K • 💬 2K • ⏱️ 15:53 • 1d ago
-
----
-
-**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
-
-Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
-
-📺 Matthew Berman
-
-👁️ 52K • 👍 1K • 💬 220 • ⏱️ 13:09 • 1d ago
+👁️ 283K • 👍 12K • 💬 2K • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -323,15 +323,35 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 63K • 👍 3K • 💬 293 • ⏱️ 34:05 • 2d ago
+👁️ 64K • 👍 3K • 💬 293 • ⏱️ 34:05 • 2d ago
 
 ---
 
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
+**[LIFHAK #aishorts #ai #aivideo #lifehacks](https://www.youtube.com/watch?v=hojs_hnZZpQ)**
 
-📺 Onevilage
+📺     📚 Hikmat_Tomchisi
 
-👁️ 1.3M • 👍 31K • 💬 830 • ⏱️ 0:46 • 2d ago
+👁️ 59K • 👍 239 • 💬 1 • ⏱️ 0:11 • 9h ago
+
+---
+
+**[I Asked AI To Tune My Suspension. This Is What Happened...](https://www.youtube.com/watch?v=4VdP4eoAGr0)**
+
+Can Artificial Intelligence actually help you set up your mountain bike suspension and make you faster on the trail? James hands ...
+
+📺 GMBN Tech
+
+👁️ 4K • 👍 190 • 💬 33 • ⏱️ 20:30 • 11h ago
+
+---
+
+**[4 wild AI predictions from a $39B tech founder](https://www.youtube.com/watch?v=3JNYPOS2o5Q)**
+
+Sam's database on how long it takes to become a millionaire:* https://clickhubspot.com/5th8 Episode 851: Sam Parr ...
+
+📺 My First Million
+
+👁️ 25K • 👍 564 • 💬 155 • ⏱️ 58:11 • 2d ago
 
 ---
 
@@ -341,53 +361,35 @@ AI Data Centers are being denied more and more as politicians are finally openin
 
 📺 JayzTwoCents
 
-👁️ 139K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
+👁️ 140K • 👍 9K • 💬 2K • ⏱️ 21:07 • 2d ago
 
 ---
 
-**[Adiliada | Sci-Fi AI Action Comedy | Higgsfield Originals (2026)](https://www.youtube.com/watch?v=NT681LXQYPI)**
+**[Anthropic Accidentally Created An AI Turf War](https://www.youtube.com/watch?v=sY2BE_AjqPE)**
 
-ADILIADA — a pitch-black sci-fi comedy about love, betrayal, and, above all, death. Fully open-sourced — every prompt and asset ...
+Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising ...
 
-📺 Higgsfield AI
+📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 240 • ⏱️ 6:06 • 2d ago
-
----
-
-**[24/7 AI slop channel 😭](https://www.youtube.com/watch?v=SFEC-fK_L28)**
-
-📺 John Casterline
-
-👁️ 1.5M • 👍 99K • 💬 2K • ⏱️ 0:29 • 1d ago
+👁️ 15K • 👍 577 • 💬 61 • ⏱️ 16:41 • 2d ago
 
 ---
 
-**[AI is destroying antique books to control knowledge!? #ninjasarebutterflies #ai #books #1984](https://www.youtube.com/watch?v=5TpOQOjnV68)**
+**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
 
-📺 Ninjas Are Butterflies 
+MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
 
-👁️ 100K • 👍 7K • 💬 449 • ⏱️ 0:57 • 1d ago
+📺 MS NOW
 
----
-
-**[DC Used AI For Supergirl…](https://www.youtube.com/watch?v=szprp4wDOTk)**
-
-In this video, we learn DC revealed they used AI for Supergirl… Follow Me On Social Media: Instagram: @therealdoomblazer ...
-
-📺 DoomBlazer
-
-👁️ 185K • 👍 18K • 💬 1K • ⏱️ 2:27 • 2d ago
+👁️ 412K • 👍 7K • 💬 1K • ⏱️ 20:18 • 1d ago
 
 ---
 
-**[AI Map Pulled From Schools](https://www.youtube.com/watch?v=xHv-CP8WdLY)**
+**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
 
-Despite mom Stacey Morris emailing the school, she never got a response. It wasn't until WDRB reached out that school ...
+📺 Onevilage
 
-📺 NowThis Impact
-
-👁️ 686K • 👍 47K • 💬 4K • ⏱️ 1:10 • 2d ago
+👁️ 1.3M • 👍 32K • 💬 834 • ⏱️ 0:46 • 2d ago
 
 ---
 
@@ -403,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 10,176 • 2d ago
+⬇️ 267,725 • ❤️ 10,228 • 2d ago
 
 ---
 
@@ -415,7 +417,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 292,973 • ❤️ 1,616 • 5d ago
+⬇️ 292,973 • ❤️ 1,622 • 5d ago
 
 ---
 
@@ -427,7 +429,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 1,945,635 • ❤️ 1,410 • 1d ago
+⬇️ 1,945,635 • ❤️ 1,426 • 1d ago
 
 ---
 
@@ -439,7 +441,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 7,932 • ❤️ 1,002 • 4d ago
+⬇️ 7,932 • ❤️ 1,003 • 4d ago
 
 ---
 
@@ -451,7 +453,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 1,000 • 8h ago
+⬇️ 424,099 • ❤️ 1,008 • 8h ago
 
 ---
 
@@ -463,7 +465,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 813 • 2d ago
+⬇️ 8,639 • ❤️ 826 • 2d ago
 
 ---
 
@@ -475,7 +477,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,307,541 • ❤️ 4,017 • 3d ago
+⬇️ 2,307,541 • ❤️ 4,021 • 3d ago
 
 ---
 
@@ -487,7 +489,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 21,873 • ❤️ 525 • 3d ago
+⬇️ 21,873 • ❤️ 526 • 3d ago
 
 ---
 
@@ -499,7 +501,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 352,971 • ❤️ 469 • 2d ago
+⬇️ 352,971 • ❤️ 473 • 2d ago
 
 ---
 
@@ -553,7 +555,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 98,394 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,488 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -671,7 +673,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 10.9k • 🔱 1.1k • 19h ago
+⭐ 11.1k • 🔱 1.2k • 20h ago
 
 ---
 
@@ -691,7 +693,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.2k • 🔱 449 • 2d ago
+⭐ 5.2k • 🔱 450 • 2d ago
 
 ---
 
@@ -699,7 +701,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 529 • 8d ago
+⭐ 4.0k • 🔱 528 • 8d ago
 
 ---
 

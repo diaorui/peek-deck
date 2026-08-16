@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T20:21:49.162837+00:00'
+updated: '2026-08-16T20:47:53.135531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 20:21 UTC  
+**Last Updated:** August 16, 2026 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.2%  
-**30d:** -2.5%  
-**90d:** -17.7%  
-**1y:** -46.2%  
+**24h:** -0.1%  
+**7d:** -1.4%  
+**30d:** -2.7%  
+**90d:** -17.9%  
+**1y:** -46.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1266.75B
+**Market Cap:** $1264.86B
 Rank #1
 
-**Circulating Supply:** 20,071,103 BTC
+**Circulating Supply:** 20,071,150 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.9%
+-50.0%
 
 **All-Time Low:** $67.81
-+92973.3%
++92836.1%
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
-
-16h ago
-
----
-
 **[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
 
 https://satoshitimeline.com/854
 
-3h ago
+4h ago
+
+---
+
+**[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
+
+17h ago
+
+---
+
+**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
+
+4h ago
 
 ---
 
@@ -95,7 +101,7 @@ https://satoshitimeline.com/854
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +109,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +119,9 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 ---
 
-**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
+**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
+
+I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
 3h ago
 
@@ -121,7 +129,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -136,14 +144,6 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
 
 16h ago
-
----
-
-**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
-
-I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
-
-2h ago
 
 ---
 
@@ -177,7 +177,7 @@ finance.yahoo.com • 1h ago
 
 **[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 1d ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 4h ago
+Benzinga • 5h ago
 
 ---
 
@@ -279,7 +279,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 220 • ⏱️ 16:15 • 9h ago
+👁️ 51K • 👍 4K • 💬 253 • ⏱️ 16:15 • 10h ago
 
 ---
 
@@ -289,65 +289,7 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 163 • ⏱️ 16:33 • 1d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 434 • 💬 22 • ⏱️ 55:12 • 1d ago
-
----
-
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 40K • 👍 604 • 💬 15 • ⏱️ 0:53 • 2d ago
-
----
-
-**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
-
-Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
-
-📺 Thinking Crypto
-
-👁️ 490 • 👍 34 • 💬 38 • ⏱️ 2:18 • 4h ago
-
----
-
-**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
-
-Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
-
-📺 VoskCoin
-
-👁️ 211 • 👍 30 • 💬 5 • ⏱️ 12:52 • 2h ago
-
----
-
-**[I LOST BITCOIN DOING EVERYTHING RIGHT](https://www.youtube.com/watch?v=pJWkk0_H9Kg)**
-
-Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing covering price structure, ETF flows, on-chain signals, ...
-
-📺 Bitcoin Unleashed with Oliver Velez
-
-👁️ 2K • 👍 125 • 💬 43 • ⏱️ 8:30 • 1d ago
-
----
-
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
-
-📺 Andrei Jikh
-
-👁️ 73K • 👍 1K • 💬 35 • ⏱️ 0:54 • 1d ago
+👁️ 23K • 👍 2K • 💬 180 • ⏱️ 16:33 • 1d ago
 
 ---
 
@@ -361,13 +303,73 @@ Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing cov
 
 ---
 
-**[Bitcoin Whale Watching](https://www.youtube.com/watch?v=3f7iDFfYAeg)**
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
 
-It is time for some Bitcoin whale watching! Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 11K • 👍 448 • 💬 22 • ⏱️ 55:12 • 1d ago
+
+---
+
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 4K • 💬 149 • ⏱️ 15:07 • 2d ago
+👁️ 41K • 👍 614 • 💬 15 • ⏱️ 0:53 • 2d ago
+
+---
+
+**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
+
+Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
+
+📺 VoskCoin
+
+👁️ 1K • 👍 93 • 💬 18 • ⏱️ 12:52 • 2h ago
+
+---
+
+**[Bitcoin Whale Activity Scores](https://www.youtube.com/watch?v=3fNCWOnJQOk)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 4K • 👍 117 • 💬 3 • ⏱️ 1:00 • 22h ago
+
+---
+
+**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+
+Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+
+📺 Thinking Crypto
+
+👁️ 798 • 👍 41 • 💬 27 • ⏱️ 2:18 • 5h ago
+
+---
+
+**[Bitcoin Is About to Leave You Behind — Why This Could Be Your Last Shot!](https://www.youtube.com/watch?v=425hfplZ6qo)**
+
+Bitcoin is back near its historic 200-week moving average as volatility collapses, ETF flows turn positive and the AI capital boom ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 2K • 💬 324 • ⏱️ 18:25 • 2d ago
+
+---
+
+**[I LOST BITCOIN DOING EVERYTHING RIGHT](https://www.youtube.com/watch?v=pJWkk0_H9Kg)**
+
+Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing covering price structure, ETF flows, on-chain signals, ...
+
+📺 Bitcoin Unleashed with Oliver Velez
+
+👁️ 2K • 👍 128 • 💬 43 • ⏱️ 8:30 • 1d ago
 
 ---
 
