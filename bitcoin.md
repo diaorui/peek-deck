@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T08:29:19.471903+00:00'
+updated: '2026-08-16T08:58:35.676366+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 08:29 UTC  
+**Last Updated:** August 16, 2026 at 08:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
 
-9h ago
+10h ago
 
 ---
 
 **[The Coldcard hacker seeing the 0.00042069 BTC in my wallet](https://www.reddit.com/r/Bitcoin/comments/1vp5r36/the_coldcard_hacker_seeing_the_000042069_btc_in/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Yes.](https://www.reddit.com/r/Bitcoin/comments/1vpndtb/yes/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Rank #1
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 12h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 13h ago
 
 ---
 
@@ -151,9 +151,9 @@ Posts on that subreddit are genuinely in confusion this week at how the price ha
 
 ## Google News: "bitcoin"
 
-**[Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city](https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city)**
+**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options)**
 
-The Energy Ministry enacted the year-round restriction to mitigate power-capacity shortages as energy-intensive mining facilities continue to strain regional grids.
+Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
 CoinDesk • 17h ago
 
@@ -163,7 +163,7 @@ CoinDesk • 17h ago
 
 UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ Mashable • 2d ago
 
 Homeowners in Somerville have spent months attempting to identify the companies behind a planned 50-megawatt Bitcoin mining facility on Union Road. Their research has led them to a network of corporate entities connected to a Texas man.
 
-WAFF • 1d ago
+waff.com • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ Inflation cooled in July but the Bitcoin price still dropped. Here is who is sel
 
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
-Investing.com • 22h ago
+Investing.com • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 

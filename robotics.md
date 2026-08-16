@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T08:29:19.481436+00:00'
+updated: '2026-08-16T08:58:35.685667+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 08:29 UTC  
+**Last Updated:** August 16, 2026 at 08:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-11h ago
+12h ago
 
 ---
 
@@ -142,7 +142,7 @@ CNBC • 2d ago
 
 **[America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.](https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html)**
 
-nytimes.com • 2d ago
+The New York Times • 2d ago
 
 ---
 
@@ -150,7 +150,7 @@ nytimes.com • 2d ago
 
 Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
 
-Medscape • 1d ago
+medscape.com • 1d ago
 
 ---
 
@@ -178,15 +178,17 @@ Live Science • 2d ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
-
-South Tahoe Now • 1d ago
-
----
-
 **[Serve Robotics upgraded to Buy as valuation turns attractive (SERV:NASDAQ)](https://seekingalpha.com/news/4633406-serve-robotics-upgraded-to-buy-as-valuation-turns-attractive)**
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Robotics & AI Global Showcase 2026 Brings Robotics, AI & Investment Leaders to Silicon Valley](https://www.wboc.com/online_features/press_releases/robotics-ai-global-showcase-2026-brings-robotics-ai-investment-leaders-to-silicon-valley/article_73ab981f-b864-5004-932b-f3acf03efe9d.html)**
+
+Just another WordPress site
+
+WBOC TV • 21h ago
 
 ---
 

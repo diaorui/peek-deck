@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T08:29:19.478123+00:00'
+updated: '2026-08-16T08:58:35.682468+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 08:29 UTC  
+**Last Updated:** August 16, 2026 at 08:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -214,19 +214,23 @@ Grayscale • 2d ago
 
 ---
 
-**[Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields](https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312)**
-
-Researchers recently filed EIP-8361, a "tapered issuance burn" that destroys a growing share of validator rewards as the staking ratio rises.
-
-The Block • 3d ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
 Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
+
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
+
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 2d ago
 
 ---
 
