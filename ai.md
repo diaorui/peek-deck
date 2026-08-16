@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T10:48:56.747520+00:00'
+updated: '2026-08-16T11:20:08.831604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 10:48 UTC  
+**Last Updated:** August 16, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ A 25-year-old Goldman Sachs financial analyst, who had troubling conversations w
 
 “I’m gonna kill her by the end of this month,” he wrote in one of the messages.
 
-🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 20h ago
+🔗 [Miami Herald](https://www.miamiherald.com/news/local/crime/article316885205.html#storylink=mainstage_card) • 21h ago
 
 ---
 
@@ -81,7 +81,7 @@ Earlier this month, Anthropic announced that it was adding invisible text waterm
 
 the tell with every autonomous agent is the same. output is competent, voice is completely generic. and the two fixes both suck: finetune a model on your own writing (expensive, slow, locked to one vendor) or paste "write in a casual tone" into a system prompt, which makes you sound exactly like everyone else who typed that sentence. aeon's take on it is a thing called soul.md, basically a personality spec in plain markdown. identity and worldview, real opinions including contradictory ones (which is the part i think actually matters, real people hold inconsistent views), a separate style.md for sentence rhythm and vocabulary, a memory.md so it carries across sessions, and example outputs to anchor it. clip's them building one around elon as a test case, which is a funny way to prove it works since you'd notice immediately if it didn't. what gets me is it's portable. it's markdown, so it isn't tied to a model or a vendor, you just hand the same file to whatever you're running.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ the tell with every autonomous agent is the same. output is competent, voice is 
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Over the course of a few weeks, I started seeing things that went way beyond nor
 
 the first study is government systems and finding out which ones are more effective, second is political ideologies and which one is better overall (prosperity, hdi index, etc), and third homelessness in Wisconsin (simulations of what's the best outcome).
 
-2h ago
+3h ago
 
 ---
 
@@ -123,19 +123,19 @@ Je me suis demandé, mais enfait, les développeurs ne vont pas ètre remplacé,
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-nytimes.com • 1h ago
+nytimes.com • 2h ago
 
 ---
 
 **[Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
 **[How AI could bring Mayo-quality health care to everyone](https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 48m ago
 
 Researchers, psychologists, and bioethicists agree: a good conversation with a bot still isn't the same as being known by another person
 
-Fortune • 38m ago
+Fortune • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fortune • 38m ago
 
 Northeastern University and Endicott College are among schools introducing degrees in AI.
 
-The Boston Globe • 44m ago
+The Boston Globe • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 1d ago
 
 Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ BBC • 23h ago
 
 The draft letter is addressed to the 35 signatories of a U.S. "AI Opportunity Statement" signed in June.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 11h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 505 • 💬 425 • 16h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 505 • 💬 425 • 17h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -447,7 +447,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 8,639 • ❤️ 791 • 1d ago
+⬇️ 8,639 • ❤️ 791 • 2d ago
 
 ---
 
@@ -693,7 +693,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 545 • 18h ago
+⭐ 3.1k • 🔱 545 • 19h ago
 
 ---
 
@@ -713,7 +713,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 2h ago
+⭐ 2.5k • 🔱 195 • 3h ago
 
 ---
 
@@ -723,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 173 • 22h ago
+⭐ 2.2k • 🔱 173 • 23h ago
 
 ---
 

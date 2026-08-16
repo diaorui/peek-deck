@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T10:48:56.756300+00:00'
+updated: '2026-08-16T11:20:08.840414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 10:48 UTC  
+**Last Updated:** August 16, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,13 +103,13 @@ Rank #1
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-1h ago
+2h ago
 
 ---
 
 **[I am all out of fiat](https://www.reddit.com/r/Bitcoin/comments/1vp6tq7/i_am_all_out_of_fiat/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -125,7 +125,7 @@ Before the hack their marketing frontpage (using last snapshot pre hack event, J
 
 > 1.571M BTC lost via self-custody > 1.51M BTC lost on exchanges 2011: 2,000 BTC stolen from Mt. Gox → 99.9% price dump 2026: 1,596 BTC stolen in COLDCARD Wallet exploit → only 1.4% price dump
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ Before the hack their marketing frontpage (using last snapshot pre hack event, J
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 14h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options) • 15h ago
 
 ---
 
@@ -153,7 +153,7 @@ It’s been 10 year of stacking. Just over 10BTC. With an average buy price righ
 
 Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -177,7 +177,7 @@ Moomoo • 3h ago
 
 ChatGPT, Claude, and Grok all called Bitcoin a buy at current prices, but not one of them would say the bottom is in, and their worst-case targets reveal a sharp split over how far this could still fall.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 365 • 💬 14 • ⏱️ 55:12 • 16h ago
+👁️ 8K • 👍 365 • 💬 14 • ⏱️ 55:12 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ This is how to solar power 1, 5, or 10 Bitcoin miners, and this is 100% offset w
 
 📺 VoskCoin
 
-👁️ 4K • 👍 207 • 💬 19 • ⏱️ 15:27 • 18h ago
+👁️ 4K • 👍 207 • 💬 19 • ⏱️ 15:27 • 19h ago
 
 ---
 
