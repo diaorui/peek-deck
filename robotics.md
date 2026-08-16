@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T05:28:25.698099+00:00'
+updated: '2026-08-16T05:55:21.657206+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 05:28 UTC  
+**Last Updated:** August 16, 2026 at 05:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-17h ago
+18h ago
 
 ---
 
@@ -232,7 +232,7 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 📺 DEEP Robotics
 
-👁️ 28K • 👍 110 • 💬 13 • ⏱️ 0:18 • 3d ago
+👁️ 28K • 👍 110 • 💬 13 • ⏱️ 0:18 • 4d ago
 
 ---
 
@@ -262,7 +262,7 @@ Spotted a humanoid robot outside Figure AI headquarters in Silicon Valley. The f
 
 📺 Страна Возможностей
 
-👁️ 54K • 👍 332 • 💬 90 • ⏱️ 0:22 • 1d ago
+👁️ 54K • 👍 332 • 💬 90 • ⏱️ 0:22 • 2d ago
 
 ---
 
