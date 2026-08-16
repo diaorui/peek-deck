@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T03:48:23.433813+00:00'
+updated: '2026-08-16T04:35:37.675335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 03:48 UTC  
+**Last Updated:** August 16, 2026 at 04:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,15 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
 **[Kiln Staking Withdrawal](https://www.reddit.com/r/ethereum/comments/1vpa136/kiln_staking_withdrawal/)**
 
-Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it. https://etherscan.io/nft/0x8d6fd650500f82c7d978a440348e5a9b886943bf/36359170905502274821061593240296846173539786
+Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 11h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 1d ago
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 336 • 👍 36 • 💬 3 • ⏱️ 18:05 • 1h ago
+👁️ 336 • 👍 36 • 💬 3 • ⏱️ 18:05 • 2h ago
 
 ---
 
@@ -254,7 +254,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 18h ago
+👁️ 5K • 👍 519 • 💬 125 • ⏱️ 34:25 • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 789 • 💬 220 • ⏱️ 17:49 • 16h ago
+👁️ 7K • 👍 789 • 💬 220 • ⏱️ 17:49 • 17h ago
 
 ---
 
