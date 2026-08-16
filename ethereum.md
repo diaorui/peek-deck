@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-16T12:38:32.876031+00:00'
+updated: '2026-08-16T13:31:25.425029+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 12:38 UTC  
+**Last Updated:** August 16, 2026 at 13:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-18h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 20h ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 21h ago
 
 ---
 
@@ -144,7 +144,7 @@ Heya folks, interested if there's anyone here that's still actively using Maker 
 
 Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
 
-2d ago
+3d ago
 
 ---
 
@@ -160,9 +160,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-12-000-tom-135215459.html)**
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
 
-Tom Lee remains bullish on risk assets, arguing that strong earnings and cash left on the sidelines could extend the market rally. The fresh calls ...
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
 
 Yahoo Finance • 2d ago
 
@@ -176,11 +176,27 @@ CryptoSlate • 1d ago
 
 ---
 
+**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
+
+The world's largest corporate holder of Ether continues to buy more tokens.
+
+The Motley Fool • 1d ago
+
+---
+
 **[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
 
 Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
 
 Decrypt • 1d ago
+
+---
+
+**[Ethereum: Double Dip Pattern Mirrors 2025 Rally](https://blockchain.news/flashnews/ethereum-double-dip-pattern-mirrors-2025-rally)**
+
+Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
+
+blockchain.news • 6h ago
 
 ---
 
@@ -192,41 +208,23 @@ Benzinga • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://www.fool.com/investing/2026/08/15/tom-lees-bitmine-continues-to-buy-ethereum-now-hol/)**
-
-The world's largest corporate holder of Ether continues to buy more tokens.
-
-fool.com • 1d ago
-
----
-
-**[Ethereum: Double Dip Pattern Mirrors 2025 Rally](https://blockchain.news/flashnews/ethereum-double-dip-pattern-mirrors-2025-rally)**
-
-Ethereum forms Double Dip on 3-day chart matching 2025 surge, trading at $1881.6 with neutral RSI and bullish MACD on 4h.
-
-blockchain.news • 5h ago
-
----
-
 **[Ethereum ETF Bucks Price Slump as Grayscale Mini Trust Attracts Fresh Inflows](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-bucks-price-slump-as-grayscale-mini-trust-attracts-fresh-inflows)**
 
 Ethereum inflows are quietly reshaping the crypto ETF landscape, as Grayscale Ethereum Mini Trust (ETH) posted a fresh cash injection this week. The fund, trading u...
 
-TipRanks • 1h ago
+TipRanks • 2h ago
+
+---
+
+**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
+
+CCN.com • 2d ago
 
 ---
 
 **[The Stack](https://www.grayscale.com/the-stack/ethereum-and-solana-tokenomics-under-review)**
 
-grayscale.com • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
-
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
-
-Yahoo Finance • 2d ago
+Grayscale • 2d ago
 
 ---
 
@@ -250,7 +248,7 @@ BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 5K • 👍 210 • 💬 105 • ⏱️ 18:05 • 10h ago
+👁️ 5K • 👍 210 • 💬 105 • ⏱️ 18:05 • 11h ago
 
 ---
 
@@ -260,7 +258,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 33K • 👍 2K • 💬 143 • ⏱️ 8:55 • 2d ago
+👁️ 33K • 👍 2K • 💬 143 • ⏱️ 8:55 • 3d ago
 
 ---
 
