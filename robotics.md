@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T19:44:28.013978+00:00'
+updated: '2026-08-16T20:21:49.171102+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 19:44 UTC  
+**Last Updated:** August 16, 2026 at 20:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Doggo is chill and calm in the simulation, but in real life, he's having uncontr
 
 Got 6x new Sony FCB-EV9520L blocks and 40x driver board pairs from a surplus project. Anyone here building custom ROVs or gimbals? Wy dont now what do now we need help thanks
 
-2h ago
+3h ago
 
 ---
 
@@ -68,7 +68,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 12h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 13h ago
 
 ---
 
@@ -76,7 +76,7 @@ Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea 
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-22h ago
+23h ago
 
 ---
 
@@ -84,7 +84,7 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-23h ago
+1d ago
 
 ---
 
@@ -120,29 +120,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 3h ago
-
----
-
-**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
-
-South China Morning Post • 15h ago
-
----
-
-**[Lift Happens. Or Maybe Not. Watch the Flameouts at This DARPA Challenge](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)**
-
-Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
-
-IEEE Spectrum • 5h ago
-
----
-
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
-
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
-
-NASA (.gov) • 2d ago
+Fox News • 4h ago
 
 ---
 
@@ -154,11 +132,25 @@ CNBC • 2d ago
 
 ---
 
-**[Pablo Center in Eau Claire hosts 3rd annual Leviathan Robotics Rampage](https://www.yahoo.com/news/us/articles/pablo-center-eau-claire-hosts-153216919.html)**
+**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
 
-EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
+South China Morning Post • 16h ago
 
-Yahoo • 4h ago
+---
+
+**[Lift Happens. Or Maybe Not. Watch the Flameouts at This DARPA Challenge](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)**
+
+Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
+
+spectrum.ieee.org • 5h ago
+
+---
+
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+
+NASA (.gov) • 2d ago
 
 ---
 
@@ -166,7 +158,15 @@ Yahoo • 4h ago
 
 Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-interestingengineering.com • 1d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[Pablo Center in Eau Claire hosts 3rd annual Leviathan Robotics Rampage](https://www.yahoo.com/news/us/articles/pablo-center-eau-claire-hosts-153216919.html)**
+
+EAU CLAIRE, Wis. (WLAX/WEUX) – The Pablo Center in Eau Claire hosted its 3rd annual Leviathan Robotics Rampage, an off-season FIRST Robotics competition for high school students in the region. Student...
+
+Yahoo • 4h ago
 
 ---
 
@@ -184,9 +184,11 @@ New Atlas • 2d ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+**[Teams increase 138% as World Humanoid Robot Games expands scale and influence](https://www.globaltimes.cn/page/202608/1368304.shtml)**
 
-South Tahoe Now • 1d ago
+The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
+
+Global Times • 16h ago
 
 ---
 

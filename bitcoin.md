@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T19:44:28.004527+00:00'
+updated: '2026-08-16T20:21:49.162837+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 19:44 UTC  
+**Last Updated:** August 16, 2026 at 20:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 I believe keeping cryptocurrency on centralized exchanges is actually a solid choice. The barrier to entry for cold storage and hardware wallets is extremely high, and a single moment of carelessness can leave you vulnerable to hackers or costly mistakes. Just look at the recent on-chain transaction where a user lost a fortune due to a massive fat-finger error on gas fees. I know the counterargument: people always bring up Mount Gox and early exchange hacks. But much like traditional banks in their early days, exchanges had growing pains. Today’s major platforms are vastly more mature in their asset custody and security infrastructure than they were years ago. Even if you take a more hardcore approach and use open-source software to build or manage your wallet, the risk of theft remains. Open-source does not automatically make software immune to exploits—after all, how many people on this planet actually have the technical expertise to audit that code and catch subtle vulnerabilities? For the vast majority of users, letting a modern, well-capitalized exchange secure your assets is simply the more practical choice.
 
-15h ago
+16h ago
 
 ---
 
@@ -151,11 +151,11 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 ## Google News: "bitcoin"
 
-**[Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options](https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options)**
+**[The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets](https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets)**
 
-Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.
+Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.
 
-CoinDesk • 1d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -163,15 +163,15 @@ CoinDesk • 1d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
-**[Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html)**
+**[Bitcoin Has Never Faced Global Bond Yields This High Since It Was Born](https://finance.yahoo.com/markets/crypto/articles/bitcoin-never-faced-global-bond-185854880.html)**
 
-Bitcoin miners were supposed to track bitcoin, but the biggest names in the space have quietly rewired their business models around something else entirely, and the performance gap between the coin and its miners has never been wider.
+Global bond yields hit 2008 highs, a level Bitcoin never traded through. Gold gained 32% while BTC lost 46%.
 
-Yahoo Finance • 1h ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -197,27 +197,25 @@ Benzinga • 4h ago
 
 ---
 
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+finance.yahoo.com • 2d ago
+
+---
+
+**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
+
+Investing.com • 1d ago
+
+---
+
 **[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
 
 Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
 
 24/7 Wall St. • 1d ago
-
----
-
-**[Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets](https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html)**
-
-Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown](https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown)**
-
-Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as BTC retraces last week's gains and altcoins struggle to find direction.
-
-CoinDesk • 2d ago
 
 ---
 
@@ -245,7 +243,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 2d ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 3d ago • [Second](https://second.tech/)
 
 ---
 
@@ -331,7 +329,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 211 • 👍 30 • 💬 5 • ⏱️ 12:52 • 1h ago
+👁️ 211 • 👍 30 • 💬 5 • ⏱️ 12:52 • 2h ago
 
 ---
 
@@ -341,7 +339,7 @@ Every Sunday I publish the Bitcoin Intelligence Report — a weekly briefing cov
 
 📺 Bitcoin Unleashed with Oliver Velez
 
-👁️ 2K • 👍 125 • 💬 43 • ⏱️ 8:30 • 23h ago
+👁️ 2K • 👍 125 • 💬 43 • ⏱️ 8:30 • 1d ago
 
 ---
 
