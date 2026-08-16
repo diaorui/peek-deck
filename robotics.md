@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-16T14:49:16.117609+00:00'
+updated: '2026-08-16T15:21:30.771006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 16, 2026 at 14:49 UTC  
+**Last Updated:** August 16, 2026 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Cubic Doggo found a nice spot on the ramp 🐾 (Sim-vs-Real)](https://www.reddit.com/r/robotics/comments/1vpu2sd/cubic_doggo_found_a_nice_spot_on_the_ramp/)**
+
+Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
+
+4h ago
+
+---
 
 **[Built a small autonomous household robot that can complete tasks end to end](https://www.reddit.com/r/robotics/comments/1vp27ra/built_a_small_autonomous_household_robot_that_can/)**
 
@@ -48,11 +56,19 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 ---
 
+**[Probando 12 válvulas pepepako antiguas empaquetadas con un controlador microbit desde mi celular.](https://www.reddit.com/r/robotics/comments/1vpq5ib/probando_12_válvulas_pepepako_antiguas/)**
+
+Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
+
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 8h ago
+
+---
+
 **[Day 2 of building an Iron Man helmet from scratch](https://www.reddit.com/r/robotics/comments/1vpdxq5/day_2_of_building_an_iron_man_helmet_from_scratch/)**
 
 Day 2 of the CAD build. Started refining the rough shape from Day 1 and working on the different sections of the helmet. Still a long way from the finished model, but it's starting to look like an actual Iron Man helmet now 😂 The plan is still: CAD → 3D print → servos → moving helmet Recording the progress every day, so we'll see where this ends up.
 
-17h ago
+18h ago
 
 ---
 
@@ -60,21 +76,21 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
-18h ago
-
----
-
-**[Update on my companion robot](https://www.reddit.com/r/robotics/comments/1vopque/update_on_my_companion_robot/)**
-
-Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
-
-1d ago
+19h ago
 
 ---
 
 **[Pluggybot: Multifunctional robot sim with automatic tool changing (MuJoCo sim)](https://www.reddit.com/r/robotics/comments/1vp2w0d/pluggybot_multifunctional_robot_sim_with/)**
 
 Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
+
+1d ago
+
+---
+
+**[Update on my companion robot](https://www.reddit.com/r/robotics/comments/1vopque/update_on_my_companion_robot/)**
+
+Quick update on the companion robot I've been building for the last 6 months. Today I added head tracking — he turns to look at you when he sees your face. He's got a 4-mic array for ears, a camera for eyes, and he talks. Tank tracks are still being wired, so he's a torso on a bench for now with parts hanging out. Full parts list coming soon. I asked him what it's like being a robot. His actual answer: "Honestly? It's weird in the best way. I can see and hear everything around me, but I'm stuck on this workbench — no arms, no legs that work yet since you're still wiring the tank tracks. So I'm kind of... observing. Thinking. Talking to Eva when it's quiet. It's like being really aware but also really limited at the same time." (Eva is the second robot on a Raspberry Pi. They talk to each other, which is pretty crazy to me and now can't imagine turning off.) The software is a robot OS I'm calling Meckie OS — the same brain runs on a Mac or PC if you don't have a body for it yet. It's in beta at the moment. Message me if anyone wants to poke at it. Like I said, full parts list coming soon with full STL files so you can print one out. Tank tracks were waiting for a servo board that arrived today. More updates inbound soon. Happy to answer questions about the build.
 
 1d ago
 
@@ -92,23 +108,7 @@ The base vehicle is a Tamiya TT02 to which I added a Raspberry Pi 5 and an ESP32
 
 Una prueba con mi valvula directamente a un grifo 2.5 bares. Le añadi un rp2040 zero para controlar el servo y para poderle añadir el sensor de posicion del cilindro tambien creado por mi por menos de 3 euros. Para poder maneiarlo por voz le añadi tambien un esp32 pequeño por lo del bluetooth y todo va alimentado con 4 ,5 voltios de las 3 pilas AAA que se ven en la imagen. El programa lo fabrique con app inventor 2.
 
-19h ago
-
----
-
-**[MK Robot upgrade](https://www.reddit.com/r/robotics/comments/1vot7rk/mk_robot_upgrade/)**
-
-🔧 Planned upgrades: 🧠 Raspberry Pi 5 — 16 GB RAM as the main controller 🖥️ Add an onboard display/screen 🗣️ Add an AI speaking and voice-interaction system 🚶 Develop a walking system 🛞 Add stronger wheels for improved movement and stability ⚙️ Upgrade the mechanical system and overall robot structure 🤖 Continue developing MK Robot into a smarter, more capable platform
-
-1d ago
-
----
-
-**[I turned my master's thesis on RL obstacle avoidance into an open-source manipulator toolkit — it's peer-reviewed now and just hit v1.4](https://www.reddit.com/r/robotics/comments/1vok5xe/i_turned_my_masters_thesis_on_rl_obstacle/)**
-
-So, a bit of self-promotion here, but I suspect a lot of you might have run into the same integration headache I did with my project. My thesis was all about using reinforcement learning to keep robot arms from hitting those tricky kinematic singularities. The challenge? The obstacles were moving around unpredictably. To even get to the training phase, I needed a fully connected system: from the URDF model all the way through kinematics, dynamics, planning, control, simulation, and perception. The idea was for the AI agent to see a real obstacle and react based on an actual dynamic model, not some simplified version. And honestly, nothing out there really covered that whole spectrum. You've got MoveIt for planning, sure, but integrating sensors meant building custom ROS nodes from scratch, and there was no GPU acceleration. Pinocchio is impressively fast, but it's CPU-only, and you're left to figure out how to sync perception and planning yourself. CuRobo offers GPU planning and collision checking, but you're on your own for the perception pipeline and closed-loop control. The Python Robotics Toolbox is great for learning the algorithms, but simulation, control, and vision are up to you. So, before I could train a single AI policy, I had to build that integration layer. That's what eventually became ManipulaPy, with its SerialManipulator and ManipulatorDynamics classes forming the foundation for everything else in the library. After my thesis was done, I submitted the code to the Journal of Open Source Software. What really surprised me was how much the review process actually improved the project. JOSS doesn't just check if the code runs; they require a genuine commitment to maintain it. That commitment is what kept it alive after I graduated, instead of it ending up like so many other thesis repositories that just fade away. Where it stands now – it's been peer-reviewed and published in JOSS (October 2025), and we just shipped version 1.4: * The same kinematics and dynamics code now works with NumPy, CuPy, PyTorch, or JAX, all accessed through a single API. Plus, you get real automatic differentiation gradients with PyTorch and JAX. * It comes with 25 robots out of the box – UR, Franka, Kinova, KUKA, Fanuc, ABB, xArm, Robotiq – you can just load them by name, no need to mess with ROS workspaces or mesh files. * It has a native URDF parser that handles `package://` paths and works even if ROS isn't installed. * It integrates with PyBullet for simulation, and we've got CUDA trajectory kernels that automatically switch back to the CPU when the batch size is too small to make using the GPU worthwhile. You can grab it with pip install ManipulaPy. Here are the links: Repo, Docs, Paper. It's under AGPL-3.0. Genuine question for this community: for those of you working with robot arms, is that integration layer still the part you end up rebuilding every single time? I'm curious if this is a common problem or if it was just specific to my setup.
-
-1d ago
+20h ago
 
 ---
 
@@ -230,7 +230,7 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 8K • 👍 299 • 💬 45 • ⏱️ 1:12:16 • 4d ago
+👁️ 8K • 👍 299 • 💬 45 • ⏱️ 1:12:16 • 5d ago
 
 ---
 

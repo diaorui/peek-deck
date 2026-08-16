@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-16T14:49:16.099473+00:00'
+updated: '2026-08-16T15:21:30.752960+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 16, 2026 at 14:49 UTC  
+**Last Updated:** August 16, 2026 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -97,7 +97,7 @@ Via WSJ Apple is reportedly testing chips from CXMT and YMTC for devices sold in
 
 Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job. Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselves on from bugs. So the guy is standing on stage telling investors ai is the future of advertising while the product turns dresses into trousers and its not just meta looking rough rn,wired ran a piece on backlash from people getting annoyed at mcdonald's and cocacola for slapping ai visuals into their ads and a gallup poll in the same piece found almost half of americans under 30 think gen ai does more harm than good at this point. Google also has started slapping ai labels on ads across search, youtube and snapchat has stopped showing fully ai generated content in discovery. Last but not the least NY made it a legal requirement to label ai people in ads now. Is this the new Metaverse?
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Over the course of a few weeks, I started seeing things that went way beyond nor
 
 the tell with every autonomous agent is the same. output is competent, voice is completely generic. and the two fixes both suck: finetune a model on your own writing (expensive, slow, locked to one vendor) or paste "write in a casual tone" into a system prompt, which makes you sound exactly like everyone else who typed that sentence. aeon's take on it is a thing called soul.md, basically a personality spec in plain markdown. identity and worldview, real opinions including contradictory ones (which is the part i think actually matters, real people hold inconsistent views), a separate style.md for sentence rhythm and vocabulary, a memory.md so it carries across sessions, and example outputs to anchor it. clip's them building one around elon as a test case, which is a funny way to prove it works since you'd notice immediately if it didn't. what gets me is it's portable. it's markdown, so it isn't tied to a model or a vendor, you just hand the same file to whatever you're running.
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ the tell with every autonomous agent is the same. output is competent, voice is 
 
 **[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 5h ago
 
 Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 6h ago
 
 Even when AI-generated material doesn't depict real children, the harm remains significant, according to the Canadian Centre for Child Protection.
 
-cbc.ca • 14m ago
+cbc.ca • 46m ago
 
 ---
 
@@ -147,7 +147,7 @@ cbc.ca • 14m ago
 
 View this career journey as an odyssey; your college student’s courage and curiosity will overcome challenges and lead to wonderful adventures.
 
-Psychology Today • 31m ago
+Psychology Today • 1h ago
 
 ---
 
@@ -159,19 +159,19 @@ Axios • 4h ago
 
 **[Big Manufacturers Find New Demand in Equipping AI Data Centers](https://www.wsj.com/business/big-manufacturers-find-new-demand-in-equipping-ai-data-centers-14e869ee)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
 **[The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center](https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
 **[With A.I. Riches at Stake, Pressures Mount to Share the Wealth](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 16h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 533 • 💬 460 • 20h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 533 • 💬 460 • 21h ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -247,13 +247,13 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 159 • 💬 84 • 19h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 159 • 💬 84 • 20h ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
 **[Text AI watermarks will always be trivial to remove](https://news.ycombinator.com/item?id=49287153)**
 
-⬆️ 145 • 💬 189 • 2d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
+⬆️ 145 • 💬 189 • 3d ago • [seangoedecke.com](https://www.seangoedecke.com/text-ai-watermarks/)
 
 ---
 
@@ -283,7 +283,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 210K • 👍 10K • 💬 1K • ⏱️ 15:53 • 21h ago
+👁️ 210K • 👍 10K • 💬 1K • ⏱️ 15:53 • 22h ago
 
 ---
 
@@ -303,7 +303,7 @@ Boost your online protection with an all-in-one security app! Get an exclusive N
 
 📺 Sabine Hossenfelder
 
-👁️ 154K • 👍 9K • 💬 4K • ⏱️ 6:52 • 2d ago
+👁️ 154K • 👍 9K • 💬 4K • ⏱️ 6:52 • 3d ago
 
 ---
 
@@ -313,7 +313,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 61K • 👍 3K • 💬 287 • ⏱️ 34:05 • 1d ago
+👁️ 61K • 👍 3K • 💬 287 • ⏱️ 34:05 • 2d ago
 
 ---
 
@@ -351,7 +351,7 @@ Motu Patlu Found a Giant Shoe Motu and Patlu were walking through the jungle whe
 
 📺 MrBhola-Al
 
-👁️ 84K • 👍 2K • 💬 14 • ⏱️ 0:28 • 10h ago
+👁️ 84K • 👍 2K • 💬 14 • ⏱️ 0:28 • 11h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 267,725 • ❤️ 10,070 • 1d ago
+⬇️ 267,725 • ❤️ 10,070 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 424,099 • ❤️ 982 • 2h ago
+⬇️ 424,099 • ❤️ 982 • 3h ago
 
 ---
 
@@ -643,7 +643,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.7k • 🔱 1.6k • 17h ago
+⭐ 13.7k • 🔱 1.6k • 18h ago
 
 ---
 
@@ -691,7 +691,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.1k • 🔱 544 • 38m ago
+⭐ 3.1k • 🔱 544 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.8k • 🔱 229 • 4d ago
+⭐ 2.8k • 🔱 229 • 5d ago
 
 ---
 
@@ -711,7 +711,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 195 • 6h ago
+⭐ 2.5k • 🔱 195 • 7h ago
 
 ---
 
@@ -731,7 +731,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 277 • 56m ago
+⭐ 2.1k • 🔱 277 • 1h ago
 
 ---
 
