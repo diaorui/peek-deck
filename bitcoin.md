@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T20:55:08.972678+00:00'
+updated: '2026-08-17T21:25:53.117635+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 20:55 UTC  
+**Last Updated:** August 17, 2026 at 21:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,13 +109,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-5h ago
+6h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 10h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-7h ago
+8h ago
 
 ---
 
@@ -183,13 +183,13 @@ Seeking Alpha • 1h ago
 
 The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Motley Fool • 8h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-New York Post • 5h ago
+New York Post • 6h ago
 
 ---
 
@@ -247,7 +247,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 5h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 6h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -285,7 +285,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
 
-⬆️ 1 • 💬 0 • 6d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
+⬆️ 1 • 💬 0 • 7d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
 
 ---
 
@@ -319,7 +319,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 22h ago
+👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ DCA is never the best strategy and it's never the worst — but the studies say 
 
 📺 Krown
 
-👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 7h ago
+👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 8h ago
 
 ---
 

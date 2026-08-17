@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T20:55:08.978049+00:00'
+updated: '2026-08-17T21:25:53.122753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 20:55 UTC  
+**Last Updated:** August 17, 2026 at 21:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 6h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -194,13 +194,13 @@ Decrypt • 5h ago
 
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ MarketWatch • 6h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 19h ago
+👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 11h ago
+👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 22h ago
+👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 9h ago
+👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 15 • ⏱️ 8:24 • 10h ago
+👁️ 15 • ⏱️ 8:24 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ BitGo Leads $26.6B RWA Market With 27.5% Share Bitget Restricts HTX, EXMO & 14 C
 
 📺 3.0 TV
 
-👁️ 171 • 👍 1 • ⏱️ 4:47 • 5h ago
+👁️ 171 • 👍 1 • ⏱️ 4:47 • 6h ago
 
 ---
 

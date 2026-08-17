@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T20:55:08.964775+00:00'
+updated: '2026-08-17T21:25:53.109909+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 20:55 UTC  
+**Last Updated:** August 17, 2026 at 21:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 13h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 14h ago
 
 ---
 
@@ -89,7 +89,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 Something shifted in the last couple months. Every security conversation used to circle back to cloud, patching, the usual stuff. Now it's who approved this tool, what's it touching... how do you even audit something making its own calls. Half our frameworks weren't built for that. They assume a human logged in and did the thing on purpose. Not sure that holds anymore; we're mostly just reacting meeting to meeting at this point. Wondering if everyone's roadmap got hijacked at the same time or if we're just behind.
 
-12m ago
+42m ago
 
 ---
 
@@ -105,7 +105,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ WSJ • 11h ago
 
 **[Students at NEIU in Chicago can now major in AI](https://www.axios.com/local/chicago/2026/08/17/northeastern-illinois-university-ai-major-chicago-college)**
 
-Axios • 6m ago
+Axios • 37m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 6m ago
 
 The investment bank compared companies' labor intensity and artificial intelligence sensitivity to see where AI implementation gains will make an impact.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 56m ago
 
 Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.
 
-WIRED • 36m ago
+WIRED • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 10h ago
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-wiz.io • 6h ago
+wiz.io • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ wiz.io • 6h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Washington Post • 4h ago
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-404 Media • 5h ago
+404 Media • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-arstechnica.com • 2h ago
+arstechnica.com • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 263 • 💬 112 • 6h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 263 • 💬 112 • 7h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -245,7 +245,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 220 • 💬 463 • 18h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 220 • 💬 463 • 19h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -253,7 +253,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 197 • 💬 100 • 6h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 197 • 💬 100 • 7h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -275,7 +275,7 @@ A new survey of 1,000 young adults in the US found that nine of the top tech exe
 
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-⬆️ 121 • 💬 6 • 1h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+⬆️ 121 • 💬 6 • 2h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 
 ---
 
@@ -309,7 +309,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 423K • 👍 21K • 💬 2K • ⏱️ 8:55 • 18h ago
+👁️ 423K • 👍 21K • 💬 2K • ⏱️ 8:55 • 19h ago
 
 ---
 
@@ -649,7 +649,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 2h ago
+⭐ 13.8k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -659,7 +659,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.2k • 🔱 1.4k • 1h ago
+⭐ 13.2k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -727,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 12h ago
+⭐ 2.2k • 🔱 177 • 13h ago
 
 ---
 
@@ -737,7 +737,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 282 • 2h ago
+⭐ 2.1k • 🔱 282 • 3h ago
 
 ---
 
