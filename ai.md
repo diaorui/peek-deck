@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T17:56:33.580672+00:00'
+updated: '2026-08-17T18:43:36.851980+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 17:56 UTC  
+**Last Updated:** August 17, 2026 at 18:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart Pathway, an AI lab building a post-transformer architecture and models, published benchmark results for BDH-CQ, a 150 million-parameter reasoning model. BDH-CQ scored 29.5% pass@2 on the public ARC-AGI-1 evaluation set at a computed inference cost of $0.0007 per task. It runs approximately 11 times as cheaply per task as GPT 5.6 Luna (Low), even after accounting for OpenAI’s 80% price cut of 5.6 Luna on July 30th. Luna scores 34.2% against BDH-CQ's 29.5%, a modest accuracy gain at 11 times the cost. They also report early pretraining experiments from 1B to 600B parameters, while preserving the latent reasoning capabilities specific to BDH-CQ. It does it by combining in-context learning with recurrent latent reasoning instead of verbalizing every intermediate result.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 10h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 23h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 what i’m thinking of starting a youtube channel where i basically dump my daily updates into ai not just work stuff tech, politics, geopolitics, gym, food, travel, reading, productivity, meditation, maths/physics, learning language like sanskrit, learning instruments, gaming, driving, adventure stuff... basically all the tabs currently open in my brain ai takes that daily chaos and converts it into actual tasks, priorities and progress i can track publicly why because apparently having 47 interests and making mental plans for all of them does not count as progress shocking, i know the main idea is public accountability if i say i’m learning guitar, improving fitness, building something, reading a book or planning a trek, there should eventually be receipts and hopefully other people with similarly chaotic ambitions can join in, share what works and grow together how i’ll post regular updates about what i said i would do, what ai turned it into, what i actually did, what i completely ignored and why less “watch me become productive” more “here is the public audit trail of me trying” would you watch this? and what would make you actually come back for the next update?
 
-28m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ what i’m thinking of starting a youtube channel where i basically dump my dail
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-58m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi all, I was updating my ChatGPT-created spreadsheet where I track networking w
 
 Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
 
-9h ago
+10h ago
 
 ---
 
@@ -121,37 +121,59 @@ Doesn't the territorial scope of EU AI Law mean that all companies providing inf
 
 ## Google News: "ai"
 
-**[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
+**[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 8h ago
+WSJ • 9h ago
 
 ---
 
-**[Claude to start watermarking AI-generated text – but will it make quality worse?](https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse)**
+**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
 
-Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation
+We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-The Guardian • 1h ago
-
----
-
-**[Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)**
-
-Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
-
-TechCrunch • 45m ago
+404media.co • 3h ago
 
 ---
 
-**[Apple Stock Got an Upgrade. It Could Be the AI Gatekeeper.](https://www.barrons.com/articles/apple-stock-upgrade-ai-gatekeeper-dc437907)**
+**[Amazon really is destroying rare books to train AI, hidden Airtag reveals](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)**
 
-barrons.com • 47m ago
+Amazon’s team uses a T. rex preparing to devour a book as its logo.
+
+Ars Technica • 29m ago
+
+---
+
+**[ByteDance signs AI copyright pact with Hollywood trade group](https://www.nbcnews.com/business/media/bytedance-signs-ai-copyright-pact-hollywood-motion-picture-association-rcna592977)**
+
+Disney and other studios in February ​raised concerns Seedance’s AI tools ​could generate content featuring copyrighted characters and celebrity ‌likenesses ⁠without authorization.
+
+NBC News • 11m ago
+
+---
+
+**[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
+
+Bloomberg.com • 22h ago
+
+---
+
+**[Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)**
+
+OpenRouter's CEO recently described the startup as Stripe for AI.
+
+TechCrunch • 21h ago
+
+---
+
+**[Watch Stripe to Buy AI Firm OpenRouter in $7 Billion Deal](https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video)**
+
+Bloomberg.com • 9m ago
 
 ---
 
@@ -159,7 +181,7 @@ barrons.com • 47m ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -167,27 +189,7 @@ CNN • 7h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-The Washington Post • 1h ago
-
----
-
-**[AI slop is swamping a House office that drafts US laws](https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376)**
-
-Politico • 9h ago
-
----
-
-**[AI startup founders are in flux](https://www.axios.com/2026/08/17/ai-startup-founders-flux)**
-
-Axios • 2h ago
-
----
-
-**[Nvidia backing $105 billion in financing for OpenAI data center in Ohio](https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html)**
-
-Technology giants are shelling out billions to scale capacity to meet massive data center demand.
-
-CNBC • 3h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -199,7 +201,7 @@ CNBC • 3h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 626 • 💬 496 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 626 • 💬 496 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -207,7 +209,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 332 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 333 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -215,7 +217,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 319 • 💬 124 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 319 • 💬 125 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -225,7 +227,15 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 199 • 💬 411 • 15h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 212 • 💬 427 • 16h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+
+---
+
+**[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
+
+An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+
+⬆️ 200 • 💬 90 • 4h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -235,11 +245,11 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 ---
 
-**[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
+**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
 
-An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 145 • 💬 66 • 3h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 151 • 💬 64 • 4h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -247,7 +257,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 138 • 💬 153 • 20h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 140 • 💬 161 • 21h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -259,19 +269,11 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 ---
 
-**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
+**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://news.ycombinator.com/item?id=49330742)**
 
-One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
+We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-⬆️ 114 • 💬 47 • 3h ago • [librarian.net](https://www.librarian.net/notoai/)
-
----
-
-**[AI Coding Without the Vibes](https://news.ycombinator.com/item?id=49318735)**
-
-This question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).
-
-⬆️ 94 • 💬 55 • 1d ago • [peterbloem.nl](https://peterbloem.nl/blog/craft-coding)
+⬆️ 100 • 💬 102 • 4h ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 
 ---
 
@@ -323,7 +325,7 @@ can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com
 
 📺 Rick Beato
 
-👁️ 32K • 👍 2K • 💬 103 • ⏱️ 0:49 • 3h ago
+👁️ 32K • 👍 2K • 💬 103 • ⏱️ 0:49 • 4h ago
 
 ---
 
@@ -333,7 +335,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 392K • 👍 20K • 💬 1K • ⏱️ 8:55 • 15h ago
+👁️ 392K • 👍 20K • 💬 1K • ⏱️ 8:55 • 16h ago
 
 ---
 
@@ -645,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 1h ago
+⭐ 13.8k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -655,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.1k • 🔱 1.4k • 12h ago
+⭐ 13.1k • 🔱 1.4k • 13h ago
 
 ---
 
@@ -723,7 +725,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 9h ago
+⭐ 2.2k • 🔱 177 • 10h ago
 
 ---
 

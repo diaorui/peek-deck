@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T17:56:33.589704+00:00'
+updated: '2026-08-17T18:43:36.859663+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 17:56 UTC  
+**Last Updated:** August 17, 2026 at 18:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,296.92
+### $64,557.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +1.0%  
-**30d:** -0.7%  
-**90d:** -17.1%  
-**1y:** -44.9%  
+**24h:** +2.1%  
+**7d:** +1.3%  
+**30d:** -0.4%  
+**90d:** -16.9%  
+**1y:** -44.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-2h ago
+3h ago
 
 ---
 
@@ -89,13 +89,13 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-3h ago
+4h ago
 
 ---
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-27m ago
+1h ago
 
 ---
 
@@ -103,13 +103,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-2h ago
+3h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 7h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ So I just got into the Bitcoin market and got some amount of Bitcoin I want to t
 
 I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://satoshitimeline.com/854
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -171,31 +171,25 @@ Forbes • 1d ago
 
 ---
 
-**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
+**[HIVE's $350M AI cloud deal: A closer look at bitcoin mining's big AI pivot](https://uk.finance.yahoo.com/video/hives-350m-ai-cloud-deal-180000406.html)**
 
-The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
+Bitcoin (BTC-USD) miner HIVE Digital Technologies (HIVE) inked a $350 million AI cloud services agreement with an unnamed enterprise customer. Scott Melker takes a closer look in the video above.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Strategy raises $334 million, adds $150 million to USD reserve](https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week)**
-
-Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.
-
-CoinDesk • 5h ago
+Yahoo Finance UK • 43m ago
 
 ---
 
-**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+**[Strategy Sinks 39% in 2026, Trailing the Bitcoin ETF It Was Built to Beat](https://finance.yahoo.com/markets/crypto/articles/strategy-sinks-39-2026-trailing-182326450.html)**
 
-Investing.com • 19h ago
+Strategy built its entire identity around outperforming Bitcoin, but something unexpected is happening to that promise in 2026, and the gap between the company's pitch and its performance is raising uncomfortable questions for anyone holding shares.
+
+Yahoo Finance • 20m ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -203,15 +197,7 @@ Bloomberg.com • 3h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-New York Post • 2h ago
-
----
-
-**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
-
-HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
-
-The Block • 7h ago
+New York Post • 3h ago
 
 ---
 
@@ -219,15 +205,31 @@ The Block • 7h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 7h ago
+Business Insider Africa • 8h ago
 
 ---
 
-**[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)**
+**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
 
-Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
+The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
 
-Decrypt • 7h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Strategy raises $334 million, adds $150 million to USD reserve](https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week)**
+
+Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.
+
+CoinDesk • 6h ago
+
+---
+
+**[Strategy sells $334 million in MSTR shares, makes no bitcoin purchases or sales as USD reserve hits $4.8 billion](https://www.theblock.co/news/business/2026-08-17-michael-saylor-strategy-btc-411942)**
+
+Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53.4 billion.
+
+The Block • 6h ago
 
 ---
 
@@ -247,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 2h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 3h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -263,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 8h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 9h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -299,7 +301,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 295 • ⏱️ 8:25 • 19h ago
+👁️ 34K • 👍 2K • 💬 295 • ⏱️ 8:25 • 20h ago
 
 ---
 
@@ -309,7 +311,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 219 • 💬 145 • ⏱️ 17:10 • 19h ago
+👁️ 3K • 👍 219 • 💬 145 • ⏱️ 17:10 • 20h ago
 
 ---
 
@@ -329,7 +331,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 249 • 💬 38 • ⏱️ 12:52 • 23h ago
+👁️ 6K • 👍 249 • 💬 38 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -339,7 +341,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 481 • 💬 22 • ⏱️ 55:12 • 1d ago
+👁️ 13K • 👍 481 • 💬 22 • ⏱️ 55:12 • 2d ago
 
 ---
 
@@ -379,7 +381,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 12K • 👍 1K • 💬 675 • ⏱️ 14:27 • 22h ago
+👁️ 12K • 👍 1K • 💬 675 • ⏱️ 14:27 • 23h ago
 
 ---
 

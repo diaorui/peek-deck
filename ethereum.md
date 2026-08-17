@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T17:56:33.595954+00:00'
+updated: '2026-08-17T18:43:36.864995+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 17:56 UTC  
+**Last Updated:** August 17, 2026 at 18:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
+**24h:** +1.2%  
 **7d:** +1.4%  
-**30d:** +1.9%  
+**30d:** +1.8%  
 **90d:** -10.3%  
 **1y:** -55.7%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 11h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hoping to get some clarity on this process? I recently withdrew my Kiln position in my Ledger Wallet on 8/10/26. Assuming this entire process would take like 3-5 days to complete & I thought I would see the funds back in my wallet after a week. Apparently that's not at all how this process works, after reading a little bit more it's quite an involved backend process that involves an NFT being minted and I guess you can convert that back to your ETH along with its rewards? My concern lies in what I've been reading online some comments mention the process takes a week, while others say "The queue is busy & could take 40 DAYS"? If someone could explain to me the process here & maybe somewhere I can figure out how much longer I'd appreciate it.
 
-1d ago
+2d ago
 
 ---
 
@@ -164,15 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
-
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,13 +180,13 @@ Benzinga • 1d ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -202,23 +194,7 @@ MarketWatch • 3h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 14h ago
-
----
-
-**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
-
----
-
-**[Ethereum’s Vitalik Buterin credits Bitcoin developers for scaling innovations](https://cryptobriefing.com/buterin-credits-bitcoin-scaling-innovations/)**
-
-Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
-
-Crypto Briefing • 7h ago
+FXStreet • 15h ago
 
 ---
 
@@ -226,7 +202,31 @@ Crypto Briefing • 7h ago
 
 Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
+
+---
+
+**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
+**[Ethereum developers propose privacy changes for next major upgrade](https://cryptobriefing.com/ethereum-hegota-privacy-upgrade-proposals/)**
+
+Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
+
+Crypto Briefing • 5m ago
+
+---
+
+**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
+
+Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 355 • 💬 149 • ⏱️ 29:45 • 8h ago
+👁️ 3K • 👍 355 • 💬 149 • ⏱️ 29:45 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 5K • 👍 186 • 💬 26 • ⏱️ 35:05 • 16h ago
+👁️ 5K • 👍 186 • 💬 26 • ⏱️ 35:05 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 360 • 💬 63 • ⏱️ 14:12 • 19h ago
+👁️ 4K • 👍 360 • 💬 63 • ⏱️ 14:12 • 20h ago
 
 ---
 
@@ -280,7 +280,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 6h ago
+👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 8h ago
+👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 9h ago
 
 ---
 

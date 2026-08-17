@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T17:56:33.599303+00:00'
+updated: '2026-08-17T18:43:36.867919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 17:56 UTC  
+**Last Updated:** August 17, 2026 at 18:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -118,7 +118,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -126,19 +126,25 @@ Business Insider • 7h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 5h ago
+inc.com • 6h ago
 
 ---
 
 **[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
 **[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
-Axios • 5h ago
+axios.com • 6h ago
+
+---
+
+**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
+
+Bloomberg.com • 18h ago
 
 ---
 
@@ -146,7 +152,7 @@ Axios • 5h ago
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -158,19 +164,19 @@ Fox News • 1d ago
 
 ---
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
-
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Humanoids move beyond dancing in real-world firefighting challenge](https://interestingengineering.com/ai-robotics/whrg-humanoid-robot-firefighting-beijing)**
 
 Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
+
+---
+
+**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
+
+Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
+
+Nikkei Asia • 17h ago
 
 ---
 
@@ -179,14 +185,6 @@ Interesting Engineering • 8h ago
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
 NASA (.gov) • 3d ago
-
----
-
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
-
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
-
-asia.nikkei.com • 16h ago
 
 ---
 
@@ -270,7 +268,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 6K • 👍 172 • 💬 27 • ⏱️ 0:56 • 15h ago
+👁️ 6K • 👍 172 • 💬 27 • ⏱️ 0:56 • 16h ago
 
 ---
 
@@ -280,7 +278,7 @@ Can robots outrun and outjump humans? Well, this one can… Chinese robotics com
 
 📺 CGTN Europe
 
-👁️ 856 • 👍 36 • 💬 2 • ⏱️ 0:23 • 1h ago
+👁️ 856 • 👍 36 • 💬 2 • ⏱️ 0:23 • 2h ago
 
 ---
 
