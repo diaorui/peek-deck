@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T07:53:11.394029+00:00'
+updated: '2026-08-17T08:43:05.717302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 07:53 UTC  
+**Last Updated:** August 17, 2026 at 08:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,902.01
+### $1,893.39
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +1.3%  
-**30d:** +1.7%  
-**90d:** -10.5%  
-**1y:** -55.8%  
+**24h:** +0.7%  
+**7d:** +0.6%  
+**30d:** +1.0%  
+**90d:** -11.1%  
+**1y:** -56.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 1h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 2h ago
 
 ---
 
@@ -160,11 +160,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
+
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+
+ethereum.org • 24m ago
+
+---
+
 **[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 14h ago
+Benzinga • 15h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds critical support, ETH awaits directional move, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-critical-support-eth-awaits-directional-move-xrp-weakens-202608170317)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
+
+FXStreet • 5h ago
 
 ---
 
@@ -184,19 +200,19 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bitcoin ETFs see $390M in outflows as Ethereum ETFs snap five-week inflow streak](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-decline/)**
-
-US spot Bitcoin ETFs saw $389.71M in net outflows last week, the largest in six weeks, while Ethereum ETFs lost $2.26M, ending a five-week inflow
-
-Crypto Briefing • 3h ago
-
----
-
 **[Ethereum: Wallet Withdraws 5.3K ETH From Kraken](https://blockchain.news/flashnews/ethereum-wallet-withdraws-5-3k-eth-kraken)**
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 7h ago
+blockchain.news • 8h ago
+
+---
+
+**[Bitcoin ETFs see $390M in outflows as Ethereum ETFs snap five-week inflow streak](https://cryptobriefing.com/bitcoin-etf-outflows-ethereum-etf-decline/)**
+
+US spot Bitcoin ETFs saw $389.71M in net outflows last week, the largest in six weeks, while Ethereum ETFs lost $2.26M, ending a five-week inflow
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -216,26 +232,6 @@ Cryptonews.net • 1d ago
 
 ---
 
-**[Solana Has Plans to Become 'The Netflix of Finance.' What Does That Mean for the Price of SOL?](https://www.fool.com/investing/2026/08/14/solana-has-plans-to-become-the-netflix-of-finance/)**
-
-Could the "Ethereum" killer unify the fragmented financial market?
-
-The Motley Fool • 2d ago
-
----
-
-**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
-
-Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
-
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 2K • 👍 84 • 💬 11 • ⏱️ 35:05 • 6h ago
+👁️ 2K • 👍 84 • 💬 11 • ⏱️ 35:05 • 7h ago
 
 ---
 
@@ -266,7 +262,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 255 • 💬 45 • ⏱️ 14:12 • 9h ago
+👁️ 3K • 👍 255 • 💬 45 • ⏱️ 14:12 • 10h ago
 
 ---
 
@@ -296,7 +292,7 @@ Well, it looks like things are a changing in the cryptocurrency market. We've go
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 938 • 💬 216 • ⏱️ 29:34 • 22h ago
+👁️ 13K • 👍 938 • 💬 216 • ⏱️ 29:34 • 23h ago
 
 ---
 

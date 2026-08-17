@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T07:53:11.397357+00:00'
+updated: '2026-08-17T08:43:05.720245+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 07:53 UTC  
+**Last Updated:** August 17, 2026 at 08:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,19 +44,19 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-20h ago
+21h ago
 
 ---
 
 **[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -120,9 +120,17 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Naval Academy Integrates Robotics and Autonomous Systems into Summer Training](https://www.presidentialprayerteam.org/2026/08/17/naval-academy-integrates-robotics-and-autonomous-systems-into-summer-training/)**
+
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
+
+The Presidential Prayer Team • 13m ago
+
+---
+
 **[BSF Enterprise forms partnership for lab-grown leather, robotics By Investing.com](https://ng.investing.com/news/stock-market-news/bsf-enterprise-forms-partnership-for-labgrown-leather-robotics-93CH-2662026)**
 
-Investing.com Nigeria • 1h ago
+Investing.com Nigeria • 2h ago
 
 ---
 
@@ -134,41 +142,33 @@ CNBC • 3d ago
 
 ---
 
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
-
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
-
-nasa.gov • 2d ago
-
----
-
 **[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 15h ago
+Fox News • 16h ago
 
 ---
 
-**[Teams increase 138% as World Humanoid Robot Games expands scale and influence](https://www.globaltimes.cn/page/202608/1368304.shtml)**
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
 
-The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-Global Times • 1d ago
-
----
-
-**[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
-
-Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
-
-Interesting Engineering • 1d ago
+NASA (.gov) • 2d ago
 
 ---
 
-**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
+**[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
 
-Bloomberg.com • 7h ago
+Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
+
+Medscape • 2d ago
+
+---
+
+**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -176,7 +176,7 @@ Bloomberg.com • 7h ago
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 6h ago
+Nikkei Asia • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nikkei Asia • 6h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-spectrum.ieee.org • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 7K • 👍 257 • 💬 31 • ⏱️ 5:16 • 19h ago
+👁️ 7K • 👍 257 • 💬 31 • ⏱️ 5:16 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 67 • 💬 7 • ⏱️ 0:56 • 5h ago
+👁️ 2K • 👍 67 • 💬 7 • ⏱️ 0:56 • 6h ago
 
 ---
 

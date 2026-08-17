@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T07:53:11.387294+00:00'
+updated: '2026-08-17T08:43:05.711792+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 07:53 UTC  
+**Last Updated:** August 17, 2026 at 08:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,715.74
+### $63,470.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.1%  
-**30d:** -1.6%  
-**90d:** -17.9%  
-**1y:** -45.4%  
+**24h:** +0.6%  
+**7d:** -0.3%  
+**30d:** -2.0%  
+**90d:** -18.2%  
+**1y:** -45.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-15h ago
+16h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-17h ago
+18h ago
 
 ---
 
@@ -139,13 +139,13 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -165,41 +165,35 @@ CoinDesk • 4d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates?srnd=homepage-americas)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Gold vs Bitcoin: Which is the real safe haven?](https://www.investing.com/news/stock-market-news/gold-vs-bitcoin-which-is-the-real-safe-haven-93CH-4862102)**
+**[Benjamin Cowen Says Bitcoin 69-73 Days From Bottom, But Does BTC Still Follow Cycles?](https://finance.yahoo.com/markets/crypto/articles/benjamin-cowen-says-bitcoin-69-070300658.html)**
 
-Investing.com • 3h ago
+Benjamin Cowen puts Bitcoin's cycle bottom 69 to 73 days away, but analysts debate whether BTC still follows old cycles.
 
----
-
-**[Bitcoin Tops $64,000 in Asia Morning Hours as HYPE Jumps 8% on the Week](https://www.moomoo.com/news/post/74769800/bitcoin-tops-64000-in-asia-morning-hours-as-hype-jumps)**
-
-Moomoo • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
+**[JPMorgan Opens Bitcoin-Backed Lending as Wall Street Pushes Deeper Into Crypto](https://bitcoinfoundation.org/news/bitcoin/jpmorgan-opens-bitcoin-backed-lending-as-wall-street-pushes-deeper-into-crypto/)**
 
-CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
+JPMorgan brings Bitcoin and Ethereum into institutional lending, expanding crypto’s role in traditional finance and collateral markets.
 
-Yahoo Finance • 23h ago
+Bitcoin Foundation • 17m ago
 
 ---
 
-**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
-
-TradingView • 15h ago
+Investing.com • 9h ago
 
 ---
 
@@ -207,7 +201,15 @@ TradingView • 15h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
+
+---
+
+**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+
+Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
+
+TradingView • 16h ago
 
 ---
 
@@ -215,15 +217,15 @@ The Motley Fool • 20h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
-**[Mark Cuban Once Told Bill Maher He’d Be ‘Dumb’ to Choose Gold Over Bitcoin — Less Than Four Years Later](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237092/mark-cuban-bitcoin-gold-bill-maher-shark-tank-btc)**
+**[Crypto Recap: Bitcoin, ETFs, Stablecoins and Tokenized Stocks](https://www.benzinga.com/crypto/26/08/61236592/top-crypto-news-week-bitcoin-ethereum-etfs-tokenized-stocks)**
 
-Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
+This week’s crypto headlines covered regulation, Bitcoin, ETF buying and the growing tokenization of stocks.
 
-Benzinga • 16h ago
+Benzinga • 19h ago
 
 ---
 
@@ -243,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 2h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -287,7 +289,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 21h ago
+👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 22h ago
 
 ---
 
@@ -297,7 +299,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 8h ago
+👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 9h ago
 
 ---
 
@@ -307,7 +309,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 9h ago
+👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 10h ago
 
 ---
 
@@ -337,7 +339,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 12h ago
+👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 13h ago
 
 ---
 
@@ -357,7 +359,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 22h ago
+👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 23h ago
 
 ---
 
