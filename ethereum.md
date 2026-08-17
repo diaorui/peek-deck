@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T10:32:25.403334+00:00'
+updated: '2026-08-17T11:25:33.350918+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 10:32 UTC  
+**Last Updated:** August 17, 2026 at 11:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-ethereum.org • 2h ago
+ethereum.org • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ ethereum.org • 2h ago
 
 The world's largest corporate holder of Ether continues to buy more tokens.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 17h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -212,7 +212,7 @@ CryptoSlate • 2d ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 33m ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 33m ago
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 9h ago
+blockchain.news • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 3K • 👍 119 • 💬 22 • ⏱️ 35:05 • 9h ago
+👁️ 3K • 👍 119 • 💬 22 • ⏱️ 35:05 • 10h ago
 
 ---
 
@@ -252,7 +252,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 530 • 👍 94 • 💬 21 • ⏱️ 29:45 • 1h ago
+👁️ 530 • 👍 94 • 💬 21 • ⏱️ 29:45 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 995 • 💬 93 • ⏱️ 15:54 • 21h ago
+👁️ 26K • 👍 995 • 💬 93 • ⏱️ 15:54 • 22h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 206 • 💬 74 • ⏱️ 17:01 • 10h ago
+👁️ 5K • 👍 206 • 💬 74 • ⏱️ 17:01 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 285 • 💬 38 • ⏱️ 14:12 • 12h ago
+👁️ 3K • 👍 285 • 💬 38 • ⏱️ 14:12 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 877 • 💬 239 • ⏱️ 17:49 • 1d ago
+👁️ 8K • 👍 877 • 💬 239 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -302,7 +302,7 @@ Torne-se membro do canal se você gosta dos conteúdos compartilhados, para ter 
 
 📺 João Hazim
 
-👁️ 801 • 👍 192 • 1h ago
+👁️ 801 • 👍 192 • 2h ago
 
 ---
 
@@ -332,7 +332,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 Александр Куценко – Криптовалюта, Трейдинг
 
-👁️ 535 • 👍 36 • 💬 11 • ⏱️ 17:28 • 19h ago
+👁️ 535 • 👍 36 • 💬 11 • ⏱️ 17:28 • 20h ago
 
 ---
 

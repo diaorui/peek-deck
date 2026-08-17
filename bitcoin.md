@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T10:32:25.397950+00:00'
+updated: '2026-08-17T11:25:33.344850+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 10:32 UTC  
+**Last Updated:** August 17, 2026 at 11:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-19h ago
+20h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 4d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -175,13 +175,13 @@ Forbes • 22h ago
 
 Bitcoin steadies above $63K as LINK and HYPE outperform, while ETF outflows and upcoming Fed minutes keep crypto traders cautious.
 
-Bitcoin Foundation • 2h ago
+Bitcoin Foundation • 3h ago
 
 ---
 
 **[$48 billion in open interest: Bitcoin sell-off risks intensify](https://www.moomoo.com/news/post/74780662/48-billion-in-open-interest-bitcoin-sell-off-risks-intensify)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -189,13 +189,13 @@ Moomoo • 1h ago
 
 World Gold Council CEO David Tait believes Bitcoin will eventually reach zero because it behaves more like a risk asset than a crisis hedge. Tait ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin (BTC) ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-bloomberg.com • 4h ago
+bloomberg.com • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ bloomberg.com • 4h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -211,13 +211,13 @@ Fortune • 3h ago
 
 Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk?mod=bar_RHF)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 4h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -261,7 +261,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 52m ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 1h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -297,7 +297,7 @@ Hurley talks about Michael Saylor! Who SHOULD NOT Buy Bitcoin NOW! Brought to yo
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 86 • 💬 5 • ⏱️ 1:05 • 10h ago
+👁️ 2K • 👍 86 • 💬 5 • ⏱️ 1:05 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 196 • 💬 96 • ⏱️ 17:10 • 12h ago
+👁️ 3K • 👍 196 • 💬 96 • ⏱️ 17:10 • 13h ago
 
 ---
 
@@ -325,7 +325,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 InfoWars
 
-👁️ 20K • 👍 3K • 💬 73 • ⏱️ 0:42 • 15h ago
+👁️ 20K • 👍 3K • 💬 73 • ⏱️ 0:42 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 11K • 👍 1K • 💬 637 • ⏱️ 14:27 • 15h ago
+👁️ 11K • 👍 1K • 💬 637 • ⏱️ 14:27 • 16h ago
 
 ---
 
