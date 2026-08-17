@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T17:29:07.638260+00:00'
+updated: '2026-08-17T17:56:33.595954+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 17:29 UTC  
+**Last Updated:** August 17, 2026 at 17:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 11h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 2d ago
+🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 3d ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 3h ago
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 23h ago
+Benzinga • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 7h ago
+👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 229 • 💬 76 • ⏱️ 17:01 • 17h ago
+👁️ 5K • 👍 229 • 💬 76 • ⏱️ 17:01 • 18h ago
 
 ---
 
@@ -320,7 +320,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 12 • ⏱️ 8:24 • 7h ago
+👁️ 12 • ⏱️ 8:24 • 8h ago
 
 ---
 

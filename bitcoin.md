@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T17:29:07.634760+00:00'
+updated: '2026-08-17T17:56:33.589704+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 17:29 UTC  
+**Last Updated:** August 17, 2026 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-1h ago
+2h ago
 
 ---
 
@@ -89,13 +89,13 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-2h ago
+3h ago
 
 ---
 
-**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
+**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-20h ago
+27m ago
 
 ---
 
@@ -104,6 +104,12 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
 2h ago
+
+---
+
+**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
+
+20h ago
 
 ---
 
@@ -127,7 +133,7 @@ So I just got into the Bitcoin market and got some amount of Bitcoin I want to t
 
 I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
 
-4h ago
+5h ago
 
 ---
 
@@ -145,14 +151,6 @@ https://satoshitimeline.com/854
 
 ---
 
-**[SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.reddit.com/r/Bitcoin/comments/1vqlgs3/safepal_data_breach_impacts_39798_customers/)**
-
-If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
-
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 10h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,7 +159,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -191,7 +189,7 @@ CoinDesk • 5h ago
 
 **[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 18h ago
+Investing.com • 19h ago
 
 ---
 
@@ -213,7 +211,7 @@ New York Post • 2h ago
 
 HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -221,7 +219,7 @@ The Block • 6h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 6h ago
+Business Insider Africa • 7h ago
 
 ---
 
@@ -229,7 +227,7 @@ Business Insider Africa • 6h ago
 
 Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -241,7 +239,7 @@ Decrypt • 6h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 11h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -265,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 7h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 8h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -301,7 +299,7 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 295 • ⏱️ 8:25 • 18h ago
+👁️ 34K • 👍 2K • 💬 295 • ⏱️ 8:25 • 19h ago
 
 ---
 
@@ -361,7 +359,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 45K • 👍 677 • 💬 18 • ⏱️ 0:53 • 2d ago
+👁️ 45K • 👍 677 • 💬 18 • ⏱️ 0:53 • 3d ago
 
 ---
 

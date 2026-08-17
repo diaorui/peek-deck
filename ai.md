@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T17:29:07.629568+00:00'
+updated: '2026-08-17T17:56:33.580672+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 17:29 UTC  
+**Last Updated:** August 17, 2026 at 17:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Chart Pathway, an AI lab building a post-transformer architecture and models, pu
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ India's Leading AI & Data Science Media Platform
 
 So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 what i’m thinking of starting a youtube channel where i basically dump my daily updates into ai not just work stuff tech, politics, geopolitics, gym, food, travel, reading, productivity, meditation, maths/physics, learning language like sanskrit, learning instruments, gaming, driving, adventure stuff... basically all the tabs currently open in my brain ai takes that daily chaos and converts it into actual tasks, priorities and progress i can track publicly why because apparently having 47 interests and making mental plans for all of them does not count as progress shocking, i know the main idea is public accountability if i say i’m learning guitar, improving fitness, building something, reading a book or planning a trek, there should eventually be receipts and hopefully other people with similarly chaotic ambitions can join in, share what works and grow together how i’ll post regular updates about what i said i would do, what ai turned it into, what i actually did, what i completely ignored and why less “watch me become productive” more “here is the public audit trail of me trying” would you watch this? and what would make you actually come back for the next update?
 
-just now
+28m ago
 
 ---
 
@@ -97,7 +97,7 @@ just now
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-30m ago
+58m ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi all, I was updating my ChatGPT-created spreadsheet where I track networking w
 
 Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
 
-8h ago
+9h ago
 
 ---
 
@@ -123,13 +123,13 @@ Doesn't the territorial scope of EU AI Law mean that all companies providing inf
 
 **[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 7h ago
+WSJ • 8h ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 7h ago
 
 Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation
 
-The Guardian • 36m ago
+The Guardian • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ The Guardian • 36m ago
 
 Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
 
-TechCrunch • 18m ago
+TechCrunch • 45m ago
 
 ---
 
 **[Apple Stock Got an Upgrade. It Could Be the AI Gatekeeper.](https://www.barrons.com/articles/apple-stock-upgrade-ai-gatekeeper-dc437907)**
 
-barrons.com • 20m ago
+barrons.com • 47m ago
 
 ---
 
@@ -159,7 +159,7 @@ barrons.com • 20m ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -173,13 +173,13 @@ The Washington Post • 1h ago
 
 **[AI slop is swamping a House office that drafts US laws](https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
 **[AI startup founders are in flux](https://www.axios.com/2026/08/17/ai-startup-founders-flux)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -247,7 +247,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 138 • 💬 153 • 19h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 138 • 💬 153 • 20h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -315,7 +315,7 @@ can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com
 
 📺 BENOFTHEWEEK
 
-👁️ 219K • 👍 18K • 💬 1K • ⏱️ 22:02 • 21h ago
+👁️ 219K • 👍 18K • 💬 1K • ⏱️ 22:02 • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com
 
 📺 Rick Beato
 
-👁️ 32K • 👍 2K • 💬 103 • ⏱️ 0:49 • 2h ago
+👁️ 32K • 👍 2K • 💬 103 • ⏱️ 0:49 • 3h ago
 
 ---
 
@@ -435,7 +435,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,082 • 3h ago
+⬇️ 465,529 • ❤️ 1,082 • 4h ago
 
 ---
 
@@ -733,7 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 282 • 37m ago
+⭐ 2.1k • 🔱 282 • 1h ago
 
 ---
 
