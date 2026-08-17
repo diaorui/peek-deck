@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T19:28:28.001759+00:00'
+updated: '2026-08-17T19:52:51.095515+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 19:28 UTC  
+**Last Updated:** August 17, 2026 at 19:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-19h ago
+20h ago
 
 ---
 
@@ -126,25 +126,25 @@ Business Insider • 9h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 6h ago
+inc.com • 4h ago
 
 ---
 
-**[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 10h ago
+The New York Times • 1h ago
 
 ---
 
 **[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
-axios.com • 7h ago
+Axios • 7h ago
 
 ---
 
 **[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-Bloomberg.com • 19h ago
+bloomberg.com • 19h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 19h ago
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fox News • 1d ago
 
 Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 195 • 💬 30 • ⏱️ 0:56 • 16h ago
+👁️ 7K • 👍 195 • 💬 30 • ⏱️ 0:56 • 17h ago
 
 ---
 
