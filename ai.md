@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T22:24:32.725203+00:00'
+updated: '2026-08-17T22:50:28.810736+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 22:24 UTC  
+**Last Updated:** August 17, 2026 at 22:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ As AI agents start doing more ops work, I think business banking has to think ab
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-11m ago
+37m ago
 
 ---
 
@@ -73,7 +73,7 @@ Most "chat with your data" tools give you a confident answer and no way to tell 
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ India's Leading AI & Data Science Media Platform
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 "He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.” Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; "The Hebrew equivalent of our "w" is the letter "vav" or "waw". The numerical value of vav is 6. So the English "www" transliterated into Hebrew is "vav vav vav", which numerically is 666.” Is "www" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) History Preceding the book of Revelation This article explains many of the “natural signs, spiritual signs, sociological signs, technological signs, and political signs,” foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, earthquakes, plagues, moral decline, wars, growing governmental dominance/deception ("with all power, signs, and lying wonders," 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org What is the end times timeline? | GotQuestions.org How can I overcome my fear of the end of days? | GotQuestions.org "For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.” John 3:16 Going to heaven-how can I guarantee my eternal destination? More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested.
 
-15m ago
+41m ago
 
 ---
 
@@ -105,7 +105,7 @@ The internet is integral in most peoples lives around the world. It is conceivab
 
 I'm looking for replacement of Cursor. Mainly the question is about what Model that can match Cursor's Composer 2.5 (I dont need anything more than that) So companies I'm NOT looking at: - OpenAi - X - Cursor - Google - Meta So that leaves: - Mistral - Deepseek - Qwen - Kimi - Minimax Which one of them has a multi-modal(text+image, no video needed) LLM that can fit into $20/month plan? Assume I'm a light user. PS: Main reason why I dont want to support Cursor is their merge with Grok platform - I dont feel like giving money to companies who direct weapons into other countries and kill children. Besides who knows where the code goes now that Grok is tightly coupled with Pentagon.
 
-22m ago
+48m ago
 
 ---
 
@@ -123,7 +123,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 **[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,13 +137,13 @@ WSJ • 21h ago
 
 Texas Agriculture Commissioner Sid Miller discusses Tyson Foods closing beef plants amid a historic cattle shortage and the impact of rural artificial intelligence data centers on local water and land resources on ‘The Will Cain Show.’
 
-Fox News • 25m ago
+Fox News • 51m ago
 
 ---
 
 **[These are the Asia Pacific companies you should keep an eye on over the next few months.](https://www.bloomberg.com/features/10-companies-to-watch-apac-2h-2026/)**
 
-Bloomberg.com • 24m ago
+Bloomberg.com • 50m ago
 
 ---
 
@@ -159,7 +159,7 @@ inc.com • 1h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 421 • 💬 255 • 2h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 421 • 💬 255 • 3h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -309,7 +309,7 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 113K • 👍 6K • 💬 1K • ⏱️ 22:19 • 1d ago
+👁️ 113K • 👍 6K • 💬 1K • ⏱️ 22:19 • 2d ago
 
 ---
 
@@ -347,7 +347,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 Rick Beato
 
-👁️ 109K • 👍 7K • 💬 270 • ⏱️ 0:49 • 7h ago
+👁️ 109K • 👍 7K • 💬 270 • ⏱️ 0:49 • 8h ago
 
 ---
 
@@ -649,7 +649,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 55m ago
+⭐ 13.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.3k • 🔱 1.4k • 1h ago
+⭐ 13.3k • 🔱 1.4k • 2h ago
 
 ---
 

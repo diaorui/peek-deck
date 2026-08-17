@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T22:24:32.733053+00:00'
+updated: '2026-08-17T22:50:28.816688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 22:24 UTC  
+**Last Updated:** August 17, 2026 at 22:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,15 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-7h ago
+8h ago
+
+---
+
+**[Need help - Bitcoin wallet emptied.](https://www.reddit.com/r/Bitcoin/comments/1vr2l6y/need_help_bitcoin_wallet_emptied/)**
+
+I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
+
+3h ago
 
 ---
 
@@ -113,9 +121,25 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 ---
 
+**[I am always surprised at how few people understand this.](https://www.reddit.com/r/Bitcoin/comments/1vr4g2r/i_am_always_surprised_at_how_few_people/)**
+
+People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor
+
+2h ago
+
+---
+
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
 1d ago
+
+---
+
+**[Seedsigners getting sold out just about everywhere](https://www.reddit.com/r/Bitcoin/comments/1vr4d9d/seedsigners_getting_sold_out_just_about_everywhere/)**
+
+(Referring to prebuilt versions.) While I do not own one (yet) myself, I keep wondering: since it has only volatile memory, the seed needs to be entered every time, through QR scan. That in itself is a huge risk. I would not want such a risky QR code laying around. Is the version with the card reader better? It would allow for encrypted storage of my seedphrase.
+
+2h ago
 
 ---
 
@@ -127,30 +151,6 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 ---
 
-**[Where do I store my coins as a newbie](https://www.reddit.com/r/Bitcoin/comments/1vqs8u6/where_do_i_store_my_coins_as_a_newbie/)**
-
-So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
-
-9h ago
-
----
-
-**[New to BTC](https://www.reddit.com/r/Bitcoin/comments/1vqr5m3/new_to_btc/)**
-
-I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
-
-9h ago
-
----
-
-**[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
-
-https://satoshitimeline.com/854
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,7 +159,7 @@ https://satoshitimeline.com/854
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 9h ago
 
 Strategy (NASDAQ: $MSTR) left its Bitcoin (CRYPTO: $BTC) holdings unchanged over the past week even as the company ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 8h ago
 
 Michael Saylor’s Strategy (MSTR) did not buy or sell any Bitcoin (BTC) over the past week, but the company continued to raise cash by selling its own stock.According to an 8-K filing with the Securities and Exchange Commission (SEC), Strategy sold about 3.5 million shares of MSTR common stock throu…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bloomberg.com • 8h ago
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 12h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 13h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -333,7 +333,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 979 • 💬 71 • ⏱️ 15:49 • 22h ago
+👁️ 13K • 👍 979 • 💬 71 • ⏱️ 15:49 • 23h ago
 
 ---
 

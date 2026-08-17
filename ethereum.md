@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T22:24:32.738412+00:00'
+updated: '2026-08-17T22:50:28.820745+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 22:24 UTC  
+**Last Updated:** August 17, 2026 at 22:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 8h ago
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 726 • 👍 69 • 💬 50 • ⏱️ 18:58 • 1h ago
+👁️ 726 • 👍 69 • 💬 50 • ⏱️ 18:58 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 138 • 💬 34 • ⏱️ 10:29 • 7h ago
+👁️ 2K • 👍 138 • 💬 34 • ⏱️ 10:29 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 1K • 👍 268 • 💬 20 • ⏱️ 13:34 • 2h ago
+👁️ 1K • 👍 268 • 💬 20 • ⏱️ 13:34 • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 12h ago
+👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 13h ago
 
 ---
 

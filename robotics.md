@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T22:24:32.741288+00:00'
+updated: '2026-08-17T22:50:28.822893+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 22:24 UTC  
+**Last Updated:** August 17, 2026 at 22:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The physical design is finally locked down, and the digital model now mirrors th
 
 Matic’s latest update lets its robot vacuum respond to spoken commands and gestures rather than relying only on an app. The system is still working within a defined set of actions, but the broader robotics question is more interesting: how much of human-robot interaction should depend on people learning an interface, versus robots learning to interpret the ways people already communicate? As robots move into homes and other less structured environments, voice, pointing, movement and context may become increasingly important parts of the control layer.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 5h ago
 
 ---
 
@@ -76,7 +76,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 2h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 3h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-22h ago
+23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 12h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 6h ago
+inc.com • 7h ago
 
 ---
 
@@ -142,7 +142,7 @@ Fox News • 1d ago
 
 **[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
 
-Gizmodo • 32m ago
+Gizmodo • 58m ago
 
 ---
 
@@ -150,7 +150,7 @@ Gizmodo • 32m ago
 
 Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 229 • 💬 32 • ⏱️ 0:56 • 19h ago
+👁️ 9K • 👍 229 • 💬 32 • ⏱️ 0:56 • 20h ago
 
 ---
 
