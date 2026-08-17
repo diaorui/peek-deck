@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T11:51:01.576165+00:00'
+updated: '2026-08-17T12:42:59.268556+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 11:51 UTC  
+**Last Updated:** August 17, 2026 at 12:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.35B
+**Market Cap:** $228.87B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.7%
 
 **All-Time Low:** $0.43
-+437521.7%
++437900.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 6h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -172,7 +172,7 @@ finance.yahoo.com • 14h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-benzinga.com • 18h ago
+benzinga.com • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ benzinga.com • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 1h ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 2d ago
 
 Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
 
-blockchain.news • 2h ago
+blockchain.news • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 3K • 👍 119 • 💬 22 • ⏱️ 35:05 • 10h ago
+👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 530 • 👍 94 • 💬 21 • ⏱️ 29:45 • 2h ago
+👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 3h ago
 
 ---
 
@@ -262,17 +262,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 995 • 💬 93 • ⏱️ 15:54 • 23h ago
+👁️ 27K • 👍 1K • 💬 98 • ⏱️ 15:54 • 23h ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
+**[Ethereum Price Could Rally to Over $2,000 Within A Week](https://www.youtube.com/watch?v=lY-zCMkeoQ4)**
 
-BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ETH on watch for a potentially sharp breakout.
 
-📺 Crypto World
+📺 FXEmpire
 
-👁️ 5K • 👍 206 • 💬 74 • ⏱️ 17:01 • 12h ago
+👁️ 28 • 👍 2 • ⏱️ 3:04 • 1h ago
 
 ---
 
@@ -282,7 +282,17 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 285 • 💬 38 • ⏱️ 14:12 • 13h ago
+👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 14h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
+
+BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 12h ago
 
 ---
 
@@ -292,17 +302,27 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 877 • 💬 239 • ⏱️ 17:49 • 2d ago
+👁️ 8K • 👍 881 • 💬 252 • ⏱️ 17:49 • 2d ago
 
 ---
 
-**[⁉️ UMA GRANDE QUEDA NO PREÇO DO BITCOIN DERRUBARIA ETHEREUM E ALTCOINS TB ⁉️](https://www.youtube.com/watch?v=0wt3gEx1o8w)**
+**[is crypto all a scam? AMA PulseChain Bitcoin HEX Ethereum](https://www.youtube.com/watch?v=xWfdcNm0384)**
 
-Torne-se membro do canal se você gosta dos conteúdos compartilhados, para ter acesso à uma call fechada por semana e para ...
+public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
 
-📺 João Hazim
+📺 Crypto Coffee
 
-👁️ 801 • 👍 192 • 2h ago
+👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 5h ago
+
+---
+
+**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
+
+📺 Crypto Crew University
+
+👁️ 14K • 👍 350 • 💬 10 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -312,27 +332,7 @@ Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 wi
 
 📺 The Rollup
 
-👁️ 952 • 👍 26 • 💬 5 • ⏱️ 9:19 • 1d ago
-
----
-
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
-
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 557 • 💬 118 • ⏱️ 34:25 • 2d ago
-
----
-
-**[Я Не Был Так Оптимистично Настроен в Отношении Ethereum Последние 3 Года.](https://www.youtube.com/watch?v=lj53ss4H2ME)**
-
-В этом видео разбираю Эфириум (ETH). Разбираю фундаментальные факторы за дальнейший рост. А так же показываю ...
-
-📺 Александр Куценко – Криптовалюта, Трейдинг
-
-👁️ 535 • 👍 36 • 💬 11 • ⏱️ 17:28 • 20h ago
+👁️ 998 • 👍 28 • 💬 4 • ⏱️ 9:19 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T11:51:01.579408+00:00'
+updated: '2026-08-17T12:42:59.271928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 11:51 UTC  
+**Last Updated:** August 17, 2026 at 12:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-12h ago
+13h ago
 
 ---
 
@@ -74,7 +74,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,7 +124,7 @@ Interesting Engineering • 1d ago
 
 **[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -132,7 +132,7 @@ The New York Times • 2h ago
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ NASA (.gov) • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 19h ago
+Fox News • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ Fox News • 19h ago
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 10h ago
+Nikkei Asia • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ Nikkei Asia • 10h ago
 
 Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
 
-The Presidential Prayer Team • 3h ago
+The Presidential Prayer Team • 4h ago
 
 ---
 
@@ -194,16 +194,6 @@ South China Morning Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
-
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
-
-📺 Fireship
-
-👁️ 982K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
-
----
-
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
 Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
@@ -214,13 +204,33 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 ---
 
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+
+📺 Fireship
+
+👁️ 984K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+
+---
+
+**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 8K • 👍 269 • 💬 40 • ⏱️ 5:16 • 1d ago
+
+---
+
 **[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
 The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
 📺 Guardian News
 
-👁️ 40K • 👍 477 • 💬 133 • ⏱️ 3:48 • 5d ago
+👁️ 40K • 👍 478 • 💬 133 • ⏱️ 3:48 • 5d ago
 
 ---
 
@@ -234,6 +244,26 @@ We know Spiritually, we are either influenced by God, or evil. Well this new rob
 
 ---
 
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
+
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
+
+📺 Fox Business Clips
+
+👁️ 40K • 👍 556 • 💬 108 • ⏱️ 7:05 • 5d ago
+
+---
+
+**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
+
+China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
+
+📺 Kalil 4.0
+
+👁️ 4K • 👍 117 • 💬 19 • ⏱️ 0:56 • 10h ago
+
+---
+
 **[Chinese robot maker Unitree set to become China&#39;s first humanoid robot stock | DW News](https://www.youtube.com/watch?v=P3W6dKx7u1Y)**
 
 Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it seeks to raise around 900 million dollars for ...
@@ -241,26 +271,6 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 📺 DW News
 
 👁️ 19K • 👍 241 • 💬 166 • ⏱️ 13:41 • 6d ago
-
----
-
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
-
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
-
-📺 Fox Business Clips
-
-👁️ 40K • 👍 555 • 💬 108 • ⏱️ 7:05 • 5d ago
-
----
-
-**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 7K • 👍 260 • 💬 32 • ⏱️ 5:16 • 23h ago
 
 ---
 
@@ -280,17 +290,7 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 9K • 👍 321 • 💬 46 • ⏱️ 1:12:16 • 5d ago
-
----
-
-**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
-
-China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 94 • 💬 16 • ⏱️ 0:56 • 9h ago
+👁️ 9K • 👍 325 • 💬 46 • ⏱️ 1:12:16 • 5d ago
 
 ---
 

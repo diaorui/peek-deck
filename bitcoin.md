@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T11:51:01.569909+00:00'
+updated: '2026-08-17T12:42:59.262413+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 11:51 UTC  
+**Last Updated:** August 17, 2026 at 12:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1270.53B
+**Market Cap:** $1274.51B
 Rank #1
 
-**Circulating Supply:** 20,071,434 BTC
+**Circulating Supply:** 20,071,453 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.8%
+-49.6%
 
 **All-Time Low:** $67.81
-+93322.8%
++93542.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,13 +87,29 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-19h ago
+20h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-19h ago
+20h ago
+
+---
+
+**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
+
+i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
+
+14h ago
+
+---
+
+**[Daily Discussion, August 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1vqjz8h/daily_discussion_august_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+6h ago
 
 ---
 
@@ -103,35 +119,11 @@ https://satoshitimeline.com/854
 
 ---
 
-**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
+**[Roll your own Bitcoin seed](https://www.reddit.com/r/Bitcoin/comments/1vqocqi/roll_your_own_bitcoin_seed/)**
 
-i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
+Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-13h ago
-
----
-
-**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
-
-I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
-
-18h ago
-
----
-
-**[Daily Discussion, August 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1vqjz8h/daily_discussion_august_17_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
-**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
-
-Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
-
-21h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 2h ago
 
 ---
 
@@ -139,15 +131,23 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 4h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 5h ago
 
 ---
 
-**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
+**[Strategy CEO: crypto momentum should pick up in the fall](https://www.reddit.com/r/Bitcoin/comments/1vqqs11/strategy_ceo_crypto_momentum_should_pick_up_in/)**
 
-Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
+Phong Le says late summer has been quiet, but he expects more policy and industry momentum around crypto this autumn.
 
-21h ago
+22m ago
+
+---
+
+**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
+
+I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
+
+19h ago
 
 ---
 
@@ -159,7 +159,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ Bitcoin Foundation • 3h ago
 
 **[Bitcoin's Biggest Holders, Strategy and Metaplanet, Are Betting on Math, Not Price](https://www.moomoo.com/news/post/74796137/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on)**
 
-Moomoo • 22m ago
+Moomoo • 1h ago
 
 ---
 
@@ -189,13 +189,13 @@ Moomoo • 22m ago
 
 World Gold Council CEO David Tait believes Bitcoin will eventually reach zero because it behaves more like a risk asset than a crisis hedge. Tait ...
 
-finance.yahoo.com • 2h ago
+finance.yahoo.com • 3h ago
 
 ---
 
 **[Bitcoin (BTC) ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Investing.com • 13h ago
 
 Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ Fortune • 4h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -245,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -261,7 +261,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 2h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 3h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -291,41 +291,13 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor! Who SHOULD NOT Buy Bitcoin NOW!](https://www.youtube.com/watch?v=upQmQKXk7lE)**
-
-Hurley talks about Michael Saylor! Who SHOULD NOT Buy Bitcoin NOW! Brought to you by Bitcoinwell.com a bitcoin-only platform ...
-
-📺 Simply Bitcoin
-
-👁️ 2K • 👍 86 • 💬 5 • ⏱️ 1:05 • 11h ago
-
----
-
-**[Bitcoin vs Gold: Which One Will Own The Future of Finance?](https://www.youtube.com/watch?v=RCLw6HhWxJ0)**
-
-As confidence in the dollar comes under pressure, the battle over the future of money is getting serious. Tether is holding more ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 772 • 💬 45 • ⏱️ 15:49 • 12h ago
-
----
-
 **[$10 Million Bitcoin Cycle - History Says The Next Move Is Coming](https://www.youtube.com/watch?v=9KQTA4LDXIc)**
 
 Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is approaching a fascinating historical window.
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 196 • 💬 96 • ⏱️ 17:10 • 13h ago
-
----
-
-**[Who are YOU mining Bitcoin for?](https://www.youtube.com/watch?v=_dvdJYVn2J0)**
-
-📺 InfoWars
-
-👁️ 20K • 👍 3K • 💬 73 • ⏱️ 0:42 • 16h ago
+👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 14h ago
 
 ---
 
@@ -335,25 +307,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 81K • 👍 5K • 💬 302 • ⏱️ 16:15 • 1d ago
-
----
-
-**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
-
-📺 Bitcoin University
-
-👁️ 11K • 👍 1K • 💬 637 • ⏱️ 14:27 • 16h ago
-
----
-
-**[PPI #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=U4irhev0Cro)**
-
-📺 Khuncoin
-
-👁️ 31K • 👍 381 • 💬 5 • ⏱️ 0:24 • 2d ago
+👁️ 84K • 👍 5K • 💬 311 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -363,27 +317,75 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 654 • 💬 16 • ⏱️ 0:53 • 2d ago
+👁️ 45K • 👍 663 • 💬 16 • ⏱️ 0:53 • 2d ago
 
 ---
 
-**[Mizkif Couldn’t Believe Lacy Put All His Money Into Bitcoin 🤔](https://www.youtube.com/watch?v=kVJXvZtWo2A)**
+**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
 
-Lacy says he put all his money into Bitcoin and predicts the market is about to boom while Mizkif reacts. I stream every day live at ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
 
-📺 Mizkif
+📺 Bitcoin University
 
-👁️ 17K • 👍 253 • 💬 125 • ⏱️ 0:17 • 1d ago
+👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 17h ago
 
 ---
 
-**[Bitcoin - A Redistribution?](https://www.youtube.com/watch?v=7LHXIQ5c7Vs)**
+**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
 
-Come to the 1st ITC Conference in November, Ticket Prices go up September 1st! https://www.benjamincowen.com/conference ...
+Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
+
+📺 VoskCoin
+
+👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 18h ago
+
+---
+
+**[Bitcoin Volatility Is Getting Incredibly Low](https://www.youtube.com/watch?v=06H6KY-xDnU)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 213 • 💬 9 • ⏱️ 0:34 • 1d ago
+👁️ 8K • 👍 207 • 💬 5 • ⏱️ 0:39 • 14h ago
+
+---
+
+**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
+
+Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 699 • 💬 252 • ⏱️ 1:03:40 • 23h ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 87K • 👍 2K • 💬 55 • ⏱️ 0:54 • 2d ago
+
+---
+
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 473 • 💬 22 • ⏱️ 55:12 • 1d ago
+
+---
+
+**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+
+Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 69 • 💬 12 • ⏱️ 2:18 • 21h ago
 
 ---
 
