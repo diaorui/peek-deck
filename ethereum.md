@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T12:42:59.268556+00:00'
+updated: '2026-08-17T13:39:24.657174+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 12:42 UTC  
+**Last Updated:** August 17, 2026 at 13:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
+**24h:** +1.2%  
 **7d:** +1.2%  
-**30d:** +1.7%  
+**30d:** +1.6%  
 **90d:** -10.5%  
 **1y:** -55.8%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 7h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
 
-finance.yahoo.com • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ finance.yahoo.com • 14h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-benzinga.com • 19h ago
+Benzinga • 20h ago
 
 ---
 
@@ -180,7 +180,23 @@ benzinga.com • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 1h ago
+
+---
+
+**[Bitmine’s Ethereum holdings hit 5.82M tokens; buybacks cross 20.8M shares](https://seekingalpha.com/news/4633843-bitmines-ethereum-holdings-hit-582m-tokens-buybacks-cross-208m-shares)**
+
+Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
+
+Seeking Alpha • 23m ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds critical support, ETH awaits directional move, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-critical-support-eth-awaits-directional-move-xrp-weakens-202608170317)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
+
+FXStreet • 10h ago
 
 ---
 
@@ -188,7 +204,7 @@ Fortune • 2h ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -204,7 +220,7 @@ CryptoSlate • 2d ago
 
 Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
 
-blockchain.news • 3h ago
+blockchain.news • 4h ago
 
 ---
 
@@ -213,22 +229,6 @@ blockchain.news • 3h ago
 Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
 
 Cryptonews.net • 1d ago
-
----
-
-**[Solana Has Plans to Become 'The Netflix of Finance.' What Does That Mean for the Price of SOL?](https://www.fool.com/investing/2026/08/14/solana-has-plans-to-become-the-netflix-of-finance/)**
-
-Could the "Ethereum" killer unify the fragmented financial market?
-
-The Motley Fool • 2d ago
-
----
-
-**[Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo](https://financefeeds.com/vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo/)**
-
-Ethereum co-founder Vitalik Buterin says Ethereum’s next phase of scaling can draw lessons from Bitcoin’s Utreexo technology, pointing to growing convergence
-
-FinanceFeeds • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 11h ago
+👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 3h ago
+👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 1K • 💬 98 • ⏱️ 15:54 • 23h ago
+👁️ 27K • 👍 1K • 💬 98 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 28 • 👍 2 • ⏱️ 3:04 • 1h ago
+👁️ 28 • 👍 2 • ⏱️ 3:04 • 2h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 14h ago
+👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 15h ago
 
 ---
 
@@ -292,7 +292,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 12h ago
+👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 13h ago
 
 ---
 
@@ -312,7 +312,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 5h ago
+👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T12:42:59.262413+00:00'
+updated: '2026-08-17T13:39:24.653014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 12:42 UTC  
+**Last Updated:** August 17, 2026 at 13:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,632.37
+### $63,465.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.0%  
 **7d:** +0.2%  
 **30d:** -1.5%  
 **90d:** -17.8%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-20h ago
+21h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 2h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 5h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Phong Le says late summer has been quiet, but he expects more policy and industry momentum around crypto this autumn.
 
-22m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Phong Le says late summer has been quiet, but he expects more policy and industr
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-19h ago
+20h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -171,53 +171,29 @@ Forbes • 1d ago
 
 ---
 
-**[JPMorgan Opens Bitcoin-Backed Lending as Wall Street Pushes Deeper Into Crypto](https://bitcoinfoundation.org/news/bitcoin/jpmorgan-opens-bitcoin-backed-lending-as-wall-street-pushes-deeper-into-crypto/)**
+**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
 
-JPMorgan brings Bitcoin and Ethereum into institutional lending, expanding crypto’s role in traditional finance and collateral markets.
+The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
 
-Bitcoin Foundation • 3h ago
+Yahoo Finance • 42m ago
 
 ---
 
-**[Bitcoin's Biggest Holders, Strategy and Metaplanet, Are Betting on Math, Not Price](https://www.moomoo.com/news/post/74796137/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on)**
+**[Canaan reports July bitcoin mining output, treasury holdings](https://www.investing.com/news/company-news/canaan-reports-july-bitcoin-mining-output-treasury-holdings-93CH-4863278)**
+
+Investing.com • 24m ago
+
+---
+
+**[No Change in Bitcoin Holdings as Strategy Boosted Dollar Reserve, Bought Back More STRC Last Week](https://www.moomoo.com/news/post/74799056/no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve)**
 
 Moomoo • 1h ago
 
 ---
 
-**[Bitcoin Will Eventually Go to Zero, World Gold Council CEO Warns — Here’s Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eventually-zero-world-gold-091106234.html)**
+**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-World Gold Council CEO David Tait believes Bitcoin will eventually reach zero because it behaves more like a risk asset than a crisis hedge. Tait ...
-
-finance.yahoo.com • 3h ago
-
----
-
-**[Bitcoin (BTC) ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
-
-Bloomberg.com • 7h ago
-
----
-
-**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
-
-Investing.com • 13h ago
-
----
-
-**[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)**
-
-Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
-
-Decrypt • 2h ago
-
----
-
-**[Current price of Bitcoin for Aug. 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 4h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -225,7 +201,31 @@ Fortune • 4h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 20h ago
+TradingView • 21h ago
+
+---
+
+**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
+
+HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
+
+The Block • 3h ago
+
+---
+
+**[Africa’s first Bitcoin treasury company delays UK listing three days before market debut](https://africa.businessinsider.com/local/markets/africas-first-bitcoin-treasury-company-delays-uk-listing-three-days-before-market/9yp8xk2)**
+
+South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
+
+Business Insider Africa • 3h ago
+
+---
+
+**[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)**
+
+Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
+
+Decrypt • 3h ago
 
 ---
 
@@ -245,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 6h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -297,7 +297,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 14h ago
+👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 15h ago
 
 ---
 
@@ -327,7 +327,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 17h ago
+👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 18h ago
 
 ---
 
@@ -337,7 +337,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 18h ago
+👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 8K • 👍 207 • 💬 5 • ⏱️ 0:39 • 14h ago
+👁️ 8K • 👍 207 • 💬 5 • ⏱️ 0:39 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamental
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 699 • 💬 252 • ⏱️ 1:03:40 • 23h ago
+👁️ 16K • 👍 699 • 💬 252 • ⏱️ 1:03:40 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 69 • 💬 12 • ⏱️ 2:18 • 21h ago
+👁️ 2K • 👍 69 • 💬 12 • ⏱️ 2:18 • 22h ago
 
 ---
 

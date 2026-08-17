@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T12:42:59.271928+00:00'
+updated: '2026-08-17T13:39:24.659411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 12:42 UTC  
+**Last Updated:** August 17, 2026 at 13:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-13h ago
+14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Doggo is chill and calm in the simulation, but in real life, he's having uncontr
 
 I’ve been working on this robot project for a while and finally got it to the point where it can complete a full task autonomously. It explores and navigates the room, localize objects, approach them and manipulate them with the arm. I built the XLeRobot myself, printing the parts, getting cheap servos, wiring it together. It uses Orbbec Gemini 2 camera for RGBD and wheel odometry to move around the space. I fine tuned SmolVLA on my local GPU (Rtx 4060 ti 16GB) with a dataset I gathered using Quest 3s. The project is open source, I’ll try to post the links below.
 
-1d ago
+2d ago
 
 ---
 
@@ -74,7 +74,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -118,13 +118,19 @@ I'm interested in learning how robotic hands can sense things like pressure, tem
 
 A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
-**[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
+
+---
+
+**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
+
+Axios • 1h ago
 
 ---
 
@@ -132,7 +138,7 @@ The New York Times • 3h ago
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -144,19 +150,25 @@ CNBC • 3d ago
 
 ---
 
+**[Robot learns to dismantle broken machines](https://www.foxnews.com/science/robot-learns-dismantle-broken-machines)**
+
+Karlsruhe Institute of Technology researchers built a robotic disassembly system that adapts when screws get stuck or parts go missing in old machines.
+
+Fox News • 1h ago
+
+---
+
+**[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
+
+Bloomberg.com • 1h ago
+
+---
+
 **[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
 
 Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
 
-NASA (.gov) • 2d ago
-
----
-
-**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
-
-Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
-
-Fox News • 20h ago
+nasa.gov • 2d ago
 
 ---
 
@@ -164,29 +176,15 @@ Fox News • 20h ago
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 11h ago
+Nikkei Asia • 12h ago
 
 ---
 
-**[Naval Academy Integrates Robotics and Autonomous Systems into Summer Training](https://www.presidentialprayerteam.org/2026/08/17/naval-academy-integrates-robotics-and-autonomous-systems-into-summer-training/)**
+**[Exclusive: SoftBank Is Investing $200 Million in Autonomous Construction Startup Gravis Robotics](https://www.inc.com/georgia-fearn/exclusive-softbank-is-investing-200-million-in-autonomous-construction-startup-gravis-robotics/91390995)**
 
-Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
+'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-The Presidential Prayer Team • 4h ago
-
----
-
-**[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
-
-Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
-
-Medscape • 3d ago
-
----
-
-**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
-
-South China Morning Post • 1d ago
+inc.com • 56m ago
 
 ---
 
@@ -260,7 +258,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 117 • 💬 19 • ⏱️ 0:56 • 10h ago
+👁️ 4K • 👍 117 • 💬 19 • ⏱️ 0:56 • 11h ago
 
 ---
 
