@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T08:43:05.720245+00:00'
+updated: '2026-08-17T09:41:11.244432+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 08:43 UTC  
+**Last Updated:** August 17, 2026 at 09:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-9h ago
+10h ago
 
 ---
 
@@ -44,19 +44,19 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-21h ago
+22h ago
 
 ---
 
 **[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -124,13 +124,13 @@ Interesting Engineering • 1d ago
 
 Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
 
-The Presidential Prayer Team • 13m ago
+The Presidential Prayer Team • 1h ago
 
 ---
 
 **[BSF Enterprise forms partnership for lab-grown leather, robotics By Investing.com](https://ng.investing.com/news/stock-market-news/bsf-enterprise-forms-partnership-for-labgrown-leather-robotics-93CH-2662026)**
 
-Investing.com Nigeria • 2h ago
+Investing.com Nigeria • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ CNBC • 3d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 16h ago
+Fox News • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ South China Morning Post • 1d ago
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 7h ago
+Nikkei Asia • 8h ago
 
 ---
 
@@ -228,7 +228,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 7K • 👍 257 • 💬 31 • ⏱️ 5:16 • 20h ago
+👁️ 7K • 👍 257 • 💬 31 • ⏱️ 5:16 • 21h ago
 
 ---
 
@@ -248,7 +248,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 67 • 💬 7 • ⏱️ 0:56 • 6h ago
+👁️ 2K • 👍 67 • 💬 7 • ⏱️ 0:56 • 7h ago
 
 ---
 

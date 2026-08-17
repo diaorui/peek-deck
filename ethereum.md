@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T08:43:05.717302+00:00'
+updated: '2026-08-17T09:41:11.241562+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 08:43 UTC  
+**Last Updated:** August 17, 2026 at 09:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-ethereum.org • 24m ago
+ethereum.org • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ ethereum.org • 24m ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 15h ago
+Benzinga • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ Benzinga • 15h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 5h ago
+FXStreet • 6h ago
 
 ---
 
@@ -204,7 +204,7 @@ CryptoSlate • 2d ago
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 8h ago
+blockchain.news • 9h ago
 
 ---
 
@@ -212,7 +212,7 @@ blockchain.news • 8h ago
 
 US spot Bitcoin ETFs saw $389.71M in net outflows last week, the largest in six weeks, while Ethereum ETFs lost $2.26M, ending a five-week inflow
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -220,7 +220,7 @@ Crypto Briefing • 4h ago
 
 Ethereum co-founder Vitalik Buterin says Ethereum’s next phase of scaling can draw lessons from Bitcoin’s Utreexo technology, pointing to growing convergence
 
-FinanceFeeds • 1h ago
+FinanceFeeds • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 2K • 👍 84 • 💬 11 • ⏱️ 35:05 • 7h ago
+👁️ 2K • 👍 84 • 💬 11 • ⏱️ 35:05 • 8h ago
 
 ---
 
@@ -252,7 +252,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 950 • 💬 92 • ⏱️ 15:54 • 19h ago
+👁️ 25K • 👍 950 • 💬 92 • ⏱️ 15:54 • 20h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 255 • 💬 45 • ⏱️ 14:12 • 10h ago
+👁️ 3K • 👍 255 • 💬 45 • ⏱️ 14:12 • 11h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 4K • 👍 192 • 💬 92 • ⏱️ 17:01 • 8h ago
+👁️ 4K • 👍 192 • 💬 92 • ⏱️ 17:01 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ Well, it looks like things are a changing in the cryptocurrency market. We've go
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 938 • 💬 216 • ⏱️ 29:34 • 23h ago
+👁️ 13K • 👍 938 • 💬 216 • ⏱️ 29:34 • 1d ago
 
 ---
 
@@ -302,7 +302,7 @@ Just when you thought you've seen it all, this might actually be the most delusi
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 556 • 💬 98 • ⏱️ 34:25 • 1d ago
+👁️ 6K • 👍 556 • 💬 98 • ⏱️ 34:25 • 2d ago
 
 ---
 

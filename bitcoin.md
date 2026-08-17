@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T08:43:05.711792+00:00'
+updated: '2026-08-17T09:41:11.235979+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 08:43 UTC  
+**Last Updated:** August 17, 2026 at 09:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-16h ago
+17h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-10h ago
+11h ago
 
 ---
 
@@ -115,23 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-15h ago
-
----
-
-**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
-
-Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
-
-18h ago
-
----
-
-**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
-
-Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
-
-18h ago
+16h ago
 
 ---
 
@@ -139,13 +123,31 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
-**[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
+**[How unlucky can I be?](https://www.reddit.com/r/Bitcoin/comments/1vpyjdi/how_unlucky_can_i_be/)**
 
-23h ago
+Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
+
+19h ago
+
+---
+
+**[SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.reddit.com/r/Bitcoin/comments/1vqlgs3/safepal_data_breach_impacts_39798_customers/)**
+
+If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
+
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 2h ago
+
+---
+
+**[if you use Wallet of Satoshi - you have until jun 30 2027 to move your funds](https://www.reddit.com/r/Bitcoin/comments/1vpyozs/if_you_use_wallet_of_satoshi_you_have_until_jun/)**
+
+Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
+
+19h ago
 
 ---
 
@@ -165,13 +167,13 @@ CoinDesk • 4d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates?srnd=homepage-americas)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -179,7 +181,7 @@ Bloomberg.com • 3h ago
 
 Benjamin Cowen puts Bitcoin's cycle bottom 69 to 73 days away, but analysts debate whether BTC still follows old cycles.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,13 +189,13 @@ Yahoo Finance • 1h ago
 
 JPMorgan brings Bitcoin and Ethereum into institutional lending, expanding crypto’s role in traditional finance and collateral markets.
 
-Bitcoin Foundation • 17m ago
+Bitcoin Foundation • 1h ago
 
 ---
 
 **[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -201,7 +203,7 @@ Investing.com • 9h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -209,7 +211,7 @@ The Motley Fool • 21h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -217,7 +219,7 @@ TradingView • 16h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -225,7 +227,7 @@ Seeking Alpha • 20h ago
 
 This week’s crypto headlines covered regulation, Bitcoin, ETF buying and the growing tokenization of stocks.
 
-Benzinga • 19h ago
+Benzinga • 20h ago
 
 ---
 
@@ -245,7 +247,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 2h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -267,7 +269,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching](https://news.ycombinator.com/item?id=49283406)**
 
-⬆️ 1 • 💬 0 • 3d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
+⬆️ 1 • 💬 0 • 4d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals)
 
 ---
 
@@ -289,7 +291,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 22h ago
+👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 23h ago
 
 ---
 
@@ -299,7 +301,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 9h ago
+👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 10h ago
 
 ---
 
@@ -309,7 +311,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 10h ago
+👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 11h ago
 
 ---
 
@@ -339,7 +341,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 13h ago
+👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 14h ago
 
 ---
 
@@ -359,7 +361,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 23h ago
+👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 1d ago
 
 ---
 
