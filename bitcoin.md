@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-16T23:44:23.814406+00:00'
+updated: '2026-08-17T01:16:13.782699+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 16, 2026 at 23:44 UTC  
+**Last Updated:** August 17, 2026 at 01:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $62,955.69
+### $62,870.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.7%  
-**30d:** -3.0%  
-**90d:** -18.2%  
-**1y:** -46.5%  
+**24h:** -0.1%  
+**7d:** -0.9%  
+**30d:** -2.6%  
+**90d:** -18.7%  
+**1y:** -45.9%  
 
 ---
 
@@ -81,25 +81,25 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-7h ago
+8h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-2h ago
+4h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-9h ago
+10h ago
 
 ---
 
@@ -131,13 +131,13 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -163,29 +163,29 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-forbes.com • 11h ago
+Forbes • 13h ago
 
 ---
 
-**[4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP](https://finance.yahoo.com/markets/crypto/articles/4-reasons-could-most-important-210327553.html)**
+**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
 
-Trump meets crypto leaders, Fed minutes land, and Japan tests the carry trade. Four catalysts that could move Bitcoin and XRP.
+CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-ethereum-solana-drop-214547270.html)**
-
-Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 14h ago
+Investing.com • 2h ago
+
+---
+
+**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://www.fool.com/investing/2026/08/16/bitcoin-miner-riot-platforms-just-signed-a-9-billi/)**
+
+Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
+
+The Motley Fool • 13h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investing.com • 14h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
@@ -201,7 +201,7 @@ TradingView • 7h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -209,21 +209,21 @@ Seeking Alpha • 11h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 8h ago
+Benzinga • 9h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
+
+Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
+
+Yahoo Finance • 2d ago
 
 ---
 
 **[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
 
 Investing.com • 1d ago
-
----
-
-**[Bitcoin Price Prediction: Why Is Bitcoin Dropping?](https://247wallst.com/investing/cryptocurrency/2026/08/14/bitcoin-price-prediction-why-is-bitcoin-dropping/)**
-
-Inflation cooled in July but the Bitcoin price still dropped. Here is who is selling BTC, and where the price goes through September.
-
-24/7 Wall St. • 2d ago
 
 ---
 
@@ -279,7 +279,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 13h ago
+👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 14h ago
 
 ---
 
@@ -367,7 +367,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 5K • 👍 726 • 💬 448 • ⏱️ 14:27 • 4h ago
+👁️ 5K • 👍 726 • 💬 448 • ⏱️ 14:27 • 6h ago
 
 ---
 
