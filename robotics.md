@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T04:41:15.599174+00:00'
+updated: '2026-08-17T05:35:04.379655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 04:41 UTC  
+**Last Updated:** August 17, 2026 at 05:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,19 +44,19 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-17h ago
+18h ago
 
 ---
 
 **[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 21h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 22h ago
 
 ---
 
@@ -128,11 +128,25 @@ CNBC • 3d ago
 
 ---
 
+**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+
+Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+
+nasa.gov • 2d ago
+
+---
+
 **[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 12h ago
+Fox News • 13h ago
 
 ---
 
@@ -144,17 +158,19 @@ Global Times • 1d ago
 
 ---
 
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+**[China: Dr Octopus is becoming real with Feagine's new soft robot](https://interestingengineering.com/ai-robotics/feagine-fi0-cross-embodiment-robot-ai)**
 
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+Feagine has introduced Fi0, an AI model designed to transfer robot skills across different bodies, alongside three new soft manipulators.
 
-NASA (.gov) • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
+**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
 
-scmp.com • 1d ago
+Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
+
+Nikkei Asia • 4h ago
 
 ---
 
@@ -166,14 +182,6 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
-
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
-
-Nikkei Asia • 3h ago
-
----
-
 **[How robotics is revolutionizing stroke rehabilitation](https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/)**
 
 Eyal Samuel Shachar, the CEO of Bioxtreme, said the growing synergy of robotics, AI, and human-centered care will improve patient outcomes.
@@ -182,45 +190,9 @@ The Robot Report • 16h ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
-
-southtahoenow.com • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
-
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
-
-📺 Fireship
-
-👁️ 978K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
-
----
-
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
-
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
-
-📺 Guardian News
-
-👁️ 40K • 👍 474 • 💬 133 • ⏱️ 3:48 • 5d ago
-
----
-
-**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 6K • 👍 234 • 💬 26 • ⏱️ 5:16 • 16h ago
-
----
 
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
@@ -232,13 +204,53 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 ---
 
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+
+📺 Fireship
+
+👁️ 979K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+
+---
+
+**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 6K • 👍 248 • 💬 26 • ⏱️ 5:16 • 17h ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 476 • 💬 133 • ⏱️ 3:48 • 5d ago
+
+---
+
+**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
+
+China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 49 • 💬 5 • ⏱️ 0:56 • 3h ago
+
+---
+
 **[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
 
 What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
 
 📺 Imagination in Action
 
-👁️ 9K • 👍 313 • 💬 45 • ⏱️ 1:12:16 • 5d ago
+👁️ 9K • 👍 318 • 💬 46 • ⏱️ 1:12:16 • 5d ago
 
 ---
 
@@ -252,13 +264,13 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 ---
 
-**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
+**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
 
-GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
+Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
 
-📺 Fox Business Clips
+📺 KhanFlicks
 
-👁️ 40K • 👍 554 • 💬 109 • ⏱️ 7:05 • 5d ago
+👁️ 51K • 💬 60 • ⏱️ 8:34 • 5d ago
 
 ---
 
@@ -268,27 +280,17 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 228K • 👍 3K • 💬 597 • ⏱️ 10:16 • 2d ago
+👁️ 229K • 👍 3K • 💬 598 • ⏱️ 10:16 • 2d ago
 
 ---
 
-**[Why I Quit My PhD in Robotics – Did I Make a Mistake?](https://www.youtube.com/watch?v=hoGCq23-x8U)**
+**[China’s New Robots Are Getting Seriously Unsettling…](https://www.youtube.com/watch?v=6_cZKbezt_Q)**
 
-Join Robotics Builder Membership for Behind the Scene Videos: ...
+China isn't building ONE robot to rule them all… it's building an entire ARMY. While Tesla, Figure, and Boston Dynamics chase a ...
 
-📺 Kevin Wood | Robotics & AI
+📺 The AI Nexus
 
-👁️ 14K • 👍 334 • 💬 57 • ⏱️ 11:50 • 6d ago
-
----
-
-**[Why Walking Robots Are So Hard to Build](https://www.youtube.com/watch?v=qKkivaZwqTo)**
-
-Huge thanks to PCBWay for supporting this project! Checkout their CNC and metal 3D printing services. If you use my link when ...
-
-📺 Food For Robots
-
-👁️ 37K • 👍 2K • 💬 130 • ⏱️ 18:39 • 4d ago
+👁️ 52K • 👍 960 • 💬 109 • ⏱️ 18:03 • 5d ago
 
 ---
 
