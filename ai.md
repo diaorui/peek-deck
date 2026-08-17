@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T22:50:28.810736+00:00'
+updated: '2026-08-17T23:22:51.024985+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 22:50 UTC  
+**Last Updated:** August 17, 2026 at 23:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ As AI agents start doing more ops work, I think business banking has to think ab
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-37m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 "He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.” Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; "The Hebrew equivalent of our "w" is the letter "vav" or "waw". The numerical value of vav is 6. So the English "www" transliterated into Hebrew is "vav vav vav", which numerically is 666.” Is "www" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) History Preceding the book of Revelation This article explains many of the “natural signs, spiritual signs, sociological signs, technological signs, and political signs,” foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, earthquakes, plagues, moral decline, wars, growing governmental dominance/deception ("with all power, signs, and lying wonders," 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org What is the end times timeline? | GotQuestions.org How can I overcome my fear of the end of days? | GotQuestions.org "For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.” John 3:16 Going to heaven-how can I guarantee my eternal destination? More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested.
 
-41m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ The internet is integral in most peoples lives around the world. It is conceivab
 
 I'm looking for replacement of Cursor. Mainly the question is about what Model that can match Cursor's Composer 2.5 (I dont need anything more than that) So companies I'm NOT looking at: - OpenAi - X - Cursor - Google - Meta So that leaves: - Mistral - Deepseek - Qwen - Kimi - Minimax Which one of them has a multi-modal(text+image, no video needed) LLM that can fit into $20/month plan? Assume I'm a light user. PS: Main reason why I dont want to support Cursor is their merge with Grok platform - I dont feel like giving money to companies who direct weapons into other countries and kill children. Besides who knows where the code goes now that Grok is tightly coupled with Pentagon.
 
-48m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm looking for replacement of Cursor. Mainly the question is about what Model t
 
 So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 7h ago
 
 **[Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -137,13 +137,13 @@ WSJ • 21h ago
 
 Texas Agriculture Commissioner Sid Miller discusses Tyson Foods closing beef plants amid a historic cattle shortage and the impact of rural artificial intelligence data centers on local water and land resources on ‘The Will Cain Show.’
 
-Fox News • 51m ago
+Fox News • 1h ago
 
 ---
 
 **[These are the Asia Pacific companies you should keep an eye on over the next few months.](https://www.bloomberg.com/features/10-companies-to-watch-apac-2h-2026/)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 50m ago
 
 The contradiction creates shadow AI and makes preventable mistakes harder to catch.
 
-inc.com • 1h ago
+inc.com • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 12h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-washingtonpost.com • 6h ago
+washingtonpost.com • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ washingtonpost.com • 6h ago
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-404 Media • 7h ago
+404 Media • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 6h ago
 
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-Ars Technica • 4h ago
+Ars Technica • 5h ago
 
 ---
 
@@ -235,7 +235,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 289 • 💬 120 • 8h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 289 • 💬 120 • 9h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -245,7 +245,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 227 • 💬 485 • 20h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 227 • 💬 485 • 21h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -253,7 +253,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 219 • 💬 118 • 8h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 219 • 💬 118 • 9h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -275,7 +275,7 @@ A new survey of 1,000 young adults in the US found that nine of the top tech exe
 
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-⬆️ 125 • 💬 6 • 3h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+⬆️ 125 • 💬 6 • 4h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 
 ---
 
@@ -289,7 +289,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 14K • 💬 6 • ⏱️ 38:48 • 8h ago
+👁️ 14K • 💬 6 • ⏱️ 38:48 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ Subscribe for more!
 
 📺 Aaron Parnas
 
-👁️ 27K • 👍 6K • 💬 222 • ⏱️ 1:06 • 6h ago
+👁️ 27K • 👍 6K • 💬 222 • ⏱️ 1:06 • 7h ago
 
 ---
 
@@ -439,7 +439,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,100 • 8h ago
+⬇️ 465,529 • ❤️ 1,100 • 9h ago
 
 ---
 
@@ -727,7 +727,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 14h ago
+⭐ 2.2k • 🔱 177 • 15h ago
 
 ---
 
@@ -737,7 +737,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 282 • 4h ago
+⭐ 2.1k • 🔱 282 • 5h ago
 
 ---
 
