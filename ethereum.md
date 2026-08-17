@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T01:16:13.788132+00:00'
+updated: '2026-08-17T02:41:37.178580+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 01:16 UTC  
+**Last Updated:** August 17, 2026 at 02:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.3%  
-**30d:** +0.8%  
-**90d:** -11.3%  
-**1y:** -56.2%  
+**24h:** +0.6%  
+**7d:** +0.6%  
+**30d:** +1.1%  
+**90d:** -11.0%  
+**1y:** -56.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $226.07B
+**Market Cap:** $228.40B
 Rank #2
 
-**Circulating Supply:** 120,681,942 ETH
+**Circulating Supply:** 120,681,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.1%
+-61.7%
 
 **All-Time Low:** $0.43
-+432477.6%
++437020.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -160,19 +160,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans](https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks)**
-
-The Ethereum staking platform Ether.fi is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.
-
-Decrypt • 3d ago
-
----
-
 **[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 7h ago
+Benzinga • 9h ago
 
 ---
 
@@ -192,17 +184,19 @@ CryptoSlate • 2d ago
 
 ---
 
+**[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
+
+Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
+
+Decrypt • 2d ago
+
+---
+
 **[Vitalik Buterin: Ethereum Scaling Strategy Advances](https://blockchain.news/flashnews/vitalik-buterin-ethereum-scaling-strategy-advances)**
 
 Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
 
-blockchain.news • 8h ago
-
----
-
-**[Ethereum Price to $12,000? Tom Lee’s Prediction in Focus as Fed Rate Fears Ease](https://www.ccn.com/news/crypto/ethereum-price-12000-tom-lee-call-focus-fed-rates-unchanged/)**
-
-CCN.com • 3d ago
+blockchain.news • 9h ago
 
 ---
 
@@ -210,7 +204,15 @@ CCN.com • 3d ago
 
 Could the "Ethereum" killer unify the fragmented financial market?
 
-The Motley Fool • 2d ago
+fool.com • 2d ago
+
+---
+
+**[Ethereum and Solana may become scarcer – THESE Grayscale projections say…](https://cryptonews.net/news/ethereum/33302499/)**
+
+Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
+
+Cryptonews.net • 21h ago
 
 ---
 
@@ -220,11 +222,15 @@ Grayscale • 3d ago
 
 ---
 
-**[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH](https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth)**
+**[Why Fidelity added staking rewards to its ethereum ETF](https://finance.yahoo.com/video/why-fidelity-added-staking-rewards-200000275.html)**
 
-Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.
+Scott Melker breaks down Fidelity's decision to add staking rewards to its ethereum ETF, explaining why offering staking yield has become an essential requirement for crypto ETF providers to stay competitive.
 
-Decrypt • 2d ago
+"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -238,7 +244,27 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 787 • 💬 88 • ⏱️ 15:54 • 12h ago
+👁️ 22K • 👍 871 • 💬 95 • ⏱️ 15:54 • 13h ago
+
+---
+
+**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
+
+Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
+
+📺 The Rollup
+
+👁️ 442 • 👍 34 • 💬 4 • ⏱️ 35:05 • 1h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
+
+BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 115 • 💬 70 • ⏱️ 17:01 • 2h ago
 
 ---
 
@@ -248,17 +274,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 455 • 👍 77 • 💬 20 • ⏱️ 14:12 • 3h ago
-
----
-
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
-
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 550 • 💬 99 • ⏱️ 34:25 • 1d ago
+👁️ 2K • 👍 215 • 💬 30 • ⏱️ 14:12 • 4h ago
 
 ---
 
@@ -268,7 +284,17 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 859 • 💬 233 • ⏱️ 17:49 • 1d ago
+👁️ 8K • 👍 865 • 💬 280 • ⏱️ 17:49 • 1d ago
+
+---
+
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
+
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 552 • 💬 118 • ⏱️ 34:25 • 1d ago
 
 ---
 
@@ -278,7 +304,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 13K • 👍 333 • 💬 9 • ⏱️ 0:31 • 2d ago
+👁️ 13K • 👍 336 • 💬 16 • ⏱️ 0:31 • 2d ago
 
 ---
 
@@ -292,43 +318,23 @@ JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chap
 
 ---
 
-**[Is Ethereum Preparing for a Breakout or Another Rejection?](https://www.youtube.com/watch?v=gD-R_sBFUp4)**
+**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
 
-Bybit is currently running a limited promotion for the MCO community. Deposit at least $100 within 30 days and receive $25 worth ...
+In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 168 • 💬 8 • ⏱️ 7:21 • 2d ago
+👁️ 3K • 👍 178 • 💬 18 • ⏱️ 5:23 • 19h ago
 
 ---
 
-**[Jesse Pollak: Why Base&#39;s Growth Is Ethereum&#39;s Growth (The Endgame Is Everything Onchain)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
 
-Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
 
-📺 The Rollup
+📺 Money Rules - Investing Tips 
 
-👁️ 779 • 👍 25 • 💬 2 • ⏱️ 9:19 • 1d ago
-
----
-
-**[URGENT XRP HYPE BITCOIN ETHEREUM 🚨 Know This Before FRIDAY](https://www.youtube.com/watch?v=3ocNvjczMIQ)**
-
-1️⃣ *   40% off Monthly Membership code NOW* ➡https://join.stockmoeacademy.com/ready 2️⃣ *   Save 40% code NOW ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 550 • 💬 36 • ⏱️ 10:44 • 2d ago
-
----
-
-**[BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=6ty4T4MnfAw)**
-
-BITCOIN: The Calm Before The Storm (PREPARE NOW)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 266 • 💬 156 • ⏱️ 18:05 • 23h ago
+👁️ 12K • 👍 1K • 💬 252 • ⏱️ 11:56 • 2d ago
 
 ---
 

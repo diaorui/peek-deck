@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T01:16:13.782699+00:00'
+updated: '2026-08-17T02:41:37.172229+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 01:16 UTC  
+**Last Updated:** August 17, 2026 at 02:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -0.9%  
-**30d:** -2.6%  
-**90d:** -18.7%  
-**1y:** -45.9%  
+**24h:** +0.2%  
+**7d:** -0.5%  
+**30d:** -2.2%  
+**90d:** -18.4%  
+**1y:** -45.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1261.13B
+**Market Cap:** $1268.99B
 Rank #1
 
-**Circulating Supply:** 20,071,190 BTC
+**Circulating Supply:** 20,071,265 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--50.2%
+-49.9%
 
 **All-Time Low:** $67.81
-+92560.4%
++93131.1%
 
 ---
 
@@ -81,25 +81,25 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-8h ago
+10h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-8h ago
+10h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-7h ago
+9h ago
 
 ---
 
@@ -115,7 +115,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-10h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-10h ago
+12h ago
 
 ---
 
@@ -131,13 +131,13 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-2h ago
+4h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -163,7 +163,19 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 13h ago
+Forbes • 14h ago
+
+---
+
+**[Bitcoin’s First Test in the High-Interest Rate Era: Why Did Gold Rise 32% While It Fell 46%?](https://www.moomoo.com/news/post/74758213/bitcoin-s-first-test-in-the-high-interest-rate-era)**
+
+Moomoo • 2h ago
+
+---
+
+**[15,000 Hours of Attack and Defense Testing: Core Scientific Executives Confirm Bitcoin Network’s Impenetrability](https://www.moomoo.com/news/post/74765767/15000-hours-of-attack-and-defense-testing-core-scientific-executives)**
+
+Moomoo • 3m ago
 
 ---
 
@@ -171,21 +183,13 @@ Forbes • 13h ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 2h ago
-
----
-
-**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://www.fool.com/investing/2026/08/16/bitcoin-miner-riot-platforms-just-signed-a-9-billi/)**
-
-Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
-
-The Motley Fool • 13h ago
+Investing.com • 3h ago
 
 ---
 
@@ -193,7 +197,7 @@ The Motley Fool • 13h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -201,7 +205,15 @@ TradingView • 9h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/08/16/where-will-bitcoin-be-in-5-years/)**
+
+There's one major thing holding Bitcoin back.
+
+fool.com • 16h ago
 
 ---
 
@@ -209,21 +221,7 @@ Seeking Alpha • 13h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 9h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, August 14, 2026: Crypto prices backing off further](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-14-2026-crypto-prices-backing-off-further-123636029.html)**
-
-Bitcoin opened at $63,418.16 on Friday, August 14, 2026, flat compared to Thursday's opening price. As of 8:14 a.m. ET, bitcoin moved to $62,721.51. Ethereum opened at $1,884.42, up 0.3% from Thursday's opening. Ethereum also moved lower to $1,872.97 as of 8:14 a.m. ET.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin price holds near $63,000 as selling pressure offsets regulatory progress](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-on-to-63000-as-selling-pressure-offsets-regulatory-progress-4861762)**
-
-Investing.com • 1d ago
+Benzinga • 11h ago
 
 ---
 
@@ -279,7 +277,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 4K • 💬 267 • ⏱️ 16:15 • 14h ago
+👁️ 67K • 👍 4K • 💬 286 • ⏱️ 16:15 • 16h ago
 
 ---
 
@@ -289,7 +287,17 @@ One of Bitcoin's most reliable technical indicators is flashing a signal that ha
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 164 • ⏱️ 16:33 • 2d ago
+👁️ 24K • 👍 2K • 💬 173 • ⏱️ 16:33 • 2d ago
+
+---
+
+**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 37K • 👍 3K • 💬 365 • ⏱️ 10:57 • 8h ago
 
 ---
 
@@ -299,65 +307,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 42K • 👍 623 • 💬 15 • ⏱️ 0:53 • 2d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 11K • 👍 454 • 💬 22 • ⏱️ 55:12 • 1d ago
-
----
-
-**[Bitcoin Price Chart Behaving While Altcoins Hit On-Chain, Sentiment Shock Starts for Crypto and XRP](https://www.youtube.com/watch?v=MFe8F5dsg7U)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 27K • 👍 3K • 💬 2 • ⏱️ 18:56 • 1d ago
-
----
-
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
-
-📺 Andrei Jikh
-
-👁️ 77K • 👍 2K • 💬 36 • ⏱️ 0:54 • 2d ago
-
----
-
-**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 872 • 💬 246 • ⏱️ 33:51 • 2d ago
-
----
-
-**[The Greatest Macro Trader On Earth Just Signaled Next Crypto Opportunity (and They Have No Idea)](https://www.youtube.com/watch?v=65i9l5yJYkM)**
-
-The greatest macro trader on earth just dropped a clear signal on the next major crypto opportunity, complete with catalysts and ...
-
-📺 Altcoin Daily
-
-👁️ 22K • 👍 1K • 💬 211 • ⏱️ 8:15 • 1d ago
-
----
-
-**[Bitcoin Whale Activity Scores](https://www.youtube.com/watch?v=3fNCWOnJQOk)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 4K • 👍 119 • 💬 3 • ⏱️ 1:00 • 1d ago
+👁️ 43K • 👍 636 • 💬 16 • ⏱️ 0:53 • 2d ago
 
 ---
 
@@ -367,7 +317,55 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 5K • 👍 726 • 💬 448 • ⏱️ 14:27 • 6h ago
+👁️ 8K • 👍 926 • 💬 537 • ⏱️ 14:27 • 7h ago
+
+---
+
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 459 • 💬 22 • ⏱️ 55:12 • 1d ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 79K • 👍 2K • 💬 41 • ⏱️ 0:54 • 2d ago
+
+---
+
+**[Has Bitcoin Lost Its Way? | HODL, Junseth &amp; Erik Cason](https://www.youtube.com/watch?v=oyDkDNaxBzM)**
+
+We've already fucking won.” Bitcoin went from a weird internet experiment to an asset that Wall Street, corporations and ...
+
+📺 What Bitcoin Did
+
+👁️ 4K • 👍 192 • 💬 158 • ⏱️ 1:22:35 • 11h ago
+
+---
+
+**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+
+Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
+
+📺 Natalie Brunell
+
+👁️ 5K • 👍 167 • 💬 138 • ⏱️ 1:36 • 2d ago
+
+---
+
+**[Bitcoin Wins By Simply Not Playing The Time Game](https://www.youtube.com/watch?v=y2-O5g-4qzQ)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 58K • 👍 2K • 💬 103 • ⏱️ 59:10 • 1d ago
 
 ---
 
