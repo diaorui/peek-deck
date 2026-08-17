@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T19:52:51.092201+00:00'
+updated: '2026-08-17T20:26:40.332674+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 19:52 UTC  
+**Last Updated:** August 17, 2026 at 20:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -186,7 +186,7 @@ Decrypt • 4h ago
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketWatch • 5h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -218,7 +218,7 @@ cryptobriefing.com • 1h ago
 
 Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 18h ago
+👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 10h ago
+👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 21h ago
+👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 22h ago
 
 ---
 
@@ -280,7 +280,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 8h ago
+👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 15 • ⏱️ 8:24 • 9h ago
+👁️ 15 • ⏱️ 8:24 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ BitGo Leads $26.6B RWA Market With 27.5% Share Bitget Restricts HTX, EXMO & 14 C
 
 📺 3.0 TV
 
-👁️ 171 • 👍 1 • ⏱️ 4:47 • 4h ago
+👁️ 171 • 👍 1 • ⏱️ 4:47 • 5h ago
 
 ---
 

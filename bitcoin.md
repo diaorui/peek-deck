@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T19:52:51.086075+00:00'
+updated: '2026-08-17T20:26:40.326412+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 19:52 UTC  
+**Last Updated:** August 17, 2026 at 20:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -109,13 +109,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-4h ago
+5h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 9h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-6h ago
+7h ago
 
 ---
 
@@ -175,13 +175,13 @@ Forbes • 1d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-bloomberg.com • 5h ago
+bloomberg.com • 6h ago
 
 ---
 
@@ -197,13 +197,13 @@ The Motley Fool • 7h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-New York Post • 4h ago
+New York Post • 5h ago
 
 ---
 
 **[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk)**
 
-Barron's • 22m ago
+Barron's • 56m ago
 
 ---
 
@@ -227,7 +227,7 @@ Business Insider Africa • 9h ago
 
 AI bond sales pushed the 30-year Treasury yield to 5.27% in 2026. Bitcoin fell 46% while gold gained 33%. Here's why
 
-BeInCrypto • 4h ago
+BeInCrypto • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ BeInCrypto • 4h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 14h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -247,7 +247,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 4h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 5h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -255,7 +255,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 3d ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 4d ago • [Second](https://second.tech/)
 
 ---
 
@@ -319,7 +319,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 21h ago
+👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ DCA is never the best strategy and it's never the worst — but the studies say 
 
 📺 Krown
 
-👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 6h ago
+👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 7h ago
 
 ---
 
