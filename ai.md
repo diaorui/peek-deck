@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T16:56:37.318241+00:00'
+updated: '2026-08-17T17:29:07.629568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 16:56 UTC  
+**Last Updated:** August 17, 2026 at 17:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart Pathway, an AI lab building a post-transformer architecture and models, published benchmark results for BDH-CQ, a 150 million-parameter reasoning model. BDH-CQ scored 29.5% pass@2 on the public ARC-AGI-1 evaluation set at a computed inference cost of $0.0007 per task. It runs approximately 11 times as cheaply per task as GPT 5.6 Luna (Low), even after accounting for OpenAI’s 80% price cut of 5.6 Luna on July 30th. Luna scores 34.2% against BDH-CQ's 29.5%, a modest accuracy gain at 11 times the cost. They also report early pretraining experiments from 1B to 600B parameters, while preserving the latent reasoning capabilities specific to BDH-CQ. It does it by combining in-context learning with recurrent latent reasoning instead of verbalizing every intermediate result.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 9h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 10h ago
 
 ---
 
@@ -69,19 +69,11 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 ---
 
-**[ChatGPT/Claude as the main interface for everything](https://www.reddit.com/r/artificial/comments/1vqwov9/chatgptclaude_as_the_main_interface_for_everything/)**
-
-Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
-
-37m ago
-
----
-
 **[U.S. bans foreign-made humanoid robots, targeting China over national security](https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/)**
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 22h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 23h ago
 
 ---
 
@@ -89,15 +81,31 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 3h ago
 
 ---
 
-**[The median company is spending lunch money on AI while the top 1% is burning real budget](https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/)**
+**[thinking of putting my entire life backlog on youtube and letting ai keep me accountable](https://www.reddit.com/r/artificial/comments/1vqyrqh/thinking_of_putting_my_entire_life_backlog_on/)**
 
-Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
+what i’m thinking of starting a youtube channel where i basically dump my daily updates into ai not just work stuff tech, politics, geopolitics, gym, food, travel, reading, productivity, meditation, maths/physics, learning language like sanskrit, learning instruments, gaming, driving, adventure stuff... basically all the tabs currently open in my brain ai takes that daily chaos and converts it into actual tasks, priorities and progress i can track publicly why because apparently having 47 interests and making mental plans for all of them does not count as progress shocking, i know the main idea is public accountability if i say i’m learning guitar, improving fitness, building something, reading a book or planning a trek, there should eventually be receipts and hopefully other people with similarly chaotic ambitions can join in, share what works and grow together how i’ll post regular updates about what i said i would do, what ai turned it into, what i actually did, what i completely ignored and why less “watch me become productive” more “here is the public audit trail of me trying” would you watch this? and what would make you actually come back for the next update?
 
-1d ago
+just now
+
+---
+
+**[Using AI the wrong way could leave you worse off than never using it at all](https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/)**
+
+Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
+
+30m ago
+
+---
+
+**[ChatGPT/Claude as the main interface for everything](https://www.reddit.com/r/artificial/comments/1vqwov9/chatgptclaude_as_the_main_interface_for_everything/)**
+
+Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
+
+1h ago
 
 ---
 
@@ -109,21 +117,13 @@ Doesn't the territorial scope of EU AI Law mean that all companies providing inf
 
 ---
 
-**[Can AI Benchmark be faked? If yes, how?](https://www.reddit.com/r/artificial/comments/1vqnihc/can_ai_benchmark_be_faked_if_yes_how/)**
-
-I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Benchmark can be faked, I though it was kinda impossible because HOW?
-
-7h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
+**[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-nytimes.com • 5h ago
+The New York Times • 1h ago
 
 ---
 
@@ -133,45 +133,33 @@ WSJ • 7h ago
 
 ---
 
-**[Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow](https://www.cnbc.com/2026/08/17/cramer-2-cybersecurity-stocks-can-keep-climbing-as-ai-threats-grow.html)**
+**[Claude to start watermarking AI-generated text – but will it make quality worse?](https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse)**
 
-CNBC's Jim Cramer said investors shouldn’t be scared away by the big rallies in CrowdStrike and Palo Alto, arguing their earnings can justify higher valuations.
+Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulation
 
-CNBC • 1h ago
-
----
-
-**[Watch Odd Lots: Is There An AI Kill Switch If Things Go Wrong?](https://www.bloomberg.com/news/videos/2026-08-17/odd-lots-is-there-an-ai-kill-switch-if-things-go-wrong-video)**
-
-Bloomberg.com • 39m ago
+The Guardian • 36m ago
 
 ---
 
-**[Nvidia Could Become the ‘Federal Reserve Of AI,’ Gavin Baker Says: Will ‘Dark GPUs’ Become Its First Test?](https://finance.yahoo.com/technology/ai/articles/nvidia-could-become-federal-ai-155206012.html)**
+**[Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)**
 
-Nvidia (NASDAQ:NVDA) is building what could become the “Federal Reserve of AI,” Atreides Management CIO Gavin Baker said on Friday’s All-In Podcast.The investor says CEO Jensen Huang is transforming Nvidia’s chips into a financeable asset class, opening the door for...
+Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI startup founders are in flux](https://www.axios.com/2026/08/17/ai-startup-founders-flux)**
-
-Axios • 1h ago
+TechCrunch • 18m ago
 
 ---
 
-**[AI slop is swamping a House office that drafts US laws](https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376)**
+**[Apple Stock Got an Upgrade. It Could Be the AI Gatekeeper.](https://www.barrons.com/articles/apple-stock-upgrade-ai-gatekeeper-dc437907)**
 
-Politico • 8h ago
+barrons.com • 20m ago
 
 ---
 
-**[Long after Steve Jobs’ turtleneck, there’s a new tech uniform](https://www.cnn.com/2026/08/17/style/tech-ai-merch)**
+**[‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco](https://www.cnn.com/2026/08/17/economy/sf-real-estate-ai-wealth)**
 
-From Palantir to OpenAI, big tech companies have been producing fashion merch in an attempt to soften their image with cotton and canvas.
+Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 8h ago
+CNN • 6h ago
 
 ---
 
@@ -183,11 +171,23 @@ The Washington Post • 1h ago
 
 ---
 
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
+**[AI slop is swamping a House office that drafts US laws](https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376)**
 
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
+Politico • 8h ago
 
-404 Media • 3h ago
+---
+
+**[AI startup founders are in flux](https://www.axios.com/2026/08/17/ai-startup-founders-flux)**
+
+Axios • 1h ago
+
+---
+
+**[Nvidia backing $105 billion in financing for OpenAI data center in Ohio](https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html)**
+
+Technology giants are shelling out billions to scale capacity to meet massive data center demand.
+
+CNBC • 3h ago
 
 ---
 
@@ -215,7 +215,17 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 317 • 💬 124 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 319 • 💬 124 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+
+---
+
+**[On AI regulation and messaging](https://news.ycombinator.com/item?id=49325789)**
+
+1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.
+
+First, on regulation, I think that “either concentrate it in the hands of a
+
+⬆️ 199 • 💬 411 • 15h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -225,11 +235,19 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 ---
 
+**[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
+
+An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+
+⬆️ 145 • 💬 66 • 3h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+
+---
+
 **[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe](https://news.ycombinator.com/item?id=49323932)**
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 134 • 💬 147 • 19h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 138 • 💬 153 • 19h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -241,11 +259,11 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 ---
 
-**[AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
+**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
 
-An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 96 • 💬 41 • 2h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 114 • 💬 47 • 3h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -254,22 +272,6 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 This question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).
 
 ⬆️ 94 • 💬 55 • 1d ago • [peterbloem.nl](https://peterbloem.nl/blog/craft-coding)
-
----
-
-**[Red queen hypothesis – A new way forward for self-improving AI](https://news.ycombinator.com/item?id=49323136)**
-
-At a time when there's widespread interest in self-improving AI, researchers here have tackled one of the central challenges affecting its development by using an approach adapted from evolutionary biology.
-
-⬆️ 89 • 💬 24 • 20h ago • [cst.cam.ac.uk](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
-
----
-
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://news.ycombinator.com/item?id=49330742)**
-
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
-
-⬆️ 81 • 💬 88 • 3h ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 
 ---
 
@@ -293,7 +295,7 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 376K • 👍 16K • 💬 2K • ⏱️ 15:53 • 1d ago
+👁️ 376K • 👍 16K • 💬 2K • ⏱️ 15:53 • 2d ago
 
 ---
 
@@ -331,7 +333,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 392K • 👍 20K • 💬 1K • ⏱️ 8:55 • 14h ago
+👁️ 392K • 👍 20K • 💬 1K • ⏱️ 8:55 • 15h ago
 
 ---
 
@@ -349,7 +351,7 @@ HRT/Peptide Clinic (Delivered to Your Door) Get physician-guided care, prescript
 
 📺 Coach Kolton
 
-👁️ 92K • 👍 3K • 💬 955 • ⏱️ 34:03 • 1d ago
+👁️ 92K • 👍 3K • 💬 955 • ⏱️ 34:03 • 2d ago
 
 ---
 
@@ -643,7 +645,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 41m ago
+⭐ 13.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -653,7 +655,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.1k • 🔱 1.4k • 11h ago
+⭐ 13.1k • 🔱 1.4k • 12h ago
 
 ---
 
@@ -721,7 +723,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 8h ago
+⭐ 2.2k • 🔱 177 • 9h ago
 
 ---
 
@@ -731,7 +733,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 282 • 5m ago
+⭐ 2.1k • 🔱 282 • 37m ago
 
 ---
 
