@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T11:25:33.344850+00:00'
+updated: '2026-08-17T11:51:01.569909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 11:25 UTC  
+**Last Updated:** August 17, 2026 at 11:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,416.50
+### $63,632.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.2%  
-**30d:** -1.9%  
-**90d:** -18.2%  
-**1y:** -45.6%  
+**24h:** +1.2%  
+**7d:** +0.2%  
+**30d:** -1.5%  
+**90d:** -17.8%  
+**1y:** -45.3%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-18h ago
+19h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -115,7 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 3h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-20h ago
+21h ago
 
 ---
 
@@ -155,11 +155,11 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 ## Google News: "bitcoin"
 
-**[The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets](https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets)**
+**[Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat](https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned)**
 
-Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.
+Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 4d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -171,17 +171,17 @@ Forbes • 23h ago
 
 ---
 
-**[Bitcoin Holds Above $63K as LINK and HYPE Surge Ahead of Key Fed Week](https://bitcoinfoundation.org/news/altcoins/bitcoin-holds-above-63k-as-link-and-hype-surge-ahead-of-key-fed-week/)**
+**[JPMorgan Opens Bitcoin-Backed Lending as Wall Street Pushes Deeper Into Crypto](https://bitcoinfoundation.org/news/bitcoin/jpmorgan-opens-bitcoin-backed-lending-as-wall-street-pushes-deeper-into-crypto/)**
 
-Bitcoin steadies above $63K as LINK and HYPE outperform, while ETF outflows and upcoming Fed minutes keep crypto traders cautious.
+JPMorgan brings Bitcoin and Ethereum into institutional lending, expanding crypto’s role in traditional finance and collateral markets.
 
 Bitcoin Foundation • 3h ago
 
 ---
 
-**[$48 billion in open interest: Bitcoin sell-off risks intensify](https://www.moomoo.com/news/post/74780662/48-billion-in-open-interest-bitcoin-sell-off-risks-intensify)**
+**[Bitcoin's Biggest Holders, Strategy and Metaplanet, Are Betting on Math, Not Price](https://www.moomoo.com/news/post/74796137/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on)**
 
-Moomoo • 2h ago
+Moomoo • 22m ago
 
 ---
 
@@ -189,13 +189,27 @@ Moomoo • 2h ago
 
 World Gold Council CEO David Tait believes Bitcoin will eventually reach zero because it behaves more like a risk asset than a crisis hedge. Tait ...
 
-Yahoo Finance • 2h ago
+finance.yahoo.com • 2h ago
 
 ---
 
 **[Bitcoin (BTC) ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+
+Investing.com • 13h ago
+
+---
+
+**[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)**
+
+Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
+
+Decrypt • 1h ago
 
 ---
 
@@ -207,25 +221,11 @@ Fortune • 4h ago
 
 ---
 
-**[BTC, ETH price news: Bitcoin nears $64,000 as traders await FOMC minutes](https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week)**
+**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
 
-Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.
+Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk?mod=bar_RHF)**
-
-Barron's • 2h ago
-
----
-
-**[Bitcoin Falls as Regulatory Hopes Are Dashed](https://www.investopedia.com/market-update-bitcoin-falls-as-regulatory-hopes-are-dashed-price-btc-12059975)**
-
-Crypto investors got a letdown this week–and not just from bitcoin prices.
-
-Investopedia • 2d ago
+TradingView • 19h ago
 
 ---
 
@@ -261,7 +261,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 1h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 2h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -307,7 +307,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 772 • 💬 45 • ⏱️ 15:49 • 11h ago
+👁️ 10K • 👍 772 • 💬 45 • ⏱️ 15:49 • 12h ago
 
 ---
 

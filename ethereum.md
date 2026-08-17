@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T11:25:33.350918+00:00'
+updated: '2026-08-17T11:51:01.576165+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 11:25 UTC  
+**Last Updated:** August 17, 2026 at 11:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.9%  
-**30d:** +1.4%  
-**90d:** -10.8%  
-**1y:** -55.9%  
+**24h:** +1.4%  
+**7d:** +1.2%  
+**30d:** +1.7%  
+**90d:** -10.5%  
+**1y:** -55.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 5h ago
 
 ---
 
@@ -160,27 +160,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
+**[Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-ethereum-solana-drop-214547270.html)**
 
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
 
-ethereum.org • 3h ago
-
----
-
-**[Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH?](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-continues-buy-104000894.html)**
-
-The world's largest corporate holder of Ether continues to buy more tokens.
-
-Yahoo Finance • 2d ago
-
----
-
-**[Current price of Ethereum for Aug. 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+finance.yahoo.com • 14h ago
 
 ---
 
@@ -188,23 +172,15 @@ Fortune • 4h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 17h ago
+benzinga.com • 18h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds critical support, ETH awaits directional move, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-critical-support-eth-awaits-directional-move-xrp-weakens-202608170317)**
+**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-FXStreet • 8h ago
-
----
-
-**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
-
-Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
-
-CryptoSlate • 2d ago
+Fortune • 1h ago
 
 ---
 
@@ -216,11 +192,19 @@ Crypto Briefing • 1h ago
 
 ---
 
-**[Ethereum: Wallet Withdraws 5.3K ETH From Kraken](https://blockchain.news/flashnews/ethereum-wallet-withdraws-5-3k-eth-kraken)**
+**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
 
-Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
+Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
 
-blockchain.news • 10h ago
+CryptoSlate • 2d ago
+
+---
+
+**[Ethereum: Whale Stakes 32400 ETH for $61.4M](https://blockchain.news/flashnews/ethereum-whale-stakes-32400-eth-61-4m)**
+
+Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
+
+blockchain.news • 2h ago
 
 ---
 
@@ -229,6 +213,22 @@ blockchain.news • 10h ago
 Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
 
 Cryptonews.net • 1d ago
+
+---
+
+**[Solana Has Plans to Become 'The Netflix of Finance.' What Does That Mean for the Price of SOL?](https://www.fool.com/investing/2026/08/14/solana-has-plans-to-become-the-netflix-of-finance/)**
+
+Could the "Ethereum" killer unify the fragmented financial market?
+
+The Motley Fool • 2d ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo](https://financefeeds.com/vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo/)**
+
+Ethereum co-founder Vitalik Buterin says Ethereum’s next phase of scaling can draw lessons from Bitcoin’s Utreexo technology, pointing to growing convergence
+
+FinanceFeeds • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 26K • 👍 995 • 💬 93 • ⏱️ 15:54 • 22h ago
+👁️ 26K • 👍 995 • 💬 93 • ⏱️ 15:54 • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 206 • 💬 74 • ⏱️ 17:01 • 11h ago
+👁️ 5K • 👍 206 • 💬 74 • ⏱️ 17:01 • 12h ago
 
 ---
 

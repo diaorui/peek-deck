@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T11:25:33.354153+00:00'
+updated: '2026-08-17T11:51:01.579408+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 11:25 UTC  
+**Last Updated:** August 17, 2026 at 11:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-11h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 A little over 4 years ago I started Bonsai as a side project: a Rust library for building complex, deterministic AI behavior with behavior trees. It has since found its way into a wide range of applications. The video shows two of them: on the left, a Titanfall 2 gameplay where all the players except the first person view is a NPC (bot) driven by Bonsai behavior trees. On the right, a robot from NASA lunabotics 2026 autonomously digging and dumping regolith in a simulated lunar environment – also powered by Bonsai. A lot of the library's usefulness today comes from the community. Thanks to everyone who has contributed PRs, filed issues, and pushed it further than I would have on my own. Github repo link in the comments!
 
-1d ago
+2d ago
 
 ---
 
@@ -136,25 +136,11 @@ Business Insider • 1h ago
 
 ---
 
-**[Bernstein sees US-China robotics decoupling after FCC ban](https://www.investing.com/news/stock-market-news/bernstein-sees-uschina-robotics-decoupling-after-fcc-ban-93CH-4862426)**
-
-Investing.com • 1h ago
-
----
-
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
 CNBC • 3d ago
-
----
-
-**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
-
-Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
-
-Fox News • 19h ago
 
 ---
 
@@ -166,17 +152,27 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
+
+Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
+
+Fox News • 19h ago
+
+---
+
+**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
+
+Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
+
+Nikkei Asia • 10h ago
+
+---
+
 **[Naval Academy Integrates Robotics and Autonomous Systems into Summer Training](https://www.presidentialprayerteam.org/2026/08/17/naval-academy-integrates-robotics-and-autonomous-systems-into-summer-training/)**
 
 Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
 
-The Presidential Prayer Team • 2h ago
-
----
-
-**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
-
-bloomberg.com • 11h ago
+The Presidential Prayer Team • 3h ago
 
 ---
 
@@ -185,6 +181,12 @@ bloomberg.com • 11h ago
 Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
 
 Medscape • 3d ago
+
+---
+
+**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -288,7 +290,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 3K • 👍 94 • 💬 16 • ⏱️ 0:56 • 8h ago
+👁️ 3K • 👍 94 • 💬 16 • ⏱️ 0:56 • 9h ago
 
 ---
 

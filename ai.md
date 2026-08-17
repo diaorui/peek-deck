@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T11:25:33.336369+00:00'
+updated: '2026-08-17T11:51:01.561027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 11:25 UTC  
+**Last Updated:** August 17, 2026 at 11:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 ---
 
+**[Anyone here who is starting AI engineering self studies or has been on this track before.](https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/)**
+
+So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
+
+1h ago
+
+---
+
 **[Can AI Benchmark be faked? If yes, how?](https://www.reddit.com/r/artificial/comments/1vqnihc/can_ai_benchmark_be_faked_if_yes_how/)**
 
 I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Benchmark can be faked, I though it was kinda impossible because HOW?
 
-1h ago
+2h ago
 
 ---
 
@@ -65,15 +73,7 @@ India's Leading AI & Data Science Media Platform
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
 
-21h ago
-
----
-
-**[Anyone here who is starting AI engineering self studies or has been on this track before.](https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/)**
-
-So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
-
-1h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,41 +141,41 @@ It means everyone else trying to build artificial intelligence is trapped on a c
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-bloomberg.com • 15h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[The next China shock will come from open-source AI](https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e)**
+**[Are Microsoft’s AI plans being held back by a shortage of chips?](https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips)**
 
-Countries adopting Chinese models will also absorb Chinese standards and governance
+Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operation
 
-Financial Times • 10h ago
-
----
-
-**[Exclusive: Rubik’s Cube Maker Is Buying an AI Company](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/exclusive-rubik-s-cube-maker-is-buying-an-ai-company-DLgHZhHg9j9OQKhuwDyl)**
-
-WSJ • 1h ago
+The Guardian • 7h ago
 
 ---
 
-**[Why GEO Scores Aren’t the Solution To Your Brand’s AI Engine Visibility](https://www.adweek.com/media/why-geo-scores-arent-the-solution-to-your-brands-ai-engine-visibility/)**
+**[Michigan's AI election rules in the spotlight](https://www.axios.com/local/detroit/2026/08/17/ai-election-deepfake-laws-midterms)**
 
-Optimizing for visibility alone can actively hurt the on-site experience
-
-ADWEEK • 1h ago
+Axios • 57m ago
 
 ---
 
-**[Slow Math: Kids May Learn More When AI Makes Them Review Mistakes](https://www.kqed.org/mindshift/66543/slow-math-kids-may-learn-more-when-ai-makes-them-review-mistakes)**
+**[Alibaba answers Meta’s AI challenge with new laptop-ready model](https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html)**
 
-A randomized experiment involved more than 6,000 Tennessee middle school students learning fractions.
+Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.
 
-KQED • 1h ago
+CNBC • 26m ago
 
 ---
 
-**[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
+**[Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)**
+
+$900 for an AI-powered litter box and I can’t even watch my cat poop?
+
+The Verge • 51m ago
+
+---
+
+**[China Wants to Shape What the World’s A.I. Knows](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
 
 The New York Times • 7h ago
 
@@ -189,23 +189,25 @@ CNN • 3h ago
 
 ---
 
-**[What happens to the secrets you share with AI](https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic)**
+**[Trump aims to rebuild defenses against bioweapons as AI fears rise](https://www.washingtonpost.com/technology/2026/08/17/trump-aims-rebuild-defenses-against-bioweapons-ai-fears-rise/)**
 
-Axios • 2h ago
+The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
----
-
-**[Are Microsoft’s AI plans being held back by a shortage of chips?](https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips)**
-
-Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operation
-
-The Guardian • 7h ago
+The Washington Post • 17m ago
 
 ---
 
-**[AI market correction is coming, ECB blog predicts](https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/)**
+**[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
 
-Reuters • 2h ago
+Reuters • 1h ago
+
+---
+
+**[The new AI super-rich are reshaping the market for jets, yachts and cars](https://www.ft.com/content/ac79a102-1620-48bf-a36b-416aac25de1d?syn-25a6b1a6=1)**
+
+Those making fortunes in Silicon Valley are ditching the champagne for premium water while splashing their bitcoin
+
+ft.com • 7h ago
 
 ---
 
@@ -217,7 +219,7 @@ Reuters • 2h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 618 • 💬 494 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 619 • 💬 494 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -241,7 +243,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 327 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 328 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -249,7 +251,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 293 • 💬 119 • 20h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 301 • 💬 121 • 21h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -281,7 +283,7 @@ From Situational Awareness’s Blow-up to Materials Science to the HuggingFace H
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 117 • 💬 118 • 13h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 119 • 💬 128 • 14h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -373,7 +375,7 @@ Ten years ago, Elon Musk said the thing that terrified him most was AI's rapid, 
 
 📺 ORIGIN FOUNDERS
 
-👁️ 789 • 👍 17 • 💬 2 • ⏱️ 1:23 • 4h ago
+👁️ 789 • 👍 17 • 💬 2 • ⏱️ 1:23 • 5h ago
 
 ---
 
@@ -662,7 +664,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 3h ago
+⭐ 13.8k • 🔱 1.6k • 4h ago
 
 ---
 
