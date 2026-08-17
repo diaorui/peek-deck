@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T14:55:00.434516+00:00'
+updated: '2026-08-17T15:25:06.593825+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 14:55 UTC  
+**Last Updated:** August 17, 2026 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 20h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 7h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 27m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 57m ago
 
 ---
 
@@ -105,7 +105,7 @@ Doesn't the territorial scope of EU AI Law mean that all companies providing inf
 
 Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ Do the people who program frontier-model LLMs have to apply the weights to each 
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 5h ago
 
 Low level poses risk: The U.S. Strategic Petroleum Reserve, stored in underground salt caverns along the Louisiana and Texas Gulf Coast, has fallen below 300 million barrels for the first time since the early 1980s. Experts warn that continued drawdowns could damage the caverns, reduce the SPR’s ability to respond quickly to future emergencies and […]
 
-Baton Rouge Business Report • 20m ago
+Baton Rouge Business Report • 50m ago
 
 ---
 
@@ -161,7 +161,7 @@ The Hollywood Reporter • 1h ago
 
 Aug 17 () - ByteDance and the Motion Picture Association on Monday ‌signed an agreement to strengthen copyright ‌safeguards on the Chinese company's AI video ​and image-generation models, months after...
 
-Yahoo • 32m ago
+Yahoo • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ Yahoo • 32m ago
 
 Gundlach, the investor known as the "Bond King" questioned the wisdom of using fast-evolving technology as collateral for long-term borrowing.
 
-businessinsider.com • 4m ago
+businessinsider.com • 34m ago
 
 ---
 
 **[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ The New York Times • 3h ago
 
 Technology giants are shelling out billions to scale capacity to meet massive data center demand.
 
-CNBC • 44m ago
+CNBC • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 44m ago
 
 From Palantir to OpenAI, big tech companies have been producing fashion merch in an attempt to soften their image with cotton and canvas.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -273,7 +273,7 @@ This question---what we should tell students to do with AI---is a good trigger t
 
 At a time when there's widespread interest in self-improving AI, researchers here have tackled one of the central challenges affecting its development by using an approach adapted from evolutionary biology.
 
-⬆️ 87 • 💬 24 • 18h ago • [cst.cam.ac.uk](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
+⬆️ 87 • 💬 24 • 19h ago • [cst.cam.ac.uk](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
 
 ---
 
@@ -317,7 +317,7 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 57K • 👍 942 • 💬 137 • ⏱️ 5:52 • 22h ago
+👁️ 57K • 👍 942 • 💬 137 • ⏱️ 5:52 • 23h ago
 
 ---
 
@@ -337,7 +337,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 362K • 👍 18K • 💬 1K • ⏱️ 8:55 • 12h ago
+👁️ 362K • 👍 18K • 💬 1K • ⏱️ 8:55 • 13h ago
 
 ---
 
@@ -357,7 +357,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 69K • 👍 3K • 💬 314 • ⏱️ 34:05 • 2d ago
+👁️ 69K • 👍 3K • 💬 314 • ⏱️ 34:05 • 3d ago
 
 ---
 
@@ -373,7 +373,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Rick Beato
 
-👁️ 6K • 👍 431 • 💬 16 • ⏱️ 0:49 • 21m ago
+👁️ 6K • 👍 431 • 💬 16 • ⏱️ 0:49 • 51m ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,557 • 2d ago
+⬇️ 415,039 • ❤️ 10,557 • 3d ago
 
 ---
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 21m ago
+⭐ 13.8k • 🔱 1.6k • 51m ago
 
 ---
 
@@ -657,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.0k • 🔱 1.4k • 9h ago
+⭐ 13.0k • 🔱 1.4k • 10h ago
 
 ---
 
@@ -695,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 550 • 22h ago
+⭐ 3.2k • 🔱 550 • 23h ago
 
 ---
 
@@ -705,7 +705,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
 
-⭐ 2.8k • 🔱 233 • 5d ago
+⭐ 2.8k • 🔱 233 • 6d ago
 
 ---
 
@@ -725,7 +725,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 6h ago
+⭐ 2.2k • 🔱 177 • 7h ago
 
 ---
 
@@ -735,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 280 • 10m ago
+⭐ 2.1k • 🔱 280 • 40m ago
 
 ---
 

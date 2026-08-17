@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T14:55:00.452685+00:00'
+updated: '2026-08-17T15:25:06.614618+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 14:55 UTC  
+**Last Updated:** August 17, 2026 at 15:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-6h ago
+7h ago
+
+---
+
+**[Building my first humanoid robot from scratch — the head now has local voice + vision](https://www.reddit.com/r/robotics/comments/1vqt31b/building_my_first_humanoid_robot_from_scratch_the/)**
+
+I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
+
+1h ago
 
 ---
 
@@ -74,7 +82,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -102,14 +110,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[How do robots sense human-like touch?](https://www.reddit.com/r/robotics/comments/1vpcrqq/how_do_robots_sense_humanlike_touch/)**
-
-I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,7 +118,7 @@ I'm interested in learning how robotic hands can sense things like pressure, tem
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-businessinsider.com • 4h ago
+businessinsider.com • 5h ago
 
 ---
 
@@ -132,19 +132,19 @@ interestingengineering.com • 2d ago
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ CNBC • 3d ago
 
 Karlsruhe Institute of Technology researchers built a robotic disassembly system that adapts when screws get stuck or parts go missing in old machines.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
@@ -228,7 +228,7 @@ Unitree Robotics' new humanoid "Superman" pushes beyond human limits. With 0.85-
 
 📺 CGTN
 
-👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 3h ago
+👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 9K • 👍 328 • 💬 46 • ⏱️ 1:12:16 • 5d ago
+👁️ 9K • 👍 328 • 💬 46 • ⏱️ 1:12:16 • 6d ago
 
 ---
 

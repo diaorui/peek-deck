@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T14:55:00.443254+00:00'
+updated: '2026-08-17T15:25:06.602568+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 14:55 UTC  
+**Last Updated:** August 17, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 4h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 5h ago
 
 ---
 
@@ -139,7 +139,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Phong Le says late summer has been quiet, but he expects more policy and industry momentum around crypto this autumn.
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 24m ago
+CoinDesk • 54m ago
 
 ---
 
@@ -299,7 +299,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 211 • 💬 117 • ⏱️ 17:10 • 16h ago
+👁️ 3K • 👍 211 • 💬 117 • ⏱️ 17:10 • 17h ago
 
 ---
 
@@ -319,7 +319,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 243 • 💬 34 • ⏱️ 12:52 • 20h ago
+👁️ 6K • 👍 243 • 💬 34 • ⏱️ 12:52 • 21h ago
 
 ---
 
@@ -379,7 +379,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 56K • 👍 4K • 💬 372 • ⏱️ 10:57 • 20h ago
+👁️ 56K • 👍 4K • 💬 372 • ⏱️ 10:57 • 21h ago
 
 ---
 

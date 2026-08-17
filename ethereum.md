@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T14:55:00.449445+00:00'
+updated: '2026-08-17T15:25:06.608879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 14:55 UTC  
+**Last Updated:** August 17, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -164,13 +164,13 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-marketwatch.com • 55m ago
+marketwatch.com • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Benzinga • 21h ago
 
 Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ Seeking Alpha • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Fortune • 4h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-fxstreet.com • 11h ago
+fxstreet.com • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ fxstreet.com • 11h ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 2d ago
 
 Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
 
-blockchain.news • 5h ago
+blockchain.news • 6h ago
 
 ---
 
@@ -240,7 +240,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 5h ago
+👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 13h ago
+👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 14h ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 3h ago
+👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 4h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 16h ago
+👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 9 • ⏱️ 8:24 • 4h ago
+👁️ 9 • ⏱️ 8:24 • 5h ago
 
 ---
 
