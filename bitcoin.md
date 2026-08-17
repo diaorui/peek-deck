@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T03:50:29.720707+00:00'
+updated: '2026-08-17T04:41:15.589683+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 03:50 UTC  
+**Last Updated:** August 17, 2026 at 04:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
+
+7h ago
+
+---
+
 **[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
 
 https://satoshitimeline.com/854
 
-11h ago
-
----
-
-**[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
-
-6h ago
+12h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -103,11 +103,19 @@ https://satoshitimeline.com/854
 
 ---
 
+**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
+
+i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
+
+6h ago
+
+---
+
 **[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-13h ago
+14h ago
 
 ---
 
@@ -123,27 +131,21 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-13h ago
-
----
-
-**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
-
-i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
-
-5h ago
+14h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-18h ago
+19h ago
 
 ---
 
-**[Im the stable coin now](https://www.reddit.com/r/Bitcoin/comments/1vpg678/im_the_stable_coin_now/)**
+**[Multisig and Trezor Safe 7 BTC only](https://www.reddit.com/r/Bitcoin/comments/1vqej8q/multisig_and_trezor_safe_7_btc_only/)**
 
-1d ago
+I plan on creating my entropy for my other two wallets via dice rolls. Should I create a seed for the Safe 7 or allow Trezor to create it for me? I am reading the the Safe 7 is very good for creating a strong seed phrase. That said I would like to see what others are thinking about this question?
+
+3h ago
 
 ---
 
@@ -163,19 +165,19 @@ coindesk.com • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
 **[Bitcoin Rises as Selling Pressure Subsides -- Market Talk](https://www.moomoo.com/news/post/74766803/bitcoin-rises-as-selling-pressure-subsides-market-talk)**
 
-Moomoo • 46m ago
+Moomoo • 1h ago
 
 ---
 
 **[15,000 Hours of Attack and Defense Testing: Core Scientific Executives Confirm Bitcoin Network’s Impenetrability](https://www.moomoo.com/news/post/74765767/15000-hours-of-attack-and-defense-testing-core-scientific-executives)**
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -183,7 +185,7 @@ Moomoo • 1h ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -197,7 +199,7 @@ Investing.com • 5h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -205,7 +207,7 @@ TradingView • 11h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -213,7 +215,7 @@ The Motley Fool • 16h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -221,7 +223,7 @@ Seeking Alpha • 15h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-benzinga.com • 12h ago
+benzinga.com • 13h ago
 
 ---
 
@@ -277,7 +279,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 286 • ⏱️ 16:15 • 17h ago
+👁️ 67K • 👍 4K • 💬 286 • ⏱️ 16:15 • 18h ago
 
 ---
 
@@ -297,7 +299,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 3K • 💬 365 • ⏱️ 10:57 • 9h ago
+👁️ 37K • 👍 3K • 💬 365 • ⏱️ 10:57 • 10h ago
 
 ---
 
@@ -317,7 +319,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 926 • 💬 537 • ⏱️ 14:27 • 8h ago
+👁️ 8K • 👍 926 • 💬 537 • ⏱️ 14:27 • 9h ago
 
 ---
 
@@ -345,7 +347,7 @@ We've already fucking won.” Bitcoin went from a weird internet experiment to a
 
 📺 What Bitcoin Did
 
-👁️ 4K • 👍 192 • 💬 158 • ⏱️ 1:22:35 • 12h ago
+👁️ 4K • 👍 192 • 💬 158 • ⏱️ 1:22:35 • 13h ago
 
 ---
 

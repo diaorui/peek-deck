@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T03:50:29.726977+00:00'
+updated: '2026-08-17T04:41:15.595823+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 03:50 UTC  
+**Last Updated:** August 17, 2026 at 04:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -164,7 +164,7 @@ coindesk.com • 1d ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-benzinga.com • 10h ago
+benzinga.com • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 3h ago
+blockchain.news • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 2d ago
 
 Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
 
-Cryptonews.net • 22h ago
+Cryptonews.net • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 442 • 👍 34 • 💬 4 • ⏱️ 35:05 • 2h ago
+👁️ 442 • 👍 34 • 💬 4 • ⏱️ 35:05 • 3h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 2K • 👍 215 • 💬 30 • ⏱️ 14:12 • 5h ago
+👁️ 2K • 👍 215 • 💬 30 • ⏱️ 14:12 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 178 • 💬 18 • ⏱️ 5:23 • 20h ago
+👁️ 3K • 👍 178 • 💬 18 • ⏱️ 5:23 • 21h ago
 
 ---
 
