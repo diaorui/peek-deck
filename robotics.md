@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T15:49:52.774491+00:00'
+updated: '2026-08-17T16:27:42.424395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 15:49 UTC  
+**Last Updated:** August 17, 2026 at 16:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -118,41 +118,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-businessinsider.com • 5h ago
-
----
-
-**[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
-
-A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
-
-interestingengineering.com • 2d ago
-
----
-
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 6h ago
-
----
-
-**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
-
-Axios • 3h ago
-
----
-
-**[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[Serve Robotics partners with Grubhub after Uber Eats split](https://qz.com/serve-robotics-grubhub-partnership-uber-eats-081726)**
-
-The sidewalk delivery company is adding Grubhub to its platform network as it works to replace volume lost from its expiring Uber agreement
-
-qz.com • 2h ago
+Business Insider • 6h ago
 
 ---
 
@@ -164,6 +130,38 @@ inc.com • 3h ago
 
 ---
 
+**[SoftBank invests $200M in Gravis Robotics for construction AI By Investing.com](https://www.investing.com/news/stock-market-news/softbank-invests-200m-in-gravis-robotics-for-construction-ai-93CH-4863674)**
+
+Investing.com • 33m ago
+
+---
+
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+nytimes.com • 7h ago
+
+---
+
+**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
+
+Axios • 4h ago
+
+---
+
+**[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Serve Robotics partners with Grubhub after Uber Eats split](https://qz.com/serve-robotics-grubhub-partnership-uber-eats-081726)**
+
+The sidewalk delivery company is adding Grubhub to its platform network as it works to replace volume lost from its expiring Uber agreement
+
+qz.com • 2h ago
+
+---
+
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
@@ -172,19 +170,19 @@ CNBC • 3d ago
 
 ---
 
-**[Robot learns to dismantle broken machines](https://www.foxnews.com/science/robot-learns-dismantle-broken-machines)**
-
-Karlsruhe Institute of Technology researchers built a robotic disassembly system that adapts when screws get stuck or parts go missing in old machines.
-
-Fox News • 3h ago
-
----
-
 **[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
 Yahoo Finance • 14h ago
+
+---
+
+**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
+
+Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
+
+Fox News • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 986K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+👁️ 986K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
 
 ---
 
@@ -228,7 +226,7 @@ Unitree Robotics' new humanoid "Superman" pushes beyond human limits. With 0.85-
 
 📺 CGTN
 
-👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 4h ago
+👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 5h ago
 
 ---
 
@@ -238,7 +236,7 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 557 • 💬 108 • ⏱️ 7:05 • 5d ago
+👁️ 40K • 👍 557 • 💬 108 • ⏱️ 7:05 • 6d ago
 
 ---
 
@@ -248,7 +246,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 40K • 👍 479 • 💬 133 • ⏱️ 3:48 • 5d ago
+👁️ 40K • 👍 479 • 💬 133 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -288,7 +286,7 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 57K • 💬 60 • ⏱️ 8:34 • 5d ago
+👁️ 57K • 💬 60 • ⏱️ 8:34 • 6d ago
 
 ---
 

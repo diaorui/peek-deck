@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T15:49:52.771252+00:00'
+updated: '2026-08-17T16:27:42.421497+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 15:49 UTC  
+**Last Updated:** August 17, 2026 at 16:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,893.39
+### $1,907.68
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +1.2%  
-**7d:** +1.2%  
-**30d:** +1.7%  
-**90d:** -10.5%  
+**7d:** +1.4%  
+**30d:** +1.8%  
+**90d:** -10.4%  
 **1y:** -55.8%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 1d ago
+🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 2d ago
 
 ---
 
@@ -164,13 +164,15 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
+**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
 
-marketwatch.com • 1h ago
+The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
+
+Yahoo Finance • 39m ago
 
 ---
 
@@ -182,19 +184,9 @@ Benzinga • 22h ago
 
 ---
 
-**[Bitmine’s Ethereum holdings hit 5.82M tokens; buybacks cross 20.8M shares](https://seekingalpha.com/news/4633843-bitmines-ethereum-holdings-hit-582m-tokens-buybacks-cross-208m-shares)**
+**[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
-
-Seeking Alpha • 2h ago
-
----
-
-**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 5h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -202,7 +194,15 @@ Fortune • 5h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-fxstreet.com • 12h ago
+FXStreet • 13h ago
+
+---
+
+**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
@@ -210,7 +210,7 @@ fxstreet.com • 12h ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -222,11 +222,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum: Whale Stakes 32400 ETH for $61.4M](https://blockchain.news/flashnews/ethereum-whale-stakes-32400-eth-61-4m)**
+**[Bitmine’s Ethereum holdings hit 5.82M tokens; buybacks cross 20.8M shares](https://seekingalpha.com/news/4633843-bitmines-ethereum-holdings-hit-582m-tokens-buybacks-cross-208m-shares)**
 
-Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
+Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-blockchain.news • 6h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 6h ago
+👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 14h ago
+👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 15h ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 4h ago
+👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 17h ago
+👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 9 • ⏱️ 8:24 • 5h ago
+👁️ 9 • ⏱️ 8:24 • 6h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 68 • ⏱️ 17:01 • 15h ago
+👁️ 5K • 👍 228 • 💬 68 • ⏱️ 17:01 • 16h ago
 
 ---
 
@@ -330,7 +330,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 1K • 👍 171 • 💬 38 • ⏱️ 31:11 • 8h ago
+👁️ 1K • 👍 171 • 💬 38 • ⏱️ 31:11 • 9h ago
 
 ---
 

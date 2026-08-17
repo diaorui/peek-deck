@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T15:49:52.765121+00:00'
+updated: '2026-08-17T16:27:42.416160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 15:49 UTC  
+**Last Updated:** August 17, 2026 at 16:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,465.18
+### $64,150.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.2%  
-**30d:** -1.5%  
-**90d:** -17.8%  
-**1y:** -45.3%  
+**24h:** +1.5%  
+**7d:** +0.8%  
+**30d:** -0.9%  
+**90d:** -17.3%  
+**1y:** -45.0%  
 
 ---
 
@@ -87,7 +87,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 5h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 (If you detected sarcasm, you were right…) 😬
 
-19m ago
+57m ago
 
 ---
 
@@ -111,7 +111,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will 
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-40m ago
+1h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 1h ago
 
 ---
 
-**[White House Leak Reveals Bitcoin And Crypto Are Suddenly Braced For A Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
@@ -173,17 +173,41 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
+**[Strategy raised $334M and bought $0 in bitcoin, but this shouldn't worry investors](https://ca.finance.yahoo.com/video/strategy-raised-334m-and-bought-0-in-bitcoin-but-this-shouldnt-worry-investors-162000062.html)**
 
-Bloomberg.com • 10h ago
+Strategy (MSTR) recently raised $334 million but didn't buy or sell any bitcoin (BTC-USD). Scott Melker discusses the details in the video above.
+
+Yahoo! Finance Canada • 7m ago
 
 ---
 
-**[After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know.](https://finance.yahoo.com/markets/crypto/articles/nearly-200-million-crypto-losses-115000955.html)**
+**[Bitcoin Holds Above $63K as LINK and HYPE Surge Ahead of Key Fed Week](https://bitcoinfoundation.org/news/bitcoin/bitcoin-holds-above-63k-as-link-and-hype-surge-ahead-of-key-fed-week/)**
 
-As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
+Bitcoin steadies above $63K as LINK and HYPE outperform, while ETF outflows and upcoming Fed minutes keep crypto traders cautious.
 
-Yahoo Finance • 3h ago
+Bitcoin Foundation • 36m ago
+
+---
+
+**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
+
+Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
+
+New York Post • 1h ago
+
+---
+
+**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
+
+HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
+
+The Block • 5h ago
 
 ---
 
@@ -195,19 +219,11 @@ Business Insider Africa • 5h ago
 
 ---
 
-**[Gerber Warns Strategy’s Bitcoin Leverage Could Trigger a Selloff](https://www.tradingview.com/news/cryptonews:dc59d6125094b:0-gerber-warns-strategy-s-bitcoin-leverage-could-trigger-a-selloff/)**
+**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
 
-In Bitcoin news today, Ross Gerber, CEO of Gerber Kawasaki Wealth and Investment Management, argued this week that gold remains easier to use for everyday transactions than Bitcoin, reviving a long-running debate over the asset’s real-world utility.The comments arrived alongside a sharper attack on…
+Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 2h ago
-
----
-
-**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
-
-HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
-
-theblock.co • 5h ago
+TradingView • 1d ago
 
 ---
 
@@ -217,39 +233,23 @@ Investing.com • 17h ago
 
 ---
 
-**[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling](https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf)**
-
-Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
-
-Decrypt • 5h ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/08/16/where-will-bitcoin-be-in-5-years/)**
-
-There's one major thing holding Bitcoin back.
-
-The Motley Fool • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Controversial Bitcoin fork BIP-110 mines two blocks, then stops](https://news.ycombinator.com/item?id=49245272)**
-
-The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
-
-⬆️ 10 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
-
----
 
 **[Bitcoin: I'm retarded. ASM client/server project in the works](https://news.ycombinator.com/item?id=49326976)**
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 10h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+
+---
+
+**[Both .btc and .bitcoin domain extensions coming](https://news.ycombinator.com/item?id=49332502)**
+
+Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
+
+⬆️ 1 • 💬 1 • 1h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -301,7 +301,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 211 • 💬 117 • ⏱️ 17:10 • 17h ago
+👁️ 3K • 👍 211 • 💬 117 • ⏱️ 17:10 • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 243 • 💬 34 • ⏱️ 12:52 • 21h ago
+👁️ 6K • 👍 243 • 💬 34 • ⏱️ 12:52 • 22h ago
 
 ---
 
@@ -381,7 +381,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 56K • 👍 4K • 💬 372 • ⏱️ 10:57 • 21h ago
+👁️ 56K • 👍 4K • 💬 372 • ⏱️ 10:57 • 22h ago
 
 ---
 
