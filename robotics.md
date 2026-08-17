@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T21:50:54.262685+00:00'
+updated: '2026-08-17T22:24:32.741288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 21:50 UTC  
+**Last Updated:** August 17, 2026 at 22:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is my custom robotics project I have been working on for the past year. I'll be posting more on my X account RhettBrewer. I will also be posting other projects and future ones there too!
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 The physical design is finally locked down, and the digital model now mirrors the optimized physical robot. What you see here has taken a lot of work, but surprisingly, most of the development over the last two years has been on the part you can't see: the software. I have been developing Robert's operating system alongside the mechanics - coordinating 30 servos, synchronized movements, speech, vision, sensors, driving and AI interaction so that they can all work together. The ultimate goal is to give AI a physical embodiment through which it can see, speak, move and interact with the world. The mechanical design has gone through the same process of continuous refinement. It is now divided into self-contained modules that make Robert much easier to build, maintain and repair.
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-13h ago
+14h ago
 
 ---
 
@@ -84,7 +84,7 @@ If you are interested in learning how to model any robot in Simscape, I am worki
 
 I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
 
-7h ago
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ I’ve been working on this robot project for a while and finally got it to the 
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -132,29 +132,17 @@ inc.com • 6h ago
 
 ---
 
-**[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 12h ago
-
----
-
-**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
-
-Bloomberg.com • 21h ago
-
----
-
-**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
-
-Axios • 9h ago
-
----
-
 **[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
 Fox News • 1d ago
+
+---
+
+**[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
+
+Gizmodo • 32m ago
 
 ---
 
@@ -166,27 +154,35 @@ Interesting Engineering • 12h ago
 
 ---
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
+**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 1d ago
+Axios • 10h ago
 
 ---
 
-**[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
+**[Serve Robotics partners with Grubhub after Uber exit](https://www.latimes.com/business/story/2026-08-17/robot-delivery-company-serve-partners-with-grubhub-after-uber-exit)**
 
-Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
+Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
 
-Yahoo Finance • 20h ago
+Los Angeles Times • 1h ago
 
 ---
 
-**[Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems](https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/)**
+**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems - SiliconANGLE
+Bloomberg.com • 22h ago
 
-SiliconANGLE • 8h ago
+---
+
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[Dear Wetour Robotics Stock Fans, Mark Your Calendars for August 24](https://www.barchart.com/story/news/3888025/dear-wetour-robotics-stock-fans-mark-your-calendars-for-august-24)**
+
+Barchart.com • 7h ago
 
 ---
 

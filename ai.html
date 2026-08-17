@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-17T21:50:53.906996+00:00"
+          "dateModified": "2026-08-17T22:24:32.293307+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -682,6 +682,74 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vr54rn/should_ai_agents_have_their_own_company_cards/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vr54rn/should_ai_agents_have_their_own_company_cards/" target="_blank" onclick="event.stopPropagation();">Should AI agents have their own company cards?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787001338.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vr6lbp/selfhosted_ai_analyst_that_writes_the_sql_checks/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/yojvx0jje0kh1.png?width=640&crop=smart&auto=webp&s=e3c5d5827e1d13ed8abfd39f7139eb4f09e797fe" alt="Self-hosted AI analyst that writes the SQL, checks its own numbers, and cites which query every claim came from" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vr6lbp/selfhosted_ai_analyst_that_writes_the_sql_checks/" target="_blank" onclick="event.stopPropagation();">Self-hosted AI analyst that writes the SQL, checks its own numbers, and cites which query every claim came from</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787004765.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vqrdj9/could_todays_ai_models_give_us_an_lk99_moment_but/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -815,6 +883,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vr6ib6/could_ai_and_the_internet_fulfill_prophecies_of/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vr6ib6/could_ai_and_the_internet_fulfill_prophecies_of/" target="_blank" onclick="event.stopPropagation();">Could AI and the Internet Fulfill Prophecies of Control in Revelation?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 "He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.” Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; "The Hebrew equivalent of our "w" is the letter "vav" or "waw". The numerical value of vav is 6. So the English "www" transliterated into Hebrew is "vav vav vav", which numerically is 666.” Is "www" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) History Preceding the book of Revelation This article explains many of the “natural signs, spiritual signs, sociological signs, technological signs, and political signs,” foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, earthquakes, plagues, moral decline, wars, growing governmental dominance/deception ("with all power, signs, and lying wonders," 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org What is the end times timeline? | GotQuestions.org How can I overcome my fear of the end of days? | GotQuestions.org "For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.” John 3:16 Going to heaven-how can I guarantee my eternal destination? More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787004561.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vr6bu7/cursor_replacement/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vr6bu7/cursor_replacement/" target="_blank" onclick="event.stopPropagation();">Cursor replacement?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I'm looking for replacement of Cursor. Mainly the question is about what Model that can match Cursor's Composer 2.5 (I dont need anything more than that) So companies I'm NOT looking at: - OpenAi - X - Cursor - Google - Meta So that leaves: - Mistral - Deepseek - Qwen - Kimi - Minimax Which one of them has a multi-modal(text+image, no video needed) LLM that can fit into $20/month plan? Assume I'm a light user. PS: Main reason why I dont want to support Cursor is their merge with Grok platform - I dont feel like giving money to companies who direct weapons into other countries and kill children. Besides who knows where the code goes now that Grok is tightly coupled with Pentagon.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1787004130.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -848,157 +982,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vr49j1/feels_like_ai_quietly_took_over_every_security/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vr49j1/feels_like_ai_quietly_took_over_every_security/" target="_blank" onclick="event.stopPropagation();">Feels like AI quietly took over every security conversation we have</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Something shifted in the last couple months. Every security conversation used to circle back to cloud, patching, the usual stuff. Now it's who approved this tool, what's it touching... how do you even audit something making its own calls. Half our frameworks weren't built for that. They assume a human logged in and did the thing on purpose. Not sure that holds anymore; we're mostly just reacting meeting to meeting at this point. Wondering if everyone's roadmap got hijacked at the same time or if we're just behind.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786999382.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/kS6cCBXCS2R-Rm4yEqRRp-MxFV1uFRvg7VJyynaExPM.jpeg?width=640&crop=smart&auto=webp&s=b82a1e41e42ae6e943a3ee49df09f638aa1db2fa" alt="U.S. bans foreign-made humanoid robots, targeting China over national security" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/" target="_blank" onclick="event.stopPropagation();">U.S. bans foreign-made humanoid robots, targeting China over national security</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786903413.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>NBC News</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vqwov9/chatgptclaude_as_the_main_interface_for_everything/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vqwov9/chatgptclaude_as_the_main_interface_for_everything/" target="_blank" onclick="event.stopPropagation();">ChatGPT/Claude as the main interface for everything</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786983560.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/h2g5f5w4oqjh1.jpeg?width=640&crop=smart&auto=webp&s=725506a446463f9f052288054de13b503cdf2ff6" alt="The median company is spending lunch money on AI while the top 1% is burning real budget" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/" target="_blank" onclick="event.stopPropagation();">The median company is spending lunch money on AI while the top 1% is burning real budget</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786887453.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1022,7 +1005,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T20:54:47.577407+00:00">Updated 2026-08-17T20:54:47.577407+00:00</small>
+        <small data-timestamp="2026-08-17T22:24:05.668948+00:00">Updated 2026-08-17T22:24:05.668948+00:00</small>
     </div>
 </div>
 
@@ -1245,14 +1228,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287" target="_blank" onclick="event.stopPropagation();">AI Has Plunged the Book Publishing Industry Into Utter Chaos</a>
+                            <a href="https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2" target="_blank" onclick="event.stopPropagation();">Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1274,7 +1257,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786959000.0"></span>
+                                    <span data-timestamp="1786928400.0"></span>
                                 </div>
                                 
                             </div>
@@ -1282,14 +1265,55 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/local/chicago/2026/08/17/northeastern-illinois-university-ai-major-chicago-college', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/video/6403610515112', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b3bccac-62c5-4448-b345-e1ea540b9d53/597a9e49-dd00-46e2-97b2-ef47c1765ab9/1280x720/match/1024/512/image.jpg?ve=1&tl=1');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.foxnews.com/video/6403610515112" target="_blank" onclick="event.stopPropagation();">US ranchers face historic cattle shortage, brace for AI data center impact</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Texas Agriculture Commissioner Sid Miller discusses Tyson Foods closing beef plants amid a historic cattle shortage and the impact of rural artificial intelligence data centers on local water and land resources on ‘The Will Cain Show.’
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1787003961.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/features/10-companies-to-watch-apac-2h-2026/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/local/chicago/2026/08/17/northeastern-illinois-university-ai-major-chicago-college" target="_blank" onclick="event.stopPropagation();">Students at NEIU in Chicago can now major in AI</a>
+                            <a href="https://www.bloomberg.com/features/10-companies-to-watch-apac-2h-2026/" target="_blank" onclick="event.stopPropagation();">These are the Asia Pacific companies you should keep an eye on over the next few months.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1301,9 +1325,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1311,7 +1335,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786999697.0"></span>
+                                    <span data-timestamp="1787004000.0"></span>
                                 </div>
                                 
                             </div>
@@ -1319,20 +1343,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.inc.com/marcel-schwantes/52-percent-of-workers-hesitate-to-admit-using-ai-leaders-may-be-teaching-them-to-hide-it/91391581', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108130970-1744395366731-gettyimages-2207048930-TFSPI_29032025-5963.jpeg?v=1769733203&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/08/ai-shadow-at-work-inc.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html" target="_blank" onclick="event.stopPropagation();">Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin</a>
+                            <a href="https://www.inc.com/marcel-schwantes/52-percent-of-workers-hesitate-to-admit-using-ai-leaders-may-be-teaching-them-to-hide-it/91391581" target="_blank" onclick="event.stopPropagation();">52 Percent of Workers Hesitate to Admit Using AI. Leaders May Be Teaching Them to Hide It</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The investment bank compared companies' labor intensity and artificial intelligence sensitivity to see where AI implementation gains will make an impact.
+                            The contradiction creates shadow AI and makes preventable mistakes harder to catch.
                         </div>
                         
 
@@ -1342,9 +1366,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="inc.com" class="news-favicon">
+                                    <a href="https://www.inc.com" target="_blank" onclick="event.stopPropagation();">inc.com</a>
                                     
                                 </div>
                                 
@@ -1352,48 +1376,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786996741.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/6a6a49d8f2f28be47a641341/191:100/w_1280,c_limit/culture_ai__video_hbo_porn.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/" target="_blank" onclick="event.stopPropagation();">This R-Rated Film Studio Wants to Be the HBO of AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786997897.0"></span>
+                                    <span data-timestamp="1787001542.0"></span>
                                 </div>
                                 
                             </div>
@@ -1442,47 +1425,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug" target="_blank" onclick="event.stopPropagation();">Red Agent Exploits Snowflake Vuln Missed by Github Copilot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wiz.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="wiz.io" class="news-favicon">
-                                    <a href="https://www.wiz.io" target="_blank" onclick="event.stopPropagation();">wiz.io</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786975200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/08/17/trump-aims-rebuild-defenses-against-bioweapons-ai-fears-rise/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Y3FZO26PDFFR5LLPI7WTSWOQNA.jpg&w=1440');"></div>
@@ -1507,8 +1449,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                         alt="washingtonpost.com" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">washingtonpost.com</a>
                                     
                                 </div>
                                 
@@ -1565,6 +1507,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/B7C650C6D97CF3C4DA66A39E20A6A3A920DB8432DEE3F1D2413BCD66702D11EA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F4b0ae7bfc0df5140995d211de7c74556.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html" target="_blank" onclick="event.stopPropagation();">Amazon, once an online bookseller, is destroying rare books to train AI models</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786984724.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg');"></div>
@@ -1589,8 +1572,8 @@
                                 <div class="news-meta-item news-source">
                                     
                                     <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="arstechnica.com" class="news-favicon">
-                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">arstechnica.com</a>
+                                         alt="Ars Technica" class="news-favicon">
+                                    <a href="https://arstechnica.com" target="_blank" onclick="event.stopPropagation();">Ars Technica</a>
                                     
                                 </div>
                                 
@@ -1626,7 +1609,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T20:55:07.831076+00:00">Updated 2026-08-17T20:55:07.831076+00:00</small>
+        <small data-timestamp="2026-08-17T22:24:25.828936+00:00">Updated 2026-08-17T22:24:25.828936+00:00</small>
     </div>
 </div>
 
@@ -1851,10 +1834,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 627</span>
+                                    <span class="post-points">▲ 628</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 496</span>
+                                    <span style="color: #9ca3af;">💬 497</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1871,6 +1854,55 @@
                                             
                                         
                                         <span>davidepiffer.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49336573', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49336573" target="_blank" onclick="event.stopPropagation();">AI;DR (AI; Didn't Read)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 421</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 255</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-17T19:47:15Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://substackcdn.com/image/fetch/$s_!Kbhv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ebaf980-e0b3-40f7-8130-6bd93ad5f6bd%2Fapple-touch-icon-57x57.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>rickmanelius.com</span>
                                     </a>
                                 </div>
                                 
@@ -1952,7 +1984,7 @@
                                     <span class="post-points">▲ 322</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 125</span>
+                                    <span style="color: #9ca3af;">💬 127</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1998,10 +2030,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 263</span>
+                                    <span class="post-points">▲ 289</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
+                                    <span style="color: #9ca3af;">💬 120</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2018,55 +2050,6 @@
                                             
                                         
                                         <span>wiz.io</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49336573', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49336573" target="_blank" onclick="event.stopPropagation();">AI;DR (AI; Didn't Read)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 236</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 133</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-17T19:47:15Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://substackcdn.com/image/fetch/$s_!Kbhv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ebaf980-e0b3-40f7-8130-6bd93ad5f6bd%2Fapple-touch-icon-57x57.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>rickmanelius.com</span>
                                     </a>
                                 </div>
                                 
@@ -2098,10 +2081,10 @@ First, on regulation, I think that “either concentrate it in the hands of a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 220</span>
+                                    <span class="post-points">▲ 227</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 463</span>
+                                    <span style="color: #9ca3af;">💬 485</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2147,10 +2130,10 @@ First, on regulation, I think that “either concentrate it in the hands of a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 197</span>
+                                    <span class="post-points">▲ 219</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 100</span>
+                                    <span style="color: #9ca3af;">💬 118</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2192,7 +2175,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 184</span>
+                                    <span class="post-points">▲ 185</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 91</span>
@@ -2244,10 +2227,10 @@ First, on regulation, I think that “either concentrate it in the hands of a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 146</span>
+                                    <span class="post-points">▲ 147</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 166</span>
+                                    <span style="color: #9ca3af;">💬 172</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2293,7 +2276,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 121</span>
+                                    <span class="post-points">▲ 125</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 6</span>
@@ -2341,7 +2324,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T20:54:48.617834+00:00">Updated 2026-08-17T20:54:48.617834+00:00</small>
+        <small data-timestamp="2026-08-17T22:24:05.661144+00:00">Updated 2026-08-17T22:24:05.661144+00:00</small>
     </div>
 </div>
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T21:50:54.256256+00:00'
+updated: '2026-08-17T22:24:32.733053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 21:50 UTC  
+**Last Updated:** August 17, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,416.47
+### $64,399.63
 
 ---
 
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +2.3%  
 **7d:** +1.2%  
-**30d:** -0.5%  
+**30d:** -0.6%  
 **90d:** -17.0%  
 **1y:** -44.8%  
 
@@ -101,7 +101,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 11h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 12h ago
 
 ---
 
@@ -131,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://satoshitimeline.com/854
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -171,25 +171,33 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin eyes breakout as 6-week symmetrical triangle narrows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634075-bitcoin-eyes-breakout-as-6-week-symmetrical-triangle-narrows)**
-
-Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
-
-Seeking Alpha • 1h ago
-
----
-
 **[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
 
 The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Strategy Leaves Bitcoin Holdings Unchanged](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-133000030.html)**
+
+Strategy (NASDAQ: $MSTR) left its Bitcoin (CRYPTO: $BTC) holdings unchanged over the past week even as the company ...
 
 Yahoo Finance • 8h ago
 
 ---
 
+**[Michael Saylor’s Strategy Raises $333M Selling MSTR Stock, Leaves Bitcoin Stash Untouched](https://www.tradingview.com/news/stocktwits:7cd710dd4094b:0-michael-saylor-s-strategy-raises-333m-selling-mstr-stock-leaves-bitcoin-stash-untouched/)**
+
+Michael Saylor’s Strategy (MSTR) did not buy or sell any Bitcoin (BTC) over the past week, but the company continued to raise cash by selling its own stock.According to an 8-K filing with the Securities and Exchange Commission (SEC), Strategy sold about 3.5 million shares of MSTR common stock throu…
+
+TradingView • 8h ago
+
+---
+
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -201,33 +209,27 @@ The Motley Fool • 9h ago
 
 ---
 
+**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+
+Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
+
+TradingView • 1d ago
+
+---
+
 **[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-New York Post • 6h ago
+nypost.com • 7h ago
 
 ---
 
-**[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk)**
+**[Investors Cash Out Fast Of Bitcoin ETFs But Price Remains Stable](https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs)**
 
-Barron's • 2h ago
+The Bitcoin ETFs were on a hot streak but investor sentiment last week changed.
 
----
-
-**[Africa’s first Bitcoin treasury company delays UK listing three days before market debut](https://africa.businessinsider.com/local/markets/africas-first-bitcoin-treasury-company-delays-uk-listing-three-days-before-market/9yp8xk2)**
-
-South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
-
-Business Insider Africa • 11h ago
-
----
-
-**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
-
-HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
-
-The Block • 11h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -239,7 +241,7 @@ The Block • 11h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 15h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 16h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -247,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 6h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 7h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -281,14 +283,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[MicroStrategy Sells More Bitcoin to Fix STRC Stock: Will It Work?](https://news.ycombinator.com/item?id=49249823)**
-
-Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still trading below their $100 par value.
-
-⬆️ 1 • 💬 0 • 7d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/microstrategy-sells-more-bitcoin-fix-125133681.html)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -299,7 +293,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 581 • 💬 82 • ⏱️ 46:21 • 6h ago
+👁️ 9K • 👍 581 • 💬 82 • ⏱️ 46:21 • 7h ago
 
 ---
 
@@ -357,7 +351,7 @@ Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamental
 
 📺 Andrei Jikh
 
-👁️ 95K • 👍 2K • 💬 56 • ⏱️ 0:54 • 2d ago
+👁️ 95K • 👍 2K • 💬 56 • ⏱️ 0:54 • 3d ago
 
 ---
 
@@ -367,7 +361,7 @@ DCA is never the best strategy and it's never the worst — but the studies say 
 
 📺 Krown
 
-👁️ 722 • 👍 38 • 💬 18 • ⏱️ 1:02 • 8h ago
+👁️ 722 • 👍 38 • 💬 18 • ⏱️ 1:02 • 9h ago
 
 ---
 
