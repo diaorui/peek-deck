@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T21:25:53.117635+00:00'
+updated: '2026-08-17T21:50:54.256256+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 21:25 UTC  
+**Last Updated:** August 17, 2026 at 21:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1290.67B
+**Market Cap:** $1291.06B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -49.0%
 
 **All-Time Low:** $67.81
-+94737.0%
++94753.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ So I just got into the Bitcoin market and got some amount of Bitcoin I want to t
 
 I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://satoshitimeline.com/854
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 7h ago
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ New York Post • 6h ago
 
 **[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Barron's • 1h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 10h ago
+Business Insider Africa • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ Business Insider Africa • 10h ago
 
 HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -263,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 11h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 12h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -293,13 +293,23 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
+
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 581 • 💬 82 • ⏱️ 46:21 • 6h ago
+
+---
+
 **[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
 
 Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
 
 📺 VoskCoin
 
-👁️ 6K • 👍 263 • 💬 40 • ⏱️ 12:52 • 1d ago
+👁️ 7K • 👍 271 • 💬 43 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -309,17 +319,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 92K • 👍 6K • 💬 332 • ⏱️ 16:15 • 1d ago
-
----
-
-**[$10 Million Bitcoin Cycle - History Says The Next Move Is Coming](https://www.youtube.com/watch?v=9KQTA4LDXIc)**
-
-Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is approaching a fascinating historical window.
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 23h ago
+👁️ 95K • 👍 6K • 💬 335 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -329,7 +329,17 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 13K • 👍 1K • 💬 652 • ⏱️ 14:27 • 1d ago
+👁️ 13K • 👍 1K • 💬 655 • ⏱️ 14:27 • 1d ago
+
+---
+
+**[Bitcoin vs Gold: Which One Will Own The Future of Finance?](https://www.youtube.com/watch?v=RCLw6HhWxJ0)**
+
+As confidence in the dollar comes under pressure, the battle over the future of money is getting serious. Tether is holding more ...
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 979 • 💬 71 • ⏱️ 15:49 • 22h ago
 
 ---
 
@@ -339,7 +349,15 @@ Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamental
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 748 • 💬 336 • ⏱️ 1:03:40 • 1d ago
+👁️ 18K • 👍 760 • 💬 354 • ⏱️ 1:03:40 • 1d ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 95K • 👍 2K • 💬 56 • ⏱️ 0:54 • 2d ago
 
 ---
 
@@ -349,15 +367,7 @@ DCA is never the best strategy and it's never the worst — but the studies say 
 
 📺 Krown
 
-👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 8h ago
-
----
-
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
-
-📺 Andrei Jikh
-
-👁️ 93K • 👍 2K • 💬 56 • ⏱️ 0:54 • 2d ago
+👁️ 722 • 👍 38 • 💬 18 • ⏱️ 1:02 • 8h ago
 
 ---
 
@@ -367,7 +377,7 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 482 • 💬 22 • ⏱️ 55:12 • 2d ago
+👁️ 13K • 👍 483 • 💬 23 • ⏱️ 55:12 • 2d ago
 
 ---
 
@@ -377,17 +387,7 @@ Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 77 • 💬 11 • ⏱️ 2:18 • 1d ago
-
----
-
-**[Political Insider EXPOSES Crypto Clarity Act BOMB About To Drop (Top 7 Coins)](https://www.youtube.com/watch?v=lD8k-6qwYoA)**
-
-Most People Don't Realize What's About To Happen” (Top 7 Coins) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 3K • 💬 162 • ⏱️ 11:11 • 2d ago
+👁️ 3K • 👍 79 • 💬 11 • ⏱️ 2:18 • 1d ago
 
 ---
 

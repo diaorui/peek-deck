@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T21:25:53.125489+00:00'
+updated: '2026-08-17T21:50:54.262685+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 21:25 UTC  
+**Last Updated:** August 17, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The physical design is finally locked down, and the digital model now mirrors th
 
 Matic’s latest update lets its robot vacuum respond to spoken commands and gestures rather than relying only on an app. The system is still working within a defined set of actions, but the broader robotics question is more interesting: how much of human-robot interaction should depend on people learning an interface, versus robots learning to interpret the ways people already communicate? As robots move into homes and other less structured environments, voice, pointing, movement and context may become increasingly important parts of the control layer.
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 4h ago
 
 ---
 
@@ -76,7 +76,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 1h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 2h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-21h ago
+22h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 11h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 5h ago
+inc.com • 6h ago
 
 ---
 
@@ -162,7 +162,7 @@ Fox News • 1d ago
 
 Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -178,7 +178,7 @@ IEEE Spectrum • 1d ago
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -194,6 +194,16 @@ SiliconANGLE • 8h ago
 
 ## YouTube Videos: "robotics"
 
+**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
+
+Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
+
+📺 Fireship
+
+👁️ 992K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
+
+---
+
 **[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
 
 Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
@@ -201,36 +211,6 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 📺 DEEP Robotics
 
 👁️ 32K • 👍 116 • 💬 14 • ⏱️ 0:18 • 5d ago
-
----
-
-**[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
-
-Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
-
-📺 Fireship
-
-👁️ 990K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
-
----
-
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
-
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
-
-📺 Guardian News
-
-👁️ 40K • 👍 482 • 💬 133 • ⏱️ 3:48 • 6d ago
-
----
-
-**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
-
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
-
-📺 CNET
-
-👁️ 8K • 👍 292 • 💬 45 • ⏱️ 5:16 • 1d ago
 
 ---
 
@@ -244,43 +224,33 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 482 • 💬 134 • ⏱️ 3:48 • 6d ago
+
+---
+
+**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+
+📺 CNET
+
+👁️ 9K • 👍 296 • 💬 48 • ⏱️ 5:16 • 1d ago
+
+---
+
 **[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
 
 What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
 
 📺 Imagination in Action
 
-👁️ 10K • 👍 343 • 💬 46 • ⏱️ 1:12:16 • 6d ago
-
----
-
-**[Chinese robot maker Unitree set to become China&#39;s first humanoid robot stock | DW News](https://www.youtube.com/watch?v=P3W6dKx7u1Y)**
-
-Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it seeks to raise around 900 million dollars for ...
-
-📺 DW News
-
-👁️ 19K • 👍 242 • 💬 166 • ⏱️ 13:41 • 7d ago
-
----
-
-**[Chinese company unveils robot that jumps 2 meters](https://www.youtube.com/watch?v=Bd5x9HF3-44)**
-
-Can robots outrun and outjump humans? Well, this one can… Chinese robotics company Unitree has unveiled its new ...
-
-📺 CGTN Europe
-
-👁️ 4K • 👍 188 • 💬 16 • ⏱️ 0:23 • 5h ago
-
----
-
-**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
-
-China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
-
-📺 Kalil 4.0
-
-👁️ 7K • 👍 195 • 💬 30 • ⏱️ 0:56 • 18h ago
+👁️ 10K • 👍 346 • 💬 46 • ⏱️ 1:12:16 • 6d ago
 
 ---
 
@@ -291,6 +261,36 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 📺 KhanFlicks
 
 👁️ 57K • 💬 60 • ⏱️ 8:34 • 6d ago
+
+---
+
+**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
+
+China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
+
+📺 Kalil 4.0
+
+👁️ 9K • 👍 229 • 💬 32 • ⏱️ 0:56 • 19h ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 233K • 👍 3K • 💬 611 • ⏱️ 10:16 • 3d ago
+
+---
+
+**[The Honor Robot Phone is absolutely insane.](https://www.youtube.com/watch?v=n3F996g8wjg)**
+
+Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS ...
+
+📺 Mrwhosetheboss
+
+👁️ 3.3M • 👍 88K • 💬 5K • ⏱️ 14:03 • 3d ago
 
 ---
 

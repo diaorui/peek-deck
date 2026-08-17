@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T21:25:53.122753+00:00'
+updated: '2026-08-17T21:50:54.260434+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 21:25 UTC  
+**Last Updated:** August 17, 2026 at 21:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.05B
+**Market Cap:** $229.86B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.5%
 
 **All-Time Low:** $0.43
-+440205.4%
++439819.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 14h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 15h ago
 
 ---
 
@@ -188,7 +188,7 @@ Benzinga • 1d ago
 
 Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 18h ago
 
 Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 20h ago
+👁️ 7K • 👍 212 • 💬 23 • ⏱️ 35:05 • 20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 12h ago
+👁️ 3K • 👍 398 • 💬 216 • ⏱️ 29:45 • 12h ago
 
 ---
 
@@ -258,17 +258,37 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 1K • 💬 111 • ⏱️ 15:54 • 1d ago
+👁️ 31K • 👍 1K • 💬 113 • ⏱️ 15:54 • 1d ago
 
 ---
 
-**[ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA?](https://www.youtube.com/watch?v=6YPxVyrMQk0)**
+**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
 
-ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
+BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Luiz Fernando
+📺 Crypto World
 
-👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 23h ago
+👁️ 726 • 👍 69 • 💬 50 • ⏱️ 18:58 • 1h ago
+
+---
+
+**[Ethereum Explained: What You NEED to Know Before You Buy ETH](https://www.youtube.com/watch?v=prhldVJIqIU)**
+
+A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominance, Layer 2s, institutional adoption, ETFs, and ...
+
+📺 Crypto School - Brian Longest
+
+👁️ 10 • 👍 1 • 💬 1 • ⏱️ 27:41 • 7h ago
+
+---
+
+**[Ethereum Just Gave Us A Massive Clue About The Future.](https://www.youtube.com/watch?v=2LP8MINM0_U)**
+
+Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC81726 Save Up To 37% On ...
+
+📺 Tyler Hill Crypto
+
+👁️ 2K • 👍 138 • 💬 34 • ⏱️ 10:29 • 7h ago
 
 ---
 
@@ -278,7 +298,17 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 10h ago
+👁️ 88 • 👍 3 • 💬 2 • ⏱️ 3:04 • 10h ago
+
+---
+
+**[Bitcoin Y Ethereum: ¿A Punto De Iniciar un Movimiento Alcista?](https://www.youtube.com/watch?v=4thY6Np9Ml8)**
+
+Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+
+📺 CdeCripto
+
+👁️ 1K • 👍 268 • 💬 20 • ⏱️ 13:34 • 2h ago
 
 ---
 
@@ -288,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 11h ago
+👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 12h ago
 
 ---
 
@@ -298,37 +328,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 887 • 💬 239 • ⏱️ 17:49 • 2d ago
-
----
-
-**[ETH - WHALE WATCHING - Ethereum Price Prediction](https://www.youtube.com/watch?v=qVJmZyMXGy4)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 15 • ⏱️ 8:24 • 11h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
-
-BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 234 • 💬 144 • ⏱️ 17:01 • 21h ago
-
----
-
-**[BTC Holds Above $63K, ETH Hovers Around $1900 | Evening News | 3.0 TV](https://www.youtube.com/watch?v=DDnzMnPHR0Y)**
-
-BitGo Leads $26.6B RWA Market With 27.5% Share Bitget Restricts HTX, EXMO & 14 Crypto Platforms In Compliance Push ...
-
-📺 3.0 TV
-
-👁️ 171 • 👍 1 • ⏱️ 4:47 • 6h ago
+👁️ 9K • 👍 887 • 💬 240 • ⏱️ 17:49 • 2d ago
 
 ---
 

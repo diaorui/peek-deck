@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T21:25:53.109909+00:00'
+updated: '2026-08-17T21:50:54.249111+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 21:25 UTC  
+**Last Updated:** August 17, 2026 at 21:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ India's Leading AI & Data Science Media Platform
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 Something shifted in the last couple months. Every security conversation used to circle back to cloud, patching, the usual stuff. Now it's who approved this tool, what's it touching... how do you even audit something making its own calls. Half our frameworks weren't built for that. They assume a human logged in and did the thing on purpose. Not sure that holds anymore; we're mostly just reacting meeting to meeting at this point. Wondering if everyone's roadmap got hijacked at the same time or if we're just behind.
 
-42m ago
+1h ago
 
 ---
 
@@ -123,19 +123,19 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 **[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
 **[Students at NEIU in Chicago can now major in AI](https://www.axios.com/local/chicago/2026/08/17/northeastern-illinois-university-ai-major-chicago-college)**
 
-Axios • 37m ago
+Axios • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ WIRED • 1h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -235,7 +235,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 236 • 💬 133 • 1h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 236 • 💬 133 • 2h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -267,7 +267,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 146 • 💬 166 • 23h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 146 • 💬 166 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -283,13 +283,13 @@ Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
 ## YouTube Videos: "ai"
 
-**[The Insane, True Story of What It’s Like to Be an AI Model](https://www.youtube.com/watch?v=9XlOaVItUgI)**
+**[Best Prompts to Build an App With AI + No Coding](https://www.youtube.com/watch?v=mNtiKFP4yZY)**
 
-Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
 
-📺 Species | Documenting AGI
+📺 Mikey No Code
 
-👁️ 110K • 👍 6K • 💬 988 • ⏱️ 22:19 • 1d ago
+👁️ 14K • 💬 6 • ⏱️ 38:48 • 7h ago
 
 ---
 
@@ -299,43 +299,17 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 63K • 👍 1K • 💬 147 • ⏱️ 5:52 • 1d ago
+👁️ 66K • 👍 1K • 💬 149 • ⏱️ 5:52 • 1d ago
 
 ---
 
-**[New Twitch AI Garbage](https://www.youtube.com/watch?v=sok9mDbrAZA)**
+**[The Insane, True Story of What It’s Like to Be an AI Model](https://www.youtube.com/watch?v=9XlOaVItUgI)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...
+Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
 
-📺 penguinz0
+📺 Species | Documenting AGI
 
-👁️ 423K • 👍 21K • 💬 2K • ⏱️ 8:55 • 19h ago
-
----
-
-**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
-
-📺 Rick Beato
-
-👁️ 67K • 👍 5K • 💬 207 • ⏱️ 0:49 • 6h ago
-
----
-
-**[Bro got fired by AI😭✌️](https://www.youtube.com/watch?v=7vxcjXOANBA)**
-
-📺 Ben Esherick
-
-👁️ 547K • 👍 34K • 💬 417 • ⏱️ 0:39 • 1d ago
-
----
-
-**[Almost No One Realizes This About AI Data Centers](https://www.youtube.com/watch?v=iI3tT6CCVH8)**
-
-Go to ( https://ground.news/explained )​ for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide ...
-
-📺 Economics Explained
-
-👁️ 187K • 👍 6K • 💬 895 • ⏱️ 18:21 • 1d ago
+👁️ 113K • 👍 6K • 💬 1K • ⏱️ 22:19 • 1d ago
 
 ---
 
@@ -345,17 +319,53 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 390K • 👍 16K • 💬 2K • ⏱️ 15:53 • 2d ago
+👁️ 405K • 👍 16K • 💬 2K • ⏱️ 15:53 • 2d ago
 
 ---
 
-**[AI Gets The Appointment](https://www.youtube.com/watch?v=E8RAubbu4fA)**
+**[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!](https://www.youtube.com/watch?v=9qix4oDB5aw)**
 
-Writer: Kyler Himes Editor: Jayson van Kerckhoven Music by: @UFD-Music.
+Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...
 
-📺 UFD Tech
+📺 Matthew Berman
 
-👁️ 700K • 👍 39K • 💬 1K • ⏱️ 1:02 • 1d ago
+👁️ 59K • 👍 2K • 💬 229 • ⏱️ 13:09 • 2d ago
+
+---
+
+**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
+
+MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
+
+📺 MS NOW
+
+👁️ 540K • 👍 9K • 💬 2K • ⏱️ 20:18 • 2d ago
+
+---
+
+**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
+
+📺 Rick Beato
+
+👁️ 109K • 👍 7K • 💬 270 • ⏱️ 0:49 • 7h ago
+
+---
+
+**[Bro got fired by AI😭✌️](https://www.youtube.com/watch?v=7vxcjXOANBA)**
+
+📺 Ben Esherick
+
+👁️ 582K • 👍 35K • 💬 437 • ⏱️ 0:39 • 1d ago
+
+---
+
+**[NEWS: Americans rise up in favor of major AI regulation.](https://www.youtube.com/watch?v=n69EOUTEm7c)**
+
+Subscribe for more!
+
+📺 Aaron Parnas
+
+👁️ 27K • 👍 6K • 💬 222 • ⏱️ 1:06 • 5h ago
 
 ---
 
@@ -365,17 +375,7 @@ meettheharrisons #theharrisons.
 
 📺 D.Michael Harrison
 
-👁️ 91K • 👍 3K • 💬 135 • ⏱️ 1:42 • 2d ago
-
----
-
-**[Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!](https://www.youtube.com/watch?v=6kjXzTVmT58)**
-
-Timestamps: 00:00 - Intro 00:44 - First Look 01:50 - Technical Look 03:09 - Local Testing Info 04:02 - Browser OS Test 11:14 - C++ ...
-
-📺 Bijan Bowen
-
-👁️ 61K • 👍 2K • 💬 485 • ⏱️ 38:15 • 2d ago
+👁️ 93K • 👍 3K • 💬 136 • ⏱️ 1:42 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,647 • 3d ago
+⬇️ 415,039 • ❤️ 10,683 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 2,727,609 • ❤️ 1,610 • 2d ago
+⬇️ 2,727,609 • ❤️ 1,619 • 2d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 9,465 • ❤️ 1,036 • 5d ago
+⬇️ 9,465 • ❤️ 1,040 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 334,099 • ❤️ 1,655 • 6d ago
+⬇️ 334,099 • ❤️ 1,658 • 6d ago
 
 ---
 
@@ -439,7 +439,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,091 • 7h ago
+⬇️ 465,529 • ❤️ 1,100 • 7h ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 10,375 • ❤️ 894 • 3d ago
+⬇️ 10,375 • ❤️ 900 • 3d ago
 
 ---
 
@@ -463,7 +463,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,403,238 • ❤️ 4,079 • 4d ago
+⬇️ 2,403,238 • ❤️ 4,086 • 4d ago
 
 ---
 
@@ -475,7 +475,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 25,006 • ❤️ 570 • 4d ago
+⬇️ 25,006 • ❤️ 572 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 495,646 • ❤️ 524 • 3d ago
+⬇️ 495,646 • ❤️ 526 • 3d ago
 
 ---
 
@@ -499,7 +499,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 15,812 • ❤️ 424 • 1d ago
+⬇️ 15,812 • ❤️ 428 • 1d ago
 
 ---
 
@@ -515,7 +515,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 641 • 💬 3 • ⭐ 3,227 • 8d ago
+▲ 642 • 💬 3 • ⭐ 3,227 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -529,7 +529,7 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 
 Person-grounded AI skills are automatically distilled from heterogeneous traces into inspectable, correctable packages that capture both capabilities and behavioral patterns.
 
-▲ 126 • 💬 3 • ⭐ 23,074 • 2mo ago
+▲ 127 • 💬 3 • ⭐ 23,074 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2605.31264) • [💻 code](https://github.com/titanwings/colleague-skill)
 
@@ -559,20 +559,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
-
-*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
-
-🏢 jingdong
-
-JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
-
-▲ 95 • 💬 1 • ⭐ 1,491 • 14d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -599,6 +585,20 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 ---
 
+**[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
+
+*Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
+
+🏢 jingdong
+
+JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
+
+▲ 95 • 💬 1 • ⭐ 1,508 • 14d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -606,7 +606,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,268 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,323 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -649,7 +649,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 3h ago
+⭐ 13.8k • 🔱 1.6k • 22m ago
 
 ---
 
@@ -659,7 +659,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.2k • 🔱 1.4k • 2h ago
+⭐ 13.3k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.3k • 🔱 460 • 3d ago
+⭐ 5.3k • 🔱 461 • 3d ago
 
 ---
 
@@ -697,7 +697,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 552 • 1d ago
+⭐ 3.2k • 🔱 551 • 1d ago
 
 ---
 
