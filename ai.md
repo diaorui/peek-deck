@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T20:26:40.317525+00:00'
+updated: '2026-08-17T20:55:08.964775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 20:26 UTC  
+**Last Updated:** August 17, 2026 at 20:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Using AI the wrong way could leave you worse off than never using it at all](https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/)**
-
-Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
-
-3h ago
-
----
-
 **[Deepfake voices seem like a nightmare for diplomatic calls](https://www.reddit.com/r/artificial/comments/1vr1hae/deepfake_voices_seem_like_a_nightmare_for/)**
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
@@ -53,11 +45,19 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 ---
 
+**[Using AI the wrong way could leave you worse off than never using it at all](https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/)**
+
+Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
+
+3h ago
+
+---
+
 **[Could today’s AI models give us an “LK-99 moment” — but this time for real?](https://www.reddit.com/r/artificial/comments/1vqrdj9/could_todays_ai_models_give_us_an_lk99_moment_but/)**
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-7h ago
+8h ago
 
 ---
 
@@ -69,19 +69,27 @@ India's Leading AI & Data Science Media Platform
 
 ---
 
-**[Anyone here who is starting AI engineering self studies or has been on this track before.](https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/)**
-
-So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
-
-10h ago
-
----
-
 **[Chinese robot dogs tackle fires and toxic leaks to protect rescuers](https://www.reddit.com/r/artificial/comments/1vqtw4o/chinese_robot_dogs_tackle_fires_and_toxic_leaks/)**
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 6h ago
+
+---
+
+**[Anyone here who is starting AI engineering self studies or has been on this track before.](https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/)**
+
+So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
+
+11h ago
+
+---
+
+**[Feels like AI quietly took over every security conversation we have](https://www.reddit.com/r/artificial/comments/1vr49j1/feels_like_ai_quietly_took_over_every_security/)**
+
+Something shifted in the last couple months. Every security conversation used to circle back to cloud, patching, the usual stuff. Now it's who approved this tool, what's it touching... how do you even audit something making its own calls. Half our frameworks weren't built for that. They assume a human logged in and did the thing on purpose. Not sure that holds anymore; we're mostly just reacting meeting to meeting at this point. Wondering if everyone's roadmap got hijacked at the same time or if we're just behind.
+
+12m ago
 
 ---
 
@@ -101,14 +109,6 @@ Hi all, I was updating my ChatGPT-created spreadsheet where I track networking w
 
 ---
 
-**[Territorial scope of EU AI Law](https://www.reddit.com/r/artificial/comments/1vqmme3/territorial_scope_of_eu_ai_law/)**
-
-Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
-
-11h ago
-
----
-
 **[The median company is spending lunch money on AI while the top 1% is burning real budget](https://www.reddit.com/r/artificial/comments/1vpxa46/the_median_company_is_spending_lunch_money_on_ai/)**
 
 Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptions, coding agents, API usage and GPU cloud spend. The top 1% line is wild but the median is almost more interesting. Looks like most companies are still experimenting while a small group have turned AI into a serious operating expense
@@ -123,53 +123,35 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 **[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
+**[Students at NEIU in Chicago can now major in AI](https://www.axios.com/local/chicago/2026/08/17/northeastern-illinois-university-ai-major-chicago-college)**
 
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
-
-404 Media • 5h ago
+Axios • 6m ago
 
 ---
 
-**[Amazon Caught Destroying Rare Books to Train AI](https://futurism.com/artificial-intelligence/amazon-destroying-rare-books-ai)**
+**[Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin](https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html)**
 
-An investigation by 404 Media found that Amazon bought a shipment of rare books so it could scan and destroy them to train AI.
+The investment bank compared companies' labor intensity and artificial intelligence sensitivity to see where AI implementation gains will make an impact.
 
-Futurism • 1h ago
-
----
-
-**[I Use AI to Help Run My Business, but I'd Rather Hire More People](https://www.businessinsider.com/how-artist-built-ai-c-suite-help-run-business-2026-8)**
-
-A small business owner in Brooklyn created a C-suite filled with AI agents to help run her business, but she refuses to use AI for creative work.
-
-Business Insider • 1h ago
+CNBC • 56m ago
 
 ---
 
-**[AI takes the helm: The future of boating arrives](https://www.cnbc.com/video/2026/08/17/ai-takes-the-hem-the-future-of-boating-arrives.html)**
+**[This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)**
 
-CNBC’s Contessa Brewer and Brunswick CEO David Foulkes preview the future of boating with a state-of-the-art Sea Ray can dock itself. Autonomous technology paired with cameras, sensors and GPS allow Captains to dock a boat with a push of a button.
+Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.
 
-CNBC • 1h ago
-
----
-
-**[Google Lets Some Gemini Users Turn Off Visible AI Watermarks](https://www.extremetech.com/internet/google-lets-some-gemini-users-turn-off-visible-ai-watermarks)**
-
-SynthID and origin data are unaffected.
-
-extremetech.com • 1h ago
+WIRED • 36m ago
 
 ---
 
@@ -177,7 +159,15 @@ extremetech.com • 1h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 9h ago
+CNN • 10h ago
+
+---
+
+**[Red Agent Exploits Snowflake Vuln Missed by Github Copilot](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)**
+
+An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+
+wiz.io • 6h ago
 
 ---
 
@@ -189,9 +179,19 @@ The Washington Post • 4h ago
 
 ---
 
-**[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
+**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
 
-Reuters • 5h ago
+We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
+
+404 Media • 5h ago
+
+---
+
+**[Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)**
+
+Amazon’s team uses a T. rex preparing to devour a book as its logo.
+
+arstechnica.com • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 321 • 💬 125 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 322 • 💬 125 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -227,7 +227,15 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 235 • 💬 106 • 6h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 263 • 💬 112 • 6h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+
+---
+
+**[AI;DR (AI; Didn't Read)](https://news.ycombinator.com/item?id=49336573)**
+
+I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
+
+⬆️ 236 • 💬 133 • 1h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -237,7 +245,15 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 218 • 💬 454 • 18h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 220 • 💬 463 • 18h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+
+---
+
+**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
+
+One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
+
+⬆️ 197 • 💬 100 • 6h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -247,35 +263,19 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 ---
 
-**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
-
-One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
-
-⬆️ 182 • 💬 89 • 6h ago • [librarian.net](https://www.librarian.net/notoai/)
-
----
-
 **[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe](https://news.ycombinator.com/item?id=49323932)**
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 142 • 💬 165 • 22h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 146 • 💬 166 • 23h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
-**[Cloudflare's AI Psychosis](https://news.ycombinator.com/item?id=49310719)**
+**[AirTag reveals Amazon is trashing rare books to train AI](https://news.ycombinator.com/item?id=49336050)**
 
-There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
+Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-⬆️ 117 • 💬 100 • 2d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
-
----
-
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://news.ycombinator.com/item?id=49330742)**
-
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
-
-⬆️ 106 • 💬 119 • 6h ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+⬆️ 121 • 💬 6 • 1h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 
 ---
 
@@ -317,7 +317,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 Rick Beato
 
-👁️ 67K • 👍 5K • 💬 207 • ⏱️ 0:49 • 5h ago
+👁️ 67K • 👍 5K • 💬 207 • ⏱️ 0:49 • 6h ago
 
 ---
 
@@ -439,7 +439,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,091 • 6h ago
+⬇️ 465,529 • ❤️ 1,091 • 7h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T20:26:40.332674+00:00'
+updated: '2026-08-17T20:55:08.978049+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 20:26 UTC  
+**Last Updated:** August 17, 2026 at 20:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +1.3%  
-**30d:** +1.8%  
-**90d:** -10.4%  
+**24h:** +1.6%  
+**7d:** +1.2%  
+**30d:** +1.7%  
+**90d:** -10.5%  
 **1y:** -55.8%  
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 14h ago
 
 ---
 
@@ -168,6 +168,14 @@ Yahoo Finance • 6h ago
 
 ---
 
+**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
+
+Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
+
+TradingView • 5h ago
+
+---
+
 **[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
@@ -180,7 +188,13 @@ Benzinga • 1d ago
 
 Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
+
+---
+
+**[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
+
+CCN.com • 4h ago
 
 ---
 
@@ -198,35 +212,19 @@ FXStreet • 17h ago
 
 ---
 
+**[Ethereum developers propose privacy changes for next major upgrade](https://cryptobriefing.com/ethereum-hegota-privacy-upgrade-proposals/)**
+
+Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
+
+Crypto Briefing • 2h ago
+
+---
+
 **[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
 Fortune • 7h ago
-
----
-
-**[Ethereum developers propose privacy changes for next major upgrade](https://cryptobriefing.com/ethereum-hegota-privacy-upgrade-proposals/)**
-
-Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
-
-cryptobriefing.com • 1h ago
-
----
-
-**[Bitmine’s Ethereum holdings hit 5.82M tokens; buybacks cross 20.8M shares](https://seekingalpha.com/news/4633843-bitmines-ethereum-holdings-hit-582m-tokens-buybacks-cross-208m-shares)**
-
-Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
-
-Seeking Alpha • 7h ago
-
----
-
-**[Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff](https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/)**
-
-Faster binary-field proofs are making SHA and BLAKE practical for a future Ethereum without declaring Poseidon broken.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -290,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 10h ago
+👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 11h ago
 
 ---
 
@@ -320,7 +318,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 234 • 💬 144 • ⏱️ 17:01 • 20h ago
+👁️ 6K • 👍 234 • 💬 144 • ⏱️ 17:01 • 21h ago
 
 ---
 

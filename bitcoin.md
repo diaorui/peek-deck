@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T20:26:40.326412+00:00'
+updated: '2026-08-17T20:55:08.972678+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 20:26 UTC  
+**Last Updated:** August 17, 2026 at 20:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
+**24h:** +2.3%  
 **7d:** +1.2%  
 **30d:** -0.5%  
 **90d:** -17.0%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ So I just got into the Bitcoin market and got some amount of Bitcoin I want to t
 
 I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://satoshitimeline.com/854
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -171,17 +171,25 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html)**
+**[Bitcoin eyes breakout as 6-week symmetrical triangle narrows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634075-bitcoin-eyes-breakout-as-6-week-symmetrical-triangle-narrows)**
 
-Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
+Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Yahoo Finance • 6h ago
+Seeking Alpha • 1h ago
+
+---
+
+**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
+
+The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
+
+Yahoo Finance • 7h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-bloomberg.com • 6h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -189,7 +197,7 @@ bloomberg.com • 6h ago
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -203,15 +211,7 @@ New York Post • 5h ago
 
 **[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk)**
 
-Barron's • 56m ago
-
----
-
-**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
-
-HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
-
-The Block • 9h ago
+Barron's • 1h ago
 
 ---
 
@@ -219,15 +219,15 @@ The Block • 9h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 9h ago
+Business Insider Africa • 10h ago
 
 ---
 
-**[AI Debt Lifts 30-Year Treasury Yield to 2007 Highs: Can Bitcoin Compete?](https://beincrypto.com/ai-debt-treasury-yields-bitcoin/)**
+**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
 
-AI bond sales pushed the 30-year Treasury yield to 5.27% in 2026. Bitcoin fell 46% while gold gained 33%. Here's why
+HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
 
-BeInCrypto • 5h ago
+The Block • 10h ago
 
 ---
 
@@ -239,7 +239,7 @@ BeInCrypto • 5h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 14h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 15h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -263,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 10h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 11h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 

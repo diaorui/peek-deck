@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T20:26:40.335978+00:00'
+updated: '2026-08-17T20:55:08.980909+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 20:26 UTC  
+**Last Updated:** August 17, 2026 at 20:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The physical design is finally locked down, and the digital model now mirrors th
 
 Matic’s latest update lets its robot vacuum respond to spoken commands and gestures rather than relying only on an app. The system is still working within a defined set of actions, but the broader robotics question is more interesting: how much of human-robot interaction should depend on people learning an interface, versus robots learning to interpret the ways people already communicate? As robots move into homes and other less structured environments, voice, pointing, movement and context may become increasingly important parts of the control layer.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 3h ago
 
 ---
 
@@ -76,7 +76,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 53m ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 1h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-20h ago
+21h ago
 
 ---
 
@@ -128,33 +128,25 @@ Business Insider • 10h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 4h ago
+inc.com • 5h ago
 
 ---
 
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 1h ago
+The New York Times • 11h ago
+
+---
+
+**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
+
+Bloomberg.com • 20h ago
 
 ---
 
 **[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
 Axios • 8h ago
-
----
-
-**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
-
-bloomberg.com • 20h ago
-
----
-
-**[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
-
-Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
-
-Yahoo Finance • 18h ago
 
 ---
 
@@ -170,23 +162,31 @@ Fox News • 1d ago
 
 Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
+**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
 
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
+Persona AI sees near-term economic viability in heavy industrial humanoids
 
-Nikkei Asia • 19h ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
+**[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
 
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
+Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-NASA (.gov) • 3d ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems](https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/)**
+
+Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems - SiliconANGLE
+
+SiliconANGLE • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 7K • 👍 195 • 💬 30 • ⏱️ 0:56 • 17h ago
+👁️ 7K • 👍 195 • 💬 30 • ⏱️ 0:56 • 18h ago
 
 ---
 
