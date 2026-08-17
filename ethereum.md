@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T02:41:37.178580+00:00'
+updated: '2026-08-17T03:50:29.726977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 02:41 UTC  
+**Last Updated:** August 17, 2026 at 03:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +0.6%  
-**30d:** +1.1%  
-**90d:** -11.0%  
-**1y:** -56.1%  
+**24h:** +1.0%  
+**7d:** +0.9%  
+**30d:** +1.4%  
+**90d:** -10.7%  
+**1y:** -55.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Title says it all, looking to figure out where I can get small amounts of ETH Ba
 
 Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 9h ago
+benzinga.com • 10h ago
 
 ---
 
@@ -192,11 +192,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Vitalik Buterin: Ethereum Scaling Strategy Advances](https://blockchain.news/flashnews/vitalik-buterin-ethereum-scaling-strategy-advances)**
+**[Ethereum: Wallet Withdraws 5.3K ETH From Kraken](https://blockchain.news/flashnews/ethereum-wallet-withdraws-5-3k-eth-kraken)**
 
-Vitalik Buterin details Ethereum scaling strategy with UTXO-style state for hyperscaling at $1890.32 ETH price amid Bitcoin and BTC trends.
+Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 9h ago
+blockchain.news • 3h ago
 
 ---
 
@@ -204,7 +204,7 @@ blockchain.news • 9h ago
 
 Could the "Ethereum" killer unify the fragmented financial market?
 
-fool.com • 2d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ fool.com • 2d ago
 
 Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
 
-Cryptonews.net • 21h ago
+Cryptonews.net • 22h ago
 
 ---
 
@@ -244,7 +244,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 871 • 💬 95 • ⏱️ 15:54 • 13h ago
+👁️ 22K • 👍 871 • 💬 95 • ⏱️ 15:54 • 15h ago
 
 ---
 
@@ -254,7 +254,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 442 • 👍 34 • 💬 4 • ⏱️ 35:05 • 1h ago
+👁️ 442 • 👍 34 • 💬 4 • ⏱️ 35:05 • 2h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 2K • 👍 115 • 💬 70 • ⏱️ 17:01 • 2h ago
+👁️ 2K • 👍 115 • 💬 70 • ⏱️ 17:01 • 4h ago
 
 ---
 
@@ -274,7 +274,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 2K • 👍 215 • 💬 30 • ⏱️ 14:12 • 4h ago
+👁️ 2K • 👍 215 • 💬 30 • ⏱️ 14:12 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 178 • 💬 18 • ⏱️ 5:23 • 19h ago
+👁️ 3K • 👍 178 • 💬 18 • ⏱️ 5:23 • 20h ago
 
 ---
 

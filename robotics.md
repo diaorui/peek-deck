@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T02:41:37.181867+00:00'
+updated: '2026-08-17T03:50:29.730289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 02:41 UTC  
+**Last Updated:** August 17, 2026 at 03:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-3h ago
+4h ago
 
 ---
 
@@ -44,19 +44,19 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-15h ago
+16h ago
 
 ---
 
 **[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 19h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 20h ago
 
 ---
 
@@ -120,14 +120,6 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
-
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
-
-Nikkei Asia • 1h ago
-
----
-
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
@@ -140,7 +132,7 @@ CNBC • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 10h ago
+Fox News • 11h ago
 
 ---
 
@@ -148,7 +140,7 @@ Fox News • 10h ago
 
 The upcoming 2nd World Humanoid Robot Games to be held in Beijing will see robot players  stay at the “Robot Home,” as the organizing committee innovatively established on-site support centers that meet the needs for pre-competition training and power recharging – similar to athletes' village for human competitors, according to media reports.
 
-Global Times • 23h ago
+Global Times • 1d ago
 
 ---
 
@@ -160,6 +152,12 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
+
+scmp.com • 23h ago
+
+---
+
 **[Lift Happens. Or Maybe Not. Watch the Flameouts at This DARPA Challenge](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)**
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
@@ -168,9 +166,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
+**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
 
-South Tahoe Now • 1d ago
+Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
+
+Nikkei Asia • 2h ago
 
 ---
 
@@ -178,15 +178,13 @@ South Tahoe Now • 1d ago
 
 Eyal Samuel Shachar, the CEO of Bioxtreme, said the growing synergy of robotics, AI, and human-centered care will improve patient outcomes.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
-**[Robotic tiles autonomously Lego-snap into floating smart structures](https://newatlas.com/robotics/floatform-robots-form-floating-structures/)**
+**[South Lake Tahoe's GigaBite Robotics team earns 1st Place Inspire Award at Canadian event](https://southtahoenow.com/08/14/2026/south-lake-tahoes-gigabite-robotics-team-earns-1st-place-inspire-award-at-canadian-event)**
 
-You don’t have to watch Kevin Costner’s Waterworld to know that for much of the world, the future will be increasingly flooded. As climate chaos causes oceans to swallow coastlands, and as surging water displaces and devastates communities, social survival will demand that people find ways to live…
-
-New Atlas • 2d ago
+southtahoenow.com • 1d ago
 
 ---
 
@@ -220,7 +218,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 6K • 👍 234 • 💬 26 • ⏱️ 5:16 • 14h ago
+👁️ 6K • 👍 234 • 💬 26 • ⏱️ 5:16 • 15h ago
 
 ---
 

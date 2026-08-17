@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T02:41:37.172229+00:00'
+updated: '2026-08-17T03:50:29.720707+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 02:41 UTC  
+**Last Updated:** August 17, 2026 at 03:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -0.5%  
-**30d:** -2.2%  
-**90d:** -18.4%  
-**1y:** -45.7%  
+**24h:** +0.4%  
+**7d:** -0.4%  
+**30d:** -2.1%  
+**90d:** -18.3%  
+**1y:** -45.6%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 34
+### 31
 **FEAR**
 
 ---
@@ -81,25 +81,25 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-10h ago
+11h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-12h ago
+13h ago
 
 ---
 
@@ -131,13 +131,13 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -155,7 +155,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.
 
-CoinDesk • 3d ago
+coindesk.com • 3d ago
 
 ---
 
@@ -163,19 +163,19 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 14h ago
+Forbes • 15h ago
 
 ---
 
-**[Bitcoin’s First Test in the High-Interest Rate Era: Why Did Gold Rise 32% While It Fell 46%?](https://www.moomoo.com/news/post/74758213/bitcoin-s-first-test-in-the-high-interest-rate-era)**
+**[Bitcoin Rises as Selling Pressure Subsides -- Market Talk](https://www.moomoo.com/news/post/74766803/bitcoin-rises-as-selling-pressure-subsides-market-talk)**
 
-Moomoo • 2h ago
+Moomoo • 46m ago
 
 ---
 
 **[15,000 Hours of Attack and Defense Testing: Core Scientific Executives Confirm Bitcoin Network’s Impenetrability](https://www.moomoo.com/news/post/74765767/15000-hours-of-attack-and-defense-testing-core-scientific-executives)**
 
-Moomoo • 3m ago
+Moomoo • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ Moomoo • 3m ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 3h ago
+Investing.com • 5h ago
 
 ---
 
@@ -197,7 +197,15 @@ Investing.com • 3h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 10h ago
+TradingView • 11h ago
+
+---
+
+**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://www.fool.com/investing/2026/08/16/bitcoin-miner-riot-platforms-just-signed-a-9-billi/)**
+
+Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -205,15 +213,7 @@ TradingView • 10h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 14h ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/08/16/where-will-bitcoin-be-in-5-years/)**
-
-There's one major thing holding Bitcoin back.
-
-fool.com • 16h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ fool.com • 16h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 11h ago
+benzinga.com • 12h ago
 
 ---
 
@@ -249,7 +249,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -277,7 +277,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 286 • ⏱️ 16:15 • 16h ago
+👁️ 67K • 👍 4K • 💬 286 • ⏱️ 16:15 • 17h ago
 
 ---
 
@@ -297,7 +297,7 @@ Sponsor: What if you actually controlled your money? Get started with Rumble Wal
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 3K • 💬 365 • ⏱️ 10:57 • 8h ago
+👁️ 37K • 👍 3K • 💬 365 • ⏱️ 10:57 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 8K • 👍 926 • 💬 537 • ⏱️ 14:27 • 7h ago
+👁️ 8K • 👍 926 • 💬 537 • ⏱️ 14:27 • 8h ago
 
 ---
 
@@ -345,7 +345,7 @@ We've already fucking won.” Bitcoin went from a weird internet experiment to a
 
 📺 What Bitcoin Did
 
-👁️ 4K • 👍 192 • 💬 158 • ⏱️ 1:22:35 • 11h ago
+👁️ 4K • 👍 192 • 💬 158 • ⏱️ 1:22:35 • 12h ago
 
 ---
 
