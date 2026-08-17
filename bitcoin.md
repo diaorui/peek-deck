@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T23:22:51.033800+00:00'
+updated: '2026-08-17T23:47:16.833995+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 23:22 UTC  
+**Last Updated:** August 17, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,399.63
+### $64,544.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +1.2%  
-**30d:** -0.6%  
-**90d:** -17.0%  
-**1y:** -44.8%  
+**24h:** +2.5%  
+**7d:** +1.4%  
+**30d:** -0.3%  
+**90d:** -16.8%  
+**1y:** -44.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 (Referring to prebuilt versions.) While I do not own one (yet) myself, I keep wondering: since it has only volatile memory, the seed needs to be entered every time, through QR scan. That in itself is a huge risk. I would not want such a risky QR code laying around. Is the version with the card reader better? It would allow for encrypted storage of my seedphrase.
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,27 +171,11 @@ Forbes • 1d ago
 
 ---
 
-**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
+**[JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal](https://sg.finance.yahoo.com/news/jpmorgan-lifts-bitcoin-miners-price-222109351.html)**
 
-The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
+JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is "building momentum," pointing to a ...
 
-Yahoo Finance • 10h ago
-
----
-
-**[Strategy Leaves Bitcoin Holdings Unchanged](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-133000030.html)**
-
-Strategy (NASDAQ: $MSTR) left its Bitcoin (CRYPTO: $BTC) holdings unchanged over the past week even as the company ...
-
-Yahoo Finance • 9h ago
-
----
-
-**[Michael Saylor’s Strategy Raises $333M Selling MSTR Stock, Leaves Bitcoin Stash Untouched](https://www.tradingview.com/news/stocktwits:7cd710dd4094b:0-michael-saylor-s-strategy-raises-333m-selling-mstr-stock-leaves-bitcoin-stash-untouched/)**
-
-Michael Saylor’s Strategy (MSTR) did not buy or sell any Bitcoin (BTC) over the past week, but the company continued to raise cash by selling its own stock.According to an 8-K filing with the Securities and Exchange Commission (SEC), Strategy sold about 3.5 million shares of MSTR common stock throu…
-
-TradingView • 9h ago
+sg.finance.yahoo.com • 1h ago
 
 ---
 
@@ -201,11 +185,35 @@ Bloomberg.com • 9h ago
 
 ---
 
+**[Current price of Bitcoin for August 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 13h ago
+
+---
+
+**[Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan](https://www.theblock.co/news/business/2026-08-17-bitcoin-production-slips-again-july-cleanspark-bitfufu-canaan-411985)**
+
+CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.
+
+The Block • 6h ago
+
+---
+
 **[After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know.](https://www.fool.com/investing/2026/08/17/after-losses-trump-media-pivot-from-bitcoin/)**
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
+
+---
+
+**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
+
+Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
+
+New York Post • 8h ago
 
 ---
 
@@ -214,14 +222,6 @@ The Motley Fool • 10h ago
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
 TradingView • 1d ago
-
----
-
-**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
-
-Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
-
-nypost.com • 8h ago
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 13h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 14h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -333,7 +333,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 979 • 💬 71 • ⏱️ 15:49 • 23h ago
+👁️ 13K • 👍 979 • 💬 71 • ⏱️ 15:49 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T23:22:51.024985+00:00'
+updated: '2026-08-17T23:47:16.825816+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 23:22 UTC  
+**Last Updated:** August 17, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 ---
 
-**[Using AI the wrong way could leave you worse off than never using it at all](https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/)**
-
-Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
-
-6h ago
-
----
-
 **[Should AI agents have their own company cards?](https://www.reddit.com/r/artificial/comments/1vr54rn/should_ai_agents_have_their_own_company_cards/)**
 
 As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
@@ -69,11 +61,19 @@ Most "chat with your data" tools give you a confident answer and no way to tell 
 
 ---
 
+**[Using AI the wrong way could leave you worse off than never using it at all](https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/)**
+
+Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
+
+6h ago
+
+---
+
 **[Could today’s AI models give us an “LK-99 moment” — but this time for real?](https://www.reddit.com/r/artificial/comments/1vqrdj9/could_todays_ai_models_give_us_an_lk99_moment_but/)**
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 15h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 16h ago
 
 ---
 
@@ -89,31 +89,31 @@ India's Leading AI & Data Science Media Platform
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 8h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 9h ago
 
 ---
 
-**[Could AI and the Internet Fulfill Prophecies of Control in Revelation?](https://www.reddit.com/r/artificial/comments/1vr6ib6/could_ai_and_the_internet_fulfill_prophecies_of/)**
+**[Looking for the name of an old ai app](https://www.reddit.com/r/artificial/comments/1vr7dkg/looking_for_the_name_of_an_old_ai_app/)**
 
-The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 "He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.” Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; "The Hebrew equivalent of our "w" is the letter "vav" or "waw". The numerical value of vav is 6. So the English "www" transliterated into Hebrew is "vav vav vav", which numerically is 666.” Is "www" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) History Preceding the book of Revelation This article explains many of the “natural signs, spiritual signs, sociological signs, technological signs, and political signs,” foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, earthquakes, plagues, moral decline, wars, growing governmental dominance/deception ("with all power, signs, and lying wonders," 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org What is the end times timeline? | GotQuestions.org How can I overcome my fear of the end of days? | GotQuestions.org "For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.” John 3:16 Going to heaven-how can I guarantee my eternal destination? More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested.
+Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?
 
 1h ago
 
 ---
 
-**[Cursor replacement?](https://www.reddit.com/r/artificial/comments/1vr6bu7/cursor_replacement/)**
+**[Strongest candidates for an AI Microchip moment](https://www.reddit.com/r/artificial/comments/1vr6x5j/strongest_candidates_for_an_ai_microchip_moment/)**
 
-I'm looking for replacement of Cursor. Mainly the question is about what Model that can match Cursor's Composer 2.5 (I dont need anything more than that) So companies I'm NOT looking at: - OpenAi - X - Cursor - Google - Meta So that leaves: - Mistral - Deepseek - Qwen - Kimi - Minimax Which one of them has a multi-modal(text+image, no video needed) LLM that can fit into $20/month plan? Assume I'm a light user. PS: Main reason why I dont want to support Cursor is their merge with Grok platform - I dont feel like giving money to companies who direct weapons into other countries and kill children. Besides who knows where the code goes now that Grok is tightly coupled with Pentagon.
+I am curious about all these data centers being built. What are the chances AI can have a microchip moment potentially rendering them all useless? This could be a black swan event that could wipe out a lot of investment and potentially destroy some very large businesses. If this is possible, what are the mostly likely candidates? In particular, I am interested in hearing from anyone who may be working on one of these candidates, even if it is still in RD and their opinion on how likely they are to succeed.
 
 1h ago
 
 ---
 
-**[Anyone here who is starting AI engineering self studies or has been on this track before.](https://www.reddit.com/r/artificial/comments/1vqnvkl/anyone_here_who_is_starting_ai_engineering_self/)**
+**[A week after OpenAI paused a cyber-capable model, two labs shipped one anyway, through opposite doors](https://www.reddit.com/r/artificial/comments/1vr6wje/a_week_after_openai_paused_a_cybercapable_model/)**
 
-So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
+Rounding up a genuinely heavy week. The throughline: last issue OpenAI paused internal work on a model it couldn't rule out was cyber-capable. This week the capability shipped anyway, two different ways. **OpenAI GPT-5.6 Cyber** (Aug 10): a security-specialized model gated behind a "Daybreak Red" tier. OpenAI's own eval has it answering 95% of offensive-security requests the standard model refuses 98.5% of the time. Access stays with 16 named partners; from Sept 1 individual accounts need hardware keys. Customers get findings, never the weights. **Zhipu GLM-5.3** (Aug 14): marketed on "emergent cyber capabilities," claims 84.5% on CyberGym (vendor-reported; note Wiz's Atlas system claims a higher 90.9%). Open weights promised in ~2 weeks. The capability didn't get shelved. It got a doorman. The rest of the week: - **Meta returned to open weights** with Muse Glimmer, a 30B Apache-2.0 agent model that runs under 20GB. - **Alibaba** published its first downloadable Max-class Qwen (2.4T), and **Qwen3.8-27B** landed Apache-2.0. **DeepSeek** took V4-Pro (1.6T, MIT) to GA with peak/off-peak pricing. - **Anthropic** began embedding an invisible watermark in all Claude output under the EU AI Act. The builder forums did not take it well. - **SpaceX** closed a $60B all-stock acquisition of Cursor; the editor is now inside the Grok org. - **Security:** researchers showed encrypted reasoning traces from OpenAI/Anthropic/Google were replayable across sibling models to decrypt them (now patched); an AI notetaker left 181,874 meetings queryable by anyone. Full breakdown with all the receipts: thenewguard.ai/issues/027-the-brake-pedal-had-a-bypass/
 
-13h ago
+1h ago
 
 ---
 
@@ -123,35 +123,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 **[Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2)**
-
-WSJ • 22h ago
-
----
-
-**[US ranchers face historic cattle shortage, brace for AI data center impact](https://www.foxnews.com/video/6403610515112)**
-
-Texas Agriculture Commissioner Sid Miller discusses Tyson Foods closing beef plants amid a historic cattle shortage and the impact of rural artificial intelligence data centers on local water and land resources on ‘The Will Cain Show.’
-
-Fox News • 1h ago
-
----
-
-**[These are the Asia Pacific companies you should keep an eye on over the next few months.](https://www.bloomberg.com/features/10-companies-to-watch-apac-2h-2026/)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[52 Percent of Workers Hesitate to Admit Using AI. Leaders May Be Teaching Them to Hide It](https://www.inc.com/marcel-schwantes/52-percent-of-workers-hesitate-to-admit-using-ai-leaders-may-be-teaching-them-to-hide-it/91391581)**
-
-The contradiction creates shadow AI and makes preventable mistakes harder to catch.
-
-inc.com • 2h ago
+The New York Times • 8h ago
 
 ---
 
@@ -159,31 +131,35 @@ inc.com • 2h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
-**[Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts](https://www.washingtonpost.com/technology/2026/08/17/trump-aims-rebuild-defenses-against-bioweapons-ai-fears-rise/)**
+**[CNBC's The China Connection newsletter: Money or power? The key to winning the AI race](https://www.cnbc.com/2026/08/17/money-or-power-the-key-to-winning-the-us-china-ai-race.html)**
 
-The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
+The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?
 
-washingtonpost.com • 7h ago
-
----
-
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
-
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
-
-404 Media • 8h ago
+CNBC • 47m ago
 
 ---
 
-**[Amazon, once an online bookseller, is destroying rare books to train AI models](https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html)**
+**[Dating apps bet big on A.I. to fight 'swipe fatigue' and reshape the search for love](https://www.nbcnews.com/video/more-dating-apps-turn-to-a-i-to-fight-swipe-fatigue-268430917972)**
 
-Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
+Major dating apps like Grindr are opting for more A.I. in order to make better matches, as studies show Americans are connecting less overall. NBC News' Allie Canal reports on the tech increasingly at the heart of matchmaking on the apps right now.
 
-Yahoo Finance • 6h ago
+NBC News • 44m ago
+
+---
+
+**[AI Is Starting to Create Jobs in the UK, Lloyds Survey Finds](https://www.bloomberg.com/news/articles/2026-08-17/ai-is-starting-to-create-jobs-in-the-uk-lloyds-survey-finds?srnd=good-business)**
+
+Bloomberg.com • 46m ago
+
+---
+
+**[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
+
+WSJ • 14h ago
 
 ---
 
@@ -192,6 +168,28 @@ Yahoo Finance • 6h ago
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
 Ars Technica • 5h ago
+
+---
+
+**[Amazon, once an online bookseller, is destroying rare books to train AI models](https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html)**
+
+Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts](https://www.washingtonpost.com/technology/2026/08/17/trump-aims-rebuild-defenses-against-bioweapons-ai-fears-rise/)**
+
+The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
+
+The Washington Post • 7h ago
+
+---
+
+**[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
+
+Reuters • 2h ago
 
 ---
 
@@ -211,7 +209,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 421 • 💬 255 • 3h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 520 • 💬 316 • 4h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -219,7 +217,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 333 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 333 • 💬 201 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -227,7 +225,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 322 • 💬 127 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 322 • 💬 128 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -235,7 +233,15 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 289 • 💬 120 • 9h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 304 • 💬 123 • 9h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+
+---
+
+**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
+
+One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
+
+⬆️ 241 • 💬 137 • 9h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -245,15 +251,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 227 • 💬 485 • 21h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
-
----
-
-**[How to disable or avoid intrusive AI](https://news.ycombinator.com/item?id=49331220)**
-
-One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
-
-⬆️ 219 • 💬 118 • 9h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 231 • 💬 494 • 21h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -267,15 +265,15 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 147 • 💬 172 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 147 • 💬 177 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
-**[AirTag reveals Amazon is trashing rare books to train AI](https://news.ycombinator.com/item?id=49336050)**
+**[Anthropic's War on open source AI](https://news.ycombinator.com/item?id=49332564)**
 
-Amazon’s team uses a T. rex preparing to devour a book as its logo.
+Anthropic's War on Opensource AI
 
-⬆️ 125 • 💬 6 • 4h ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+⬆️ 129 • 💬 55 • 8h ago • [X (formerly Twitter)](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
 
 ---
 
@@ -329,7 +327,7 @@ Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: 
 
 📺 Matthew Berman
 
-👁️ 59K • 👍 2K • 💬 229 • ⏱️ 13:09 • 2d ago
+👁️ 59K • 👍 2K • 💬 229 • ⏱️ 13:09 • 3d ago
 
 ---
 
@@ -347,7 +345,7 @@ MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and
 
 📺 Rick Beato
 
-👁️ 109K • 👍 7K • 💬 270 • ⏱️ 0:49 • 8h ago
+👁️ 109K • 👍 7K • 💬 270 • ⏱️ 0:49 • 9h ago
 
 ---
 
@@ -649,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 1h ago
+⭐ 13.8k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -659,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.3k • 🔱 1.4k • 2h ago
+⭐ 13.3k • 🔱 1.4k • 3h ago
 
 ---
 

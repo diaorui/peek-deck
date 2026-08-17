@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T23:22:51.039869+00:00'
+updated: '2026-08-17T23:47:16.839287+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 23:22 UTC  
+**Last Updated:** August 17, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +1.2%  
-**30d:** +1.7%  
-**90d:** -10.5%  
-**1y:** -55.8%  
+**24h:** +1.8%  
+**7d:** +1.6%  
+**30d:** +2.0%  
+**90d:** -10.2%  
+**1y:** -55.7%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 17h ago
 
 ---
 
@@ -220,11 +220,11 @@ FXStreet • 20h ago
 
 ---
 
-**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+**[Ethereum developers propose privacy changes for next major upgrade](https://cryptobriefing.com/ethereum-hegota-privacy-upgrade-proposals/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
 
-Fortune • 10h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhi
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 138 • 💬 34 • ⏱️ 10:29 • 8h ago
+👁️ 2K • 👍 138 • 💬 34 • ⏱️ 10:29 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 13h ago
+👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 14h ago
 
 ---
 

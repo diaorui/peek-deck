@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T23:22:51.043209+00:00'
+updated: '2026-08-17T23:47:16.842182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 23:22 UTC  
+**Last Updated:** August 17, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The physical design is finally locked down, and the digital model now mirrors th
 
 Matic’s latest update lets its robot vacuum respond to spoken commands and gestures rather than relying only on an app. The system is still working within a defined set of actions, but the broader robotics question is more interesting: how much of human-robot interaction should depend on people learning an interface, versus robots learning to interpret the ways people already communicate? As robots move into homes and other less structured environments, voice, pointing, movement and context may become increasingly important parts of the control layer.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 6h ago
 
 ---
 
@@ -76,7 +76,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 3h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 4h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-23h ago
+1d ago
 
 ---
 
@@ -128,49 +128,7 @@ Business Insider • 13h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 7h ago
-
----
-
-**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
-
-Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
-
-Fox News • 1d ago
-
----
-
-**[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
-
-Gizmodo • 1h ago
-
----
-
-**[Humanoids move beyond dancing in real-world firefighting challenge](https://interestingengineering.com/ai-robotics/whrg-humanoid-robot-firefighting-beijing)**
-
-Twenty-three humanoid robots faced a simulated firefighting mission in Beijing, testing their skills in realistic emergency conditions.
-
-Interesting Engineering • 13h ago
-
----
-
-**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
-
-Axios • 11h ago
-
----
-
-**[Serve Robotics partners with Grubhub after Uber exit](https://www.latimes.com/business/story/2026-08-17/robot-delivery-company-serve-partners-with-grubhub-after-uber-exit)**
-
-Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
-
-Los Angeles Times • 2h ago
-
----
-
-**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
-
-Bloomberg.com • 23h ago
+inc.com • 8h ago
 
 ---
 
@@ -180,9 +138,51 @@ The New York Times • 3h ago
 
 ---
 
+**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
+
+Axios • 11h ago
+
+---
+
+**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
+
+Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
+
+Yahoo Finance • 22h ago
+
+---
+
+**[New Data Keep Us Bullish on This Robotics and Automation Play](https://pro.thestreet.com/portfolio/new-data-keep-us-bullish-on-this-robotics-and-automation-play)**
+
+Here’s what we’re waiting to see before putting additional capital to work.
+
+TheStreet Pro • 4h ago
+
+---
+
 **[Dear Wetour Robotics Stock Fans, Mark Your Calendars for August 24](https://www.barchart.com/story/news/3888025/dear-wetour-robotics-stock-fans-mark-your-calendars-for-august-24)**
 
 Barchart.com • 8h ago
+
+---
+
+**[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
+
+Gizmodo • 1h ago
+
+---
+
+**[Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality](https://www.foxnews.com/politics/humanoid-robots-patrol-southern-border-ceo-pitches-futuristic-technology-moves-closer-reality)**
+
+Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
+
+foxnews.com • 1d ago
 
 ---
 
@@ -266,7 +266,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 9K • 👍 229 • 💬 32 • ⏱️ 0:56 • 20h ago
+👁️ 9K • 👍 229 • 💬 32 • ⏱️ 0:56 • 21h ago
 
 ---
 
