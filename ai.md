@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T18:43:36.851980+00:00'
+updated: '2026-08-17T19:28:27.985783+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 18:43 UTC  
+**Last Updated:** August 17, 2026 at 19:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Chart Pathway, an AI lab building a post-transformer architecture and models, published benchmark results for BDH-CQ, a 150 million-parameter reasoning model. BDH-CQ scored 29.5% pass@2 on the public ARC-AGI-1 evaluation set at a computed inference cost of $0.0007 per task. It runs approximately 11 times as cheaply per task as GPT 5.6 Luna (Low), even after accounting for OpenAI’s 80% price cut of 5.6 Luna on July 30th. Luna scores 34.2% against BDH-CQ's 29.5%, a modest accuracy gain at 11 times the cost. They also report early pretraining experiments from 1B to 600B parameters, while preserving the latent reasoning capabilities specific to BDH-CQ. It does it by combining in-context learning with recurrent latent reasoning instead of verbalizing every intermediate result.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Chart Pathway, an AI lab building a post-transformer architecture and models, pu
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 11h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ India's Leading AI & Data Science Media Platform
 
 So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 what i’m thinking of starting a youtube channel where i basically dump my daily updates into ai not just work stuff tech, politics, geopolitics, gym, food, travel, reading, productivity, meditation, maths/physics, learning language like sanskrit, learning instruments, gaming, driving, adventure stuff... basically all the tabs currently open in my brain ai takes that daily chaos and converts it into actual tasks, priorities and progress i can track publicly why because apparently having 47 interests and making mental plans for all of them does not count as progress shocking, i know the main idea is public accountability if i say i’m learning guitar, improving fitness, building something, reading a book or planning a trek, there should eventually be receipts and hopefully other people with similarly chaotic ambitions can join in, share what works and grow together how i’ll post regular updates about what i said i would do, what ai turned it into, what i actually did, what i completely ignored and why less “watch me become productive” more “here is the public audit trail of me trying” would you watch this? and what would make you actually come back for the next update?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ what i’m thinking of starting a youtube channel where i basically dump my dail
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 Hi all, I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet. That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because it does it quite well. Do y'all think that this is the future? No more spreadsheets, note documents, hell, even alarms. Just tell AI what you want and it'll get it done.
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 9h ago
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-404media.co • 3h ago
+404media.co • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 Amazon’s team uses a T. rex preparing to devour a book as its logo.
 
-Ars Technica • 29m ago
+Ars Technica • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ Ars Technica • 29m ago
 
 Disney and other studios in February ​raised concerns Seedance’s AI tools ​could generate content featuring copyrighted characters and celebrity ‌likenesses ⁠without authorization.
 
-NBC News • 11m ago
+NBC News • 56m ago
 
 ---
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -167,13 +167,13 @@ Bloomberg.com • 22h ago
 
 OpenRouter's CEO recently described the startup as Stripe for AI.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
 **[Watch Stripe to Buy AI Firm OpenRouter in $7 Billion Deal](https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video)**
 
-Bloomberg.com • 9m ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -189,7 +189,7 @@ CNN • 8h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 212 • 💬 427 • 16h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 212 • 💬 427 • 17h ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -235,13 +235,13 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 200 • 💬 90 • 4h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 200 • 💬 90 • 5h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 184 • 💬 91 • 1d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 184 • 💬 91 • 2d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 
 ---
 
@@ -249,7 +249,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 151 • 💬 64 • 4h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 151 • 💬 64 • 5h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -273,7 +273,7 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-⬆️ 100 • 💬 102 • 4h ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+⬆️ 100 • 💬 102 • 5h ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 
 ---
 
@@ -287,17 +287,7 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 107K • 👍 6K • 💬 971 • ⏱️ 22:19 • 1d ago
-
----
-
-**[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
-
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
-
-📺 InsideAI
-
-👁️ 376K • 👍 16K • 💬 2K • ⏱️ 15:53 • 2d ago
+👁️ 110K • 👍 6K • 💬 988 • ⏱️ 22:19 • 1d ago
 
 ---
 
@@ -307,25 +297,7 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 59K • 👍 1K • 💬 143 • ⏱️ 5:52 • 1d ago
-
----
-
-**[I stole AI&#39;s job](https://www.youtube.com/watch?v=U2Mw9MS84DY)**
-
-can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com/benoftheweek/ podcast: @dramamamapodcast.
-
-📺 BENOFTHEWEEK
-
-👁️ 219K • 👍 18K • 💬 1K • ⏱️ 22:02 • 22h ago
-
----
-
-**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
-
-📺 Rick Beato
-
-👁️ 32K • 👍 2K • 💬 103 • ⏱️ 0:49 • 4h ago
+👁️ 63K • 👍 1K • 💬 147 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -335,7 +307,15 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 392K • 👍 20K • 💬 1K • ⏱️ 8:55 • 16h ago
+👁️ 423K • 👍 21K • 💬 2K • ⏱️ 8:55 • 17h ago
+
+---
+
+**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
+
+📺 Rick Beato
+
+👁️ 67K • 👍 5K • 💬 207 • ⏱️ 0:49 • 4h ago
 
 ---
 
@@ -343,17 +323,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 Ben Esherick
 
-👁️ 519K • 👍 32K • 💬 403 • ⏱️ 0:39 • 1d ago
+👁️ 547K • 👍 34K • 💬 417 • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[Mike Israetelʼs has gone FULL AI SLOP...](https://www.youtube.com/watch?v=0S9YXzcDA3M)**
+**[Almost No One Realizes This About AI Data Centers](https://www.youtube.com/watch?v=iI3tT6CCVH8)**
 
-HRT/Peptide Clinic (Delivered to Your Door) Get physician-guided care, prescriptions, and ongoing support. I personally selected ...
+Go to ( https://ground.news/explained )​ for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide ...
 
-📺 Coach Kolton
+📺 Economics Explained
 
-👁️ 92K • 👍 3K • 💬 955 • ⏱️ 34:03 • 2d ago
+👁️ 187K • 👍 6K • 💬 895 • ⏱️ 18:21 • 1d ago
+
+---
+
+**[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+
+Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+
+📺 InsideAI
+
+👁️ 390K • 👍 16K • 💬 2K • ⏱️ 15:53 • 2d ago
 
 ---
 
@@ -363,17 +353,27 @@ Writer: Kyler Himes Editor: Jayson van Kerckhoven Music by: @UFD-Music.
 
 📺 UFD Tech
 
-👁️ 682K • 👍 38K • 💬 1K • ⏱️ 1:02 • 1d ago
+👁️ 700K • 👍 39K • 💬 1K • ⏱️ 1:02 • 1d ago
 
 ---
 
-**[AI bubble about to COLLAPSE? Exposé on MAGA ally Larry Ellison&#39;s DEBT BOMB](https://www.youtube.com/watch?v=hRkXVrLIsMo)**
+**[AI vs my husband](https://www.youtube.com/watch?v=_ySS9fDpx1A)**
 
-MS NOW's Ari Melber delivers a special report on the tech boom, deregulation and the MAGA allies reshaping AI and media.
+meettheharrisons #theharrisons.
 
-📺 MS NOW
+📺 D.Michael Harrison
 
-👁️ 523K • 👍 9K • 💬 2K • ⏱️ 20:18 • 2d ago
+👁️ 91K • 👍 3K • 💬 135 • ⏱️ 1:42 • 2d ago
+
+---
+
+**[Qwen3.8 27B Is INSANE – This Is the BEST Local AI Model Yet!](https://www.youtube.com/watch?v=6kjXzTVmT58)**
+
+Timestamps: 00:00 - Intro 00:44 - First Look 01:50 - Technical Look 03:09 - Local Testing Info 04:02 - Browser OS Test 11:14 - C++ ...
+
+📺 Bijan Bowen
+
+👁️ 61K • 👍 2K • 💬 485 • ⏱️ 38:15 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,607 • 3d ago
+⬇️ 415,039 • ❤️ 10,647 • 3d ago
 
 ---
 
@@ -401,19 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 2,727,609 • ❤️ 1,595 • 2d ago
-
----
-
-**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
-
-*Meta Inc.*
-
-Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
-
-`image-text-to-text` `29.8B`
-
-⬇️ 334,099 • ❤️ 1,651 • 5d ago
+⬇️ 2,727,609 • ❤️ 1,610 • 2d ago
 
 ---
 
@@ -425,7 +413,19 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 9,465 • ❤️ 1,032 • 5d ago
+⬇️ 9,465 • ❤️ 1,036 • 5d ago
+
+---
+
+**[Muse-Glimmer-30B](https://huggingface.co/meta-models/Muse-Glimmer-30B)**
+
+*Meta Inc.*
+
+Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.
+
+`image-text-to-text` `29.8B`
+
+⬇️ 334,099 • ❤️ 1,655 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,082 • 4h ago
+⬇️ 465,529 • ❤️ 1,091 • 5h ago
 
 ---
 
@@ -449,7 +449,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 10,375 • ❤️ 888 • 3d ago
+⬇️ 10,375 • ❤️ 894 • 3d ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,403,238 • ❤️ 4,077 • 4d ago
+⬇️ 2,403,238 • ❤️ 4,079 • 4d ago
 
 ---
 
@@ -473,7 +473,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 25,006 • ❤️ 568 • 4d ago
+⬇️ 25,006 • ❤️ 570 • 4d ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 495,646 • ❤️ 517 • 3d ago
+⬇️ 495,646 • ❤️ 524 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 15,812 • ❤️ 412 • 1d ago
+⬇️ 15,812 • ❤️ 424 • 1d ago
 
 ---
 
@@ -539,7 +539,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 98,556 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,642 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 2h ago
+⭐ 13.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -657,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.1k • 🔱 1.4k • 13h ago
+⭐ 13.2k • 🔱 1.4k • 14m ago
 
 ---
 
@@ -677,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.3k • 🔱 459 • 3d ago
+⭐ 5.3k • 🔱 460 • 3d ago
 
 ---
 
@@ -685,7 +685,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 534 • 9d ago
+⭐ 4.0k • 🔱 535 • 9d ago
 
 ---
 
@@ -695,7 +695,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 551 • 1d ago
+⭐ 3.2k • 🔱 552 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 10h ago
+⭐ 2.2k • 🔱 177 • 11h ago
 
 ---
 

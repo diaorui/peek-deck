@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T18:43:36.864995+00:00'
+updated: '2026-08-17T19:28:27.998873+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 18:43 UTC  
+**Last Updated:** August 17, 2026 at 19:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.99B
+**Market Cap:** $230.05B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
@@ -62,7 +62,7 @@ No max supply
 -61.5%
 
 **All-Time Low:** $0.43
-+439856.7%
++440205.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -180,13 +180,13 @@ Benzinga • 1d ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 4h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -194,7 +194,7 @@ MarketWatch • 4h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ FXStreet • 15h ago
 
 Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ Seeking Alpha • 5h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 4h ago
 
 Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
 
-Crypto Briefing • 5m ago
+Crypto Briefing • 49m ago
 
 ---
 
@@ -234,23 +234,23 @@ CryptoSlate • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 3K • 👍 355 • 💬 149 • ⏱️ 29:45 • 9h ago
-
----
-
 **[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
 
 Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
 
 📺 The Rollup
 
-👁️ 5K • 👍 186 • 💬 26 • ⏱️ 35:05 • 17h ago
+👁️ 6K • 👍 203 • 💬 26 • ⏱️ 35:05 • 18h ago
+
+---
+
+**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 3K • 👍 386 • 💬 190 • ⏱️ 29:45 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 1K • 💬 109 • ⏱️ 15:54 • 1d ago
+👁️ 30K • 👍 1K • 💬 111 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 4K • 👍 360 • 💬 63 • ⏱️ 14:12 • 20h ago
+👁️ 4K • 👍 388 • 💬 83 • ⏱️ 14:12 • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 7h ago
+👁️ 69 • 👍 3 • 💬 2 • ⏱️ 3:04 • 8h ago
 
 ---
 
@@ -290,17 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 9h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
-
-BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 229 • 💬 76 • ⏱️ 17:01 • 18h ago
+👁️ 167 • 👍 11 • 💬 4 • ⏱️ 5:00 • 9h ago
 
 ---
 
@@ -310,7 +300,7 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 885 • 💬 239 • ⏱️ 17:49 • 2d ago
+👁️ 9K • 👍 887 • 💬 239 • ⏱️ 17:49 • 2d ago
 
 ---
 
@@ -320,17 +310,27 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 12 • ⏱️ 8:24 • 8h ago
+👁️ 15 • ⏱️ 8:24 • 9h ago
 
 ---
 
-**[Jesse Pollak: Base Is Achieving Consumer Grade Scale On Ethereum (What We Are Doing Well)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
+**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
 
-Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
+BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Rollup
+📺 Crypto World
 
-👁️ 1K • 👍 30 • 💬 4 • ⏱️ 9:19 • 1d ago
+👁️ 6K • 👍 234 • 💬 144 • ⏱️ 17:01 • 19h ago
+
+---
+
+**[BTC Holds Above $63K, ETH Hovers Around $1900 | Evening News | 3.0 TV](https://www.youtube.com/watch?v=DDnzMnPHR0Y)**
+
+BitGo Leads $26.6B RWA Market With 27.5% Share Bitget Restricts HTX, EXMO & 14 Crypto Platforms In Compliance Push ...
+
+📺 3.0 TV
+
+👁️ 171 • 👍 1 • ⏱️ 4:47 • 4h ago
 
 ---
 

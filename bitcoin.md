@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T18:43:36.859663+00:00'
+updated: '2026-08-17T19:28:27.993585+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 18:43 UTC  
+**Last Updated:** August 17, 2026 at 19:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1285.64B
+**Market Cap:** $1290.67B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.2%
+-49.0%
 
 **All-Time Low:** $67.81
-+94338.9%
++94737.0%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
+
+1h ago
+
+---
 
 **[We are sooooo back ! 🥳🥳🥳🥳](https://www.reddit.com/r/Bitcoin/comments/1vqvkwp/we_are_sooooo_back/)**
 
@@ -93,7 +99,7 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 ---
 
-**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
+**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
 1h ago
 
@@ -103,13 +109,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-3h ago
+4h ago
 
 ---
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -117,7 +123,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 8h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 9h ago
 
 ---
 
@@ -125,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
 
-5h ago
+6h ago
 
 ---
 
@@ -140,12 +146,6 @@ I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will 
 **[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
 
 https://satoshitimeline.com/854
-
-1d ago
-
----
-
-**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
 1d ago
 
@@ -175,7 +175,7 @@ Forbes • 1d ago
 
 Bitcoin (BTC-USD) miner HIVE Digital Technologies (HIVE) inked a $350 million AI cloud services agreement with an unnamed enterprise customer. Scott Melker takes a closer look in the video above.
 
-Yahoo Finance UK • 43m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance UK • 43m ago
 
 Strategy built its entire identity around outperforming Bitcoin, but something unexpected is happening to that promise in 2026, and the gap between the company's pitch and its performance is raising uncomfortable questions for anyone holding shares.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 4h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-New York Post • 3h ago
+New York Post • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Business Insider Africa • 8h ago
 
 The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 5h ago
 
 Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -229,7 +229,7 @@ CoinDesk • 6h ago
 
 Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap — worth roughly $53.4 billion.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -241,7 +241,7 @@ The Block • 6h ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -249,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 3h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 4h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -295,23 +295,13 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is LITERALLY about to EXPLODE! (Explained in 8 minutes)](https://www.youtube.com/watch?v=7QJ0-gebfGY)**
+**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
 
-Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
 
-📺 Altcoin Daily
+📺 VoskCoin
 
-👁️ 34K • 👍 2K • 💬 295 • ⏱️ 8:25 • 20h ago
-
----
-
-**[$10 Million Bitcoin Cycle - History Says The Next Move Is Coming](https://www.youtube.com/watch?v=9KQTA4LDXIc)**
-
-Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is approaching a fascinating historical window.
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 219 • 💬 145 • ⏱️ 17:10 • 20h ago
+👁️ 6K • 👍 263 • 💬 40 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -321,57 +311,17 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 89K • 👍 5K • 💬 327 • ⏱️ 16:15 • 1d ago
+👁️ 92K • 👍 6K • 💬 332 • ⏱️ 16:15 • 1d ago
 
 ---
 
-**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
+**[$10 Million Bitcoin Cycle - History Says The Next Move Is Coming](https://www.youtube.com/watch?v=9KQTA4LDXIc)**
 
-Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
+Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is approaching a fascinating historical window.
 
-📺 VoskCoin
+📺 Bitcoin News Alerts
 
-👁️ 6K • 👍 249 • 💬 38 • ⏱️ 12:52 • 1d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 481 • 💬 22 • ⏱️ 55:12 • 2d ago
-
----
-
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
-
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 167 • ⏱️ 16:33 • 2d ago
-
----
-
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 45K • 👍 677 • 💬 18 • ⏱️ 0:53 • 3d ago
-
----
-
-**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
-
-Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 17K • 👍 734 • 💬 313 • ⏱️ 1:03:40 • 1d ago
+👁️ 3K • 👍 228 • 💬 152 • ⏱️ 17:10 • 21h ago
 
 ---
 
@@ -381,17 +331,65 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 12K • 👍 1K • 💬 675 • ⏱️ 14:27 • 23h ago
+👁️ 13K • 👍 1K • 💬 652 • ⏱️ 14:27 • 1d ago
 
 ---
 
-**[THIS IS BITCOIN&#39;S MOMENT OF TRUTH...](https://www.youtube.com/watch?v=KiQgJBoyTWg)**
+**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
 
-📺 Crypto Rover
+📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 809 • 💬 33 • ⏱️ 8:47 • 1d ago
+👁️ 17K • 👍 748 • 💬 336 • ⏱️ 1:03:40 • 1d ago
+
+---
+
+**[The Bitcoin DCA Strategy That&#39;s Almost Impossible to Beat](https://www.youtube.com/watch?v=eDTAACgstZk)**
+
+DCA is never the best strategy and it's never the worst — but the studies say it's quite frustrating to beat a weekly Bitcoin DCA.
+
+📺 Krown
+
+👁️ 578 • 👍 34 • 💬 29 • ⏱️ 1:02 • 6h ago
+
+---
+
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+
+📺 Andrei Jikh
+
+👁️ 93K • 👍 2K • 💬 56 • ⏱️ 0:54 • 2d ago
+
+---
+
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 482 • 💬 22 • ⏱️ 55:12 • 2d ago
+
+---
+
+**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+
+Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+
+📺 Thinking Crypto
+
+👁️ 3K • 👍 77 • 💬 11 • ⏱️ 2:18 • 1d ago
+
+---
+
+**[Political Insider EXPOSES Crypto Clarity Act BOMB About To Drop (Top 7 Coins)](https://www.youtube.com/watch?v=lD8k-6qwYoA)**
+
+Most People Don't Realize What's About To Happen” (Top 7 Coins) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 55K • 👍 3K • 💬 162 • ⏱️ 11:11 • 2d ago
 
 ---
 
