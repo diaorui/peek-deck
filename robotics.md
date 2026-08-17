@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T16:27:42.424395+00:00'
+updated: '2026-08-17T16:56:37.334415+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 16:27 UTC  
+**Last Updated:** August 17, 2026 at 16:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-16h ago
+17h ago
 
 ---
 
@@ -126,13 +126,13 @@ Business Insider • 6h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 3h ago
+inc.com • 4h ago
 
 ---
 
 **[SoftBank invests $200M in Gravis Robotics for construction AI By Investing.com](https://www.investing.com/news/stock-market-news/softbank-invests-200m-in-gravis-robotics-for-construction-ai-93CH-4863674)**
 
-Investing.com • 33m ago
+Investing.com • 1h ago
 
 ---
 
@@ -158,7 +158,7 @@ Bloomberg.com • 4h ago
 
 The sidewalk delivery company is adding Grubhub to its platform network as it works to replace volume lost from its expiring Uber agreement
 
-qz.com • 2h ago
+qz.com • 3h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNBC • 3d ago
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -190,23 +190,23 @@ Fox News • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
-
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
-
-📺 DEEP Robotics
-
-👁️ 32K • 👍 115 • 💬 14 • ⏱️ 0:18 • 5d ago
-
----
-
 **[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
 Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
 📺 Fireship
 
-👁️ 986K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
+👁️ 988K • 👍 23K • 💬 2K • ⏱️ 7:02 • 6d ago
+
+---
+
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
+
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
+
+📺 DEEP Robotics
+
+👁️ 32K • 👍 116 • 💬 14 • ⏱️ 0:18 • 5d ago
 
 ---
 
@@ -216,17 +216,17 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 8K • 👍 276 • 💬 45 • ⏱️ 5:16 • 1d ago
+👁️ 8K • 👍 287 • 💬 45 • ⏱️ 5:16 • 1d ago
 
 ---
 
-**[Unitree Robotics unveils a robot that pushes beyond human limits](https://www.youtube.com/watch?v=NE7nssCinuc)**
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
 
-Unitree Robotics' new humanoid "Superman" pushes beyond human limits. With 0.85-meter-long legs, it can perform a 2-meter ...
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
 
-📺 CGTN
+📺 Guardian News
 
-👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 5h ago
+👁️ 40K • 👍 482 • 💬 133 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -240,23 +240,13 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 ---
 
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
 
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
 
-📺 Guardian News
+📺 Imagination in Action
 
-👁️ 40K • 👍 479 • 💬 133 • ⏱️ 3:48 • 6d ago
-
----
-
-**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
-
-China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
-
-📺 Kalil 4.0
-
-👁️ 5K • 👍 146 • 💬 24 • ⏱️ 0:56 • 13h ago
+👁️ 10K • 👍 334 • 💬 46 • ⏱️ 1:12:16 • 6d ago
 
 ---
 
@@ -270,23 +260,33 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 ---
 
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
 
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
 
-📺 Imagination in Action
+📺 Kalil 4.0
 
-👁️ 9K • 👍 328 • 💬 46 • ⏱️ 1:12:16 • 6d ago
+👁️ 6K • 👍 172 • 💬 27 • ⏱️ 0:56 • 14h ago
 
 ---
 
-**[Beni Camera Robot: It Replaced My $5,000 Camera Rig 🤯](https://www.youtube.com/watch?v=ufoDSiEjRHU)**
+**[Chinese company unveils robot that jumps 2 meters](https://www.youtube.com/watch?v=Bd5x9HF3-44)**
 
-Beni is an all-terrain Camera Robot designed to follow you and capture smooth, hands-free footage. In this video, I take Beni ...
+Can robots outrun and outjump humans? Well, this one can… Chinese robotics company Unitree has unveiled its new ...
 
-📺 KhanFlicks
+📺 CGTN Europe
 
-👁️ 57K • 💬 60 • ⏱️ 8:34 • 6d ago
+👁️ 856 • 👍 36 • 💬 2 • ⏱️ 0:23 • 56m ago
+
+---
+
+**[The 9-Foot-Tall AI Humanoid Robot at the Center of China’s Robotics Revolution](https://www.youtube.com/watch?v=j3wi7ILmSWA)**
+
+Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Inside China's humanoid robot revolution, Unitree ...
+
+📺 TIME
+
+👁️ 232K • 👍 3K • 💬 610 • ⏱️ 10:16 • 2d ago
 
 ---
 

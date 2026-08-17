@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T16:27:42.421497+00:00'
+updated: '2026-08-17T16:56:37.331517+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 16:27 UTC  
+**Last Updated:** August 17, 2026 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.79B
+**Market Cap:** $229.99B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.4%
+-61.5%
 
 **All-Time Low:** $0.43
-+440279.3%
++439856.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 10h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 2h ago
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 39m ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 22h ago
+Benzinga • 23h ago
 
 ---
 
@@ -240,7 +240,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 7h ago
+👁️ 3K • 👍 355 • 💬 149 • ⏱️ 29:45 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 15h ago
+👁️ 5K • 👍 186 • 💬 26 • ⏱️ 35:05 • 15h ago
 
 ---
 
@@ -260,7 +260,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 29K • 👍 1K • 💬 102 • ⏱️ 15:54 • 1d ago
+👁️ 29K • 👍 1K • 💬 109 • ⏱️ 15:54 • 1d ago
+
+---
+
+**[ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA?](https://www.youtube.com/watch?v=6YPxVyrMQk0)**
+
+ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
+
+📺 Luiz Fernando
+
+👁️ 4K • 👍 360 • 💬 63 • ⏱️ 14:12 • 18h ago
 
 ---
 
@@ -274,23 +284,13 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 ---
 
-**[ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA?](https://www.youtube.com/watch?v=6YPxVyrMQk0)**
+**[BULLISH BREAKOUT FOR ETHEREUM SOON? (ETH Update)](https://www.youtube.com/watch?v=TAfLf6slzAU)**
 
-ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Luiz Fernando
+📺 Cilinix Crypto
 
-👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 18h ago
-
----
-
-**[ETH - WHALE WATCHING - Ethereum Price Prediction](https://www.youtube.com/watch?v=qVJmZyMXGy4)**
-
-Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
-
-📺 Altcoin Doctor
-
-👁️ 9 • ⏱️ 8:24 • 6h ago
+👁️ 120 • 👍 10 • 💬 4 • ⏱️ 5:00 • 7h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 228 • 💬 68 • ⏱️ 17:01 • 16h ago
+👁️ 5K • 👍 229 • 💬 76 • ⏱️ 17:01 • 17h ago
 
 ---
 
@@ -310,7 +310,17 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 884 • 💬 238 • ⏱️ 17:49 • 2d ago
+👁️ 8K • 👍 885 • 💬 239 • ⏱️ 17:49 • 2d ago
+
+---
+
+**[ETH - WHALE WATCHING - Ethereum Price Prediction](https://www.youtube.com/watch?v=qVJmZyMXGy4)**
+
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+
+📺 Altcoin Doctor
+
+👁️ 12 • ⏱️ 8:24 • 7h ago
 
 ---
 
@@ -320,17 +330,7 @@ Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 wi
 
 📺 The Rollup
 
-👁️ 1K • 👍 29 • 💬 4 • ⏱️ 9:19 • 1d ago
-
----
-
-**[is crypto all a scam? AMA PulseChain Bitcoin HEX Ethereum](https://www.youtube.com/watch?v=xWfdcNm0384)**
-
-public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https://zkxwallet.com how to buy ...
-
-📺 Crypto Coffee
-
-👁️ 1K • 👍 171 • 💬 38 • ⏱️ 31:11 • 9h ago
+👁️ 1K • 👍 30 • 💬 4 • ⏱️ 9:19 • 1d ago
 
 ---
 
