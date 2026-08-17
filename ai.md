@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T15:25:06.593825+00:00'
+updated: '2026-08-17T15:49:52.756429+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 15:25 UTC  
+**Last Updated:** August 17, 2026 at 15:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 57m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hos
 
 I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Benchmark can be faked, I though it was kinda impossible because HOW?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Ben
 
 Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bloomberg.com • 19h ago
 
 **[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
@@ -137,7 +137,7 @@ WSJ • 5h ago
 
 Low level poses risk: The U.S. Strategic Petroleum Reserve, stored in underground salt caverns along the Louisiana and Texas Gulf Coast, has fallen below 300 million barrels for the first time since the early 1980s. Experts warn that continued drawdowns could damage the caverns, reduce the SPR’s ability to respond quickly to future emergencies and […]
 
-Baton Rouge Business Report • 50m ago
+Baton Rouge Business Report • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Baton Rouge Business Report • 50m ago
 
 The Motion Picture Association and ByteDance said the two struck a deal for IP protections in ByteDance’s AI generative products.
 
-Variety • 1h ago
+Variety • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Variety • 1h ago
 
 The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.
 
-The Hollywood Reporter • 1h ago
+The Hollywood Reporter • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo • 1h ago
 
 Gundlach, the investor known as the "Bond King" questioned the wisdom of using fast-evolving technology as collateral for long-term borrowing.
 
-businessinsider.com • 34m ago
+businessinsider.com • 59m ago
 
 ---
 
@@ -211,7 +211,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 495 • 💬 285 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 495 • 💬 285 • 3d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -249,7 +249,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 130 • 💬 136 • 17h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 130 • 💬 136 • 18h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -287,7 +287,7 @@ Bear Bull Traders Live Trading Show airs on market days from 8:30 AM to 12:00 PM
 
 📺 Bear Bull Traders
 
-👁️ 3K • 👍 398 • 3h ago
+👁️ 3K • 👍 398 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Rick Beato
 
-👁️ 6K • 👍 431 • 💬 16 • ⏱️ 0:49 • 51m ago
+👁️ 6K • 👍 431 • 💬 16 • ⏱️ 0:49 • 1h ago
 
 ---
 
@@ -647,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 51m ago
+⭐ 13.8k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 280 • 40m ago
+⭐ 2.1k • 🔱 280 • 1h ago
 
 ---
 

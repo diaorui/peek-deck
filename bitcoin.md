@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T15:25:06.602568+00:00'
+updated: '2026-08-17T15:49:52.765121+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 15:25 UTC  
+**Last Updated:** August 17, 2026 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,45 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is becoming even scarcer than it looks.](https://www.reddit.com/r/Bitcoin/comments/1vqu68l/bitcoin_is_becoming_even_scarcer_than_it_looks/)**
+
+According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
+
+1h ago
+
+---
+
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
 18h ago
-
----
-
-**[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
-
-https://satoshitimeline.com/854
-
-22h ago
-
----
-
-**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
-
-22h ago
-
----
-
-**[is there an strategy to pass crypto to heir if i die without giving someone an multisig or something?](https://www.reddit.com/r/Bitcoin/comments/1vqaefx/is_there_an_strategy_to_pass_crypto_to_heir_if_i/)**
-
-i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
-
-17h ago
-
----
-
-**[Daily Discussion, August 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1vqjz8h/daily_discussion_august_17_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[Government: Bitcoin is a scam. Meanwhile, their currencies...](https://www.reddit.com/r/Bitcoin/comments/1vpmeo9/government_bitcoin_is_a_scam_meanwhile_their/)**
-
-1d ago
 
 ---
 
@@ -127,27 +99,57 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 ---
 
-**[SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.reddit.com/r/Bitcoin/comments/1vqlgs3/safepal_data_breach_impacts_39798_customers/)**
+**[We are sooooo back ! 🥳🥳🥳🥳](https://www.reddit.com/r/Bitcoin/comments/1vqvkwp/we_are_sooooo_back/)**
 
-If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
+(If you detected sarcasm, you were right…) 😬
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 7h ago
+19m ago
 
 ---
 
-**[Strategy CEO: crypto momentum should pick up in the fall](https://www.reddit.com/r/Bitcoin/comments/1vqqs11/strategy_ceo_crypto_momentum_should_pick_up_in/)**
+**[Where do I store my coins as a newbie](https://www.reddit.com/r/Bitcoin/comments/1vqs8u6/where_do_i_store_my_coins_as_a_newbie/)**
 
-Phong Le says late summer has been quiet, but he expects more policy and industry momentum around crypto this autumn.
+So I just got into the Bitcoin market and got some amount of Bitcoin I want to transfer them from the exchange to a self custodial wallet like coinbase like a crypto wallet kind of. Recommend me some good safe and accessible wallet or tell me where do you store your crypto.
+
+2h ago
+
+---
+
+**[New to BTC](https://www.reddit.com/r/Bitcoin/comments/1vqr5m3/new_to_btc/)**
+
+I’m 42. New to BTC. Looks like a good time to get in. 1% of my total NW. Will DCA weekly from here for life or until my thesis changes.
 
 3h ago
 
 ---
 
-**[I painted this Bitcoin piece by hand using textured gold, what do Bitcoiners think?](https://www.reddit.com/r/Bitcoin/comments/1vq3bt5/i_painted_this_bitcoin_piece_by_hand_using/)**
+**[Some hopium from a veteran of the 2022 bear market.](https://www.reddit.com/r/Bitcoin/comments/1vqv0mp/some_hopium_from_a_veteran_of_the_2022_bear_market/)**
 
-I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
+I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-21h ago
+40m ago
+
+---
+
+**[Satoshi Nakamoto Successfully Defended the Bitcoin Network against an overflow bug 16 Years Ago Today - "It Looks like we overtook the bad chain...Thanks to everyone for the quick response!"](https://www.reddit.com/r/Bitcoin/comments/1vq1lsa/satoshi_nakamoto_successfully_defended_the/)**
+
+https://satoshitimeline.com/854
+
+23h ago
+
+---
+
+**[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
+
+23h ago
+
+---
+
+**[SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.reddit.com/r/Bitcoin/comments/1vqlgs3/safepal_data_breach_impacts_39798_customers/)**
+
+If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
+
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 8h ago
 
 ---
 
@@ -159,7 +161,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 54m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -173,7 +175,7 @@ Forbes • 1d ago
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -189,7 +191,7 @@ Yahoo Finance • 3h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 4h ago
+Business Insider Africa • 5h ago
 
 ---
 
@@ -197,7 +199,7 @@ Business Insider Africa • 4h ago
 
 In Bitcoin news today, Ross Gerber, CEO of Gerber Kawasaki Wealth and Investment Management, argued this week that gold remains easier to use for everyday transactions than Bitcoin, reviving a long-running debate over the asset’s real-world utility.The comments arrived alongside a sharper attack on…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -205,13 +207,13 @@ TradingView • 1h ago
 
 HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
 
-theblock.co • 4h ago
+theblock.co • 5h ago
 
 ---
 
 **[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
 
-Investing.com • 16h ago
+Investing.com • 17h ago
 
 ---
 
@@ -219,7 +221,7 @@ Investing.com • 16h ago
 
 Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -263,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 5h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 6h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 

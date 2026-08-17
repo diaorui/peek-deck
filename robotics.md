@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T15:25:06.614618+00:00'
+updated: '2026-08-17T15:49:52.774491+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 15:25 UTC  
+**Last Updated:** August 17, 2026 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I’ve been building a humanoid robotics project called Evopien, mostly as a sol
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-15h ago
+16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 3h ago
 
 The sidewalk delivery company is adding Grubhub to its platform network as it works to replace volume lost from its expiring Uber agreement
 
-qz.com • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ qz.com • 1h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 2h ago
+inc.com • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fox News • 3h ago
 
 Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 5K • 👍 146 • 💬 24 • ⏱️ 0:56 • 12h ago
+👁️ 5K • 👍 146 • 💬 24 • ⏱️ 0:56 • 13h ago
 
 ---
 
