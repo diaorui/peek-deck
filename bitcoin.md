@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T13:39:24.653014+00:00'
+updated: '2026-08-17T14:27:20.479302+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 13:39 UTC  
+**Last Updated:** August 17, 2026 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 3h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ If you're a SafePal crypto user, check your emails for a breach notice. Stay saf
 
 Phong Le says late summer has been quiet, but he expects more policy and industry momentum around crypto this autumn.
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,13 +175,13 @@ Forbes • 1d ago
 
 The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Canaan reports July bitcoin mining output, treasury holdings](https://www.investing.com/news/company-news/canaan-reports-july-bitcoin-mining-output-treasury-holdings-93CH-4863278)**
 
-Investing.com • 24m ago
+Investing.com • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 8h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -245,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -261,7 +261,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 3h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 4h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -297,7 +297,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 15h ago
+👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 18h ago
+👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 19h ago
 
 ---
 
@@ -337,7 +337,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 19h ago
+👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 20h ago
 
 ---
 

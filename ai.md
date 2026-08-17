@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T13:39:24.646861+00:00'
+updated: '2026-08-17T14:27:20.470576+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 13:39 UTC  
+**Last Updated:** August 17, 2026 at 14:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 19h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 20h ago
 
 ---
 
@@ -49,7 +49,7 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +57,7 @@ So i am pivoting from bioinformatics to AI engineering and i want to go all in. 
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-52m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 6h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Doesn't the territorial scope of EU AI Law mean that all companies providing inf
 
 Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while. Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six-lane average it's a different story (Qwen3-8B still wins there) but for the "actually usable formal output" measurement, the 1.7B leads. Makes me wonder how much of the "we need bigger models for reasoning" narrative is actually about complex multi-step reasoning vs. just having enough capacity to hold multiple approaches. If you can specialize hard on one reasoning task and lead 8B+ models on the strictest scoring at 1.7B, that's real efficiency. Kind of hoping this becomes a trend. A pipeline of narrow specialists on 1-3B models sounds a lot more practical than routing everything through a 70B. Non-commercial license, worth flagging. Anyone doing something similar with narrow fine-tunes? What tasks have you found respond well to this approach?
 
-20h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 Anthropic says its AI models hacked into three organizations during testing. This comes just days after OpenAI said its AI models went rogue and hacked into another company.
 
-🔗 [AP News](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link) • 1h ago
+🔗 [AP News](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ NEW: Added support for Video generation and I2V with Minimax H3.
 
 Requires 4 files as described in this docs. For ease of use, you ca...
 
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 22h ago
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 23h ago
 
 ---
 
@@ -141,13 +141,13 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
 **[Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
 **[What happens to the secrets you share with AI](https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
@@ -155,7 +155,7 @@ Axios • 4h ago
 
 The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.
 
-The Hollywood Reporter • 6m ago
+The Hollywood Reporter • 54m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Hollywood Reporter • 6m ago
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-404 Media • 19m ago
+404 Media • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer
 
-The Guardian • 16m ago
+The Guardian • 1h ago
 
 ---
 
 **[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo Finance • 4h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-The Washington Post • 5m ago
+The Washington Post • 53m ago
 
 ---
 
 **[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -251,7 +251,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 311 • 💬 123 • 22h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 311 • 💬 123 • 23h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -281,7 +281,7 @@ A new survey of 1,000 young adults in the US found that nine of the top tech exe
 
 There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in
 
-⬆️ 117 • 💬 100 • 1d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
+⬆️ 117 • 💬 100 • 2d ago • [opensauce](https://opensauce.it/cloudflare-ai-psychosis/)
 
 ---
 
@@ -313,7 +313,7 @@ Artificial-intelligence models from companies including OpenAI, Anthropic and Me
 
 📺 The Wall Street Journal
 
-👁️ 54K • 👍 902 • 💬 121 • ⏱️ 5:52 • 21h ago
+👁️ 54K • 👍 902 • 💬 121 • ⏱️ 5:52 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 320K • 👍 17K • 💬 1K • ⏱️ 8:55 • 11h ago
+👁️ 320K • 👍 17K • 💬 1K • ⏱️ 8:55 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com
 
 📺 BENOFTHEWEEK
 
-👁️ 195K • 👍 16K • 💬 1K • ⏱️ 22:02 • 17h ago
+👁️ 195K • 👍 16K • 💬 1K • ⏱️ 22:02 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Apply for a 1:1 mentorship with me ...
 
 📺 Romas Ecom
 
-👁️ 9K • 👍 660 • 💬 66 • ⏱️ 25:59 • 23h ago
+👁️ 9K • 👍 660 • 💬 66 • ⏱️ 25:59 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Apply for a 1:1 mentorship with me ...
 
 📺 Onevilage
 
-👁️ 1.6M • 👍 35K • 💬 928 • ⏱️ 0:46 • 2d ago
+👁️ 1.6M • 👍 35K • 💬 928 • ⏱️ 0:46 • 3d ago
 
 ---
 
@@ -673,7 +673,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 12.8k • 🔱 1.4k • 8h ago
+⭐ 12.8k • 🔱 1.4k • 9h ago
 
 ---
 
@@ -711,7 +711,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.2k • 🔱 550 • 21h ago
+⭐ 3.2k • 🔱 550 • 22h ago
 
 ---
 
@@ -741,7 +741,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 5h ago
+⭐ 2.2k • 🔱 177 • 6h ago
 
 ---
 
@@ -751,7 +751,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 280 • 58m ago
+⭐ 2.1k • 🔱 280 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T13:39:24.659411+00:00'
+updated: '2026-08-17T14:27:20.488541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 13:39 UTC  
+**Last Updated:** August 17, 2026 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -124,13 +124,13 @@ Interesting Engineering • 2d ago
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ Axios • 1h ago
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -154,13 +154,13 @@ CNBC • 3d ago
 
 Karlsruhe Institute of Technology researchers built a robotic disassembly system that adapts when screws get stuck or parts go missing in old machines.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
 **[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ nasa.gov • 2d ago
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 12h ago
+Nikkei Asia • 13h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nikkei Asia • 12h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 56m ago
+inc.com • 1h ago
 
 ---
 

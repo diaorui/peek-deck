@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T13:39:24.657174+00:00'
+updated: '2026-08-17T14:27:20.485323+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 13:39 UTC  
+**Last Updated:** August 17, 2026 at 14:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -180,7 +180,7 @@ Benzinga • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 1h ago
 
 Bitmine Immersion (BMNR) hits $11.4B in crypto assets with 5.82M ETH staked, projecting $250M staking revenue and buybacks—read the update.
 
-Seeking Alpha • 23m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ Seeking Alpha • 23m ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 10h ago
 
 Vitalik Buterin credited Bitcoin developers for scaling innovations like Utreexo, signaling Ethereum's 2026 roadmap will integrate UTXO-style
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -220,7 +220,7 @@ CryptoSlate • 2d ago
 
 Ethereum whale stakes 32400 ETH worth $61.4M, tightening liquid supply as price holds $1895.5 with bullish EMA50 at $1888.54.
 
-blockchain.news • 4h ago
+blockchain.news • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 12h ago
+👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 13h ago
 
 ---
 
@@ -252,7 +252,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 4h ago
+👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 5h ago
 
 ---
 
@@ -272,7 +272,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 28 • 👍 2 • ⏱️ 3:04 • 2h ago
+👁️ 28 • 👍 2 • ⏱️ 3:04 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 15h ago
+👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 13h ago
+👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 14h ago
 
 ---
 
@@ -312,7 +312,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 6h ago
+👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 7h ago
 
 ---
 
