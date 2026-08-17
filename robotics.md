@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T09:41:11.244432+00:00'
+updated: '2026-08-17T10:32:25.406267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 09:41 UTC  
+**Last Updated:** August 17, 2026 at 10:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[LoRa / Sub-GHz Antenna Optimization: From Ceramic to FPC](https://www.reddit.com/r/robotics/comments/1vqm6wp/lora_subghz_antenna_optimization_from_ceramic_to/)**
+
+We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handheld device, which is based on LoRa, designed to communicate/ navigate, and deploy anywhere. The antenna turned out to be one of the more challenging parts. For a small handheld, antenna performance is affected by much more than the antenna itself. The PCB, ground plane, battery, display, enclosure, and even the way the device is held can all influence the final RF performance. During the project, we evaluated several antenna configurations: Ceramic Antenna → FPC Antenna + Coaxial Cable → FPC Antenna + Pogo Pin The final FPC antenna configuration was validated with both RF measurements and outdoor testing, achieving S11 of -11.13 dB @ 868 MHz, -12.82 dB @ 915 MHz, and a 3 km LoRa link in our field test. 1. Ceramic Antenna The initial design used a ceramic antenna for its compact size and simple integration. However, its placement was relatively constrained, limiting our ability to optimize the surrounding RF environment. 2. FPC + Coaxial Cable We then tested an FPC antenna with a coaxial connection. This gave us more freedom to position the antenna away from the PCB, battery, and display, but introduced additional cabling and mechanical complexity. 3. FPC + Pogo Pin The final approach uses an FPC antenna connected through pogo pins. It provides flexible antenna placement while keeping the RF connection and mechanical structure compact. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The main takeaway from the project was that antenna performance in a compact LoRa device is a system-level problem. Antenna selection, placement, PCB layout, and mechanical design all need to be considered together. The complete What’s the biggest antenna design challenge you’ve encountered when working with compact LoRa or Sub-GHz devices? Share your experience togehther！
+
+2h ago
+
+---
+
 **[Looking for help for a 3d printed part](https://www.reddit.com/r/robotics/comments/1vqc4l7/looking_for_help_for_a_3d_printed_part/)**
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
@@ -44,19 +52,7 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-22h ago
-
----
-
-**[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
-
-8h ago
-
----
-
-**[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
-
-9h ago
+23h ago
 
 ---
 
@@ -76,6 +72,12 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 ---
 
+**[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
+
+10h ago
+
+---
+
 **[Probando 12 válvulas pepepako antiguas empaquetadas con un controlador microbit desde mi celular.](https://www.reddit.com/r/robotics/comments/1vpq5ib/probando_12_válvulas_pepepako_antiguas/)**
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
@@ -92,17 +94,17 @@ Day 2 of the CAD build. Started refining the rough shape from Day 1 and working 
 
 ---
 
-**[How do robots sense human-like touch?](https://www.reddit.com/r/robotics/comments/1vpcrqq/how_do_robots_sense_humanlike_touch/)**
+**[Jennifer Marie Godden](https://www.reddit.com/r/robotics/comments/1vpr4iu/jennifer_marie_godden/)**
 
-I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-1d ago
+🔗 [YouTube](https://youtube.com/shorts/RvWqiSV1TVg?is=ERP_qHlE9F2xIM2i) • 1d ago
 
 ---
 
-**[Pluggybot: Multifunctional robot sim with automatic tool changing (MuJoCo sim)](https://www.reddit.com/r/robotics/comments/1vp2w0d/pluggybot_multifunctional_robot_sim_with/)**
+**[How do robots sense human-like touch?](https://www.reddit.com/r/robotics/comments/1vpcrqq/how_do_robots_sense_humanlike_touch/)**
 
-Hey! This is a MuJoCo side project I've been working on for a while, with the plan to eventually make it with hardware. Each part is (or will be) documented to a planned hardware part (mounting brackets aren't rendered, which is why some things are floating). The idea is that the main chassis is the most expensive part (wheels + motors + RPi + Lidar + mast, lift, telescoping arm and two cameras). But we want a robot that can do multiple specialized skills. So, the arm has swappable, modular tools that are powered by contacts with the robot, but controlled via an esp32 + wifi connection with the main RPi. The demo shows two of these tools: a drawing tool, and a picking-up tool. The robot can recognize the rack + the specific tools using AprilTags. The drawing tool doesn't leave ink in the video because rendering it is difficult, but you can see the result in the 3rd picture. Videos are sped up: true time shown in the upper corner. Repo: https://github.com/benholland1024/pluggybot I'm a full stack webdev in my day job, so this was a chance to improve my Python. Full disclosure, Claude is used heavily in this project, though I also often write code. The project has a lot of other features planned, but I wanted to show off the modular tool rack + automatic tool changing specifically, here. The robot can also do occupancy mapping using lidar + dead reckoning, frontier exploration with A* path planning, and some image recognition using Yolo (the image recognition was for finding power outlets on a wall, for a "plug itself in" tool)
+I'm interested in learning how robotic hands can sense things like pressure, temperature, roughness/texture, vibration, and skin deformation ... similar to how a human hand feels when touching another person. I already have experience with coding and have taken an intelligent robotics course, so I'm looking for pointers on going deeper into robotic tactile sensing / electronic skin. I'd especially appreciate recommendations for research papers, open-source code, simulators, datasets, projects or literally anything to get started.
 
 1d ago
 
@@ -120,17 +122,23 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Naval Academy Integrates Robotics and Autonomous Systems into Summer Training](https://www.presidentialprayerteam.org/2026/08/17/naval-academy-integrates-robotics-and-autonomous-systems-into-summer-training/)**
+**[How to Make a Robot Better at Its Job? Give It Eyes.](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
-
-The Presidential Prayer Team • 1h ago
+The New York Times • 1h ago
 
 ---
 
-**[BSF Enterprise forms partnership for lab-grown leather, robotics By Investing.com](https://ng.investing.com/news/stock-market-news/bsf-enterprise-forms-partnership-for-labgrown-leather-robotics-93CH-2662026)**
+**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
 
-Investing.com Nigeria • 3h ago
+We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
+
+Business Insider • 32m ago
+
+---
+
+**[Bernstein sees US-China robotics decoupling after FCC ban](https://www.investing.com/news/stock-market-news/bernstein-sees-uschina-robotics-decoupling-after-fcc-ban-93CH-4862426)**
+
+Investing.com • 1h ago
 
 ---
 
@@ -146,7 +154,7 @@ CNBC • 3d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 17h ago
+Fox News • 18h ago
 
 ---
 
@@ -158,33 +166,25 @@ NASA (.gov) • 2d ago
 
 ---
 
+**[Naval Academy Integrates Robotics and Autonomous Systems into Summer Training](https://www.presidentialprayerteam.org/2026/08/17/naval-academy-integrates-robotics-and-autonomous-systems-into-summer-training/)**
+
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
+
+The Presidential Prayer Team • 2h ago
+
+---
+
+**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
+
+bloomberg.com • 10h ago
+
+---
+
 **[Inside the Rise of Robotic Systems in Modern Hospitals](https://www.medscape.com/p11/inside-rise-robotic-systems-modern-hospitals-2026a1000rue)**
 
 Robots are no longer limited to surgery. From CyberKnife to pharmacy automation, they are already handling key tasks across hospital care.
 
-Medscape • 2d ago
-
----
-
-**[China’s ‘electric eel’ sensor lets robots feel an object without touching it](https://www.scmp.com/news/china/science/article/3364015/chinas-electric-eel-sensor-allows-robots-feel-object-without-touching-it)**
-
-South China Morning Post • 1d ago
-
----
-
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
-
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
-
-Nikkei Asia • 8h ago
-
----
-
-**[Lift Happens. Or Maybe Not. Watch the Flameouts at This DARPA Challenge](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)**
-
-Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
-
-IEEE Spectrum • 2d ago
+Medscape • 3d ago
 
 ---
 
@@ -192,23 +192,23 @@ IEEE Spectrum • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
-
-Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
-
-📺 DEEP Robotics
-
-👁️ 31K • 👍 114 • 💬 14 • ⏱️ 0:18 • 5d ago
-
----
-
 **[I spent 3 days at MIT... the robot hype is worse than you think](https://www.youtube.com/watch?v=aB5LGrHISqY)**
 
 Omnigent is an open source meta-harness to run all your AI agents in one place. Try it free - https://bit.ly/4fXzeo8 I spent last week ...
 
 📺 Fireship
 
-👁️ 980K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+👁️ 982K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+
+---
+
+**[DR02 Humanoid Robot |  Steady Steps, Steady Progress](https://www.youtube.com/watch?v=5gd2b0cmfyU)**
+
+Our DR02 humanoid robot takes on the stairs with stable, controlled movement—steady steps, steady progress.
+
+📺 DEEP Robotics
+
+👁️ 32K • 👍 115 • 💬 14 • ⏱️ 0:18 • 5d ago
 
 ---
 
@@ -222,13 +222,13 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 ---
 
-**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
+**[Something Is Seriously Wrong With This Rescue Robot...](https://www.youtube.com/watch?v=shGN84z4SpI)**
 
-Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
+We know Spiritually, we are either influenced by God, or evil. Well this new robotic creation has many asking why the robot looks ...
 
-📺 CNET
+📺 Aaron Page 
 
-👁️ 7K • 👍 257 • 💬 31 • ⏱️ 5:16 • 21h ago
+👁️ 13K • 👍 1K • 💬 218 • ⏱️ 13:50 • 6d ago
 
 ---
 
@@ -242,23 +242,23 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 ---
 
-**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
+**[MASSIVE robotics deal pushes physical AI into US shipbuilding](https://www.youtube.com/watch?v=fhzTrAfskQk)**
 
-China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
+GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could supercharge U.S. shipbuilding, boost American ...
 
-📺 Kalil 4.0
+📺 Fox Business Clips
 
-👁️ 2K • 👍 67 • 💬 7 • ⏱️ 0:56 • 7h ago
+👁️ 40K • 👍 555 • 💬 108 • ⏱️ 7:05 • 5d ago
 
 ---
 
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+**[The Many Problems With Home Robotics](https://www.youtube.com/watch?v=EMj1fl17Tv8)**
 
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their ...
 
-📺 Imagination in Action
+📺 CNET
 
-👁️ 9K • 👍 318 • 💬 46 • ⏱️ 1:12:16 • 5d ago
+👁️ 7K • 👍 260 • 💬 32 • ⏱️ 5:16 • 22h ago
 
 ---
 
@@ -268,27 +268,27 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 
 📺 KhanFlicks
 
-👁️ 51K • 💬 60 • ⏱️ 8:34 • 5d ago
+👁️ 57K • 💬 60 • ⏱️ 8:34 • 5d ago
 
 ---
 
-**[The Honor Robot Phone is absolutely insane.](https://www.youtube.com/watch?v=n3F996g8wjg)**
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
 
-Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't harm you, if they can't find you! Use code BOSS ...
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
 
-📺 Mrwhosetheboss
+📺 Imagination in Action
 
-👁️ 3.1M • 👍 84K • 💬 5K • ⏱️ 14:03 • 2d ago
+👁️ 9K • 👍 321 • 💬 46 • ⏱️ 1:12:16 • 5d ago
 
 ---
 
-**[Why I Quit My PhD in Robotics – Did I Make a Mistake?](https://www.youtube.com/watch?v=hoGCq23-x8U)**
+**[China&#39;s Banned T800 Humanoid Robots Fight on US Soil #robotics #robot #robotfight](https://www.youtube.com/watch?v=5370gd35zhI)**
 
-Join Robotics Builder Membership for Behind the Scene Videos: ...
+China's T800 robots just had their first fight on US soil. The San Francisco startup REK (Robot Entertainment Kombat) hosted a ...
 
-📺 Kevin Wood | Robotics & AI
+📺 Kalil 4.0
 
-👁️ 14K • 👍 337 • 💬 59 • ⏱️ 11:50 • 6d ago
+👁️ 3K • 👍 94 • 💬 16 • ⏱️ 0:56 • 8h ago
 
 ---
 

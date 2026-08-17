@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T09:41:11.235979+00:00'
+updated: '2026-08-17T10:32:25.397950+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 09:41 UTC  
+**Last Updated:** August 17, 2026 at 10:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,470.29
+### $63,416.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.3%  
-**30d:** -2.0%  
+**24h:** +0.7%  
+**7d:** -0.2%  
+**30d:** -1.9%  
 **90d:** -18.2%  
 **1y:** -45.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1274.21B
+**Market Cap:** $1270.53B
 Rank #1
 
-**Circulating Supply:** 20,071,368 BTC
+**Circulating Supply:** 20,071,434 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.8%
 
 **All-Time Low:** $67.81
-+93520.4%
++93322.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-17h ago
+18h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-19h ago
+20h ago
 
 ---
 
@@ -139,7 +139,7 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 2h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 3h ago
 
 ---
 
@@ -167,67 +167,65 @@ CoinDesk • 4d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
-**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates?srnd=homepage-americas)**
+**[Bitcoin Holds Above $63K as LINK and HYPE Surge Ahead of Key Fed Week](https://bitcoinfoundation.org/news/altcoins/bitcoin-holds-above-63k-as-link-and-hype-surge-ahead-of-key-fed-week/)**
 
-Bloomberg.com • 4h ago
+Bitcoin steadies above $63K as LINK and HYPE outperform, while ETF outflows and upcoming Fed minutes keep crypto traders cautious.
 
----
-
-**[Benjamin Cowen Says Bitcoin 69-73 Days From Bottom, But Does BTC Still Follow Cycles?](https://finance.yahoo.com/markets/crypto/articles/benjamin-cowen-says-bitcoin-69-070300658.html)**
-
-Benjamin Cowen puts Bitcoin's cycle bottom 69 to 73 days away, but analysts debate whether BTC still follows old cycles.
-
-Yahoo Finance • 2h ago
+Bitcoin Foundation • 2h ago
 
 ---
 
-**[JPMorgan Opens Bitcoin-Backed Lending as Wall Street Pushes Deeper Into Crypto](https://bitcoinfoundation.org/news/bitcoin/jpmorgan-opens-bitcoin-backed-lending-as-wall-street-pushes-deeper-into-crypto/)**
+**[$48 billion in open interest: Bitcoin sell-off risks intensify](https://www.moomoo.com/news/post/74780662/48-billion-in-open-interest-bitcoin-sell-off-risks-intensify)**
 
-JPMorgan brings Bitcoin and Ethereum into institutional lending, expanding crypto’s role in traditional finance and collateral markets.
-
-Bitcoin Foundation • 1h ago
+Moomoo • 1h ago
 
 ---
 
-**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+**[Bitcoin Will Eventually Go to Zero, World Gold Council CEO Warns — Here’s Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-eventually-zero-world-gold-091106234.html)**
 
-Investing.com • 10h ago
+World Gold Council CEO David Tait believes Bitcoin will eventually reach zero because it behaves more like a risk asset than a crisis hedge. Tait ...
 
----
-
-**[Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.](https://www.fool.com/investing/2026/08/16/bitcoin-miner-riot-platforms-just-signed-a-9-billi/)**
-
-Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
-
-The Motley Fool • 22h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+**[Bitcoin (BTC) ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
-
-TradingView • 17h ago
+bloomberg.com • 4h ago
 
 ---
 
-**[BLOX: Bitcoin May Be Forming A Bottom, Collect Weekly Income In The Meantime](https://seekingalpha.com/article/4936703-blox-bitcoin-may-be-forming-a-bottom-collect-weekly-income-in-the-meantime)**
+**[Current price of Bitcoin for Aug. 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
 
-Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Seeking Alpha • 21h ago
+Fortune • 3h ago
 
 ---
 
-**[Crypto Recap: Bitcoin, ETFs, Stablecoins and Tokenized Stocks](https://www.benzinga.com/crypto/26/08/61236592/top-crypto-news-week-bitcoin-ethereum-etfs-tokenized-stocks)**
+**[BTC, ETH price news: Bitcoin nears $64,000 as traders await FOMC minutes](https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week)**
 
-This week’s crypto headlines covered regulation, Bitcoin, ETF buying and the growing tokenization of stocks.
+Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.
 
-Benzinga • 20h ago
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Edges Higher on Paring of U.S. Rate-Rise Bets](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/bitcoin-edges-higher-on-paring-of-u-s-rate-rise-bets-pyTikAChrsVzipL9LsDk?mod=bar_RHF)**
+
+Barron's • 1h ago
+
+---
+
+**[Bitcoin Falls as Regulatory Hopes Are Dashed](https://www.investopedia.com/market-update-bitcoin-falls-as-regulatory-hopes-are-dashed-price-btc-12059975)**
+
+Crypto investors got a letdown this week–and not just from bitcoin prices.
+
+Investopedia • 2d ago
 
 ---
 
@@ -247,7 +245,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 3h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 4h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -256,6 +254,14 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 Add Ark and Lightning payments to your bitcoin app
 
 ⬆️ 1 • 💬 1 • 3d ago • [Second](https://second.tech/)
+
+---
+
+**[MostroEuropa – A European P2P Bitcoin Coordinator Built on Lightning and Nostr](https://news.ycombinator.com/item?id=49328436)**
+
+Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
+
+⬆️ 1 • 💬 0 • 52m ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -285,13 +291,13 @@ Strategy sold 1,690 Bitcoin for $108.6 million to buy back STRC shares still tra
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
+**[Michael Saylor! Who SHOULD NOT Buy Bitcoin NOW!](https://www.youtube.com/watch?v=upQmQKXk7lE)**
 
-For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
+Hurley talks about Michael Saylor! Who SHOULD NOT Buy Bitcoin NOW! Brought to you by Bitcoinwell.com a bitcoin-only platform ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 23h ago
+👁️ 2K • 👍 86 • 💬 5 • ⏱️ 1:05 • 10h ago
 
 ---
 
@@ -301,7 +307,7 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 10h ago
+👁️ 10K • 👍 772 • 💬 45 • ⏱️ 15:49 • 11h ago
 
 ---
 
@@ -311,27 +317,25 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 11h ago
+👁️ 3K • 👍 196 • 💬 96 • ⏱️ 17:10 • 12h ago
 
 ---
 
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+**[Who are YOU mining Bitcoin for?](https://www.youtube.com/watch?v=_dvdJYVn2J0)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+📺 InfoWars
+
+👁️ 20K • 👍 3K • 💬 73 • ⏱️ 0:42 • 15h ago
+
+---
+
+**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
+
+For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 649 • 💬 16 • ⏱️ 0:53 • 2d ago
-
----
-
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
-
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 166 • ⏱️ 16:33 • 2d ago
+👁️ 81K • 👍 5K • 💬 302 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -341,45 +345,45 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 14h ago
+👁️ 11K • 👍 1K • 💬 637 • ⏱️ 14:27 • 15h ago
 
 ---
 
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+**[PPI #trading #crypto #bitcoin #shorts](https://www.youtube.com/watch?v=U4irhev0Cro)**
 
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+📺 Khuncoin
 
-📺 Crypto Banter
-
-👁️ 12K • 👍 468 • 💬 22 • ⏱️ 55:12 • 1d ago
+👁️ 31K • 👍 381 • 💬 5 • ⏱️ 0:24 • 2d ago
 
 ---
 
-**[BITCOIN...THE WHALES JUST CHANGED THEIR MIND](https://www.youtube.com/watch?v=mT1Ua6HkPmY)**
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
 
-My Private Group: http://t.me/stackerscircle Content is not intended for EU residents My Trading Strategies: 1. Sign Up To Pionex ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Satoshi Stacker
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 1d ago
-
----
-
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
-
-📺 Andrei Jikh
-
-👁️ 84K • 👍 2K • 💬 44 • ⏱️ 0:54 • 2d ago
+👁️ 44K • 👍 654 • 💬 16 • ⏱️ 0:53 • 2d ago
 
 ---
 
-**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
+**[Mizkif Couldn’t Believe Lacy Put All His Money Into Bitcoin 🤔](https://www.youtube.com/watch?v=kVJXvZtWo2A)**
 
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
+Lacy says he put all his money into Bitcoin and predicts the market is about to boom while Mizkif reacts. I stream every day live at ...
 
-📺 CryptosRUs
+📺 Mizkif
 
-👁️ 18K • 👍 890 • 💬 247 • ⏱️ 33:51 • 2d ago
+👁️ 17K • 👍 253 • 💬 125 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[Bitcoin - A Redistribution?](https://www.youtube.com/watch?v=7LHXIQ5c7Vs)**
+
+Come to the 1st ITC Conference in November, Ticket Prices go up September 1st! https://www.benjamincowen.com/conference ...
+
+📺 Benjamin Cowen
+
+👁️ 12K • 👍 213 • 💬 9 • ⏱️ 0:34 • 1d ago
 
 ---
 
