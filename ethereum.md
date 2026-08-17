@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T06:55:31.374824+00:00'
+updated: '2026-08-17T07:53:11.394029+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 06:55 UTC  
+**Last Updated:** August 17, 2026 at 07:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.21B
+**Market Cap:** $229.37B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
@@ -62,11 +62,27 @@ No max supply
 -61.6%
 
 **All-Time Low:** $0.43
-+438480.2%
++438858.9%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 17, 2026](https://www.reddit.com/r/ethereum/comments/1vqiuo7/daily_general_discussion_august_17_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
+
+**[Ethereal news weekly #35 | Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live](https://www.reddit.com/r/ethereum/comments/1vqki12/ethereal_news_weekly_35_justin_drake_poseidon/)**
+
+Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 1h ago
+
+---
 
 **[Daily General Discussion August 16, 2026](https://www.reddit.com/r/ethereum/comments/1vpnz5p/daily_general_discussion_august_16_2026/)**
 
@@ -84,19 +100,19 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 ---
 
-**[Daily General Discussion August 15, 2026](https://www.reddit.com/r/ethereum/comments/1vots4q/daily_general_discussion_august_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 **[Trezor Data Breach exposes almost 14.000 customers home addresses tied to hardware-wallet purchases. Stay safe!](https://www.reddit.com/r/ethereum/comments/1vp71p6/trezor_data_breach_exposes_almost_14000_customers/)**
 
 Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
 
 🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 1d ago
+
+---
+
+**[Daily General Discussion August 15, 2026](https://www.reddit.com/r/ethereum/comments/1vots4q/daily_general_discussion_august_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -132,22 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Do you still use MakerDAO? If not, do you know that it can still be used?](https://www.reddit.com/r/ethereum/comments/1vn809f/do_you_still_use_makerdao_if_not_do_you_know_that/)**
-
-Heya folks, interested if there's anyone here that's still actively using Maker for their ETH long? Seeing as they've fully rebranded to Sky a while ago, it's interesting to see that there's still a solid userbase there. Even with household names like Aave, Morpho, Fluid, etc... filling the space. We have Maker integrated in our app (DeFi Saver), where users can manage their CDP - and I saw that just a few days ago someone increased leverage by using our boost tool by $5 million in ETH. That led me to think - what's the sentiment surrounding Maker? If you haven't been using it, are you aware that it's still functional? What's interesting is that Spark (the lending protocol that's part of the Sky ecosystem) is offering better rates for longing ETH - yet Maker CDP owners aren't exactly flocking there. Not here to shill anything - just wanted to give context as to why I asked this question in the first place. Would be incredibly cool to hear from an actual Maker user - as I'm interested to also hear what keeps you engaged with that protocol as opposed to moving your loan to Spark (which offers better rates than the Stability Fee)
-
-3d ago
-
----
-
-**[Where can I get small amounts of ETH Base for fees?](https://www.reddit.com/r/ethereum/comments/1vnaldr/where_can_i_get_small_amounts_of_eth_base_for_fees/)**
-
-Title says it all, looking to figure out where I can get small amounts of ETH Base to cover fees..
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 13h ago
+Benzinga • 14h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 2d ago
 
 US spot Bitcoin ETFs saw $389.71M in net outflows last week, the largest in six weeks, while Ethereum ETFs lost $2.26M, ending a five-week inflow
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Crypto Briefing • 2h ago
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -204,7 +204,7 @@ blockchain.news • 6h ago
 
 Ethereum co-founder Vitalik Buterin says Ethereum’s next phase of scaling can draw lessons from Bitcoin’s Utreexo technology, pointing to growing convergence
 
-FinanceFeeds • 11m ago
+FinanceFeeds • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 1K • 👍 71 • 💬 7 • ⏱️ 35:05 • 5h ago
+👁️ 2K • 👍 84 • 💬 11 • ⏱️ 35:05 • 6h ago
 
 ---
 
@@ -256,17 +256,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 915 • 💬 90 • ⏱️ 15:54 • 18h ago
-
----
-
-**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
-
-BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 168 • 💬 110 • ⏱️ 17:01 • 7h ago
+👁️ 25K • 👍 950 • 💬 92 • ⏱️ 15:54 • 19h ago
 
 ---
 
@@ -276,27 +266,17 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 2K • 👍 244 • 💬 61 • ⏱️ 14:12 • 8h ago
+👁️ 3K • 👍 255 • 💬 45 • ⏱️ 14:12 • 9h ago
 
 ---
 
-**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
+**[BITCOIN &amp; CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=paorhTx5sVc)**
 
-Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
+BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Modern Investor
+📺 Crypto World
 
-👁️ 6K • 👍 554 • 💬 116 • ⏱️ 34:25 • 1d ago
-
----
-
-**[Ethereum’s New EIP Could Break DeFi](https://www.youtube.com/watch?v=NCvOUkryd1k)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's latest staking ...
-
-📺 Bankless
-
-👁️ 5K • 👍 159 • 💬 52 • ⏱️ 54:27 • 6d ago
+👁️ 4K • 👍 192 • 💬 92 • ⏱️ 17:01 • 8h ago
 
 ---
 
@@ -306,27 +286,47 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 869 • 💬 282 • ⏱️ 17:49 • 1d ago
+👁️ 8K • 👍 871 • 💬 260 • ⏱️ 17:49 • 1d ago
 
 ---
 
-**[Will Ethereum Reclaim This Key Resistance Level](https://www.youtube.com/watch?v=kbKiAB88yH8)**
+**[The Head Of Ripple XRP Just Said &quot;It&#39;s A SCAM&quot; Solana Cardano &amp; Ethereum Could Be In Trouble](https://www.youtube.com/watch?v=gbVgbEG4h6I)**
 
-In this video I break down the current Ethereum price action, focusing on a potential Elliott Wave triangle pattern that has ...
+Well, it looks like things are a changing in the cryptocurrency market. We've gotten a lot of altcoin news being thrown around as ...
 
-📺 More Crypto Online
+📺 The Modern Investor
 
-👁️ 3K • 👍 180 • 💬 17 • ⏱️ 5:23 • 23h ago
+👁️ 13K • 👍 938 • 💬 216 • ⏱️ 29:34 • 22h ago
 
 ---
 
-**[JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure.](https://www.youtube.com/watch?v=PwOWMjhMrnQ)**
+**[Ethereum Might Get Destroyed By Solana &amp; Cardano Very Soon Whale Bitcoin Buying Is Taking Over](https://www.youtube.com/watch?v=ImxzfYtnFU4)**
 
-JPMorgan increases Bitcoin and Ethereum ETF holdings and adds XRP exposure. Chapters: 0:00 Intro 0:15 Headlines 0:41 ...
+Just when you thought you've seen it all, this might actually be the most delusional news you have ever heard of in your life.
 
-📺 The Coin Daily
+📺 The Modern Investor
 
-👁️ 10K • 👍 3 • ⏱️ 6:17 • 2d ago
+👁️ 6K • 👍 556 • 💬 98 • ⏱️ 34:25 • 1d ago
+
+---
+
+**[Jesse Pollak: Why Base&#39;s Growth Is Ethereum&#39;s Growth (The Endgame Is Everything Onchain)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
+
+Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
+
+📺 The Rollup
+
+👁️ 930 • 👍 26 • 💬 3 • ⏱️ 9:19 • 1d ago
+
+---
+
+**[This Altcoin Just BREEZED Past Both Ethereum And Solana It Looks Like We Could Have A New Winner](https://www.youtube.com/watch?v=QDNGl5iePPI)**
+
+Crypto is difficult, but its also very easy. The richest people in the world and the largest companies on the planet have been VERY ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 12K • 👍 1K • 💬 244 • ⏱️ 11:56 • 2d ago
 
 ---
 
@@ -336,7 +336,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 14K • 👍 343 • 💬 9 • ⏱️ 0:31 • 2d ago
+👁️ 14K • 👍 344 • 💬 9 • ⏱️ 0:31 • 2d ago
 
 ---
 

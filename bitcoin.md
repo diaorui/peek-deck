@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T06:55:31.368644+00:00'
+updated: '2026-08-17T07:53:11.387294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 06:55 UTC  
+**Last Updated:** August 17, 2026 at 07:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1273.45B
+**Market Cap:** $1274.21B
 Rank #1
 
-**Circulating Supply:** 20,071,321 BTC
+**Circulating Supply:** 20,071,368 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.7%
+-49.6%
 
 **All-Time Low:** $67.81
-+93462.9%
++93520.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-14h ago
+15h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-8h ago
+9h ago
 
 ---
 
@@ -115,7 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-16h ago
+17h ago
 
 ---
 
@@ -131,21 +131,21 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-16h ago
+17h ago
+
+---
+
+**[Daily Discussion, August 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1vqjz8h/daily_discussion_august_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-21h ago
-
----
-
-**[Multisig and Trezor Safe 7 BTC only](https://www.reddit.com/r/Bitcoin/comments/1vqej8q/multisig_and_trezor_safe_7_btc_only/)**
-
-I plan on creating my entropy for my other two wallets via dice rolls. Should I create a seed for the Safe 7 or allow Trezor to create it for me? I am reading the the Safe 7 is very good for creating a strong seed phrase. That said I would like to see what others are thinking about this question?
-
-5h ago
+22h ago
 
 ---
 
@@ -157,7 +157,7 @@ I plan on creating my entropy for my other two wallets via dice rolls. Should I 
 
 Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.
 
-CoinDesk • 3d ago
+CoinDesk • 4d ago
 
 ---
 
@@ -165,25 +165,25 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates?srnd=homepage-americas)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Gold vs Bitcoin: Which is the real safe haven?](https://www.investing.com/news/stock-market-news/gold-vs-bitcoin-which-is-the-real-safe-haven-93CH-4862102)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
 **[Bitcoin Tops $64,000 in Asia Morning Hours as HYPE Jumps 8% on the Week](https://www.moomoo.com/news/post/74769800/bitcoin-tops-64000-in-asia-morning-hours-as-hype-jumps)**
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Moomoo • 2h ago
 
 CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 22h ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -207,7 +207,7 @@ TradingView • 14h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Motley Fool • 19h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Seeking Alpha • 18h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 15h ago
+Benzinga • 16h ago
 
 ---
 
@@ -287,47 +287,17 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 291 • ⏱️ 16:15 • 20h ago
+👁️ 76K • 👍 5K • 💬 292 • ⏱️ 16:15 • 21h ago
 
 ---
 
-**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
+**[Bitcoin vs Gold: Which One Will Own The Future of Finance?](https://www.youtube.com/watch?v=RCLw6HhWxJ0)**
 
-One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
+As confidence in the dollar comes under pressure, the battle over the future of money is getting serious. Tether is holding more ...
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 174 • ⏱️ 16:33 • 2d ago
-
----
-
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 43K • 👍 643 • 💬 16 • ⏱️ 0:53 • 2d ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 462 • 💬 22 • ⏱️ 55:12 • 1d ago
-
----
-
-**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
-
-📺 Bitcoin University
-
-👁️ 9K • 👍 1K • 💬 584 • ⏱️ 14:27 • 11h ago
+👁️ 8K • 👍 693 • 💬 44 • ⏱️ 15:49 • 8h ago
 
 ---
 
@@ -337,15 +307,47 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 179 • 💬 138 • ⏱️ 17:10 • 8h ago
+👁️ 2K • 👍 185 • 💬 102 • ⏱️ 17:10 • 9h ago
 
 ---
 
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
 
-📺 Andrei Jikh
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-👁️ 82K • 👍 2K • 💬 43 • ⏱️ 0:54 • 2d ago
+📺 Benjamin Cowen
+
+👁️ 44K • 👍 649 • 💬 16 • ⏱️ 0:53 • 2d ago
+
+---
+
+**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
+
+One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 166 • ⏱️ 16:33 • 2d ago
+
+---
+
+**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
+
+📺 Bitcoin University
+
+👁️ 10K • 👍 1K • 💬 606 • ⏱️ 14:27 • 12h ago
+
+---
+
+**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
+
+Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 468 • 💬 22 • ⏱️ 55:12 • 1d ago
 
 ---
 
@@ -355,27 +357,25 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 334 • 💬 13 • ⏱️ 9:40 • 21h ago
+👁️ 7K • 👍 341 • 💬 13 • ⏱️ 9:40 • 22h ago
 
 ---
 
-**[The Bitcoin Cheat Code to Never Pay Capital Gains Taxes](https://www.youtube.com/watch?v=haJExHcycrY)**
+**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
 
-Market Disruptors host Mark Moss explains why selling your Bitcoin for cash triggers tax penalties and destroys your collateral ...
+📺 Andrei Jikh
 
-📺 Natalie Brunell
-
-👁️ 5K • 👍 170 • 💬 137 • ⏱️ 1:36 • 2d ago
+👁️ 84K • 👍 2K • 💬 44 • ⏱️ 0:54 • 2d ago
 
 ---
 
-**[Bitcoin Wins By Simply Not Playing The Time Game](https://www.youtube.com/watch?v=y2-O5g-4qzQ)**
+**[Bitcoin’s “Valley of Death” Is Here](https://www.youtube.com/watch?v=Phth891n5cU)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
-📺 Anthony Pompliano
+📺 CryptosRUs
 
-👁️ 59K • 👍 2K • 💬 103 • ⏱️ 59:10 • 1d ago
+👁️ 18K • 👍 890 • 💬 247 • ⏱️ 33:51 • 2d ago
 
 ---
 
