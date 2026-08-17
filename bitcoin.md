@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T05:35:04.369802+00:00'
+updated: '2026-08-17T06:55:31.368644+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 05:35 UTC  
+**Last Updated:** August 17, 2026 at 06:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,529.82
+### $63,715.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.2%  
-**30d:** -1.9%  
-**90d:** -18.1%  
-**1y:** -45.5%  
+**24h:** +1.0%  
+**7d:** +0.1%  
+**30d:** -1.6%  
+**90d:** -17.9%  
+**1y:** -45.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[There's no second best!](https://www.reddit.com/r/Bitcoin/comments/1vq8ubq/theres_no_second_best/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-13h ago
+14h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://satoshitimeline.com/854
 
 i honestly want to pass the money to my wife if i die but without giving her or someone multisigs that they would have to put together to her have acess to the money
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ i honestly want to pass the money to my wife if i die but without giving her or 
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-11h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX & CC hack took 6 years of stacking away from me. Should have bought a car instead. Anyone in similar shoes and still stacking?
 
-15h ago
+16h ago
 
 ---
 
@@ -131,13 +131,13 @@ Very painful guys. Finally accepted my fate, but how unlucky can someone be? FTX
 
 Wallet of Satoshi is now going full non custodial by implementing the Spark Protocol. If you want to keep using WoS, you have to generate a Spark key either with them or any other Wallet that has Spark implemented. The Spark Protocol allows you to use the Lightning Network, but you own the keys (normal lightning you dont)
 
-14h ago
+16h ago
 
 ---
 
 **[Bitcoin is the newest, coolest software that will allow us to do things we could never have done before](https://www.reddit.com/r/Bitcoin/comments/1vpsbhr/bitcoin_is_the_newest_coolest_software_that_will/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -145,7 +145,7 @@ Wallet of Satoshi is now going full non custodial by implementing the Spark Prot
 
 I plan on creating my entropy for my other two wallets via dice rolls. Should I create a seed for the Safe 7 or allow Trezor to create it for me? I am reading the the Safe 7 is very good for creating a strong seed phrase. That said I would like to see what others are thinking about this question?
 
-4h ago
+5h ago
 
 ---
 
@@ -165,27 +165,33 @@ CoinDesk • 3d ago
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
-**['The US Is in Trouble' and Bitcoin Will Reap the Benefits, Macro Guru Says—But How?](https://finance.yahoo.com/markets/crypto/articles/us-trouble-bitcoin-reap-benefits-033115975.html)**
+**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates?srnd=homepage-americas)**
 
-Macro investor Jordi Visser on Wednesday said the U.S.’ yen intervention signals the government is in financial trouble—and Bitcoin is his top bet to capture the money printing that follows. Why Visser Calls Bitcoin The Purest AI Trade? Visser outlined...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Rises as Selling Pressure Subsides -- Market Talk](https://www.moomoo.com/news/post/74766803/bitcoin-rises-as-selling-pressure-subsides-market-talk)**
-
-Moomoo • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Gold vs Bitcoin: Which is the real safe haven?](https://www.investing.com/news/stock-market-news/gold-vs-bitcoin-which-is-the-real-safe-haven-93CH-4862102)**
 
-Investing.com • 53m ago
+Investing.com • 2h ago
+
+---
+
+**[Bitcoin Tops $64,000 in Asia Morning Hours as HYPE Jumps 8% on the Week](https://www.moomoo.com/news/post/74769800/bitcoin-tops-64000-in-asia-morning-hours-as-hype-jumps)**
+
+Moomoo • 2h ago
+
+---
+
+**[Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ](https://finance.yahoo.com/markets/crypto/articles/millionaires-soon-won-t-able-085103959.html)**
+
+CZ says millionaires will soon fail to afford one full Bitcoin, because lost and dormant coins keep shrinking the float.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -193,7 +199,7 @@ Investing.com • 53m ago
 
 Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
@@ -201,7 +207,7 @@ TradingView • 13h ago
 
 Several Bitcoin-mining stocks have transitioned to data centers specifically for artificial intelligence compute.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -209,7 +215,7 @@ The Motley Fool • 18h ago
 
 Nicholas Crypto Income ETF: 36% yield, weekly payouts, synthetic crypto exposure, risks, tax-efficient income, and outlook. Learn more about BLOX ETF here.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -217,15 +223,7 @@ Seeking Alpha • 17h ago
 
 Billionaire investor Mark Cuban once challenged comedian Bill Maher's belief that gold was a superior hedge to Bitcoin, only to concede years later that the apex cryptocurrency wasn't the hedge he expected it to be.
 
-Benzinga • 14h ago
-
----
-
-**[10x Research's Thielen: $1M Bitcoin by 2030 Is Impossible](https://bitbo.io/news/thielen-1m-bitcoin-impossible/)**
-
-Markus Thielen of 10x Research argues bitcoin cannot reach $1 million by 2030 because it would require roughly $15 trillion in new capital inflows.
-
-Bitbo • 1d ago
+Benzinga • 15h ago
 
 ---
 
@@ -238,6 +236,14 @@ Bitbo • 1d ago
 The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.
 
 ⬆️ 10 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops)
+
+---
+
+**[Bitcoin: I'm retarded. ASM client/server project in the works](https://news.ycombinator.com/item?id=49326976)**
+
+A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
+
+⬆️ 2 • 💬 1 • 1h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -281,7 +287,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 72K • 👍 5K • 💬 291 • ⏱️ 16:15 • 19h ago
+👁️ 72K • 👍 5K • 💬 291 • ⏱️ 16:15 • 20h ago
 
 ---
 
@@ -321,7 +327,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 9K • 👍 1K • 💬 584 • ⏱️ 14:27 • 10h ago
+👁️ 9K • 👍 1K • 💬 584 • ⏱️ 14:27 • 11h ago
 
 ---
 
@@ -331,7 +337,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 179 • 💬 138 • ⏱️ 17:10 • 7h ago
+👁️ 2K • 👍 179 • 💬 138 • ⏱️ 17:10 • 8h ago
 
 ---
 
@@ -349,7 +355,7 @@ My Private Group: http://t.me/stackerscircle Content is not intended for EU resi
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 334 • 💬 13 • ⏱️ 9:40 • 20h ago
+👁️ 6K • 👍 334 • 💬 13 • ⏱️ 9:40 • 21h ago
 
 ---
 

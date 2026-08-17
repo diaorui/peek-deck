@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T05:35:04.379655+00:00'
+updated: '2026-08-17T06:55:31.378052+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 05:35 UTC  
+**Last Updated:** August 17, 2026 at 06:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-5h ago
+7h ago
 
 ---
 
@@ -44,19 +44,19 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 Doggo is chill and calm in the simulation, but in real life, he's having uncontrollable happy wiggles trying to balance himself while finding the right spot on the ramp. Repo: 06Z Neucommu Audio Credit: Soul_Serenity_Sounds from Pixabay
 
-18h ago
+19h ago
 
 ---
 
 **[Nvidia jetson thor for 1k?](https://www.reddit.com/r/robotics/comments/1vqdxcg/nvidia_jetson_thor_for_1k/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ A little over 4 years ago I started Bonsai as a side project: a Rust library for
 
 Mostrando como funcionaban 12 válvulas antigua versión empaquetadas en línea dirigidas por un controlador microbit desde mi celular para ver como funcionaban de 1 en 1,en grupos y variando lapresion de cada una para comprobar proporcionalidad.
 
-🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 22h ago
+🔗 [youtu.be](https://youtu.be/nIWjN0zeS64?is=gZYktrEd0qfCfEwv) • 23h ago
 
 ---
 
@@ -120,17 +120,17 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[BSF Enterprise forms partnership for lab-grown leather, robotics By Investing.com](https://ng.investing.com/news/stock-market-news/bsf-enterprise-forms-partnership-for-labgrown-leather-robotics-93CH-2662026)**
+
+Investing.com Nigeria • 28m ago
+
+---
+
 **[China built robots that can do backflips – but can they make money?](https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html)**
 
 Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.
 
 CNBC • 3d ago
-
----
-
-**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
-
-Bloomberg.com • 5h ago
 
 ---
 
@@ -146,7 +146,7 @@ nasa.gov • 2d ago
 
 Foundation CEO Sankaet Pathak said humanoid robots could conduct autonomous surveillance and reconnaissance along the southern border's rugged terrain.
 
-Fox News • 13h ago
+Fox News • 14h ago
 
 ---
 
@@ -166,11 +166,17 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Watch LimX on China's Robotics Development](https://www.bloomberg.com/news/videos/2026-08-17/limx-on-china-s-robotics-development-video)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
 
 Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
 
-Nikkei Asia • 4h ago
+Nikkei Asia • 5h ago
 
 ---
 
@@ -178,15 +184,7 @@ Nikkei Asia • 4h ago
 
 Your weekly selection of robot videos includes a tiny plant-crawler, bartending and minifridge robot arms, and gecko-inspired robotic grippers
 
-IEEE Spectrum • 2d ago
-
----
-
-**[How robotics is revolutionizing stroke rehabilitation](https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/)**
-
-Eyal Samuel Shachar, the CEO of Bioxtreme, said the growing synergy of robotics, AI, and human-centered care will improve patient outcomes.
-
-The Robot Report • 16h ago
+spectrum.ieee.org • 2d ago
 
 ---
 
@@ -200,7 +198,7 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 📺 DEEP Robotics
 
-👁️ 31K • 👍 114 • 💬 14 • ⏱️ 0:18 • 4d ago
+👁️ 31K • 👍 114 • 💬 14 • ⏱️ 0:18 • 5d ago
 
 ---
 
@@ -220,7 +218,7 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 6K • 👍 248 • 💬 26 • ⏱️ 5:16 • 17h ago
+👁️ 6K • 👍 248 • 💬 26 • ⏱️ 5:16 • 18h ago
 
 ---
 
@@ -240,7 +238,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 49 • 💬 5 • ⏱️ 0:56 • 3h ago
+👁️ 1K • 👍 49 • 💬 5 • ⏱️ 0:56 • 4h ago
 
 ---
 

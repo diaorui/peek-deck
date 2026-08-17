@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T05:35:04.376340+00:00'
+updated: '2026-08-17T06:55:31.374824+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 05:35 UTC  
+**Last Updated:** August 17, 2026 at 06:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** +1.0%  
-**30d:** +1.5%  
-**90d:** -10.6%  
-**1y:** -55.9%  
+**24h:** +1.3%  
+**7d:** +1.3%  
+**30d:** +1.7%  
+**90d:** -10.5%  
+**1y:** -55.8%  
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 12h ago
+Benzinga • 13h ago
 
 ---
 
@@ -188,7 +188,7 @@ CryptoSlate • 2d ago
 
 US spot Bitcoin ETFs saw $389.71M in net outflows last week, the largest in six weeks, while Ethereum ETFs lost $2.26M, ending a five-week inflow
 
-cryptobriefing.com • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -196,7 +196,15 @@ cryptobriefing.com • 1h ago
 
 Ethereum wallet withdraws 5.3K ETH (~$9.98M) from Kraken, likely to stake, holding 5.43K ETH total amid whale flows.
 
-blockchain.news • 4h ago
+blockchain.news • 6h ago
+
+---
+
+**[Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo](https://financefeeds.com/vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo/)**
+
+Ethereum co-founder Vitalik Buterin says Ethereum’s next phase of scaling can draw lessons from Bitcoin’s Utreexo technology, pointing to growing convergence
+
+FinanceFeeds • 11m ago
 
 ---
 
@@ -228,14 +236,6 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says](https://www.theblock.co/news/ecosystems/2026-06-10-ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin-404185)**
-
-Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.
-
-The Block • 2mo ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -246,7 +246,7 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 1K • 👍 71 • 💬 7 • ⏱️ 35:05 • 4h ago
+👁️ 1K • 👍 71 • 💬 7 • ⏱️ 35:05 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 23K • 👍 915 • 💬 90 • ⏱️ 15:54 • 16h ago
+👁️ 23K • 👍 915 • 💬 90 • ⏱️ 15:54 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 3K • 👍 168 • 💬 110 • ⏱️ 17:01 • 5h ago
+👁️ 3K • 👍 168 • 💬 110 • ⏱️ 17:01 • 7h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 2K • 👍 244 • 💬 61 • ⏱️ 14:12 • 7h ago
+👁️ 2K • 👍 244 • 💬 61 • ⏱️ 14:12 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this video I break down the current Ethereum price action, focusing on a pote
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 180 • 💬 17 • ⏱️ 5:23 • 22h ago
+👁️ 3K • 👍 180 • 💬 17 • ⏱️ 5:23 • 23h ago
 
 ---
 

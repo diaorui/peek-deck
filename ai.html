@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-08-17T05:35:03.893715+00:00"
+          "dateModified": "2026-08-17T06:55:30.916953+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,41 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/54syes9dbvjh1.png?width=640&crop=smart&auto=webp&s=7aabef77bbd3a2222a93bc902dea9ad294b5bc61" alt="I figured out a loophole to remove Claude watermark WITHOUT rephrasing" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/" target="_blank" onclick="event.stopPropagation();">I figured out a loophole to remove Claude watermark WITHOUT rephrasing</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been curious whether you can kill an Claude's text watermark just by editing (not "rewriting/rephrasing") what it wrote. And so I built a Claude/OpenAI/Gemini text-watermark generator plus a detector and threw a bunch of attacks at gpt-oss-20b and Qwen outputs to find out. The technique relies on the famous Tournament Sampling built upon standard Gumbel-max sampling. It turns out almost everything people assume works, doesn't. Swapping em-dashes for hyphens, stripping markdown, converting AmE to BrE spellings... none of it moved the needle. Across nearly 300 test runs only one attack crossed the detection threshold, and that was deleting 40% of every word, which just wrecks the text. After rigorous benchmarking, the only method that consistently beat 10/10 times was inserting invisible Unicode variation selectors (the same characters used for emoji and CJK rendering) throughout the text. Performed that to about 30% of characters and the watermark score dropped from 45 down to under 1. And unlike every other invisible character trick I tried, this one survives normalization, because these are real meaningful codepoints that a normalizer can't safely strip. Interesting finding: Code is barely watermarked to begin with. Watermark strength tracks how uncertain the model is about the next token, and code is low entropy, so some code samples come out basically unwatermarked with zero attack at all. Not the first repo doing this kind of attack, I know, but I wanted to actually spend the weekend testing it properly across a few different open models instead of rushing something half-baked out. Repo with all the code and results: https://github.com/aloshdenny/claude-awm Interactive demo where you can try the attack yourself: https://aloshdenny.com/claude-awm/ Check it out and let me know what you think!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1786943134.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -690,41 +725,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1786887453.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/54syes9dbvjh1.png?width=640&crop=smart&auto=webp&s=7aabef77bbd3a2222a93bc902dea9ad294b5bc61" alt="I figured out a loophole to remove Claude watermark WITHOUT rephrasing" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/" target="_blank" onclick="event.stopPropagation();">I figured out a loophole to remove Claude watermark WITHOUT rephrasing</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been curious whether you can kill an Claude's text watermark just by editing (not "rewriting/rephrasing") what it wrote. And so I built a Claude/OpenAI/Gemini text-watermark generator plus a detector and threw a bunch of attacks at gpt-oss-20b and Qwen outputs to find out. The technique relies on the famous Tournament Sampling built upon standard Gumbel-max sampling. It turns out almost everything people assume works, doesn't. Swapping em-dashes for hyphens, stripping markdown, converting AmE to BrE spellings... none of it moved the needle. Across nearly 300 test runs only one attack crossed the detection threshold, and that was deleting 40% of every word, which just wrecks the text. After rigorous benchmarking, the only method that consistently beat 10/10 times was inserting invisible Unicode variation selectors (the same characters used for emoji and CJK rendering) throughout the text. Performed that to about 30% of characters and the watermark score dropped from 45 down to under 1. And unlike every other invisible character trick I tried, this one survives normalization, because these are real meaningful codepoints that a normalizer can't safely strip. Interesting finding: Code is barely watermarked to begin with. Watermark strength tracks how uncertain the model is about the next token, and code is low entropy, so some code samples come out basically unwatermarked with zero attack at all. Not the first repo doing this kind of attack, I know, but I wanted to actually spend the weekend testing it properly across a few different open models instead of rushing something half-baked out. Repo with all the code and results: https://github.com/aloshdenny/claude-awm Interactive demo where you can try the attack yourself: https://aloshdenny.com/claude-awm/ Check it out and let me know what you think!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1786943134.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1025,7 +1025,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T05:34:39.947474+00:00">Updated 2026-08-17T05:34:39.947474+00:00</small>
+        <small data-timestamp="2026-08-17T06:55:09.521218+00:00">Updated 2026-08-17T06:55:09.521218+00:00</small>
     </div>
 </div>
 
@@ -1289,20 +1289,20 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cddjlmeqjgyo', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/video/2026/08/17/the-ai-market-may-be-a-bubble-but-not-the-ai-technology-itself.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108350130-17869305521786930549-47813002031-1080pnbcnews.jpg?v=1786930551&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/cddjlmeqjgyo" target="_blank" onclick="event.stopPropagation();">Sainsbury's pauses AI cameras after shopper ousted</a>
+                            <a href="https://www.cnbc.com/video/2026/08/17/the-ai-market-may-be-a-bubble-but-not-the-ai-technology-itself.html" target="_blank" onclick="event.stopPropagation();">The AI market may be in a bubble, but not the technology itself: Nomura IWM</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.
+                            Julia Wang of Nomura International Wealth Management says it's important to differentiate between the AI market and AI technology bubble. She also discusses China's competitive edge in its AI ecosystem, particularly in the hardware space.
                         </div>
                         
 
@@ -1312,9 +1312,9 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1322,7 +1322,85 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786942641.0"></span>
+                                    <span data-timestamp="1786948496.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bostonglobe.com/2026/08/17/opinion/letters-mgb-palantir-ai-contract-considered/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XFXOCBRWZAF2PXF6IQOFWFRPDQ.jpg?auth=841ecfffa80d46b73a21c5ba2529d36a190556124f84fe2bee0fba31ff7c3490&width=1440');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bostonglobe.com/2026/08/17/opinion/letters-mgb-palantir-ai-contract-considered/" target="_blank" onclick="event.stopPropagation();">Health episode: Talk of AI pact with Palantir sparks uproar at MGB</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Hospitals have the opportunity to lead the country in protecting patients and staff from Palantir, the engine behind so much harm in the world.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bostonglobe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Boston Globe" class="news-favicon">
+                                    <a href="https://www.bostonglobe.com" target="_blank" onclick="event.stopPropagation();">The Boston Globe</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786948272.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.scmp.com/tech/tech-trends/article/3364262/ai-chipmaker-biren-projects-22-fold-revenue-surge-amid-chinas-hi-tech-boom" target="_blank" onclick="event.stopPropagation();">AI chipmaker Biren projects up to 22-fold revenue surge in first half of 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1786948788.0"></span>
                                 </div>
                                 
                             </div>
@@ -1408,47 +1486,6 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/" target="_blank" onclick="event.stopPropagation();">‘Godfather of AI’ says billionaires like Elon Musk are right about the future of work—but he predicts mass unemployment is on its way</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786886340.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/AF5A8E5A4D0201E57F09134FD8A1BA576482970E2F329AF9F3932554BCA0ECFB/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F91bd5574-a8f7-4997-898c-29fb0354bb0e');"></div>
@@ -1490,17 +1527,21 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1260047116-e1764863526884.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee" target="_blank" onclick="event.stopPropagation();">How AI Models From OpenAI and Anthropic Went Rogue</a>
+                            <a href="https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/" target="_blank" onclick="event.stopPropagation();">‘Godfather of AI’ predicts mass unemployment is on its way</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            While tech leaders paint a positive future where work is optional thanks to AI, the "Godfather of AI" Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1509,9 +1550,9 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1519,7 +1560,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786932337.0"></span>
+                                    <span data-timestamp="1786886340.0"></span>
                                 </div>
                                 
                             </div>
@@ -1527,20 +1568,20 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cddjlmeqjgyo', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108349475-1786661469444-gettyimages-2287608990-POLAND_STELLANTIS.jpeg?v=1786661492&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html" target="_blank" onclick="event.stopPropagation();">Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports</a>
+                            <a href="https://www.bbc.com/news/articles/cddjlmeqjgyo" target="_blank" onclick="event.stopPropagation();">Sainsbury's pauses AI cameras after shopper ousted</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.
+                            Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.
                         </div>
                         
 
@@ -1550,9 +1591,9 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1560,48 +1601,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1786881308.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/6a81e5a4e3df4d0cbe6868de?width=1200&format=jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8" target="_blank" onclick="event.stopPropagation();">Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Anthropic CEO Dario Amodei acknowledged over the weekend that the public doesn't trust AI. He said AI companies have overpromised and undersold.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1786897800.0"></span>
+                                    <span data-timestamp="1786942641.0"></span>
                                 </div>
                                 
                             </div>
@@ -1629,7 +1629,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T05:35:00.171771+00:00">Updated 2026-08-17T05:35:00.171771+00:00</small>
+        <small data-timestamp="2026-08-17T06:55:30.177637+00:00">Updated 2026-08-17T06:55:30.177637+00:00</small>
     </div>
 </div>
 
@@ -1854,7 +1854,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 605</span>
+                                    <span class="post-points">▲ 611</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 492</span>
@@ -1903,7 +1903,7 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 491</span>
+                                    <span class="post-points">▲ 492</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 283</span>
@@ -2029,54 +2029,6 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49323381', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49323381" target="_blank" onclick="event.stopPropagation();">Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 259</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 181</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-08-16T20:31:16Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>bloomberg.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49320611', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2098,10 +2050,10 @@ Requires 4 files as described in this docs. For ease of use, you ca...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 255</span>
+                                    <span class="post-points">▲ 266</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 103</span>
+                                    <span style="color: #9ca3af;">💬 113</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2194,7 +2146,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 183</span>
+                                    <span class="post-points">▲ 184</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 90</span>
@@ -2249,7 +2201,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
                                     <span class="post-points">▲ 176</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 199</span>
+                                    <span style="color: #9ca3af;">💬 200</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2298,7 +2250,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
                                     <span class="post-points">▲ 116</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 97</span>
+                                    <span style="color: #9ca3af;">💬 98</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2315,6 +2267,55 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
                                             
                                         
                                         <span>opensauce</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49323932', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://futurism.com/wp-content/uploads/2026/08/young-people-ai-ceos-executives-poll.jpg?quality=85&w=1200');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49323932" target="_blank" onclick="event.stopPropagation();">Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 110</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 113</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-08-16T21:34:06Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Futurism</span>
                                     </a>
                                 </div>
                                 
@@ -2343,7 +2344,7 @@ To you, this place makes sense -- you come here every day.  You speak the lingo.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-08-17T05:34:39.831688+00:00">Updated 2026-08-17T05:34:39.831688+00:00</small>
+        <small data-timestamp="2026-08-17T06:55:10.584904+00:00">Updated 2026-08-17T06:55:10.584904+00:00</small>
     </div>
 </div>
 
