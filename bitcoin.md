@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-17T14:27:20.479302+00:00'
+updated: '2026-08-17T14:55:00.443254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 14:27 UTC  
+**Last Updated:** August 17, 2026 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1274.51B
+**Market Cap:** $1278.16B
 Rank #1
 
-**Circulating Supply:** 20,071,453 BTC
+**Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.6%
+-49.5%
 
 **All-Time Low:** $67.81
-+93542.5%
++93884.7%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://satoshitimeline.com/854
 
-21h ago
+22h ago
 
 ---
 
 **[Michael Saylor, “She was expensive, but Worth It!”](https://www.reddit.com/r/Bitcoin/comments/1vq1k7e/michael_saylor_she_was_expensive_but_worth_it/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -131,7 +131,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 If you're a SafePal crypto user, check your emails for a breach notice. Stay safe everyone!
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 6h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/) • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Phong Le says late summer has been quiet, but he expects more policy and industr
 
 I’m an artist experimenting with combining traditional painting, metallic textures and subjects around technology and finance. This is an original hand-painted Bitcoin piece. The gold is textured, so I made a short video because a photograph doesn’t really show how it catches the light. I’m considering developing this idea into a small collection and eventually producing signed prints of some of the originals. I’d genuinely like feedback from Bitcoin people rather than only other artists, would you actually display something like this, and what would you change?
 
-20h ago
+21h ago
 
 ---
 
@@ -155,15 +155,15 @@ I’m an artist experimenting with combining traditional painting, metallic text
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat](https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned)**
+**[Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in](https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned)**
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 2h ago
+CoinDesk • 24m ago
 
 ---
 
-**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+**[White House Leak Reveals Bitcoin And Crypto Are Suddenly Braced For A Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
 
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
@@ -171,45 +171,17 @@ Forbes • 1d ago
 
 ---
 
-**[Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-untouched-raises-125655857.html)**
-
-The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Canaan reports July bitcoin mining output, treasury holdings](https://www.investing.com/news/company-news/canaan-reports-july-bitcoin-mining-output-treasury-holdings-93CH-4863278)**
-
-Investing.com • 1h ago
-
----
-
-**[No Change in Bitcoin Holdings as Strategy Boosted Dollar Reserve, Bought Back More STRC Last Week](https://www.moomoo.com/news/post/74799056/no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve)**
-
-Moomoo • 1h ago
-
----
-
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
+**[After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know.](https://finance.yahoo.com/markets/crypto/articles/nearly-200-million-crypto-losses-115000955.html)**
 
-Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
+As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-TradingView • 22h ago
-
----
-
-**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
-
-HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
-
-The Block • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -217,7 +189,29 @@ The Block • 3h ago
 
 South Africa’s Africa Bitcoin Corporation has postponed its Aquis Growth Market listing and roughly $338,000 share placement, citing an unexplained technical matter
 
-Business Insider Africa • 3h ago
+Business Insider Africa • 4h ago
+
+---
+
+**[Gerber Warns Strategy’s Bitcoin Leverage Could Trigger a Selloff](https://www.tradingview.com/news/cryptonews:dc59d6125094b:0-gerber-warns-strategy-s-bitcoin-leverage-could-trigger-a-selloff/)**
+
+In Bitcoin news today, Ross Gerber, CEO of Gerber Kawasaki Wealth and Investment Management, argued this week that gold remains easier to use for everyday transactions than Bitcoin, reviving a long-running debate over the asset’s real-world utility.The comments arrived alongside a sharper attack on…
+
+TradingView • 1h ago
+
+---
+
+**[Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue](https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940)**
+
+HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.
+
+theblock.co • 4h ago
+
+---
+
+**[Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953)**
+
+Investing.com • 16h ago
 
 ---
 
@@ -225,7 +219,15 @@ Business Insider Africa • 3h ago
 
 Paul Tudor Jones' Investment firm increased its stake in BlackRock's Bitcoin ETF to 688,529 shares ( around $22.9 million) as of June 30.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/08/16/where-will-bitcoin-be-in-5-years/)**
+
+There's one major thing holding Bitcoin back.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -245,7 +247,7 @@ The breakaway chain inherited bitcoin’s mining difficulty with only a tiny sha
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -261,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 4h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 5h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -297,7 +299,7 @@ Subscribe before $10 MILLION Bitcoin stops sounding impossible. Bitcoin is appro
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 206 • 💬 114 • ⏱️ 17:10 • 16h ago
+👁️ 3K • 👍 211 • 💬 117 • ⏱️ 17:10 • 16h ago
 
 ---
 
@@ -307,27 +309,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 84K • 👍 5K • 💬 311 • ⏱️ 16:15 • 1d ago
-
----
-
-**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 45K • 👍 663 • 💬 16 • ⏱️ 0:53 • 2d ago
-
----
-
-**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
-
-📺 Bitcoin University
-
-👁️ 11K • 👍 1K • 💬 643 • ⏱️ 14:27 • 19h ago
+👁️ 87K • 👍 5K • 💬 322 • ⏱️ 16:15 • 1d ago
 
 ---
 
@@ -337,35 +319,7 @@ Solar ROI with and without Bitcoin Mining. Too many people look at solar panels 
 
 📺 VoskCoin
 
-👁️ 6K • 👍 233 • 💬 33 • ⏱️ 12:52 • 20h ago
-
----
-
-**[Bitcoin Volatility Is Getting Incredibly Low](https://www.youtube.com/watch?v=06H6KY-xDnU)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 8K • 👍 207 • 💬 5 • ⏱️ 0:39 • 15h ago
-
----
-
-**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
-
-Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 699 • 💬 252 • ⏱️ 1:03:40 • 1d ago
-
----
-
-**[The Global Crypto Power Shift Has Begun](https://www.youtube.com/watch?v=MgV2I9LpeQY)**
-
-📺 Andrei Jikh
-
-👁️ 87K • 👍 2K • 💬 55 • ⏱️ 0:54 • 2d ago
+👁️ 6K • 👍 243 • 💬 34 • ⏱️ 12:52 • 20h ago
 
 ---
 
@@ -375,17 +329,67 @@ Alessandro and Eric Krown go deep on the one question the entire crypto market i
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 473 • 💬 22 • ⏱️ 55:12 • 1d ago
+👁️ 13K • 👍 479 • 💬 22 • ⏱️ 55:12 • 1d ago
 
 ---
 
-**[Altcoins will BREAK Free from Bitcoin! | Jim Ferraioli](https://www.youtube.com/watch?v=wgwflIMTVSM)**
+**[THIS IS BITCOIN&#39;S MOMENT OF TRUTH...](https://www.youtube.com/watch?v=KiQgJBoyTWg)**
 
-Jim Ferraioli, Head of Crypto Research at Charles Schwab, shares his thoughts on whether altcoins like Ethereum will eventually ...
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
 
-📺 Thinking Crypto
+📺 Crypto Rover
 
-👁️ 2K • 👍 69 • 💬 12 • ⏱️ 2:18 • 22h ago
+👁️ 13K • 👍 808 • 💬 30 • ⏱️ 8:47 • 1d ago
+
+---
+
+**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
+
+Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 16K • 👍 721 • 💬 302 • ⏱️ 1:03:40 • 1d ago
+
+---
+
+**[Did JP Morgan Just Buy $650M Bitcoin? | Two Bullish Signals the Bitcoin Bottom Is In!](https://www.youtube.com/watch?v=245DynLRBAo)**
+
+One of Bitcoin's most reliable technical indicators is flashing a signal that has marked major buying opportunities for the last ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 164 • ⏱️ 16:33 • 2d ago
+
+---
+
+**[Bitcoin Bear Market-How Long Will It Last?](https://www.youtube.com/watch?v=2QfzkTOPtKQ)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 45K • 👍 672 • 💬 18 • ⏱️ 0:53 • 2d ago
+
+---
+
+**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
+
+Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+
+📺 Gareth Soloway
+
+👁️ 56K • 👍 4K • 💬 372 • ⏱️ 10:57 • 20h ago
+
+---
+
+**[Political Insider EXPOSES Crypto Clarity Act BOMB About To Drop (Top 7 Coins)](https://www.youtube.com/watch?v=lD8k-6qwYoA)**
+
+Most People Don't Realize What's About To Happen” (Top 7 Coins) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 54K • 👍 3K • 💬 161 • ⏱️ 11:11 • 2d ago
 
 ---
 

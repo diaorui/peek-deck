@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-17T14:27:20.485323+00:00'
+updated: '2026-08-17T14:55:00.449445+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 17, 2026 at 14:27 UTC  
+**Last Updated:** August 17, 2026 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +1.2%  
 **7d:** +1.2%  
-**30d:** +1.6%  
+**30d:** +1.7%  
 **90d:** -10.5%  
 **1y:** -55.8%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.87B
+**Market Cap:** $229.79B
 Rank #2
 
 **Circulating Supply:** 120,681,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.4%
 
 **All-Time Low:** $0.43
-+437900.5%
++440279.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 8h ago
 
 ---
 
@@ -160,11 +160,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum, and Solana Drop. Will Crypto Recover by the End of 2026?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-ethereum-solana-drop-214547270.html)**
+**[Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html)**
 
-Bitcoin is already down 29% and leading the pack, while Ethereum, Solana, and XRP have fallen even harder. Two specific conditions have to flip before any recovery can start, and the clock is running out.
+Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 57m ago
+
+---
+
+**[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
+
+marketwatch.com • 55m ago
 
 ---
 
@@ -172,15 +178,7 @@ Yahoo Finance • 16h ago
 
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
-Benzinga • 20h ago
-
----
-
-**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+Benzinga • 21h ago
 
 ---
 
@@ -192,11 +190,19 @@ Seeking Alpha • 1h ago
 
 ---
 
+**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds critical support, ETH awaits directional move, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-critical-support-eth-awaits-directional-move-xrp-weakens-202608170317)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 11h ago
+fxstreet.com • 11h ago
 
 ---
 
@@ -224,27 +230,9 @@ blockchain.news • 5h ago
 
 ---
 
-**[Ethereum and Solana may become scarcer – THESE Grayscale projections say…](https://cryptonews.net/news/ethereum/33302499/)**
-
-Ethereum [$ETH] was trading at $1 at press time, following a slight increase over the previous day but a 2.16% decline over the previous week. Meanwhile, Solana was trading atat press
-
-Cryptonews.net • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
-
-Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
-
-📺 The Rollup
-
-👁️ 3K • 👍 148 • 💬 12 • ⏱️ 35:05 • 13h ago
-
----
 
 **[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
 
@@ -252,7 +240,17 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 242 • 💬 45 • ⏱️ 29:45 • 5h ago
+👁️ 2K • 👍 318 • 💬 37 • ⏱️ 29:45 • 5h ago
+
+---
+
+**[SharpLink &amp; Lido: The Future of Ethereum Has Never Been Brighter (Here’s Why)](https://www.youtube.com/watch?v=i4pAg5zED54)**
+
+Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in ETH through Lido, making the case that ...
+
+📺 The Rollup
+
+👁️ 5K • 👍 168 • 💬 15 • ⏱️ 35:05 • 13h ago
 
 ---
 
@@ -262,7 +260,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 27K • 👍 1K • 💬 98 • ⏱️ 15:54 • 1d ago
+👁️ 29K • 👍 1K • 💬 102 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 28 • 👍 2 • ⏱️ 3:04 • 3h ago
+👁️ 45 • 👍 3 • 💬 2 • ⏱️ 3:04 • 3h ago
 
 ---
 
@@ -282,7 +280,17 @@ ETHEREUM ESTÁ PRESTES A ENGOLIR A SOLANA? Abra sua conta na Crypto.com     ...
 
 📺 Luiz Fernando
 
-👁️ 3K • 👍 313 • 💬 53 • ⏱️ 14:12 • 16h ago
+👁️ 4K • 👍 341 • 💬 53 • ⏱️ 14:12 • 16h ago
+
+---
+
+**[ETH - WHALE WATCHING - Ethereum Price Prediction](https://www.youtube.com/watch?v=qVJmZyMXGy4)**
+
+Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallenge or use this ...
+
+📺 Altcoin Doctor
+
+👁️ 9 • ⏱️ 8:24 • 4h ago
 
 ---
 
@@ -292,7 +300,7 @@ BITCOIN & CRYPTO WARNING (24 HOURS REMAINING)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 220 • 💬 68 • ⏱️ 17:01 • 14h ago
+👁️ 5K • 👍 228 • 💬 68 • ⏱️ 17:01 • 15h ago
 
 ---
 
@@ -302,7 +310,17 @@ What do you think is going to happen to investors around the world when they see
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 881 • 💬 252 • ⏱️ 17:49 • 2d ago
+👁️ 8K • 👍 884 • 💬 238 • ⏱️ 17:49 • 2d ago
+
+---
+
+**[Jesse Pollak: Base Is Achieving Consumer Grade Scale On Ethereum (What We Are Doing Well)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
+
+Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
+
+📺 The Rollup
+
+👁️ 1K • 👍 29 • 💬 4 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -312,27 +330,7 @@ public DCA wallet: 0x96Fb732038F5Ba439bb4792Ec279a0ed56B76893 get yours at https
 
 📺 Crypto Coffee
 
-👁️ 1K • 👍 167 • 💬 39 • ⏱️ 31:11 • 7h ago
-
----
-
-**[Last Time Ethereum Did This… It Got Wild 🚨📈 #shorts](https://www.youtube.com/watch?v=gtFZKP7Wpsw)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 14K • 👍 350 • 💬 10 • ⏱️ 0:31 • 2d ago
-
----
-
-**[Jesse Pollak: Why Base&#39;s Growth Is Ethereum&#39;s Growth (The Endgame Is Everything Onchain)](https://www.youtube.com/watch?v=X9Yj5zkZQ58)**
-
-Jesse Pollak makes the case that Base's growth is Ethereum's growth as the L2 with the most spot Bitcoin and Ethereum trading ...
-
-📺 The Rollup
-
-👁️ 998 • 👍 28 • 💬 4 • ⏱️ 9:19 • 1d ago
+👁️ 1K • 👍 171 • 💬 38 • ⏱️ 31:11 • 8h ago
 
 ---
 

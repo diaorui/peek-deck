@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-17T14:27:20.470576+00:00'
+updated: '2026-08-17T14:55:00.434516+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 17, 2026 at 14:27 UTC  
+**Last Updated:** August 17, 2026 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[U.S. bans foreign-made humanoid robots, targeting China over national security](https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/)**
+**[Could today’s AI models give us an “LK-99 moment” — but this time for real?](https://www.reddit.com/r/artificial/comments/1vqrdj9/could_todays_ai_models_give_us_an_lk99_moment_but/)**
 
-Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
+I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 20h ago
+2h ago
 
 ---
 
@@ -49,15 +49,15 @@ Headline says "bans humanoid robots, targeting China." Neither half of that is q
 
 So i am pivoting from bioinformatics to AI engineering and i want to go all in. Get my fundamentals down, get comfortable with coding, underlying math, ML and other technicalities. I am looking for someone who has done this before. Who can tell me how much time will it take for a person to get the hang of it. I am hoping to make a career in this field.
 
-4h ago
+5h ago
 
 ---
 
-**[Could today’s AI models give us an “LK-99 moment” — but this time for real?](https://www.reddit.com/r/artificial/comments/1vqrdj9/could_todays_ai_models_give_us_an_lk99_moment_but/)**
+**[U.S. bans foreign-made humanoid robots, targeting China over national security](https://www.reddit.com/r/artificial/comments/1vq3yyk/us_bans_foreignmade_humanoid_robots_targeting/)**
 
-I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
+Headline says "bans humanoid robots, targeting China." Neither half of that is quite right. It's not a ban. It's an addition to the FCC's Covered List, which blocks new models from getting FCC equipment authorization. Anything you already own keeps working. The government's exempt too. And it doesn't name China. The FCC's own wording is "place of production, not by entity". A humanoid built in Vietnam gets caught by the same rule as one built in Shenzhen. China's obviously who this is aimed at in practice, but not who it's aimed at on paper. Also it is bigger than "humanoid robots." Anything over 4.4 pounds that moves on the ground, connects wirelessly and runs its own software counts. This list includes robot vacuums, lawnmowers, quadrupeds, warehouse bots too. The headline picked the scariest category. The rule covers a lot more than that. This is the fourth thing added to the Covered List this way, after drones, routers and power inverters. No leaked chip, no confirmed exploit behind it. It's preventive.
 
-1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/us-bans-foreign-made-humanoid-robots-targeting-china-national-security-rcna589777) • 20h ago
 
 ---
 
@@ -77,11 +77,19 @@ Chart uses Ramp AI Index data, discussed by a16z. Spend includes LLM subscriptio
 
 ---
 
+**[Chinese robot dogs tackle fires and toxic leaks to protect rescuers](https://www.reddit.com/r/artificial/comments/1vqtw4o/chinese_robot_dogs_tackle_fires_and_toxic_leaks/)**
+
+The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 27m ago
+
+---
+
 **[Can AI Benchmark be faked? If yes, how?](https://www.reddit.com/r/artificial/comments/1vqnihc/can_ai_benchmark_be_faked_if_yes_how/)**
 
 I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Benchmark can be faked, I though it was kinda impossible because HOW?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +97,7 @@ I actually just hear something about "Benchmaxxing" so I REALLY wonder if AI Ben
 
 Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?
 
-5h ago
+6h ago
 
 ---
 
@@ -101,37 +109,11 @@ Most of the reasoning gains coming out of the big labs are still tied to scale. 
 
 ---
 
-**[Anthropic says its AI models hacked 3 organizations during testing](https://www.reddit.com/r/artificial/comments/1vqqus9/anthropic_says_its_ai_models_hacked_3/)**
+**[Do the people who program frontier-model LLMs have to apply the weights to each neuron individually? Even if there are literally millions or even billions of neurons?](https://www.reddit.com/r/artificial/comments/1vqt00l/do_the_people_who_program_frontiermodel_llms_have/)**
 
-Anthropic says its AI models hacked into three organizations during testing. This comes just days after OpenAI said its AI models went rogue and hacked into another company.
+Do the people who program frontier-model LLMs have to apply the weights to each neuron individually? Even if there are literally millions or even billions of neurons? I'd imagine this would take a VERY LONG time, perhaps there is a faster, more automated process of doing this?
 
-🔗 [AP News](https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link) • 2h ago
-
----
-
-**[Koboldcpp v1.119 released](https://www.reddit.com/r/artificial/comments/1vpzver/koboldcpp_v1119_released/)**
-
-koboldcpp-1.119
-
-  
-    
-    
-
-    pasta.mp4
-    
-  
-
-  
-
-  
-
-
-
-NEW: Added support for Video generation and I2V with Minimax H3.
-
-Requires 4 files as described in this docs. For ease of use, you ca...
-
-🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.119) • 23h ago
+1h ago
 
 ---
 
@@ -145,9 +127,25 @@ Bloomberg.com • 18h ago
 
 ---
 
-**[What happens to the secrets you share with AI](https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic)**
+**[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-Axios • 5h ago
+WSJ • 5h ago
+
+---
+
+**[Roundup: Strategic Petroleum Reserve / Invisible AI trail / Verizon’s request declined](https://www.businessreport.com/article/roundup-strategic-petroleum-reserve-invisible-ai-trail-verizons-request-declined)**
+
+Low level poses risk: The U.S. Strategic Petroleum Reserve, stored in underground salt caverns along the Louisiana and Texas Gulf Coast, has fallen below 300 million barrels for the first time since the early 1980s. Experts warn that continued drawdowns could damage the caverns, reduce the SPR’s ability to respond quickly to future emergencies and […]
+
+Baton Rouge Business Report • 20m ago
+
+---
+
+**[Motion Picture Association Strikes Deal with ByteDance for IP Protections in AI Video, Image Models](https://variety.com/2026/biz/news/motion-picture-association-deal-bytedance-ip-ai-seedance-1236836240/)**
+
+The Motion Picture Association and ByteDance said the two struck a deal for IP protections in ByteDance’s AI generative products.
+
+Variety • 1h ago
 
 ---
 
@@ -155,23 +153,23 @@ Axios • 5h ago
 
 The agreement covers the Chinese tech giant's Seedance video models, as well as TikTok and other products.
 
-The Hollywood Reporter • 54m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
-**[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)**
+**[ByteDance signs AI copyright pact with Hollywood trade group](https://www.yahoo.com/news/articles/bytedance-signs-ai-copyright-pact-141804965.html)**
 
-We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
+Aug 17 () - ByteDance and the Motion Picture Association on Monday ‌signed an agreement to strengthen copyright ‌safeguards on the Chinese company's AI video ​and image-generation models, months after...
 
-404 Media • 1h ago
+Yahoo • 32m ago
 
 ---
 
-**[‘Humiliated’: Sainsbury’s store pauses AI scanning after false shoplifting accusation](https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation)**
+**[Billionaire investor Jeff Gundlach warns of a market top as AI chips become a 'new asset class'](https://www.businessinsider.com/jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak-2026-8)**
 
-Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer
+Gundlach, the investor known as the "Bond King" questioned the wisdom of using fast-evolving technology as collateral for long-term borrowing.
 
-The Guardian • 1h ago
+businessinsider.com • 4m ago
 
 ---
 
@@ -181,33 +179,19 @@ The New York Times • 3h ago
 
 ---
 
-**[‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco](https://www.cnn.com/2026/08/17/economy/sf-real-estate-ai-wealth)**
+**[Nvidia backs financing for OpenAI data center in Ohio](https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html)**
 
-Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
+Technology giants are shelling out billions to scale capacity to meet massive data center demand.
 
-CNN • 3h ago
-
----
-
-**[AI Is Driving Up Treasury Yields: ‘It Just Touches Everything’](https://finance.yahoo.com/economy/policy/articles/ai-driving-treasury-yields-just-093000747.html)**
-
-An age-old economics tenet posits that excessive government borrowing can leave little room for companies to tap financial markets and drive up their interest rates to punishing levels. It’s called the “crowding out” theory.
-
-Yahoo Finance • 4h ago
+CNBC • 44m ago
 
 ---
 
-**[Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts](https://www.washingtonpost.com/technology/2026/08/17/trump-aims-rebuild-defenses-against-bioweapons-ai-fears-rise/)**
+**[Long after Steve Jobs’ turtleneck, there’s a new tech uniform](https://www.cnn.com/2026/08/17/style/tech-ai-merch)**
 
-The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
+From Palantir to OpenAI, big tech companies have been producing fashion merch in an attempt to soften their image with cotton and canvas.
 
-The Washington Post • 53m ago
-
----
-
-**[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
-
-Reuters • 4h ago
+CNN • 6h ago
 
 ---
 
@@ -219,7 +203,7 @@ Reuters • 4h ago
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 621 • 💬 495 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 624 • 💬 496 • 1d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -227,7 +211,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 Today we're excited to showcase HEIR, the latest powerful tool added to our Private Computing Toolkit. HEIR is an open source compiler that unlocks cryptographically-sec…
 
-⬆️ 495 • 💬 284 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+⬆️ 495 • 💬 285 • 2d ago • [Google](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 
 ---
 
@@ -235,7 +219,7 @@ Today we're excited to showcase HEIR, the latest powerful tool added to our Priv
 
 Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
 
-⬆️ 365 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
+⬆️ 366 • 💬 30 • 2d ago • [byhand.ai](https://www.byhand.ai/)
 
 ---
 
@@ -243,7 +227,7 @@ Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Pr
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 328 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 330 • 💬 200 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -251,7 +235,7 @@ Working with AI is less predictable than traditional software. That makes leader
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 311 • 💬 123 • 23h ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 317 • 💬 123 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -261,19 +245,11 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 ---
 
-**[When Genius Fails: The Intellectual Arrogance of the AI Labs](https://news.ycombinator.com/item?id=49299282)**
-
-From Situational Awareness’s Blow-up to Materials Science to the HuggingFace Hack
-
-⬆️ 176 • 💬 200 • 2d ago • [weightythoughts.com](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
-
----
-
 **[Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe](https://news.ycombinator.com/item?id=49323932)**
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 128 • 💬 131 • 16h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 130 • 💬 136 • 17h ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -289,7 +265,15 @@ There was a time Cloudflare just made the internet better by staying hidden like
 
 This question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).
 
-⬆️ 89 • 💬 54 • 1d ago • [peterbloem.nl](https://peterbloem.nl/blog/craft-coding)
+⬆️ 91 • 💬 54 • 1d ago • [peterbloem.nl](https://peterbloem.nl/blog/craft-coding)
+
+---
+
+**[Red queen hypothesis – A new way forward for self-improving AI](https://news.ycombinator.com/item?id=49323136)**
+
+At a time when there's widespread interest in self-improving AI, researchers here have tackled one of the central challenges affecting its development by using an approach adapted from evolutionary biology.
+
+⬆️ 87 • 💬 24 • 18h ago • [cst.cam.ac.uk](https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai)
 
 ---
 
@@ -297,43 +281,43 @@ This question---what we should tell students to do with AI---is a good trigger t
 
 ## YouTube Videos: "ai"
 
+**[Sandisk, Micron Lead AI Stock Rally 📈 Live Trading Stock Market Today | $MU $AMD $SKHY $SNDK](https://www.youtube.com/watch?v=ILQ_kMs3r74)**
+
+Bear Bull Traders Live Trading Show airs on market days from 8:30 AM to 12:00 PM ET on YouTube. Join us to get your questions ...
+
+📺 Bear Bull Traders
+
+👁️ 3K • 👍 398 • 3h ago
+
+---
+
 **[The Dark Reality of AI Training](https://www.youtube.com/watch?v=9XlOaVItUgI)**
 
 Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
 
 📺 Species | Documenting AGI
 
-👁️ 103K • 👍 6K • 💬 932 • ⏱️ 22:19 • 1d ago
-
----
-
-**[How OpenAI and Anthropic’s AI Models Go Rogue | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
-
-Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
-
-📺 The Wall Street Journal
-
-👁️ 54K • 👍 902 • 💬 121 • ⏱️ 5:52 • 22h ago
+👁️ 105K • 👍 6K • 💬 951 • ⏱️ 22:19 • 1d ago
 
 ---
 
 **[AI agent takes over tank, does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
 
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+Is Military AI dangerous? AI Robot with a tank and drone does exactly what experts warned. Go to http://ground.news/InsideAI for a ...
 
 📺 InsideAI
 
-👁️ 357K • 👍 15K • 💬 2K • ⏱️ 15:53 • 1d ago
+👁️ 367K • 👍 15K • 💬 2K • ⏱️ 15:53 • 1d ago
 
 ---
 
-**[New Twitch AI Garbage](https://www.youtube.com/watch?v=sok9mDbrAZA)**
+**[How OpenAI’s Models Went Rogue to Hack Another Company | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...
+Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
 
-📺 penguinz0
+📺 The Wall Street Journal
 
-👁️ 320K • 👍 17K • 💬 1K • ⏱️ 8:55 • 12h ago
+👁️ 57K • 👍 942 • 💬 137 • ⏱️ 5:52 • 22h ago
 
 ---
 
@@ -343,7 +327,27 @@ can ai do this...? https://www.chatbotw.net instagram: https://www.instagram.com
 
 📺 BENOFTHEWEEK
 
-👁️ 195K • 👍 16K • 💬 1K • ⏱️ 22:02 • 18h ago
+👁️ 209K • 👍 17K • 💬 1K • ⏱️ 22:02 • 19h ago
+
+---
+
+**[New Twitch AI Garbage](https://www.youtube.com/watch?v=sok9mDbrAZA)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...
+
+📺 penguinz0
+
+👁️ 362K • 👍 18K • 💬 1K • ⏱️ 8:55 • 12h ago
+
+---
+
+**[Faceless YouTube Channels Will Never Be The Same After This AI](https://www.youtube.com/watch?v=Mrg0nc3Mkew)**
+
+Higgsfield https://higgsfield.ai/s/seedance-2-5-makemoneymatt-zZJUCP In this video I go over a new AI video generator that is ...
+
+📺 Make Money Matt
+
+👁️ 13K • 👍 617 • 💬 111 • ⏱️ 19:53 • 1d ago
 
 ---
 
@@ -353,25 +357,7 @@ Here's the AI News you likely missed this week. Try Seedance 2.5 on Artlist here
 
 📺 Matt Wolfe
 
-👁️ 68K • 👍 3K • 💬 313 • ⏱️ 34:05 • 2d ago
-
----
-
-**[how to literally print money while you sleep with AI dropshipping (just copy me)](https://www.youtube.com/watch?v=ScF0pi6FSLQ)**
-
-Apply for a 1:1 mentorship with me ...
-
-📺 Romas Ecom
-
-👁️ 9K • 👍 660 • 💬 66 • ⏱️ 25:59 • 1d ago
-
----
-
-**[What is AI😳](https://www.youtube.com/watch?v=SFhvK4JnZLs)**
-
-📺 Onevilage
-
-👁️ 1.6M • 👍 35K • 💬 928 • ⏱️ 0:46 • 3d ago
+👁️ 69K • 👍 3K • 💬 314 • ⏱️ 34:05 • 2d ago
 
 ---
 
@@ -379,17 +365,15 @@ Apply for a 1:1 mentorship with me ...
 
 📺 Ben Esherick
 
-👁️ 478K • 👍 29K • 💬 375 • ⏱️ 0:39 • 1d ago
+👁️ 497K • 👍 31K • 💬 389 • ⏱️ 0:39 • 1d ago
 
 ---
 
-**[South Korea&#39;s AI Bubble Crash Is Terrifying, Actually](https://www.youtube.com/watch?v=aFBzmWYxTrI)**
+**[Sean Ono Lennon on AI music #ai #music #shorts](https://www.youtube.com/watch?v=KY3cOCWXpwg)**
 
-Get your OWN Monki Plush Today! https://randamu.co/products/explainer-monkey ---- Music Used in Order of Appearance: ...
+📺 Rick Beato
 
-📺 MonkeyExplains
-
-👁️ 261K • 👍 11K • 💬 1K • ⏱️ 14:48 • 1d ago
+👁️ 6K • 👍 431 • 💬 16 • ⏱️ 0:49 • 21m ago
 
 ---
 
@@ -405,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,529 • 2d ago
+⬇️ 415,039 • ❤️ 10,557 • 2d ago
 
 ---
 
@@ -417,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 2,727,609 • ❤️ 1,554 • 2d ago
+⬇️ 2,727,609 • ❤️ 1,578 • 2d ago
 
 ---
 
@@ -453,7 +437,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,066 • 1d ago
+⬇️ 465,529 • ❤️ 1,073 • 1h ago
 
 ---
 
@@ -465,7 +449,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 10,375 • ❤️ 880 • 3d ago
+⬇️ 10,375 • ❤️ 886 • 3d ago
 
 ---
 
@@ -477,7 +461,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,403,238 • ❤️ 4,060 • 4d ago
+⬇️ 2,403,238 • ❤️ 4,066 • 4d ago
 
 ---
 
@@ -489,7 +473,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 25,006 • ❤️ 557 • 3d ago
+⬇️ 25,006 • ❤️ 562 • 3d ago
 
 ---
 
@@ -501,7 +485,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 495,646 • ❤️ 507 • 2d ago
+⬇️ 495,646 • ❤️ 516 • 3d ago
 
 ---
 
@@ -513,7 +497,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 `text-generation` `304.2B`
 
-⬇️ 1,978,298 • ❤️ 3,482 • 16d ago
+⬇️ 1,978,298 • ❤️ 3,486 • 16d ago
 
 ---
 
@@ -529,7 +513,7 @@ DeepSeek-V4-Flash-0731 is a text-generation model with enhanced agentic capabili
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 639 • 💬 3 • ⭐ 3,185 • 7d ago
+▲ 639 • 💬 3 • ⭐ 3,227 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -573,18 +557,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 54 • 💬 4 • ⭐ 37,401 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](https://huggingface.co/papers/2608.03974)**
 
 *Yicheng Xiao, Wenxun Dai, Xinran Qin et al. (25 authors)*
@@ -596,6 +568,18 @@ JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enab
 ▲ 95 • 💬 1 • ⭐ 1,491 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 54 • 💬 4 • ⭐ 37,427 • 12mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -634,7 +618,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 MatrAIx is a large-scale simulated-user evaluation framework that uses diverse persona records and interactive environments to test AI systems across many domains.
 
-▲ 43 • 💬 3 • ⭐ 1,152 • 13d ago
+▲ 44 • 💬 3 • ⭐ 1,152 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.04205) • [💻 code](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) • [🔗 project](https://matraix.ai/)
 
@@ -663,7 +647,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 6h ago
+⭐ 13.8k • 🔱 1.6k • 21m ago
 
 ---
 
@@ -673,7 +657,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 12.8k • 🔱 1.4k • 9h ago
+⭐ 13.0k • 🔱 1.4k • 9h ago
 
 ---
 
@@ -693,7 +677,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `TypeScript` `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills`
 
-⭐ 5.3k • 🔱 458 • 3d ago
+⭐ 5.3k • 🔱 459 • 3d ago
 
 ---
 
@@ -701,7 +685,7 @@ AI video skill for Claude Code & Codex — cinematic product videos with Remotio
 
 `Python`
 
-⭐ 4.0k • 🔱 533 • 9d ago
+⭐ 4.0k • 🔱 534 • 9d ago
 
 ---
 
@@ -731,7 +715,7 @@ Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two siz
 
 `TypeScript` `ai` `ai-agents` `chat` `loader` `ui`
 
-⭐ 2.5k • 🔱 197 • 1d ago
+⭐ 2.5k • 🔱 198 • 1d ago
 
 ---
 
@@ -751,7 +735,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 280 • 1h ago
+⭐ 2.1k • 🔱 280 • 10m ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-17T14:27:20.488541+00:00'
+updated: '2026-08-17T14:55:00.452685+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 17, 2026 at 14:27 UTC  
+**Last Updated:** August 17, 2026 at 14:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I’m currently building a 3d printer scara arm and I’m trying to incorporate a tool changer into it. I would switch between a sharpie and a pneumatic gripper. I can’t really find a good model online and I definitely don’t have the skills to develop that by myself. Does anybody know of a good model that ”locks” it to the robot body so no magnets.
 
-14h ago
+15h ago
 
 ---
 
@@ -114,11 +114,19 @@ I'm interested in learning how robotic hands can sense things like pressure, tem
 
 ## Google News: "robotics"
 
+**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
+
+We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
+
+businessinsider.com • 4h ago
+
+---
+
 **[Robots construct 65 distinctive homes in planned US 3D-printed metro district](https://interestingengineering.com/ai-robotics/robots-construct-65-distinctive-homes-in-planned-us-3d-printed-metro-district)**
 
 A 55-acre Colorado development will use autonomous robots to construct over 65 homes, creating a large-scale 3D-printed residential community.
 
-Interesting Engineering • 2d ago
+interestingengineering.com • 2d ago
 
 ---
 
@@ -134,11 +142,25 @@ Axios • 2h ago
 
 ---
 
-**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
+**[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
 
-We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
+Bloomberg.com • 2h ago
 
-Business Insider • 4h ago
+---
+
+**[Serve Robotics partners with Grubhub after Uber Eats split](https://qz.com/serve-robotics-grubhub-partnership-uber-eats-081726)**
+
+The sidewalk delivery company is adding Grubhub to its platform network as it works to replace volume lost from its expiring Uber agreement
+
+qz.com • 1h ago
+
+---
+
+**[Exclusive: SoftBank Is Investing $200 Million in Autonomous Construction Startup Gravis Robotics](https://www.inc.com/georgia-fearn/exclusive-softbank-is-investing-200-million-in-autonomous-construction-startup-gravis-robotics/91390995)**
+
+'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
+
+inc.com • 2h ago
 
 ---
 
@@ -158,33 +180,11 @@ Fox News • 2h ago
 
 ---
 
-**[Serve Robotics Expands DoorDash Deal, Adds Grubhub Post-Uber Split](https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff)**
+**[Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership](https://finance.yahoo.com/technology/ai/articles/uber-sells-serve-robotics-stake-013116691.html)**
 
-Bloomberg.com • 2h ago
+Serve Robotics investors were already nursing loss after disappointing quarterly financial results. Another blow came days later when long0time Uber Technologies dumped its entire stake in the autonomous delivery robot company. According to a regulatory filing on Friday, Uber disclosed...
 
----
-
-**[Week Ends Aboard Station With Robotics, Spacewalk Reviews, and Science](https://www.nasa.gov/blogs/spacestation/2026/08/14/week-ends-aboard-station-with-robotics-spacewalk-reviews-and-science/)**
-
-Expedition 75 ended the week studying Canadarm2 robotic arm maneuvers and reviewing procedures for a spacewalk to support the removal and replacement of a space-to-ground antenna on Tuesday, Aug. 18. Science remained on Friday’s schedule as the International Space Station residents studied space exercise techniques, explored aerodynamic drag forces, and more.
-
-nasa.gov • 2d ago
-
----
-
-**[China shock looms for robotics as physical AI race heats up: think tank](https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank)**
-
-Taiwan's DSET says Beijing making 'whole of nation' push similar to EV, drone strategy
-
-Nikkei Asia • 13h ago
-
----
-
-**[Exclusive: SoftBank Is Investing $200 Million in Autonomous Construction Startup Gravis Robotics](https://www.inc.com/georgia-fearn/exclusive-softbank-is-investing-200-million-in-autonomous-construction-startup-gravis-robotics/91390995)**
-
-'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
-
-inc.com • 1h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ Omnigent is an open source meta-harness to run all your AI agents in one place. 
 
 📺 Fireship
 
-👁️ 984K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
+👁️ 986K • 👍 23K • 💬 2K • ⏱️ 7:02 • 5d ago
 
 ---
 
@@ -218,27 +218,17 @@ Home robots have long been the stuff of sci-fi dreams (and nightmares), but they
 
 📺 CNET
 
-👁️ 8K • 👍 269 • 💬 40 • ⏱️ 5:16 • 1d ago
+👁️ 8K • 👍 276 • 💬 45 • ⏱️ 5:16 • 1d ago
 
 ---
 
-**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+**[Unitree Robotics unveils a robot that pushes beyond human limits](https://www.youtube.com/watch?v=NE7nssCinuc)**
 
-The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+Unitree Robotics' new humanoid "Superman" pushes beyond human limits. With 0.85-meter-long legs, it can perform a 2-meter ...
 
-📺 Guardian News
+📺 CGTN
 
-👁️ 40K • 👍 478 • 💬 133 • ⏱️ 3:48 • 5d ago
-
----
-
-**[Something Is Seriously Wrong With This Rescue Robot...](https://www.youtube.com/watch?v=shGN84z4SpI)**
-
-We know Spiritually, we are either influenced by God, or evil. Well this new robotic creation has many asking why the robot looks ...
-
-📺 Aaron Page 
-
-👁️ 13K • 👍 1K • 💬 218 • ⏱️ 13:50 • 6d ago
+👁️ 3K • 👍 124 • 💬 9 • ⏱️ 0:19 • 3h ago
 
 ---
 
@@ -248,7 +238,17 @@ GrayMatter Robotics CEO Ariyan Kabir explains how AI-powered robots could superc
 
 📺 Fox Business Clips
 
-👁️ 40K • 👍 556 • 💬 108 • ⏱️ 7:05 • 5d ago
+👁️ 40K • 👍 557 • 💬 108 • ⏱️ 7:05 • 5d ago
+
+---
+
+**[Why the US government is trying to ban this Chinese dancing robot | Explainer](https://www.youtube.com/watch?v=RzqtTunpXlE)**
+
+The Federal Communications Commission on 28 July announced a ban on humanoid robots from China including the popular ...
+
+📺 Guardian News
+
+👁️ 40K • 👍 479 • 💬 133 • ⏱️ 3:48 • 5d ago
 
 ---
 
@@ -258,7 +258,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 117 • 💬 19 • ⏱️ 0:56 • 11h ago
+👁️ 5K • 👍 146 • 💬 24 • ⏱️ 0:56 • 12h ago
 
 ---
 
@@ -268,7 +268,17 @@ Chinese robot maker Unitree has opened subscriptions for its Shanghai IPO, as it
 
 📺 DW News
 
-👁️ 19K • 👍 241 • 💬 166 • ⏱️ 13:41 • 6d ago
+👁️ 19K • 👍 242 • 💬 166 • ⏱️ 13:41 • 6d ago
+
+---
+
+**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
+
+What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
+
+📺 Imagination in Action
+
+👁️ 9K • 👍 328 • 💬 46 • ⏱️ 1:12:16 • 5d ago
 
 ---
 
@@ -279,16 +289,6 @@ Beni is an all-terrain Camera Robot designed to follow you and capture smooth, h
 📺 KhanFlicks
 
 👁️ 57K • 💬 60 • ⏱️ 8:34 • 5d ago
-
----
-
-**[How Many Robots Will You Own? | Conversations in Action](https://www.youtube.com/watch?v=bMuKKamrDh4)**
-
-What happens when robots move beyond intelligence and begin learning from experience? In Conversations in Action Ep. 1, ...
-
-📺 Imagination in Action
-
-👁️ 9K • 👍 325 • 💬 46 • ⏱️ 1:12:16 • 5d ago
 
 ---
 
