@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T10:28:25.248076+00:00'
+updated: '2026-08-18T10:57:04.239053+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 10:28 UTC  
+**Last Updated:** August 18, 2026 at 10:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.92B
+**Market Cap:** $228.83B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.6%
+-61.7%
 
 **All-Time Low:** $0.43
-+438004.4%
++437831.2%
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 11h ago
+👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 11h ago
 
 ---
 
@@ -252,7 +252,17 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 9K • 👍 237 • 💬 25 • ⏱️ 35:05 • 1d ago
+👁️ 9K • 👍 240 • 💬 24 • ⏱️ 35:05 • 1d ago
+
+---
+
+**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 427 • 💬 225 • ⏱️ 29:45 • 1d ago
 
 ---
 
@@ -262,17 +272,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 8h ago
-
----
-
-**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 426 • 💬 229 • ⏱️ 29:45 • 1d ago
+👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 9h ago
 
 ---
 
@@ -282,25 +282,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 33K • 👍 1K • 💬 117 • ⏱️ 15:54 • 1d ago
-
----
-
-**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
-
-BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 13h ago
-
----
-
-**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
-
-📺 Discover Crypto
-
-👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 9h ago
+👁️ 34K • 👍 1K • 💬 117 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -310,17 +292,35 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 96 • 💬 11 • ⏱️ 14:14 • 12h ago
+👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 13h ago
 
 ---
 
-**[Bitcoin&#39;s Fifth Attack On $65,080 (This One Looks Different)](https://www.youtube.com/watch?v=ObsTSYcdMTE)**
+**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
 
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
+📺 Discover Crypto
 
-📺 Verified Investing
+👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 9h ago
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 12h ago
+---
+
+**[BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=d8-OpIPCMQQ)**
+
+BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 207 • 💬 190 • ⏱️ 18:58 • 14h ago
+
+---
+
+**[Ethereum Explained: What You NEED to Know Before You Buy ETH](https://www.youtube.com/watch?v=prhldVJIqIU)**
+
+A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominance, Layer 2s, institutional adoption, ETFs, and ...
+
+📺 Crypto School - Brian Longest
+
+👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 20h ago
 
 ---
 
@@ -330,7 +330,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 14h ago
+👁️ 5K • 👍 513 • 💬 47 • ⏱️ 13:34 • 15h ago
 
 ---
 

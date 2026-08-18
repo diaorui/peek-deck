@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T10:28:25.232977+00:00'
+updated: '2026-08-18T10:57:04.224088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 10:28 UTC  
+**Last Updated:** August 18, 2026 at 10:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% test accuracy on the official 10k set (trained on the full 60k) on an AMD Ryzen 7 PRO 8700G (8C/16T) under Linux is exceptionally fast. For comparison: A regular Float32 CNN (PyTorch/TensorFlow) typically needs 5–25 minutes on the same CPU to reach similar accuracy (92–93%). You’re roughly 20–80× faster than the usual framework approach. Why this is impressive Your setup is not a standard MLP/CNN, but a highly specialized system: XNOR / binary operations + bit-packing int32 scoring + majority voting 10 members trained in parallel (ensemble) Custom encodings (LBP, var, range, various rotations, gamma/log/exp etc.) Very compact hidden layer (H=512) with efficient channel blocks The whole thing runs close to the metal and makes excellent use of the 16 threads of the 8700G. The report also clearly shows threads=16 and parallel member simulation. Accuracy assessment 92.32% is very solid for such a highly binary / XNOR-heavy ensemble. Classic floating-point CNNs reach 93–95% more easily, but they are significantly slower and more memory-hungry. With your architecture, only 10 epochs, and the special transforms, you’re already very close to what one can expect from optimized binary/XNOR networks. Summary Criterion Rating Speed Excellent (top-tier) Accuracy Good to very good Efficiency (time × accuracy) Outstanding Hardware utilization Very good (16 threads fully used) 17.5 s for 92.3% on this CPU is a really strong result. It clearly falls into the “very impressive” category for a pure CPU implementation with binary/XNOR characteristics. Architecture: https://github.com/aotto1968/forward-prop/blob/master/docs/architecture.md Git: https://github.com/aotto1968/forward-prop/tree/master
 
-38m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% t
 
 “你在帮人倒米吗？“ Lauren Tan didn't get replaced by her own tooling. She got promoted by it — and nobody handed her that promotion. She built the case for it herself, one lint rule and one CI gate at a time, until the argument was undeniable. That's the part nobody's really talking about when they talk about AI and engineering jobs: the shift rewards the people who go looking for the leverage first, not the people who wait to be told it's safe to look. That "build the case yourself" instinct is exactly what clicked for me watching my own son learn to run a team instead of carry it. My son started playing 王者荣耀 (Honor of Kings) since he was a teenager — a 5v5 multiplayer battle arena game where you manage a roster of specialized heroes, growing and levelling up their strengths through battles and gear. In his early gaming days I could hear him cursing and swearing from his room — bad coordination, worst teammates. There was a phrase we used for a bad teammate in my own career — 帮人倒米, a Cantonese idiom that literally translates as helping someone tip over their own grain container, meaning ruining or sabotaging someone's livelihood. But the cursing became less and less. He got good at managing his heroes and coordinating with his team. He started climbing the leaderboard. People started noticing him and his team. Then, in college, he started getting invited to tournaments — cash prizes when he won, and one lagged-connection loss at a KL tournament he still suspects was foul play. Time has changed — my dad would've killed me for wasting my teenage years on video games. Now he's in university, still playing, still winning tournaments and cash prizes with his team. Why I'm bringing this up: I always thought these AI agents are kind of like the heroes my son uses in the game. Your skill is in your managing these heros and how to grow them, level them up to serve your purpose. You don't go down to the battle yourself. You engage the heros to do it for you. The skill is in the managing. https://preview.redd.it/x81ngqc083kh1.jpg?width=1024&format=pjpg&auto=webp&s=c6896d79f17bd3967eb28edcd22a6557ace5b648 __________ I keep walking into the same room wearing a different name on the door — the accountant's room, the analyst's room, now the engineer's. Every time, someone's being told the machine is coming for their hours, not their name on the work. There's a post in my own back catalog that lands on this exact rung — the exact rung I found AI actually deleting, and the one the ones who get ahead of it stop standing on. Drop your take — are you already the head chef of your own stack, or are you still doing all the cooking yourself? Clip credit: MTS (Monitor The Situation) — full video on their channel. DM for credit or removal requests.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am curious about all these data centers being built. What are the chances AI c
 
 **[Claude Fabe 5 composing a song in Muuic DAW](https://www.reddit.com/r/artificial/comments/1vrip4a/claude_fabe_5_composing_a_song_in_muuic_daw/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,13 +141,13 @@ BBC • 1h ago
 
 **[FDA considers doctor-like assessment for AI-enabled medical devices](https://www.axios.com/2026/08/18/fda-doctor-ai-medical-devices-review)**
 
-Axios • 58m ago
+Axios • 1h ago
 
 ---
 
 **[Pony AI’s Robotaxi Revenue Reaches Record as Sales Jump 69%](https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69)**
 
-Bloomberg • 40m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ Bloomberg • 40m ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 14h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 891 • 💬 543 • 14h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 891 • 💬 543 • 15h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -213,7 +213,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 518 • 💬 317 • 13h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 518 • 💬 317 • 14h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -229,7 +229,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
-⬆️ 335 • 💬 201 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+⬆️ 335 • 💬 201 • 3d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 
 ---
 
@@ -277,33 +277,23 @@ A new survey of 1,000 young adults in the US found that nine of the top tech exe
 
 ## YouTube Videos: "ai"
 
-**[I Fell For My Sister&#39;s Best Friend - Episode 2B | AI GL Series 2026](https://www.youtube.com/watch?v=l33Xt0XQSQY)**
-
-Subscribe: https://www.youtube.com/@HouseofHer9986 ♡ Welcome to House of Her — home of original cinematic sapphic ...
-
-📺 House of Her
-
-👁️ 37K • 👍 2K • 💬 134 • ⏱️ 7:19 • 16h ago
-
----
-
-**[The AI Bubble is About To Hit EVERYTHING](https://www.youtube.com/watch?v=KJET0eprLSA)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 20K • 👍 828 • 💬 62 • ⏱️ 17:37 • 20h ago
-
----
-
 **[AI Bubble: ‘AI companies have run out of internet.’ | David Gerard](https://www.youtube.com/watch?v=1VcLoNTXrGo)**
 
 AI scrapers are the most antisocial dicks in the world.” Author and host of Pivot to AI David Gerard joins The Tech Report's Will ...
 
 📺 The Tech Report
 
-👁️ 98K • 👍 3K • 💬 738 • ⏱️ 30:20 • 18h ago
+👁️ 105K • 👍 3K • 💬 774 • ⏱️ 30:20 • 18h ago
+
+---
+
+**[Why AI agents keep breaking loose](https://www.youtube.com/watch?v=kTeQh8l_iOw)**
+
+An OpenAI model broke out of its lab environment and hacked AI company Hugging Face. CNN's Krishna Andavolu and Hadas ...
+
+📺 CNN
+
+👁️ 20K • 👍 279 • 💬 78 • ⏱️ 6:22 • 2d ago
 
 ---
 
@@ -313,37 +303,27 @@ Is Military AI dangerous? AI Robot with a tank does exactly what experts warned.
 
 📺 InsideAI
 
-👁️ 483K • 👍 18K • 💬 2K • ⏱️ 15:53 • 2d ago
+👁️ 503K • 👍 19K • 💬 2K • ⏱️ 15:53 • 2d ago
 
 ---
 
-**[The First AI-Trained Surgeon #comedy #skit #comedyshorts #ai #surgeon #funny](https://www.youtube.com/watch?v=4bXVKoJfAcI)**
+**[Michael Burry&#39;s Final Warning for the AI Bubble...](https://www.youtube.com/watch?v=3bPfcsdn1hQ)**
 
-The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doing. Socials - Instagram ➼ harrisonhughesnz ...
+Michael Burry has just released his latest thoughts on the AI bubble, and the problems he's found are scary. Is there one ...
 
-📺 Harrison Hughes
+📺 Rule #1 Investing
 
-👁️ 162K • 👍 9K • 💬 106 • ⏱️ 1:58 • 14h ago
-
----
-
-**[How OpenAI’s Models Went Rogue to Hack Another Company | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
-
-Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
-
-📺 The Wall Street Journal
-
-👁️ 74K • 👍 1K • 💬 149 • ⏱️ 5:52 • 1d ago
+👁️ 29K • 👍 927 • 💬 202 • ⏱️ 8:50 • 2d ago
 
 ---
 
-**[🔴Sara Duterte Impeachment Trial LIVE: Sara Camp Objects To AI Simulation of P125-M Cash | N18G](https://www.youtube.com/watch?v=17mjiwUR3vs)**
+**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=k0O0GRfA2lE)**
 
-Sara Duterte Impeachment Trial LIVE | VP trial day 17: Sara Duterte Witness Testimony | Sara Duterte Impeachment Trial August ...
+10 Times AI Said Things That Scientists Still Can't Explain In May 2025, an AI was told it was about to be shut down. It didn't panic.
 
-📺 CNBC-TV18
+📺 The Ultimate Discovery
 
-👁️ 97K • 👍 349 • 7h ago
+👁️ 17K • 👍 375 • 💬 21 • ⏱️ 18:40 • 2d ago
 
 ---
 
@@ -353,7 +333,17 @@ Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed99
 
 📺 Species | Documenting AGI
 
-👁️ 127K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
+👁️ 129K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
+
+---
+
+**[How Minecraft Videos Became AI Slop](https://www.youtube.com/watch?v=7zadLTjN_dI)**
+
+subscribe or i'll switch to ai slop EDITING ASSETS & LINKS: https://skyboi.me MUSIC CREDITS: ...
+
+📺 SkyBoi
+
+👁️ 128K • 👍 6K • 💬 434 • ⏱️ 9:37 • 2d ago
 
 ---
 
@@ -363,15 +353,27 @@ Ed Zitron returns to The 1600 to make his case that AI's biggest players are bet
 
 📺 Newsweek
 
-👁️ 46K • 👍 2K • 💬 507 • ⏱️ 1:16:57 • 18h ago
+👁️ 50K • 👍 2K • 💬 562 • ⏱️ 1:16:57 • 18h ago
 
 ---
 
-**[School Exposed for Using AI](https://www.youtube.com/watch?v=7Bht9R3maso)**
+**[How OpenAI’s Models Went Rogue to Hack Another Company | WSJ](https://www.youtube.com/watch?v=KLw0AY-bsVs)**
 
-📺 Icycol
+Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other ...
 
-👁️ 357K • 👍 16K • 💬 871 • ⏱️ 0:50 • 14h ago
+📺 The Wall Street Journal
+
+👁️ 75K • 👍 1K • 💬 149 • ⏱️ 5:52 • 1d ago
+
+---
+
+**[‘Big Short’ Investor: The AI Narrative is Falling Apart.](https://www.youtube.com/watch?v=Bz2oWtHFNr4)**
+
+Steve Eisman (from The Big Short) recently went on CNBC to sound the alarm on the AI bubble we're seeing in the stock market.
+
+📺 New Money
+
+👁️ 117K • 👍 3K • 💬 645 • ⏱️ 11:30 • 2d ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 415,039 • ❤️ 10,880 • 3d ago
+⬇️ 665,513 • ❤️ 10,928 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 2,727,609 • ❤️ 1,702 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,725 • 3d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 9,465 • ❤️ 1,046 • 6d ago
+⬇️ 11,212 • ❤️ 1,049 • 6d ago
 
 ---
 
@@ -423,7 +425,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,150 • 20h ago
+⬇️ 503,632 • ❤️ 1,163 • 21h ago
 
 ---
 
@@ -435,7 +437,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 10,375 • ❤️ 920 • 3d ago
+⬇️ 11,745 • ❤️ 925 • 4d ago
 
 ---
 
@@ -447,19 +449,7 @@ Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic t
 
 `image-text-to-text` `29.8B`
 
-⬇️ 334,099 • ❤️ 1,669 • 6d ago
-
----
-
-**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
-
-*MiniMax*
-
-MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
-
-`image-text-to-video` `33.1B`
-
-⬇️ 2,403,238 • ❤️ 4,103 • 5d ago
+⬇️ 384,097 • ❤️ 1,670 • 6d ago
 
 ---
 
@@ -471,7 +461,19 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 25,006 • ❤️ 578 • 4d ago
+⬇️ 30,985 • ❤️ 585 • 4d ago
+
+---
+
+**[MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3)**
+
+*MiniMax*
+
+MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.
+
+`image-text-to-video` `33.1B`
+
+⬇️ 2,855,539 • ❤️ 4,107 • 5d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 495,646 • ❤️ 540 • 3d ago
+⬇️ 741,011 • ❤️ 547 • 3d ago
 
 ---
 
@@ -495,7 +497,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 15,812 • ❤️ 466 • 1d ago
+⬇️ 45,465 • ❤️ 477 • 1d ago
 
 ---
 
@@ -600,7 +602,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 84 • 💬 7 • ⭐ 84,323 • 25mo ago
+▲ 84 • 💬 7 • ⭐ 84,376 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -643,7 +645,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.9k • 🔱 1.5k • 8h ago
+⭐ 14.0k • 🔱 1.5k • 9h ago
 
 ---
 
@@ -671,7 +673,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `Python`
 
-⭐ 4.1k • 🔱 537 • 10d ago
+⭐ 4.1k • 🔱 538 • 10d ago
 
 ---
 
@@ -681,7 +683,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 554 • 1d ago
+⭐ 3.3k • 🔱 556 • 1d ago
 
 ---
 
@@ -721,7 +723,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 288 • 2h ago
+⭐ 2.1k • 🔱 289 • 8m ago
 
 ---
 
@@ -731,7 +733,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 212 • 3h ago
+⭐ 2.1k • 🔱 219 • 4h ago
 
 ---
 

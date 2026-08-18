@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T10:28:25.251583+00:00'
+updated: '2026-08-18T10:57:04.242264+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 10:28 UTC  
+**Last Updated:** August 18, 2026 at 10:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 17h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 14h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 15h ago
 
 ---
 
@@ -126,7 +126,7 @@ WSJ • 3h ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ Bloomberg • 19h ago
 
 **[New Realtime Robotics CEO wants to build the 'factory of the future'](https://www.bizjournals.com/boston/news/2026/08/17/realtime-robotics-new-ceo.html)**
 
-The Business Journals • 21h ago
+The Business Journals • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Reuters • 22h ago
 
 **[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-Bloomberg • 18h ago
+Bloomberg • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Federal Communications Commission on 28 July announced a ban on humanoid rob
 
 📺 Guardian News
 
-👁️ 41K • 👍 486 • 💬 134 • ⏱️ 3:48 • 6d ago
+👁️ 41K • 👍 487 • 💬 134 • ⏱️ 3:48 • 6d ago
 
 ---
 
@@ -232,7 +232,7 @@ What happens when robots move beyond intelligence and begin learning from experi
 
 📺 Imagination in Action
 
-👁️ 10K • 👍 359 • 💬 47 • ⏱️ 1:12:16 • 6d ago
+👁️ 11K • 👍 364 • 💬 47 • ⏱️ 1:12:16 • 6d ago
 
 ---
 
@@ -250,15 +250,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 TIME
 
-👁️ 234K • 👍 3K • 💬 614 • ⏱️ 10:16 • 3d ago
-
----
-
-**[He Found a Robot Unlike Any Other#shorts](https://www.youtube.com/watch?v=htRWiNy6vsg)**
-
-📺 Kind Recaps
-
-👁️ 5K • 👍 279 • 💬 4 • ⏱️ 2:56 • 5h ago
+👁️ 235K • 👍 3K • 💬 613 • ⏱️ 10:16 • 3d ago
 
 ---
 
@@ -268,7 +260,15 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 📺 Mrwhosetheboss
 
-👁️ 3.4M • 👍 89K • 💬 6K • ⏱️ 14:03 • 3d ago
+👁️ 3.4M • 👍 90K • 💬 6K • ⏱️ 14:03 • 3d ago
+
+---
+
+**[He Found a Robot Unlike Any Other#shorts](https://www.youtube.com/watch?v=htRWiNy6vsg)**
+
+📺 Kind Recaps
+
+👁️ 9K • 👍 505 • 💬 4 • ⏱️ 2:56 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ Robots can already fold laundry, make espresso, clean kitchens, and assemble thi
 
 📺 Y Combinator
 
-👁️ 32K • 👍 820 • 💬 30 • ⏱️ 58:18 • 5d ago
+👁️ 32K • 👍 822 • 💬 30 • ⏱️ 58:18 • 5d ago
 
 ---
 

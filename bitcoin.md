@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T10:28:25.241949+00:00'
+updated: '2026-08-18T10:57:04.232927+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 10:28 UTC  
+**Last Updated:** August 18, 2026 at 10:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.16B
+**Market Cap:** $1287.39B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
@@ -64,7 +64,7 @@ Rank #1
 -49.1%
 
 **All-Time Low:** $67.81
-+94542.4%
++94487.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-14h ago
+15h ago
 
 ---
 
@@ -95,13 +95,13 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 (If you detected sarcasm, you were right…) 😬
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -109,7 +109,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-19h ago
+20h ago
 
 ---
 
@@ -135,19 +135,19 @@ Hello I’m Santiago, I just wanted to say I know a lot of people have taken som
 
 ---
 
-**['World bribery financial': Reaction to Trump family crypto venture getting bank status](https://www.reddit.com/r/Bitcoin/comments/1vrj32q/world_bribery_financial_reaction_to_trump_family/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/NEg2afmF3PU?si=H3OKCVJib6GXQysy) • 2h ago
-
----
-
 **[I am always surprised at how few people understand this.](https://www.reddit.com/r/Bitcoin/comments/1vr4g2r/i_am_always_surprised_at_how_few_people/)**
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
-13h ago
+14h ago
+
+---
+
+**[Some hopium from a veteran of the 2022 bear market.](https://www.reddit.com/r/Bitcoin/comments/1vqv0mp/some_hopium_from_a_veteran_of_the_2022_bear_market/)**
+
+I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
+
+19h ago
 
 ---
 
@@ -159,7 +159,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 7h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 20h ago
 
 **[Bitcoin Edges Lower as Middle East Tensions Weigh](https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/bitcoin-edges-lower-as-middle-east-tensions-weigh-WlHvaiglVReXJeJlZ5gH?mod=bar_RHF)**
 
-Barron's • 59m ago
+Barron's • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ TradingView • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -285,23 +285,33 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[The Money Printer Is Surging and Bitcoin Won&#39;t Move — What&#39;s Really Going On?](https://www.youtube.com/watch?v=Ez90WQSniIg)**
+
+Bitcoin is stuck near $64000 even as money supply and global liquidity surge, creating one of the strangest divergences in Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 1K • 💬 178 • ⏱️ 18:59 • 12h ago
+
+---
+
 **[Michael Saylor raised $333 million and bought zero Bitcoin](https://www.youtube.com/watch?v=5p5K02kZw4g)**
 
 Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zero Bitcoin. In this episode of The Daily Wolf, Scott ...
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 232 • 💬 59 • ⏱️ 14:53 • 17h ago
+👁️ 6K • 👍 241 • 💬 67 • ⏱️ 14:53 • 18h ago
 
 ---
 
-**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
+**[BITCOIN *BONEMODE* ALERT!!!!!!!!!!!!](https://www.youtube.com/watch?v=F417dCZbSvU)**
 
-Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 CNBC Television
+📺 Tyler S
 
-👁️ 10K • 👍 139 • 💬 130 • ⏱️ 3:11 • 18h ago
+👁️ 8K • 👍 545 • 💬 292 • ⏱️ 10:35 • 15h ago
 
 ---
 
@@ -315,13 +325,31 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 ---
 
+**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
+
+Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
+
+📺 CNBC Television
+
+👁️ 10K • 👍 144 • 💬 159 • ⏱️ 3:11 • 19h ago
+
+---
+
 **[Trump Bank. Stablecoin Push. Bitcoin Repeats 2022](https://www.youtube.com/watch?v=rByl-4JXcsI)**
 
 Trump just got his own bank approved. Bitcoin just closed below its 200-week SMA — same as 2022. Two stories, one very TIME ...
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 323 • 💬 19 • ⏱️ 18:26 • 13h ago
+👁️ 4K • 👍 342 • 💬 21 • ⏱️ 18:26 • 13h ago
+
+---
+
+**[XRP NEGATIVITY SURGES ONLINE DESPITE 2 CRYPTO MEETINGS AT THE WHITEHOUSE! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=rawy5CPkrFs)**
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 275 • 💬 14 • ⏱️ 2:16 • 9h ago
 
 ---
 
@@ -331,7 +359,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 655 • 💬 106 • ⏱️ 46:21 • 19h ago
+👁️ 12K • 👍 659 • 💬 106 • ⏱️ 46:21 • 20h ago
 
 ---
 
@@ -341,47 +369,17 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 4K • 👍 382 • 💬 77 • ⏱️ 11:45 • 15h ago
+👁️ 4K • 👍 395 • 💬 80 • ⏱️ 11:45 • 15h ago
 
 ---
 
-**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
+**[Crypto Is Dead? Vol Hits 3-Year Low, Sentiment Collapses 🚨 Billions in Losses](https://www.youtube.com/watch?v=TRGCT3SMxxo)**
 
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Gareth Soloway
+📺 InvestAnswers
 
-👁️ 64K • 👍 4K • 💬 405 • ⏱️ 10:57 • 1d ago
-
----
-
-**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 426 • 💬 229 • ⏱️ 29:45 • 1d ago
-
----
-
-**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
-
-For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 100K • 👍 6K • 💬 341 • ⏱️ 16:15 • 2d ago
-
----
-
-**[BITCOIN *BONEMODE* ALERT!!!!!!!!!!!!](https://www.youtube.com/watch?v=F417dCZbSvU)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 8K • 👍 537 • 💬 342 • ⏱️ 10:35 • 15h ago
+👁️ 27K • 👍 2K • 💬 129 • ⏱️ 21:02 • 13h ago
 
 ---
 
