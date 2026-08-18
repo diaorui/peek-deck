@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T04:35:17.395266+00:00'
+updated: '2026-08-18T05:29:29.451400+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 04:35 UTC  
+**Last Updated:** August 18, 2026 at 05:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +0.8%  
-**30d:** -0.5%  
-**90d:** -11.2%  
+**24h:** -0.6%  
+**7d:** +0.9%  
+**30d:** -0.4%  
+**90d:** -11.1%  
 **1y:** -53.6%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåbe
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, Shi
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -128,7 +128,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Ethereum’s All Core Developers Execution Call #243 delivered several decisions
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -152,19 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
-Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-CoinDesk • 2d ago
-
----
-
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
-
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-Yahoo Finance • 12h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -172,21 +164,39 @@ Yahoo Finance • 12h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
+**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
 
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-PR Newswire • 16h ago
+TradingView • 14h ago
 
 ---
 
-**[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
+**[ETH news: Ethereum’s next big upgrade has 66 proposals, including a major privacy fix](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)**
 
-CCN.com • 12h ago
+Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
+
+CoinDesk • 17h ago
+
+---
+
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+
+TradingView • 3h ago
+
+---
+
+**[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
+
+Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
+
+FXStreet • 7h ago
 
 ---
 
@@ -202,29 +212,19 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 15h ago
+Fortune • 16h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 14h ago
+MarketWatch • 15h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds critical support, ETH awaits directional move, XRP weakens](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-critical-support-eth-awaits-directional-move-xrp-weakens-202608170317)**
+**[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
-
-FXStreet • 1d ago
-
----
-
-**[Ethereum developers propose privacy changes for next major upgrade](https://cryptobriefing.com/ethereum-hegota-privacy-upgrade-proposals/)**
-
-Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
-
-Crypto Briefing • 9h ago
+CCN.com • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 5h ago
+👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 8K • 👍 4 • 💬 14 • ⏱️ 4:44 • 2h ago
+👁️ 8K • 👍 4 • 💬 14 • ⏱️ 4:44 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 19h ago
+👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxF
 
 📺 Discover Crypto
 
-👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 3h ago
+👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 7h ago
+👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 12h ago
+👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 8h ago
+👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T04:35:17.386508+00:00'
+updated: '2026-08-18T05:29:29.436626+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 04:35 UTC  
+**Last Updated:** August 18, 2026 at 05:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ As AI agents start doing more ops work, I think business banking has to think ab
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 I am curious about all these data centers being built. What are the chances AI can have a microchip moment potentially rendering them all useless? This could be a black swan event that could wipe out a lot of investment and potentially destroy some very large businesses. If this is possible, what are the mostly likely candidates? In particular, I am interested in hearing from anyone who may be working on one of these candidates, even if it is still in RD and their opinion on how likely they are to succeed.
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ I am curious about all these data centers being built. What are the chances AI c
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Most "chat with your data" tools give you a confident answer and no way to tell 
 
 India's Leading AI & Data Science Media Platform
 
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 21h ago
+🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 22h ago
 
 ---
 
@@ -89,7 +89,15 @@ India's Leading AI & Data Science Media Platform
 
 I still remember those few days in 2023 when LK-99 looked like it might actually be a room-temperature, ambient-pressure superconductor. For a brief moment, it felt like we were watching one of those discoveries that could genuinely change civilization. Obviously, LK-99 didn’t survive replication. But AI has advanced enormously since then. We now have models that can reason across scientific literature, generate hypotheses, write and run code, analyse experimental data, predict structures and materials, and increasingly interact with automated labs. So I keep wondering: Could AI significantly increase the probability of discovering something like a real LK-99? Not necessarily superconductivity specifically, but a breakthrough material or physical discovery with enormous technological consequences — something humans might have needed decades to stumble upon otherwise. It seems like materials science could be particularly well suited to this: huge search spaces, lots of existing experimental data, simulations, and relatively clear ways to test candidate materials. Maybe the real revolution won’t be AI directly “discovering a new law of physics”, but AI exploring millions of plausible hypotheses and pointing human researchers toward the 10 experiments actually worth doing. How close are we to that? And what would be the best candidate field for an AI-driven “holy shit, this changes everything” discovery: superconductors, batteries, catalysts, fusion materials, drugs… something else? I want those three LK-99 days again. But this time I want day four to be even better.
 
-15h ago
+16h ago
+
+---
+
+**[I shipped a digital legacy app that builds an interactive AI version of you from months of recorded conversations](https://www.reddit.com/r/artificial/comments/1vrf830/i_shipped_a_digital_legacy_app_that_builds_an/)**
+
+A photo album can’t answer questions. That’s the entire problem, and it’s why voice notes and old videos stop being useful the moment you actually need something from them. EchoVault builds an Echo of you through guided check-in sessions with an AI biographer that draws real stories out over time. Most products in this space generate an avatar from a few minutes of uploaded footage. This runs the other direction, so the echo has months of first-person material to work with and can answer questions the person never explicitly addressed. Responses are retrieval-grounded against what was actually said, which keeps it from fabricating memories that never happened. Three modalities, all live. Text is free with unlimited sessions. $12/mo adds a cloned voice. $99.99 one-time unlocks a lifelike video avatar with 3 months of real-time face to face conversation included, then $18/mo after. The video tier is an actual live exchange, not a rendered clip playing back. You designate custodians while you’re alive. After a full year of no account activity, access transfers to them automatically, no legal process required. Built solo, nights only. iPhone: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028 Happy to get into the architecture if anyone asks.
+
+47m ago
 
 ---
 
@@ -97,21 +105,13 @@ I still remember those few days in 2023 when LK-99 looked like it might actually
 
 The X30 can carry a water cannon, reaching 60 meters at 40 L/s, or transport hoses, air tanks and breaching tools.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 14h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/chinese-robot-dogs-take-on-fires) • 15h ago
 
 ---
 
 **[Looking for the name of an old ai app](https://www.reddit.com/r/artificial/comments/1vr7dkg/looking_for_the_name_of_an_old_ai_app/)**
 
 Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?
-
-5h ago
-
----
-
-**[A week after OpenAI paused a cyber-capable model, two labs shipped one anyway, through opposite doors](https://www.reddit.com/r/artificial/comments/1vr6wje/a_week_after_openai_paused_a_cybercapable_model/)**
-
-Rounding up a genuinely heavy week. The throughline: last issue OpenAI paused internal work on a model it couldn't rule out was cyber-capable. This week the capability shipped anyway, two different ways. **OpenAI GPT-5.6 Cyber** (Aug 10): a security-specialized model gated behind a "Daybreak Red" tier. OpenAI's own eval has it answering 95% of offensive-security requests the standard model refuses 98.5% of the time. Access stays with 16 named partners; from Sept 1 individual accounts need hardware keys. Customers get findings, never the weights. **Zhipu GLM-5.3** (Aug 14): marketed on "emergent cyber capabilities," claims 84.5% on CyberGym (vendor-reported; note Wiz's Atlas system claims a higher 90.9%). Open weights promised in ~2 weeks. The capability didn't get shelved. It got a doorman. The rest of the week: - **Meta returned to open weights** with Muse Glimmer, a 30B Apache-2.0 agent model that runs under 20GB. - **Alibaba** published its first downloadable Max-class Qwen (2.4T), and **Qwen3.8-27B** landed Apache-2.0. **DeepSeek** took V4-Pro (1.6T, MIT) to GA with peak/off-peak pricing. - **Anthropic** began embedding an invisible watermark in all Claude output under the EU AI Act. The builder forums did not take it well. - **SpaceX** closed a $60B all-stock acquisition of Cursor; the editor is now inside the Grok org. - **Security:** researchers showed encrypted reasoning traces from OpenAI/Anthropic/Google were replayable across sibling models to decrypt them (now patched); an AI notetaker left 181,874 meetings queryable by anyone. Full breakdown with all the receipts: thenewguard.ai/issues/027-the-brake-pedal-had-a-bypass/
 
 6h ago
 
@@ -127,55 +127,57 @@ WSJ • 1d ago
 
 ---
 
+**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
+
+Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
+
+Financial Times • 1h ago
+
+---
+
+**[New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age/)**
+
+OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.
+
+OpenAI • 19h ago
+
+---
+
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-nytimes.com • 8h ago
+The New York Times • 9h ago
 
 ---
 
-**[CNBC Daily Open: Markets caught between Mideast worries and AI optimism](https://www.cnbc.com/2026/08/18/cnbc-daily-open-trump-iran-war-nvidia-oil-markets.html)**
+**[China Wants Its Data to Power the World’s A.I.](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html)**
 
-Despite many promises of a deal and numerous start-stop negotiations, the war in the Middle East now threatens to restart and drag more countries into the fold.
-
-CNBC • 3h ago
+The New York Times • 1d ago
 
 ---
 
-**[Lonelier teens tend to look to AI for support: Report](https://www.foxnews.com/video/6403619090112)**
+**[The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html)**
 
-Fox News host Kayleigh McEnany analyzes a report saying teens are increasingly turning to AI for all kinds of advice on 'Outnumbered.'
-
-Fox News • 3h ago
+The New York Times • 1d ago
 
 ---
 
-**[Meta Taps Disability Groups To Explore Uses For AI Glasses](https://www.disabilityscoop.com/2026/08/18/meta-taps-disability-groups-to-explore-uses-for-ai-glasses/32130/)**
+**[Why China’s Affordable AI Is a Worry for Silicon Valley](https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals)**
 
-With a series of grants, Meta is backing efforts to learn how its AI glasses can increase independence and provide other benefits to people with disabilities.
-
-Disability Scoop • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Long after Steve Jobs’ turtleneck, there’s a new tech uniform](https://www.cnn.com/2026/08/17/style/tech-ai-merch)**
+**[‘A million dollars over asking’: AI wealth is fueling housing market frenzy in San Francisco](https://www.cnn.com/2026/08/17/economy/sf-real-estate-ai-wealth)**
 
-From Palantir to OpenAI, big tech companies have been producing fashion merch in an attempt to soften their image with cotton and canvas.
+Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 20h ago
-
----
-
-**[Trump crypto firm backs venture offering AI from restricted Chinese companies](https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/)**
-
-Reuters • 18h ago
+cnn.com • 18h ago
 
 ---
 
-**[Hidden Airtag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)**
+**[AI Has Plunged the Book Publishing Industry Into Utter Chaos](https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287)**
 
-Amazon’s team uses a T. rex preparing to devour a book as its logo.
-
-Ars Technica • 10h ago
+WSJ • 19h ago
 
 ---
 
@@ -183,15 +185,7 @@ Ars Technica • 10h ago
 
 Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.
 
-Yahoo Finance • 11h ago
-
----
-
-**[AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.](https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/)**
-
-Millions of physical books are being scanned to train AI models. They’re then dumped in the trash.
-
-Forbes • 8h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -203,7 +197,7 @@ Forbes • 8h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 665 • 💬 415 • 8h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 725 • 💬 466 • 9h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -211,7 +205,15 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 629 • 💬 497 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 629 • 💬 498 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
+
+**[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
+
+An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
+
+⬆️ 342 • 💬 136 • 15h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -220,14 +222,6 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.
 
 ⬆️ 334 • 💬 201 • 2d ago • [allen.bargi.org](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
-
----
-
-**[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
-
-An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
-
-⬆️ 327 • 💬 127 • 14h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -243,7 +237,15 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 264 • 💬 163 • 14h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 271 • 💬 164 • 15h ago • [librarian.net](https://www.librarian.net/notoai/)
+
+---
+
+**[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://news.ycombinator.com/item?id=49337392)**
+
+In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
+
+⬆️ 271 • 💬 148 • 8h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -253,15 +255,7 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 235 • 💬 502 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
-
----
-
-**[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://news.ycombinator.com/item?id=49337392)**
-
-In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
-
-⬆️ 186 • 💬 71 • 7h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 236 • 💬 504 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -275,7 +269,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 149 • 💬 179 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+⬆️ 149 • 💬 181 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -289,7 +283,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 16K • 👍 691 • 💬 49 • ⏱️ 17:37 • 14h ago
+👁️ 16K • 👍 691 • 💬 49 • ⏱️ 17:37 • 15h ago
 
 ---
 
@@ -329,7 +323,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 15K • 💬 6 • ⏱️ 38:48 • 14h ago
+👁️ 15K • 💬 6 • ⏱️ 38:48 • 15h ago
 
 ---
 
@@ -429,7 +423,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,121 • 14h ago
+⬇️ 465,529 • ❤️ 1,121 • 15h ago
 
 ---
 
@@ -719,7 +713,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 20h ago
+⭐ 2.2k • 🔱 177 • 21h ago
 
 ---
 
@@ -729,7 +723,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 283 • 56m ago
+⭐ 2.1k • 🔱 283 • 1h ago
 
 ---
 
@@ -739,7 +733,7 @@ Open-source, self-hosted AI vulnerability research tool that orchestrates agents
 
 `JavaScript` `ai` `ai-agents` `ai-security` `bug-bounty` `bugbounty-tools`
 
-⭐ 1.9k • 🔱 327 • 6h ago
+⭐ 1.9k • 🔱 327 • 7h ago
 
 ---
 
