@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T19:49:57.654140+00:00'
+updated: '2026-08-18T20:23:30.005044+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 19:49 UTC  
+**Last Updated:** August 18, 2026 at 20:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 5h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The part of this paper I trust most is the failure it chose to show. AQuA’s Ap
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-12h ago
+13h ago
 
 ---
 
@@ -71,7 +71,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of enterprise applications to include task-specific AI agents in 2026, up from under 5%. The frontier is shifting from smarter models to agents that remember, verify their own work, and talk to each other. Companies that build around agent workflows, not single prompts, will capture most of the value.
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Two signals this week show AI moving from raw capability to commercial and regul
 
 Anyone else having trouble with Claude right now ? Is this widespread, or just me?
 
-7m ago
+40m ago
 
 ---
 
@@ -111,7 +111,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence — who are already using it for schoolwork, questions about daily life and even companionship
 
-🔗 [The Independent](https://www.the-independent.com/tech/chatgpt-teens-open-ai-parents-b3034916.html) • 4h ago
+🔗 [The Independent](https://www.the-independent.com/tech/chatgpt-teens-open-ai-parents-b3034916.html) • 5h ago
 
 ---
 
@@ -123,13 +123,13 @@ OpenAI is launching a version of ChatGPT designed for teenagers — the first ge
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
 **[Texas Tech University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -145,7 +145,7 @@ blog.google • 1h ago
 
 Artificial intelligence is rapidly reshaping America's classrooms, leaving educators and parents with a growing challenge.
 
-KATU • 54m ago
+KATU • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Economist • 6h ago
 
 OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
 
-OpenAI • 8h ago
+OpenAI • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ Whether you're a reporter or an editor, your inbox has probably seen an influx o
 
 But one publication is over it. If you want to write for The Food Section, you'll h…
 
-Nieman Lab • 33m ago
+Nieman Lab • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nieman Lab • 33m ago
 
 Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNN • 6h ago
 
 The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
@@ -219,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 520 • 💬 359 • 9h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 520 • 💬 359 • 10h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -301,7 +301,7 @@ AI is spreading through American life faster than almost any technology before i
 
 📺 The Infographics Show
 
-👁️ 260K • 👍 7K • 💬 2K • ⏱️ 15:45 • 23h ago
+👁️ 260K • 👍 7K • 💬 2K • ⏱️ 15:45 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 526K • 👍 42K • 💬 2K • ⏱️ 0:59 • 19h ago
+👁️ 526K • 👍 42K • 💬 2K • ⏱️ 0:59 • 20h ago
 
 ---
 
@@ -521,7 +521,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 649 • 💬 4 • ⭐ 3,350 • 8d ago
+▲ 649 • 💬 4 • ⭐ 3,350 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -549,7 +549,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations into verifiable reasoning chains that justify scores with transparent evidence.
 
-▲ 108 • 💬 1 • ⭐ 132 • 1d ago
+▲ 108 • 💬 1 • ⭐ 132 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16859) • [💻 code](https://github.com/MirroS-Lab/HarnessEval-W) • [🔗 project](https://mirros-lab.github.io/HarnessEval-W)
 
@@ -638,7 +638,7 @@ Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing
 
 JoyAI-Video-Edit is a 16B-parameter autoregressive diffusion framework that enables real-time, open-ended video editing with high source fidelity and long-term temporal consistency on a single GPU.
 
-▲ 95 • 💬 1 • ⭐ 1,514 • 14d ago
+▲ 95 • 💬 1 • ⭐ 1,514 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.03974) • [💻 code](https://github.com/jd-opensource/JoyAI-Video-Edit)
 
@@ -674,7 +674,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 2h ago
+⭐ 8.6k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -722,7 +722,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 256 • 1h ago
+⭐ 2.3k • 🔱 256 • 2h ago
 
 ---
 
@@ -732,7 +732,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 12h ago
+⭐ 2.2k • 🔱 177 • 13h ago
 
 ---
 
@@ -742,7 +742,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 293 • 1h ago
+⭐ 2.2k • 🔱 293 • 2h ago
 
 ---
 

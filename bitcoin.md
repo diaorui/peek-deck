@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T19:49:57.662039+00:00'
+updated: '2026-08-18T20:23:30.013014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 19:49 UTC  
+**Last Updated:** August 18, 2026 at 20:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Just me or is this pretty much every day sentiment?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-20h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 6h ago
 
 Citigroup launches a real-time custody platform for institutional investors, cutting processing times and adding Bitcoin custody in 2026.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Seeking Alpha • 2h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 5h ago
+CBS News • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ CBS News • 5h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg • 4h ago
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-syracuse.com • 5h ago
+syracuse.com • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ syracuse.com • 5h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ Who’s applying to run the .btc domain, on a source-linked public record. AI sc
 
 Add Ark and Lightning payments to your bitcoin app
 
-⬆️ 1 • 💬 1 • 4d ago • [Second](https://second.tech/)
+⬆️ 1 • 💬 1 • 5d ago • [Second](https://second.tech/)
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 21h ago
+👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff 
 
 📺 The Wolf Of All Streets
 
-👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 15h ago
+👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 16h ago
 
 ---
 
@@ -359,7 +359,7 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 22h ago
+👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 23h ago
 
 ---
 
@@ -369,7 +369,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 3h ago
+👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 4h ago
 
 ---
 
