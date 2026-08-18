@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T16:31:55.592497+00:00'
+updated: '2026-08-18T17:27:07.066461+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 16:31 UTC  
+**Last Updated:** August 18, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -91,11 +91,35 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 ---
 
+**[6 BTC is sitting in a wallet that was built to be cracked.](https://www.reddit.com/r/Bitcoin/comments/1vrqsg5/6_btc_is_sitting_in_a_wallet_that_was_built_to_be/)**
+
+No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's called Krackpot. Back in 2015 someone funded a series of Bitcoin wallets as a public puzzle, each one harder than the last. Puzzle 71 holds about 7.1 BTC and nobody has solved it (6 of it is yours if you crack it, more in a sec). The address is on-chain. Verify it yourself. How it works: Paste your Bitcoin address Press start Win or don't Everything runs in your browser with WebGPU. Nothing installs, nothing about your searching leaves the tab, and if your GPU finds the key it stays in your browser. Ctto: simonmales
+
+2h ago
+
+---
+
+**[Bitcoin in a nutshell rn](https://www.reddit.com/r/Bitcoin/comments/1vrv0fz/bitcoin_in_a_nutshell_rn/)**
+
+Just me or is this pretty much every day sentiment?
+
+30m ago
+
+---
+
+**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
+
+https://satoshitimeline.com/1
+
+2h ago
+
+---
+
 **[Why did the cold card hackers send all the money to one wallet?](https://www.reddit.com/r/Bitcoin/comments/1vrmfri/why_did_the_cold_card_hackers_send_all_the_money/)**
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,19 +129,11 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 ---
 
-**[Satoshi Nakamoto Registered Bitcoin.org 18 Years Ago Today in His First Known Act as Satoshi](https://www.reddit.com/r/Bitcoin/comments/1vrr7bd/satoshi_nakamoto_registered_bitcoinorg_18_years/)**
-
-https://satoshitimeline.com/1
-
-1h ago
-
----
-
 **[Peter Todd is actively trying to remove the 21M supply cap, this is an existential threat no one is paying attention to](https://www.reddit.com/r/Bitcoin/comments/1vr801s/peter_todd_is_actively_trying_to_remove_the_21m/)**
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +141,7 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-20h ago
+21h ago
 
 ---
 
@@ -137,20 +153,6 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 ---
 
-**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
-
-22h ago
-
----
-
-**[6 BTC is sitting in a wallet that was built to be cracked.](https://www.reddit.com/r/Bitcoin/comments/1vrqsg5/6_btc_is_sitting_in_a_wallet_that_was_built_to_be/)**
-
-No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's called Krackpot. Back in 2015 someone funded a series of Bitcoin wallets as a public puzzle, each one harder than the last. Puzzle 71 holds about 7.1 BTC and nobody has solved it (6 of it is yours if you crack it, more in a sec). The address is on-chain. Verify it yourself. How it works: Paste your Bitcoin address Press start Win or don't Everything runs in your browser with WebGPU. Nothing installs, nothing about your searching leaves the tab, and if your GPU finds the key it stays in your browser. Ctto: simonmales
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,7 +161,7 @@ No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's ca
 
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -173,7 +175,7 @@ CoinDesk • 2h ago
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -181,7 +183,7 @@ Bloomberg.com • 52m ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -189,7 +191,7 @@ CNBC • 13h ago
 
 Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -197,13 +199,13 @@ Yahoo Finance • 4h ago
 
 A family is desperately searching for a New York woman after she went missing while visiting a friend in Las Vegas. Her daughters say they are now receiving texts from her phone demanding bitcoin. CBS News' Nicole Valdes has more.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 2h ago
+Syracuse.com • 3h ago
 
 ---
 
@@ -211,7 +213,7 @@ Syracuse.com • 2h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -219,7 +221,7 @@ Seeking Alpha • 20h ago
 
 Metaplanet Inc. TSE:3350:
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -227,7 +229,7 @@ TradingView • 3h ago
 
 "Bitcoin has never been predictable."
 
-fitsnews.com • 2h ago
+fitsnews.com • 3h ago
 
 ---
 
@@ -291,7 +293,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 196 • ⏱️ 18:59 • 18h ago
+👁️ 26K • 👍 2K • 💬 196 • ⏱️ 18:59 • 19h ago
 
 ---
 
@@ -351,7 +353,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 9K • 👍 582 • 💬 320 • ⏱️ 10:35 • 21h ago
+👁️ 9K • 👍 582 • 💬 320 • ⏱️ 10:35 • 22h ago
 
 ---
 
@@ -361,7 +363,7 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 8K • 👍 338 • 💬 5 • ⏱️ 42:04 • 19h ago
+👁️ 8K • 👍 338 • 💬 5 • ⏱️ 42:04 • 20h ago
 
 ---
 
@@ -381,7 +383,7 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 56 • ⏱️ 10:53 • 16h ago
+👁️ 20K • 👍 1K • 💬 56 • ⏱️ 10:53 • 17h ago
 
 ---
 

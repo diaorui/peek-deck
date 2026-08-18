@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T16:31:55.597873+00:00'
+updated: '2026-08-18T17:27:07.075055+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 16:31 UTC  
+**Last Updated:** August 18, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is my custom robotics project I have been working on for the past year. I'll be posting more on my X account RhettBrewer. I will also be posting other projects and future ones there too!
 
-23h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 The physical design is finally locked down, and the digital model now mirrors the optimized physical robot. What you see here has taken a lot of work, but surprisingly, most of the development over the last two years has been on the part you can't see: the software. I have been developing Robert's operating system alongside the mechanics - coordinating 30 servos, synchronized movements, speech, vision, sensors, driving and AI interaction so that they can all work together. The ultimate goal is to give AI a physical embodiment through which it can see, speak, move and interact with the world. The mechanical design has gone through the same process of continuous refinement. It is now divided into self-contained modules that make Robert much easier to build, maintain and repair.
 
-23h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-14h ago
+15h ago
 
 ---
 
@@ -84,7 +84,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I understand why humanoid robots need human-like proportions. Our homes, stairs, doors, tools, cars, kitchens, etc. are designed for humans, so obviously two arms, two legs and hands make sense. What I don't really understand is why we're also trying so hard to make the face look human. Realistic eyes, skin, facial expressions, fake breathing... what does any of that actually add if the robot is there to help around the house, carry things, cook, do laundry, etc.? For me, even if it looks almost exactly like a person, the moment I know it's a robot, it's still a robot. The part that matters much more is whether it can make decisions and take actions based on its own judgment instead of just following strict instructions. That's where things become really different. Personally I'd rather humanoids stay obviously machines. Make them extremely capable, let them understand us, talk naturally, give advice, whatever. I just don't see why they also need to visually imitate a person that closely. Would you actually prefer a humanoid with a realistic human face, or one that clearly looks like a machine?
 
-15h ago
+16h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 20h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 21h ago
 
 ---
 
@@ -136,7 +136,7 @@ Business Insider • 1d ago
 
 Stephanie Link of Hightower Advisors breaks down why she thinks this industrial stock could benefit from the rise of AI and robotics.
 
-CNBC • 23m ago
+CNBC • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNBC • 23m ago
 
 Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military.
 
-Yahoo • 30m ago
+Yahoo • 1h ago
 
 ---
 
@@ -152,13 +152,13 @@ Yahoo • 30m ago
 
 Robots with artificial intelligence and animatronic dogs are helping older adults feel less lonely as they navigate living alone in New York.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
 **[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ Bloomberg.com • 5h ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -180,13 +180,13 @@ PR Newswire • 5h ago
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
 **[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
 
-WSJ • 9h ago
+WSJ • 10h ago
 
 ---
 
@@ -228,7 +228,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 ATC Android ToTo Company
 
-👁️ 55K • 👍 2K • 💬 61 • ⏱️ 2:59 • 3d ago
+👁️ 55K • 👍 2K • 💬 61 • ⏱️ 2:59 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Unitree has released a video of its newest humanoid robot claiming a top speed o
 
 📺 Interesting Engineering Explains
 
-👁️ 12K • 👍 442 • 💬 71 • ⏱️ 1:51 • 22h ago
+👁️ 12K • 👍 442 • 💬 71 • ⏱️ 1:51 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ Thinking about buying a robot lawn mower but feeling completely overwhelmed by t
 
 📺 How To with Doc
 
-👁️ 7K • 👍 339 • 💬 41 • ⏱️ 20:58 • 17h ago
+👁️ 7K • 👍 339 • 💬 41 • ⏱️ 20:58 • 18h ago
 
 ---
 
@@ -276,7 +276,7 @@ Thinking about buying a robot lawn mower but feeling completely overwhelmed by t
 
 📺 Kind Recaps
 
-👁️ 29K • 👍 1K • 💬 9 • ⏱️ 2:56 • 11h ago
+👁️ 29K • 👍 1K • 💬 9 • ⏱️ 2:56 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T16:31:55.596048+00:00'
+updated: '2026-08-18T17:27:07.071935+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 16:31 UTC  
+**Last Updated:** August 18, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -68,11 +68,27 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**["I put an entire React app on Ethereum Mainnet. No traditional hosting. 24 smart contracts. Around $12 to publish. Built to live as long as Ethereum exists. The 15 minute deep dive."](https://www.reddit.com/r/ethereum/comments/1vrsw90/i_put_an_entire_react_app_on_ethereum_mainnet_no/)**
+
+Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
+
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 1h ago
+
+---
+
 **[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
+
+---
+
+**[What belongs onchain when building an online community?](https://www.reddit.com/r/ethereum/comments/1vrrdct/what_belongs_onchain_when_building_an_online/)**
+
+I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
+
+2h ago
 
 ---
 
@@ -80,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 5h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 6h ago
 
 ---
 
@@ -88,7 +104,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 4h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 5h ago
 
 ---
 
@@ -132,29 +148,13 @@ Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, Shi
 
 ---
 
-**[Daily General Discussion August 15, 2026](https://www.reddit.com/r/ethereum/comments/1vots4q/daily_general_discussion_august_15_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Doots Podcast 155 - Long Hot Summer](https://www.reddit.com/r/ethereum/comments/1vodsry/doots_podcast_155_long_hot_summer/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/sblsgXqFwT8) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -170,7 +170,7 @@ ethereum.org • 1d ago
 
 Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's opening price.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 34m ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 14h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -210,7 +210,7 @@ Decrypt • 1d ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 18h ago
+FXStreet • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ FXStreet • 18h ago
 
 Just 9% of Aave positions carry roughly half its debt, with the concentrated cohort running near 90% LTV against Ethereum-linked collateral.
 
-CryptoSlate • 4h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ CryptoSlate • 4h ago
 
 LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 365 • 💬 310 • ⏱️ 17:08 • 17h ago
+👁️ 6K • 👍 365 • 💬 310 • ⏱️ 17:08 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 557 • 👍 95 • 💬 32 • ⏱️ 18:46 • 5h ago
+👁️ 557 • 👍 95 • 💬 32 • ⏱️ 18:46 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 14h ago
+👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 223 • 💬 197 • ⏱️ 18:58 • 19h ago
+👁️ 5K • 👍 223 • 💬 197 • ⏱️ 18:58 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 39 • 💬 59 • ⏱️ 0:47 • 15h ago
+👁️ 2K • 👍 39 • 💬 59 • ⏱️ 0:47 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 3K • 👍 138 • 💬 9 • ⏱️ 15:38 • 18h ago
+👁️ 3K • 👍 138 • 💬 9 • ⏱️ 15:38 • 19h ago
 
 ---
 
