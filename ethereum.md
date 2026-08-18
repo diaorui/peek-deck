@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T11:29:13.440681+00:00'
+updated: '2026-08-18T11:53:38.946415+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 11:29 UTC  
+**Last Updated:** August 18, 2026 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -73,6 +73,22 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 6h ago
+
+---
+
+**[Announcing the Platåberget Testnet](https://www.reddit.com/r/ethereum/comments/1vrm376/announcing_the_platåberget_testnet/)**
+
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 45m ago
+
+---
+
+**[Attacking Poseidon's Partial Layer via Subspace Restriction](https://www.reddit.com/r/ethereum/comments/1vrml5c/attacking_poseidons_partial_layer_via_subspace/)**
+
+Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
+
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 19m ago
 
 ---
 
@@ -132,22 +148,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Daily General Discussion August 14, 2026](https://www.reddit.com/r/ethereum/comments/1vnxv7c/daily_general_discussion_august_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[Ethereum Protocol Update: ACDE #243](https://www.reddit.com/r/ethereum/comments/1vo39kc/ethereum_protocol_update_acde_243/)**
-
-Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -180,7 +180,7 @@ TradingView • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 22m ago
+Fortune • 46m ago
 
 ---
 
@@ -272,7 +272,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 9h ago
+👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 13h ago
+👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 14h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 207 • 💬 190 • ⏱️ 18:58 • 14h ago
+👁️ 5K • 👍 207 • 💬 190 • ⏱️ 18:58 • 15h ago
 
 ---
 
@@ -330,7 +330,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 5K • 👍 513 • 💬 47 • ⏱️ 13:34 • 15h ago
+👁️ 5K • 👍 513 • 💬 47 • ⏱️ 13:34 • 16h ago
 
 ---
 

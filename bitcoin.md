@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T11:29:13.434580+00:00'
+updated: '2026-08-18T11:53:38.942252+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 11:29 UTC  
+**Last Updated:** August 18, 2026 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 (If you detected sarcasm, you were right…) 😬
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-20h ago
+21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hello I’m Santiago, I just wanted to say I know a lot of people have taken som
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
-14h ago
+15h ago
 
 ---
 
@@ -159,13 +159,13 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
 **[Gold vs. Bitcoin: Billionaire sees a major shift among investors](https://www.thestreet.com/crypto/markets/gold-vs-bitcoin-billionaire-sees-a-major-shift-among-investors)**
 
-thestreet.com • 21h ago
+thestreet.com • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg • 21h ago
 
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ Investing.com • 4h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 29m ago
+Fortune • 53m ago
 
 ---
 
@@ -299,7 +299,7 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 241 • 💬 67 • ⏱️ 14:53 • 18h ago
+👁️ 6K • 👍 241 • 💬 67 • ⏱️ 14:53 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 10K • 👍 144 • 💬 159 • ⏱️ 3:11 • 19h ago
+👁️ 10K • 👍 144 • 💬 159 • ⏱️ 3:11 • 20h ago
 
 ---
 

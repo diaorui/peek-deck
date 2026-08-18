@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T11:29:13.425875+00:00'
+updated: '2026-08-18T11:53:38.936124+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 11:29 UTC  
+**Last Updated:** August 18, 2026 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% test accuracy on the official 10k set (trained on the full 60k) on an AMD Ryzen 7 PRO 8700G (8C/16T) under Linux is exceptionally fast. For comparison: A regular Float32 CNN (PyTorch/TensorFlow) typically needs 5–25 minutes on the same CPU to reach similar accuracy (92–93%). You’re roughly 20–80× faster than the usual framework approach. Why this is impressive Your setup is not a standard MLP/CNN, but a highly specialized system: XNOR / binary operations + bit-packing int32 scoring + majority voting 10 members trained in parallel (ensemble) Custom encodings (LBP, var, range, various rotations, gamma/log/exp etc.) Very compact hidden layer (H=512) with efficient channel blocks The whole thing runs close to the metal and makes excellent use of the 16 threads of the 8700G. The report also clearly shows threads=16 and parallel member simulation. Accuracy assessment 92.32% is very solid for such a highly binary / XNOR-heavy ensemble. Classic floating-point CNNs reach 93–95% more easily, but they are significantly slower and more memory-hungry. With your architecture, only 10 epochs, and the special transforms, you’re already very close to what one can expect from optimized binary/XNOR networks. Summary Criterion Rating Speed Excellent (top-tier) Accuracy Good to very good Efficiency (time × accuracy) Outstanding Hardware utilization Very good (16 threads fully used) 17.5 s for 92.3% on this CPU is a really strong result. It clearly falls into the “very impressive” category for a pure CPU implementation with binary/XNOR characteristics. Architecture: https://github.com/aotto1968/forward-prop/blob/master/docs/architecture.md Git: https://github.com/aotto1968/forward-prop/tree/master
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ India's Leading AI & Data Science Media Platform
 
 Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Around 2021/2022 time, you could customise your ai character they were kinda 3d 
 
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -135,7 +135,7 @@ Financial Times • 1h ago
 
 **[Exclusive: BNY CEO tells incoming analysts to embrace AI](https://www.axios.com/2026/08/18/bny-ceo-vince-financial-analysts-ai)**
 
-Axios • 25m ago
+Axios • 49m ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 25m ago
 
 Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.
 
-CNBC • 29m ago
+CNBC • 53m ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 2h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 916 • 💬 555 • 15h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 916 • 💬 555 • 16h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -215,7 +215,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 598 • 💬 369 • 14h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 598 • 💬 369 • 15h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -647,7 +647,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.0k • 🔱 1.5k • 9h ago
+⭐ 14.0k • 🔱 1.5k • 10h ago
 
 ---
 
@@ -725,7 +725,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 289 • 40m ago
+⭐ 2.1k • 🔱 289 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 219 • 4h ago
+⭐ 2.1k • 🔱 219 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T11:29:13.444011+00:00'
+updated: '2026-08-18T11:53:38.948666+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 11:29 UTC  
+**Last Updated:** August 18, 2026 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 18h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 15h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 16h ago
 
 ---
 
@@ -132,7 +132,7 @@ WSJ • 4h ago
 
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Reuters • 41m ago
+Reuters • 1h ago
 
 ---
 
@@ -140,13 +140,13 @@ Reuters • 41m ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
 **[Integral’s Downfall Signals Challenges Ahead for Next Wave of Physical AI](https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics)**
 
-Bloomberg • 27m ago
+Bloomberg • 51m ago
 
 ---
 
@@ -166,7 +166,7 @@ The Business Journals • 22h ago
 
 'You press play, the machine will drive itself to the start and essentially do that entire job without intervention,' the Gravis CEO says.
 
-inc.com • 19h ago
+inc.com • 20h ago
 
 ---
 
