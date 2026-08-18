@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T10:57:04.232927+00:00'
+updated: '2026-08-18T11:29:13.434580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 10:57 UTC  
+**Last Updated:** August 18, 2026 at 11:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,164.03
+### $64,204.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.1%  
-**30d:** -1.7%  
-**90d:** -17.3%  
-**1y:** -43.2%  
+**24h:** +1.3%  
+**7d:** +1.5%  
+**30d:** -1.4%  
+**90d:** -17.1%  
+**1y:** -43.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -117,13 +117,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
 
-10h ago
+11h ago
 
 ---
 
 **[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -131,7 +131,7 @@ I'm curious about the practical side of this. If the attackers really have hundr
 
 Hello I’m Santiago, I just wanted to say I know a lot of people have taken some big hits in this community, stay strong and protect your bitcoin at all cost I love you (fyi everyone should try shrooms at least once)
 
-4h ago
+5h ago
 
 ---
 
@@ -147,7 +147,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-19h ago
+20h ago
 
 ---
 
@@ -163,11 +163,17 @@ CoinDesk • 17h ago
 
 ---
 
-**[Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/)**
+**[Gold vs. Bitcoin: Billionaire sees a major shift among investors](https://www.thestreet.com/crypto/markets/gold-vs-bitcoin-billionaire-sees-a-major-shift-among-investors)**
 
-Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
+thestreet.com • 21h ago
 
-Forbes • 1d ago
+---
+
+**[Bitcoin’s Volatility Trap Signals a Potentially Larger Move](https://finance.yahoo.com/markets/crypto/articles/bitcoin-volatility-trap-signals-potentially-100847981.html)**
+
+Bitcoin USD trades near $63,500 as of August 18, up roughly +1% on the day after bouncing off an intraday low of $62,751, according to data from CoinGecko. The recovery pushed price above the 78.6% Fibonacci retracement at $63,152 and left BTC near the $65,000 resistance area. The entire crypto ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,7 +181,7 @@ Forbes • 1d ago
 
 Fundstrat said rising long-term real yields could eventually help break Bitcoin out of its unusually quiet trading range, while Tom Lee noted easing oil prices as a backdrop for risk assets.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -183,7 +189,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -197,37 +203,29 @@ Seeking Alpha • 15h ago
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
-**[Bitcoin Edges Lower as Middle East Tensions Weigh](https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/bitcoin-edges-lower-as-middle-east-tensions-weigh-WlHvaiglVReXJeJlZ5gH?mod=bar_RHF)**
+**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
 
-Barron's • 1h ago
+Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
----
-
-**[Bitcoin to $10,000 a 'Faustian Bargain': Bloomberg's Top Strategist Updates BTC Price Outlook](https://www.tradingview.com/news/u_today:f136746fe094b:0-bitcoin-to-10-000-a-faustian-bargain-bloomberg-s-top-strategist-updates-btc-price-outlook/)**
-
-Bloomberg Intelligence Senior Commodity Strategist Mike McGlone has updated his medium-term Bitcoin forecast, warning investors about the risk of a major price correction. While the U.S. stock market, represented by the Nasdaq and S&P 500, is reaching new all-time highs, the leading cryptocurrency…
-
-TradingView • 1d ago
+CoinDesk • 6h ago
 
 ---
 
-**[Current price of Bitcoin for August 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
+**[Bitcoin edges up to $64k; Iran, rate jitters weigh on crypto](https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371)**
+
+Investing.com • 4h ago
+
+---
+
+**[Current price of Bitcoin for Aug. 18, 2026](https://fortune.com/article/price-of-bitcoin-08-18-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 18h ago
-
----
-
-**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
-
-Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
-
-nypost.com • 19h ago
+Fortune • 29m ago
 
 ---
 
@@ -247,7 +245,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 19h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 20h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -291,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 178 • ⏱️ 18:59 • 12h ago
+👁️ 21K • 👍 1K • 💬 178 • ⏱️ 18:59 • 13h ago
 
 ---
 
@@ -311,7 +309,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 8K • 👍 545 • 💬 292 • ⏱️ 10:35 • 15h ago
+👁️ 8K • 👍 545 • 💬 292 • ⏱️ 10:35 • 16h ago
 
 ---
 
@@ -341,7 +339,7 @@ Trump just got his own bank approved. Bitcoin just closed below its 200-week SMA
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 342 • 💬 21 • ⏱️ 18:26 • 13h ago
+👁️ 4K • 👍 342 • 💬 21 • ⏱️ 18:26 • 14h ago
 
 ---
 
@@ -349,7 +347,7 @@ Trump just got his own bank approved. Bitcoin just closed below its 200-week SMA
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 275 • 💬 14 • ⏱️ 2:16 • 9h ago
+👁️ 3K • 👍 275 • 💬 14 • ⏱️ 2:16 • 10h ago
 
 ---
 
@@ -369,7 +367,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 4K • 👍 395 • 💬 80 • ⏱️ 11:45 • 15h ago
+👁️ 4K • 👍 395 • 💬 80 • ⏱️ 11:45 • 16h ago
 
 ---
 
@@ -379,7 +377,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 27K • 👍 2K • 💬 129 • ⏱️ 21:02 • 13h ago
+👁️ 27K • 👍 2K • 💬 129 • ⏱️ 21:02 • 14h ago
 
 ---
 

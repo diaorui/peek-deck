@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T10:57:04.239053+00:00'
+updated: '2026-08-18T11:29:13.440681+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 10:57 UTC  
+**Last Updated:** August 18, 2026 at 11:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,891.20
+### $1,905.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +0.9%  
-**30d:** -0.4%  
-**90d:** -11.1%  
-**1y:** -53.6%  
+**24h:** +0.3%  
+**7d:** +1.4%  
+**30d:** +0.0%  
+**90d:** -10.7%  
+**1y:** -53.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ Ethereum’s All Core Developers Execution Call #243 delivered several decisions
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 15h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -172,7 +172,15 @@ CoinDesk • 20h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 19h ago
+TradingView • 20h ago
+
+---
+
+**[Current price of Ethereum for Aug. 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 22m ago
 
 ---
 
@@ -180,7 +188,7 @@ TradingView • 19h ago
 
 Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -188,15 +196,7 @@ CoinDesk • 22h ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 8h ago
-
----
-
-**[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
-
-Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
-
-FXStreet • 12h ago
+TradingView • 9h ago
 
 ---
 
@@ -208,11 +208,19 @@ ethereum.org • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+**[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-Fortune • 21h ago
+FXStreet • 13h ago
+
+---
+
+**[New Crypto Presale Pepeto Reveals Funds Update While Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-reveals-funds-update-while-ethereum-price-prediction-targets-10-000-1036469278)**
+
+DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -221,14 +229,6 @@ Fortune • 21h ago
 Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
 
 Benzinga • 1d ago
-
----
-
-**[New Crypto Presale Pepeto Reveals Funds Update While Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-reveals-funds-update-while-ethereum-price-prediction-targets-10-000-1036469278)**
-
-DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
-
-markets.businessinsider.com • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 11h ago
+👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 9h ago
+👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominanc
 
 📺 Crypto School - Brian Longest
 
-👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 20h ago
+👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 21h ago
 
 ---
 
