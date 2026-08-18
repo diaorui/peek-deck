@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T05:57:18.445161+00:00'
+updated: '2026-08-18T06:51:41.040210+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 05:57 UTC  
+**Last Updated:** August 18, 2026 at 06:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +1.2%  
-**30d:** -1.6%  
-**90d:** -17.2%  
-**1y:** -43.2%  
+**24h:** +1.2%  
+**7d:** +1.4%  
+**30d:** -1.5%  
+**90d:** -17.1%  
+**1y:** -43.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-6h ago
+7h ago
 
 ---
 
@@ -89,13 +89,13 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-10h ago
+11h ago
 
 ---
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 (If you detected sarcasm, you were right…) 😬
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-15h ago
+16h ago
 
 ---
 
@@ -125,13 +125,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
 
-5h ago
+6h ago
 
 ---
 
 **[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm curious about the practical side of this. If the attackers really have hundr
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-14h ago
+15h ago
 
 ---
 
@@ -159,7 +159,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 12h ago
+coindesk.com • 13h ago
 
 ---
 
@@ -171,27 +171,27 @@ Forbes • 1d ago
 
 ---
 
-**[Jane Street Discloses Nearly $1 Billion Bitcoin ETF Position After $15 Billion Loss](https://finance.yahoo.com/markets/crypto/articles/jane-street-discloses-nearly-1-040341779.html)**
+**[Michael Saylor Says Don't Invest in Bitcoin Unless You’ll Hold It for Over 4 Years— Strategy Chair Offers No 'Useful Wisdom' for Short-Term Traders](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-says-dont-invest-043320815.html)**
 
-Jane Street disclosed a $990 million bitcoin ETF stake after a $15 billion loss, but it may not signal bullishness on BTC.
+Strategy Inc. (NASDAQ:MSTR) Chair Michael Saylor advised investors on Monday to take a long-term approach to Bitcoin (CRYPTO: BTC) and refrain from investing unless they plan to hold it for at least four years. ‘Ideally Hold BTC for 10 Years’ During a Q&A session with Strategy’s shareholders, Saylor said the ongoing bear market has made things a bit “tougher,” but reaffirmed the company’s commitment to continuing its Bitcoin purchases. “If you’re a short-term price predictor, you’re a trader, I
 
-Yahoo Finance • 1h ago
-
----
-
-**[Fundstrat Predicts Bitcoin to $83,200, But Also $44,800 With 30% Swing Overdue](https://finance.yahoo.com/markets/crypto/articles/fundstrat-predicts-bitcoin-83-200-041327382.html)**
-
-Fundstrat says bitcoin's calm trading range signals a 30% swing is coming, which could push BTC to $83,200 or $44,800.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?](https://finance.yahoo.com/markets/articles/p-500-falls-bitcoin-surges-040529363.html)**
+**[The bitcoin price level where leveraged bulls could get whacked](https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked)**
 
-The S&P 500 fell as Bitcoin surged past $64,000 ahead of the Fed minutes. Here is what to watch this week.
+Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.
 
-Yahoo Finance • 1h ago
+coindesk.com • 55m ago
+
+---
+
+**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
+
+Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
+
+coindesk.com • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -213,15 +213,7 @@ Seeking Alpha • 10h ago
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 15h ago
-
----
-
-**[Current price of Bitcoin for August 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 19h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -229,7 +221,15 @@ Fortune • 19h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-nypost.com • 14h ago
+nypost.com • 15h ago
+
+---
+
+**[Current price of Bitcoin for August 17, 2026](https://fortune.com/article/price-of-bitcoin-08-17-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+fortune.com • 20h ago
 
 ---
 
@@ -249,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 14h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 15h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 20h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 21h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -293,7 +293,7 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 226 • 💬 59 • ⏱️ 14:53 • 13h ago
+👁️ 6K • 👍 226 • 💬 59 • ⏱️ 14:53 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 9K • 👍 135 • 💬 128 • ⏱️ 3:11 • 14h ago
+👁️ 9K • 👍 135 • 💬 128 • ⏱️ 3:11 • 15h ago
 
 ---
 
@@ -313,7 +313,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 44K • 👍 3K • 💬 134 • ⏱️ 14:24 • 9h ago
+👁️ 44K • 👍 3K • 💬 134 • ⏱️ 14:24 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin finally makes a meaningful move! But do the bulls have the strength it n
 
 📺 Crypto Zombie
 
-👁️ 9K • 👍 867 • 💬 96 • ⏱️ 34:06 • 11h ago
+👁️ 9K • 👍 867 • 💬 96 • ⏱️ 34:06 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 3K • 👍 348 • 💬 73 • ⏱️ 11:45 • 10h ago
+👁️ 3K • 👍 348 • 💬 73 • ⏱️ 11:45 • 11h ago
 
 ---
 

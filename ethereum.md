@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T05:57:18.450403+00:00'
+updated: '2026-08-18T06:51:41.046261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 05:57 UTC  
+**Last Updated:** August 18, 2026 at 06:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +0.9%  
-**30d:** -0.4%  
-**90d:** -11.1%  
-**1y:** -53.6%  
+**24h:** +0.1%  
+**7d:** +1.3%  
+**30d:** -0.1%  
+**90d:** -10.8%  
+**1y:** -53.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 10h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 15h ago
+coindesk.com • 16h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 15h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 14h ago
 
 Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
 
-CoinDesk • 17h ago
+coindesk.com • 18h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 17h ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView • 3h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
@@ -212,19 +212,19 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+fortune.com • 17h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 13h ago
+CCN.com • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 6h ago
+👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 20h ago
+👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 13K • 👍 4 • 💬 14 • ⏱️ 4:44 • 4h ago
+👁️ 13K • 👍 4 • 💬 14 • ⏱️ 4:44 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 187 • 💬 170 • ⏱️ 18:58 • 9h ago
+👁️ 4K • 👍 187 • 💬 170 • ⏱️ 18:58 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 4h ago
+👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 7h ago
+👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 490 • 💬 47 • ⏱️ 13:34 • 10h ago
+👁️ 4K • 👍 490 • 💬 47 • ⏱️ 13:34 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 13h ago
+👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 14h ago
 
 ---
 
