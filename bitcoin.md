@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T02:36:15.429123+00:00'
+updated: '2026-08-18T03:44:22.783286+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 02:36 UTC  
+**Last Updated:** August 18, 2026 at 03:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
+**24h:** +0.9%  
 **7d:** +1.1%  
 **30d:** -1.7%  
 **90d:** -17.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1289.69B
+**Market Cap:** $1286.13B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--49.0%
+-49.2%
 
 **All-Time Low:** $67.81
-+94648.6%
++94402.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-11h ago
+13h ago
 
 ---
 
@@ -103,13 +103,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-6h ago
+8h ago
 
 ---
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 (Referring to prebuilt versions.) While I do not own one (yet) myself, I keep wondering: since it has only volatile memory, the seed needs to be entered every time, through QR scan. That in itself is a huge risk. I would not want such a risky QR code laying around. Is the version with the card reader better? It would allow for encrypted storage of my seedphrase.
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 16h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 17h ago
 
 ---
 
@@ -159,7 +159,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -168,6 +168,14 @@ CoinDesk • 9h ago
 Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...
 
 Forbes • 1d ago
+
+---
+
+**[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
+
+Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
+
+CNBC • 42m ago
 
 ---
 
@@ -181,7 +189,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -189,7 +197,7 @@ Bloomberg.com • 12h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 10h ago
+fortune.com • 11h ago
 
 ---
 
@@ -197,15 +205,7 @@ Fortune • 10h ago
 
 CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.
 
-theblock.co • 9h ago
-
----
-
-**[Bitcoin eyes breakout as 6-week symmetrical triangle narrows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634075-bitcoin-eyes-breakout-as-6-week-symmetrical-triangle-narrows)**
-
-Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
-
-Seeking Alpha • 6h ago
+The Block • 10h ago
 
 ---
 
@@ -213,7 +213,7 @@ Seeking Alpha • 6h ago
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Motley Fool • 14h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-nypost.com • 11h ago
+nypost.com • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ TradingView • 1d ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 20h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 21h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -249,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 11h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 12h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -265,7 +265,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 16h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 18h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -273,7 +273,7 @@ Independent European community operating a coordinator for the Mostro peer-to-pe
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 1 • 💬 0 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
+⬆️ 1 • 💬 0 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=XHeMsXDyw2A)
 
 ---
 
@@ -287,13 +287,33 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[The Money Printer Is Surging and Bitcoin Won&#39;t Move — What&#39;s Really Going On?](https://www.youtube.com/watch?v=Ez90WQSniIg)**
+
+Bitcoin is stuck near $64000 even as money supply and global liquidity surge, creating one of the strangest divergences in Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 11K • 👍 986 • 💬 140 • ⏱️ 18:59 • 5h ago
+
+---
+
+**[BITCOIN.............?!](https://www.youtube.com/watch?v=iEw6iEV4ZsU)**
+
+Bitcoin finally makes a meaningful move! But do the bulls have the strength it needs to make it through? BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 8K • 👍 814 • 💬 94 • ⏱️ 34:06 • 9h ago
+
+---
+
 **[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
 
 AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 611 • 💬 86 • ⏱️ 46:21 • 11h ago
+👁️ 11K • 👍 637 • 💬 138 • ⏱️ 46:21 • 12h ago
 
 ---
 
@@ -303,17 +323,37 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 27K • 👍 2K • 💬 102 • ⏱️ 14:24 • 5h ago
+👁️ 37K • 👍 3K • 💬 123 • ⏱️ 14:24 • 7h ago
 
 ---
 
-**[Where Do We Go From Here? (Bitcoin and Forks)](https://www.youtube.com/watch?v=e4cJpDpBEsY)**
+**[Bitcoin And Stablecoins Will Coexist. Here&#39;s Why.](https://www.youtube.com/watch?v=eYIMha2dlhg)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss where we go from here, regarding ...
+Financial institutions once refused to touch the public cloud and built their own data centers instead. Now they are migrating in ...
 
-📺 Bitcoin University
+📺 ARK Invest
 
-👁️ 14K • 👍 1K • 💬 658 • ⏱️ 14:27 • 1d ago
+👁️ 4K • 👍 111 • 💬 3 • ⏱️ 1:24 • 13h ago
+
+---
+
+**[Is the Bitcoin Bottom In? The Level That Decides](https://www.youtube.com/watch?v=DPhzzkjiD9s)**
+
+In this video I break down the latest Bitcoin price action to determine if the current bounce is a sustainable recovery or a trap.
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 313 • 💬 41 • ⏱️ 8:17 • 10h ago
+
+---
+
+**[Bitcoin or Anarchy](https://www.youtube.com/watch?v=gGIzeuhudLs)**
+
+Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com/discovercrypto/about ​​If you have ever made ...
+
+📺 Discover Crypto
+
+👁️ 862 • 👍 59 • 💬 86 • ⏱️ 1:20 • 3h ago
 
 ---
 
@@ -323,67 +363,27 @@ As confidence in the dollar comes under pressure, the battle over the future of 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 72 • ⏱️ 15:49 • 1d ago
+👁️ 14K • 👍 1K • 💬 96 • ⏱️ 15:49 • 1d ago
 
 ---
 
-**[Solar ROI with and without Bitcoin Mining](https://www.youtube.com/watch?v=CZbUfnSoUSE)**
+**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
 
-Solar ROI with and without Bitcoin Mining. Too many people look at solar panels as just an option for their home or to offset their ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 VoskCoin
+📺 Crypto Crew University
 
-👁️ 7K • 👍 278 • 💬 46 • ⏱️ 12:52 • 1d ago
-
----
-
-**[Bitcoin: The Winds of Winter](https://www.youtube.com/watch?v=OXUeLGbMKyU)**
-
-For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The ...
-
-📺 Benjamin Cowen
-
-👁️ 98K • 👍 6K • 💬 339 • ⏱️ 16:15 • 1d ago
+👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 11h ago
 
 ---
 
-**[I Spent 15,000 Hours Trying to KILL Bitcoin | Jeff Booth](https://www.youtube.com/watch?v=XZrepxaFzuw)**
+**[Bitcoin LOSES the 200-Week Moving Average: What Happens Next?](https://www.youtube.com/watch?v=xtstCUSIDFg)**
 
-Bitcoin #Crypto #finance Jeff Booth argues that Bitcoin represents a fundamentally different monetary system built around scarcity, ...
+SPONSOR: Bitbase. Verified Investing listeners get exclusive access to trade and unlock up to 20000 USDT in bonuses.
 
-📺 The Wolf Of All Streets
+📺 Verified Investing
 
-👁️ 18K • 👍 768 • 💬 360 • ⏱️ 1:03:40 • 1d ago
-
----
-
-**[The Bitcoin DCA Strategy That&#39;s Almost Impossible to Beat](https://www.youtube.com/watch?v=eDTAACgstZk)**
-
-DCA is never the best strategy and it's never the worst — but the studies say it's quite frustrating to beat a weekly Bitcoin DCA.
-
-📺 Krown
-
-👁️ 829 • 👍 42 • 💬 18 • ⏱️ 1:02 • 13h ago
-
----
-
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=yLY0LGmBTt8)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Apples & Tiaras
-
-👁️ 4K • 👍 1K • 2h ago
-
----
-
-**[Everyone Is Wrong About Bitcoin | Eric Krown](https://www.youtube.com/watch?v=2UTFhHrfD2E)**
-
-Alessandro and Eric Krown go deep on the one question the entire crypto market is obsessed with right now: is the bear market ...
-
-📺 Crypto Banter
-
-👁️ 13K • 👍 484 • 💬 23 • ⏱️ 55:12 • 2d ago
+👁️ 4K • 👍 292 • 💬 14 • ⏱️ 11:24 • 10h ago
 
 ---
 

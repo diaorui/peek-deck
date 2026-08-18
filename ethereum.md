@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T02:36:15.435145+00:00'
+updated: '2026-08-18T03:44:22.789464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 02:36 UTC  
+**Last Updated:** August 18, 2026 at 03:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,910.28
+### $1,891.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +0.9%  
-**30d:** -0.4%  
-**90d:** -11.1%  
+**24h:** -0.4%  
+**7d:** +0.8%  
+**30d:** -0.5%  
+**90d:** -11.2%  
 **1y:** -53.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.95B
+**Market Cap:** $228.27B
 Rank #2
 
-**Circulating Supply:** 120,681,932 ETH
+**Circulating Supply:** 120,681,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-61.8%
 
 **All-Time Low:** $0.43
-+439905.2%
++436759.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 21h ago
 
 ---
 
@@ -160,27 +160,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html)**
-
-Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
-
-Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
-
-benzinga.com • 1d ago
-
----
-
 **[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -188,27 +172,43 @@ Yahoo Finance • 10h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
 
-Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
 
-TradingView • 11h ago
+PR Newswire • 15h ago
 
 ---
 
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 10h ago
+CCN.com • 11h ago
+
+---
+
+**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
+
+Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
+
+Benzinga • 1d ago
+
+---
+
+**[Current price of Ethereum for August 17, 2026](https://fortune.com/article/price-of-ethereum-08-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 14h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -216,7 +216,7 @@ MarketWatch • 12h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 23h ago
 
 Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -238,17 +238,17 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 969 • 👍 130 • 💬 263 • ⏱️ 17:08 • 3h ago
+👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 4h ago
 
 ---
 
-**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
 
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
 
-📺 The Modern Investor
+📺 Zarx Crypto
 
-👁️ 4K • 👍 415 • 💬 218 • ⏱️ 29:45 • 17h ago
+👁️ 8K • 👍 4 • 💬 14 • ⏱️ 4:44 • 2h ago
 
 ---
 
@@ -258,7 +258,35 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 8K • 👍 226 • 💬 25 • ⏱️ 35:05 • 1d ago
+👁️ 8K • 👍 230 • 💬 25 • ⏱️ 35:05 • 1d ago
+
+---
+
+**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 18h ago
+
+---
+
+**[BMNR &amp; ETH Breakout Soon? Tom Lee Keeps Buying BMNR &amp; ETH](https://www.youtube.com/watch?v=PW8oVXWCvW0)**
+
+BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxFi: https://www.maxfi.tech/ Tutorials + ...
+
+📺 Big Time Trades
+
+👁️ 656 • 👍 45 • 💬 12 • ⏱️ 13:33 • 5h ago
+
+---
+
+**[Ethereum and Solana more Valuable Than Gold?](https://www.youtube.com/watch?v=tMfP6MZM4nY)**
+
+📺 Discover Crypto
+
+👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 2h ago
 
 ---
 
@@ -268,17 +296,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 32K • 👍 1K • 💬 117 • ⏱️ 15:54 • 1d ago
-
----
-
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 6K • 👍 257 • 💬 12 • ⏱️ 2:54 • 10h ago
+👁️ 33K • 👍 1K • 💬 121 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -288,47 +306,27 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 144 • 💬 158 • ⏱️ 18:58 • 5h ago
+👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 6h ago
 
 ---
 
-**[Ethereum Price Could Rally to Over $2,000 Within A Week](https://www.youtube.com/watch?v=lY-zCMkeoQ4)**
+**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
 
-Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ETH on watch for a potentially sharp breakout.
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
 
-📺 FXEmpire
+📺 Crypto Crew University
 
-👁️ 106 • 👍 4 • 💬 2 • ⏱️ 3:04 • 15h ago
-
----
-
-**[Bitcoin&#39;s Fifth Attack On $65,080 (This One Looks Different)](https://www.youtube.com/watch?v=ObsTSYcdMTE)**
-
-Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
-
-📺 Verified Investing
-
-👁️ 891 • 👍 79 • 💬 5 • ⏱️ 15:38 • 4h ago
+👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 11h ago
 
 ---
 
-**[Do You Own XRP, Bitcoin And Ethereum? This Is About To Shock The Heck Out Of You](https://www.youtube.com/watch?v=wt_KWZOTXrE)**
+**[Bitcoin Y Ethereum: ¿A Punto De Iniciar un Movimiento Alcista?](https://www.youtube.com/watch?v=4thY6Np9Ml8)**
 
-What do you think is going to happen to investors around the world when they see XRP go to $100 per coin... what about when ...
+Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
 
-📺 Money Rules - Investing Tips 
+📺 CdeCripto
 
-👁️ 9K • 👍 888 • 💬 240 • ⏱️ 17:49 • 2d ago
-
----
-
-**[💥 BITCOIN PEGA el SALTO POR ESTA RAZÓN! 👉 ETHEREUM llega MÁS UTILIDAD!](https://www.youtube.com/watch?v=xwkTyMExYqA)**
-
-NEXO RECIBE hasta 13% en intereses: https://nexo.sjv.io/rEDBaQ ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ MEJORES ...
-
-📺 WhatsUpCripto
-
-👁️ 585 • 👍 113 • 💬 19 • ⏱️ 8:05 • 4h ago
+👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 7h ago
 
 ---
 
