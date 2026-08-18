@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T11:53:38.936124+00:00'
+updated: '2026-08-18T12:45:45.337225+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 11:53 UTC  
+**Last Updated:** August 18, 2026 at 12:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-4h ago
+5h ago
+
+---
+
+**[Anthropic Is Watermarking AI Text at a $65B Run Rate: 2026 Is the Year AI Goes Regulatory and Agentic](https://www.reddit.com/r/artificial/comments/1vrnmc4/anthropic_is_watermarking_ai_text_at_a_65b_run/)**
+
+Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of enterprise applications to include task-specific AI agents in 2026, up from under 5%. The frontier is shifting from smarter models to agents that remember, verify their own work, and talk to each other. Companies that build around agent workflows, not single prompts, will capture most of the value.
+
+23m ago
 
 ---
 
@@ -55,7 +63,31 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-16h ago
+17h ago
+
+---
+
+**[Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
+
+I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
+
+1m ago
+
+---
+
+**[The result looked unusually strong. The clean re-split killed it.](https://www.reddit.com/r/artificial/comments/1vrnv4s/the_result_looked_unusually_strong_the_clean/)**
+
+The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
+
+12m ago
+
+---
+
+**[OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?](https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/)**
+
+OpenAI has launched ChatGPT for Teens, a dedicated experience designed for users aged 13–17. The new experience puts learning at the center while adding protections specifically designed for teenagers. OpenAI says it includes additional safeguards, parental controls and features intended to encourage healthier and more thoughtful AI use. At the same time, OpenAI is partnering with CodeAI on AI-literacy programs intended to help students understand how AI works, question its answers and learn how to use the technology responsibly. What I find particularly interesting isn't just the safety features. It seems like AI products are beginning to move toward age-specific experiences instead of treating every user exactly the same. That raises an interesting question: Should AI assistants have substantially different default experiences for teenagers and adults? Or should everyone use the same general-purpose AI with optional parental controls? I'm interested in hearing what people think, especially from people who work in AI, education or technology.
+
+1h ago
 
 ---
 
@@ -71,7 +103,7 @@ Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% t
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-13h ago
+14h ago
 
 ---
 
@@ -79,39 +111,7 @@ Most "chat with your data" tools give you a confident answer and no way to tell 
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-18h ago
-
----
-
-**[Strongest candidates for an AI Microchip moment](https://www.reddit.com/r/artificial/comments/1vr6x5j/strongest_candidates_for_an_ai_microchip_moment/)**
-
-I am curious about all these data centers being built. What are the chances AI can have a microchip moment potentially rendering them all useless? This could be a black swan event that could wipe out a lot of investment and potentially destroy some very large businesses. If this is possible, what are the mostly likely candidates? In particular, I am interested in hearing from anyone who may be working on one of these candidates, even if it is still in RD and their opinion on how likely they are to succeed.
-
-13h ago
-
----
-
-**[Should AI agents have their own company cards?](https://www.reddit.com/r/artificial/comments/1vr54rn/should_ai_agents_have_their_own_company_cards/)**
-
-As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
-
-14h ago
-
----
-
-**[Why NVIDIA’s Six-Year-Old A100 GPU Is Still Making Money](https://www.reddit.com/r/artificial/comments/1vqldp4/why_nvidias_sixyearold_a100_gpu_is_still_making/)**
-
-India's Leading AI & Data Science Media Platform
-
-🔗 [analyticsindiamag.com](https://analyticsindiamag.com/ai-features/why-nvidias-six-year-old-gpu-is-still-making-money) • 1d ago
-
----
-
-**[Looking for the name of an old ai app](https://www.reddit.com/r/artificial/comments/1vr7dkg/looking_for_the_name_of_an_old_ai_app/)**
-
-Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?
-
-13h ago
+19h ago
 
 ---
 
@@ -119,47 +119,39 @@ Around 2021/2022 time, you could customise your ai character they were kinda 3d 
 
 ## Google News: "ai"
 
-**[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
-
-The New York Times • 16h ago
-
----
-
-**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
-
-Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
-
-Financial Times • 1h ago
-
----
-
-**[Exclusive: BNY CEO tells incoming analysts to embrace AI](https://www.axios.com/2026/08/18/bny-ceo-vince-financial-analysts-ai)**
-
-Axios • 49m ago
-
----
-
-**[Nvidia's AI moat is shifting from chips to capital](https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html)**
-
-Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.
-
-CNBC • 53m ago
-
----
-
-**[Blind since birth, meet the man using AI as his ‘eyes’](https://www.cnn.com/2026/08/18/world/video/ai-blind-transformers-hongkong-hnk-spc)**
-
-Hong Konger Chung Chi Ming is using this small wearable to navigate his city independently for the first time.
-
-CNN • 1h ago
-
----
-
 **[She told no one about her agony except ChatGPT. What her death reveals about AI risks](https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health)**
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 2h ago
+NPR • 3h ago
+
+---
+
+**[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
+
+The New York Times • 21h ago
+
+---
+
+**[Exclusive: The nuclear industry has a new AI tool — with Nvidia backing](https://www.axios.com/2026/08/18/atomic-canyon-ai-nuclear-nvidia)**
+
+Axios • 28m ago
+
+---
+
+**[Financing AI infrastructure: Bob Gelfond on the creation of compute-backed digital currency](https://www.cnbc.com/video/2026/08/18/financing-ai-infrastructure-bob-gelfond-on-the-creation-of-compute-backed-digital-currency.html)**
+
+Bob Gelfond, MQS Management CEO and MagiQ Technologies founder and chairman, joins 'Squawk Box' to discuss financing AI infrastructure, how hyperscalers could create a digital currency backed by computing power, and more.
+
+CNBC • 12m ago
+
+---
+
+**[Companies want employees to help build AI tools they expect them to use. That comes with 2 big challenges.](https://www.businessinsider.com/walmart-ai-workers-correcting-training-tools-employment-jobs-2026-8)**
+
+Walmart's big bet on AI is putting the burden on its employees to fix mistakes the tech is making.
+
+Business Insider • 22m ago
 
 ---
 
@@ -169,25 +161,35 @@ WSJ • 1d ago
 
 ---
 
+**[Creating nude deepfakes is rampant among young people — and AI safety education is lacking](https://www.cnn.com/2026/08/18/health/kids-no-ai-safety-guidance-in-school-wellness)**
+
+Only 30% of teens say a teacher has spoken about using AI safely, according to a new survey. The results suggest guidance on AI literacy isn’t happening in class.
+
+CNN • 3h ago
+
+---
+
+**[Opinion | Why tools to detect AI-generated text are doomed](https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/)**
+
+Human- and machine-written texts are converging.
+
+The Washington Post • 12m ago
+
+---
+
+**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
+
+Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
+
+Financial Times • 8h ago
+
+---
+
 **[Red Agent Exploits Snowflake Vuln Missed by Github Copilot](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)**
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-wiz.io • 21h ago
-
----
-
-**[Why China’s Affordable AI Is a Worry for Silicon Valley](https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals)**
-
-Bloomberg • 7h ago
-
----
-
-**[AI to help planes avoid climate-warming contrails above North Atlantic](https://www.bbc.com/news/articles/c62em5lpvnjo)**
-
-A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.
-
-BBC • 2h ago
+wiz.io • 22h ago
 
 ---
 
@@ -199,7 +201,15 @@ BBC • 2h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 916 • 💬 555 • 16h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 968 • 💬 584 • 16h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+
+---
+
+**[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://news.ycombinator.com/item?id=49337392)**
+
+In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
+
+⬆️ 694 • 💬 398 • 15h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -211,19 +221,11 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 ---
 
-**[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://news.ycombinator.com/item?id=49337392)**
-
-In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
-
-⬆️ 598 • 💬 369 • 15h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
-
----
-
 **[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://news.ycombinator.com/item?id=49331423)**
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 381 • 💬 146 • 21h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 394 • 💬 149 • 22h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -231,7 +233,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands
 
-⬆️ 326 • 💬 128 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
+⬆️ 327 • 💬 128 • 1d ago • [Vectoral](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
@@ -239,7 +241,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 306 • 💬 182 • 21h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 312 • 💬 188 • 22h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -249,13 +251,21 @@ One of the biggest questions I get at Drop-In Time at the library (besides "what
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 243 • 💬 518 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 244 • 💬 518 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
 **[AI in drug discovery – what it is, where we stand and the path forward](https://news.ycombinator.com/item?id=49313367)**
 
-⬆️ 185 • 💬 92 • 2d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+⬆️ 186 • 💬 92 • 2d ago • [science.org](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
+**[Google buys crashed airline Spirit's data at auction, because AI](https://news.ycombinator.com/item?id=49343559)**
+
+$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
+
+⬆️ 178 • 💬 97 • 2h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -263,15 +273,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
-⬆️ 151 • 💬 182 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
-
----
-
-**[Anthropic's War on open source AI](https://news.ycombinator.com/item?id=49332564)**
-
-Anthropic's War on Opensource AI
-
-⬆️ 147 • 💬 57 • 20h ago • [X (formerly Twitter)](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
+⬆️ 152 • 💬 182 • 1d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
@@ -285,7 +287,7 @@ AI scrapers are the most antisocial dicks in the world.” Author and host of Pi
 
 📺 The Tech Report
 
-👁️ 105K • 👍 3K • 💬 774 • ⏱️ 30:20 • 19h ago
+👁️ 105K • 👍 3K • 💬 774 • ⏱️ 30:20 • 20h ago
 
 ---
 
@@ -345,7 +347,7 @@ subscribe or i'll switch to ai slop EDITING ASSETS & LINKS: https://skyboi.me MU
 
 📺 SkyBoi
 
-👁️ 128K • 👍 6K • 💬 434 • ⏱️ 9:37 • 2d ago
+👁️ 128K • 👍 6K • 💬 434 • ⏱️ 9:37 • 3d ago
 
 ---
 
@@ -355,7 +357,7 @@ Ed Zitron returns to The 1600 to make his case that AI's biggest players are bet
 
 📺 Newsweek
 
-👁️ 50K • 👍 2K • 💬 562 • ⏱️ 1:16:57 • 19h ago
+👁️ 50K • 👍 2K • 💬 562 • ⏱️ 1:16:57 • 20h ago
 
 ---
 
@@ -427,7 +429,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,163 • 21h ago
+⬇️ 503,632 • ❤️ 1,163 • 22h ago
 
 ---
 
@@ -647,7 +649,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.0k • 🔱 1.5k • 10h ago
+⭐ 14.0k • 🔱 1.5k • 11h ago
 
 ---
 
@@ -657,7 +659,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 5h ago
+⭐ 13.8k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -667,7 +669,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 3h ago
+⭐ 8.6k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -715,7 +717,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 4h ago
+⭐ 2.2k • 🔱 177 • 5h ago
 
 ---
 
@@ -735,7 +737,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 219 • 5h ago
+⭐ 2.1k • 🔱 219 • 6h ago
 
 ---
 

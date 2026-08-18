@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T11:53:38.946415+00:00'
+updated: '2026-08-18T12:45:45.351972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 11:53 UTC  
+**Last Updated:** August 18, 2026 at 12:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,905.38
+### $1,902.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.4%  
-**30d:** +0.0%  
-**90d:** -10.7%  
-**1y:** -53.4%  
+**24h:** -0.2%  
+**7d:** +1.1%  
+**30d:** -0.3%  
+**90d:** -11.0%  
+**1y:** -53.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 45m ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 19m ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 1h ago
 
 ---
 
@@ -152,35 +152,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+**[Allocation Update - Q2 2026](https://blog.ethereum.org/2026/08/18/allocation-q2-26)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
-
-The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
-
-CoinDesk • 21h ago
+ethereum.org • 31m ago
 
 ---
 
-**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
+**[Ethereum to $5,000? Tom Lee Flags ‘Major Breakout’ Setup as 2 Historic Rally Signals Flash](https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-tom-lee-113044251.html)**
 
-Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
+Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
 
-TradingView • 20h ago
-
----
-
-**[Current price of Ethereum for Aug. 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 46m ago
+finance.yahoo.com • 1h ago
 
 ---
 
@@ -188,7 +172,15 @@ Fortune • 46m ago
 
 Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
+
+---
+
+**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
 
 ---
 
@@ -196,15 +188,7 @@ CoinDesk • 23h ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 9h ago
-
----
-
-**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
-
-tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
-
-ethereum.org • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -212,7 +196,31 @@ ethereum.org • 1d ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
+
+---
+
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+
+finance.yahoo.com • 17h ago
+
+---
+
+**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
+
+The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
+
+CoinDesk • 22h ago
+
+---
+
+**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
+
+Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
+
+TradingView • 21h ago
 
 ---
 
@@ -220,15 +228,7 @@ FXStreet • 13h ago
 
 DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
 
-markets.businessinsider.com • 4h ago
-
----
-
-**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
-
-Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
-
-Benzinga • 1d ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 12h ago
+👁️ 5K • 👍 319 • 💬 294 • ⏱️ 17:08 • 13h ago
 
 ---
 
@@ -272,7 +272,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 10h ago
+👁️ 15K • 👍 12 • 💬 15 • ⏱️ 4:44 • 11h ago
 
 ---
 
@@ -282,7 +282,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 34K • 👍 1K • 💬 117 • ⏱️ 15:54 • 1d ago
+👁️ 34K • 👍 1K • 💬 117 • ⏱️ 15:54 • 2d ago
 
 ---
 
@@ -292,7 +292,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 14h ago
+👁️ 1K • 👍 102 • 💬 11 • ⏱️ 14:14 • 15h ago
 
 ---
 
@@ -300,7 +300,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 10h ago
+👁️ 1K • 👍 33 • 💬 53 • ⏱️ 0:47 • 11h ago
 
 ---
 
@@ -320,7 +320,7 @@ A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominanc
 
 📺 Crypto School - Brian Longest
 
-👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 21h ago
+👁️ 24 • 👍 1 • 💬 1 • ⏱️ 27:41 • 22h ago
 
 ---
 
