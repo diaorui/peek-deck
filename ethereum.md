@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T01:13:44.507441+00:00'
+updated: '2026-08-18T02:36:15.435145+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 01:13 UTC  
+**Last Updated:** August 18, 2026 at 02:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.5%  
-**30d:** +0.2%  
-**90d:** -10.6%  
-**1y:** -53.3%  
+**24h:** -0.3%  
+**7d:** +0.9%  
+**30d:** -0.4%  
+**90d:** -11.1%  
+**1y:** -53.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 20h ago
 
 ---
 
@@ -164,31 +164,7 @@ CoinDesk • 2d ago
 
 Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
-
-The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-Yahoo Finance • 9h ago
-
----
-
-**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
-
-The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
-
-CoinDesk • 11h ago
-
----
-
-**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
-
-Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
-
-TradingView • 9h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -200,15 +176,39 @@ benzinga.com • 1d ago
 
 ---
 
+**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-buys-another-154759542.html)**
+
+The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
+
+The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
+
+CoinDesk • 12h ago
+
+---
+
+**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
+
+Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
+
+TradingView • 11h ago
+
+---
+
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 11h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -216,7 +216,7 @@ MarketWatch • 11h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week on a cautious note after slipping over 3%, 1.5%, and 3.5%, respectively, in the previous week. BTC finds support around the key $62,300 level while ETH continues to trade sideways.
 
-FXStreet • 21h ago
+FXStreet • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 21h ago
 
 Ethereum developers propose EIP-8141 and related privacy features for the 2027 Hegotá upgrade, enabling native shielded transactions and gas fee
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 969 • 👍 130 • 💬 263 • ⏱️ 17:08 • 1h ago
+👁️ 969 • 👍 130 • 💬 263 • ⏱️ 17:08 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 415 • 💬 218 • ⏱️ 29:45 • 16h ago
+👁️ 4K • 👍 415 • 💬 218 • ⏱️ 29:45 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 6K • 👍 257 • 💬 12 • ⏱️ 2:54 • 9h ago
+👁️ 6K • 👍 257 • 💬 12 • ⏱️ 2:54 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 144 • 💬 158 • ⏱️ 18:58 • 4h ago
+👁️ 2K • 👍 144 • 💬 158 • ⏱️ 18:58 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum is squeezing inside a daily symmetrical triangle near $1900, putting ET
 
 📺 FXEmpire
 
-👁️ 106 • 👍 4 • 💬 2 • ⏱️ 3:04 • 14h ago
+👁️ 106 • 👍 4 • 💬 2 • ⏱️ 3:04 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 891 • 👍 79 • 💬 5 • ⏱️ 15:38 • 3h ago
+👁️ 891 • 👍 79 • 💬 5 • ⏱️ 15:38 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ NEXO RECIBE hasta 13% en intereses: https://nexo.sjv.io/rEDBaQ ▭▭▭▭▭�
 
 📺 WhatsUpCripto
 
-👁️ 585 • 👍 113 • 💬 19 • ⏱️ 8:05 • 3h ago
+👁️ 585 • 👍 113 • 💬 19 • ⏱️ 8:05 • 4h ago
 
 ---
 
