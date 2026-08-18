@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T08:37:00.680078+00:00'
+updated: '2026-08-18T09:33:43.783267+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 08:37 UTC  
+**Last Updated:** August 18, 2026 at 09:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
 
-13h ago
+14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 “你在帮人倒米吗？“ Lauren Tan didn't get replaced by her own tooling. She got promoted by it — and nobody handed her that promotion. She built the case for it herself, one lint rule and one CI gate at a time, until the argument was undeniable. That's the part nobody's really talking about when they talk about AI and engineering jobs: the shift rewards the people who go looking for the leverage first, not the people who wait to be told it's safe to look. That "build the case yourself" instinct is exactly what clicked for me watching my own son learn to run a team instead of carry it. My son started playing 王者荣耀 (Honor of Kings) since he was a teenager — a 5v5 multiplayer battle arena game where you manage a roster of specialized heroes, growing and levelling up their strengths through battles and gear. In his early gaming days I could hear him cursing and swearing from his room — bad coordination, worst teammates. There was a phrase we used for a bad teammate in my own career — 帮人倒米, a Cantonese idiom that literally translates as helping someone tip over their own grain container, meaning ruining or sabotaging someone's livelihood. But the cursing became less and less. He got good at managing his heroes and coordinating with his team. He started climbing the leaderboard. People started noticing him and his team. Then, in college, he started getting invited to tournaments — cash prizes when he won, and one lagged-connection loss at a KL tournament he still suspects was foul play. Time has changed — my dad would've killed me for wasting my teenage years on video games. Now he's in university, still playing, still winning tournaments and cash prizes with his team. Why I'm bringing this up: I always thought these AI agents are kind of like the heroes my son uses in the game. Your skill is in your managing these heros and how to grow them, level them up to serve your purpose. You don't go down to the battle yourself. You engage the heros to do it for you. The skill is in the managing. https://preview.redd.it/x81ngqc083kh1.jpg?width=1024&format=pjpg&auto=webp&s=c6896d79f17bd3967eb28edcd22a6557ace5b648 __________ I keep walking into the same room wearing a different name on the door — the accountant's room, the analyst's room, now the engineer's. Every time, someone's being told the machine is coming for their hours, not their name on the work. There's a post in my own back catalog that lands on this exact rung — the exact rung I found AI actually deleting, and the one the ones who get ahead of it stop standing on. Drop your take — are you already the head chef of your own stack, or are you still doing all the cooking yourself? Clip credit: MTS (Monitor The Situation) — full video on their channel. DM for credit or removal requests.
 
-55m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Been reading more about AI voice cloning and this seems like one of the scarier 
 
 As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes. If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ As AI agents start doing more ops work, I think business banking has to think ab
 
 Lately I have started wondering if we blame the model too much. You can have a genuinely good model and still end up with a terrible AI product. The model is rarely where things break. The data is messy. Two systems call the same thing by different names. Nobody quite knows which number is the right one. Half the context that matters lives in someone's head, undocumented. And then we expect an agent to walk into all of that and make a confident decision. I have watched teams spend months carefully evaluating models, when the real problem was everything sitting behind the model. Here is the part I find interesting. Once you fix the data and the context underneath, the AI part often becomes the easy bit. It gets simpler, faster, and a lot more reliable, almost like it was waiting for a clean foundation all along. So I am genuinely curious. When an enterprise AI project stalls, what have you seen as the real reason?
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Lately I have started wondering if we blame the model too much. You can have a g
 
 Research conducted by BYU professor Mark Keith suggests using AI the wrong way could have serious long-term negative impacts. His review of the AI use literature indicates many people: Don't retain skills after AI assistance is removed Forget what they learned using AI Demonstrate lower critical thinking skills and less mental effort/engagement with tasks The Long-Term AI Outcomes Gap: Mark Keith, BYU In fact, over the long term, failing to engage with AI the right way could leave people worse off than those who never adopted AI in the first place. (There are a lot of non-AI adopters out there. Most people think AI equals a chatbot, and 50% of Americans don't plan to use them). What's the right way to use AI? The research suggests: Verifying information AI is providing Use it to challenge assumptions Ask whether you're asking the right questions Are you finding your critical thinking skills eroded as you use AI more, or the opposite? What are you doing to preserve or augment your skills as you use AI?
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Research conducted by BYU professor Mark Keith suggests using AI the wrong way c
 
 I am curious about all these data centers being built. What are the chances AI can have a microchip moment potentially rendering them all useless? This could be a black swan event that could wipe out a lot of investment and potentially destroy some very large businesses. If this is possible, what are the mostly likely candidates? In particular, I am interested in hearing from anyone who may be working on one of these candidates, even if it is still in RD and their opinion on how likely they are to succeed.
 
-10h ago
+11h ago
 
 ---
 
@@ -97,13 +97,13 @@ I am curious about all these data centers being built. What are the chances AI c
 
 Most "chat with your data" tools give you a confident answer and no way to tell whether it's right. I've been building the opposite: an AI Analyst where the entire working is on screen and every claim is traceable to the query that produced it. Asked it a real question against an HR dataset: "Is Engineering's heavy hiring actually translating into headcount growth, or is it mostly backfilling exits?" What it does, in order: 1. States its approach before touching data. It reads the schema, plans the steps, and says why — including telling me the governed semantic model lacked a hires metric, so it fell back to the raw monthly table. No silent guessing about which source it used. 2. Runs each step as real SQL you can read. Every step shows the query, the row count, and a "where these numbers came from" breakdown. Nothing is a black box — if you don't trust a number, the SQL that produced it is right there. 3. Self-checks every result — and flags its own problems. This is the part I care about most. On step 2 it didn't just pass its own work; it flagged a genuine inconsistency: Engineering's summed net adds (+17) didn't reconcile with the headcount delta (+13, 122→135), a 4-person gap it surfaced on its own and carried into the write-up as a caveat. An analyst that can say "this doesn't add up" is worth ten that can't. 4. Writes findings with citations. Every claim in the write-up cites the step it came from — "headcount climbed from 122 to a 140 peak (step 1, step 2)". The verdict for the curious: ~55% of Engineering's hires were net growth, not backfill; the one bad month was a 3.70% attrition spike; and Support is quietly shrinking (backfill ratio 1.42 — losing more than it hires). 5. Closes the loop. Every analysis has Mark verified / Flag as wrong buttons, suggested follow-up questions generated from the actual results, scheduling for recurring runs, CSV export, and PDF export. The stack, honestly: Runs entirely on your own infra: one Docker command + your own Supabase project BYOK — any model provider. This demo ran on Kimi K3 via OpenRouter; it doesn't need a frontier model because the structure (plan → SQL → check → cite) does the heavy lifting The analyst is one piece of a larger self-hosted platform (agents, multi-agent swarms, RAG, BI dashboards, budgets, full tracing) License: Elastic License 2.0 — source-available, not OSI open source. You can read every line, self-host it, and modify it; you can't resell it as a hosted service. Saying that up front because this sub cares about the distinction, and it matters. Repo: https://github.com/AgentSwarms-fyi/agentswarms Happy to answer anything about how the self-check pass works or why I think "show the SQL or it didn't happen" is the only sane bar for LLM analytics.
 
-10h ago
+11h ago
 
 ---
 
 **[Claude Fabe 5 composing a song in Muuic DAW](https://www.reddit.com/r/artificial/comments/1vrip4a/claude_fabe_5_composing_a_song_in_muuic_daw/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -127,19 +127,19 @@ WSJ • 1d ago
 
 **[AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Women are missing out on the AI jobs boom](https://www.axios.com/2026/08/18/ai-women-jobs-hiring)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
 **[Alibaba Shares Jump 5% as Alipay Launches New Merchant Platform](https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform)**
 
-Bloomberg.com • 27m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 27m ago
 
 A new LinkedIn report points to a gender gap that could leave companies building AI products users don’t want or trust.
 
-inc.com • 50m ago
+inc.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ inc.com • 50m ago
 
 Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
 
-ft.com • 4h ago
+ft.com • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ ft.com • 4h ago
 
 Fueled by the artificial intelligence boom, San Francisco and its suburbs are quickly becoming the hottest housing market in the country.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 22h ago
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-wiz.io • 18h ago
+wiz.io • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ wiz.io • 18h ago
 
 Millions of physical books are being scanned to train AI models. They’re then dumped in the trash.
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Forbes • 12h ago
 
 The administration’s biodefense team has dwindled, and its new safeguards have been delayed — all amid growing concern over AI-enabled pathogens.
 
-The Washington Post • 16h ago
+The Washington Post • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Washington Post • 16h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 849 • 💬 521 • 12h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 849 • 💬 521 • 13h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -215,7 +215,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 445 • 💬 288 • 11h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 445 • 💬 288 • 12h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -223,7 +223,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 367 • 💬 141 • 18h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 367 • 💬 141 • 19h ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -247,7 +247,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 295 • 💬 174 • 18h ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 295 • 💬 174 • 19h ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -285,7 +285,7 @@ Subscribe: https://www.youtube.com/@HouseofHer9986 ♡ Welcome to House of Her �
 
 📺 House of Her
 
-👁️ 37K • 👍 2K • 💬 134 • ⏱️ 7:19 • 14h ago
+👁️ 37K • 👍 2K • 💬 134 • ⏱️ 7:19 • 15h ago
 
 ---
 
@@ -295,7 +295,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 828 • 💬 62 • ⏱️ 17:37 • 18h ago
+👁️ 20K • 👍 828 • 💬 62 • ⏱️ 17:37 • 19h ago
 
 ---
 
@@ -305,7 +305,7 @@ AI scrapers are the most antisocial dicks in the world.” Author and host of Pi
 
 📺 The Tech Report
 
-👁️ 98K • 👍 3K • 💬 738 • ⏱️ 30:20 • 16h ago
+👁️ 98K • 👍 3K • 💬 738 • ⏱️ 30:20 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 Harrison Hughes
 
-👁️ 162K • 👍 9K • 💬 106 • ⏱️ 1:58 • 13h ago
+👁️ 162K • 👍 9K • 💬 106 • ⏱️ 1:58 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ Sara Duterte Impeachment Trial LIVE | VP trial day 17: Sara Duterte Witness Test
 
 📺 CNBC-TV18
 
-👁️ 97K • 👍 349 • 5h ago
+👁️ 97K • 👍 349 • 6h ago
 
 ---
 
@@ -365,7 +365,7 @@ Ed Zitron returns to The 1600 to make his case that AI's biggest players are bet
 
 📺 Newsweek
 
-👁️ 46K • 👍 2K • 💬 507 • ⏱️ 1:16:57 • 16h ago
+👁️ 46K • 👍 2K • 💬 507 • ⏱️ 1:16:57 • 17h ago
 
 ---
 
@@ -373,7 +373,7 @@ Ed Zitron returns to The 1600 to make his case that AI's biggest players are bet
 
 📺 Icycol
 
-👁️ 357K • 👍 16K • 💬 871 • ⏱️ 0:50 • 12h ago
+👁️ 357K • 👍 16K • 💬 871 • ⏱️ 0:50 • 13h ago
 
 ---
 
@@ -425,7 +425,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 465,529 • ❤️ 1,150 • 18h ago
+⬇️ 465,529 • ❤️ 1,150 • 19h ago
 
 ---
 
@@ -645,7 +645,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 13.9k • 🔱 1.5k • 7h ago
+⭐ 13.9k • 🔱 1.5k • 8h ago
 
 ---
 
@@ -655,7 +655,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.8k • 🔱 1.6k • 2h ago
+⭐ 13.8k • 🔱 1.6k • 3h ago
 
 ---
 
@@ -665,7 +665,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 15m ago
+⭐ 8.6k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -713,7 +713,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 1h ago
+⭐ 2.2k • 🔱 177 • 2h ago
 
 ---
 
@@ -723,7 +723,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.1k • 🔱 288 • 10m ago
+⭐ 2.1k • 🔱 288 • 1h ago
 
 ---
 
@@ -733,7 +733,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 212 • 1h ago
+⭐ 2.0k • 🔱 212 • 2h ago
 
 ---
 

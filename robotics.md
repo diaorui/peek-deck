@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T08:37:00.695918+00:00'
+updated: '2026-08-18T09:33:43.798450+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 08:37 UTC  
+**Last Updated:** August 18, 2026 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is my custom robotics project I have been working on for the past year. I'll be posting more on my X account RhettBrewer. I will also be posting other projects and future ones there too!
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 The physical design is finally locked down, and the digital model now mirrors the optimized physical robot. What you see here has taken a lot of work, but surprisingly, most of the development over the last two years has been on the part you can't see: the software. I have been developing Robert's operating system alongside the mechanics - coordinating 30 servos, synchronized movements, speech, vision, sensors, driving and AI interaction so that they can all work together. The ultimate goal is to give AI a physical embodiment through which it can see, speak, move and interact with the world. The mechanical design has gone through the same process of continuous refinement. It is now divided into self-contained modules that make Robert much easier to build, maintain and repair.
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ The physical design is finally locked down, and the digital model now mirrors th
 
 Matic’s latest update lets its robot vacuum respond to spoken commands and gestures rather than relying only on an app. The system is still working within a defined set of actions, but the broader robotics question is more interesting: how much of human-robot interaction should depend on people learning an interface, versus robots learning to interpret the ways people already communicate? As robots move into homes and other less structured environments, voice, pointing, movement and context may become increasingly important parts of the control layer.
 
-16h ago
+17h ago
 
 ---
 
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 16h ago
 
 ---
 
@@ -68,7 +68,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-6h ago
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I understand why humanoid robots need human-like proportions. Our homes, stairs, doors, tools, cars, kitchens, etc. are designed for humans, so obviously two arms, two legs and hands make sense. What I don't really understand is why we're also trying so hard to make the face look human. Realistic eyes, skin, facial expressions, fake breathing... what does any of that actually add if the robot is there to help around the house, carry things, cook, do laundry, etc.? For me, even if it looks almost exactly like a person, the moment I know it's a robot, it's still a robot. The part that matters much more is whether it can make decisions and take actions based on its own judgment instead of just following strict instructions. That's where things become really different. Personally I'd rather humanoids stay obviously machines. Make them extremely capable, let them understand us, talk naturally, give advice, whatever. I just don't see why they also need to visually imitate a person that closely. Would you actually prefer a humanoid with a realistic human face, or one that clearly looks like a machine?
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 13h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 14h ago
 
 ---
 
@@ -100,7 +100,7 @@ If you are interested in learning how to model any robot in Simscape, I am worki
 
 I’ve been building a humanoid robotics project called Evopien, mostly as a solo engineering project, and I’ve reached the point where the first head prototype can actually interact in a reasonably coherent way. I decided not to start with arms or locomotion. My first milestone was to get the basic sensory/conversational system working properly: camera → visual input microphone array → speech local ASR → transcription local LLM → reasoning/conversation local TTS → speech output The whole thing currently runs on an NVIDIA Jetson Orin Nano Super 8GB. The head can now: listen and speak locally continue listening while it is speaking be interrupted naturally switch between English and Spanish use the camera when asked visual questions answer based on a current camera frame The current hardware is intentionally pretty ugly. C920, ReSpeaker, external speakers, Jetson and cables. I’m trying to prove the architecture before spending time designing the physical head. The next major step is moving from a stationary conversational head toward proper perception/attention and eventually head movement, followed later by arms and hands. Here is the current demo if anyone wants to see it working: https://www.youtube.com/watch?v=iAxzePzF4cM I’d especially appreciate criticism from people who have gone from a perception prototype into actual physical robotics. What would you make the next milestone before starting the mechanical head?
 
-18h ago
+19h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 **[It’s Official: No Man Can Outrun Our Robot Overlords](https://gizmodo.com/its-official-no-man-can-outrun-our-robot-overlords-2000799565)**
 
-Gizmodo • 10h ago
+Gizmodo • 11h ago
 
 ---
 
@@ -142,13 +142,13 @@ Fox News • 1d ago
 
 We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
 **[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -156,31 +156,31 @@ WSJ • 1h ago
 
 Marking a new approach to innovation in medical robotics, the new centre will bring advances from a leading surgical robotics research group to pa...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
 **[New Realtime Robotics CEO wants to build the 'factory of the future'](https://www.bizjournals.com/boston/news/2026/08/17/realtime-robotics-new-ceo.html)**
 
-The Business Journals • 19h ago
+The Business Journals • 20h ago
 
 ---
 
 **[Serve Robotics partners with Grubhub in robot delivery expansion push](https://www.reuters.com/business/retail-consumer/serve-robotics-partners-with-grubhub-robot-delivery-expansion-push-2026-08-17/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -260,7 +260,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 Kind Recaps
 
-👁️ 5K • 👍 279 • 💬 4 • ⏱️ 2:56 • 3h ago
+👁️ 5K • 👍 279 • 💬 4 • ⏱️ 2:56 • 4h ago
 
 ---
 

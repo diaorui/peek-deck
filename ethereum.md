@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T08:37:00.693084+00:00'
+updated: '2026-08-18T09:33:43.795773+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 08:37 UTC  
+**Last Updated:** August 18, 2026 at 09:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-finance.yahoo.com • 13h ago
+finance.yahoo.com • 14h ago
 
 ---
 
@@ -172,7 +172,7 @@ finance.yahoo.com • 13h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 18h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView • 17h ago
 
 Leading cryptocurrencies rose on Monday, August 17, even as stalled talks between the U.S. and Iran kept investors on edge.
 
-Benzinga • 6h ago
+Benzinga • 7h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 6h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ blog.ethereum.org • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -220,13 +220,13 @@ Fortune • 19h ago
 
 DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 9h ago
+👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 6h ago
+👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 426 • 💬 229 • ⏱️ 29:45 • 23h ago
+👁️ 4K • 👍 426 • 💬 229 • ⏱️ 29:45 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 11h ago
+👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 12h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 7h ago
+👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 96 • 💬 11 • ⏱️ 14:14 • 11h ago
+👁️ 1K • 👍 96 • 💬 11 • ⏱️ 14:14 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 10h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 12h ago
+👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 13h ago
 
 ---
 
