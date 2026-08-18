@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T09:33:43.790745+00:00'
+updated: '2026-08-18T10:28:25.241949+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 09:33 UTC  
+**Last Updated:** August 18, 2026 at 10:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,544.35
+### $64,164.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +1.3%  
-**30d:** -1.6%  
-**90d:** -17.2%  
-**1y:** -43.1%  
+**24h:** +0.8%  
+**7d:** +1.1%  
+**30d:** -1.7%  
+**90d:** -17.3%  
+**1y:** -43.2%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M BTC (16.7%) - estimated lost BTC • 1.26M BTC (6%) - corporate treasuries • 1.218M BTC (5.8%) - ETFs • 1.092M BTC (5.2%) - Satoshi’s estimated holdings • 1.008M BTC (4.8%) - yet to be mined • 546K BTC (2.6%) - governments • 399K BTC (1.9%) - miners From our perspective, this is a strong long-term signal for Bitcoin. As adoption expands and more capital enters the market, there is a limited amount of BTC available to meet that demand. The important point is not simply that Bitcoin has a 21M cap. It is that a large portion of those coins is already held, inactive, or potentially inaccessible and that combination is what makes the long-term story so compelling.
 
-18h ago
+19h ago
 
 ---
 
@@ -117,13 +117,13 @@ According to the estimates: • 11.97M BTC (57%) - individual holders • 3.507M
 
 I'm curious about the practical side of this. If the attackers really have hundreds of BTC stolen from the Coldcard incident, how do they realistically turn that into usable money? For example: If they send it directly to a KYC exchange, wouldn't the exchange potentially flag the coins as stolen and connect the deposit to their identity? If they use a DEX to swap BTC into another coin, the transactions are still publicly visible, so does that actually solve the problem? If they sell P2P/OTC, isn't finding someone willing to buy a large amount of obviously tainted BTC pretty difficult (and potentially risky for both sides)? Could they simply hold the BTC indefinitely and wait for the attention around the theft to die down?
 
-9h ago
+10h ago
 
 ---
 
 **[Concard: Rugpull Inside](https://www.reddit.com/r/Bitcoin/comments/1vrenqu/concard_rugpull_inside/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ I'm curious about the practical side of this. If the attackers really have hundr
 
 Hello I’m Santiago, I just wanted to say I know a lot of people have taken some big hits in this community, stay strong and protect your bitcoin at all cost I love you (fyi everyone should try shrooms at least once)
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Hello I’m Santiago, I just wanted to say I know a lot of people have taken som
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/NEg2afmF3PU?si=H3OKCVJib6GXQysy) • 1h ago
+🔗 [youtu.be](https://youtu.be/NEg2afmF3PU?si=H3OKCVJib6GXQysy) • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor (those who don't own assets)
 
-12h ago
+13h ago
 
 ---
 
@@ -171,19 +171,19 @@ Forbes • 1d ago
 
 ---
 
+**[Bitcoin’s Historic Calm Could Set Stage For 30% Move Over Next 2 Months: Fundstrat](https://finance.yahoo.com/markets/crypto/articles/bitcoin-historic-calm-could-set-092556472.html)**
+
+Fundstrat said rising long-term real yields could eventually help break Bitcoin out of its unusually quiet trading range, while Tom Lee noted easing oil prices as a backdrop for risk assets.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin is overdue for moves of 30% or more, Fundstrat says](https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html)**
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-cnbc.com • 6h ago
-
----
-
-**[Strategy (MSTR) Could Be Dropped From Global Indexes In Bitcoin Treasury Review](https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-could-dropped-global-120810249.html)**
-
-MSCI is reviewing whether to remove Strategy Inc (NasdaqGS:MSTR) and other Bitcoin treasury stocks from its global equity indexes, reopening a consultation that had been paused after a prior attempt last year. The proposal would treat Strategy more like a Bitcoin holding vehicle than a technology operating company, which could affect how index providers classify the stock. Potential exclusion from MSCI indexes may trigger forced selling by index funds that track those benchmarks and could...
-
-finance.yahoo.com • 1d ago
+CNBC • 7h ago
 
 ---
 
@@ -191,21 +191,19 @@ finance.yahoo.com • 1d ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 19h ago
+Bloomberg • 20h ago
 
 ---
 
-**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
+**[Bitcoin Edges Lower as Middle East Tensions Weigh](https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/bitcoin-edges-lower-as-middle-east-tensions-weigh-WlHvaiglVReXJeJlZ5gH?mod=bar_RHF)**
 
-Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
-
-nypost.com • 18h ago
+Barron's • 59m ago
 
 ---
 
@@ -221,15 +219,15 @@ TradingView • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 23h ago
+Fortune • 17h ago
 
 ---
 
-**[After Nearly $200 Million in Crypto Losses, Trump Media Will Pivot Away From Bitcoin. Here's What Crypto Investors Need to Know.](https://www.fool.com/investing/2026/08/17/after-losses-trump-media-pivot-from-bitcoin/)**
+**[NY woman missing in Vegas — with family getting ‘alarming’ texts from her phone asking for bitcoin](https://nypost.com/2026/08/17/us-news/missing-womans-family-getting-alarming-texts-from-her-phone-asking-for-bitcoin/)**
 
-As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
+Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-fool.com • 21h ago
+nypost.com • 19h ago
 
 ---
 
@@ -249,7 +247,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 18h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 19h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -265,7 +263,7 @@ Add Ark and Lightning payments to your bitcoin app
 
 Independent European community operating a coordinator for the Mostro peer-to-peer Bitcoin protocol.
 
-⬆️ 1 • 💬 0 • 23h ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
+⬆️ 1 • 💬 0 • 1d ago • [MostroEuropa](https://mostroeuropa.shadowbip.com/)
 
 ---
 
@@ -303,7 +301,7 @@ Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk
 
 📺 CNBC Television
 
-👁️ 10K • 👍 139 • 💬 130 • ⏱️ 3:11 • 17h ago
+👁️ 10K • 👍 139 • 💬 130 • ⏱️ 3:11 • 18h ago
 
 ---
 
@@ -323,7 +321,7 @@ Trump just got his own bank approved. Bitcoin just closed below its 200-week SMA
 
 📺 Digital Asset News
 
-👁️ 4K • 👍 323 • 💬 19 • ⏱️ 18:26 • 12h ago
+👁️ 4K • 👍 323 • 💬 19 • ⏱️ 18:26 • 13h ago
 
 ---
 
@@ -333,7 +331,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 655 • 💬 106 • ⏱️ 46:21 • 18h ago
+👁️ 11K • 👍 655 • 💬 106 • ⏱️ 46:21 • 19h ago
 
 ---
 
@@ -343,7 +341,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 4K • 👍 382 • 💬 77 • ⏱️ 11:45 • 14h ago
+👁️ 4K • 👍 382 • 💬 77 • ⏱️ 11:45 • 15h ago
 
 ---
 
@@ -373,7 +371,7 @@ For Bitcoin, the winds of winter press on. Come to the 1st ITC Conference: https
 
 📺 Benjamin Cowen
 
-👁️ 100K • 👍 6K • 💬 341 • ⏱️ 16:15 • 1d ago
+👁️ 100K • 👍 6K • 💬 341 • ⏱️ 16:15 • 2d ago
 
 ---
 
@@ -383,7 +381,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 8K • 👍 537 • 💬 342 • ⏱️ 10:35 • 14h ago
+👁️ 8K • 👍 537 • 💬 342 • ⏱️ 10:35 • 15h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T09:33:43.795773+00:00'
+updated: '2026-08-18T10:28:25.248076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 09:33 UTC  
+**Last Updated:** August 18, 2026 at 10:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.0%  
+**24h:** -0.4%  
+**7d:** +0.9%  
 **30d:** -0.4%  
 **90d:** -11.1%  
 **1y:** -53.6%  
@@ -67,6 +67,14 @@ No max supply
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+5h ago
+
+---
 
 **[Daily General Discussion August 17, 2026](https://www.reddit.com/r/ethereum/comments/1vqiuo7/daily_general_discussion_august_17_2026/)**
 
@@ -136,15 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum’s All Core Developers Execution Call #243 delivered several decisions that could shape the network’s next two upgrades. For Glamsterdam, developers confirmed that the latest gas repricing figures are final and can support a substantially higher gas limit. For Hegotá, developers introduced a stricter selection process. Proposals without an active champion will not advance, while execution clients must submit preference lists by September 10. Ethereum developers approved the latest Glamsterdam gas repricing figures as final, removing one of the upgrade’s most important sources of technical uncertainty. The approved numbers cover repricing work associated with EIP-2780, EIP-8037 and EIP-8038. Developers confirmed that the figures included in the latest gas-testing release are correct and remain within the intended safety limits. https://etherworld.co/ethereum-protocol-update-acde-243/
 
-3d ago
-
----
-
-**[Daily General Discussion August 13, 2026](https://www.reddit.com/r/ethereum/comments/1vn18hg/daily_general_discussion_august_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
+4d ago
 
 ---
 
@@ -152,19 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
-
-Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
-
-CoinDesk • 2d ago
-
----
-
 **[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-finance.yahoo.com • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -172,7 +164,7 @@ finance.yahoo.com • 14h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -180,15 +172,23 @@ CoinDesk • 19h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst S](https://www.benzinga.com/crypto/cryptocurrency/26/08/61264164/bitcoin-ethereum-dogecoin-xrp-trump-white-house-crypto-summit)**
+**[ETH news: Ethereum’s next big upgrade has 66 proposals, including a major privacy fix](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)**
 
-Leading cryptocurrencies rose on Monday, August 17, even as stalled talks between the U.S. and Iran kept investors on edge.
+Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
 
-Benzinga • 7h ago
+CoinDesk • 22h ago
+
+---
+
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+
+TradingView • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Benzinga • 7h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 11h ago
+FXStreet • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ FXStreet • 11h ago
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-blog.ethereum.org • 1d ago
+ethereum.org • 1d ago
 
 ---
 
@@ -212,7 +212,15 @@ blog.ethereum.org • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 20h ago
+Fortune • 21h ago
+
+---
+
+**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
+
+Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
+
+Benzinga • 1d ago
 
 ---
 
@@ -220,13 +228,7 @@ Fortune • 20h ago
 
 DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
-
-MarketWatch • 19h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -240,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 10h ago
+👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 11h ago
 
 ---
 
@@ -260,7 +262,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 7h ago
+👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 8h ago
 
 ---
 
@@ -290,7 +292,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 12h ago
+👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 13h ago
 
 ---
 
@@ -298,7 +300,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 8h ago
+👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 9h ago
 
 ---
 
@@ -318,7 +320,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 11h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 12h ago
 
 ---
 
@@ -328,7 +330,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 13h ago
+👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 14h ago
 
 ---
 
