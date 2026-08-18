@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T23:21:50.121294+00:00'
+updated: '2026-08-18T23:47:40.341871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 23:21 UTC  
+**Last Updated:** August 18, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +1.8%  
-**30d:** -1.1%  
-**90d:** -16.8%  
-**1y:** -42.9%  
+**24h:** +0.6%  
+**7d:** +2.1%  
+**30d:** -0.8%  
+**90d:** -16.5%  
+**1y:** -42.7%  
 
 ---
 
@@ -89,25 +89,25 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-9h ago
+10h ago
 
 ---
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-2h ago
+3h ago
 
 ---
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 https://satoshitimeline.com/1
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-11h ago
+12h ago
 
 ---
 
@@ -161,29 +161,19 @@ The Block • 4h ago
 
 ---
 
-**[Italy’s Largest Bank Switched From Bitcoin to SpaceX Stock](https://finance.yahoo.com/markets/stocks/articles/italy-largest-bank-switched-bitcoin-153647584.html)**
+**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
 
-Italy's largest bank Intesa Sanpaolo revealed a $966 million SpaceX stake after cutting its Bitcoin ETF holdings by 94%.
+Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-finance.yahoo.com • 7h ago
-
----
-
-**[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
-
-Bloomberg • 1d ago
+CoinDesk • 19h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+**[$40 Trillion US Debt: Could Americans Even Afford Bitcoin and Crypto Right Now?](https://finance.yahoo.com/markets/crypto/articles/40-trillion-us-debt-could-222459290.html)**
 
-Bloomberg • 7h ago
+$40 trillion US debt is near. See how rising borrowing costs squeeze Americans buying Bitcoin and crypto right now.
 
----
-
-**[Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In](https://www.bloomberg.com/news/newsletters/2026-08-18/strategy-s-mstr-step-back-is-sinking-in-among-bitcoin-faithful?srnd=undefined)**
-
-Bloomberg • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,25 +193,39 @@ CNBC • 20h ago
 
 ---
 
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+
+Bloomberg • 8h ago
+
+---
+
 **[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
 
 Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
 
-BlackRock • 20h ago
-
----
-
-**[JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal](https://sg.finance.yahoo.com/news/jpmorgan-lifts-bitcoin-miners-price-222109351.html)**
-
-JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is "building momentum," pointing to a ...
-
-Yahoo Finance Singapore • 1d ago
+BlackRock • 21h ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
 Syracuse.com • 9h ago
+
+---
+
+**[VanEck Mid-August 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-august-2026-bitcoin-chaincheck/)**
+
+Bitcoin held near $63.5k as realized volatility fell to 27.2%, 8 of 12 capitulation signals fired, and long-term holders shed 356k BTC over 30 days.
+
+VanEck • 5h ago
+
+---
+
+**[AI boom opens rare bitcoin 'time machine' dip - Cameron Winklevoss (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634490-ai-boom-opens-rare-bitcoin-time-machine-dip---cameron-winklevoss)**
+
+Bitcoin diverges from global money supply as AI data-center capex soaks up liquidity.
+
+Seeking Alpha • 4h ago
 
 ---
 
@@ -295,7 +299,7 @@ I break down what really happened in the recent Coldcard security exploit, why m
 
 📺 Mark Moss
 
-👁️ 8K • 👍 533 • 💬 72 • ⏱️ 22:30 • 6h ago
+👁️ 8K • 👍 533 • 💬 72 • ⏱️ 22:30 • 7h ago
 
 ---
 
@@ -305,7 +309,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 663 • 💬 22 • ⏱️ 46:05 • 8h ago
+👁️ 10K • 👍 663 • 💬 22 • ⏱️ 46:05 • 9h ago
 
 ---
 

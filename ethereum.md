@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T23:21:50.125385+00:00'
+updated: '2026-08-18T23:47:40.347885+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 23:21 UTC  
+**Last Updated:** August 18, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.9%  
-**30d:** +0.5%  
-**90d:** -10.3%  
-**1y:** -53.1%  
+**24h:** +0.5%  
+**7d:** +2.2%  
+**30d:** +0.8%  
+**90d:** -10.0%  
+**1y:** -53.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 7h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 8h ago
 
 ---
 
@@ -88,7 +88,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 11h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 12h ago
 
 ---
 
@@ -166,11 +166,11 @@ ethereum.org • 1d ago
 
 ---
 
-**[Securitize Adds Neuberger High-Yield Credit Fund to Ethereum, Solana, Avalanche and Sui](https://finance.yahoo.com/markets/crypto/articles/securitize-adds-neuberger-high-yield-202500874.html)**
+**[Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html)**
 
-Securitize Corp. (NYSE: $SECZ) and Neuberger have launched a tokenized high-yield fixed-income fund across four pub...
+Bitcoin (BTC-USD) opened at $62,829.64 on Monday, August 17, 2026, 0.3% lower than Sunday's opening price. Ethereum (ETH-USD) opened at $1,874.10 on Monday, August 17, 2026, down 0.4% from Sunday's opening price.
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,15 +178,7 @@ finance.yahoo.com • 2h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-finance.yahoo.com • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
-
-Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
-
-PR Newswire • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,6 +190,14 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+
+PR Newswire • 1d ago
+
+---
+
 **[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
@@ -206,11 +206,11 @@ TradingView • 21h ago
 
 ---
 
-**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
+**[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-Fortune • 12h ago
+CryptoSlate • 5h ago
 
 ---
 
@@ -218,15 +218,15 @@ Fortune • 12h ago
 
 Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
 
-BeInCrypto • 18h ago
+BeInCrypto • 19h ago
 
 ---
 
-**[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
+**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
 
-A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
+LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
 
-CryptoSlate • 5h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 812 • 💬 14 • ⏱️ 4:44 • 21h ago
+👁️ 17K • 👍 812 • 💬 14 • ⏱️ 4:44 • 22h ago
 
 ---
 

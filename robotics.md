@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T23:21:50.127574+00:00'
+updated: '2026-08-18T23:47:40.351298+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 23:21 UTC  
+**Last Updated:** August 18, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit? Of course, the video is heavily edited, but could the the robot actually drive the kart in full autonomy? The company seems to have come out of nowhere, I am voting for fake, what do you think?
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ This is my custom robotics project I have been working on for the past year. I'l
 
 Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. Extensive range: Detects objects up to 30 meters away with 64,000 points per second. Wide-angle scanning: 360° x 96° ultra-wide field of view for comprehensive depth scanning. Safety first: Class 1 eye-safe laser, resistant to strong enviro
 
-🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 4h ago
+🔗 [UnitreeRobotics](https://shop.unitree.com/products/unitree-4d-lidar-l2?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=8764137937&hsa_cam=23468454166&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23463891107&gbraid=0AAAAABa3bGvkqJFRdAOhrtU14VrS4JJu1&gclid=Cj0KCQjwv4XUBhDBARIsAE6bQURoFJ6BWTalDKGvCV6opCAi87Cf90Mi8shae_brV-tfFVuML4NJbH4aAnnXEALw_wcB) • 5h ago
 
 ---
 
@@ -116,27 +116,27 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 ## Google News: "robotics"
 
-**[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-Persona AI sees near-term economic viability in heavy industrial humanoids
-
-IEEE Spectrum • 2d ago
+The New York Times • 20h ago
 
 ---
 
-**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
+**[Ban on Chinese robots leaves U.S. startups stranded](https://restofworld.org/2026/china-robot-ban-silicon-valley/)**
 
-We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
-
-Business Insider • 1d ago
+Rest of World • 1d ago
 
 ---
 
-**[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
+**[Unitree Robotics Set to Debut After $904 Million Shanghai IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo)**
 
-The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
+Bloomberg • 47m ago
 
-CNN • 16h ago
+---
+
+**[How US military funding propelled China’s robot dogs](https://www.reuters.com/world/asia-pacific/how-us-military-funding-propelled-chinas-robot-dogs-2026-08-18/)**
+
+Reuters • 7h ago
 
 ---
 
@@ -148,11 +148,9 @@ ALXnow • 9h ago
 
 ---
 
-**[Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html)**
+**[Watch How Delivery Robots Can Transform the Last Mile](https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video)**
 
-2026 was supposed to be a breakout year for Serve's business.
-
-finance.yahoo.com • 14h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -162,27 +160,25 @@ Reuters • 1d ago
 
 ---
 
-**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
+**[Why Warehouses Are Rolling In More Robots](https://www.wsj.com/logistics-report/why-warehouses-are-rolling-in-more-robots-09dc27e7)**
 
-Bloomberg • 1d ago
-
----
-
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 20h ago
+WSJ • 1d ago
 
 ---
 
-**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
+**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
 
-Reuters • 10h ago
+We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
+
+Business Insider • 1d ago
 
 ---
 
-**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
+**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
 
-MSN • 4h ago
+Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+
+PR Newswire • 12h ago
 
 ---
 
@@ -226,7 +222,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 53 • ⏱️ 0:51 • 6h ago
+👁️ 1K • 👍 53 • ⏱️ 0:51 • 7h ago
 
 ---
 

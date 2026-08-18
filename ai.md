@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T23:21:50.115290+00:00'
+updated: '2026-08-18T23:47:40.333266+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 23:21 UTC  
+**Last Updated:** August 18, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself. Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet. At that point, I’m thinking... was this actually faster? Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing something for you and AI actually taking something off your plate. For those of you actually using AI automation, what has been worth it for you? And what's one automation you ended up getting rid of because it created more work than it saved?
 
-1h ago
+2h ago
 
 ---
 
@@ -71,15 +71,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Anyone else having trouble with Claude right now ? Is this widespread, or just me?
 
-3h ago
-
----
-
-**[The result looked unusually strong. The clean re-split killed it.](https://www.reddit.com/r/artificial/comments/1vrnv4s/the_result_looked_unusually_strong_the_clean/)**
-
-The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
-
-10h ago
+4h ago
 
 ---
 
@@ -103,7 +95,7 @@ The important distinction is that AI provenance can exist in two forms. First, t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 5h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 6h ago
 
 ---
 
@@ -111,7 +103,15 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 Wanted to know what different models actually cost across the whole market. Numbers turned out really interesting. The spread. Cheapest output on the platform is Mistral Nemo, $0.03 per million tokens. Most expensive is o1-pro at $600. I re-ran that twice because it looked like a units bug. Median paid model is about $2, so most of the catalog sits down near the floor and there's a thin little line of stuff way up at the top. Provider averages, with a caveat. OpenAI: $47.63 Anthropic: $44.79 Google: $5.58 Mistral: $3.68 Qwen: $2.86 Meta: $0.74 Caveat first because someone will say it anyway: these are averages over each provider's catalog, not weighted by what people actually run. OpenAI's number is dragged way up by o1-pro, which I doubt anyone is using at volume. Blended is 3:1 input to output, which is roughly what my own usage looks like. Even so, Meta at $0.74 against OpenAI at $47.63 is a 64x gap. For the stuff I use models for (mostly code and summarizing), I don't get 64x anything. Output tokens are where reasoning models get you. Input and output are priced separately, and on the thinking models the ratio gets silly. Qwen3's thinking variants are $0.20/1M in and $2.40/1M out, so 12x. Gemini 2.5 Flash is 8.3x. Fine if you're sending one question. Less fine if you've got an agent looping thirty times and every step is paying the output rate. I got a bill like that once and it took me an embarrassingly long time to work out why. 19 free models, and a few are usable. Not trial-credit free, actually free on the API: NVIDIA Nemotron 3 Ultra, 1M context Google Gemma 4, the 26B and 31B, multimodal, takes video, 262K context Poolside Laguna S and XS, 262K gpt-oss-20b, 131K (an OpenAI model, on the free list) There are rate limits obviously. But for messing around or something low volume it's a lot better than it used to be. Context went up 63x, price didn't really move. Year Avg context Avg cost/1M 2023 10.5K $22 2024 140K $12 2025 357K $21 2026 662K $16 Price per token is roughly flat across three years. Context is up 63x. Whatever you think about everything else going on, that part is real. Feels like two separate products now. One side is $0.03 to $2 per million with big context windows, Mistral and Meta and Qwen and DeepSeek. The other is $30 to $600, OpenAI and Anthropic up top. They're not really pitching the same buyer anymore. Down at the bottom price stops being a thing you think about at all, and up top you're paying because the output quality moves some number in the business. Data's from the OpenRouter API on Aug 16. Link to full dashboard: https://app.vetros.dev/dash/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXAiOiJzaGFyZSIsInBpZCI6IjEyMmZmNTk1IiwiZGFzaCI6ImRfODdmNDU3MzkiLCJ2ZXIiOjIsImlhdCI6MTc4NzA4NDc5MH0.V8uCPZtnzJ-djAXAv3HEmmZUHPkhO2NfhSgG2zGMYqw
 
-2h ago
+3h ago
+
+---
+
+**[Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
+
+I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
+
+11h ago
 
 ---
 
@@ -133,43 +133,39 @@ The New York Times • 14h ago
 
 ---
 
-**[China’s data centers face little pushback amid AI boom: ‘that’s a matter for the state’](https://www.nbcnews.com/tech/tech-news/data-center-politics-china-vote-controversy-debate-pro-con-rcna589411)**
+**[Cadence is a chip stock left behind by the AI boom. Why the CEO says that's a mistake](https://www.cnbc.com/2026/08/18/cadence-is-a-chip-stock-left-behind-by-the-ai-boom-why-the-ceo-says-thats-a-mistake.html)**
 
-China’s efforts to turbocharge its AI buildout are constrained by chips, not public pushback.
+Cadence President and CEO Anirudh Devgan said AI is a growth driver, not a threat, as increasingly complex chips drive demand for the company’s design tools.
 
-NBC News • 2h ago
-
----
-
-**['Worrisome': AI is driving a looming market correction, European central bank economists warn](https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html)**
-
-History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
-
-CNBC • 11h ago
+CNBC • 1h ago
 
 ---
 
-**[BofA Sees Nvidia Trading at Up to 50% Discount on AI Risks](https://finance.yahoo.com/technology/ai/articles/bofa-sees-nvidia-trading-50-145211064.html)**
+**[Bashing AI data centers has made it's way into brand marketing with new Jason Kelce ad](https://www.businessinsider.com/jason-kelce-garage-beer-liquid-death-embrace-ai-bashing-ads-2026-8)**
 
-Nvidia Corp. shares could be trading at a discount of as much as 50%, as investors overstate risks related to the leader in artificial intelligence chips, according to Bank of America.
+Brands are capitalizing on the AI data center hate. Just look at the new ad starring Jason Kelce for Garage Beer and Liquid Death.
 
-finance.yahoo.com • 8h ago
-
----
-
-**[Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/)**
-
-The rally has erased some recent gains. AI, chip stocks had flashed buy signals.
-
-Investor's Business Daily • 1h ago
+Business Insider • 26m ago
 
 ---
 
-**[Handshake AI wants to pay you up to $30K for work documents that you own](https://www.businessinsider.com/handshake-ai-pay-30k-work-documents-compliance-ownership-2026-8)**
+**[Pennsylvania governor signs order imposing new rules to set up AI data centers in state](https://www.reuters.com/legal/government/pennsylvania-governor-signs-order-imposing-new-rules-set-up-ai-data-centers-2026-08-18/)**
 
-Handshake AI is paying $6 per page for written work documents of "high quality" — if you own them. A data privacy lawyer told BI he had concerns.
+Reuters • 1h ago
 
-Business Insider • 2h ago
+---
+
+**[PA governor signs executive order on AI data centers: 'nation’s strictest guardrails'](https://katu.com/news/nation-world/pa-governor-signs-executive-order-on-ai-data-centers-giving-local-communities-more-power-josh-shapiro-governors-responsible-infrastructure-development-standards-pennsylvania-pa?teaserSource=databricks)**
+
+Gov. Josh Shapiro signed an executive order Tuesday implementing what he called the nation’s strictest guardrails on AI data centers.
+
+KATU • 1h ago
+
+---
+
+**[‘You sold us out!’ N.J. town approves next phase of massive AI data center as residents erupt](https://www.nj.com/business/2026/08/you-sold-us-out-nj-town-approves-next-phase-of-massive-ai-data-center-as-residents-erupt.html)**
+
+NJ.com • 7h ago
 
 ---
 
@@ -177,23 +173,21 @@ Business Insider • 2h ago
 
 Only 30% of teens say a teacher has spoken about using AI safely, according to a new survey. The results suggest guidance on AI literacy isn’t happening in class.
 
-CNN • 14h ago
+cnn.com • 14h ago
 
 ---
 
-**[Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai/)**
+**[Does AI stop children from learning?](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)**
 
-OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
-
-OpenAI • 12h ago
+The Economist • 10h ago
 
 ---
 
-**[Ask the Superintendent: BISD Addresses AI, Enrollment and Changes to ROAR](https://kfdm.com/news/local/ask-the-superintendent-bisd-addresses-ai-enrollment-and-changes-to-roar)**
+**[Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens/)**
 
-Beaumont ISD Superintendent Sandi Massey says the district is taking a cautious approach to artificial intelligence while also working to strengthen classroom i
+ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
 
-KFDM • 2h ago
+OpenAI • 1d ago
 
 ---
 
@@ -205,7 +199,7 @@ KFDM • 2h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1055 • 💬 655 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1057 • 💬 662 • 1d ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -213,7 +207,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 1007 • 💬 683 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 1013 • 💬 712 • 1d ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -221,7 +215,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 553 • 💬 378 • 13h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 559 • 💬 385 • 13h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -249,13 +243,19 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 ---
 
+**[Field measurements of neighborhood-scale air temperature impacts of data centers](https://news.ycombinator.com/item?id=49349147)**
+
+⬆️ 278 • 💬 411 • 6h ago • [asmedigitalcollection.asme.org](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+
+---
+
 **[On AI regulation and messaging](https://news.ycombinator.com/item?id=49325789)**
 
 1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 248 • 💬 532 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 248 • 💬 535 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -272,14 +272,6 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 A new survey of 1,000 young adults in the US found that nine of the top tech executives are deeply loathed.
 
 ⬆️ 154 • 💬 186 • 2d ago • [Futurism](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
-
----
-
-**[Anthropic's War on open source AI](https://news.ycombinator.com/item?id=49332564)**
-
-Anthropic's War on Opensource AI
-
-⬆️ 150 • 💬 59 • 1d ago • [X (formerly Twitter)](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
 
 ---
 
@@ -321,7 +313,7 @@ AI is spreading through American life faster than almost any technology before i
 
 📺 The Panda Redd
 
-👁️ 8K • 👍 3K • 💬 112 • ⏱️ 2:59 • 3h ago
+👁️ 8K • 👍 3K • 💬 112 • ⏱️ 2:59 • 4h ago
 
 ---
 
@@ -650,7 +642,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.5k • 🔱 1.6k • 57m ago
+⭐ 14.5k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -660,7 +652,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 6h ago
+⭐ 13.9k • 🔱 1.6k • 7h ago
 
 ---
 
@@ -688,7 +680,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 560 • 11h ago
+⭐ 3.3k • 🔱 560 • 12h ago
 
 ---
 
@@ -738,7 +730,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 293 • 50m ago
+⭐ 2.2k • 🔱 293 • 1h ago
 
 ---
 
