@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T18:37:48.991206+00:00'
+updated: '2026-08-18T19:27:48.897711+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 18:37 UTC  
+**Last Updated:** August 18, 2026 at 19:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-16h ago
+17h ago
 
 ---
 
@@ -84,7 +84,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I understand why humanoid robots need human-like proportions. Our homes, stairs, doors, tools, cars, kitchens, etc. are designed for humans, so obviously two arms, two legs and hands make sense. What I don't really understand is why we're also trying so hard to make the face look human. Realistic eyes, skin, facial expressions, fake breathing... what does any of that actually add if the robot is there to help around the house, carry things, cook, do laundry, etc.? For me, even if it looks almost exactly like a person, the moment I know it's a robot, it's still a robot. The part that matters much more is whether it can make decisions and take actions based on its own judgment instead of just following strict instructions. That's where things become really different. Personally I'd rather humanoids stay obviously machines. Make them extremely capable, let them understand us, talk naturally, give advice, whatever. I just don't see why they also need to visually imitate a person that closely. Would you actually prefer a humanoid with a realistic human face, or one that clearly looks like a machine?
 
-17h ago
+18h ago
 
 ---
 
@@ -116,6 +116,12 @@ I’m currently building a 3d printer scara arm and I’m trying to incorporate 
 
 ## Google News: "robotics"
 
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+The New York Times • 16h ago
+
+---
+
 **[Inside Persona’s Bold Bet On Humanoid Welders In Shipyards](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)**
 
 Persona AI sees near-term economic viability in heavy industrial humanoids
@@ -124,9 +130,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[Robotics 'Eyes' And 'Brains' Maker Catapults 85% As AI Checks In With Reality](https://www.investors.com/research/ai-stock-cognex-cgnx-tech-robotics-markets-trade-investing/)**
 
-nytimes.com • 15h ago
+AI stock Cognex is in a cup-with-handle base with an entry at 72.70. Cognex makes sensors and cameras for industrial automation and robotics.
+
+Investor's Business Daily • 1h ago
+
+---
+
+**[Department of Homeland Security Seeking Humanoid Robots to Patrol Southern Border](https://www.yahoo.com/news/politics/articles/department-homeland-security-seeking-humanoid-180152873.html)**
+
+"If drones and watchtowers were able to solve for everything, why do we still have humans at the border?"
+
+Yahoo • 1h ago
 
 ---
 
@@ -134,27 +150,13 @@ nytimes.com • 15h ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 11h ago
-
----
-
-**[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
-
-WSJ • 11h ago
-
----
-
-**[How US military funding propelled China’s robot dogs](https://www.yahoo.com/news/us/articles/us-military-funding-propelled-china-160140148.html)**
-
-Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military.
-
-Yahoo • 2h ago
+CNN • 12h ago
 
 ---
 
 **[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
 
-Bloomberg.com • 7h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -176,13 +178,13 @@ Business Insider • 1d ago
 
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
-**[New Realtime Robotics CEO wants to build the 'factory of the future'](https://www.bizjournals.com/boston/news/2026/08/17/realtime-robotics-new-ceo.html)**
+**[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
 
-The Business Journals • 1d ago
+WSJ • 12h ago
 
 ---
 
@@ -234,7 +236,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 sneurorobotics
 
-👁️ 7K • 👍 438 • 💬 22 • ⏱️ 0:10 • 17h ago
+👁️ 7K • 👍 438 • 💬 22 • ⏱️ 0:10 • 18h ago
 
 ---
 

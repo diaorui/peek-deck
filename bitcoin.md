@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T18:37:48.982748+00:00'
+updated: '2026-08-18T19:27:48.891052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 18:37 UTC  
+**Last Updated:** August 18, 2026 at 19:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,862.64
+### $64,670.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.0%  
+**24h:** +0.5%  
+**7d:** +2.1%  
 **30d:** -0.8%  
 **90d:** -16.6%  
 **1y:** -42.7%  
@@ -87,7 +87,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 Just me or is this pretty much every day sentiment?
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just me or is this pretty much every day sentiment?
 
 https://satoshitimeline.com/1
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ https://satoshitimeline.com/1
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-22h ago
+23h ago
 
 ---
 
@@ -155,43 +155,41 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin tepidly on the rise as stocks slip](https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite)**
+
+The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
+
+CoinDesk • 2h ago
+
+---
+
 **[Citi expects to launch bitcoin custody later this year under its new Custody+ platform](https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090)**
 
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
+**[Citi plans to launch bitcoin custody for institutional clients later this year](https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year)**
 
-Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
-
-CoinDesk • 14h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Dollar-Cost Averaging Into Bitcoin vs XRP Since the 2025 Peak: Which Crypto Held Up Better?](https://finance.yahoo.com/markets/crypto/articles/dollar-cost-averaging-bitcoin-vs-171630126.html)**
+**[Citi goes real-time with new custody platform; Bitcoin services coming next](https://seekingalpha.com/news/4634441-citi-goes-real-time-with-new-custody-platform-bitcoin-services-coming-next)**
 
-Bitcoin crashed 49% from its peak while XRP collapsed 73%, but the monthly buying strategy tells a completely different story about which crypto investors actually held up better through the carnage.
+Citigroup launches a real-time custody platform for institutional investors, cutting processing times and adding Bitcoin custody in 2026.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Wall Street Backed Bitcoin, Then Watched It Crash 50%, Two Reports Explain](https://finance.yahoo.com/markets/crypto/articles/wall-street-backed-bitcoin-then-173313063.html)**
-
-BlackRock and VanEck explain how leverage and ETF outflows fueled the Bitcoin crash, and why both firms stay constructive.
-
-Yahoo Finance • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
-**[Cameron Winklevoss Says AI Trade Gave Bitcoin Investors A 'Time Machine' With BTC At $65K](https://finance.yahoo.com/markets/crypto/articles/cameron-winklevoss-says-ai-trade-173619421.html)**
+**[A New York grandma went missing in Las Vegas. Now her family is getting texts asking for money.](https://www.cbsnews.com/news/alisa-goods-missing-las-vegas-texts/)**
 
-Cameron Winklevoss sees Bitcoin’s current price point as a buying opportunity, despite mixed market sentiments and AI pulling capital away.
+Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-Yahoo Finance • 1h ago
+CBS News • 5h ago
 
 ---
 
@@ -199,27 +197,19 @@ Yahoo Finance • 1h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 3h ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 4h ago
-
----
-
-**[Family desperately searches for missing woman after getting mysterious texts demanding bitcoin](https://www.cbsnews.com/video/family-desperately-searches-for-missing-woman-as-her-family-receives-mysterious-texts-bitcoin/)**
-
-A family is desperately searching for a New York woman after she went missing while visiting a friend in Las Vegas. Her daughters say they are now receiving texts from her phone demanding bitcoin. CBS News' Nicole Valdes has more.
-
-CBS News • 5h ago
+syracuse.com • 5h ago
 
 ---
 
@@ -227,7 +217,15 @@ CBS News • 5h ago
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
+
+---
+
+**[Metaplanet To Invest 2,100 Bitcoin In Super League To Launch U.S. Bitcoin Treasury Platform, Superplanet](https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2LHSVZ:0-metaplanet-to-invest-2-100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet/)**
+
+Metaplanet Inc. TSE:3350:
+
+TradingView • 6h ago
 
 ---
 
@@ -291,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 20h ago
+👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 21h ago
 
 ---
 
@@ -321,7 +319,7 @@ Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff 
 
 📺 The Wolf Of All Streets
 
-👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 14h ago
+👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 15h ago
 
 ---
 
@@ -351,7 +349,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 12h ago
+👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 13h ago
 
 ---
 
@@ -361,7 +359,7 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 21h ago
+👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 22h ago
 
 ---
 
@@ -371,7 +369,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 2h ago
+👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T18:37:48.988214+00:00'
+updated: '2026-08-18T19:27:48.895123+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 18:37 UTC  
+**Last Updated:** August 18, 2026 at 19:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,915.44
+### $1,916.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.8%  
-**30d:** +0.5%  
-**90d:** -10.3%  
-**1y:** -53.2%  
+**24h:** +0.5%  
+**7d:** +2.0%  
+**30d:** +0.6%  
+**90d:** -10.2%  
+**1y:** -53.1%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 2h ago
-
----
-
-**[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-13h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 3h ago
 
 ---
 
@@ -88,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-3h ago
+4h ago
+
+---
+
+**[Daily General Discussion August 18, 2026](https://www.reddit.com/r/ethereum/comments/1vrfld5/daily_general_discussion_august_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 7h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 8h ago
 
 ---
 
@@ -154,7 +154,7 @@ Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, Shi
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -170,7 +170,15 @@ ethereum.org • 1d ago
 
 Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's opening price.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+
+TradingView • 17h ago
 
 ---
 
@@ -178,7 +186,7 @@ Yahoo Finance • 2h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,11 +206,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+**[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
 
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-TradingView • 16h ago
+CryptoSlate • 1h ago
 
 ---
 
@@ -210,23 +218,15 @@ TradingView • 16h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 20h ago
+FXStreet • 21h ago
 
 ---
 
-**[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
+**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
 
-A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
+LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
 
-CryptoSlate • 47m ago
-
----
-
-**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-fortune.com • 7h ago
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 6K • 👍 379 • 💬 311 • ⏱️ 17:08 • 19h ago
+👁️ 6K • 👍 379 • 💬 311 • ⏱️ 17:08 • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 602 • 👍 125 • 💬 2 • ⏱️ 14:46 • 2h ago
+👁️ 602 • 👍 125 • 💬 2 • ⏱️ 14:46 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 798 • 👍 122 • 💬 34 • ⏱️ 18:46 • 7h ago
+👁️ 798 • 👍 122 • 💬 34 • ⏱️ 18:46 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 16 • 💬 33 • ⏱️ 4:44 • 16h ago
+👁️ 17K • 👍 16 • 💬 33 • ⏱️ 4:44 • 17h ago
 
 ---
 
@@ -310,7 +310,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 5K • 👍 560 • 💬 50 • ⏱️ 13:34 • 22h ago
+👁️ 5K • 👍 560 • 💬 50 • ⏱️ 13:34 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 3K • 👍 142 • 💬 9 • ⏱️ 15:38 • 20h ago
+👁️ 3K • 👍 142 • 💬 9 • ⏱️ 15:38 • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 225 • 💬 197 • ⏱️ 18:58 • 21h ago
+👁️ 5K • 👍 225 • 💬 197 • ⏱️ 18:58 • 22h ago
 
 ---
 
