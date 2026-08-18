@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T21:48:03.737193+00:00'
+updated: '2026-08-18T22:23:55.990237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 21:48 UTC  
+**Last Updated:** August 18, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.1%  
 **7d:** +1.8%  
-**30d:** -1.0%  
+**30d:** -1.1%  
 **90d:** -16.8%  
 **1y:** -42.9%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 2h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 3h ago
 
 ---
 
@@ -133,7 +133,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-58m ago
+1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-22h ago
+23h ago
 
 ---
 
@@ -155,27 +155,19 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin tepidly on the rise as stocks slip](https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite)**
-
-The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
-
-CoinDesk • 1h ago
-
----
-
-**[Investors Cash Out Fast Of Bitcoin ETFs But Price Remains Stable](https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs)**
-
-The Bitcoin ETFs were on a hot streak but investor sentiment last week changed.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Bitcoin correction may be nearing an end with 8 of 12 capitulation signals flashing, VanEck says](https://www.theblock.co/news/markets/2026-08-18-bitcoin-correction-may-nearing-end-8-capitulation-signals-flashing-vaneck-412130)**
 
 Long-term holders shed roughly 356,000 bitcoin over the past month, pushing their share of supply below 60%.
 
-The Block • 2h ago
+The Block • 3h ago
+
+---
+
+**[Italy’s Largest Bank Switched From Bitcoin to SpaceX Stock](https://finance.yahoo.com/markets/stocks/articles/italy-largest-bank-switched-bitcoin-153647584.html)**
+
+Italy's largest bank Intesa Sanpaolo revealed a $966 million SpaceX stake after cutting its Bitcoin ETF holdings by 94%.
+
+finance.yahoo.com • 6h ago
 
 ---
 
@@ -185,17 +177,15 @@ Bloomberg • 1d ago
 
 ---
 
-**[Wall Street Money Moves To Texas. Bitcoin Explains What Comes Next](https://www.forbes.com/sites/davidbirnbaum/2026/08/18/wall-street-money-moves-to-texas-bitcoin-explains-what-comes-next/)**
-
-American finance is undergoing a sea change as Wall Street's dominance wanes. Bitcoin offers unparalleled portability and allows capital to exit a broken system.
-
-Forbes • 1h ago
-
----
-
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
 Bloomberg • 6h ago
+
+---
+
+**[Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In](https://www.bloomberg.com/news/newsletters/2026-08-18/strategy-s-mstr-step-back-is-sinking-in-among-bitcoin-faithful?srnd=undefined)**
+
+Bloomberg • 1h ago
 
 ---
 
@@ -203,7 +193,7 @@ Bloomberg • 6h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -211,21 +201,29 @@ CBS News • 7h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 18h ago
+CNBC • 19h ago
+
+---
+
+**[Re-Underwriting Bitcoin: Still a Portfolio Diversifier](https://www.blackrock.com/us/financial-professionals/insights/re-underwriting-bitcoin)**
+
+Explore BlackRock’s outlook on bitcoin, its recent pullback, market drivers and potential role as a long-term portfolio diversifier.
+
+BlackRock • 19h ago
+
+---
+
+**[JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal](https://sg.finance.yahoo.com/news/jpmorgan-lifts-bitcoin-miners-price-222109351.html)**
+
+JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is "building momentum," pointing to a ...
+
+Yahoo Finance Singapore • 1d ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 7h ago
-
----
-
-**[Bitcoin miners pivoting to AI infrastructure: Who's best positioned? (HUT:NASDAQ)](https://seekingalpha.com/news/4633887-bitcoin-miners-pivoting-to-ai-infrastructure-whos-best-positioned)**
-
-Former Bitcoin miners are pivoting to AI/HPC data centers.
-
-Seeking Alpha • 2h ago
+Syracuse.com • 8h ago
 
 ---
 
@@ -289,7 +287,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 23h ago
+👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -349,7 +347,7 @@ Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff 
 
 📺 The Wolf Of All Streets
 
-👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 17h ago
+👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 18h ago
 
 ---
 
@@ -369,7 +367,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 5h ago
+👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 6h ago
 
 ---
 

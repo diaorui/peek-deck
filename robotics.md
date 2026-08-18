@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T21:48:03.746553+00:00'
+updated: '2026-08-18T22:23:55.995733+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 21:48 UTC  
+**Last Updated:** August 18, 2026 at 22:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-4h ago
+5h ago
 
 ---
 
@@ -76,7 +76,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-19h ago
+20h ago
 
 ---
 
@@ -132,14 +132,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup](https://www.businessinsider.com/waymo-pioneer-sebastian-thrun-building-new-robotics-startup-dulo-2026-8)**
-
-Waymo pioneer Sebastian Thrun unveils Dulo, a stealth startup focused on advanced hardware design models, with a team of industry veterans.
-
-Business Insider • 2h ago
-
----
-
 **[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
@@ -148,29 +140,19 @@ CNN • 15h ago
 
 ---
 
-**[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
+**[Delivery robot service expanded in Alexandria to Wonder food hall](https://www.alxnow.com/2026/08/18/delivery-robot-service-expanded-in-alexandria-to-wonder-food-hall/)**
 
-Bloomberg • 10h ago
+The deployment of autonomous sidewalk delivery robots is expanding further in Alexandria. Serve Robotics announced today (Monday) that the Wonder food hall at 3615 Richmond Highway will offer robot deliveries. The New York City-based Wonder, which has been rapidly expanding in the D.C. region and beyond, opened the Potomac Yard location in January. The food
 
----
-
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
-
-The New York Times • 18h ago
+ALXnow • 8h ago
 
 ---
 
-**[Serve Robotics partners with Grubhub after Uber exit](https://finance.yahoo.com/technology/articles/serve-robotics-partners-grubhub-uber-210426051.html)**
+**[Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging](https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html)**
 
-Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
+2026 was supposed to be a breakout year for Serve's business.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Serve Robotics plots new strategy after breakup with Uber Eats](https://www.axios.com/2026/08/17/serve-robotics-uber-grubhub-doordash-washington)**
-
-Axios • 1d ago
+finance.yahoo.com • 13h ago
 
 ---
 
@@ -180,11 +162,27 @@ Reuters • 1d ago
 
 ---
 
-**[FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html)**
+**[SoftBank Invests $200 Million in Construction Startup Gravis Robotics](https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics)**
 
-Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
+Bloomberg • 1d ago
 
-PR Newswire • 10h ago
+---
+
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+
+The New York Times • 19h ago
+
+---
+
+**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
+
+Reuters • 9h ago
+
+---
+
+**[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
+
+MSN • 3h ago
 
 ---
 
@@ -208,7 +206,7 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 34K • 👍 739 • 💬 67 • ⏱️ 10:09 • 4d ago
+👁️ 34K • 👍 739 • 💬 67 • ⏱️ 10:09 • 5d ago
 
 ---
 
@@ -236,7 +234,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 sneurorobotics
 
-👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 20h ago
+👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 21h ago
 
 ---
 
@@ -282,7 +280,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kind Recaps
 
-👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 16h ago
+👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 17h ago
 
 ---
 

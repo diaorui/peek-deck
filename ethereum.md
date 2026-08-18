@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T21:48:03.743306+00:00'
+updated: '2026-08-18T22:23:55.993865+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 21:48 UTC  
+**Last Updated:** August 18, 2026 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,916.21
+### $1,914.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +1.8%  
+**24h:** +0.1%  
+**7d:** +1.9%  
 **30d:** +0.5%  
 **90d:** -10.3%  
-**1y:** -53.2%  
+**1y:** -53.1%  
 
 ---
 
@@ -80,7 +80,7 @@ Post written by a dev who recently deployed a fully onchain frontend for my proj
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ I get the argument for putting ownership and payments onchain but I’m less sur
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 10h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 11h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -170,15 +170,23 @@ ethereum.org • 1d ago
 
 Securitize Corp. (NYSE: $SECZ) and Neuberger have launched a tokenized high-yield fixed-income fund across four pub...
 
-Yahoo Finance • 1h ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[What’s Next For Bitcoin, Ethereum and XRP Prices?](https://www.tradingview.com/news/coinpedia:3aea1b1e5094b:0-what-s-next-for-bitcoin-ethereum-and-xrp-prices/)**
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
-Bitcoin, Ethereum and XRP are showing signs of a short-term recovery, but the market remains at an important point. Recent price action shows that the three cryptocurrencies have avoided deeper declines for now, while several resistance levels are still limiting a stronger recovery.Bitcoin Holds $6…
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-TradingView • 4h ago
+finance.yahoo.com • 1d ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302852583.html)**
+
+Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
+
+PR Newswire • 1d ago
 
 ---
 
@@ -190,19 +198,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum)**
-
-Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
-
-Decrypt • 1d ago
+TradingView • 20h ago
 
 ---
 
@@ -210,7 +210,15 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 11h ago
+
+---
+
+**[Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons](https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/)**
+
+Tom Lee says the ETH/BTC ratio broke a multi-year downtrend, even as BitMine slowed its weekly Ethereum buying.
+
+BeInCrypto • 17h ago
 
 ---
 
@@ -218,15 +226,7 @@ Fortune • 2h ago
 
 A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 3h ago
-
----
-
-**[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
-
-Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
-
-FXStreet • 23h ago
+CryptoSlate • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 384 • 💬 319 • ⏱️ 17:08 • 22h ago
+👁️ 7K • 👍 384 • 💬 319 • ⏱️ 17:08 • 23h ago
 
 ---
 
@@ -270,7 +270,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 1K • 👍 132 • 💬 44 • ⏱️ 18:46 • 10h ago
+👁️ 1K • 👍 132 • 💬 44 • ⏱️ 18:46 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 1K • 👍 181 • 💬 4 • ⏱️ 14:46 • 5h ago
+👁️ 1K • 👍 181 • 💬 4 • ⏱️ 14:46 • 6h ago
 
 ---
 
@@ -320,7 +320,7 @@ THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.
 
 📺 Grow Rich Grow Happy
 
-👁️ 959 • 👍 123 • 💬 26 • ⏱️ 13:49 • 21h ago
+👁️ 959 • 👍 123 • 💬 26 • ⏱️ 13:49 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 43 • 💬 59 • ⏱️ 0:47 • 20h ago
+👁️ 2K • 👍 43 • 💬 59 • ⏱️ 0:47 • 21h ago
 
 ---
 
