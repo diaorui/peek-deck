@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T19:27:48.897711+00:00'
+updated: '2026-08-18T19:49:57.670212+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 19:27 UTC  
+**Last Updated:** August 18, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 23h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 1d ago
 
 ---
 
@@ -134,7 +134,7 @@ IEEE Spectrum • 2d ago
 
 AI stock Cognex is in a cup-with-handle base with an entry at 72.70. Cognex makes sensors and cameras for industrial automation and robotics.
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -150,7 +150,7 @@ Yahoo • 1h ago
 
 The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Bloomberg • 8h ago
 
 Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
 
-PR Newswire • 7h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -218,7 +218,7 @@ Unitree just introduced its new high-performance humanoid robot prototype, nickn
 
 📺 Kalil 4.0
 
-👁️ 581 • 👍 24 • ⏱️ 0:51 • 2h ago
+👁️ 581 • 👍 24 • ⏱️ 0:51 • 3h ago
 
 ---
 

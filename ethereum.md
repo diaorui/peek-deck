@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T19:27:48.895123+00:00'
+updated: '2026-08-18T19:49:57.667329+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 19:27 UTC  
+**Last Updated:** August 18, 2026 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 3h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 7h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 16 • 💬 33 • ⏱️ 4:44 • 17h ago
+👁️ 17K • 👍 16 • 💬 33 • ⏱️ 4:44 • 18h ago
 
 ---
 
@@ -310,7 +310,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 5K • 👍 560 • 💬 50 • ⏱️ 13:34 • 23h ago
+👁️ 5K • 👍 560 • 💬 50 • ⏱️ 13:34 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 225 • 💬 197 • ⏱️ 18:58 • 22h ago
+👁️ 5K • 👍 225 • 💬 197 • ⏱️ 18:58 • 23h ago
 
 ---
 

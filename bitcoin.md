@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T19:27:48.891052+00:00'
+updated: '2026-08-18T19:49:57.662039+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 19:27 UTC  
+**Last Updated:** August 18, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just me or is this pretty much every day sentiment?
 
 https://satoshitimeline.com/1
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-23h ago
+1d ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 16h ago
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
@@ -225,7 +225,7 @@ Seeking Alpha • 23h ago
 
 Metaplanet Inc. TSE:3350:
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -349,7 +349,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 13h ago
+👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 14h ago
 
 ---
 
