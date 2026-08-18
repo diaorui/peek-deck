@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T22:51:25.435901+00:00'
+updated: '2026-08-18T23:21:50.121294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 22:51 UTC  
+**Last Updated:** August 18, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Just me or is this pretty much every day sentiment?
 
-5h ago
+6h ago
 
 ---
 
@@ -93,15 +93,21 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 ---
 
+**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
+
+2h ago
+
+---
+
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
 8h ago
 
 ---
 
-**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
+**[Finally reached 0.01](https://www.reddit.com/r/Bitcoin/comments/1vs2mde/finally_reached_001/)**
 
-2h ago
+1h ago
 
 ---
 
@@ -113,22 +119,6 @@ https://satoshitimeline.com/1
 
 ---
 
-**[Why did the cold card hackers send all the money to one wallet?](https://www.reddit.com/r/Bitcoin/comments/1vrmfri/why_did_the_cold_card_hackers_send_all_the_money/)**
-
-Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
-
-11h ago
-
----
-
-**[If you own a BitBox update you firmware. It will fix 2 severe vulnerabilities that may allow installation of malicious firmware or potential locking of bitcoin (and possible ransom to help recover).](https://www.reddit.com/r/Bitcoin/comments/1vryfuq/if_you_own_a_bitbox_update_you_firmware_it_will/)**
-
-BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
-
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 3h ago
-
----
-
 **[Just learned that a hardware wallet manufacturer discovered >4 vulnerabilities on other wallets over time](https://www.reddit.com/r/Bitcoin/comments/1vs1l4m/just_learned_that_a_hardware_wallet_manufacturer/)**
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
@@ -137,17 +127,25 @@ The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote 
 
 ---
 
-**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
+**[If you own a BitBox update you firmware. It will fix 2 severe vulnerabilities that may allow installation of malicious firmware or potential locking of bitcoin (and possible ransom to help recover).](https://www.reddit.com/r/Bitcoin/comments/1vryfuq/if_you_own_a_bitbox_update_you_firmware_it_will/)**
 
-1d ago
+BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
+
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 4h ago
 
 ---
 
-**[Peter Todd is actively trying to remove the 21M supply cap, this is an existential threat no one is paying attention to](https://www.reddit.com/r/Bitcoin/comments/1vr801s/peter_todd_is_actively_trying_to_remove_the_21m/)**
+**[Why did the cold card hackers send all the money to one wallet?](https://www.reddit.com/r/Bitcoin/comments/1vrmfri/why_did_the_cold_card_hackers_send_all_the_money/)**
 
-Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
+Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-23h ago
+11h ago
+
+---
+
+**[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
+
+1d ago
 
 ---
 
@@ -185,7 +183,7 @@ Bloomberg • 7h ago
 
 **[Apathy Takes Over as Saylor’s Step Back From Bitcoin Sinks In](https://www.bloomberg.com/news/newsletters/2026-08-18/strategy-s-mstr-step-back-is-sinking-in-among-bitcoin-faithful?srnd=undefined)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -193,7 +191,7 @@ Bloomberg • 1h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 
@@ -201,7 +199,7 @@ CBS News • 8h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -223,7 +221,7 @@ Yahoo Finance Singapore • 1d ago
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 8h ago
+Syracuse.com • 9h ago
 
 ---
 
@@ -317,7 +315,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Nancy Stamps
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
@@ -327,7 +325,7 @@ Institutional investors dumped Bitcoin, causing price crashes. Unwinding treasur
 
 📺 International Business Today
 
-👁️ 550 • 👍 13 • ⏱️ 0:57 • 4h ago
+👁️ 550 • 👍 13 • ⏱️ 0:57 • 5h ago
 
 ---
 

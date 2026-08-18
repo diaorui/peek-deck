@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T22:51:25.439493+00:00'
+updated: '2026-08-18T23:21:50.125385+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 22:51 UTC  
+**Last Updated:** August 18, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ I've always wanted a way to see "what's new" in Ethereum at any time without hav
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 **[ETH news: Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on](https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on)**
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -202,7 +202,7 @@ CoinDesk • 1d ago
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 7K • 👍 386 • 💬 319 • ⏱️ 17:08 • 23h ago
+👁️ 7K • 👍 386 • 💬 319 • ⏱️ 17:08 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue �
 
 📺 Krypto Report
 
-👁️ 2K • 👍 213 • 💬 61 • ⏱️ 14:46 • 6h ago
+👁️ 2K • 👍 213 • 💬 61 • ⏱️ 14:46 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 1K • 👍 136 • 💬 52 • ⏱️ 18:46 • 11h ago
+👁️ 1K • 👍 136 • 💬 52 • ⏱️ 18:46 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 45 • 💬 59 • ⏱️ 0:47 • 21h ago
+👁️ 2K • 👍 45 • 💬 59 • ⏱️ 0:47 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum pode superar o Bitcoin no próximo ciclo de alta? Neste vídeo, Augusto
 
 📺 Augusto Backes
 
-👁️ 878 • 👍 106 • 💬 13 • ⏱️ 11:03 • 51m ago
+👁️ 878 • 👍 106 • 💬 13 • ⏱️ 11:03 • 1h ago
 
 ---
 

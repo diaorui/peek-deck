@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T22:51:25.430517+00:00'
+updated: '2026-08-18T23:21:50.115290+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - social
 - repositories
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 22:51 UTC  
+**Last Updated:** August 18, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 8h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I've started wondering about this because sometimes I’m not sure whether I’m
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ The part of this paper I trust most is the failure it chose to show. AQuA’s Ap
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-5h ago
+6h ago
 
 ---
 
@@ -123,13 +123,13 @@ Wanted to know what different models actually cost across the whole market. Numb
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
 **[A Texas University Becomes a Petri Dish for a Conservative Overhaul](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 13h ago
 
 China’s efforts to turbocharge its AI buildout are constrained by chips, not public pushback.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ NBC News • 1h ago
 
 History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 10h ago
 
 Nvidia Corp. shares could be trading at a discount of as much as 50%, as investors overstate risks related to the leader in artificial intelligence chips, according to Bank of America.
 
-finance.yahoo.com • 7h ago
+finance.yahoo.com • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ finance.yahoo.com • 7h ago
 
 The rally has erased some recent gains. AI, chip stocks had flashed buy signals.
 
-Investor's Business Daily • 51m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Business Insider • 2h ago
 
 Only 30% of teens say a teacher has spoken about using AI safely, according to a new survey. The results suggest guidance on AI literacy isn’t happening in class.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNN • 13h ago
 
 OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
 
-OpenAI • 11h ago
+OpenAI • 12h ago
 
 ---
 
@@ -221,7 +221,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 553 • 💬 378 • 12h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 553 • 💬 378 • 13h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -341,7 +341,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 579K • 👍 46K • 💬 2K • ⏱️ 0:59 • 22h ago
+👁️ 579K • 👍 46K • 💬 2K • ⏱️ 0:59 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
 
 📺 afhh
 
-👁️ 11K • 👍 79 • ⏱️ 0:37 • 11h ago
+👁️ 11K • 👍 79 • ⏱️ 0:37 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ Try Seedance 2.5 1080p on Higgsfield: https://higgsfield.ai/s/seedance-2-5-1080p
 
 📺 Zxr ISA
 
-👁️ 162K • 👍 714 • 💬 2 • ⏱️ 0:09 • 18h ago
+👁️ 162K • 👍 714 • 💬 2 • ⏱️ 0:09 • 19h ago
 
 ---
 
@@ -650,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.5k • 🔱 1.6k • 27m ago
+⭐ 14.5k • 🔱 1.6k • 57m ago
 
 ---
 
@@ -670,7 +670,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 5h ago
+⭐ 8.6k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -718,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 259 • 4h ago
+⭐ 2.3k • 🔱 259 • 5h ago
 
 ---
 
@@ -728,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 15h ago
+⭐ 2.2k • 🔱 177 • 16h ago
 
 ---
 
@@ -738,7 +738,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 293 • 19m ago
+⭐ 2.2k • 🔱 293 • 50m ago
 
 ---
 

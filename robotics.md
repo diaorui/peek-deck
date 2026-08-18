@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T22:51:25.441375+00:00'
+updated: '2026-08-18T23:21:50.127574+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 22:51 UTC  
+**Last Updated:** August 18, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-5h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-20h ago
+21h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNN • 16h ago
 
 The deployment of autonomous sidewalk delivery robots is expanding further in Alexandria. Serve Robotics announced today (Monday) that the Wonder food hall at 3615 Richmond Highway will offer robot deliveries. The New York City-based Wonder, which has been rapidly expanding in the D.C. region and beyond, opened the Potomac Yard location in January. The food
 
-ALXnow • 8h ago
+ALXnow • 9h ago
 
 ---
 
@@ -170,19 +170,19 @@ Bloomberg • 1d ago
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
 **[How US military funding propelled China’s robot dogs](https://www.msn.com/en-us/technology/tech-companies/ar-AA2aouub)**
 
-MSN • 3h ago
+MSN • 4h ago
 
 ---
 
@@ -282,7 +282,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kind Recaps
 
-👁️ 68K • 👍 3K • 💬 14 • ⏱️ 2:56 • 17h ago
+👁️ 68K • 👍 3K • 💬 14 • ⏱️ 2:56 • 18h ago
 
 ---
 
