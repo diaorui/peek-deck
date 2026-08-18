@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T20:50:27.595314+00:00'
+updated: '2026-08-18T21:24:14.635440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 20:50 UTC  
+**Last Updated:** August 18, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Direct Perception Control Model / SYMBIOSIS Research Do you think this is legit?
 
 Read our full announcement about our new Special Interest Group on Physical AI, their recent efforts, and their long term road map on the Open Source Robotics Alliance (OSRA) website.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ Read our full announcement about our new Special Interest Group on Physical AI, 
 
 A language model can make a bad prediction and continue generating. A robot making the wrong prediction can collide with a person, damage equipment or put itself in an unsafe state. FieldAI CEO Ali Agha argues that scaling physical AI requires more than adding training data. Robots also need models of physics, uncertainty and some ability to recognize when they do not have enough information to act safely. Full episode: https://www.youtube.com/watch?v=twIy5ZSGU8U
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Cutting-edge 4D LiDAR technology for precise navigation and obstacle avoidance. 
 
 Hey guys, I am on a budget, and I want to do a project that needs to detect objects using a camera module. The issue is that I live in a country where the only places that I can get a raspberry pi and the appropriate camera, are the above mentioned Temu and AliExpress. How is your experience with these, how's the quality and does everything work as expected? https://preview.redd.it/yftj9aek96kh1.png?width=440&format=png&auto=webp&s=63af91244905002c493fa3792b9ebc653fdfda93
 
-2h ago
+3h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hey guys, I am on a budget, and I want to do a project that needs to detect obje
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-18h ago
+19h ago
 
 ---
 
@@ -150,13 +150,13 @@ CNN • 14h ago
 
 **[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
 
-Bloomberg • 9h ago
+Bloomberg • 10h ago
 
 ---
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ The New York Times • 17h ago
 
 Consumers from the Los Angeles region who order through Grubhub will soon have some of their orders delivered by four-wheeled robots.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 📺 sneurorobotics
 
-👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 19h ago
+👁️ 9K • 👍 452 • 💬 23 • ⏱️ 0:10 • 20h ago
 
 ---
 
@@ -282,7 +282,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kind Recaps
 
-👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 15h ago
+👁️ 54K • 👍 3K • 💬 12 • ⏱️ 2:56 • 16h ago
 
 ---
 

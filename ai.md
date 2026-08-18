@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T20:50:27.582745+00:00'
+updated: '2026-08-18T21:24:14.619231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 20:50 UTC  
+**Last Updated:** August 18, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 6h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ The part of this paper I trust most is the failure it chose to show. AQuA’s Ap
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-13h ago
+14h ago
 
 ---
 
@@ -71,7 +71,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Anyone else having trouble with Claude right now ? Is this widespread, or just m
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 3h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 Wanted to know what different models actually cost across the whole market. Numbers turned out really interesting. The spread. Cheapest output on the platform is Mistral Nemo, $0.03 per million tokens. Most expensive is o1-pro at $600. I re-ran that twice because it looked like a units bug. Median paid model is about $2, so most of the catalog sits down near the floor and there's a thin little line of stuff way up at the top. Provider averages, with a caveat. OpenAI: $47.63 Anthropic: $44.79 Google: $5.58 Mistral: $3.68 Qwen: $2.86 Meta: $0.74 Caveat first because someone will say it anyway: these are averages over each provider's catalog, not weighted by what people actually run. OpenAI's number is dragged way up by o1-pro, which I doubt anyone is using at volume. Blended is 3:1 input to output, which is roughly what my own usage looks like. Even so, Meta at $0.74 against OpenAI at $47.63 is a 64x gap. For the stuff I use models for (mostly code and summarizing), I don't get 64x anything. Output tokens are where reasoning models get you. Input and output are priced separately, and on the thinking models the ratio gets silly. Qwen3's thinking variants are $0.20/1M in and $2.40/1M out, so 12x. Gemini 2.5 Flash is 8.3x. Fine if you're sending one question. Less fine if you've got an agent looping thirty times and every step is paying the output rate. I got a bill like that once and it took me an embarrassingly long time to work out why. 19 free models, and a few are usable. Not trial-credit free, actually free on the API: NVIDIA Nemotron 3 Ultra, 1M context Google Gemma 4, the 26B and 31B, multimodal, takes video, 262K context Poolside Laguna S and XS, 262K gpt-oss-20b, 131K (an OpenAI model, on the free list) There are rate limits obviously. But for messing around or something low volume it's a lot better than it used to be. Context went up 63x, price didn't really move. Year Avg context Avg cost/1M 2023 10.5K $22 2024 140K $12 2025 357K $21 2026 662K $16 Price per token is roughly flat across three years. Context is up 63x. Whatever you think about everything else going on, that part is real. Feels like two separate products now. One side is $0.03 to $2 per million with big context windows, Mistral and Meta and Qwen and DeepSeek. The other is $30 to $600, OpenAI and Anthropic up top. They're not really pitching the same buyer anymore. Down at the bottom price stops being a thing you think about at all, and up top you're paying because the output quality moves some number in the business. Data's from the OpenRouter API on Aug 16. Link to full dashboard: https://app.vetros.dev/dash/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXAiOiJzaGFyZSIsInBpZCI6IjEyMmZmNTk1IiwiZGFzaCI6ImRfODdmNDU3MzkiLCJ2ZXIiOjIsImlhdCI6MTc4NzA4NDc5MH0.V8uCPZtnzJ-djAXAv3HEmmZUHPkhO2NfhSgG2zGMYqw
 
-22m ago
+56m ago
 
 ---
 
@@ -111,7 +111,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of enterprise applications to include task-specific AI agents in 2026, up from under 5%. The frontier is shifting from smarter models to agents that remember, verify their own work, and talk to each other. Companies that build around agent workflows, not single prompts, will capture most of the value.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ Two signals this week show AI moving from raw capability to commercial and regul
 
 **[A Texas University Becomes a Petri Dish for a Conservative Overhaul](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 11h ago
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 11h ago
 
 Many stocks tied to the AI trade have soared on the promise of posting ultrahigh earnings years from now, but rising yields could throw water on that outlook.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 47m ago
 
 About half of Americans say they're more concerned than excited about AI, and young adults' concern is rising.
 
-Pew Research Center • 4h ago
+Pew Research Center • 5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Pew Research Center • 4h ago
 
 A new survey adds to the evidence that Americans are skeptical that artificial intelligence will have positive effects on daily life or the job market.
 
-The Washington Post • 16m ago
+The Washington Post • 49m ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 2h ago
 
 Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNN • 7h ago
 
 AI firms like Google are spending millions to gobble up data from bankrupt companies in order to train their models.
 
-Forbes • 19m ago
+Forbes • 53m ago
 
 ---
 
@@ -183,7 +183,7 @@ Forbes • 19m ago
 
 Spirit Airlines shut down in May, its second Chapter 11 bankruptcy in two years, leaving behind planes, airport slots and a loyalty program to be sold off
 
-PYMNTS.com • 41m ago
+PYMNTS.com • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ PYMNTS.com • 41m ago
 
 The company is pausing frontier training efforts and shifting resources towards safety
 
-Time Magazine • 2h ago
+Time Magazine • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 536 • 💬 369 • 10h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 536 • 💬 369 • 11h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -349,7 +349,7 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 549K • 👍 44K • 💬 2K • ⏱️ 0:59 • 20h ago
+👁️ 549K • 👍 44K • 💬 2K • ⏱️ 0:59 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.4k • 🔱 1.6k • 1m ago
+⭐ 14.4k • 🔱 1.6k • 35m ago
 
 ---
 
@@ -672,7 +672,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 3h ago
+⭐ 8.6k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -720,7 +720,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 258 • 2h ago
+⭐ 2.3k • 🔱 258 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 13h ago
+⭐ 2.2k • 🔱 177 • 14h ago
 
 ---
 
@@ -740,7 +740,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 293 • 1h ago
+⭐ 2.2k • 🔱 293 • 2h ago
 
 ---
 

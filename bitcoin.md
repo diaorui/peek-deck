@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T20:50:27.588890+00:00'
+updated: '2026-08-18T21:24:14.626955+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 20:50 UTC  
+**Last Updated:** August 18, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin in a nutshell rn](https://www.reddit.com/r/Bitcoin/comments/1vrv0fz/bitcoin_in_a_nutshell_rn/)**
+
+Just me or is this pretty much every day sentiment?
+
+4h ago
+
+---
+
 **[Bitcoin: only the true believers survive](https://www.reddit.com/r/Bitcoin/comments/1vrp9dg/bitcoin_only_the_true_believers_survive/)**
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
@@ -87,15 +95,13 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-6h ago
+7h ago
 
 ---
 
-**[Bitcoin in a nutshell rn](https://www.reddit.com/r/Bitcoin/comments/1vrv0fz/bitcoin_in_a_nutshell_rn/)**
+**[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-Just me or is this pretty much every day sentiment?
-
-3h ago
+57m ago
 
 ---
 
@@ -115,6 +121,22 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 ---
 
+**[If you own a BitBox update you firmware. It will fix 2 severe vulnerabilities that may allow installation of malicious firmware or potential locking of bitcoin (and possible ransom to help recover).](https://www.reddit.com/r/Bitcoin/comments/1vryfuq/if_you_own_a_bitbox_update_you_firmware_it_will/)**
+
+BitBox’s disclosure comes amid heightened scrutiny of hardware wallets following Coldcard thefts and customer data breaches at Trezor and SafePal.
+
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws) • 2h ago
+
+---
+
+**[Just learned that a hardware wallet manufacturer discovered >4 vulnerabilities on other wallets over time](https://www.reddit.com/r/Bitcoin/comments/1vs1l4m/just_learned_that_a_hardware_wallet_manufacturer/)**
+
+The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
+
+34m ago
+
+---
+
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
 1d ago
@@ -125,29 +147,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-21h ago
-
----
-
-**[Need help - Bitcoin wallet emptied.](https://www.reddit.com/r/Bitcoin/comments/1vr2l6y/need_help_bitcoin_wallet_emptied/)**
-
-I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
-
-1d ago
-
----
-
-**[We are sooooo back ! 🥳🥳🥳🥳](https://www.reddit.com/r/Bitcoin/comments/1vqvkwp/we_are_sooooo_back/)**
-
-(If you detected sarcasm, you were right…) 😬
-
-1d ago
-
----
-
-**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
-
-1d ago
+22h ago
 
 ---
 
@@ -159,7 +159,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
 
-CoinDesk • 48m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg • 1d ago
 
 American finance is undergoing a sea change as Wall Street's dominance wanes. Bitcoin offers unparalleled portability and allows capital to exit a broken system.
 
-Forbes • 22m ago
+Forbes • 55m ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 5h ago
 
 Alisa Goods, 63, disappeared 10 days ago in Las Vegas. Her family has been receiving mysterious messages from her phone.
 
-CBS News • 6h ago
+CBS News • 7h ago
 
 ---
 
@@ -211,13 +211,13 @@ CBS News • 6h ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
 **[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
 
-Syracuse.com • 6h ago
+Syracuse.com • 7h ago
 
 ---
 
@@ -289,7 +289,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 22h ago
+👁️ 28K • 👍 2K • 💬 209 • ⏱️ 18:59 • 23h ago
 
 ---
 
@@ -319,7 +319,7 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 361 • 💬 5 • ⏱️ 42:04 • 23h ago
+👁️ 9K • 👍 361 • 💬 5 • ⏱️ 42:04 • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff 
 
 📺 The Wolf Of All Streets
 
-👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 16h ago
+👁️ 973 • 👍 29 • 💬 33 • ⏱️ 1:41 • 17h ago
 
 ---
 
@@ -369,7 +369,7 @@ shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowd
 
 📺 Gabby Bryan
 
-👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 4h ago
+👁️ 976 • 👍 27 • 💬 2 • ⏱️ 0:57 • 5h ago
 
 ---
 
