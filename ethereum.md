@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T07:37:35.686962+00:00'
+updated: '2026-08-18T08:37:00.693084+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 07:37 UTC  
+**Last Updated:** August 18, 2026 at 08:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.3%  
-**30d:** -0.1%  
-**90d:** -10.8%  
-**1y:** -53.4%  
+**24h:** +0.2%  
+**7d:** +1.0%  
+**30d:** -0.4%  
+**90d:** -11.1%  
+**1y:** -53.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $228.53B
+**Market Cap:** $228.92B
 Rank #2
 
 **Circulating Supply:** 120,681,917 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.7%
+-61.6%
 
 **All-Time Low:** $0.43
-+437473.2%
++438004.4%
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)**
+
+Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.
+
+CoinDesk • 2d ago
+
+---
+
 **[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
 
-Yahoo Finance • 12h ago
+finance.yahoo.com • 13h ago
 
 ---
 
@@ -164,7 +172,7 @@ Yahoo Finance • 12h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-coindesk.com • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -172,23 +180,15 @@ coindesk.com • 17h ago
 
 Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
-**[ETH news: Ethereum’s next big upgrade has 66 proposals, including a major privacy fix](https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix)**
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst S](https://www.benzinga.com/crypto/cryptocurrency/26/08/61264164/bitcoin-ethereum-dogecoin-xrp-trump-white-house-crypto-summit)**
 
-Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.
+Leading cryptocurrencies rose on Monday, August 17, even as stalled talks between the U.S. and Iran kept investors on edge.
 
-coindesk.com • 19h ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
-
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
-
-TradingView • 5h ago
+Benzinga • 6h ago
 
 ---
 
@@ -196,15 +196,15 @@ TradingView • 5h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 9h ago
+FXStreet • 10h ago
 
 ---
 
-**[Ethereum, Solana Could Turn Scarcer Than Gold By 2031: Here's the Math to Prove It](https://www.benzinga.com/crypto/cryptocurrency/26/08/61237205/ethereum-solana-could-turn-scarcer-than-gold-by-2031-heres-the-math-to-prove-it)**
+**[Announcing the Platåberget Testnet](https://blog.ethereum.org/2026/08/17/plataberget-testnet)**
 
-Ethereum and Solana could become scarcer than gold by 2031 if proposed tokenomics changes sharply cut annual supply growth.
+tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-Benzinga • 1d ago
+blog.ethereum.org • 1d ago
 
 ---
 
@@ -212,19 +212,21 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 18h ago
+Fortune • 19h ago
+
+---
+
+**[New Crypto Presale Pepeto Reveals Funds Update While Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-reveals-funds-update-while-ethereum-price-prediction-targets-10-000-1036469278)**
+
+DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 17h ago
-
----
-
-**[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
-
-CCN.com • 15h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -238,27 +240,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 3K • 👍 266 • 💬 282 • ⏱️ 17:08 • 8h ago
-
----
-
-**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
-
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 426 • 💬 268 • ⏱️ 29:45 • 22h ago
-
----
-
-**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
-
-Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
-
-📺 Zarx Crypto
-
-👁️ 13K • 👍 4 • 💬 14 • ⏱️ 4:44 • 5h ago
+👁️ 4K • 👍 304 • 💬 316 • ⏱️ 17:08 • 9h ago
 
 ---
 
@@ -268,7 +250,27 @@ Joseph Chalom and Kean Gilbert break down why SharpLink staked $200 million in E
 
 📺 The Rollup
 
-👁️ 8K • 👍 235 • 💬 25 • ⏱️ 35:05 • 1d ago
+👁️ 9K • 👍 237 • 💬 25 • ⏱️ 35:05 • 1d ago
+
+---
+
+**[Bitcoin and Ethereum Price Analysis: BTC Holds $63K, ETH Eyes $2K](https://www.youtube.com/watch?v=80h9TRkOd2E)**
+
+Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winning, globally regulated broker offering trading ...
+
+📺 Zarx Crypto
+
+👁️ 15K • 👍 6 • 💬 14 • ⏱️ 4:44 • 6h ago
+
+---
+
+**[The Crypto Market Is About To Have Wild Swings Ethereum &amp; Bitcoin Are Dominating Altcoin Prices](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+
+Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+
+📺 The Modern Investor
+
+👁️ 4K • 👍 426 • 💬 229 • ⏱️ 29:45 • 23h ago
 
 ---
 
@@ -288,7 +290,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 187 • 💬 170 • ⏱️ 18:58 • 10h ago
+👁️ 4K • 👍 200 • 💬 176 • ⏱️ 18:58 • 11h ago
 
 ---
 
@@ -296,7 +298,17 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 676 • 👍 25 • 💬 52 • ⏱️ 0:47 • 6h ago
+👁️ 937 • 👍 28 • 💬 53 • ⏱️ 0:47 • 7h ago
+
+---
+
+**[XRP, SOL, AAVE, ETH &amp; HBAR! Upgrades for Crypto Bull Run 2026](https://www.youtube.com/watch?v=8amizNv8jMs)**
+
+SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. From Alpenglow and Lean Ethereum to ...
+
+📺 Altcoin Buzz
+
+👁️ 1K • 👍 96 • 💬 11 • ⏱️ 14:14 • 11h ago
 
 ---
 
@@ -306,7 +318,7 @@ Trade alongside the Verified Pro Traders in the Apex Live Day Trading Room: ...
 
 📺 Verified Investing
 
-👁️ 2K • 👍 103 • 💬 12 • ⏱️ 15:38 • 9h ago
+👁️ 2K • 👍 109 • 💬 7 • ⏱️ 15:38 • 10h ago
 
 ---
 
@@ -316,17 +328,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 490 • 💬 47 • ⏱️ 13:34 • 11h ago
-
----
-
-**[3-Min Recap: Ethereum Just Broke a 6-Year Trend — Altcoins Next? 🚨#shorts](https://www.youtube.com/watch?v=4Jgs_G_r3uU)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa DOMINATE ...
-
-📺 Crypto Crew University
-
-👁️ 7K • 👍 302 • 💬 13 • ⏱️ 2:54 • 15h ago
+👁️ 4K • 👍 499 • 💬 47 • ⏱️ 13:34 • 12h ago
 
 ---
 
