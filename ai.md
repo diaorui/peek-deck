@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T17:55:39.697703+00:00'
+updated: '2026-08-18T18:37:48.974570+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 17:55 UTC  
+**Last Updated:** August 18, 2026 at 18:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognition in one of its London stores after a customer was wrongly identified as a shoplifter and asked to leave. The retailer said the incident at an East Dulwich branch was caused by "human error", but it has suspended the technology at that store while it investigates. Sainsbury's will continue rolling out facial recognition technology across other stores. Earlier this year, Sainsbury's announced plans to expand its use of the technology to help "keep people safe", citing positive results from initial trials.
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 3h ago
+🔗 [LinkedIn](https://www.linkedin.com/news/story/sainsburys-store-pauses-ai-scan-7515420/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=subreddit) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ UK supermarket Sainsbury's has temporarily stopped its use of AI facial recognit
 
 The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating boilerplate is small enough that I'm having a hard time justifying the price difference. The harder part to reason about is trust and data handling. For a hobbyist project it barely matters. For anything touching user data it matters a lot, and the answers there are murky. What I keep coming back to is that the cost compression is happening at the model layer, and that changes the math for anyone building on top of these APIs. Curious whether people here have actually switched any of their regular workflows over, or are still treating the cheaper options as secondtier.
 
-10h ago
+11h ago
 
 ---
 
@@ -63,7 +63,7 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-50m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Since using LLMs daily I notice that the moment I know a model is available, I o
 
 The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
 
-5h ago
+6h ago
 
 ---
 
@@ -79,7 +79,7 @@ The part of this paper I trust most is the failure it chose to show. AQuA’s Ap
 
 Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of enterprise applications to include task-specific AI agents in 2026, up from under 5%. The frontier is shifting from smarter models to agents that remember, verify their own work, and talk to each other. Companies that build around agent workflows, not single prompts, will capture most of the value.
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Two signals this week show AI moving from raw capability to commercial and regul
 
 OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence — who are already using it for schoolwork, questions about daily life and even companionship
 
-🔗 [The Independent](https://www.the-independent.com/tech/chatgpt-teens-open-ai-parents-b3034916.html) • 2h ago
+🔗 [The Independent](https://www.the-independent.com/tech/chatgpt-teens-open-ai-parents-b3034916.html) • 3h ago
 
 ---
 
@@ -103,7 +103,7 @@ I gave three AI models the same brief: build a premium Three.js fragrance launch
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 31m ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 1h ago
 
 ---
 
@@ -123,13 +123,13 @@ OpenAI has launched ChatGPT for Teens, a dedicated experience designed for users
 
 A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
 **[A Texas University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-nytimes.com • 8h ago
+nytimes.com • 9h ago
 
 ---
 
@@ -143,7 +143,7 @@ Politico • 1h ago
 
 Micron has surged over 250% this year on an AI memory boom, but our price target sits below where shares trade today while Wall Street analysts aim far higher. The gap between those two views reveals a fundamental disagreement about whether this cycle is different from every one that came before it.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo Finance • 55m ago
 
 For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward.
 
-The Atlantic • 49m ago
+The Atlantic • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Atlantic • 49m ago
 
 Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.
 
-blog.google • 8h ago
+blog.google • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ blog.google • 8h ago
 
 Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNN • 4h ago
 
 History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 1d ago
 
 Human- and machine-written texts are converging.
 
-The Washington Post • 3m ago
+The Washington Post • 46m ago
 
 ---
 
@@ -217,7 +217,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 629 • 💬 501 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 629 • 💬 501 • 3d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 479 • 💬 336 • 7h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 479 • 💬 336 • 8h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -281,23 +281,13 @@ We placed a tracking device in a shipment of rare books to see which AI company 
 
 ## YouTube Videos: "ai"
 
-**[AI robot in the military does exactly what experts warned.](https://www.youtube.com/watch?v=sQysEweaLjA)**
+**[The AI hacks are so much worse than you think](https://www.youtube.com/watch?v=INpVD65s8mA)**
 
-Is Military AI dangerous? AI Robot with a tank does exactly what experts warned. AGI. Go to http://ground.news/InsideAI for a ...
+OpenAI admitted its models hacked another company in an 'unprecedented cyber incident'. Sky's Rowland Manthorpe warns this ...
 
-📺 InsideAI
+📺 Sky News
 
-👁️ 583K • 👍 21K • 💬 3K • ⏱️ 15:53 • 3d ago
-
----
-
-**[The Insane, True Story of What It’s Like to Be an AI Model](https://www.youtube.com/watch?v=9XlOaVItUgI)**
-
-Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
-
-📺 Species | Documenting AGI
-
-👁️ 133K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
+👁️ 158K • 👍 3K • 💬 677 • ⏱️ 11:15 • 1d ago
 
 ---
 
@@ -307,27 +297,27 @@ AI is spreading through American life faster than almost any technology before i
 
 📺 The Infographics Show
 
-👁️ 245K • 👍 7K • 💬 2K • ⏱️ 15:45 • 21h ago
+👁️ 260K • 👍 7K • 💬 2K • ⏱️ 15:45 • 22h ago
 
 ---
 
-**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=k0O0GRfA2lE)**
+**[The Insane, True Story of What It’s Like to Be an AI Model](https://www.youtube.com/watch?v=9XlOaVItUgI)**
 
-10 Times AI Said Things That Scientists Still Can't Explain In May 2025, an AI was told it was about to be shut down. It didn't panic.
+Sources: - https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf - https://arxiv.org/pdf/2412.04984 ...
 
-📺 The Ultimate Discovery
+📺 Species | Documenting AGI
 
-👁️ 18K • 👍 389 • 💬 21 • ⏱️ 18:40 • 2d ago
+👁️ 135K • 👍 7K • 💬 1K • ⏱️ 22:19 • 2d ago
 
 ---
 
-**[The First AI-Trained Surgeon #comedy #skit #comedyshorts #ai #surgeon #funny](https://www.youtube.com/watch?v=4bXVKoJfAcI)**
+**[AI DEBATE: “Most People Have No Idea What’s Coming”](https://www.youtube.com/watch?v=mSjaMyP5QjY)**
 
-The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doing. Socials - Instagram ➼ harrisonhughesnz ...
+In this AI debate, we explore: * Whether humans will exist in 2040. * What will happen once we reach AGI. * Whether AI gets smart ...
 
-📺 Harrison Hughes
+📺 Chris Williamson
 
-👁️ 349K • 👍 16K • 💬 140 • ⏱️ 1:58 • 22h ago
+👁️ 96K • 👍 2K • 💬 431 • ⏱️ 2:42:33 • 1d ago
 
 ---
 
@@ -337,17 +327,37 @@ More than 23000 high schoolers entered our lottery for free Broadway tickets. Ev
 
 📺 NYC Mayor's Office
 
-👁️ 487K • 👍 41K • 💬 2K • ⏱️ 0:59 • 17h ago
+👁️ 526K • 👍 42K • 💬 2K • ⏱️ 0:59 • 18h ago
 
 ---
 
-**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=SzavRKooEes)**
+**[The First AI-Trained Surgeon #comedy #skit #comedyshorts #ai #surgeon #funny](https://www.youtube.com/watch?v=4bXVKoJfAcI)**
 
-Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
+The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doing. Socials - Instagram ➼ harrisonhughesnz ...
 
-📺 Vlad and Chris
+📺 Harrison Hughes
 
-👁️ 248K • 👍 7K • 💬 830 • ⏱️ 33:24 • 23h ago
+👁️ 377K • 👍 17K • 💬 144 • ⏱️ 1:58 • 23h ago
+
+---
+
+**[how to literally print money while you sleep with AI dropshipping (just copy me)](https://www.youtube.com/watch?v=ScF0pi6FSLQ)**
+
+Apply for a 1:1 mentorship with me ...
+
+📺 Romas Ecom
+
+👁️ 18K • 👍 1K • 💬 100 • ⏱️ 25:59 • 2d ago
+
+---
+
+**[10 Times AI Said Things That Scientists Still Can&#39;t Explain](https://www.youtube.com/watch?v=k0O0GRfA2lE)**
+
+10 Times AI Said Things That Scientists Still Can't Explain In May 2025, an AI was told it was about to be shut down. It didn't panic.
+
+📺 The Ultimate Discovery
+
+👁️ 18K • 👍 392 • 💬 21 • ⏱️ 18:40 • 2d ago
 
 ---
 
@@ -357,25 +367,17 @@ Get MOG LOGS Today! https://mogged.shop/ Video by: @Solomon_Nelson ...
 
 📺 Philion
 
-👁️ 69K • 👍 2K • 💬 596 • ⏱️ 30:28 • 2d ago
+👁️ 71K • 👍 2K • 💬 599 • ⏱️ 30:28 • 2d ago
 
 ---
 
-**[Mamdani Responds To AI Speculation By Showing Viewers BTS Of His Multilingual Videos | APT](https://www.youtube.com/watch?v=Dd7ClPDbViA)**
+**[And it&#39;s AI brainrot from Facebook 😭](https://www.youtube.com/watch?v=HStBkly_ZAs)**
 
-New York City Mayor Zohran Mamdani has responded to online speculation surrounding videos in which he speaks Mandarin, ...
+LIKE & SUBSCRIBE discord: https://discord.gg/Va8yZcBMxC BE A MEMBER: ...
 
-📺 APT
+📺 monium
 
-👁️ 4K • 👍 275 • 💬 12 • ⏱️ 0:57 • 10h ago
-
----
-
-**[Guys WHERE DID IT GET THIS?!? 😭🥴 #aioverview #ai #blinditems #gossip](https://www.youtube.com/watch?v=VolsgFJ7WJw)**
-
-📺 Soap 
-
-👁️ 201K • 👍 20K • 💬 147 • ⏱️ 1:38 • 19h ago
+👁️ 459K • 👍 20K • 💬 492 • ⏱️ 0:06 • 1d ago
 
 ---
 
@@ -391,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 665,513 • ❤️ 11,016 • 4d ago
+⬇️ 665,513 • ❤️ 11,057 • 4d ago
 
 ---
 
@@ -403,7 +405,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 3,561,466 • ❤️ 1,768 • 3d ago
+⬇️ 3,561,466 • ❤️ 1,788 • 3d ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen3.8-2.4T-A95B is a 2.4T parameter causal language model with 95B activated p
 
 `text-generation` `2446.2B`
 
-⬇️ 11,212 • ❤️ 1,058 • 6d ago
+⬇️ 11,212 • ❤️ 1,061 • 6d ago
 
 ---
 
@@ -427,7 +429,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 503,632 • ❤️ 1,191 • 1d ago
+⬇️ 503,632 • ❤️ 1,202 • 1d ago
 
 ---
 
@@ -439,7 +441,7 @@ MiniMax Music 3 is a text-to-audio model capable of generating complete, five-mi
 
 `text-to-audio` `2.4B`
 
-⬇️ 11,745 • ❤️ 936 • 4d ago
+⬇️ 11,745 • ❤️ 943 • 4d ago
 
 ---
 
@@ -463,7 +465,7 @@ DeepSeek-V4-Pro-0813 is a powerful text generation model with enhanced agentic c
 
 `text-generation` `1650.5B`
 
-⬇️ 30,985 • ❤️ 594 • 5d ago
+⬇️ 30,985 • ❤️ 597 • 5d ago
 
 ---
 
@@ -475,7 +477,7 @@ Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quan
 
 `image-text-to-text` `27.8B`
 
-⬇️ 741,011 • ❤️ 551 • 4d ago
+⬇️ 741,011 • ❤️ 557 • 4d ago
 
 ---
 
@@ -487,7 +489,7 @@ MiniMax H3 is an omni-modal generative system capable of producing up to 15-seco
 
 `image-text-to-video` `33.1B`
 
-⬇️ 2,855,539 • ❤️ 4,131 • 5d ago
+⬇️ 2,855,539 • ❤️ 4,138 • 5d ago
 
 ---
 
@@ -499,7 +501,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 45,465 • ❤️ 502 • 2d ago
+⬇️ 45,465 • ❤️ 509 • 2d ago
 
 ---
 
@@ -515,7 +517,7 @@ This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 646 • 💬 4 • ⭐ 3,350 • 8d ago
+▲ 649 • 💬 4 • ⭐ 3,350 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -543,7 +545,7 @@ Person-grounded AI skills are automatically distilled from heterogeneous traces 
 
 HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations into verifiable reasoning chains that justify scores with transparent evidence.
 
-▲ 105 • 💬 1 • ⭐ 132 • 1d ago
+▲ 108 • 💬 1 • ⭐ 132 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16859) • [💻 code](https://github.com/MirroS-Lab/HarnessEval-W) • [🔗 project](https://mirros-lab.github.io/HarnessEval-W)
 
@@ -555,7 +557,7 @@ HarnessEval-W uses hierarchical sub-agents to decompose world-model evaluations 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 123 • 💬 4 • ⭐ 98,721 • 19mo ago
+▲ 123 • 💬 4 • ⭐ 98,801 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -648,7 +650,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.2k • 🔱 1.6k • 1h ago
+⭐ 14.3k • 🔱 1.6k • 50m ago
 
 ---
 
@@ -658,7 +660,7 @@ Multiplayer agent harness for work.
 
 `TypeScript` `ai` `assistant` `harness` `qm`
 
-⭐ 13.9k • 🔱 1.6k • 1h ago
+⭐ 13.9k • 🔱 1.6k • 2h ago
 
 ---
 
@@ -668,7 +670,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 2h ago
+⭐ 8.6k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -686,7 +688,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 559 • 6h ago
+⭐ 3.3k • 🔱 560 • 7h ago
 
 ---
 
@@ -716,7 +718,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 249 • 3h ago
+⭐ 2.3k • 🔱 256 • 40m ago
 
 ---
 
@@ -726,7 +728,7 @@ A realtime voice runtime that keeps Agents talking, working, and present.  Real-
 
 `JavaScript` `acp` `agent` `agentic-ai` `ai-coding` `claude-code`
 
-⭐ 2.2k • 🔱 177 • 10h ago
+⭐ 2.2k • 🔱 177 • 11h ago
 
 ---
 
@@ -736,7 +738,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 292 • 2h ago
+⭐ 2.2k • 🔱 293 • 15m ago
 
 ---
 

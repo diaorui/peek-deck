@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T17:55:39.714262+00:00'
+updated: '2026-08-18T18:37:48.991206+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 17:55 UTC  
+**Last Updated:** August 18, 2026 at 18:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling lo
 
 I get that humanoids make for great demo videos, but I believe for 90% of real-world use cases, aren't wheeled/tracked mobile manipulator just infinitely more practical? Not having to burn crazy compute just to keep the robot from falling over meant I could actually focus on the manipulation tasks and payload. Curious to hear from folks actually deploying hardware.
 
-15h ago
+16h ago
 
 ---
 
@@ -84,7 +84,7 @@ We recently worked on the RF design of a compact LoRa/GNSS Nomad Terminal handhe
 
 I understand why humanoid robots need human-like proportions. Our homes, stairs, doors, tools, cars, kitchens, etc. are designed for humans, so obviously two arms, two legs and hands make sense. What I don't really understand is why we're also trying so hard to make the face look human. Realistic eyes, skin, facial expressions, fake breathing... what does any of that actually add if the robot is there to help around the house, carry things, cook, do laundry, etc.? For me, even if it looks almost exactly like a person, the moment I know it's a robot, it's still a robot. The part that matters much more is whether it can make decisions and take actions based on its own judgment instead of just following strict instructions. That's where things become really different. Personally I'd rather humanoids stay obviously machines. Make them extremely capable, let them understand us, talk naturally, give advice, whatever. I just don't see why they also need to visually imitate a person that closely. Would you actually prefer a humanoid with a realistic human face, or one that clearly looks like a machine?
 
-16h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 22h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 23h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 2d ago
 
 **[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-nytimes.com • 14h ago
+nytimes.com • 15h ago
 
 ---
 
@@ -140,7 +140,7 @@ CNN • 11h ago
 
 **[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -148,13 +148,13 @@ WSJ • 10h ago
 
 Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
 **[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg.com • 6h ago
 
 Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -176,7 +176,7 @@ Business Insider • 1d ago
 
 **[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Our DR02 humanoid robot takes on the stairs with stable, controlled movement—s
 
 📺 DEEP Robotics
 
-👁️ 33K • 👍 119 • 💬 14 • ⏱️ 0:18 • 6d ago
+👁️ 33K • 👍 120 • 💬 14 • ⏱️ 0:18 • 6d ago
 
 ---
 
@@ -206,7 +206,17 @@ This New American Humanoid Robot Will Leave You Speechless The United States is 
 
 📺 Future Core
 
-👁️ 32K • 👍 721 • 💬 66 • ⏱️ 10:09 • 4d ago
+👁️ 33K • 👍 728 • 💬 66 • ⏱️ 10:09 • 4d ago
+
+---
+
+**[China&#39;s Unitree Unveils &#39;Superman&#39; Robot, Faster Than Human #robotics #robot #unitree](https://www.youtube.com/watch?v=ClB9O4ARhgk)**
+
+Unitree just introduced its new high-performance humanoid robot prototype, nicknamed Superman. The Chinese robotics leader ...
+
+📺 Kalil 4.0
+
+👁️ 581 • 👍 24 • ⏱️ 0:51 • 2h ago
 
 ---
 
@@ -220,21 +230,19 @@ Read More: https://time.com/article/2026/07/23/unitree-china-human-robotics/ Ins
 
 ---
 
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=Ie4y9VhnyH8)**
+
+📺 sneurorobotics
+
+👁️ 7K • 👍 438 • 💬 22 • ⏱️ 0:10 • 17h ago
+
+---
+
 **[From Smartphone to Robot - HONOR’s Craziest Innovation Yet! #robotphone](https://www.youtube.com/watch?v=Luu2pbmPS70)**
 
 📺 ATC Android ToTo Company
 
-👁️ 55K • 👍 2K • 💬 61 • ⏱️ 2:59 • 4d ago
-
----
-
-**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
-
-Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
-
-📺 Interesting Engineering Explains
-
-👁️ 12K • 👍 442 • 💬 71 • ⏱️ 1:51 • 1d ago
+👁️ 56K • 👍 2K • 💬 61 • ⏱️ 2:59 • 4d ago
 
 ---
 
@@ -248,31 +256,23 @@ Unboxing and testing the Honor Robot Gimbal Phone. It's interesting. They can't 
 
 ---
 
+**[Unitree&#39;s new humanoid robot just claimed a speed Usain Bolt never hit](https://www.youtube.com/watch?v=kuAqfg-Tp7s)**
+
+Unitree has released a video of its newest humanoid robot claiming a top speed of 12.66 metres per second and a two metre ...
+
+📺 Interesting Engineering Explains
+
+👁️ 13K • 👍 458 • 💬 75 • ⏱️ 1:51 • 1d ago
+
+---
+
 **[Chelsea Finn: This is the State of the Art in Robotics](https://www.youtube.com/watch?v=cRZNwgvcWUg)**
 
 Robots can already fold laundry, make espresso, clean kitchens, and assemble things. The harder problem is getting them to do ...
 
 📺 Y Combinator
 
-👁️ 33K • 👍 834 • 💬 30 • ⏱️ 58:18 • 6d ago
-
----
-
-**[Robot Lawn Mower Info Guide: RTK, Blades &amp; Mapping Explained](https://www.youtube.com/watch?v=O3XDormL0OM)**
-
-Thinking about buying a robot lawn mower but feeling completely overwhelmed by the technical jargon? You aren't alone.
-
-📺 How To with Doc
-
-👁️ 7K • 👍 339 • 💬 41 • ⏱️ 20:58 • 19h ago
-
----
-
-**[He Found a Robot Unlike Any Other#shorts](https://www.youtube.com/watch?v=htRWiNy6vsg)**
-
-📺 Kind Recaps
-
-👁️ 29K • 👍 1K • 💬 9 • ⏱️ 2:56 • 12h ago
+👁️ 33K • 👍 840 • 💬 30 • ⏱️ 58:18 • 6d ago
 
 ---
 
@@ -282,7 +282,7 @@ China's T800 robots just had their first fight on US soil. The San Francisco sta
 
 📺 Kalil 4.0
 
-👁️ 18K • 👍 363 • 💬 60 • ⏱️ 0:56 • 1d ago
+👁️ 19K • 👍 369 • 💬 62 • ⏱️ 0:56 • 1d ago
 
 ---
 

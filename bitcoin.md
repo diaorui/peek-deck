@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T17:55:39.705748+00:00'
+updated: '2026-08-18T18:37:48.982748+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 17:55 UTC  
+**Last Updated:** August 18, 2026 at 18:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1297.91B
+**Market Cap:** $1299.52B
 Rank #1
 
 **Circulating Supply:** 20,071,518 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.6%
 
 **All-Time Low:** $67.81
-+95260.6%
++95380.0%
 
 ---
 
@@ -77,25 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
-
-3h ago
-
----
-
 **[Bitcoin: only the true believers survive](https://www.reddit.com/r/Bitcoin/comments/1vrp9dg/bitcoin_only_the_true_believers_survive/)**
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-4h ago
+5h ago
 
 ---
 
-**[6 BTC is sitting in a wallet that was built to be cracked.](https://www.reddit.com/r/Bitcoin/comments/1vrqsg5/6_btc_is_sitting_in_a_wallet_that_was_built_to_be/)**
+**[OC: Like, believe it if you want](https://www.reddit.com/r/Bitcoin/comments/1vrqm8n/oc_like_believe_it_if_you_want/)**
 
-No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's called Krackpot. Back in 2015 someone funded a series of Bitcoin wallets as a public puzzle, each one harder than the last. Puzzle 71 holds about 7.1 BTC and nobody has solved it (6 of it is yours if you crack it, more in a sec). The address is on-chain. Verify it yourself. How it works: Paste your Bitcoin address Press start Win or don't Everything runs in your browser with WebGPU. Nothing installs, nothing about your searching leaves the tab, and if your GPU finds the key it stays in your browser. Ctto: simonmales
-
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +95,7 @@ No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's ca
 
 Just me or is this pretty much every day sentiment?
 
-58m ago
+1h ago
 
 ---
 
@@ -119,7 +111,7 @@ https://satoshitimeline.com/1
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-6h ago
+7h ago
 
 ---
 
@@ -133,7 +125,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing for this idea for years which will undo the *one* thing which makes Bitcoins economics unique. This person needs to be driven out of the btc ecosystem. no one is paying any attention. https://www.youtube.com/watch?v=OmAAeEm1nIE
 
-18h ago
+19h ago
 
 ---
 
@@ -153,6 +145,12 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 ---
 
+**[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -161,7 +159,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -169,7 +167,7 @@ The Block • 5h ago
 
 Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -177,7 +175,7 @@ CoinDesk • 13h ago
 
 Bitcoin crashed 49% from its peak while XRP collapsed 73%, but the monthly buying strategy tells a completely different story about which crypto investors actually held up better through the carnage.
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +183,7 @@ Yahoo Finance • 39m ago
 
 BlackRock and VanEck explain how leverage and ETF outflows fueled the Bitcoin crash, and why both firms stay constructive.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +191,7 @@ Yahoo Finance • 22m ago
 
 Cameron Winklevoss sees Bitcoin’s current price point as a buying opportunity, despite mixed market sentiments and AI pulling capital away.
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +199,7 @@ Yahoo Finance • 19m ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -221,7 +219,7 @@ Syracuse.com • 4h ago
 
 A family is desperately searching for a New York woman after she went missing while visiting a friend in Las Vegas. Her daughters say they are now receiving texts from her phone demanding bitcoin. CBS News' Nicole Valdes has more.
 
-CBS News • 4h ago
+CBS News • 5h ago
 
 ---
 
@@ -293,7 +291,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 196 • ⏱️ 18:59 • 19h ago
+👁️ 27K • 👍 2K • 💬 204 • ⏱️ 18:59 • 20h ago
 
 ---
 
@@ -303,7 +301,7 @@ Michael Saylor's Strategy raised roughly $333.7 million last week. It bought zer
 
 📺 Yahoo Finance
 
-👁️ 7K • 👍 249 • 💬 78 • ⏱️ 14:53 • 1d ago
+👁️ 7K • 👍 252 • 💬 79 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -313,47 +311,47 @@ Bitcoin & ETH are LITERALLY about to EXPLODE? ⭐ Follow Altcoin Daily on X: htt
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 211 • ⏱️ 8:25 • 1d ago
+👁️ 42K • 👍 2K • 💬 211 • ⏱️ 8:25 • 1d ago
 
 ---
 
-**[My $5M Crypto Positions: Bitcoin, Solana, XRP And More](https://www.youtube.com/watch?v=eS_XBtBiXpE)**
+**[15,000 Hours Trying to Kill Bitcoin](https://www.youtube.com/watch?v=p_cTgAvci70)**
 
-Sponsor: What if you actually controlled your money? Get started with Rumble Wallet and use the code Verified5 to claim $5 in US ...
+Jeff Booth on what changed his mind after years of trying to break Bitcoin Jeff describes roughly 15000 hours spent asking one ...
 
-📺 Gareth Soloway
+📺 The Wolf Of All Streets
 
-👁️ 65K • 👍 4K • 💬 390 • ⏱️ 10:57 • 1d ago
-
----
-
-**[Bitcoin Faces Its Biggest Test This Week](https://www.youtube.com/watch?v=4rJWcg8KSoI)**
-
-AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.askclash.ai/ **Exchange Partners** Bitunix ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 671 • 💬 111 • ⏱️ 46:21 • 1d ago
+👁️ 889 • 👍 29 • 💬 29 • ⏱️ 1:41 • 14h ago
 
 ---
 
-**[Bitcoin is About To DESTROY Gold and Nobody Even Noticed?! (PREPARE NOW)](https://www.youtube.com/watch?v=RCLw6HhWxJ0)**
+**[BILLIONAIRE PAUL TUDOR JONES TURN BULLISH ON BITCOIN &amp; MAJOR TRUMP WHITE HOUSE CYRPTO MEETING!](https://www.youtube.com/watch?v=KzyPxH2488I)**
 
-As confidence in the dollar comes under pressure, the battle over the future of money is getting serious. Tether is holding more ...
+Crypto News: Paul Tudor Jones' investment firm increases stake in BlackRock's bitcoin ETF after year of selling. The White House ...
 
-📺 Simply Bitcoin
+📺 Thinking Crypto
 
-👁️ 15K • 👍 1K • 💬 88 • ⏱️ 15:49 • 1d ago
+👁️ 8K • 👍 546 • 💬 153 • ⏱️ 20:45 • 1d ago
 
 ---
 
-**[BITCOIN *BONEMODE* ALERT!!!!!!!!!!!!](https://www.youtube.com/watch?v=F417dCZbSvU)**
+**[Bitcoin SHOULD Be Falling - So Why Isn’t It?](https://www.youtube.com/watch?v=5644ksG2syQ)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Bitcoin #Crypto #Finance Bitcoin continues to hold above $63K despite heavy ETF outflows and elevated Treasury yields, ...
 
-📺 Tyler S
+📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 582 • 💬 320 • ⏱️ 10:35 • 22h ago
+👁️ 18K • 👍 770 • 💬 260 • ⏱️ 1:01:48 • 1d ago
+
+---
+
+**[THIS IS A MASSIVE BITCOIN TRAP...](https://www.youtube.com/watch?v=GY5hErc5yt0)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 11K • 👍 721 • 💬 36 • ⏱️ 8:29 • 12h ago
 
 ---
 
@@ -363,27 +361,27 @@ Yoni Assia is the CEO and co-founder of eToro. In this conversation, we break do
 
 📺 Anthony Pompliano
 
-👁️ 8K • 👍 338 • 💬 5 • ⏱️ 42:04 • 20h ago
+👁️ 9K • 👍 349 • 💬 5 • ⏱️ 42:04 • 21h ago
 
 ---
 
-**[There&#39;s A Reason Everyone Is Buying Bitcoin &amp; XRP Right Now Everythings Changed For Crypto Investors](https://www.youtube.com/watch?v=BYV6bXZ08dY)**
+**[You sound like a bitcoin](https://www.youtube.com/watch?v=yy9QiEzMxNI)**
 
-Who could have thought that 38 companies buying up hundreds of billions of dollars worth of cryptocurrency could have a huge ...
+shorts #gabbybryan #bitcoin #standupcomedy #femalecomedy #standup #comedy #crowdwork #youtubeshorts Don't miss a ...
 
-📺 The Modern Investor
+📺 Gabby Bryan
 
-👁️ 4K • 👍 435 • 💬 259 • ⏱️ 29:45 • 1d ago
+👁️ 640 • 👍 15 • 💬 2 • ⏱️ 0:57 • 2h ago
 
 ---
 
-**[BREAKING: Treasury Secretary Announces Big Crypto News - Saylor Confronted About Bitcoin Crash](https://www.youtube.com/watch?v=wLA5dwmSP7w)**
+**[Crypto wants the CLARITY Act to go through, says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=yjgj3VMIKv4)**
 
-Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1?vipCode=oz5p ✓ Bitunix (no kyc) - Claim ...
+Matt Hougan, chief investment officer at Bitwise Asset Management, joins 'Squawk on the Street' to discuss President Trump's ...
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 20K • 👍 1K • 💬 56 • ⏱️ 10:53 • 18h ago
+👁️ 12K • 👍 165 • 💬 171 • ⏱️ 3:11 • 1d ago
 
 ---
 
