@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T03:44:22.789464+00:00'
+updated: '2026-08-18T04:35:17.395266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 03:44 UTC  
+**Last Updated:** August 18, 2026 at 04:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Justin Drake: Poseidon abandoned, EthCoordinate evolved from EthStaker, Platåberget (Glamsterdam public testnet) live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-35/) • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 11h ago
 
 The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -180,13 +180,13 @@ CoinDesk • 13h ago
 
 Bitmine owns 4.8% of the total ETH coin supply of 120.7 million Bitmine is 96% of the way to the 'Alchemy of 5%' in just 14 months In July, ETH outperformed...
 
-PR Newswire • 15h ago
+PR Newswire • 16h ago
 
 ---
 
 **[Donald Trump Crypto Summit Signals CLARITY Act Action — 4 AI Models Predict Bitcoin, Ethereum and XRP Prices](https://www.ccn.com/news/crypto/donald-trump-crypto-summit-clarity-act-4-ai-bitcoin-ethereum-xrp/)**
 
-CCN.com • 11h ago
+CCN.com • 12h ago
 
 ---
 
@@ -202,13 +202,13 @@ Benzinga • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 14h ago
+fortune.com • 15h ago
 
 ---
 
 **[Most large cryptocurrencies increase as Ethereum climbs](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-increase-as-ethereum-climbs-661b1103-6c9d7840e153)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 4h ago
+👁️ 2K • 👍 223 • 💬 275 • ⏱️ 17:08 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Who could have thought that 38 companies buying up hundreds of billions of dolla
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 18h ago
+👁️ 4K • 👍 422 • 💬 268 • ⏱️ 29:45 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxF
 
 📺 Big Time Trades
 
-👁️ 656 • 👍 45 • 💬 12 • ⏱️ 13:33 • 5h ago
+👁️ 656 • 👍 45 • 💬 12 • ⏱️ 13:33 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ BMNR Buybacks Are Working!! Is ETH's Big Breakout Coming Next? Learn More - MaxF
 
 📺 Discover Crypto
 
-👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 2h ago
+👁️ 433 • 👍 21 • 💬 50 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 6h ago
+👁️ 3K • 👍 168 • 💬 157 • ⏱️ 18:58 • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 11h ago
+👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 7h ago
+👁️ 4K • 👍 464 • 💬 28 • ⏱️ 13:34 • 8h ago
 
 ---
 

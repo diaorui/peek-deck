@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T03:44:22.783286+00:00'
+updated: '2026-08-18T04:35:17.391681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 03:44 UTC  
+**Last Updated:** August 18, 2026 at 04:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 (If you detected sarcasm, you were right…) 😬
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 **[Bitcoin trying pump](https://www.reddit.com/r/Bitcoin/comments/1vqzk6n/bitcoin_trying_pump/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ I got one of my bitcoin wallet emptied and I don't really know how this happened
 
 I started buying bitcoin in June of 2021, “to the moon” I said to myself. And surely to the moon it went, until about November. I experienced a premium bag holding experience for the next 18 months. I never stopped buying though. By August of 2023 I achieved the coveted 1 BTC milestone. Then SBF sent the entire industry into Hades. I still look back at that divet in the chart he caused with fond memories. Twitter (yes it was still Twitter back then) was basically setting bitcoin’s headstone at that time. “Dead for good” they asserted. “Done forever”. I hear the same things today during my second bear market, maybe life is a flat circle. The same people who emphatically declared bitcoin dead back then are doing the same thing today. I can’t say when it will happen but I know this. We will see green the likes of which have never been seen before and it will be glorious. It will be so green you will put your phone into night mode to save your retinas and get some well needed sleep! An everlasting green. My portfolio is still green to this day, in the middle of this bear market. The one after Bitcoin was declared dead for the millionth time.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ I started buying bitcoin in June of 2021, “to the moon” I said to myself. An
 
 People think if you print $100 and add it into the economy that it actually creates and adds $100 worth of buying power This is totally incorrect What it actually does is dilute $100 worth of buying power from all existing dollars to give it to the newly printed dollars Newly printed dollars only have value because they are stealing value from existing dollars in the system It is a merely a hidden form of hidden, disproportionately affecting the poor
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 (Referring to prebuilt versions.) While I do not own one (yet) myself, I keep wondering: since it has only volatile memory, the seed needs to be entered every time, through QR scan. That in itself is a huge risk. I would not want such a risky QR code laying around. Is the version with the card reader better? It would allow for encrypted storage of my seedphrase.
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ People think if you print $100 and add it into the economy that it actually crea
 
 Learn how to create your own random Bitcoin hardware wallet seed with these easy step-by-step instructions.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 17h ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/roll-the-dice-generate-your-own-seed/) • 18h ago
 
 ---
 
@@ -159,7 +159,7 @@ Learn how to create your own random Bitcoin hardware wallet seed with these easy
 
 Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 1d ago
 
 Bitcoin could be poised for a move of around 30% or more over the next two months, said Fundstrat.
 
-CNBC • 42m ago
+CNBC • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin ETFs See Largest Outflow in Six Weeks as Token Stagnates](https://www.bloomberg.com/news/articles/2026-08-17/bitcoin-etfs-see-largest-outflow-in-six-weeks-as-token-stagnates)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 13h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-fortune.com • 11h ago
+fortune.com • 12h ago
 
 ---
 
@@ -205,7 +205,7 @@ fortune.com • 11h ago
 
 CleanSpark is up 6.4% year to date, while BitFuFu and Canaan have fallen more than 50% and 70%, respectively.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Block • 10h ago
 
 As Bitcoin treasury companies are finding out, trying to time the crypto market is a recipe for disaster.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Motley Fool • 15h ago
 
 Alisa Goods, 63, was reported missing earlier this month after leaving the friend’s apartment Aug. 8 to go to a CVS pharmacy just off the Las Vegas Strip.
 
-nypost.com • 12h ago
+nypost.com • 13h ago
 
 ---
 
@@ -241,7 +241,7 @@ TradingView • 1d ago
 
 A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...
 
-⬆️ 2 • 💬 1 • 21h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
+⬆️ 2 • 💬 1 • 22h ago • [GitHub](https://github.com/BobClawblaw/bitcoinmachinecode)
 
 ---
 
@@ -249,7 +249,7 @@ A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). 
 
 Who’s applying to run the .btc domain, on a source-linked public record. AI score 62/100, with evidence, status, and full history.
 
-⬆️ 1 • 💬 1 • 12h ago • [Namedesk](https://namedesk.app/tlds/btc)
+⬆️ 1 • 💬 1 • 13h ago • [Namedesk](https://namedesk.app/tlds/btc)
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin is stuck near $64000 even as money supply and global liquidity surge, cr
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 986 • 💬 140 • ⏱️ 18:59 • 5h ago
+👁️ 11K • 👍 986 • 💬 140 • ⏱️ 18:59 • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin finally makes a meaningful move! But do the bulls have the strength it n
 
 📺 Crypto Zombie
 
-👁️ 8K • 👍 814 • 💬 94 • ⏱️ 34:06 • 9h ago
+👁️ 8K • 👍 814 • 💬 94 • ⏱️ 34:06 • 10h ago
 
 ---
 
@@ -313,7 +313,7 @@ AskClash - *AI Tools, Charts, and Agents for Crypto & Markets* ▻ https://www.a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 637 • 💬 138 • ⏱️ 46:21 • 12h ago
+👁️ 11K • 👍 637 • 💬 138 • ⏱️ 46:21 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ In this video I break down the latest Bitcoin price action to determine if the c
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 313 • 💬 41 • ⏱️ 8:17 • 10h ago
+👁️ 5K • 👍 313 • 💬 41 • ⏱️ 8:17 • 11h ago
 
 ---
 
@@ -353,7 +353,7 @@ Stop Holding & Hoping! Follow our trades and take profits with us! www.skool.com
 
 📺 Discover Crypto
 
-👁️ 862 • 👍 59 • 💬 86 • ⏱️ 1:20 • 3h ago
+👁️ 862 • 👍 59 • 💬 86 • ⏱️ 1:20 • 4h ago
 
 ---
 
@@ -373,7 +373,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 11h ago
+👁️ 7K • 👍 280 • 💬 13 • ⏱️ 2:54 • 12h ago
 
 ---
 
