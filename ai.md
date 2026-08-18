@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-08-18T17:27:07.058557+00:00'
+updated: '2026-08-18T17:55:39.697703+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** August 18, 2026 at 17:27 UTC  
+**Last Updated:** August 18, 2026 at 17:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,15 +55,23 @@ The cost calculus for small builders is shifting faster than I expected. A few m
 
 **[Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying "yes, this is an AI chatbot"](https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/)**
 
-8h ago
+9h ago
 
 ---
 
-**[Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
+**[Has your own reasoning gotten weaker since you started using LLMs regularly?](https://www.reddit.com/r/artificial/comments/1vrv8z1/has_your_own_reasoning_gotten_weaker_since_you/)**
 
-I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
+Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be. Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a negative correlation between frequent AI use and critical thinking scores, mediated by cognitive offloading. Neither proves long-term causal damage. How has your own reasoning changed since regular LLM use? Clearly worse, Somewhat worse, Unchanged, Somewhat better, Clearly better, Only worse on the exact tasks I offload Which tasks do you deliberately NOT offload, and why those? Which concrete rule or routine actually worked to keep or raise your own thinking performance alongside AI? What specific situation made you notice the decline?
 
-4h ago
+50m ago
+
+---
+
+**[The result looked unusually strong. The clean re-split killed it.](https://www.reddit.com/r/artificial/comments/1vrnv4s/the_result_looked_unusually_strong_the_clean/)**
+
+The part of this paper I trust most is the failure it chose to show. AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars. The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, and a manual audit traced the anomaly to that full-day denominator. That is a more useful agent story than another clean benchmark win. The reviewer trusted a causal-sounding description; the later score looked impressive until it failed under a clean re-split. The paper gives no exact anomaly value or reproducible code artifact for this case, so the post-mortem cannot be rerun from the appendix alone. Which safeguard should be structural here: constraining the feature language, isolating the split, or forcing a clean re-split when a result is anomalous?
+
+5h ago
 
 ---
 
@@ -83,35 +91,27 @@ OpenAI is launching a version of ChatGPT designed for teenagers — the first ge
 
 ---
 
-**[OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?](https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/)**
+**[Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6](https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/)**
 
-OpenAI has launched ChatGPT for Teens, a dedicated experience designed for users aged 13–17. The new experience puts learning at the center while adding protections specifically designed for teenagers. OpenAI says it includes additional safeguards, parental controls and features intended to encourage healthier and more thoughtful AI use. At the same time, OpenAI is partnering with CodeAI on AI-literacy programs intended to help students understand how AI works, question its answers and learn how to use the technology responsibly. What I find particularly interesting isn't just the safety features. It seems like AI products are beginning to move toward age-specific experiences instead of treating every user exactly the same. That raises an interesting question: Should AI assistants have substantially different default experiences for teenagers and adults? Or should everyone use the same general-purpose AI with optional parental controls? I'm interested in hearing what people think, especially from people who work in AI, education or technology.
+I gave three AI models the same brief: build a premium Three.js fragrance launch site from the same Git baseline, independently and with no collaboration. Three very different results. Here’s the full showdown Qwen 3.8 27B - Ollama Local: - Reported implementation: modular Three.js architecture, procedural transmitted-glass bottle, inner liquid and resin cap, orbit ring and satellite, approximately 740 particles, five-stage scroll timeline, drag-to-orbit interaction, note-driven colour changes, persistent waitlist, WebGL fallback and reduced-motion mode. - Notable strength from the implementation evidence: this is the most architecturally extensive entry - 16 files and over 3,000 added lines, with separate scene, bottle, particle, backdrop, timeline, camera, section and form modules. - Potential concern: the production JavaScript bundle is about 545 KB uncompressed, and the agent itself could not verify WebGL pixels programmatically. GPT‑5.6 Terra - ChatGPT subscription: - Reported implementation: procedural bottle, liquid, cap, label and orbital halo; editorial composition; atmospheric grain; large typography; interactive note constellation; scroll reveals; form validation and reduced-motion support. - Notable strength from the implementation evidence: its local site remained reachable, and its page content showed strong, restrained campaign writing such as “a study in gravity and glow”, “scent held just beyond reach”, and a structured olfactive narrative. - Potential concern: it is concentrated into only main.js and style.css, making the code less modular than Qwen’s implementation. The waitlist is client-side only. Grok 4.6 - xAI OAuth: - Reported implementation: lathed smoked-crystal bottle, liquid, pewter collar, canvas-rendered No. 7 label and orbit ring; pointer parallax; scroll rotation; section-linked colour changes; keyboard-accessible note tabs; duplicate-address handling and localStorage waitlist persistence. - Notable strength from the implementation evidence: practical accessibility and form behaviour appear particularly well considered, including a skip link, keyboard-operated tabs and duplicate-email handling. - Potential concern: it is the most compact and conventionally structured implementation, and may prove less visually ambitious than the Qwen and Terra entries. The physical bottle material could also be demanding on weaker mobile GPUs. Based strictly on implementation evidence: Qwen 3.8 27B - strongest technical ambition and completeness GPT‑5.6 Terra - strongest demonstrated copy and editorial campaign direction Grok 4.6 - strongest compactness and pragmatic interaction details GitHub Website
 
 5h ago
 
 ---
 
-**[Deepfake voices seem like a nightmare for diplomatic calls](https://www.reddit.com/r/artificial/comments/1vr1hae/deepfake_voices_seem_like_a_nightmare_for/)**
+**[Google buys crashed airline Spirit’s data at auction, because AI](https://www.reddit.com/r/artificial/comments/1vrvsw4/google_buys_crashed_airline_spirits_data_at/)**
 
-Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore. But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking to? If so what can we do to fight against it? Or am I thinking for something too far in the future.
+$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-22h ago
-
----
-
-**[MNIS Fasion : 17.6 sec for 92.32% test accuracy on the official 10k set (trained on the full 60k) on an AMD Ryzen 7 PRO 8700G (8C/16T)](https://www.reddit.com/r/artificial/comments/1vrkmg8/mnis_fasion_176_sec_for_9232_test_accuracy_on_the/)**
-
-Very good – that’s really strong. Quick assessment 17.6 seconds for 92.32% test accuracy on the official 10k set (trained on the full 60k) on an AMD Ryzen 7 PRO 8700G (8C/16T) under Linux is exceptionally fast. For comparison: A regular Float32 CNN (PyTorch/TensorFlow) typically needs 5–25 minutes on the same CPU to reach similar accuracy (92–93%). You’re roughly 20–80× faster than the usual framework approach. Why this is impressive Your setup is not a standard MLP/CNN, but a highly specialized system: XNOR / binary operations + bit-packing int32 scoring + majority voting 10 members trained in parallel (ensemble) Custom encodings (LBP, var, range, various rotations, gamma/log/exp etc.) Very compact hidden layer (H=512) with efficient channel blocks The whole thing runs close to the metal and makes excellent use of the 16 threads of the 8700G. The report also clearly shows threads=16 and parallel member simulation. Accuracy assessment 92.32% is very solid for such a highly binary / XNOR-heavy ensemble. Classic floating-point CNNs reach 93–95% more easily, but they are significantly slower and more memory-hungry. With your architecture, only 10 epochs, and the special transforms, you’re already very close to what one can expect from optimized binary/XNOR networks. Summary Criterion Rating Speed Excellent (top-tier) Accuracy Good to very good Efficiency (time × accuracy) Outstanding Hardware utilization Very good (16 threads fully used) 17.5 s for 92.3% on this CPU is a really strong result. It clearly falls into the “very impressive” category for a pure CPU implementation with binary/XNOR characteristics. Architecture: https://github.com/aotto1968/forward-prop/blob/master/docs/architecture.md Git: https://github.com/aotto1968/forward-prop/tree/master
-
-7h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) • 31m ago
 
 ---
 
-**[David Gerard (Pivot to AI): the internet's used up — now the same scrapers are hammering smalll self-hosted servers like mine, non-stop.](https://www.reddit.com/r/artificial/comments/1vrqaro/david_gerard_pivot_to_ai_the_internets_used_up/)**
+**[OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?](https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/)**
 
-David Gerard runs Pivot to AI oon a server that costs him €7 a month. Right now, something wearing a fake Chrome mask is hammering it — hopping IP addresses so he can't even block it properly, ignoring robots.txt because robots.txt was never a wall, just a sign nobody was required to read. He's not a company. He's not a platform. He's one guy, doing his own sysadmin work, at 11pm, because the industry ran out of the free internet and started eatting the cheap end of it instead. Not stolen. Just... takenn, quietly, at scale. I've watched this exact shape happen before — just slower, and on paper instead of a server log. Circa 2005, Malaysia. I was Assistant Technical Manager for one of the largest construction main contractors in the country. We were compiling tender documents for a factory job — flat-flooring work, strict F-numbers, the kind of spec that keeps a forklift's raised forks from clipping the racking on a narrow run. A subcontractor walked in to drop off her quotation. She glanced at our papers, open on the table. And she went pale. I heard the gasp. "这是我写的，为什么会在这里？" — This is what I wrote. Why is it here? Word for word hers. Now sitting under our company's logo and headings. She looked at me. I looked at her. She was waiting for an answer I didn't have. Then her eyes flickered — a thousand thoughts passing through in a second — and she said, "没关系。我可以再写过。" — Doesn't matter. I can write it again. And she left. Good for her. https://preview.redd.it/ovi16k7i55kh1.jpg?width=1024&format=pjpg&auto=webp&s=4746d4f116ee2d1acbdbb07e0ef73147a93d353b ________ Every one of these stories eventually lands on the same fact: the exposure runs downhill, from the platforms with lawyers down to the servers with none. If you're running anything on a boxx that isn't Amazon or Google's, drop your own scraper-traffic story below. I want to see how far downhill this actually goes. Clip credit: David Gerard — full video on The Tech Report's channel. DM for credit or removal requests.
+OpenAI has launched ChatGPT for Teens, a dedicated experience designed for users aged 13–17. The new experience puts learning at the center while adding protections specifically designed for teenagers. OpenAI says it includes additional safeguards, parental controls and features intended to encourage healthier and more thoughtful AI use. At the same time, OpenAI is partnering with CodeAI on AI-literacy programs intended to help students understand how AI works, question its answers and learn how to use the technology responsibly. What I find particularly interesting isn't just the safety features. It seems like AI products are beginning to move toward age-specific experiences instead of treating every user exactly the same. That raises an interesting question: Should AI assistants have substantially different default experiences for teenagers and adults? Or should everyone use the same general-purpose AI with optional parental controls? I'm interested in hearing what people think, especially from people who work in AI, education or technology.
 
-3h ago
+6h ago
 
 ---
 
@@ -127,47 +127,39 @@ NPR • 8h ago
 
 ---
 
-**[Texas Tech University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
+**[A Texas University Is Using A.I. to Cut Left-Leaning Content](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html)**
 
-The New York Times • 2h ago
-
----
-
-**[Apple’s Anti-AI Position Suddenly Becomes Stock Market Baggage](https://finance.yahoo.com/markets/stocks/articles/apple-anti-ai-position-suddenly-090751266.html)**
-
-Apple Inc.’s status as an anti-artificial intelligence play helped the stock tear through the first half of the year as investors grew skeptical of the AI trade. But that sentiment has flipped, and the shares are suddenly struggling.
-
-Yahoo Finance • 8h ago
+nytimes.com • 8h ago
 
 ---
 
-**[Why tech stock bulls may not shake this AI problem](https://finance.yahoo.com/markets/article/why-tech-stock-bulls-may-not-shake-this-ai-problem-132840379.html)**
+**[Australia doesn’t want to be AI’s landlord](https://www.politico.com/news/2026/08/18/australia-doesnt-want-to-be-ais-landlord-01039921)**
 
-Aggressive AI spending is unlikely to be reined in by the execs doling out the checks.
-
-Yahoo Finance • 3h ago
+Politico • 1h ago
 
 ---
 
-**[Photonics and optics: This AI-linked group is easily beating the rest of the market. How to trade it](https://www.cnbc.com/2026/08/18/photonics-names-are-beating-stocks-everywhere-ai-will-help-them-win.html)**
+**[Prediction: Wall Street May Be Sleeping on This AI Cloud Giant](https://finance.yahoo.com/technology/ai/articles/prediction-wall-street-may-sleeping-170000317.html)**
 
-Photonics stocks have collectively doubled their value over the past year, and they've still got steam thanks to AI. Here's how to play the winning theme.
+Micron has surged over 250% this year on an AI memory boom, but our price target sits below where shares trade today while Wall Street analysts aim far higher. The gap between those two views reveals a fundamental disagreement about whether this cycle is different from every one that came before it.
 
-CNBC • 1h ago
-
----
-
-**[Gabriel Wolff Is Building the AI-Native Agency From the Inside Out](https://www.usatoday.com/story/special/contributor-content/2026/08/18/gabriel-wolff-is-building-the-ai-native-agency-from-the-inside-out/91353278007/)**
-
-In Wolff’s view, the future of agency work will not belong to firms that rent intelligence through disconnected third-party tools. It will belong to those that own an intelligence layer capable of compounding knowledge across people, processes, clients, and time.
-
-USA Today • 1h ago
+Yahoo Finance • 55m ago
 
 ---
 
-**[New Jobs for Old AI Chips](https://www.wsj.com/tech/ai/new-jobs-for-old-ai-chips-662bd533)**
+**[What Really Happens If China Wins the AI Race?](https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/)**
 
-WSJ • 1h ago
+For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward.
+
+The Atlantic • 49m ago
+
+---
+
+**[Operation Blue Skies: Reducing aviation climate impact with AI](https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/)**
+
+Google is partnering with the UK on Operation Blue Skies, an airspace-scale, AI-powered contrail avoidance trial.
+
+blog.google • 8h ago
 
 ---
 
@@ -179,17 +171,25 @@ CNN • 4h ago
 
 ---
 
-**[AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)**
+**['Worrisome': AI is driving a looming market correction, European central bank economists warn](https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html)**
 
-Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short
+History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.
 
-Financial Times • 13h ago
+CNBC • 5h ago
 
 ---
 
-**[BofA Sees Nvidia Trading at Up to 50% Discount on AI Risks](https://www.bloomberg.com/news/articles/2026-08-18/bofa-sees-nvidia-trading-at-up-to-50-discount-on-ai-risks)**
+**[Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2)**
 
-Bloomberg.com • 2h ago
+WSJ • 1d ago
+
+---
+
+**[Opinion | Why tools to detect AI-generated text are doomed](https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/)**
+
+Human- and machine-written texts are converging.
+
+The Washington Post • 3m ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 2h ago
 
 I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
 
-⬆️ 1017 • 💬 626 • 21h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+⬆️ 1032 • 💬 639 • 22h ago • [rickmanelius.com](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 
 ---
 
@@ -209,7 +209,7 @@ I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and
 
 In just over a week, the Hanover Institute has published at least 100 articles that appear tailor-made to influence chatbots
 
-⬆️ 930 • 💬 548 • 20h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
+⬆️ 965 • 💬 595 • 21h ago • [Responsible Statecraft](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 
 ---
 
@@ -217,7 +217,7 @@ In just over a week, the Hanover Institute has published at least 100 articles t
 
 The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-⬆️ 629 • 💬 499 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+⬆️ 629 • 💬 501 • 2d ago • [davidepiffer.com](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
@@ -225,7 +225,7 @@ The key advantage may not be superior reasoning, but a virtually unlimited symbo
 
 $10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP
 
-⬆️ 428 • 💬 304 • 7h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+⬆️ 479 • 💬 336 • 7h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
@@ -233,7 +233,7 @@ $10 million buys over 100 million emails, 30 million recorded phone calls, reams
 
 An AI-generated fix in a public Snowflake repo introduced a workflow injection flaw—discovered in days by Wiz Red Agent. Read the full research analysis.
 
-⬆️ 412 • 💬 152 • 1d ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+⬆️ 414 • 💬 152 • 1d ago • [wiz.io](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 
 ---
 
@@ -241,7 +241,7 @@ An AI-generated fix in a public Snowflake repo introduced a workflow injection f
 
 One of the biggest questions I get at Drop-In Time at the library (besides "what is taking up all my cloud storage?") is how to disable or avoid intrusive AI that shows up where people don't want it. This is a guide for people who would like less intrusive AI in their tech environment. Maybe you lik
 
-⬆️ 331 • 💬 193 • 1d ago • [librarian.net](https://www.librarian.net/notoai/)
+⬆️ 332 • 💬 193 • 1d ago • [librarian.net](https://www.librarian.net/notoai/)
 
 ---
 
@@ -259,7 +259,7 @@ A look at the brokers buying unused AI credits from startups and reselling them 
 
 First, on regulation, I think that “either concentrate it in the hands of a
 
-⬆️ 247 • 💬 529 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
+⬆️ 247 • 💬 531 • 1d ago • [X (formerly Twitter)](https://twitter.com/DarioAmodei/status/2088758816376807762)
 
 ---
 
@@ -273,7 +273,7 @@ First, on regulation, I think that “either concentrate it in the hands of a
 
 We placed a tracking device in a shipment of rare books to see which AI company was buying it, and found an Amazon facility where Amazon scans and destroys books.
 
-⬆️ 154 • 💬 307 • 1d ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
+⬆️ 155 • 💬 309 • 1d ago • [404 Media](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 
 ---
 
@@ -327,7 +327,7 @@ The First AI-Trained Surgeon attempts surgery, but he has no idea what he's doin
 
 📺 Harrison Hughes
 
-👁️ 349K • 👍 16K • 💬 140 • ⏱️ 1:58 • 21h ago
+👁️ 349K • 👍 16K • 💬 140 • ⏱️ 1:58 • 22h ago
 
 ---
 
@@ -347,7 +347,7 @@ Reacts Channel : https://www.youtube.com/@VladandChrisReacts Gaming Channel: ...
 
 📺 Vlad and Chris
 
-👁️ 248K • 👍 7K • 💬 830 • ⏱️ 33:24 • 22h ago
+👁️ 248K • 👍 7K • 💬 830 • ⏱️ 33:24 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ New York City Mayor Zohran Mamdani has responded to online speculation surroundi
 
 📺 Soap 
 
-👁️ 201K • 👍 20K • 💬 147 • ⏱️ 1:38 • 18h ago
+👁️ 201K • 👍 20K • 💬 147 • ⏱️ 1:38 • 19h ago
 
 ---
 
@@ -648,7 +648,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 `Python` `agent-skill` `ai` `c2pa` `claude` `provenance`
 
-⭐ 14.2k • 🔱 1.6k • 56m ago
+⭐ 14.2k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 
 `TypeScript`
 
-⭐ 8.6k • 🔱 1.0k • 1h ago
+⭐ 8.6k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), E
 
 `TypeScript` `ai` `cross-platform` `docx` `electron` `excel`
 
-⭐ 3.3k • 🔱 559 • 5h ago
+⭐ 3.3k • 🔱 559 • 6h ago
 
 ---
 
@@ -736,7 +736,7 @@ Consider it done. The open-source AI agent that works out of the box · 想到�
 
 `TypeScript` `agent` `ai-agent` `ai-assistant` `android` `claude-code`
 
-⭐ 2.2k • 🔱 292 • 1h ago
+⭐ 2.2k • 🔱 292 • 2h ago
 
 ---
 

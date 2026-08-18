@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T17:27:07.066461+00:00'
+updated: '2026-08-18T17:55:39.705748+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 17:27 UTC  
+**Last Updated:** August 18, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +0.4%  
 **7d:** +2.0%  
-**30d:** -0.9%  
+**30d:** -0.8%  
 **90d:** -16.6%  
 **1y:** -42.7%  
 
@@ -87,7 +87,7 @@ Rank #1
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's called Krackpot. Back in 2015 someone funded a series of Bitcoin wallets as a public puzzle, each one harder than the last. Puzzle 71 holds about 7.1 BTC and nobody has solved it (6 of it is yours if you crack it, more in a sec). The address is on-chain. Verify it yourself. How it works: Paste your Bitcoin address Press start Win or don't Everything runs in your browser with WebGPU. Nothing installs, nothing about your searching leaves the tab, and if your GPU finds the key it stays in your browser. Ctto: simonmales
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ No signup, no deposit, no pool. Just your GPU against a sextillion keys. It's ca
 
 Just me or is this pretty much every day sentiment?
 
-30m ago
+58m ago
 
 ---
 
@@ -111,7 +111,7 @@ Just me or is this pretty much every day sentiment?
 
 https://satoshitimeline.com/1
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Wouldn't it have made more sense to send the money to all different wallets and 
 
 **[THIS BITCOIN AD DESTROYS THE BANKING SYSTEM IN UNDER 60 SECONDS](https://www.reddit.com/r/Bitcoin/comments/1vqysc8/this_bitcoin_ad_destroys_the_banking_system_in/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Peter fraud is the worst person in the bitcoin ecosystem, and he's been pushing 
 
 I got one of my bitcoin wallet emptied and I don't really know how this happened. I don't use cracked softwares and apps. I'm generally careful with links. Looks like I'm not alone. I can see that the reception bitcoin address is still collecting bitcoin from other wallets. Could somebody help me understand something. Here is the address : bc1q0vukqye4hd0aep7u4xl8gev95gcs9k65fdeu9n
 
-21h ago
+22h ago
 
 ---
 
@@ -165,17 +165,35 @@ The Block • 5h ago
 
 ---
 
-**[Live updates: Bitcoin tepidly on the rise as stocks slip](https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite)**
+**[BTC, ETH, SOL price news: Bitcoin climbs above $64,000 while most majors slip](https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip)**
 
-The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.
+Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.
 
-CoinDesk • 2h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
+**[Dollar-Cost Averaging Into Bitcoin vs XRP Since the 2025 Peak: Which Crypto Held Up Better?](https://finance.yahoo.com/markets/crypto/articles/dollar-cost-averaging-bitcoin-vs-171630126.html)**
 
-Bloomberg.com • 1h ago
+Bitcoin crashed 49% from its peak while XRP collapsed 73%, but the monthly buying strategy tells a completely different story about which crypto investors actually held up better through the carnage.
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Wall Street Backed Bitcoin, Then Watched It Crash 50%, Two Reports Explain](https://finance.yahoo.com/markets/crypto/articles/wall-street-backed-bitcoin-then-173313063.html)**
+
+BlackRock and VanEck explain how leverage and ETF outflows fueled the Bitcoin crash, and why both firms stay constructive.
+
+Yahoo Finance • 22m ago
+
+---
+
+**[Cameron Winklevoss Says AI Trade Gave Bitcoin Investors A 'Time Machine' With BTC At $65K](https://finance.yahoo.com/markets/crypto/articles/cameron-winklevoss-says-ai-trade-173619421.html)**
+
+Cameron Winklevoss sees Bitcoin’s current price point as a buying opportunity, despite mixed market sentiments and AI pulling capital away.
+
+Yahoo Finance • 19m ago
 
 ---
 
@@ -187,11 +205,15 @@ CNBC • 14h ago
 
 ---
 
-**[Bitcoin Price Is Heading to $10,000, Says Bloomberg Analyst Again — Here's Why](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-heading-10-000-121753264.html)**
+**[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Mike McGlone believes Bitcoin’s weakness below $69,000 strengthens his forecast of a return toward $10,000. Unlike his earlier warnings, McGlone now considers Bitcoin’s price action ...
+Bloomberg.com • 2h ago
 
-Yahoo Finance • 5h ago
+---
+
+**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
+
+Syracuse.com • 4h ago
 
 ---
 
@@ -203,33 +225,11 @@ CBS News • 4h ago
 
 ---
 
-**[Man hired to help mine bitcoin in Upstate NY. Instead, he redirected profits to his own wallets](https://www.syracuse.com/crime/2026/08/man-hired-to-help-mine-bitcoin-in-upstate-ny-instead-he-redirected-profits-to-his-own-wallets.html)**
-
-Syracuse.com • 3h ago
-
----
-
 **[Bitcoin eyes breakout as 6-week symmetrical triangle narrows (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4634075-bitcoin-eyes-breakout-as-6-week-symmetrical-triangle-narrows)**
 
 Bitcoin price climbs to $64.3K, eyeing a symmetrical triangle breakout.
 
-Seeking Alpha • 21h ago
-
----
-
-**[Metaplanet To Invest 2,100 Bitcoin In Super League To Launch U.S. Bitcoin Treasury Platform, Superplanet](https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2LHSVZ:0-metaplanet-to-invest-2-100-bitcoin-in-super-league-to-launch-u-s-bitcoin-treasury-platform-superplanet/)**
-
-Metaplanet Inc. TSE:3350:
-
-TradingView • 4h ago
-
----
-
-**[Bitcoin Drops as Traders Assess What Comes Next for Crypto](https://www.fitsnews.com/2026/08/18/bitcoin-drops-as-traders-assess-what-comes-next-for-crypto/)**
-
-"Bitcoin has never been predictable."
-
-fitsnews.com • 3h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -383,7 +383,7 @@ Trade Stocks (unlock $100k): https://www.weex.com/events/promo/en-campaignlist-1
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 56 • ⏱️ 10:53 • 17h ago
+👁️ 20K • 👍 1K • 💬 56 • ⏱️ 10:53 • 18h ago
 
 ---
 

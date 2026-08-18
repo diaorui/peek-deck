@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T17:27:07.071935+00:00'
+updated: '2026-08-18T17:55:39.711258+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 17:27 UTC  
+**Last Updated:** August 18, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,917.43
+### $1,915.44
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 1h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I get the argument for putting ownership and payments onchain but I’m less sure where the line should be for the rest of a community. Membership, permissions, reputation and access rules could all live onchain too but at some point it feels like you’re adding complexity just because you can. If you were designing a community from scratch, what would you put onchain and what would you deliberately keep offchain?
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 5h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 6h ago
 
 ---
 
@@ -174,14 +174,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
-
-Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
-
-TradingView • 15h ago
-
----
-
 **[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
 
 Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
@@ -206,6 +198,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
+
+Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
+
+TradingView • 15h ago
+
+---
+
 **[Ethereum Price Forecast: BitMine sees tokenization driving ETH outperformance against Bitcoin](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-bitmine-sees-tokenization-driving-eth-outperformance-against-bitcoin-202608172211)**
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
@@ -214,19 +214,19 @@ FXStreet • 19h ago
 
 ---
 
-**[Half of Aave’s debt sits in just 9% of positions built around one Ethereum correlation trade](https://cryptoslate.com/half-of-aaves-debt-sits-in-just-9-of-positions-built-around-one-ethereum-correlation-trade/)**
+**[Ethereum wants to hide your trades from bots before they can attack](https://cryptoslate.com/ethereum-wants-to-hide-your-trades-from-bots-before-they-can-attack/)**
 
-Just 9% of Aave positions carry roughly half its debt, with the concentrated cohort running near 90% LTV against Ethereum-linked collateral.
+A new Ethereum mempool design could prevent bots from seeing profitable trades before they execute while preserving public access to blockspace.
 
-CryptoSlate • 5h ago
+CryptoSlate • 5m ago
 
 ---
 
-**[Bullski Presale Passes 1.14 Billion Tokens Sold as Stage One Nears Completion on Ethereum](https://markets.businessinsider.com/news/stocks/bullski-presale-passes-1-14-billion-tokens-sold-as-stage-one-nears-completion-on-ethereum-1036470376)**
+**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
 
-LONDON, Aug.  18, 2026  (GLOBE NEWSWIRE) -- Bullski ($BULLSKI), a community meme coin issued as an ERC-20  token on Ethereum, has recorded 1,149,6...
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-markets.businessinsider.com • 3h ago
+fortune.com • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 15h ago
+👁️ 16K • 👍 11 • 💬 33 • ⏱️ 4:44 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysi
 
 📺 Invest For Wealth
 
-👁️ 1K • 👍 250 • 1h ago
+👁️ 1K • 👍 250 • 2h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 223 • 💬 197 • ⏱️ 18:58 • 20h ago
+👁️ 5K • 👍 223 • 💬 197 • ⏱️ 18:58 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ SOL, ETH, XRP, AAVE & HBAR are making major moves ahead of the 2026 bull run. Fr
 
 📺 Altcoin Buzz
 
-👁️ 2K • 👍 121 • 💬 12 • ⏱️ 14:14 • 19h ago
+👁️ 2K • 👍 121 • 💬 12 • ⏱️ 14:14 • 20h ago
 
 ---
 

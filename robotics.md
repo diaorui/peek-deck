@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-08-18T17:27:07.075055+00:00'
+updated: '2026-08-18T17:55:39.714262+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** August 18, 2026 at 17:27 UTC  
+**Last Updated:** August 18, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Matic’s latest update lets its robot vacuum respond to spoken commands and ges
 
 Turns out you don't need active adhesion (vacuum, electromagnets) for ceiling locomotion — passive permanent magnets in Quaddle open source robot's foot tips are enough, as long as the gait is designed for holding contact upside down instead of just an inverted version of the ground-walking gait. The interesting part wasn't the magnets, it was the gait — same open source robotics platform OpenCat, same 4 servos, just a different motion profile. Planning to open source this gait's code before it ships too, so anyone curious can adapt it, not just read about it. Anyone else working on non-standard locomotion modes (climbing, inverted, whatever) — what ended up being the hardest part for you?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=XRWFeB5-ZbM) • 1d ago
 
 ---
 
@@ -92,7 +92,7 @@ I understand why humanoid robots need human-like proportions. Our homes, stairs,
 
 If you are interested in learning how to model any robot in Simscape, I am working on a blog series that tries to go through the whole process. It is still work in progress but has most of the modeling process already covered. Take a look, feel free to leave feedback or reach out to me with questions if you have any.
 
-🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 21h ago
+🔗 [siddharthv.com](https://siddharthv.com/robotics/) • 22h ago
 
 ---
 
@@ -124,19 +124,23 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
+**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
 
-We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
-
-Business Insider • 1d ago
+nytimes.com • 14h ago
 
 ---
 
-**[Stephanie Link thinks this stock could be a unique AI and robotics play](https://www.cnbc.com/video/2026/08/18/stephanie-link-thinks-this-stock-could-be-a-unique-ai-and-robotics-play.html)**
+**[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
 
-Stephanie Link of Hightower Advisors breaks down why she thinks this industrial stock could benefit from the rise of AI and robotics.
+The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
 
-CNBC • 1h ago
+CNN • 11h ago
+
+---
+
+**[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
+
+WSJ • 10h ago
 
 ---
 
@@ -148,25 +152,9 @@ Yahoo • 1h ago
 
 ---
 
-**[AI, robotic companions helping senior New Yorkers feel less lonely](https://www.cbsnews.com/newyork/news/ai-robots-pets-seniors-new-york-office-for-the-aging/)**
-
-Robots with artificial intelligence and animatronic dogs are helping older adults feel less lonely as they navigate living alone in New York.
-
-CBS News • 2h ago
-
----
-
 **[Humanoid Robots Need a Supply Chain in North America](https://www.bloomberg.com/opinion/articles/2026-08-18/humanoid-robots-need-a-supply-chain-in-north-america)**
 
 Bloomberg.com • 6h ago
-
----
-
-**[World’s top humanoid maker and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk)**
-
-The world’s largest humanoid robot maker by sales is set to list in Shanghai on Wednesday, with the initial public offering already having raised 6.1 billion yuan ($905 million) and more than 8,000 times oversubscribed, a record for the city’s tech-focused STAR market, which is seen as China’s version of the Nasdaq.
-
-CNN • 10h ago
 
 ---
 
@@ -174,19 +162,27 @@ CNN • 10h ago
 
 Creates the first publicly traded company dedicated principally to safe and scalable deployment of physical AI, as a universal safety layer across the robotics...
 
-PR Newswire • 5h ago
+PR Newswire • 6h ago
 
 ---
 
-**[A French Start-Up, Inbolt, Makes Robots See, and Work, Better](https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html)**
+**[The 25 most promising robotics startups in 2026, according to investors](https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8)**
 
-The New York Times • 14h ago
+We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.
+
+Business Insider • 1d ago
 
 ---
 
-**[Unitree IPO Could Mark New Era for China’s Robotics Sector](https://www.wsj.com/tech/ai/unitree-ipo-could-mark-new-era-for-chinas-robotics-sector-d99e1a8a)**
+**[Beyond marathons and backflips, China's robots face a commercial test](https://www.reuters.com/world/asia-pacific/beyond-marathons-backflips-chinas-robots-face-commercial-test-2026-08-18/)**
 
-WSJ • 10h ago
+Reuters • 4h ago
+
+---
+
+**[New Realtime Robotics CEO wants to build the 'factory of the future'](https://www.bizjournals.com/boston/news/2026/08/17/realtime-robotics-new-ceo.html)**
+
+The Business Journals • 1d ago
 
 ---
 
@@ -238,7 +234,7 @@ Unitree has released a video of its newest humanoid robot claiming a top speed o
 
 📺 Interesting Engineering Explains
 
-👁️ 12K • 👍 442 • 💬 71 • ⏱️ 1:51 • 23h ago
+👁️ 12K • 👍 442 • 💬 71 • ⏱️ 1:51 • 1d ago
 
 ---
 
@@ -268,7 +264,7 @@ Thinking about buying a robot lawn mower but feeling completely overwhelmed by t
 
 📺 How To with Doc
 
-👁️ 7K • 👍 339 • 💬 41 • ⏱️ 20:58 • 18h ago
+👁️ 7K • 👍 339 • 💬 41 • ⏱️ 20:58 • 19h ago
 
 ---
 
