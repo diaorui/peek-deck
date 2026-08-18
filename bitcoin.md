@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-08-18T21:24:14.626955+00:00'
+updated: '2026-08-18T21:48:03.737193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 21:24 UTC  
+**Last Updated:** August 18, 2026 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Just me or is this pretty much every day sentiment?
 
 everyone loves Bitcoin when it’s going up. but when volatility hits, the real test begins. how long have you been in crypto, and what was the moment that almost made you quit? curious to hear what everyone’s been through.
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 **[Same vibes mentality of those in the "At least we're honest about it!" community that thinks if power goes out, bitcoin 'staps working'.](https://www.reddit.com/r/Bitcoin/comments/1vs0z5q/same_vibes_mentality_of_those_in_the_at_least/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ everyone loves Bitcoin when it’s going up. but when volatility hits, the real 
 
 https://satoshitimeline.com/1
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ https://satoshitimeline.com/1
 
 Wouldn't it have made more sense to send the money to all different wallets and also not to do it all in one go. If you move the money slowly as the hack is discovered each into a new account, yes you might lose some of the money because ppl move it out but not everybody will do that in time. But by doing that, now you cannot distinguish between the hacker and someone who just wanted to move their money out of their wallet. Now they have the entire world and law enforcement looking at this one account.
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ BitBox’s disclosure comes amid heightened scrutiny of hardware wallets followi
 
 The hardware manufacturer is Bitbox, and all were responsibly disclosed: Remote multisig theft attack (Coldcard, 2020/11) Ransom attack on passphrase handling (Trezor/Keepkey, 2020/08) Bitcoin mainnet/testnet cross-account signing (Coldcard, 2020/08) Malicious Change in Mixed Transactions (Trezor, 2020/03) There may be more of them that I haven't found. This is extremely impressive from them. Additionally, they were the first to make their hardware wallet (the Bitbox02) resistant against a very advanced attack: the nonce-covert channel attack. AFAIK this attack has never taken place yet, and the only hardware wallets resistant to it are the Bitbox02 and the 3 Blockstream Jades. Disclaimer: I do not work for Bitbox, but have been a fan of them for a while and think they're underrated. I'm also fan of Blockstream and their Jade wallets.
 
-34m ago
+58m ago
 
 ---
 
@@ -189,13 +189,13 @@ Bloomberg • 1d ago
 
 American finance is undergoing a sea change as Wall Street's dominance wanes. Bitcoin offers unparalleled portability and allows capital to exit a broken system.
 
-Forbes • 55m ago
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days](https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ Syracuse.com • 7h ago
 
 Former Bitcoin miners are pivoting to AI/HPC data centers.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T21:24:14.632554+00:00'
+updated: '2026-08-18T21:48:03.743306+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 21:24 UTC  
+**Last Updated:** August 18, 2026 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Post written by a dev who recently deployed a fully onchain frontend for my project poidh: https://farcaster.xyz/acgk.eth/0x672d28dc
 
-🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 5h ago
+🔗 [acgk.dev](https://www.acgk.dev/blog/ethereum-render-this) • 6h ago
 
 ---
 
@@ -92,6 +92,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[I built ethernews.org, an auto-updating front page for the Ethereum ecosystem (inspired by Techmeme), which I also open sourced as Open Aggregator](https://www.reddit.com/r/ethereum/comments/1vs1fo2/i_built_ethernewsorg_an_autoupdating_front_page/)**
+
+I've always wanted a way to see "what's new" in Ethereum at any time without having to check whatever blog, forum, or feed things get posted at. So I started tinkering and came up with Ethernews: https://ethernews.org It's a front page that updates itself every few minutes from a source list: protocol research (ethresear.ch, Ethereum Magicians), client and zkVM release notes, governance forums, team blogs, newsletters, plus a few mainstream outlets for the institutional and regulatory side. Stories get clustered, ranked, and given a one-line plain-language explainer. Optional daily and weekly email digests. There's an element of AI: an LLM does the clustering, ranking, and summarizing of human-written reporting. Every story links its sources, and primary sources are preferred over secondary coverage. I also open sourced the whole thing as Open Aggregator: https://github.com/jwmeyert7/open-aggregator It includes the engine, the general site template, and admin panel. Bring a domain, a Vercel account, and an LLM key and you can run the same kind of front page for any topic you care about. Let me know what you think! Tell me what sources or stories the front page is missing, try the digests, poke around ...
+
+1h ago
+
+---
+
 **[Announcing the Platåberget Testnet](https://www.reddit.com/r/ethereum/comments/1vrm376/announcing_the_platåberget_testnet/)**
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
@@ -104,7 +112,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 9h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 10h ago
 
 ---
 
@@ -140,14 +148,6 @@ Hoping to get some clarity on this process? I recently withdrew my Kiln position
 
 ---
 
-**[Trezor Data Breach exposes almost 14.000 customers home addresses tied to hardware-wallet purchases. Stay safe!](https://www.reddit.com/r/ethereum/comments/1vp71p6/trezor_data_breach_exposes_almost_14000_customers/)**
-
-Key Takeaways In August 2026, a data exposure at Trezor's shipping provider, ShipMonk, affected approximately 14,000 customers, revealing names, email addresses, phone numbers and, for many customers, shipping addresses. The leak links confirmed Trezor hardware-wallet purchases to real-world identities and shipping addresses. That creates a physical-security risk beyond phishing, including possible targeting for burglary, coercion or so-called wrench attacks. Trezor said its own systems, devices and wallet backups were not compromised, but the exposed customer data still deserves urgent attention because crypto-related physical attacks have been growing.
-
-🔗 [Paperweight](https://www.paperweight.email/breaches/trezor-io) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -170,7 +170,7 @@ ethereum.org • 1d ago
 
 Securitize Corp. (NYSE: $SECZ) and Neuberger have launched a tokenized high-yield fixed-income fund across four pub...
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -300,7 +300,7 @@ Mitrade Demo Account Registration: https://mytd.cc/CxgA Mitrade is an award-winn
 
 📺 Zarx Crypto
 
-👁️ 17K • 👍 812 • 💬 25 • ⏱️ 4:44 • 19h ago
+👁️ 17K • 👍 812 • 💬 25 • ⏱️ 4:44 • 20h ago
 
 ---
 
