@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-08-18T13:41:34.256737+00:00'
+updated: '2026-08-18T14:33:49.562934+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** August 18, 2026 at 13:41 UTC  
+**Last Updated:** August 18, 2026 at 14:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,902.38
+### $1,897.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +1.1%  
-**30d:** -0.3%  
-**90d:** -11.0%  
-**1y:** -53.5%  
+**24h:** +0.2%  
+**7d:** +2.0%  
+**30d:** +0.6%  
+**90d:** -10.2%  
+**1y:** -53.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 2h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/08/17/plataberget-testnet) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground
 
 Good poseidon was recently ditched by Ethereum (https://x.com/ProjectZKM/article/2088320035970330676) Just wondering what about all the chains currently using it (Filecoin,Mina,Starknet, Polygon, ..)
 
-🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 2h ago
+🔗 [IACR Cryptology ePrint Archive](https://eprint.iacr.org/2026/1692) • 3h ago
 
 ---
 
@@ -152,11 +152,35 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "ethereum"
 
+**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
+
+The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
+
+CoinDesk • 1d ago
+
+---
+
+**[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply](https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum)**
+
+Bitmine bought more ETH last week and says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.
+
+Decrypt • 22h ago
+
+---
+
 **[Allocation Update - Q2 2026](https://blog.ethereum.org/2026/08/18/allocation-q2-26)**
 
 Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal...
 
-ethereum.org • 1h ago
+ethereum.org • 2h ago
 
 ---
 
@@ -164,7 +188,7 @@ ethereum.org • 1h ago
 
 Tom Lee says the ETH/BTC ratio has broken a multiyear downtrend. Ash Crypto says two bullish signals are approaching, last seen before Ethereum’s explosive 2017 ...
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,19 +200,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
 **[Bitcoin, Ethereum, Dogecoin Rise, XRP Flat as Trump Prepares to Host White House Crypto Summit: Analyst Says BTC 'High-Momentum Uptrend' Unlikely Until This Happens](https://www.tradingview.com/news/benzinga:2864bb229094b:0-bitcoin-ethereum-dogecoin-rise-xrp-flat-as-trump-prepares-to-host-white-house-crypto-summit-analyst-says-btc-high-momentum-uptrend-unlikely-until-this-happens/)**
 
 Leading cryptocurrencies rose on Monday as investors weighed developments related to Iran and the possibility of a White House meeting with cryptocurrency and prediction-market executives.Crypto Market Gains MomentumBitcoin fell sharply overnight after breaking $65,500 in early trading. Trading vol…
 
-TradingView • 11h ago
+TradingView • 12h ago
+
+---
+
+**[Current price of Ethereum for August 18, 2026](https://fortune.com/article/price-of-ethereum-08-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
 
 ---
 
@@ -196,39 +220,15 @@ TradingView • 11h ago
 
 Ethereum (ETH) treasury firm BitMine Immersion Technologies (BMNR) predicts that tokenization and agentic-AI could push the top altcoin to outperform Bitcoin (BTC) in the coming cycle.
 
-FXStreet • 15h ago
+FXStreet • 16h ago
 
 ---
 
-**[Bitmine Purchases Nearly 10,000 Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-nearly-10-000-191400121.html)**
+**[Half of Aave’s debt sits in just 9% of positions built around one Ethereum correlation trade](https://cryptoslate.com/half-of-aaves-debt-sits-in-just-9-of-positions-built-around-one-ethereum-correlation-trade/)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) purchased nearly 10,000 more Ethereum (CRYPTO: $ETH) over the past wee...
+Just 9% of Aave positions carry roughly half its debt, with the concentrated cohort running near 90% LTV against Ethereum-linked collateral.
 
-finance.yahoo.com • 18h ago
-
----
-
-**[Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase](https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase)**
-
-The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.
-
-CoinDesk • 23h ago
-
----
-
-**[BMNR’s Tom Lee Says Tokenization, Agentic AI Are Breaking ETH-BTC Multiyear Downtrend](https://www.tradingview.com/news/stocktwits:dcd9cea6f094b:0-bmnr-s-tom-lee-says-tokenization-agentic-ai-are-breaking-eth-btc-multiyear-downtrend/)**
-
-Shares of Bitmine Immersion Technologies (BMNR) gained in morning trade Monday after Chairman Tom Lee said the Ethereum (ETH)-to-Bitcoin (BTC) ratio has broken above a multiyear downtrend."We are encouraged to see the ETH/BTC ratio at 0.02994 and rising,” Lee said. “This ratio has moved above the l…
-
-TradingView • 22h ago
-
----
-
-**[New Crypto Presale Pepeto Reveals Funds Update While Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/new-crypto-presale-pepeto-reveals-funds-update-while-ethereum-price-prediction-targets-10-000-1036469278)**
-
-DUBAI, United Arab Emirates, Aug.  18, 2026  (GLOBE NEWSWIRE) -- The Pepeto presale has topped $10.66 million, and behind that number sits a memor...
-
-markets.businessinsider.com • 6h ago
+CryptoSlate • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ The outlook on Bitcoin and the crypto market at the moment. Today, we will discu
 
 📺 Jordan Camirand
 
-👁️ 5K • 👍 347 • 💬 314 • ⏱️ 17:08 • 14h ago
+👁️ 5K • 👍 347 • 💬 314 • ⏱️ 17:08 • 15h ago
 
 ---
 
@@ -302,7 +302,7 @@ Reacting to Jerry Banfield's video "Is Buying 555 ICP Like Owning 128 Ethereum i
 
 📺 Blockchain Pill
 
-👁️ 286 • 👍 50 • 💬 22 • ⏱️ 18:46 • 2h ago
+👁️ 286 • 👍 50 • 💬 22 • ⏱️ 18:46 • 3h ago
 
 ---
 
@@ -312,7 +312,7 @@ A research-driven deep dive into Ethereum—ETH supply, the Merge, DeFi dominanc
 
 📺 Crypto School - Brian Longest
 
-👁️ 35 • 👍 1 • 💬 2 • ⏱️ 27:41 • 23h ago
+👁️ 35 • 👍 1 • 💬 2 • ⏱️ 27:41 • 1d ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 5K • 👍 219 • 💬 193 • ⏱️ 18:58 • 16h ago
+👁️ 5K • 👍 219 • 💬 193 • ⏱️ 18:58 • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN: HIDDEN BULLISH SIGNAL FLASHING NOW!!! - Bitcoin News Today, Ethereum & 
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 37 • 💬 53 • ⏱️ 0:47 • 12h ago
+👁️ 1K • 👍 37 • 💬 53 • ⏱️ 0:47 • 13h ago
 
 ---
 
